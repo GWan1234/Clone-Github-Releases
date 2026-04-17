@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-    inputs:
-      ssh:
-        description: 'SSH Connection To Actions?'
-        required: true
-        default: 'false'
 
 jobs:
   backup:
@@ -21,224 +16,201 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq yq gh wget curl git tar coreutils
+          sudo apt-get install -y jq yq gh git curl tar coreutils
 
-      - name: Backup repositories
+      - name: Run backup
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
 
-          declare -A SEEN_REPOS=()
-
-          BATCH_SIZE=10   # ⭐ 每批 repo 数量（可调）
+          # =========================
+          # 工具函数
+          # =========================
 
           cleanup() {
             rm -rf tmp *.tar.gz *.part-* *.sha256 2>/dev/null || true
           }
 
           auth_clone_url() {
-            local repo="$1"
-            echo "https://x-access-token:${GITHUB_TOKEN}@github.com/${repo}.git"
+            echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
-          fetch_latest_release_json() {
-            local repo="$1"
+          fetch_latest_release() {
             curl -fsSL \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
               -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/${repo}/releases/latest" \
-              2>/dev/null || true
+              "https://api.github.com/repos/$1/releases/latest" \
+              2>/dev/null || echo '{}'
+          }
+
+          get_last_commit_date() {
+            git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
+          }
+
+          release_exists() {
+            gh release view "$2" --repo "$1" >/dev/null 2>&1
           }
 
           # =========================
-          # 单仓库（repositories）
+          # 核心备份函数
           # =========================
-          process_single_repo() {
-            local OWNER="$1"
-            local NAME="$2"
+          backup_repo() {
+            local TAG="$1"
+            local RELEASE_NAME="$2"
             local REPO="$3"
 
-            if [ "${SEEN_REPOS[$REPO]+x}" ]; then
-              echo "Skip duplicate repo: ${REPO}"
-              return 0
-            fi
-            SEEN_REPOS["$REPO"]=1
+            echo "==== Backup ${REPO} ===="
 
             cleanup
-            echo "==== Processing ${OWNER}/${NAME} ===="
-
-            RELEASE_JSON="$(fetch_latest_release_json "$REPO")"
-
-            UPSTREAM_TAG="no-release"
-            UPSTREAM_DATE="00000000"
-
-            if [ -n "$RELEASE_JSON" ] && echo "$RELEASE_JSON" | jq -e '.tag_name? // empty' >/dev/null 2>&1; then
-              UPSTREAM_TAG="$(echo "$RELEASE_JSON" | jq -r '.tag_name')"
-              UPSTREAM_DATE="$(echo "$RELEASE_JSON" | jq -r '.published_at' | cut -d'T' -f1 | tr -d '-')"
-            else
-              RELEASE_JSON='{"assets":[]}'
-            fi
-
-            BACKUP_DATE="$(date +%Y%m%d)"
-            TAG="backup-${OWNER}-${NAME}-${UPSTREAM_TAG}-${UPSTREAM_DATE}-${BACKUP_DATE}"
-
-            if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
-              echo "Skip existing ${TAG}"
-              return 0
-            fi
-
             mkdir -p tmp/src tmp/assets
 
-            git clone --depth=1 "$(auth_clone_url "$REPO")" "tmp/src/${NAME}" || return 0
+            local NAME="${REPO#*/}"
 
-            mapfile -t URLS < <(echo "$RELEASE_JSON" | jq -r '.assets[]?.browser_download_url // empty')
+            # 克隆源码
+            if ! git clone --depth=1 "$(auth_clone_url "$REPO")" "tmp/src/${NAME}"; then
+              echo "Clone failed: ${REPO}"
+              cleanup
+              return
+            fi
+
+            # 获取源码更新时间
+            local SRC_DATE
+            SRC_DATE=$(get_last_commit_date "tmp/src/${NAME}")
+
+            # 获取 release 信息
+            local REL_JSON
+            REL_JSON=$(fetch_latest_release "$REPO")
+
+            local REL_DATE
+            REL_DATE=$(echo "$REL_JSON" | jq -r '.published_at // "none"' | cut -d'T' -f1)
+
+            # 下载 assets
+            mapfile -t URLS < <(echo "$REL_JSON" | jq -r '.assets[]?.browser_download_url // empty')
 
             for URL in "${URLS[@]}"; do
-              FILE_NAME="$(basename "${URL%%\?*}")"
-              curl -fL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                -o "tmp/assets/${FILE_NAME}" "$URL" || true
+              local FILE_NAME
+              FILE_NAME=$(basename "${URL%%\?*}")
+
+              curl -fL \
+                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                -o "tmp/assets/${FILE_NAME}" \
+                "$URL" || echo "Warn: failed asset $URL"
             done
 
-            TAR="${OWNER}-${NAME}-${UPSTREAM_TAG}.tar.gz"
+            # 打包
+            local TAR="${NAME}.tar.gz"
 
             tar -czf "$TAR" -C tmp .
             sha256sum "$TAR" > "${TAR}.sha256"
 
-            split -b 1800m --numeric-suffixes=1 --suffix-length=2 "$TAR" "${TAR}.part-"
+            # 分卷
+            split -b 1800m \
+              --numeric-suffixes=1 \
+              --suffix-length=2 \
+              "$TAR" \
+              "${TAR}.part-"
 
+            shopt -s nullglob
             PARTS=( ${TAR}.part-* )
-            [ "${#PARTS[@]}" -eq 0 ] && { cleanup; return 0; }
+            shopt -u nullglob
 
+            if [ "${#PARTS[@]}" -eq 0 ]; then
+              echo "Split failed"
+              cleanup
+              return
+            fi
+
+            # release 描述
+            local NOTES
+            NOTES=$(cat <<EOF
+            Repository: https://github.com/${REPO}
+            Source Updated: ${SRC_DATE}
+            Latest Release Date: ${REL_DATE}
+            EOF
+            )
+
+            # 创建 release（允许同 tag 多 release）
             gh release create "$TAG" \
               "${PARTS[@]}" \
               "${TAR}.sha256" \
               --repo "$GITHUB_REPOSITORY" \
-              --title "${OWNER}/${NAME}" \
-              --notes "Auto backup ${REPO}"
+              --title "$RELEASE_NAME" \
+              --notes "$NOTES" \
+              --latest=false || echo "Release may already exist, skipped"
 
             cleanup
           }
 
           # =========================
-          # group
-          # =========================
-          process_group() {
-            local ID="$1"
-
-            if ! yq ".repositories.repo${ID}" repositories.yaml >/dev/null 2>&1; then
-              return
-            fi
-
-            mapfile -t NAMES < <(yq -r ".repositories.name${ID}[]" repositories.yaml)
-            mapfile -t REPOS < <(yq -r ".repositories.repo${ID}[]" repositories.yaml)
-
-            for ((i=0;i<${#REPOS[@]};i++)); do
-              process_single_repo "$ID" "${NAMES[$i]}" "${REPOS[$i]}"
-            done
-          }
-
-          # =========================
-          # 获取 owner 仓库
+          # 获取 owner 仓库列表
           # =========================
           fetch_owner_repos() {
             local OWNER="$1"
             local PAGE=1
 
             while :; do
-              BODY="$(curl -fsSL \
+              local BODY
+              BODY=$(curl -fsSL \
                 -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                 "https://api.github.com/users/${OWNER}/repos?per_page=100&page=${PAGE}" \
-                2>/dev/null || true)"
+                2>/dev/null || true)
 
-              COUNT="$(echo "$BODY" | jq 'length' 2>/dev/null || echo 0)"
+              local COUNT
+              COUNT=$(echo "$BODY" | jq 'length' 2>/dev/null || echo 0)
+
               [ "$COUNT" -eq 0 ] && break
 
               echo "$BODY" | jq -r '.[].full_name'
 
-              PAGE=$((PAGE+1))
+              PAGE=$((PAGE + 1))
             done
           }
 
           # =========================
-          # allrepositories（分包版）
+          # allrepositories 处理
           # =========================
           process_allrepositories() {
-            echo "===== allrepositories (batched) ====="
+            echo "===== Processing allrepositories ====="
 
-            mapfile -t USERS < <(yq -r '.allrepositories[]' repositories.yaml)
+            mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
 
-            for OWNER in "${USERS[@]}"; do
+            for OWNER in "${OWNERS[@]}"; do
               [ -z "$OWNER" ] && continue
 
-              echo "==== OWNER: $OWNER ===="
+              echo "==== OWNER: ${OWNER} ===="
 
-              mapfile -t LIST < <(fetch_owner_repos "$OWNER")
+              mapfile -t REPOS < <(fetch_owner_repos "$OWNER")
 
-              TOTAL=${#LIST[@]}
-              [ "$TOTAL" -eq 0 ] && continue
+              for REPO in "${REPOS[@]}"; do
+                local NAME="${REPO#*/}"
 
-              PART=1
+                # ⭐ 核心规则
+                local TAG="$OWNER"
+                local RELEASE_NAME="$NAME"
 
-              for ((i=0;i<TOTAL;i+=BATCH_SIZE)); do
-                cleanup
-                mkdir -p tmp
-
-                SLICE=( "${LIST[@]:i:BATCH_SIZE}" )
-
-                echo "Batch $PART (${#SLICE[@]} repos)"
-
-                for REPO in "${SLICE[@]}"; do
-                  NAME="${REPO#*/}"
-
-                  git clone --depth=1 "$(auth_clone_url "$REPO")" "tmp/${NAME}" || continue
-
-                  RELEASE_JSON="$(fetch_latest_release_json "$REPO")"
-
-                  mapfile -t URLS < <(echo "$RELEASE_JSON" | jq -r '.assets[]?.browser_download_url // empty')
-
-                  mkdir -p "tmp/${NAME}_assets"
-
-                  for URL in "${URLS[@]}"; do
-                    FILE_NAME="$(basename "${URL%%\?*}")"
-                    curl -fL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                      -o "tmp/${NAME}_assets/${FILE_NAME}" "$URL" || true
-                  done
-                done
-
-                DATE="$(date +%Y%m%d)"
-                PART_ID=$(printf "%02d" "$PART")
-
-                TAR="${OWNER}-part${PART_ID}-${DATE}.tar.gz"
-
-                tar -czf "$TAR" -C tmp .
-                sha256sum "$TAR" > "${TAR}.sha256"
-
-                split -b 1800m --numeric-suffixes=1 --suffix-length=2 "$TAR" "${TAR}.part-"
-
-                PARTS=( ${TAR}.part-* )
-                [ "${#PARTS[@]}" -eq 0 ] && { cleanup; continue; }
-
-                TAG="backup-${OWNER}-part${PART_ID}-${DATE}"
-
-                if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
-                  echo "Skip ${TAG}"
-                  cleanup
-                  PART=$((PART+1))
-                  continue
-                fi
-
-                gh release create "$TAG" \
-                  "${PARTS[@]}" \
-                  "${TAR}.sha256" \
-                  --repo "$GITHUB_REPOSITORY" \
-                  --title "${OWNER} batch ${PART_ID}" \
-                  --notes "Auto backup ${OWNER} batch ${PART_ID}"
-
-                cleanup
-                PART=$((PART+1))
+                backup_repo "$TAG" "$RELEASE_NAME" "$REPO"
               done
+            done
+          }
+
+          # =========================
+          # repositories 处理
+          # =========================
+          process_repositories() {
+            echo "===== Processing repositories ====="
+
+            mapfile -t REPOS < <(yq -r '.repositories.repo0[]' repositories.yaml 2>/dev/null || true)
+
+            for REPO in "${REPOS[@]}"; do
+              local NAME="${REPO#*/}"
+
+              # ⭐ 单项目规则
+              local TAG="$NAME"
+              local RELEASE_NAME="$NAME"
+
+              backup_repo "$TAG" "$RELEASE_NAME" "$REPO"
             done
           }
 
@@ -246,9 +218,7 @@ jobs:
           # 执行
           # =========================
           process_allrepositories
-          process_group 0
-          process_group 1
-          process_group 2
+          process_repositories
 
       - name: Setup Debug Session
         if: (github.event.inputs.ssh == 'true' && github.event.inputs.ssh != 'false')
