@@ -12,9 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Repository Cleaner
-        uses: ThorLL/repo-cleaner-gh-action@v1.0.0
-        with:
-          gh-token: ${{ secrets.GITHUB_TOKEN }}
-          init-message: 'Repository cleaned completely.'
-          wipe-deployments: 'true'
-          wipe-workflow-history: 'true'
+        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
