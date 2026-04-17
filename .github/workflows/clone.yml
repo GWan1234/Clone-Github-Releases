@@ -32,23 +32,14 @@ jobs:
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
 
-          # =========================
-          # cleanup
-          # =========================
           cleanup() {
             rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
-          # =========================
-          # auth
-          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
-          # =========================
-          # release check
-          # =========================
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
@@ -64,9 +55,6 @@ jobs:
             git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
           }
 
-          # =========================
-          # fetch repos
-          # =========================
           fetch_owner_repos() {
             local OWNER="$1"
             local PAGE=1
@@ -92,9 +80,6 @@ jobs:
             done
           }
 
-          # =========================
-          # ⭐ 核心备份函数（递归 clone 版）
-          # =========================
           backup_repo() {
             local TAG="$1"
             local TITLE="$2"
@@ -102,7 +87,7 @@ jobs:
 
             echo "==== Processing $REPO ===="
 
-            # 预检查访问权限
+            # 访问检查
             if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
               echo "⛔ Skip inaccessible repo: $REPO"
               return 0
@@ -121,21 +106,19 @@ jobs:
             NAME="${REPO#*/}"
 
             # =========================
-            # 🚀 递归 clone（稳定版）
+            # clone（递归安全）
             # =========================
             if ! git clone \
               --depth=1 \
               --recurse-submodules \
               --shallow-submodules \
-              --config submodule.fetchJobs=4 \
-              --config fetch.recurseSubmodules=true \
               "$(auth_url "$REPO")" \
               "tmp/src/$NAME"; then
-                echo "⛔ Clone failed (skip): $REPO"
+                echo "⛔ Clone failed: $REPO"
                 return 0
             fi
 
-            # ⚠️ 子模块强制修复（容错）
+            # 子模块修复
             git -C "tmp/src/$NAME" submodule update \
               --init \
               --recursive \
@@ -156,11 +139,33 @@ jobs:
             done
 
             # =========================
-            # 🚀 7z 分卷压缩
+            # 🚀 修复 symlink + 7z
             # =========================
+
+            # 删除坏 symlink（关键修复）
+            find "tmp/src/$NAME" -xtype l -delete 2>/dev/null || true
+
             ARCHIVE="${NAME}.7z"
 
-            7z a -t7z -mx=9 -m0=lzma2 -v1800m "$ARCHIVE" tmp >/dev/null
+            set +e
+            7z a \
+              -t7z \
+              -mx=9 \
+              -m0=lzma2 \
+              -snl \
+              -snh \
+              -v1800m \
+              "$ARCHIVE" \
+              tmp >/dev/null
+            RC=$?
+            set -e
+
+            # 7z 容错：1=警告允许，>1 才失败
+            if [ "$RC" -gt 1 ]; then
+              echo "❌ 7z fatal error: $RC"
+              cleanup
+              return 0
+            fi
 
             PARTS=( ${NAME}.7z.* )
 
@@ -186,12 +191,7 @@ jobs:
             cleanup
           }
 
-          # =========================
-          # allrepositories
-          # =========================
           process_allrepositories() {
-            echo "===== allrepositories ====="
-
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
 
             for OWNER in "${OWNERS[@]}"; do
@@ -204,12 +204,7 @@ jobs:
             done
           }
 
-          # =========================
-          # repositories
-          # =========================
           process_repositories() {
-            echo "===== repositories ====="
-
             mapfile -t REPOS < <(yq -r '.repositories.repo0[]' repositories.yaml 2>/dev/null || true)
 
             for REPO in "${REPOS[@]}"; do
@@ -218,8 +213,5 @@ jobs:
             done
           }
 
-          # =========================
-          # run
-          # =========================
           process_allrepositories
           process_repositories
