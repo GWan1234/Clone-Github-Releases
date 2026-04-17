@@ -11,7 +11,17 @@ jobs:
   clean-repo:
     runs-on: ubuntu-latest
     steps:
-      - name: Repository Cleaner
+      - name: Delete releases Tags
         uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+
+
+      - name: Delete releases and workflows runs
+        uses: ophub/delete-releases-workflows@main
+        with:
+          delete_releases: true
+          releases_keep_latest: 0
+          delete_workflows: true
+          workflows_keep_day: 10
+          gh_token: ${{ secrets.MY_TOKEN }}
