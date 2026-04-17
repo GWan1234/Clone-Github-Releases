@@ -5,6 +5,14 @@ allrepositories:
   - armbian
   - home-assistant
   - esphome
+  - OpenListTeam
+  - Finb
+  - algerkong
+  - ScottSloan
+  - obsproject
+  - antimof
+  - leapbtw
+  - AlistGo
 
 repositories:
   name0:
