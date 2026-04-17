@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y jq yq gh git curl tar coreutils
@@ -25,14 +25,23 @@ jobs:
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
 
+          # =========================
+          # 清理
+          # =========================
           cleanup() {
             rm -rf tmp *.tar.gz *.part-* *.sha256 2>/dev/null || true
           }
 
+          # =========================
+          # GitHub auth
+          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
+          # =========================
+          # latest release
+          # =========================
           fetch_release() {
             curl -fsSL \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
@@ -40,23 +49,29 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
-          last_commit_date() {
+          # =========================
+          # last commit date
+          # =========================
+          last_commit() {
             git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
           }
 
+          # =========================
+          # release exists check
+          # =========================
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
           # =========================
-          # 核心备份函数
+          # 核心备份逻辑
           # =========================
           backup_repo() {
             local TAG="$1"
             local TITLE="$2"
             local REPO="$3"
 
-            echo "==== ${REPO} ===="
+            echo "==== Processing $REPO ===="
 
             if release_exists "$TAG"; then
               echo "Skip existing: $TAG"
@@ -71,16 +86,17 @@ jobs:
             # clone
             git clone --depth=1 "$(auth_url "$REPO")" "tmp/src/$NAME" || return
 
-            SRC_DATE=$(last_commit_date "tmp/src/$NAME")
+            SRC_DATE=$(last_commit "tmp/src/$NAME")
 
             REL_JSON=$(fetch_release "$REPO")
-
             REL_DATE=$(echo "$REL_JSON" | jq -r '.published_at // "none"' | cut -d'T' -f1)
 
+            # assets
             mapfile -t URLS < <(echo "$REL_JSON" | jq -r '.assets[]?.browser_download_url // empty')
 
             for URL in "${URLS[@]}"; do
               FILE_NAME=$(basename "${URL%%\?*}")
+
               curl -fL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                 -o "tmp/assets/$FILE_NAME" "$URL" || true
             done
@@ -108,22 +124,22 @@ jobs:
           }
 
           # =========================
-          # 获取 owner 所有 repo
+          # fetch owner repos
           # =========================
           fetch_owner_repos() {
             local OWNER="$1"
             local PAGE=1
 
             while :; do
-              DATA=$(curl -fsSL \
+              BODY=$(curl -fsSL \
                 -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                 "https://api.github.com/users/$OWNER/repos?per_page=100&page=$PAGE" \
                 2>/dev/null || true)
 
-              COUNT=$(echo "$DATA" | jq 'length' 2>/dev/null || echo 0)
+              COUNT=$(echo "$BODY" | jq 'length' 2>/dev/null || echo 0)
               [ "$COUNT" -eq 0 ] && break
 
-              echo "$DATA" | jq -r '.[].full_name'
+              echo "$BODY" | jq -r '.[].full_name'
 
               PAGE=$((PAGE+1))
             done
@@ -147,7 +163,7 @@ jobs:
               for REPO in "${LIST[@]}"; do
                 NAME="${REPO#*/}"
 
-                TAG="${OWNER}-${NAME}"   # ⭐ 核心
+                TAG="${OWNER}-${NAME}"   # ⭐ 核心规则
                 TITLE="$NAME"
 
                 backup_repo "$TAG" "$TITLE" "$REPO"
@@ -156,7 +172,7 @@ jobs:
           }
 
           # =========================
-          # repositories（手动）
+          # repositories
           # =========================
           process_repositories() {
             echo "===== repositories ====="
@@ -166,7 +182,7 @@ jobs:
             for REPO in "${REPOS[@]}"; do
               NAME="${REPO#*/}"
 
-              TAG="$NAME"   # ⭐ 单项目
+              TAG="$NAME"
               TITLE="$NAME"
 
               backup_repo "$TAG" "$TITLE" "$REPO"
@@ -174,7 +190,7 @@ jobs:
           }
 
           # =========================
-          # 执行
+          # run
           # =========================
           process_allrepositories
           process_repositories
