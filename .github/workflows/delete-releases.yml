@@ -25,3 +25,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
 
+      - name: Delete tag
+        uses: prompt/actions-delete-tag@v1
