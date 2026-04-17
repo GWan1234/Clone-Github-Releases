@@ -2,6 +2,9 @@ allrepositories:
   - anzhiyu-c
   - rustdesk
   - cockpit-project
+  - armbian
+  - home-assistant
+  - esphome
 
 repositories:
   name0:
@@ -16,10 +19,13 @@ repositories:
 
   name1:
     - mihomo
+    - QModem
   repo1:
     - MetaCubeX/mihomo
+    - FUjr/QModem
   source1:
     - https://github.com/MetaCubeX/mihomo
+    - https://github.com/FUjr/QModem
 
   name2:
     - frpc
