@@ -26,7 +26,7 @@ jobs:
           export GIT_TERMINAL_PROMPT=0
 
           # =========================
-          # 时间戳
+          # 时间
           # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
@@ -39,8 +39,18 @@ jobs:
             rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
+          # =========================
+          # auth
+          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
+          }
+
+          # =========================
+          # release check
+          # =========================
+          release_exists() {
+            gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
           fetch_release() {
@@ -54,10 +64,9 @@ jobs:
             git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
           }
 
-          release_exists() {
-            gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
-          }
-
+          # =========================
+          # fetch repos
+          # =========================
           fetch_owner_repos() {
             local OWNER="$1"
             local PAGE=1
@@ -83,6 +92,9 @@ jobs:
             done
           }
 
+          # =========================
+          # ⭐ 核心备份函数（递归 clone 版）
+          # =========================
           backup_repo() {
             local TAG="$1"
             local TITLE="$2"
@@ -90,7 +102,7 @@ jobs:
 
             echo "==== Processing $REPO ===="
 
-            # 访问检查
+            # 预检查访问权限
             if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
               echo "⛔ Skip inaccessible repo: $REPO"
               return 0
@@ -108,11 +120,26 @@ jobs:
 
             NAME="${REPO#*/}"
 
-            # clone
-            if ! git clone --depth=1 "$(auth_url "$REPO")" "tmp/src/$NAME"; then
-              echo "⛔ Clone failed: $REPO"
-              return 0
+            # =========================
+            # 🚀 递归 clone（稳定版）
+            # =========================
+            if ! git clone \
+              --depth=1 \
+              --recurse-submodules \
+              --shallow-submodules \
+              --config submodule.fetchJobs=4 \
+              --config fetch.recurseSubmodules=true \
+              "$(auth_url "$REPO")" \
+              "tmp/src/$NAME"; then
+                echo "⛔ Clone failed (skip): $REPO"
+                return 0
             fi
+
+            # ⚠️ 子模块强制修复（容错）
+            git -C "tmp/src/$NAME" submodule update \
+              --init \
+              --recursive \
+              --force || true
 
             SRC_DATE=$(last_commit "tmp/src/$NAME")
 
@@ -129,7 +156,7 @@ jobs:
             done
 
             # =========================
-            # 🚀 7z 分卷压缩（核心）
+            # 🚀 7z 分卷压缩
             # =========================
             ARCHIVE="${NAME}.7z"
 
@@ -159,6 +186,9 @@ jobs:
             cleanup
           }
 
+          # =========================
+          # allrepositories
+          # =========================
           process_allrepositories() {
             echo "===== allrepositories ====="
 
@@ -174,6 +204,9 @@ jobs:
             done
           }
 
+          # =========================
+          # repositories
+          # =========================
           process_repositories() {
             echo "===== repositories ====="
 
@@ -185,5 +218,8 @@ jobs:
             done
           }
 
+          # =========================
+          # run
+          # =========================
           process_allrepositories
           process_repositories
