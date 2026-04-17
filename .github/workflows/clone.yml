@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq yq gh git curl tar coreutils
+          sudo apt-get install -y jq yq gh git curl p7zip-full
 
       - name: Run backup
         env:
@@ -26,7 +26,7 @@ jobs:
           export GIT_TERMINAL_PROMPT=0
 
           # =========================
-          # 时间戳（新增）
+          # 时间戳
           # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
@@ -36,19 +36,13 @@ jobs:
           # cleanup
           # =========================
           cleanup() {
-            rm -rf tmp *.tar.gz *.part-* *.sha256 2>/dev/null || true
+            rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
-          # =========================
-          # auth
-          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
-          # =========================
-          # release API
-          # =========================
           fetch_release() {
             curl -fsSL \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
@@ -56,9 +50,6 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
-          # =========================
-          # git info
-          # =========================
           last_commit() {
             git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
           }
@@ -67,9 +58,6 @@ jobs:
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
-          # =========================
-          # fetch owner repos（过滤不可用项目）
-          # =========================
           fetch_owner_repos() {
             local OWNER="$1"
             local PAGE=1
@@ -95,9 +83,6 @@ jobs:
             done
           }
 
-          # =========================
-          # 核心备份
-          # =========================
           backup_repo() {
             local TAG="$1"
             local TITLE="$2"
@@ -105,15 +90,12 @@ jobs:
 
             echo "==== Processing $REPO ===="
 
-            # 预检查（避免 403 / 禁用）
+            # 访问检查
             if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
               echo "⛔ Skip inaccessible repo: $REPO"
               return 0
             fi
 
-            # =========================
-            # ⭐ 时间戳 TAG（核心）
-            # =========================
             local TAG_TS="${TAG}-${NOW_DATE}-${NOW_TIME}"
 
             if release_exists "$TAG_TS"; then
@@ -126,7 +108,7 @@ jobs:
 
             NAME="${REPO#*/}"
 
-            # clone（容错）
+            # clone
             if ! git clone --depth=1 "$(auth_url "$REPO")" "tmp/src/$NAME"; then
               echo "⛔ Clone failed: $REPO"
               return 0
@@ -146,30 +128,30 @@ jobs:
                 -o "tmp/assets/$FILE_NAME" "$URL" || true
             done
 
-            TAR="${NAME}.tar.gz"
-
-            tar -czf "$TAR" -C tmp .
-            sha256sum "$TAR" > "$TAR.sha256"
-
-            split -b 1800m \
-              --numeric-suffixes=1 \
-              --suffix-length=2 \
-              "$TAR" \
-              "$TAR.part-"
-
-            PARTS=( ${TAR}.part-* )
-            [ "${#PARTS[@]}" -eq 0 ] && { cleanup; return 0; }
-
             # =========================
-            # release title（带时间）
+            # 🚀 7z 分卷压缩（核心）
             # =========================
+            ARCHIVE="${NAME}.7z"
+
+            7z a -t7z -mx=9 -m0=lzma2 -v1800m "$ARCHIVE" tmp >/dev/null
+
+            PARTS=( ${NAME}.7z.* )
+
+            if [ "${#PARTS[@]}" -eq 0 ]; then
+              echo "❌ No 7z parts generated"
+              cleanup
+              return 0
+            fi
+
+            sha256sum "${PARTS[0]}" > "${ARCHIVE}.sha256"
+
             RELEASE_TITLE="${TITLE} (${NOW_HUMAN})"
 
             NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\nBackup Time: %s\n" \
               "$REPO" "$SRC_DATE" "$REL_DATE" "$NOW_HUMAN")
 
             gh release create "$TAG_TS" \
-              "${PARTS[@]}" "$TAR.sha256" \
+              "${PARTS[@]}" "${ARCHIVE}.sha256" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$RELEASE_TITLE" \
               --notes "$NOTES"
@@ -177,35 +159,21 @@ jobs:
             cleanup
           }
 
-          # =========================
-          # allrepositories
-          # =========================
           process_allrepositories() {
             echo "===== allrepositories ====="
 
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
 
             for OWNER in "${OWNERS[@]}"; do
-              [ -z "$OWNER" ] && continue
-
-              echo "OWNER: $OWNER"
-
               mapfile -t LIST < <(fetch_owner_repos "$OWNER")
 
               for REPO in "${LIST[@]}"; do
                 NAME="${REPO#*/}"
-
-                TAG="${OWNER}-${NAME}"
-                TITLE="$NAME"
-
-                backup_repo "$TAG" "$TITLE" "$REPO"
+                backup_repo "${OWNER}-${NAME}" "$NAME" "$REPO"
               done
             done
           }
 
-          # =========================
-          # repositories
-          # =========================
           process_repositories() {
             echo "===== repositories ====="
 
@@ -213,16 +181,9 @@ jobs:
 
             for REPO in "${REPOS[@]}"; do
               NAME="${REPO#*/}"
-
-              TAG="$NAME"
-              TITLE="$NAME"
-
-              backup_repo "$TAG" "$TITLE" "$REPO"
+              backup_repo "$NAME" "$NAME" "$REPO"
             done
           }
 
-          # =========================
-          # run
-          # =========================
           process_allrepositories
           process_repositories
