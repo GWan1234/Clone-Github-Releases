@@ -11,12 +11,6 @@ jobs:
   clean-repo:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete releases Tags
-        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-
-
       - name: Delete releases and workflows runs
         uses: ophub/delete-releases-workflows@main
         with:
@@ -25,3 +19,9 @@ jobs:
           delete_workflows: true
           workflows_keep_day: 0
           gh_token: ${{ secrets.MY_TOKEN }}
+
+      - name: Delete releases Tags
+        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+
