@@ -124,12 +124,8 @@ jobs:
 
             # release 描述
             local NOTES
-            NOTES=$(cat <<EOF
-            Repository: https://github.com/${REPO}
-            Source Updated: ${SRC_DATE}
-            Latest Release Date: ${REL_DATE}
-            EOF
-            )
+            NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\n" \ "$REPO" "$SRC_DATE" "$REL_DATE")
+
 
             # 创建 release（允许同 tag 多 release）
             gh release create "$TAG" \
