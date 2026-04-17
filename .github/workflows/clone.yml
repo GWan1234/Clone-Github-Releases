@@ -26,21 +26,28 @@ jobs:
           export GIT_TERMINAL_PROMPT=0
 
           # =========================
-          # 清理函数
+          # 时间戳（新增）
+          # =========================
+          NOW_DATE=$(date +"%Y%m%d")
+          NOW_TIME=$(date +"%H%M")
+          NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
+
+          # =========================
+          # cleanup
           # =========================
           cleanup() {
             rm -rf tmp *.tar.gz *.part-* *.sha256 2>/dev/null || true
           }
 
           # =========================
-          # GitHub auth
+          # auth
           # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
           # =========================
-          # 获取 latest release
+          # release API
           # =========================
           fetch_release() {
             curl -fsSL \
@@ -50,21 +57,18 @@ jobs:
           }
 
           # =========================
-          # last commit date
+          # git info
           # =========================
           last_commit() {
             git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
           }
 
-          # =========================
-          # release exists
-          # =========================
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
           # =========================
-          # fetch owner repos（已过滤不可用项目）
+          # fetch owner repos（过滤不可用项目）
           # =========================
           fetch_owner_repos() {
             local OWNER="$1"
@@ -92,7 +96,7 @@ jobs:
           }
 
           # =========================
-          # 核心备份函数（已容错）
+          # 核心备份
           # =========================
           backup_repo() {
             local TAG="$1"
@@ -101,14 +105,19 @@ jobs:
 
             echo "==== Processing $REPO ===="
 
-            # 预检查：避免 403 / banned repo
+            # 预检查（避免 403 / 禁用）
             if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
               echo "⛔ Skip inaccessible repo: $REPO"
               return 0
             fi
 
-            if release_exists "$TAG"; then
-              echo "Skip existing: $TAG"
+            # =========================
+            # ⭐ 时间戳 TAG（核心）
+            # =========================
+            local TAG_TS="${TAG}-${NOW_DATE}-${NOW_TIME}"
+
+            if release_exists "$TAG_TS"; then
+              echo "Skip existing: $TAG_TS"
               return 0
             fi
 
@@ -132,7 +141,6 @@ jobs:
 
             for URL in "${URLS[@]}"; do
               FILE_NAME=$(basename "${URL%%\?*}")
-
               curl -fL \
                 -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                 -o "tmp/assets/$FILE_NAME" "$URL" || true
@@ -152,13 +160,18 @@ jobs:
             PARTS=( ${TAR}.part-* )
             [ "${#PARTS[@]}" -eq 0 ] && { cleanup; return 0; }
 
-            NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\n" \
-              "$REPO" "$SRC_DATE" "$REL_DATE")
+            # =========================
+            # release title（带时间）
+            # =========================
+            RELEASE_TITLE="${TITLE} (${NOW_HUMAN})"
 
-            gh release create "$TAG" \
+            NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\nBackup Time: %s\n" \
+              "$REPO" "$SRC_DATE" "$REL_DATE" "$NOW_HUMAN")
+
+            gh release create "$TAG_TS" \
               "${PARTS[@]}" "$TAR.sha256" \
               --repo "$GITHUB_REPOSITORY" \
-              --title "$TITLE" \
+              --title "$RELEASE_TITLE" \
               --notes "$NOTES"
 
             cleanup

@@ -1,6 +1,7 @@
 allrepositories:
   - anzhiyu-c
   - rustdesk
+  - cockpit-project
 
 repositories:
   name0:
