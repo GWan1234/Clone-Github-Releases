@@ -26,7 +26,7 @@ jobs:
           export GIT_TERMINAL_PROMPT=0
 
           # =========================
-          # 清理
+          # 清理函数
           # =========================
           cleanup() {
             rm -rf tmp *.tar.gz *.part-* *.sha256 2>/dev/null || true
@@ -40,7 +40,7 @@ jobs:
           }
 
           # =========================
-          # latest release
+          # 获取 latest release
           # =========================
           fetch_release() {
             curl -fsSL \
@@ -57,74 +57,14 @@ jobs:
           }
 
           # =========================
-          # release exists check
+          # release exists
           # =========================
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
           # =========================
-          # 核心备份逻辑
-          # =========================
-          backup_repo() {
-            local TAG="$1"
-            local TITLE="$2"
-            local REPO="$3"
-
-            echo "==== Processing $REPO ===="
-
-            if release_exists "$TAG"; then
-              echo "Skip existing: $TAG"
-              return
-            fi
-
-            cleanup
-            mkdir -p tmp/src tmp/assets
-
-            NAME="${REPO#*/}"
-
-            # clone
-            git clone --depth=1 "$(auth_url "$REPO")" "tmp/src/$NAME" || return
-
-            SRC_DATE=$(last_commit "tmp/src/$NAME")
-
-            REL_JSON=$(fetch_release "$REPO")
-            REL_DATE=$(echo "$REL_JSON" | jq -r '.published_at // "none"' | cut -d'T' -f1)
-
-            # assets
-            mapfile -t URLS < <(echo "$REL_JSON" | jq -r '.assets[]?.browser_download_url // empty')
-
-            for URL in "${URLS[@]}"; do
-              FILE_NAME=$(basename "${URL%%\?*}")
-
-              curl -fL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                -o "tmp/assets/$FILE_NAME" "$URL" || true
-            done
-
-            TAR="${NAME}.tar.gz"
-
-            tar -czf "$TAR" -C tmp .
-            sha256sum "$TAR" > "$TAR.sha256"
-
-            split -b 1800m --numeric-suffixes=1 --suffix-length=2 "$TAR" "$TAR.part-"
-
-            PARTS=( ${TAR}.part-* )
-            [ "${#PARTS[@]}" -eq 0 ] && { cleanup; return; }
-
-            NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\n" \
-              "$REPO" "$SRC_DATE" "$REL_DATE")
-
-            gh release create "$TAG" \
-              "${PARTS[@]}" "$TAR.sha256" \
-              --repo "$GITHUB_REPOSITORY" \
-              --title "$TITLE" \
-              --notes "$NOTES"
-
-            cleanup
-          }
-
-          # =========================
-          # fetch owner repos
+          # fetch owner repos（已过滤不可用项目）
           # =========================
           fetch_owner_repos() {
             local OWNER="$1"
@@ -139,10 +79,89 @@ jobs:
               COUNT=$(echo "$BODY" | jq 'length' 2>/dev/null || echo 0)
               [ "$COUNT" -eq 0 ] && break
 
-              echo "$BODY" | jq -r '.[].full_name'
+              echo "$BODY" | jq -r '
+                .[]
+                | select(.private == false)
+                | select(.archived == false)
+                | select(.disabled == false)
+                | .full_name
+              '
 
               PAGE=$((PAGE+1))
             done
+          }
+
+          # =========================
+          # 核心备份函数（已容错）
+          # =========================
+          backup_repo() {
+            local TAG="$1"
+            local TITLE="$2"
+            local REPO="$3"
+
+            echo "==== Processing $REPO ===="
+
+            # 预检查：避免 403 / banned repo
+            if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
+              echo "⛔ Skip inaccessible repo: $REPO"
+              return 0
+            fi
+
+            if release_exists "$TAG"; then
+              echo "Skip existing: $TAG"
+              return 0
+            fi
+
+            cleanup
+            mkdir -p tmp/src tmp/assets
+
+            NAME="${REPO#*/}"
+
+            # clone（容错）
+            if ! git clone --depth=1 "$(auth_url "$REPO")" "tmp/src/$NAME"; then
+              echo "⛔ Clone failed: $REPO"
+              return 0
+            fi
+
+            SRC_DATE=$(last_commit "tmp/src/$NAME")
+
+            REL_JSON=$(fetch_release "$REPO")
+            REL_DATE=$(echo "$REL_JSON" | jq -r '.published_at // "none"' | cut -d'T' -f1)
+
+            mapfile -t URLS < <(echo "$REL_JSON" | jq -r '.assets[]?.browser_download_url // empty')
+
+            for URL in "${URLS[@]}"; do
+              FILE_NAME=$(basename "${URL%%\?*}")
+
+              curl -fL \
+                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                -o "tmp/assets/$FILE_NAME" "$URL" || true
+            done
+
+            TAR="${NAME}.tar.gz"
+
+            tar -czf "$TAR" -C tmp .
+            sha256sum "$TAR" > "$TAR.sha256"
+
+            split -b 1800m \
+              --numeric-suffixes=1 \
+              --suffix-length=2 \
+              "$TAR" \
+              "$TAR.part-"
+
+            PARTS=( ${TAR}.part-* )
+            [ "${#PARTS[@]}" -eq 0 ] && { cleanup; return 0; }
+
+            NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\n" \
+              "$REPO" "$SRC_DATE" "$REL_DATE")
+
+            gh release create "$TAG" \
+              "${PARTS[@]}" "$TAR.sha256" \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "$TITLE" \
+              --notes "$NOTES"
+
+            cleanup
           }
 
           # =========================
@@ -163,7 +182,7 @@ jobs:
               for REPO in "${LIST[@]}"; do
                 NAME="${REPO#*/}"
 
-                TAG="${OWNER}-${NAME}"   # ⭐ 核心规则
+                TAG="${OWNER}-${NAME}"
                 TITLE="$NAME"
 
                 backup_repo "$TAG" "$TITLE" "$REPO"
