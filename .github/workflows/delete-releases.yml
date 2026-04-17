@@ -25,5 +25,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
 
-      - name: Delete tag
-        uses: prompt/actions-delete-tag@v1
+      - name: Delete releases Tags
+        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+      - name: Delete releases Tags
+        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+      - name: Delete releases Tags
+        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+      - name: Delete releases Tags
+        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
