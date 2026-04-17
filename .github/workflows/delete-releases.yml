@@ -1,0 +1,20 @@
+name: Delete All Releases (DANGEROUS)
+
+on: workflow_dispatch
+
+permissions:
+  contents: write
+  deployments: write
+  actions: write
+
+jobs:
+  clean-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Cleaner
+        uses: ThorLL/repo-cleaner-gh-action@v1.0.0
+        with:
+          gh-token: ${{ secrets.GITHUB_TOKEN }}
+          init-message: 'Repository cleaned completely.'
+          wipe-deployments: 'true'
+          wipe-workflow-history: 'true'
