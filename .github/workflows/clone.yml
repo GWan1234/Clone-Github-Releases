@@ -23,7 +23,7 @@ jobs:
           large-packages: true
           docker-images: true
           swap-storage: true
-
+          
       - name: Install deps
         run: |
           sudo apt-get update
@@ -36,20 +36,36 @@ jobs:
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
 
+          # =========================
+          # 时间
+          # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
 
-          MAX_RELEASE_BYTES=$((10 * 1024 * 1024 * 1024))
-          VOL_SIZE="1900m"
-
+          # =========================
+          # 安全函数
+          # =========================
           safe() {
             local v="${1:-unknown}"
-            [[ -z "$v" || "$v" == "null" ]] && echo "unknown" || echo "$v"
+            if [[ -z "$v" || "$v" == "null" || "$v" == "-" || "$v" == "none" ]]; then
+              echo "unknown"
+            else
+              echo "$v"
+            fi
           }
 
           sanitize() {
-            echo "$1" | tr '/' '-' | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9._-]/-/g'
+            echo "$1" \
+              | tr '/' '-' \
+              | tr '[:upper:]' '[:lower:]' \
+              | sed 's/[^a-z0-9._-]/-/g' \
+              | sed 's/-\+/-/g' \
+              | sed 's/^-//;s/-$//'
+          }
+
+          cleanup() {
+            rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
           auth_url() {
@@ -57,257 +73,178 @@ jobs:
           }
 
           fetch_repo_info() {
-            curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-              "https://api.github.com/repos/$1"
+            curl -fsSL \
+              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/repos/$1" \
+              2>/dev/null || echo '{}'
           }
 
-          fetch_release() {
-            curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-              "https://api.github.com/repos/$1/releases/latest"
+          fetch_latest_release() {
+            curl -fsSL \
+              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/repos/$1/releases/latest" \
+              2>/dev/null || echo '{}'
           }
 
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
-          upload() {
-            gh release upload "$1" "$2" \
-              --repo "$GITHUB_REPOSITORY" \
-              --clobber >/dev/null
-          }
-
           human_size() {
             numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "0B"
           }
 
-          save_state() {
-            jq -n \
-              --argjson next "$1" \
-              --argjson seq "$2" \
-              --argjson done "$3" \
-              --arg tag "$4" \
-              '{next_index:$next,batch_seq:$seq,completed:$done,tag:$tag}' \
-              > "$5"
-          }
+          # =========================
+          # release notes（修正版：加入 -- 防止参数解析错误）
+          # =========================
+          build_notes() {
+            REPO="$1"
+            REPO_JSON="$2"
+            BRANCH_COUNT="$3"
+            ARCHIVE_SIZE="$4"
+            RELEASE_TIME="$5"
+            UPSTREAM_JSON="$6"
 
-          download_batch() {
-            local json="$1"
-            local start="$2"
-            local out="$3"
-            local manifest="$4"
+            REPO_URL=$(safe "$(echo "$REPO_JSON" | jq -r '.html_url // "unknown"' 2>/dev/null)")
+            DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"' 2>/dev/null)")
+            DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
+            LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
+            STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0' 2>/dev/null)")
+            FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0' 2>/dev/null)")
 
-            mkdir -p "$out"
-            : > "$manifest"
-
-            local total bytes=0 count=0 end=$start
-            total=$(jq '.assets | length' <<<"$json")
-
-            echo "[" >> "$manifest"
-
-            for ((i=start;i<total;i++)); do
-              name=$(jq -r ".assets[$i].name" <<<"$json")
-              size=$(jq -r ".assets[$i].size" <<<"$json")
-              url=$(jq -r ".assets[$i].browser_download_url" <<<"$json")
-
-              if (( count > 0 && bytes + size > MAX_RELEASE_BYTES )); then
-                break
-              fi
-
-              file=$(printf "%04d-%s" "$i" "$(sanitize "$name")")
-
-              curl -L -H "Authorization: Bearer $GITHUB_TOKEN" \
-                "$url" -o "$out/$file"
-
-              [[ $count -gt 0 ]] && echo "," >> "$manifest"
-
-              jq -nc \
-                --arg i "$i" \
-                --arg n "$name" \
-                --arg f "$file" \
-                --argjson s "$size" \
-                '{index:($i|tonumber),name:$n,file:$f,size:$s}' >> "$manifest"
-
-              bytes=$((bytes+size))
-              count=$((count+1))
-              end=$((i+1))
-            done
-
-            echo "]" >> "$manifest"
-
-            printf "%s %s %s %s\n" "$count" "$bytes" "$end" "$total"
-          }
-
-          backup_repo() {
-            repo="$1"
-            echo "==== BACKUP $repo ===="
-
-            repo_slug=$(sanitize "$repo")
-
-            # ======================
-            # 🔥 原始信息采集
-            # ======================
-            REPO_JSON=$(fetch_repo_info "$repo")
-            UPSTREAM_JSON=$(fetch_release "$repo")
+            CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
+            UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
+            PUSHED=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"' 2>/dev/null)")
 
             UP_TAG=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.tag_name // "none"' 2>/dev/null)")
+            UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"' 2>/dev/null)")
+            UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"' 2>/dev/null)")
 
-            tag="bk-${repo_slug}-${NOW_DATE}-${NOW_TIME}"
+            printf -- "## 📦 Repository Info\n"
+            printf -- "- URL: %s\n" "$REPO_URL"
+            printf -- "- Description: %s\n" "$DESC"
+            printf -- "- Default branch: %s\n" "$DEF_BRANCH"
+            printf -- "- Language: %s\n" "$LANG"
+            printf -- "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
+            printf -- "\n"
 
-            gh release create "$tag" \
-              --repo "$GITHUB_REPOSITORY" \
-              --title "$repo_slug backup $NOW_HUMAN" \
-              --notes "auto backup" >/dev/null
+            printf -- "## 🕒 Source Timeline\n"
+            printf -- "- Created: %s\n" "$CREATED"
+            printf -- "- Updated: %s\n" "$UPDATED"
+            printf -- "- Pushed: %s\n" "$PUSHED"
+            printf -- "\n"
 
-            # ======================
-            # 🔥 统计变量初始化
-            # ======================
-            BRANCH_COUNT=0
-            ARCHIVE_SIZE=0
-            RELEASE_TIME=$(date +"%Y-%m-%d %H:%M:%S")
+            printf -- "## 🏷 Upstream Release\n"
+            printf -- "- Tag: %s\n" "$UP_TAG"
+            printf -- "- Name: %s\n" "$UP_NAME"
+            printf -- "- Published: %s\n" "$UP_TIME"
+            printf -- "\n"
 
-            # ======================
-            # build_notes 函数（包含所有详细信息）
-            # ======================
-            build_notes() {
-              REPO_URL=$(safe "$(echo "$REPO_JSON" | jq -r '.html_url // "unknown"' 2>/dev/null)")
-              DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"' 2>/dev/null)")
-              DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
-              LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
-              STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0' 2>/dev/null)")
-              FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0' 2>/dev/null)")
-
-              CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
-              UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
-              PUSHED=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"' 2>/dev/null)")
-
-              UP_TAG=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.tag_name // "none"' 2>/dev/null)")
-              UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"' 2>/dev/null)")
-              UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"' 2>/dev/null)")
-
-              printf "## 📦 Repository Info\n"
-              printf -- "- URL: %s\n" "$REPO_URL"
-              printf -- "- Description: %s\n" "$DESC"
-              printf -- "- Default branch: %s\n" "$DEF_BRANCH"
-              printf -- "- Language: %s\n" "$LANG"
-              printf -- "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
-              printf "\n"
-
-              printf "## 🕒 Source Timeline\n"
-              printf -- "- Created: %s\n" "$CREATED"
-              printf -- "- Updated: %s\n" "$UPDATED"
-              printf -- "- Pushed: %s\n" "$PUSHED"
-              printf "\n"
-
-              printf "## 🏷 Upstream Release\n"
-              printf -- "- Tag: %s\n" "$UP_TAG"
-              printf -- "- Name: %s\n" "$UP_NAME"
-              printf -- "- Published: %s\n" "$UP_TIME"
-              printf "\n"
-
-              printf "## 📊 Backup Info\n"
-              printf -- "- Branch count: %s\n" "$BRANCH_COUNT"
-              printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
-              printf -- "- Backup time: %s\n" "$RELEASE_TIME"
-            }
-
-            # ======================
-            # SOURCE BACKUP（分支打包）
-            # ======================
-            git clone --mirror "$(auth_url "$repo")" repo.git >/dev/null
-
-            mapfile -t branches < <(
-              git -C repo.git for-each-ref --format='%(refname:short)' refs/heads
-            )
-
-            BRANCH_COUNT=${#branches[@]}
-
-            idx=0
-            for b in "${branches[@]}"; do
-              dir="work/$b"
-              mkdir -p "$dir"
-
-              git -C repo.git archive "$b" | tar -xf - -C "$dir"
-
-              7z a -t7z -mx=5 -mmt=2 -v$VOL_SIZE \
-                "out/${repo_slug}-${b}-${idx}.7z" "$dir" >/dev/null
-
-              for f in out/*.7z*; do
-                upload "$tag" "$f"
-                size=$(stat -c%s "$f" 2>/dev/null || stat -f%z "$f" 2>/dev/null || echo 0)
-                ARCHIVE_SIZE=$((ARCHIVE_SIZE + size))
-              done
-
-              rm -rf out work
-              idx=$((idx+1))
-            done
-
-            # ======================
-            # RELEASE BACKUP（上游发布资产）
-            # ======================
-            if [[ "$(jq '.assets|length' <<<"$UPSTREAM_JSON")" -gt 0 ]]; then
-
-              next=0
-              seq=1
-              done=false
-              total=$(jq '.assets|length' <<<"$UPSTREAM_JSON")
-
-              while [[ "$done" == false && "$next" -lt "$total" ]]; do
-
-                mkdir -p batch out
-
-                read count bytes next total < <(
-                  download_batch "$UPSTREAM_JSON" "$next" batch manifest.json
-                )
-
-                if [[ $count -eq 0 ]]; then
-                  break
-                fi
-
-                7z a -t7z -mx=5 -mmt=2 -v1900m \
-                  "out/${repo_slug}-rel-p${seq}.7z" batch manifest.json >/dev/null
-
-                for f in out/*.7z*; do
-                  upload "$tag" "$f"
-                  size=$(stat -c%s "$f" 2>/dev/null || stat -f%z "$f" 2>/dev/null || echo 0)
-                  ARCHIVE_SIZE=$((ARCHIVE_SIZE + size))
-                done
-
-                rm -rf batch out manifest.json
-
-                done=false
-                [[ $next -ge $total ]] && done=true
-
-                # 🔧 修正 save_state 调用：添加缺失的 tag 参数
-                save_state "$next" "$seq" "$done" "$tag" "state.json"
-                upload "$tag" state.json
-
-                seq=$((seq+1))
-              done
-            fi
-
-            rm -rf repo.git
-
-            # ======================
-            # 🔥 更新 Release 描述为完整信息
-            # ======================
-            build_notes > /tmp/release_notes.md
-            gh release edit "$tag" \
-              --repo "$GITHUB_REPOSITORY" \
-              --notes-file /tmp/release_notes.md
+            printf -- "## 📊 Backup Info\n"
+            printf -- "- Branch count: %s\n" "$BRANCH_COUNT"
+            printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
+            printf -- "- Backup time: %s\n" "$RELEASE_TIME"
           }
 
-          process_all() {
-            mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml)
+          # =========================
+          # backup core
+          # =========================
+          backup_repo() {
+            REPO="$1"
 
-            for owner in "${OWNERS[@]}"; do
-              mapfile -t repos < <(
-                curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-                  "https://api.github.com/users/$owner/repos?per_page=100" \
-                | jq -r '.[].full_name'
+            echo "==== BACKUP: $REPO ===="
+
+            cleanup
+            mkdir -p tmp
+
+            REPO_SLUG=$(sanitize "$REPO")
+            TAG="${REPO_SLUG}-${NOW_DATE}-${NOW_TIME}"
+            TAG=$(sanitize "$TAG")
+
+            if release_exists "$TAG"; then
+              echo "Skip: $TAG"
+              return 0
+            fi
+
+            REPO_JSON=$(fetch_repo_info "$REPO")
+            UPSTREAM_JSON=$(fetch_latest_release "$REPO")
+
+            MIRROR="tmp/${REPO_SLUG}.git"
+            EXPORT="tmp/export/${REPO_SLUG}"
+
+            git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
+              echo "clone failed"
+              return 0
+            }
+
+            mapfile -t BRANCHES < <(
+              git -C "$MIRROR" for-each-ref --format='%(refname:short)' refs/heads
+            )
+
+            mkdir -p "$EXPORT"
+
+            FILES=()
+            IDX=0
+
+            for B in "${BRANCHES[@]}"; do
+              B_SLUG=$(sanitize "$B")
+              DIR="${EXPORT}/${B_SLUG}"
+              mkdir -p "$DIR"
+
+              git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR"
+
+              ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
+              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" "$DIR" >/dev/null || true
+              sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
+
+              FILES+=("$ARCHIVE" "$ARCHIVE.sha256")
+              IDX=$((IDX + 1))
+            done
+
+            TOTAL_SIZE=$(ls *.7z 2>/dev/null | xargs -I{} stat -c%s "{}" 2>/dev/null | awk '{s+=$1} END {print s+0}')
+            TOTAL_SIZE=${TOTAL_SIZE:-0}
+
+            BRANCH_COUNT="${#BRANCHES[@]}"
+
+            NOTES_FILE=$(mktemp)
+            build_notes "$REPO" "$REPO_JSON" "$BRANCH_COUNT" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
+
+            # create release
+            gh release create "$TAG" \
+              "${FILES[0]}" \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "$REPO_SLUG ($NOW_HUMAN)" \
+              --notes-file "$NOTES_FILE"
+
+            # upload rest files
+            for ((i=1; i<${#FILES[@]}; i++)); do
+              gh release upload "$TAG" "${FILES[$i]}" \
+                --repo "$GITHUB_REPOSITORY" \
+                --clobber
+            done
+
+            rm -f "$NOTES_FILE"
+            cleanup
+          }
+
+          # =========================
+          # runner
+          # =========================
+          process_all() {
+            # 确保从 repositories.yaml 读取成功
+            mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
+
+            for O in "${OWNERS[@]}"; do
+              echo "Scanning owner: $O"
+              mapfile -t LIST < <(
+                curl -fsSL \
+                  -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                  "https://api.github.com/users/$O/repos?per_page=100" \
+                | jq -r '.[] | select(.private==false) | .full_name'
               )
 
-              for r in "${repos[@]}"; do
-                backup_repo "$r"
+              for R in "${LIST[@]}"; do
+                backup_repo "$R"
               done
             done
           }
