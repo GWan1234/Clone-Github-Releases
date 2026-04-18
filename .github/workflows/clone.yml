@@ -25,9 +25,6 @@ jobs:
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
 
-          # =========================
-          # 时间
-          # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
@@ -87,7 +84,6 @@ jobs:
 
             echo "==== Processing $REPO ===="
 
-            # 访问检查
             if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
               echo "⛔ Skip inaccessible repo: $REPO"
               return 0
@@ -105,9 +101,6 @@ jobs:
 
             NAME="${REPO#*/}"
 
-            # =========================
-            # clone（递归安全）
-            # =========================
             if ! git clone \
               --depth=1 \
               --recurse-submodules \
@@ -118,7 +111,6 @@ jobs:
                 return 0
             fi
 
-            # 子模块修复
             git -C "tmp/src/$NAME" submodule update \
               --init \
               --recursive \
@@ -138,29 +130,16 @@ jobs:
                 -o "tmp/assets/$FILE_NAME" "$URL" || true
             done
 
-            # =========================
-            # 🚀 修复 symlink + 7z
-            # =========================
-
-            # 删除坏 symlink（关键修复）
+            # 修复 symlink
             find "tmp/src/$NAME" -xtype l -delete 2>/dev/null || true
 
             ARCHIVE="${NAME}.7z"
 
             set +e
-            7z a \
-              -t7z \
-              -mx=9 \
-              -m0=lzma2 \
-              -snl \
-              -snh \
-              -v1800m \
-              "$ARCHIVE" \
-              tmp >/dev/null
+            7z a -t7z -mx=9 -m0=lzma2 -snl -snh -v1800m "$ARCHIVE" tmp >/dev/null
             RC=$?
             set -e
 
-            # 7z 容错：1=警告允许，>1 才失败
             if [ "$RC" -gt 1 ]; then
               echo "❌ 7z fatal error: $RC"
               cleanup
@@ -170,7 +149,7 @@ jobs:
             PARTS=( ${NAME}.7z.* )
 
             if [ "${#PARTS[@]}" -eq 0 ]; then
-              echo "❌ No 7z parts generated"
+              echo "❌ No archive generated"
               cleanup
               return 0
             fi
@@ -182,11 +161,31 @@ jobs:
             NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\nBackup Time: %s\n" \
               "$REPO" "$SRC_DATE" "$REL_DATE" "$NOW_HUMAN")
 
-            gh release create "$TAG_TS" \
+            echo "🚀 Creating release..."
+
+            if ! gh release create "$TAG_TS" \
               "${PARTS[@]}" "${ARCHIVE}.sha256" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$RELEASE_TITLE" \
-              --notes "$NOTES"
+              --notes "$NOTES"; then
+
+              echo "❌ Upload failed, deleting release"
+              gh release delete "$TAG_TS" --yes --repo "$GITHUB_REPOSITORY" || true
+              cleanup
+              return 0
+            fi
+
+            # ✅ 校验 assets 是否存在（关键）
+            ASSET_COUNT=$(gh release view "$TAG_TS" \
+              --repo "$GITHUB_REPOSITORY" \
+              --json assets -q '.assets | length')
+
+            if [ "$ASSET_COUNT" -eq 0 ]; then
+              echo "❌ Empty release, deleting"
+              gh release delete "$TAG_TS" --yes --repo "$GITHUB_REPOSITORY" || true
+              cleanup
+              return 0
+            fi
 
             cleanup
           }
