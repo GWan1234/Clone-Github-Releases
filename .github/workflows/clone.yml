@@ -41,9 +41,24 @@ jobs:
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
 
+          # =========================
+          # 时间
+          # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
+
+          # =========================
+          # 安全函数
+          # =========================
+          safe() {
+            local v="${1:-unknown}"
+            if [ -z "$v" ] || [ "$v" = "-" ] || [ "$v" = "null" ]; then
+              echo "unknown"
+            else
+              echo "$v"
+            fi
+          }
 
           sanitize() {
             echo "$1" \
@@ -81,13 +96,12 @@ jobs:
           }
 
           human_size() {
-            numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "${1} B"
+            numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "0B"
           }
 
-          safe() {
-            echo "${1:-unknown}"
-          }
-
+          # =========================
+          # release notes（完全安全版）
+          # =========================
           build_notes() {
             REPO="$1"
             REPO_JSON="$2"
@@ -97,16 +111,15 @@ jobs:
             UPSTREAM_JSON="$6"
 
             REPO_URL=$(safe "$(echo "$REPO_JSON" | jq -r '.html_url // "unknown"' 2>/dev/null)")
-            DESCRIPTION=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "no description"' 2>/dev/null)")
-            DEFAULT_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
-            LANGUAGE=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
+            DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"' 2>/dev/null)")
+            DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
+            LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
             STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0' 2>/dev/null)")
             FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0' 2>/dev/null)")
-            PRIVATE=$(safe "$(echo "$REPO_JSON" | jq -r '.private // false' 2>/dev/null)")
 
-            CREATED_AT=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
-            UPDATED_AT=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
-            PUSHED_AT=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"' 2>/dev/null)")
+            CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
+            UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
+            PUSHED=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"' 2>/dev/null)")
 
             UP_TAG=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.tag_name // "none"' 2>/dev/null)")
             UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"' 2>/dev/null)")
@@ -114,21 +127,23 @@ jobs:
 
             printf "## 📦 Repository Info\n"
             printf "- URL: %s\n" "$REPO_URL"
-            printf "- Description: %s\n" "$DESCRIPTION"
-            printf "- Default branch: %s\n" "$DEFAULT_BRANCH"
-            printf "- Language: %s\n" "$LANGUAGE"
+            printf "- Description: %s\n" "$DESC"
+            printf "- Default branch: %s\n" "$DEF_BRANCH"
+            printf "- Language: %s\n" "$LANG"
             printf "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
-            printf "- Private: %s\n\n" "$PRIVATE"
+            printf "\n"
 
             printf "## 🕒 Source Timeline\n"
-            printf "- Created: %s\n" "$CREATED_AT"
-            printf "- Updated: %s\n" "$UPDATED_AT"
-            printf "- Pushed: %s\n\n" "$PUSHED_AT"
+            printf "- Created: %s\n" "$CREATED"
+            printf "- Updated: %s\n" "$UPDATED"
+            printf "- Pushed: %s\n" "$PUSHED"
+            printf "\n"
 
             printf "## 🏷 Upstream Release\n"
             printf "- Tag: %s\n" "$UP_TAG"
             printf "- Name: %s\n" "$UP_NAME"
-            printf "- Published: %s\n\n" "$UP_TIME"
+            printf "- Published: %s\n" "$UP_TIME"
+            printf "\n"
 
             printf "## 📊 Backup Info\n"
             printf "- Branch count: %s\n" "$BRANCH_COUNT"
@@ -136,6 +151,9 @@ jobs:
             printf "- Backup time: %s\n" "$RELEASE_TIME"
           }
 
+          # =========================
+          # backup core
+          # =========================
           backup_repo() {
             REPO="$1"
 
@@ -187,18 +205,25 @@ jobs:
               IDX=$((IDX + 1))
             done
 
+            # =========================
+            # SAFE size calc（不会炸）
+            # =========================
+            TOTAL_SIZE=$(ls *.7z 2>/dev/null | xargs -I{} stat -c%s "{}" 2>/dev/null | awk '{s+=$1} END {print s+0}')
+            TOTAL_SIZE=${TOTAL_SIZE:-0}
+
             BRANCH_COUNT="${#BRANCHES[@]}"
-            TOTAL_SIZE=$(du -sb *.7z 2>/dev/null | awk '{s+=$1} END {print s+0}')
 
             NOTES_FILE=$(mktemp)
             build_notes "$REPO" "$REPO_JSON" "$BRANCH_COUNT" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
+            # create release
             gh release create "$TAG" \
               "${FILES[0]}" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
               --notes-file "$NOTES_FILE"
 
+            # upload rest files
             for ((i=1; i<${#FILES[@]}; i++)); do
               gh release upload "$TAG" "${FILES[$i]}" \
                 --repo "$GITHUB_REPOSITORY" \
@@ -209,6 +234,9 @@ jobs:
             cleanup
           }
 
+          # =========================
+          # runner
+          # =========================
           process_all() {
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
 
