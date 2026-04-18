@@ -277,7 +277,8 @@ jobs:
                 done=false
                 [[ $next -ge $total ]] && done=true
 
-                save_state "$next" "$seq" "$done" "state.json"
+                # 🔧 修正 save_state 调用：添加缺失的 tag 参数
+                save_state "$next" "$seq" "$done" "$tag" "state.json"
                 upload "$tag" state.json
 
                 seq=$((seq+1))
