@@ -41,16 +41,10 @@ jobs:
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
 
-          # =========================
-          # 时间
-          # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
 
-          # =========================
-          # ⭐ 工业级 sanitize（核心）
-          # =========================
           sanitize() {
             echo "$1" \
               | tr '/' '-' \
@@ -60,80 +54,79 @@ jobs:
               | sed 's/^-//;s/-$//'
           }
 
-          # =========================
-          # cleanup
-          # =========================
           cleanup() {
             rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
-          # =========================
-          # auth
-          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
-          # =========================
-          # release API（工业级 fallback）
-          # =========================
           fetch_release() {
-            local REPO="$1"
-
             curl -fsSL \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              "https://api.github.com/repos/$REPO/releases/latest" \
+              "https://api.github.com/repos/$1/releases/latest" \
               2>/dev/null || echo '{"assets":[]}'
           }
 
-          # =========================
-          # size safe
-          # =========================
+          fetch_repo_info() {
+            curl -fsSL \
+              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/repos/$1" \
+              2>/dev/null || echo '{}'
+          }
+
           get_release_size() {
             echo "$1" | jq '[.assets // [] | .[].size] | add // 0'
           }
 
-          # =========================
-          # assets safe
-          # =========================
           fetch_assets() {
             echo "$1" | jq -r '.assets // [] | .[]? | .browser_download_url'
           }
 
           fetch_assets_batch() {
-            echo "$1" | jq -r \
-              ".assets // [] | .[$2:$2+$3][]? | .browser_download_url"
+            echo "$1" | jq -r ".assets // [] | .[$2:$2+$3][]? | .browser_download_url"
           }
 
-          # =========================
-          # release exists safe
-          # =========================
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
-          # =========================
-          # clone safe
-          # =========================
           safe_clone() {
-            local REPO="$1"
-            local DIR="$2"
-
             git clone \
               --depth=1 \
               --recurse-submodules \
               --shallow-submodules \
-              "$(auth_url "$REPO")" \
-              "$DIR" || return 1
+              "$(auth_url "$1")" \
+              "$2" || return 1
 
-            git -C "$DIR" submodule update --init --recursive || true
+            git -C "$2" submodule update --init --recursive || true
           }
 
-          # =========================
-          # core backup
-          # =========================
+          human_size() {
+            numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "${1} B"
+          }
+
+          build_notes() {
+            REPO="$1"
+            REPO_JSON="$2"
+            TOTAL_SIZE="$3"
+            RELEASE_TIME="$4"
+
+            REPO_URL=$(echo "$REPO_JSON" | jq -r --arg repo "$REPO" '.html_url // ("https://github.com/" + $repo)')
+            SOURCE_UPDATED=$(echo "$REPO_JSON" | jq -r '.pushed_at // .updated_at // "unknown"')
+            REPO_SIZE_KB=$(echo "$REPO_JSON" | jq -r '.size // 0')
+
+            printf "### 📦 原仓库\n%s\n\n" "$REPO_URL"
+            printf "### 📊 大小\n"
+            printf "- Assets 总大小：%s\n" "$(human_size "$TOTAL_SIZE")"
+            printf "- Repo size：%s KB\n\n" "$REPO_SIZE_KB"
+            printf "### ⏱ 源码更新时间\n%s\n\n" "$SOURCE_UPDATED"
+            printf "### 🕒 Backup 时间\n%s\n" "$RELEASE_TIME"
+          }
+
           backup_release() {
-            local REPO="$1"
+            REPO="$1"
 
             echo "==== BACKUP: $REPO ===="
 
@@ -144,39 +137,31 @@ jobs:
             NAME="${SAFE_REPO#*/}"
 
             REL_JSON=$(fetch_release "$REPO")
+            REPO_JSON=$(fetch_repo_info "$REPO")
 
-            # release not exist safe
             if echo "$REL_JSON" | jq -e '.message? == "Not Found"' >/dev/null 2>&1; then
-              echo "⚠️ No release found"
               REL_JSON='{"assets":[]}'
             fi
 
             TOTAL_SIZE=$(get_release_size "$REL_JSON")
-            echo "Total size: $TOTAL_SIZE"
 
             TAG="${NAME}-${NOW_DATE}-${NOW_TIME}"
             TAG=$(sanitize "$TAG")
 
-            # =========================
-            # skip existing release
-            # =========================
             if release_exists "$TAG"; then
-              echo "Skip existing: $TAG"
+              echo "Skip: $TAG"
               return 0
             fi
 
-            # =========================
-            # clone safe
-            # =========================
             DIR="tmp/src/$NAME"
 
-            if ! safe_clone "$REPO" "$DIR"; then
-              echo "❌ clone failed: $REPO"
+            safe_clone "$REPO" "$DIR" || {
+              echo "clone failed"
               return 0
-            fi
+            }
 
             # =========================
-            # small repo mode
+            # small mode
             # =========================
             if [ "$TOTAL_SIZE" -lt 8589934592 ]; then
 
@@ -184,26 +169,26 @@ jobs:
 
               for URL in "${URLS[@]}"; do
                 [ -z "$URL" ] && continue
-
-                curl -fL \
-                  --retry 3 --retry-delay 2 \
+                curl -fL --retry 3 --retry-delay 2 \
                   -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                   -o "tmp/assets/$(basename "$URL")" \
                   "$URL" || true
               done
 
               ARCHIVE="${NAME}.7z"
-
               7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" tmp/assets >/dev/null || true
-
               sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
+
+              NOTES_FILE=$(mktemp)
+              build_notes "$REPO" "$REPO_JSON" "$TOTAL_SIZE" "$NOW_HUMAN" > "$NOTES_FILE"
 
               gh release create "$TAG" \
                 "$ARCHIVE" "$ARCHIVE.sha256" \
                 --repo "$GITHUB_REPOSITORY" \
                 --title "$NAME ($NOW_HUMAN)" \
-                --notes "industrial stable backup"
+                --notes-file "$NOTES_FILE"
 
+              rm -f "$NOTES_FILE"
               cleanup
               return 0
             fi
@@ -227,26 +212,26 @@ jobs:
 
               for URL in "${URLS[@]}"; do
                 [ -z "$URL" ] && continue
-
-                curl -fL \
-                  --retry 3 --retry-delay 2 \
+                curl -fL --retry 3 --retry-delay 2 \
                   -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                   -o "tmp/assets/$(basename "$URL")" \
                   "$URL" || true
               done
 
               ARCHIVE="${NAME}-part-${IDX}.7z"
-
               7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" tmp/assets >/dev/null || true
-
               sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
+
+              NOTES_FILE=$(mktemp)
+              build_notes "$REPO" "$REPO_JSON" "$TOTAL_SIZE" "$NOW_HUMAN" > "$NOTES_FILE"
 
               gh release create "${TAG}-p${IDX}" \
                 "$ARCHIVE" "$ARCHIVE.sha256" \
                 --repo "$GITHUB_REPOSITORY" \
                 --title "$NAME part $IDX ($NOW_HUMAN)" \
-                --notes "batch stable backup"
+                --notes-file "$NOTES_FILE"
 
+              rm -f "$NOTES_FILE"
               rm -rf tmp/assets
 
               OFFSET=$((OFFSET + BATCH))
@@ -258,12 +243,8 @@ jobs:
             cleanup
           }
 
-          # =========================
-          # repo list
-          # =========================
           process_repositories() {
             mapfile -t REPOS < <(yq -r '.repositories.repo0[]' repositories.yaml 2>/dev/null || true)
-
             for REPO in "${REPOS[@]}"; do
               backup_release "$REPO"
             done
