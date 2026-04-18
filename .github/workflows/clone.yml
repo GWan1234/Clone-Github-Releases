@@ -35,6 +35,7 @@ jobs:
         run: |
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
+          shopt -s nullglob globstar  # 防止空通配符崩溃
 
           # =========================
           # 时间
@@ -64,8 +65,10 @@ jobs:
               | sed 's/^-//;s/-$//'
           }
 
+          # 加强版清理，防止磁盘泄漏
           cleanup() {
-            rm -rf tmp *.7z* *.sha256 up-* 2>/dev/null || true
+            rm -rf tmp *.7z* *.sha256 up-* core.* .gitignore .DS_Store 2>/dev/null || true
+            df -h  # 打印磁盘状态便于调试
           }
 
           auth_url() {
@@ -73,14 +76,14 @@ jobs:
           }
 
           fetch_repo_info() {
-            curl -fsSL \
+            curl -fsSL --retry 2 --max-time 15 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
               "https://api.github.com/repos/$1" \
               2>/dev/null || echo '{}'
           }
 
           fetch_latest_release() {
-            curl -fsSL \
+            curl -fsSL --retry 2 --max-time 15 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
               "https://api.github.com/repos/$1/releases/latest" \
               2>/dev/null || echo '{}'
@@ -92,6 +95,15 @@ jobs:
 
           human_size() {
             numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "0B"
+          }
+
+          # 安全上传文件（空文件/不存在自动跳过）
+          safe_upload() {
+            local file="$1"
+            local tag="$2"
+            if [[ -f "$file" && -s "$file" ]]; then
+              gh release upload "$tag" "$file" --repo "$GITHUB_REPOSITORY" --clobber 2>/dev/null || true
+            fi
           }
 
           # =========================
@@ -151,18 +163,21 @@ jobs:
           # =========================
           backup_repo() {
             REPO="$1"
-
+            echo -e "\n====================================="
             echo "==== BACKUP: $REPO ===="
+            echo "====================================="
 
             cleanup
             mkdir -p tmp
+            local error_occurred=0
 
             REPO_SLUG=$(sanitize "$REPO")
             TAG="${REPO_SLUG}-${NOW_DATE}-${NOW_TIME}"
             TAG=$(sanitize "$TAG")
 
             if release_exists "$TAG"; then
-              echo "Skip: $TAG"
+              echo "✅ Skip: $TAG (already exists)"
+              cleanup
               return 0
             fi
 
@@ -171,86 +186,101 @@ jobs:
 
             MIRROR="tmp/${REPO_SLUG}.git"
             EXPORT="tmp/export/${REPO_SLUG}"
+            mkdir -p "$EXPORT"
 
-            # 1. 源码镜像克隆
+            # 1. 镜像克隆（失败直接跳过）
+            echo "🔽 Cloning repository..."
             git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
-              echo "clone failed"
+              echo "❌ Clone failed, skip repo"
+              cleanup
               return 0
             }
 
-            mapfile -t BRANCHES < <(
-              git -C "$MIRROR" for-each-ref --format='%(refname:short)' refs/heads
-            )
+            # 获取分支
+            mapfile -t BRANCHES < <(git -C "$MIRROR" for-each-ref --format='%(refname:short)' refs/heads 2>/dev/null || true)
+            if [[ ${#BRANCHES[@]} -eq 0 ]]; then
+              echo "❌ No branches found, skip"
+              cleanup
+              return 0
+            fi
 
-            mkdir -p "$EXPORT"
+            # 2. 打包分支（7z/sha失败不中断）
+            echo "📦 Packaging ${#BRANCHES[@]} branches..."
             FILES=()
             IDX=0
 
-            # 2. 源码打包
             for B in "${BRANCHES[@]}"; do
               B_SLUG=$(sanitize "$B")
               DIR="${EXPORT}/${B_SLUG}"
               mkdir -p "$DIR"
 
-              git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR"
+              git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
 
               ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
-              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" "$DIR" >/dev/null || true
-              sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
+              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
+              [[ -f "$ARCHIVE" && -s "$ARCHIVE" ]] && sha256sum "$ARCHIVE" > "$ARCHIVE.sha256" 2>/dev/null || true
 
-              FILES+=("$ARCHIVE" "$ARCHIVE.sha256")
+              [[ -f "$ARCHIVE" ]] && FILES+=("$ARCHIVE" "$ARCHIVE.sha256")
               IDX=$((IDX + 1))
             done
 
-            TOTAL_SIZE=$(ls *.7z 2>/dev/null | xargs -I{} stat -c%s "{}" 2>/dev/null | awk '{s+=$1} END {print s+0}')
-            TOTAL_SIZE=${TOTAL_SIZE:-0}
+            # 无文件直接退出
+            if [[ ${#FILES[@]} -eq 0 ]]; then
+              echo "❌ No packages generated, skip release"
+              cleanup
+              return 0
+            fi
 
-            # 3. 创建 Release (使用第一个源码包初始化)
+            # 统计大小
+            TOTAL_SIZE=0
+            for f in *.7z; do
+              [[ -f "$f" ]] && TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
+            done
+
+            # 3. 创建 Release（防崩溃）
+            echo "🚀 Creating release: $TAG"
             NOTES_FILE=$(mktemp)
             build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
-            echo "Creating release $TAG..."
-            gh release create "$TAG" \
-              "${FILES[0]}" \
+            # 用第一个有效文件创建 Release
+            FIRST_FILE="${FILES[0]}"
+            gh release create "$TAG" "$FIRST_FILE" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
-              --notes-file "$NOTES_FILE"
+              --notes-file "$NOTES_FILE" 2>/dev/null || {
+              echo "⚠️ Release create failed"
+              error_occurred=1
+            }
 
-            # 4. 上传剩余源码包
+            # 4. 上传剩余文件（安全上传）
+            echo "📤 Uploading ${#FILES[@]} files..."
             for ((i=1; i<${#FILES[@]}; i++)); do
-              echo "Uploading source part: ${FILES[$i]}"
-              gh release upload "$TAG" "${FILES[$i]}" --repo "$GITHUB_REPOSITORY" --clobber
+              safe_upload "${FILES[$i]}" "$TAG"
             done
 
-            # 5. 🔥 核心：逐个同步原仓库 Release Assets
-            echo "Checking for upstream release assets..."
-            # 提取所有 asset 的文件名和链接
-            ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | {name: .name, url: .browser_download_url}')
+            # 5. 同步上游 Assets（下载失败不中断）
+            echo "🔗 Sync upstream assets..."
+            ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
 
-            if [ -n "$ASSETS_DATA" ]; then
+            if [[ -n "$ASSETS_DATA" ]]; then
               while read -r asset; do
-                ASSET_NAME=$(echo "$asset" | jq -r '.name')
-                ASSET_URL=$(echo "$asset" | jq -r '.url')
-                
-                echo "--> Processing Asset: $ASSET_NAME"
-                
-                # 下载
-                curl -LSs -H "Authorization: Bearer ${GITHUB_TOKEN}" -o "up-$ASSET_NAME" "$ASSET_URL"
-                
-                # 上传到当前备份 Release
-                echo "    Uploading to backup..."
-                gh release upload "$TAG" "up-$ASSET_NAME" --repo "$GITHUB_REPOSITORY" --clobber
-                
-                # 立即删除释放空间
+                [[ -z "$asset" ]] && continue
+                ASSET_NAME=$(echo "$asset" | jq -r '.name' 2>/dev/null || continue)
+                ASSET_URL=$(echo "$asset" | jq -r '.url' 2>/dev/null || continue)
+
+                echo "--> Asset: $ASSET_NAME"
+                curl -LSs --retry 1 --max-time 30 -o "up-$ASSET_NAME" "$ASSET_URL" 2>/dev/null || continue
+                [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]] && safe_upload "up-$ASSET_NAME" "$TAG"
                 rm -f "up-$ASSET_NAME"
-                echo "    Local cleanup done."
               done <<< "$ASSETS_DATA"
             else
-              echo "No upstream assets found."
+              echo "ℹ️ No upstream assets"
             fi
 
+            # 收尾
             rm -f "$NOTES_FILE"
             cleanup
+            [[ $error_occurred -eq 0 ]] && echo "✅ Backup success: $REPO" || echo "⚠️ Backup finished with warnings"
           }
 
           # =========================
@@ -258,20 +288,28 @@ jobs:
           # =========================
           process_all() {
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
+            [[ ${#OWNERS[@]} -eq 0 ]] && { echo "❌ No owners in repositories.yaml"; exit 0; }
 
             for O in "${OWNERS[@]}"; do
-              echo "Scanning owner: $O"
-              mapfile -t LIST < <(
-                curl -fsSL \
-                  -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                  "https://api.github.com/users/$O/repos?per_page=100" \
-                | jq -r '.[] | select(.private==false) | .full_name'
-              )
+              echo -e "\n====================================="
+              echo "==== Scanning owner: $O ===="
+              echo "====================================="
+              
+              # 获取仓库列表（失败跳过）
+              LIST=$(curl -fsSL --retry 2 --max-time 20 \
+                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                "https://api.github.com/users/$O/repos?per_page=100" \
+                | jq -r '.[] | select(.private==false) | .full_name' 2>/dev/null || true)
 
-              for R in "${LIST[@]}"; do
+              mapfile -t REPOS < <(echo "$LIST" | grep -v '^$')
+              [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos"; continue; }
+
+              for R in "${REPOS[@]}"; do
                 backup_repo "$R"
               done
             done
           }
 
+          # 启动
           process_all
+          echo -e "\n🎉 All tasks finished"
