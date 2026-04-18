@@ -65,7 +65,7 @@ jobs:
           }
 
           cleanup() {
-            rm -rf tmp *.7z* *.sha256 2>/dev/null || true
+            rm -rf tmp *.7z* *.sha256 up-* 2>/dev/null || true
           }
 
           auth_url() {
@@ -95,7 +95,7 @@ jobs:
           }
 
           # =========================
-          # release notes（修正版：加入 -- 防止参数解析错误）
+          # release notes
           # =========================
           build_notes() {
             REPO="$1"
@@ -172,6 +172,7 @@ jobs:
             MIRROR="tmp/${REPO_SLUG}.git"
             EXPORT="tmp/export/${REPO_SLUG}"
 
+            # 1. 源码镜像克隆
             git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
               echo "clone failed"
               return 0
@@ -182,10 +183,10 @@ jobs:
             )
 
             mkdir -p "$EXPORT"
-
             FILES=()
             IDX=0
 
+            # 2. 源码打包
             for B in "${BRANCHES[@]}"; do
               B_SLUG=$(sanitize "$B")
               DIR="${EXPORT}/${B_SLUG}"
@@ -204,24 +205,49 @@ jobs:
             TOTAL_SIZE=$(ls *.7z 2>/dev/null | xargs -I{} stat -c%s "{}" 2>/dev/null | awk '{s+=$1} END {print s+0}')
             TOTAL_SIZE=${TOTAL_SIZE:-0}
 
-            BRANCH_COUNT="${#BRANCHES[@]}"
-
+            # 3. 创建 Release (使用第一个源码包初始化)
             NOTES_FILE=$(mktemp)
-            build_notes "$REPO" "$REPO_JSON" "$BRANCH_COUNT" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
+            build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
-            # create release
+            echo "Creating release $TAG..."
             gh release create "$TAG" \
               "${FILES[0]}" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
               --notes-file "$NOTES_FILE"
 
-            # upload rest files
+            # 4. 上传剩余源码包
             for ((i=1; i<${#FILES[@]}; i++)); do
-              gh release upload "$TAG" "${FILES[$i]}" \
-                --repo "$GITHUB_REPOSITORY" \
-                --clobber
+              echo "Uploading source part: ${FILES[$i]}"
+              gh release upload "$TAG" "${FILES[$i]}" --repo "$GITHUB_REPOSITORY" --clobber
             done
+
+            # 5. 🔥 核心：逐个同步原仓库 Release Assets
+            echo "Checking for upstream release assets..."
+            # 提取所有 asset 的文件名和链接
+            ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | {name: .name, url: .browser_download_url}')
+
+            if [ -n "$ASSETS_DATA" ]; then
+              while read -r asset; do
+                ASSET_NAME=$(echo "$asset" | jq -r '.name')
+                ASSET_URL=$(echo "$asset" | jq -r '.url')
+                
+                echo "--> Processing Asset: $ASSET_NAME"
+                
+                # 下载
+                curl -LSs -H "Authorization: Bearer ${GITHUB_TOKEN}" -o "up-$ASSET_NAME" "$ASSET_URL"
+                
+                # 上传到当前备份 Release
+                echo "    Uploading to backup..."
+                gh release upload "$TAG" "up-$ASSET_NAME" --repo "$GITHUB_REPOSITORY" --clobber
+                
+                # 立即删除释放空间
+                rm -f "up-$ASSET_NAME"
+                echo "    Local cleanup done."
+              done <<< "$ASSETS_DATA"
+            else
+              echo "No upstream assets found."
+            fi
 
             rm -f "$NOTES_FILE"
             cleanup
@@ -231,7 +257,6 @@ jobs:
           # runner
           # =========================
           process_all() {
-            # 确保从 repositories.yaml 读取成功
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
 
             for O in "${OWNERS[@]}"; do
