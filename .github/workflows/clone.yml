@@ -2,7 +2,7 @@ name: Clone Backup Repositories
 
 on:
   schedule:
-    - cron: "0 0 */3 * *"   # 每72小时
+    - cron: "0 0 */3 * *"
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-  
+
       - name: Free Disk Space (Ubuntu)
         uses: jlumbroso/free-disk-space@main
         with:
@@ -28,7 +28,7 @@ jobs:
           large-packages: true
           docker-images: true
           swap-storage: true
-
+          
       - name: Install dependencies
         run: |
           sudo apt-get update
@@ -49,34 +49,50 @@ jobs:
             rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
-          # =========================
-          # GitHub Auth（统一 MY_TOKEN）
-          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
+          # =========================
+          # release API（防 404 / 空）
+          # =========================
           fetch_release() {
+            local REPO="$1"
+
             curl -fsSL \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              "https://api.github.com/repos/$1/releases/latest" \
-              2>/dev/null || echo '{}'
+              "https://api.github.com/repos/$REPO/releases/latest" \
+              2>/dev/null || echo '{"assets":[]}'
           }
 
+          # =========================
+          # size（防 null）
+          # =========================
           get_release_size() {
-            echo "$1" | jq '[.assets[].size] | add // 0'
+            echo "$1" | jq '[.assets // [] | .[].size] | add // 0'
           }
 
+          # =========================
+          # assets（防 null）
+          # =========================
           fetch_assets() {
-            echo "$1" | jq -r '.assets[]?.browser_download_url'
+            echo "$1" | jq -r '.assets // [] | .[]? | .browser_download_url'
           }
 
+          # =========================
+          # batch assets（防越界）
+          # =========================
           fetch_assets_batch() {
             local JSON="$1"
             local OFFSET="$2"
             local SIZE="$3"
 
-            echo "$JSON" | jq -r ".assets[$OFFSET:$OFFSET+$SIZE][]?.browser_download_url"
+            echo "$JSON" | jq -r \
+              ".assets // [] | .[$OFFSET:$OFFSET+$SIZE][]? | .browser_download_url"
+          }
+
+          release_exists() {
+            gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
           backup_release() {
@@ -88,11 +104,18 @@ jobs:
             mkdir -p tmp/assets
 
             REL_JSON=$(fetch_release "$REPO")
-            TOTAL_SIZE=$(get_release_size "$REL_JSON")
+
+            # 防 GitHub Not Found
+            if echo "$REL_JSON" | jq -e '.message? == "Not Found"' >/dev/null 2>&1; then
+              echo "⚠️ No release found, fallback empty"
+              REL_JSON='{"assets":[]}'
+            fi
 
             NAME="${REPO#*/}"
 
-            echo "Total size: $TOTAL_SIZE bytes"
+            TOTAL_SIZE=$(get_release_size "$REL_JSON")
+
+            echo "Total size: ${TOTAL_SIZE} bytes"
 
             # =========================
             # 小于 8GB
@@ -102,6 +125,8 @@ jobs:
               mapfile -t URLS < <(fetch_assets "$REL_JSON")
 
               for URL in "${URLS[@]}"; do
+                [ -z "$URL" ] && continue
+
                 FILE="tmp/assets/$(basename "$URL")"
 
                 curl -fL \
@@ -112,7 +137,7 @@ jobs:
 
               ARCHIVE="${NAME}.7z"
 
-              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" tmp/assets >/dev/null
+              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" tmp/assets >/dev/null || true
 
               sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
 
@@ -120,7 +145,7 @@ jobs:
                 "$ARCHIVE" "$ARCHIVE.sha256" \
                 --repo "$GITHUB_REPOSITORY" \
                 --title "$NAME ($NOW_HUMAN)" \
-                --notes "single batch backup"
+                --notes "safe backup mode"
 
               cleanup
               return 0
@@ -131,7 +156,7 @@ jobs:
             # =========================
             echo "Batch mode enabled"
 
-            TOTAL=$(echo "$REL_JSON" | jq '.assets | length')
+            TOTAL=$(echo "$REL_JSON" | jq '.assets // [] | length')
 
             BATCH=5
             OFFSET=0
@@ -148,6 +173,8 @@ jobs:
               mkdir -p tmp/assets
 
               for URL in "${URLS[@]}"; do
+                [ -z "$URL" ] && continue
+
                 FILE="tmp/assets/$(basename "$URL")"
 
                 curl -fL \
@@ -163,7 +190,7 @@ jobs:
                 -mx=5 \
                 -mmt=2 \
                 "$ARCHIVE" \
-                tmp/assets >/dev/null
+                tmp/assets >/dev/null || true
 
               sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
 
@@ -171,7 +198,7 @@ jobs:
                 "$ARCHIVE" "$ARCHIVE.sha256" \
                 --repo "$GITHUB_REPOSITORY" \
                 --title "$NAME part $IDX ($NOW_HUMAN)" \
-                --notes "batch backup part $IDX"
+                --notes "batch safe backup"
 
               rm -rf tmp/assets
 
@@ -184,6 +211,9 @@ jobs:
             cleanup
           }
 
+          # =========================
+          # repo list
+          # =========================
           process_repositories() {
             mapfile -t REPOS < <(yq -r '.repositories.repo0[]' repositories.yaml 2>/dev/null || true)
 
