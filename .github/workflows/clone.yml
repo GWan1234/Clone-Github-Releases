@@ -2,7 +2,7 @@ name: Clone Backup Repositories
 
 on:
   schedule:
-    - cron: "0 0 */3 * *"
+    - cron: "0 0 */3 * *"   # 每72小时
   workflow_dispatch:
 
 jobs:
@@ -13,10 +13,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+    - name: Free Disk Space (Ubuntu)
+      uses: jlumbroso/free-disk-space@main
+      with:
+        # this might remove tools that are actually needed,
+        # if set to "true" but frees about 6 GB
+        tool-cache: true
+        
+        # all of these default to true, but feel free to set to
+        # "false" if necessary for your workflow
+        android: true
+        dotnet: true
+        haskell: true
+        large-packages: true
+        docker-images: true
+        swap-storage: true
+        
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq yq gh git curl p7zip-full
+          sudo apt-get install -y jq yq gh git curl p7zip-full coreutils
 
       - name: Run backup
         env:
@@ -33,12 +49,11 @@ jobs:
             rm -rf tmp *.7z* *.sha256 2>/dev/null || true
           }
 
+          # =========================
+          # GitHub Auth（统一 MY_TOKEN）
+          # =========================
           auth_url() {
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
-          }
-
-          release_exists() {
-            gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
 
           fetch_release() {
@@ -48,208 +63,149 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
-          last_commit() {
-            git -C "$1" log -1 --format=%cd --date=short 2>/dev/null || echo "unknown"
+          get_release_size() {
+            echo "$1" | jq '[.assets[].size] | add // 0'
           }
 
-          fetch_owner_repos() {
-            local OWNER="$1"
-            local PAGE=1
-
-            while :; do
-              BODY=$(curl -fsSL \
-                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                "https://api.github.com/users/$OWNER/repos?per_page=100&page=$PAGE" \
-                2>/dev/null || true)
-
-              COUNT=$(echo "$BODY" | jq 'length' 2>/dev/null || echo 0)
-              [ "$COUNT" -eq 0 ] && break
-
-              echo "$BODY" | jq -r '
-                .[]
-                | select(.private == false)
-                | select(.archived == false)
-                | select(.disabled == false)
-                | .full_name
-              '
-
-              PAGE=$((PAGE+1))
-            done
+          fetch_assets() {
+            echo "$1" | jq -r '.assets[]?.browser_download_url'
           }
 
-          # 等待 release 在 GitHub API 中可见
-          wait_release_ready() {
-            local TAG="$1"
-            local RETRIES=10
-            local SLEEP_SECS=3
+          fetch_assets_batch() {
+            local JSON="$1"
+            local OFFSET="$2"
+            local SIZE="$3"
 
-            for ((i=1; i<=RETRIES; i++)); do
-              if gh api "repos/${GITHUB_REPOSITORY}/releases/tags/${TAG}" >/dev/null 2>&1; then
-                return 0
-              fi
-              sleep "$SLEEP_SECS"
-            done
-
-            return 1
+            echo "$JSON" | jq -r ".assets[$OFFSET:$OFFSET+$SIZE][]?.browser_download_url"
           }
 
-          # 获取 release 资产数量
-          get_release_asset_count() {
-            local TAG="$1"
-            gh api "repos/${GITHUB_REPOSITORY}/releases/tags/${TAG}" --jq '.assets | length' 2>/dev/null || echo 0
-          }
+          backup_release() {
+            local REPO="$1"
 
-          backup_repo() {
-            local TAG="$1"
-            local TITLE="$2"
-            local REPO="$3"
-
-            echo "==== Processing $REPO ===="
-
-            if ! git ls-remote "$(auth_url "$REPO")" >/dev/null 2>&1; then
-              echo "⛔ Skip inaccessible repo: $REPO"
-              return 0
-            fi
-
-            local TAG_TS="${TAG}-${NOW_DATE}-${NOW_TIME}"
-
-            if release_exists "$TAG_TS"; then
-              echo "Skip existing: $TAG_TS"
-              return 0
-            fi
+            echo "==== RELEASE BACKUP: $REPO ===="
 
             cleanup
-            mkdir -p tmp/src tmp/assets
+            mkdir -p tmp/assets
+
+            REL_JSON=$(fetch_release "$REPO")
+            TOTAL_SIZE=$(get_release_size "$REL_JSON")
 
             NAME="${REPO#*/}"
 
-            if ! git clone \
-              --depth=1 \
-              --recurse-submodules \
-              --shallow-submodules \
-              "$(auth_url "$REPO")" \
-              "tmp/src/$NAME"; then
-                echo "⛔ Clone failed: $REPO"
-                return 0
-            fi
+            echo "Total size: $TOTAL_SIZE bytes"
 
-            git -C "tmp/src/$NAME" submodule update \
-              --init \
-              --recursive \
-              --force || true
+            # =========================
+            # 小于 8GB
+            # =========================
+            if [ "$TOTAL_SIZE" -lt 8589934592 ]; then
 
-            SRC_DATE=$(last_commit "tmp/src/$NAME")
+              mapfile -t URLS < <(fetch_assets "$REL_JSON")
 
-            REL_JSON=$(fetch_release "$REPO")
-            REL_DATE=$(echo "$REL_JSON" | jq -r '.published_at // "none"' | cut -d'T' -f1)
+              for URL in "${URLS[@]}"; do
+                FILE="tmp/assets/$(basename "$URL")"
 
-            mapfile -t URLS < <(echo "$REL_JSON" | jq -r '.assets[]?.browser_download_url // empty')
-
-            for URL in "${URLS[@]}"; do
-              FILE_NAME=$(basename "${URL%%\?*}")
-              curl -fL \
-                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                -o "tmp/assets/$FILE_NAME" "$URL" || true
-            done
-
-            # 清理坏符号链接，避免 7z 报错
-            find "tmp/src/$NAME" -xtype l -delete 2>/dev/null || true
-
-            ARCHIVE="${NAME}.7z"
-
-            set +e
-            7z a \
-              -t7z \
-              -mx=9 \
-              -m0=lzma2 \
-              -snl \
-              -snh \
-              -v1800m \
-              "$ARCHIVE" \
-              tmp >/dev/null
-            RC=$?
-            set -e
-
-            # 0 = 成功，1 = 警告，>1 = 真失败
-            if [ "$RC" -gt 1 ]; then
-              echo "❌ 7z fatal error: $RC"
-              cleanup
-              return 0
-            fi
-
-            PARTS=( ${NAME}.7z.* )
-            if [ "${#PARTS[@]}" -eq 0 ]; then
-              echo "❌ No 7z parts generated"
-              cleanup
-              return 0
-            fi
-
-            sha256sum "${PARTS[0]}" > "${ARCHIVE}.sha256"
-
-            RELEASE_TITLE="${TITLE} (${NOW_HUMAN})"
-
-            NOTES=$(printf "Repository: https://github.com/%s\nSource Updated: %s\nLatest Release Date: %s\nBackup Time: %s\n" \
-              "$REPO" "$SRC_DATE" "$REL_DATE" "$NOW_HUMAN")
-
-            echo "🚀 Creating release..."
-
-            if ! gh release create "$TAG_TS" \
-              "${PARTS[@]}" "${ARCHIVE}.sha256" \
-              --repo "$GITHUB_REPOSITORY" \
-              --title "$RELEASE_TITLE" \
-              --notes "$NOTES"; then
-              echo "❌ Upload failed, deleting release"
-              gh release delete "$TAG_TS" --yes --repo "$GITHUB_REPOSITORY" || true
-              cleanup
-              return 0
-            fi
-
-            # 等待 release 真正可见，避免刚创建就查不到
-            if ! wait_release_ready "$TAG_TS"; then
-              echo "⚠️ Release not visible yet, skip validation this round"
-              cleanup
-              return 0
-            fi
-
-            ASSET_COUNT=$(get_release_asset_count "$TAG_TS")
-            if [ "${ASSET_COUNT:-0}" -eq 0 ]; then
-              # 再等几次，避免 API 同步延迟
-              for _ in 1 2 3; do
-                sleep 3
-                ASSET_COUNT=$(get_release_asset_count "$TAG_TS")
-                [ "${ASSET_COUNT:-0}" -gt 0 ] && break
+                curl -fL \
+                  --retry 3 --retry-delay 2 \
+                  -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                  -o "$FILE" "$URL" || true
               done
-            fi
 
-            if [ "${ASSET_COUNT:-0}" -eq 0 ]; then
-              echo "❌ Empty release, deleting"
-              gh release delete "$TAG_TS" --yes --repo "$GITHUB_REPOSITORY" || true
+              ARCHIVE="${NAME}.7z"
+
+              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" tmp/assets >/dev/null
+
+              sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
+
+              gh release create "${NAME}-${NOW_DATE}-${NOW_TIME}" \
+                "$ARCHIVE" "$ARCHIVE.sha256" \
+                --repo "$GITHUB_REPOSITORY" \
+                --title "$NAME ($NOW_HUMAN)" \
+                --notes "single batch backup"
+
               cleanup
               return 0
             fi
+
+            # =========================
+            # 大于 8GB（分批）
+            # =========================
+            echo "Batch mode enabled"
+
+            TOTAL=$(echo "$REL_JSON" | jq '.assets | length')
+
+            BATCH=5
+            OFFSET=0
+            IDX=0
+
+            while [ "$OFFSET" -lt "$TOTAL" ]; do
+
+              echo "Batch $IDX ($OFFSET - $((OFFSET+BATCH)))"
+
+              mapfile -t URLS < <(
+                fetch_assets_batch "$REL_JSON" "$OFFSET" "$BATCH"
+              )
+
+              mkdir -p tmp/assets
+
+              for URL in "${URLS[@]}"; do
+                FILE="tmp/assets/$(basename "$URL")"
+
+                curl -fL \
+                  --retry 3 --retry-delay 2 \
+                  -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                  -o "$FILE" "$URL" || true
+              done
+
+              ARCHIVE="${NAME}-part-${IDX}.7z"
+
+              7z a \
+                -t7z \
+                -mx=5 \
+                -mmt=2 \
+                "$ARCHIVE" \
+                tmp/assets >/dev/null
+
+              sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
+
+              gh release create "${NAME}-${NOW_DATE}-${NOW_TIME}-p${IDX}" \
+                "$ARCHIVE" "$ARCHIVE.sha256" \
+                --repo "$GITHUB_REPOSITORY" \
+                --title "$NAME part $IDX ($NOW_HUMAN)" \
+                --notes "batch backup part $IDX"
+
+              rm -rf tmp/assets
+
+              OFFSET=$((OFFSET + BATCH))
+              IDX=$((IDX + 1))
+
+              sleep 2
+            done
 
             cleanup
-          }
-
-          process_allrepositories() {
-            mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
-
-            for OWNER in "${OWNERS[@]}"; do
-              mapfile -t LIST < <(fetch_owner_repos "$OWNER")
-
-              for REPO in "${LIST[@]}"; do
-                NAME="${REPO#*/}"
-                backup_repo "${OWNER}-${NAME}" "$NAME" "$REPO"
-              done
-            done
           }
 
           process_repositories() {
             mapfile -t REPOS < <(yq -r '.repositories.repo0[]' repositories.yaml 2>/dev/null || true)
 
             for REPO in "${REPOS[@]}"; do
-              NAME="${REPO#*/}"
-              backup_repo "$NAME" "$NAME" "$REPO"
+              backup_release "$REPO"
+            done
+          }
+
+          process_allrepositories() {
+            mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
+
+            for OWNER in "${OWNERS[@]}"; do
+              mapfile -t LIST < <(
+                curl -fsSL \
+                  -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                  "https://api.github.com/users/$OWNER/repos?per_page=100" \
+                | jq -r '.[] | select(.private==false) | .full_name'
+              )
+
+              for REPO in "${LIST[@]}"; do
+                backup_release "$REPO"
+              done
             done
           }
 
