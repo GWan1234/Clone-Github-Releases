@@ -1,6 +1,7 @@
 allrepositories:
   - anzhiyu-c
   - rustdesk
+  - armbian
   - cockpit-project
   - home-assistant
   - esphome
