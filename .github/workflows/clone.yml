@@ -196,8 +196,16 @@ jobs:
               return 0
             }
 
-            # 获取分支
-            mapfile -t BRANCHES < <(git -C "$MIRROR" for-each-ref --format='%(refname:short)' refs/heads 2>/dev/null || true)
+            # 获取分支 → 只保留最近 5 个分支
+            mapfile -t BRANCHES < <(
+              git -C "$MIRROR" for-each-ref \
+                --sort=-committerdate \
+                --format='%(refname:short)' \
+                refs/heads 2>/dev/null || true
+            )
+            # 只取前 5 个
+            BRANCHES=("${BRANCHES[@]:0:5}")
+            
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
               cleanup
