@@ -16,12 +16,7 @@ jobs:
       - name: Free Disk Space (Ubuntu)
         uses: jlumbroso/free-disk-space@main
         with:
-          # this might remove tools that are actually needed,
-          # if set to "true" but frees about 6 GB
           tool-cache: true
-          
-          # all of these default to true, but feel free to set to
-          # "false" if necessary for your workflow
           android: true
           dotnet: true
           haskell: true
@@ -53,7 +48,7 @@ jobs:
           # =========================
           safe() {
             local v="${1:-unknown}"
-            if [ -z "$v" ] || [ "$v" = "-" ] || [ "$v" = "null" ]; then
+            if [[ -z "$v" || "$v" == "null" || "$v" == "-" || "$v" == "none" ]]; then
               echo "unknown"
             else
               echo "$v"
@@ -100,7 +95,7 @@ jobs:
           }
 
           # =========================
-          # release notes（完全安全版）
+          # release notes（修正版：加入 -- 防止参数解析错误）
           # =========================
           build_notes() {
             REPO="$1"
@@ -125,30 +120,30 @@ jobs:
             UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"' 2>/dev/null)")
             UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"' 2>/dev/null)")
 
-            printf "## 📦 Repository Info\n"
-            printf "- URL: %s\n" "$REPO_URL"
-            printf "- Description: %s\n" "$DESC"
-            printf "- Default branch: %s\n" "$DEF_BRANCH"
-            printf "- Language: %s\n" "$LANG"
-            printf "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
-            printf "\n"
+            printf -- "## 📦 Repository Info\n"
+            printf -- "- URL: %s\n" "$REPO_URL"
+            printf -- "- Description: %s\n" "$DESC"
+            printf -- "- Default branch: %s\n" "$DEF_BRANCH"
+            printf -- "- Language: %s\n" "$LANG"
+            printf -- "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
+            printf -- "\n"
 
-            printf "## 🕒 Source Timeline\n"
-            printf "- Created: %s\n" "$CREATED"
-            printf "- Updated: %s\n" "$UPDATED"
-            printf "- Pushed: %s\n" "$PUSHED"
-            printf "\n"
+            printf -- "## 🕒 Source Timeline\n"
+            printf -- "- Created: %s\n" "$CREATED"
+            printf -- "- Updated: %s\n" "$UPDATED"
+            printf -- "- Pushed: %s\n" "$PUSHED"
+            printf -- "\n"
 
-            printf "## 🏷 Upstream Release\n"
-            printf "- Tag: %s\n" "$UP_TAG"
-            printf "- Name: %s\n" "$UP_NAME"
-            printf "- Published: %s\n" "$UP_TIME"
-            printf "\n"
+            printf -- "## 🏷 Upstream Release\n"
+            printf -- "- Tag: %s\n" "$UP_TAG"
+            printf -- "- Name: %s\n" "$UP_NAME"
+            printf -- "- Published: %s\n" "$UP_TIME"
+            printf -- "\n"
 
-            printf "## 📊 Backup Info\n"
-            printf "- Branch count: %s\n" "$BRANCH_COUNT"
-            printf "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
-            printf "- Backup time: %s\n" "$RELEASE_TIME"
+            printf -- "## 📊 Backup Info\n"
+            printf -- "- Branch count: %s\n" "$BRANCH_COUNT"
+            printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
+            printf -- "- Backup time: %s\n" "$RELEASE_TIME"
           }
 
           # =========================
@@ -192,12 +187,13 @@ jobs:
             IDX=0
 
             for B in "${BRANCHES[@]}"; do
-              DIR="${EXPORT}/$(sanitize "$B")"
+              B_SLUG=$(sanitize "$B")
+              DIR="${EXPORT}/${B_SLUG}"
               mkdir -p "$DIR"
 
               git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR"
 
-              ARCHIVE="${REPO_SLUG}-part-${IDX}.7z"
+              ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
               7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" "$DIR" >/dev/null || true
               sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
 
@@ -205,9 +201,6 @@ jobs:
               IDX=$((IDX + 1))
             done
 
-            # =========================
-            # SAFE size calc（不会炸）
-            # =========================
             TOTAL_SIZE=$(ls *.7z 2>/dev/null | xargs -I{} stat -c%s "{}" 2>/dev/null | awk '{s+=$1} END {print s+0}')
             TOTAL_SIZE=${TOTAL_SIZE:-0}
 
@@ -238,9 +231,11 @@ jobs:
           # runner
           # =========================
           process_all() {
+            # 确保从 repositories.yaml 读取成功
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
 
             for O in "${OWNERS[@]}"; do
+              echo "Scanning owner: $O"
               mapfile -t LIST < <(
                 curl -fsSL \
                   -H "Authorization: Bearer ${GITHUB_TOKEN}" \
