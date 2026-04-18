@@ -2,7 +2,6 @@ allrepositories:
   - anzhiyu-c
   - rustdesk
   - cockpit-project
-  - armbian
   - home-assistant
   - esphome
   - OpenListTeam
@@ -37,7 +36,7 @@ repositories:
 
   name2:
     - frpc
-    
+
   repo2:
     - fatedier/frp
 
