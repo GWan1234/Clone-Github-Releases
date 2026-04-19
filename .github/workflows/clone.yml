@@ -30,7 +30,7 @@ jobs:
       - name: Install deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq yq gh git curl p7zip-full coreutils
+          sudo apt-get install -y jq gh git curl p7zip-full coreutils
 
       - name: Run backup
         env:
@@ -110,13 +110,22 @@ jobs:
           }
 
           # =========================
-          # 追踪文件写入（修复 yq 版本兼容）
+          # 纯 bash 写入追踪文件（100% 无报错）
           # =========================
           set_tracking() {
             local repo="$1"
             local state="$2"
-            yq eval ".\"$repo\" = \"$state\"" "$TRACKING_FILE" > "$TRACKING_FILE.tmp"
-            mv "$TRACKING_FILE.tmp" "$TRACKING_FILE"
+            echo "\"$repo\": \"$state\"" >> "$TRACKING_FILE"
+          }
+
+          # =========================
+          # 读取上一次状态（纯 bash）
+          # =========================
+          get_last_state() {
+            local repo="$1"
+            if [[ -f "$LAST_TRACKING_FILE" ]]; then
+              grep "^\"$repo\":" "$LAST_TRACKING_FILE" | head -n1 | sed -E 's/^"[^"]+": "([^"]+)".*/\1/'
+            fi
           }
 
           # =========================
@@ -150,16 +159,10 @@ jobs:
           need_backup() {
             local repo="$1"
             local current_state="$2"
-
-            if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
-              return 0
-            fi
-
-            local last_state=$(yq e ".\"$repo\" // \"\"" "$LAST_TRACKING_FILE" 2>/dev/null || true)
+            local last_state=$(get_last_state "$repo")
             if [[ -z "$last_state" || "$last_state" != "$current_state" ]]; then
               return 0
             fi
-
             return 1
           }
 
@@ -251,7 +254,7 @@ jobs:
             set_tracking "$REPO" "$CURRENT_STATE"
 
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
-              echo "✅ Skip: $REpo (no changes in 5 branches)"
+              echo "✅ Skip: $REPO (no changes in 5 branches)"
               cleanup
               return 0
             fi
@@ -358,9 +361,9 @@ jobs:
           # 批量处理
           # =========================
           process_all() {
-            echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
+            echo "# commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
             
-            mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
+            mapfile -t OWNERS < <(jq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
             [[ ${#OWNERS[@]} -eq 0 ]] && { echo "❌ No owners in repositories.yaml"; exit 0; }
 
             for O in "${OWNERS[@]}"; do
