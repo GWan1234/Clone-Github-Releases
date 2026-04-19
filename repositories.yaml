@@ -36,12 +36,27 @@ repositories:
   name1:
     - mihomo
     - QModem
+    - MISTERNEGATIVE21
+    - maxming2333
+    - chenxuuu
+    - dushixiang
+    - GWan1234
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
+    - MISTERNEGATIVE21/QuectelEC200U
+    - maxming2333/esp32-sms-forwarding
+    - chenxuuu/sms_forwarding
+    - dushixiang/uart_sms_forwarder
+    - GWan1234/msg_forward_new
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
+    - https://github.com/MISTERNEGATIVE21/QuectelEC200U
+    - https://github.com/maxming2333/esp32-sms-forwarding
+    - https://github.com/chenxuuu/sms_forwarding
+    - https://github.com/dushixiang/uart_sms_forwarder
+    - https://github.com/GWan1234/msg_forward_new
 
   name2:
     - frpc
