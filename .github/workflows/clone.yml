@@ -41,13 +41,19 @@ jobs:
           shopt -s nullglob globstar
 
           # =========================
-          # 时间配置
+          # 时间配置（已修复：优先使用当天已存在的 tracking）
           # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
           TRACKING_FILE="commit-tracking-${NOW_DATE}.yaml"
-          LAST_TRACKING_FILE=$(ls -1 commit-tracking-*.yaml 2>/dev/null | sort -r | head -n1 || true)
+
+          # 修复点：当天已有tracking则优先使用，解决重复备份
+          if [[ -f "$TRACKING_FILE" ]]; then
+            LAST_TRACKING_FILE="$TRACKING_FILE"
+          else
+            LAST_TRACKING_FILE=$(ls -1 commit-tracking-*.yaml 2>/dev/null | sort -r | head -n1 || true)
+          fi
 
           # =========================
           # 安全函数
@@ -119,7 +125,7 @@ jobs:
           }
 
           # =========================
-          # 【新增】立即同步 tracking 文件到仓库
+          # 立即同步 tracking 文件到仓库
           # =========================
           sync_tracking() {
             echo -e "\n💾 Syncing tracking file to GitHub..."
@@ -163,12 +169,22 @@ jobs:
           }
 
           # =========================
-          # 判断是否需要备份
+          # 判断是否需要备份（已修复：当天已备份则直接跳过）
           # =========================
           need_backup() {
             local repo="$1"
             local current_state="$2"
 
+            # 优先检查：今天是否已经备份过
+            if [[ -f "$TRACKING_FILE" ]]; then
+              local today_state
+              today_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$TRACKING_FILE" 2>/dev/null || true)
+              if [[ -n "$today_state" && "$today_state" == "$current_state" ]]; then
+                return 1  # 已备份，跳过
+              fi
+            fi
+
+            # 再检查历史记录
             if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
               return 0
             fi
@@ -410,13 +426,15 @@ jobs:
           }
 
           # =========================
-          # 批量处理（已支持 # 注释跳过 + 实时同步 tracking）
+          # 批量处理（#注释跳过 + 实时同步）
           # =========================
           process_all() {
-            echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
+            # 如果今天文件不存在，才创建头部
+            if [[ ! -f "$TRACKING_FILE" ]]; then
+              echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
+            fi
 
-            # 1) allrepositories: 备份某个用户/组织名下全部公开仓库
-            # 【新增】过滤 # 开头的注释行
+            # 1) allrepositories
             mapfile -t OWNERS < <(
               yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
               | grep -v '^[[:space:]]*#' \
@@ -436,11 +454,10 @@ jobs:
                 backup_repo "$R"
               done
 
-              # 【关键】每个 OWNER 完成立即同步
               sync_tracking
             done
 
-            # 2) repositories: 备份手动指定仓库，读取 repo0/repo1/repo2...
+            # 2) repositories
             echo -e "\n====================================="
             echo "==== Processing manual repositories ===="
             echo "====================================="
@@ -454,7 +471,6 @@ jobs:
 
               echo "➡️ Group: $KEY"
 
-              # 【新增】过滤 # 开头的注释行
               mapfile -t REPOS < <(
                 yq -r ".repositories.${KEY} // [] | .[]" repositories.yaml 2>/dev/null \
                 | grep -v '^[[:space:]]*#' \
@@ -467,7 +483,6 @@ jobs:
                 backup_repo "$R"
               done
 
-              # 【关键】每个分组完成立即同步
               sync_tracking
               INDEX=$((INDEX + 1))
             done
@@ -476,7 +491,6 @@ jobs:
           # 执行
           process_all
 
-          # 最终兜底同步
           sync_tracking
 
           echo -e "\n🎉 All done"
