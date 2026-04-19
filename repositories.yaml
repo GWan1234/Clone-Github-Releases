@@ -6,6 +6,8 @@ allrepositories:
   - home-assistant
   - hacs
   - esphome
+  - domoticz
+  - ioBroker
   - OpenListTeam
   - Finb
   - algerkong
