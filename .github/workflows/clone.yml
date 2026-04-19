@@ -119,6 +119,20 @@ jobs:
           }
 
           # =========================
+          # 【新增】立即同步 tracking 文件到仓库
+          # =========================
+          sync_tracking() {
+            echo -e "\n💾 Syncing tracking file to GitHub..."
+            git config --global user.name "Action"
+            git config --global user.email "action@github.com"
+            git add "$TRACKING_FILE"
+            git commit -m "track sync: $NOW_HUMAN" 2>/dev/null || true
+            git pull --rebase 2>/dev/null || true
+            git push origin HEAD 2>/dev/null || true
+            echo "✅ Tracking file synced"
+          }
+
+          # =========================
           # 获取前5个分支 commit + 最新 release 时间
           # =========================
           get_repo_current_state() {
@@ -396,13 +410,19 @@ jobs:
           }
 
           # =========================
-          # 批量处理
+          # 批量处理（已支持 # 注释跳过 + 实时同步 tracking）
           # =========================
           process_all() {
             echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
 
             # 1) allrepositories: 备份某个用户/组织名下全部公开仓库
-            mapfile -t OWNERS < <(yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null || true)
+            # 【新增】过滤 # 开头的注释行
+            mapfile -t OWNERS < <(
+              yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
+              | grep -v '^[[:space:]]*#' \
+              | sed '/^[[:space:]]*$/d' || true
+            )
+
             for O in "${OWNERS[@]}"; do
               [[ -z "$O" ]] && continue
               echo -e "\n====================================="
@@ -415,6 +435,9 @@ jobs:
               for R in "${REPOS[@]}"; do
                 backup_repo "$R"
               done
+
+              # 【关键】每个 OWNER 完成立即同步
+              sync_tracking
             done
 
             # 2) repositories: 备份手动指定仓库，读取 repo0/repo1/repo2...
@@ -431,8 +454,11 @@ jobs:
 
               echo "➡️ Group: $KEY"
 
+              # 【新增】过滤 # 开头的注释行
               mapfile -t REPOS < <(
-                yq -r ".repositories.${KEY} // [] | .[]" repositories.yaml 2>/dev/null | grep -v '^$' || true
+                yq -r ".repositories.${KEY} // [] | .[]" repositories.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
               )
 
               for R in "${REPOS[@]}"; do
@@ -441,6 +467,8 @@ jobs:
                 backup_repo "$R"
               done
 
+              # 【关键】每个分组完成立即同步
+              sync_tracking
               INDEX=$((INDEX + 1))
             done
           }
@@ -448,12 +476,7 @@ jobs:
           # 执行
           process_all
 
-          # 提交追踪文件
-          echo -e "\n📤 Committing tracking file..."
-          git config --global user.name "Action"
-          git config --global user.email "action@github.com"
-          git add "$TRACKING_FILE"
-          git commit -m "track: $NOW_HUMAN" || true
-          git push origin HEAD || true
+          # 最终兜底同步
+          sync_tracking
 
           echo -e "\n🎉 All done"
