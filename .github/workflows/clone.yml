@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.MY_TOKEN }}
 
       - name: Free Disk Space (Ubuntu)
         uses: jlumbroso/free-disk-space@main
@@ -35,14 +38,16 @@ jobs:
         run: |
           set -euo pipefail
           export GIT_TERMINAL_PROMPT=0
-          shopt -s nullglob globstar  # 防止空通配符崩溃
+          shopt -s nullglob globstar
 
           # =========================
-          # 时间
+          # 时间配置
           # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
+          TRACKING_FILE="commit-tracking-${NOW_DATE}.yaml"
+          LAST_TRACKING_FILE=$(ls -1 commit-tracking-*.yaml 2>/dev/null | sort -r | head -n1 || true)
 
           # =========================
           # 安全函数
@@ -65,10 +70,9 @@ jobs:
               | sed 's/^-//;s/-$//'
           }
 
-          # 加强版清理，防止磁盘泄漏
           cleanup() {
             rm -rf tmp *.7z* *.sha256 up-* core.* .gitignore .DS_Store 2>/dev/null || true
-            df -h  # 打印磁盘状态便于调试
+            df -h
           }
 
           auth_url() {
@@ -97,7 +101,6 @@ jobs:
             numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "0B"
           }
 
-          # 安全上传文件（空文件/不存在自动跳过）
           safe_upload() {
             local file="$1"
             local tag="$2"
@@ -107,7 +110,50 @@ jobs:
           }
 
           # =========================
-          # release notes
+          # 增量备份：获取 前5个分支 所有 commit
+          # =========================
+          get_repo_current_state() {
+            local repo="$1"
+            local repo_json="$2"
+            local release_json="$3"
+
+            # 获取按提交时间排序的前5个分支
+            local branches_data=$(curl -fsSL --retry 1 --max-time 20 \
+              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/repos/$repo/branches?per_page=100" 2>/dev/null | jq -c 'sort_by(.commit.commit.author.date) | reverse | .[0:5]' 2>/dev/null || true)
+
+            local branch_states=""
+            while read -r br; do
+              local name=$(echo "$br" | jq -r '.name' 2>/dev/null)
+              local sha=$(echo "$br" | jq -r '.commit.sha' 2>/dev/null)
+              if [[ -n "$name" && -n "$sha" && "$name" != "null" ]]; then
+                branch_states+="${name}:${sha};"
+              fi
+            done < <(echo "$branches_data" | jq -c '.[]?' 2>/dev/null || true)
+
+            local release_time=$(echo "$release_json" | jq -r '.published_at // "none"' 2>/dev/null)
+            echo "${branch_states}|${release_time}"
+          }
+
+          # 对比：任意分支变化 / 新发布 → 需要备份
+          need_backup() {
+            local repo="$1"
+            local current_state="$2"
+
+            if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
+              return 0
+            fi
+
+            local last_state=$(yq e ".\"$repo\" // \"\"" "$LAST_TRACKING_FILE" 2>/dev/null || true)
+            if [[ -z "$last_state" || "$last_state" != "$current_state" ]]; then
+              return 0
+            fi
+
+            return 1
+          }
+
+          # =========================
+          # release 说明
           # =========================
           build_notes() {
             REPO="$1"
@@ -156,10 +202,13 @@ jobs:
             printf -- "- Branch count: %s\n" "$BRANCH_COUNT"
             printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
             printf -- "- Backup time: %s\n" "$RELEASE_TIME"
+            printf -- "\n## 🔍 Incremental Backup\n"
+            printf -- "- Tracked 5 latest branches commits\n"
+            printf -- "- Backup triggered by changes\n"
           }
 
           # =========================
-          # backup core
+          # 备份核心
           # =========================
           backup_repo() {
             REPO="$1"
@@ -184,11 +233,23 @@ jobs:
             REPO_JSON=$(fetch_repo_info "$REPO")
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
 
+            # =========================
+            # 5分支 commit 对比
+            # =========================
+            CURRENT_STATE=$(get_repo_current_state "$REPO" "$REPO_JSON" "$UPSTREAM_JSON")
+            yq e -i ".\"$REPO\" = \"$CURRENT_STATE\"" "$TRACKING_FILE"
+
+            if ! need_backup "$REPO" "$CURRENT_STATE"; then
+              echo "✅ Skip: $REPO (no changes in 5 branches)"
+              cleanup
+              return 0
+            fi
+            echo "🔴 Backup needed: $REPO (changes detected)"
+
             MIRROR="tmp/${REPO_SLUG}.git"
             EXPORT="tmp/export/${REPO_SLUG}"
             mkdir -p "$EXPORT"
 
-            # 1. 镜像克隆（失败直接跳过）
             echo "🔽 Cloning repository..."
             git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
               echo "❌ Clone failed, skip repo"
@@ -196,23 +257,21 @@ jobs:
               return 0
             }
 
-            # 获取分支 → 只保留最近 5 个分支
+            # 获取最近5个分支
             mapfile -t BRANCHES < <(
               git -C "$MIRROR" for-each-ref \
                 --sort=-committerdate \
                 --format='%(refname:short)' \
                 refs/heads 2>/dev/null || true
             )
-            # 只取前 5 个
             BRANCHES=("${BRANCHES[@]:0:5}")
-            
+
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
               cleanup
               return 0
             fi
 
-            # 2. 打包分支（7z/sha失败不中断）
             echo "📦 Packaging ${#BRANCHES[@]} branches..."
             FILES=()
             IDX=0
@@ -225,32 +284,28 @@ jobs:
               git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
 
               ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
-              7z a -t7z -mx=5 -mmt=2 "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
+              7z a -t7z -mx5 -mmt2 "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
               [[ -f "$ARCHIVE" && -s "$ARCHIVE" ]] && sha256sum "$ARCHIVE" > "$ARCHIVE.sha256" 2>/dev/null || true
 
               [[ -f "$ARCHIVE" ]] && FILES+=("$ARCHIVE" "$ARCHIVE.sha256")
               IDX=$((IDX + 1))
             done
 
-            # 无文件直接退出
             if [[ ${#FILES[@]} -eq 0 ]]; then
               echo "❌ No packages generated, skip release"
               cleanup
               return 0
             fi
 
-            # 统计大小
             TOTAL_SIZE=0
             for f in *.7z; do
               [[ -f "$f" ]] && TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
             done
 
-            # 3. 创建 Release（防崩溃）
             echo "🚀 Creating release: $TAG"
             NOTES_FILE=$(mktemp)
             build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
-            # 用第一个有效文件创建 Release
             FIRST_FILE="${FILES[0]}"
             gh release create "$TAG" "$FIRST_FILE" \
               --repo "$GITHUB_REPOSITORY" \
@@ -260,13 +315,11 @@ jobs:
               error_occurred=1
             }
 
-            # 4. 上传剩余文件（安全上传）
             echo "📤 Uploading ${#FILES[@]} files..."
             for ((i=1; i<${#FILES[@]}; i++)); do
               safe_upload "${FILES[$i]}" "$TAG"
             done
 
-            # 5. 同步上游 Assets（下载失败不中断）
             echo "🔗 Sync upstream assets..."
             ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
 
@@ -285,16 +338,17 @@ jobs:
               echo "ℹ️ No upstream assets"
             fi
 
-            # 收尾
             rm -f "$NOTES_FILE"
             cleanup
             [[ $error_occurred -eq 0 ]] && echo "✅ Backup success: $REPO" || echo "⚠️ Backup finished with warnings"
           }
 
           # =========================
-          # runner
+          # 批量处理
           # =========================
           process_all() {
+            echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
+            
             mapfile -t OWNERS < <(yq -r '.allrepositories[]' repositories.yaml 2>/dev/null || true)
             [[ ${#OWNERS[@]} -eq 0 ]] && { echo "❌ No owners in repositories.yaml"; exit 0; }
 
@@ -303,7 +357,6 @@ jobs:
               echo "==== Scanning owner: $O ===="
               echo "====================================="
               
-              # 获取仓库列表（失败跳过）
               LIST=$(curl -fsSL --retry 2 --max-time 20 \
                 -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                 "https://api.github.com/users/$O/repos?per_page=100" \
@@ -318,6 +371,15 @@ jobs:
             done
           }
 
-          # 启动
+          # 执行
           process_all
-          echo -e "\n🎉 All tasks finished"
+
+          # 提交追踪文件
+          echo -e "\n📤 Committing tracking file..."
+          git config --global user.name "Action"
+          git config --global user.email "action@github.com"
+          git add "$TRACKING_FILE"
+          git commit -m "track: $NOW_HUMAN" || true
+          git push origin HEAD || true
+
+          echo -e "\n🎉 All done"
