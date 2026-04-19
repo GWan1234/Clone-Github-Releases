@@ -25,13 +25,13 @@ allrepositories:
 repositories:
   name0:
     - openwrt
-    - sing-box
+#    - sing-box
   repo0:
     - openwrt/openwrt
-    - SagerNet/sing-box
+#    - SagerNet/sing-box
   source0:
     - https://github.com/openwrt/openwrt
-    - https://github.com/SagerNet/sing-box
+#    - https://github.com/SagerNet/sing-box
 
   name1:
     - mihomo
