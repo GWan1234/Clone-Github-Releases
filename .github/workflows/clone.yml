@@ -110,14 +110,23 @@ jobs:
           }
 
           # =========================
-          # 增量备份：获取 前5个分支 所有 commit
+          # 追踪文件写入（修复 yq 版本兼容）
+          # =========================
+          set_tracking() {
+            local repo="$1"
+            local state="$2"
+            yq eval ".\"$repo\" = \"$state\"" "$TRACKING_FILE" > "$TRACKING_FILE.tmp"
+            mv "$TRACKING_FILE.tmp" "$TRACKING_FILE"
+          }
+
+          # =========================
+          # 获取前5个分支 commit
           # =========================
           get_repo_current_state() {
             local repo="$1"
             local repo_json="$2"
             local release_json="$3"
 
-            # 获取按提交时间排序的前5个分支
             local branches_data=$(curl -fsSL --retry 1 --max-time 20 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
               "https://api.github.com/repos/$repo/branches?per_page=100" 2>/dev/null | jq -c 'sort_by(.commit.commit.author.date) | reverse | .[0:5]' 2>/dev/null || true)
@@ -135,7 +144,9 @@ jobs:
             echo "${branch_states}|${release_time}"
           }
 
-          # 对比：任意分支变化 / 新发布 → 需要备份
+          # =========================
+          # 判断是否需要备份
+          # =========================
           need_backup() {
             local repo="$1"
             local current_state="$2"
@@ -167,8 +178,8 @@ jobs:
             DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"' 2>/dev/null)")
             DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
             LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
-            STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0' 2>/dev/null)")
-            FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0' 2>/dev/null)")
+            STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0"' 2>/dev/null)")
+            FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0"' 2>/dev/null)")
 
             CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
             UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
@@ -234,13 +245,13 @@ jobs:
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
 
             # =========================
-            # 5分支 commit 对比
+            # 5分支对比
             # =========================
             CURRENT_STATE=$(get_repo_current_state "$REPO" "$REPO_JSON" "$UPSTREAM_JSON")
-            yq e -i ".\"$REPO\" = \"$CURRENT_STATE\"" "$TRACKING_FILE"
+            set_tracking "$REPO" "$CURRENT_STATE"
 
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
-              echo "✅ Skip: $REPO (no changes in 5 branches)"
+              echo "✅ Skip: $REpo (no changes in 5 branches)"
               cleanup
               return 0
             fi
