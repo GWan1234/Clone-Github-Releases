@@ -4,6 +4,7 @@ allrepositories:
   - armbian
   - cockpit-project
   - home-assistant
+  - hacs
   - esphome
   - OpenListTeam
   - Finb
