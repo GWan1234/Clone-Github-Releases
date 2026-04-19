@@ -17,9 +17,14 @@ allrepositories:
   - thelastoutpostworkshop
   - adafruit
   - sonocotta
-
-
-
+  - rednblkx
+  - HomeSpan
+  - Andryushik
+  - arendst
+  - Koenkk
+  - emqx
+  - qlwz
+  - a2633063
 
 
 
@@ -42,6 +47,7 @@ repositories:
     - chenxuuu
     - dushixiang
     - GWan1234
+    - kukudemajia
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
@@ -50,6 +56,7 @@ repositories:
     - chenxuuu/sms_forwarding
     - dushixiang/uart_sms_forwarder
     - GWan1234/msg_forward_new
+    - kukudemajia/esp_framework
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
@@ -58,6 +65,7 @@ repositories:
     - https://github.com/chenxuuu/sms_forwarding
     - https://github.com/dushixiang/uart_sms_forwarder
     - https://github.com/GWan1234/msg_forward_new
+    - https://github.com/kukudemajia/esp_framework
 
   name2:
     - frpc
