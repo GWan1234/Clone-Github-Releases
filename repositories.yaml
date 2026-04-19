@@ -13,6 +13,14 @@ allrepositories:
   - antimof
   - leapbtw
   - AlistGo
+  - localsend
+  - thelastoutpostworkshop
+  - adafruit
+
+
+
+
+
 
 repositories:
   name0:
