@@ -46,3 +46,14 @@ anzhiyu-c/vue-ts-cms: master:e18a8e9383d18045423ba5c6d42c88779c523e51;|none
 anzhiyu-c/vue2-temp: main:0feef65bba4c3a5b773c0a1bcb3fcac01e188df9;|none
 anzhiyu-c/vue3-cms-temp: main:a8619f5055c4b561ed21d297fac090be99a83fa6;|none
 anzhiyu-c/xiaoyu-newtab: main:4dde595040e3a9cfe3aa6e21e3a88dcd134be7c6;|none
+rustdesk/doc.rustdesk.com: master:cdf8a56afe0abb1dda414d0491b83cdaca9f335e;|2025-10-17T15:41:23Z
+rustdesk/engine: main:9176a596b1f82625dfe8831edbcc4f2c9dc22da9;flutter-3.24.4-fix-desktop-multi-window-plugin-crash:9d1e76f59496eb0995b96e4bf56630fbc989dda8;|2024-11-29T10:06:00Z
+rustdesk/hbb_common: main:87b11a795964b00deded250657a63626f2c1efa0;|2025-03-23T05:29:18Z
+rustdesk/homebrew-cask: update-mudlet:94eb788ef6000cdd77793451cc35aba0df673011;understand-bump:4b070180483ba75798627dc2c3de44e73ae0ed07;shotcut-25.10.31:1cf992822549ff02e5ee50d46646436ed5647b9d;plover-5.1.0:54d42d35cf27e998eb3cddb8c3cc28aa53beb3ef;patch-1:9ad50d2c91adde93d30f2db6c948fed1f79fc202;|none
+rustdesk/muxnet: main:303f2af95db99f297e5897e80b651a6d07a8fb8f;|none
+rustdesk/rustdesk: tcp-proxy:8965c604249d59b220869913d58978cef8556cf3;sciterjs:e86d0a0fc14f0bff4cb1ecd94a84eae42818da80;master:e8a1b7fe2181025f01a361374bb8f91494c803f6;ios:a92d2301d9eb55e203fe5a90351d277430be4987;fix-mobile-mouse-hover-issue-8789:4423e0a1dc9f12e852de6a2d4f942d255edfb028;|2026-03-05T05:05:30Z
+rustdesk/rustdesk-server: master:815c728837b8a091c9feeeabb423d543be3a7f8d;|2026-01-12T05:38:30Z
+rustdesk/rustdesk-server-demo: main:4165a07271700356822ae5ad94696033e882d718;add-license-1:b4c4edbb6f5ab560c925b0304f6394793b3d8ed0;|none
+rustdesk/rustdesk-server-pro: main:a25002a49cad74258506ef7606957a591b6e379c;|2026-04-18T09:51:49Z
+rustdesk/uptime: master:003e5433c1153b765c7d8be80edc2fa3ccb8fa9f;gh-pages:af0021e1a7cad1b55123ce585707d2d3b6d3cc2e;|none
+rustdesk/winget-pkgs: master:4077fbd15f2f672aa96878b5410f4d08b234a25d;RustDesk.RustDesk-1.4.6-E013E7135D514A91AF832A15E0DA3029:c5806bf76519179e9568a15a5305e14dcdd23029;RustDesk.RustDesk-1.4.5-81ABBF6A1D1B4A5CA51612125948225E:42590e2aaca639422ab390c09e4784359d32fe69;RustDesk.RustDesk-1.4.3-7ABAD9DD615F4BBD920ABFC6D913A554:beb95dc1f46a53b8d1926e7d638e8531e8b47b3b;RustDesk.RustDesk-1.4.2-6008FCC1E41D4AC5AF2AB1811942CB2C:85f20193779f5d2981285df7089389416be9850f;|none
