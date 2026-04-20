@@ -75,3 +75,4 @@ armbian/cache-next: test:51eb822d4e52fff8c1448dfaf7d26ca171212885;main:09fce2bf0
 armbian/cache-packages: main:7ebea42395c0d08d8cfa82cf88bf299ad92fdd14;|none
 armbian/cache-root: main:8580bc2cdfa34491cb938016f538a5139217c5ab;igorpecovnik-patch-1:9d71217d391a04705dbc41f2a0011d0de7314b36;|none
 armbian/cache-uboot: main:4740e65c0660921fabc772622fb1eb045d2acdb5;development:48a54872718fc13c0d31683ba2254554923061d2;|none
+armbian/ci-testing-tools: master:a19dfcc4a229a1a3751a75df543c5b6b80a4b448;|none
