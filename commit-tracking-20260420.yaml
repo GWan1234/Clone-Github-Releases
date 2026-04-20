@@ -66,3 +66,4 @@ armbian/armbian.github.io: test1:2dbe1ce8c195a0e6f7c604f1ca2386735fd4d196;sync:4
 armbian/automount: master:fa609026cec0c5f0238d39d7d4b4b5188257c9a4;|2025-01-15T04:26:51Z
 armbian/autotests: master:afcdb44f87636376150afce0161dcba7f83c1d74;|none
 armbian/bash-util: release:2f75209ef824cb43ee401d1b916630e1c596ebb8;next:2f75209ef824cb43ee401d1b916630e1c596ebb8;|none
+armbian/bcmdhd-dkms: main:7b6d713604f1a6d22542bc930a93da8fbc1ef730;|2026-01-23T09:53:21Z
