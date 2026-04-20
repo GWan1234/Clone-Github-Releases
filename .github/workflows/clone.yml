@@ -250,7 +250,7 @@ jobs:
             printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
             printf -- "- Backup time: %s\n" "$RELEASE_TIME"
             printf -- "\n## 🔍 Incremental Backup\n"
-            printf -- "- Tracked 5 latest branches commits\n"
+            printf -- "- Track 5 latest branches commits\n"
             printf -- "- Backup triggered by changes\n"
           }
 
@@ -315,6 +315,7 @@ jobs:
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
               echo "✅ Skip: $REPO (no changes in 5 branches)"
               set_tracking "$REPO" "$CURRENT_STATE"
+              sync_tracking  # 👈 增强：跳过也立即同步
               cleanup
               return 0
             fi
@@ -419,6 +420,7 @@ jobs:
             # 只有成功完成后才写 tracking
             if [[ $error_occurred -eq 0 ]]; then
               set_tracking "$REPO" "$CURRENT_STATE"
+              sync_tracking  # 👈 增强：每个仓库成功后立即同步
             fi
 
             cleanup
@@ -453,8 +455,6 @@ jobs:
               for R in "${REPOS[@]}"; do
                 backup_repo "$R"
               done
-
-              sync_tracking
             done
 
             # 2) repositories
@@ -482,15 +482,11 @@ jobs:
                 echo "📦 Manual repo: $R"
                 backup_repo "$R"
               done
-
-              sync_tracking
               INDEX=$((INDEX + 1))
             done
           }
 
           # 执行
           process_all
-
-          sync_tracking
 
           echo -e "\n🎉 All done"
