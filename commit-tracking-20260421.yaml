@@ -5498,3 +5498,4 @@ adafruit/Adafruit_CircuitPython_INA23x: main:376bc4be878120d53d816808249d9606675
 adafruit/Adafruit_STHS34PF80: main:1cf47e4bead466bc5bdae87d819853259a3e8c90;gh-pages:bac29572d1d27087cfe37a0159b850b372ee8ff2;|2025-11-04T14:34:42Z|SIZE:380345
 adafruit/Adafruit_CircuitPython_STSPIN: main:052284b1262c586643eb01d9b26a655d8c262e4b;|2026-03-27T19:14:58Z|SIZE:21865
 adafruit/awesome-open-source-robotic-arms: main:fec1141d5dc44edccb7f06e66cd71d43e1bd9d32;|none|SIZE:11117
+adafruit/Adafruit_CircuitPython_Color_Terminal: main:af19166da9b5773bd9acf56e766776939ae09e46;|2026-03-27T19:08:35Z|SIZE:25840
