@@ -1038,3 +1038,4 @@ adafruit/Adafruit-NeoPixel-FeatherWing-PCB: master:3b80152edf1808446eab953d2f7a7
 adafruit/Adafruit-NeoPixel-Jewel-7: master:1bc598ba1738a68f54cb9d259eba3665135769cb;|none
 adafruit/Adafruit-NeoPixel-Ring: master:2f25091f4bd556fc9af91edb441b003df9bfddcb;|none
 adafruit/Adafruit-NeoPixel-Shield-PCB: master:8d382ceb17fb866f36544c106bb4346278c69c05;|none
+adafruit/Adafruit-NeoPot-PCB: main:f7f8e609945e3cf06294e324812ee3c9bee61d06;|none
