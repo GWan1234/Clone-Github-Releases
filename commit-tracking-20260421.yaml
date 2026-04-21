@@ -331,3 +331,4 @@ ioBroker/ioBroker.vis-powertrust-fonts: main:9c8b2cd532b32d46a24c6090b4aa7c4f1d0
 ioBroker/ioBroker.vis-rgraph: master:1b5fef6b343838433b308dab2e6f6e7d2548323e;|none
 ioBroker/ioBroker.vis-special-charts: master:4101d3173a256bf9ed6088c82fd0fe59158545fd;|none
 ioBroker/ioBroker.vis-template: master:d0886db449e0b42a426e466248a72cb6e41468d0;|none
+ioBroker/ioBroker.vis-timeandweather: master:f7c2d116660b7f28074d588ac27584feff632a6f;dependabot/npm_and_yarn/mocha-11.7.5:6c315ae297b3c9faa8842a45a9278843bc9219d6;dependabot/npm_and_yarn/iobroker/adapter-core-3.3.2:f8d3b39314d203b41252d5847dafaa0fe02f9aa0;dependabot/npm_and_yarn/chai-6.2.2:593ea48c4c3ca3cd74c1fd5bf66ad3c16fa8b6e8;dependabot/npm_and_yarn/alcalzone/release-script-plugin-license-5.1.1:44d41c33e6cb07aca12b4d29d5bb704ce5aa5ad2;|2022-07-05T09:25:43Z
