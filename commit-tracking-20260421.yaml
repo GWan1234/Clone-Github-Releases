@@ -514,3 +514,4 @@ AlistGo/Alist-ikuai: main:49ebba2975b6dea2e3fe0b98a6e0ae03c9435262;|2026-04-21T0
 AlistGo/alist-koyeb: v3:75c6af7e327952e5f9179e0cadbcf0912708b410;v2:1097a54a4fa42c1c1439ea656348a6fbe0d4c6d4;|none
 AlistGo/alist-proxy: v2:bab243921e25fe07c04f89a9c2c0a7dce6aafc96;renovate/docker-build-push-action-6.x:361e389e830970a9e090da06f059b81c1a5d0627;main:ab1345e48be7e3ad1708439b888810b5b5ca374f;|2022-12-10T12:22:37Z
 AlistGo/alist-railway: postgres:1e9adf4ac791aa7fc227cfe2221c5ec50e0a7105;mysql:b96a4d03a3c992af03c85f66c1d1a1792c73798b;|none
+AlistGo/alist-render: v3:4d8e55ae1e1077266b0e20306b775f4f39d05f92;v2:270c34bb9f9c864c98e04b5a5ef3df7b68bdc448;|none
