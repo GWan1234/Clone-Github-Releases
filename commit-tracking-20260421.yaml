@@ -697,3 +697,4 @@ adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: master:fcc1a8964feb782278f444b70fea
 adafruit/Adafruit-BH1750-PCB: main:0b61eb2c8c54254a5685adc044fbf7c5ab968e56;|none
 adafruit/Adafruit-Bluefruit-Classic-PCBs: master:5967ea1c635cca5b95b06fb4927643782f446c64;|none
 adafruit/Adafruit-Bluefruit-EZ-Key-PCB: master:b5eea193aba7fc2795fc4ac54534faceee2c3a84;|none
+adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB: master:df97d9269278190e7688ac5e05eb0761db631ef8;|none
