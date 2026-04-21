@@ -677,3 +677,4 @@ adafruit/Adafruit-AP3602A-PCB: master:31d35855d27654a2bdb78720d0c3fffcdbaa436e;|
 adafruit/Adafruit-APDS9960-Breakout-PCB: master:23880074d26df8524399f323e016680ad82dc69f;|none
 adafruit/Adafruit-APDS9999-Proximity-Light-and-Color-Sensor-PCB: main:0f0fc27bab6c79a684ce17a6ab397f63f98f74bd;|none
 adafruit/Adafruit-AR: v.1.7.2:9cfaf8b4f275607c9fb39efd427f7b8f87d7dde5;master:c741d3d80db4e7636a1ebf7ca52b0bd620b18b68;iOS-17-Update:dd155da5531986d0d2ba91872a90fa72218fefc8;UIkit-test:11b1b9c594ecc6a2618693fb94deb7492c59f483;UI-Fix:cf60a8bc4e0b323dd98d7b2df759f059200435e3;|none
+adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: master:217534674defab8d2040a7399b23d3cead345195;|none
