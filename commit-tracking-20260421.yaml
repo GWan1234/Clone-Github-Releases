@@ -119,3 +119,4 @@ esphome/esphome-docs: web_server_cap_coexist:4d48ae8760bfb3fc91547878c9bb31533d7
 esphome/esphome-flasher: main:df4b36d80a2a77183c166bb47935033e1d5b8bbc;github-actions:3c996b5da58912e60802db25683ec1e67cd7dd79;dependabot/pip/pylint-2.17.4:c87bae196cdbc9a882257fc43eb572badc374788;dependabot/pip/esptool-4.6.2:373f96d645f243be503b93695ef039a38098f948;dependabot/pip/black-23.3.0:9315001cc482feeb85bf3a4b66f66358e36ddab8;|2021-10-29T10:51:16Z
 esphome/esphome-glyphsets: simplify_code:bb44fcc2aba25aeb304f24b06635aab59ae92333;pre-commit-ci-update-config:b9c8ab6b28c6dc717a80217e8e32928e6bb0b179;main:e58122e8ac81d371c2800af27521ac256aed1034;|2025-02-19T15:50:25Z
 esphome/ESPhome-GUI-Documentation: main:e57559282f425ce53ff0cc1c6482bd668e1625c9;|none
+esphome/esphome-project-template: main:3f6c8ec7369eb27a5cb54863e284e789191e966a;gh-pages:fd3bfd644638f99acbd3d56407e80b97b009c310;|2025-08-27T20:52:14Z
