@@ -375,3 +375,4 @@ OpenListTeam/alist: refactor/offline-download:3b90f591b5d096c609f652819566b3eedd
 OpenListTeam/alist-proxy: main:ab1345e48be7e3ad1708439b888810b5b5ca374f;|none
 OpenListTeam/alist-web: main:82ce3cd29e361a80fa992cfe92ef17efa2cab3f5;legacy:2b026a251aee991190d72bb245a1dbfdddc748ad;|none
 OpenListTeam/auth: main:dfb75159ae9b77a26f884ec553ec63402ca9612f;|none
+OpenListTeam/cgo-actions: v1:1fff82d72e52b29a6030d61f5b1809f72b11bd6e;|2026-04-02T10:23:52Z
