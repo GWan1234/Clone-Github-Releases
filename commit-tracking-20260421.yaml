@@ -487,3 +487,4 @@ obsproject/obs-deps-buildstream: master:51e02e25a2c113ba259e928e2c58a9e919ff6fff
 obsproject/obs-oauth-cf: master:039c64c4e9a097a7e536a714b2e92477e98723be;|none
 obsproject/obs-plugintemplate: master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;|none
 obsproject/obs-studio: release/32.0:dcdbd2e9048ae66237fdab32dbba72b745b1b9c5;release/31.0:614fb6ae0902c695bf2a6f7670c09b76605e904a;release/30.2:ca51d330eafd36f84f159e524aa87d11ac39197f;release/30.1:69d274074e8d1a6bdcf6777a0feba8596a8ee9b0;release/30.0:d822584cb1c5601d2da51fa2c6cd94a955e9c874;|2026-04-02T19:54:40Z
+obsproject/obs-vst: shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825cbe1474561ec2dc28d9ca7905367e08823b90;process:935a4e3d311526f9ba5a58fc73b073d792d283bc;noclose:7119699c70e86c97c446adc401aa7104008678c5;master:b28cdef1fb06ece14d6be023b0f08ec28bca972e;|none
