@@ -1292,3 +1292,4 @@ adafruit/Adafruit_BusIO: tiny8:f28f3ae7f082b38b2c3d1346883bba7c40165276;revert-7
 adafruit/Adafruit_CAD_Parts: my-first-pull:e63b5966eb8e755451755a33b99182c385039ad8;main:5ead410a8034146307aa99f2ab916bbd2a87114f;|none
 adafruit/Adafruit_CAN: main:d029f1dfdea13c686e98d9456ae176d7fc8d56f1;gh-pages:45c019a179153ff5d47d3f65c79bbd83a537c802;clang-2025-07-17:da4643b05b844f80965c46a8ef101107fff2fd4b;|2025-07-22T14:31:53Z
 adafruit/Adafruit_CAP1188_Library: master:00ae4a226ed99286de3cfa6644c4eac804ba884e;gh-pages:529fc4e737efebe8ca920136387ee07dc95aa947;actionci:320b9eba7f51754ae6ee2bbeac576a01885b86a0;|2025-01-23T21:59:13Z
+adafruit/Adafruit_CC3000_Library: travis:67e7d85469929b1240f7a811b69a638890b05bc7;master:3327fd02c33703a5d5fe50672336e5a484ca513b;|2019-07-10T17:19:41Z
