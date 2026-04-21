@@ -1254,3 +1254,4 @@ adafruit/Adafruit_AS7341: stephenf7072:38068ca1ab798b9469354c5fb31fd9e8a385226d;
 adafruit/Adafruit_AS7343: main:21e3a81db1e346e4c3ec2ec305fb9a81bf481baf;gh-pages:7b091dec91d39c5676b4e1e4d658028a647082a3;|2026-03-03T14:48:20Z
 adafruit/Adafruit_ASFcore: master:99f9be5465caad6e368102b5465b30aa9b07a26e;|none
 adafruit/Adafruit_Atmega32u4_Breakout_Board: master:95a296a2957c41f86e3013eb707e21c7b2db7678;|none
+adafruit/Adafruit_AVRProg: updi:ed90b594b9fde03a41ab9b5e8a8f2e5fe43b7868;master:2ec0aa64e468e0e4e1fd94dd04221a0dc9f068d8;gh-pages:23146b7db3dcd4cbcdd9ee6696abd51076972a03;actionci:e24a1a3f61221fb33bb6ee7ec6612674edaa953a;|2023-11-29T18:21:16Z
