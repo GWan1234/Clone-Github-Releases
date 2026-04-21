@@ -4890,3 +4890,4 @@ adafruit/Pixie-3W-Smart-LED-PCB: master:68dae8b61938339e1cd423abbddee3cfc6715022
 adafruit/atmel-samd-micropython-vagrant: master:9f1eaca51befa1e29447bd6ef37a438a43ad0afc;|none|SIZE:3949
 adafruit/Adafruit_VL53L0X: master:99a130ca7c7ee930fa428244dbe16d84703e4756;gh-pages:ebda1706c5fd91f8c143af31a1ae6b9e60a75c69;doxy-fix:3d854028fb716241270fbfee487f59bade6f68b4;|2026-03-03T14:48:52Z|SIZE:253094
 adafruit/Pi_Eyes: master:1163cb71914828ed9726ec769184df452bfaaaf0;|none|SIZE:1701577
+adafruit/Adafruit-Qualia-Driver-PCB: master:4d750ce85bc1e8e5e38395030ff21ee8a353148d;|none|SIZE:435212
