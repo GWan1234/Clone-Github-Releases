@@ -4735,3 +4735,4 @@ adafruit/Pro-Trinket-Rotary-Encoder: master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7d
 adafruit/Adafruit_Soundboard_library: master:ab279797cb35f4aea58cb19f906e38f28d4a2d78;gh-pages:58a1b2af111f7e4a8f115805015f06bc5f095e2e;|2023-11-15T15:20:53Z|SIZE:91679
 adafruit/Adafruit-Perma-Proto-HAT-PCB: master:fdee45a5dee903ecfbd9f010ca250b968f43a1f5;|none|SIZE:463939
 adafruit/Adafruit-PiTFT-Helper: wheezy:da1641a7ade7446272df2781ea8fba42abbadefe;master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;|none|SIZE:25788
+adafruit/omxplayer: master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f;|2015-02-11T03:59:25Z|SIZE:942485
