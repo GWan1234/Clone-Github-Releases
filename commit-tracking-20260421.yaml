@@ -1211,3 +1211,4 @@ adafruit/Adafruit-WINC1500-Shield-PCB: master:5b4642c624ffe549731ff9aae4aeb5330f
 adafruit/Adafruit-Wiz5500-Ethernet-Co-Processor-Breakout-Board-PCB: main:f7faefb4fd304faa20f5977add138715da4b3f3c;|none
 adafruit/Adafruit-WS2801-Library: master:f43db5f745b5be30a3667d9c41428f84fa5894f3;gh-pages:551bebf191fe7d2fab8aa16a22bf395ce62a421b;|2023-11-15T15:29:18Z
 adafruit/Adafruit-X2-Time-Ball: master:3eb5d4a473b991b88267ea914ef938100e9baf3c;|none
+adafruit/adafruit-zephyr-support: main:cb4516a62e618da59223ccb01eeedb70a9f196e1;|none
