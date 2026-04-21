@@ -4886,7 +4886,7 @@ adafruit/micropython-adafruit-is31fl3731: master:0037ebc519ba3ffb29d556868e75718
 adafruit/micropython-adafruit-ads1015: master:16dacb638a4965765f89577e773eecd7ad0b1e13;|2016-10-30T21:24:32Z|SIZE:9711
 adafruit/micropython-adafruit-pca9685: master:0fea2736f99a2840f0d644be866f6abd5bc14b48;|2016-10-30T21:28:00Z|SIZE:11146
 adafruit/micropython-adafruit-max7219: master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062;|2016-10-30T21:26:19Z|SIZE:8853
-adafruit/Pixie-3W-Smart-LED-PCB: master:68dae8b61938339e1cd423abbddee3cfc6715022;|none|SIZE:789635
+adafruit/Pixie-3W-Smart-LED-PCB: master:68dae8b61938339e1cd423abbddee3cfc6715022;|none|SIZE:789636
 adafruit/atmel-samd-micropython-vagrant: master:9f1eaca51befa1e29447bd6ef37a438a43ad0afc;|none|SIZE:3949
 adafruit/Adafruit_VL53L0X: master:99a130ca7c7ee930fa428244dbe16d84703e4756;gh-pages:ebda1706c5fd91f8c143af31a1ae6b9e60a75c69;doxy-fix:3d854028fb716241270fbfee487f59bade6f68b4;|2026-03-03T14:48:52Z|SIZE:253094
 adafruit/Pi_Eyes: master:1163cb71914828ed9726ec769184df452bfaaaf0;|none|SIZE:1701577
