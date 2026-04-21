@@ -4789,7 +4789,7 @@ adafruit/io-swagger-templates: master:1eb516b553057f9a7eae1cc409541621fe9b95af;|
 adafruit/Adafruit_Python_MAX9744: master:b7de3549f356eb2adc4c9c1c87e58b62c09b03bc;|2018-08-30T19:11:09Z|SIZE:8639
 adafruit/Bluetooth_Talking_Dog_Collar: master:d62cf7158093e09c4bac78fc36a5a681950387a2;|none|SIZE:190370
 adafruit/Adafruit_VCNL4010: master:fd4eb0fe7c7f9d69766ddda7f14fce1f75226817;gh-pages:b99bdd8b373eb284118d5c6904393dc2715d735a;|2023-11-15T12:49:53Z|SIZE:93186
-adafruit/PythonClub: master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7;|none|SIZE:10595
+adafruit/PythonClub: master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7;|none|SIZE:10597
 adafruit/Track_Your_Treats: master:520dbc472362d117f93750d1d932425eefafe41a;|none|SIZE:5192
 adafruit/Adafruit_Pixie: master:dd358f643cb62fd8b1eeee2afd43e6ce6d71f81d;gh-pages:28b5780be8eadcd5497e7a5722ac390ef6e0ef55;fix-ci:24eccb9d7895ece47feebb1cfc11e3b786fe3daa;actionci:c302b095bff043fa571286ce47a0acd8e0c5ed66;|2023-10-17T14:27:31Z|SIZE:425198
 adafruit/ArduinoCore-samd: stemmafriend:50df0ef5d3c76932bb23cdad1d1916ddf14a3f49;sdfat_v2:90b9a7c022e591ba28e16eb6acce15f80648a755;samd10:de8d500c96cf2d71de3224d222ebaa300165ac3f;revert-338-ltofix:f01bf1333248e74052563b28c66faf136517d201;pb-variant:eb0d6efd9db0f2bba8241abe914ded32add95764;|2026-02-05T04:26:33Z|SIZE:11412463
