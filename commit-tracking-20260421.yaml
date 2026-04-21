@@ -625,3 +625,4 @@ adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: main:55df02725e803b00706c4871
 adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80;|none
 adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: master:1d637245ba0df241e05768b4b201ae9e80e4f0a0;|none
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: master:6f265953b8eb8ee1573c0f3bddfe5c41781c6d95;|none
+adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: master:5cabac70d709c34fb8477e2eca90dc6429af0151;|none
