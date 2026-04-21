@@ -867,3 +867,4 @@ adafruit/Adafruit-HDC3021-Precision-Temperature-Humidity-Sensor-PCB: main:c19db4
 adafruit/Adafruit-High-Power-Infrared-LED-Emitter-PCB: main:bf82859bcb77e3b545f9ae6dc629a24ca0695343;|none
 adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB: main:083c789179ca1150e4816bf293eda970ff5c3c46;|none
 adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: master:530ec62b7f4ef73fc794e10b9c59c43b7ac2c17a;|none
+adafruit/Adafruit-HTS221-PCB: master:e32c12659a54739f9700e8706e82f13b841f2f86;|none
