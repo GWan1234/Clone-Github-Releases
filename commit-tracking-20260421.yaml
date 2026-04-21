@@ -609,3 +609,4 @@ adafruit/actions-ci-circuitpython-libs: main:fdf1cc33fc828429d08b1785de92ba21403
 adafruit/adabot: testing_fixes:cdc17959fe04a769af06c558801a292264e27805;more-rate-limit-sleep-fixing:b2fa33e39833b75462a07bdb4f85d95ee2e90370;main:5cdf889e635990d2626adfc29ecb376cf8684a73;fix_pypiname_releasenotes:d374b8718993652d2bf26c88fc16a0c0ed2ffe7f;detached2:e62110aac378fc353217e76b55373d3befb0ee7d;|none
 adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB: master:7ada397dddd065125d27c9d957d58b2a96cdf6d7;|none
 adafruit/Adafruit-1.12in-128x128-OLED-PCB: main:ac65ded15c60c42bd7fa323c670640263b88f761;|none
+adafruit/Adafruit-1.14-inch-240x135-TFT-PCB: master:e87c63d29caea5604ad987077b2ca9eb61a4284f;|none
