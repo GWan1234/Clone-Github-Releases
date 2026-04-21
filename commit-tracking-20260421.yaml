@@ -5106,3 +5106,4 @@ adafruit/pcb-parts: master:3e667bd62b04572076aebc3e5a52b2d089ff0af6;|none|SIZE:2
 adafruit/Adafruit_CircuitScheme: master:1dff619c7e74caa8ad295cabb6e2540dba0e6c92;|none|SIZE:11974
 adafruit/Adafruit_CircuitPython_VEML7700: main:ec67cea8e3b26a5ca69d8c1d854f149d761abfd4;|2026-03-27T19:06:36Z|SIZE:20252
 adafruit/Adafruit_CircuitPython_AdafruitIO: mqtt-integration-tests-cpython:3fab687f2edeaab98be940e5bf94fa61dd262e47;main:17a665dfc17fba382ff137dee6b517ce7477b1d8;fix_rtd_theme:ed8153fb88c92a34f057a827af49cfdd2f6aef7c;example-rename-move:c2b262e73b2094cb71e959903d097a4d82ab8e4e;docs_req_fixes:30667b9b9865d14128f6f3b8202d53dfe1c49109;|2026-03-27T19:07:07Z|SIZE:160836
+adafruit/rplidar: master:8ac97ed8c4c96291bb935438134c548ee93ad46c;|none|SIZE:11796
