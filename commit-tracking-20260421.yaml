@@ -52,3 +52,4 @@ cockpit-project/bots: ubuntu-2604:9a3468ad84212c4c6e0b4998afd4412a25bed0b8;trigg
 cockpit-project/cockpit: unit-tests-without-cockpit-js:dc961bd47aca1a83695ff7f6c1b8248d2f6fcfdf;tasks-container-update-cockpit-ci-container-20260420-031345:8a31a40274743e8a0414af3c98e802d08671a2f9;tasks-container-update-cockpit-ci-container-20260413-031355:820de873596f05092b6b17359f7e57517547420e;subman-1.28-testlib:0b901a3a83a30c48c8b05c0ca41d8e8789582402;rhel-10.2:9e445cc34bad5c125c1be4315a43ba48ef71c5d4;|2026-04-14T07:08:07Z
 cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none
 cockpit-project/cockpit-cloud: main:c2896dc1654fd92f9d3f0dd790fa340e30d8accf;builder-container:f6ead712496f6d619e132f0b647e56eb83bbff1f;|none
+cockpit-project/cockpit-design: main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;|none
