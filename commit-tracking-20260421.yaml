@@ -95,3 +95,4 @@ esphome/.github: main:f3d4a4fa4c93daa46864caf0aaaa217cf1610b2d;|none
 esphome/aioesphomeapi: sync_with_esphome:b853efb62177a5b0fede70267e9f359722035f7c;patch-light-broken-brightness-mode:4fc3ece694f2449df67a7974436e7bccbc3b2a88;main:c6ef4d677fc4271376bfbb3a75797be8caeb0264;jesserockz-2023-287:9673d035adbba16ff12abacff952cec00697f978;jesserockz-2022-258:6d192bcac6cbd42da25e7e2f2e496c447c1bf802;|2026-04-21T02:09:42Z
 esphome/arduino-pico: pico-w:910a7e997b3843f96ed80186fd8f48e01bc6d13a;master:91e69e2a1ac984b8f29d88292da287fdf03800d7;|none
 esphome/AsyncTCP: main:27cb883234bcea25cb952deefc571d97b3c09b0f;bump-version:f770cd11e9120be4a1f5f4bec70b75f4c96fcd64;|2024-09-08T21:36:57Z
+esphome/bluetooth-proxies: main:6054c5a11b04dfbfc58f8d700716d4f2ed73517f;esphome-version-update:bb287c80f85cd88aae2aafcf87d064cef61e27d1;|2026-04-15T20:45:36Z
