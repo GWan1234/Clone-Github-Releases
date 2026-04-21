@@ -5532,3 +5532,4 @@ adafruit/pi_video_looper2: missing_mount_dir:a5ea64a00dbee8b1a5237caa06ef92eb5cf
 adafruit/Adafruit_STCC4: main:0f16cee04a833090b3ff82efc09045f6dcd13611;gh-pages:0c8c7bc2cdaa39a20560d10b04a32fd6591f384a;|2026-03-03T14:48:45Z|SIZE:94707
 adafruit/Adafruit_CircuitPython_CheckBox: main:5fc32a396efbf6b9baa8e1aa3824937a9f5bcfd6;|2026-03-27T19:08:33Z|SIZE:19756
 adafruit/wreath-of-khan-2025: main:29c2e99a5bce06bdfc28a02a5d8858ff2c986906;|none|SIZE:1247327
+adafruit/Adafruit_CircuitPython_YotoPlayer: main:cc008ca15bc3f04ede8e1e7dfa5b01e26bbbd971;|2026-03-27T19:15:36Z|SIZE:31658
