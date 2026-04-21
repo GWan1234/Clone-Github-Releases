@@ -852,3 +852,4 @@ adafruit/Adafruit-Gemma-M0-PCB: master:682dbf68e51ad478915fdf6520119f15588f4375;
 adafruit/Adafruit-Gemma-PCB: master:88b3cb1a0c9ede216d3a93f904ab7ded9e63daed;|none
 adafruit/Adafruit-GFX-Library: spidmadisconfusion:c2c9321319c82dc22722456f16d7e965be34ee22;rp2040:823fc6ccef0ba17af5017a1c7cef07f843555c27;revert-383-master:605ea88e4090ec55dab2416ead8819606fc6bafd;revert-300-master:8be8308f031eb2e944f2e8880887af984e4cb82a;revert-227-revert-226-master:60e0e6335f97bf690fb0182e998fe5c35f473d86;|2026-04-09T22:24:06Z
 adafruit/Adafruit-Git-Intro: master:48468f4f7f39642ed24cbe04debc915ac0f0c1c9;|none
+adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs: master:eca6fc73d1fde5d0a4278ba339d5789e1cf3f13c;|none
