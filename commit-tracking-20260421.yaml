@@ -883,3 +883,4 @@ adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: master:eafc762a0cb25abf
 adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: main:cde79ddef57c7df69a5e7268b66567fa50b7e42d;|none
 adafruit/Adafruit-I2S-Microphone-Breakout-PCB: master:bb0dfa60919c5679f676e0af41958bece6294b05;|none
 adafruit/Adafruit-ICM20649-PCB: master:b24cb0fffe4bd48439c44565f2e086876f0483c0;|none
+adafruit/Adafruit-ICM20948-PCB: master:de820cb677414d3e05c9b1a9fd5cef539fc06165;|none
