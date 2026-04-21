@@ -5269,3 +5269,4 @@ adafruit/Adafruit_LPS2X: temp_fix:e6b5aa648e88f695afda62e7736ae1fe20d52ef8;maste
 adafruit/Adafruit_WebSerial_3DModelViewer: master:3642232b39c331ae108b9cac5f261e30b3d17c74;|none|SIZE:590210
 adafruit/nvm.raw: main:ea225c02ef3e69782695a8d73c641fac79e7358b;|none|SIZE:24593871
 adafruit/Adafruit_Dynamic_Bundler: main:1d96664beff67a9729484e63a734d12d1efc4a0f;|none|SIZE:3599
+adafruit/imx_rt_flash_config: main:9de9b4a3f8f9dd9c71315ed9ad0d92bea0d5d549;|none|SIZE:4800
