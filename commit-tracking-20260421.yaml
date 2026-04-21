@@ -493,3 +493,4 @@ obsproject/obscommits: refactor:f112fe301c7ae396bb8079da1f860f9ceb8011eb;master:
 obsproject/rfcs: master:da063de64d0fe8ed009128d896197bc918fb41e0;decklink_device_management:5cc6d50dd63215f41caf60ce10f2a94f329ce73b;|none
 antimof/libcamera: main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;|none
 antimof/UxPlay: master:fd88c0c465df492e03461980bedf115a40bc835a;|none
+antimof/WebRTC: latest:329cbd2cd6ff2a1f2405dfdb2ea8c884565cdd84;|2026-01-07T11:15:17Z
