@@ -64,3 +64,4 @@ cockpit-project/cockpit-podman: tasks-container-update-cockpit-ci-container-2026
 cockpit-project/cockpit-podman-weblate: main:74eac9d785cfe88d96e8aefab6a6cf0b456d7487;|none
 cockpit-project/cockpit-project.github.io: workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;main:0c4acb8bd6bbf2207529f585db0dcb87a5a85232;|none
 cockpit-project/cockpit-weblate: main:0031b4c3d91c3cb7e2b53d172af1523b113025cd;|none
+cockpit-project/cockpituous: main:a90725ccf64dd59a02c84e992625e99ab95fb493;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;|none
