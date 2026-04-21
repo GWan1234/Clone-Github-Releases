@@ -1284,3 +1284,4 @@ adafruit/Adafruit_BNO055: tinywirem:d964148c3bed73adbfd09deb77d08d678734eb15;mas
 adafruit/Adafruit_BNO08x: nrf_buffer_fix:3cbbb7460ec03901f479c556a649bc0b81a49ac8;master:0301e6d5d838609b5f30afafdd9e56dfb1a02d47;hal:c656229dfc6ce450ee7651aa644bcdbb645c811c;gh-pages:5909869a6705284481234ef511652de5af66a511;|2023-11-15T15:27:46Z
 adafruit/Adafruit_BNO08x_RVC: master:48c1e013a04b9807cec02552ad4fd0e4dd1ecef4;gh-pages:be3e096f2d7a730d31bf25a56e26c4ead181fac7;|2023-10-03T20:27:09Z
 adafruit/Adafruit_Board_Toolkit: main:2b0575f2f0f8103e6a5ce9c7b806df3af2cc14c6;|2024-11-12T19:19:58Z
+adafruit/Adafruit_bq25628e: main:d0d3e29b75cb96d77a2080996d99d4ecef8909f4;gh-pages:0ae3185cff5b274a5137935c9e5c385bfd00dc71;|2025-08-10T12:29:14Z
