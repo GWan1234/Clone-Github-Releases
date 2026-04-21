@@ -5736,3 +5736,4 @@ adafruit/pico-sdk: svd-vtor-present:76bd3e12d97b7e582a85df3d2a6e065af7278802;met
 adafruit/Adafruit_CircuitPython_SSD1681: main:a6513c280d0d84a228546046be67873a6ca97fce;|2026-03-27T19:04:39Z|SIZE:23356
 adafruit/Adafruit-PiRTC-DS3231-PCB: main:fea853b94ebefe77f3655f3e572b4addfe14ead7;|none|SIZE:260691
 adafruit/Adafruit_CircuitPython_ST7565: patch:afa530e745851165c2a20e4fce891a0a796033ba;main:4d3361b8e1024ec1db922334091cded62e1faa36;|2026-03-27T19:04:43Z|SIZE:42250
+adafruit/nvm.toml: tannewt-patch-1:a8e620d00cff86e0164f9f2fac95db3fb94b6bc4;main:a2a0c03c221a9bc37992147b5d4ad785a6e467fe;|none|SIZE:16785
