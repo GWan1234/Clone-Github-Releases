@@ -71,3 +71,4 @@ cockpit-project/node-cache: main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;|none
 cockpit-project/org.cockpit_project.CockpitClient: main:b01400faf8832ef7117ec1497fb5e63154b3468f;356.1:2008db0b5886d6b69d3f41af03b7da192353c030;353:e20f313b5ae836969661edd21760fe113146cc00;348:9943e5894479706ad782b72c1a8b280dc22044ec;346:8f4d7b17f0ee864af7362e877f7c4454a6d2d57c;|none
 cockpit-project/pixel-test-reference: master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;|none
 cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
+cockpit-project/registry-image-widgets: master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;|none
