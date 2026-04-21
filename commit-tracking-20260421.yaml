@@ -5104,3 +5104,4 @@ adafruit/Adafruit_CircuitPython_BitbangIO: main:f0d926f1c3ff99914229e9f272e95c79
 adafruit/Adafruit_CircuitPython_VCNL4040: main:0d789e668b1a5f0622b752bcefb05ca6365344a2;|2025-10-20T20:29:04Z|SIZE:20149
 adafruit/pcb-parts: master:3e667bd62b04572076aebc3e5a52b2d089ff0af6;|none|SIZE:208834
 adafruit/Adafruit_CircuitScheme: master:1dff619c7e74caa8ad295cabb6e2540dba0e6c92;|none|SIZE:11974
+adafruit/Adafruit_CircuitPython_VEML7700: main:ec67cea8e3b26a5ca69d8c1d854f149d761abfd4;|2026-03-27T19:06:36Z|SIZE:20252
