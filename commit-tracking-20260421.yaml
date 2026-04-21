@@ -4729,3 +4729,4 @@ adafruit/Pro_Trinket_USB_Keyboard_Library: master:1e461afce23f2d9d1ad1500b8ac27d
 adafruit/Adafruit-PowerBoost-500-Basic-PCB: master:ce7199be2eb4bc33deb4a0a9f407b9dc05df20ea;|none|SIZE:476864
 adafruit/Pro_Trinket_USB_Mouse: master:6f08dc2f06d9b6d5c4f44fadb1e794c065354bff;gh-pages:decd2db848c1422b0d63e052886d304b741935e9;actionci:cdf72e730fb74a6773b07cc07b3bc6feffc7b46a;|2026-03-03T14:49:04Z|SIZE:1888021
 adafruit/Adafruit-PowerBoost-500-Charger-PCB: master:68258d7d14932951b72911ef3be3c1138dce2d6c;|none|SIZE:474622
+adafruit/Adafruit_MQTT_Library: smarterreadpacket:522947731e50874787527765bcb9646072166f5a;progmem_fixes:e0c88d8d2c0e458048219f5bde8fd63e0f3cad15;packet-len-calc:a38e837d428d717158906b4c6b0dbda079d8eab5;master:62f9711445866feb9c314f643d16ad554770f4c9;|2025-12-02T15:33:02Z|SIZE:2661029
