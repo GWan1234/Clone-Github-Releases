@@ -1193,3 +1193,4 @@ adafruit/Adafruit-VCNL4040-PCB: master:e64c08ed339dba5886b54a6e6c6c4c6cf95b25b8;
 adafruit/Adafruit-VCNL40X0-PCB: master:fa8ee14969f427347f463feec2765663b781c908;|none
 adafruit/Adafruit-VCNL4200-Breakout-PCB: main:461ffb1e80f5cb6555e25400d41db8b1a72ca58e;|none
 adafruit/Adafruit-VEML6070-PCB: master:3dd13922832c37869195787b3112429c482605c8;|none
+adafruit/Adafruit-VEML6075-UV-Sensor-PCB: master:3165308f9a23535ee0ace7843d7facc22f5181bb;|none
