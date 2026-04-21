@@ -481,3 +481,4 @@ obsproject/loganalyzer: master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;|none
 obsproject/obs-amd-encoder: master:b30ea6b39999039d8c7038b586cf81c337e587d8;gh-pages:1544392a4400f2887345f5e0c135ffa961e4b41d;|2019-10-13T21:00:00Z
 obsproject/obs-bot: self-service:e11aa4050c5a8aacd965fea79cdcc263daa32d64;master:42e6cdaffc5242cb32a66c89872a0e058a267c0d;disnake:24b0e3c0dc7d92296482492a23fef248c05eaaad;|none
 obsproject/obs-browser: test:962cdf008ea7bce4008d01e508b28d1dd300c7aa;qt-message-pump:f9f47a99c7c0d205a7e26dd9bbe2d600f14cff01;panel-update-final:5c882868f153f4754ddc68f48da320ad4c70a410;panel-update:94c2b882468aa087ffce1a481e9be82e9fb1886b;osx:f9a465e04109347704ef0ee736d363d77905ab9a;|2018-03-17T21:45:09Z
+obsproject/obs-crowdin-sync: main:7a52ff9b66263ee48a929d2c7e888deb3fa1bdb3;|none
