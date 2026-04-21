@@ -807,3 +807,4 @@ adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: master:1de541ff46165575234d826ae64
 adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB: master:b2e0b3f2930568da3471d6c42cb4919d573d3481;|none
 adafruit/Adafruit-Feather-M0-Express-PCB: master:5017ef41885371f8a26ba1b8ab9dd700bd7ce655;|none
 adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB: master:1b3616c9daf1cd0643bb7f6a98f4e3c71fe16c83;|none
+adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB: master:20e781d8d7d0b31002f9d2a8eaef18429f983815;|none
