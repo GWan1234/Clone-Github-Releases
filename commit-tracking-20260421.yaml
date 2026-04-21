@@ -660,3 +660,4 @@ adafruit/Adafruit-ADS122C04-24-Bit-ADC-PCB: main:bb60e307305d48648d0d77d3edcdef2
 adafruit/Adafruit-ADS7830-PCB: main:b796c6e98ecc7bddd24d97c2ce9e553dbf0edf7c;|none
 adafruit/Adafruit-ADT7410-PCB: master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41;|none
 adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB: master:765d4e303830c064a426bf57dccdb68e05473a36;|none
+adafruit/Adafruit-ADXL343-ADT7410-Sensor-FeatherWing-PCB: main:808e86d439341e5acc1c307a376ca220d96751ee;|none
