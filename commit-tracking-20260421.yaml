@@ -1131,3 +1131,4 @@ adafruit/Adafruit-TFT-Gizmo-PCB: master:dc9a7479381c01421a630a93f891c7142f4dfde0
 adafruit/Adafruit-Thermal-Printer-Library: master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d;|2022-10-27T21:01:38Z
 adafruit/Adafruit-TLC5947-PCB: master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a;|none
 adafruit/Adafruit-TLC59711-Breakout-PCB: master:db1aa65ded2fdca2fb8dca48995195abe2235a0f;|none
+adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB: main:4456a62a418b1a25ce2500ce0335ab6fe1eceacf;|none
