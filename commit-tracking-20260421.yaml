@@ -1200,3 +1200,4 @@ adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: master:1ef873512150740edc9798
 adafruit/Adafruit-VL53L1X-PCB: main:e2a85759d3b85907b3c2422f3c140d6bb45390d7;|none
 adafruit/Adafruit-VL53L4CD-PCB: main:de475b8aede92ff30e66671ded9ec015fc0df6ba;|none
 adafruit/Adafruit-VL53L4CX-PCB: main:8e287e0d06293984a3c2b4e14180830dda2e3acc;|none
+adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: master:2577abd97ffa3dab39b631643d5861f5b6bd98c1;|none
