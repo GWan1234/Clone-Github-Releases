@@ -4641,3 +4641,4 @@ adafruit/Adafruit_On_Air: master:3957f81639928a8ce943575fb357884c95559b58;|none|
 adafruit/Adafruit_DS2413: master:a044150b7fd3a57d3e0123b154df27d782edc3f5;|none|SIZE:2193
 adafruit/TinyWireM: master:e3c07f2a91621632f7a4128b91e985d2bd72467a;gh-pages:aea76a3938531d45b6adf79dafae46f6e5ddc925;endTransmission-optional-stop:b6ebdfce9431e53881ecb840410038de5471fa98;|2026-02-11T17:57:34Z|SIZE:114953
 adafruit/Adafruit_RA8875: master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pages:56b737e11c1f75469b797977b2a53d055b737f4a;doxy-fix:67907ed926f2e276033b0f355b60d66ccc17ecbd;|2026-03-02T15:21:38Z|SIZE:910005
+adafruit/Adafruit_SoftServo: master:9e9d72ad7487a7eda11c5f19dfcc7a81dc416d07;gh-pages:067333a6bceda3849897d7cfb1abce784bf42119;|2023-11-14T20:17:51Z|SIZE:87978
