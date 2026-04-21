@@ -534,3 +534,4 @@ AlistGo/v2: v2:f879b72b6350f6d934b31c6aeecdd06fa45da63f;feature/lock:b106f7ea9bd
 AlistGo/vite-plugin-dynamic-publicpath: main:ff72af11ac3c9e300f299f132f77c3bf0cf0bbb8;fix-legacy-browser:e9f51fed54326d54f2d1c1591832e858dc06c9d9;|none
 AlistGo/web-v0: plyr:3f2b734cae744b1fca92025e656dfa71dcc43f62;main:22c3356c805eca455d21d2f1951917371aa591ed;|none
 AlistGo/web-v1: main:6dd56434bf86e0f7e4ee6d850cd9050f94bd8ded;|none
+AlistGo/web-v2: v2:62202925cf9a689024515cf140a9661aa74b919d;renovate/configure:458ec68b753973771ceb03b61143364c83ed0f37;feature/anchor:f1fc3603f76176474a313146c446a2613c9fdb58;|2022-08-13T03:48:12Z
