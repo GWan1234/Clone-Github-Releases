@@ -932,3 +932,4 @@ adafruit/Adafruit-LM73100-Ideal-Diode-Breakout-PCB: main:eb584e823d1e506ff31bf8f
 adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB: master:2f651eeb3cfd8395e67a2dd241d086286ceb7668;|none
 adafruit/Adafruit-LPS28-Pressure-Sensor-PCB: main:593fed8bfe3f406d6f40a9c7bd83e88b92a25055;|none
 adafruit/Adafruit-LPS2X-PCB: master:5d8dc248b63ff39d1ca1ddbf29ea7fc30e9d4278;|none
+adafruit/Adafruit-LPS3X-PCB: master:dacce39b9af0ccbcc31625c45ef3a9c001ab0a4d;|none
