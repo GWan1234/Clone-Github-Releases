@@ -491,3 +491,4 @@ obsproject/obs-vst: shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825c
 obsproject/obs-websocket: release/5.5.6:c542622d7b6d41ce5875f54efdab1d4ac2967ef4;release/5.5.5:63e04d20daf84391955580579e6576dfb373fa7f;release/5.2.3:6fd18a7ef1ecb149e8444154af1daab61d4241a9;release/5.0.0:d465dd3110ec1ebe6440d11634db4607e26dc13d;master:1fcb95b15aa88b1b7e9bda3f9c8650e314377169;|2022-09-02T04:37:17Z
 obsproject/obscommits: refactor:f112fe301c7ae396bb8079da1f860f9ceb8011eb;master:a4246ecdf9957c32c5d7d7a6a681e956f5e22bbe;|none
 obsproject/rfcs: master:da063de64d0fe8ed009128d896197bc918fb41e0;decklink_device_management:5cc6d50dd63215f41caf60ce10f2a94f329ce73b;|none
+antimof/libcamera: main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;|none
