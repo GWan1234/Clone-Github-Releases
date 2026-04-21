@@ -157,3 +157,4 @@ domoticz/domoticz-xamarin: master:bc4d3714fb11c09a9825f938e9e4dfa0fd2833d4;depen
 domoticz/home-connect: main:1e2286396718c649e4365a768391c4fb488da53d;|none
 domoticz/libwebem: master:48f8fbd97333939796a62939487be68a6e8abb88;|none
 domoticz/Machinon: xMasEdition2019:ad85fdf114affb863226d16769e6a6868559db3b;master:568f9fb7836eb86785808f17a01760bd7ee592d3;dependabot/npm_and_yarn/RE.MACHINON/re.machinon-server/multi-a9d6b50edb:4f8bf3f236c6d90b98a716087eca493176238a8d;dependabot/npm_and_yarn/RE.MACHINON/re.machinon-server/multi-337c511d38:078bf4bba4aacff8ab707340c37310105ec58666;dependabot/npm_and_yarn/RE.MACHINON/re.machinon-server/multi-84cbf370ce:08148e7ffcfadfd3013fd4596befe2af64b2e601;|2026-03-06T06:50:03Z
+domoticz/minizip: revert-5-fix-build:86d58ae1066ee69ad30a301365a55eee74ce229a;master:aee7fbddf118d9363575af96310c29fa747d70c0;|none
