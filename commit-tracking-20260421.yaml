@@ -1178,3 +1178,4 @@ adafruit/Adafruit-USB-Host-BFF-PCB: main:dc61b50d5ba04d7ba3a73dfa57c0a54d2515439
 adafruit/Adafruit-USB-Host-FeatherWing-PCB: main:7011deb5316121374db87580ad3b03f22d8f676d;|none
 adafruit/Adafruit-USB-Isolator-PCB: master:826956acd5fa3ed2c04f8f39ebb1be42f8f25854;|none
 adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB: master:cb76b1dcdf8be3f4f506ec89adc563f6022a0e07;|none
+adafruit/Adafruit-USB-Power-Gauge-PCB: master:0dc263aaff419a6f150e74e4a9b6e94b6b4057be;|none
