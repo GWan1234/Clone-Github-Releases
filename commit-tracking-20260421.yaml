@@ -703,3 +703,4 @@ adafruit/Adafruit-Bluefruit-LE-Micro-PCB: master:b96e10fc1481de5e03bc5926590aeae
 adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: master:5d9281aebe826950512105acbb304bf30f5d0540;|none
 adafruit/Adafruit-Bluefruit-LE-Shield-PCB: master:6b86d1bdaa0a1058f4738f09524606a86cd793ce;|none
 adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB: master:8891795d7776b7203f25237db4f25ad5692758d4;|none
+adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB: master:c4c1e41ac42f744587e5f3dfef258113a2126342;|none
