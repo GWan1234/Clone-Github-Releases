@@ -236,3 +236,4 @@ ioBroker/ioBroker.kisshome-research: main:7a255a7d09d9fb1c53718e0a9325c9c9f3f4a6
 ioBroker/ioBroker.knx: no-git:0362cd9986fa8e456231bcc9582d23fa64f1e1ea;master:2e73cdf6fa306083cb9c4ef4168c0771b3c20a9a;|2016-10-13T21:06:41Z
 ioBroker/ioBroker.lcn: master:e4754ec0be8467df7ee0b847cc81060764d5ded8;dependabot/npm_and_yarn/iobroker/eslint-config-tw-2.2.0:8ee10d5f7793d34323c95cfe60abea11e7532c38;dependabot/npm_and_yarn/iobroker/build-tools-3.0.1:4019367da16eaa501f5bd544d5e4bbce75ba2d28;dependabot/npm_and_yarn/iobroker/adapter-core-tw-3.3.2:22fff452defd1016c77de438ff2b3c293fa8fdb9;dependabot/npm_and_yarn/chai-6.2.2:3e67c9f759e41c764fa8203439dc76c69bd899b0;|2025-03-24T16:39:15Z
 ioBroker/ioBroker.legacy: master:c1d631c13941814be0f0f9b3ce93fcff2f3bad25;|none
+ioBroker/ioBroker.link: master:263159ebeac3c835f8c16389c0dc5eb2eac4322f;|none
