@@ -397,3 +397,4 @@ OpenListTeam/openlist-baidushare-plugin: main:8515b0f7bfa715007c833d1374fdb10b65
 OpenListTeam/OpenList-Desktop: renovate/vue-3.x-lockfile:5961dea4e6f984b186ad8dd1a510ee5a89779480;renovate/typescript-5.x-lockfile:364b711bdb44b3983ffd90abda5c8488eb1e7c63;renovate/tauri-apps-cli-2.x-lockfile:8fe4c8e502a4ad83bb85bbc1052ac20cfecc9729;renovate/node-25.x:a7d228177c3c1b5e73261f012073b5b4fb124bfc;renovate/node-24.x-lockfile:bd226995f932475c2dc75850b9ad0745ade283e6;|2026-02-10T06:44:03Z
 OpenListTeam/openlist-desktop-service: main:4c4d03ff6c4790c15613ef040f9369947f146430;|2025-06-17T03:10:34Z
 OpenListTeam/OpenList-Docs: reorder:b9e4e4491fc230b47fb527efaebb7eb0e5c5d75c;main:0e54dfbeb764ce54f1e1cea02ed7053a240d7b67;gh-pages:67865478539e2eb60ad3b703bc75029bcba33d18;|none
+OpenListTeam/OpenList-FLATPAK: main:eeeb030e160c84838db95d94e41867915924e6f1;|2026-02-01T04:30:30Z
