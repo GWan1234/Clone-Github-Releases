@@ -4876,3 +4876,4 @@ adafruit/circuitpython: webworkflow-20260416:21ef9e5c70abf0b79d0fe75ed72ab24e47d
 adafruit/jenkins-pipeline-library: master:980e2960e01b26e22a9109c0b435adc937a5de9e;|none|SIZE:13302
 adafruit/GPSDemoApp: master:146c587b4712398de97c97ce53789d15f8c4b0e4;|none|SIZE:19132
 adafruit/CharLCDPlateTest: master:cd2df54ef7ffd73fef905770315d007a628ec592;|none|SIZE:15950
+adafruit/DotStarDemo: master:5169592fa88f9c18165a20983030298541768506;|none|SIZE:343675
