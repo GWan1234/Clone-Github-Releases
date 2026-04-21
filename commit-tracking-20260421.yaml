@@ -4880,3 +4880,4 @@ adafruit/DotStarDemo: master:5169592fa88f9c18165a20983030298541768506;|none|SIZE
 adafruit/Adafruit-Radio-FeatherWing-PCB: master:926b55164daad155e05ebe8ca3a02365bc07a40c;|none|SIZE:1201886
 adafruit/micropython-adafruit-tcs34725: master:96f9936317130f8a140b4e638ebb77aa4c564891;|2016-10-30T21:21:55Z|SIZE:11060
 adafruit/micropython-adafruit-tsl2561: master:4dc704265ec783d8949130698140c85d8d2d7375;|2016-10-30T21:23:19Z|SIZE:11382
+adafruit/Adafruit_Si7021: master:223a4b93942404bdf68ea8c107e86a1dc5d3c379;helmut64-ECO_POWER:a6e6631442e024493aa8e6907b18ca6d60ce9e82;gh-pages:43eb0d14c7dadd554a2124cccaf5d284ae637057;actionci:2ed011d2b28f9296d15b31f12e753d54d9661ea5;|2023-11-14T20:16:55Z|SIZE:1009164
