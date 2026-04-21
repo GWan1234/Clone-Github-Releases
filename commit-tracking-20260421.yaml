@@ -4625,7 +4625,7 @@ adafruit/Python-WiFi-Radio: revert-7-master:3e5587d38c4f2b5ea413c244b4637dc817fd
 adafruit/adafruit_flora_game_controller: master:bb1621ab2839846d799061c408b1d522443e7ea5;|none|SIZE:2123
 adafruit/Adafruit_TCS34725: master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-pages:2902921a50b4b9c136dd39291cb157b8995502ec;|2023-12-12T13:05:45Z|SIZE:884023
 adafruit/Sous_Viduino: master:b1b71a4316e9789541d4926df6983e5703d32f68;|none|SIZE:4338
-adafruit/Citi-Bike-Helmet: master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;|none|SIZE:7903
+adafruit/Citi-Bike-Helmet: master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;|none|SIZE:7902
 adafruit/Hunt-The-Wumpus: master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;|none|SIZE:4834
 adafruit/Adafruit_ILI9340: master:00e5efe5d5c95f1255e55031b57f17288cf3c840;|2015-03-31T19:42:04Z|SIZE:58219
 adafruit/PiMiner: master:dce07f83d178489c92eb67922ff1124f5f376e29;|none|SIZE:16286
