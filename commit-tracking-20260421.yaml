@@ -644,3 +644,4 @@ adafruit/Adafruit-3.5in-TFT-Featherwing-PCB: master:824a68056b2b102a71621405b9bd
 adafruit/Adafruit-40-pin-TFT-Friend: master:f9efc2816b9a4665d219ac4bde7d5dddc7d82945;|none
 adafruit/Adafruit-5-HDMI-Backpack-PCB: master:906e152b9ae9eea91dbcb699fe88c4e1909339b5;|none
 adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB: master:0c0c72915d3f1a48031f893c11a9e7c903f5cbf9;|none
+adafruit/Adafruit-555-PWM-Output-STEMMA-PCB: main:2e76b0f1a4a3c2c5f1c1120031069969fc5e505a;|none
