@@ -5237,3 +5237,4 @@ adafruit/Adafruit_CircuitPython_NeoPixel_SPI: main:37990c55f7aa8322f3e8c8962d3e3
 adafruit/Adafruit_CircuitPython_MCP4728: patch-fix:79723493818734a82e954db4e9b161ca073c87fe;main:c1e7e79fe71266b60ef17627909f9f4ae7fa99dc;blitzcity_fork:d907e3e0baa15cd50cc647d80261dac77aeb68fe;|2026-03-27T19:01:13Z|SIZE:69337
 adafruit/Adafruit_MCP4728: master:c5891d580070099c40cec57b96bac5ed55e3ca25;gh-pages:2f8b181b4cdce6c8830e2f4dccac84455ae61d46;actionsci:125e257188f0abcef8dce9cd350ddfee27d9a90b;|2025-09-17T15:36:12Z|SIZE:514651
 adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center: main:a636fc984dced58f5f0815c5c531a03ee092f7ad;|2026-03-27T19:07:57Z|SIZE:20770
+adafruit/Adafruit_Spectro_Pi: master:5da6bd1f40b9ea37b6b19d87967baeaec36ac9ef;|none|SIZE:4270591
