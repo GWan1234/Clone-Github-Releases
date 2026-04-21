@@ -359,3 +359,4 @@ ioBroker/MMM-ioBroker: master:9d76892bfe2da6819c53a05ace7da5ec3ee6ccd1;gh-pages:
 ioBroker/modbus: main:a5e11550028f4e73b445b8945bca1bbe7bcb267a;|2026-04-13T18:06:57Z
 ioBroker/modbus-templates: main:6b2b3355a82a77d7a0f4712f1a16620b2da80e38;|none
 ioBroker/nodebb-theme-iobroker: master:725ed42b5c3ed8f30ee5828f5ff7e3c299ad3aae;copilot/update-theme-nodebb-4-6-1:2398ff1f68ff16da22d1446aaa686e951f84cc1e;|none
+ioBroker/plugin-base: typescript:aa44345d5242d95e6a36a2039bf3397238fdd6f4;master:826c552ab24e1ff0d562f8c003ccfcedb875dbf8;dependabot/npm_and_yarn/typescript-6.0.2:e7f302b3aa39019c77a45fa1155d67629c98cb2d;dependabot/npm_and_yarn/types/node-25.5.0:d2f12ddc3ee0230ece201238357c40531e35a408;dependabot/npm_and_yarn/picomatch-2.3.2:e0cd0d3d6492bfc98fe83b73eecf92a568ea4ba1;|2025-10-16T18:17:29Z
