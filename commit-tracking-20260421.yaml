@@ -790,3 +790,4 @@ adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB: main:633459d74623227a18f7c4b
 adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB: main:e2cfb6b5e5edb46688429b701eead7a78738b0f8;|none
 adafruit/Adafruit-Ethernet-FeatherWing-PCB: master:1f950d49ed57129f6c33656a3ac37ad7d21d757b;|none
 adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB: main:413ce0dd8db9915a982eab83b68ea9a01c70db77;|none
+adafruit/Adafruit-EYESPI-BFF-PCB: main:90ddd1a730d2963aacaa67d787213e31e9ef8a0f;|none
