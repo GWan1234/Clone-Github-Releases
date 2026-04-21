@@ -5428,3 +5428,4 @@ adafruit/library-registry-pb: main:3daffd99c127fc072ddd0e4acb678f4fd8150c17;|non
 adafruit/g722_1_mod: update-cibuildwheel:f97b9291b2ae4a9f3956ad84b097d6176b61e643;main:a9d832273c926a05b875eb5a48e2920966d9e95d;dependabot/github_actions/pypa/cibuildwheel-2.23.3:48a5cbe4f4b52df09082b5c86f27c4a25e9720e0;concurrency-event-name:1f2ed7b304437a709d16476156b19a55c2c7f987;|2024-10-09T12:40:10Z|SIZE:233436
 adafruit/Adafruit_CircuitPython_EK79686: main:520aa4a3fb14cfcec41d0eb22af657ce80fb01df;|2026-03-27T18:58:03Z|SIZE:22869
 adafruit/Adafruit_CircuitPython_Intellikeys: main:75075716ec2a968f9fd79e05b9a4bedbec93ee48;|none|SIZE:9792
+adafruit/Adafruit_CircuitPython_ICN6211: main:1c219ab2a01d8ceb50d10f75a1b46a4dd0e0d92e;|none|SIZE:24656
