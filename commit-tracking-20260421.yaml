@@ -693,3 +693,4 @@ adafruit/Adafruit-Audio-BFF-PCB: main:cc58e5b14991044038626a00b502c2e8eda2f85a;|
 adafruit/Adafruit-Audio-FX-Sound-Board-PCBs: master:378d5c6b68a12f1ec56110df7422b18ddeafe679;|none
 adafruit/Adafruit-AW9523-PCB: main:080a15c70db83a9091bdfd03ee7e85ae38b694a5;|none
 adafruit/adafruit-beaglebone-io-python: pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;master:cf306ed7f9f24111d0949dd60ac232e81241bffe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;|2020-07-30T02:39:56Z
+adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: master:fcc1a8964feb782278f444b70feaa311972e4a35;|none
