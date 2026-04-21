@@ -4724,3 +4724,4 @@ adafruit/Adafruit_ESP8266: master:08fadf3c31d5355cb51fb6278a7097bcdea85553;gh-pa
 adafruit/Adafruit_Python_MPR121: master:86360b80186617e0056d5bd5279bda000978d92c;|none|SIZE:11851
 adafruit/Pi_Node_Example: master:7ddf92a9b8c52ab6dd199430f5b89714913eab86;|none|SIZE:1799
 adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: master:28187bf4de497bd6bcff28d3767473f78b46038d;|none|SIZE:538444
+adafruit/Adafruit-Pi-Finder: v4:329847e9ba2539654a6e658568a058daf42e0c92;master:d686bad555d2b97390e6b0d690c3498921c059cb;|2015-08-20T21:35:47Z|SIZE:1430221
