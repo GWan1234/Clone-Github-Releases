@@ -4879,3 +4879,4 @@ adafruit/CharLCDPlateTest: master:cd2df54ef7ffd73fef905770315d007a628ec592;|none
 adafruit/DotStarDemo: master:5169592fa88f9c18165a20983030298541768506;|none|SIZE:343675
 adafruit/Adafruit-Radio-FeatherWing-PCB: master:926b55164daad155e05ebe8ca3a02365bc07a40c;|none|SIZE:1201886
 adafruit/micropython-adafruit-tcs34725: master:96f9936317130f8a140b4e638ebb77aa4c564891;|2016-10-30T21:21:55Z|SIZE:11060
+adafruit/micropython-adafruit-tsl2561: master:4dc704265ec783d8949130698140c85d8d2d7375;|2016-10-30T21:23:19Z|SIZE:11382
