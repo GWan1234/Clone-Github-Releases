@@ -5473,3 +5473,4 @@ adafruit/Adafruit_DACX578: main:b174745264477a5553d4f178b95f2245258d3c7c;gh-page
 adafruit/Adafruit_TLV320_I2S: main:a361dbc4f1168fd37c98329a600e7daffe658434;gh-pages:875fd4553d247d4974acabddbab7079b1c0c66ef;|2025-03-27T20:00:36Z|SIZE:143851
 adafruit/Adafruit_CircuitPython_DACx578: main:ed0c8a533c36e56922ed2df2ccfbe8493919acd7;|2026-03-27T18:57:23Z|SIZE:19945
 adafruit/Adafruit_CircuitPython_Display_Emoji_Text: updating_text:675beb42697dcffb4abdc1718199f72e2a30aafe;main:d6db2f5bcdaea4f86ecd877cabec1c819066b5ca;|2026-03-27T19:09:08Z|SIZE:38597
+adafruit/MCUME: main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;|2025-08-11T22:37:53Z|SIZE:22962117
