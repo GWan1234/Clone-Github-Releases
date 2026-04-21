@@ -4667,3 +4667,4 @@ adafruit/Adafruit_nRF8001: master:5b331b370a980e90c0983a685da74996fe61dab1;gh-pa
 adafruit/Adafruit_ILI9341: spitft:ecb15209699dc6590d5cb1681415a574a16b2de0;pb-tft8:f7f16243260fcbb7f650116ec2643f2eb54b27b6;master:dbb447afc9b1567d8571a55c22efd77fa427a4e2;gh-pages:13b636c2b8c045e37a907287090108830d3fb58b;fwingv2:dbe40412962a1408efddd7d555da02d239856e59;|2026-02-11T17:45:49Z|SIZE:192746
 adafruit/Adafruit-PCB-Ruler: master:722a89a839cd30a00da8f9e0d61cb9332e491f55;|none|SIZE:211417
 adafruit/Bluefruit_LE_Connect: master:4721ec20245598fdb107f89b089f06671dc490f4;|none|SIZE:3731526
+adafruit/MAX31850_OneWire: master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce;|2023-11-15T15:31:53Z|SIZE:105122
