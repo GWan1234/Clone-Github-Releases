@@ -5703,3 +5703,4 @@ adafruit/Adafruit_CircuitPython_MIDI: useful-repr:f89b137f8800e7b6b70521e20a9597
 adafruit/Adafruit_CircuitPython_ST7735: setup-py-disabled:3814f672f5565e7f9c60f5f5f6d32e90c90da96d;main:0d7c32f55526925a52552ee5e37d47633227d9fe;|2026-03-27T19:04:45Z|SIZE:33809
 adafruit/Adafruit_CircuitPython_ILI9341: setup-py-disabled:0a4d1e8cf2d71fd0b9e8f471ad6bd4af3d953d60;main:cb18e35eba708595d0ea6a74b0c3ac3f4f1a943e;|2026-03-27T18:59:21Z|SIZE:34839
 adafruit/Adafruit_MagTag_PCBs: main:2746976559095738acfb7063a46d37e4d7c93603;|none|SIZE:1495850
+adafruit/Adafruit_TMP117: master:6876d913b529ce408060f38013037e5ed0c1abad;gh-pages:a3553945440c9337895266d56846bcec4cd76433;|2026-03-11T17:57:10Z|SIZE:110192
