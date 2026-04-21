@@ -4772,3 +4772,4 @@ adafruit/Adafruit_HDC1000_Library: master:e1622912148faba94e5c44f33bf0b9526d58c2
 adafruit/gpio-stream: master:a14e0f5a1cf2fadbed047a80cdc4118b555df842;|none|SIZE:1531292
 adafruit/Adafruit_Python_BNO055: master:ce9d7ae76cb23b8962d2dddc48f943bd8416831d;|none|SIZE:1650951
 adafruit/TechnoTiki: master:9b0cb756161a1d6657510082f92df4f7b958d5ac;|none|SIZE:7099
+adafruit/nprone-cli: master:53f718d7cb8b52446d58a35e84b841c057001d6c;|none|SIZE:6332
