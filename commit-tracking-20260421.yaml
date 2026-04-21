@@ -5211,3 +5211,4 @@ adafruit/pyright: master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87
 adafruit/BrainCraft: master:464a6d11b53a6d18cfebffc75e602fc9696bf95c;|none|SIZE:6835
 adafruit/Adafruit_CircuitPython_MPU6050: patch-fix:3963838a50909d609ea37497e1cdd69aea9fbf80;main:d3761591ccf7629b39675dd1db45184b96a3b779;|2026-03-27T19:01:53Z|SIZE:47046
 adafruit/Arduino_Core_STM32: master:2b723f85337a0684573de03a9d471f861f271435;|none|SIZE:6270526
+adafruit/Adafruit_CircuitPython_LSM303_Accel: main:cca2ec72e8798dae15e1f79c378edc002811b9e3;|2026-03-27T19:00:15Z|SIZE:21131
