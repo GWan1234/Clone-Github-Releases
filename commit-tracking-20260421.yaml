@@ -964,3 +964,4 @@ adafruit/Adafruit-MAX9814-AGC-Microphone-PCB: master:96bd97b32a5378517301185de49
 adafruit/Adafruit-MAX98306-Class-D-Amp-PCB: master:424e82a2ca2bff2f5b96e02a092e1e1a1b3cb81e;|none
 adafruit/Adafruit-MAX98357-I2S-Amp-Breakout: master:5fa51d3f5828f699c21a91cdf07e1ca8992f8897;|none
 adafruit/Adafruit-MCP2221-PCB: master:53e780f92007ff5cd0de8680872af6d316c64847;|none
+adafruit/Adafruit-MCP23008-library: master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567;|2020-09-16T18:56:21Z
