@@ -1152,3 +1152,4 @@ adafruit/Adafruit-TPS65131-Split-Power-Supply-PCB: main:5c4644c7acc1e285870881ca
 adafruit/Adafruit-Trinket-Gemma-Bootloader: master:3bc1bb561273535d4d493518a233a3a1fccf6b76;button-boot-activation:1be6ac8acfb27d521159ff753dd387ba54489d4e;|none
 adafruit/Adafruit-Trinket-M0-PCB: master:4103b9cd2722fadc28dc3969bbe067c6873e0540;|none
 adafruit/Adafruit-Trinket-PCB: master:3a2695463e52f72434d20daca6502fc62e8e2fcc;|none
+adafruit/Adafruit-Trinket-USB: master:51f208bc569dd79d7357f16d548ed0c43f4927e8;experimental-update-jan31-2014:da4d1b515a725f90208462f4d4a018f6391678bf;|none
