@@ -330,3 +330,4 @@ ioBroker/ioBroker.vis-plumb: master:332fc60366e8142e17b63cf168088461ddcc918e;|no
 ioBroker/ioBroker.vis-powertrust-fonts: main:9c8b2cd532b32d46a24c6090b4aa7c4f1d060bd7;|none
 ioBroker/ioBroker.vis-rgraph: master:1b5fef6b343838433b308dab2e6f6e7d2548323e;|none
 ioBroker/ioBroker.vis-special-charts: master:4101d3173a256bf9ed6088c82fd0fe59158545fd;|none
+ioBroker/ioBroker.vis-template: master:d0886db449e0b42a426e466248a72cb6e41468d0;|none
