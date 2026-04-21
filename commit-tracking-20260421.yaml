@@ -4527,3 +4527,4 @@ adafruit/Data-Logger-shield: master:223f8db28a8b0171fdb56cfbc78d5d98338228d6;|no
 adafruit/Light-and-Temp-logger: master:d615540bfa0b30aa721960312a46d62161b6c2e8;|none|SIZE:2385
 adafruit/Tweet-a-Watt: master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac;|none|SIZE:15404
 adafruit/ST7565-LCD: master:d40d9d832be8a6ce26d6462e85de3dcf439942fc;|none|SIZE:215395
+adafruit/SD-card-testing-jig: master:823b68201f1215d345dc6af727399f021bfddb9b;|none|SIZE:1235
