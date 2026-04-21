@@ -5088,3 +5088,4 @@ adafruit/Bluefruit_LE_Connect_Android_V2: main:f2fadabee9b05df1f62c9c97354813d1f
 adafruit/pxt-common-packages: unifont:f9f184c12ae37602d88ad4393fdf1f6bbdc62d5e;testbits:3e2930770371b0cba7b31bd059ec0ed54495bf3e;stmusb:8114c686759c0bca4c47957535c9dc1c878cad9b;sprite-ref-docs-04:7809a09628be87c59a4bcc08f7d654b8414aa6f0;simslim:93690bdf44386de8912e43c596fa29ef002b9bf9;|none|SIZE:1812995
 adafruit/Adafruit_CircuitPython_Pixie: main:453bc8c8618e7b992890811a50e5fc482d1c97a0;|2026-03-27T19:02:50Z|SIZE:18609
 adafruit/Adafruit-Podcasts: master:17d58772eb7d81b2556864ee11e494c5f6a6e8c6;Collin:2d2454bab7055f5b050f7f32ca45db0d83eeb78a;|none|SIZE:14362
+adafruit/Adafruit_CircuitPython_TCA9548A: main:be3011a5a811d420bbb126f8920367717bc0a0e2;|2026-03-27T19:05:04Z|SIZE:18823
