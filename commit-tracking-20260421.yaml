@@ -892,3 +892,4 @@ adafruit/Adafruit-INA260-PCB: master:6fbc2f2fd8afe26760e791ae2f3d00977a3f1d6b;|n
 adafruit/Adafruit-INA3221-Breakout-PCB: main:8512a5309b714b62bf669fd1b85787a5ef051a16;|none
 adafruit/Adafruit-Infineon-Trust-M-PCB: main:be8bbc2b780c9807f57df6a793e743d38681eccd;|none
 adafruit/Adafruit-Infrared-IR-Remote-Receiver-PCB: main:ead85073a5f1e06c649a5f8e9a143e4ecd4e9333;|none
+adafruit/Adafruit-Infrared-IR-Remote-Transceiver: main:d449f19025cf3325f29dc6c28da059d09875721d;|none
