@@ -368,3 +368,4 @@ ioBroker/testing: master:a11900b86c62b87b83f5a1e9df1cb3aee69d7961;fix-219:facef4
 ioBroker/testing-action-adapter: master:c91f22babd740509d72864da740f7eaf9029b26b;|2025-12-16T14:26:18Z
 ioBroker/testing-action-check: master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;|2026-01-26T09:38:01Z
 ioBroker/testing-action-deploy: supporting-custom-tag:317ff636ecdc74767690a513a2c2de4c50801910;master:3b33380398eb641e9d6029bda5103a4c75578526;downgrade-action-gh-release:6b8f1e027625f6bf09cecee869a0e8dcac2b6286;|2026-01-06T11:55:32Z
+ioBroker/webserver: small-adaption:38ac4ea605fe0aa52a9104f41fbfd40575436d28;main:d699a7ccb5aafde40dd344538bbbd7e2050aa895;|2026-04-13T07:57:39Z
