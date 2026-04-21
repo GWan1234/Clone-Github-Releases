@@ -1247,3 +1247,4 @@ adafruit/Adafruit_Arcada: waveplayer:7ca4f5731608a49f232cd1b0b3254ed7ebb1828d;qs
 adafruit/Adafruit_Arcada_GifDecoder: master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc;|2023-10-03T20:09:33Z
 adafruit/Adafruit_Arduino_Boards: refactor:f4e274f512f9def3b537ec98a76313e8229bf769;master:3751f438bb2cff9b5970d1056c4a2e91876a93f0;add-wire-end:7157b88f4a683aa069d877b217f96c1063df01aa;|2021-11-26T05:51:35Z
 adafruit/Adafruit_Arduino_OpenPixelServer: master:d72678e9b6c2d9564224fb2c35fc85250457494c;|none
+adafruit/Adafruit_AS5600: main:d0e1eda5fc0c9e2cfbb84ad55bcb50fc73708d7d;gh-pages:af5e0d4afad0ad67af143add9bbb5a720c3b1e3d;|2025-06-11T17:57:21Z
