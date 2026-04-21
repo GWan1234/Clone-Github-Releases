@@ -357,3 +357,4 @@ ioBroker/jsonltool: main:f989e7909df5272fc5490879243cb3082c0415df;|none
 ioBroker/legacy-testing: main:c06b808cf557c0e33eba502c41417389e651aa66;dependabot/npm_and_yarn/mocha-tw-11.7.5:605be35fb88f2cea31fae7ee9f91adc2129c2669;dependabot/npm_and_yarn/iobroker/eslint-config-2.2.0:d8aed363179f01d125ac3f9e5ac75005669c7ec2;dependabot/npm_and_yarn/chai-6.2.2:884322cbe21ba4b8bcfad2419af8a97b5772f514;dependabot/npm_and_yarn/alcalzone/release-script-plugin-license-5.1.1:19ae1934123ef30c5c0a1bf669dc685fa6409275;|2025-01-21T19:40:38Z
 ioBroker/MMM-ioBroker: master:9d76892bfe2da6819c53a05ace7da5ec3ee6ccd1;gh-pages:c980d522f3ca2937ba180443dac253d96d08c00f;|none
 ioBroker/modbus: main:a5e11550028f4e73b445b8945bca1bbe7bcb267a;|2026-04-13T18:06:57Z
+ioBroker/modbus-templates: main:6b2b3355a82a77d7a0f4712f1a16620b2da80e38;|none
