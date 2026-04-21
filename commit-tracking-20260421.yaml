@@ -413,3 +413,4 @@ OpenListTeam/packages_lang_golang: 25.x:4bd3d30989baa824dd1b08870776d43f4729bcde
 OpenListTeam/rateg: main:f29392610fa74b6c9b2a35568535a3977e028da7;|2025-06-30T12:30:47Z
 OpenListTeam/resty-tinygo: v3:8fff8b24c719b0e11d50911826aab1cff4a2442b;|none
 OpenListTeam/sftpd-openlist: master:0b84c6926ebf0e5813831f053890aeb964aa6c7d;|2025-06-14T07:00:55Z
+OpenListTeam/solid-router: main:d960ff250025329e0a0394568dd336dc27070d8b;|none
