@@ -863,3 +863,4 @@ adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: master:6d03cc0e0a1d6436051
 adafruit/Adafruit-Hallowing-M0-PCB: master:c0585b0672ce13e163b8da6ce9215ec600c63d64;|none
 adafruit/Adafruit-Hallowing-M4-PCB: master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27;|none
 adafruit/Adafruit-HDC1008-Breakout-PCB: master:997a197ad04c62881c347f31e6c0324c6d831bb9;|none
+adafruit/Adafruit-HDC3021-Precision-Temperature-Humidity-Sensor-PCB: main:c19db414e4e80d9613fda8acdfface82af903001;|none
