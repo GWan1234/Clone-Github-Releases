@@ -4613,3 +4613,4 @@ adafruit/Adafruit_NeoPixel: rp2350_fixes:c2e104673660f765f7c8ff997e7a858a11766e8
 adafruit/Flora-TV-B-Gone: master:f5e14320153824048f497d97ec716595a9e3f707;|none|SIZE:17806
 adafruit/Flora-GPS-Jacket: master:9aa3cda35ac410f888b6e921cc6aa35b389d249d;|none|SIZE:4812
 adafruit/TIMESQUARE-DIY-Watch-Kit: master:e96eb4b1c59d834064f6a437160f73b773111f46;|none|SIZE:182043
+adafruit/Adafruit_Sensor: master:0a9127a1e886ff1adb4c1b6f5958b24108d55aa6;gh-pages:c43948cef48d0c8ca15eabf9f3091d49f0c595c6;|2025-01-06T14:56:22Z|SIZE:103606
