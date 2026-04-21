@@ -803,3 +803,4 @@ adafruit/Adafruit-Feather-ESP32-S2-PCB: main:4a6263861580257d42a889a1518133441d2
 adafruit/Adafruit-Feather-ESP32-S3-PCB: main:2c95ed51a500d929fd6d8f519b895f0c4daeb982;|none
 adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB: master:957300988eee7d15d71649fd4e2cb023a6584acb;|none
 adafruit/Adafruit-Feather-M0-Adalogger-PCB: master:0147a7204c11ae57fc42c5424d5c700bcca875b2;|none
+adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: master:1de541ff46165575234d826ae64be64a82e8bc93;|none
