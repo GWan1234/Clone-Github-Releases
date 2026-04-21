@@ -4674,3 +4674,4 @@ adafruit/io-client-ruby: master:a2eecbd67a0c6857b462750f5d2d355533869125;|none|S
 adafruit/Adafruit_HMC5883_Unified: master:e18d8707156630b1abb43dd4c1ad6e08e47f9ad7;gh-pages:5988f466767056344cc25f2e10b807b030303313;|2026-03-03T14:48:35Z|SIZE:91772
 adafruit/Adafruit_MiniMLX90614: master:613aee3bbf05754574ce7d2112da7de45b352c5d;|2015-03-31T19:44:43Z|SIZE:4233
 adafruit/Adafruit_SI1145_Library: master:27757d5dd017f6dbe0dce11c49323312f87394c9;gh-pages:7711140ab17bdf407eaffb4b5c7bce42efa22e31;|2023-11-15T15:21:26Z|SIZE:369697
+adafruit/Adafruit_MCP9808_Library: master:1447e4e8ab099dec3bc76bbb19ab9136f9478b15;gh-pages:044be17019e1bd328f068a1a480d5832a46717d8;busiosensor:2c69f263873148d0e1cea4cd734c143af9f2b96b;|2023-11-15T15:23:29Z|SIZE:375982
