@@ -72,3 +72,4 @@ cockpit-project/org.cockpit_project.CockpitClient: main:b01400faf8832ef7117ec149
 cockpit-project/pixel-test-reference: master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;|none
 cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
 cockpit-project/registry-image-widgets: master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;|none
+cockpit-project/starter-kit: main:15c135ce09fb423d0132184333af42adbab80f23;dependabot/npm_and_yarn/types-f57dc2645f:58c2afb6b84022a8d8db5b1464671c66daef6116;|none
