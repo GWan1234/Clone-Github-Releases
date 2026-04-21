@@ -96,3 +96,4 @@ esphome/aioesphomeapi: sync_with_esphome:b853efb62177a5b0fede70267e9f359722035f7
 esphome/arduino-pico: pico-w:910a7e997b3843f96ed80186fd8f48e01bc6d13a;master:91e69e2a1ac984b8f29d88292da287fdf03800d7;|none
 esphome/AsyncTCP: main:27cb883234bcea25cb952deefc571d97b3c09b0f;bump-version:f770cd11e9120be4a1f5f4bec70b75f4c96fcd64;|2024-09-08T21:36:57Z
 esphome/bluetooth-proxies: main:6054c5a11b04dfbfc58f8d700716d4f2ed73517f;esphome-version-update:bb287c80f85cd88aae2aafcf87d064cef61e27d1;|2026-04-15T20:45:36Z
+esphome/build-action: main:f0a331817f5535854a10a42621b6a8b7ebe95c4c;|2026-03-15T09:37:40Z
