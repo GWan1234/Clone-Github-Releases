@@ -62,3 +62,4 @@ cockpit-project/cockpit-ostree: tasks-container-update-cockpit-ci-container-2026
 cockpit-project/cockpit-ostree-weblate: main:dea9a80383f6407c0d4a8e4ce226b31b4b56cea1;|none
 cockpit-project/cockpit-podman: tasks-container-update-cockpit-ci-container-20260420-044953:b6b5ad8efa98553a374b4bc272d7d1a8f79d0c19;tasks-container-update-cockpit-ci-container-20260330-043626:b710e6d217dee813bdb4f2f2ec1df1d89481693c;tasks-container-update-cockpit-ci-container-20260302-040404:d99c2b8cb3b09ad8edf7df4853612efdf2d4dae3;main:1f46517c92862efeac470818fb4fba22175a2523;dependabot/npm_and_yarn/types-f57dc2645f:6c288793e6c58b03853176c8fd328db73f4271d2;|2026-03-25T13:44:16Z
 cockpit-project/cockpit-podman-weblate: main:74eac9d785cfe88d96e8aefab6a6cf0b456d7487;|none
+cockpit-project/cockpit-project.github.io: workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;main:0c4acb8bd6bbf2207529f585db0dcb87a5a85232;|none
