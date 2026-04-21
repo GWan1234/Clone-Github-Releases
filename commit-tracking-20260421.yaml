@@ -1149,3 +1149,4 @@ adafruit/Adafruit-TPS61040-PCB: main:07958c909f40c45c5aea5cdd2cc96ca19461ec96;|n
 adafruit/Adafruit-TPS61169-Constant-Current-Boost-Converter-PCB: main:c538e5fd9950a652d65cf40744e51a227d458ab2;|none
 adafruit/Adafruit-TPS62827-PCB: main:441e9beed498f62705ee2df458a903a010eae4a2;|none
 adafruit/Adafruit-TPS65131-Split-Power-Supply-PCB: main:5c4644c7acc1e285870881ca24b7542121193ce7;|none
+adafruit/Adafruit-Trinket-Gemma-Bootloader: master:3bc1bb561273535d4d493518a233a3a1fccf6b76;button-boot-activation:1be6ac8acfb27d521159ff753dd387ba54489d4e;|none
