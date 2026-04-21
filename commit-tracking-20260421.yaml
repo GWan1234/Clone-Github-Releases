@@ -627,3 +627,4 @@ adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: master:1d637245ba0df241e05
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: master:6f265953b8eb8ee1573c0f3bddfe5c41781c6d95;|none
 adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: master:5cabac70d709c34fb8477e2eca90dc6429af0151;|none
 adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: master:74d6e65d5d33551bb1158547309b19381252ed38;|none
+adafruit/Adafruit-16-channel-PWM-Servo-Shield: master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3;|none
