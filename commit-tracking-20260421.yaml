@@ -4782,3 +4782,4 @@ adafruit/xcarve-proxy: master:83cdba78067629063f6158d665baaee8380ccde8;|none|SIZ
 adafruit/Adafruit_DotStarMatrix: master:14f09e427d72f74581f07775652bedf2828f46e6;gh-pages:b2cf28e0ba7797f39fc4ddec8b155190cbcae08e;actionci:af97b82f2bc07283ecf7696ec9dd229d0170d832;|2024-06-18T12:07:41Z|SIZE:133171
 adafruit/Adafruit_WICED_Arduino: win32_binaries:ce8c5b86016d9695962db976cc92291293e41a2a;master:33c7c9efe9208bd9d7d7ff40bb39219d01b920a3;development:67530d098f95f05952a056644a0b53ff3886118b;|2017-08-03T09:42:58Z|SIZE:28817784
 adafruit/Adafruit_Python_BME280: master:09b690dea026e0d045ad4aa3373245a56b189f7f;|none|SIZE:4537
+adafruit/io-api: main:2995a32c86d184bd401781df3c7f297e70ca6341;|none|SIZE:407256
