@@ -1295,3 +1295,4 @@ adafruit/Adafruit_CAP1188_Library: master:00ae4a226ed99286de3cfa6644c4eac804ba88
 adafruit/Adafruit_CC3000_Library: travis:67e7d85469929b1240f7a811b69a638890b05bc7;master:3327fd02c33703a5d5fe50672336e5a484ca513b;|2019-07-10T17:19:41Z
 adafruit/Adafruit_CC3000_Shield_PCB: master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba;|none
 adafruit/Adafruit_CCS811: master:6309d5f3b86c4967edd71b36c4a4daf99169a328;gh-pages:f3c5fc61628f12111026c479ad0e700b0280b2d7;actionci:17fcd5ee53dba627d8799642ff6f504dd3fc2cd7;|2023-11-15T15:27:36Z
+adafruit/Adafruit_CCS811_python: master:b75196d2f887247a316a631b81c4a909da395f3d;|2018-08-30T19:11:30Z
