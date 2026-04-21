@@ -4706,3 +4706,4 @@ adafruit/Adafruit_Python_ILI9341: master:f1fb7ec1614e3fde8fa25ad1324cdaa8fdb416a
 adafruit/Adafruit_TMP007_Library: master:bf53e8185e55e6b4d4e0d454af0aa80350d6da28;gh-pages:5631dc4d8c946c530f9c6f50f88c4dfc484e5a89;actions:d7e99a17a41a811246e624a0f6cfcaf7ace798fb;|2026-03-03T14:48:50Z|SIZE:1254603
 adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:1854
 adafruit/rpi-firmware: master:8f305cad54cf725a14551b59a2e33c6fd37d7492;|none|SIZE:16648329
+adafruit/rayshobby-hid-serial-trinket: master:282903bdcb78856a5fe74fb0ae16e8473c1431b4;|none|SIZE:7492859
