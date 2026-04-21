@@ -5640,3 +5640,4 @@ adafruit/Adafruit_remoteFXTrigger: master:f018b3b5323818cf93bd5e1005e849d102b8f6
 adafruit/Adafruit_CircuitPython_Waveform: main:48b67b73b878afcaf42e5c58ddee4a9c90f6df6d;|2026-03-27T19:15:25Z|SIZE:17565
 adafruit/Adafruit_CircuitPython_RTTTL: main:29a8297a7cc2589158ecfe920c64fd9f97f43c37;|2026-03-27T19:14:43Z|SIZE:19103
 adafruit/Adafruit_MCP3008: master:94e5003152294bf6877da976e079af476de3544f;gh-pages:172dbc4597e2dc2fe4c3a45619c6fe4012783ba5;|2023-11-15T15:23:57Z|SIZE:346659
+adafruit/Adafruit_CircuitPython_TFmini: main:e1e713ff708a8c32bc6dbfb4911a184232d9be50;|2026-03-27T19:05:11Z|SIZE:18625
