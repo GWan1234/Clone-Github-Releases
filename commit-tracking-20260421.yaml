@@ -5442,3 +5442,4 @@ adafruit/Adafruit_Debounce: main:7742ab28d1f2008572dd5a24f0a967f8d7d0d01b;gh-pag
 adafruit/esp-protocols: master:12bacdc3a01121ca97eeb3988e2faf38c7563472;circuitpython:2f492c02289015ecbb36851dd1bd04e0eb0a9937;|none|SIZE:1193273
 adafruit/Adafruit_CircuitPython_AD569x: main:303a4c0b08b4e6234a21a2cf6d88e737e1488985;|2026-03-27T18:55:37Z|SIZE:19864
 adafruit/Adafruit-Qualia-S3-RGB666-PCB: main:789d986f34e7949f0477ffd4a9567d1a4c07b310;|none|SIZE:2072704
+adafruit/Adafruit_CircuitPython_TemplateEngine: main:9e10d1e8d4a0d94b0b49bd430b45abc34720933e;|2026-03-27T19:15:00Z|SIZE:27286
