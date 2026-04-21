@@ -4564,7 +4564,7 @@ adafruit/GPS-shield-RMC-test-sketch: master:600346d12e5f666cbeca19cc8c6ad7712830
 adafruit/SD-Basic-GPS-logger: master:31fba7bd11831064ddabea46626f2acf97a3c7b6;|none|SIZE:3901
 adafruit/Thermistor-test: master:decc864620a95bb15ae20fce10af666b1656ff03;|none|SIZE:1113
 adafruit/Adafruit_iCufflinks: master:a150f329582a90235f2d32650af52d1175c764c4;|none|SIZE:233735
-adafruit/DHT-sensor-library: master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec;|2026-03-03T14:49:02Z|SIZE:119212
+adafruit/DHT-sensor-library: master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec;|2026-03-03T14:49:02Z|SIZE:119210
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: master:e2b12428c08d286dc9f568c8117f6e77986ef0ab;|none|SIZE:364614
 adafruit/LPD8806: master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;|2023-11-15T15:19:02Z|SIZE:121776
 adafruit/RGB-matrix-Panel: samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;master:81ee07118cc267cfab30743ae621c193c9e5838b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;|2023-11-15T15:18:31Z|SIZE:166701
