@@ -5716,3 +5716,4 @@ adafruit/Adafruit_CircuitPython_SCD30: tannewt-patch-2:6e7a63b482826c4d22b2c2af9
 adafruit/Adafruit_SCD30: review:451f71ad5f9cbbaf32440c0cdc8594cbef890419;master:b2b0d0413e0bfa186a5a33fe8d4392457a28786e;gh-pages:0c24e2b62be536dd449db5dbc2a0c565c602c1cc;|2023-11-15T15:22:12Z|SIZE:16982650
 adafruit/esp-idf: usbip-bridge:8a9439e141ae9344ae24328b4ad4cac5559c12c0;release/v5.0:c32173907486c6fbbc506fc25df344a032ea4317;release/v4.4:1355debd46e9b8a9b8444c7092f23501d86d1a58;release/v4.4-circuitpython:b6b7a7aad56ede8f2d4e213c3dd3621dacc34122;release/v4.2:2532ddd9f447f6fab02bc2d1654534a7621e033a;|none|SIZE:239773927
 adafruit/Tarot-Card: main:e5e9a8cd00d30daa62eaf9e09d2f6802bb942bb2;|none|SIZE:34367
+adafruit/Adafruit_CircuitPython_LTR390: patch-fix:2970926607f4f7624d3e8efa836056748af62a90;main:178780d0f5804f8bda7ae67fe2b321bc6dd6f69d;|2026-03-27T19:00:38Z|SIZE:47267
