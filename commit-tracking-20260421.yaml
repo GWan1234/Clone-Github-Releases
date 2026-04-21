@@ -5408,7 +5408,7 @@ adafruit/RP2040-Based-Tester-Brains-PCB: main:2d2ad210bc536647132b5b5b1e395b6177
 adafruit/Adafruit_Floppy_FeatherWing_PCB: main:8793e86222bd62b1ee243e07e97a8de9ff6a7e7e;|none|SIZE:795747
 adafruit/esptool-mergebin-js: main:e7713006f9daac1c7f955348a243331576ed2646;|2025-11-11T00:26:08Z|SIZE:5651
 adafruit/Adafruit-PiCowbell-Adalogger-PCB: main:667876fdbc1bf1bf7e68f5d9e240d109c55e5093;|none|SIZE:909076
-adafruit/web-firmware-installer-js: main:1b33db1faef89afcf2c52966f65fc2facad6b07f;|2026-03-20T05:31:03Z|SIZE:100757
+adafruit/web-firmware-installer-js: main:1b33db1faef89afcf2c52966f65fc2facad6b07f;|2026-03-20T05:31:03Z|SIZE:100756
 adafruit/Adafruit_IntelliKeys: update-doc:4e6de65b072192fdcfcf151e97369300addf3856;main:afd23a892c4b3e187de99fdf2c738f058d11ea3b;|2024-11-12T17:31:54Z|SIZE:264303
 adafruit/cookiecutter-adafruit-arduino: main:66a16eac492106c9e8091f9c2b588a8dee068a3f;|none|SIZE:3766
 adafruit/Adafruit_MCP2515: main:f283438d8021440568b3f2a8e49eccc781ff3473;gh-pages:f189f86b7685b640c67c99e1995c86afc8f3f3cd;|2023-08-11T10:47:35Z|SIZE:83225
