@@ -5553,3 +5553,4 @@ adafruit/Adafruit_CircuitPython_TCS3430: split_interrupt_examples:1a7c0ec42c8cc7
 adafruit/Adafruit_VL53L5CX_NoST: main:2057f945a03cc69687f80d864c9246bf516bd8ae;|none|SIZE:89882
 adafruit/espectre: main:995601b30953441531b4e90217bca990013a6036;|2026-03-25T00:39:21Z|SIZE:13106423
 adafruit/Adafruit_CircuitPython_TMAG5273: main:61f3843630524f766cc3358d716d4ce233e911c0;|2026-03-27T19:05:30Z|SIZE:21085
+adafruit/Adafruit_CircuitPython_ADS122C04: main:8cc031a70a88212c3ae2174648c9e742ad306f98;|2026-03-27T18:55:41Z|SIZE:21905
