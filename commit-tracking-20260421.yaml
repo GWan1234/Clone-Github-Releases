@@ -228,3 +228,4 @@ ioBroker/ioBroker.icons-ultimate-png: master:519f1a7d31416157f8297b6e5b33745a398
 ioBroker/ioBroker.influxdb: validateSSL:b65bead981cdc7279ebd4ed07e1f4c8b8ae5b7b8;testing-gh:b5eae292b1a5d5996709b49ff36ace1ec55787de;master:5bf866db211afd97d833b0ef8e30f2e92dce17b5;greenkeeper/influx-5.5.1:04e29e74c52f99cbb35446461d928a4601bf96b7;greenkeeper/influx-5.5.0:d74f8b30e31f0ac019c584be7ae3b11027bf5a10;|2024-01-03T17:56:47Z
 ioBroker/ioBroker.info-messages: master:3f598998fa3ed14ab1ec3517c9593f4bd891b0ff;gh-pages:0b67e0ab6182b4a21148322f07a92eb74f3f53bb;|none
 ioBroker/ioBroker.iot: visu-app-send-to-fix:8fd184da054a961096ea049726b5543af54bc491;typescript:cf6d7709e9202d21c9b61a05e65f72b3c7c11054;more-custom-data:9100ebb841025ae7a2429abfbeae1d617fc383c0;master:91dba4e08cc55a4aa63919239f6243931ccaf39b;issue-557:ef48e457f938d0be15b3ff3f4c557c7131fc2577;|2026-04-07T18:25:09Z
+ioBroker/ioBroker.ip-symcon: master:4fb4d370dc6be2b166a047e0d91435aaef4a8b36;|none
