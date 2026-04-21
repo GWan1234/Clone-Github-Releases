@@ -1047,3 +1047,4 @@ adafruit/adafruit-raspberrypi-linux: rpi-patches:d0fecbde7dc5ff4afb88027630e764a
 adafruit/Adafruit-RasPipe: master:bedc53e0f97bdc11dc2ea8188df925c7903604d9;|none
 adafruit/Adafruit-Relay-FeatherWing-PCBs: master:130d79e53912a8a22dc273c521f96e74ea0b280d;|none
 adafruit/Adafruit-Resistor-Helper: master:a1b431ca0a94ce867ad79d102a5c5b1941a7c43c;|none
+adafruit/Adafruit-Retrogame: mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;master:89b32aff4e971d4ecd057d1359699eebbf3df8f5;|none
