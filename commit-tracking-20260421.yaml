@@ -829,3 +829,4 @@ adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB: master:9cf5eb000e492e10aad9470fe54d622
 adafruit/Adafruit-Flora-Mainboard: master:25cd6a85201cdcfaf87b5cbb872280c448461445;|none
 adafruit/Adafruit-Flora-Pixel-Library: master:eed8adeaad7fb8d342f96b3d97d11c35b5e76759;|2015-03-31T19:44:16Z
 adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB: master:fd8656d030e89322835eb4495fd4475d672e7f96;|none
+adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB: master:20cbfc30b9793e498d642a30652a5c609da73b37;|none
