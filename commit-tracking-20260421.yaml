@@ -2,3 +2,4 @@ commit-tracking: 2026-04-21 03:18
 anzhiyu-c/air-conditioner-vue: main:3d651398697b2be54ab733310327df54f4e89e96;|none
 anzhiyu-c/an-music-web: main:579d1b38dd0335264678125f3ae97998e2ba4935;|none
 anzhiyu-c/anheyu-app: main:0175eec7cdbb8f7626329e078218e0dd1592ba3b;dev:d7fb03694af5d06090519b955de8437f83f6def9;|2026-04-13T08:24:42Z
+anzhiyu-c/anheyu-app-frontend: skip-router-xml:971bb2b2e8eb58b90f6adbc5cd80ae8c9e481e4a;main:078f2a07f47486ff2f2caaa2fa4b1f6761daa617;legacy/vue-frontend:263e450c5bef6f3bfcf70a933e35e97d0dacf798;|none
