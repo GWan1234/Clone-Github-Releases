@@ -1229,3 +1229,4 @@ adafruit/Adafruit_ADXL343: master:935d56ded32f381609a8a6226f37516b2186e5c5;jeple
 adafruit/Adafruit_ADXL343_PCB: master:13dce5a5963041d7d7f60492da459e00a96f4344;|none
 adafruit/Adafruit_ADXL345: master:8e799d73d8eca7e6c00e74f7cecd325f6d88e113;gh-pages:5625dbf761417226c470f84b8f1422267446c57c;|2023-11-15T15:28:19Z
 adafruit/Adafruit_ADXL345_PCB: master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de;|none
+adafruit/Adafruit_ADXL375: master:20d259fc5bca4f5a500402e7abd2d45f702373de;gh-pages:067e0a421288720ee08727d25c92046bbc0b6250;|2023-10-03T20:05:54Z
