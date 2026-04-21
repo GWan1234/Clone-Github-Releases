@@ -477,3 +477,4 @@ obsproject/design: profiler:4596953019176f09bbef88351f620b9c8ae9a2c6;main:6a7639
 obsproject/FFmpeg: v4.4.1-plus-extra-fixes:db3f30d5dfac7fdbbf670d9fee5c99151abea22a;v4.4-plus-extra-fixes:3ad22f1b3dfdbbd3aaf1d84245dc36c53fea0cb5;release/4.4:79c114e1b247754bface959c34421dd1dd27ff3d;release/4.3:3aba8b176f5dc96b9b91d94ce54c41e1ec34bc9c;release/4.2:c9f3835b2b4d2f50a20113caa0a2d23107fe3f89;|none
 obsproject/homebrew-tools: main:09ec2f00762cc74adf94fb3a2b55391e90893ac6;|2026-01-08T21:35:36Z
 obsproject/libdshowcapture: no-atl:d7959b5a8e80c4f0d780037a1f1cec2d6451c66a;master:8878638324393815512f802640b0d5ce940161f1;dynamic-res-and-encoding:0a541eabc0181daba5b371d58b2c9e1042512525;|none
+obsproject/loganalyzer: master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;|none
