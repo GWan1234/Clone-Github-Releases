@@ -4855,3 +4855,4 @@ adafruit/Adafruit_TinyCAP1188: master:da7346e9c4b491349d7f9ed82952703a89ee4082;|
 adafruit/Adafruit_Mynewt: nrf51:11cf962447c83e47fca7c097dd37fd933b999dbe;master:3fbe5b011feacd11661cce2840e709929282217e;develop:1729a5a96725c7bb9e4ca49781a829955d8fb9d1;|2017-08-19T11:28:12Z|SIZE:11835937
 adafruit/node_mpr121: master:3730f618dd343af339218f89183ab621542f9758;|none|SIZE:3502
 adafruit/Adafruit-PiTFT-3.5-Plus-PCB: master:c0683a0be53799e4b8360780cd641cd8a3f13282;|none|SIZE:1252219
+adafruit/md380tools: master:f54f171dde87838aac20626c97cebdb83a42ce49;|none|SIZE:529052
