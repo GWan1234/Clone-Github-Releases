@@ -121,3 +121,4 @@ esphome/esphome-glyphsets: simplify_code:bb44fcc2aba25aeb304f24b06635aab59ae9233
 esphome/ESPhome-GUI-Documentation: main:e57559282f425ce53ff0cc1c6482bd668e1625c9;|none
 esphome/esphome-project-template: main:3f6c8ec7369eb27a5cb54863e284e789191e966a;gh-pages:fd3bfd644638f99acbd3d56407e80b97b009c310;|2025-08-27T20:52:14Z
 esphome/esphome-project-template-r2: main:ba509731248640ca996cfe01472d1dbad8d6802a;|2024-12-19T07:14:22Z
+esphome/esphome-release: main:fd67ca9fad0e932ccfb904ef8322ea4c3b85a913;gen-supporters:db8c877ab66c2d8be958b6a70cd5392534ef82e1;fix-cant-use-clipboard-on-wsl:36b543ba9d4ccbf6f83adf69ce20aed42e7a38bf;dependabot/pip/requests-2.33.0:2a531ab1f343213e4054627f97625a3e1e916a1f;|none
