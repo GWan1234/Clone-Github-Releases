@@ -770,3 +770,4 @@ adafruit/Adafruit-DS2482S-800-Breakout-PCB: main:520f5e8de72928ab3b5517cc8db37e8
 adafruit/Adafruit-DS2484-I2C-to-1-Wire-Bus-Adapter-Breakout-PCB: main:ef315868cc398ecc9a0faa217e7256dd28717d74;|none
 adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: master:1d60495b54bd6ff8fa4d5acca7a6e1c1a317cfe1;|none
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: master:37c7ffb587c00e67d739baa078eb755f0976d15f;|none
+adafruit/Adafruit-DS3502-PCB: master:9562216c105b017f94334ad31ba957679788fddb;|none
