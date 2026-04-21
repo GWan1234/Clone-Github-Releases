@@ -4597,3 +4597,4 @@ adafruit/Adafruit_LED_Backpack: master:c4ec1328fda9e4cbf355f6e407346347b4d207e2;
 adafruit/Adafruit_MPL115A2: master:0cbecc86371846d60aa79cb45485182ef43e1ddb;gh-pages:a68a54ff7d68c2df91c565bb0a759c8ed11953f6;busio:e982bd0e9b7ff4a84d6fb0ee5a343e51fa4ad51f;|2023-10-17T14:21:02Z|SIZE:634318
 adafruit/BTTF: master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859;|none|SIZE:3446
 adafruit/Adafruit-Prototyping-Pi-Plate-PCB: master:e54e072a655814936e89cb3c01314b95d48c88b4;|none|SIZE:417376
+adafruit/Adafruit-PN532-RFID-NFC-Breakout: master:d614276a3168bd402d0729daa7bd94c406de7beb;|none|SIZE:313385
