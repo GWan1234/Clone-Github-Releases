@@ -238,3 +238,4 @@ ioBroker/ioBroker.lcn: master:e4754ec0be8467df7ee0b847cc81060764d5ded8;dependabo
 ioBroker/ioBroker.legacy: master:c1d631c13941814be0f0f9b3ce93fcff2f3bad25;|none
 ioBroker/ioBroker.link: master:263159ebeac3c835f8c16389c0dc5eb2eac4322f;|none
 ioBroker/ioBroker.link-box: master:254b45fa9a77466fcb0a8376733d2d78b91cb869;|none
+ioBroker/ioBroker.loadcontroller: main:ec1dcd7259ba172faab4650bad1727c22f1908a6;dependabot/npm_and_yarn/typescript-6.0.2:58365cda5e07772237619f1fc64f074b7b8d65d2;dependabot/npm_and_yarn/types/node-25.6.0:17d7465321a5f3145eea1b7b6eebf90b21cd8aa6;dependabot/npm_and_yarn/iobroker/types-7.1.1:082de2b8d48023dd37ad7b0ba51a8fffdd1e9e16;dependabot/npm_and_yarn/iobroker/build-tools-3.0.1:4d2b5425376920cecef0ce9356433ceb61592256;|none
