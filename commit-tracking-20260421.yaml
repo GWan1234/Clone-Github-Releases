@@ -915,3 +915,4 @@ adafruit/Adafruit-ItsyBitsy-RP2040-PCB: main:b12f7b3f1ebf71c53b30fb2f254b85aeb1e
 adafruit/Adafruit-Joy-Bonnet-PCB: master:6f2c397555472348c959db74b7dde90106c48bb4;|none
 adafruit/Adafruit-Joy-Featherwing-PCB: master:45f843d490a5968f4642ff970e8e867918c80b8d;|none
 adafruit/Adafruit-KB2040-PCB: main:b4160dcf4385ef2cc30e9652489328321720ee4b;|none
+adafruit/Adafruit-L3GD20-Breakout-PCB: master:32bf273c21430e7c4e28cfa79be2109f91b893ea;|none
