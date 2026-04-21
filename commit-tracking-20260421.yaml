@@ -1158,3 +1158,4 @@ adafruit/Adafruit-Triple-LED-Matrix-Bonnet-PCB: main:e08584d4753d574331288d4d446
 adafruit/Adafruit-TRRS-Jack-Breakout-PCB: main:d6d4fe70bc727056076c4603e90112b8b1c6d006;|none
 adafruit/Adafruit-TRRS-Trinkey-PCB: main:d244f5b5658d5cd1b1bf62de57265185179cdf0f;|none
 adafruit/Adafruit-TS3USB30-PCB: main:7973099481a65c3ff5689a037ec01d45db234d2c;|none
+adafruit/Adafruit-TSC2007-PCB: main:8d182929dfc27dcdb407a2769cf416f9f63b4a16;|none
