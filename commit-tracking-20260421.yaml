@@ -4643,3 +4643,4 @@ adafruit/TinyWireM: master:e3c07f2a91621632f7a4128b91e985d2bd72467a;gh-pages:aea
 adafruit/Adafruit_RA8875: master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pages:56b737e11c1f75469b797977b2a53d055b737f4a;doxy-fix:67907ed926f2e276033b0f355b60d66ccc17ecbd;|2026-03-02T15:21:38Z|SIZE:910005
 adafruit/Adafruit_SoftServo: master:9e9d72ad7487a7eda11c5f19dfcc7a81dc416d07;gh-pages:067333a6bceda3849897d7cfb1abce784bf42119;|2023-11-14T20:17:51Z|SIZE:87978
 adafruit/Flora-NeoGeo-Watch: master:2e81db16a70abc0fb91af357fdd86ae946a53ae8;|none|SIZE:6256
+adafruit/Adafruit_ProTrinket_Bootloader: master:b2cd5fad38f444b00be7a7d38a41d126eef437cf;|none|SIZE:84517
