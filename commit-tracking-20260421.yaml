@@ -541,3 +541,4 @@ localsend/localsend: weblate:ac525d8924122b9b977c01b81ac4714992d67a69;v1.12.0-fd
 localsend/mtls-example: main:ea33543da83b0c2722e56e97e428674a77c77820;|none
 localsend/permission_handler_windows_noop: main:2dadd8afbf81e0e3e4791d7144e689555e58f649;|none
 localsend/protocol: v2:94f08491cb99675c1edb1d505c6079266b47bd64;main:4ee5748d497ec9f8d335bf4b7627623729c5b569;feature/pin-and-metadata:41c87f562e79f6a055ff2c576371fd8d50928cfd;|none
+localsend/snap: main:3861e08593044f7296b717cd5f008d330bc6df1f;|none
