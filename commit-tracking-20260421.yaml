@@ -675,3 +675,4 @@ adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C: main:4bf9961d2f3bbb52921
 adafruit/Adafruit-AP3429A-PCB: main:ce112ce8a2ad4f7fece2f17de90d2e1153a14a0d;|none
 adafruit/Adafruit-AP3602A-PCB: master:31d35855d27654a2bdb78720d0c3fffcdbaa436e;|none
 adafruit/Adafruit-APDS9960-Breakout-PCB: master:23880074d26df8524399f323e016680ad82dc69f;|none
+adafruit/Adafruit-APDS9999-Proximity-Light-and-Color-Sensor-PCB: main:0f0fc27bab6c79a684ce17a6ab397f63f98f74bd;|none
