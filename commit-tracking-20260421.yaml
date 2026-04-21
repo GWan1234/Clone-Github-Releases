@@ -202,3 +202,4 @@ ioBroker/ioBroker.fullcalendar: simulation:d2c41fc55f3668cbd5a1dd10ecefffba804a7
 ioBroker/ioBroker.geofency: master:e01b6e5ae64b65bd71ae86c7e86b810d13a12284;dependabot/npm_and_yarn/picomatch-2.3.2:5139cc12b0edd6bb4150e9e407a72a7b24a9114d;dependabot/npm_and_yarn/node-forge-1.4.0:1a58223d3667592df62c9c93bc2e75d1fc909413;dependabot/npm_and_yarn/multi-a8099784ed:46b497edf08ac6f07298598c68ceeed841c1d9d0;dependabot/npm_and_yarn/multi-7cd0fa1763:ba9602bbaf1659285662a4351eafad3dd3a9622b;|2022-10-08T10:54:52Z
 ioBroker/iobroker.github.io: main:3168d6dff7e6a5f9c4e5ecedaabf360f4144aa52;|none
 ioBroker/ioBroker.graphite: master:0c86c280a04e38a6f5177d68d615a616786d9f78;|none
+ioBroker/ioBroker.graphpic: master:82aeb7e313d59b754f8c4bad21cfadf128035a59;|none
