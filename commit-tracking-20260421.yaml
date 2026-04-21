@@ -291,3 +291,4 @@ ioBroker/ioBroker.sonoff: master:263cd4b917d8d477430bec2385db07dd0cecb35b;depend
 ioBroker/ioBroker.sonos: tts:2ab10476419831474de7ea1c870d6cac574406ac;master:22e2799c98a6b5d216c6c097f034ad05a2da4477;dependabot/npm_and_yarn/protobufjs-7.5.5:c9379771125177d79709bdf388eaf8d686fc8d54;dependabot/npm_and_yarn/picomatch-2.3.2:04bc0d3fc98ab8fc4e8c369b922576ef8021d677;dependabot/npm_and_yarn/multi-0ca592796f:de282bca432cc9e5ae7a439dea3f9e3adf94560a;|2023-10-09T12:30:57Z
 ioBroker/ioBroker.sonus: master:939b5099de3ee7997b3d9ab05fbb035d94b9f451;|none
 ioBroker/ioBroker.sql: typescript:8a033d00178d4c1fdb8b0313abfa8b6c1ea0cf56;testingupdate:90625373e45dfcb2394aff258a0183703f61376b;master:b5028c1786ffa1356bb65d3759658e408c624b5a;greenkeeper/pg-pin-8.0.3:23134e7e90c0202a87dfd2446b6fe7d6ea78b8e1;greenkeeper/pg-8.2.1:3028d765458847c5122fd1b99568316a59dd6388;|2024-06-13T20:04:55Z
+ioBroker/ioBroker.telemetry: master:f2335002a67e6f68a7b1e695134cbfe2ebff85c5;|none
