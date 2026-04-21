@@ -61,7 +61,7 @@ cockpit-project/cockpit-machines-weblate: main:5b979a8115d9c2ede70aae89e15a0ec1b
 cockpit-project/cockpit-ostree: main:86c999aad695e0d9199ac937c8ce556ba96b566f;dependabot/npm_and_yarn/stylelint-83913eb59d:521debd895aa3ef0a0a7b33f6b6dad373f5d0465;|2026-03-25T13:42:23Z
 cockpit-project/cockpit-ostree-weblate: main:74bd7988794afb96b5099d02f5c697b63c72b16c;|none
 cockpit-project/cockpit-podman: tasks-container-update-cockpit-ci-container-20260420-044953:b6b5ad8efa98553a374b4bc272d7d1a8f79d0c19;main:95e2175f3dd6a65d7321db2038c764676106d0d3;dependabot/npm_and_yarn/types-f57dc2645f:6c288793e6c58b03853176c8fd328db73f4271d2;|2026-03-25T13:44:16Z
-cockpit-project/cockpit-podman-weblate: main:74eac9d785cfe88d96e8aefab6a6cf0b456d7487;|none
+cockpit-project/cockpit-podman-weblate: main:6f794b9bfe39d728b0cac1130afd31b1997fb610;|none
 cockpit-project/cockpit-project.github.io: workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;main:0c4acb8bd6bbf2207529f585db0dcb87a5a85232;|none
 cockpit-project/cockpit-weblate: main:0031b4c3d91c3cb7e2b53d172af1523b113025cd;|none
 cockpit-project/cockpituous: main:a90725ccf64dd59a02c84e992625e99ab95fb493;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;|none
