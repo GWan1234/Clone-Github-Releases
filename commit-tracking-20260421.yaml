@@ -377,3 +377,4 @@ OpenListTeam/alist-web: main:82ce3cd29e361a80fa992cfe92ef17efa2cab3f5;legacy:2b0
 OpenListTeam/auth: main:dfb75159ae9b77a26f884ec553ec63402ca9612f;|none
 OpenListTeam/cgo-actions: v1:1fff82d72e52b29a6030d61f5b1809f72b11bd6e;|2026-04-02T10:23:52Z
 OpenListTeam/cloud-mail: main:7d0405afefd231e929b637aa4b19cac28450eb41;|none
+OpenListTeam/docker-library: main:0af33a43565b190b9f19c52fe1e2f0a5ff694a07;|none
