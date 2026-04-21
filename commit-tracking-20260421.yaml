@@ -4499,3 +4499,4 @@ release_size:
 release_total: 50.58 GB
 ioBroker/Community: main:9bf5c137c31ccf27e899d2b9a2c3de3797921988;|none
 ioBroker/create-adapter: release-1.34.x:3aa135f01c5bc054da4a5468ab2d0f229e844ffe;master:a13d193d21eae77d38ed9f426c0a20759d4f8acb;dependabot/npm_and_yarn/typescript-6.0.2:c7b5d832f85d49bcf27f34cbac1f50d86f45420d;dependabot/npm_and_yarn/semver-7.7.4:db8c4325af7b1171bc2ae32c9fb1e5b5ca250ed7;dependabot/npm_and_yarn/multi-bf05dc1ecf:6ff11587cbd91f4ac74d453443bdf9d25a81bdac;|2025-11-10T07:56:43Z
+ioBroker/create-adapter-frontend: master:58348d5e1c8eec4b3f265dff13856c07dbbd8a46;|none
