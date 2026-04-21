@@ -1097,3 +1097,4 @@ adafruit/Adafruit-SPI-Flash-SD-Card-PCB: main:8d985bd12f2732e94b4727e24874646f59
 adafruit/Adafruit-SPW2430-PCB: master:929cb33e8e66308cb46321be057e7f0ad7111999;|none
 adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino: spitft:9c63ee9bd9dc6d1af9d82eb31f037433cd203b78;master:fd51d0a87b43d983fd6b6f5c07fadffbf26c6f6c;gh-pages:7a76572b1e2ad17d4765af5664bc55be3fbcd6f1;actionci:66d32d9ca06f23580e2e587c0ff773ca874345bb;|2025-05-04T17:58:57Z
 adafruit/Adafruit-SSD1351-library: master:8c1ca3b367460498c9258c683e8dbd11770d8b83;gh-pages:7de70b6a53bd8267f51de7555d9638596cda8ac3;actionci:09c28550dfa3141b2993bf7935d952650204e7cd;|2025-07-08T16:05:24Z
+adafruit/Adafruit-ST25DV16-PCB: main:217428893fc24414be4f14eb7e002b759bfcd0ba;|none
