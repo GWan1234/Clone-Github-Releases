@@ -1120,3 +1120,4 @@ adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB: master:514d5ded1aade108d0698
 adafruit/Adafruit-TCA4307-PCB: main:5b71f3b8aa3b892fa96e2a7e8e102f69f4f75ee1;|none
 adafruit/Adafruit-TCA8418-PCB: main:e64ed84dd0fe144759e9d8ceb556d54c9df4e8c0;|none
 adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: master:c5bdfe4c8e860cee7400539d6e45a235da7afcd2;|none
+adafruit/Adafruit-TCS3430-Ambient-Tri-Stimulus-Color-Sensor-PCB: main:66a56ff8cdb46158dbb87cbe5cc557d7ff14b6e1;|none
