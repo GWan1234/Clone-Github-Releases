@@ -4832,3 +4832,4 @@ adafruit/Adafruit-PWM-Servo-FeatherWing-PCB: master:27159a48d60d27e7c5c494b73bcd
 adafruit/Adafruit_IS31FL3731: master:6a9d478de67c154e8529fe67f917926f3f75a518;gh-pages:4be689d51807d0ff2f8c3e8198e9bad0562ff09f;busio:9889ef8a0da900898f45bedb64248ddf2693656e;|2023-11-15T15:25:26Z|SIZE:103556
 adafruit/Adafruit_Windows_Drivers: main:9f5e362d282cb04d5cff4269a6199643d374688a;|2020-11-12T17:08:54Z|SIZE:9116713
 adafruit/Twitch-API-Examples: master:7c7b493f9f28fc74958cdc1d700e6adfc5605dff;|none|SIZE:2390
+adafruit/TinyXML: master:19619111b675528d835e5bcba571b868f1828e53;|2023-07-01T06:17:33Z|SIZE:9650
