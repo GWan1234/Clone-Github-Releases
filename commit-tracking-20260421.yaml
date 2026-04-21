@@ -218,3 +218,4 @@ ioBroker/ioBroker.homekit2: master:6fc6d96e68a9fba908ba7380a2abfbe8a2a7da9e;|non
 ioBroker/ioBroker.i18n: main:9b06028b945b74e47afc0016e55b6cc203b1dd23;dependabot/npm_and_yarn/types/node-22.13.0:8bea4b47a1c996f599df17893b874c8256401179;dependabot/npm_and_yarn/multi-adb500430a:39b344a0637358e6f5a93dd09daff7fe88f2fb80;dependabot/npm_and_yarn/iobroker/types-7.0.6:7a5092cb288ef6e718d2daaa1967eb60ceb61890;dependabot/npm_and_yarn/chai-as-promised-8.0.1:228957f10fa87ba0f2396c994e0adbe1737427cc;|2025-07-09T08:58:09Z
 ioBroker/ioBroker.icons-addictive-flavour-png: master:7ca79945e7886646799cbd91382dcbb858090493;|none
 ioBroker/ioBroker.icons-fatcow-hosting: master:4722e453cdc567e5bc3db97de5194f080ac7282a;|none
+ioBroker/ioBroker.icons-icons8: master:c0fcc9a6aa79b281951215cf86726f45622c8409;|none
