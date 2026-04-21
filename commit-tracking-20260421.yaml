@@ -4719,3 +4719,4 @@ adafruit/Adafruit_TiCoServo: master:12151970fb08c355980b5fe3c85010dc04f0988f;gh-
 adafruit/Adafruit_DotStar_Pi: master:5477937908f2cb4dc2d6cdc04c1ffb0213326dc3;|none|SIZE:37885
 adafruit/Adafruit_DRV2605_Library: master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d;|2023-11-15T15:17:34Z|SIZE:106345
 adafruit/rpi-rgb-led-matrix: master:8c8af1cc135a767d7cb58be2604bb0846670db99;|none|SIZE:1644411
+adafruit/Bluefruit_LE_Connect_Android: master:5443af2742840b715d5f52197230525b762790a1;|2015-11-06T10:58:02Z|SIZE:314694
