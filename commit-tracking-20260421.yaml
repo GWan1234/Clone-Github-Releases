@@ -4691,3 +4691,4 @@ adafruit/Adafruit_Python_BMP: master:54b307fa6e5b039adffab5dcb6f506d70b8f3249;|2
 adafruit/Adafruit_TSL2591_Library: master:a857bf93c10b5d60d02928c7a6c364e67ff5e0f3;hoffmannjan-patch-1:8860a6edc41db43f2511deafc56bae127a7f06d5;gh-pages:f9d9699fd8df32acbe9e248a9526bf11566c36ff;actions:75f0fb9c34c7741796b80d30ae48650492fb2682;|2023-11-15T15:20:11Z|SIZE:124354
 adafruit/Adafruit_Python_SSD1306: update_ez_install:4a54871899729d3e39fd063eabc1de0078d0294e;master:dfa8717cb7a2d8706bef5e1ed6c49763748cd1c3;|none|SIZE:21507
 adafruit/Adafruit-Perma-Proto-PCB: master:d6febb550024f057007c0d634e846f9c0ede5c36;|none|SIZE:2617024
+adafruit/PiTFT_Extras: master:9d42b2c3941db30e1a6df3d6cfffe533662716ae;display_type:85d46d8d4c9061f572fd7c46f5d1c6c4fe9a6bbc;|none|SIZE:7480
