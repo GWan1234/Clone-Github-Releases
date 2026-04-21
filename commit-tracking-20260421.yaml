@@ -335,3 +335,4 @@ ioBroker/ioBroker.vis-timeandweather: master:f7c2d116660b7f28074d588ac27584feff6
 ioBroker/ioBroker.vis-web-admin: master:5e6f3c99778ee1fc2d3d990dff47f1240e6c832b;|none
 ioBroker/ioBroker.vis-widget-react-demo: main:8e1c58d66d75b5019622f36554222b6d99fd65c6;|none
 ioBroker/ioBroker.vis.cordova: master:00a32e219ca5d7047f8e75c58d01f9e85bc80788;|2016-05-10T16:16:01Z
+ioBroker/ioBroker.vpn: master:8ba2f2a4d652f80dbcbdf97e586e645e032cadaa;|none
