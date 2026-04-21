@@ -51,6 +51,7 @@ repositories:
     - dushixiang
     - GWan1234
     - kukudemajia
+    - LeoChen-CoreMind
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
@@ -60,6 +61,8 @@ repositories:
     - dushixiang/uart_sms_forwarder
     - GWan1234/msg_forward_new
     - kukudemajia/esp_framework
+    - LeoChen-CoreMind/UDX710-TOOLS
+
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
@@ -69,6 +72,7 @@ repositories:
     - https://github.com/dushixiang/uart_sms_forwarder
     - https://github.com/GWan1234/msg_forward_new
     - https://github.com/kukudemajia/esp_framework
+    - https://github.com/LeoChen-CoreMind/UDX710-TOOLS
 
   name2:
     - frpc
