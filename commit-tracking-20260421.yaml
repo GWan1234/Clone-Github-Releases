@@ -4954,7 +4954,7 @@ adafruit/icestorm: master:f704149b7298c7c6b56520d104dc4b20abf455b2;|none|SIZE:27
 adafruit/Adafruit_NeoPixel_ZeroDMA: master:608c671a82717f2d4816ce8977c1e516167365f2;gh-pages:811f0cfbd994f0be482ad87f72048ad500319a05;dm-trellis2:251f2ee96d25feaaf93364bbe15cd3253c5aa5ad;dm-trellis:5ae682505fba7f5bfbd742ab02261a6c7bca4a1b;actions:24ded5925f76e6aaf88832f07b1ee62661b7d873;|2024-04-23T23:11:36Z|SIZE:141281
 adafruit/ftdiflash: master:242ae956cbfc0652e862db4a381a26dfa275a5e8;|none|SIZE:235975
 adafruit/Adafruit_CircuitPython_DotStar: pi_bitbang_exception:896a76d4e836e52e7294e2b2f37cbbcebd2f27c1;main:a12e2ce2046afc1791ca6aa2bdeb33cb97f7def0;|2026-03-27T18:57:36Z|SIZE:43879
-adafruit/rosie-ci: master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef;|none|SIZE:12448
+adafruit/rosie-ci: master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef;|none|SIZE:12449
 adafruit/Adafruit_NeoMatrix_ZeroDMA: master:7b89ebb10c3ef8bbc864ad63c57f023f1af3f72b;gh-pages:5055c4872968e7a0f01a1bf8752b7abbbfa3997f;actionci:56d0d9e73a0e01a0de55f8fc0dfba50c95c3d2c7;|2023-10-17T14:23:57Z|SIZE:131573
 adafruit/Circuit_Walker_Sneakers: master:3e991e3b4000be430f4e1eef9861166efc6410d2;|none|SIZE:140691
 adafruit/METROX-Examples-and-Project-Sketches: travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;master:03ce7109b3f816926a510c3d755a2c380949e575;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce;|none|SIZE:3219876
