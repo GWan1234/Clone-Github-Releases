@@ -4569,3 +4569,4 @@ adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: master:e2b12428c08d286dc9f568
 adafruit/LPD8806: master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;|2023-11-15T15:19:02Z|SIZE:121776
 adafruit/RGB-matrix-Panel: samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;master:81ee07118cc267cfab30743ae621c193c9e5838b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;|2023-11-15T15:18:31Z|SIZE:166701
 adafruit/Adafruit_MCP73833_PCB: master:21d2302412f317989304d1bb608ae01c7c1d3808;|none|SIZE:306147
+adafruit/ArduinoISP: master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685;|none|SIZE:5850
