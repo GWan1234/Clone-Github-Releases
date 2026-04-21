@@ -858,3 +858,4 @@ adafruit/Adafruit-GPS-Logger-Shield-PCB: master:20679c594e363723b81bb2cac5fc47c2
 adafruit/Adafruit-Grand-Central-PCB: master:9e59fe3cd1ea37aa6caaf5780fa80956e6ccd74b;|none
 adafruit/Adafruit-Graphic-VFD-Display-Library: master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34;|2023-11-15T15:30:35Z
 adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB: main:a48daa304b9d13a8d1f4ab29866c116abd44727d;|none
+adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: main:2815cb84b56f4e79c573aa0c641fadef878a512f;|none
