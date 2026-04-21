@@ -5120,3 +5120,4 @@ adafruit/Adafruit_IO_Documentation: update-kramdown:d8a86b8aa1b62e2f2245496e69cb
 adafruit/circuitpython-default-files: main:850cb39997d167a14265bf8ce4fc04e10465489a;|none|SIZE:379842
 adafruit/Adafruit_CircuitPython_TPA2016: main:dbdb6d8db51a38d79ceb6296e7f2929308fe734a;doc/add-typing:22a1326dbd05c8509b5b72acf2a5fb63e54f582a;|2026-03-27T19:05:41Z|SIZE:42687
 adafruit/Adafruit_CircuitPython_SSD1351: setup-py-disabled:a9fcf15ffded3086fda2349a510a3daa11d30367;main:d3e5e0c6b8ee4425e9a0e533089f7e0588b2e2bf;|2026-03-27T19:04:28Z|SIZE:33913
+adafruit/Adafruit_CircuitPython_Display_Button: use_ruff:5bc4267c64b7b6f8515858fb577a7f19a64b4f16;patch-fix:d767d28e177184c7cfa7b14fd94bd2cb94998b98;main:f380c628a4cccd144c9a57e3d8de6691612926cb;|2026-03-27T19:08:58Z|SIZE:77987
