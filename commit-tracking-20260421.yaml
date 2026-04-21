@@ -4860,3 +4860,4 @@ adafruit/io-client-go: main:eb896776411afb581c1b57238073d1adffa2a22b;initial-dev
 adafruit/Raspberry_Pi_SQLite_Sensors: master:7ac7cfce9549b83332c498eb365a766f74b26ee0;|none|SIZE:7288
 adafruit/eagle2fritzing: master:d18749346438d31870de54bcbf2748cdc676138f;|none|SIZE:18385407
 adafruit/Weather-Pixels: master:d1bb8951b25315a378a47f5bc7e8bbf04a399225;|none|SIZE:7340
+adafruit/Adafruit_MAX30100: master:b487b81597bdb3f7711a42a21689ac771278cafa;|none|SIZE:3412
