@@ -56,7 +56,7 @@ cockpit-project/cockpit-design: main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;ch
 cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
 cockpit-project/cockpit-files: main:f3dc9a476a4470de324ce52d9630c04ec016b0da;dependabot/npm_and_yarn/types-574b0d5a74:37cc33674a197306408e2d9d5eff5f30b8968098;|2026-04-21T11:34:29Z|SIZE:276879
 cockpit-project/cockpit-files-weblate: main:e82d6d48610cb20ddd204e74c9494c774d197552;|none
-cockpit-project/cockpit-machines: rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;main:83a039ec53b14b1963498ef9fe7260c66227f8bf;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;|2026-04-21T11:10:25Z|SIZE:2012191
+cockpit-project/cockpit-machines: rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;main:83a039ec53b14b1963498ef9fe7260c66227f8bf;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;|2026-04-21T11:10:25Z|SIZE:2012193
 cockpit-project/cockpit-machines-weblate: main:5b979a8115d9c2ede70aae89e15a0ec1bf780205;|none
 cockpit-project/cockpit-ostree: main:e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10;|2026-04-21T11:50:44Z|SIZE:221413
 cockpit-project/cockpit-ostree-weblate: main:74bd7988794afb96b5099d02f5c697b63c72b16c;|none
