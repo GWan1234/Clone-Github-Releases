@@ -774,3 +774,4 @@ adafruit/Adafruit-DS3502-PCB: master:9562216c105b017f94334ad31ba957679788fddb;|n
 adafruit/Adafruit-DVI-Breakout-Board-PCB: main:178a6d45b2d40acaa1cf14b79479a770cc7d01a5;|none
 adafruit/Adafruit-DVI-HSTX: textmode-improvements:f1535956efb52e6a8fd6bea185a259e807cb906e;main:abff804996384d372b30bb7a16c940d2b5832e99;gh-pages:f68b88e8cf7a217710bd78849516e63b20ce9810;fix-docs:a5a2b632fdbf20498d0bd4262f9d526e28601231;drivers_revert:350a5aa1d712519d023f5bcf4e11262ab77b4478;|2025-08-12T09:46:39Z
 adafruit/Adafruit-DVI-Sock-for-Pico-PCB: main:f9e5a5557654b1b3d8d63e5405fc23394c13cd19;|none
+adafruit/Adafruit-E-Ink-Bonnet-for-Raspberry-Pi-PCB: main:1989721717d068c1726f18f8ec16ca58ac011fee;|none
