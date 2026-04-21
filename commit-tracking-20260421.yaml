@@ -4712,3 +4712,4 @@ adafruit/Trinket_Arduino_Linux: master:827471769d16bbf7816a6bf8b1fe6d716cf684b4;
 adafruit/Adafruit_Python_TMP: master:258b29f7b730e4534808c27473a76de84e765e58;|2018-08-30T19:12:45Z|SIZE:9254
 adafruit/Adafruit_Python_MCP9808: master:5524605a15cfce5668f259de72c88d5be74565f4;|2018-08-30T19:13:28Z|SIZE:8232
 adafruit/Adafruit_Python_MAX31855: master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9;|none|SIZE:8986
+adafruit/FreqShow: master:53c517eba98ab11b2d119d9e5b366aba9630e432;|none|SIZE:15096
