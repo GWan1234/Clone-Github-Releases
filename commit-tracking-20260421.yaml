@@ -671,3 +671,4 @@ adafruit/Adafruit-AMG8833-Breakout-PCB: master:3e5dd5f7bc0ed9e6ca07226eaa56b04bb
 adafruit/Adafruit-Analog-Accelerometers-PCBs: master:1cfa246270a750b416d54a9c9b48423afb8aa759;|none
 adafruit/Adafruit-Animated-Eyes-Bonnet-PCB: master:e28ffce0e3b88679aefb5901f7fa6e0b5559f853;|none
 adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB: main:b6d4e909afa879750c0bd96747585dc598a90a67;|none
+adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C: main:4bf9961d2f3bbb52921cd88fdf38c1d5cd38e901;|none
