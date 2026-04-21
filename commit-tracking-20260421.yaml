@@ -1060,3 +1060,4 @@ adafruit/Adafruit-Rotary-Trinkey-PCB: main:b93b2aeaabbfbfd231eec6c88afc6694d4581
 adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB: main:499de161e9d106e530be5ba1aa09a756c38a31ba;|none
 adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: main:408fa9a40c0a01a3a65497ef42a29e0b08fe711e;|none
 adafruit/Adafruit-RP2350-HSTX-to-DVI-Adapter-PCB: main:a607353591e19b0b8bc43ebdb2391b96b9278346;|none
+adafruit/adafruit-rpi-fbtft: master:35890c52f9e3eef3237b76acc295585dd93fc8cd;hx8357d-support:623ba1175328127ca1b3630c1deff0d8df55d15c;|none
