@@ -4800,3 +4800,4 @@ adafruit/Adafruit_LIS3DH: more_sensors:e20111ca329be4b4291cadb1b15de51f55ff5919;
 adafruit/Ethernet2: master:0bab6349fb5b42fce2d5442bbed093279184b548;debug:908e92bcbc09e1d6de09a70b08ca2b107b64d7fc;|2017-02-28T04:09:47Z|SIZE:78465
 adafruit/DotStarPiPainter: master:71df036fef22e8c70a1173bf0d216fd252d81fc6;|none|SIZE:17475
 adafruit/Adafruit_RGB_LCD_backpack: master:c439c0c5afee3af63df33a2987fc69ea8ee80e95;|none|SIZE:3460
+adafruit/Flora_Demos: master:3232f66ed232af7cc4655c52640012b607332169;|none|SIZE:5877
