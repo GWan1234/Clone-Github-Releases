@@ -4756,3 +4756,4 @@ adafruit/Adafruit-Pi-ExternalRoot-Helper: master:0d091e18f3f710c8112a647506594ff
 adafruit/Adafruit_Python_BluefruitLE: master:a01dec2c88fa38143afb855e1df4f9ac774156b7;|none|SIZE:22136
 adafruit/pubsubclient: master:5bf68973085fff27841bfe9256e9bae88029845d;gh-pages:46572927e71f4772d01ece0105ab0748954e9804;|none|SIZE:18179
 adafruit/arduino-board-index: gh-pages:2bc9c2f2c867e8d6f4299a4609255e69324e605f;dm-add-m4:fb36ae6c8c6e06ff0b08523d6a8b16da7484c36f;|2015-05-08T23:54:37Z|SIZE:2776923553
+adafruit/esp8266-micropython-vagrant: master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034;|none|SIZE:4572
