@@ -1219,3 +1219,4 @@ adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: master:c67f3c11a326cb13ff92d747d80094
 adafruit/Adafruit_9DOF: master:e7e44d5024be020b462db87f6820841d0de44417;gh-pages:ad4db3bce26a437a60dbf8cab3cc58dba9d09a1d;actionci:1016a9767650fdfac4580688236726b574daad7f;|2020-05-29T14:39:52Z
 adafruit/Adafruit_AD569x: main:6e725d0efbe4010b3971d011c6df82f64d6b0541;gh-pages:8a1bb2010d74e81468323ca153aae8d9d906f305;|2023-11-22T18:08:40Z
 adafruit/Adafruit_Adalink: master:071ee995192a673bef2262bfc3aaae9b6195f4e2;|2015-10-23T23:30:14Z
+adafruit/Adafruit_ADG72x: main:eeffb18d0a52505bede5523531d41bc530cd2f8a;gh-pages:2601f910d8be610b21a8d6e2485c62a572c7a79c;|2024-02-10T17:49:25Z
