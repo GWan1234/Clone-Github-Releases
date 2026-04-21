@@ -1,9 +1,9 @@
 allrepositories:
   - anzhiyu-c
-  - rustdesk
-  - armbian
+#  -  rustdesk
+#  - armbian
   - cockpit-project
-  - home-assistant
+#  - home-assistant
   - hacs
   - esphome
   - domoticz
