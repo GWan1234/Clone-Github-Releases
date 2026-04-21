@@ -4878,3 +4878,4 @@ adafruit/GPSDemoApp: master:146c587b4712398de97c97ce53789d15f8c4b0e4;|none|SIZE:
 adafruit/CharLCDPlateTest: master:cd2df54ef7ffd73fef905770315d007a628ec592;|none|SIZE:15950
 adafruit/DotStarDemo: master:5169592fa88f9c18165a20983030298541768506;|none|SIZE:343675
 adafruit/Adafruit-Radio-FeatherWing-PCB: master:926b55164daad155e05ebe8ca3a02365bc07a40c;|none|SIZE:1201886
+adafruit/micropython-adafruit-tcs34725: master:96f9936317130f8a140b4e638ebb77aa4c564891;|2016-10-30T21:21:55Z|SIZE:11060
