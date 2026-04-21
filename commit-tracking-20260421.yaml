@@ -4859,3 +4859,4 @@ adafruit/md380tools: master:f54f171dde87838aac20626c97cebdb83a42ce49;|none|SIZE:
 adafruit/io-client-go: main:eb896776411afb581c1b57238073d1adffa2a22b;initial-dev:13dfced6058748471793785df5950265804cfa15;|none|SIZE:24803
 adafruit/Raspberry_Pi_SQLite_Sensors: master:7ac7cfce9549b83332c498eb365a766f74b26ee0;|none|SIZE:7288
 adafruit/eagle2fritzing: master:d18749346438d31870de54bcbf2748cdc676138f;|none|SIZE:18385407
+adafruit/Weather-Pixels: master:d1bb8951b25315a378a47f5bc7e8bbf04a399225;|none|SIZE:7340
