@@ -729,3 +729,4 @@ adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: main:263cd9f75ba8c8b48291bd6e62f8672c
 adafruit/Adafruit-CAN-Pal-PCB: main:56618b3a53162ce48872514be044eab033ed33ef;|none
 adafruit/Adafruit-CAP1188-PCB: master:cf65678210cb9bc8a792efa091d49082e4ad6a2b;|none
 adafruit/Adafruit-Capacitive-Touch-HAT-PCB: master:6405328c281fe7d9d8e9cbfa334d50c3eccef7ce;|none
+adafruit/Adafruit-CC3000-Breakout-PCB: master:85e69770538f91498fa18eec89245c2f9de09d5a;|none
