@@ -89,3 +89,4 @@ hacs/frontend: workaround-for-css:19ac839f7b51fde6c7cff6081ee0510e8382a58a;split
 hacs/get: main:180232dc98600cb20dd1912eca63ec0650365b92;|none
 hacs/integration: uvwhenposible:f8d6b76d23a72d48e70db040a671a9b4d0b6d3bf;use-new:91bf63bb033250deb85097ce19bc798693e1b8c7;tests-update-setup-ha:856744555d198ba3e0101eac5d611107cb770c21;ruff:b2d670024a42def4784af8ec90b3e101d330d68d;revert-3265-blueprint:7ab348a0aade9615713cba375c5f9f3c79b12c7e;|2025-01-28T07:26:46Z
 hacs/metrics: main:13c960b46d086b2aa85a8f07a7a5f69047973e35;|none
+hacs/ND-NotifyUpdates: master:1af01e57d0336e64426e75297a5841bbac6c778e;|2020-03-08T22:00:32Z
