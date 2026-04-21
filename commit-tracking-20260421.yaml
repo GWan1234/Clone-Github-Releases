@@ -5735,3 +5735,4 @@ adafruit/platform-espressif32: master:c71138328384189bfd64a1fb857e620cd72621b9;f
 adafruit/pico-sdk: svd-vtor-present:76bd3e12d97b7e582a85df3d2a6e065af7278802;metro-rp2350:8e60f9199b48990cb6cb104aa1c72906865276d9;master:6c021f8c5f7ff173fe1c7cdc579b060e0c584f35;make-re-expressions-be-raw-strings:8c21cf5e95794d588ee559f71b0f74563ba6708b;make_do_cmd_public:9323b67fce48119b0080854d48abc6b1425e327e;|none|SIZE:6804087
 adafruit/Adafruit_CircuitPython_SSD1681: main:a6513c280d0d84a228546046be67873a6ca97fce;|2026-03-27T19:04:39Z|SIZE:23356
 adafruit/Adafruit-PiRTC-DS3231-PCB: main:fea853b94ebefe77f3655f3e572b4addfe14ead7;|none|SIZE:260691
+adafruit/Adafruit_CircuitPython_ST7565: patch:afa530e745851165c2a20e4fce891a0a796033ba;main:4d3361b8e1024ec1db922334091cded62e1faa36;|2026-03-27T19:04:43Z|SIZE:42250
