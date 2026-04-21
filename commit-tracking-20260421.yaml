@@ -5431,3 +5431,4 @@ adafruit/Adafruit_CircuitPython_Intellikeys: main:75075716ec2a968f9fd79e05b9a4be
 adafruit/Adafruit_CircuitPython_ICN6211: main:1c219ab2a01d8ceb50d10f75a1b46a4dd0e0d92e;|none|SIZE:24656
 adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: main:be108c0e324e26282966b13c9458ed1ba4edebc2;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435;|2026-03-27T19:15:12Z|SIZE:48957
 adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage: main:7eb619fe7fe9ebcbed9fbc403996e192438e7feb;|2026-03-27T19:15:15Z|SIZE:20062
+adafruit/Adafruit-PC-Joystick-to-seesaw-PCB: main:890610a1efbc5e3b9c7dca5b28a125e36333b3f6;|none|SIZE:322501
