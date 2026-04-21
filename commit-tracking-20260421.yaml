@@ -533,3 +533,4 @@ AlistGo/v1: main:9503d57c01c3570b9ca70c7aa8d3a2d8018cdded;|none
 AlistGo/v2: v2:f879b72b6350f6d934b31c6aeecdd06fa45da63f;feature/lock:b106f7ea9bded7804e310ded84c621466311b6f6;feature/auth:513e570ac3a382c54b120717a0138e3a23e44681;feature/anchor:bda796d4db715f7c64e20bbd10dbc3a7b3f51927;|none
 AlistGo/vite-plugin-dynamic-publicpath: main:ff72af11ac3c9e300f299f132f77c3bf0cf0bbb8;fix-legacy-browser:e9f51fed54326d54f2d1c1591832e858dc06c9d9;|none
 AlistGo/web-v0: plyr:3f2b734cae744b1fca92025e656dfa71dcc43f62;main:22c3356c805eca455d21d2f1951917371aa591ed;|none
+AlistGo/web-v1: main:6dd56434bf86e0f7e4ee6d850cd9050f94bd8ded;|none
