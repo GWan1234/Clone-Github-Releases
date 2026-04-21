@@ -5119,3 +5119,4 @@ adafruit/PyCon2019: update-pdf:84d5e886346216154fa0793437c8526fef971ae3;tutorial
 adafruit/Adafruit_IO_Documentation: update-kramdown:d8a86b8aa1b62e2f2245496e69cba891400816a8;main:cda4c3e0f5af294a3d5d87c70fa21cafe7f318dc;gh-pages:b8918d45d3984ab28243953d9df4d877627a3b6f;dependabot/bundler/rack-2.2.23:e20718da467b72fea7da300e99ab9fd522441391;dependabot/bundler/addressable-2.9.0:ffdd3f613d3e19f12a6c6113b3295ae217f7c12a;|none|SIZE:4055890
 adafruit/circuitpython-default-files: main:850cb39997d167a14265bf8ce4fc04e10465489a;|none|SIZE:379842
 adafruit/Adafruit_CircuitPython_TPA2016: main:dbdb6d8db51a38d79ceb6296e7f2929308fe734a;doc/add-typing:22a1326dbd05c8509b5b72acf2a5fb63e54f582a;|2026-03-27T19:05:41Z|SIZE:42687
+adafruit/Adafruit_CircuitPython_SSD1351: setup-py-disabled:a9fcf15ffded3086fda2349a510a3daa11d30367;main:d3e5e0c6b8ee4425e9a0e533089f7e0588b2e2bf;|2026-03-27T19:04:28Z|SIZE:33913
