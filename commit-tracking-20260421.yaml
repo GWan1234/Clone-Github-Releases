@@ -895,3 +895,4 @@ adafruit/Adafruit-Infrared-IR-Remote-Receiver-PCB: main:ead85073a5f1e06c649a5f8e
 adafruit/Adafruit-Infrared-IR-Remote-Transceiver: main:d449f19025cf3325f29dc6c28da059d09875721d;|none
 adafruit/adafruit-io-basics: master:a00668a326f1e83d40a2281af3574021fa79eddd;|none
 adafruit/adafruit-io-camera: master:9129c4e7ca4d49ebd4a742035ff1c4c6525c9c25;|none
+adafruit/Adafruit-IO-Connect: master:19e4f2f845a22a087f6e3e03076b93b8afe303e6;|none
