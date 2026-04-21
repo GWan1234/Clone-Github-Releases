@@ -622,3 +622,4 @@ adafruit/Adafruit-1.5inch-Color-OLED-PCB: master:6d5c1242dd9d6124b18336f8cebff19
 adafruit/Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB: main:f4768731183344c8bbe1453f15ff3c655001d592;|none
 adafruit/Adafruit-1.8-TFT-Shield-PCB: master:b1b4d0c39047ab5ab925ad0953ec4c94e3ed6001;|none
 adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: main:55df02725e803b00706c48715883efdbe4aceb1c;|none
+adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80;|none
