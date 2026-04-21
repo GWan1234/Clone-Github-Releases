@@ -367,3 +367,4 @@ ioBroker/socket-client: main:fbd197f77b21ecff3f4c9715a886f8d591e63e36;dependabot
 ioBroker/testing: master:a11900b86c62b87b83f5a1e9df1cb3aee69d7961;fix-219:facef46fcddcbccde2caade7c9e4cf1e59ce36ca;deprecate-unit-tests:6e9fadfc9adddd4f02c590d11e71779ad4501d1a;dependabot/npm_and_yarn/types/node-25.1.0:4fab358bb1637b059debd0f673cef5bdeae4679d;dependabot/npm_and_yarn/picomatch-2.3.2:8dd6d4da3104f62b7e40556ea7be8a6414369637;|2025-11-08T16:12:04Z
 ioBroker/testing-action-adapter: master:c91f22babd740509d72864da740f7eaf9029b26b;|2025-12-16T14:26:18Z
 ioBroker/testing-action-check: master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;|2026-01-26T09:38:01Z
+ioBroker/testing-action-deploy: supporting-custom-tag:317ff636ecdc74767690a513a2c2de4c50801910;master:3b33380398eb641e9d6029bda5103a4c75578526;downgrade-action-gh-release:6b8f1e027625f6bf09cecee869a0e8dcac2b6286;|2026-01-06T11:55:32Z
