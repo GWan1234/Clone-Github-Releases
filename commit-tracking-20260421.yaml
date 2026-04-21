@@ -5134,7 +5134,7 @@ adafruit/Arduboy2: noUSB:44aeda92a248f4b4bd2134c4352b3de44af3a1f9;master:5d975e7
 adafruit/ArduboyTones: master:4ba1bcc7a8761154958ad6ffee3cb7fe1de0ac67;|none|SIZE:29682
 adafruit/ArduboyPlaytune: master:52ca6170af45432c07269861c91349e70b4cd73d;|none|SIZE:12512
 adafruit/Adafruit_CircuitPython_LPS35HW: patch:9bd029f219e86fb56badbe02edd51072ca1f28c1;main:65ba745c332812acb6330dabb8392a32c47a3e85;lps25:cf5642956f05ff582c17fc03eb2116c920dbe1d0;filter_add:66db34741baf6c4bbae9efab1c169ae41a2dbdfe;|2026-03-27T19:00:12Z|SIZE:80323
-adafruit/Adafruit_CircuitPython_Hue: main:db954ef02fe7b6cb2bbabaae045f3ad1f5556004;|2026-03-27T19:10:11Z|SIZE:20059
+adafruit/Adafruit_CircuitPython_Hue: main:db954ef02fe7b6cb2bbabaae045f3ad1f5556004;|2026-03-27T19:10:11Z|SIZE:20060
 adafruit/Gamebuino-META: master:a1b08beb135313f34c32eda89748d519aa68d4c4;drakker:0f944ee7f20e0bcee567659a6ca0717f9b5d3fd1;|none|SIZE:11385118
 adafruit/Adafruit_LPS35HW: master:6a628ba68ece77dfbbfba557c72e6690a5212d41;gh-pages:daef3747a40a417603822e42f6b010784c902997;|2023-11-15T15:24:49Z|SIZE:849484
 adafruit/nofrendo_arcada: savestate:a7b39e914f959cbd182132d334d403e99c06dc8d;master:c8a81ea4829f341a32c047344fe18aa920688c57;arcada-flash-rewrite:57c798449a94109816aa30dd4e95b8c70a841f97;|none|SIZE:266462
