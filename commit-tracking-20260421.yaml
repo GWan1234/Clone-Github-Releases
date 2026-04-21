@@ -4600,3 +4600,4 @@ adafruit/Adafruit-Prototyping-Pi-Plate-PCB: master:e54e072a655814936e89cb3c01314
 adafruit/Adafruit-PN532-RFID-NFC-Breakout: master:d614276a3168bd402d0729daa7bd94c406de7beb;|none|SIZE:313385
 adafruit/GPS-Dog-Collar: master:122f0a2765b9fdd98e449cd1c3524862f01dd0e0;|none|SIZE:3963
 adafruit/Adafruit-Raspberry-Pi-Python-Code: master:b4aeee58b670645149f6f682a6c5ac04a0a0d314;legacy:9ff733d59242a02f7ccd0222001ce80f6090a978;|none|SIZE:45931
+adafruit/TIMESQUARE-Watch: master:9c604a9a8826a33d8d6ebfb8ae42fc12068bd0dc;|none|SIZE:25510
