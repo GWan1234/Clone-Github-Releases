@@ -4548,3 +4548,4 @@ adafruit/knitting_machine: master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b;|none
 adafruit/Adafruit_Microtouch: master:938e22db4ca6a5437cd282e12f8c34114067a8f3;|none|SIZE:182176
 adafruit/Adafruit_USB_Boarduino_PCB: master:1203bb861fc49a53dd95dcb425c5a1d59985b9b0;|none|SIZE:248738
 adafruit/Kinect: master:e133c23fffc3e0eff2de20e25a170ef9c6faae44;|none|SIZE:295745411
+adafruit/HL1606-LED-Strip: master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;|2023-10-03T13:34:23Z|SIZE:101834
