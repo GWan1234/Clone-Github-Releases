@@ -1001,3 +1001,4 @@ adafruit/Adafruit-MLX90614-Library: master:8c32c95768e0960d7c27258b1d9bac16b8d7f
 adafruit/Adafruit-MLX90632-FIR-Remote-Thermal-Temperature-Sensor-PCB: main:928c728704680ccfc11515f2ec7113c8cb7d4224;|none
 adafruit/Adafruit-MLX90640-PCB: master:398d7ceac6f1c1e234bf920386eaf9239ef79adf;|none
 adafruit/Adafruit-MMA8451-Breakout-PCB: master:f9fa425744bf6c85d7ff0a4c80fd36311a0da974;|none
+adafruit/Adafruit-MMC5603-PCB: main:fb9a564eb11939578643054a859481408a64a868;|none
