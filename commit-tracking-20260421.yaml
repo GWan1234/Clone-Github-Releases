@@ -861,3 +861,4 @@ adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB: main:a48daa304b9d13a8d1f4
 adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: main:2815cb84b56f4e79c573aa0c641fadef878a512f;|none
 adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: master:6d03cc0e0a1d64360514f60730dba3c79e2846a0;|none
 adafruit/Adafruit-Hallowing-M0-PCB: master:c0585b0672ce13e163b8da6ce9215ec600c63d64;|none
+adafruit/Adafruit-Hallowing-M4-PCB: master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27;|none
