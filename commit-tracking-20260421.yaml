@@ -1137,3 +1137,4 @@ adafruit/Adafruit-TMAG5273-3D-Hall-Effect-Magnetometer-Breakout-PCB: main:543c3c
 adafruit/Adafruit-TMC2209-Breakout-PCB: main:227f79e2cda77b99653316692f8ec1975f58c6af;|none
 adafruit/Adafruit-TMP006-and-TMP007-PCB: master:84323b3001cdc9efe614bf6d703c1444c3d275b8;|none
 adafruit/Adafruit-TMP117-PCB: main:874b3a5b27792d4d166547bab075cb963e1bdb32;|none
+adafruit/Adafruit-TMP119-Temperature-Sensor-PCB: main:fe8ae26b0f8362aa93a8074374984c1da7bf01aa;|none
