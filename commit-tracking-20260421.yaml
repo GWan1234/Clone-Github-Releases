@@ -516,3 +516,4 @@ AlistGo/alist-proxy: v2:bab243921e25fe07c04f89a9c2c0a7dce6aafc96;renovate/docker
 AlistGo/alist-railway: postgres:1e9adf4ac791aa7fc227cfe2221c5ec50e0a7105;mysql:b96a4d03a3c992af03c85f66c1d1a1792c73798b;|none
 AlistGo/alist-render: v3:4d8e55ae1e1077266b0e20306b775f4f39d05f92;v2:270c34bb9f9c864c98e04b5a5ef3df7b68bdc448;|none
 AlistGo/alist-replit: v3:81600074218549fb2913ccf948bdd7d8b5c13ee0;v2:748c87416be8f39d76137f9bb52a818173f171f4;|none
+AlistGo/alist-web: renovate/vitejs-plugin-legacy-5.x:24cb8470dea22cb920042edf08d0da8909c96d46;renovate/vite-plugin-dynamic-base-1.x:236bfc9ec6b46b7fa35c66e634c3f4bc15c0de23;renovate/vite-5.x:665914dfdfd4dd30d4792e7dc246addbdc552881;renovate/typescript-5.x:f279410b452bfa21f342353c10da39f155fc075a;renovate/streamsaver-2.x-lockfile:2ca7e23aad9f9e03d98791968fc7d2827800302e;|2026-04-20T01:18:51Z
