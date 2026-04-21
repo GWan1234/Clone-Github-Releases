@@ -1142,3 +1142,4 @@ adafruit/Adafruit-TMP235-PCB: main:05afa047f2324ed06268ded1c27b741c86acedc8;|non
 adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB: master:b099d41a3fb4cddce5f19a7a8bbdc7a2d68711d8;|none
 adafruit/Adafruit-TPA2016-Library: master:17d1a6cf3f423952c0b07518e9ef46a2476bf8df;gh-pages:afa1d75e70fc71c5a16bfa92ab1aeae44bff55b2;actionci:baa74d30398e9e536cf6bf3c6bde0fb7e07718be;|2023-10-03T20:03:23Z
 adafruit/Adafruit-TPA2016-PCB: master:cad449b53378a89066d524a24f085207d74faf06;|none
+adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB: master:f1967694bc20333d31b167e4eeaff58742e37bba;|none
