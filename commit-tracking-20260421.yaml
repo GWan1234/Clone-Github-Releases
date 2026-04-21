@@ -5143,3 +5143,4 @@ adafruit/SdFat: upstream-changes-2_2_2:0cc0c4e9a291637d1d0826ea2fb0e31d2fef6cd3;
 adafruit/MakerFaireBayArea2019: master:92b9600dbbc761ea3b262291383f5aadd6b5f613;|none|SIZE:855872
 adafruit/Adafruit-PyBadge-PCB: master:992e322d5b4b0b9a2b60a809ba2ebaa2b0cfe090;|none|SIZE:544049
 adafruit/Adafruit_CircuitPython_AzureIoT: patch-fix:6e06d971833ec23ea8423d9c61be05702c564da0;main:79706ab2506969ebdaa85399f5441f98f11b86e3;delete-unused-license:1dbfaf45bd07ff242da5fa613d6300563f2bd161;add-ssl-context:fe80aad45d74881cd26ece5ef0bd74dc78eeaaaf;|2026-03-27T19:07:26Z|SIZE:1024986
+adafruit/apt-adafruit-com: master:9acf800006be32df7783facaff6ec13f517f708f;|none|SIZE:804
