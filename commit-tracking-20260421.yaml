@@ -934,3 +934,4 @@ adafruit/Adafruit-LPS28-Pressure-Sensor-PCB: main:593fed8bfe3f406d6f40a9c7bd83e8
 adafruit/Adafruit-LPS2X-PCB: master:5d8dc248b63ff39d1ca1ddbf29ea7fc30e9d4278;|none
 adafruit/Adafruit-LPS3X-PCB: master:dacce39b9af0ccbcc31625c45ef3a9c001ab0a4d;|none
 adafruit/Adafruit-LSM303-PCB: master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;|none
+adafruit/Adafruit-LSM303AGR-PCB: master:3a099ee3de341bfaf089d7f314380e825b3ae35e;|none
