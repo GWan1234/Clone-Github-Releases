@@ -419,3 +419,4 @@ OpenListTeam/times: master:cf4314f6c16c535f9433fe400b78dba76234c808;|2025-06-20T
 OpenListTeam/wazero-wasip2: main:b699dbc20d5c007f6e1fd42ad8b533d30adfbf17;fix/resource:9d81773cdf415982a58524ccfa2cb88a40a28002;|none
 OpenListTeam/wopan-sdk-go: main:cacb5615dbf4d71b663623ea263a109497a2ebcb;|2025-06-30T12:47:24Z
 Finb/Bark: master:6a2997a300dc4133505a58b6f022ceaa2940ff3b;feature/ttl:a0b67ed282f1ef72533c306ec82bacd2ede44785;|none
+Finb/Bark-Chrome-Extension: master:81c34b40f1409d4d7a8d745505a06f92f07fd3bb;AutomaticallyCopy:340cf3c79abfbba58f083e44aecde32ea3c1714a;|2018-12-19T02:45:46Z
