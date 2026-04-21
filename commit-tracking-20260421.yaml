@@ -870,3 +870,4 @@ adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: master:530ec62b7f4ef73fc794e10
 adafruit/Adafruit-HTS221-PCB: master:e32c12659a54739f9700e8706e82f13b841f2f86;|none
 adafruit/Adafruit-HTU21D-Breakout-PCB: master:9a352b1841ff45b684a7263721490af9cc6a455f;|none
 adafruit/Adafruit-HTU31-PCB: main:9ac7a4470edb8555ba33d1aba62f260fa4cc63da;|none
+adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: master:ddd588632d07928551e7f1f71a38335e33c4b530;|none
