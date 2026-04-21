@@ -102,3 +102,4 @@ esphome/dashboard: style-status-text:b5d8120088b133e24d5a1e04428dffac98f460fc;ma
 esphome/dashboard-api: main:84922ef3e8e36af51b00262e2ca9d0bd196749a6;dependabot/github_actions/github-actions-e01ed90380:df92ab9aadceac231cdd6f62eb41f1f39834b8bc;|2025-04-17T02:58:37Z
 esphome/data.esphome.io: main:525747f1f0dbca72c6079e5c2d08d2027206ad9c;|none
 esphome/deployments: main:c50b61d9ace129171add357cdcc242c51eed2e16;jesserockz-2026-068:4f606eaa5e4815691242eb02811e5ee2925e1613;jesserockz-2026-067:fd0fe022c965c907d15e508bbcab46fa5c723b59;dependabot/github_actions/hashicorp/setup-terraform-4.0.0:56ec8fc1045bff345d1605a85628a7c9ad8f9dbf;|none
+esphome/developers.esphome.io: main:1622a688556c14759673fb1282273cbcfa776c30;libretiny-isr-docs:452a3f5ddae7eb908a8a965e51601db78358b673;glmnet-doc-components:e405cf06f9d00dbab069d80e300f68c12bf4d849;20250401-copy-fixes:26c848d68273387dc9f014958c89734818d4a122;|none
