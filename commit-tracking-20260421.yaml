@@ -4537,7 +4537,7 @@ adafruit/MicroSD-breakout-board: master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c
 adafruit/Solar-charging-tracker: master:e6385cec80193c8e74f7895d32f5e91a541ee3d0;|none|SIZE:1559
 adafruit/Reflowduino: master:953add928782a5a8baf7adda3f973daf9a1276ff;|none|SIZE:2492
 adafruit/SDWebBrowse: master:429f394ac41bf7cce3d8d2dd8f0943ee986c5d76;|none|SIZE:3401
-adafruit/Adafruit_LiquidCrystal: zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b;master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;|2023-11-15T15:24:11Z|SIZE:183751
+adafruit/Adafruit_LiquidCrystal: zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b;master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;|2023-11-15T15:24:11Z|SIZE:183753
 adafruit/Adafruit_FTDI-Friend-PCB: master:5525f3a2a2a0bf62e60e2db7f8cf0dcab3b69713;|none|SIZE:552643
 adafruit/Adafruit_SSD1306: zero:5674153e88a71d8b7cf035787caa7eb06d7484df;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;master:74cc197f485cd17f68016bc323e10085e8d261f9;gh-pages:18800cb7c62ab0627dee6f6c758d24ec8761795b;|2025-12-05T14:40:05Z|SIZE:153926
 adafruit/Raw-IR-decoder-for-Arduino: master:e23d69394b9e7c8e9a0652f09342afdfa1cfc7e2;|none|SIZE:2014
