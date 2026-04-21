@@ -404,3 +404,4 @@ OpenListTeam/OpenList-Helm: main:e42a41d242b14246149f241dff33004911ee19ac;|2025-
 OpenListTeam/openlist-lanzou-plugin: main:e65f249178fdc53a8e25e2fc79c0cadfe0918e2a;|2025-10-15T18:26:16Z
 OpenListTeam/OpenList-Mobile: refactor/bootstrap:62043195eb069121b7fd33ffce1270201cad9d60;main:48aab08afc2dadde654d2dbdeb780698016ece98;fix/log/filter:b07c739a9fbb4cb5536cc6a64028b4c6a37ba6c1;fix/ci/pfx:e2c13d75723d17c27a1e04138f50cadaf81d8b98;fix/app-view:47fdd89820a2e681ba7721348e1d47d2b125137b;|2026-04-14T05:27:13Z
 OpenListTeam/OpenList-OpenWRT: main:18411a0af979579d93b51a41d9b2984f18837f3f;|2026-04-09T14:27:18Z
+OpenListTeam/OpenList-Proxy: main:649207eb45906693cfe1571d72f0bb2ad1a03acf;feat/pages:61847608f3ab4ec84cff9098f78a148b5d9e6a11;|2025-07-03T02:19:16Z
