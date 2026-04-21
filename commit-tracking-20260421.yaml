@@ -5646,3 +5646,4 @@ adafruit/arduino-lmic: non-avr-printf:69cdef5eaf3ad51cf666609af317b2f651c03c82;m
 adafruit/Adafruit_CircuitPython_HTU21D: main:d8354f88bbe47bab30f4053436dad660e800709e;dhalbert-ustruct:3cd9a43499c8ad41eb9298809689648bf0a3c9df;|2026-03-27T18:58:59Z|SIZE:42544
 adafruit/Adafruit_CircuitPython_miniQR: main:c609df93ae520b0d8dd4b0b2444d9de9065f58a0;|2026-03-27T19:11:01Z|SIZE:23900
 adafruit/Adafruit_CircuitPython_CAP1188: patch-fix:01663b092fd4d660ceabca0b7082fba4aaa4f05d;main:32928c232587a9ffa930cbac693b90f719286a31;|2026-03-27T18:57:05Z|SIZE:45155
+adafruit/Adafruit_VEML6075: master:61e8704ddd2c4afa00398918de329ddcf1f902dd;gh-pages:067c84d9f2d43d4d2f449d8bef04d8a128baa816;|2023-11-15T12:50:01Z|SIZE:96025
