@@ -986,3 +986,4 @@ adafruit/Adafruit-Metro-M7-with-microSD-PCB: main:d7e0bc2ff4d5b9304a915f01442e9c
 adafruit/Adafruit-Metro-RP2040-PCB: main:9fe571ea428c5c2bc1b7593dadf61e8ef804f480;|none
 adafruit/Adafruit-Metro-RP2350-PCB: main:d8e135da6ee3383372035fb6ac2bb9387eec1233;|none
 adafruit/Adafruit-MicroLipo-PCB: master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25;|none
+adafruit/Adafruit-microSD-Card-BFF-PCB: main:65445ba23f0ee7e381b21e19db13e9ccfef9ba11;|none
