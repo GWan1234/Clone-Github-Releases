@@ -4747,7 +4747,7 @@ adafruit/Adafruit-NextBus: master:e87decc082bb10867b50d8c500fa9ec62be401eb;|none
 adafruit/BLE_Colorific: master:b80af87eaf7551567ba882be85e8ebfdf397f2f7;|none|SIZE:2792
 adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB: master:8461d91e9c2a485d83ba2c7e3a984a1c105fe1d6;|none|SIZE:282806
 adafruit/aio_gif: master:0bbb66d48c9a19fe081edb7937d76ea3f13e44c4;|none|SIZE:3994
-adafruit/Adafruit_Python_PN532: master:343521a8ec842ea82f680a5ed868fee16e9609bd;alt_preamble:7515c0c18737015ecb591347a4ff3d99e5a9e3b1;|none|SIZE:29405
+adafruit/Adafruit_Python_PN532: master:343521a8ec842ea82f680a5ed868fee16e9609bd;alt_preamble:7515c0c18737015ecb591347a4ff3d99e5a9e3b1;|none|SIZE:29404
 adafruit/toolchain-avr: master:8b6e66b2113af050be324cefdb28cfefb05580c8;attiny85_delay_increase:f0bd3e2eaef5cacab05c68de35b0e1d40fae6429;|none|SIZE:21740523
 adafruit/Arduino_Library_Github_Tools: travis:be07c342fc63268f145ef94904ccedee9f999786;master:be07c342fc63268f145ef94904ccedee9f999786;|none|SIZE:16266
 adafruit/ESP8266_Morse_Code: master:4043f058e0c18a0c69ad1ef09b74b7e0b60357ad;|none|SIZE:4320
