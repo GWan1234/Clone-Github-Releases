@@ -603,3 +603,4 @@ adafruit/2.8-TFT-Breakout-PCB: master:27ec9e198e64fb72922ecde4f1b3d66e50c392c9;|
 adafruit/3.5inch-TFT-Breakout-PCB: master:f229969d9b1416f34bedc4015fce967aaf7c5b00;|none
 adafruit/4-Channel-Level-Shifter-PCB: master:a2bfd3a94ed87bce64bd2230732cc06198c33c06;|none
 adafruit/a2woz: main:eee0285cdb4c6f814a08d8dc080c2e45f6a352bd;|none
+adafruit/AccelStepper: master:6ea713068f97c047f6e3af9b4b646859d68d1b63;|none
