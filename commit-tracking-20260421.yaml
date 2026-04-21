@@ -4714,3 +4714,4 @@ adafruit/Adafruit_Python_MCP9808: master:5524605a15cfce5668f259de72c88d5be74565f
 adafruit/Adafruit_Python_MAX31855: master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9;|none|SIZE:8986
 adafruit/FreqShow: master:53c517eba98ab11b2d119d9e5b366aba9630e432;|none|SIZE:15096
 adafruit/Adafruit-Pro-Trinket-PCBs: master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a;|none|SIZE:1315947
+adafruit/Adafruit_DotStar: master:0acd031b27ace1df0222c66991ee3a4bac806313;gh-pages:6f724a10476fbc9004d935fa0183187523f5660f;|2023-11-15T15:27:11Z|SIZE:118285
