@@ -897,3 +897,4 @@ adafruit/adafruit-io-basics: master:a00668a326f1e83d40a2281af3574021fa79eddd;|no
 adafruit/adafruit-io-camera: master:9129c4e7ca4d49ebd4a742035ff1c4c6525c9c25;|none
 adafruit/Adafruit-IO-Connect: master:19e4f2f845a22a087f6e3e03076b93b8afe303e6;|none
 adafruit/adafruit-io-node: req-sig:e1f26c365aa8d91a35b8e578d629d5e1e163d8aa;master:8c117eebf66b8396f40ebeb19c1477113e78fbb3;homekit:fb7303eacb301cb11b78ddfe4636d9e347bae514;api_v2:3623b7335e5e9fde3406308534a037ec31ede961;|none
+adafruit/adafruit-io-node-tunnel: master:6c36968af4738995c80447055d87eb3320c5e4b4;|none
