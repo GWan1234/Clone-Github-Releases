@@ -5429,3 +5429,4 @@ adafruit/g722_1_mod: update-cibuildwheel:f97b9291b2ae4a9f3956ad84b097d6176b61e64
 adafruit/Adafruit_CircuitPython_EK79686: main:520aa4a3fb14cfcec41d0eb22af657ce80fb01df;|2026-03-27T18:58:03Z|SIZE:22869
 adafruit/Adafruit_CircuitPython_Intellikeys: main:75075716ec2a968f9fd79e05b9a4bedbec93ee48;|none|SIZE:9792
 adafruit/Adafruit_CircuitPython_ICN6211: main:1c219ab2a01d8ceb50d10f75a1b46a4dd0e0d92e;|none|SIZE:24656
+adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: main:be108c0e324e26282966b13c9458ed1ba4edebc2;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435;|2026-03-27T19:15:12Z|SIZE:48957
