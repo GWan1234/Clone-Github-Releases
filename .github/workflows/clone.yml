@@ -41,14 +41,13 @@ jobs:
           shopt -s nullglob globstar
 
           # =========================
-          # 时间配置（已修复：优先使用当天已存在的 tracking）
+          # 时间配置
           # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
           TRACKING_FILE="commit-tracking-${NOW_DATE}.yaml"
 
-          # 修复点：当天已有tracking则优先使用，解决重复备份
           if [[ -f "$TRACKING_FILE" ]]; then
             LAST_TRACKING_FILE="$TRACKING_FILE"
           else
@@ -92,11 +91,19 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
+          # =========================
+          # 【修复】真正最新发布（排除草稿，按时间排序）
+          # =========================
           fetch_latest_release() {
-            curl -fsSL --retry 2 --max-time 15 \
+            curl -fsSL --retry 2 --max-time 20 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              "https://api.github.com/repos/$1/releases/latest" \
-              2>/dev/null || echo '{}'
+              "https://api.github.com/repos/$1/releases?per_page=50" 2>/dev/null \
+              | jq -r '
+                map(select(.draft == false))
+                | sort_by(.published_at)
+                | reverse
+                | .[0] // {}
+              ' || echo '{}'
           }
 
           release_exists() {
@@ -116,7 +123,28 @@ jobs:
           }
 
           # =========================
-          # 追踪文件写入
+          # 【修复】真正最新发布大小统计
+          # =========================
+          get_repo_release_size_bytes() {
+            local repo="$1"
+            curl -fsSL --retry 2 --max-time 20 \
+              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/repos/$repo/releases?per_page=50" 2>/dev/null \
+              | jq -r '
+                map(select(.draft == false))
+                | sort_by(.published_at)
+                | reverse
+                | .[0].assets | map(.size) | add // 0
+              ' || echo 0
+          }
+
+          bytes_to_gb() {
+            local bytes="$1"
+            printf "%.2f" "$(echo "scale=10; $bytes / 1024 / 1024 / 1024" | bc)"
+          }
+
+          # =========================
+          # 追踪文件
           # =========================
           set_tracking() {
             local repo="$1"
@@ -124,9 +152,6 @@ jobs:
             yq -y -i --arg repo "$repo" --arg state "$state" '.[$repo] = $state' "$TRACKING_FILE"
           }
 
-          # =========================
-          # 立即同步 tracking 文件到仓库
-          # =========================
           sync_tracking() {
             echo -e "\n💾 Syncing tracking file to GitHub..."
             git config --global user.name "Action"
@@ -139,7 +164,7 @@ jobs:
           }
 
           # =========================
-          # 获取前5个分支 commit + 最新 release 时间
+          # 获取最新分支状态
           # =========================
           get_repo_current_state() {
             local repo="$1"
@@ -154,8 +179,7 @@ jobs:
 
             local branch_states=""
             while read -r br; do
-              local name
-              local sha
+              local name sha
               name=$(echo "$br" | jq -r '.name' 2>/dev/null || true)
               sha=$(echo "$br" | jq -r '.commit.sha' 2>/dev/null || true)
               if [[ -n "$name" && -n "$sha" && "$name" != "null" ]]; then
@@ -169,22 +193,20 @@ jobs:
           }
 
           # =========================
-          # 判断是否需要备份（已修复：当天已备份则直接跳过）
+          # 是否需要备份
           # =========================
           need_backup() {
             local repo="$1"
             local current_state="$2"
 
-            # 优先检查：今天是否已经备份过
             if [[ -f "$TRACKING_FILE" ]]; then
               local today_state
               today_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$TRACKING_FILE" 2>/dev/null || true)
               if [[ -n "$today_state" && "$today_state" == "$current_state" ]]; then
-                return 1  # 已备份，跳过
+                return 1
               fi
             fi
 
-            # 再检查历史记录
             if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
               return 0
             fi
@@ -200,7 +222,7 @@ jobs:
           }
 
           # =========================
-          # release 说明
+          # 发布说明
           # =========================
           build_notes() {
             REPO="$1"
@@ -239,7 +261,7 @@ jobs:
             printf -- "- Pushed: %s\n" "$PUSHED"
             printf -- "\n"
 
-            printf -- "## 🏷 Upstream Release\n"
+            printf -- "## 🏷 Upstream Release (Latest by time)\n"
             printf -- "- Tag: %s\n" "$UP_TAG"
             printf -- "- Name: %s\n" "$UP_NAME"
             printf -- "- Published: %s\n" "$UP_TIME"
@@ -255,7 +277,7 @@ jobs:
           }
 
           # =========================
-          # 获取一个用户/组织的全部 public repo（分页）
+          # 获取用户所有仓库
           # =========================
           get_all_repos() {
             local owner="$1"
@@ -279,7 +301,7 @@ jobs:
           }
 
           # =========================
-          # 备份核心
+          # 备份单个仓库
           # =========================
           backup_repo() {
             local REPO="$1"
@@ -306,16 +328,13 @@ jobs:
             REPO_JSON=$(fetch_repo_info "$REPO")
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
 
-            # =========================
-            # 5分支对比
-            # =========================
             local CURRENT_STATE
             CURRENT_STATE=$(get_repo_current_state "$REPO" "$REPO_JSON" "$UPSTREAM_JSON")
 
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
               echo "✅ Skip: $REPO (no changes in 5 branches)"
               set_tracking "$REPO" "$CURRENT_STATE"
-              sync_tracking  # 👈 增强：跳过也立即同步
+              sync_tracking
               cleanup
               return 0
             fi
@@ -334,7 +353,6 @@ jobs:
               return 0
             }
 
-            # 获取最近5个分支
             mapfile -t BRANCHES < <(
               git -C "$MIRROR" for-each-ref \
                 --sort=-committerdate \
@@ -417,10 +435,9 @@ jobs:
 
             rm -f "$NOTES_FILE"
 
-            # 只有成功完成后才写 tracking
             if [[ $error_occurred -eq 0 ]]; then
               set_tracking "$REPO" "$CURRENT_STATE"
-              sync_tracking  # 👈 增强：每个仓库成功后立即同步
+              sync_tracking
             fi
 
             cleanup
@@ -428,15 +445,78 @@ jobs:
           }
 
           # =========================
-          # 批量处理（#注释跳过 + 实时同步）
+          # 收集所有目标仓库
+          # =========================
+          collect_all_target_repos() {
+            local all_repos=()
+            local repo
+
+            mapfile -t OWNERS < <(
+              yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
+              | grep -v '^[[:space:]]*#' \
+              | sed '/^[[:space:]]*$/d' || true
+            )
+            for O in "${OWNERS[@]}"; do
+              [[ -z "$O" ]] && continue
+              while IFS= read -r repo; do
+                [[ -n "$repo" ]] && all_repos+=("$repo")
+              done < <(get_all_repos "$O")
+            done
+
+            INDEX=0
+            while true; do
+              KEY="repo${INDEX}"
+              EXISTS=$(yq -r ".repositories.${KEY} // empty" repositories.yaml 2>/dev/null || true)
+              [[ -z "$EXISTS" ]] && break
+
+              mapfile -t manual_repos < <(
+                yq -r ".repositories.${KEY} // [] | .[]" repositories.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
+              )
+              for repo in "${manual_repos[@]}"; do
+                [[ -n "$repo" ]] && all_repos+=("$repo")
+              done
+              INDEX=$((INDEX + 1))
+            done
+
+            printf "%s\n" "${all_repos[@]}" | sort -u
+          }
+
+          # =========================
+          # 主执行
           # =========================
           process_all() {
-            # 如果今天文件不存在，才创建头部
             if [[ ! -f "$TRACKING_FILE" ]]; then
               echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
             fi
 
-            # 1) allrepositories
+            echo -e "\n📦 [PRE-BACKUP] Calculating REAL latest release sizes..."
+            ALL_TARGET_REPOS=($(collect_all_target_repos))
+            TOTAL_RELEASE_BYTES=0
+            declare -A REPO_RELEASE_GB
+
+            for repo in "${ALL_TARGET_REPOS[@]}"; do
+              [[ -z "$repo" ]] && continue
+              echo "→ $repo"
+              
+              BYTES=$(get_repo_release_size_bytes "$repo")
+              GB=$(bytes_to_gb "$BYTES")
+              REPO_RELEASE_GB["$repo"]="$GB"
+              TOTAL_RELEASE_BYTES=$((TOTAL_RELEASE_BYTES + BYTES))
+
+              yq -y -i --arg repo "$repo" --arg gb "$GB" \
+                '.release_size[$repo] = $gb + " GB"' "$TRACKING_FILE"
+            done
+
+            TOTAL_GB=$(bytes_to_gb "$TOTAL_RELEASE_BYTES")
+            yq -y -i --arg total "$TOTAL_GB" \
+              '.release_total = $total + " GB"' "$TRACKING_FILE"
+
+            echo -e "\n✅ Latest release stats written (REAL latest by time)"
+            sync_tracking
+
+            # 开始备份
             mapfile -t OWNERS < <(
               yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
               | grep -v '^[[:space:]]*#' \
@@ -457,7 +537,6 @@ jobs:
               done
             done
 
-            # 2) repositories
             echo -e "\n====================================="
             echo "==== Processing manual repositories ===="
             echo "====================================="
@@ -465,7 +544,6 @@ jobs:
             INDEX=0
             while true; do
               KEY="repo${INDEX}"
-
               EXISTS=$(yq -r ".repositories.${KEY} // empty" repositories.yaml 2>/dev/null || true)
               [[ -z "$EXISTS" ]] && break
 
@@ -486,7 +564,5 @@ jobs:
             done
           }
 
-          # 执行
           process_all
-
           echo -e "\n🎉 All done"
