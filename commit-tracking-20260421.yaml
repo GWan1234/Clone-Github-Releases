@@ -67,3 +67,4 @@ cockpit-project/cockpit-weblate: main:0031b4c3d91c3cb7e2b53d172af1523b113025cd;|
 cockpit-project/cockpituous: main:a90725ccf64dd59a02c84e992625e99ab95fb493;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;|none
 cockpit-project/console.dot: playbook-demo:b3189db6b2523fbb84810e1affc316e5901f39bd;playbook:1c9937ece160503a8aeb3527946579fabdfad3a9;main:c63402b8d26eb15cd030e75a1f9cf4ece934b09b;diagram:4ff85591c1b4b52cdfbcd0cb75c1b3e567863e53;|none
 cockpit-project/hubbot: master:fd89610f8b7909874577ce5755c74eab24b08f99;|none
+cockpit-project/node-cache: main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;|none
