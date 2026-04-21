@@ -4564,3 +4564,4 @@ adafruit/GPS-shield-RMC-test-sketch: master:600346d12e5f666cbeca19cc8c6ad7712830
 adafruit/SD-Basic-GPS-logger: master:31fba7bd11831064ddabea46626f2acf97a3c7b6;|none|SIZE:3901
 adafruit/Thermistor-test: master:decc864620a95bb15ae20fce10af666b1656ff03;|none|SIZE:1113
 adafruit/Adafruit_iCufflinks: master:a150f329582a90235f2d32650af52d1175c764c4;|none|SIZE:233736
+adafruit/DHT-sensor-library: master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec;|2026-03-03T14:49:02Z|SIZE:119212
