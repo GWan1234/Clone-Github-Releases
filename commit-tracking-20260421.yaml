@@ -599,3 +599,4 @@ thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: main:a37ab3564b03257
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_xwing_game: main:009eefc68d1ae29b4d8aafd18a61a92bb3923be7;|none
 thelastoutpostworkshop/YoutubeCounter: main:9711a1ead0c90452e83a34399d09a5d3cd22eedd;|none
 adafruit/2-axis-joystick-breakout-board-with-mounting-holes: master:1d523eacdbcaed54abf94ee1703fdcb76a94d8cf;|none
+adafruit/2.8-TFT-Breakout-PCB: master:27ec9e198e64fb72922ecde4f1b3d66e50c392c9;|none
