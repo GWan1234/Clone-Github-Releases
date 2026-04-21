@@ -4512,3 +4512,4 @@ ioBroker/ioBroker-i18n-manager: snyk-upgrade-bd1e650916e18ff02bde2de248c49fc4:17
 ioBroker/iobroker-video-codes: main:8c508ceb321a370a51dbc255266c269f8ae8f654;|none
 ioBroker/iobroker-webcomponent-file-dialog: main:03e98fa5db21af81d9b0aac071f1909d791c54e0;dependabot/npm_and_yarn/vite-7.3.1:c1e3b2da7d595b6c714ee8aaf3c36608a55211ba;dependabot/npm_and_yarn/multi-c6586c7467:4199b3eac976d3178f6550c026c51356e337e74c;dependabot/npm_and_yarn/multi-91da0948d5:53a37b65ce5f389d4fd2506a925d772e5e1f09a6;dependabot/npm_and_yarn/mui/material-7.3.7:b3cecabaf9e78912dfd76794db79536eecd01f4d;|2025-11-22T05:53:11Z
 MISTERNEGATIVE21/QuectelEC200U: main:dff543949ebfabf369ffbbf015b1c7c595527d41;|none
+maxming2333/esp32-sms-forwarding: master:592b7444390f34eec04d81fc91b04f7e9657088a;|2026-04-19T19:04:58Z
