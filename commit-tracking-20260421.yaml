@@ -5452,3 +5452,4 @@ adafruit/Adafruit_CST8XX_Library: main:2f43c19d376f5f2800fd63ca277f1d1466c3503d;
 adafruit/Adafruit_CircuitPython_PCA9554: main:7753447e8a5a40f14fa61ad8010d8371c828c69a;|2026-03-27T19:02:25Z|SIZE:19505
 adafruit/Adafruit_CircuitPython_Qualia: main:2ab04a898952c62682e5b3fcb4a9a2e865b9ed6e;|2026-03-27T19:14:23Z|SIZE:27480
 adafruit/Adafruit_CircuitPython_ADS7830: main:3bedb5d9317e990fbc8248486625ed23d95e61ef;|2026-03-27T18:55:47Z|SIZE:19150
+adafruit/Adafruit_CircuitPython_FT5336: main:d69bbe3954d3f252059ca4a4ae0c4b7838703069;|2026-03-27T18:58:34Z|SIZE:20646
