@@ -4974,3 +4974,4 @@ adafruit/Adafruit_DAP: master:8ca356d92e73d0d1005534030849e7ca37324805;gh-pages:
 adafruit/echo_2-xl: master:6225f233c03bc7b32c5f5cb6f756521254c34804;|none|SIZE:4807
 adafruit/Adafruit-PiUART-PCB: master:d75842b7de0eb8fb496069a549c87f94542d846c;|none|SIZE:294302
 adafruit/Circuit_Pyrate: main:eb0288c51fac0f394fcb5e88408b56b8d9981911;|none|SIZE:11521
+adafruit/Adafruit_Microbit: master:05453d26b7fef4d9be05d7809c173fe25ad91fe8;gh-pages:b4a3d053774572c2bbc10557afd292c166e6b858;doxy-fix:2f9078d04a5c5fa76c057eea6f0ffc889eea4b33;actionci:c2768f74c35b8e96821e06a51200cf71d742b1e5;actioncheck:589d5afabaab42640bf1d8f6bddf3522a0799fc5;|2023-11-15T15:22:47Z|SIZE:137669
