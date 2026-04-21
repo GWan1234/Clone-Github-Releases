@@ -553,3 +553,4 @@ thelastoutpostworkshop/arduino-maker-workshop: multiroot:e93d30db6cf716a2b5e6dc4
 thelastoutpostworkshop/arduino_wsl: main:f90627fcade9fbd9fd28fd1dfdc4c74be227600f;|none
 thelastoutpostworkshop/ATXPowerSupply: main:5414efe252159810e670fbba949b570813dbfc20;|none
 thelastoutpostworkshop/chatGPT_DALLE: main:e62a51548acccff028cbcd01a364362025f92147;|none
+thelastoutpostworkshop/curved_screen: main:2542df25f71920ec9130a9eff8c3daf71a790fec;|none
