@@ -1222,3 +1222,4 @@ adafruit/Adafruit_Adalink: master:071ee995192a673bef2262bfc3aaae9b6195f4e2;|2015
 adafruit/Adafruit_ADG72x: main:eeffb18d0a52505bede5523531d41bc530cd2f8a;gh-pages:2601f910d8be610b21a8d6e2485c62a572c7a79c;|2024-02-10T17:49:25Z
 adafruit/Adafruit_ADS122C04: main:41aa4b60f25176d7b2c41c90d28e4f9ca4750270;gh-pages:a74dd26405df7d235a8853cefde709dcd2a4c0f2;crcnotwork:8b29eb88e6a1e9120f03b2322c4a391d25017eb2;|2025-10-09T00:48:36Z
 adafruit/Adafruit_ADS1X15: revert-89-misc_volts:2d315b5dca57e2b11da0a1c0f4451115f2cb85fe;master:3d16518ab00f9f2f05473fc46930a312e72af685;gh-pages:7fb1fddbfa128d5fd268890549e17e3015fbc8b9;|2026-01-20T16:36:50Z
+adafruit/Adafruit_ADS7128: main:4bb48018679bd2f5402fb7c1ad49f20e8eb324ea;gh-pages:cd35aa9e830db27a17829ce7fa05d3cfda154ea8;|none
