@@ -4654,3 +4654,4 @@ adafruit/TinyRTCLib: master:48385f8972a270f4aacec73a1b5e46f114c647f5;actionci:05
 adafruit/Adafruit_STMPE610: master:3707ff5e8ff9149f352626d217e7255812df010f;gh-pages:8c1fd086982f30e528bacf63d11cd8b6a756d0dc;|2023-11-15T15:21:09Z|SIZE:380122
 adafruit/CC3000_MDNS: master:acb2a96f2232effd9ad2fb833b332c60e03d9091;|2015-03-31T19:35:22Z|SIZE:7498
 adafruit/NeoPixel_Painter: master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f;|none|SIZE:9722
+adafruit/Adafruit_L3GD20_U: master:c8c354335b41c453c8989541dd9fd64dabd420ae;gh-pages:2384b63badbb3386a3e3c9703d5ee659aef1034a;actionci:2733f34eda9448f4dffc938947a611f23d299270;|2023-11-15T15:25:18Z|SIZE:106772
