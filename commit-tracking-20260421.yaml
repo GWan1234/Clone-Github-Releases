@@ -4605,3 +4605,4 @@ adafruit/Adafruit_VS1053_Library: master:ee1b0de61107db2c0f45bce55d057f83e0ec07e
 adafruit/Adafruit_L3GD20: master:d931c17ebc3094d40c472fda889cf97d9112f2a1;|2015-03-31T19:44:20Z|SIZE:5894
 adafruit/adavoice: master:b78baee279b7297fa3e43e27ef2de0863330c74e;|none|SIZE:449603
 adafruit/Adafruit_LSM303: master:7f9230639ae2ccbe3b9b208cd715614d27bf569f;|2016-06-02T21:27:40Z|SIZE:5063
+adafruit/ADS1X15-Breakout-Board-PCBs: master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55;|none|SIZE:1478873
