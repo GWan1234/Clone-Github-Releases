@@ -536,3 +536,4 @@ AlistGo/web-v0: plyr:3f2b734cae744b1fca92025e656dfa71dcc43f62;main:22c3356c805ec
 AlistGo/web-v1: main:6dd56434bf86e0f7e4ee6d850cd9050f94bd8ded;|none
 AlistGo/web-v2: v2:62202925cf9a689024515cf140a9661aa74b919d;renovate/configure:458ec68b753973771ceb03b61143364c83ed0f37;feature/anchor:f1fc3603f76176474a313146c446a2613c9fdb58;|2022-08-13T03:48:12Z
 AlistGo/with_aria2: main:c7795b18b380782e52b99808d1611ada10e51aad;|none
+localsend/homebrew-localsend: main:22735388c7869dee9f5d7ed0a88190420367236a;|none
