@@ -5042,3 +5042,4 @@ adafruit/Adafruit_PixelDust: pb-multiplane:2a4b392a8ff58a8885bc42cef2f1ba071631a
 adafruit/Adafruit_CircuitPython_VEML6070: stemma_i2c:f97dd63381af09b83702548d1ca74912def79f20;patch-fix:3d63cef9af7619a7e4247b4e000827d257450f34;main:603593d885270af96781a48e92fd07c64c349aab;|2026-03-27T19:06:31Z|SIZE:67731
 adafruit/Adafruit_CircuitPython_DS2413: main:4799a06c93f3425dc331639b2ef1ddec874369a2;|2026-03-27T18:57:50Z|SIZE:18971
 adafruit/Adafruit_CircuitPython_LSM303: master:466dedfcdc107260a888af42babdb6868a0557d5;|2019-08-23T21:27:16Z|SIZE:17397
+adafruit/Adafruit_nRF52_Bootloader: tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4;master:48a149ffcb2e092051d1169f443f9b9b8613a54c;|2026-02-03T08:49:48Z|SIZE:2428462
