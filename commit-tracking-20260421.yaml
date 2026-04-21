@@ -1217,3 +1217,4 @@ adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB: master:abc1a06fbe98e76854ee4e68c910
 adafruit/Adafruit_10DOF: master:53c43d1f6358ac92cde2c8b7987431c98fe8f848;dherrada-patch-1:a9853b82a127c5b02a81274b3f4fdd283dfe67da;|2020-01-12T01:55:07Z
 adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: master:c67f3c11a326cb13ff92d747d8009442a3d8c843;|none
 adafruit/Adafruit_9DOF: master:e7e44d5024be020b462db87f6820841d0de44417;gh-pages:ad4db3bce26a437a60dbf8cab3cc58dba9d09a1d;actionci:1016a9767650fdfac4580688236726b574daad7f;|2020-05-29T14:39:52Z
+adafruit/Adafruit_AD569x: main:6e725d0efbe4010b3971d011c6df82f64d6b0541;gh-pages:8a1bb2010d74e81468323ca153aae8d9d906f305;|2023-11-22T18:08:40Z
