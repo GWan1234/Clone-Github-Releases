@@ -1126,3 +1126,4 @@ adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB: master:e5267e93a24939f5f07c1e0
 adafruit/Adafruit-Terminal-Block-BFF-PCB: main:6e2c47d43d37a4911910750956fb27c9459b2a57;|none
 adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: master:b5c7edd20f00010be64d25145d6ee1dacd28b083;|none
 adafruit/Adafruit-Terminal-PiCowbell-for-Pico: main:38f512959eea28a4ae38c9ba7e700d3ac0d5618c;|none
+adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: master:41dcbc8f03c1b8e86d61f061a08a52dabeede7d3;|none
