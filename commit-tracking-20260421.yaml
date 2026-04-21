@@ -383,3 +383,4 @@ OpenListTeam/eo-pages-proxy: main:a7a875add7220a10eb089041257aac496085471f;|none
 OpenListTeam/go-cache: main:63bca57ca085caf6c09116744ab23831f9c75622;|2025-06-30T12:32:02Z
 OpenListTeam/go-wasi-http: main:97ffd481755003f7c853acb42bdb25362dc37a21;|none
 OpenListTeam/go-wasi-socket: main:3bb0353ddc811a94aa11ec2952f489f38136f23a;|none
+OpenListTeam/gofakes3: package:e81a64992c96d6c1c07efd73bb35da889aebe3b0;master:e81a64992c96d6c1c07efd73bb35da889aebe3b0;|none
