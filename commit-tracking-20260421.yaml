@@ -4588,3 +4588,4 @@ adafruit/Adafruit_SSD1305: update_readme:97f2589bd09b6eb1f217334690d77860665b6bf
 adafruit/Adafruit_SSD1325_Library: master:d86c98d66a10dcfecb59e99cd133a277f6622b56;gh-pages:827fcaadef84979bcf16a062cd888cbc4496db8d;|2024-02-12T16:22:32Z|SIZE:97969
 adafruit/Adafruit-Programmable-Piggy-Bank: master:f6b7d523e648ca6d012c6636367265c2a3ac1c33;|none|SIZE:2566
 adafruit/Adafruit-PS2-Trackpad: master:b24f1867ad11afd7fb787b0413e4af2f52ed1f0f;gh-pages:30a9786606d84e6f56d5bd454851d17dea06a7dc;|2023-11-22T17:47:19Z|SIZE:97832
+adafruit/Adafruit-PWM-Servo-Driver-Library: photodude-patch-1:16705a539bfe829ad518f6f69ffcbb3a1c087181;master:a98850b815bf9696c8ffdc2a0f89d657c52dd44b;gh-pages:b434ae32f5dd40f6c2e3318e29584f3921424fdd;actions:e610e9ccdbe9a6dcd6af5ebed888224014a98f20;|2026-03-03T14:48:12Z|SIZE:118612
