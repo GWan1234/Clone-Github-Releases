@@ -885,3 +885,4 @@ adafruit/Adafruit-I2S-Microphone-Breakout-PCB: master:bb0dfa60919c5679f676e0af41
 adafruit/Adafruit-ICM20649-PCB: master:b24cb0fffe4bd48439c44565f2e086876f0483c0;|none
 adafruit/Adafruit-ICM20948-PCB: master:de820cb677414d3e05c9b1a9fd5cef539fc06165;|none
 adafruit/Adafruit-INA169-Breakout-PCB: master:8c1084623d75d41d05dd5070c191f7a1176434ca;|none
+adafruit/Adafruit-INA219-Current-Sensor-PCB: master:f7ef6a540648572549d64ff2b9b1932f17173e40;|none
