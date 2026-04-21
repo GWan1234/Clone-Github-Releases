@@ -518,3 +518,4 @@ AlistGo/alist-render: v3:4d8e55ae1e1077266b0e20306b775f4f39d05f92;v2:270c34bb9f9
 AlistGo/alist-replit: v3:81600074218549fb2913ccf948bdd7d8b5c13ee0;v2:748c87416be8f39d76137f9bb52a818173f171f4;|none
 AlistGo/alist-web: renovate/vitejs-plugin-legacy-5.x:24cb8470dea22cb920042edf08d0da8909c96d46;renovate/vite-plugin-dynamic-base-1.x:236bfc9ec6b46b7fa35c66e634c3f4bc15c0de23;renovate/vite-5.x:665914dfdfd4dd30d4792e7dc246addbdc552881;renovate/typescript-5.x:f279410b452bfa21f342353c10da39f155fc075a;renovate/streamsaver-2.x-lockfile:2ca7e23aad9f9e03d98791968fc7d2827800302e;|2026-04-20T01:18:51Z
 AlistGo/assets: main:aa243c0a9e021c8d95f35991869498eb28ebb60e;|none
+AlistGo/auth: main:891d373ead44787faf8c234dfd9c8d8510a72c20;|none
