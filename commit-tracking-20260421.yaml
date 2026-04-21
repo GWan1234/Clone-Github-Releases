@@ -5473,7 +5473,7 @@ adafruit/Adafruit_DACX578: main:b174745264477a5553d4f178b95f2245258d3c7c;gh-page
 adafruit/Adafruit_TLV320_I2S: main:a361dbc4f1168fd37c98329a600e7daffe658434;gh-pages:875fd4553d247d4974acabddbab7079b1c0c66ef;|2025-03-27T20:00:36Z|SIZE:143852
 adafruit/Adafruit_CircuitPython_DACx578: main:ed0c8a533c36e56922ed2df2ccfbe8493919acd7;|2026-03-27T18:57:23Z|SIZE:19945
 adafruit/Adafruit_CircuitPython_Display_Emoji_Text: updating_text:675beb42697dcffb4abdc1718199f72e2a30aafe;main:d6db2f5bcdaea4f86ecd877cabec1c819066b5ca;|2026-03-27T19:09:08Z|SIZE:38598
-adafruit/MCUME: main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;|2025-08-11T22:37:53Z|SIZE:22962117
+adafruit/MCUME: main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;|2025-08-11T22:37:53Z|SIZE:22962118
 adafruit/Adafruit-PCM510x-I2S-DAC-PCB: main:2edfe9e71b59e6acc73d0ab2b2f796149146ce74;|none|SIZE:1384500
 adafruit/Adafruit_CircuitPython_TLV320: main:2634a33bbc2a51f75789a635d752ae3cf61ec1de;|2026-03-27T19:05:22Z|SIZE:59037
 adafruit/pico-mac: reenable-speaker-set-volume:1c71dd765ae86b2501cb3db477f54ea9ded9bc2e;oc-psram:dc7ab44c2369a0e5d8d983cbdabbd6dccfc4f3af;mute-etc:b1c20d06eaeed5fd2947e357465f38f99771aae4;monochrome:8d96b38ff32ef8c5d82c4e459cb14d41cc38cca8;main:59c910b5c96a3a9c1a6fb62868775e711e56ce9d;|2025-10-28T16:05:13Z|SIZE:157454
