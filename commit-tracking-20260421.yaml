@@ -1215,3 +1215,4 @@ adafruit/adafruit-zephyr-support: main:cb4516a62e618da59223ccb01eeedb70a9f196e1;
 adafruit/AdafruitClassLibrary: master:3fe5e2d3ca0a13a84567928365f09040768bb4ee;|none
 adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB: master:abc1a06fbe98e76854ee4e68c9107f614c2d436f;|none
 adafruit/Adafruit_10DOF: master:53c43d1f6358ac92cde2c8b7987431c98fe8f848;dherrada-patch-1:a9853b82a127c5b02a81274b3f4fdd283dfe67da;|2020-01-12T01:55:07Z
+adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: master:c67f3c11a326cb13ff92d747d8009442a3d8c843;|none
