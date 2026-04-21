@@ -755,3 +755,4 @@ adafruit/Adafruit-CYBERDECK-PCB: main:c884788284c1347c56e08148a6f87db115c484a8;|
 adafruit/Adafruit-DAC7578-Breakout-PCB: main:b9eeb74cd3d047db6354b2b9f4fa5676c20b3bc9;|none
 adafruit/Adafruit-DC-Power-BFF-PCB: main:de89d2fa7b7cfbdea51fc6e946cd2e780d7b2677;|none
 adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: master:cae1ee442bd88638aac6427bd78f737aa0846a9e;|none
+adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB: master:536d39c0d90da3ef5916985afb3ce4178c219206;|none
