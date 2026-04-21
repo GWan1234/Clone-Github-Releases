@@ -1206,3 +1206,4 @@ adafruit/Adafruit-VS1053-Breakout-PCB: master:61db4e571d89d321c33bb693b84f80da15
 adafruit/Adafruit-WCH-CH9102F-Friend-PCB: main:eb022866b738f738971172c8725546e7b221369f;|none
 adafruit/Adafruit-WebIDE: update_setup_image:9e6f26ed45d349649d84bc8b22f6592185429ed3;test:a169807033eb4c3137c064980725430be31be744;terminal:9d1d5542ae79fe9433949cf493a730ad3e8dc321;startup:260dfe06d9ede3e8d43a4104548846132f23e527;selfcheck:558836a68556008e8b0a0732fe20535ab6ebba3e;|2018-03-13T18:13:20Z
 adafruit/Adafruit-WICED-WiFi-Feather-PCB: master:f2c70ce49ef3df7f60be3a6a30fa39ff34a9dde3;|none
+adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB: main:d3f2e25c4f9211553e32b36ffce03212f414ead3;|none
