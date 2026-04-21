@@ -913,3 +913,4 @@ adafruit/Adafruit-ItsyBitsy-M4-Express-PCB: master:77ccac24a6eb36fca6f780fd45511
 adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB: master:3a3a478c8059b5ab06fbf25c2583ac7d3a8ca3eb;|none
 adafruit/Adafruit-ItsyBitsy-RP2040-PCB: main:b12f7b3f1ebf71c53b30fb2f254b85aeb1e6d6f4;|none
 adafruit/Adafruit-Joy-Bonnet-PCB: master:6f2c397555472348c959db74b7dde90106c48bb4;|none
+adafruit/Adafruit-Joy-Featherwing-PCB: master:45f843d490a5968f4642ff970e8e867918c80b8d;|none
