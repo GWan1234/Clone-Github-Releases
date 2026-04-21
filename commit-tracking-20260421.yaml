@@ -5436,3 +5436,4 @@ adafruit/Adafruit_CircuitPython_USB_Host_MIDI: tannewt-patch-1:db1f5fe9febfb4678
 adafruit/Adafruit_CircuitPython_WM8960: main:e8adc0fbbb7dfb9b10aa7edc6f85b99ad304ac2b;|2026-03-27T19:06:56Z|SIZE:32813
 adafruit/Adafruit_FT5336: main:7b8949ec03b8f6a03a6cff7c1eb7d46ac145a1f6;gh-pages:0ae6fccf963d4b2eabbfaafeeec05d342c9814f3;|2023-11-24T17:34:45Z|SIZE:92274
 adafruit/Adafruit_HUSB238: main:19ffa188866ba6a5e28b28d0d61bd259a8db68e1;gh-pages:6960df0614bf526aed328409323152b870704bbb;|2023-11-22T18:08:54Z|SIZE:101648
+adafruit/Adafruit_VCNL4020: main:c467fcad07a18a9625160afea092b2a0cf7840ba;gh-pages:da21f358050a90acc8b0ad36700457a1631eb033;|2024-02-07T16:55:26Z|SIZE:353418
