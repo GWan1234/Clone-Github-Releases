@@ -859,3 +859,4 @@ adafruit/Adafruit-Grand-Central-PCB: master:9e59fe3cd1ea37aa6caaf5780fa80956e6cc
 adafruit/Adafruit-Graphic-VFD-Display-Library: master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34;|2023-11-15T15:30:35Z
 adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB: main:a48daa304b9d13a8d1f4ab29866c116abd44727d;|none
 adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: main:2815cb84b56f4e79c573aa0c641fadef878a512f;|none
+adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: master:6d03cc0e0a1d64360514f60730dba3c79e2846a0;|none
