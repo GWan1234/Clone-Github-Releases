@@ -120,3 +120,4 @@ esphome/esphome-flasher: main:df4b36d80a2a77183c166bb47935033e1d5b8bbc;github-ac
 esphome/esphome-glyphsets: simplify_code:bb44fcc2aba25aeb304f24b06635aab59ae92333;pre-commit-ci-update-config:b9c8ab6b28c6dc717a80217e8e32928e6bb0b179;main:e58122e8ac81d371c2800af27521ac256aed1034;|2025-02-19T15:50:25Z
 esphome/ESPhome-GUI-Documentation: main:e57559282f425ce53ff0cc1c6482bd668e1625c9;|none
 esphome/esphome-project-template: main:3f6c8ec7369eb27a5cb54863e284e789191e966a;gh-pages:fd3bfd644638f99acbd3d56407e80b97b009c310;|2025-08-27T20:52:14Z
+esphome/esphome-project-template-r2: main:ba509731248640ca996cfe01472d1dbad8d6802a;|2024-12-19T07:14:22Z
