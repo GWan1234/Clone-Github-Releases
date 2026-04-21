@@ -976,3 +976,4 @@ adafruit/Adafruit-MCP9808-Breakout-PCB: master:5a46deacf915eeeb5fcafd82e214ce162
 adafruit/Adafruit-MEMENTO-PCB: main:8f1e07b4baa4e43749793e3ebebd12005a5a8f96;|none
 adafruit/Adafruit-Menta-PCB: master:2aff04449fe4b49777f31e235e1997ec017bf1bb;|none
 adafruit/Adafruit-METRO-328-PCB: master:1d635d70533c446c925ec77240370cfee4fba7ad;|none
+adafruit/Adafruit-Metro-ESP32-S2-PCB: master:42dac1c66d3001a97ef5565b1fea2e842364df32;|none
