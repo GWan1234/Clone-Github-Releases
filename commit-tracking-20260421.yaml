@@ -801,3 +801,4 @@ adafruit/Adafruit-Feather-32u4-FONA-PCB: master:db45e3e1a5e53590cac33a1f3adc783d
 adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB: master:ace22faec73dda4b8dcfec16e1667551456689dd;|none
 adafruit/Adafruit-Feather-ESP32-S2-PCB: main:4a6263861580257d42a889a1518133441d25f35d;|none
 adafruit/Adafruit-Feather-ESP32-S3-PCB: main:2c95ed51a500d929fd6d8f519b895f0c4daeb982;|none
+adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB: master:957300988eee7d15d71649fd4e2cb023a6584acb;|none
