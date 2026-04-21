@@ -5107,7 +5107,7 @@ adafruit/Adafruit_CircuitScheme: master:1dff619c7e74caa8ad295cabb6e2540dba0e6c92
 adafruit/Adafruit_CircuitPython_VEML7700: main:ec67cea8e3b26a5ca69d8c1d854f149d761abfd4;|2026-03-27T19:06:36Z|SIZE:20252
 adafruit/Adafruit_CircuitPython_AdafruitIO: mqtt-integration-tests-cpython:3fab687f2edeaab98be940e5bf94fa61dd262e47;main:17a665dfc17fba382ff137dee6b517ce7477b1d8;fix_rtd_theme:ed8153fb88c92a34f057a827af49cfdd2f6aef7c;example-rename-move:c2b262e73b2094cb71e959903d097a4d82ab8e4e;docs_req_fixes:30667b9b9865d14128f6f3b8202d53dfe1c49109;|2026-03-27T19:07:07Z|SIZE:160836
 adafruit/rplidar: master:8ac97ed8c4c96291bb935438134c548ee93ad46c;|none|SIZE:11796
-adafruit/Adafruit_CircuitPython_PyPortal: patch-fix:f66b129ffe551f36b09ba30dab7d3f7969779a2d;main:ae8483518afdec4848e8536a39616a036d2c6b23;|2026-03-27T19:03:00Z|SIZE:169264
+adafruit/Adafruit_CircuitPython_PyPortal: patch-fix:f66b129ffe551f36b09ba30dab7d3f7969779a2d;main:ae8483518afdec4848e8536a39616a036d2c6b23;|2026-03-27T19:03:00Z|SIZE:169265
 adafruit/Adafruit-PyPortal-PCB: master:90d9aa7ba3f892fd4adb31815c99ede26c10757c;|none|SIZE:2087083
 adafruit/Adafruit_CircuitPython_MCP9600: main:cde82f6edd26ca69478ec99910959b84da3154e4;|2026-03-27T19:01:16Z|SIZE:20866
 adafruit/Adafruit_CircuitPython_INA260: main:00e64b94d8b4f1b8c5631bf9912f8f1392971e5c;docs_req_fixes:8cbb6b0a0c4e83747bc3e8529887b3333ad60929;|2026-03-27T18:59:31Z|SIZE:45514
