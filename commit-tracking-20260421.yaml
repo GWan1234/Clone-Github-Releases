@@ -4586,3 +4586,4 @@ adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: master:3efdb6a315488d6df4feb0
 adafruit/Adafruit_GPS: master:f7bff30a018753caf48ebd3a87e32baca88137e6;gh-pages:46cefb88661b4d8e23d67f92581174f89400b45b;actions:e4eb78f41cab05122248cf66ff2f9a6b715f7a95;|2024-04-23T23:07:48Z|SIZE:184861
 adafruit/Adafruit_SSD1305: update_readme:97f2589bd09b6eb1f217334690d77860665b6bf0;monooled:1f25aea94ab3b85cb211547005d26c1c7401502d;master:3807b07f48f35692155fd10209d33bf894aa18bc;gray:399e405943ebee4af9dd8db184af39acee5e6dc9;gh-pages:206d3b621578984e5e29e2735dcaca54c4beaaf9;|2023-11-15T15:14:24Z|SIZE:133834
 adafruit/Adafruit_SSD1325_Library: master:d86c98d66a10dcfecb59e99cd133a277f6622b56;gh-pages:827fcaadef84979bcf16a062cd888cbc4496db8d;|2024-02-12T16:22:32Z|SIZE:97969
+adafruit/Adafruit-Programmable-Piggy-Bank: master:f6b7d523e648ca6d012c6636367265c2a3ac1c33;|none|SIZE:2566
