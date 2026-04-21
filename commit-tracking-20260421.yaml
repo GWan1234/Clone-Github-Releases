@@ -748,3 +748,4 @@ adafruit/Adafruit-CP2102N-Friend-PCB: main:1c29f780bdc7503e18c8b6d29d1f8fb7cc151
 adafruit/Adafruit-CP2104-Friend-PCB: master:4684fff897c221bcf2539f7125dbf4c11cbf1564;|none
 adafruit/Adafruit-CP2105-Friend-PCB: main:b878e5d43cd5a98883767438d3711d69624bbe94;|none
 adafruit/adafruit-creations: sparkle_motion:2a0f25d38b6371c3924c846b9166a0b8a34d1584;main:482099c03ef4f8567cd59c4212c303d9a30baa8e;dhalbert-patch-1:88c8a2936e187b34c29d3a05e357461f4fef03ef;|none
+adafruit/Adafruit-CSI-or-DSI-Cable-Adapter-Thingy-PCB: main:6a56b0344bab56906893c6de4cb1e9ee8a8d00c7;|none
