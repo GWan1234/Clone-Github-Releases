@@ -910,3 +910,4 @@ adafruit/Adafruit-ItsyBitsy-32u4-PCB: master:b48fb1454afa84d1d83d4641d6c31fb49d3
 adafruit/Adafruit-ItsyBitsy-ESP32-PCB: main:552bf913248863c3a8e1e96671081113e4072478;|none
 adafruit/Adafruit-ItsyBitsy-M0-PCB: master:faa92dda428868c7042f9ee04685ffdc70849725;|none
 adafruit/Adafruit-ItsyBitsy-M4-Express-PCB: master:77ccac24a6eb36fca6f780fd45511d039f0e574f;|none
+adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB: master:3a3a478c8059b5ab06fbf25c2583ac7d3a8ca3eb;|none
