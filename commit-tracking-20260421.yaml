@@ -4752,3 +4752,4 @@ adafruit/toolchain-avr: master:8b6e66b2113af050be324cefdb28cfefb05580c8;attiny85
 adafruit/Arduino_Library_Github_Tools: travis:be07c342fc63268f145ef94904ccedee9f999786;master:be07c342fc63268f145ef94904ccedee9f999786;|none|SIZE:16266
 adafruit/ESP8266_Morse_Code: master:4043f058e0c18a0c69ad1ef09b74b7e0b60357ad;|none|SIZE:4320
 adafruit/Adafruit_SleepyDog: pio-rp2350-bsp-includes:2613bbbdfcd869e09ad321939cb567a45511ed4b;master:6cebe708b966354eab898fefbe62ccc1d605cbd1;gh-pages:191785c1f0364101ecc30cae7baaf12bdf4b0721;funhouse-fix-bsp335:451946c8c3136a941064845cce0d5991804590c6;copilot/fix-watchdog-enable-failure:4706e5d21443733df9cf28a44de356b80cc89ece;|2026-03-27T15:30:22Z|SIZE:168592
+adafruit/Adafruit-Pi-ExternalRoot-Helper: master:0d091e18f3f710c8112a647506594ff40e6ad517;|none|SIZE:4868
