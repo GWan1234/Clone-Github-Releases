@@ -598,3 +598,4 @@ thelastoutpostworkshop/virtualScreen: main:cf933d669b7aa0d93e5357216a915f708a75a
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: main:a37ab3564b03257daaaf91621819306e118a5e68;|none
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_xwing_game: main:009eefc68d1ae29b4d8aafd18a61a92bb3923be7;|none
 thelastoutpostworkshop/YoutubeCounter: main:9711a1ead0c90452e83a34399d09a5d3cd22eedd;|none
+adafruit/2-axis-joystick-breakout-board-with-mounting-holes: master:1d523eacdbcaed54abf94ee1703fdcb76a94d8cf;|none
