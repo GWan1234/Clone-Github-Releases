@@ -4789,3 +4789,4 @@ adafruit/io-swagger-templates: master:1eb516b553057f9a7eae1cc409541621fe9b95af;|
 adafruit/Adafruit_Python_MAX9744: master:b7de3549f356eb2adc4c9c1c87e58b62c09b03bc;|2018-08-30T19:11:09Z|SIZE:8639
 adafruit/Bluetooth_Talking_Dog_Collar: master:d62cf7158093e09c4bac78fc36a5a681950387a2;|none|SIZE:190370
 adafruit/Adafruit_VCNL4010: master:fd4eb0fe7c7f9d69766ddda7f14fce1f75226817;gh-pages:b99bdd8b373eb284118d5c6904393dc2715d735a;|2023-11-15T12:49:53Z|SIZE:93186
+adafruit/PythonClub: master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7;|none|SIZE:10595
