@@ -5081,3 +5081,4 @@ adafruit/esp8266-weather-station-color: tsc2007support:26d562785f8e7ec65f1ace41f
 adafruit/Adafruit_CircuitPython_Crickit: patch-fix:7a11ee3cdd37a52efc40e72ebd72631fedc3a250;main:e3c372fecf7209320826009de88818d91809cff6;|2026-03-27T18:57:19Z|SIZE:45829
 adafruit/Adafruit_Crickit_PCBs: master:4615138e959c50a519bfaaa30a3203e038487cdd;|none|SIZE:1994023
 adafruit/Circuit-Playground-Character-Icons: master:9ebcc0e87610c6890f698aee40eb895613985573;|2020-04-03T21:10:07Z|SIZE:175922
+adafruit/Adafruit_TFTDMA: master:c99d3724fd26b02b0d1b2268bf93f029a8f74ee4;gh-pages:123f03a5271149db9ec58f74cba47151ff2cf262;actionci:da1fcbafdc0b3ee038f34b259992501d4cfdec90;|2020-06-08T17:51:25Z|SIZE:161872
