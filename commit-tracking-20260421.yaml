@@ -203,3 +203,4 @@ ioBroker/ioBroker.geofency: master:e01b6e5ae64b65bd71ae86c7e86b810d13a12284;depe
 ioBroker/iobroker.github.io: main:3168d6dff7e6a5f9c4e5ecedaabf360f4144aa52;|none
 ioBroker/ioBroker.graphite: master:0c86c280a04e38a6f5177d68d615a616786d9f78;|none
 ioBroker/ioBroker.graphpic: master:82aeb7e313d59b754f8c4bad21cfadf128035a59;|none
+ioBroker/ioBroker.graphpic-messages: master:d51df1f53b7cac8ed04f5cf184f59411c3964233;|none
