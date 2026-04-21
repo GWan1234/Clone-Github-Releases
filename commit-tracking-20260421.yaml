@@ -4525,3 +4525,4 @@ adafruit/RTClib: master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec3
 adafruit/USBgamepad: master:506623c2a255cee401ae0335ea943319e3781009;|none|SIZE:5330
 adafruit/Data-Logger-shield: master:223f8db28a8b0171fdb56cfbc78d5d98338228d6;|none|SIZE:139654
 adafruit/Light-and-Temp-logger: master:d615540bfa0b30aa721960312a46d62161b6c2e8;|none|SIZE:2385
+adafruit/Tweet-a-Watt: master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac;|none|SIZE:15404
