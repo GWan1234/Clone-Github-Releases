@@ -412,3 +412,4 @@ OpenListTeam/openwrt-gh-action-sdk: main:b8cc97d1072dedff455e2945a73fc43f5c7e174
 OpenListTeam/packages_lang_golang: 25.x:4bd3d30989baa824dd1b08870776d43f4729bcde;24.x:477ae65199642197cf80aa3da54370a3beff2297;23.x:a291a7ec59a1e84f223976f30030390fe08415ca;22.x:bfab625907738f956845b0d0d6734ea5d2af67ff;21.x:ada3c9b0dd54c3c369658373665eaead9cafd536;|none
 OpenListTeam/rateg: main:f29392610fa74b6c9b2a35568535a3977e028da7;|2025-06-30T12:30:47Z
 OpenListTeam/resty-tinygo: v3:8fff8b24c719b0e11d50911826aab1cff4a2442b;|none
+OpenListTeam/sftpd-openlist: master:0b84c6926ebf0e5813831f053890aeb964aa6c7d;|2025-06-14T07:00:55Z
