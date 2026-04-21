@@ -695,3 +695,4 @@ adafruit/Adafruit-AW9523-PCB: main:080a15c70db83a9091bdfd03ee7e85ae38b694a5;|non
 adafruit/adafruit-beaglebone-io-python: pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;master:cf306ed7f9f24111d0949dd60ac232e81241bffe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;|2020-07-30T02:39:56Z
 adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: master:fcc1a8964feb782278f444b70feaa311972e4a35;|none
 adafruit/Adafruit-BH1750-PCB: main:0b61eb2c8c54254a5685adc044fbf7c5ab968e56;|none
+adafruit/Adafruit-Bluefruit-Classic-PCBs: master:5967ea1c635cca5b95b06fb4927643782f446c64;|none
