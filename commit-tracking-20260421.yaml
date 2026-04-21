@@ -1057,3 +1057,4 @@ adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB: master:2c0839c80106b13e97aa733f85a
 adafruit/Adafruit-RGB-Matrix-HAT-PCB: master:42d0963e0c03d152ab2fc267019c7d940d330365;|none
 adafruit/Adafruit-RGB-Matrix-Shield-PCB: master:d49153b7b42f584c5b243d7605a7ec9c75c3b934;|none
 adafruit/Adafruit-Rotary-Trinkey-PCB: main:b93b2aeaabbfbfd231eec6c88afc6694d4581410;|none
+adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB: main:499de161e9d106e530be5ba1aa09a756c38a31ba;|none
