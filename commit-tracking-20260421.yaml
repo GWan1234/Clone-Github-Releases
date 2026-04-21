@@ -5548,3 +5548,4 @@ adafruit/Adafruit_CircuitPython_APDS9999: main:52b46545a24578ab3891d4721466f5f9b
 adafruit/Adafruit_CircuitPython_AS7331: main:ddc7fd0b7207496ae4ccfabe9827276241aecc5f;|2026-03-27T18:56:20Z|SIZE:21219
 adafruit/Adafruit_CircuitPython_AS7343: main:1bc1eab727f0fdf77e027444d66ef5d3d5b6d8a0;examples:172ea7bc26829d5752331f7ba5dc2bebd5870d6a;|2026-03-27T18:56:25Z|SIZE:80744
 adafruit/Adafruit_CircuitPython_STCC4: main:54b2af0216858ed228fd4d51fc5fe9bd4170bc8d;|2026-03-27T19:04:52Z|SIZE:20652
+adafruit/Adafruit_VL53L5: main:8576a432e3f106c3eeb03ecbda38e8afc9831f3b;gh-pages:50e834d375186a0a05b248a11590ad4f53156bac;|2026-04-09T22:24:10Z|SIZE:205983
