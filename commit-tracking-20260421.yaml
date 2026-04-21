@@ -530,3 +530,4 @@ AlistGo/solid-router: next:090c2e0ce6b4498aa16b8c107d6db461a805ec5c;main:f77b206
 AlistGo/times: master:efa0c7d3ad9298803e95106774bd367ada3b81d5;|none
 AlistGo/v0: main:535ca9a6fad1a62195a140b7154c291a20960135;|none
 AlistGo/v1: main:9503d57c01c3570b9ca70c7aa8d3a2d8018cdded;|none
+AlistGo/v2: v2:f879b72b6350f6d934b31c6aeecdd06fa45da63f;feature/lock:b106f7ea9bded7804e310ded84c621466311b6f6;feature/auth:513e570ac3a382c54b120717a0138e3a23e44681;feature/anchor:bda796d4db715f7c64e20bbd10dbc3a7b3f51927;|none
