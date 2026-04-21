@@ -5642,3 +5642,4 @@ adafruit/Adafruit_CircuitPython_RTTTL: main:29a8297a7cc2589158ecfe920c64fd9f97f4
 adafruit/Adafruit_MCP3008: master:94e5003152294bf6877da976e079af476de3544f;gh-pages:172dbc4597e2dc2fe4c3a45619c6fe4012783ba5;|2023-11-15T15:23:57Z|SIZE:346659
 adafruit/Adafruit_CircuitPython_TFmini: main:e1e713ff708a8c32bc6dbfb4911a184232d9be50;|2026-03-27T19:05:11Z|SIZE:18625
 adafruit/Adafruit_CircuitPython_AT86RF233: main:44fd9c9cf4f3d170890f237c85cc7fde85f39752;|none|SIZE:7666
+adafruit/arduino-lmic: non-avr-printf:69cdef5eaf3ad51cf666609af317b2f651c03c82;master:ba1265d5d2f775177cdc7c82186724e4f0bdc3a8;|none|SIZE:1618875
