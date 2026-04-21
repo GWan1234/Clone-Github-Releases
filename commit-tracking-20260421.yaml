@@ -745,3 +745,4 @@ adafruit/adafruit-circuitpython-weekly-meeting: tannewt-patch-3:44e9f748e4c9910c
 adafruit/Adafruit-CLUE-PCB: master:ce323d9f40e63fbe0ae231c9287abce5d2070663;|none
 adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197;|none
 adafruit/Adafruit-CP2102N-Friend-PCB: main:1c29f780bdc7503e18c8b6d29d1f8fb7cc1510bb;|none
+adafruit/Adafruit-CP2104-Friend-PCB: master:4684fff897c221bcf2539f7125dbf4c11cbf1564;|none
