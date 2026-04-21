@@ -880,3 +880,4 @@ adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: master:eeeefb1d5689572439e4811c6ff96
 adafruit/Adafruit-I2C-to-8-Channel-Solenoid-Driver-PCB: main:9266434c5517c4b418d8a69ba3281bf652bf98ff;|none
 adafruit/Adafruit-I2S-Amplifier-BFF-PCB: main:fe191f0585be438605feca267afa38fe587e57f4;|none
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: master:eafc762a0cb25abfc437afecab66a5e88e5a5338;|none
+adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: main:cde79ddef57c7df69a5e7268b66567fa50b7e42d;|none
