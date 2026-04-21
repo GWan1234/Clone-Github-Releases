@@ -5527,3 +5527,4 @@ adafruit/Adafruit_SGP41: piclaw-examples-and-hwtests:8f987093433ad9c996467a38a5b
 adafruit/reload-emulator: main:96f776934bb2b08f0eadce0648d9f639b77cfb0d;|2025-10-15T17:51:38Z|SIZE:1937629
 adafruit/Adafruit_CircuitPython_JD79667: main:c8626f6d1eb0229a262b80c2c174ffec0898ab60;|2026-03-27T18:59:47Z|SIZE:23367
 adafruit/fruitjam-286: main:cb4b04147da6610304482f3b4f9b0618cf9641a6;|2025-10-21T18:24:16Z|SIZE:543805
+adafruit/Adafruit_CircuitPython_STHS34PF80: main:1b8398881936e667a1f630c18887c7a2b04e52de;|2026-03-27T19:04:54Z|SIZE:21830
