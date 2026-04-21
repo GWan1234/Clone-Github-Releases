@@ -5440,3 +5440,4 @@ adafruit/Adafruit_VCNL4020: main:c467fcad07a18a9625160afea092b2a0cf7840ba;gh-pag
 adafruit/certificates: main:d7c6385f671665820ea2d307b0a94f9e61ef6f91;|2025-02-09T20:20:11Z|SIZE:133723
 adafruit/Adafruit_Debounce: main:7742ab28d1f2008572dd5a24f0a967f8d7d0d01b;gh-pages:c96ba6fa886a24bcca773e65f1c1b3036984cb88;|2023-09-16T22:10:14Z|SIZE:88896
 adafruit/esp-protocols: master:12bacdc3a01121ca97eeb3988e2faf38c7563472;circuitpython:2f492c02289015ecbb36851dd1bd04e0eb0a9937;|none|SIZE:1193273
+adafruit/Adafruit_CircuitPython_AD569x: main:303a4c0b08b4e6234a21a2cf6d88e737e1488985;|2026-03-27T18:55:37Z|SIZE:19864
