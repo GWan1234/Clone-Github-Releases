@@ -738,3 +738,4 @@ adafruit/Adafruit-Chainable-DS18B20-Extender-Breakout-PCB: main:bf200b6586b9d5aa
 adafruit/Adafruit-Charger-BFF-PCB: main:2acd339ac57539b236e1b072488f581ea56e3a4c;|none
 adafruit/Adafruit-CharliePlex-Bonnet-PCBs: master:e6c0dc1cc87f6add9272260db3fe237371e3ac52;|none
 adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB: master:87ab89a043b8c01b602eeaf1bcf08474abe0336d;|none
+adafruit/Adafruit-Circuit-Playground-Express-PCB: master:2962c0cb972e031d070303bbeda3ed95a2098951;|none
