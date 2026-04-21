@@ -1123,3 +1123,4 @@ adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: master:c5bdfe4c8e860cee7400539d6
 adafruit/Adafruit-TCS3430-Ambient-Tri-Stimulus-Color-Sensor-PCB: main:66a56ff8cdb46158dbb87cbe5cc557d7ff14b6e1;|none
 adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6;|none
 adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB: master:e5267e93a24939f5f07c1e0ae2910dcc9821bb35;|none
+adafruit/Adafruit-Terminal-Block-BFF-PCB: main:6e2c47d43d37a4911910750956fb27c9459b2a57;|none
