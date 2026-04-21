@@ -604,3 +604,4 @@ adafruit/3.5inch-TFT-Breakout-PCB: master:f229969d9b1416f34bedc4015fce967aaf7c5b
 adafruit/4-Channel-Level-Shifter-PCB: master:a2bfd3a94ed87bce64bd2230732cc06198c33c06;|none
 adafruit/a2woz: main:eee0285cdb4c6f814a08d8dc080c2e45f6a352bd;|none
 adafruit/AccelStepper: master:6ea713068f97c047f6e3af9b4b646859d68d1b63;|none
+adafruit/acme.sh: vv:f2add8de94e0ad9646f86dba3ea8666c9e39b348;notify:45a8bdbedca4cca3e2a1f46763798b11d698def9;no-save-creds:059694c49f5b03031344e899a81dfb3853efb98e;master:552a49a6801fa3c144856d95b3a8a2c8f121cf31;dns_cf_zone_id:7c2e382d108d53daab554ce2936d47c9da9cb047;|none
