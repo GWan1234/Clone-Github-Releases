@@ -400,3 +400,4 @@ OpenListTeam/OpenList-Docs: reorder:b9e4e4491fc230b47fb527efaebb7eb0e5c5d75c;mai
 OpenListTeam/OpenList-FLATPAK: main:eeeb030e160c84838db95d94e41867915924e6f1;|2026-02-01T04:30:30Z
 OpenListTeam/OpenList-Frontend: revert-289-renovate/monaco-editor-0.x:3d645b4096a38ecfb4149d08288f2d10a98314bc;renovate/vite-plugin-static-copy-4.x:c04774530a03d3aa8312bdde973fc9f5046b17d0;renovate/typescript-6.x:30e6bbe6ee13231248ddff7434ea005e38bc1919;renovate/solid-icons-1.x:04111073f1a010bb98ce9c4ba232e2566e202c0b;renovate/prettier-3.x:61caa2830dca5131d8191278c40b4709f189221e;|2026-04-09T14:22:09Z
 OpenListTeam/openlist-ftp-plugin: main:be1a3ee9684749791d6b0e3bac4cac977f72d76c;|2025-10-15T18:13:47Z
+OpenListTeam/OpenList-Helm: main:e42a41d242b14246149f241dff33004911ee19ac;|2025-11-04T09:28:01Z
