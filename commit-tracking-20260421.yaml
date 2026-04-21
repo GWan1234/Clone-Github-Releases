@@ -326,3 +326,4 @@ ioBroker/ioBroker.vis-knob: master:5186dac2e8022360518f24319bc97fa785bb8f06;|non
 ioBroker/ioBroker.vis-lcars: master:29f478ee8176dc522d6b5a067f71fa0e449475ad;|2023-06-14T17:27:36Z
 ioBroker/ioBroker.vis-map: master:e7a61c5bdc74cff3f43c8e3ef1be4bb83e48dfaa;dependabot/npm_and_yarn/mocha-11.7.5:731dcadcf916573f4fbabe90420b1e340ed99ef5;dependabot/npm_and_yarn/iobroker/dev-server-0.8.0:33e08550e8deb60c459ca313c1909dbce9075015;dependabot/npm_and_yarn/chai-6.2.2:ca7b68542f72fb22f78fb195f368f4e309233f76;dependabot/npm_and_yarn/alcalzone/release-script-plugin-iobroker-5.1.2:1235926015ba4a2b7e1fdee69287acb41faa6154;|2024-07-12T23:36:04Z
 ioBroker/ioBroker.vis-metro: master:eefd2d5e557bc1f5a1d53098eb66ea5332315e06;|2022-02-12T23:23:45Z
+ioBroker/ioBroker.vis-plumb: master:332fc60366e8142e17b63cf168088461ddcc918e;|none
