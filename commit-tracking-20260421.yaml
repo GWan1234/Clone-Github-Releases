@@ -75,3 +75,4 @@ cockpit-project/registry-image-widgets: master:a7084e5f0b49d7ec0381fa417affba1cc
 cockpit-project/starter-kit: main:15c135ce09fb423d0132184333af42adbab80f23;dependabot/npm_and_yarn/types-f57dc2645f:58c2afb6b84022a8d8db5b1464671c66daef6116;|none
 cockpit-project/subscription-manager-cockpit: tasks-container-update-cockpit-ci-container-20260420-051909:e91c24f231de5ed58773fc7cc5440041ee26587f;subscription-manager-1.29.26:5f0b03d879c9619eec01d85a8741f762af26f2ce;subscription-manager-1.28.29:bbe798d97e285c3da02b6ea5ac728e9f194b27ab;subscription-manager-1.28.21:78dde18f51bf4d9610ad00bf8018506c699c861b;subscription-manager-1.28.13:6966128084dbe75d3ad743c56bd5c9cc488cfdfb;|2026-04-13T12:05:10Z
 cockpit-project/subscription-manager-cockpit-weblate: main:a82556d5184a337b4f29066e618e4c7ab367c87a;|none
+cockpit-project/term.js: mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;master:df24a161e45f461488ba773237a96faa4c82f1eb;|none
