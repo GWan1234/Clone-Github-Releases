@@ -4861,7 +4861,7 @@ adafruit/Raspberry_Pi_SQLite_Sensors: master:7ac7cfce9549b83332c498eb365a766f74b
 adafruit/eagle2fritzing: master:d18749346438d31870de54bcbf2748cdc676138f;|none|SIZE:18385407
 adafruit/Weather-Pixels: master:d1bb8951b25315a378a47f5bc7e8bbf04a399225;|none|SIZE:7340
 adafruit/Adafruit_MAX30100: master:b487b81597bdb3f7711a42a21689ac771278cafa;|none|SIZE:3413
-adafruit/Adafruit_MAX31856: master:2e5358b148116c083c24cda3b4e675942686541f;gh-pages:239bf0e2cf7cc80ff6b8c61675903843dd1d3654;action:41c96a7769add3235fb7493382090b0d201e9f1e;|2025-05-09T11:31:33Z|SIZE:101501
+adafruit/Adafruit_MAX31856: master:2e5358b148116c083c24cda3b4e675942686541f;gh-pages:239bf0e2cf7cc80ff6b8c61675903843dd1d3654;action:41c96a7769add3235fb7493382090b0d201e9f1e;|2025-05-09T11:31:33Z|SIZE:101500
 adafruit/Adafruit-Push-Button-Power-Switch-PCB: master:6013b8b9aa67f74778996c69ec765875c787ff53;|none|SIZE:1775729
 adafruit/Adafruit-PiTFT-Plus-3.2-PCB: master:dcd017ebe4af66390dcd68f1515990550651461a;|none|SIZE:427567
 adafruit/Adafruit-PiTFT-Plus-2.8-PCB: master:6de22137d8b5a057a5723dfffa9831c17d4e9a30;|none|SIZE:776101
