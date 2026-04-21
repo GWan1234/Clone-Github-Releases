@@ -5026,3 +5026,4 @@ adafruit/Adafruit_CircuitPython_DRV2605: use_ruff:fc722e9353ee1e4a976f861457d894
 adafruit/Adafruit_CircuitPython_VCNL4010: main:14fb206fdb6ca6f5f7c9d090cdbebb07d6ad4c5b;|2026-03-27T19:06:10Z|SIZE:20370
 adafruit/Adafruit_QSPI: master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879;|2019-05-25T04:04:32Z|SIZE:135981
 adafruit/Adafruit_CircuitPython_APDS9960: patch-test:9343629cf011fb48b69084710cf9d527298ba981;main:0134a126af8430126c9a569a29958802716262fc;|2026-03-27T18:56:09Z|SIZE:53691
+adafruit/Adafruit_CircuitPython_FeatherWing: patch-fix:d15d62b5d38d8e34d9d1e634b7da34e5a2eda820;main:99d27cd8d37922b5d95beff43aa679856435ff03;linting:9c5d052b42f5b69c2a8ffba5b7f180e8489168e1;|2026-03-27T19:09:41Z|SIZE:8572347
