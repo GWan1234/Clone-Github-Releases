@@ -143,3 +143,4 @@ esphome/probot-esphome: pin-action-shas:d8973683677e2c333533311035c46b49a0b90823
 esphome/roadmap: pin-action-shas:64d7619edec55576b31e685c8a132bc1f7b3a5c4;main:0fdb09488277c566dc56e0ea315822fcabf249bd;|none
 esphome/starter-components: main:34ad217e69336d07ca69645d3cf199c583ede1b3;|none
 esphome/version-notifier: main:1b232f79c1a0d9c7182bae97476e662bb584fb84;dependabot/github_actions/actions/checkout-6.0.2:5a05b832630556dfe7f82cd0bda7c3a098c6b7e7;|none
+esphome/voice-kit-xmos-firmware: usb_fw:a81bec4d20e0ad4f7934ea5a1d657045822af404;i2s_fw_48khz:e500a6a9e49aed68a21ada3003227ac555e68e2e;i2s_fw:f68764ba615762802a37938f8c40bdaa8d4c1490;double_i2s:8a6cfbbd58822ede2a19f5f8ebecffbc63f8bc1b;dev:ef04d4b59d172dfbe5c85ba982bf05fcc85f77f3;|2024-09-17T19:08:03Z
