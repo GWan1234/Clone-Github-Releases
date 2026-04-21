@@ -1094,3 +1094,4 @@ adafruit/Adafruit-Sparkle-Motion-PCB: main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef
 adafruit/Adafruit-Sparkle-Motion-Stick-PCB: main:5a2fd7a7e1ae0e15677335af38f3ba7fcb5a308f;|none
 adafruit/Adafruit-SPI-Flash-Breakout-PCB: main:9a46c77e68ab9a797bfdce54b0629004823e868a;|none
 adafruit/Adafruit-SPI-Flash-SD-Card-PCB: main:8d985bd12f2732e94b4727e24874646f5911cd75;|none
+adafruit/Adafruit-SPW2430-PCB: master:929cb33e8e66308cb46321be057e7f0ad7111999;|none
