@@ -319,3 +319,4 @@ ioBroker/ioBroker.vis-colorpicker: master:d8d588c0f1b0caf663c7372bdde9839377efb0
 ioBroker/ioBroker.vis-fancyswitch: master:62fe89a9bf646392c6a53e7f91744352409135ae;|none
 ioBroker/ioBroker.vis-google-fonts: master:40125b5d52ccad006d0ccaf9efee7232aa43cce6;dependabot/npm_and_yarn/mocha-11.7.5:8005b7dabbe4d031f6a99dbf9b81f0bbbfff035a;dependabot/npm_and_yarn/iobroker/testing-5.2.2:2be5de021c8aeefcdca60836095c609bb96bce59;dependabot/npm_and_yarn/iobroker/adapter-core-3.3.2:e8a6b60edc04120812eaaa1f6d49750cb36d089c;dependabot/npm_and_yarn/chai-6.2.2:cdf5a9b66e8bf35184a1a6abb557244b733feac5;|2022-10-08T14:04:34Z
 ioBroker/ioBroker.vis-history: master:49f0b76a4227658e2ae3fc00a88379e40d435321;|none
+ioBroker/ioBroker.vis-hqwidgets: refactoring:3a170817cd67ccb565154c0465a051b14597058e;master:d47f17f999ae04906c9f6a3b2b824535b3c2e2b0;|2026-04-13T14:06:51Z
