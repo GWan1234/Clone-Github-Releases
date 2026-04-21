@@ -379,3 +379,4 @@ OpenListTeam/cgo-actions: v1:1fff82d72e52b29a6030d61f5b1809f72b11bd6e;|2026-04-0
 OpenListTeam/cloud-mail: main:7d0405afefd231e929b637aa4b19cac28450eb41;|none
 OpenListTeam/docker-library: main:0af33a43565b190b9f19c52fe1e2f0a5ff694a07;|none
 OpenListTeam/docs: vitepress:254280879a507c4c8db6a5716c4e0a10cf2980c9;update-vuepress:fc3437e93a95faa3b2b7a4a603e1f957ad673866;main:6b002cbc066065b349ed4aa449850bcb4db80c26;gh-pages:6779b35c488f8085c4e599488f8b8bbaad69c9e8;dezhishen-patch-1:781eee5b3417a246ec62f4ba3b107091c4e0c0cd;|none
+OpenListTeam/eo-pages-proxy: main:a7a875add7220a10eb089041257aac496085471f;|none
