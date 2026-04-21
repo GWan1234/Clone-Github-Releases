@@ -648,3 +648,4 @@ adafruit/Adafruit-555-PWM-Output-STEMMA-PCB: main:2e76b0f1a4a3c2c5f1c11200310699
 adafruit/Adafruit-5x5-NeoPixel-Grid-BFF-PCB: main:defbba9accab3281a52eb74f49cb0ef6d8ce7387;|none
 adafruit/Adafruit-7-HDMI-Backpack-PCB: master:8285985bc9f0eac63062c7d2f8349ac4be4ecb68;|none
 adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing: master:b4883693227a02cd6affefb6ecc7a748b8150883;|none
+adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: master:9faee48387c9ecce37b596a012c2f9534be54a63;|none
