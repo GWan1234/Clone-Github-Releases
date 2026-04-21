@@ -81,3 +81,4 @@ hacs/action: main:dcb30e72781db3f207d5236b861172774ab0b485;|2022-05-28T12:52:27Z
 hacs/addons: main:84ecb95a098132aa3cb4f7c8ed386e803bef1c16;dependabot/github_actions/home-assistant/builder-2026.03.2:d3b6df823f85aecf2473460036a2757d707ee5ec;dependabot/github_actions/docker/login-action-4.1.0:afb561f377f30b6e148ad00b456a1a0d31ec8721;|none
 hacs/bot: statuscheck:665003332b58737193bff6ca75a1360ea0786595;main:08bf818d9f14a6806d9d551d4caf89d8bda05cc2;integration-documentation:792d1e5a37b877906455a3006ae294416f6565a0;dependabot/npm_and_yarn/wrangler-4.69.0:acbae02343a623ec70a411173c934aa3c8bd914a;dependabot/npm_and_yarn/webpack-5.105.3:45eacfc51aa3281eda3a5de1acb39a785d8a8316;|none
 hacs/collector: main:551fdb8f5d1c193af1402dd225f47d129205364d;|none
+hacs/container: main:a5c0d78eea823480b011170d89086f866ba0ba3a;|none
