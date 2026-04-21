@@ -77,3 +77,4 @@ cockpit-project/subscription-manager-cockpit: tasks-container-update-cockpit-ci-
 cockpit-project/subscription-manager-cockpit-weblate: main:a82556d5184a337b4f29066e618e4c7ab367c87a;|none
 cockpit-project/term.js: mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;master:df24a161e45f461488ba773237a96faa4c82f1eb;|none
 hacs/.github: master:d760fab8cc6bef9cafea4032ce99f9154222e435;|none
+hacs/action: main:dcb30e72781db3f207d5236b861172774ab0b485;|2022-05-28T12:52:27Z
