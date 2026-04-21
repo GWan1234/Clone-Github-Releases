@@ -1174,3 +1174,4 @@ adafruit/Adafruit-UPDI-Friend-PCB: main:6063046738409ca77509f5ccce2f2b0ce72be210
 adafruit/Adafruit-uRTC: master:9773b4f6f369eea39a8471126ad6201b8d511940;|none
 adafruit/Adafruit-USB-C-Downstream-Breakout: master:1484ecb56b369e177848e69de4b7b7e513399590;|none
 adafruit/Adafruit-USB-DC-LiPoly-Charger: master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489;|none
+adafruit/Adafruit-USB-Host-BFF-PCB: main:dc61b50d5ba04d7ba3a73dfa57c0a54d25154393;|none
