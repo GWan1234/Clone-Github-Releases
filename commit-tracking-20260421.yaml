@@ -140,3 +140,4 @@ esphome/micro-wake-word-models: main:05b65922cc433c9df13e98e32a7fe520758c837e;|n
 esphome/pngle: master:8bf3862f84a4643e75a7d92e046d7c07f934cead;|none
 esphome/pre-commit-action: pin-action-shas:5c715dd7aaa44a0b3786b201064e3efe35a7bd32;main:999250d73defebfe1394a96470523b9d4ecf05c2;|none
 esphome/probot-esphome: pin-action-shas:d8973683677e2c333533311035c46b49a0b90823;main:f6361ea60f1e9bc3c523cda5d7228cacd54f3ecd;dependabot/npm_and_yarn/typescript-4.9.5:b9cad2e509dfaaffe21ea0a97ef9a0dbba549b7c;dependabot/npm_and_yarn/types/node-18.14.6:a386cfc560e5a924135e69fc08b82b1ea6d0b6f0;dependabot/npm_and_yarn/serverless-3.28.1:871af19d9571eeedfdcf0c262e6c2fba2a171d33;|none
+esphome/roadmap: pin-action-shas:64d7619edec55576b31e685c8a132bc1f7b3a5c4;main:0fdb09488277c566dc56e0ea315822fcabf249bd;|none
