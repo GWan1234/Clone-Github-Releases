@@ -5246,3 +5246,4 @@ adafruit/Adafruit_CircuitPython_BLE_Apple_Media: main:cbc815d1d27b31e66c42c26e48
 adafruit/Adafruit_CircuitPython_ProgressBar: readthedocs-yml:bff50e4df7ab4c9c14b7673e15d73c81768ddd12;patch-fix:d6a4bf210ce65744ffacf304c5b92c174fb5fc3b;main:fab168ab38f61f654735140c67c7defdad512de8;|2026-03-27T19:14:07Z|SIZE:81385
 adafruit/MIMXRT10xx_SDK: master:97b29486e66ba736c96892831eace128461a3c74;|none|SIZE:2894257
 adafruit/Adafruit_DPS310: master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;|2026-02-26T04:34:48Z|SIZE:115885
+adafruit/awesome-stemma: master:4faee5dea99c06c97c47408a4c860b3d020a6880;|none|SIZE:537448
