@@ -877,3 +877,4 @@ adafruit/Adafruit-HX8340B: master:aa200559b9b881a295128934470f528b269c6dd5;|2015
 adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB: main:4b82c1319140e0073adc97d5ef1c0a3ff99b5923;|none
 adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB: main:635fe51901050a78f4ecf4533022d0e440b82875;|none
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: master:eeeefb1d5689572439e4811c6ff969dd7036709f;|none
+adafruit/Adafruit-I2C-to-8-Channel-Solenoid-Driver-PCB: main:9266434c5517c4b418d8a69ba3281bf652bf98ff;|none
