@@ -5249,3 +5249,4 @@ adafruit/Adafruit_DPS310: master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;gh-pag
 adafruit/awesome-stemma: master:4faee5dea99c06c97c47408a4c860b3d020a6880;|none|SIZE:537448
 adafruit/Adafruit_CircuitPython_LIS3MDL: update-docs-link:482aa0cb10605d7ed96934f8e41bde51fd6d55d3;patch-fix:d49f645ab8d723c465f0f5ab28ecbdc97d66096b;main:61e675110d9d1af32d56ac879c17cfa0c521b5c1;|2026-03-27T19:00:03Z|SIZE:64634
 adafruit/Adafruit_Protomatter: pb-gamma:32407dd6314b22f82483af10b7c1a9bc24f0a044;pb-attack:2907b65133ab04b13e87c2179ce7a4c8482d09d5;metroesp32s2:a22be49e73ebf43ec25d86f83b807d75fd597e17;master:3fc002d7f7cf8a8bbce6d3ebb1c9ce62c727eff9;idf6:425b6c7f887cca5d24d768d8c80c74ba7eb88dc6;|2025-09-05T22:04:28Z|SIZE:263859
+adafruit/bluetooth-low-energy: tannewt-patch-1:1c62deb10506f503b5f15739f03dd2e95780e698;master:4bec8bf7e0a6b3e0cb8f6a82a03154cf443117f4;|none|SIZE:8102
