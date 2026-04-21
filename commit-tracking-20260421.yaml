@@ -820,3 +820,4 @@ adafruit/Adafruit-Feather-RP2040-ThinkInk: main:d58fe34ce514708b82d5a25def954bce
 adafruit/Adafruit-Feather-RP2040-USB-Host-PCB: main:872f24e8be5948ba2ae3d12925d18a2a8b4b8adc;|none
 adafruit/Adafruit-Feather-RP2350-PCB: main:d7bc5cb6c16f071e01ae1cf790ee2142d376ee41;|none
 adafruit/Adafruit-Feather-STM32F405-Express-PCB: master:f10cfb45e79fb9163b55f375cafa664dbac05268;|none
+adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad: master:738c479a5a08af69c7864ff1053404e821fcd700;|none
