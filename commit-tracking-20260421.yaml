@@ -4644,3 +4644,4 @@ adafruit/Adafruit_RA8875: master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pag
 adafruit/Adafruit_SoftServo: master:9e9d72ad7487a7eda11c5f19dfcc7a81dc416d07;gh-pages:067333a6bceda3849897d7cfb1abce784bf42119;|2023-11-14T20:17:51Z|SIZE:87978
 adafruit/Flora-NeoGeo-Watch: master:2e81db16a70abc0fb91af357fdd86ae946a53ae8;|none|SIZE:6256
 adafruit/Adafruit_ProTrinket_Bootloader: master:b2cd5fad38f444b00be7a7d38a41d126eef437cf;|none|SIZE:84517
+adafruit/TinyDHT: master:a900d69aa4c0b9df7053c026e8b843373e80d5b0;gh-pages:507c925f2dcf0224ae19e9d96b9c7b0b0aee4609;|2023-11-15T15:18:16Z|SIZE:88320
