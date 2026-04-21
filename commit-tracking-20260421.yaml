@@ -5227,3 +5227,4 @@ adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305: pylint_update:7d4d5c56f80b39b
 adafruit/Adafruit_CircuitPython_Gizmo: main:32cbf5f0118160101abe97d8510b970af4304c5f;|2026-03-27T19:09:55Z|SIZE:33561
 adafruit/Adafruit_LSM6DS: wake:1629037a618bc9599ad5e53ef79c43d83839a3ed;step:009a245e5b1d3315f90609d4b5533a263ce38c70;no_reboot:35a970a36d84fcb91913752e2b53ec647186846a;master:379a5204c0bad71264c3d635de84d0f9679ab784;lsm6ds:92daa1e3bc60d97089dcb893fddefec9239fc9f2;|2024-12-03T22:26:38Z|SIZE:2399255
 adafruit/Adafruit_NT35510: master:3a9c7bc03b66c282a65fbedb695da72bea5579be;|none|SIZE:32882
+adafruit/Adafruit-PA1010D-Mini-GPS-PCB: master:6f1d0f216b848bea8d473a4b1384fd0340536ea0;|none|SIZE:511217
