@@ -91,3 +91,4 @@ hacs/integration: uvwhenposible:f8d6b76d23a72d48e70db040a671a9b4d0b6d3bf;use-new
 hacs/metrics: main:13c960b46d086b2aa85a8f07a7a5f69047973e35;|none
 hacs/ND-NotifyUpdates: master:1af01e57d0336e64426e75297a5841bbac6c778e;|2020-03-08T22:00:32Z
 hacs/org: master:ca997bdcd473d0f621a1d8936f6d055b9b6bde94;|none
+esphome/.github: main:f3d4a4fa4c93daa46864caf0aaaa217cf1610b2d;|none
