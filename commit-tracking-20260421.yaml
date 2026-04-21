@@ -48,7 +48,7 @@ anzhiyu-c/vue3-cms-temp: main:a8619f5055c4b561ed21d297fac090be99a83fa6;|none
 anzhiyu-c/xiaoyu-newtab: main:4dde595040e3a9cfe3aa6e21e3a88dcd134be7c6;|none
 cockpit-project/.github: main:1f0f37943e41c60e144a466f4e936aadcc397eda;|none
 cockpit-project/action-release: main:7d2e2657382e8d34f88a24b5987f2b81ea165785;|none
-cockpit-project/bots: ubuntu-2604:9a3468ad84212c4c6e0b4998afd4412a25bed0b8;trigger-wildcard:f32c35254d78083516ebf56f5835124f10474ea9;naughty-prune-8630-20260405-042012:9c0fe1e59a477167d787f7d17ef286bec5a4f310;naughty-prune-8630-20260329-042045:14fb8c63c35fd6517e26ed97fef01caedbbaf6e8;naughty-prune-7707-20260419-043549:98524c5d0aac80e74d891b217a9d13d60682076c;|none
+cockpit-project/bots: ubuntu-2604:46f7a57769981a278352f6b40391fc1b93e60bdf;trigger-wildcard:f32c35254d78083516ebf56f5835124f10474ea9;naughty-prune-8630-20260405-042012:9c0fe1e59a477167d787f7d17ef286bec5a4f310;naughty-prune-8630-20260329-042045:14fb8c63c35fd6517e26ed97fef01caedbbaf6e8;naughty-prune-7707-20260419-043549:98524c5d0aac80e74d891b217a9d13d60682076c;|none
 cockpit-project/cockpit: unit-tests-without-cockpit-js:dc961bd47aca1a83695ff7f6c1b8248d2f6fcfdf;tasks-container-update-cockpit-ci-container-20260420-031345:8a31a40274743e8a0414af3c98e802d08671a2f9;tasks-container-update-cockpit-ci-container-20260413-031355:820de873596f05092b6b17359f7e57517547420e;subman-1.28-testlib:0b901a3a83a30c48c8b05c0ca41d8e8789582402;rhel-10.2:9e445cc34bad5c125c1be4315a43ba48ef71c5d4;|2026-04-14T07:08:07Z
 cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none
 cockpit-project/cockpit-cloud: main:c2896dc1654fd92f9d3f0dd790fa340e30d8accf;builder-container:f6ead712496f6d619e132f0b647e56eb83bbff1f;|none
