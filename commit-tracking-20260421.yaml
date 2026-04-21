@@ -71,7 +71,7 @@ cockpit-project/node-cache: main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;|none
 cockpit-project/org.cockpit_project.CockpitClient: main:b01400faf8832ef7117ec1497fb5e63154b3468f;356.1:2008db0b5886d6b69d3f41af03b7da192353c030;353:e20f313b5ae836969661edd21760fe113146cc00;348:9943e5894479706ad782b72c1a8b280dc22044ec;346:8f4d7b17f0ee864af7362e877f7c4454a6d2d57c;|none
 cockpit-project/pixel-test-reference: master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;|none
 cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
-cockpit-project/registry-image-widgets: master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;|2018-04-10T19:06:24Z
+cockpit-project/registry-image-widgets: master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;|none|SIZE:44942
 cockpit-project/starter-kit: main:15c135ce09fb423d0132184333af42adbab80f23;dependabot/npm_and_yarn/types-f57dc2645f:58c2afb6b84022a8d8db5b1464671c66daef6116;|none
 cockpit-project/subscription-manager-cockpit: tasks-container-update-cockpit-ci-container-20260420-051909:e91c24f231de5ed58773fc7cc5440041ee26587f;subscription-manager-1.29.26:5f0b03d879c9619eec01d85a8741f762af26f2ce;subscription-manager-1.28.29:bbe798d97e285c3da02b6ea5ac728e9f194b27ab;subscription-manager-1.28.21:78dde18f51bf4d9610ad00bf8018506c699c861b;subscription-manager-1.28.13:6966128084dbe75d3ad743c56bd5c9cc488cfdfb;|2026-04-13T12:05:10Z
 cockpit-project/subscription-manager-cockpit-weblate: main:75a82c86be26d28d28df4150700e25e406515e97;|none
