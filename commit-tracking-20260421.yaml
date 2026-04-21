@@ -706,3 +706,4 @@ adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB: master:8891795d7776b7203f25237db4
 adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB: master:c4c1e41ac42f744587e5f3dfef258113a2126342;|none
 adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB: master:bb6108b9a9eb952f4e8514530771253a16800d14;|none
 adafruit/Adafruit-BME280-Breakout-PCB: master:93e2b97928ba906ba19b265e9f2d0024d29472f0;|none
+adafruit/Adafruit-BME680-PCB: master:2d1e857d88c157422347d2568fdfcd76155c1997;|none
