@@ -539,3 +539,4 @@ AlistGo/with_aria2: main:c7795b18b380782e52b99808d1611ada10e51aad;|none
 localsend/homebrew-localsend: main:22735388c7869dee9f5d7ed0a88190420367236a;|none
 localsend/localsend: weblate:ac525d8924122b9b977c01b81ac4714992d67a69;v1.12.0-fdroid:deb36ea5461d1217b60ebacf75c47bf7e8e7e9d4;use-native-media-picker:18c073cc99a54e7c190a1cae0d6a8cf2dd413648;sponsor-warp:fd27037cac058e5724320c92b28a01935db9713a;main:5ccc6dea192d1c697c2602bf456b2eb2ad8e9674;|2025-02-20T01:23:55Z
 localsend/mtls-example: main:ea33543da83b0c2722e56e97e428674a77c77820;|none
+localsend/permission_handler_windows_noop: main:2dadd8afbf81e0e3e4791d7144e689555e58f649;|none
