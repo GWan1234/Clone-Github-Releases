@@ -5743,3 +5743,4 @@ adafruit/PyLeap-iOS: master:02a0f52c0c08ab892098ee356abffe74a87904ff;iOS-17-Upda
 adafruit/pyserial: windows-interface:163a16f50def4cc408ca1cc55b63dd79c6550e58;master:0e7634747568547b8a7f9fd0c48ed74f16af4b23;issue-154:8ce3c0c770ef95f9b994eabb8e46faafd8703c28;gh-pages:5f7c648ef46b85d2730b4265b979f1f0caf96777;518-osx-workaround:b2b36cfc956e86d54e681bf25059a5bcb28d7ce5;|none|SIZE:497932
 adafruit/Adafruit_CircuitPython_INA3221: main:cb6d83f1150999e9f67a0e14be7b2317caaabed3;|2026-03-27T18:59:37Z|SIZE:21661
 adafruit/Adafruit_CircuitPython_TM1814: main:905f6fe68dca7915a1cc7b33de52eaba172e4815;|2026-03-27T19:05:28Z|SIZE:20311
+adafruit/Adafruit_VCNL4200: main:097d4db49c761fc03d03df10ce88c4d15c22dec9;gh-pages:7376e9d187f4879ab0f99aa5bd8a29a96b4eab0c;|2024-10-29T22:07:12Z|SIZE:360097
