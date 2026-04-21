@@ -1188,3 +1188,4 @@ adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: main:53c602e97d8
 adafruit/Adafruit-USB-Type-C-Vertical-Breakout-PCB: main:412fb33dba25c7b84994b1aa90161a8e67a379b2;|none
 adafruit/Adafruit-VC0706-Serial-Camera-Library: master:e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85;gh-pages:e45d0578eb65444bbe638eca2fc1743292b8d907;actions:17841710c4440bc6cd59106aceca90304fc4d5e9;|2023-11-15T15:16:35Z
 adafruit/Adafruit-VCNL4020-Proximity-and-Light-Sensor-PCB: main:525a2aff1484aa23a424b656a5bf022d4b70a36e;|none
+adafruit/Adafruit-VCNL4030-Proximity-and-Lux-Sensor-PCB: main:2cb43e92b39950b2a3431f76c197c378cac2ba3e;|none
