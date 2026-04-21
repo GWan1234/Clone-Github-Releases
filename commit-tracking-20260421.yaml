@@ -727,3 +727,4 @@ adafruit/Adafruit-BrainCraft-HAT-PCB: main:1bc88c224a28d02f727879ffe7213ad599972
 adafruit/Adafruit-CAN-Bus-BFF-PCB: main:7456bb16b65da5de6bae232dbe146e98cf4b0a5b;|none
 adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: main:263cd9f75ba8c8b48291bd6e62f8672c98619663;|none
 adafruit/Adafruit-CAN-Pal-PCB: main:56618b3a53162ce48872514be044eab033ed33ef;|none
+adafruit/Adafruit-CAP1188-PCB: master:cf65678210cb9bc8a792efa091d49082e4ad6a2b;|none
