@@ -823,3 +823,4 @@ adafruit/Adafruit-Feather-STM32F405-Express-PCB: master:f10cfb45e79fb9163b55f375
 adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad: master:738c479a5a08af69c7864ff1053404e821fcd700;|none
 adafruit/Adafruit-Feed-Mangler: master:4c7b329a94e399f8d886f99a96f2d4d867a9ab9f;|none
 adafruit/Adafruit-Fingerprint-Sensor-Library: refactor_grow:7a478bd86408ee8c1fc83a0ebf6c94c8d24aad9a;master:b5de3ff6b430922d702db76e0c9ce29200c06d34;gh-pages:eba311f02e1dffd1b4375db6bf36403b2d426026;fix-ci:e9ef326a1e4dadf3f29a36bc86a3752693ab9c79;actionci:ae839a30bff3c7d22a88d54b9497085c1bcbbbca;|2026-03-03T14:48:06Z
+adafruit/Adafruit-Flora-Bluefruit-LE-PCB: master:31ad4c6afe5267c02daf48849e1f1bfb597df588;|none
