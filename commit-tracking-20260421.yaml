@@ -1080,3 +1080,4 @@ adafruit/Adafruit-SHT40-PCB: main:40fe2b3aca1aaa3b2185d3d138e77d5b043a56e1;|none
 adafruit/Adafruit-SHT4x-Trinkey-PCB: main:56dc3b26c14a202ee8db53184b9ac5c2ba787e03;|none
 adafruit/Adafruit-SHTC3-PCB: master:762d5a5d96ba72ec14e1fc05e32a3f5ce00cde7c;|none
 adafruit/Adafruit-Si1145-Light-Sensor-PCB: master:af029f1447d85573ee78fc2c6ac3f4fef360cd97;|none
+adafruit/Adafruit-Si4713-Library: master:fa38460fb0303d7951ff6a20828d707d13225d30;gh-pages:f0ad4926a5bd1bf761594fd828e17d3df08f9872;fix-warning:3db8e11741686a783c62ccc337f982db1a7f3ab5;actionci:e1a17ab996bc4fa91b3ce707617b023e88203bd3;|2026-03-03T14:48:14Z
