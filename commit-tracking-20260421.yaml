@@ -1102,3 +1102,4 @@ adafruit/Adafruit-ST7735-Library: st7796s:4fdbc00ffa9cbbd0082e260f3563be5fe9ce4d
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: master:efe89824b3574463ebca864a2494f7c86fb5c82b;|none
 adafruit/Adafruit-STCC4-and-SHT41-CO2-Temperature-and-Humidity-Sensor-PCB: main:3bf8a8ea4042964af182c617ce1ab904cc4a7bd1;|none
 adafruit/Adafruit-STEMMA-Analog-SPDT-Switch-PCB: main:0d377c1934aaadf3bcc8a9a89adf87b82d96726a;|none
+adafruit/Adafruit-STEMMA-Audio-Amp-PCB: main:12d0f77a674db2b356c9e6b385f3917d4eb3420a;|none
