@@ -5136,3 +5136,4 @@ adafruit/ArduboyPlaytune: master:52ca6170af45432c07269861c91349e70b4cd73d;|none|
 adafruit/Adafruit_CircuitPython_LPS35HW: patch:9bd029f219e86fb56badbe02edd51072ca1f28c1;main:65ba745c332812acb6330dabb8392a32c47a3e85;lps25:cf5642956f05ff582c17fc03eb2116c920dbe1d0;filter_add:66db34741baf6c4bbae9efab1c169ae41a2dbdfe;|2026-03-27T19:00:12Z|SIZE:80324
 adafruit/Adafruit_CircuitPython_Hue: main:db954ef02fe7b6cb2bbabaae045f3ad1f5556004;|2026-03-27T19:10:11Z|SIZE:20059
 adafruit/Gamebuino-META: master:a1b08beb135313f34c32eda89748d519aa68d4c4;drakker:0f944ee7f20e0bcee567659a6ca0717f9b5d3fd1;|none|SIZE:11385118
+adafruit/Adafruit_LPS35HW: master:6a628ba68ece77dfbbfba557c72e6690a5212d41;gh-pages:daef3747a40a417603822e42f6b010784c902997;|2023-11-15T15:24:49Z|SIZE:849484
