@@ -5462,3 +5462,4 @@ adafruit/tlsf: sixtyfour:6ecac2d0bcc36a3b5273b7b471e2913c6816a264;idf:ddfa052fbf
 adafruit/Adafruit-Proto-Under-Plate-PiCowBell-PCB: main:0d81b50b824235020d45e98251f9488744e53de7;|none|SIZE:280001
 adafruit/Adafruit-Proto-Doubler-PiCowbell-PCB: main:81f28591642658e7d283915c6803a6aa63a82c02;|none|SIZE:825701
 adafruit/esp32-arduino-lib-builder: master:aaf47abea86752cda706293664171d9f38b8e3ad;bluefruit-ez/idfv4.4.6:c4023c61813ee81b1ecb4f1e0af87074e46a83a5;|none|SIZE:75976
+adafruit/Adafruit_CircuitPython_Fake_BME280: main:dc0555a33a6550ac26b6a03457c7ecf5acea00a9;fix-bme-fake:52fe1e735649b6c58e8c95e02d874f624f5e37b4;|2024-10-10T15:51:27Z|SIZE:42863
