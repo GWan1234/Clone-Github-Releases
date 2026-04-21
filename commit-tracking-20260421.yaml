@@ -54,3 +54,4 @@ cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f
 cockpit-project/cockpit-cloud: main:c2896dc1654fd92f9d3f0dd790fa340e30d8accf;builder-container:f6ead712496f6d619e132f0b647e56eb83bbff1f;|none
 cockpit-project/cockpit-design: main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;|none
 cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
+cockpit-project/cockpit-files: main:43c610fd56a571abb8dd9181ce45668c50ce4dc5;dependabot/npm_and_yarn/types-574b0d5a74:37cc33674a197306408e2d9d5eff5f30b8968098;dependabot/npm_and_yarn/stylelint-580661a7bc:d8a425627b63edc7613aa105812ed20babc0a97a;|2026-03-25T13:36:09Z
