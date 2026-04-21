@@ -4867,3 +4867,4 @@ adafruit/Adafruit-PiTFT-Plus-3.2-PCB: master:dcd017ebe4af66390dcd68f151599055065
 adafruit/Adafruit-PiTFT-Plus-2.8-PCB: master:6de22137d8b5a057a5723dfffa9831c17d4e9a30;|none|SIZE:776101
 adafruit/Adafruit-Pi-Cobber-PCBs: master:8a30864c6cfe7dfd3faf86a2778dadc0db75f96f;|none|SIZE:1352969
 adafruit/CatLaser2: master:0c17e68a444e7ccd2befccd8102861135d9da243;|none|SIZE:193898
+adafruit/ArduinoTap: master:ea20afb99dad4c814f0f7a8242f4de94dc7d136d;|none|SIZE:6765
