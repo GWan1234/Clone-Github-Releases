@@ -862,3 +862,4 @@ adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: main:2815cb84b56f4e79c573
 adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: master:6d03cc0e0a1d64360514f60730dba3c79e2846a0;|none
 adafruit/Adafruit-Hallowing-M0-PCB: master:c0585b0672ce13e163b8da6ce9215ec600c63d64;|none
 adafruit/Adafruit-Hallowing-M4-PCB: master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27;|none
+adafruit/Adafruit-HDC1008-Breakout-PCB: master:997a197ad04c62881c347f31e6c0324c6d831bb9;|none
