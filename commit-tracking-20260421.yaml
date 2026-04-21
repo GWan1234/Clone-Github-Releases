@@ -952,3 +952,4 @@ adafruit/Adafruit-MatrixPortal-M4-PCB: main:200f94f83a08dd23e0b6cb51ff53554e0a12
 adafruit/Adafruit-MatrixPortal-S3-PCB: main:1ff841b511d7dc153ae8d4c0b148d33cb3b2ba85;|none
 adafruit/Adafruit-MAX17048-PCB: main:cc7d6e2477db89dabc9c64f91ac5f30f354466be;|none
 adafruit/Adafruit-MAX31850-thermocouple-breakout-board: master:759ee92d8dd940d14ad418e81016b3e25eb1a581;|none
+adafruit/Adafruit-MAX31855-breakout-board: master:5b12736f17d53d22d9dc4287e4f2129bc876d180;|none
