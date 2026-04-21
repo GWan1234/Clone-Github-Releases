@@ -955,3 +955,4 @@ adafruit/Adafruit-MAX31850-thermocouple-breakout-board: master:759ee92d8dd940d14
 adafruit/Adafruit-MAX31855-breakout-board: master:5b12736f17d53d22d9dc4287e4f2129bc876d180;|none
 adafruit/Adafruit-MAX31855-library: master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae;|2023-11-15T15:30:22Z
 adafruit/Adafruit-MAX31856-PCB: master:fee86485c7b8150e20707d628b4c9d6f52d87255;|none
+adafruit/Adafruit-MAX31865-PCB: master:456676008584923c0892454c5a9b0b33346f05f2;|none
