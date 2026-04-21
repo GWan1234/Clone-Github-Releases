@@ -1007,3 +1007,4 @@ adafruit/Adafruit-MOSFET-Driver-STEMMA-PCB: main:ea11049753a79330cc2651df233909c
 adafruit/Adafruit-Motor-HAT-Python-Library: master:07cec2046678f72af87c759f191158b9a5f32824;|none
 adafruit/Adafruit-Motor-Shield-library: master:d81504057474e940de7f0a0934f19c626846a154;|2018-12-06T21:15:12Z
 adafruit/Adafruit-Motor-Shield-V2-PCB: master:ff0173e93d24c1c93d48a2427d4642259dd8ec45;|none
+adafruit/Adafruit-MouseLogger: master:440937ffc5e4fd574eb769870de30d26437fe031;|none
