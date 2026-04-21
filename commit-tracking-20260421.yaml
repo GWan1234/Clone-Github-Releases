@@ -358,3 +358,4 @@ ioBroker/legacy-testing: main:c06b808cf557c0e33eba502c41417389e651aa66;dependabo
 ioBroker/MMM-ioBroker: master:9d76892bfe2da6819c53a05ace7da5ec3ee6ccd1;gh-pages:c980d522f3ca2937ba180443dac253d96d08c00f;|none
 ioBroker/modbus: main:a5e11550028f4e73b445b8945bca1bbe7bcb267a;|2026-04-13T18:06:57Z
 ioBroker/modbus-templates: main:6b2b3355a82a77d7a0f4712f1a16620b2da80e38;|none
+ioBroker/nodebb-theme-iobroker: master:725ed42b5c3ed8f30ee5828f5ff7e3c299ad3aae;copilot/update-theme-nodebb-4-6-1:2398ff1f68ff16da22d1446aaa686e951f84cc1e;|none
