@@ -5071,3 +5071,4 @@ adafruit/Adafruit_CircuitPython_Colorsys: setup-py-disabled:d8f4d85984e5459b9be5
 adafruit/DotStar-2020-8x8-Matrix-PCB: master:40f15689e170cea4bffe8427b758e0617109e5db;|none|SIZE:452496
 adafruit/Adafruit_CircuitPython_TMP007: main:1324b9c69c7fd139851d5762cadea417ddf3bf4b;|2026-03-27T19:05:35Z|SIZE:18908
 adafruit/Adafruit-pIRKey-PCB: master:6f962ffc77d781d85bb019384fd80bceb0dc80a4;|none|SIZE:1246353
+adafruit/pxt-crickit: servopulse:8dbf72089de398fb4da70809c32a9a35fe17c8d4;microbit:6d78a8f266ac325ae42bad16f21e285492d740f1;master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;dm-edits:c895b7a11609f4edd4d43787fad04e20d50c2f25;|none|SIZE:549417
