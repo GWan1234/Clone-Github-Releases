@@ -336,3 +336,4 @@ ioBroker/ioBroker.vis-web-admin: master:5e6f3c99778ee1fc2d3d990dff47f1240e6c832b
 ioBroker/ioBroker.vis-widget-react-demo: main:8e1c58d66d75b5019622f36554222b6d99fd65c6;|none
 ioBroker/ioBroker.vis.cordova: master:00a32e219ca5d7047f8e75c58d01f9e85bc80788;|2016-05-10T16:16:01Z
 ioBroker/ioBroker.vpn: master:8ba2f2a4d652f80dbcbdf97e586e645e032cadaa;|none
+ioBroker/ioBroker.web: typescript:876c14c515ceb8ed42056a78a3344e71a8d67738;socketio-upgrade:f9d219740704a943d2d4325af6482f982956df8e;react-gui:61a90ce62706ba77f91f6e62b7437f1f013a421a;ownSocketIO:edb576be82223be367cec8f36dc415bf34c7f618;master:089dd05f67edfbac7712db12e381b3725897851d;|2026-04-13T10:36:53Z
