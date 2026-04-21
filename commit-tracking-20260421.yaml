@@ -484,3 +484,4 @@ obsproject/obs-browser: test:962cdf008ea7bce4008d01e508b28d1dd300c7aa;qt-message
 obsproject/obs-crowdin-sync: main:7a52ff9b66263ee48a929d2c7e888deb3fa1bdb3;|none
 obsproject/obs-deps: master:625d8aa3cc761c3202e4a96e62c74c2603caee77;|2025-08-23T17:08:17Z
 obsproject/obs-deps-buildstream: master:51e02e25a2c113ba259e928e2c58a9e919ff6fff;automated/update-fsdk:de346d9a575dfaa41b1d25f05ec310d5882b2b21;|2026-01-09T15:42:43Z
+obsproject/obs-oauth-cf: master:039c64c4e9a097a7e536a714b2e92477e98723be;|none
