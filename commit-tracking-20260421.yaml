@@ -793,3 +793,4 @@ adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB: main:413ce0dd8db9915a982
 adafruit/Adafruit-EYESPI-BFF-PCB: main:90ddd1a730d2963aacaa67d787213e31e9ef8a0f;|none
 adafruit/Adafruit-EYESPI-PCB: main:bc5fa13b55c25feb3bf47e483b4d0bc770fbf20b;|none
 adafruit/Adafruit-EYESPI-Pi-Beret-PCB: main:db6a85a699fe0bd1d8f0cb4918d9db1ea701f3d9;|none
+adafruit/Adafruit-Feather-328P-PCB: master:62859c243921da2d1221681373356f1559855cbc;|none
