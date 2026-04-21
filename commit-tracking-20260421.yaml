@@ -5474,3 +5474,4 @@ adafruit/Adafruit_TLV320_I2S: main:a361dbc4f1168fd37c98329a600e7daffe658434;gh-p
 adafruit/Adafruit_CircuitPython_DACx578: main:ed0c8a533c36e56922ed2df2ccfbe8493919acd7;|2026-03-27T18:57:23Z|SIZE:19945
 adafruit/Adafruit_CircuitPython_Display_Emoji_Text: updating_text:675beb42697dcffb4abdc1718199f72e2a30aafe;main:d6db2f5bcdaea4f86ecd877cabec1c819066b5ca;|2026-03-27T19:09:08Z|SIZE:38597
 adafruit/MCUME: main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;|2025-08-11T22:37:53Z|SIZE:22962117
+adafruit/Adafruit-PCM510x-I2S-DAC-PCB: main:2edfe9e71b59e6acc73d0ab2b2f796149146ce74;|none|SIZE:1384500
