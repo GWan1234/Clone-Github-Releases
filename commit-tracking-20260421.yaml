@@ -854,3 +854,4 @@ adafruit/Adafruit-GFX-Library: spidmadisconfusion:c2c9321319c82dc22722456f16d7e9
 adafruit/Adafruit-Git-Intro: master:48468f4f7f39642ed24cbe04debc915ac0f0c1c9;|none
 adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs: master:eca6fc73d1fde5d0a4278ba339d5789e1cf3f13c;|none
 adafruit/Adafruit-GPIO-Halt: master:9671c327d2c07f7955d1fef26c6bde132759020a;|none
+adafruit/Adafruit-GPS-Logger-Shield-PCB: master:20679c594e363723b81bb2cac5fc47c21cd4b214;|none
