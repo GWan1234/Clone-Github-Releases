@@ -4731,7 +4731,7 @@ adafruit/Pro_Trinket_USB_Mouse: master:6f08dc2f06d9b6d5c4f44fadb1e794c065354bff;
 adafruit/Adafruit-PowerBoost-500-Charger-PCB: master:68258d7d14932951b72911ef3be3c1138dce2d6c;|none|SIZE:474623
 adafruit/Adafruit_MQTT_Library: smarterreadpacket:522947731e50874787527765bcb9646072166f5a;progmem_fixes:e0c88d8d2c0e458048219f5bde8fd63e0f3cad15;packet-len-calc:a38e837d428d717158906b4c6b0dbda079d8eab5;master:684391ddb35000c88ad7ff1490b2034cd6de5834;|2026-04-21T17:50:28Z|SIZE:2661027
 adafruit/Adafruit-Pi-Kernel-o-Matic: pitft:877272efc6546d01e8ee346abace59313c0fdfa3;mkknlimg:c87e9b7f48fb8088be055fc2221226effce388ae;master:c9df7d7712b022d542d36fba8a44d1bc01136c75;|none|SIZE:1687242
-adafruit/Pro-Trinket-Rotary-Encoder: master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7defa6;|none|SIZE:428251
+adafruit/Pro-Trinket-Rotary-Encoder: master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7defa6;|none|SIZE:428252
 adafruit/Adafruit_Soundboard_library: master:ab279797cb35f4aea58cb19f906e38f28d4a2d78;gh-pages:58a1b2af111f7e4a8f115805015f06bc5f095e2e;|2023-11-15T15:20:53Z|SIZE:91679
 adafruit/Adafruit-Perma-Proto-HAT-PCB: master:fdee45a5dee903ecfbd9f010ca250b968f43a1f5;|none|SIZE:463939
 adafruit/Adafruit-PiTFT-Helper: wheezy:da1641a7ade7446272df2781ea8fba42abbadefe;master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;|none|SIZE:25788
