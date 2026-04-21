@@ -524,3 +524,4 @@ AlistGo/desktop-release: renovate/configure:a5c9b9e14bd873191832e27815989cd60a47
 AlistGo/docs: vitepress:254280879a507c4c8db6a5716c4e0a10cf2980c9;renovate/vuepress-utils-2.x:f9412065c02f41f598af13727ccabe4af3b108fc;renovate/vuepress-theme-hope-2.x:038f9ac77da4001292245aa3885cc2df2c01566b;renovate/vuepress-monorepo:878a58b8f3217ac2575c7e40a35f272c514d6829;renovate/vuepress-client-2.x:0fa10681047b78ce88bd323e4ea8c8bab8c2fd70;|none
 AlistGo/logo: main:547ff8157f12d9ba48f6fe20a99ab10ac72c66e8;|none
 AlistGo/luci-app-alist: main:4cb1cc4e290c4146a55be96eb0f85cdbcf2096ac;|2026-02-10T12:37:49Z
+AlistGo/old-docs: main:8f4992bd31acb779e4a6cb433a7750f953d3cd32;gh-pages:eb631057c30b8d27aa3aa65813bb4e2486688041;|none
