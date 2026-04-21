@@ -1054,3 +1054,4 @@ adafruit/Adafruit-RGB-LCD-Shield-Library: master:8271b31ec5a7afad01f6188ed1ba89c
 adafruit/Adafruit-RGB-LCD-shield-PCB: master:acb4ada959e35a67703b50efb88ad986440d37e5;|none
 adafruit/Adafruit-RGB-Matrix-Bonnet-PCB: master:a006ae8f92572893c6c3cdf3699f2f4156cceadb;|none
 adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB: master:2c0839c80106b13e97aa733f85a1e7a78c5cbac7;|none
+adafruit/Adafruit-RGB-Matrix-HAT-PCB: master:42d0963e0c03d152ab2fc267019c7d940d330365;|none
