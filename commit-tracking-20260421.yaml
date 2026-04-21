@@ -28,3 +28,4 @@ anzhiyu-c/kkadmin-open: vercel:ac856f8ebd1f74302d621c5a6ce1f98810e75c34;master:7
 anzhiyu-c/kkapi-open: vercel:30aefd2f77ca7545ff6cb793717bb7e8e0d2b9b1;master:6e88a97dd73711be3b79a40420fa4d9192fe5882;dev:a1583fc1f4688d09b69b03a1ae4ca016a13f7fe2;|none
 anzhiyu-c/mi-step: main:5f0419f190ff90b0c095298524bcbaf85fc38887;|none
 anzhiyu-c/NeteaseCloudMusicApi: test:f0979c81aab0602dbbbefc3df4ea2fa44d5bf261;renovate/typescript-eslint-monorepo:1df0fed8e7b9122a71084e2206376bd08c28f17d;renovate/typescript-4.x:e9d59eb16c170c63f29749cedbe6c4ff96faea13;renovate/prettier-2.x:f5a28e80894888c965783c991ede61c07ae12de1;renovate/pin-dependencies:f48e9706d47f0e2c07a245efba045040e3fc1fa8;|none
+anzhiyu-c/OverseasProhibition: main:f06267e7accaee6a4d21cd2dfa8e4070703e95b3;|none
