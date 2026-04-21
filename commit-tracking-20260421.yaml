@@ -78,3 +78,4 @@ cockpit-project/subscription-manager-cockpit-weblate: main:a82556d5184a337b4f290
 cockpit-project/term.js: mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;master:df24a161e45f461488ba773237a96faa4c82f1eb;|none
 hacs/.github: master:d760fab8cc6bef9cafea4032ce99f9154222e435;|none
 hacs/action: main:dcb30e72781db3f207d5236b861172774ab0b485;|2022-05-28T12:52:27Z
+hacs/addons: main:84ecb95a098132aa3cb4f7c8ed386e803bef1c16;dependabot/github_actions/home-assistant/builder-2026.03.2:d3b6df823f85aecf2473460036a2757d707ee5ec;dependabot/github_actions/docker/login-action-4.1.0:afb561f377f30b6e148ad00b456a1a0d31ec8721;|none
