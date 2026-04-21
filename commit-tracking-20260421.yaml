@@ -5268,3 +5268,4 @@ adafruit/Adafruit_CircuitPython_LPS2X: update-docs-link:631a03f69e911c422968fda7
 adafruit/Adafruit_LPS2X: temp_fix:e6b5aa648e88f695afda62e7736ae1fe20d52ef8;master:6c849f5417fa574f5757f6fb64b1b312cf5b2688;lps25hb:d9f8ab0b2fa28a51dee134b83c083c4d98787e9f;gh-pages:a7f9bdcabfa62ca426e48d3062d8c676eb77095e;LPS22:ed5ef95f3f2329f01d711f02a0f45ca44bcd42ca;|2023-10-03T20:49:06Z|SIZE:388556
 adafruit/Adafruit_WebSerial_3DModelViewer: master:3642232b39c331ae108b9cac5f261e30b3d17c74;|none|SIZE:590210
 adafruit/nvm.raw: main:ea225c02ef3e69782695a8d73c641fac79e7358b;|none|SIZE:24593871
+adafruit/Adafruit_Dynamic_Bundler: main:1d96664beff67a9729484e63a734d12d1efc4a0f;|none|SIZE:3599
