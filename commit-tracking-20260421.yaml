@@ -4608,3 +4608,4 @@ adafruit/Adafruit_LSM303: master:7f9230639ae2ccbe3b9b208cd715614d27bf569f;|2016-
 adafruit/ADS1X15-Breakout-Board-PCBs: master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55;|none|SIZE:1478873
 adafruit/piccolo: master:aeda8407684dbc44b845cf845289d02abb0ffb27;|none|SIZE:16719
 adafruit/USB-NeXT-Keyboard: master:332d2707793794d897ae3548a2eedd726c46e329;|none|SIZE:8105
+adafruit/Adafruit_OV7670: pb-wip2:f45f4c1fab2c9e3dba3922a7a060a62bdc84cb95;pb-rp2040:55ba6d25da1741a747c98c352b0574a91acd9ffb;old:578a20e1d2572fd339a364b20daf86b593c91b3c;master:f40dae2304282b88f5816a64883f9aad296ad24a;gh-pages:d13cddc453b045beb54873169a0416c713fb5859;|2026-03-03T14:48:43Z|SIZE:395453
