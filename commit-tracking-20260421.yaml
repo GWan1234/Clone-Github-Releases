@@ -479,3 +479,4 @@ obsproject/homebrew-tools: main:09ec2f00762cc74adf94fb3a2b55391e90893ac6;|2026-0
 obsproject/libdshowcapture: no-atl:d7959b5a8e80c4f0d780037a1f1cec2d6451c66a;master:8878638324393815512f802640b0d5ce940161f1;dynamic-res-and-encoding:0a541eabc0181daba5b371d58b2c9e1042512525;|none
 obsproject/loganalyzer: master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;|none
 obsproject/obs-amd-encoder: master:b30ea6b39999039d8c7038b586cf81c337e587d8;gh-pages:1544392a4400f2887345f5e0c135ffa961e4b41d;|2019-10-13T21:00:00Z
+obsproject/obs-bot: self-service:e11aa4050c5a8aacd965fea79cdcc263daa32d64;master:42e6cdaffc5242cb32a66c89872a0e058a267c0d;disnake:24b0e3c0dc7d92296482492a23fef248c05eaaad;|none
