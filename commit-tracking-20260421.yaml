@@ -4676,3 +4676,4 @@ adafruit/Adafruit_MiniMLX90614: master:613aee3bbf05754574ce7d2112da7de45b352c5d;
 adafruit/Adafruit_SI1145_Library: master:27757d5dd017f6dbe0dce11c49323312f87394c9;gh-pages:7711140ab17bdf407eaffb4b5c7bce42efa22e31;|2023-11-15T15:21:26Z|SIZE:369697
 adafruit/Adafruit_MCP9808_Library: master:1447e4e8ab099dec3bc76bbb19ab9136f9478b15;gh-pages:044be17019e1bd328f068a1a480d5832a46717d8;busiosensor:2c69f263873148d0e1cea4cd734c143af9f2b96b;|2023-11-15T15:23:29Z|SIZE:375982
 adafruit/rgbmatrix-fpga: master:4acd7514ac0ff51faa0dab3f6c9030227356a215;|none|SIZE:1965367
+adafruit/Adafruit-RA8875-Breakout-Board-PCB: master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e;|none|SIZE:428051
