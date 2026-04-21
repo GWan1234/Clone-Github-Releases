@@ -4620,3 +4620,4 @@ adafruit/Adafruit_TSL2561: master:bf2adc60e22a46356d48755931852d2d6d0d2238;gh-pa
 adafruit/Adafruit_LSM303DLHC: master:ccc4e70113460333a70926e08150d2d13a32c35b;gh-pages:3908872a08cc26aca7127ad2804af119efa89eb8;|2019-09-13T21:48:33Z|SIZE:7783
 adafruit/Flora-Brakelight-Backpack: master:8f6ed6e5dd51cb952dad99b5e27b60949b299634;|none|SIZE:2835
 adafruit/LED-Ampli-Tie-with-Flora: master:2449eaa274f1f3ea5f234367b8c5086b67c10b43;|none|SIZE:6660
+adafruit/Adafruit_TMP006: master:d0fc98a7d40474e02f2d97eb465d65230b7e26c2;gh-pages:f498bb96cc338557554f29347e38004686577547;actions:3a8ac74118b5acc0efe1ac45d8129eb2cdb23db2;|2020-05-26T17:13:08Z|SIZE:93170
