@@ -812,3 +812,4 @@ adafruit/Adafruit-Feather-M4-CAN-PCB: main:d82af0d26250cb47e0685715276474798bb79
 adafruit/Adafruit-Feather-M4-Express-PCB: master:d98407a6071813bc35c39c6e88ca09c0c9ef6f18;|none
 adafruit/Adafruit-Feather-nRF52840-Sense-PCB: master:afeb0acb67e98c807cfdfbf7b5fe5e6e49490796;|none
 adafruit/Adafruit-Feather-RP2040-Adalogger-PCB: main:dbe392caf8440e8d806dbed88806003d40c765d7;|none
+adafruit/Adafruit-Feather-RP2040-DVI-PCB: main:24f7c1cde8c7284bbd626f78e2b853be24d32ee6;|none
