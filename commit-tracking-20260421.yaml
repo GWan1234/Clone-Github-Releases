@@ -1084,3 +1084,4 @@ adafruit/Adafruit-Si4713-Library: master:fa38460fb0303d7951ff6a20828d707d13225d3
 adafruit/Adafruit-Si4713-PCB: master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f;|none
 adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB: master:14a50ca2041bbcccc6a2b1378cb72424603f5d20;|none
 adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB: main:f4ca8e1c846ced71a104c657bcb727502675b466;|none
+adafruit/Adafruit-Si7021-PCB: master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d;|none
