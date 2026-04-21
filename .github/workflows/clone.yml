@@ -91,19 +91,11 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
-          # =========================
-          # 【修复】真正最新发布（排除草稿，按时间排序）
-          # =========================
           fetch_latest_release() {
-            curl -fsSL --retry 2 --max-time 20 \
+            curl -fsSL --retry 2 --max-time 15 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              "https://api.github.com/repos/$1/releases?per_page=50" 2>/dev/null \
-              | jq -r '
-                map(select(.draft == false))
-                | sort_by(.published_at)
-                | reverse
-                | .[0] // {}
-              ' || echo '{}'
+              "https://api.github.com/repos/$1/releases/latest" \
+              2>/dev/null || echo '{}'
           }
 
           release_exists() {
@@ -122,30 +114,6 @@ jobs:
             fi
           }
 
-          # =========================
-          # 【修复】真正最新发布大小统计
-          # =========================
-          get_repo_release_size_bytes() {
-            local repo="$1"
-            curl -fsSL --retry 2 --max-time 20 \
-              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              "https://api.github.com/repos/$repo/releases?per_page=50" 2>/dev/null \
-              | jq -r '
-                map(select(.draft == false))
-                | sort_by(.published_at)
-                | reverse
-                | .[0].assets | map(.size) | add // 0
-              ' || echo 0
-          }
-
-          bytes_to_gb() {
-            local bytes="$1"
-            printf "%.2f" "$(echo "scale=10; $bytes / 1024 / 1024 / 1024" | bc)"
-          }
-
-          # =========================
-          # 追踪文件
-          # =========================
           set_tracking() {
             local repo="$1"
             local state="$2"
@@ -163,9 +131,6 @@ jobs:
             echo "✅ Tracking file synced"
           }
 
-          # =========================
-          # 获取最新分支状态
-          # =========================
           get_repo_current_state() {
             local repo="$1"
             local repo_json="$2"
@@ -192,9 +157,6 @@ jobs:
             echo "${branch_states}|${release_time}"
           }
 
-          # =========================
-          # 是否需要备份
-          # =========================
           need_backup() {
             local repo="$1"
             local current_state="$2"
@@ -221,9 +183,6 @@ jobs:
             return 1
           }
 
-          # =========================
-          # 发布说明
-          # =========================
           build_notes() {
             REPO="$1"
             REPO_JSON="$2"
@@ -261,7 +220,7 @@ jobs:
             printf -- "- Pushed: %s\n" "$PUSHED"
             printf -- "\n"
 
-            printf -- "## 🏷 Upstream Release (Latest by time)\n"
+            printf -- "## 🏷 Upstream Release\n"
             printf -- "- Tag: %s\n" "$UP_TAG"
             printf -- "- Name: %s\n" "$UP_NAME"
             printf -- "- Published: %s\n" "$UP_TIME"
@@ -277,22 +236,51 @@ jobs:
           }
 
           # =========================
-          # 获取用户所有仓库
+          # 获取一个用户/组织的全部 public repo (修复分支)
           # =========================
           get_all_repos() {
             local owner="$1"
-            local page=1
+            
+            # 1. 探测类型
+            local user_info
+            user_info=$(curl -sSL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/users/$owner")
+            
+            local type
+            type=$(echo "$user_info" | jq -r '.type // empty')
 
+            if [[ -z "$type" ]]; then
+              echo "❌ Error: Could not resolve owner type for $owner. Response:" >&2
+              echo "$user_info" | jq -C '.' >&2
+              return 0
+            fi
+
+            local api_endpoint
+            if [[ "$type" == "Organization" ]]; then
+              api_endpoint="orgs/$owner/repos"
+            else
+              api_endpoint="users/$owner/repos"
+            fi
+
+            # 2. 循环分页
+            local page=1
             while true; do
               local data
-              data=$(curl -fsSL --retry 2 --max-time 20 \
-                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                "https://api.github.com/users/$owner/repos?per_page=100&page=$page" \
-                2>/dev/null || echo '[]')
+              data=$(curl -sSL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                "https://api.github.com/${api_endpoint}?per_page=100&page=$page")
+
+              # 验证 JSON 有效性，防止被 403/401 吞掉
+              local is_array
+              is_array=$(echo "$data" | jq 'if type=="array" then true else false end')
+
+              if [[ "$is_array" != "true" ]]; then
+                echo "❌ API Error fetching repos for $owner (Page $page):" >&2
+                echo "$data" | jq -C '.' >&2
+                break
+              fi
 
               local count
-              count=$(echo "$data" | jq 'length' 2>/dev/null || echo 0)
-
+              count=$(echo "$data" | jq 'length')
               [[ "$count" == "0" ]] && break
 
               echo "$data" | jq -r '.[] | select(.private==false) | .full_name'
@@ -300,9 +288,6 @@ jobs:
             done
           }
 
-          # =========================
-          # 备份单个仓库
-          # =========================
           backup_repo() {
             local REPO="$1"
             echo -e "\n====================================="
@@ -429,14 +414,14 @@ jobs:
                 [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]] && safe_upload "up-$ASSET_NAME" "$TAG"
                 rm -f "up-$ASSET_NAME"
               done <<< "$ASSETS_DATA"
-            else
-              echo "ℹ️ No upstream assets"
             fi
 
             rm -f "$NOTES_FILE"
 
             if [[ $error_occurred -eq 0 ]]; then
-              set_tracking "$REPO" "$CURRENT_STATE"
+              # 在状态字符串末尾附加大小信息存入 tracking
+              local FINAL_STATE="${CURRENT_STATE}|SIZE:${TOTAL_SIZE}"
+              set_tracking "$REPO" "$FINAL_STATE"
               sync_tracking
             fi
 
@@ -444,79 +429,12 @@ jobs:
             [[ $error_occurred -eq 0 ]] && echo "✅ Backup success: $REPO" || echo "⚠️ Backup finished with warnings"
           }
 
-          # =========================
-          # 收集所有目标仓库
-          # =========================
-          collect_all_target_repos() {
-            local all_repos=()
-            local repo
-
-            mapfile -t OWNERS < <(
-              yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
-              | grep -v '^[[:space:]]*#' \
-              | sed '/^[[:space:]]*$/d' || true
-            )
-            for O in "${OWNERS[@]}"; do
-              [[ -z "$O" ]] && continue
-              while IFS= read -r repo; do
-                [[ -n "$repo" ]] && all_repos+=("$repo")
-              done < <(get_all_repos "$O")
-            done
-
-            INDEX=0
-            while true; do
-              KEY="repo${INDEX}"
-              EXISTS=$(yq -r ".repositories.${KEY} // empty" repositories.yaml 2>/dev/null || true)
-              [[ -z "$EXISTS" ]] && break
-
-              mapfile -t manual_repos < <(
-                yq -r ".repositories.${KEY} // [] | .[]" repositories.yaml 2>/dev/null \
-                | grep -v '^[[:space:]]*#' \
-                | sed '/^[[:space:]]*$/d' || true
-              )
-              for repo in "${manual_repos[@]}"; do
-                [[ -n "$repo" ]] && all_repos+=("$repo")
-              done
-              INDEX=$((INDEX + 1))
-            done
-
-            printf "%s\n" "${all_repos[@]}" | sort -u
-          }
-
-          # =========================
-          # 主执行
-          # =========================
           process_all() {
             if [[ ! -f "$TRACKING_FILE" ]]; then
               echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
             fi
 
-            echo -e "\n📦 [PRE-BACKUP] Calculating REAL latest release sizes..."
-            ALL_TARGET_REPOS=($(collect_all_target_repos))
-            TOTAL_RELEASE_BYTES=0
-            declare -A REPO_RELEASE_GB
-
-            for repo in "${ALL_TARGET_REPOS[@]}"; do
-              [[ -z "$repo" ]] && continue
-              echo "→ $repo"
-              
-              BYTES=$(get_repo_release_size_bytes "$repo")
-              GB=$(bytes_to_gb "$BYTES")
-              REPO_RELEASE_GB["$repo"]="$GB"
-              TOTAL_RELEASE_BYTES=$((TOTAL_RELEASE_BYTES + BYTES))
-
-              yq -y -i --arg repo "$repo" --arg gb "$GB" \
-                '.release_size[$repo] = $gb + " GB"' "$TRACKING_FILE"
-            done
-
-            TOTAL_GB=$(bytes_to_gb "$TOTAL_RELEASE_BYTES")
-            yq -y -i --arg total "$TOTAL_GB" \
-              '.release_total = $total + " GB"' "$TRACKING_FILE"
-
-            echo -e "\n✅ Latest release stats written (REAL latest by time)"
-            sync_tracking
-
-            # 开始备份
+            # 1) allrepositories
             mapfile -t OWNERS < <(
               yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
               | grep -v '^[[:space:]]*#' \
@@ -530,13 +448,14 @@ jobs:
               echo "====================================="
 
               mapfile -t REPOS < <(get_all_repos "$O" | grep -v '^$' || true)
-              [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos"; continue; }
+              [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos found (or check error log above)"; continue; }
 
               for R in "${REPOS[@]}"; do
                 backup_repo "$R"
               done
             done
 
+            # 2) repositories
             echo -e "\n====================================="
             echo "==== Processing manual repositories ===="
             echo "====================================="
@@ -548,7 +467,6 @@ jobs:
               [[ -z "$EXISTS" ]] && break
 
               echo "➡️ Group: $KEY"
-
               mapfile -t REPOS < <(
                 yq -r ".repositories.${KEY} // [] | .[]" repositories.yaml 2>/dev/null \
                 | grep -v '^[[:space:]]*#' \
@@ -557,7 +475,6 @@ jobs:
 
               for R in "${REPOS[@]}"; do
                 [[ -z "$R" ]] && continue
-                echo "📦 Manual repo: $R"
                 backup_repo "$R"
               done
               INDEX=$((INDEX + 1))

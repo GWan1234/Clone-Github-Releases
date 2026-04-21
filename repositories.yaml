@@ -1,9 +1,6 @@
 allrepositories:
   - anzhiyu-c
-#  -  rustdesk
-#  - armbian
   - cockpit-project
-#  - home-assistant
   - hacs
   - esphome
   - domoticz
@@ -28,8 +25,11 @@ allrepositories:
   - emqx
   - qlwz
   - a2633063
-
-
+#  - unifreq
+#  - ophub
+#  - home-assistant
+#  - rustdesk
+#  - armbian
 
 repositories:
   name0:
