@@ -416,3 +416,4 @@ OpenListTeam/sftpd-openlist: master:0b84c6926ebf0e5813831f053890aeb964aa6c7d;|20
 OpenListTeam/solid-router: main:d960ff250025329e0a0394568dd336dc27070d8b;|none
 OpenListTeam/tache: main:ecf1c47cdbc0e6e997d1a431c38b44f6add6063e;|none
 OpenListTeam/times: master:cf4314f6c16c535f9433fe400b78dba76234c808;|2025-06-20T09:23:44Z
+OpenListTeam/wazero-wasip2: main:b699dbc20d5c007f6e1fd42ad8b533d30adfbf17;fix/resource:9d81773cdf415982a58524ccfa2cb88a40a28002;|none
