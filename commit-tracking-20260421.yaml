@@ -5718,3 +5718,4 @@ adafruit/esp-idf: usbip-bridge:8a9439e141ae9344ae24328b4ad4cac5559c12c0;release/
 adafruit/Tarot-Card: main:e5e9a8cd00d30daa62eaf9e09d2f6802bb942bb2;|none|SIZE:34367
 adafruit/Adafruit_CircuitPython_LTR390: patch-fix:2970926607f4f7624d3e8efa836056748af62a90;main:178780d0f5804f8bda7ae67fe2b321bc6dd6f69d;|2026-03-27T19:00:38Z|SIZE:47267
 adafruit/Adafruit_CircuitPython_SGP40: main:af34a6a5f4c8c9ed651f385c23a9de589b4c3a50;|2026-03-27T19:03:40Z|SIZE:24729
+adafruit/web-bdftopcf: main:79242837737d841c38d671e11a0e46600dc3db32;gh-pages:4010d0eb29f3e00c465288a4e9635e49338d30d8;fix-unused-var:ca25b061898bedc978fa6a4460ef0f6fe763b6ec;|none|SIZE:143009
