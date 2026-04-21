@@ -4514,3 +4514,4 @@ ioBroker/iobroker-webcomponent-file-dialog: main:03e98fa5db21af81d9b0aac071f1909
 MISTERNEGATIVE21/QuectelEC200U: main:dff543949ebfabf369ffbbf015b1c7c595527d41;|none
 maxming2333/esp32-sms-forwarding: master:592b7444390f34eec04d81fc91b04f7e9657088a;|2026-04-19T19:04:58Z
 chenxuuu/sms_forwarding: page:a67f5cecae9a1ac070bba9b01d508b186e87f56a;old-luatos:0b225468672c3fb1380e7faed8baf3aacfea33e7;master:9b82817001f4e695af6cc24e8f0f7574d8352d34;fix-issue-57:12cb1045bc10a82e062f2f227ccf291efcd0240b;|none
+dushixiang/uart_sms_forwarder: main:62c6bc0b6b1e13338f96765a0dc0194cf1148050;|2026-03-07T01:31:14Z
