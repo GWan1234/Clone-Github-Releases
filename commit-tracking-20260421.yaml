@@ -903,3 +903,4 @@ adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: master:b89ffa961067cb959deff9eae
 adafruit/Adafruit-IoT-Printer-Enclosure: master:2a832e2684e7725d4fb0004d7d63436f7b62acd9;|none
 adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: master:6293e5aa3d88caab44292709fef00a5e12c1bef6;|none
 adafruit/Adafruit-IS31FL3741-PCB: main:07d4cb6a19e65be56da4a96736c2335b714ff82b;|none
+adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB: master:bd7f6d63e4edaed3d9089f1c9197f40e5a437c67;|none
