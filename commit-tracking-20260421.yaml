@@ -1062,3 +1062,4 @@ adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: main:408fa9a40c0a01a3a65497ef42
 adafruit/Adafruit-RP2350-HSTX-to-DVI-Adapter-PCB: main:a607353591e19b0b8bc43ebdb2391b96b9278346;|none
 adafruit/adafruit-rpi-fbtft: master:35890c52f9e3eef3237b76acc295585dd93fc8cd;hx8357d-support:623ba1175328127ca1b3630c1deff0d8df55d15c;|none
 adafruit/adafruit-rpi-kernel: rpi-3.10.y:ceafb987d68f7ec0cec446cc28b65865cf36a5d6;|none
+adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: main:63c6200bb3ef17d491089cfa6441b1810d79bb20;|none
