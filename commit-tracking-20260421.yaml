@@ -968,3 +968,4 @@ adafruit/Adafruit-MCP23008-library: master:1a0d6e61f867dc23a712132d4179ad15addba
 adafruit/Adafruit-MCP23017-Arduino-Library: master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1;|2023-11-15T15:30:10Z
 adafruit/Adafruit-MCP23017-PCB: main:f73186f1b593f7a5a3e710d9ced889005b580c38;|none
 adafruit/Adafruit-MCP3421-18-Bit-ADC-PCB: main:3037fb9364ec7dbc29817c3254bda21e8217cbe5;|none
+adafruit/Adafruit-MCP4725-PCB: master:0c89d205fcd7d0a1269a4f57c5cdfa0ce09e54dd;|none
