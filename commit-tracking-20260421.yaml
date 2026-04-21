@@ -1115,3 +1115,4 @@ adafruit/Adafruit-STSPIN220-Stepper-Motor-Driver-Breakout-Board-PCB: main:900c41
 adafruit/Adafruit-Sunken-USB-Type-C-Breakout-PCB: main:4cb1207ddd6eae864f4410d110bac38072e9b895;|none
 adafruit/Adafruit-Swirly-Grid-PCB: main:49286339d01add733458087ed84454ef3ddb5100;|none
 adafruit/Adafruit-Switchable-USB-Type-A-to-C-Breakout-Board-PCB: main:1566b53c2cd5469be964c5f8bf6cf9d399ec7730;|none
+adafruit/Adafruit-Talking-Clock: master:0b87769fcd721489e0e00bf42d8d75846296e5fb;|none
