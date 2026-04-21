@@ -832,3 +832,4 @@ adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB: master:fd8656d030e
 adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB: master:20cbfc30b9793e498d642a30652a5c609da73b37;|none
 adafruit/Adafruit-Flora-Smart-NeoPixel: master:0e6a7230ea0931884c57d5954533523599c54df7;|none
 adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB: master:c78bc655084c2441063c0faf744ffa5eca69b233;|none
+adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB: master:df6070e9ce8c00acc6c2e1ce54eb46770552a9ba;|none
