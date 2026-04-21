@@ -5126,7 +5126,7 @@ adafruit/Adafruit_CircuitPython_ST7789: setup-py-disabled:00fda887df06dc044bca5f
 adafruit/Adafruit_CircuitPython_HX8357: setup-py-disabled:1d6480c1cdc1d7d4d8d9d5c697b96a83c9ef5d08;main:cd495bc856c220222830cf5fee27f530702292fc;|2026-03-27T18:59:09Z|SIZE:34249
 adafruit/Adafruit_CircuitPython_IterTools: main:505bd96d4538dfd86ddfbb8418937cb4dc29d24e;|2026-03-27T19:10:17Z|SIZE:28617
 adafruit/Adafruit_CircuitPython_PYOA: setup-py-disabled:69db58b5a9e193674e790e15a6d90fed706de725;patch-fix:db17bbe4a6cb119b783ca1de7e2492cefbf3af88;main:23c2bec8fe66d34b99167e51ae2c0cbaaa734e6e;|2026-03-27T19:14:21Z|SIZE:10536784
-adafruit/Adafruit_CircuitPython_DymoScale: patch-fix:e2e75677f244f3c57a95103d8a450ebfdbdb8e3c;main:5ba3ad88717da960c900a04d5104d227ab7eb894;|2026-03-27T18:58:01Z|SIZE:41693
+adafruit/Adafruit_CircuitPython_DymoScale: patch-fix:e2e75677f244f3c57a95103d8a450ebfdbdb8e3c;main:5ba3ad88717da960c900a04d5104d227ab7eb894;|2026-03-27T18:58:01Z|SIZE:41692
 adafruit/Adafruit_CircuitPython_SSD1331: setup-py-disabled:2e080b0c5d8304a1f187c062c1efb5e91d68a822;main:0608ca39b9189acbb4a8023b4f1bc565fb7a5a14;|2026-03-27T19:04:25Z|SIZE:33801
 adafruit/Adafruit_CircuitPython_ST7735R: setup-py-disabled:bb258e152fcf212a46be970741920070c4b6517f;main:6c4c583520b21555a802c69884be09b92341e297;|2026-03-27T19:04:47Z|SIZE:36314
 adafruit/Adafruit_CircuitPython_LIFX: revert-3-update-set-colors:6f5283448ea5490f8cd3e09b10d7103bde86e1b1;patch-fix:689a477fec73ad9b574307dfbde09e0b8159b361;main:78933c37b71a6bff12cec22a6e0da0819d894b6d;docs_req_fixes:6637d4d9afcaf1600282bdcb6c8191a04ed9a030;|2026-03-27T19:10:39Z|SIZE:82587
