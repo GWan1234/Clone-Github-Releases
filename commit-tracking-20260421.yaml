@@ -1065,3 +1065,4 @@ adafruit/adafruit-rpi-kernel: rpi-3.10.y:ceafb987d68f7ec0cec446cc28b65865cf36a5d
 adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: main:63c6200bb3ef17d491089cfa6441b1810d79bb20;|none
 adafruit/Adafruit-RS232-Pal-PCB: main:653d1bb7c6cf2d9efe381b85ff275bf0feefdb17;|none
 adafruit/Adafruit-S-35710-Breakout-PCB: main:acc0684ee70d88a395b09dcea589cb5b443159db;|none
+adafruit/Adafruit-SAMD09-Breakout-PCB: master:96a45c25123ad9d083f19f33c68cff4817065014;|none
