@@ -510,3 +510,4 @@ AlistGo/alist: renovate/gorm.io-gorm-1.x:2951913ad324ffdef263c2538bc82ac8acb3748
 AlistGo/alist-doc: renovate/configure:6c89fec5ffd2a4a7285ddf429ab4884c16b2627d;main:64a4af832b77be1caf6e5e8811e5875e17a8ad4f;|none
 AlistGo/alist-heroku: v2:8255569af13e769d178e31f8da1934fb9026b0b5;v1:af84eab795868ec6e6538a0023c51187b6af355c;|none
 AlistGo/alist-heroku-postgres: v2:a7b88a319b503a7188ef70e056111fc89fff5308;|none
+AlistGo/Alist-ikuai: main:49ebba2975b6dea2e3fe0b98a6e0ae03c9435262;|2026-04-21T02:00:15Z
