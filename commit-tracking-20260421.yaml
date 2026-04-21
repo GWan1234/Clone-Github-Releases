@@ -725,3 +725,4 @@ adafruit/Adafruit-bq25185-with-3.3V-Buck-PCB: main:a28ea1355e38f7f310f64ec49bac8
 adafruit/Adafruit-bq25185-with-5V-Boost-PCB: main:2ce979f3dec58aa42ab4ae3707f10a7df528ef12;|none
 adafruit/Adafruit-BrainCraft-HAT-PCB: main:1bc88c224a28d02f727879ffe7213ad599972443;|none
 adafruit/Adafruit-CAN-Bus-BFF-PCB: main:7456bb16b65da5de6bae232dbe146e98cf4b0a5b;|none
+adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: main:263cd9f75ba8c8b48291bd6e62f8672c98619663;|none
