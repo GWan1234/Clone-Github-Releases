@@ -5724,3 +5724,4 @@ adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC: use_ruff:c80e57afc1e06ce4c13a727
 adafruit/Adafruit_WebSerial_IMU_Calibration: main:64d293a655128eb9566966ca2a5add782be3f4af;|none|SIZE:4762
 adafruit/Adafruit_SHT4X: oleddemo:838a2c58054ecb2de71e63fb4151915aa1fd56f8;master:76a06edfa280a699da1c2f311bdeccb0bd5cee92;gh-pages:87119b3e27e6686e6810a1f813560314cb0a114d;|2024-07-30T16:15:55Z|SIZE:344867
 adafruit/Adafruit_CircuitPython_SHT4x: main:2b5317830e66233017e68f8b459261bc4240307d;|2026-03-27T19:03:53Z|SIZE:19925
+adafruit/Adafruit_CircuitPython_HTU31D: main:a1c069c6b1fc1460ba9f021f17e8c4e2a93a3aff;|2026-03-27T18:59:01Z|SIZE:20221
