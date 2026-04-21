@@ -1204,3 +1204,4 @@ adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: master:2577abd97ffa3dab39b631
 adafruit/Adafruit-Voice-Bonnet-PCB: master:9a0927aa41c9a2b6cb3f4e198425ffd6a30149b2;|none
 adafruit/Adafruit-VS1053-Breakout-PCB: master:61db4e571d89d321c33bb693b84f80da1510c5e2;|none
 adafruit/Adafruit-WCH-CH9102F-Friend-PCB: main:eb022866b738f738971172c8725546e7b221369f;|none
+adafruit/Adafruit-WebIDE: update_setup_image:9e6f26ed45d349649d84bc8b22f6592185429ed3;test:a169807033eb4c3137c064980725430be31be744;terminal:9d1d5542ae79fe9433949cf493a730ad3e8dc321;startup:260dfe06d9ede3e8d43a4104548846132f23e527;selfcheck:558836a68556008e8b0a0732fe20535ab6ebba3e;|2018-03-13T18:13:20Z
