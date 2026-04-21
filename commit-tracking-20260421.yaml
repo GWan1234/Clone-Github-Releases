@@ -58,7 +58,7 @@ cockpit-project/cockpit-files: main:f3dc9a476a4470de324ce52d9630c04ec016b0da;dep
 cockpit-project/cockpit-files-weblate: main:e82d6d48610cb20ddd204e74c9494c774d197552;|none
 cockpit-project/cockpit-machines: rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;main:83a039ec53b14b1963498ef9fe7260c66227f8bf;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;|2026-04-21T11:10:25Z|SIZE:2012191
 cockpit-project/cockpit-machines-weblate: main:5b979a8115d9c2ede70aae89e15a0ec1bf780205;|none
-cockpit-project/cockpit-ostree: main:e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10;|2026-04-21T11:50:44Z|SIZE:221414
+cockpit-project/cockpit-ostree: main:e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10;|2026-04-21T11:50:44Z|SIZE:221413
 cockpit-project/cockpit-ostree-weblate: main:74bd7988794afb96b5099d02f5c697b63c72b16c;|none
 cockpit-project/cockpit-podman: tasks-container-update-cockpit-ci-container-20260420-044953:b6b5ad8efa98553a374b4bc272d7d1a8f79d0c19;main:95e2175f3dd6a65d7321db2038c764676106d0d3;dependabot/npm_and_yarn/types-f57dc2645f:6c288793e6c58b03853176c8fd328db73f4271d2;|2026-04-21T11:42:00Z|SIZE:615677
 cockpit-project/cockpit-podman-weblate: main:6f794b9bfe39d728b0cac1130afd31b1997fb610;|none
