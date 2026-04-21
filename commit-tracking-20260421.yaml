@@ -901,3 +901,4 @@ adafruit/adafruit-io-node-tunnel: master:6c36968af4738995c80447055d87eb3320c5e4b
 adafruit/Adafruit-IoT-Button-with-NeoPixel-BFF-PCB: main:6c3fe13b68c13fb1ca52c27b5d0db88478e917f9;|none
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: master:b89ffa961067cb959deff9eae264a017a2650539;|none
 adafruit/Adafruit-IoT-Printer-Enclosure: master:2a832e2684e7725d4fb0004d7d63436f7b62acd9;|none
+adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: master:6293e5aa3d88caab44292709fef00a5e12c1bef6;|none
