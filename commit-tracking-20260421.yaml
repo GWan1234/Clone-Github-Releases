@@ -328,3 +328,4 @@ ioBroker/ioBroker.vis-map: master:e7a61c5bdc74cff3f43c8e3ef1be4bb83e48dfaa;depen
 ioBroker/ioBroker.vis-metro: master:eefd2d5e557bc1f5a1d53098eb66ea5332315e06;|2022-02-12T23:23:45Z
 ioBroker/ioBroker.vis-plumb: master:332fc60366e8142e17b63cf168088461ddcc918e;|none
 ioBroker/ioBroker.vis-powertrust-fonts: main:9c8b2cd532b32d46a24c6090b4aa7c4f1d060bd7;|none
+ioBroker/ioBroker.vis-rgraph: master:1b5fef6b343838433b308dab2e6f6e7d2548323e;|none
