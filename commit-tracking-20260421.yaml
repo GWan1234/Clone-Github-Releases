@@ -1135,3 +1135,4 @@ adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB: main:4456a62a418b1a25ce2500ce0335ab
 adafruit/Adafruit-TLV493D-PCB: master:2450d66eef51807f25f6ce598fa7aa9f95d588aa;|none
 adafruit/Adafruit-TMAG5273-3D-Hall-Effect-Magnetometer-Breakout-PCB: main:543c3c93357a56703c6f33de5c8e277451bf9f1d;|none
 adafruit/Adafruit-TMC2209-Breakout-PCB: main:227f79e2cda77b99653316692f8ec1975f58c6af;|none
+adafruit/Adafruit-TMP006-and-TMP007-PCB: master:84323b3001cdc9efe614bf6d703c1444c3d275b8;|none
