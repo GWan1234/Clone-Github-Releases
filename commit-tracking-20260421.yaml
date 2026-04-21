@@ -4838,7 +4838,7 @@ adafruit/Adafruit_Python_MCP4725: master:56a3ce47612cb6306686781e4819d014e50b2a7
 adafruit/Smart_Toilet_Light: master:4111fd813bb7f031e3d3407065ab2a55d1a22d9b;|none|SIZE:4636
 adafruit/FirePendant: master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2;|none|SIZE:63447
 adafruit/Adafruit-OLED-FeatherWing-PCB: master:179eb83875ab86c49a6b2d771e95099a55d8984b;|none|SIZE:8748943
-adafruit/Caterina-Bootloader: master:411557016cdc498c04840892d769e1f8184613dd;|none|SIZE:41321
+adafruit/Caterina-Bootloader: master:411557016cdc498c04840892d769e1f8184613dd;|none|SIZE:41320
 adafruit/Raspberry_Pi_Talk_To_Things: master:61714e20232127c8ba06d5fd1f1ee792648f19e2;|none|SIZE:7745
 adafruit/Adafruit_Python_ADXL345: master:d897bcaa16b5fe365463ae0c2791d0c155becd05;|none|SIZE:8685
 adafruit/Adafruit_Python_LSM303: master:b286a95e81e627dbc2b262b90a475ec2f4bb6f4f;|none|SIZE:8289
