@@ -5061,3 +5061,4 @@ adafruit/contributor_covenant: version_1_0:6edbd238afdb0629f9ec2bca7e631d3b6663f
 adafruit/Adafruit_CircuitPython_RFM9x: main:ad3a28df5e0cab2a24b9a6acf0667fe7c5a26563;|2026-03-27T19:03:12Z|SIZE:29489
 adafruit/Adafruit_CircuitPython_MCP230xx: patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;main:b8cbc34dc879eb54a03680e46ffea9c65600809b;|2026-03-27T19:01:00Z|SIZE:53049
 adafruit/Adafruit_CircuitPython_AM2320: pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;main:7749e4d454ea7d4145a4a2d9e717f0545dbe6135;|2026-03-27T18:56:04Z|SIZE:33639
+adafruit/circuitpython-weekly-newsletter: tannewt-patch-1:20bc067247a7f32737ffb8a3fef7d25f91cd69b1;gh-pages:65b9755ce37e9960f602f939b6bc3c257d5d8137;dhalbert-patch-7:93b152a813ad0867f712c0a7684014f3c329e710;dhalbert-patch-1:8ca11c9741a4a3f8d538f7c704481d7483d023b7;BlitzCityDIY-patch-2:6ddce7e6eed2a9c63a81efd9643c1d43820f0e7e;|none|SIZE:3817059644
