@@ -921,3 +921,4 @@ adafruit/Adafruit-LED-Arcade-Button-1x4-PCB: main:437bc15cf86fe7176b153575118f58
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: master:50dc43b6c03adafa21683995f62efb6e825bba12;|none
 adafruit/Adafruit-LED-Backpacks: master:a58b392b20838c60256d767576a823a6984f7284;|none
 adafruit/Adafruit-LED-Sequin-PCB: master:9053b69556d4bbb35a02b35b46cfc946122779f7;|none
+adafruit/Adafruit-LIS2MDL-PCB: master:c65288a9024d03b559eb0121ec8c231345ed8e3e;|none
