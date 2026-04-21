@@ -5438,3 +5438,4 @@ adafruit/Adafruit_FT5336: main:7b8949ec03b8f6a03a6cff7c1eb7d46ac145a1f6;gh-pages
 adafruit/Adafruit_HUSB238: main:19ffa188866ba6a5e28b28d0d61bd259a8db68e1;gh-pages:6960df0614bf526aed328409323152b870704bbb;|2023-11-22T18:08:54Z|SIZE:101648
 adafruit/Adafruit_VCNL4020: main:c467fcad07a18a9625160afea092b2a0cf7840ba;gh-pages:da21f358050a90acc8b0ad36700457a1631eb033;|2024-02-07T16:55:26Z|SIZE:353418
 adafruit/certificates: main:d7c6385f671665820ea2d307b0a94f9e61ef6f91;|2025-02-09T20:20:11Z|SIZE:133723
+adafruit/Adafruit_Debounce: main:7742ab28d1f2008572dd5a24f0a967f8d7d0d01b;gh-pages:c96ba6fa886a24bcca773e65f1c1b3036984cb88;|2023-09-16T22:10:14Z|SIZE:88896
