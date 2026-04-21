@@ -543,3 +543,4 @@ localsend/permission_handler_windows_noop: main:2dadd8afbf81e0e3e4791d7144e68955
 localsend/protocol: v2:94f08491cb99675c1edb1d505c6079266b47bd64;main:4ee5748d497ec9f8d335bf4b7627623729c5b569;feature/pin-and-metadata:41c87f562e79f6a055ff2c576371fd8d50928cfd;|none
 localsend/snap: main:3861e08593044f7296b717cd5f008d330bc6df1f;|none
 localsend/web: main:ea5d55d34db2f21b84bf0ffe39d6342013b4ecd8;|none
+localsend/website: sponsor-test:c4565172310de7865bac7f25d8e3116b91477249;main:09e370aa9c8063e5ad3dfc1a415243035fec4545;|none
