@@ -370,3 +370,4 @@ ioBroker/testing-action-check: master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;|
 ioBroker/testing-action-deploy: supporting-custom-tag:317ff636ecdc74767690a513a2c2de4c50801910;master:3b33380398eb641e9d6029bda5103a4c75578526;downgrade-action-gh-release:6b8f1e027625f6bf09cecee869a0e8dcac2b6286;|2026-01-06T11:55:32Z
 ioBroker/webserver: small-adaption:38ac4ea605fe0aa52a9104f41fbfd40575436d28;main:d699a7ccb5aafde40dd344538bbbd7e2050aa895;|2026-04-13T07:57:39Z
 OpenListTeam/.github: main:c774b6185a8ccece012fdc85f114f3b4c3e811b7;|none
+OpenListTeam/115-sdk-go: main:432cb2c9cfad683d64f1412719a61af2d52ceebe;|2026-02-16T14:17:18Z
