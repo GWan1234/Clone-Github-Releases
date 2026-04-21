@@ -384,3 +384,4 @@ OpenListTeam/go-cache: main:63bca57ca085caf6c09116744ab23831f9c75622;|2025-06-30
 OpenListTeam/go-wasi-http: main:97ffd481755003f7c853acb42bdb25362dc37a21;|none
 OpenListTeam/go-wasi-socket: main:3bb0353ddc811a94aa11ec2952f489f38136f23a;|none
 OpenListTeam/gofakes3: package:e81a64992c96d6c1c07efd73bb35da889aebe3b0;master:e81a64992c96d6c1c07efd73bb35da889aebe3b0;|none
+OpenListTeam/gsync: main:ab97ee76db159e23c112dda99b2d7d8bb888cb09;|2025-06-30T12:41:10Z
