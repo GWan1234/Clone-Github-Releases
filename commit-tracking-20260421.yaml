@@ -5458,3 +5458,4 @@ adafruit/Adafruit_xCA9554: main:6e495f7ee0b4e56c794dc8e394f54d89e2a239a5;gh-page
 adafruit/circuitpython-fonts: prepare-handoff:2f5d05558dad8c0f11105bbb8f5e210933882850;no-images:160edfe19d917e1eb60414769fb3e747bc529bea;main:2a386c02da4a978a2694bf6407b7635b908a728b;jepler-patch-1:c2040d23ccbc7c0fdf367c72d39c60b3907cd760;|2025-04-18T14:17:30Z|SIZE:17063407
 adafruit/Adafruit_CircuitPython_ConnectionManager: main:89e59ec81bdfa7349b08ba3adf0d3cefc57af4d2;|2026-03-27T19:08:40Z|SIZE:27621
 adafruit/Adafruit_CircuitPython_MCP3421: main:b717716abd3cf59bd604fff0f43c1ecd152642c3;|2026-03-27T19:01:06Z|SIZE:20118
+adafruit/tlsf: sixtyfour:6ecac2d0bcc36a3b5273b7b471e2913c6816a264;idf:ddfa052fbf46a95d84c7496e10e5781607532de3;circuitpython:5481d1cafe8c705e8387130fbc241378de7d3dc1;|none|SIZE:39000
