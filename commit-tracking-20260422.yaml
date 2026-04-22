@@ -1114,3 +1114,4 @@ adafruit/FirePendant: master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2;|none|SIZE
 adafruit/Adafruit-Flora-Bluefruit-LE-PCB: master:31ad4c6afe5267c02daf48849e1f1bfb597df588;|none
 adafruit/Adafruit-1.44-TFT-Breakout-PCB: master:ceaa444157175651785903b73bb0001e45b7ea88;|none
 adafruit/Adafruit-OLED-FeatherWing-PCB: master:179eb83875ab86c49a6b2d771e95099a55d8984b;|none|SIZE:8748944
+adafruit/Caterina-Bootloader: master:411557016cdc498c04840892d769e1f8184613dd;|none|SIZE:41320
