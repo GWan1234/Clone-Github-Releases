@@ -2296,3 +2296,4 @@ adafruit/RFM69: master:180d3ac9a4004ca200ac25e19de1c1910f82a1ee;SPI_TRANSACTION-
 adafruit/Adafruit_CircuitPython_SI7021: tannewt-lint:37d8dfabfdd2445d964eb455708ce1dc2b87446a;main:b5d7130cbe9a97ea8455454cfc89670a59579450;REUSE:9eddddd6ed2322d3bdc443a373d9cfa81e3d1cd8;|2026-03-27T19:04:05Z|SIZE:54834
 adafruit/Adafruit_CircuitPython_MAX31855: main:d05f9ba50dd123eb61d4048addddb108e608a162;|2026-03-27T19:00:48Z|SIZE:19021
 adafruit/Adafruit_CircuitPython_BNO055: main:8c5dc065e117af294f23538b3d3d52aa15b01132;|2026-03-27T18:56:58Z|SIZE:1661852
+adafruit/micropython-adafruit-framebuf: master:26556e49935521cde014946bdf4f6070a7fe56f3;|2017-09-14T22:41:04Z|SIZE:3537
