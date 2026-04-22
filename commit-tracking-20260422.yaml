@@ -2137,3 +2137,4 @@ adafruit/Adafruit_CircuitPython_uBlox: main:8bd72e7f823c28b1ac7056b59d7ff9eaa385
 adafruit/Adafruit_VL53L7: main:1b0816a7eb1a8d7706d08ba075819027e51354e1;gh-pages:247dc61a01219b3fad8ffe49baf5efabc60b89d1;|2026-04-06T13:46:59Z|SIZE:201409
 adafruit/Adafruit_TMF8828: main:c4d93d50c531e37c4bcb2d76c81e46a27b5c39f0;gh-pages:1cde1d25d1e401deeac741c3be86bb949c5959e2;|none|SIZE:80429
 adafruit/Adafruit-Terminal-Block-BFF-PCB: main:6e2c47d43d37a4911910750956fb27c9459b2a57;|none
+adafruit/esp-usb: master:d03ae8127b336b62fa60f6d61f5adc58931139ae;fsls-only:35021d724b4072235582d5eb6bb1e776a69d9d4c;|none|SIZE:3279197
