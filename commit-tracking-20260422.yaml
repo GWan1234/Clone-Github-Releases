@@ -262,3 +262,4 @@ ioBroker/ioBroker.material: master:55ebf2f69f4c43411e87252cae9c408799c08e16;depe
 ioBroker/ioBroker.home: master:7135ed4f4b2f81fc3e48eb1d9a89b6c811127202;|none
 ioBroker/ioBroker.rfxcom: master:636043f29f8013f2978508a6c556e43301d349da;dependabot/npm_and_yarn/serialport-13.0.0:7c0a08a6f0ecf89088e942eae7bea00b3ff01eda;dependabot/npm_and_yarn/rfxcom-tw-2.6.2:97a599a32630cab1620b5e17095ef575c8055782;dependabot/npm_and_yarn/nan-tw-2.26.2:1926f07c9c0fe1c5043dfef9b2f391c0536a191e;dependabot/npm_and_yarn/mocha-11.7.5:742d1b779ef98b091246ae2f51f1ef0cba4986c8;|2021-11-10T17:46:46Z
 ioBroker/ioBroker.wiki.js: master:b413dd874b35f9258d27590134c8fb2c0e35ee06;|none
+ioBroker/ioBroker.template-ts: master:38500e1782346bff8c06191bb99d3e9258c56f8e;|none
