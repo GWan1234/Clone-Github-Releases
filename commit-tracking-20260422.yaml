@@ -2385,3 +2385,4 @@ adafruit/Adafruit_CircuitPython_RA8875: main:2eb9a0fcef1a6f6b1c4b1371f714ecf73b9
 adafruit/nina-fw: wpa2_enterprise:50f55a0732d42524b51d491d032a11b4267f2abc;revert-24-github-actions-test:731718b6d86047aefa041ef02e64c56030466f2b;master:586ef2a982ac1d30d696ba88ee025daa2b605ae1;if_statistics:53c45b18fd2377b0c5af578d72d91c1f859d5cba;filesystem_apis:3cb8c800583c19259484cfb65ebdbc23c226ebe3;|2025-11-29T14:34:50Z|SIZE:266979
 adafruit/discord-open-source: master:7c96adca4aacd72ff1472d5813cd860ad5924c18;add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;|none|SIZE:301380
 adafruit/adafruit_io_python_jupyter: master:20a577d2d191f677da2652c72daf7a27251b033d;|none|SIZE:4232
+adafruit/Adafruit-Radio-Bonnet-PCB: master:dd0cb11d273a3e95d90786b02c9ded95ae6168c6;add-pcb-files:a13f00c2224d9a3857ca04dad4a3ad8fafdbed01;|none|SIZE:482460
