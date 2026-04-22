@@ -2225,3 +2225,4 @@ rednblkx/loggable-thing: main:7c9e6e642f5e3e27dd3cbf31a844a2ccda7b709a;|none|SIZ
 rednblkx/nixpkgs-esp-dev: master:cbecd724ed0fba0caa0dc94494f81d2fdee79c1c;|none|SIZE:15964
 rednblkx/noble: streams:691be614dbbe9e577c75ce635e0c0a7bdb24d2e4;react-native:4e15f3115b2c932a967249edcf80932c73234779;private-events:1e2314c9e9b539395ad440433ca1c6bee4044ee6;more-test:2fef661cd0cb8404437373404d4f585fcc2310a7;master:c720ce47ac2d21f189c3b20cd272975b6aad842f;|none|SIZE:273645
 rednblkx/node-bluetooth-hci-socket: uart:d90a505c5c185117cdd5959ad59ad15357651e07;rework-kernel-workarounds:a342d8fd8ddcb34e00c5027447ad356f8b910c02;pre-gyp-32-bit:fb8c6e91ad5f33bc694371a419111a11c36862ed;master:916158269f7e48ddc73d2448d2634e91538c8991;main:fd08a976cb81e8ca93fdc5392ca4ab5eb5bfbe98;|none|SIZE:64284
+rednblkx/node-steamcmd: master:96e5e0139e85c12ef69f1d9ebcbfa7553e75f12f;|none|SIZE:2645
