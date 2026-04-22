@@ -1812,3 +1812,4 @@ adafruit/Adafruit-NeoKey-BFF-PCB: main:4f0e7f24bc6bd4af262cbd93772e1eeb09c9244a;
 adafruit/Adafruit-ATtinyx16-Breakouts-PCB: main:8d8df661986daff4623344e7244f5448a0d37fba;|none
 adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB: main:633459d74623227a18f7c4b1594db0840ba5592d;|none
 adafruit/Adafruit-Metro-M7-with-AirLift-PCB: main:a3c861b5d9f21f124cc4e0cc4034f511857c55a1;|none
+adafruit/Adafruit_CAN: main:d029f1dfdea13c686e98d9456ae176d7fc8d56f1;gh-pages:45c019a179153ff5d47d3f65c79bbd83a537c802;clang-2025-07-17:da4643b05b844f80965c46a8ef101107fff2fd4b;|2025-07-22T14:31:53Z
