@@ -1275,3 +1275,4 @@ adafruit/Adafruit-Joy-Bonnet-PCB: master:6f2c397555472348c959db74b7dde90106c48bb
 adafruit/Adafruit-Feather-M0-Express-PCB: master:5017ef41885371f8a26ba1b8ab9dd700bd7ce655;|none
 adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB: master:6020d6a43c4e294774c98a2029c4a8f894d0fdd4;|none
 adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: master:e23514c6f9e124a60f9d1de6567c791561b43e73;|none
+adafruit/Adafruit_AMRadio: master:c73e6db18bf74f1b96491aba05643d9ec0780b4a;gh-pages:7ff9cfffd8d25b2e38e6da053124aeaa6c558aca;|2023-10-03T20:07:12Z
