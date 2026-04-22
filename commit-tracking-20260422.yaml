@@ -2496,3 +2496,4 @@ adafruit/Adafruit_CircuitPython_MacroPad: patch-fix:60f89abc185b6283fd2f507e57a4
 adafruit/ble-file-transfer-js: main:585c05f25f362bce498324e7966f4768ba6224dd;|2025-09-09T20:09:50Z|SIZE:4787
 adafruit/Adafruit_CircuitPython_Ticks: patch:4c5f81d4b1570a33bf7018e6610c64333e522d6f;main:415f35dceaf43f6e2bbc879f7049fed5e52f3c4a;fix-no-monotonic-ns:3fa7f7e6986e237ec75265fd3e0350eb2ab2f2a9;|2026-03-27T19:15:02Z|SIZE:64961
 adafruit/Adafruit_CircuitPython_Pixelbuf: main:83ff119d33e79ade9604aecb484d2f023dddd5fa;|2026-03-27T19:11:41Z|SIZE:20169
+adafruit/Adafruit_CircuitPython_IS31FL3741: require-busdevice:9625150ed8fc3efdeefba216bad8b593a89627a7;pb-color-order:6a2d9b532e298172f5851b6c5644afb6d28dea58;patch:fea20c5fd35468b0d547a72adb6921b0dca6a081;main:c1953fa16191cb12110d1c78906664ec7366a1ab;|2026-03-27T18:59:42Z|SIZE:117299
