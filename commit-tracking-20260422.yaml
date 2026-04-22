@@ -1843,3 +1843,4 @@ adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: main:be108c0e324e26282966b
 adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage: main:7eb619fe7fe9ebcbed9fbc403996e192438e7feb;|2026-03-27T19:15:15Z|SIZE:20062
 adafruit/Adafruit-PC-Joystick-to-seesaw-PCB: main:890610a1efbc5e3b9c7dca5b28a125e36333b3f6;|none|SIZE:322501
 adafruit/Adafruit_CircuitPython_USB_Host_MIDI: tannewt-patch-1:db1f5fe9febfb4678fa9595acee2b899afeb266c;main:99b21ef90aa728e131f526e5820f41465417cf5e;|2026-03-27T19:15:18Z|SIZE:42301
+adafruit/Adafruit_CircuitPython_WM8960: main:e8adc0fbbb7dfb9b10aa7edc6f85b99ad304ac2b;|2026-03-27T19:06:56Z|SIZE:32814
