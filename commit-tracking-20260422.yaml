@@ -2179,3 +2179,4 @@ sonocotta/orangepi-ky040: master:817b47b807123e7f2b401cf9b790b023fd29653f;|none|
 sonocotta/orangepi-ws2812-spi: master:9639c33450cb0a2f35356e4a61caf67a839e8531;|none|SIZE:16236
 sonocotta/pidi-plugins-python: master:7c5c32174a8a01c2339beeb9eb59c34bfd09d236;|none|SIZE:11281
 sonocotta/raspberry-camilla-vu-meter: master:c5c65d8b8f5ec7235a73c97ffe10ed432ebf9370;|none|SIZE:32085
+sonocotta/raspberry-media-center: main:fb8369ea016e3ddaf6a140e3864176f8fc5c62af;features/hifi-plus-device-tree:eef4d824bba6f98ee452828d5694519cf8a65593;|none|SIZE:35623465
