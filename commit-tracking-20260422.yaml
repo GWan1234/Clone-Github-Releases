@@ -1517,7 +1517,7 @@ adafruit/Adafruit-ATECC608-PCB: master:1535820f36fb71b8a76cebc654b934e32a760c9c;
 adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB: master:87ab89a043b8c01b602eeaf1bcf08474abe0336d;|none
 adafruit/Adafruit-Hallowing-M4-PCB: master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27;|none
 adafruit/Adafruit-MONSTER-M4SK-PCB: master:ac886c5792dd29ff6c0f1a263ab7c3f77ccaebf3;|none
-adafruit/Arduino_Core_STM32: master:2b723f85337a0684573de03a9d471f861f271435;|none|SIZE:6270527
+adafruit/Arduino_Core_STM32: master:2b723f85337a0684573de03a9d471f861f271435;|none|SIZE:6270526
 adafruit/Adafruit-TFT-Gizmo-PCB: master:dc9a7479381c01421a630a93f891c7142f4dfde0;|none
 adafruit/Adafruit-STEMMA-Speaker-PCB: master:2f4a20b1411e8ead3160e6e89889f20311b248a1;|none
 adafruit/Adafruit_CircuitPython_LSM303_Accel: main:cca2ec72e8798dae15e1f79c378edc002811b9e3;|2026-03-27T19:00:15Z|SIZE:21131
