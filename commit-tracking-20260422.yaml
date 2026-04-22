@@ -1112,3 +1112,4 @@ adafruit/Adafruit_Python_MCP4725: master:56a3ce47612cb6306686781e4819d014e50b2a7
 adafruit/Smart_Toilet_Light: master:4111fd813bb7f031e3d3407065ab2a55d1a22d9b;|none|SIZE:4636
 adafruit/FirePendant: master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2;|none|SIZE:63447
 adafruit/Adafruit-Flora-Bluefruit-LE-PCB: master:31ad4c6afe5267c02daf48849e1f1bfb597df588;|none
+adafruit/Adafruit-1.44-TFT-Breakout-PCB: master:ceaa444157175651785903b73bb0001e45b7ea88;|none
