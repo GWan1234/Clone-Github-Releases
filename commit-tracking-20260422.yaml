@@ -2534,3 +2534,4 @@ adafruit/VL53L4CD: main:a642dda7d53bf583f6e214fc2c02ec7485a195a8;|none|SIZE:1262
 adafruit/Adafruit_CircuitPython_Typing: main:e88df7bc61c78091a8c540c2deb1ddde358994cb;|2025-10-27T18:17:16Z|SIZE:20591
 adafruit/Adafruit_CircuitPython_Register_SPI: main:a823517e556942416556e63cea128fe701a63ea3;|2023-10-02T20:56:43Z|SIZE:23080
 adafruit/Adafruit_CircuitPython_ESP32S2TFT: main:5f1a7c0a8a4a7db5bc9c532e5730bd21b7a9db67;copilot/update-component-library:ff0c38752b41fc3f3cf2b714e1f39735ff780af0;|2026-03-27T19:09:23Z|SIZE:41407
+adafruit/Adafruit_CircuitPython_PyCamera: speaker-mute:f368cc21b8c14cfcaf0ffc02371a391c3f4a291a;remove-unused-constants:ad64eae10cfef6f7b7fbc94173dbe0e258b9f599;new-ipcam:43ef2d3a5ad57e72a138f45223e20024bdd86d3e;main:b37270653c8caa766876f4cf4b9b32dcfbe77c1e;ipcam-was-unuseful-name:2e2215b890240af81af1589d0ad98d1cda1b36dc;|2026-03-27T19:14:18Z|SIZE:296978
