@@ -326,3 +326,4 @@ ioBroker/ioBroker.wireless-settings: master:99cbef54886d9aa87a182363bf4544ad1240
 ioBroker/ioBroker.vis-powertrust-fonts: main:9c8b2cd532b32d46a24c6090b4aa7c4f1d060bd7;|none
 ioBroker/dev-docs: main:179cc6457f6d659f4fbf3f313f952beeaa16effd;gh-pages:205221a4246aa4831eab0039a82ad3b37b19041f;|none
 ioBroker/ioBroker.ws: typescript:217403a1d2de2df63178942fd3dbd845377670de;main:485b0ff9d76bd0c7cf3ee5393d6422ac41a63b80;dependabot/npm_and_yarn/typescript-6.0.2:c2a24716350f94440adcadcff2e8f4bc2d3ca825;|2026-04-13T08:59:16Z
+ioBroker/ioBroker.ws.client: typescript:42730482ccc118ed2f2e1a989de3a2377ca759c6;main:9de8dc78249af0841940355e5d6986cdfb44f6f7;dependabot/npm_and_yarn/typescript-6.0.2:85fe63d0b82ab64fa4928e2fa7518f71b189d879;dependabot/npm_and_yarn/mocha-10.8.2:f5c7e2fda3b2efe84b8caa47d1e8f038e3d09fe9;dependabot/npm_and_yarn/iobroker/eslint-config-1.0.0:356cf1e7a5ae4d5698278c36f02a2a69309eca58;|2026-04-13T07:13:14Z
