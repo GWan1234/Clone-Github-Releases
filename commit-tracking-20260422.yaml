@@ -2072,3 +2072,4 @@ adafruit/fruitjam-doom: rp2:29a453c980918a03e40fc8b69b024e7a3bdb5dc2;adafruit-fr
 adafruit/Adafruit-MLX90632-FIR-Remote-Thermal-Temperature-Sensor-PCB: main:928c728704680ccfc11515f2ec7113c8cb7d4224;|none
 adafruit/Adafruit_VEML6046: main:25677023f3d87a8379124711218337e86e07ee6b;gh-pages:bf063635db056f4049b131e0fe91fc18a60759d6;|2025-08-19T15:59:53Z|SIZE:96841
 adafruit/Adafruit_TCS3430: main:62190e5d7e6faa7ee8177417cb4f3af63a6a9398;gh-pages:55d8609d5fcd474b90ada68165dd9b9c6d9b2cb8;|2026-03-11T17:56:03Z|SIZE:115566
+adafruit/Adafruit_PCM51xx: main:e53013d1252c420fdbb4671690dc73805e334a93;gh-pages:33a4614978f61623a02d00cda1d9aa984a942050;|2025-09-01T02:52:47Z|SIZE:113538
