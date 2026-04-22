@@ -1069,3 +1069,4 @@ adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: master:42d06b39d8afeb23881364d3a
 adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: master:1de541ff46165575234d826ae64be64a82e8bc93;|none
 adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB: master:1611c88b5a0f16be4fa7ca2b05c5bc311e0f7577;|none|SIZE:993488
 adafruit/Adafruit_SHT31: master:5e34a20df62371150f7cb10330919e9393b884b1;gh-pages:24f2d6e60cea1360485853cc97dcac35b4f96d80;busio:a303b73f6059f0e47db9a2ac7b47cdde2b73bf9b;|2023-07-25T19:25:58Z|SIZE:962433
+adafruit/rpi-fb-matrix: master:356141f60ff31db795ee128f4256b31bf45f3a43;|none|SIZE:17219
