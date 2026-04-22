@@ -938,3 +938,4 @@ adafruit/Adafruit-MPL3115A2-PCB: master:c57b3e05fa7907f850a4f0af6fb211ae9c831847
 adafruit/rpi-rgb-led-matrix: master:8c8af1cc135a767d7cb58be2604bb0846670db99;|none|SIZE:1644411
 adafruit/Bluefruit_LE_Connect_Android: master:5443af2742840b715d5f52197230525b762790a1;|2015-11-06T10:58:02Z|SIZE:314694
 adafruit/Adafruit_ESP8266: master:08fadf3c31d5355cb51fb6278a7097bcdea85553;gh-pages:10821ebc9c53398477b53d3e065c3ba96724da0b;doxy-fix:bfbd90bb4e7325108382d9e198506f467e0a6a1b;|2023-11-15T15:26:57Z|SIZE:106530
+adafruit/Adafruit_Python_MPR121: master:86360b80186617e0056d5bd5279bda000978d92c;|none|SIZE:11850
