@@ -1731,3 +1731,4 @@ adafruit/Adafruit-EMC2101-PCB: main:3d1c2ca4c2ecfb430e67ed098780de451e5c5c6b;|no
 adafruit/Adafruit-LTR390-PCB: main:0f4656c2b2c2da7860b5a74977b89a8c39999581;|none
 adafruit/Adafruit-SCD-30-PCB: main:54178bea411a7661007c529d41ed45fce767d155;|none
 adafruit/Adafruit_AW9523: master:43744cab9ed6e65e73964a04941673a7e823b18b;gh-pages:191350351ae78b18f931b6766e8369a4d39b9f3e;fixhighpins:4518f4dc804c2c0914b389421b2af0f4eb98a265;fix-ci:e3a4e4396f53b2a8c2bfb2d429fb5c42ecf56084;|2023-03-05T22:03:34Z
+adafruit/Adafruit-Feather-RP2040-PCB: main:ea88166891ee0a1697a3899a5d55ab3722a2f125;|none
