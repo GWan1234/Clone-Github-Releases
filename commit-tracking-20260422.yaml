@@ -1416,3 +1416,4 @@ adafruit/Adafruit-ItsyBitsy-M0-PCB: master:faa92dda428868c7042f9ee04685ffdc70849
 adafruit/Adafruit_CAD_Parts: my-first-pull:e63b5966eb8e755451755a33b99182c385039ad8;main:5ead410a8034146307aa99f2ab916bbd2a87114f;|none
 adafruit/circuitpython-weekly-newsletter: tannewt-patch-1:20bc067247a7f32737ffb8a3fef7d25f91cd69b1;gh-pages:65b9755ce37e9960f602f939b6bc3c257d5d8137;dhalbert-patch-7:93b152a813ad0867f712c0a7684014f3c329e710;dhalbert-patch-1:8ca11c9741a4a3f8d538f7c704481d7483d023b7;BlitzCityDIY-patch-2:6ddce7e6eed2a9c63a81efd9643c1d43820f0e7e;|none|SIZE:3817059645
 adafruit/Adafruit-AS7262-Breakout-PCB: master:e938964b93a0dca5c0120fe2aa54a16e590b27fa;|none
+adafruit/Adafruit-DragonTail-for-micro-bit-PCB: master:2f220715487c3b55339cd84be5d9f9bac4e7a779;|none
