@@ -1848,3 +1848,4 @@ adafruit/Adafruit_FT5336: main:7b8949ec03b8f6a03a6cff7c1eb7d46ac145a1f6;gh-pages
 adafruit/Adafruit-Metro-ESP32-S3-PCB: main:4ae86649879d3e6c4b93b258ce9f9d0889f40ad2;|none
 adafruit/Adafruit-EYESPI-Pi-Beret-PCB: main:db6a85a699fe0bd1d8f0cb4918d9db1ea701f3d9;|none
 adafruit/Adafruit_HUSB238: main:19ffa188866ba6a5e28b28d0d61bd259a8db68e1;gh-pages:6960df0614bf526aed328409323152b870704bbb;|2023-11-22T18:08:54Z|SIZE:101648
+adafruit/Adafruit_VCNL4020: main:c467fcad07a18a9625160afea092b2a0cf7840ba;gh-pages:da21f358050a90acc8b0ad36700457a1631eb033;|2024-02-07T16:55:26Z|SIZE:353418
