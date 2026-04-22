@@ -2169,3 +2169,4 @@ sonocotta/mopidy-alexa-voice-control: master:cff6775a06f74b7917ef2cac538e7b354ef
 sonocotta/mopidy-headless2: master:339af3d3697556be342bbd18d48d7c6102638af9;|none|SIZE:6809
 sonocotta/mopidy-orangepi-pidi: master:a606aaa09d81fe74ab441e280b7cd02cd2537880;|none|SIZE:14438
 sonocotta/mouse-whisperer: main:5bb3bfa78df90fef4818f4dd166cbfc74a8b2e5b;features/t1616-port:0b5d3ea13d812f4c21e329085f6ee3441a079f1e;features/add-build-workflow:2a52b0bdbbef7709b17b91a5f6491f3ff5b50f95;|none|SIZE:8781137
+sonocotta/nRF24LE1-Example: master:97ea3b9aae1ab8cc74742e8ae35e7a0428ecdddb;|none|SIZE:4980
