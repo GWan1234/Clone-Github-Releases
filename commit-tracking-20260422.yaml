@@ -1664,3 +1664,4 @@ adafruit/Adafruit-MPM3610-PCB: master:8cdc9051c29e348b88fd83b331d0875e7154879b;|
 adafruit/AnimatedGIF: test-drawbastract:21db6cd5a82c9dd92829449365e96ae899c655ec;pb-experiments:ef84f43a76b0fdbf41cf7466bb2f2d6d406bdcdb;master:688d1c99fbf4ff82a2ceabab928fbe6cea244d31;|none|SIZE:33438834
 adafruit/Adafruit_CircuitPython_TC74: main:fbb3479701ee184dd304d4223369addfae35b98f;|2026-03-27T19:04:58Z|SIZE:18196
 adafruit/Adafruit_LC709203F: master:24b279e0fec38509e593da9d88c1717dd199e4b5;gh-pages:588c411fc4e12a3b151ee775e2a9b13a017b11f6;|2023-11-15T15:25:11Z|SIZE:95748
+adafruit/Adafruit-ICM20948-PCB: master:de820cb677414d3e05c9b1a9fd5cef539fc06165;|none
