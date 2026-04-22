@@ -821,3 +821,4 @@ adafruit/Adafruit_TinyFlash: master:853e2fa031e0556752e3b8e5c652150f32c2b41f;gh-
 adafruit/IRKey: master:44ea72a1142ae43aea40ccf8c77d674704ffc945;|none|SIZE:188373
 adafruit/TinyRTCLib: master:48385f8972a270f4aacec73a1b5e46f114c647f5;actionci:05e69f19810b90ed0c9e3a6c5f881d0be3badc9d;|2026-02-11T17:56:27Z|SIZE:13016
 adafruit/Adafruit_STMPE610: master:3707ff5e8ff9149f352626d217e7255812df010f;gh-pages:8c1fd086982f30e528bacf63d11cd8b6a756d0dc;|2023-11-15T15:21:09Z|SIZE:380122
+adafruit/CC3000_MDNS: master:acb2a96f2232effd9ad2fb833b332c60e03d9091;|2015-03-31T19:35:22Z|SIZE:7498
