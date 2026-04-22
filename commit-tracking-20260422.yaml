@@ -2087,3 +2087,4 @@ adafruit/Adafruit_CircuitPython_SPA06_003: main:9d535c60b9123d4fec737dbc39a4595c
 adafruit/Adafruit_SGP41: piclaw-examples-and-hwtests:8f987093433ad9c996467a38a5bd68fcc55ea0cd;main:b6d66008b34f547f6b8067401aed743e39e8f8f1;gh-pages:3650111fa553c63c785c919892e5327cb3fa6a6a;|2026-02-11T18:03:28Z|SIZE:110745
 adafruit/reload-emulator: main:96f776934bb2b08f0eadce0648d9f639b77cfb0d;|2025-10-15T17:51:38Z|SIZE:1937630
 adafruit/Adafruit_CircuitPython_JD79667: main:c8626f6d1eb0229a262b80c2c174ffec0898ab60;|2026-03-27T18:59:47Z|SIZE:23367
+adafruit/Adafruit-STHS34PF80-IR-Presence-Sensor-PCB: main:df3aece9ec5e5ad5f1a1fe48835046ddb6b0a292;|none
