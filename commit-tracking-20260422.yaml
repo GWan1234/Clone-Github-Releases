@@ -1979,3 +1979,4 @@ adafruit/Adafruit_VCNL4200: main:097d4db49c761fc03d03df10ce88c4d15c22dec9;gh-pag
 adafruit/Adafruit_CircuitPython_VCNL4200: main:476f6e7ca55b9b97b5cf722f05047675dd6c4204;|2026-03-27T19:06:28Z|SIZE:23003
 adafruit/Adafruit-Pixel-Shifter-PCB: main:e8ec19ef46cda9e6cf594e6738372a66d1208d0e;|none|SIZE:292624
 adafruit/Adafruit-LPS28-Pressure-Sensor-PCB: main:593fed8bfe3f406d6f40a9c7bd83e88b92a25055;|none
+adafruit/Adafruit-bq25185-Charger-Breakout-PCB: main:e73b39bac750f2c90abdb5ea465c1b8128979dfa;|none
