@@ -1683,3 +1683,4 @@ adafruit/Adafruit_CircuitPython_MCP2515: use-core-message-rtr-classes:ed4af30815
 adafruit/Adafruit_CircuitPython_AirLift: main:2924286ee5d5ae6e23c45254ff082a9cf0da05ce;|2026-03-27T19:07:09Z|SIZE:19361
 adafruit/Adafruit-AP3429A-PCB: main:ce112ce8a2ad4f7fece2f17de90d2e1153a14a0d;|none
 adafruit/Adafruit-TMP235-PCB: main:05afa047f2324ed06268ded1c27b741c86acedc8;|none
+adafruit/Adafruit-LC709203F-PCB: master:65d60917fbe771308a387132dc943800a52f1380;|none
