@@ -2461,3 +2461,4 @@ adafruit/Adafruit_CircuitPython_ATECC: patch-fix:75e796bdc80362c0c2332549fe8b71d
 adafruit/glider: master:e463b130cb19464031fe94904c554743cd353442;dependabot/npm_and_yarn/y18n-3.2.2:40d0794a34fe0f20a6464c36c08e146227176a27;|none|SIZE:679800
 adafruit/pyright: master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87056e81b0f880f08f5125ce3168655e9f;|none|SIZE:1198453
 adafruit/BrainCraft: master:464a6d11b53a6d18cfebffc75e602fc9696bf95c;|none|SIZE:6835
+adafruit/Adafruit_CircuitPython_MPU6050: patch-fix:3963838a50909d609ea37497e1cdd69aea9fbf80;main:d3761591ccf7629b39675dd1db45184b96a3b779;|2026-03-27T19:01:53Z|SIZE:47046
