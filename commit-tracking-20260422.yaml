@@ -1907,3 +1907,4 @@ adafruit/Adafruit-ADG728-1-to-8-Analog-Matrix-Switch-PCB: main:7bdabc857d920b025
 adafruit/Adafruit-ADG729-Dual-1-to-4-Analog-Matrix-Switch-PCB: main:0cae682f07dc8351b45d07d01df7e9eaa0ca875f;|none
 adafruit/ch55xduino: ch55xduino:a962b9bb848081f1310fae11713ea93064624352;|none|SIZE:2984293
 adafruit/Adafruit_CircuitPython_ADG72x: main:eb3909610ec460338539e40652e629bf76307ce2;|2026-03-27T18:55:39Z|SIZE:18800
+adafruit/Adafruit-Infrared-IR-Remote-Receiver-PCB: main:ead85073a5f1e06c649a5f8e9a143e4ecd4e9333;|none
