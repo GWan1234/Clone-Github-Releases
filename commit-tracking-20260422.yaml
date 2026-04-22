@@ -1789,3 +1789,4 @@ adafruit/adafruit-creations: sparkle_motion:2a0f25d38b6371c3924c846b9166a0b8a34d
 adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB: main:e2cfb6b5e5edb46688429b701eead7a78738b0f8;|none
 adafruit/Adafruit-Infineon-Trust-M-PCB: main:be8bbc2b780c9807f57df6a793e743d38681eccd;|none
 adafruit/Adafruit-LSM6DS3TR-C-PCB: main:9bf02b7214d35f2699bfd24737865511e4f9f114;|none
+adafruit/Adafruit-LSM6DS3TR-C-LIS3MDL-PCB: main:bc2d3ee876a254d5ebc669bc4d0df78b11602a64;|none
