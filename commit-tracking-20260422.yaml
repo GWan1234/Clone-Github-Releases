@@ -2061,3 +2061,4 @@ adafruit/Adafruit_MLX90632: main:b12dd117f5b3b3d5b326993f9af1679130eaef82;gh-pag
 adafruit/Adafruit_CircuitPython_Dang: main:08f6cc3d8c8b5a015ae97cca447310de53b04ff5;|2026-03-27T19:08:45Z|SIZE:20601
 adafruit/Adafruit_CircuitPython_JD79661: main:f4534ef07ace9167e3a296e411cfcb78dac125bb;|2026-03-27T18:59:44Z|SIZE:23271
 adafruit/Adafruit_CircuitPython_UC8179: main:146a2243c560f1142b5e376905a37d7fc43c5285;|2026-03-27T19:06:00Z|SIZE:23933
+adafruit/Adafruit_CircuitPython_UC8253: main:f83d7a15b9a5d0c99dac62b4d7931ad057d5796b;|2026-03-27T19:06:02Z|SIZE:23644
