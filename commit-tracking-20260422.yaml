@@ -1822,3 +1822,4 @@ adafruit/Adafruit-Feather-RP2040-ThinkInk: main:d58fe34ce514708b82d5a25def954bce
 adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB: main:499de161e9d106e530be5ba1aa09a756c38a31ba;|none
 adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C: main:4bf9961d2f3bbb52921cd88fdf38c1d5cd38e901;|none
 adafruit/Adafruit-NeoKey-CHOC-Breakout-PCB: main:bd122a0f123f57fcc9778dbe4175bc802d06cbc5;|none
+adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB: main:aaaae6964cf56ddb17c5ab11a15566573e1a4cb7;|none
