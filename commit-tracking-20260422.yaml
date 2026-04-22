@@ -1313,3 +1313,4 @@ adafruit/Adafruit_Microbit: master:05453d26b7fef4d9be05d7809c173fe25ad91fe8;gh-p
 adafruit/Adafruit_EPD: z29tricolor:d7079afe011907efa55fb99d90c2a72bb967b76f;somanyepd:3f8b7ea8d9c3f6cd68daecb9101decd0e1743147;master:6ff10d83e154a8707917c1fa061c98391d68f6ad;hinkInk_290_Grayscale4_T94:d53eec3f17737617bd6dafcb7d9886e975c65cfe;gh-pages:11bfa63609c83a5c350338649cbec76ab734f04d;|2026-03-03T14:51:01Z|SIZE:612708
 adafruit/kicad-libs: master:2a0d44d92385a047b53a0dec0db82931e77aa94b;|none|SIZE:1006023
 adafruit/Feather-RISC-V-PCB: master:d1b705eca6b0b992383a75706f3e1aeb1fdcd9a9;|none|SIZE:98785
+adafruit/Feather-ICE40-PCB: master:d2a4cf7ad1d9c1139535624bacd64d180dd3e111;|none|SIZE:75692
