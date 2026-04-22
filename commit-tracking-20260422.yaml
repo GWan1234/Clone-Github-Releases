@@ -1948,3 +1948,4 @@ adafruit/Adafruit_CircuitPython_Base64_Stream: main:974e989547b303f7bef24a813e11
 adafruit/Adafruit-Feather-RP2040-Adalogger-PCB: main:dbe392caf8440e8d806dbed88806003d40c765d7;|none
 adafruit/Adafruit_CircuitPython_HDC302x: main:ac8fed56c6e634a7dec36092fc998f9c6e6ae920;|2026-03-27T18:58:52Z|SIZE:20461
 adafruit/Adafruit-RS232-Pal-PCB: main:653d1bb7c6cf2d9efe381b85ff275bf0feefdb17;|none
+adafruit/Adafruit-Infrared-IR-Remote-Transceiver: main:d449f19025cf3325f29dc6c28da059d09875721d;|none
