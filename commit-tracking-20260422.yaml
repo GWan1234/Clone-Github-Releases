@@ -297,3 +297,4 @@ ioBroker/iobroker.net: master:b08fc623e761e74e805ef2c89e3c9b8de3967f33;|none
 ioBroker/ioBroker.sonus: master:939b5099de3ee7997b3d9ab05fbb035d94b9f451;|none
 ioBroker/ioBroker.lovelace: update-20250123:4718ce34ccd2f005ec4a93d9d764ef2a8ea0f8fd;refactor-converters:8b7e78d2aa4f3e3462d843948e42151183c3a4c4;master:9157cf7684217552ea939697d3331f8e1f0c2df7;frontend202503:e2d29ab69e64c68d63a122e7b6ac2e250364b5c5;dependabot/npm_and_yarn/yaml-1.10.3:bda20c8e0cdd2ee541146a0f0c43a9279970bbdb;|2025-12-21T19:57:38Z
 ioBroker/create-adapter-frontend: master:58348d5e1c8eec4b3f265dff13856c07dbbd8a46;|none
+ioBroker/adapter-react: master:5a1bebb02c3e270d4387d2b8c3d00119a71bf9f1;Apollon77-patch-1:b30b84e2fb5764e623a8312d0964810741daedb1;|2022-06-22T17:37:22Z
