@@ -61,3 +61,4 @@ cockpit-project/cockpit-podman-weblate: main:6f794b9bfe39d728b0cac1130afd31b1997
 cockpit-project/cockpit-weblate: main:5f8e376e6e4f9ff2ed01035e15a4d2d2c573d766;|none
 cockpit-project/cockpit-ostree-weblate: main:74bd7988794afb96b5099d02f5c697b63c72b16c;|none
 cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none|SIZE:35222
+cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
