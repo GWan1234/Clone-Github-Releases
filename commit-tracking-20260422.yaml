@@ -2295,3 +2295,4 @@ adafruit/Adafruit_CircuitPython_SD: nativeio:42c52fa288289580e60e0e9f83f179041bd
 adafruit/RFM69: master:180d3ac9a4004ca200ac25e19de1c1910f82a1ee;SPI_TRANSACTION-attempt:c38928ecb4810e8563dac4ccbd8902468bbd684b;ListenMode:aa1cc78a17fe3eab9718f51c8afa1c5b0eab58b1;|none|SIZE:505721
 adafruit/Adafruit_CircuitPython_SI7021: tannewt-lint:37d8dfabfdd2445d964eb455708ce1dc2b87446a;main:b5d7130cbe9a97ea8455454cfc89670a59579450;REUSE:9eddddd6ed2322d3bdc443a373d9cfa81e3d1cd8;|2026-03-27T19:04:05Z|SIZE:54834
 adafruit/Adafruit_CircuitPython_MAX31855: main:d05f9ba50dd123eb61d4048addddb108e608a162;|2026-03-27T19:00:48Z|SIZE:19021
+adafruit/Adafruit_CircuitPython_BNO055: main:8c5dc065e117af294f23538b3d3d52aa15b01132;|2026-03-27T18:56:58Z|SIZE:1661852
