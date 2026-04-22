@@ -1049,7 +1049,7 @@ adafruit/Adafruit_Arduino_OpenPixelServer: master:d72678e9b6c2d9564224fb2c35fc85
 adafruit/Bluetooth_Talking_Dog_Collar: master:d62cf7158093e09c4bac78fc36a5a681950387a2;|none|SIZE:190370
 adafruit/Adafruit-Servo-HAT-Bonnet-PCB: master:b15611b66fcf0dffc06f1d888e84cd751dda3e4a;|none
 adafruit/Adafruit_VCNL4010: master:fd4eb0fe7c7f9d69766ddda7f14fce1f75226817;gh-pages:b99bdd8b373eb284118d5c6904393dc2715d735a;|2023-11-15T12:49:53Z|SIZE:93186
-adafruit/PythonClub: master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7;|none|SIZE:10597
+adafruit/PythonClub: master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7;|none|SIZE:10596
 adafruit/adafruit-io-camera: master:9129c4e7ca4d49ebd4a742035ff1c4c6525c9c25;|none
 adafruit/Track_Your_Treats: master:520dbc472362d117f93750d1d932425eefafe41a;|none|SIZE:5192
 adafruit/Adafruit-Verter-PCB: master:47ff9d8588a4b841b6d0a1efa42fc9275463c16e;|none
