@@ -1691,3 +1691,4 @@ adafruit/Adafruit_BNO08x: nrf_buffer_fix:3cbbb7460ec03901f479c556a649bc0b81a49ac
 adafruit/Adafruit-BQ24074-PCB: master:844404b10e1a87820ee9cb9024d85f67f4bc4bfd;|none
 adafruit/Adafruit_CircuitPython_BNO08x_RVC: main:1443e2e72edaf654ee43806949c87d8bb928284a;|2026-03-27T18:57:03Z|SIZE:18561
 adafruit/Adafruit_BNO08x_RVC: master:48c1e013a04b9807cec02552ad4fd0e4dd1ecef4;gh-pages:be3e096f2d7a730d31bf25a56e26c4ead181fac7;|2023-10-03T20:27:09Z
+adafruit/Adafruit-BNO08x-PCB: master:be9dc9984bb19b1e8ba31e8744917d0952993ef2;|none
