@@ -1154,3 +1154,4 @@ adafruit/Weather-Pixels: master:d1bb8951b25315a378a47f5bc7e8bbf04a399225;|none|S
 adafruit/Adafruit-L3GD20-Breakout-PCB: master:32bf273c21430e7c4e28cfa79be2109f91b893ea;|none
 adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: master:6d03cc0e0a1d64360514f60730dba3c79e2846a0;|none
 adafruit/Adafruit-Feather-M0-Adalogger-PCB: master:0147a7204c11ae57fc42c5424d5c700bcca875b2;|none
+adafruit/Adafruit_MAX30100: master:b487b81597bdb3f7711a42a21689ac771278cafa;|none|SIZE:3413
