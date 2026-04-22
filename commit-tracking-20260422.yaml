@@ -1098,7 +1098,7 @@ adafruit/Adafruit_Python_ADS1x15: master:804728974fcefaafc8b5994be65d22e9c198a8d
 adafruit/Adafruit_Python_PureIO: main:117f1f19f08a2c6edd11ef0281586ba5301dd649;|2023-05-25T19:00:52Z|SIZE:29083
 adafruit/Adafruit-SPW2430-PCB: master:929cb33e8e66308cb46321be057e7f0ad7111999;|none
 adafruit/TrinketReactCounter: master:fc66fa314555135b50974e9edb35978627d98855;|none|SIZE:3936
-adafruit/Adafruit-PWM-Servo-FeatherWing-PCB: master:27159a48d60d27e7c5c494b73bcd510fc03b58e1;|none|SIZE:737858
+adafruit/Adafruit-PWM-Servo-FeatherWing-PCB: master:27159a48d60d27e7c5c494b73bcd510fc03b58e1;|none|SIZE:737857
 adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB: master:20e781d8d7d0b31002f9d2a8eaef18429f983815;|none
 adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: master:cae1ee442bd88638aac6427bd78f737aa0846a9e;|none
 adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB: master:957300988eee7d15d71649fd4e2cb023a6584acb;|none
