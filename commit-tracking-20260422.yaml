@@ -2494,3 +2494,4 @@ adafruit/Adafruit_IS31FL3741: main:43fbdcf44e754df9ff432bfbbecc2dd65f69c6e2;glaz
 adafruit/Adafruit_CircuitPython_Ducky: main:9ded482d0ed37a1c4cd5c710bb7a2149739295c7;fix-example:dd0f94bcf005520b4c24ffbc8d466ad4cf62ad0f;fix_rtd_theme:092f17f6a033c8aaef37a7d218f582e0149330a8;docs_req_fixes:236ca0a6cc0aa90bd2e0227b99597420f0d18dc6;|2026-03-27T19:09:21Z|SIZE:86366
 adafruit/Adafruit_CircuitPython_MacroPad: patch-fix:60f89abc185b6283fd2f507e57a417ac70c69cdc;main:b10fa3d6870134dd329a59510352b8190029fcde;linting:9a423cf45ac76ee730dfc88eea6eb223cff0ff96;|2026-03-27T19:10:44Z|SIZE:327329
 adafruit/ble-file-transfer-js: main:585c05f25f362bce498324e7966f4768ba6224dd;|2025-09-09T20:09:50Z|SIZE:4787
+adafruit/Adafruit_CircuitPython_Ticks: patch:4c5f81d4b1570a33bf7018e6610c64333e522d6f;main:415f35dceaf43f6e2bbc879f7049fed5e52f3c4a;fix-no-monotonic-ns:3fa7f7e6986e237ec75265fd3e0350eb2ab2f2a9;|2026-03-27T19:15:02Z|SIZE:64961
