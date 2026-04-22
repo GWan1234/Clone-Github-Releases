@@ -74,3 +74,4 @@ cockpit-project/console.dot: playbook-demo:b3189db6b2523fbb84810e1affc316e5901f3
 cockpit-project/cockpit-files: po-refresh-20260421-185931:8a6da595aae9dc685a25578334c561cae1fb5449;main:f3dc9a476a4470de324ce52d9630c04ec016b0da;dependabot/npm_and_yarn/types-574b0d5a74:37cc33674a197306408e2d9d5eff5f30b8968098;|2026-04-21T11:34:29Z|SIZE:415665
 cockpit-project/cockpit-files-weblate: main:e82d6d48610cb20ddd204e74c9494c774d197552;|none
 cockpit-project/.github: main:1f0f37943e41c60e144a466f4e936aadcc397eda;|none
+cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
