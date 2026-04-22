@@ -1602,7 +1602,7 @@ adafruit/Adafruit_WebSerial_3DModelViewer: master:3642232b39c331ae108b9cac5f261e
 adafruit/Adafruit_HTS221: master:52c4dd07a21820256ff3db35dc470cf4090e23ff;humidity_calc_fix:2200a9e67e9a8df3be51516330f19eda6e53f41f;gh-pages:692a2ac5279d94ca39629981afaae3fd9c90aa91;|2023-11-22T18:09:04Z|SIZE:232782
 adafruit/CapacitiveSensor: master:78fed5a5c885306c943eba3ea77e6b6b79d8172b;|none|SIZE:7023
 adafruit/Adafruit_CircuitPython_HTS221: update-docs-link:f75ec009a91f770dca551626042b95c7df6b5cde;main:ec3ded6ac12d2710f5527163b1f611db6c46b7a1;add_debug:78889c03c0375559ac08c28992acfed0b27167de;|2026-03-27T18:58:57Z|SIZE:60343
-adafruit/Adafruit_NAU7802: master:594dec00df8edc7163de858f1aecd9de4c65ec41;gh-pages:d47c60f7bd92377e3a5f1e8e7b9af50e2c3e2c8c;|2025-12-02T15:28:15Z|SIZE:410399
+adafruit/Adafruit_NAU7802: master:594dec00df8edc7163de858f1aecd9de4c65ec41;gh-pages:d47c60f7bd92377e3a5f1e8e7b9af50e2c3e2c8c;|2025-12-02T15:28:15Z|SIZE:410398
 adafruit/Adafruit-HTS221-PCB: master:e32c12659a54739f9700e8706e82f13b841f2f86;|none
 adafruit/Adafruit-LPS2X-PCB: master:5d8dc248b63ff39d1ca1ddbf29ea7fc30e9d4278;|none
 adafruit/Adafruit_CircuitPython_RockBlock: main:536801a23157121865097a972f48955fe19d5ca3;|2026-03-27T19:03:18Z|SIZE:22288
