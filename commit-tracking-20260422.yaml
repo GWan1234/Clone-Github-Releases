@@ -719,3 +719,4 @@ adafruit/Adafruit_SSD1325_Library: master:d86c98d66a10dcfecb59e99cd133a277f6622b
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9;|none
 adafruit/2.8-TFT-Breakout-PCB: master:27ec9e198e64fb72922ecde4f1b3d66e50c392c9;|none
 adafruit/Adafruit-Ultimate-GPS: master:70430c1240b49c1e054f1edee84ad0b5ec8ebe56;|none
+adafruit/Adafruit-Programmable-Piggy-Bank: master:f6b7d523e648ca6d012c6636367265c2a3ac1c33;|none|SIZE:2566
