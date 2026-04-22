@@ -2203,3 +2203,4 @@ rednblkx/esp32-event-bus: main:1a8a9c0ad1eb43eedaba60d996f6222f1c23d216;|none|SI
 rednblkx/esp32-tlv8: master:e380df788c86003e75d3602d83d0f8355a04cc8a;|none|SIZE:10216
 rednblkx/esp32-utils: master:eb12edb891557b63a7bf59f108f420ed53175f07;|none|SIZE:4825
 rednblkx/esp32-yahap-pal: main:c0d52ada87a9dbba8f4c703a7e54b1d12c44706f;|none|SIZE:16162
+rednblkx/FFmpeg: release/5.0:a5ebb3d25e50c6f59f931115fb18121032dfa12d;release/4.4:8e98dfc57fd05c49095dd964456a7acbb6da634c;release/4.3:6ffc0e3198fdb219c5d4b2f841bc65e061cef24a;release/4.2:55a95339526ba3ad6c3c31721ab1ecfd957eb5b4;release/4.1:742e66f4421ed523a1ada0646feb51e3224494f2;|none|SIZE:42827450
