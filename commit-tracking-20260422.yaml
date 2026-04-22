@@ -1107,3 +1107,4 @@ adafruit/Adafruit_Windows_Drivers: main:9f5e362d282cb04d5cff4269a6199643d374688a
 adafruit/Adafruit-GPS-Logger-Shield-PCB: master:20679c594e363723b81bb2cac5fc47c21cd4b214;|none
 adafruit/Twitch-API-Examples: master:7c7b493f9f28fc74958cdc1d700e6adfc5605dff;|none|SIZE:2389
 adafruit/TinyXML: master:19619111b675528d835e5bcba571b868f1828e53;|2023-07-01T06:17:33Z|SIZE:9650
+adafruit/Pi_Internet_Thing_Videos: master:cf54b574b709d694c67e5b3a4db2e28c55a01690;|none|SIZE:297929
