@@ -2148,3 +2148,4 @@ adafruit/esp-perfetto-logic: main:c367aaa3d04960a18a655032b512b94133956db6;|none
 adafruit/kicad-libraries: main:4566d23229fdfdfec37caaf610f36d72b7de864a;|none|SIZE:38856247
 adafruit/lgpio-python-wheels: main:6be65ff7f8279fc85b6101dbc93528465fcf2551;|none|SIZE:731918
 sonocotta/attiny-candle: master:4eb1a50d85c7a7e7a0a20da7cdc6d748363ffc3a;features/tiny-painter:3db7530265bf922db0e148f93d329c5512f6dc02;|none|SIZE:227248604
+sonocotta/attiny-flasher: master:e220ee7f8602ab577218dc025096c98ebfe94d61;features/sync-fork-changes:b497b9313cf164c4a5a9855d335848fc92e73c55;|none|SIZE:25157179
