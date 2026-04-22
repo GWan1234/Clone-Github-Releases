@@ -909,7 +909,7 @@ adafruit/Adafruit_Python_CharLCD: master:c126e6b673074c12a03f4bd36afb2fe40272341
 adafruit/Adafruit_LSM9DS0_Library: readme_update:bbf850413b249868da20e74a824781ad4b5ac7f5;master:44a7af3a3e0ec4ebef78a7726fcd4176fb063712;gh-pages:72bec3979bad5ff498ebcba387523916e38a28d8;doxy-fix:6582bb8fc13e29763fd022ddd2c82fb71a2ebf36;|2023-10-03T20:49:50Z|SIZE:140158
 adafruit/Adafruit_Python_ILI9341: master:f1fb7ec1614e3fde8fa25ad1324cdaa8fdb416a8;|none|SIZE:37123
 adafruit/Adafruit-GPIO-Halt: master:9671c327d2c07f7955d1fef26c6bde132759020a;|none
-adafruit/Adafruit_TMP007_Library: master:bf53e8185e55e6b4d4e0d454af0aa80350d6da28;gh-pages:5631dc4d8c946c530f9c6f50f88c4dfc484e5a89;actions:d7e99a17a41a811246e624a0f6cfcaf7ace798fb;|2026-03-03T14:48:50Z|SIZE:1254603
+adafruit/Adafruit_TMP007_Library: master:bf53e8185e55e6b4d4e0d454af0aa80350d6da28;gh-pages:5631dc4d8c946c530f9c6f50f88c4dfc484e5a89;actions:d7e99a17a41a811246e624a0f6cfcaf7ace798fb;|2026-03-03T14:48:50Z|SIZE:1254602
 adafruit/Adafruit-Talking-Clock: master:0b87769fcd721489e0e00bf42d8d75846296e5fb;|none
 adafruit/Adafruit-2.8-TFT-Shield-v2-PCB: master:607bcb39927756fdf6f26de358471e876bbd9bbf;|none
 adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:1855
