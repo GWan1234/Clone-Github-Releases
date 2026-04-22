@@ -1955,3 +1955,4 @@ adafruit/CircuitMatter: main:14140f75530c6919855c60183dbe1e587cc6592a;circuitpyt
 adafruit/Adafruit-USB-Type-C-PD-Switchable-PCB: main:d10701c22751842250420a06cf4d39d50d58c750;|none
 adafruit/Adafruit-QT-Py-CH32V203-PCB: main:c5c1580d9823d2f8923778530339179531d024f6;|none|SIZE:1613930
 adafruit/Adafruit-CH334F-Breakout-PCB: main:a29ea7705f029962ebec1947eac3fb4d641f63bb;|none
+adafruit/Adafruit_CircuitPython_RFM: main:7530d24d844bedff6119a8b5876e247d4bd16550;dhalbert-patch-1:fbd6d1dfe2f015fabfe58a530ecf9516cf0f0b5c;|2026-03-27T19:03:07Z|SIZE:72069
