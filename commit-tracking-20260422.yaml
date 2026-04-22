@@ -1226,3 +1226,4 @@ adafruit/micropython-adafruit-ads1015: master:16dacb638a4965765f89577e773eecd7ad
 adafruit/micropython-adafruit-pca9685: master:0fea2736f99a2840f0d644be866f6abd5bc14b48;|2016-10-30T21:28:00Z|SIZE:11146
 adafruit/micropython-adafruit-max7219: master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062;|2016-10-30T21:26:19Z|SIZE:8853
 adafruit/Adafruit-LIS3DH-Breakout-PCB: master:f5f3e1b33fec19a56b2c14c69bb1b97c1c4f2861;|none
+adafruit/Adafruit-Feather-32u4-Adalogger-PCB: master:c7e87d6e0feb5d3e048c3715038c0e4ce71cdfa0;|none
