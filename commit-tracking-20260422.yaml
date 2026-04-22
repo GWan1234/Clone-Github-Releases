@@ -1687,3 +1687,4 @@ adafruit/Adafruit-LC709203F-PCB: master:65d60917fbe771308a387132dc943800a52f1380
 adafruit/Adafruit_GC9A01A: main:a03514ae042e990bc8d16f51aad7e87dabd989b1;gh-pages:2bd7c6d983712b70e9affa9d38002c9e936b4ab6;|2023-06-07T16:56:54Z|SIZE:100143
 adafruit/CircuitPython-Apple-Watch-app: master:a1e41e6179cbe11f07c37598a35840e7d7197b7c;|none|SIZE:146498
 adafruit/Adafruit_CircuitPython_Pixel_Framebuf: patch:7446063008387fe3de80920cd9f5064b95aa87b3;main:555b30acf78ba65cec48f64b3350e19fddada4ce;|2026-03-27T19:11:39Z|SIZE:49314
+adafruit/Adafruit_BNO08x: nrf_buffer_fix:3cbbb7460ec03901f479c556a649bc0b81a49ac8;master:0301e6d5d838609b5f30afafdd9e56dfb1a02d47;hal:c656229dfc6ce450ee7651aa644bcdbb645c811c;gh-pages:5909869a6705284481234ef511652de5af66a511;|2023-11-15T15:27:46Z
