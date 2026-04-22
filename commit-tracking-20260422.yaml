@@ -2389,3 +2389,4 @@ adafruit/Adafruit-Radio-Bonnet-PCB: master:dd0cb11d273a3e95d90786b02c9ded95ae616
 adafruit/Adafruit_CircuitPython_BluefruitConnect: patch-fix:2370266e60a10f079d9890a8639ea03b37df77f4;main:a6228fb184151c13665270029f82bfc90b211147;REUSE:15b5fe922a0b965f2264704ebdfbc9001451e433;|2026-03-27T19:08:25Z|SIZE:75675
 adafruit/Adafruit_CircuitPython_MIDI: useful-repr:f89b137f8800e7b6b70521e20a9597504d9e7c21;test-lint:2de0cece802129d6d07d2c23f5e3badd0c060d23;patch:27ee05b34e85dd3705ff9221a147eff5f4f8fd38;main:dbd3b64d71fb4f6cf73563c1dfc7af7083f6a37e;|2026-03-27T19:10:50Z|SIZE:129235
 adafruit/Adafruit_CircuitPython_ST7735: setup-py-disabled:3814f672f5565e7f9c60f5f5f6d32e90c90da96d;main:0d7c32f55526925a52552ee5e37d47633227d9fe;|2026-03-27T19:04:45Z|SIZE:33809
+adafruit/Adafruit_CircuitPython_ILI9341: setup-py-disabled:0a4d1e8cf2d71fd0b9e8f471ad6bd4af3d953d60;main:cb18e35eba708595d0ea6a74b0c3ac3f4f1a943e;|2026-03-27T18:59:21Z|SIZE:34839
