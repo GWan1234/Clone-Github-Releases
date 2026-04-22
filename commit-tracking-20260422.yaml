@@ -77,3 +77,4 @@ cockpit-project/.github: main:1f0f37943e41c60e144a466f4e936aadcc397eda;|none
 cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
 cockpit-project/subscription-manager-cockpit-weblate: main:75a82c86be26d28d28df4150700e25e406515e97;|none
 hacs/integration: uvwhenposible:f8d6b76d23a72d48e70db040a671a9b4d0b6d3bf;use-new:91bf63bb033250deb85097ce19bc798693e1b8c7;tests-update-setup-ha:856744555d198ba3e0101eac5d611107cb770c21;ruff:b2d670024a42def4784af8ec90b3e101d330d68d;revert-3265-blueprint:7ab348a0aade9615713cba375c5f9f3c79b12c7e;|2025-01-28T07:26:46Z
+hacs/org: master:ca997bdcd473d0f621a1d8936f6d055b9b6bde94;|none
