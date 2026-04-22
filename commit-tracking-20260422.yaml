@@ -1713,3 +1713,4 @@ adafruit/Adafruit-Metro-ESP32-S2-PCB: master:42dac1c66d3001a97ef5565b1fea2e84236
 adafruit/Adafruit_CircuitPython_TMP117: stemma_i2c:9c1ab7bb38c054d18f1883c1863a52f291ae57e4;precommit:80b4f42bacfab8f67b16d1677a1c246364ad66de;patch:4cf8913abdcb3b797dd9571bf3edc3b5c90e5987;main:5b56c7421739ba22bab0547c6703dcde4470b6cd;|2026-03-27T19:05:37Z|SIZE:99930
 adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB: main:a48daa304b9d13a8d1f4ab29866c116abd44727d;|none
 adafruit/Adafruit_MagTag_PCBs: main:2746976559095738acfb7063a46d37e4d7c93603;|none|SIZE:1495850
+adafruit/Adafruit_TMP117: master:6876d913b529ce408060f38013037e5ed0c1abad;gh-pages:a3553945440c9337895266d56846bcec4cd76433;|2026-03-11T17:57:10Z|SIZE:110191
