@@ -706,3 +706,4 @@ adafruit/Adafruit-IoT-Printer-Enclosure: master:2a832e2684e7725d4fb0004d7d63436f
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de;|none
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb;|none|SIZE:203665
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: master:e2b7a7ef61b9cee1720b28030a2944d5efeb20fe;|none
+adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: master:1d637245ba0df241e05768b4b201ae9e80e4f0a0;|none
