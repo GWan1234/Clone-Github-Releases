@@ -2615,3 +2615,4 @@ adafruit/Adafruit_CircuitPython_Wii_Classic: main:d0c1722f1c2374e25bdb39f3f9961b
 adafruit/Adafruit-PiCowbell-CAN-Bus-PCB: main:6a54bc0068c96f8ab23616ab215f0996f77bea80;|none|SIZE:1234303
 adafruit/Adafruit_CircuitPython_Wave: main:10f7ed33cbf75b0f42ffe9aae721f57583a33ce6;fix-doc-badge:217ba01fd888767d23acc7b6dd83f8bc78c30a30;|2026-03-27T19:15:23Z|SIZE:52294
 adafruit/Adafruit_CircuitPython_Prompt_Toolkit: main:85d6eb83bec32ab22deda9e4830ab46baf62f095;|2026-03-27T19:14:12Z|SIZE:19164
+adafruit/Adafruit_CircuitPython_JSON_Stream: main:a8d424d829aaaa360738916313a05f7d53468028;|2026-03-27T19:10:31Z|SIZE:26986
