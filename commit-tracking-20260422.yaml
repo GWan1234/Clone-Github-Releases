@@ -2530,3 +2530,4 @@ adafruit/Adafruit_MSA311_PCB: main:a4a29e76941999057e062a5255594cabc4eba0ca;|non
 adafruit/Adafruit_CircuitPython_HTTPServer: reuseaddr:2fd62996ece966d9fd2c14c9fa06dc9aadb903b2;main:d55c6f54aba54df9b0e0b9d83ddf7fca46eea5e4;|2026-03-27T19:10:08Z|SIZE:102071
 adafruit/WipperSnapper_Firmware_Uploader: main:7bfc6c185f55d2ec86c33f326cf3358001a15f58;|none|SIZE:46077
 adafruit/Adafruit_CircuitPython_ADXL37x: main:97e0df960a9aceacf35e35396064946fac31944b;|2026-03-27T18:55:55Z|SIZE:20471
+adafruit/VL53L4CD: main:a642dda7d53bf583f6e214fc2c02ec7485a195a8;|none|SIZE:12625
