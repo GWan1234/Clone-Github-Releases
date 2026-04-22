@@ -2014,3 +2014,4 @@ adafruit/Adafruit_CircuitPython_TLV320: main:2634a33bbc2a51f75789a635d752ae3cf61
 adafruit/pico-mac: reenable-speaker-set-volume:1c71dd765ae86b2501cb3db477f54ea9ded9bc2e;oc-psram:dc7ab44c2369a0e5d8d983cbdabbd6dccfc4f3af;mute-etc:b1c20d06eaeed5fd2947e357465f38f99771aae4;monochrome:8d96b38ff32ef8c5d82c4e459cb14d41cc38cca8;main:59c910b5c96a3a9c1a6fb62868775e711e56ce9d;|2025-10-28T16:05:13Z|SIZE:157454
 adafruit/Adafruit-TPS65131-Split-Power-Supply-PCB: main:5c4644c7acc1e285870881ca24b7542121193ce7;|none
 adafruit/umac: soundemu:431e905354e975cd942eb4c1c5ea5a39237691ab;resolution-extension:3b58a695a07bb30878996d455d26a499a935999b;main:d08af73527e47b839744434a0707a6e164f3a82d;|none|SIZE:120424
+adafruit/pico-extras: pico2-dma-pio:8606fb88057873154f9b6f98a3e52e233cd988d9;master:f05d4f7371802440cadd36744789a26944d950ac;|none|SIZE:184666
