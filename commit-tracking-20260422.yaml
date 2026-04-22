@@ -1937,3 +1937,4 @@ adafruit/Adafruit_CircuitPython_CH9328: main:ddbf8efd2c2e2cb84bc7bca2729866f564f
 adafruit/arduino_core_ch32: main:273620c809ba4cc3c6928543c6929634de8e50ba;add-qtpy-board:5355d8b506bcce97501061e2bc437c8a6934ccf4;|none|SIZE:735306
 adafruit/Adafruit-NeoPixel-Breakout-PCB: main:f8b87c97d100d141f227df93ddbd021832337ae4;|none
 adafruit/Adafruit-DS2484-I2C-to-1-Wire-Bus-Adapter-Breakout-PCB: main:ef315868cc398ecc9a0faa217e7256dd28717d74;|none
+adafruit/Adafruit_CircuitPython_DS248x: main:dd7f323e31a9c4fede777187131596442d7881e0;|2026-03-27T18:57:53Z|SIZE:20956
