@@ -1993,3 +1993,4 @@ adafruit/Adafruit-TMC2209-Breakout-PCB: main:227f79e2cda77b99653316692f8ec1975f5
 adafruit/Adafruit-Sparkle-Motion-PCB: main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef31a;|none
 adafruit/WLED: main:b64cd36468384bf4f293a72602cbb2b860b25146;|none|SIZE:10164388
 adafruit/Adafruit_CircuitPython_Display_AnalogClock: main:4e7356ac16c5f0ce69386a6f2924c370ca1e323d;|2026-03-27T19:09:06Z|SIZE:20597
+adafruit/Adafruit-Mini-Sparkle-Motion-PCB: main:2c29150d79a7e4539b1e595055df8d9086d79dda;|none
