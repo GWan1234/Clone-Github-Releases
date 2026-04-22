@@ -118,3 +118,4 @@ esphome/ESP32-audioI2S: prepare-for-m4a:e58054fc31bcdc32ba86b5112b604a9dd0cb4c25
 esphome/media-players: main:79da2bb202c1f4bea5d0dbea017a3b3e7fcc1e09;jesserockz-2023-172:01245a73134432ea0f4365ca0b2bed18d4fcaf5e;gh-pages:a349800cd953bf5fe9001d922372807dd9a08fc3;esphome-version-update:5c8e896ae274845ac12a1a3ecce83ae4a9632173;|2024-09-30T01:22:00Z
 esphome/arduino-pico: pico-w:910a7e997b3843f96ed80186fd8f48e01bc6d13a;master:91e69e2a1ac984b8f29d88292da287fdf03800d7;|none
 esphome/bluetooth-proxies: main:6054c5a11b04dfbfc58f8d700716d4f2ed73517f;esphome-version-update:bb287c80f85cd88aae2aafcf87d064cef61e27d1;|2026-04-15T20:45:36Z
+esphome/deployments: main:c50b61d9ace129171add357cdcc242c51eed2e16;jesserockz-2026-068:4f606eaa5e4815691242eb02811e5ee2925e1613;jesserockz-2026-067:fd0fe022c965c907d15e508bbcab46fa5c723b59;dependabot/github_actions/hashicorp/setup-terraform-4.0.0:56ec8fc1045bff345d1605a85628a7c9ad8f9dbf;|none
