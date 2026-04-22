@@ -1733,3 +1733,4 @@ adafruit/Adafruit-SCD-30-PCB: main:54178bea411a7661007c529d41ed45fce767d155;|non
 adafruit/Adafruit_AW9523: master:43744cab9ed6e65e73964a04941673a7e823b18b;gh-pages:191350351ae78b18f931b6766e8369a4d39b9f3e;fixhighpins:4518f4dc804c2c0914b389421b2af0f4eb98a265;fix-ci:e3a4e4396f53b2a8c2bfb2d429fb5c42ecf56084;|2023-03-05T22:03:34Z
 adafruit/Adafruit-Feather-RP2040-PCB: main:ea88166891ee0a1697a3899a5d55ab3722a2f125;|none
 adafruit/Adafruit-SPI-Flash-SD-Card-PCB: main:8d985bd12f2732e94b4727e24874646f5911cd75;|none
+adafruit/Adafruit-SHT40-PCB: main:40fe2b3aca1aaa3b2185d3d138e77d5b043a56e1;|none
