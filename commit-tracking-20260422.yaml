@@ -1724,3 +1724,4 @@ adafruit/Adafruit_HTU31D: master:0f5ebb6e9edf9d842f1ba3795202a3b85ede8808;gh-pag
 adafruit/Adafruit_CircuitPython_FakeRequests: patch-fix:99105bc59ca43bc2c76d82ef95fd40f1856df068;main:f9f9d061a66453e0d3164ffd4e046ed3b6007669;|2026-03-27T19:09:27Z|SIZE:41343
 adafruit/Adafruit_CircuitPython_PortalBase: main:b67904c7bca12d7ee443e16bc40d64fd67c7cb48;|2026-03-27T19:14:04Z|SIZE:31079
 adafruit/Adafruit_CircuitPython_SCD30: tannewt-patch-2:6e7a63b482826c4d22b2c2af91c60c234a5b4aa4;tannewt-patch-1:c90c9722d3638dc178e8bec453a9c8782c5354cb;slowdown:4a7b33f6d6f1010afc55488a636a3f4fd0f4de67;main:57711946156b146e96575e9e52d48b0eb0ee5f0f;|2026-03-27T19:03:25Z|SIZE:95894
+adafruit/Adafruit-SGP40-PCB: main:57911e5d238bc5c3730c621e3135ff2aa36604ec;|none
