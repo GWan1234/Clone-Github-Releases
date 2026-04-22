@@ -1423,7 +1423,7 @@ adafruit/pxt-seesaw: microbitv0:526af9cb87b792123d1be9ca53b759ffbb487579;master:
 adafruit/Adafruit_Community_Code_of_Conduct: main:b8438fe7ca77815dc82f4139f8c3b549d95a9fc6;direct-message-update:e6f19326889a5bfc998f9b1cab7496177700a228;dhalbert-patch-1:7fe37305b6dc2ca02a6c579618a532ee6de146ea;|none|SIZE:27060
 adafruit/Adafruit_CircuitPython_LED_Animation: patch:9fde73f3dc34a2f3007a7a9b3ca1633adc511494;optimizations:73d5f61c6e059a289e7ff548fb90197559683f86;main:7cc736df1628f767c4fc6f23287cedbf6e80f4ce;REUSE:3ed7a36c878ba80b597418b2db161b7000a425c6;|2026-03-27T19:10:37Z|SIZE:145566
 adafruit/Adafruit_CircuitPython_Colorsys: setup-py-disabled:d8f4d85984e5459b9be5a21f593e562d50e11078;main:e607d12f9daa88cbe4a5bca4a727473e942ee95b;fix-module-name:c68a56d04f66314abb92aa5e86fbb6841b6578f7;|2026-03-27T19:08:37Z|SIZE:59951
-adafruit/DotStar-2020-8x8-Matrix-PCB: master:40f15689e170cea4bffe8427b758e0617109e5db;|none|SIZE:452497
+adafruit/DotStar-2020-8x8-Matrix-PCB: master:40f15689e170cea4bffe8427b758e0617109e5db;|none|SIZE:452496
 adafruit/Adafruit_CircuitPython_TMP007: main:1324b9c69c7fd139851d5762cadea417ddf3bf4b;|2026-03-27T19:05:35Z|SIZE:18907
 adafruit/Adafruit-pIRKey-PCB: master:6f962ffc77d781d85bb019384fd80bceb0dc80a4;|none|SIZE:1246352
 adafruit/Adafruit-NeoPXL8-PCBs: master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802;|none
