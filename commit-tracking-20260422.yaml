@@ -1806,3 +1806,4 @@ adafruit/Adafruit-5x5-NeoPixel-Grid-BFF-PCB: main:defbba9accab3281a52eb74f49cb0e
 adafruit/Adafruit-MOSFET-Driver-STEMMA-PCB: main:ea11049753a79330cc2651df233909c0191a5af4;|none
 adafruit/Adafruit-IoT-Button-with-NeoPixel-BFF-PCB: main:6c3fe13b68c13fb1ca52c27b5d0db88478e917f9;|none
 adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB: main:ce3ce90565b9e49af0ebbd1c2e0abd300d2fd0d3;|none
+adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB: main:e724d4d8524af681a166bce0f3d29dee50b44cb1;|none
