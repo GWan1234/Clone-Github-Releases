@@ -226,3 +226,4 @@ ioBroker/ioBroker.vis-template: master:d0886db449e0b42a426e466248a72cb6e41468d0;
 ioBroker/ioBroker.vis-keyboard: master:4f550155490987c5d62d881439b89795fe959963;|none
 ioBroker/ioBroker.vis-knob: master:5186dac2e8022360518f24319bc97fa785bb8f06;|none
 ioBroker/ioBroker.vis-google-fonts: master:40125b5d52ccad006d0ccaf9efee7232aa43cce6;dependabot/npm_and_yarn/mocha-11.7.5:8005b7dabbe4d031f6a99dbf9b81f0bbbfff035a;dependabot/npm_and_yarn/iobroker/testing-5.2.2:2be5de021c8aeefcdca60836095c609bb96bce59;dependabot/npm_and_yarn/iobroker/adapter-core-3.3.2:e8a6b60edc04120812eaaa1f6d49750cb36d089c;dependabot/npm_and_yarn/chai-6.2.2:cdf5a9b66e8bf35184a1a6abb557244b733feac5;|2022-10-08T14:04:34Z
+ioBroker/ioBroker.example: master:e7db900495bb3c2b89dc35d863dda4ccf33f5def;|none
