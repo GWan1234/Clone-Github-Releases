@@ -2131,3 +2131,4 @@ adafruit/Adafruit-TMAG5273-3D-Hall-Effect-Magnetometer-Breakout-PCB: main:543c3c
 adafruit/Adafruit-ADS122C04-24-Bit-ADC-PCB: main:bb60e307305d48648d0d77d3edcdef25bee5c94a;|none
 adafruit/Adafruit-VCNL4030-Proximity-and-Lux-Sensor-PCB: main:2cb43e92b39950b2a3431f76c197c378cac2ba3e;|none
 adafruit/Adafruit_CircuitPython_TMAG5273: main:61f3843630524f766cc3358d716d4ce233e911c0;|2026-03-27T19:05:30Z|SIZE:21085
+adafruit/Adafruit_CircuitPython_ADS122C04: main:8cc031a70a88212c3ae2174648c9e742ad306f98;|2026-03-27T18:55:41Z|SIZE:21905
