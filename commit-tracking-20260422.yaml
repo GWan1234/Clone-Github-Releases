@@ -2501,3 +2501,4 @@ adafruit/Adafruit_CircuitPython_SCD4X: patch:e0aa248fee6ebf3b0599614c6c3439189e1
 adafruit/deep-dive-notes: main:6ead4f3ff273d8023c389b9f1ad02960cc08896b;2022/2022-08-12.md:d9c4bd7a62c8028bd0a6d4aeed5c3a744c3f0e68;2022/2022-08-05.md:98b526b01bb79fe0ac11fd7206d632a869d69067;2022/2022-07-22.md:1bc6676bc598a05cb9268ee3247ddd3d35d7f83e;2022/2022-07-15.md:1b5ba24c58c0b8c4cd57d5a4d76db8ac5377a04a;|none|SIZE:1210638
 adafruit/Adafruit_WebSerial_NVMGenerator: update-to-beta-13:9cb6afb1f49fe1317a4f877039232788256a7a8e;main:d618be82ed94f6c5e6485a4b4dfa27156fba7e7d;|none|SIZE:1164900
 adafruit/quirc: main:8c6ffa228a4c7643daed7039d3c51d38a43991b8;|none|SIZE:34735
+adafruit/Adafruit_CircuitPython_PCF8563: main:16e3112885b0b6149b4dfa1749181424dd5da122;|2026-03-27T19:02:34Z|SIZE:20147
