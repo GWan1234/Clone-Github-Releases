@@ -1467,3 +1467,4 @@ adafruit/Adafruit_CircuitPython_HTU21D: main:d8354f88bbe47bab30f4053436dad660e80
 adafruit/Adafruit_CircuitPython_miniQR: main:c609df93ae520b0d8dd4b0b2444d9de9065f58a0;|2026-03-27T19:11:01Z|SIZE:23900
 adafruit/Adafruit-NeoTrellis-4x4-PCB: master:d9c12effecfbaab5c55e2c96186188166340862a;|none
 adafruit/Adafruit_CircuitPython_CAP1188: patch-fix:01663b092fd4d660ceabca0b7082fba4aaa4f05d;main:32928c232587a9ffa930cbac693b90f719286a31;|2026-03-27T18:57:05Z|SIZE:45155
+adafruit/Adafruit_VEML6075: master:61e8704ddd2c4afa00398918de329ddcf1f902dd;gh-pages:067c84d9f2d43d4d2f449d8bef04d8a128baa816;|2023-11-15T12:50:01Z|SIZE:96025
