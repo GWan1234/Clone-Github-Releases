@@ -1459,3 +1459,4 @@ adafruit/Adafruit_CircuitPython_ImageLoad: setup-py-disabled:8a76008a0f77fc7127d
 adafruit/Adafruit_CircuitPython_HCSR04: main:de9c9a400f1780ce54a49ff62329dfeb357e519b;|2026-03-27T18:58:49Z|SIZE:274521
 adafruit/Adafruit_CircuitPython_VEML6075: patch-fix:4aa7dab62bed70025f735d8fe068d3a73447e482;main:5fa80ae376c5d506afc71677d111c26a4f9b3600;|2026-03-27T19:06:33Z|SIZE:41751
 adafruit/Adafruit_CircuitPython_MPRLS: main:70162ccdd68666e88014cb06bb49c35b8b1c3f2e;|2026-03-27T19:01:49Z|SIZE:18628
+adafruit/Adafruit_CircuitPython_TFmini: main:e1e713ff708a8c32bc6dbfb4911a184232d9be50;|2026-03-27T19:05:11Z|SIZE:18625
