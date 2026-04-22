@@ -2433,3 +2433,4 @@ adafruit/pxt-adafruit-boot-sequence: master:bb1cd172c3603161afbf5e6062c1d5efc2ba
 adafruit/Adafruit_CircuitPython_RSA: update-badge-url:73756b929f16b344020ddf913a38aba9192987c3;patch-fix:0c425c9c9be096e1cb821036654f3f5ae0f141f8;main:0f55828eec99d1f3f0b9f7f39b75c31943dece20;linting:07a6bc695b9c55d3ea54ac4ddb2875b6bccddc59;|2026-03-27T19:14:40Z|SIZE:160394
 adafruit/Servo: master:25587715ccf7be0c65d551ee8a81f45325a2f143;adafruit_samd51:962192408a0a2608351fc54e567bca28ccb2b74b;|none|SIZE:26819
 adafruit/Adafruit-PyRuler-PCB: master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0;|none|SIZE:1338337
+adafruit/Adafruit_CircuitPython_IL0373: main:1ec7d1d1747a249991dc3150c864c5c0c3c457dc;|2026-03-27T18:59:14Z|SIZE:24497
