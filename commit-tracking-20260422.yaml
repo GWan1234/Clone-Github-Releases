@@ -173,3 +173,4 @@ ioBroker/ioBroker.dwd: master:ef1bcda9f43edcedca7da7e5405c87bb272f0423;dependabo
 ioBroker/ioBroker.mobile: master:6c5d66927c4cdf3dc8404517803c7add379b6f76;dependabot/npm_and_yarn/follow-redirects-1.15.4:368c7b57b4b5712d2d742d3d07482b4a36bc044e;dependabot/npm_and_yarn/axios-1.6.0:f8e55f00b2a6710b49664aa823f1305ffaf99b69;|none
 ioBroker/ioBroker.build: master:a95b8765549ea708994724877bf9e774961c5b70;copilot/fix-22:3f71be928ac88ce1fea14773c2574a008d06006b;|none
 ioBroker/ioBroker.legacy: master:c1d631c13941814be0f0f9b3ce93fcff2f3bad25;|none
+ioBroker/ioBroker: windows-installer:141b2759df943ece2e7af8f35eabdb4b0e374a56;test-ports:a9168fb4775844e934b0a1954c0f663ef06a3540;redis-fix:07ef9b068b069f84d5270b5c62ae8c2f2dfac14d;master:9d96d9ca07e86c680be7bc183fe931a4f29cb9a2;fix-windows-tests:409c2c6ea29b2c9bed742190d1006a60d456a94c;|2026-02-01T16:40:18Z
