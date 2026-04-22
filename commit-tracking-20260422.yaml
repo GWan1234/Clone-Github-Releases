@@ -889,3 +889,4 @@ adafruit/Adafruit_UNTZtrument: master:69c337b04206297aae3d765c9b0e699005e3a75c;g
 adafruit/Adafruit-AD8495-Breakout-PCB: master:44233ee9745b90065778f47a497aaca7df131f38;|none
 adafruit/Adafruit-40-pin-TFT-Friend: master:f9efc2816b9a4665d219ac4bde7d5dddc7d82945;|none
 adafruit/Adafruit_Python_BMP: master:54b307fa6e5b039adffab5dcb6f506d70b8f3249;|2018-08-30T19:12:21Z|SIZE:10444
+adafruit/Adafruit_TSL2591_Library: master:a857bf93c10b5d60d02928c7a6c364e67ff5e0f3;hoffmannjan-patch-1:8860a6edc41db43f2511deafc56bae127a7f06d5;gh-pages:f9d9699fd8df32acbe9e248a9526bf11566c36ff;actions:75f0fb9c34c7741796b80d30ae48650492fb2682;|2023-11-15T15:20:11Z|SIZE:124353
