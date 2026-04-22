@@ -1220,7 +1220,7 @@ adafruit/micropython-adafruit-tcs34725: master:96f9936317130f8a140b4e638ebb77aa4
 adafruit/micropython-adafruit-tsl2561: master:4dc704265ec783d8949130698140c85d8d2d7375;|2016-10-30T21:23:19Z|SIZE:11383
 adafruit/Adafruit-FPC-SMT-Adapter-PCBs: master:912e2d995534371c4cf32d994de5610cb6000167;|none
 adafruit/Adafruit_Si7021: master:223a4b93942404bdf68ea8c107e86a1dc5d3c379;helmut64-ECO_POWER:a6e6631442e024493aa8e6907b18ca6d60ce9e82;gh-pages:43eb0d14c7dadd554a2124cccaf5d284ae637057;actionci:2ed011d2b28f9296d15b31f12e753d54d9661ea5;|2023-11-14T20:16:55Z|SIZE:1009164
-adafruit/fritzing-parts: travis:6698c45ee1ba4087cab75d777a62cf9b081eb8f3;test:f0a661209c21f1fa07ebc3e765a2d91d7df1579d;nightlyParts:964eea03a6b24bb6e19752a90b7f0c6188b36911;master:504ab2c6710024789d077f7bd6305eddf74a5732;gh-pages:18db0274a1ade942d6643fca95414f0c7830501a;|none|SIZE:49369273
+adafruit/fritzing-parts: travis:6698c45ee1ba4087cab75d777a62cf9b081eb8f3;test:f0a661209c21f1fa07ebc3e765a2d91d7df1579d;nightlyParts:964eea03a6b24bb6e19752a90b7f0c6188b36911;master:504ab2c6710024789d077f7bd6305eddf74a5732;gh-pages:18db0274a1ade942d6643fca95414f0c7830501a;|none|SIZE:49369272
 adafruit/micropython-adafruit-is31fl3731: master:0037ebc519ba3ffb29d556868e75718f4966dd39;|2016-11-02T18:25:40Z|SIZE:10534
 adafruit/micropython-adafruit-ads1015: master:16dacb638a4965765f89577e773eecd7ad0b1e13;|2016-10-30T21:24:32Z|SIZE:9711
 adafruit/micropython-adafruit-pca9685: master:0fea2736f99a2840f0d644be866f6abd5bc14b48;|2016-10-30T21:28:00Z|SIZE:11146
