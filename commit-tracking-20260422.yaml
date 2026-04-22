@@ -2347,3 +2347,4 @@ adafruit/Adafruit_CircuitPython_Slideshow: revert-30-join_paths_instead_of_conca
 adafruit/Adafruit_CircuitPython_ADXL34x: main:177eaf02c1efa54f6f9895a2f394093bbd832a79;|2026-03-27T18:55:52Z|SIZE:22201
 adafruit/nrfx: master:66628bc1b7024a53d0af9ff81a483abc5557871a;circuitpython-v3.3.0:d0d0a36419d7b43f33c3d1d4df8b5a44e58c60c3;circuitpython-v2.0.0:ab21106ea57b63d97b757a9f17201ddf298ffab0;|none|SIZE:3063489
 adafruit/CircuitPython_Badge_README: master:5e6380f8444a7f879b82b3da98b11543c0783791;|none|SIZE:39682898
+adafruit/TinyLoRa: master:dd6392bbb8a9b8544cf7f79b137d2bec3a58fc6e;init-reset:7b8d1d8e63372f938e936c2fe9a60aec2ea4e4c6;gh-pages:602cfd523a7c041b218003c45f23342d51c4ac1b;fix-regver-issue:cbcd5d9ddca50942c302df6a00070b1f7c0c6cbb;brentru-patch-doxygen:b6ccbe110a350912dc43daf564adf5312323aa89;|2026-02-11T17:58:06Z|SIZE:139081
