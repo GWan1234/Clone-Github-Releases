@@ -745,7 +745,7 @@ adafruit/Adafruit-1.8-TFT-Shield-PCB: master:b1b4d0c39047ab5ab925ad0953ec4c94e3e
 adafruit/adafruit-raspberrypi-linux: rpi-patches:d0fecbde7dc5ff4afb88027630e764a976ecd5fd;rpi-kali-3.18.y:cef70a86b35ba54d6b949c1997c48b41143d5de2;rpi-4.9.y:1418a05a5d81ef829418767bf53e3cd93fc38a55;rpi-4.4.y:6864aa4f92d00dfa2e5f75607e1356c4fbbc99dc;rpi-4.1.y-trythisagain:ad46d74df33d342f95424f10e89567a7fb176076;|none
 adafruit/Adafruit-TXB0108-PCB: master:ea2a59cddc4cc8bde3f95343c84faf0bbdd8e8ed;|none
 adafruit/Adafruit-Raspberry-Pi-Python-Code: master:b4aeee58b670645149f6f682a6c5ac04a0a0d314;legacy:9ff733d59242a02f7ccd0222001ce80f6090a978;|none|SIZE:45930
-adafruit/TIMESQUARE-Watch: master:9c604a9a8826a33d8d6ebfb8ae42fc12068bd0dc;|none|SIZE:25510
+adafruit/TIMESQUARE-Watch: master:9c604a9a8826a33d8d6ebfb8ae42fc12068bd0dc;|none|SIZE:25509
 adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB: master:02c953af3a9c7c53d0c33faaa98a8aa1bffca5be;|none
 adafruit/Adafruit-WebIDE: update_setup_image:9e6f26ed45d349649d84bc8b22f6592185429ed3;test:a169807033eb4c3137c064980725430be31be744;terminal:9d1d5542ae79fe9433949cf493a730ad3e8dc321;startup:260dfe06d9ede3e8d43a4104548846132f23e527;selfcheck:558836a68556008e8b0a0732fe20535ab6ebba3e;|2018-03-13T18:13:20Z
 adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: master:74d6e65d5d33551bb1158547309b19381252ed38;|none
