@@ -912,7 +912,7 @@ adafruit/Adafruit-GPIO-Halt: master:9671c327d2c07f7955d1fef26c6bde132759020a;|no
 adafruit/Adafruit_TMP007_Library: master:bf53e8185e55e6b4d4e0d454af0aa80350d6da28;gh-pages:5631dc4d8c946c530f9c6f50f88c4dfc484e5a89;actions:d7e99a17a41a811246e624a0f6cfcaf7ace798fb;|2026-03-03T14:48:50Z|SIZE:1254602
 adafruit/Adafruit-Talking-Clock: master:0b87769fcd721489e0e00bf42d8d75846296e5fb;|none
 adafruit/Adafruit-2.8-TFT-Shield-v2-PCB: master:607bcb39927756fdf6f26de358471e876bbd9bbf;|none
-adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:1855
+adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:1854
 adafruit/rpi-firmware: master:8f305cad54cf725a14551b59a2e33c6fd37d7492;|none|SIZE:16648329
 adafruit/rayshobby-hid-serial-trinket: master:282903bdcb78856a5fe74fb0ae16e8473c1431b4;|none|SIZE:7492859
 adafruit/Adafruit_CC3000_Shield_PCB: master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba;|none
