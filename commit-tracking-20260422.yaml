@@ -1809,3 +1809,4 @@ adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB: main:ce3ce90565b9e49af0ebbd1
 adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB: main:e724d4d8524af681a166bce0f3d29dee50b44cb1;|none
 adafruit/Adafruit-microSD-Card-BFF-PCB: main:65445ba23f0ee7e381b21e19db13e9ccfef9ba11;|none
 adafruit/Adafruit-NeoKey-BFF-PCB: main:4f0e7f24bc6bd4af262cbd93772e1eeb09c9244a;|none
+adafruit/Adafruit-ATtinyx16-Breakouts-PCB: main:8d8df661986daff4623344e7244f5448a0d37fba;|none
