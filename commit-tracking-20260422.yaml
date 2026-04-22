@@ -1391,3 +1391,4 @@ adafruit/Adafruit_CircuitPython_DS2413: main:4799a06c93f3425dc331639b2ef1ddec874
 adafruit/Adafruit_CircuitPython_LSM303: master:466dedfcdc107260a888af42babdb6868a0557d5;|2019-08-23T21:27:16Z|SIZE:17397
 adafruit/Adafruit-Feather-328P-PCB: master:62859c243921da2d1221681373356f1559855cbc;|none
 adafruit/Adafruit_nRF52_Bootloader: tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4;master:48a149ffcb2e092051d1169f443f9b9b8613a54c;|2026-02-03T08:49:48Z|SIZE:2428461
+adafruit/Adafruit_CircuitPython_MCP4725: main:b9f326e5787a8e43851d41989588d184ff91c337;|2026-03-27T19:01:11Z|SIZE:18958
