@@ -916,3 +916,4 @@ adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:
 adafruit/rpi-firmware: master:8f305cad54cf725a14551b59a2e33c6fd37d7492;|none|SIZE:16648329
 adafruit/rayshobby-hid-serial-trinket: master:282903bdcb78856a5fe74fb0ae16e8473c1431b4;|none|SIZE:7492859
 adafruit/Adafruit_CC3000_Shield_PCB: master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba;|none
+adafruit/Mini-LED-Gamer: master:4e230a14bdc480bc3f983829d7cea8b83dadd3be;|none|SIZE:7759
