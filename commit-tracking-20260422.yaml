@@ -1233,3 +1233,4 @@ adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: master:217534674defab8d
 adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: master:c5bdfe4c8e860cee7400539d6e45a235da7afcd2;|none
 adafruit/Adafruit-DS2413-PCB: master:a5aeeffa483ae80c718e9cb3cd23ea769cd5321b;|none
 adafruit/Adafruit-Si7021-PCB: master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d;|none
+adafruit/Adafruit-MAX31856-PCB: master:fee86485c7b8150e20707d628b4c9d6f52d87255;|none
