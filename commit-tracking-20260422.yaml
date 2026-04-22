@@ -1559,3 +1559,4 @@ adafruit/Adafruit_Spectro_Pi: master:5da6bd1f40b9ea37b6b19d87967baeaec36ac9ef;|n
 adafruit/Adafruit-MCP4728-PCB: master:ab66f6aaf2e95f0027f17c2dde804d79508300f2;|none
 adafruit/Adafruit_CircuitPython_BLE_Magic_Light: main:0c3d41008f59ccfdb2a29231a60ba7e5bbbba013;|2026-03-27T19:08:20Z|SIZE:18447
 adafruit/actions-ci-circuitpython-libs: main:fdf1cc33fc828429d08b1785de92ba214038b469;|none
+adafruit/Adafruit-MCP2221-PCB: master:53e780f92007ff5cd0de8680872af6d316c64847;|none
