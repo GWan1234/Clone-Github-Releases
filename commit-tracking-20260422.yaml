@@ -2089,3 +2089,4 @@ adafruit/reload-emulator: main:96f776934bb2b08f0eadce0648d9f639b77cfb0d;|2025-10
 adafruit/Adafruit_CircuitPython_JD79667: main:c8626f6d1eb0229a262b80c2c174ffec0898ab60;|2026-03-27T18:59:47Z|SIZE:23367
 adafruit/Adafruit-STHS34PF80-IR-Presence-Sensor-PCB: main:df3aece9ec5e5ad5f1a1fe48835046ddb6b0a292;|none
 adafruit/Adafruit_BME690: main:ca21f78dcac07eb83bcb5a828cbdf5a6cb849834;gh-pages:31dfed4e48a36163167db0c993d4e47b7495db41;|none
+adafruit/fruitjam-286: main:cb4b04147da6610304482f3b4f9b0618cf9641a6;|2025-10-21T18:24:16Z|SIZE:543805
