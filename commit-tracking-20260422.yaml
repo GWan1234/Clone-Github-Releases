@@ -1898,3 +1898,4 @@ adafruit/tlsf: sixtyfour:6ecac2d0bcc36a3b5273b7b471e2913c6816a264;idf:ddfa052fbf
 adafruit/Adafruit-Proto-Under-Plate-PiCowBell-PCB: main:0d81b50b824235020d45e98251f9488744e53de7;|none|SIZE:280001
 adafruit/Adafruit-Proto-Doubler-PiCowbell-PCB: main:81f28591642658e7d283915c6803a6aa63a82c02;|none|SIZE:825701
 adafruit/Adafruit-Terminal-PiCowbell-for-Pico: main:38f512959eea28a4ae38c9ba7e700d3ac0d5618c;|none
+adafruit/Adafruit-SHT4x-Trinkey-PCB: main:56dc3b26c14a202ee8db53184b9ac5c2ba787e03;|none
