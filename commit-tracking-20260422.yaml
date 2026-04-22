@@ -1413,3 +1413,4 @@ adafruit/Adafruit_CircuitPython_MCP230xx: patch-fix:3150d738e8b913a49977aa5b3965
 adafruit/Adafruit_CircuitPython_AM2320: pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;main:7749e4d454ea7d4145a4a2d9e717f0545dbe6135;|2026-03-27T18:56:04Z|SIZE:33639
 adafruit/Adafruit_AM2320: tyeth/issue13:27336667d10cb0f2b82e48b744bafe229c82dc9c;master:34c038ec3a6afa65ac9be95288cf6697df7912f6;gh-pages:c318b9a823c66a4f7eda4c7c98c295429fca559b;|2023-08-29T11:41:36Z
 adafruit/Adafruit-ItsyBitsy-M0-PCB: master:faa92dda428868c7042f9ee04685ffdc70849725;|none
+adafruit/Adafruit_CAD_Parts: my-first-pull:e63b5966eb8e755451755a33b99182c385039ad8;main:5ead410a8034146307aa99f2ab916bbd2a87114f;|none
