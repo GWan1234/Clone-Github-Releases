@@ -1746,3 +1746,4 @@ adafruit/Adafruit-ItsyBitsy-RP2040-PCB: main:b12f7b3f1ebf71c53b30fb2f254b85aeb1e
 adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB: main:4b82c1319140e0073adc97d5ef1c0a3ff99b5923;|none
 adafruit/Adafruit-NeoKey-Trinkey-PCB: main:c6a77bea3980cbdd7b0163c4f5c0aa1f4dfe51e6;|none
 adafruit/Adafruit-Rotary-Trinkey-PCB: main:b93b2aeaabbfbfd231eec6c88afc6694d4581410;|none
+adafruit/Adafruit-Slider-Trinkey-PCB: main:77c27c2c1ccb6c2714d88b02618fdd5bbb70acdd;|none
