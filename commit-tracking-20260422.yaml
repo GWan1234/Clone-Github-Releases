@@ -1200,3 +1200,4 @@ adafruit/Adafruit_RTD266X_I2CFlasher: master:febb4f815731842439836268628d835e8d9
 adafruit/Adafruit-uRTC: master:9773b4f6f369eea39a8471126ad6201b8d511940;|none
 adafruit/Adafruit-MMA8451-Breakout-PCB: master:f9fa425744bf6c85d7ff0a4c80fd36311a0da974;|none
 adafruit/Adafruit-Si1145-Light-Sensor-PCB: master:af029f1447d85573ee78fc2c6ac3f4fef360cd97;|none
+adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB: master:20cbfc30b9793e498d642a30652a5c609da73b37;|none
