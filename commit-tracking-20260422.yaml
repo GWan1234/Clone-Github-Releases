@@ -320,3 +320,4 @@ ioBroker/socket-client: main:fbd197f77b21ecff3f4c9715a886f8d591e63e36;dependabot
 ioBroker/ioBroker.material.app: master:b7294ad43f5dd634dd46206fe3be18479f9afaf8;|none
 ioBroker/testing-action-check: master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;|2026-01-26T09:38:01Z
 ioBroker/testing-action-adapter: master:c91f22babd740509d72864da740f7eaf9029b26b;|2025-12-16T14:26:18Z
+ioBroker/testing-action-deploy: supporting-custom-tag:317ff636ecdc74767690a513a2c2de4c50801910;master:3b33380398eb641e9d6029bda5103a4c75578526;downgrade-action-gh-release:6b8f1e027625f6bf09cecee869a0e8dcac2b6286;|2026-01-06T11:55:32Z
