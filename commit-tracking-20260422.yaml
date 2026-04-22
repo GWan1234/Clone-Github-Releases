@@ -2182,3 +2182,4 @@ sonocotta/raspberry-camilla-vu-meter: master:c5c65d8b8f5ec7235a73c97ffe10ed432eb
 sonocotta/raspberry-media-center: main:fb8369ea016e3ddaf6a140e3864176f8fc5c62af;features/hifi-plus-device-tree:eef4d824bba6f98ee452828d5694519cf8a65593;|none|SIZE:35623465
 sonocotta/raspberrypi-linux: rpi-6.12.y:1f204175932fe20e477da83012d9fd2fce221366;features/tas5805m-mixer-controls:c131e462b766d2b182c15a0dcf6d8095da1ccd93;features/tas5805m-driver-improvement:2ae765c6b2937c81c540c9c1c7229ccc9f144c7d;|none|SIZE:463688971
 sonocotta/st7789-orangepi-python: master:470233c7647644d531b6ae35da1f2d37e91016ca;|2023-02-04T20:15:41Z|SIZE:98169
+sonocotta/stm8s003-dev-board: main:31328bdf9bfc662fb66315719139aba4647fcaae;|none|SIZE:91584
