@@ -2202,3 +2202,4 @@ rednblkx/esp-homekit-sdk: upstream:b542009658a6ba4bd9272304334577ae285769bb;mast
 rednblkx/esp32-event-bus: main:1a8a9c0ad1eb43eedaba60d996f6222f1c23d216;|none|SIZE:4397
 rednblkx/esp32-tlv8: master:e380df788c86003e75d3602d83d0f8355a04cc8a;|none|SIZE:10216
 rednblkx/esp32-utils: master:eb12edb891557b63a7bf59f108f420ed53175f07;|none|SIZE:4825
+rednblkx/esp32-yahap-pal: main:c0d52ada87a9dbba8f4c703a7e54b1d12c44706f;|none|SIZE:16162
