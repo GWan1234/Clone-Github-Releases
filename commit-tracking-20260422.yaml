@@ -2434,3 +2434,4 @@ adafruit/Adafruit_CircuitPython_RSA: update-badge-url:73756b929f16b344020ddf913a
 adafruit/Servo: master:25587715ccf7be0c65d551ee8a81f45325a2f143;adafruit_samd51:962192408a0a2608351fc54e567bca28ccb2b74b;|none|SIZE:26819
 adafruit/Adafruit-PyRuler-PCB: master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0;|none|SIZE:1338337
 adafruit/Adafruit_CircuitPython_IL0373: main:1ec7d1d1747a249991dc3150c864c5c0c3c457dc;|2026-03-27T18:59:14Z|SIZE:24497
+adafruit/Adafruit_CircuitPython_SSD1608: setup-py-disabled:fcb2fa417db3acbf5f5bcd19da6a14956995a34f;main:c4563aa5838ee02bc0a0450b3003a88e0460a544;|2026-03-27T19:04:30Z|SIZE:37810
