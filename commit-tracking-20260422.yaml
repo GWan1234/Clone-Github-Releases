@@ -1697,3 +1697,4 @@ adafruit/DAPLink: refactor/weak_family_descriptors:8db4f919259dacfce83816dd74b3b
 adafruit/Adafruit-QT-Py-PCB: master:a8caed9ad5f2670c662f0b0a68af62cceb3cec96;|none|SIZE:795977
 adafruit/Adafruit-LTC4311-PCB: master:8fb4ee69175a7ddb4128edbb7d9d79a78fbbf405;|none
 adafruit/Adafruit-MIDI-FeatherWing-PCB: master:d060360d31ba77963443121e71bae136c882a788;|none
+adafruit/Adafruit_CircuitPython_DisplayIO_SH1107: main:90350cafe8482d92849310834247e0657f7ad162;dhalbert-patch-1:19030c629d876a995eba7ef1658dc04176bb6174;|2026-03-27T18:57:30Z|SIZE:43207
