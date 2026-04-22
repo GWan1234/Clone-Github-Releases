@@ -2562,3 +2562,4 @@ adafruit/Adafruit_CircuitPython_AGS02MA: main:2a20d1e17cb6a68918c5ddd9be12121602
 adafruit/pi-facerec-box: master:bd4ba88a0590640a29987b1e11f35985af993a1b;|none|SIZE:3170113
 adafruit/Adafruit-PCF8574-PCB: main:a2fbf46bed447a1bd87b51f11169b275b9bc8fb0;|none|SIZE:1163439
 adafruit/esptool: master:fc0c98485056b66296f7e77ab8f9f98ebf7dddd1;add-delay-hard-reset:fd3a257386437213b9a615e577eec0e4c47f626e;|none|SIZE:9747517
+adafruit/Adafruit_CircuitPython_TCA8418: main:f1fce2c01e4b7f0a4a2bba71e82c5d409e350300;|2026-03-27T19:05:01Z|SIZE:22086
