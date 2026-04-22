@@ -412,3 +412,4 @@ OpenListTeam/OpenList-Docs: reorder:b9e4e4491fc230b47fb527efaebb7eb0e5c5d75c;mai
 OpenListTeam/OpenList-OpenWRT: main:18411a0af979579d93b51a41d9b2984f18837f3f;|2026-04-09T14:27:18Z
 OpenListTeam/OpenList-Desktop: renovate/vue-3.x-lockfile:5961dea4e6f984b186ad8dd1a510ee5a89779480;renovate/typescript-5.x-lockfile:364b711bdb44b3983ffd90abda5c8488eb1e7c63;renovate/tauri-apps-cli-2.x-lockfile:8fe4c8e502a4ad83bb85bbc1052ac20cfecc9729;renovate/node-25.x:a7d228177c3c1b5e73261f012073b5b4fb124bfc;renovate/node-24.x-lockfile:bd226995f932475c2dc75850b9ad0745ade283e6;|2026-02-10T06:44:03Z
 OpenListTeam/gsync: main:ab97ee76db159e23c112dda99b2d7d8bb888cb09;|2025-06-30T12:41:10Z
+OpenListTeam/OpenList-APT: main:7e21978afddf2ddcfb8269822dfdbdb63b913bc1;fix/ppa:827e63601da61bbb0bda170cb4a7ce6c54e3fb6a;|2026-04-15T04:55:16Z
