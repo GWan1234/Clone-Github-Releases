@@ -1959,3 +1959,4 @@ adafruit/Adafruit_CircuitPython_RFM: main:7530d24d844bedff6119a8b5876e247d4bd165
 adafruit/Pico-PIO-USB: support-rp2350-pio2:7f7ea5b481648153bec264b7faeec8676abeb97d;sdk2_fix:770e3b2e4af14dd202f062f850f9f14820ecbb1e;rp2350b-rebased:445ca6403643f19ae8a70a3632b6924943a93189;rp2350b:7f7ea5b481648153bec264b7faeec8676abeb97d;main:9dc51f88257d4b730fbf7edec7b77b56abf5c622;|none|SIZE:153165
 adafruit/Adafruit-Reversible-USB-Type-A-Plug-Connector-Breakout-PCB: main:61c86cfbb89a45a97a5046854997d486fac109d2;|none
 adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: main:63c6200bb3ef17d491089cfa6441b1810d79bb20;|none
+adafruit/Adafruit-ESP32-C6-Feather-PCB: main:7376e394a3a889550e0092d7dbe3bea453b309b3;|none
