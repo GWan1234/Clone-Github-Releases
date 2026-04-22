@@ -2470,3 +2470,4 @@ adafruit/imx_rt_flash_config: main:9de9b4a3f8f9dd9c71315ed9ad0d92bea0d5d549;|non
 adafruit/Adafruit_CircuitPython_BLE_Creation: patch:00b4d30c3ca4bc290d69d9ec3ec649625cb69cbf;main:143ac28713770f9efc4b73356cd1f114bd705d91;|2024-10-10T15:50:32Z|SIZE:43818
 adafruit/Adafruit_CircuitPython_BLE_File_Transfer: tannewt-patch-2:cca80810f4cd0233a6fb3b212894daabf145003c;tannewt-patch-1:fa2c83533b30e4a1203d02f38ba6f806a8358958;patch:173fe4edbcb766a1d21f7e01d841d089c28e5a5f;main:6a4eae2cd05908ab7fa5b39163a4c65bcd0d8d85;|2026-03-27T19:08:10Z|SIZE:114366
 adafruit/Adafruit_CircuitPython_FunHouse: main:e7710043c3ddea3b0d28c27fc2964f16424da4b4;|2026-03-27T19:09:50Z|SIZE:23202
+adafruit/Adafruit_CircuitPython_NeoKey: rainbowio:499778876447543b285f427b51378f4aea90e448;main:0431d33d2fcc5b1e098ff6460e860a806f8854bf;|2026-03-27T19:11:18Z|SIZE:40767
