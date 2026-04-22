@@ -1033,3 +1033,4 @@ adafruit/dash-examples: master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00c;|none|SI
 adafruit/Adafruit_BluefruitLE_OSX: master:f71eb6e981885d70830cb6087ac46386662249be;|none
 adafruit/xcarve-server: master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6;|none|SIZE:9621
 adafruit/Adafruit-PowerBoost-1000C: master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65;|none|SIZE:744740
+adafruit/xcarve-proxy: master:83cdba78067629063f6158d665baaee8380ccde8;|none|SIZE:2586
