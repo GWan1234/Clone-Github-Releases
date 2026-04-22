@@ -2016,3 +2016,4 @@ adafruit/Adafruit-TPS65131-Split-Power-Supply-PCB: main:5c4644c7acc1e285870881ca
 adafruit/umac: soundemu:431e905354e975cd942eb4c1c5ea5a39237691ab;resolution-extension:3b58a695a07bb30878996d455d26a499a935999b;main:d08af73527e47b839744434a0707a6e164f3a82d;|none|SIZE:120424
 adafruit/pico-extras: pico2-dma-pio:8606fb88057873154f9b6f98a3e52e233cd988d9;master:f05d4f7371802440cadd36744789a26944d950ac;|none|SIZE:184666
 adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB: main:4456a62a418b1a25ce2500ce0335ab6fe1eceacf;|none
+adafruit/circuitpython-font-generator: main:cffd40601608665c0edb3664a2e8e9c1b7bafd68;|none|SIZE:2848690
