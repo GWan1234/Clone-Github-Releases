@@ -1856,3 +1856,4 @@ adafruit/Adafruit-Metro-M7-with-microSD-PCB: main:d7e0bc2ff4d5b9304a915f01442e9c
 adafruit/Adafruit_Debounce: main:7742ab28d1f2008572dd5a24f0a967f8d7d0d01b;gh-pages:c96ba6fa886a24bcca773e65f1c1b3036984cb88;|2023-09-16T22:10:14Z|SIZE:88898
 adafruit/esp-protocols: master:12bacdc3a01121ca97eeb3988e2faf38c7563472;circuitpython:2f492c02289015ecbb36851dd1bd04e0eb0a9937;|none|SIZE:1193273
 adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: main:53c602e97d82ec5722f49521e3dbe6c71da10422;|none
+adafruit/Adafruit-AD5693R-Breakout-Board-PCB: main:5eaa6eb797945a917ff46a1db228a3c6ca9b0e8d;|none
