@@ -84,3 +84,4 @@ hacs/default: rrd_recorder:bc941730b0f8b35b35064122e671ea2feae46480;removethecem
 hacs/bot: statuscheck:665003332b58737193bff6ca75a1360ea0786595;main:08bf818d9f14a6806d9d551d4caf89d8bda05cc2;integration-documentation:792d1e5a37b877906455a3006ae294416f6565a0;dependabot/npm_and_yarn/wrangler-4.69.0:acbae02343a623ec70a411173c934aa3c8bd914a;dependabot/npm_and_yarn/webpack-5.105.3:45eacfc51aa3281eda3a5de1acb39a785d8a8316;|none
 hacs/.github: master:d760fab8cc6bef9cafea4032ce99f9154222e435;|none
 hacs/ND-NotifyUpdates: master:1af01e57d0336e64426e75297a5841bbac6c778e;|2020-03-08T22:00:32Z
+hacs/development: master:c241ba81939c911b8d498e213476ea625cc669a1;|none
