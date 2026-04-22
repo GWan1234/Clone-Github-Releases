@@ -2423,3 +2423,4 @@ adafruit/Adafruit_CircuitPython_BitmapSaver: patch-fix:a8e941f1aef1bf6609c41c631
 adafruit/Adafruit_CircuitPython_Nunchuk: stemma_i2c:23cbb07b3d46e456e82e5d62a5e86ff0f24310ef;main:c7b5fc6ad7a3c74575f65738f60dae822d50b7f6;|2026-03-27T19:02:12Z|SIZE:41322
 adafruit/Adafruit_MSA301: master:c096f70814404a36586783df381479234379be76;gh-pages:203716a9327c11bb1035eadebe42f3a66e19aa28;|2025-08-26T14:36:07Z|SIZE:3149742
 adafruit/Adafruit_CircuitPython_WSGI: main:e02f1e5ce451dddc3d79118f95583bcff155063c;|2026-03-27T19:15:30Z|SIZE:25296
+adafruit/stm32f4: master:612e81b67edc5d0402d42d5cc32e151a4e55bcb0;|none|SIZE:10105753
