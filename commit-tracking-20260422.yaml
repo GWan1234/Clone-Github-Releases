@@ -739,3 +739,4 @@ adafruit/Adafruit_ADS1X15: revert-89-misc_volts:2d315b5dca57e2b11da0a1c0f4451115
 adafruit/Adafruit_ADXL345: master:8e799d73d8eca7e6c00e74f7cecd325f6d88e113;gh-pages:5625dbf761417226c470f84b8f1422267446c57c;|2023-11-15T15:28:19Z
 adafruit/BTTF: master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859;|none|SIZE:3446
 adafruit/Adafruit-Prototyping-Pi-Plate-PCB: master:e54e072a655814936e89cb3c01314b95d48c88b4;|none|SIZE:417376
+adafruit/Adafruit-PN532-RFID-NFC-Breakout: master:d614276a3168bd402d0729daa7bd94c406de7beb;|none|SIZE:313385
