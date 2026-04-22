@@ -1113,7 +1113,7 @@ adafruit/Smart_Toilet_Light: master:4111fd813bb7f031e3d3407065ab2a55d1a22d9b;|no
 adafruit/FirePendant: master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2;|none|SIZE:63447
 adafruit/Adafruit-Flora-Bluefruit-LE-PCB: master:31ad4c6afe5267c02daf48849e1f1bfb597df588;|none
 adafruit/Adafruit-1.44-TFT-Breakout-PCB: master:ceaa444157175651785903b73bb0001e45b7ea88;|none
-adafruit/Adafruit-OLED-FeatherWing-PCB: master:179eb83875ab86c49a6b2d771e95099a55d8984b;|none|SIZE:8748944
+adafruit/Adafruit-OLED-FeatherWing-PCB: master:179eb83875ab86c49a6b2d771e95099a55d8984b;|none|SIZE:8748943
 adafruit/Caterina-Bootloader: master:411557016cdc498c04840892d769e1f8184613dd;|none|SIZE:41320
 adafruit/Adafruit-DPI-Kippah: master:d05c5e17c85a94d8a6d5fdcd45e5aba5d8b37188;|none
 adafruit/Raspberry_Pi_Talk_To_Things: master:61714e20232127c8ba06d5fd1f1ee792648f19e2;|none|SIZE:7745
