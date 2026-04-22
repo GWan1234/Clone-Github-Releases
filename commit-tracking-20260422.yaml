@@ -2040,3 +2040,4 @@ adafruit/Adafruit_CircuitPython_INA23x: main:376bc4be878120d53d816808249d9606675
 adafruit/Adafruit-Wiz5500-Ethernet-Co-Processor-Breakout-Board-PCB: main:f7faefb4fd304faa20f5977add138715da4b3f3c;|none
 adafruit/Adafruit_AS5600: main:d0e1eda5fc0c9e2cfbb84ad55bcb50fc73708d7d;gh-pages:af5e0d4afad0ad67af143add9bbb5a720c3b1e3d;|2025-06-11T17:57:21Z
 adafruit/Adafruit_STHS34PF80: main:1cf47e4bead466bc5bdae87d819853259a3e8c90;gh-pages:bac29572d1d27087cfe37a0159b850b372ee8ff2;|2025-11-04T14:34:42Z|SIZE:380345
+adafruit/Adafruit-STSPIN220-Stepper-Motor-Driver-Breakout-Board-PCB: main:900c418203489887894b71debe1849a6df259c0f;|none
