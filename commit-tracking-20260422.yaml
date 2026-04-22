@@ -2154,3 +2154,4 @@ sonocotta/esp-adf: release/v2.4:6381a4413ca6eadf41853b4e596d85d89b63e677;master:
 sonocotta/esp-luma-drive: main:c3f3fc2ea8ce746be744dc7155f72e977d12f19b;|none|SIZE:418850
 sonocotta/esp-tunein-player: master:3a891ec6a1a374507e89510c52a69b75e3917d5a;|none|SIZE:48576
 sonocotta/esp32-audio-dock: main:af9d2a703d9d976db20fc5b679c1488efadcf9d0;|none|SIZE:70171487
+sonocotta/esp32-esp8266-screensavers: master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc;|none|SIZE:60336414
