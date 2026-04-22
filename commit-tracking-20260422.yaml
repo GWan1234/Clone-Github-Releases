@@ -1700,3 +1700,4 @@ adafruit/Adafruit-MIDI-FeatherWing-PCB: master:d060360d31ba77963443121e71bae136c
 adafruit/Adafruit_CircuitPython_DisplayIO_SH1107: main:90350cafe8482d92849310834247e0657f7ad162;dhalbert-patch-1:19030c629d876a995eba7ef1658dc04176bb6174;|2026-03-27T18:57:30Z|SIZE:43207
 adafruit/Adafruit_CircuitPython_TLA202x: main:d053743bce06a3a04d6c0d2e83abb98a143cc101;|2026-03-27T19:05:15Z|SIZE:21215
 adafruit/Adafruit-BrainCraft-HAT-PCB: main:1bc88c224a28d02f727879ffe7213ad599972443;|none
+adafruit/Adafruit_TLA202x: master:56edbc87e559521f248fc8cfaa026b44abb81015;gh-pages:cf03cc94027171726085d17c4796ce544a5b051a;|2023-11-14T20:18:33Z|SIZE:100027
