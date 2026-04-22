@@ -618,7 +618,7 @@ adafruit/TV-B-Gone-kit: master:4197eeb212aa34b5ad07efb0684102a93195da87;|none|SI
 adafruit/RTClib: master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528;|2024-04-09T17:50:15Z|SIZE:169993
 adafruit/USBgamepad: master:506623c2a255cee401ae0335ea943319e3781009;|none|SIZE:5330
 adafruit/Data-Logger-shield: master:223f8db28a8b0171fdb56cfbc78d5d98338228d6;|none|SIZE:139654
-adafruit/Light-and-Temp-logger: master:d615540bfa0b30aa721960312a46d62161b6c2e8;|none|SIZE:2386
+adafruit/Light-and-Temp-logger: master:d615540bfa0b30aa721960312a46d62161b6c2e8;|none|SIZE:2385
 adafruit/Tweet-a-Watt: master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac;|none|SIZE:15404
 adafruit/ST7565-LCD: master:d40d9d832be8a6ce26d6462e85de3dcf439942fc;|none|SIZE:215395
 adafruit/SD-card-testing-jig: master:823b68201f1215d345dc6af727399f021bfddb9b;|none|SIZE:1235
