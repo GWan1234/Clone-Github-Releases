@@ -586,3 +586,4 @@ thelastoutpostworkshop/esp32_task_demo: main:49955e0c268cbb7de47d9f968cead72c3ee
 thelastoutpostworkshop/ESPConnect: runningFirwmare:d7f3d207eafb9c16bfe1b670d14e5b2d278130e4;main:79bf65282c8f259a9c38d3ec541ef1487a39ad98;gh-pages:bf03f932eecc2589297f4842068b769479f9bbe7;feature:e3e41b45df0c1f5bf776456ca2e24c7b27cd4e64;|2026-03-14T10:32:35Z
 thelastoutpostworkshop/FastDisplayPrototyping: main:e4ae407c3aec9dfbf0f484c4df831818d622b054;|2023-06-12T10:37:36Z
 thelastoutpostworkshop/firmware-releases: main:f05bd562020121900acc75e6f41339e9d51835bb;|2026-01-11T15:34:42Z
+thelastoutpostworkshop/gif_image_processing: main:512a57feebe0647963f4ca002bf5d71f82739bbd;|none
