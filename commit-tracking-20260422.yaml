@@ -1283,3 +1283,4 @@ adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: master:5cabac70d709c3
 adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB: master:7ada397dddd065125d27c9d957d58b2a96cdf6d7;|none
 adafruit/Adafruit-Metro-M0-Express-PCB: master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125;|none
 adafruit/Adafruit-Circuit-Playground-Express-PCB: master:2962c0cb972e031d070303bbeda3ed95a2098951;|none
+adafruit/Adafruit_AS726x: master:a935de63411bd93e5d8fdff790c1dcd9c15d40d5;gh-pages:3841d786eb5f53f25d4ba8b6f0c9060fbe829acd;actionci:31f92bfa293647fc3536b7ecba300f5f7e00ebc4;|2023-10-03T20:08:16Z
