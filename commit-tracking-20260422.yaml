@@ -91,3 +91,4 @@ hacs/get: main:180232dc98600cb20dd1912eca63ec0650365b92;|none
 hacs/collector: main:551fdb8f5d1c193af1402dd225f47d129205364d;|none
 hacs/addons: main:84ecb95a098132aa3cb4f7c8ed386e803bef1c16;dependabot/github_actions/home-assistant/builder-2026.03.2:d3b6df823f85aecf2473460036a2757d707ee5ec;dependabot/github_actions/docker/login-action-4.1.0:afb561f377f30b6e148ad00b456a1a0d31ec8721;|none
 hacs/metrics: main:13c960b46d086b2aa85a8f07a7a5f69047973e35;|none
+esphome/esphome-core: sonoff-rf-bridge:ef8faf46066cd632288d155f89d87a0b61c8aef8;pzem004t:af9b454a0d8b4f1f94e7372f16f1954e07af76f3;master:5d6f01d4c3579940927f03b1517f0d4a1b52032b;http-client2:a8c6a349b3fbe18db65b790f03cb8e148e4d7074;fix-ultrasonic:4cf2eecf026696d9ba70604492d92ffd4098b659;|2019-03-31T11:22:46Z
