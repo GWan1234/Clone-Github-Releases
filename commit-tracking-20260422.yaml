@@ -2417,3 +2417,4 @@ adafruit/Adafruit_VCNL4040: master:2b8154032c005eea3b8955eb3cc4317a995204ad;gh-p
 adafruit/makecode-newsletter: master:a1506c9dd3570859f14a7581e723a850a411af95;|none|SIZE:127870457
 adafruit/iOS13-beta-file-issue: master:37c016d044f05af0779389224bc95901458aa35b;|none|SIZE:5364634
 adafruit/Adafruit_CircuitPython_MiniMQTT: patch-fix:8232136c35966ff69f1aade75ec996ce0c640548;main:7ec01da0571483180495f7482b52697e8c48f0db;|2026-03-27T19:10:58Z|SIZE:77001
+adafruit/cookiecutter-adafruit-pcb: main:f754859a393c6ce892d7b5aeb57fc1f83c57c627;|none|SIZE:9593
