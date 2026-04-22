@@ -1666,3 +1666,4 @@ adafruit/Adafruit_CircuitPython_TC74: main:fbb3479701ee184dd304d4223369addfae35b
 adafruit/Adafruit_LC709203F: master:24b279e0fec38509e593da9d88c1717dd199e4b5;gh-pages:588c411fc4e12a3b151ee775e2a9b13a017b11f6;|2023-11-15T15:25:11Z|SIZE:95748
 adafruit/Adafruit-ICM20948-PCB: master:de820cb677414d3e05c9b1a9fd5cef539fc06165;|none
 adafruit/Adafruit-AS7341-PCB: master:a3fdedb61db3047458d89393f1c8f4b93204df81;|none
+adafruit/Adafruit-ST25DV16-PCB: main:217428893fc24414be4f14eb7e002b759bfcd0ba;|none
