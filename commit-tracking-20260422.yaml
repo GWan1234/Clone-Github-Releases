@@ -2486,3 +2486,4 @@ adafruit/pico-fatfs-reader: main:4cfa338a0883aaf83b68155aacb1959ab92690d0;|2021-
 adafruit/ArduinoCore-mbed: pennam_portenta_pdm_gain:69faa746c403a13b096ecc368e329044f9b38a2a;master:06d7756fc51651a20df0e1b6095cabf6f4a0c8c4;fix_i2c_scan:da21f0e4987a979829ab456a715400d5aed6aeee;|none|SIZE:56239121
 adafruit/Glider-Wireframe: main:12bf9547666aed83aae5f3cda80389eff65d8bd1;|none|SIZE:18997378
 adafruit/Adafruit_CircuitPython_Simple_Text_Display: patch-fix:aeddb2b6f3f77b191d89b046d137fea661cb8494;main:b0adfeaeb3b99ba9c789cbc5be942592ccba0498;|2026-03-27T19:14:48Z|SIZE:43001
+adafruit/Adafruit_CircuitPython_DisplayIO_SH1106: patch:2c0a59fff04622050a3507135e4a1494ee07ed9c;main:3e308edaf9f4ebe130de4ecf91681a6db5a8e680;|2026-03-27T18:57:28Z|SIZE:42384
