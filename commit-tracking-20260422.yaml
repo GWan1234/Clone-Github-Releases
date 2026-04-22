@@ -615,7 +615,7 @@ thelastoutpostworkshop/YoutubeCounter: main:9711a1ead0c90452e83a34399d09a5d3cd22
 adafruit/Adafruit-Eagle-Library: master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e;|none
 adafruit/monochron: master:30cca6a53b24f6a5f8f7b5a33cea1bd9a14608ea;XDALICHRON:fc6ed3b98d64556280acdddced83ccb9612a3e0c;SevenChron:9beb1b22f62a3a38e0f9722b22a1bf3f84c7128a;|none|SIZE:3005074
 adafruit/TV-B-Gone-kit: master:4197eeb212aa34b5ad07efb0684102a93195da87;|none|SIZE:444183
-adafruit/RTClib: master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528;|2024-04-09T17:50:15Z|SIZE:169995
+adafruit/RTClib: master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528;|2024-04-09T17:50:15Z|SIZE:169993
 adafruit/USBgamepad: master:506623c2a255cee401ae0335ea943319e3781009;|none|SIZE:5330
 adafruit/Data-Logger-shield: master:223f8db28a8b0171fdb56cfbc78d5d98338228d6;|none|SIZE:139654
 adafruit/Light-and-Temp-logger: master:d615540bfa0b30aa721960312a46d62161b6c2e8;|none|SIZE:2386
