@@ -790,3 +790,4 @@ adafruit/Citi-Bike-Helmet: master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;|none
 adafruit/Hunt-The-Wumpus: master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;|none|SIZE:4834
 adafruit/Adafruit-LSM303-PCB: master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;|none
 adafruit/Adafruit_ILI9340: master:00e5efe5d5c95f1255e55031b57f17288cf3c840;|2015-03-31T19:42:04Z|SIZE:58219
+adafruit/PiMiner: master:dce07f83d178489c92eb67922ff1124f5f376e29;|none|SIZE:16285
