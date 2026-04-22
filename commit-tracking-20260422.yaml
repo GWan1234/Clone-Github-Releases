@@ -2564,3 +2564,4 @@ adafruit/Adafruit-PCF8574-PCB: main:a2fbf46bed447a1bd87b51f11169b275b9bc8fb0;|no
 adafruit/esptool: master:fc0c98485056b66296f7e77ab8f9f98ebf7dddd1;add-delay-hard-reset:fd3a257386437213b9a615e577eec0e4c47f626e;|none|SIZE:9747517
 adafruit/Adafruit_CircuitPython_TCA8418: main:f1fce2c01e4b7f0a4a2bba71e82c5d409e350300;|2026-03-27T19:05:01Z|SIZE:22086
 adafruit/Adafruit_PyCamera: memento-qsxga:6e4d763d00fdaf95d0b22c661ed14a1002b7ce58;main:6cd745dd75633365f7045f1b02c02e801091d56e;kitty_printer:e824c11b6ee07b7a728ae6bd7d8234a502e70876;gh-pages:deecf7bcda3ad057d50449d62daa3ed1fb98d77f;fix-sdfat-cardsize:4d42341699d051d776487667835b54946db3794c;|2025-06-09T04:45:28Z|SIZE:226481
+adafruit/Adafruit_MAX1704X: main:4953d76cc98fc3f2b072b477d80519b32f1f59dc;gh-pages:aca80448517eb117c958826f08c204ba1ac50e45;|2024-03-25T23:31:13Z|SIZE:98818
