@@ -2050,3 +2050,4 @@ adafruit/Adafruit_CircuitPython_AS5600: main:574446b274c6442d69d023f2f964825653d
 adafruit/Adafruit_bq25798: main:01e8dc096688770f834b13f1e63f1e747d88c02d;gh-pages:07d15606d6e410d8b5dcf3f36830c0cf061104f4;|none
 adafruit/Adafruit-Triple-LED-Matrix-Bonnet-PCB: main:e08584d4753d574331288d4d4462254386a30d6d;|none
 adafruit/Adafruit-Simple-Soil-Moisture-Sensor-PCB: main:c5401f929e78ba1f8dc35b9587ab3c62d0f73073;|none
+adafruit/Adafruit-LM73100-Ideal-Diode-Breakout-PCB: main:eb584e823d1e506ff31bf8f8e76e6a0b5fa13176;|none
