@@ -2622,3 +2622,4 @@ adafruit/Adafruit_CircuitPython_Debug_Probe: main:d6245eed908daa5c94ceb9c2b46237
 adafruit/snxrom: main:62d05b2ab19cedc3380ceb07624927ffe4405f63;|none|SIZE:498152
 adafruit/Adafruit_CircuitPython_PIO_UART: main:5c730b45c5e8227a07c049ea7cb9a9ae7eb732c0;|2026-03-27T19:11:33Z|SIZE:20400
 adafruit/library-registry-pb: main:3daffd99c127fc072ddd0e4acb678f4fd8150c17;|none|SIZE:73818
+adafruit/g722_1_mod: update-cibuildwheel:f97b9291b2ae4a9f3956ad84b097d6176b61e643;main:a9d832273c926a05b875eb5a48e2920966d9e95d;dependabot/github_actions/pypa/cibuildwheel-2.23.3:48a5cbe4f4b52df09082b5c86f27c4a25e9720e0;concurrency-event-name:1f2ed7b304437a709d16476156b19a55c2c7f987;|2024-10-09T12:40:10Z|SIZE:233437
