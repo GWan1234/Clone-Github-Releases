@@ -2178,3 +2178,4 @@ sonocotta/orange-pi-media-center: main:7fcee88ea4110d24e81e44994cd44625fadd6c74;
 sonocotta/orangepi-ky040: master:817b47b807123e7f2b401cf9b790b023fd29653f;|none|SIZE:17747
 sonocotta/orangepi-ws2812-spi: master:9639c33450cb0a2f35356e4a61caf67a839e8531;|none|SIZE:16236
 sonocotta/pidi-plugins-python: master:7c5c32174a8a01c2339beeb9eb59c34bfd09d236;|none|SIZE:11281
+sonocotta/raspberry-camilla-vu-meter: master:c5c65d8b8f5ec7235a73c97ffe10ed432ebf9370;|none|SIZE:32085
