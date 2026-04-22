@@ -2142,3 +2142,4 @@ adafruit/Adafruit-MAX44009-Lux-Light-Sensor-PCB: main:8105e22700e71f254633c947bb
 adafruit/esp-usbip-bridge: main:78e32a95542aced35e94ba6960721cc39178a084;|none|SIZE:27051
 adafruit/pyusb-usbip-backend: main:11914e98d3f87890b8eff303137454a83dd65f13;|2026-04-10T18:53:47Z|SIZE:21260
 adafruit/pyserial-pyusb: main:e21f31f5e62c98398333047158e894d4a3d7a7da;|2026-04-10T22:46:37Z|SIZE:8867
+adafruit/Adafruit_CircuitPython_MAX44009: main:dcfaec94bf12a1311ba5787ae66ac3d079abec85;|2026-04-14T13:32:19Z|SIZE:26855
