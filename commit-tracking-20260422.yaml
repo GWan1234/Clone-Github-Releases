@@ -124,3 +124,4 @@ esphome/ESPAsyncTCP: pin-action-shas:7c48dbc52618fce3a3022eb136a739c0a512c585;ma
 esphome/component-image-generator: main:a5a3be12459d71094d703d038db9efc489bd7753;|2024-06-10T02:00:09Z
 esphome/developers.esphome.io: main:1622a688556c14759673fb1282273cbcfa776c30;libretiny-isr-docs:452a3f5ddae7eb908a8a965e51601db78358b673;glmnet-doc-components:e405cf06f9d00dbab069d80e300f68c12bf4d849;20250401-copy-fixes:26c848d68273387dc9f014958c89734818d4a122;|none
 esphome/micro-wake-word-models: main:05b65922cc433c9df13e98e32a7fe520758c837e;|none
+esphome/data.esphome.io: main:525747f1f0dbca72c6079e5c2d08d2027206ad9c;|none
