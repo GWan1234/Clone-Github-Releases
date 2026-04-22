@@ -2159,3 +2159,4 @@ sonocotta/esp32-gameboy: main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7;|none|SIZ
 sonocotta/esp32-tas5805m-dac: main:c5d70d6ad765a58d798e887c62c3e9cdf49982a0;|none|SIZE:77336
 sonocotta/esp32c3-dev-board: main:a6194a7d33debfb0ff611d6e8bc8954459285bdd;|none|SIZE:243534
 sonocotta/esparagus-echo: main:5ede3e1e906ae57860e25a2664b74b9c9e9b8143;|none|SIZE:1011267
+sonocotta/esparagus-media-center: main:290b1487b81a3957d0d77a20b13c2cacb8179312;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462;features/esphome-configs-refactoring-and-snapclient-new-component:032564d35426d1b08779097a08a917075c8f1861;|none|SIZE:75248971
