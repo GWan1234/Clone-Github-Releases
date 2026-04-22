@@ -1447,3 +1447,4 @@ adafruit/pxt-common-packages: unifont:f9f184c12ae37602d88ad4393fdf1f6bbdc62d5e;t
 adafruit/Adafruit-RGB-Matrix-Shield-PCB: master:d49153b7b42f584c5b243d7605a7ec9c75c3b934;|none
 adafruit/Adafruit-Feather-M4-Express-PCB: master:d98407a6071813bc35c39c6e88ca09c0c9ef6f18;|none
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: master:bb19790ef2cb5c1c291311f99104a12b05fa0cad;|none
+adafruit/Adafruit_CircuitPython_Pixie: main:453bc8c8618e7b992890811a50e5fc482d1c97a0;|2026-03-27T19:02:50Z|SIZE:18609
