@@ -935,7 +935,7 @@ adafruit/4-Channel-Level-Shifter-PCB: master:a2bfd3a94ed87bce64bd2230732cc06198c
 adafruit/Adafruit_DRV2605_Library: master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d;|2023-11-15T15:17:34Z|SIZE:106346
 adafruit/adafruit-io-node: req-sig:e1f26c365aa8d91a35b8e578d629d5e1e163d8aa;master:8c117eebf66b8396f40ebeb19c1477113e78fbb3;homekit:fb7303eacb301cb11b78ddfe4636d9e347bae514;api_v2:3623b7335e5e9fde3406308534a037ec31ede961;|none
 adafruit/Adafruit-MPL3115A2-PCB: master:c57b3e05fa7907f850a4f0af6fb211ae9c831847;|none
-adafruit/rpi-rgb-led-matrix: master:8c8af1cc135a767d7cb58be2604bb0846670db99;|none|SIZE:1644411
+adafruit/rpi-rgb-led-matrix: master:8c8af1cc135a767d7cb58be2604bb0846670db99;|none|SIZE:1644412
 adafruit/Bluefruit_LE_Connect_Android: master:5443af2742840b715d5f52197230525b762790a1;|2015-11-06T10:58:02Z|SIZE:314694
 adafruit/Adafruit_ESP8266: master:08fadf3c31d5355cb51fb6278a7097bcdea85553;gh-pages:10821ebc9c53398477b53d3e065c3ba96724da0b;doxy-fix:bfbd90bb4e7325108382d9e198506f467e0a6a1b;|2023-11-15T15:26:57Z|SIZE:106530
 adafruit/Adafruit_Python_MPR121: master:86360b80186617e0056d5bd5279bda000978d92c;|none|SIZE:11850
