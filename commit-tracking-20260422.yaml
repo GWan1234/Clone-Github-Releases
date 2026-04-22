@@ -71,7 +71,7 @@ cockpit-project/org.cockpit_project.CockpitClient: main:b01400faf8832ef7117ec149
 cockpit-project/subscription-manager-cockpit: tasks-container-update-cockpit-ci-container-20260420-051909:e91c24f231de5ed58773fc7cc5440041ee26587f;subscription-manager-1.29.26:5f0b03d879c9619eec01d85a8741f762af26f2ce;subscription-manager-1.28.29:bbe798d97e285c3da02b6ea5ac728e9f194b27ab;subscription-manager-1.28.21:78dde18f51bf4d9610ad00bf8018506c699c861b;subscription-manager-1.28.13:6966128084dbe75d3ad743c56bd5c9cc488cfdfb;|2026-04-13T12:05:10Z
 cockpit-project/action-release: main:7d2e2657382e8d34f88a24b5987f2b81ea165785;|none
 cockpit-project/console.dot: playbook-demo:b3189db6b2523fbb84810e1affc316e5901f39bd;playbook:1c9937ece160503a8aeb3527946579fabdfad3a9;main:c63402b8d26eb15cd030e75a1f9cf4ece934b09b;diagram:4ff85591c1b4b52cdfbcd0cb75c1b3e567863e53;|none
-cockpit-project/cockpit-files: po-refresh-20260421-185931:8a6da595aae9dc685a25578334c561cae1fb5449;main:f3dc9a476a4470de324ce52d9630c04ec016b0da;dependabot/npm_and_yarn/types-574b0d5a74:37cc33674a197306408e2d9d5eff5f30b8968098;|2026-04-21T11:34:29Z|SIZE:415665
+cockpit-project/cockpit-files: main:c643b479860d4dbafa0ec764f8b1ffdb809dd2c1;dependabot/npm_and_yarn/types-574b0d5a74:37cc33674a197306408e2d9d5eff5f30b8968098;|2026-04-21T11:34:29Z|SIZE:277232
 cockpit-project/cockpit-files-weblate: main:e82d6d48610cb20ddd204e74c9494c774d197552;|none
 cockpit-project/.github: main:1f0f37943e41c60e144a466f4e936aadcc397eda;|none
 cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
