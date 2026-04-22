@@ -1368,7 +1368,7 @@ adafruit/Adafruit_CircuitPython_DS18X20: setup-py-fix:579018754309da6a0a073faad0
 adafruit/codal-core: timing-test-instrumentation:9f62246117c3f4675e991b1336601124c0b06189;snorfs:5f4c08607ba8eeb820fdc4b676008eaf9a271474;msc:7739fd6e3978bf31d034fe0ecff26e0b10b7864b;master:fdfe0534461442dcce2e6d5a3df42fe9cad2b6e0;list:cf312a7b7a3f5ab93451630fe87cea39e22b6e70;|none|SIZE:530665
 adafruit/Adafruit_CircuitPython_Motor: main:f55b2910b01094904461d769581221c20418a267;|2026-03-27T19:11:09Z|SIZE:25154
 adafruit/Adafruit_CircuitPython_Thermal_Printer: patch-fix:13dc990d4b323cf996b1897aed3db555472d79b0;main:81e7ff54d7eebf08e3d93e3e2e6f729e76445918;|2023-01-17T17:52:00Z|SIZE:58165
-adafruit/Adafruit_CircuitPython_DRV2605: use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;main:18b7397ec21235fc398625a52f995a3be31eb59a;|2026-03-27T18:57:40Z|SIZE:40868
+adafruit/Adafruit_CircuitPython_DRV2605: use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;main:18b7397ec21235fc398625a52f995a3be31eb59a;|2026-03-27T18:57:40Z|SIZE:40869
 adafruit/Adafruit_CircuitPython_VCNL4010: main:14fb206fdb6ca6f5f7c9d090cdbebb07d6ad4c5b;|2026-03-27T19:06:10Z|SIZE:20370
 adafruit/Adafruit_QSPI: master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879;|2019-05-25T04:04:32Z|SIZE:135979
 adafruit/Adafruit-ItsyBitsy-32u4-PCB: master:b48fb1454afa84d1d83d4641d6c31fb49d360222;|none
