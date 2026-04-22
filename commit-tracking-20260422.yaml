@@ -688,3 +688,4 @@ adafruit/Standalone-Arduino-AVR-ISP-programmer: master:46ff5e404afaeef1763f65b41
 adafruit/OSHW-Embroidered-Badge: master:c56eb77a749bccf14f1ff3d91104e3b7c6ee2ecd;|none|SIZE:247661
 adafruit/Adalight: master:b9d88f8a05e5a3099e9b855cea88b3b29351652c;|none|SIZE:27631
 adafruit/Adafruit_SPIFlash: tyeth-patch-1:f06446556a08b24fed5548fc042411330c41e1a4;master:910c72df68ad5938292d2163398a2888be85a701;gh-pages:741d1e3151f12f209205536af17f56cf65997872;|2025-04-01T12:02:19Z|SIZE:243268
+adafruit/Adafruit-VCNL40X0-PCB: master:fa8ee14969f427347f463feec2765663b781c908;|none
