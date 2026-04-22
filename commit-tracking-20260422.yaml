@@ -2594,3 +2594,4 @@ adafruit/FileTransfer-For-Android: main:92cb629d380f9efd28931cb976ccf2cce8fefe4d
 adafruit/ENS160_driver: master:2b42be14c984847f225841568015fd5129d7ff82;|2023-09-19T20:41:36Z|SIZE:9761
 adafruit/Adafruit_CircuitPython_ULP_Blink: main:d9b2796facf9a346a257a68ffd008a6f9762ac12;|none|SIZE:5415
 adafruit/Adafruit-QT-3V-to-5V-Level-Booster-PCB: main:13637316890d99395fe7f6b359de027a0f422c7b;|none|SIZE:1225705
+adafruit/Adafruit-PCA9546-PCB: main:a98b24b8bafac251284dff313569e4c2b790bf23;|none|SIZE:1521472
