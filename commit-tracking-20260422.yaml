@@ -1217,3 +1217,4 @@ adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB: master:f09366288515bc9d9e
 adafruit/Adafruit-LED-Sequin-PCB: master:9053b69556d4bbb35a02b35b46cfc946122779f7;|none
 adafruit/Adafruit-MCP9808-Breakout-PCB: master:5a46deacf915eeeb5fcafd82e214ce162bf4a464;|none
 adafruit/micropython-adafruit-tcs34725: master:96f9936317130f8a140b4e638ebb77aa4c564891;|2016-10-30T21:21:55Z|SIZE:11060
+adafruit/micropython-adafruit-tsl2561: master:4dc704265ec783d8949130698140c85d8d2d7375;|2016-10-30T21:23:19Z|SIZE:11383
