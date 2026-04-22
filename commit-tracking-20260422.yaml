@@ -1282,3 +1282,4 @@ adafruit/Adafruit_bitfield_python: master:3c2bb9a1e024c5aea020104b2a32730d06d28f
 adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: master:5cabac70d709c34fb8477e2eca90dc6429af0151;|none
 adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB: master:7ada397dddd065125d27c9d957d58b2a96cdf6d7;|none
 adafruit/Adafruit-Metro-M0-Express-PCB: master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125;|none
+adafruit/Adafruit-Circuit-Playground-Express-PCB: master:2962c0cb972e031d070303bbeda3ed95a2098951;|none
