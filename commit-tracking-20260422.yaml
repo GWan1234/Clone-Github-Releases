@@ -2241,3 +2241,4 @@ rednblkx/PN532: esp-idf-irq:f7e085a656c95aada8ba4544ed27e5100c9934ad;esp-idf-4:3
 rednblkx/pn532_cxx: main:4cc75912b06054aaa72a5f27c1db3af134285aa6;|none|SIZE:7078
 rednblkx/pn7160: main:5b8dee126c166212311fc3edc340ef9e16caecb8;|none|SIZE:14422
 rednblkx/react-native-http-server: master:82533e40ac622d396d803e7a8f4e5e77ddd11fef;|none|SIZE:6708
+rednblkx/UxPlay-CP: master:48821218869d12f7f517293f1f5db61fb85bb667;|none|SIZE:318282
