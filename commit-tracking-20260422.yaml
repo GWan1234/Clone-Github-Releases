@@ -2550,3 +2550,4 @@ adafruit/Adafruit-QT-Py-ESP32-S3-PCB: main:333b35f9c77338d69816e542e7c6aa4db271d
 adafruit/I2C_Addresses: main:ec0cfd7200579fe644762615eace99e54d7d19c3;|none|SIZE:7759
 adafruit/elf-section-graph: main:74e5a410e8de83483306a7f937bc3a3510a2d850;|none|SIZE:6710
 adafruit/ESP_8_BIT_composite: main:20dda71af3e47b351c6d1d4ce55d4ce8bda61fee;|none|SIZE:256588
+adafruit/PyLeap-Android: ui_mockup:fe0d134ce615c6f8849b5c5250fc412b1d83ad50;main:d2223c45163be9ab2d0554d9d179ae5a4bbcd18f;gradle8_0_2:75d0932d8c89ce2ab661ee0ddd8211cbc0ad29b5;filter_projects_based_on_board_id:0e346c307f8c39287c0ef909557b2c82a93a54fa;filetransfer:a93cfbe375a760364016660167a27b10dc204ed2;|none|SIZE:7209734
