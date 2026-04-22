@@ -2010,3 +2010,4 @@ adafruit/Adafruit-DVI-HSTX: textmode-improvements:f1535956efb52e6a8fd6bea185a259
 adafruit/Adafruit_CircuitPython_Display_Emoji_Text: updating_text:675beb42697dcffb4abdc1718199f72e2a30aafe;main:d6db2f5bcdaea4f86ecd877cabec1c819066b5ca;|2026-03-27T19:09:08Z|SIZE:38598
 adafruit/MCUME: main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;|2025-08-11T22:37:53Z|SIZE:22962117
 adafruit/Adafruit-PCM510x-I2S-DAC-PCB: main:2edfe9e71b59e6acc73d0ab2b2f796149146ce74;|none|SIZE:1384500
+adafruit/Adafruit_CircuitPython_TLV320: main:2634a33bbc2a51f75789a635d752ae3cf61ec1de;|2026-03-27T19:05:22Z|SIZE:59038
