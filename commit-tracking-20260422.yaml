@@ -2591,3 +2591,4 @@ adafruit/cyw43-driver: main:b7195d8f931a22bdb2da2699da14eeb3ca8a26f7;circuitpyth
 adafruit/lwip: circuitpython9:bd522fde9409398297b4e3244c92576b86ef16ec;circuitpython8:d26459c32c83aa14a6d4e30237d91cee36e0adbd;|none|SIZE:2197347
 adafruit/Adafruit_CircuitPython_PixelMap: main:18466e3520a3e93655a36451243120e51c167886;|2026-03-27T19:14:02Z|SIZE:19968
 adafruit/FileTransfer-For-Android: main:92cb629d380f9efd28931cb976ccf2cce8fefe4d;fix_compose_preview:08b3fc6aa8834ad63bc5d35b4b73035a9c8fa368;content_provider:e192e9a3b360847403fcf32966074f0e514dbe0c;|none|SIZE:102758
+adafruit/ENS160_driver: master:2b42be14c984847f225841568015fd5129d7ff82;|2023-09-19T20:41:36Z|SIZE:9761
