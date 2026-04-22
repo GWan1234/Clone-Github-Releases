@@ -1793,3 +1793,4 @@ adafruit/Adafruit-LSM6DS3TR-C-LIS3MDL-PCB: main:bc2d3ee876a254d5ebc669bc4d0df78b
 adafruit/Adafruit_AGS02MA: main:2c89af090ebcbcb480c76abc6fcc2bd34bf453db;gh-pages:b832397f3260e26d32798033a008735b2159f31d;fix-ci:0ac53263cead29ae201967d60126c8c993142b59;|2025-12-17T00:27:05Z
 adafruit/Adafruit-MMC5603-PCB: main:fb9a564eb11939578643054a859481408a64a868;|none
 adafruit/Adafruit-MAX17048-PCB: main:cc7d6e2477db89dabc9c64f91ac5f30f354466be;|none
+adafruit/Adafruit-TCA8418-PCB: main:e64ed84dd0fe144759e9d8ceb556d54c9df4e8c0;|none
