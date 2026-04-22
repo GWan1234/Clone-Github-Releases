@@ -691,7 +691,7 @@ adafruit/Adafruit_SPIFlash: tyeth-patch-1:f06446556a08b24fed5548fc042411330c41e1
 adafruit/Adafruit-VCNL40X0-PCB: master:fa8ee14969f427347f463feec2765663b781c908;|none
 adafruit/Adafruit_SHARP_Memory_Display: master:c7a1c95d568c25aea1360fd8a44d38181e798aaf;gh-pages:2550c61e6a4ff25b268dc5e41ce5ed27210ec4c6;busio:bf871f0e6a7a4285e5175698f347ecd3af52c5d6;actionci:c334f7b8a328a5ec9790988c43765726b42ce45f;|2025-03-18T16:27:43Z|SIZE:112272
 adafruit/2-axis-joystick-breakout-board-with-mounting-holes: master:1d523eacdbcaed54abf94ee1703fdcb76a94d8cf;|none
-adafruit/HT1632: master:af146db458c21f6136448716f2c9cd69a14ea355;gh-pages:58e09e9c8965032cd5fbc57b39f1adf9ca6fc671;actionci:d8f845b03401e012ca1dad4e58d1782af273907b;|2023-11-15T15:32:08Z|SIZE:102014
+adafruit/HT1632: master:af146db458c21f6136448716f2c9cd69a14ea355;gh-pages:58e09e9c8965032cd5fbc57b39f1adf9ca6fc671;actionci:d8f845b03401e012ca1dad4e58d1782af273907b;|2023-11-15T15:32:08Z|SIZE:102015
 adafruit/Adafruit-Thermal-Printer-Library: master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d;|2022-10-27T21:01:38Z
 adafruit/Fritzing-Library: master:5f455d53061c0360c13ab5f214850b87a4c5d868;|none|SIZE:42139375
 adafruit/Adafruit-X2-Time-Ball: master:3eb5d4a473b991b88267ea914ef938100e9baf3c;|none
