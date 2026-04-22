@@ -999,3 +999,4 @@ adafruit/Adafruit-SMT-Breakout-PCBs: master:e7f95c87a5ef1eb566af64ad816a61ee8ca5
 adafruit/Adafruit-METRO-328-PCB: master:1d635d70533c446c925ec77240370cfee4fba7ad;|none
 adafruit/Adafruit-MouseLogger: master:440937ffc5e4fd574eb769870de30d26437fe031;|none
 adafruit/Adafruit_BluefruitLE_nRF51: swspi:44fe0b94a07167f3ce577a7d6d54ec646375761b;master:16412c28c5d25eb2577c0d5bbac85f3c7dc7baae;development:70aa05c828587418bd1dd5bfb52ab8e0838261a6;actionci:f1e8caae07a63e74c7113958201750241b22871a;SPI:5d8eb1e9eb66634f4f2d51845ff38ea646c4e749;|2020-10-16T19:56:06Z
+adafruit/Adafruit-MAX9814-AGC-Microphone-PCB: master:96bd97b32a5378517301185de4905cf5070b363f;|none
