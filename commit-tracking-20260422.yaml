@@ -1933,3 +1933,4 @@ adafruit/Adafruit-Chainable-DS18B20-Extender-Breakout-PCB: main:bf200b6586b9d5aa
 adafruit/Adafruit-TSMP96000-Breakout-PCB: main:5d456214739128a6fc19903849618996ac3116b8;|none
 adafruit/Adafruit-Switchable-USB-Type-A-to-C-Breakout-Board-PCB: main:1566b53c2cd5469be964c5f8bf6cf9d399ec7730;|none
 adafruit/Adafruit-CH9328-Breakout-PCB: main:8dccab1fd771ca7ed068b74442a3e8785da59d03;|none
+adafruit/Adafruit_CircuitPython_CH9328: main:ddbf8efd2c2e2cb84bc7bca2729866f564f6ae4d;|2026-03-27T18:57:10Z|SIZE:20107
