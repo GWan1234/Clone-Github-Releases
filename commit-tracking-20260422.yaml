@@ -1601,3 +1601,4 @@ adafruit/Adafruit_Blinka_bleio: main:c290f9c0867abf30b0f633a11ae4828be8fac488;|2
 adafruit/Adafruit_WebSerial_3DModelViewer: master:3642232b39c331ae108b9cac5f261e30b3d17c74;|none|SIZE:590211
 adafruit/Adafruit_HTS221: master:52c4dd07a21820256ff3db35dc470cf4090e23ff;humidity_calc_fix:2200a9e67e9a8df3be51516330f19eda6e53f41f;gh-pages:692a2ac5279d94ca39629981afaae3fd9c90aa91;|2023-11-22T18:09:04Z|SIZE:232783
 adafruit/CapacitiveSensor: master:78fed5a5c885306c943eba3ea77e6b6b79d8172b;|none|SIZE:7023
+adafruit/Adafruit_CircuitPython_HTS221: update-docs-link:f75ec009a91f770dca551626042b95c7df6b5cde;main:ec3ded6ac12d2710f5527163b1f611db6c46b7a1;add_debug:78889c03c0375559ac08c28992acfed0b27167de;|2026-03-27T18:58:57Z|SIZE:60343
