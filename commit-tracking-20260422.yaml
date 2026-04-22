@@ -1462,7 +1462,7 @@ adafruit/Adafruit_CircuitPython_MPRLS: main:70162ccdd68666e88014cb06bb49c35b8b1c
 adafruit/Adafruit_CircuitPython_TFmini: main:e1e713ff708a8c32bc6dbfb4911a184232d9be50;|2026-03-27T19:05:11Z|SIZE:18625
 adafruit/Adafruit_CircuitPython_AT86RF233: main:44fd9c9cf4f3d170890f237c85cc7fde85f39752;|none|SIZE:7666
 adafruit/Adafruit-1.54-inch-240x240-TFT-PCB: master:3f46e828b8404212ac402a82e02ab37381af1eb9;|none
-adafruit/arduino-lmic: non-avr-printf:69cdef5eaf3ad51cf666609af317b2f651c03c82;master:ba1265d5d2f775177cdc7c82186724e4f0bdc3a8;|none|SIZE:1618873
+adafruit/arduino-lmic: non-avr-printf:69cdef5eaf3ad51cf666609af317b2f651c03c82;master:ba1265d5d2f775177cdc7c82186724e4f0bdc3a8;|none|SIZE:1618875
 adafruit/Adafruit_CircuitPython_HTU21D: main:d8354f88bbe47bab30f4053436dad660e800709e;dhalbert-ustruct:3cd9a43499c8ad41eb9298809689648bf0a3c9df;|2026-03-27T18:58:59Z|SIZE:42544
 adafruit/Adafruit_CircuitPython_miniQR: main:c609df93ae520b0d8dd4b0b2444d9de9065f58a0;|2026-03-27T19:11:01Z|SIZE:23900
 adafruit/Adafruit-NeoTrellis-4x4-PCB: master:d9c12effecfbaab5c55e2c96186188166340862a;|none
