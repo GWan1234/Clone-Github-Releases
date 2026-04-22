@@ -75,7 +75,7 @@ cockpit-project/cockpit-files: main:c643b479860d4dbafa0ec764f8b1ffdb809dd2c1;dep
 cockpit-project/cockpit-files-weblate: main:e207e8030eadb1945a95b80c5b390c3adc30321d;|none|SIZE:56844
 cockpit-project/.github: main:1f0f37943e41c60e144a466f4e936aadcc397eda;|none
 cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
-cockpit-project/subscription-manager-cockpit-weblate: main:75a82c86be26d28d28df4150700e25e406515e97;|none
+cockpit-project/subscription-manager-cockpit-weblate: main:6dfddf356acf76e65bb8a8ff9606f08d038e1d48;|none|SIZE:53397
 hacs/integration: uvwhenposible:f8d6b76d23a72d48e70db040a671a9b4d0b6d3bf;use-new:91bf63bb033250deb85097ce19bc798693e1b8c7;tests-update-setup-ha:856744555d198ba3e0101eac5d611107cb770c21;ruff:b2d670024a42def4784af8ec90b3e101d330d68d;revert-3265-blueprint:7ab348a0aade9615713cba375c5f9f3c79b12c7e;|2025-01-28T07:26:46Z
 hacs/org: master:ca997bdcd473d0f621a1d8936f6d055b9b6bde94;|none
 hacs/documentation: test:48addb34edd8641b30649ca96a5dc27d7ea5edbc;show-analytics:64fa8690771f089dacdee5b75b519e3622dc97b4;next:01b571927a32305eb40fff3ef6bbe43f7f042177;master:7ea12b0726ae37169c044c8b473a71c035fea853;main:6b6dc14c9ecdf3b21c0708de8ffea9040d1c51f1;|none
