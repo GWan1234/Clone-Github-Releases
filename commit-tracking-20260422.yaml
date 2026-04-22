@@ -913,3 +913,4 @@ adafruit/Adafruit_TMP007_Library: master:bf53e8185e55e6b4d4e0d454af0aa80350d6da2
 adafruit/Adafruit-Talking-Clock: master:0b87769fcd721489e0e00bf42d8d75846296e5fb;|none
 adafruit/Adafruit-2.8-TFT-Shield-v2-PCB: master:607bcb39927756fdf6f26de358471e876bbd9bbf;|none
 adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:1855
+adafruit/rpi-firmware: master:8f305cad54cf725a14551b59a2e33c6fd37d7492;|none|SIZE:16648329
