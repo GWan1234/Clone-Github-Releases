@@ -127,3 +127,4 @@ esphome/micro-wake-word-models: main:05b65922cc433c9df13e98e32a7fe520758c837e;|n
 esphome/data.esphome.io: main:525747f1f0dbca72c6079e5c2d08d2027206ad9c;|none
 esphome/.github: main:f3d4a4fa4c93daa46864caf0aaaa217cf1610b2d;|none
 esphome/docker-base: main:1a02f62358c53fb1e41ffcd61eae8bc329dc69aa;|2025-04-16T04:11:26Z
+esphome/home-assistant-voice-pe: update-sendspin-hashes:c06949089b0157fc36bb06591757d039d6a4fee6;stop-pipeline-uppon-ww-detection:a60fa36b42d6636e795ee03a4ec038e25152f0fa;split-firmware:b53dac56481812e711b51edb1668c8ab360b8768;revert-273-feature/restart-button:dc158c1c2876d1c7241f99d18c1e51a6efc1db1c;revert-60-synesthesiam-20240827-mediaplayer-supportedformats:0eccc1e36b14575838cc2ac9fd91d7a90b207230;|2026-04-02T17:09:21Z
