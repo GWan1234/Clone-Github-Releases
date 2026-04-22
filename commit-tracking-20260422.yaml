@@ -2044,3 +2044,4 @@ adafruit/Adafruit-STSPIN220-Stepper-Motor-Driver-Breakout-Board-PCB: main:900c41
 adafruit/Adafruit_CircuitPython_STSPIN: main:052284b1262c586643eb01d9b26a655d8c262e4b;|2026-03-27T19:14:58Z|SIZE:21865
 adafruit/awesome-open-source-robotic-arms: main:fec1141d5dc44edccb7f06e66cd71d43e1bd9d32;|none|SIZE:11117
 adafruit/Adafruit-TPS61169-Constant-Current-Boost-Converter-PCB: main:c538e5fd9950a652d65cf40744e51a227d458ab2;|none
+adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: main:e146e77404551f1ae0619f6627bcc4435d81b0eb;|none
