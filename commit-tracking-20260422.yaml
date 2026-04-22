@@ -2343,3 +2343,4 @@ adafruit/Bluefruit_LE_Connect_Plotter: master:5fdd5c80a55c04f5f21f971b57d6855137
 adafruit/Adafruit_CircuitPython_LIDARLite: main:e09200be5161ddfafc9a7451f294cd940e5847b2;|2026-03-27T18:59:54Z|SIZE:20272
 adafruit/Adafruit_CircuitPython_FRAM: main:ee4879c1a11efbc395c10427d91c1a7418286c05;biggerfram:a8ee6e2a9d0386eebbc8f117acf6e17c228ef200;|2026-03-27T18:58:31Z|SIZE:46281
 adafruit/Adafruit_CircuitPython_MLX90393: setup-py-update:17ab231dc66a4b9abbf18f8d36d1f6a6694cf027;main:7337aa04435de69d9588888a33c7a9d7c23f09de;|2026-03-27T19:01:20Z|SIZE:40049
+adafruit/Adafruit_CircuitPython_Slideshow: revert-30-join_paths_instead_of_concat:c5d72727c371ab88ecc3882d3dde052e106d076f;patch-fix:70eed8492c7980d9f8ab30bb18df5ec9cf607867;main:d5413e72c1ffa14cb6b3b0e4f91cc74026b157cb;REUSE:92966b3ddb75fb5f04b9eac9ad98bea9681d5478;|2026-03-27T19:14:55Z|SIZE:96162
