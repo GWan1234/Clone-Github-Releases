@@ -2399,3 +2399,4 @@ adafruit/Adafruit_CircuitPython_VCNL4040: main:0d789e668b1a5f0622b752bcefb05ca63
 adafruit/FabScanPi-Server: release/v.0.6.0:08924b3cd7f8944b76c3a432deeb38622da6dedd;master:c310830a328b997ac20a55249134c66852342859;gh-pages:9d953db40741a28e85e9f9833186055b38a79797;develop:7eeecdb05dadba003e1073b40a3e86a13f30e005;|none|SIZE:510222466
 adafruit/Adafruit-PyGamer-PCB: master:6725ded4a2049f7bf44a9078c141ceb65a5547e9;|none|SIZE:675494
 adafruit/Adafruit_CircuitPython_BD3491FS: main:cd3404c0065023e9aa050abfb2a97c22a7b18e3d;|2026-03-27T18:56:33Z|SIZE:18530
+adafruit/Adafruit_GhostFAT: master:0c2352e3e2dd8edcaf9186ac5d4dd25d2cd8627c;|none|SIZE:289
