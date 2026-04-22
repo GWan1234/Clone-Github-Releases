@@ -58,7 +58,7 @@ cockpit-project/cockpit-ostree: po-refresh-20260421-185217:8faef0fa4d1cbffa5376b
 cockpit-project/cockpit-podman: tasks-container-update-cockpit-ci-container-20260420-044953:b6b5ad8efa98553a374b4bc272d7d1a8f79d0c19;main:04c355e6e491dff1875594967818b9ced7c941ef;dependabot/npm_and_yarn/types-f57dc2645f:6c288793e6c58b03853176c8fd328db73f4271d2;|2026-04-21T11:42:00Z|SIZE:615765
 cockpit-project/bots: trigger-wildcard:f32c35254d78083516ebf56f5835124f10474ea9;naughty-prune-8630-20260405-042012:9c0fe1e59a477167d787f7d17ef286bec5a4f310;naughty-prune-8630-20260329-042045:14fb8c63c35fd6517e26ed97fef01caedbbaf6e8;naughty-prune-7707-20260419-043549:98524c5d0aac80e74d891b217a9d13d60682076c;naughty-prune-7707-20260412-043326:bdedd5f97a95854999954e581b1a3ee7a2c2a073;|none|SIZE:839324
 cockpit-project/cockpit-podman-weblate: main:6e23f9756bd02bf30eed1089fe83dc3f21af2f9f;|none|SIZE:110265
-cockpit-project/cockpit-weblate: main:5f8e376e6e4f9ff2ed01035e15a4d2d2c573d766;|none
+cockpit-project/cockpit-weblate: main:ddde9450441592ce676513738c977041e59f3c57;|none|SIZE:1182105
 cockpit-project/cockpit-ostree-weblate: main:74bd7988794afb96b5099d02f5c697b63c72b16c;|none
 cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none|SIZE:35222
 cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
