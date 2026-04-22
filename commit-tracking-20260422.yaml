@@ -2000,3 +2000,4 @@ adafruit/Adafruit_CircuitPython_INA228: main:fefdf16ce96ec11e895258864b32707cf4e
 adafruit/adafruit-zephyr-support: main:cb4516a62e618da59223ccb01eeedb70a9f196e1;|none
 adafruit/Adafruit_CircuitPython_GC9A01A: main:b92870316128261224359bd01f2898049d26e26b;|2026-03-27T18:58:41Z|SIZE:19041
 adafruit/Adafruit_CircuitPython_LPS28: main:e8860cd33d573a05cab98164d322b33efaf2b3bc;|2026-03-27T19:00:06Z|SIZE:21004
+adafruit/Adafruit-1.28-240x240-Round-Display-PCB: main:90e7a557ce75a56f658b5d05fbf68a91dd4c1c38;|none
