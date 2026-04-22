@@ -2055,3 +2055,4 @@ adafruit/Adafruit-Pi-Stemma-QT-Breakout-PCB: main:58188b7bb82e7a350ddfcdb5ebd9e4
 adafruit/Adafruit-PiCowBell-HSTX-DVI-Output-PCB: main:de706f7de9b370711e137c459e2da7ac8113e2ee;|none|SIZE:304724
 adafruit/io-actions: tylerdcooper-patch-2:d8f12286ff8b2f529064330006e8e2b4970e49d1;tylerdcooper-patch-1:6e1a6cdea515aa4beac7c782d3116aef9ad522f8;tyeth-win-leftovers-20251024:e97a3e786098e725ee47fdddab5644400bf857a7;trigger-compare-block:6528cb1c8a99fc9977c8c3ea99bd215c5a94b839;time-plus-win-fixes:514f02bc84705167d57e271a2cf6ad3c474502f9;|none|SIZE:734320
 adafruit/Adafruit_uBlox: piclaw:95f28d22e71f6c1c64132e892a73fa64251f3f9c;main:82a99990773fec028ebb7d9d9a4eaaafd6b18b33;gh-pages:29f570faa48680095d58f88c6ba8b78ac0052348;|2026-03-03T14:49:00Z|SIZE:211158
+adafruit/Adafruit-Fruit-Jam-PCB: main:252dc09456ee447b3d7eeb4fa99877898503e81a;|none
