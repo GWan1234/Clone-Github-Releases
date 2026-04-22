@@ -848,7 +848,7 @@ adafruit/Adafruit_9DOF: master:e7e44d5024be020b462db87f6820841d0de44417;gh-pages
 adafruit/Adafruit_AHRS: refactor:780e698cbd5222d851474b16ac05e8dddb570947;master:69fbb4021acbaccc55258ed8082d71c1968c8909;gh-pages:503d1a344bd8a94962c1b073ef913e7a72ee70dd;fix-warnings:278089246a142f129af44fe8d3f34adde1ffe44d;develop:2e20d45a26f05ecc5f3556f158e38c4b179b8436;|2025-08-26T14:17:12Z
 adafruit/Adafruit-TPA2016-Library: master:17d1a6cf3f423952c0b07518e9ef46a2476bf8df;gh-pages:afa1d75e70fc71c5a16bfa92ab1aeae44bff55b2;actionci:baa74d30398e9e536cf6bf3c6bde0fb7e07718be;|2023-10-03T20:03:23Z
 adafruit/Bluefruit_LE_Connect: master:4721ec20245598fdb107f89b089f06671dc490f4;|none|SIZE:3731527
-adafruit/MAX31850_OneWire: master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce;|2023-11-15T15:31:53Z|SIZE:105124
+adafruit/MAX31850_OneWire: master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce;|2023-11-15T15:31:53Z|SIZE:105123
 adafruit/MAX31850_DallasTemp: master:c83bb4710e539f2574ad613448dfe1c48bc661e3;gh-pages:7ff84118ac593c8ef007943c9b4e3482a5b4beb4;actionci:13515400a91aee096ffd9c52893f5145c202f7b8;|2023-11-15T15:18:45Z|SIZE:118179
 adafruit/Talkie: master:513c507b5289868ce0cfabf21d4920b93fc32070;|none|SIZE:1619039
 adafruit/io-client-ruby: master:a2eecbd67a0c6857b462750f5d2d355533869125;|none|SIZE:20618
