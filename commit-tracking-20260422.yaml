@@ -723,7 +723,7 @@ adafruit/Adafruit-Programmable-Piggy-Bank: master:f6b7d523e648ca6d012c6636367265
 adafruit/Adafruit-PS2-Trackpad: master:b24f1867ad11afd7fb787b0413e4af2f52ed1f0f;gh-pages:30a9786606d84e6f56d5bd454851d17dea06a7dc;|2023-11-22T17:47:19Z|SIZE:97832
 adafruit/Adafruit-Resistor-Helper: master:a1b431ca0a94ce867ad79d102a5c5b1941a7c43c;|none
 adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: master:fcc1a8964feb782278f444b70feaa311972e4a35;|none
-adafruit/Adafruit-PWM-Servo-Driver-Library: photodude-patch-1:16705a539bfe829ad518f6f69ffcbb3a1c087181;master:a98850b815bf9696c8ffdc2a0f89d657c52dd44b;gh-pages:b434ae32f5dd40f6c2e3318e29584f3921424fdd;actions:e610e9ccdbe9a6dcd6af5ebed888224014a98f20;|2026-03-03T14:48:12Z|SIZE:118613
+adafruit/Adafruit-PWM-Servo-Driver-Library: photodude-patch-1:16705a539bfe829ad518f6f69ffcbb3a1c087181;master:a98850b815bf9696c8ffdc2a0f89d657c52dd44b;gh-pages:b434ae32f5dd40f6c2e3318e29584f3921424fdd;actions:e610e9ccdbe9a6dcd6af5ebed888224014a98f20;|2026-03-03T14:48:12Z|SIZE:118612
 adafruit/Adafruit-2.2-SPI-TFT: master:9acf08e9cd9cc020d296851c06b92dab65d5afca;|none
 adafruit/Adafruit-Flow-Meter: master:93f998dd91b6aef33e1e965beb9f8c4c92cf15a5;|none
 adafruit/Adafruit_NFCShield_I2C: master:c48e16ab35b373d9e33efd500879aa0e43490963;|none|SIZE:22622
