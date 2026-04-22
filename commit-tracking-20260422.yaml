@@ -1303,7 +1303,7 @@ adafruit/ArduinoModule-CMSIS-Atmel: remove-LITTLE_ENDIAN:6049123d30cf01ff5afa187
 adafruit/STEMMA_LiquidCrystal: pr_4450:9073940b8ddeabdf846632bba0f903d90d058863;pr_1517:87013086c3379180aadddc8080f7afe83df5c75c;pr_87:bc763f93d961b5fdcd2bae469f21b1e86148ad9e;master:b91a554ae98a61674beeb8170b5b9dea34fea0ba;|none|SIZE:29260
 adafruit/Adafruit_CircuitPython_MAX7219: patch-fix:9aa2985fbb5cb40553ed25eb5600493479513381;main:5d8886d02356f596396e6f49ef58df2f12a2d5be;Tasm-Devil-master:c8f87f0222a3714b08046897ec0415ac17162ea4;|2026-03-27T19:00:56Z|SIZE:64998
 adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB: master:7a19d15939cb776f1931c3b4b38ac35509f06bd3;|none
-adafruit/Adafruit_DAP: master:8ca356d92e73d0d1005534030849e7ca37324805;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124;actionci:8860fa39c165541ac26a116529589d0c77cac675;|2024-12-03T22:22:34Z|SIZE:1423722
+adafruit/Adafruit_DAP: master:8ca356d92e73d0d1005534030849e7ca37324805;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124;actionci:8860fa39c165541ac26a116529589d0c77cac675;|2024-12-03T22:22:34Z|SIZE:1423724
 adafruit/Adafruit-Trinket-M0-PCB: master:4103b9cd2722fadc28dc3969bbe067c6873e0540;|none
 adafruit/echo_2-xl: master:6225f233c03bc7b32c5f5cb6f756521254c34804;|none|SIZE:4806
 adafruit/Adafruit-APDS9960-Breakout-PCB: master:23880074d26df8524399f323e016680ad82dc69f;|none
