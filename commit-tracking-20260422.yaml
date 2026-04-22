@@ -1167,3 +1167,4 @@ adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: master:1d60495b54bd6ff8fa4d
 adafruit/Adafruit-Push-Button-Power-Switch-PCB: master:6013b8b9aa67f74778996c69ec765875c787ff53;|none|SIZE:1775729
 adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: master:6293e5aa3d88caab44292709fef00a5e12c1bef6;|none
 adafruit/Adafruit-NeoPixel-FeatherWing-PCB: master:3b80152edf1808446eab953d2f7a7b06b433c199;|none
+adafruit/Adafruit-Relay-FeatherWing-PCBs: master:130d79e53912a8a22dc273c521f96e74ea0b280d;|none
