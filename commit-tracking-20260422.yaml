@@ -1018,3 +1018,4 @@ adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB: master:9cf5eb000e492e10aad9470fe54d622
 adafruit/Open-Sesame: master:2227f8e78a0e1fd6f6e4338701cddab9a237135a;|none|SIZE:2318
 adafruit/Adafruit_nRF51822_Flasher: master:ca606ce6fe82219cf6a66ca7d764ee0245696b28;|none|SIZE:6577012
 adafruit/Adafruit-Git-Intro: master:48468f4f7f39642ed24cbe04debc915ac0f0c1c9;|none
+adafruit/ci-arduino: master:98013dfdfce85b074df37822736861472e2f4495;local-build-mac:6963246a307659c73836c009911f3e495f197378;increase-timeout:f33b09ee58df38e5d25dcc4560340155940e4d79;copilot/update-to-gh-cli-for-cloning:3c94fb0b0cd4f8a5dc16c5809b34da7bad5c94fb;ci-wippersnapper-show-config:b5031f56e3efcf00be9aaeca18e36ece13c1e091;|none|SIZE:238425
