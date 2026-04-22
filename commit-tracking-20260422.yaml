@@ -1446,3 +1446,4 @@ adafruit/Bluefruit_LE_Connect_Android_V2: main:f2fadabee9b05df1f62c9c97354813d1f
 adafruit/pxt-common-packages: unifont:f9f184c12ae37602d88ad4393fdf1f6bbdc62d5e;testbits:3e2930770371b0cba7b31bd059ec0ed54495bf3e;stmusb:8114c686759c0bca4c47957535c9dc1c878cad9b;sprite-ref-docs-04:7809a09628be87c59a4bcc08f7d654b8414aa6f0;simslim:93690bdf44386de8912e43c596fa29ef002b9bf9;|none|SIZE:1812995
 adafruit/Adafruit-RGB-Matrix-Shield-PCB: master:d49153b7b42f584c5b243d7605a7ec9c75c3b934;|none
 adafruit/Adafruit-Feather-M4-Express-PCB: master:d98407a6071813bc35c39c6e88ca09c0c9ef6f18;|none
+adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: master:bb19790ef2cb5c1c291311f99104a12b05fa0cad;|none
