@@ -1488,3 +1488,4 @@ adafruit/Adafruit-Grand-Central-PCB: master:9e59fe3cd1ea37aa6caaf5780fa80956e6cc
 adafruit/Adafruit_ADXL343_PCB: master:13dce5a5963041d7d7f60492da459e00a96f4344;|none
 adafruit/Adafruit-USB-C-Downstream-Breakout: master:1484ecb56b369e177848e69de4b7b7e513399590;|none
 adafruit/Adafruit-ADT7410-PCB: master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41;|none
+adafruit/Adafruit-MLX90393-PCB: master:1c5deadca25875af5eb643b80ae0b7ece4afbb02;|none
