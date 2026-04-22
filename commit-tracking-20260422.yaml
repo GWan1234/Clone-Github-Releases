@@ -1636,7 +1636,7 @@ adafruit/Adafruit-AHT20-PCB: master:6188da253330968dfac1ca1ff0389cd8942c50bb;|no
 adafruit/tinyuf2: tftexp_revB:30b8c2f9c77ea7ef4895891138489d76a1879587;master:d541823db56b4321595b2048d2cedd4058db46c8;esp32sx_revtft:5c6d80bc2807cc800a1244a32e0935361942e6b0;esp32s2-update-boot2:b4c66b9556de5b8a7c292255d2c839694e17e783;esp32-boot-reset-issue:eaa03a0378b29e77138538a8c58644197e750802;|2025-07-03T10:32:20Z|SIZE:57586767
 adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB: master:63ee954e2c78665d69f9f5e730198dd6479f95b5;|none
 adafruit/Adafruit_PCF8591: master:ef72f79835dbb6ca9e75d9c3684288a2cb57b9e5;gh-pages:49f3d3d1431f0adebd62977895d97e66b0798b7f;|2023-10-17T14:25:44Z|SIZE:206940
-adafruit/Adafruit_CircuitPython_SHTC3: main:789956f6b4e4f596dcd74095fb3b1bc8f0daf356;|2026-03-27T19:03:56Z|SIZE:19898
+adafruit/Adafruit_CircuitPython_SHTC3: main:789956f6b4e4f596dcd74095fb3b1bc8f0daf356;|2026-03-27T19:03:56Z|SIZE:19899
 adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB: master:5e6b23348bc0b392c68f590d13ea71fd63684273;|none
 adafruit/Adafruit-LSM6DS33-LIS3MDL-PCB: master:4148a01a7d9c997654afe7815ee746f692f3a1d4;|none
 adafruit/Adafruit-SHTC3-PCB: master:762d5a5d96ba72ec14e1fc05e32a3f5ce00cde7c;|none
