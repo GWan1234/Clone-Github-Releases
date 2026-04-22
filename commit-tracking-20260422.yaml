@@ -666,3 +666,4 @@ adafruit/GPS-shield-RMC-test-sketch: master:600346d12e5f666cbeca19cc8c6ad7712830
 adafruit/SD-Basic-GPS-logger: master:31fba7bd11831064ddabea46626f2acf97a3c7b6;|none|SIZE:3901
 adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB: master:abc1a06fbe98e76854ee4e68c9107f614c2d436f;|none
 adafruit/Thermistor-test: master:decc864620a95bb15ae20fce10af666b1656ff03;|none|SIZE:1113
+adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: master:c67f3c11a326cb13ff92d747d8009442a3d8c843;|none
