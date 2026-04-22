@@ -556,3 +556,4 @@ localsend/protocol: v2:94f08491cb99675c1edb1d505c6079266b47bd64;main:4ee5748d497
 localsend/winget-pkgs: master:17b730e070292da68cbee4f819acab0bcb53233d;LocalSend.LocalSend-1.17.0-4703A8BD68534808BF3612552AB8963B:4bd1393186c722771cc032ec592150707af40462;LocalSend.LocalSend-1.15.0-F6AAA0EBA5887C4D95D85D646AE6D1B826689707:242aa4495feee93525f087a087d513be12e2695f;|none|SIZE:66490277
 localsend/homebrew-localsend: main:22735388c7869dee9f5d7ed0a88190420367236a;|none
 localsend/mtls-example: main:ea33543da83b0c2722e56e97e428674a77c77820;|none
+localsend/permission_handler_windows_noop: main:2dadd8afbf81e0e3e4791d7144e689555e58f649;|none
