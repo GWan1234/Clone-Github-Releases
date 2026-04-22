@@ -1156,3 +1156,4 @@ adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: master:6d03cc0e0a1d6436051
 adafruit/Adafruit-Feather-M0-Adalogger-PCB: master:0147a7204c11ae57fc42c5424d5c700bcca875b2;|none
 adafruit/Adafruit_MAX30100: master:b487b81597bdb3f7711a42a21689ac771278cafa;|none|SIZE:3413
 adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB: master:ace22faec73dda4b8dcfec16e1667551456689dd;|none
+adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB: master:1b3616c9daf1cd0643bb7f6a98f4e3c71fe16c83;|none
