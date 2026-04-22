@@ -1988,3 +1988,4 @@ adafruit/Adafruit_Blinka_Raspberry_Pi5_Piomatter: use-cmake:8d2e9c079b3d9ea29bee
 adafruit/Adafruit-A4988-Breakout-PCB: main:f10f6b1d10aeeabc7a4a3445b81925c0a51d0e45;|none
 adafruit/Adafruit_CircuitPython_Wiz: main:a34e58e7e574d9c1acb70c6c6fedc813d7cd5cfd;|2026-03-27T19:15:28Z|SIZE:22077
 adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197;|none
+adafruit/Adafruit-Metro-RP2350-PCB: main:d8e135da6ee3383372035fb6ac2bb9387eec1233;|none
