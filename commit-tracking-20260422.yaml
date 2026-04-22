@@ -1826,3 +1826,4 @@ adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB: main:aaaae6964cf56ddb17c5ab11a1556657
 adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: main:408fa9a40c0a01a3a65497ef42a29e0b08fe711e;|none
 adafruit/Adafruit-TRRS-Jack-Breakout-PCB: main:d6d4fe70bc727056076c4603e90112b8b1c6d006;|none
 adafruit/Adafruit-I2S-Amplifier-BFF-PCB: main:fe191f0585be438605feca267afa38fe587e57f4;|none
+adafruit/Adafruit-EYESPI-BFF-PCB: main:90ddd1a730d2963aacaa67d787213e31e9ef8a0f;|none
