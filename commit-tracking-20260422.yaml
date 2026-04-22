@@ -1649,3 +1649,4 @@ adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB: master:bd7f6d63e4edaed3d90
 adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB: master:3db1dae4f805b3572137c3a93e8ae65b40875546;|none
 adafruit/Wippersnapper_Boards: xiao-onboard-led:0a89a7b73eecdb5eac4bef085f8865f8c9fb2af3;waveshare-p4-wifi6:7aa3240c5d68e8c0f7a18f56cb1eaf1db1c0dc3d;rp2040_datalogger_feather:66d399578444320a039514f1a41160a0c2357212;publish-c5:3604f6962e9213e2a00211404ae73541cc6fef5a;offline-mode:941e94a52bbe1f33aed3328ddd0ec7a5f3adfbd0;|none|SIZE:97093440
 adafruit/Adafruit_Blinka_PyPortal: main:84773da59ce0aad33437b72d37c69318c26bb860;|2021-02-18T16:18:54Z
+adafruit/Adafruit_CircuitPython_BH1750: patch-fix:9d5fabd77185a81cf06451b3fbdbaf518a1f4727;main:217e824c7d927ad4dcf83dd34825fee241677f46;|2026-03-27T18:56:38Z|SIZE:43149
