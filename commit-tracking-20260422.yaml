@@ -2067,3 +2067,4 @@ adafruit/Adafruit-QMC5883P-Triple-Axis-Magnetometer-PCB: main:e99e587a0e0e38b1de
 adafruit/Adafruit_CircuitPython_SSD1683: main:d44617b341b2be959b4fff657040858634692867;|2026-03-27T19:04:41Z|SIZE:24127
 adafruit/Adafruit_CircuitPython_QMC5883P: main:a56bae9f72544567f4d636e74b7b7c55c5c0cabc;|2026-03-27T19:03:02Z|SIZE:20169
 adafruit/Adafruit_BMP5xx: main:9d3bcc5fd8417b95d4ef3acd4660ad9e342c9e46;gh-pages:d16080341ab0cb8774f837fe762cbd19b0c9a998;|2025-09-09T10:56:09Z
+adafruit/Adafruit-NeoPot-PCB: main:f7f8e609945e3cf06294e324812ee3c9bee61d06;|none
