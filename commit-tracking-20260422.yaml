@@ -1646,3 +1646,4 @@ adafruit/Wippersnapper_Protobuf: v2-displays-plus-i2c:3307d10c7bffca1d75b2d8fbe1
 adafruit/ArduinoBLE: master:8c244b8cb9bf1981c0b77cd64926d015513bc97c;|none|SIZE:41461
 adafruit/Adafruit_CircuitPython_PCF8591: use_ruff:2794c080e2539503a0fd2f6b9d6ccfd7d8f9a0c3;patch-fix:0467a57958d37239234c496acbc7ed06626c284c;main:1599a3690a5021de88c154c3e38e83d987ebcecd;docs_req_fixes:a8672200b7a451883a97e6021cad5620c2777b33;|2026-03-27T19:02:42Z|SIZE:87092
 adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB: master:bd7f6d63e4edaed3d9089f1c9197f40e5a437c67;|none
+adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB: master:3db1dae4f805b3572137c3a93e8ae65b40875546;|none
