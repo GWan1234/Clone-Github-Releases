@@ -675,7 +675,7 @@ adafruit/Adafruit-BMP085-Library: samyk-master:3b8027668be989dcea3cddb09d2483ca2
 adafruit/LPD8806: master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;|2023-11-15T15:19:02Z|SIZE:121778
 adafruit/Adafruit-WS2801-Library: master:f43db5f745b5be30a3667d9c41428f84fa5894f3;gh-pages:551bebf191fe7d2fab8aa16a22bf395ce62a421b;|2023-11-15T15:29:18Z
 adafruit/Adafruit-VC0706-Serial-Camera-Library: master:e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85;gh-pages:e45d0578eb65444bbe638eca2fc1743292b8d907;actions:17841710c4440bc6cd59106aceca90304fc4d5e9;|2023-11-15T15:16:35Z
-adafruit/RGB-matrix-Panel: samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;master:81ee07118cc267cfab30743ae621c193c9e5838b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;|2023-11-15T15:18:31Z|SIZE:166701
+adafruit/RGB-matrix-Panel: samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;master:81ee07118cc267cfab30743ae621c193c9e5838b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;|2023-11-15T15:18:31Z|SIZE:166700
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: master:6f265953b8eb8ee1573c0f3bddfe5c41781c6d95;|none
 adafruit/Adafruit_MCP73833_PCB: master:21d2302412f317989304d1bb608ae01c7c1d3808;|none|SIZE:306147
 adafruit/ArduinoISP: master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685;|none|SIZE:5850
