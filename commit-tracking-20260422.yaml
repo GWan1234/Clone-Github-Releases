@@ -2211,3 +2211,4 @@ rednblkx/HAP-ESPHome: upstream/pn532:ddbc8badcbe1123e84e83d3c5a0a715b34e9d006;ma
 rednblkx/hellozigbee: main:0d709de62faf59833bded814eb0f71a7c99bf934;|none|SIZE:13877894
 rednblkx/HomeKey-ESP32: main:2febf3e0c78182a89e4cdae634f43295c212e5dd;esp-homekit-sdk:135106aa729dba149be0171aa13e79cf995807d0;|2026-02-06T14:30:33Z|SIZE:6186658
 rednblkx/homekit-lock-access-code: main:bf60c71e8ced7fbe34ff24dad12057d97214b6dc;|none|SIZE:17054
+rednblkx/HomeSpan: upstream-wr:61dd4e8a6b5b09c1caab709c9f937cf417f149fe;master:2481fc410a3ba43d169f18442e851fcfee903b2e;home-key:ab307b0694edb92d6ca4e18363c4a10b8d1b8682;dev:a82679088be81cf017e63e5168b2e26771e794cb;1.9.1:9c7b6bc580b7053a53c7651e6a0f1a6951ca1981;|none|SIZE:695996
