@@ -2197,3 +2197,4 @@ rednblkx/dash-mp4-decrypt: main:7bc0e474709a804636c2a787e2a5e129392d7680;|none|S
 rednblkx/DigitalDoorKey: main:ba0dceb996a94548c1958bb5acdb50ea648392c0;esp-idf-4:3226f724018b6f4899f910845203328fac06c30c;esp-idf:c6a5b958bf4312c53df2c9e6aebe846336998861;|none|SIZE:298281
 rednblkx/dotfiles: main:9688363b81437db519a0bee1f35c2f398d98261f;|none|SIZE:32907055
 rednblkx/DungeonProject: testing:4b4cb11bd2eb29ebaa14e986844e7aea91d6718d;master:ddaf75767cb0a10570a77464fe7af91c3960ed16;|none|SIZE:262203169
+rednblkx/esp-hal-pn532: main:90da84e1eeef86e5d2329d6c1db1c9726f104436;|none|SIZE:5023
