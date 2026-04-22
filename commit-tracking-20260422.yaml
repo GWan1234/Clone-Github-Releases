@@ -322,3 +322,4 @@ ioBroker/testing-action-check: master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;|
 ioBroker/testing-action-adapter: master:c91f22babd740509d72864da740f7eaf9029b26b;|2025-12-16T14:26:18Z
 ioBroker/testing-action-deploy: supporting-custom-tag:317ff636ecdc74767690a513a2c2de4c50801910;master:3b33380398eb641e9d6029bda5103a4c75578526;downgrade-action-gh-release:6b8f1e027625f6bf09cecee869a0e8dcac2b6286;|2026-01-06T11:55:32Z
 ioBroker/ioBroker.xterm: typescript:58b5668767daef91ab1c3f6ea1c5dd385e174cbc;master:8a900fc410dd42dba4c21e4229ba8d414caa165c;dependabot/npm_and_yarn/types/proxyquire-1.3.31:73af4f25fc9fa35d33fe5406e243bed477796439;dependabot/npm_and_yarn/types/iobroker-5.0.6:d05ebe125579f2852bc9c6ea0ff05f62afc9ee0a;dependabot/npm_and_yarn/types/gulp-4.0.18:d799ea50193fac368b3b134c45934fe10146e028;|2026-04-13T13:34:24Z
+ioBroker/ioBroker.wireless-settings: master:99cbef54886d9aa87a182363bf4544ad1240d90e;|2026-04-19T16:27:07Z
