@@ -422,3 +422,4 @@ OpenListTeam/docker-library: main:0af33a43565b190b9f19c52fe1e2f0a5ff694a07;|none
 OpenListTeam/cloud-mail: main:7d0405afefd231e929b637aa4b19cac28450eb41;|none
 OpenListTeam/eo-pages-proxy: main:a7a875add7220a10eb089041257aac496085471f;|none
 OpenListTeam/OpenList-Worker: old-route:1e70ce2dfe90c84986ca5596d54dbb19d54b726d;main:7829aa897ad5f59b5583ed29cc98a779fde3c488;feat/driver/baidu_netdisk:9807400b88f963463349c7cb5c2fe692b49eb7dc;|none
+OpenListTeam/OpenList-FLATPAK: main:eeeb030e160c84838db95d94e41867915924e6f1;|2026-02-01T04:30:30Z
