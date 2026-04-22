@@ -700,3 +700,4 @@ adafruit/Adafruit-Menta-PCB: master:2aff04449fe4b49777f31e235e1997ec017bf1bb;|no
 adafruit/Adafruit-MTK3329-GPS-Module-Test-Sketch: master:c10aaf346a213d1eebd287dadb8aae4a8d8269d9;|none
 adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino: spitft:9c63ee9bd9dc6d1af9d82eb31f037433cd203b78;master:fd51d0a87b43d983fd6b6f5c07fadffbf26c6f6c;gh-pages:7a76572b1e2ad17d4765af5664bc55be3fbcd6f1;actionci:66d32d9ca06f23580e2e587c0ff773ca874345bb;|2025-05-04T17:58:57Z
 adafruit/Adafruit-Tweet-Receipt: master:531f248c298479a2c5b570877ca5e2d97822e74d;|none
+adafruit/Adafruit-MCP23017-Arduino-Library: master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1;|2023-11-15T15:30:10Z
