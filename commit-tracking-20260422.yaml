@@ -2119,3 +2119,4 @@ adafruit/Adafruit_CircuitPython_APDS9999: main:52b46545a24578ab3891d4721466f5f9b
 adafruit/Adafruit_CircuitPython_AS7331: main:ddc7fd0b7207496ae4ccfabe9827276241aecc5f;|2026-03-27T18:56:20Z|SIZE:21219
 adafruit/Adafruit_ADS7128: main:4bb48018679bd2f5402fb7c1ad49f20e8eb324ea;gh-pages:cd35aa9e830db27a17829ce7fa05d3cfda154ea8;|none
 adafruit/Adafruit-TMP119-Temperature-Sensor-PCB: main:fe8ae26b0f8362aa93a8074374984c1da7bf01aa;|none
+adafruit/Adafruit_CircuitPython_AS7343: main:1bc1eab727f0fdf77e027444d66ef5d3d5b6d8a0;examples:172ea7bc26829d5752331f7ba5dc2bebd5870d6a;|2026-03-27T18:56:25Z|SIZE:80744
