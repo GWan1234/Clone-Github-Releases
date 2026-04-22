@@ -1242,3 +1242,4 @@ adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB: master:8891795d7776b7203f25237db4
 adafruit/Adafruit-BME280-Breakout-PCB: master:93e2b97928ba906ba19b265e9f2d0024d29472f0;|none
 adafruit/Adafruit-HDC1008-Breakout-PCB: master:997a197ad04c62881c347f31e6c0324c6d831bb9;|none
 adafruit/Adafruit-FONA808-Shield-PCB: master:c94430e42dd25bde73e9e6e00fe7c21c8bd7da15;|none
+adafruit/Adafruit-BMP280-Breakout-PCB: master:1ba329baf692f9e681e0deb891c98ce6579a5c26;|none
