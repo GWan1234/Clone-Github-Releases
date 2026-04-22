@@ -2548,3 +2548,4 @@ adafruit/CircuitPython_NAU7802: main:b464aa6fb307b9f630583063f3c06df7f47a92ab;dh
 adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: main:f45b12704ccbb7180d89db28e1af7bd861124133;|none|SIZE:1840320
 adafruit/Adafruit-QT-Py-ESP32-S3-PCB: main:333b35f9c77338d69816e542e7c6aa4db271d432;|none|SIZE:1689016
 adafruit/I2C_Addresses: main:ec0cfd7200579fe644762615eace99e54d7d19c3;|none|SIZE:7759
+adafruit/elf-section-graph: main:74e5a410e8de83483306a7f937bc3a3510a2d850;|none|SIZE:6710
