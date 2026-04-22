@@ -1353,3 +1353,4 @@ adafruit/Adafruit_nRF52_nrfutil: python2:32e9b31773fabe06100a898006775ff3a65604a
 adafruit/adabot: testing_fixes:cdc17959fe04a769af06c558801a292264e27805;more-rate-limit-sleep-fixing:b2fa33e39833b75462a07bdb4f85d95ee2e90370;main:5cdf889e635990d2626adfc29ecb376cf8684a73;fix_pypiname_releasenotes:d374b8718993652d2bf26c88fc16a0c0ed2ffe7f;detached2:e62110aac378fc353217e76b55373d3befb0ee7d;|none
 adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi: master:b8a0df00fed2f4d240c807b3f454ff6b7d8780d9;|none
 adafruit/Adafruit-WINC1500-Shield-PCB: master:5b4642c624ffe549731ff9aae4aeb5330fbbb4a3;|none
+adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: master:e836025c26c8dcfa3fab3e9aa7756542770f4849;|none
