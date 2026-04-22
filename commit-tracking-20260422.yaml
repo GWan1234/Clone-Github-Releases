@@ -2386,3 +2386,4 @@ adafruit/nina-fw: wpa2_enterprise:50f55a0732d42524b51d491d032a11b4267f2abc;rever
 adafruit/discord-open-source: master:7c96adca4aacd72ff1472d5813cd860ad5924c18;add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;|none|SIZE:301380
 adafruit/adafruit_io_python_jupyter: master:20a577d2d191f677da2652c72daf7a27251b033d;|none|SIZE:4232
 adafruit/Adafruit-Radio-Bonnet-PCB: master:dd0cb11d273a3e95d90786b02c9ded95ae6168c6;add-pcb-files:a13f00c2224d9a3857ca04dad4a3ad8fafdbed01;|none|SIZE:482460
+adafruit/Adafruit_CircuitPython_BluefruitConnect: patch-fix:2370266e60a10f079d9890a8639ea03b37df77f4;main:a6228fb184151c13665270029f82bfc90b211147;REUSE:15b5fe922a0b965f2264704ebdfbc9001451e433;|2026-03-27T19:08:25Z|SIZE:75675
