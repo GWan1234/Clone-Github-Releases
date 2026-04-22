@@ -2328,3 +2328,4 @@ adafruit/Saleae_PDMAnalyzer: master:a27e1d9f65ac6fe8b8f0678bc81567cf1930688f;1.1
 adafruit/Adafruit_CircuitPython_AMG88xx: main:b7309fd6d85ee0e5b62c8823fdbf8f15d039f619;dhalbert-master:e14c153ca5371b7e91fe47264ce20c154fc92233;|2026-03-27T18:56:07Z|SIZE:29122
 adafruit/Adafruit_CircuitPython_CharLCD: patch:af753ae25682f7b462fceaed543e1643bb23607e;main:41a032561dbe26b62bdfeb102e90e266875ddc4c;|2026-03-27T18:57:12Z|SIZE:56027
 adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB: master:afaa9a44856f370313c9509650e84d1f5b4b9b28;|none|SIZE:757397
+adafruit/Adafruit-PCF8523-RTC-Breakout-PCB: master:4ec7e14d667a2d075430da0980c35c4f049e860b;|none|SIZE:1739732
