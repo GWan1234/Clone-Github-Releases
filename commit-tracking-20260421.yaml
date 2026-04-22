@@ -5528,7 +5528,7 @@ adafruit/reload-emulator: main:96f776934bb2b08f0eadce0648d9f639b77cfb0d;|2025-10
 adafruit/Adafruit_CircuitPython_JD79667: main:c8626f6d1eb0229a262b80c2c174ffec0898ab60;|2026-03-27T18:59:47Z|SIZE:23367
 adafruit/fruitjam-286: main:cb4b04147da6610304482f3b4f9b0618cf9641a6;|2025-10-21T18:24:16Z|SIZE:543805
 adafruit/Adafruit_CircuitPython_STHS34PF80: main:1b8398881936e667a1f630c18887c7a2b04e52de;|2026-03-27T19:04:54Z|SIZE:21829
-adafruit/pi_video_looper2: missing_mount_dir:a5ea64a00dbee8b1a5237caa06ef92eb5cfcdac3;main:aa9691c787f1bbbf0c3497a21ddb2cc2d49287e7;blinka_gpio:32de210713f656ba37df0978dcd942e3fc67636a;|2025-12-01T16:47:24Z|SIZE:81861
+adafruit/pi_video_looper2: missing_mount_dir:a5ea64a00dbee8b1a5237caa06ef92eb5cfcdac3;main:aa9691c787f1bbbf0c3497a21ddb2cc2d49287e7;blinka_gpio:32de210713f656ba37df0978dcd942e3fc67636a;|2025-12-01T16:47:24Z|SIZE:81860
 adafruit/Adafruit_STCC4: main:0f16cee04a833090b3ff82efc09045f6dcd13611;gh-pages:0c8c7bc2cdaa39a20560d10b04a32fd6591f384a;|2026-03-03T14:48:45Z|SIZE:94707
 adafruit/Adafruit_CircuitPython_CheckBox: main:5fc32a396efbf6b9baa8e1aa3824937a9f5bcfd6;|2026-03-27T19:08:33Z|SIZE:19756
 adafruit/wreath-of-khan-2025: main:29c2e99a5bce06bdfc28a02a5d8858ff2c986906;|none|SIZE:1247327
