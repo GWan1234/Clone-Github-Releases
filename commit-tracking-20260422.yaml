@@ -1494,3 +1494,4 @@ adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs: master:eca6fc73d1fde5d0a4278ba339d5
 adafruit/Adafruit-CharliePlex-Bonnet-PCBs: master:e6c0dc1cc87f6add9272260db3fe237371e3ac52;|none
 adafruit/Adafruit_BusIO: tiny8:f28f3ae7f082b38b2c3d1346883bba7c40165276;revert-77-master:9bef46eebac730bdf9f2643e9e3605285d5019df;renamebitorder:d33a16468f94b2ff28fac7d19f9d00863c6f3d95;mcpreg:f1db9d5956d705669662d23f18545276cd5424ae;master:3b8364267c3ee6e16bad91bc2101aefbd5b5915f;|2025-09-22T20:18:37Z
 adafruit/Adafruit_Arcada_GifDecoder: master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc;|2023-10-03T20:09:33Z
+adafruit/Adafruit-VEML7700-PCB: master:ab489f03c957f681ed0161fc6d2b786956556e23;|none
