@@ -2318,3 +2318,4 @@ adafruit/Adafruit_CircuitPython_IS31FL3731: patch:40d56274bbaba88273cce27c2811f1
 adafruit/uf2-samdx1: master:ce0489a38e6f1038a8b95a7c9e93945655c8151d;|2024-03-15T00:24:39Z|SIZE:25209806
 adafruit/Pulse_Room: master:c7d92a53611a4d79694f548c5fe91b25433718f6;|none|SIZE:9524
 adafruit/Adafruit_remoteFXTrigger: master:f018b3b5323818cf93bd5e1005e849d102b8f610;|none|SIZE:6901
+adafruit/Adafruit_CircuitPython_Waveform: main:48b67b73b878afcaf42e5c58ddee4a9c90f6df6d;|2026-03-27T19:15:25Z|SIZE:17564
