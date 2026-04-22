@@ -1699,3 +1699,4 @@ adafruit/Adafruit-LTC4311-PCB: master:8fb4ee69175a7ddb4128edbb7d9d79a78fbbf405;|
 adafruit/Adafruit-MIDI-FeatherWing-PCB: master:d060360d31ba77963443121e71bae136c882a788;|none
 adafruit/Adafruit_CircuitPython_DisplayIO_SH1107: main:90350cafe8482d92849310834247e0657f7ad162;dhalbert-patch-1:19030c629d876a995eba7ef1658dc04176bb6174;|2026-03-27T18:57:30Z|SIZE:43207
 adafruit/Adafruit_CircuitPython_TLA202x: main:d053743bce06a3a04d6c0d2e83abb98a143cc101;|2026-03-27T19:05:15Z|SIZE:21215
+adafruit/Adafruit-BrainCraft-HAT-PCB: main:1bc88c224a28d02f727879ffe7213ad599972443;|none
