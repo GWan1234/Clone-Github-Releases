@@ -2005,3 +2005,4 @@ adafruit/The-Great-Search-Game: main:b77c87271a1494392d3a376a845b04183f4f3bcd;Up
 adafruit/Adafruit-DAC7578-Breakout-PCB: main:b9eeb74cd3d047db6354b2b9f4fa5676c20b3bc9;|none
 adafruit/Adafruit_DACX578: main:b174745264477a5553d4f178b95f2245258d3c7c;gh-pages:ffb205cba261d616b1e0e39a54e744b59b2b9793;|2025-04-01T11:55:57Z|SIZE:366003
 adafruit/Adafruit_TLV320_I2S: main:a361dbc4f1168fd37c98329a600e7daffe658434;gh-pages:875fd4553d247d4974acabddbab7079b1c0c66ef;|2025-03-27T20:00:36Z|SIZE:143850
+adafruit/Adafruit_CircuitPython_DACx578: main:ed0c8a533c36e56922ed2df2ccfbe8493919acd7;|2026-03-27T18:57:23Z|SIZE:19946
