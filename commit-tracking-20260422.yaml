@@ -2531,3 +2531,4 @@ adafruit/Adafruit_CircuitPython_HTTPServer: reuseaddr:2fd62996ece966d9fd2c14c9fa
 adafruit/WipperSnapper_Firmware_Uploader: main:7bfc6c185f55d2ec86c33f326cf3358001a15f58;|none|SIZE:46077
 adafruit/Adafruit_CircuitPython_ADXL37x: main:97e0df960a9aceacf35e35396064946fac31944b;|2026-03-27T18:55:55Z|SIZE:20471
 adafruit/VL53L4CD: main:a642dda7d53bf583f6e214fc2c02ec7485a195a8;|none|SIZE:12625
+adafruit/Adafruit_CircuitPython_Typing: main:e88df7bc61c78091a8c540c2deb1ddde358994cb;|2025-10-27T18:17:16Z|SIZE:20591
