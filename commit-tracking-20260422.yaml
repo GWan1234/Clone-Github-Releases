@@ -1127,7 +1127,7 @@ adafruit/Adafruit_CircuitPlayground: siddacious-patch-1:4fb36652a81951ac524e5f3a
 adafruit/Adafruit-Circuit-Playground-PCB: master:123fc8ded8a6c41de64b6e2ac4d6405f95199b43;|none
 adafruit/Adafruit-Feather-32u4-FONA-PCB: master:db45e3e1a5e53590cac33a1f3adc783d1e70ea01;|none
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: master:50dc43b6c03adafa21683995f62efb6e825bba12;|none
-adafruit/zj-58: master:603f034e125305c464bab170b7144e446a193f0d;|none|SIZE:11997
+adafruit/zj-58: master:603f034e125305c464bab170b7144e446a193f0d;|none|SIZE:11996
 adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: master:b5c7edd20f00010be64d25145d6ee1dacd28b083;|none
 adafruit/Adafruit-Adalogger-FeatherWing-PCB: master:28ea68d9ffa6d51690195bf295ecfa656ab45f18;|none
 adafruit/Adafruit-FONA-808-Breakout-PCB: master:da32ad54c3895f2b397a972f241e2013f246f7c4;|none
