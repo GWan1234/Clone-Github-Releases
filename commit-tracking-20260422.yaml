@@ -1651,3 +1651,4 @@ adafruit/Wippersnapper_Boards: xiao-onboard-led:0a89a7b73eecdb5eac4bef085f8865f8
 adafruit/Adafruit_Blinka_PyPortal: main:84773da59ce0aad33437b72d37c69318c26bb860;|2021-02-18T16:18:54Z
 adafruit/Adafruit_CircuitPython_BH1750: patch-fix:9d5fabd77185a81cf06451b3fbdbaf518a1f4727;main:217e824c7d927ad4dcf83dd34825fee241677f46;|2026-03-27T18:56:38Z|SIZE:43149
 adafruit/Adafruit_MMC5883: master:d9e02bc91af377df917333fdd66b6cff8300ccff;gh-pages:20b45792da415cd3a3efdfa63ee53d53a743cd65;fix-ci:1cb6e84ceeaa965c2f9013bfc07778d52841ce10;|none|SIZE:97466
+adafruit/Adafruit-TPS61023-PCB: master:82b5a33a1900a5c13849029bc84e7856a44086e0;|none
