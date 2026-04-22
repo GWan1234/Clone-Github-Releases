@@ -2157,3 +2157,4 @@ sonocotta/esp32-audio-dock: main:af9d2a703d9d976db20fc5b679c1488efadcf9d0;|none|
 sonocotta/esp32-esp8266-screensavers: master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc;|none|SIZE:60336414
 sonocotta/esp32-gameboy: main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7;|none|SIZE:1009604
 sonocotta/esp32-tas5805m-dac: main:c5d70d6ad765a58d798e887c62c3e9cdf49982a0;|none|SIZE:77336
+sonocotta/esp32c3-dev-board: main:a6194a7d33debfb0ff611d6e8bc8954459285bdd;|none|SIZE:243534
