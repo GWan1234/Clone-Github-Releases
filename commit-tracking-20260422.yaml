@@ -2186,3 +2186,4 @@ sonocotta/stm8s003-dev-board: main:31328bdf9bfc662fb66315719139aba4647fcaae;|non
 sonocotta/tas5805m-driver-for-raspbian: main:2021494698c320bb8fdefbe9deaab970381b1369;features/louder-raspberry-2x-support:ef4d9a6f927ff07b959fcde2b56d1ab03296275e;features/dual-dac-support:0c99e394cc166f133a6e8a397a1ebd452e2d1f2d;|none|SIZE:79297867
 rednblkx/2DGame: master:52543941fa8e07169b32d9c96eb938948dbdd89d;|none|SIZE:8789469
 rednblkx/addon-cloudflared: main:403c3c8fdeee6e1075a3d66e1a6559ba60878be1;export-ssl-certs:64ef0b02838732ecb1616fe276ba15bef0db34dc;|none|SIZE:48929
+rednblkx/AirLib: main:932089fae529ddf2dcfbd8615a278be7d2d7a91c;|none|SIZE:260484
