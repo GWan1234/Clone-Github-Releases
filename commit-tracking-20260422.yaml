@@ -463,3 +463,4 @@ algerkong/algerkong: output:8f1b25a15672715f7b93b8c5163986c4c7bcd1b0;main:306653
 algerkong/AlgerMusicPlayer: main:97220761cfc6782ec70555c8b2a4a53c8fb043cf;fix/mpris-review-643:030a1f1c8546c9afcc9f2ef237fcb4625e4d0941;|2026-03-22T14:55:27Z
 algerkong/code-review-skill: main:032b09c2849c3995dd373cf1dee235d976930c01;|none
 algerkong/markdown-parse-vue: main:6337d09b9cfbafcf4ed8596ade0493b2feaa17d7;|none
+algerkong/opencode: fix/16323-keyed-show-callbacks:5ec45c03d6ea5ec59b573ab696288c725c3431f1;fix/zen-openai-response-usage:5e238ee8b9bccd485e2a1c54511f69ff7ee06ed5;fix/webkit-diff-viewer-crash:e7f4d851f60e4def256385bf8ce47d04ee0b6bc2;fix/subagent-navigation-inline-click:d8c3d8d8843075666c599dba1559b73385026178;fix/stale-running-session-ui:2ef6c88a0b93f8c5950b03700c3cb737ddaab63d;|none
