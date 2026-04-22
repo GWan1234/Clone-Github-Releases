@@ -1305,7 +1305,7 @@ adafruit/Adafruit_CircuitPython_MAX7219: patch-fix:9aa2985fbb5cb40553ed25eb56004
 adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB: master:7a19d15939cb776f1931c3b4b38ac35509f06bd3;|none
 adafruit/Adafruit_DAP: master:8ca356d92e73d0d1005534030849e7ca37324805;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124;actionci:8860fa39c165541ac26a116529589d0c77cac675;|2024-12-03T22:22:34Z|SIZE:1423724
 adafruit/Adafruit-Trinket-M0-PCB: master:4103b9cd2722fadc28dc3969bbe067c6873e0540;|none
-adafruit/echo_2-xl: master:6225f233c03bc7b32c5f5cb6f756521254c34804;|none|SIZE:4806
+adafruit/echo_2-xl: master:6225f233c03bc7b32c5f5cb6f756521254c34804;|none|SIZE:4807
 adafruit/Adafruit-APDS9960-Breakout-PCB: master:23880074d26df8524399f323e016680ad82dc69f;|none
 adafruit/Adafruit-PiUART-PCB: master:d75842b7de0eb8fb496069a549c87f94542d846c;|none|SIZE:294302
 adafruit/Circuit_Pyrate: main:eb0288c51fac0f394fcb5e88408b56b8d9981911;|none|SIZE:11521
