@@ -2037,3 +2037,4 @@ adafruit/Adafruit_STSPIN: main:c76482b58b04e25258fd8bd5873a98977b8a6ac7;gh-pages
 adafruit/Adafruit_CircuitPython_SEN6x: main:dc724ac078c61918187f6a5cd5f61431a34e38cd;|2026-03-27T19:03:35Z|SIZE:26342
 adafruit/Adafruit-INA237-Power-Monitor-PCB: main:d62a2a17f07157d492c9cd14a48fe0efc3f8dbbc;|none
 adafruit/Adafruit_CircuitPython_INA23x: main:376bc4be878120d53d816808249d96066753dcab;|2026-03-27T18:59:29Z|SIZE:20015
+adafruit/Adafruit-Wiz5500-Ethernet-Co-Processor-Breakout-Board-PCB: main:f7faefb4fd304faa20f5977add138715da4b3f3c;|none
