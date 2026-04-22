@@ -1919,3 +1919,4 @@ adafruit/Adafruit-CH552-QT-Py-PCB: main:475a3a83213fda98c1a530a84eb6e167cd187b4b
 adafruit/Adafruit-S-35710-Breakout-PCB: main:acc0684ee70d88a395b09dcea589cb5b443159db;|none
 adafruit/Adafruit-Qwiic-Stemma-QT-Breakout-Board-PCB: main:da06d4686b1067d85027d88b1607fdd3d8d6a381;|none|SIZE:1949722
 adafruit/Adafruit_S-35710: main:959f929eb010247666ff50c29d9f5e32213847c6;gh-pages:c41f761cca1ba054e2736956587967f119d9592e;|2024-05-09T14:18:48Z|SIZE:83742
+adafruit/Adafruit_CircuitPython_S35710: main:5d5a34f0265ea15947516c3614f8ba5849b8c13a;|2026-03-27T19:03:22Z|SIZE:18745
