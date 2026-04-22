@@ -2079,3 +2079,4 @@ adafruit/Adafruit_CircuitPython_BMP5xx: main:1c72e2975a88f92a47582a574ba432ea8ac
 adafruit/Adafruit-BMP5xx-Temperature-and-Pressure-Sensor-PCB: main:0d42329e09e19452f154789a3a77a89a8873e5c7;|none
 adafruit/Adafruit-CSI-or-DSI-Cable-Adapter-Thingy-PCB: main:6a56b0344bab56906893c6de4cb1e9ee8a8d00c7;|none
 adafruit/Adafruit_CircuitPython_MLX90632: main:552af7404cb0232311cc0b46730655bf3faa02d6;|2026-03-27T19:01:27Z|SIZE:21244
+adafruit/Adafruit-E-Ink-Bonnet-for-Raspberry-Pi-PCB: main:1989721717d068c1726f18f8ec16ca58ac011fee;|none
