@@ -1480,3 +1480,4 @@ adafruit/adafruit-circuitpython-weekly-meeting: tannewt-patch-3:44e9f748e4c9910c
 adafruit/Adafruit_ADXL343: master:935d56ded32f381609a8a6226f37516b2186e5c5;jepler-patch-1:90b139e52ab4e3085dd3060452100590e6d1106a;gh-pages:6b98bdc387c9bd1ec4165bf933cea23cffbdafb8;actions:eefc862c493930762bc088c99b003d11aef1e5a5;|2023-11-15T15:29:00Z
 adafruit/Adafruit-BMP3xx-PCB: master:e99a964dda0d6deb42314f8d9a376e4dd714fe59;|none
 adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB: master:0521054d17cd04841d5a3ae2a54e3c76e21c9264;|none
+adafruit/Adafruit-Sound-Samples: master:7675c60a47c025ab62f77b699d6460d22bb963b1;|none
