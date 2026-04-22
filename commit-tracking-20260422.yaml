@@ -1286,3 +1286,4 @@ adafruit/Adafruit-Circuit-Playground-Express-PCB: master:2962c0cb972e031d070303b
 adafruit/Adafruit_AS726x: master:a935de63411bd93e5d8fdff790c1dcd9c15d40d5;gh-pages:3841d786eb5f53f25d4ba8b6f0c9060fbe829acd;actionci:31f92bfa293647fc3536b7ecba300f5f7e00ebc4;|2023-10-03T20:08:16Z
 adafruit/Adafruit-AMG8833-Breakout-PCB: master:3e5dd5f7bc0ed9e6ca07226eaa56b04bbe408489;|none
 adafruit/Adafruit_CCS811: master:6309d5f3b86c4967edd71b36c4a4daf99169a328;gh-pages:f3c5fc61628f12111026c479ad0e700b0280b2d7;actionci:17fcd5ee53dba627d8799642ff6f504dd3fc2cd7;|2023-11-15T15:27:36Z
+adafruit/Adafruit_APDS9960: master:1eafe0c579febf813f02a8484dd7b4cc8176bf17;gh-pages:b988bb3a871c2723d4e728a7f97194267113fed9;actionci:f373e692c4a574dfe3bdfa9df07746c68ae7eab8;|2025-09-30T15:15:24Z
