@@ -1277,3 +1277,4 @@ adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB: master:6020d6a43c4e2947
 adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: master:e23514c6f9e124a60f9d1de6567c791561b43e73;|none
 adafruit/Adafruit_AMRadio: master:c73e6db18bf74f1b96491aba05643d9ec0780b4a;gh-pages:7ff9cfffd8d25b2e38e6da053124aeaa6c558aca;|2023-10-03T20:07:12Z
 adafruit/Adafruit_AMG88xx: test-io-travis:a8076f706baeef1c125b066c6ec808f7620f2328;master:d857b8e68dd52026c3dd8e792e7424812ec77043;gh-pages:5a4a7836334cb848c6b976d9414f06ea7acdf425;fix-ci:e61d4f9567dd1ce45efc652c526764b119eeb343;dm-travis-test:5f808a7225c55bff138b795d49efe7dc12eb4e89;|2022-11-02T00:43:20Z
+adafruit/Adafruit_AMG88xx_python: master:f3fc4871260a088f78e2fdfd773d4146cd00ebfc;|2018-08-30T19:14:44Z
