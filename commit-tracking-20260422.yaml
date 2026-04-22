@@ -1257,3 +1257,4 @@ adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB: master:0c0c72915d3
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB: master:7b570b683977344c6326c91de085fa2087e38a5d;|none
 adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB: master:dda79a86d6518d05a35091cb8b03b9c0d57d04e2;|none
 adafruit/Adafruit-2.4-TFT-FeatherWing-PCB: master:7db81bbb064e1e703423beb6f8e4dbf9b7272879;|none
+adafruit/Adafruit-MAX31865-PCB: master:456676008584923c0892454c5a9b0b33346f05f2;|none
