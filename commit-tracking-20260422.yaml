@@ -2162,3 +2162,4 @@ sonocotta/esparagus-echo: main:5ede3e1e906ae57860e25a2664b74b9c9e9b8143;|none|SI
 sonocotta/esparagus-media-center: main:290b1487b81a3957d0d77a20b13c2cacb8179312;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462;features/esphome-configs-refactoring-and-snapclient-new-component:032564d35426d1b08779097a08a917075c8f1861;|none|SIZE:75248971
 sonocotta/esparagus-snapclient: main:3c86becf1cd3d559915c9c52320fab0853de4830;features/merge:131cf4afa54e93db1c7d6e04a00f99a2d86d8694;|none|SIZE:7349157
 sonocotta/esparagus-snapclient-fork: master-backup:a825a7025fcb0ab5273e4ea18ee3a39e469fcb60;master:e0d5a8e99c21df0970c1a526e63c16c1be6056b8;features/s3-support:600d8a6e68bb399d02c890117ea954a4c7eee0dd;|none|SIZE:13324645
+sonocotta/esphome-pcm5122: main:cb5846dab63b982f054828da7c04e9cd121c1c28;|none|SIZE:21380
