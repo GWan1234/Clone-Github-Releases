@@ -1957,3 +1957,4 @@ adafruit/Adafruit-QT-Py-CH32V203-PCB: main:c5c1580d9823d2f8923778530339179531d02
 adafruit/Adafruit-CH334F-Breakout-PCB: main:a29ea7705f029962ebec1947eac3fb4d641f63bb;|none
 adafruit/Adafruit_CircuitPython_RFM: main:7530d24d844bedff6119a8b5876e247d4bd16550;dhalbert-patch-1:fbd6d1dfe2f015fabfe58a530ecf9516cf0f0b5c;|2026-03-27T19:03:07Z|SIZE:72069
 adafruit/Pico-PIO-USB: support-rp2350-pio2:7f7ea5b481648153bec264b7faeec8676abeb97d;sdk2_fix:770e3b2e4af14dd202f062f850f9f14820ecbb1e;rp2350b-rebased:445ca6403643f19ae8a70a3632b6924943a93189;rp2350b:7f7ea5b481648153bec264b7faeec8676abeb97d;main:9dc51f88257d4b730fbf7edec7b77b56abf5c622;|none|SIZE:153165
+adafruit/Adafruit-Reversible-USB-Type-A-Plug-Connector-Breakout-PCB: main:61c86cfbb89a45a97a5046854997d486fac109d2;|none
