@@ -1722,3 +1722,4 @@ adafruit/Adafruit_CircuitPython_MLX90395: patch:7eca5708b930c1d6332bca3af59605dd
 adafruit/Adafruit_LTR390: master:cd1d7175408d5ed5e928cc200d65de842a1d3317;gh-pages:5ae60fe1973c53acb36b531ab1c491f1d3046f57;fix-reset-nrf52-rp2040:f8e070dade7f44968bef94cdd1a40fa3a144b4f8;|2023-10-03T20:52:44Z|SIZE:3356102
 adafruit/Adafruit_HTU31D: master:0f5ebb6e9edf9d842f1ba3795202a3b85ede8808;gh-pages:e9b07240197f46b8e9fc06288d8224a332b975fe;|2023-10-03T20:32:56Z|SIZE:94471
 adafruit/Adafruit_CircuitPython_FakeRequests: patch-fix:99105bc59ca43bc2c76d82ef95fd40f1856df068;main:f9f9d061a66453e0d3164ffd4e046ed3b6007669;|2026-03-27T19:09:27Z|SIZE:41343
+adafruit/Adafruit_CircuitPython_PortalBase: main:b67904c7bca12d7ee443e16bc40d64fd67c7cb48;|2026-03-27T19:14:04Z|SIZE:31079
