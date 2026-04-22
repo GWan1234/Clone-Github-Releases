@@ -2414,3 +2414,4 @@ adafruit/Adafruit_CircuitPython_Debug_SPI: main:3583d66af8f29527b1021f8d8dd9f739
 adafruit/Adafruit_TFLite_Micro_Speech: updownmodel:a3fb431d02937a2d4c2a25a50748977fef9f707f;master:b5b1f4fb93587e3fc0a66cecb3d43b5dce14fc3b;gh-pages:1c6b27599c5536c7603db200409504cefb02cb70;4commands:2775e407e85f32dc3d83533a38787ea7c09a49f4;|2019-10-08T19:44:17Z|SIZE:5313536
 adafruit/Adafruit_CircuitPython_Pypixelbuf: main:445b828124100001a2d633b835a05b94e32083d5;|2022-02-04T20:20:19Z|SIZE:24142
 adafruit/Adafruit_VCNL4040: master:2b8154032c005eea3b8955eb3cc4317a995204ad;gh-pages:fa726931c2dd5515e554435fdce4dc6a434c3337;actionci:8fd98cf867bfb8d5f3215cd8c51fa255e790bb7e;|2025-03-18T16:20:44Z|SIZE:1087108
+adafruit/makecode-newsletter: master:a1506c9dd3570859f14a7581e723a850a411af95;|none|SIZE:127870457
