@@ -538,3 +538,4 @@ AlistGo/v0: main:535ca9a6fad1a62195a140b7154c291a20960135;|none
 AlistGo/v1: main:9503d57c01c3570b9ca70c7aa8d3a2d8018cdded;|none
 AlistGo/web-v0: plyr:3f2b734cae744b1fca92025e656dfa71dcc43f62;main:22c3356c805eca455d21d2f1951917371aa591ed;|none
 AlistGo/web-v1: main:6dd56434bf86e0f7e4ee6d850cd9050f94bd8ded;|none
+AlistGo/alist-web: renovate/vitejs-plugin-legacy-5.x:24cb8470dea22cb920042edf08d0da8909c96d46;renovate/vite-plugin-dynamic-base-1.x:236bfc9ec6b46b7fa35c66e634c3f4bc15c0de23;renovate/vite-5.x:665914dfdfd4dd30d4792e7dc246addbdc552881;renovate/typescript-5.x:f279410b452bfa21f342353c10da39f155fc075a;renovate/streamsaver-2.x-lockfile:2ca7e23aad9f9e03d98791968fc7d2827800302e;|2026-04-20T01:18:51Z
