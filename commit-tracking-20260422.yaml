@@ -1675,3 +1675,4 @@ adafruit/Adafruit_CircuitPython_JTAG: main:5b5dea36851d35875de9edec2523eaacf0cae
 adafruit/Adafruit_CircuitPython_MachXO: main:2bbc07b8896bcfc2e1cb78a1207d0438a1df4af7;|none|SIZE:24293
 adafruit/Adafruit_Wippersnapper_Arduino: waveshare-p4-wifi6-stick:d24c733051887647f8b1651d22af45947dad18e3;v2-wifi-scan:02a1dee51efc9328b9c16c079ef4c622fe7c6ed3;v2-add-python-pmq:4ba8f9e93e2a040c8d3b70bf2967186cff79338f;uat-displays:a4c885ffa62b4d7a4e65d7ce952ef75fbc52bc5b;test-pr-1:01a20f9b42d2b2c6f0401892d811065c58591333;|2026-04-09T22:16:51Z|SIZE:1257705
 adafruit/Election-Day-iOS: master:c3981b5815b58aaeae38ab4514d389865282cb67;|none|SIZE:1902170
+adafruit/Adafruit_SSD1327: master:6404a444267240bfc19f55c7080c36c9710d13b9;gh-pages:0baa94c2362bdc3dfa350b483b6906dc56db1e33;fix-ci:b46138ddb9c9ea2f365f7826ca41d904104e4054;|2022-11-03T17:18:39Z|SIZE:110618
