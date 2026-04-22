@@ -2213,3 +2213,4 @@ rednblkx/HomeKey-ESP32: main:2febf3e0c78182a89e4cdae634f43295c212e5dd;esp-homeki
 rednblkx/homekit-lock-access-code: main:bf60c71e8ced7fbe34ff24dad12057d97214b6dc;|none|SIZE:17054
 rednblkx/HomeSpan: upstream-wr:61dd4e8a6b5b09c1caab709c9f937cf417f149fe;master:2481fc410a3ba43d169f18442e851fcfee903b2e;home-key:ab307b0694edb92d6ca4e18363c4a10b8d1b8682;dev:a82679088be81cf017e63e5168b2e26771e794cb;1.9.1:9c7b6bc580b7053a53c7651e6a0f1a6951ca1981;|none|SIZE:695996
 rednblkx/hypervisor: master:3a2e28e299b727862aeb6b18bcd4afc8ee99d42b;|none|SIZE:12104140
+rednblkx/iptvro_v2: main:094a42b2c8a99a386b0d12fac80736922a1d9a58;|none|SIZE:27882
