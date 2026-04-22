@@ -1780,3 +1780,4 @@ adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: main:55df02725e803b00706c4871
 adafruit/Adafruit-NeoKey-Breakout-PCB: main:8e89cf15d32369072d473cda4424f417255abf97;|none
 adafruit/Adafruit-TSC2007-PCB: main:8d182929dfc27dcdb407a2769cf416f9f63b4a16;|none
 adafruit/Adafruit-Charger-BFF-PCB: main:2acd339ac57539b236e1b072488f581ea56e3a4c;|none
+adafruit/Adafruit-Feather-ESP32-S3-PCB: main:2c95ed51a500d929fd6d8f519b895f0c4daeb982;|none
