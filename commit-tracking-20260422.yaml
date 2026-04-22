@@ -2253,3 +2253,4 @@ adafruit/Adafruit-Perma-Proto-Pi-PCBs: master:eebe4895c17e70200071dd98876799b278
 adafruit/linker-map-summary: master:507951b4d4e07fa9a5bc12913eec2ba65017103b;|none|SIZE:3324
 adafruit/gdb-micro-trace-buffer: master:8baa889c6f515cc73145d2e9d2800efb85696be1;|none|SIZE:3369
 adafruit/Adafruit_Newtmgr_Swift: xcode9:2cbbf3baed3bc612c12e08352f4c32d09907cb1d;master:18af31335fabc845e24f02770495c93b2ac91277;|none|SIZE:2958728
+adafruit/Salae_SPI_Packet: master:d021c21ceb6930df0a4cf7fe530d5b9fd5b8ca82;|none|SIZE:108817
