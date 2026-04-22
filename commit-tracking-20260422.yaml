@@ -2429,3 +2429,4 @@ adafruit/Adafruit_CircuitPython_SSD1327: update-display-modules:fc1717a0d80769fa
 adafruit/Adafruit_CircuitPython_SSD1322: setup-py-disabled:5db61393929eb9d7f47e0cd559482ae991aa5829;main:5c1a9cbc9d757b988531ef574f666e4a0b8df61d;|2026-03-27T19:04:17Z|SIZE:35392
 adafruit/Adafruit_CircuitPython_Requests: wiznet-ssl-example:dd0cbf80ae3904f7daccf61eb582480d52c633a2;tannewt-patch-1:6473e0ad78c28efb357eb627fbe1e406230bee33;no-space-after-colon:9543728198760e9f2c207517aaecf7e348c2e7e1;main:44186adfc6a982f26007cba2b103dd65cbb68c65;|2026-03-27T19:14:33Z|SIZE:195782
 adafruit/Adafruit_CircuitPython_SSD1325: pylint_update:5724871e0683dacab6768d1e01d58538455d9da9;main:c2184459e466ce55be32b013c9509374529b0166;|2026-03-27T19:04:20Z|SIZE:35850
+adafruit/pxt-adafruit-boot-sequence: master:bb1cd172c3603161afbf5e6062c1d5efc2baac7c;|2020-04-05T01:19:23Z|SIZE:99565
