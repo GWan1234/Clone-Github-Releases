@@ -1973,3 +1973,4 @@ adafruit/Adafruit_CircuitPython_Anchored_TileGrid: rtd_sphinx_config:ed20cc04baf
 adafruit/Adafruit-INA3221-Breakout-PCB: main:8512a5309b714b62bf669fd1b85787a5ef051a16;|none
 adafruit/Adafruit_CircuitPython_INA3221: main:cb6d83f1150999e9f67a0e14be7b2317caaabed3;|2026-03-27T18:59:37Z|SIZE:21661
 adafruit/Adafruit_CircuitPython_TM1814: main:905f6fe68dca7915a1cc7b33de52eaba172e4815;|2026-03-27T19:05:28Z|SIZE:20311
+adafruit/Adafruit-VCNL4200-Breakout-PCB: main:461ffb1e80f5cb6555e25400d41db8b1a72ca58e;|none
