@@ -1172,3 +1172,4 @@ adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB: master:b099d41a3fb4cddce5f19a7
 adafruit/Adafruit-Audio-FX-Sound-Board-PCBs: master:378d5c6b68a12f1ec56110df7422b18ddeafe679;|none
 adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: master:00cb07abd32b2a1bcfb4534cd69d71cc91630a36;|none
 adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB: master:7075f89067dfed503101a3414c45d55e9ab80444;|none
+adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: master:0c7bd1cb7a409f9d1689bc26a0a18079c9339b33;|none
