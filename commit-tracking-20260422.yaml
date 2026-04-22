@@ -1425,7 +1425,7 @@ adafruit/Adafruit_CircuitPython_LED_Animation: patch:9fde73f3dc34a2f3007a7a9b3ca
 adafruit/Adafruit_CircuitPython_Colorsys: setup-py-disabled:d8f4d85984e5459b9be5a21f593e562d50e11078;main:e607d12f9daa88cbe4a5bca4a727473e942ee95b;fix-module-name:c68a56d04f66314abb92aa5e86fbb6841b6578f7;|2026-03-27T19:08:37Z|SIZE:59951
 adafruit/DotStar-2020-8x8-Matrix-PCB: master:40f15689e170cea4bffe8427b758e0617109e5db;|none|SIZE:452496
 adafruit/Adafruit_CircuitPython_TMP007: main:1324b9c69c7fd139851d5762cadea417ddf3bf4b;|2026-03-27T19:05:35Z|SIZE:18907
-adafruit/Adafruit-pIRKey-PCB: master:6f962ffc77d781d85bb019384fd80bceb0dc80a4;|none|SIZE:1246352
+adafruit/Adafruit-pIRKey-PCB: master:6f962ffc77d781d85bb019384fd80bceb0dc80a4;|none|SIZE:1246353
 adafruit/Adafruit-NeoPXL8-PCBs: master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802;|none
 adafruit/pxt-crickit: servopulse:8dbf72089de398fb4da70809c32a9a35fe17c8d4;microbit:6d78a8f266ac325ae42bad16f21e285492d740f1;master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;dm-edits:c895b7a11609f4edd4d43787fad04e20d50c2f25;|none|SIZE:549418
 adafruit/Adafruit_CircuitPython_MatrixKeypad: rpi_simpletests:12d277c226594276627439253772f7cc949c2e50;main:26386099df777764f129187655aac05b421b2f7b;|2026-03-27T19:00:41Z|SIZE:34594
