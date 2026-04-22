@@ -1998,3 +1998,4 @@ adafruit/zephyr: main:03fa6a0c33c7e918d4157eb5404835c164b2c3f1;fix_rp2350_entrop
 adafruit/Adafruit_FT6x36: main:cf64b19b38310b0db7f4b8feaa011e399e5d522e;|none|SIZE:3271
 adafruit/Adafruit_CircuitPython_INA228: main:fefdf16ce96ec11e895258864b32707cf4e368e4;|2026-03-27T18:59:26Z|SIZE:22374
 adafruit/adafruit-zephyr-support: main:cb4516a62e618da59223ccb01eeedb70a9f196e1;|none
+adafruit/Adafruit_CircuitPython_GC9A01A: main:b92870316128261224359bd01f2898049d26e26b;|2026-03-27T18:58:41Z|SIZE:19041
