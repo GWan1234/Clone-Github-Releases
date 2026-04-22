@@ -2609,3 +2609,4 @@ adafruit/web-firmware-installer-js: main:1b33db1faef89afcf2c52966f65fc2facad6b07
 adafruit/Adafruit_IntelliKeys: update-doc:4e6de65b072192fdcfcf151e97369300addf3856;main:afd23a892c4b3e187de99fdf2c738f058d11ea3b;|2024-11-12T17:31:54Z|SIZE:264304
 adafruit/cookiecutter-adafruit-arduino: main:66a16eac492106c9e8091f9c2b588a8dee068a3f;|none|SIZE:3767
 adafruit/Adafruit_MCP2515: main:f283438d8021440568b3f2a8e49eccc781ff3473;gh-pages:f189f86b7685b640c67c99e1995c86afc8f3f3cd;|2023-08-11T10:47:35Z|SIZE:83225
+adafruit/Adafruit_TSC2046: pre:9be243b4b0aa049c07966c5ebe0625483f10440e;main:3557a58bf1b87a8af5d637f6a13c4cfc776dc97c;gh-pages:9700ab1620c7edc993dbdfd54cae1a7bc82f8b3b;|2023-10-03T21:08:54Z|SIZE:368930
