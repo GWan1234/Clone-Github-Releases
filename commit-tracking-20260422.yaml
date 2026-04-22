@@ -2330,3 +2330,4 @@ adafruit/Adafruit_CircuitPython_CharLCD: patch:af753ae25682f7b462fceaed543e1643b
 adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB: master:afaa9a44856f370313c9509650e84d1f5b4b9b28;|none|SIZE:757397
 adafruit/Adafruit-PCF8523-RTC-Breakout-PCB: master:4ec7e14d667a2d075430da0980c35c4f049e860b;|none|SIZE:1739732
 adafruit/ARDX-Fritzing-Diagrams: master:55a3c1bf7a8a806078ba129865149882ecd4050f;|none|SIZE:718925
+adafruit/Adafruit_Userspace_PiTFT: master:c2c2daea31bad7ddff3516d1b9c085bc3608d75c;|none|SIZE:16654
