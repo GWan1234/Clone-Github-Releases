@@ -751,3 +751,4 @@ adafruit/Adafruit-WebIDE: update_setup_image:9e6f26ed45d349649d84bc8b22f65921854
 adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: master:74d6e65d5d33551bb1158547309b19381252ed38;|none
 adafruit/Adafruit_VS1053_Library: master:ee1b0de61107db2c0f45bce55d057f83e0ec07ed;gh-pages:c118e58a2eba1a5e210c95c09e6ae7a2688e1f97;actionci:4160e55ce9ea97688c037cf9e1292915ef2f40b6;|2025-12-09T18:33:00Z|SIZE:156505
 adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80;|none
+adafruit/Adafruit_L3GD20: master:d931c17ebc3094d40c472fda889cf97d9112f2a1;|2015-03-31T19:44:20Z|SIZE:5894
