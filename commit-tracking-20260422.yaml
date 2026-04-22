@@ -776,7 +776,7 @@ adafruit/Adafruit_TSL2561: master:bf2adc60e22a46356d48755931852d2d6d0d2238;gh-pa
 adafruit/Adafruit_LSM303DLHC: master:ccc4e70113460333a70926e08150d2d13a32c35b;gh-pages:3908872a08cc26aca7127ad2804af119efa89eb8;|2019-09-13T21:48:33Z|SIZE:7782
 adafruit/Flora-Brakelight-Backpack: master:8f6ed6e5dd51cb952dad99b5e27b60949b299634;|none|SIZE:2834
 adafruit/Adafruit_BMP085_Unified: master:95ae5cc07f14cb36955d946c2403ccebce9bb00f;gh-pages:b9303682d3615a47bc08c38cb6842053ef9944f7;actionci:e42eabf784db123e8f0cad5f2f69d117705f0333;|2023-11-15T15:28:03Z
-adafruit/LED-Ampli-Tie-with-Flora: master:2449eaa274f1f3ea5f234367b8c5086b67c10b43;|none|SIZE:6659
+adafruit/LED-Ampli-Tie-with-Flora: master:2449eaa274f1f3ea5f234367b8c5086b67c10b43;|none|SIZE:6660
 adafruit/Adafruit_TMP006: master:d0fc98a7d40474e02f2d97eb465d65230b7e26c2;gh-pages:f498bb96cc338557554f29347e38004686577547;actions:3a8ac74118b5acc0efe1ac45d8129eb2cdb23db2;|2020-05-26T17:13:08Z|SIZE:93169
 adafruit/Python-WiFi-Radio: revert-7-master:3e5587d38c4f2b5ea413c244b4637dc817fd03f4;master:689b2335d86a74274f76733261d031e40ee37d14;|none|SIZE:14031
 adafruit/Adafruit_AM2315: master:7f52340f38ce714f00ce47de39fd50c82e409184;gh-pages:81931048c99957035d1828a25ba65a8f44a154b6;actionci:18d9bca559a50cfd9c6b48e0124b9c5c521cd880;|2023-10-03T20:06:31Z
