@@ -1419,3 +1419,4 @@ adafruit/Adafruit-AS7262-Breakout-PCB: master:e938964b93a0dca5c0120fe2aa54a16e59
 adafruit/Adafruit-DragonTail-for-micro-bit-PCB: master:2f220715487c3b55339cd84be5d9f9bac4e7a779;|none
 adafruit/awesome-circuitpython: run-awesome_bot:23cfdcb8fc33c38a74c23363418430aa219736ea;main:21edca3c366122d84ab26d4875b5aa137b636f54;detached2:91b93ae566debcbf371a4c2aac4a23c89ce015a3;detached:016eedaaf00afa89a6ae1858bd9aa05a7d61e1a4;cpy-show-links:4816c0e63c98e200ae4f7f043142c92cbc5b8833;|none|SIZE:1168913
 adafruit/Adafruit_CircuitPython_STMPE610: main:2f1f731a5e5710c2cddc0c790596b27c674b13c3;|2026-03-27T19:04:56Z|SIZE:23896
+adafruit/pxt-seesaw: microbitv0:526af9cb87b792123d1be9ca53b759ffbb487579;master:6f5e163620e90225a858f2e0c0bee008ed79f635;|none|SIZE:82401
