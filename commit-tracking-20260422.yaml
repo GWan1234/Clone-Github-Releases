@@ -2445,3 +2445,4 @@ adafruit/Adafruit_CircuitPython_binascii: tannewt-patch-1:cec1f580e14a082f92264e
 adafruit/Adafruit_CircuitPython_IL0398: pylint_update:69c425a0902d17a53faf795a041fae0fa6a27d11;main:a496bcc89bf43373690d8662207786203a0c7ea5;|2026-03-27T18:59:16Z|SIZE:42950
 adafruit/Adafruit_CircuitPython_JWT: main:d24818d317b0664008f8249e73e5e6cccb09dd2a;REUSE:68f3480783e4757d32a641527d537c3cccf97e9f;|2026-03-27T19:10:35Z|SIZE:46146
 adafruit/Adafruit_CircuitPython_GC_IOT_Core: main:f674cda6cbae9f27d040e02de842fe6cacceccee;|2026-03-27T19:07:04Z|SIZE:24767
+adafruit/Adafruit_CircuitPython_NTP: main:8d706ad14513ee186a4753e92ad8f7973ffa3ad1;REUSE:8b319dc1209b34f999c06d3bad4ac513a3140272;|2026-03-27T19:11:20Z|SIZE:41146
