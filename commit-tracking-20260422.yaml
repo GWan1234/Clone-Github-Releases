@@ -2057,3 +2057,4 @@ adafruit/io-actions: tylerdcooper-patch-2:d8f12286ff8b2f529064330006e8e2b4970e49
 adafruit/Adafruit_uBlox: piclaw:95f28d22e71f6c1c64132e892a73fa64251f3f9c;main:82a99990773fec028ebb7d9d9a4eaaafd6b18b33;gh-pages:29f570faa48680095d58f88c6ba8b78ac0052348;|2026-03-03T14:49:00Z|SIZE:211158
 adafruit/Adafruit-Fruit-Jam-PCB: main:252dc09456ee447b3d7eeb4fa99877898503e81a;|none
 adafruit/Adafruit_QMC5883P: main:b189f39e98fb5486c99512a6e3c0da67c5e400c9;gh-pages:8a4086d90e7cfab3d7f82afaada9ccd97458b75c;|2026-02-28T05:26:04Z|SIZE:338853
+adafruit/Adafruit_MLX90632: main:b12dd117f5b3b3d5b326993f9af1679130eaef82;gh-pages:3950a65d7cd4a2d92f0db5cea41968b1b4d362b4;|2025-09-09T10:51:41Z|SIZE:103065
