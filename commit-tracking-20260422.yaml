@@ -1198,3 +1198,4 @@ adafruit/Raspberry-Pi-Pokemon-Detector: master:9545ee1486fdad90518995bbd5422d935
 adafruit/AdafruitClassLibrary: master:3fe5e2d3ca0a13a84567928365f09040768bb4ee;|none
 adafruit/Adafruit_RTD266X_I2CFlasher: master:febb4f815731842439836268628d835e8d966f4f;|none|SIZE:4913
 adafruit/Adafruit-uRTC: master:9773b4f6f369eea39a8471126ad6201b8d511940;|none
+adafruit/Adafruit-MMA8451-Breakout-PCB: master:f9fa425744bf6c85d7ff0a4c80fd36311a0da974;|none
