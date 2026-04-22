@@ -119,3 +119,4 @@ esphome/media-players: main:79da2bb202c1f4bea5d0dbea017a3b3e7fcc1e09;jesserockz-
 esphome/arduino-pico: pico-w:910a7e997b3843f96ed80186fd8f48e01bc6d13a;master:91e69e2a1ac984b8f29d88292da287fdf03800d7;|none
 esphome/bluetooth-proxies: main:6054c5a11b04dfbfc58f8d700716d4f2ed73517f;esphome-version-update:bb287c80f85cd88aae2aafcf87d064cef61e27d1;|2026-04-15T20:45:36Z
 esphome/deployments: main:c50b61d9ace129171add357cdcc242c51eed2e16;jesserockz-2026-068:4f606eaa5e4815691242eb02811e5ee2925e1613;jesserockz-2026-067:fd0fe022c965c907d15e508bbcab46fa5c723b59;dependabot/github_actions/hashicorp/setup-terraform-4.0.0:56ec8fc1045bff345d1605a85628a7c9ad8f9dbf;|none
+esphome/dashboard-api: main:84922ef3e8e36af51b00262e2ca9d0bd196749a6;dependabot/github_actions/github-actions-e01ed90380:df92ab9aadceac231cdd6f62eb41f1f39834b8bc;|2025-04-17T02:58:37Z
