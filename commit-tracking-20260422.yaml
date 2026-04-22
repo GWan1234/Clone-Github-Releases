@@ -757,3 +757,4 @@ adafruit/Adafruit-Flora-Pixel-Library: master:eed8adeaad7fb8d342f96b3d97d11c35b5
 adafruit/Adafruit-INA219-Current-Sensor-PCB: master:f7ef6a540648572549d64ff2b9b1932f17173e40;|none
 adafruit/Adafruit_LSM303: master:7f9230639ae2ccbe3b9b208cd715614d27bf569f;|2016-06-02T21:27:40Z|SIZE:5063
 adafruit/Adafruit-Analog-Accelerometers-PCBs: master:1cfa246270a750b416d54a9c9b48423afb8aa759;|none
+adafruit/ADS1X15-Breakout-Board-PCBs: master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55;|none|SIZE:1478873
