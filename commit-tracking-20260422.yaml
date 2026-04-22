@@ -1960,3 +1960,4 @@ adafruit/Pico-PIO-USB: support-rp2350-pio2:7f7ea5b481648153bec264b7faeec8676abeb
 adafruit/Adafruit-Reversible-USB-Type-A-Plug-Connector-Breakout-PCB: main:61c86cfbb89a45a97a5046854997d486fac109d2;|none
 adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: main:63c6200bb3ef17d491089cfa6441b1810d79bb20;|none
 adafruit/Adafruit-ESP32-C6-Feather-PCB: main:7376e394a3a889550e0092d7dbe3bea453b309b3;|none
+adafruit/Adafruit-FPC-Breakout-PCB: main:78b551a2118c356b7c2f6ffc1eb3b41b45943fb4;|none
