@@ -2084,3 +2084,4 @@ adafruit/Adafruit-SPA06-003-Temperature-and-Pressure-Sensor-PCB: main:c4adbd023d
 adafruit/Adafruit-PCM5122-I2S-DAC-PCB: main:5ce8729798cefc4174524ae678db3958ad0b8113;|none|SIZE:1171697
 adafruit/Adafruit_CircuitPython_PCM51xx: main:51f8b5a8d138cb85222bd7fcf57d38e15c90012e;|2026-03-27T19:02:44Z|SIZE:23326
 adafruit/Adafruit_CircuitPython_SPA06_003: main:9d535c60b9123d4fec737dbc39a4595c1fd659ee;|2026-03-27T19:04:08Z|SIZE:21516
+adafruit/Adafruit_SGP41: piclaw-examples-and-hwtests:8f987093433ad9c996467a38a5bd68fcc55ea0cd;main:b6d66008b34f547f6b8067401aed743e39e8f8f1;gh-pages:3650111fa553c63c785c919892e5327cb3fa6a6a;|2026-02-11T18:03:28Z|SIZE:110745
