@@ -432,3 +432,4 @@ OpenListTeam/wazero-wasip2: main:b699dbc20d5c007f6e1fd42ad8b533d30adfbf17;fix/re
 OpenListTeam/openlist-ftp-plugin: main:be1a3ee9684749791d6b0e3bac4cac977f72d76c;|2025-10-15T18:13:47Z
 OpenListTeam/openlist-lanzou-plugin: main:e65f249178fdc53a8e25e2fc79c0cadfe0918e2a;|2025-10-15T18:26:16Z
 OpenListTeam/OpenList-Helm: main:e42a41d242b14246149f241dff33004911ee19ac;|2025-11-04T09:28:01Z
+Finb/Bark: master:6a2997a300dc4133505a58b6f022ceaa2940ff3b;feature/ttl:a0b67ed282f1ef72533c306ec82bacd2ede44785;|none
