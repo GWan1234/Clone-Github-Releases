@@ -2466,3 +2466,4 @@ adafruit/PyLeap-iOS: master:02a0f52c0c08ab892098ee356abffe74a87904ff;iOS-17-Upda
 adafruit/pyserial: windows-interface:163a16f50def4cc408ca1cc55b63dd79c6550e58;master:0e7634747568547b8a7f9fd0c48ed74f16af4b23;issue-154:8ce3c0c770ef95f9b994eabb8e46faafd8703c28;gh-pages:5f7c648ef46b85d2730b4265b979f1f0caf96777;518-osx-workaround:b2b36cfc956e86d54e681bf25059a5bcb28d7ce5;|none|SIZE:497932
 adafruit/nvm.raw: main:ea225c02ef3e69782695a8d73c641fac79e7358b;|none|SIZE:24593871
 adafruit/Adafruit_Dynamic_Bundler: main:1d96664beff67a9729484e63a734d12d1efc4a0f;|none|SIZE:3599
+adafruit/imx_rt_flash_config: main:9de9b4a3f8f9dd9c71315ed9ad0d92bea0d5d549;|none|SIZE:4801
