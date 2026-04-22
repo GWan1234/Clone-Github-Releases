@@ -2515,3 +2515,4 @@ adafruit/Adafruit_TestBed: rp2040brains:e7e367ca80091d3c38a8d72707141166dfbef317
 adafruit/Wippersnapper_Components: v2-main:440c5abf925a3182e319b26906ee1a9766986cf2;v2-displays:66f9ce10cf5728ee257d78ddb7f9da36dcfa124f;update-image-validation:a1e1d79d8cf5d5003e401ca32f56cacc8430d3bf;sensor-precision:959e7442c8aa337dc028c3ad9cc9f166a75d761f;publish-vcnl4030:b3bd4d344899c7bd0aa57cce7fa51b1dab91ee16;|none|SIZE:12043675
 adafruit/cp210x-cfg: master:b417a28b3367a65990ad501c6cb98da2c32b7ea4;|none|SIZE:7207
 adafruit/Adafruit_CircuitPython_24LC32: main:3797df938995001a5bf3937465d3138d6fa87836;|2026-03-27T18:54:18Z|SIZE:20027
+adafruit/Adafruit-QT-Py-ESP32-S2-PCB: main:7df4eac2c0b9a73ba966766ae6027b0a4d8a6901;|none|SIZE:2349614
