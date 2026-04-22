@@ -492,3 +492,4 @@ obsproject/obs-amd-encoder: master:b30ea6b39999039d8c7038b586cf81c337e587d8;gh-p
 obsproject/obs-websocket: release/5.5.6:c542622d7b6d41ce5875f54efdab1d4ac2967ef4;release/5.5.5:63e04d20daf84391955580579e6576dfb373fa7f;release/5.2.3:6fd18a7ef1ecb149e8444154af1daab61d4241a9;release/5.0.0:d465dd3110ec1ebe6440d11634db4607e26dc13d;master:1fcb95b15aa88b1b7e9bda3f9c8650e314377169;|2022-09-02T04:37:17Z
 obsproject/obs-vst: shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825cbe1474561ec2dc28d9ca7905367e08823b90;process:935a4e3d311526f9ba5a58fc73b073d792d283bc;noclose:7119699c70e86c97c446adc401aa7104008678c5;master:b28cdef1fb06ece14d6be023b0f08ec28bca972e;|none
 obsproject/loganalyzer: master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;|none
+obsproject/obs-plugintemplate: master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;|none
