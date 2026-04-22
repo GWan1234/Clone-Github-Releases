@@ -494,3 +494,4 @@ obsproject/obs-vst: shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825c
 obsproject/loganalyzer: master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;|none
 obsproject/obs-plugintemplate: master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;|none
 obsproject/.github: master:ab3485c814e97c245a7fbaace3bc522b62c04a34;|none
+obsproject/obs-deps: master:625d8aa3cc761c3202e4a96e62c74c2603caee77;|2025-08-23T17:08:17Z
