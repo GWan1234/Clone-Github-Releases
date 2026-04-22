@@ -718,3 +718,4 @@ adafruit/Adafruit_SSD1305: update_readme:97f2589bd09b6eb1f217334690d77860665b6bf
 adafruit/Adafruit_SSD1325_Library: master:d86c98d66a10dcfecb59e99cd133a277f6622b56;gh-pages:827fcaadef84979bcf16a062cd888cbc4496db8d;|2024-02-12T16:22:32Z|SIZE:97968
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9;|none
 adafruit/2.8-TFT-Breakout-PCB: master:27ec9e198e64fb72922ecde4f1b3d66e50c392c9;|none
+adafruit/Adafruit-Ultimate-GPS: master:70430c1240b49c1e054f1edee84ad0b5ec8ebe56;|none
