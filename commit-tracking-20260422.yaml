@@ -1894,3 +1894,4 @@ adafruit/Adafruit_ADG72x: main:eeffb18d0a52505bede5523531d41bc530cd2f8a;gh-pages
 adafruit/Adafruit-NeoRGB-Stemma-PCB: main:2ddebac3517cb3013345f5e2e3bdac1ded4aa0f8;|none
 adafruit/Adafruit-ItsyBitsy-ESP32-PCB: main:552bf913248863c3a8e1e96671081113e4072478;|none
 adafruit/Adafruit-STEMMA-Analog-SPDT-Switch-PCB: main:0d377c1934aaadf3bcc8a9a89adf87b82d96726a;|none
+adafruit/tlsf: sixtyfour:6ecac2d0bcc36a3b5273b7b471e2913c6816a264;idf:ddfa052fbf46a95d84c7496e10e5781607532de3;circuitpython:5481d1cafe8c705e8387130fbc241378de7d3dc1;|none|SIZE:39000
