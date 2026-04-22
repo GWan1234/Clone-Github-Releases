@@ -60,7 +60,7 @@ cockpit-project/bots: trigger-wildcard:f32c35254d78083516ebf56f5835124f10474ea9;
 cockpit-project/cockpit-podman-weblate: main:6e23f9756bd02bf30eed1089fe83dc3f21af2f9f;|none|SIZE:110266
 cockpit-project/cockpit-weblate: main:ddde9450441592ce676513738c977041e59f3c57;|none|SIZE:1182104
 cockpit-project/cockpit-ostree-weblate: main:537aa9504799a8ce4bee7dc97359bfdb12eead62;|none|SIZE:256246
-cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none|SIZE:35222
+cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none|SIZE:35223
 cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
 cockpit-project/cockpit-machines: rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;po-refresh-20260421-190148:bf59dcab693c108cafe4f5bbacb28e3bbae4a4df;main:83a039ec53b14b1963498ef9fe7260c66227f8bf;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;|2026-04-21T11:10:25Z|SIZE:2544752
 cockpit-project/cockpit-machines-weblate: main:82d763d4dab139ce7ef7db111f1c04a3e9026fbb;|none|SIZE:368375
