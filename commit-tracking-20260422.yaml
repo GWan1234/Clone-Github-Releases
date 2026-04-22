@@ -172,3 +172,4 @@ ioBroker/ioBroker.b-control-em: master:49ea5df9c7542fe5e0dfed650c608f3ad9b2222d;
 ioBroker/ioBroker.dwd: master:ef1bcda9f43edcedca7da7e5405c87bb272f0423;dependabot/npm_and_yarn/mocha-11.7.5:a37b51e87602d68d150ca248bc3a2352d3bc96a4;dependabot/npm_and_yarn/iobroker/adapter-core-3.3.2:7ac079b91d9f8b30c2a1d251e3c3f81193aaf766;dependabot/npm_and_yarn/gulp-5.0.1:edd56f25063d92baeafbce235d3da965b1af0eb7;dependabot/npm_and_yarn/chai-6.2.2:c98efae70c5f9aa5b008c3020ed4869e582125ab;|2023-06-15T08:15:21Z
 ioBroker/ioBroker.mobile: master:6c5d66927c4cdf3dc8404517803c7add379b6f76;dependabot/npm_and_yarn/follow-redirects-1.15.4:368c7b57b4b5712d2d742d3d07482b4a36bc044e;dependabot/npm_and_yarn/axios-1.6.0:f8e55f00b2a6710b49664aa823f1305ffaf99b69;|none
 ioBroker/ioBroker.build: master:a95b8765549ea708994724877bf9e774961c5b70;copilot/fix-22:3f71be928ac88ce1fea14773c2574a008d06006b;|none
+ioBroker/ioBroker.legacy: master:c1d631c13941814be0f0f9b3ce93fcff2f3bad25;|none
