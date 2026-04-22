@@ -1935,3 +1935,4 @@ adafruit/Adafruit-Switchable-USB-Type-A-to-C-Breakout-Board-PCB: main:1566b53c2c
 adafruit/Adafruit-CH9328-Breakout-PCB: main:8dccab1fd771ca7ed068b74442a3e8785da59d03;|none
 adafruit/Adafruit_CircuitPython_CH9328: main:ddbf8efd2c2e2cb84bc7bca2729866f564f6ae4d;|2026-03-27T18:57:10Z|SIZE:20107
 adafruit/arduino_core_ch32: main:273620c809ba4cc3c6928543c6929634de8e50ba;add-qtpy-board:5355d8b506bcce97501061e2bc437c8a6934ccf4;|none|SIZE:735306
+adafruit/Adafruit-NeoPixel-Breakout-PCB: main:f8b87c97d100d141f227df93ddbd021832337ae4;|none
