@@ -2083,3 +2083,4 @@ adafruit/Adafruit-E-Ink-Bonnet-for-Raspberry-Pi-PCB: main:1989721717d068c1726f18
 adafruit/Adafruit-SPA06-003-Temperature-and-Pressure-Sensor-PCB: main:c4adbd023d64f5dbd1cea79366b0a2216d34facf;|none
 adafruit/Adafruit-PCM5122-I2S-DAC-PCB: main:5ce8729798cefc4174524ae678db3958ad0b8113;|none|SIZE:1171697
 adafruit/Adafruit_CircuitPython_PCM51xx: main:51f8b5a8d138cb85222bd7fcf57d38e15c90012e;|2026-03-27T19:02:44Z|SIZE:23326
+adafruit/Adafruit_CircuitPython_SPA06_003: main:9d535c60b9123d4fec737dbc39a4595c1fd659ee;|2026-03-27T19:04:08Z|SIZE:21516
