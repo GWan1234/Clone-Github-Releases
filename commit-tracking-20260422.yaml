@@ -1600,3 +1600,4 @@ adafruit/Adafruit_LPS2X: temp_fix:e6b5aa648e88f695afda62e7736ae1fe20d52ef8;maste
 adafruit/Adafruit_Blinka_bleio: main:c290f9c0867abf30b0f633a11ae4828be8fac488;|2024-03-20T15:59:18Z
 adafruit/Adafruit_WebSerial_3DModelViewer: master:3642232b39c331ae108b9cac5f261e30b3d17c74;|none|SIZE:590211
 adafruit/Adafruit_HTS221: master:52c4dd07a21820256ff3db35dc470cf4090e23ff;humidity_calc_fix:2200a9e67e9a8df3be51516330f19eda6e53f41f;gh-pages:692a2ac5279d94ca39629981afaae3fd9c90aa91;|2023-11-22T18:09:04Z|SIZE:232783
+adafruit/CapacitiveSensor: master:78fed5a5c885306c943eba3ea77e6b6b79d8172b;|none|SIZE:7023
