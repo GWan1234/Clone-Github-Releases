@@ -1369,3 +1369,4 @@ adafruit/codal-core: timing-test-instrumentation:9f62246117c3f4675e991b133660112
 adafruit/Adafruit_CircuitPython_Motor: main:f55b2910b01094904461d769581221c20418a267;|2026-03-27T19:11:09Z|SIZE:25154
 adafruit/Adafruit_CircuitPython_Thermal_Printer: patch-fix:13dc990d4b323cf996b1897aed3db555472d79b0;main:81e7ff54d7eebf08e3d93e3e2e6f729e76445918;|2023-01-17T17:52:00Z|SIZE:58165
 adafruit/Adafruit_CircuitPython_DRV2605: use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;main:18b7397ec21235fc398625a52f995a3be31eb59a;|2026-03-27T18:57:40Z|SIZE:40868
+adafruit/Adafruit_CircuitPython_VCNL4010: main:14fb206fdb6ca6f5f7c9d090cdbebb07d6ad4c5b;|2026-03-27T19:06:10Z|SIZE:20370
