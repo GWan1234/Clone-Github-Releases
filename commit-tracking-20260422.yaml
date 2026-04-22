@@ -2438,3 +2438,4 @@ adafruit/Adafruit_CircuitPython_SSD1608: setup-py-disabled:fcb2fa417db3acbf5f5bc
 adafruit/Adafruit_CircuitPython_SSD1675: pylint_update:1d30ef9c7a90de023c225ad05afadb277eeb9fa6;main:204144440507b1deb71746f67dcde17fa31a24c8;|2026-03-27T19:04:32Z|SIZE:43632
 adafruit/Adafruit_CircuitPython_IL91874: pylint_update:c2ae314ab3b5807e772cc99afbcfb233e85358bc;main:3b3b6fb924e6d6fa69df2f266e27db53a09f8b22;|2026-03-27T18:59:19Z|SIZE:39352
 adafruit/ArduinoECCX08: master:077d43bf713be4efdf5de2c3b15c8d587f0f4932;|none|SIZE:13488
+adafruit/Adafruit_CircuitPython_APDS9500: main:43410c611d6e3d78e7bf962426aa67bdd8c80c1a;|none|SIZE:24685
