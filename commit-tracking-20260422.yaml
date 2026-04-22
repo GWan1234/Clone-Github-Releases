@@ -1551,3 +1551,4 @@ adafruit/Adafruit_CircuitPython_MLX90640: stemma_i2c:6494e36cfd1befbce76ed860be8
 adafruit/Adafruit_CircuitPython_Display_Notification: main:5c41a6710354de01dad2dc06d2aa482ab7f5e1cf;discord-fix:92c919c8685795d307daf9a8bbfe45ece349cdfd;|2026-03-27T19:09:10Z|SIZE:37392
 adafruit/Adafruit_CircuitPython_Display_BLE_Status: master:4c4b64d4d7eef3ce7f1ddbac35173b1d13b366a5;dherrada-patch-1:0bce0f325c2a4e8ad95e15f3676af59b894ccc01;|2020-01-26T17:42:38Z|SIZE:30810
 adafruit/Adafruit_CircuitPython_NeoPixel_SPI: main:37990c55f7aa8322f3e8c8962d3e3844545a017e;|2026-03-27T19:02:03Z|SIZE:18796
+adafruit/Adafruit-LSM6DSOX-PCB: master:c05abef4675b0380fbf3d23171615a2f1ac0b130;|none
