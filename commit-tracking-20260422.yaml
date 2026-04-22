@@ -183,3 +183,4 @@ ioBroker/ioBroker.web: typescript:876c14c515ceb8ed42056a78a3344e71a8d67738;socke
 ioBroker/ioBroker.rickshaw: master:bb5ea2d94c45ec9dc07a6b8e8208c52a1c9bdc60;|none
 ioBroker/ioBroker.growl: master:1cb0defd4f9101ddc9165e718fceb19530133291;|none
 ioBroker/ioBroker.graphite: master:0c86c280a04e38a6f5177d68d615a616786d9f78;|none
+ioBroker/ioBroker.telnet: master:235475ec8e8ca00076cd321043db9490f02345f7;|none
