@@ -1710,3 +1710,4 @@ adafruit/M.2: main:76067c0f05ab3ffe5e817ef9fc4fe77cd9b866b8;|none|SIZE:2680784
 adafruit/Adafruit-Voice-Bonnet-PCB: master:9a0927aa41c9a2b6cb3f4e198425ffd6a30149b2;|none
 adafruit/arduino-CAN: same51:32db2dab0fb4b8fee6d9d02a9a38a652c5a4e44a;master:37fa95ea8d37280c22406e99bedf3de98d19fc42;fix-missing-same5x-header:febf86573760e53178c4aebdad2c692bda822ce2;|2023-05-22T17:05:55Z|SIZE:52911
 adafruit/Adafruit-Metro-ESP32-S2-PCB: master:42dac1c66d3001a97ef5565b1fea2e842364df32;|none
+adafruit/Adafruit_CircuitPython_TMP117: stemma_i2c:9c1ab7bb38c054d18f1883c1863a52f291ae57e4;precommit:80b4f42bacfab8f67b16d1677a1c246364ad66de;patch:4cf8913abdcb3b797dd9571bf3edc3b5c90e5987;main:5b56c7421739ba22bab0547c6703dcde4470b6cd;|2026-03-27T19:05:37Z|SIZE:99930
