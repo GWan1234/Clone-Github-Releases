@@ -2487,3 +2487,4 @@ adafruit/ArduinoCore-mbed: pennam_portenta_pdm_gain:69faa746c403a13b096ecc368e32
 adafruit/Glider-Wireframe: main:12bf9547666aed83aae5f3cda80389eff65d8bd1;|none|SIZE:18997378
 adafruit/Adafruit_CircuitPython_Simple_Text_Display: patch-fix:aeddb2b6f3f77b191d89b046d137fea661cb8494;main:b0adfeaeb3b99ba9c789cbc5be942592ccba0498;|2026-03-27T19:14:48Z|SIZE:43001
 adafruit/Adafruit_CircuitPython_DisplayIO_SH1106: patch:2c0a59fff04622050a3507135e4a1494ee07ed9c;main:3e308edaf9f4ebe130de4ecf91681a6db5a8e680;|2026-03-27T18:57:28Z|SIZE:42384
+adafruit/tf4micro-motion-kit: main:9d857fa09c693cf15a5899d47b8c4f9d6e474e87;adafruit:e9e23ab5df6e74984916054f52d8dbb0105a0b76;|none|SIZE:5087326
