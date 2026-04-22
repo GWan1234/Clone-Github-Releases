@@ -1159,7 +1159,7 @@ adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB: master:ace22faec73dda4b8dcfec16e166
 adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB: master:1b3616c9daf1cd0643bb7f6a98f4e3c71fe16c83;|none
 adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB: master:3ad6bed6e1b407afa7119ae548b5c2f1b107c6b1;|none
 adafruit/Adafruit-WICED-WiFi-Feather-PCB: master:f2c70ce49ef3df7f60be3a6a30fa39ff34a9dde3;|none
-adafruit/Adafruit_MAX31856: master:2e5358b148116c083c24cda3b4e675942686541f;gh-pages:239bf0e2cf7cc80ff6b8c61675903843dd1d3654;action:41c96a7769add3235fb7493382090b0d201e9f1e;|2025-05-09T11:31:33Z|SIZE:101501
+adafruit/Adafruit_MAX31856: master:2e5358b148116c083c24cda3b4e675942686541f;gh-pages:239bf0e2cf7cc80ff6b8c61675903843dd1d3654;action:41c96a7769add3235fb7493382090b0d201e9f1e;|2025-05-09T11:31:33Z|SIZE:101500
 adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: master:7384f4727943c46e8f2473a765239112a8b48f12;|none
 adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB: master:cb5f0e3d89c9b20db55984077ba5f2eba29c8d69;|none
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: master:37c7ffb587c00e67d739baa078eb755f0976d15f;|none
