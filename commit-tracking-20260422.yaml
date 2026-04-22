@@ -85,3 +85,4 @@ hacs/bot: statuscheck:665003332b58737193bff6ca75a1360ea0786595;main:08bf818d9f14
 hacs/.github: master:d760fab8cc6bef9cafea4032ce99f9154222e435;|none
 hacs/ND-NotifyUpdates: master:1af01e57d0336e64426e75297a5841bbac6c778e;|2020-03-08T22:00:32Z
 hacs/development: master:c241ba81939c911b8d498e213476ea625cc669a1;|none
+hacs/container: main:a5c0d78eea823480b011170d89086f866ba0ba3a;|none
