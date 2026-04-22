@@ -648,7 +648,7 @@ adafruit/Adafruit_USB_Boarduino_PCB: master:1203bb861fc49a53dd95dcb425c5a1d59985
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: master:eeeefb1d5689572439e4811c6ff969dd7036709f;|none
 adafruit/Adafruit_Atmega32u4_Breakout_Board: master:95a296a2957c41f86e3013eb707e21c7b2db7678;|none
 adafruit/Kinect: master:e133c23fffc3e0eff2de20e25a170ef9c6faae44;|none|SIZE:295745411
-adafruit/HL1606-LED-Strip: master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;|2023-10-03T13:34:23Z|SIZE:101834
+adafruit/HL1606-LED-Strip: master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;|2023-10-03T13:34:23Z|SIZE:101833
 adafruit/HL1606-LED-Strip-PWM: master:bc43d9cf18b152ccc197515ceab0498f7600ae92;|2015-03-31T19:44:08Z|SIZE:7739
 adafruit/LPD6803-RGB-Pixels: master:e5d3a2a55a8ee7e417e1e03dd5593530f0265eab;gh-pages:080ce20cc5b7ff32b1964190ec17423152656ec0;|2023-11-15T15:19:10Z|SIZE:88228
 adafruit/AccelStepper: master:6ea713068f97c047f6e3af9b4b646859d68d1b63;|none
