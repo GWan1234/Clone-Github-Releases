@@ -1743,3 +1743,4 @@ adafruit/Adafruit-Neo-Trinkey-PCB: main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8
 adafruit/Adafruit-FunHouse-PCB: main:4d8cb249c480c1fc4cf6891359cfbdf1c264d2a9;|none
 adafruit/Adafruit-NeoKey-FeatherWing-PCB: main:b80f2ae0778319e608a03a650e2590eef8f501f6;|none
 adafruit/Adafruit-ItsyBitsy-RP2040-PCB: main:b12f7b3f1ebf71c53b30fb2f254b85aeb1e6d6f4;|none
+adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB: main:4b82c1319140e0073adc97d5ef1c0a3ff99b5923;|none
