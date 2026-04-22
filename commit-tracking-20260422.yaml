@@ -1968,3 +1968,4 @@ adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: main:cde79ddef57c7df69a5e726
 adafruit/Adafruit-Sunken-USB-Type-C-Breakout-PCB: main:4cb1207ddd6eae864f4410d110bac38072e9b895;|none
 adafruit/Adafruit-RP2350-HSTX-to-DVI-Adapter-PCB: main:a607353591e19b0b8bc43ebdb2391b96b9278346;|none
 adafruit/Adafruit_INA3221: main:43558800d999eecb35de7b15b94488afa945825e;gh-pages:06845a37e7ca82b836777d7c24d907c815fa4753;|2024-11-12T17:13:11Z|SIZE:318869
+adafruit/Adafruit_LPS28: main:b247a0a2ea2db98cb05ace12feb3421a37fa8ee3;gh-pages:ce7933a8972fc510932100be25d71bc8624d372b;|2025-03-25T18:10:20Z|SIZE:473041
