@@ -2364,3 +2364,4 @@ adafruit/libgpiod_pulsein: master:a91d3875192a875f2eacfed47e506963ecafe851;libgp
 adafruit/Adafruit_CircuitPython_TMP006: main:547e87856436a559f336731fff18fbc95bff647a;|2026-03-27T19:05:33Z|SIZE:18921
 adafruit/Adafruit_CircuitPython_TinyLoRa: main:8ce86dd45d300233e6ac3ad40b3006cada9be176;|2026-03-27T19:15:07Z|SIZE:33969
 adafruit/Adafruit_Python_PlatformDetect: main:b75a8a9f38ec2f68787a9570ad2861a102d68cb1;dhalbert-patch-1:d8a1cc223755cf5ac9c9ed1faf00ffb519ccc292;96boards:dcdd646251091cc02825e2bb6a5352a05c60d140;|2026-02-24T19:00:39Z|SIZE:89073
+adafruit/Adafruit_CircuitPython_MotorKit: travisyml-update:cb15f98ec2be7af425f5c6aeb611e399fb04bbec;patch-fix:8e332122446476d8417712c1b6c6bf699691ada3;main:9dfb00ac6a45cf2120ddf25a43053f4aa237b11d;REUSE:ce903aedaa06666c68479cfd061def461fdfe908;|2026-03-27T19:11:15Z|SIZE:5446835
