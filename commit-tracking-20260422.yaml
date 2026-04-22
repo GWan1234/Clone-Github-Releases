@@ -2555,3 +2555,4 @@ adafruit/Adafruit_PCF8574: main:a9542ac4119439a82038aebea31db2b1b4433be5;gh-page
 adafruit/Adafruit_CircuitPython_PCF8574: main:1f81ef5c5cf225cca66fda4a9ff06360bb3f014f;|2026-03-27T19:02:37Z|SIZE:19559
 adafruit/Adafruit_CircuitPython_MMC56x3: main:a9441daa0c314470a56266458a91c20ac22b231a;|2026-03-27T19:01:35Z|SIZE:20016
 adafruit/Adafruit_MMC56x3: main:1ebfd46b75a37cf9b414067ca8cffbb6ef27c339;gh-pages:d071af011f5481b1bfa2b4e0d4afffb281a8fcbb;|2024-12-03T22:15:04Z|SIZE:92591
+adafruit/Adafruit_CircuitPython_MAX1704x: regfix:5148c6bd4e831028af24be8eeae71d53dc168692;main:696afd92d4c97e7fb5ef2435fc668cd311a4f1be;|2026-03-27T19:00:44Z|SIZE:45753
