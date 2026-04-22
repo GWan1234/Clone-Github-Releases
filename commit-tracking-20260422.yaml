@@ -2397,3 +2397,4 @@ adafruit/awesome-feather: main:3c4b663a1ca05af01500aef603a0a4955d1de7e6;|none|SI
 adafruit/Adafruit_CircuitPython_BitbangIO: main:f0d926f1c3ff99914229e9f272e95c795589a3d7;fix_rtd_theme:4d3b269dbfc9f1d4af331ef007131c9bdceadf81;docs_req_fixes:65b87a80be4ad21411cae9243722ceefff2b1dc4;REUSE:4cbaa6bafdd315ccc9533858fadddc58d8408575;|2026-03-27T19:07:31Z|SIZE:98883
 adafruit/Adafruit_CircuitPython_VCNL4040: main:0d789e668b1a5f0622b752bcefb05ca6365344a2;|2025-10-20T20:29:04Z|SIZE:20149
 adafruit/FabScanPi-Server: release/v.0.6.0:08924b3cd7f8944b76c3a432deeb38622da6dedd;master:c310830a328b997ac20a55249134c66852342859;gh-pages:9d953db40741a28e85e9f9833186055b38a79797;develop:7eeecdb05dadba003e1073b40a3e86a13f30e005;|none|SIZE:510222466
+adafruit/Adafruit-PyGamer-PCB: master:6725ded4a2049f7bf44a9078c141ceb65a5547e9;|none|SIZE:675494
