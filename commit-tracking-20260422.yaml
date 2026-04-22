@@ -2032,3 +2032,4 @@ adafruit/Adafruit_INA237_INA238: main:b02845ec43143c4c601e98879721dc48725fb3cc;g
 adafruit/Adafruit-Sparkle-Motion-Stick-PCB: main:5a2fd7a7e1ae0e15677335af38f3ba7fcb5a308f;|none
 adafruit/Adafruit-OPT4048-XYZ-Color-Sensor-PCB: main:a9569a56fbfb380a23adae0f867d1da971801185;|none|SIZE:1092493
 adafruit/Adafruit-SEN6x-Breakout-PCB: main:7caff419c5f32d5bf41f8e42641b9c158a1db04e;|none
+adafruit/Adafruit_CircuitPython_OPT4048: main:ddfe6b13acef7076333ee8e0ecd27bc4186512b9;|2026-03-27T19:02:14Z|SIZE:34381
