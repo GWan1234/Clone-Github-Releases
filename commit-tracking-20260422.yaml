@@ -1533,3 +1533,4 @@ adafruit/Adafruit_MLX90640: master:1850e00e4a505abe8c44a17fcdba57e7c66085d5;gh-p
 adafruit/Adafruit-1.14-inch-240x135-TFT-PCB: master:e87c63d29caea5604ad987077b2ca9eb61a4284f;|none
 adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB: master:d7365a23988f25d98cf9b729d5811f3d207f2230;|none
 adafruit/Adafruit_TFLite: master:1e84fc9134d3584c7ab1198a08504aa694f1c577;gh-pages:7b94d392bf6d347eddee7322df378415060f630f;actions:ee81b6bdf0e286135f172156f4f764ee69594c2e;actionci:5e1abe546a58ca3e4e6122d0f00e4de51d8b3c98;act:41a024952a8bcec6042fe3ed8c44ca931d0783d7;|2023-12-12T22:49:02Z|SIZE:746724
+adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB: master:7559d509a129d1555af92d410a75b5d89673a9e4;|none
