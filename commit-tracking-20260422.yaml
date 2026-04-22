@@ -2425,3 +2425,4 @@ adafruit/Adafruit_MSA301: master:c096f70814404a36586783df381479234379be76;gh-pag
 adafruit/Adafruit_CircuitPython_WSGI: main:e02f1e5ce451dddc3d79118f95583bcff155063c;|2026-03-27T19:15:30Z|SIZE:25296
 adafruit/stm32f4: master:612e81b67edc5d0402d42d5cc32e151a4e55bcb0;|none|SIZE:10105753
 adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306: main:8c7acd451ad53f7dc3b33a704c885032a03c1064;|2026-03-27T18:57:34Z|SIZE:20721
+adafruit/Adafruit_CircuitPython_SSD1327: update-display-modules:fc1717a0d80769faf5ae54710e850dcaedb611b4;setup-py-disabled:75f324e0961079633d34871c6dad1275ada07125;main:01ddca895f6517192cc39bc2c766c994b5cc1f41;|2026-03-27T19:04:23Z|SIZE:53435
