@@ -1354,3 +1354,4 @@ adafruit/adabot: testing_fixes:cdc17959fe04a769af06c558801a292264e27805;more-rat
 adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi: master:b8a0df00fed2f4d240c807b3f454ff6b7d8780d9;|none
 adafruit/Adafruit-WINC1500-Shield-PCB: master:5b4642c624ffe549731ff9aae4aeb5330fbbb4a3;|none
 adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: master:e836025c26c8dcfa3fab3e9aa7756542770f4849;|none
+adafruit/Adafruit_CircuitPython_Fingerprint: main:88070ae653133de8659e0dd08e657c33983f25b0;issue-36:1c56c2c6e266b0e8ce55a74dca3178eee08a33b2;|2026-03-27T18:58:19Z|SIZE:54350
