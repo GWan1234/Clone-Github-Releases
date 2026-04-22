@@ -2007,3 +2007,4 @@ adafruit/Adafruit_DACX578: main:b174745264477a5553d4f178b95f2245258d3c7c;gh-page
 adafruit/Adafruit_TLV320_I2S: main:a361dbc4f1168fd37c98329a600e7daffe658434;gh-pages:875fd4553d247d4974acabddbab7079b1c0c66ef;|2025-03-27T20:00:36Z|SIZE:143850
 adafruit/Adafruit_CircuitPython_DACx578: main:ed0c8a533c36e56922ed2df2ccfbe8493919acd7;|2026-03-27T18:57:23Z|SIZE:19946
 adafruit/Adafruit-DVI-HSTX: textmode-improvements:f1535956efb52e6a8fd6bea185a259e807cb906e;main:abff804996384d372b30bb7a16c940d2b5832e99;gh-pages:f68b88e8cf7a217710bd78849516e63b20ce9810;fix-docs:a5a2b632fdbf20498d0bd4262f9d526e28601231;drivers_revert:350a5aa1d712519d023f5bcf4e11262ab77b4478;|2025-08-12T09:46:39Z
+adafruit/Adafruit_CircuitPython_Display_Emoji_Text: updating_text:675beb42697dcffb4abdc1718199f72e2a30aafe;main:d6db2f5bcdaea4f86ecd877cabec1c819066b5ca;|2026-03-27T19:09:08Z|SIZE:38598
