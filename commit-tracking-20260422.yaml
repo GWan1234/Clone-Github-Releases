@@ -1556,3 +1556,4 @@ adafruit/Adafruit_CircuitPython_MCP4728: patch-fix:79723493818734a82e954db4e9b16
 adafruit/Adafruit_MCP4728: master:c5891d580070099c40cec57b96bac5ed55e3ca25;gh-pages:2f8b181b4cdce6c8830e2f4dccac84455ae61d46;actionsci:125e257188f0abcef8dce9cd350ddfee27d9a90b;|2025-09-17T15:36:12Z|SIZE:514652
 adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center: main:a636fc984dced58f5f0815c5c531a03ee092f7ad;|2026-03-27T19:07:57Z|SIZE:20770
 adafruit/Adafruit_Spectro_Pi: master:5da6bd1f40b9ea37b6b19d87967baeaec36ac9ef;|none|SIZE:4270591
+adafruit/Adafruit-MCP4728-PCB: master:ab66f6aaf2e95f0027f17c2dde804d79508300f2;|none
