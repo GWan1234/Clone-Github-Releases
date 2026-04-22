@@ -2605,3 +2605,4 @@ adafruit/RP2040-Based-Tester-Brains-PCB: main:2d2ad210bc536647132b5b5b1e395b6177
 adafruit/Adafruit_Floppy_FeatherWing_PCB: main:8793e86222bd62b1ee243e07e97a8de9ff6a7e7e;|none|SIZE:795748
 adafruit/esptool-mergebin-js: main:e7713006f9daac1c7f955348a243331576ed2646;|2025-11-11T00:26:08Z|SIZE:5651
 adafruit/Adafruit-PiCowbell-Adalogger-PCB: main:667876fdbc1bf1bf7e68f5d9e240d109c55e5093;|none|SIZE:909077
+adafruit/web-firmware-installer-js: main:1b33db1faef89afcf2c52966f65fc2facad6b07f;|2026-03-20T05:31:03Z|SIZE:100756
