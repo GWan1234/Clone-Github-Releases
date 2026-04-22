@@ -126,3 +126,4 @@ esphome/developers.esphome.io: main:1622a688556c14759673fb1282273cbcfa776c30;lib
 esphome/micro-wake-word-models: main:05b65922cc433c9df13e98e32a7fe520758c837e;|none
 esphome/data.esphome.io: main:525747f1f0dbca72c6079e5c2d08d2027206ad9c;|none
 esphome/.github: main:f3d4a4fa4c93daa46864caf0aaaa217cf1610b2d;|none
+esphome/docker-base: main:1a02f62358c53fb1e41ffcd61eae8bc329dc69aa;|2025-04-16T04:11:26Z
