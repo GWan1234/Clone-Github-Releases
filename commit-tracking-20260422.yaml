@@ -1885,3 +1885,4 @@ adafruit/Adafruit-MCP3421-18-Bit-ADC-PCB: main:3037fb9364ec7dbc29817c3254bda21e8
 adafruit/Adafruit_CircuitPython_ConnectionManager: main:89e59ec81bdfa7349b08ba3adf0d3cefc57af4d2;|2026-03-27T19:08:40Z|SIZE:27621
 adafruit/Adafruit-TS3USB30-PCB: main:7973099481a65c3ff5689a037ec01d45db234d2c;|none
 adafruit/Adafruit-TPS61040-PCB: main:07958c909f40c45c5aea5cdd2cc96ca19461ec96;|none
+adafruit/Adafruit_CircuitPython_MCP3421: main:b717716abd3cf59bd604fff0f43c1ecd152642c3;|2026-03-27T19:01:06Z|SIZE:20118
