@@ -1877,3 +1877,4 @@ adafruit/Adafruit_CircuitPython_ADS7830: main:3bedb5d9317e990fbc8248486625ed23d9
 adafruit/Adafruit_CircuitPython_FT5336: main:d69bbe3954d3f252059ca4a4ae0c4b7838703069;|2026-03-27T18:58:34Z|SIZE:20645
 adafruit/Adafruit_MCP3421: main:af1853d8afbc856d9687635d41c8195ed8d71912;gh-pages:761148a329ab96df9221132b7fa74ba3bab9b56c;|2023-12-16T20:10:17Z|SIZE:91907
 adafruit/Adafruit-USB-Host-FeatherWing-PCB: main:7011deb5316121374db87580ad3b03f22d8f676d;|none
+adafruit/Adafruit-MEMENTO-PCB: main:8f1e07b4baa4e43749793e3ebebd12005a5a8f96;|none
