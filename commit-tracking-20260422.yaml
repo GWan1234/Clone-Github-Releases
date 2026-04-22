@@ -1371,3 +1371,4 @@ adafruit/Adafruit_CircuitPython_Thermal_Printer: patch-fix:13dc990d4b323cf996b18
 adafruit/Adafruit_CircuitPython_DRV2605: use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;main:18b7397ec21235fc398625a52f995a3be31eb59a;|2026-03-27T18:57:40Z|SIZE:40868
 adafruit/Adafruit_CircuitPython_VCNL4010: main:14fb206fdb6ca6f5f7c9d090cdbebb07d6ad4c5b;|2026-03-27T19:06:10Z|SIZE:20370
 adafruit/Adafruit_QSPI: master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879;|2019-05-25T04:04:32Z|SIZE:135979
+adafruit/Adafruit-ItsyBitsy-32u4-PCB: master:b48fb1454afa84d1d83d4641d6c31fb49d360222;|none
