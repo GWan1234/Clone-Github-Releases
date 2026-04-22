@@ -5564,7 +5564,7 @@ adafruit/pyusb-usbip-backend: main:11914e98d3f87890b8eff303137454a83dd65f13;|202
 adafruit/pyserial-pyusb: main:e21f31f5e62c98398333047158e894d4a3d7a7da;|2026-04-10T22:46:37Z|SIZE:8866
 adafruit/Adafruit_CircuitPython_MAX44009: main:dcfaec94bf12a1311ba5787ae66ac3d079abec85;|2026-04-14T13:32:19Z|SIZE:26854
 adafruit/onekey-keyboard: main:c040ea9ac41e4a643c6cfc5af647fe546a85fdbd;|none|SIZE:6881
-adafruit/esp-perfetto-logic: main:c367aaa3d04960a18a655032b512b94133956db6;|none|SIZE:37850
+adafruit/esp-perfetto-logic: main:c367aaa3d04960a18a655032b512b94133956db6;|none|SIZE:37851
 adafruit/kicad-libraries: main:4566d23229fdfdfec37caaf610f36d72b7de864a;|none|SIZE:38856247
 sonocotta/attiny-candle: master:4eb1a50d85c7a7e7a0a20da7cdc6d748363ffc3a;features/tiny-painter:3db7530265bf922db0e148f93d329c5512f6dc02;|none|SIZE:227248604
 sonocotta/attiny-flasher: master:e220ee7f8602ab577218dc025096c98ebfe94d61;features/sync-fork-changes:b497b9313cf164c4a5a9855d335848fc92e73c55;|none|SIZE:25157180
