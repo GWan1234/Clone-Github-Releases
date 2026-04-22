@@ -2612,3 +2612,4 @@ adafruit/Adafruit_MCP2515: main:f283438d8021440568b3f2a8e49eccc781ff3473;gh-page
 adafruit/Adafruit_TSC2046: pre:9be243b4b0aa049c07966c5ebe0625483f10440e;main:3557a58bf1b87a8af5d637f6a13c4cfc776dc97c;gh-pages:9700ab1620c7edc993dbdfd54cae1a7bc82f8b3b;|2023-10-03T21:08:54Z|SIZE:368930
 adafruit/Adafruit_CPFS: main:b3c0d3652109a627c078827c81c18a64c1666a13;gh-pages:9ae75ada255adeb87f91c5d548b7829e0d69de66;|2025-06-17T11:04:02Z|SIZE:11035
 adafruit/Adafruit_CircuitPython_Wii_Classic: main:d0c1722f1c2374e25bdb39f3f9961b43566da92b;|2026-03-27T19:06:51Z|SIZE:23972
+adafruit/Adafruit-PiCowbell-CAN-Bus-PCB: main:6a54bc0068c96f8ab23616ab215f0996f77bea80;|none|SIZE:1234303
