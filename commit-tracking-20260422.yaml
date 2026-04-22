@@ -755,3 +755,4 @@ adafruit/Adafruit_L3GD20: master:d931c17ebc3094d40c472fda889cf97d9112f2a1;|2015-
 adafruit/adavoice: master:b78baee279b7297fa3e43e27ef2de0863330c74e;|none|SIZE:449603
 adafruit/Adafruit-Flora-Pixel-Library: master:eed8adeaad7fb8d342f96b3d97d11c35b5e76759;|2015-03-31T19:44:16Z
 adafruit/Adafruit-INA219-Current-Sensor-PCB: master:f7ef6a540648572549d64ff2b9b1932f17173e40;|none
+adafruit/Adafruit_LSM303: master:7f9230639ae2ccbe3b9b208cd715614d27bf569f;|2016-06-02T21:27:40Z|SIZE:5063
