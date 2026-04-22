@@ -1504,3 +1504,4 @@ adafruit/Adafruit-INA260-PCB: master:6fbc2f2fd8afe26760e791ae2f3d00977a3f1d6b;|n
 adafruit/acme.sh: vv:f2add8de94e0ad9646f86dba3ea8666c9e39b348;notify:45a8bdbedca4cca3e2a1f46763798b11d698def9;no-save-creds:059694c49f5b03031344e899a81dfb3853efb98e;master:552a49a6801fa3c144856d95b3a8a2c8f121cf31;dns_cf_zone_id:7c2e382d108d53daab554ce2936d47c9da9cb047;|none
 adafruit/Adafruit-LPS3X-PCB: master:dacce39b9af0ccbcc31625c45ef3a9c001ab0a4d;|none
 adafruit/Adafruit_BD3491FS: master:05d0556a577e39940ae5ded6e368fa3058e29ce3;gh-pages:7aee4afd32832712e6fc374a4c03a8f0a8247997;actionci:0339a6482ae07c7968e893725024fae09a14e506;|2023-10-03T20:25:05Z
+adafruit/Adafruit-MCP9600-PCB: master:59ed646dfbeafb9d4124db583fe9df9532cd3a07;|none
