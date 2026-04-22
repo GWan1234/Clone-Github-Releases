@@ -1707,3 +1707,4 @@ adafruit/Adafruit_CircuitPython_EMC2101: main:83a2bbe04fc7cb524b3dec96842ca8c43d
 adafruit/Adafruit_CircuitPython_MONSTERM4SK: main:447cbb6b68a01f5065b557d20722387c7768fb70;|2026-03-27T19:01:38Z|SIZE:25715
 adafruit/Adafruit_EMC2101: master:f370727d16d160debda809577a0b23728eb934ca;gh-pages:5b57830be7abdbd69f6a27fad4969b5bd131289b;edits:632fe350684eeab813cd8d5f0b11e53c5e4c8b57;|2023-11-15T15:27:04Z|SIZE:119869
 adafruit/M.2: main:76067c0f05ab3ffe5e817ef9fc4fe77cd9b866b8;|none|SIZE:2680784
+adafruit/Adafruit-Voice-Bonnet-PCB: master:9a0927aa41c9a2b6cb3f4e198425ffd6a30149b2;|none
