@@ -2459,3 +2459,4 @@ adafruit/Adafruit_CircuitPython_SSD1305: main:1af1c3483d52347c2f805431cf6dea18c7
 adafruit/Adafruit_MPU6050: sensorlab_refactor:807149b98cfc412b926859b9020dfabe6c0cb040;self_test:dd7cc7f9b45fce1079afce46d468ec4727fafabc;master:502a7caccda630a151dfb03ecbdd4b8452809ef7;gh-pages:ef28ed9052a42527a7e62119d6437291e2321a88;|2026-02-11T18:05:08Z|SIZE:794663
 adafruit/Adafruit_CircuitPython_ATECC: patch-fix:75e796bdc80362c0c2332549fe8b71d2ff341658;main:e93d89029412b70da0db8f74f42d6b2c288b4d72;|2026-03-27T18:56:28Z|SIZE:55396
 adafruit/glider: master:e463b130cb19464031fe94904c554743cd353442;dependabot/npm_and_yarn/y18n-3.2.2:40d0794a34fe0f20a6464c36c08e146227176a27;|none|SIZE:679800
+adafruit/pyright: master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87056e81b0f880f08f5125ce3168655e9f;|none|SIZE:1198453
