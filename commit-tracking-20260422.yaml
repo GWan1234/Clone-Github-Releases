@@ -464,3 +464,4 @@ algerkong/AlgerMusicPlayer: main:97220761cfc6782ec70555c8b2a4a53c8fb043cf;fix/mp
 algerkong/code-review-skill: main:032b09c2849c3995dd373cf1dee235d976930c01;|none
 algerkong/markdown-parse-vue: main:6337d09b9cfbafcf4ed8596ade0493b2feaa17d7;|none
 algerkong/opencode: fix/16323-keyed-show-callbacks:5ec45c03d6ea5ec59b573ab696288c725c3431f1;fix/zen-openai-response-usage:5e238ee8b9bccd485e2a1c54511f69ff7ee06ed5;fix/webkit-diff-viewer-crash:e7f4d851f60e4def256385bf8ce47d04ee0b6bc2;fix/subagent-navigation-inline-click:d8c3d8d8843075666c599dba1559b73385026178;fix/stale-running-session-ui:2ef6c88a0b93f8c5950b03700c3cb737ddaab63d;|none
+algerkong/qoder-reset: main:b8ff806ef3b6ff6a2eff04eb6abe86290831226d;|none
