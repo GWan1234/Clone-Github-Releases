@@ -2415,3 +2415,4 @@ adafruit/Adafruit_TFLite_Micro_Speech: updownmodel:a3fb431d02937a2d4c2a25a507489
 adafruit/Adafruit_CircuitPython_Pypixelbuf: main:445b828124100001a2d633b835a05b94e32083d5;|2022-02-04T20:20:19Z|SIZE:24142
 adafruit/Adafruit_VCNL4040: master:2b8154032c005eea3b8955eb3cc4317a995204ad;gh-pages:fa726931c2dd5515e554435fdce4dc6a434c3337;actionci:8fd98cf867bfb8d5f3215cd8c51fa255e790bb7e;|2025-03-18T16:20:44Z|SIZE:1087108
 adafruit/makecode-newsletter: master:a1506c9dd3570859f14a7581e723a850a411af95;|none|SIZE:127870457
+adafruit/iOS13-beta-file-issue: master:37c016d044f05af0779389224bc95901458aa35b;|none|SIZE:5364634
