@@ -2474,3 +2474,4 @@ adafruit/Adafruit_CircuitPython_NeoKey: rainbowio:499778876447543b285f427b51378f
 adafruit/circuitpython-action-library-ci-failed: main:c274cd6e41b7ab9f922cc856ea5084e7827493ec;|none|SIZE:431282
 adafruit/circuitpython-action-library-ci-problem-matchers: main:eb45d58ad65b0bd8bf0db02330493a7ac4681a30;|none|SIZE:156048
 adafruit/Adafruit_CircuitPython_OV7670: patch:1ad299c5106ff6971a1cabb2edd9d457028bffa1;main:d67ef05faf3acfd606403e86e0b16aaa631d2735;|2026-03-27T19:02:23Z|SIZE:54870
+adafruit/Adafruit-QT-Py-RP2040-PCB: main:5b6ebd1661fd5250b4f60bdba14d5c475259b7f4;|none|SIZE:1332078
