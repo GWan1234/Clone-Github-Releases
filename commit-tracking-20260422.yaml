@@ -548,3 +548,4 @@ AlistGo/desktop-release: renovate/configure:a5c9b9e14bd873191832e27815989cd60a47
 AlistGo/auth: main:891d373ead44787faf8c234dfd9c8d8510a72c20;|none
 AlistGo/old-docs: main:8f4992bd31acb779e4a6cb433a7750f953d3cd32;gh-pages:eb631057c30b8d27aa3aa65813bb4e2486688041;|none
 AlistGo/times: master:efa0c7d3ad9298803e95106774bd367ada3b81d5;|none
+AlistGo/Alist-ikuai: main:49ebba2975b6dea2e3fe0b98a6e0ae03c9435262;|2026-04-21T02:00:15Z
