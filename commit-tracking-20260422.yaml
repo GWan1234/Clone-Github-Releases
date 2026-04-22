@@ -2236,3 +2236,4 @@ rednblkx/parse-server-example: parse-server-version:a74cce070f1cb1c7218f087d4387
 rednblkx/perl_scripting_playground: master:71f800c7329b94463c916a549424e168c5846dcb;|none|SIZE:1443
 rednblkx/PlayingWithCSharp: master:8513d6bd92f7a0ca7dbbbdcf15e9e5612c830280;|none|SIZE:9690
 rednblkx/PlayingWithPython: master:994c5195eaecbdb0acbf5db3bd769e12991f4453;|none|SIZE:967
+rednblkx/plugin.video.DigiOnline.ro: release/Kodi_19_Matrix:27e6f71c27a512eba4121f7a1eb83d85229c0f04;release/Kodi_18_Leia:12e7ac79457c3dba4b5b075182ba80b91c14bc89;master:6df4a7356d6f962afc3c8443d90c53a9549a0cf4;|none|SIZE:499627
