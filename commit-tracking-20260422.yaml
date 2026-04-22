@@ -2406,3 +2406,4 @@ adafruit/META-Picomon: master:58a76ac2941ab347823101fc0346eca43f3f307a;|none|SIZ
 adafruit/Adafruit_CircuitPython_DS3502: patch:d7cba2fd3c1eb2b5c003d79fac334ceb545c68e9;main:915fa5d56795467310f151cedd279833910a3ed2;|2026-03-27T18:57:58Z|SIZE:41271
 adafruit/Adafruit_DS3502: master:61d4e904f8c38069325a0dae65c0c0b0493f480e;gh-pages:65dc2cd0881b6beab82111fd67fa63acb5e84eab;actionci:356dee281aaa26ae1635845aa71e6d2f73560a8a;|2023-11-15T15:27:18Z|SIZE:1227934
 adafruit/Adafruit_CircuitPython_Debug_Bus_Device: main:376bf3e30298c1fa4de1c0f6c1e9a236b409ce04;|none|SIZE:7649
+adafruit/Adafruit_CircuitPython_turtle: tannewt-fix-koch:480352b7b9464ffb0dfda99907bc64c588a5f732;patch-fix:27e8367bcae790144fa624a7c2108cf3b2ec256c;main:4c5320bbfd516a050447c8d65fdc1cbdf7220b35;issue41:614e9e2b4fd2012679b8a35f49126495c12c3fb9;|2026-03-27T19:15:09Z|SIZE:116772
