@@ -1568,3 +1568,4 @@ adafruit/Adafruit_CircuitPython_ProgressBar: readthedocs-yml:bff50e4df7ab4c9c14b
 adafruit/MIMXRT10xx_SDK: master:97b29486e66ba736c96892831eace128461a3c74;|none|SIZE:2894257
 adafruit/Adafruit_DPS310: master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;|2026-02-26T04:34:48Z|SIZE:115885
 adafruit/awesome-stemma: master:4faee5dea99c06c97c47408a4c860b3d020a6880;|none|SIZE:537448
+adafruit/Adafruit_CircuitPython_LIS3MDL: update-docs-link:482aa0cb10605d7ed96934f8e41bde51fd6d55d3;patch-fix:d49f645ab8d723c465f0f5ab28ecbdc97d66096b;main:61e675110d9d1af32d56ac879c17cfa0c521b5c1;|2026-03-27T19:00:03Z|SIZE:64634
