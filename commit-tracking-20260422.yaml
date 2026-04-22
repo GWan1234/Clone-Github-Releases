@@ -63,7 +63,7 @@ cockpit-project/cockpit-ostree-weblate: main:537aa9504799a8ce4bee7dc97359bfdb12e
 cockpit-project/cockpit-certificates: master:e62b39af5efa09ea1fc1f24be30c076622f172f8;|none|SIZE:35222
 cockpit-project/presentations: main:ea28a183510394cf43194cac689a4984df23c8d9;|none
 cockpit-project/cockpit-machines: rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;po-refresh-20260421-190148:bf59dcab693c108cafe4f5bbacb28e3bbae4a4df;main:83a039ec53b14b1963498ef9fe7260c66227f8bf;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;|2026-04-21T11:10:25Z|SIZE:2544752
-cockpit-project/cockpit-machines-weblate: main:5b979a8115d9c2ede70aae89e15a0ec1bf780205;|none
+cockpit-project/cockpit-machines-weblate: main:82d763d4dab139ce7ef7db111f1c04a3e9026fbb;|none|SIZE:368375
 cockpit-project/node-cache: main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;|none
 cockpit-project/pixel-test-reference: master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;|none
 cockpit-project/cockpit-cloud: main:c2896dc1654fd92f9d3f0dd790fa340e30d8accf;builder-container:f6ead712496f6d619e132f0b647e56eb83bbff1f;|none
