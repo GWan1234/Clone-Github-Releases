@@ -862,3 +862,4 @@ adafruit/Adafruit_MiniMLX90614: master:613aee3bbf05754574ce7d2112da7de45b352c5d;
 adafruit/Adafruit_SI1145_Library: master:27757d5dd017f6dbe0dce11c49323312f87394c9;gh-pages:7711140ab17bdf407eaffb4b5c7bce42efa22e31;|2023-11-15T15:21:26Z|SIZE:369697
 adafruit/Adafruit_MCP9808_Library: master:1447e4e8ab099dec3bc76bbb19ab9136f9478b15;gh-pages:044be17019e1bd328f068a1a480d5832a46717d8;busiosensor:2c69f263873148d0e1cea4cd734c143af9f2b96b;|2023-11-15T15:23:29Z|SIZE:375982
 adafruit/Adafruit-Trinket-PCB: master:3a2695463e52f72434d20daca6502fc62e8e2fcc;|none
+adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: master:5d9281aebe826950512105acbb304bf30f5d0540;|none
