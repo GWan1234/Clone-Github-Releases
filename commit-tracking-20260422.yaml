@@ -710,3 +710,4 @@ adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: master:1d637245ba0df241e05
 adafruit/Adafruit-SSD1351-library: master:8c1ca3b367460498c9258c683e8dbd11770d8b83;gh-pages:7de70b6a53bd8267f51de7555d9638596cda8ac3;actionci:09c28550dfa3141b2993bf7935d952650204e7cd;|2025-07-08T16:05:24Z
 adafruit/Adafruit-Graphic-VFD-Display-Library: master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34;|2023-11-15T15:30:35Z
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: master:b89ffa961067cb959deff9eae264a017a2650539;|none
+adafruit/Adafruit-GFX-Library: spidmadisconfusion:c2c9321319c82dc22722456f16d7e965be34ee22;rp2040:823fc6ccef0ba17af5017a1c7cef07f843555c27;revert-383-master:605ea88e4090ec55dab2416ead8819606fc6bafd;revert-300-master:8be8308f031eb2e944f2e8880887af984e4cb82a;revert-227-revert-226-master:60e0e6335f97bf690fb0182e998fe5c35f473d86;|2026-04-09T22:24:06Z
