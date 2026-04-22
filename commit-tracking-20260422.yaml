@@ -2200,3 +2200,4 @@ rednblkx/DungeonProject: testing:4b4cb11bd2eb29ebaa14e986844e7aea91d6718d;master
 rednblkx/esp-hal-pn532: main:90da84e1eeef86e5d2329d6c1db1c9726f104436;|none|SIZE:5023
 rednblkx/esp-homekit-sdk: upstream:b542009658a6ba4bd9272304334577ae285769bb;master:e7451e9d6e58d91371bed0bc164e6d6765668243;esphome:1d1ea30bba62ed9c9d55da6613d828a658ec2a39;|none|SIZE:579899
 rednblkx/esp32-event-bus: main:1a8a9c0ad1eb43eedaba60d996f6222f1c23d216;|none|SIZE:4397
+rednblkx/esp32-tlv8: master:e380df788c86003e75d3602d83d0f8355a04cc8a;|none|SIZE:10216
