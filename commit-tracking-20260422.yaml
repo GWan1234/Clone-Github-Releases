@@ -2046,3 +2046,4 @@ adafruit/awesome-open-source-robotic-arms: main:fec1141d5dc44edccb7f06e66cd71d43
 adafruit/Adafruit-TPS61169-Constant-Current-Boost-Converter-PCB: main:c538e5fd9950a652d65cf40744e51a227d458ab2;|none
 adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: main:e146e77404551f1ae0619f6627bcc4435d81b0eb;|none
 adafruit/Adafruit_CircuitPython_Color_Terminal: main:af19166da9b5773bd9acf56e766776939ae09e46;|2026-03-27T19:08:35Z|SIZE:25840
+adafruit/Adafruit_CircuitPython_AS5600: main:574446b274c6442d69d023f2f964825653d56684;|2026-03-27T18:56:16Z|SIZE:21474
