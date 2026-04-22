@@ -2601,3 +2601,4 @@ adafruit/circuitpython-repl-js: main:1d14bb66f89853d23584668d403b464af6bc890d;|2
 adafruit/Adafruit_CircuitPython_SPD1656: main:092aec3eab523c668e929ffe89d947935ab23691;|2026-03-27T19:04:10Z|SIZE:24107
 adafruit/Adafruit_CircuitPython_ACeP7In: main:43377db4a2bdb542c129e7cc52fd87231e2aeb61;|2026-03-27T18:55:34Z|SIZE:23164
 adafruit/Adafruit-OV5640-Camera-Breakout-PCB: main:6eba49749bf953b8e4c8abfd61bd996d184dc0c7;|none|SIZE:289247
+adafruit/RP2040-Based-Tester-Brains-PCB: main:2d2ad210bc536647132b5b5b1e395b6177a4dccf;|none|SIZE:5983764
