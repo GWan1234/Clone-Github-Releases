@@ -1788,3 +1788,4 @@ adafruit/Adafruit-NAU7802-PCB: main:7ac4d376418c66b9cfffc7b09d1e085368788a7c;|no
 adafruit/adafruit-creations: sparkle_motion:2a0f25d38b6371c3924c846b9166a0b8a34d1584;main:482099c03ef4f8567cd59c4212c303d9a30baa8e;dhalbert-patch-1:88c8a2936e187b34c29d3a05e357461f4fef03ef;|none
 adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB: main:e2cfb6b5e5edb46688429b701eead7a78738b0f8;|none
 adafruit/Adafruit-Infineon-Trust-M-PCB: main:be8bbc2b780c9807f57df6a793e743d38681eccd;|none
+adafruit/Adafruit-LSM6DS3TR-C-PCB: main:9bf02b7214d35f2699bfd24737865511e4f9f114;|none
