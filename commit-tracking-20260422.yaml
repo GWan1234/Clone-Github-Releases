@@ -1314,7 +1314,7 @@ adafruit/Adafruit_EPD: z29tricolor:d7079afe011907efa55fb99d90c2a72bb967b76f;soma
 adafruit/kicad-libs: master:2a0d44d92385a047b53a0dec0db82931e77aa94b;|none|SIZE:1006023
 adafruit/Feather-RISC-V-PCB: master:d1b705eca6b0b992383a75706f3e1aeb1fdcd9a9;|none|SIZE:98785
 adafruit/Feather-ICE40-PCB: master:d2a4cf7ad1d9c1139535624bacd64d180dd3e111;|none|SIZE:75692
-adafruit/Bluefruit-Swift-Playground-Book: master:c7fdfa98580203546c4491927d0d73c04fa678f4;collin:47bcc1feab81e1aeb396cc826cecbf953a6c719e;|none|SIZE:502288
+adafruit/Bluefruit-Swift-Playground-Book: master:c7fdfa98580203546c4491927d0d73c04fa678f4;collin:47bcc1feab81e1aeb396cc826cecbf953a6c719e;|none|SIZE:502287
 adafruit/Adafruit_CircuitPython_DHT: pulseio-fix:a515f920f5c187c04f9e2fb4deb299c53dcb5218;main:d4279a9a19913c51c4372cc9101f3b6b049b1da9;libgpio_pulsein:8c7a6c9ed14ab76540d1e8c69e822132eb33344b;fix_rtd_theme:7e91a4bb226367d050c7a4751a5982645c770a27;dev/fix-pylint-jquery:e32bad46a3bfafe9ecc1ba4f59f21c049a098758;|2026-03-27T18:57:25Z|SIZE:115447
 adafruit/Adafruit-PiGRRL-PCB: master:2d2e6ea5e7ed23f049389dab598643fbaf242440;|none|SIZE:1837796
 adafruit/Adafruit_Learning_System_Guides: main:cfc2a26007c9f6b9046e95cd24b7e22d15c06859;folder-images:ea2d836102743d05b218fc8483d52e55a21e18f0;|2026-04-21T05:50:37Z|SIZE:422484755
