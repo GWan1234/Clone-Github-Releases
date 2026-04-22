@@ -681,7 +681,7 @@ adafruit/Adafruit_MCP73833_PCB: master:21d2302412f317989304d1bb608ae01c7c1d3808;
 adafruit/ArduinoISP: master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685;|none|SIZE:5850
 adafruit/TSL2561-Arduino-Library: master:fea818e44a77122d31c5f79e373d3646af874fa0;|2015-03-31T19:42:20Z|SIZE:6848
 adafruit/TSL2561-breakout-board-PCB: master:8a062ad303b8b4768694e1ab1006ab0b00c8579a;|none|SIZE:896890
-adafruit/Adafruit_Motor-Shield-v1: master:f2505a85855fb00b468a78ba527afbf0d91bdb22;|none|SIZE:280811
+adafruit/Adafruit_Motor-Shield-v1: master:f2505a85855fb00b468a78ba527afbf0d91bdb22;|none|SIZE:280810
 adafruit/Adafruit_iNecklace_CAD_Files: master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90;|none|SIZE:181711
 adafruit/SpokePOV: master:0e97b586be428beb6c0f9c1edffdf9d42cf6d9cd;|none|SIZE:10553702
 adafruit/Standalone-Arduino-AVR-ISP-programmer: master:46ff5e404afaeef1763f65b4128de66ac2281865;|none|SIZE:9345
