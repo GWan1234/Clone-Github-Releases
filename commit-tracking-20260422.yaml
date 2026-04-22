@@ -1370,7 +1370,7 @@ adafruit/Adafruit_CircuitPython_Motor: main:f55b2910b01094904461d769581221c20418
 adafruit/Adafruit_CircuitPython_Thermal_Printer: patch-fix:13dc990d4b323cf996b1897aed3db555472d79b0;main:81e7ff54d7eebf08e3d93e3e2e6f729e76445918;|2023-01-17T17:52:00Z|SIZE:58165
 adafruit/Adafruit_CircuitPython_DRV2605: use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;main:18b7397ec21235fc398625a52f995a3be31eb59a;|2026-03-27T18:57:40Z|SIZE:40869
 adafruit/Adafruit_CircuitPython_VCNL4010: main:14fb206fdb6ca6f5f7c9d090cdbebb07d6ad4c5b;|2026-03-27T19:06:10Z|SIZE:20370
-adafruit/Adafruit_QSPI: master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879;|2019-05-25T04:04:32Z|SIZE:135979
+adafruit/Adafruit_QSPI: master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879;|2019-05-25T04:04:32Z|SIZE:135980
 adafruit/Adafruit-ItsyBitsy-32u4-PCB: master:b48fb1454afa84d1d83d4641d6c31fb49d360222;|none
 adafruit/Adafruit_CircuitPython_APDS9960: patch-test:9343629cf011fb48b69084710cf9d527298ba981;main:0134a126af8430126c9a569a29958802716262fc;|2026-03-27T18:56:09Z|SIZE:53690
 adafruit/Adafruit_CircuitPython_FeatherWing: patch-fix:d15d62b5d38d8e34d9d1e634b7da34e5a2eda820;main:99d27cd8d37922b5d95beff43aa679856435ff03;linting:9c5d052b42f5b69c2a8ffba5b7f180e8489168e1;|2026-03-27T19:09:41Z|SIZE:8572349
