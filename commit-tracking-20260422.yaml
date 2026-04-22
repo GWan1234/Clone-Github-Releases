@@ -859,3 +859,4 @@ adafruit/Adafruit-MLX90614-Library: master:8c32c95768e0960d7c27258b1d9bac16b8d7f
 adafruit/Adafruit-NeoPixel-Shield-PCB: master:8d382ceb17fb866f36544c106bb4346278c69c05;|none
 adafruit/Adafruit-CC3000-Breakout-PCB: master:85e69770538f91498fa18eec89245c2f9de09d5a;|none
 adafruit/Adafruit_MiniMLX90614: master:613aee3bbf05754574ce7d2112da7de45b352c5d;|2015-03-31T19:44:43Z|SIZE:4233
+adafruit/Adafruit_SI1145_Library: master:27757d5dd017f6dbe0dce11c49323312f87394c9;gh-pages:7711140ab17bdf407eaffb4b5c7bce42efa22e31;|2023-11-15T15:21:26Z|SIZE:369697
