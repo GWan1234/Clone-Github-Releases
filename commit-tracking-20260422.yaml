@@ -2338,3 +2338,4 @@ adafruit/Adafruit_CircuitPython_DotStar: pi_bitbang_exception:896a76d4e836e52e72
 adafruit/rosie-ci: master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef;|none|SIZE:12449
 adafruit/Adafruit_NeoMatrix_ZeroDMA: master:7b89ebb10c3ef8bbc864ad63c57f023f1af3f72b;gh-pages:5055c4872968e7a0f01a1bf8752b7abbbfa3997f;actionci:56d0d9e73a0e01a0de55f8fc0dfba50c95c3d2c7;|2023-10-17T14:23:57Z|SIZE:131573
 adafruit/Circuit_Walker_Sneakers: master:3e991e3b4000be430f4e1eef9861166efc6410d2;|none|SIZE:140691
+adafruit/METROX-Examples-and-Project-Sketches: travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;master:03ce7109b3f816926a510c3d755a2c380949e575;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce;|none|SIZE:3219877
