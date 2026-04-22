@@ -2449,3 +2449,4 @@ adafruit/Adafruit_CircuitPython_NTP: main:8d706ad14513ee186a4753e92ad8f7973ffa3a
 adafruit/Adafruit_CircuitPython_TLV493D: main:89b0e646371228a2af9844a0498ff235d58b05ca;|2026-03-27T19:05:25Z|SIZE:19278
 adafruit/rpi-vision: transfer-learning-predictions:fbb7375f97670c08f86ecb83c3ef341b9c2c9c7a;transfer-learning-example:e616498eb654ceebe66c2462d11557ae3bbadc0b;tflite-usb-accel:8fc232129a34d1ca5c2e0d69a606516c1fb83f7a;tfhub-cli:fea6a486f852d81164bac5e9cae60f2f5665c8a1;release-v1.0.0:799e184ce6d7b9a70e06c29365f09eb5118f601c;|none|SIZE:171159779
 adafruit/Adafruit_CircuitPython_EthernetManager: master:8b6e271b23eac4625dc8e566a3af2be805568a3a;|none|SIZE:7906
+adafruit/circup: ww-portno:ae3919e4b4925c0ce1d71b843e3e8a27ff89b740;main:f7f7873fb2b63941041aae46dd922909f978d024;|2026-02-04T23:21:28Z|SIZE:191020
