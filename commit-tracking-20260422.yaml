@@ -2332,3 +2332,4 @@ adafruit/Adafruit-PCF8523-RTC-Breakout-PCB: master:4ec7e14d667a2d075430da0980c35
 adafruit/ARDX-Fritzing-Diagrams: master:55a3c1bf7a8a806078ba129865149882ecd4050f;|none|SIZE:718925
 adafruit/Adafruit_Userspace_PiTFT: master:c2c2daea31bad7ddff3516d1b9c085bc3608d75c;|none|SIZE:16654
 adafruit/icestorm: master:f704149b7298c7c6b56520d104dc4b20abf455b2;|none|SIZE:277236
+adafruit/Adafruit_NeoPixel_ZeroDMA: master:608c671a82717f2d4816ce8977c1e516167365f2;gh-pages:811f0cfbd994f0be482ad87f72048ad500319a05;dm-trellis2:251f2ee96d25feaaf93364bbe15cd3253c5aa5ad;dm-trellis:5ae682505fba7f5bfbd742ab02261a6c7bca4a1b;actions:24ded5925f76e6aaf88832f07b1ee62661b7d873;|2024-04-23T23:11:36Z|SIZE:141281
