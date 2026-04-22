@@ -1771,3 +1771,4 @@ adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB: main:9e9f52790239a755241bfee62628dc8
 adafruit/Adafruit-CP2102N-Friend-PCB: main:1c29f780bdc7503e18c8b6d29d1f8fb7cc1510bb;|none
 adafruit/Adafruit-MCP23017-PCB: main:f73186f1b593f7a5a3e710d9ced889005b580c38;|none
 adafruit/Adafruit_ADXL375: master:20d259fc5bca4f5a500402e7abd2d45f702373de;gh-pages:067e0a421288720ee08727d25c92046bbc0b6250;|2023-10-03T20:05:54Z
+adafruit/Adafruit-LED-Arcade-Button-1x4-PCB: main:437bc15cf86fe7176b153575118f58b178de18fd;|none
