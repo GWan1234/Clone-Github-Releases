@@ -1456,7 +1456,7 @@ adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB: master:2c0839c80106b13e97aa733f85a
 adafruit/Adafruit_CircuitPython_NeoTrellis: travis-requirements.txt:77492bd3f106bcd78095f567672e60e73c084086;main:e08fd44b6955f42fcb511f0f71e3517eeb72b9de;build-badge-update:1d2e4240c5731415a3fac901de15ec91febb9b46;|2026-03-27T19:02:08Z|SIZE:52271
 adafruit/gdb-coresight: master:50fa755a05cb4d22fcc03be3c3703da62821c424;|none|SIZE:4558
 adafruit/Adafruit_CircuitPython_ImageLoad: setup-py-disabled:8a76008a0f77fc7127d430a4db5de4296dc8fc68;readme-render:269366c145e4e77b250d6a21c2a9ded79e9facd1;patch:f6d6b111fc6049a1186076d3da99f89f3d7ae2ba;main:458bc46b63ea2bfc51529b05b62b4df3c5902e17;fix_rtd_theme:b32499ce3f1c6e0dcec1794b317dd33fbfabb970;|2026-03-27T19:10:15Z|SIZE:283506
-adafruit/Adafruit_CircuitPython_HCSR04: main:de9c9a400f1780ce54a49ff62329dfeb357e519b;|2026-03-27T18:58:49Z|SIZE:274521
+adafruit/Adafruit_CircuitPython_HCSR04: main:de9c9a400f1780ce54a49ff62329dfeb357e519b;|2026-03-27T18:58:49Z|SIZE:274520
 adafruit/Adafruit_CircuitPython_VEML6075: patch-fix:4aa7dab62bed70025f735d8fe068d3a73447e482;main:5fa80ae376c5d506afc71677d111c26a4f9b3600;|2026-03-27T19:06:33Z|SIZE:41751
 adafruit/Adafruit_CircuitPython_MPRLS: main:70162ccdd68666e88014cb06bb49c35b8b1c3f2e;|2026-03-27T19:01:49Z|SIZE:18628
 adafruit/Adafruit_CircuitPython_TFmini: main:e1e713ff708a8c32bc6dbfb4911a184232d9be50;|2026-03-27T19:05:11Z|SIZE:18625
