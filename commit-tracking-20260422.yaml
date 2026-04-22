@@ -1484,3 +1484,4 @@ adafruit/Adafruit-Sound-Samples: master:7675c60a47c025ab62f77b699d6460d22bb963b1
 adafruit/Adafruit-STEMMA-Soil-Sensor-PCB: master:b20a708dd015cb81da8740460d47aae1555a1781;|none
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: master:eafc762a0cb25abfc437afecab66a5e88e5a5338;|none
 adafruit/Adafruit_ADT7410: master:8b134b3609705d2554994d959f6356d2aa7e89d8;gh-pages:4c175d0f0c9452007151c6095921a042ec83d438;busio:cf5a11e125d3127f546baf342e42673b6998a9c5;|2023-11-30T22:26:52Z
+adafruit/Adafruit-Grand-Central-PCB: master:9e59fe3cd1ea37aa6caaf5780fa80956e6ccd74b;|none
