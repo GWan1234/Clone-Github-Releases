@@ -1235,7 +1235,7 @@ adafruit/Adafruit-DS2413-PCB: master:a5aeeffa483ae80c718e9cb3cd23ea769cd5321b;|n
 adafruit/Adafruit-Si7021-PCB: master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d;|none
 adafruit/Adafruit-MAX31856-PCB: master:fee86485c7b8150e20707d628b4c9d6f52d87255;|none
 adafruit/atmel-samd-micropython-vagrant: master:9f1eaca51befa1e29447bd6ef37a438a43ad0afc;|none|SIZE:3948
-adafruit/Adafruit_VL53L0X: master:99a130ca7c7ee930fa428244dbe16d84703e4756;gh-pages:ebda1706c5fd91f8c143af31a1ae6b9e60a75c69;doxy-fix:3d854028fb716241270fbfee487f59bade6f68b4;|2026-03-03T14:48:52Z|SIZE:253094
+adafruit/Adafruit_VL53L0X: master:99a130ca7c7ee930fa428244dbe16d84703e4756;gh-pages:ebda1706c5fd91f8c143af31a1ae6b9e60a75c69;doxy-fix:3d854028fb716241270fbfee487f59bade6f68b4;|2026-03-03T14:48:52Z|SIZE:253095
 adafruit/Pi_Eyes: master:1163cb71914828ed9726ec769184df452bfaaaf0;|none|SIZE:1701578
 adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB: master:c78bc655084c2441063c0faf744ffa5eca69b233;|none
 adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB: master:8891795d7776b7203f25237db4f25ad5692758d4;|none
