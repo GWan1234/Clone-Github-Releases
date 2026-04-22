@@ -1621,3 +1621,4 @@ adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter: main:8fca447a98f1e6
 adafruit/Adafruit-DS1841-PCB: master:5d475eace8eedf69f1152edd5dc347744d76609f;|none
 adafruit/Adafruit_CircuitPython_BLE_MIDI: main:942ef22f41ab56ce4dc8c76676899d2559ace3c1;|2026-03-27T19:08:23Z|SIZE:19855
 adafruit/Adafruit_UTI165_Camera: master:5db633d69c03dd5bcc9c0d2158a3dcb1b6f56c85;|none|SIZE:37261127
+adafruit/Adafruit_Python_Extended_Bus: main:464ea7f9ba0d7f0d5699d91ecb53770fd0700c8d;|2021-06-14T15:03:23Z|SIZE:15831
