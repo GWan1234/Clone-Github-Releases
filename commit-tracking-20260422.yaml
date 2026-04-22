@@ -1194,7 +1194,7 @@ adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB: master:e5267e93a24939f5f07c1e0
 adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB: master:14a50ca2041bbcccc6a2b1378cb72424603f5d20;|none
 adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB: master:df97d9269278190e7688ac5e05eb0761db631ef8;|none
 adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB: master:a18e1c035a787044fdb3ff570f4e811dee23ec7c;|none
-adafruit/Raspberry-Pi-Pokemon-Detector: master:9545ee1486fdad90518995bbd5422d935d999b12;|none|SIZE:5638
+adafruit/Raspberry-Pi-Pokemon-Detector: master:9545ee1486fdad90518995bbd5422d935d999b12;|none|SIZE:5637
 adafruit/AdafruitClassLibrary: master:3fe5e2d3ca0a13a84567928365f09040768bb4ee;|none
 adafruit/Adafruit_RTD266X_I2CFlasher: master:febb4f815731842439836268628d835e8d966f4f;|none|SIZE:4913
 adafruit/Adafruit-uRTC: master:9773b4f6f369eea39a8471126ad6201b8d511940;|none
