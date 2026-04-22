@@ -1678,3 +1678,4 @@ adafruit/Election-Day-iOS: master:c3981b5815b58aaeae38ab4514d389865282cb67;|none
 adafruit/Adafruit_SSD1327: master:6404a444267240bfc19f55c7080c36c9710d13b9;gh-pages:0baa94c2362bdc3dfa350b483b6906dc56db1e33;fix-ci:b46138ddb9c9ea2f365f7826ca41d904104e4054;|2022-11-03T17:18:39Z|SIZE:110618
 adafruit/Adafruit_Python_Shell: main:1e279fc15bd9db4c929955ba30208d5f436db9ed;|2025-12-15T19:43:46Z|SIZE:25422
 adafruit/BLM-Badge-PCB: master:85f0a9a0df072579ab00b5e9a2e22b0477bad65a;|none|SIZE:65762
+adafruit/Adafruit_CircuitPython_LC709203F: working:5bea33eb93a8821c187c67513ef771dd5c3a6548;simplify-example-init:c247856f41d99616fe0897fafbf1075ead087aef;patch-fix:4743baf6881fdeb332ba8b5d693bd80db0573f2f;main:e32e39a18d23ae58fe97b3472253b6cbcbc8ebd0;fix_voltage:f516242df8a72e6ad0e2e7785f715e85314b9280;|2026-03-27T18:59:51Z|SIZE:110297
