@@ -246,3 +246,4 @@ ioBroker/ioBroker.rflink: master:9d80030c81f3aa2e2e7f3ece9c35c303bdeffae4;|none
 ioBroker/ioBroker.wetty: master:38aed0b5ff4e91bf978e5aa9434297493cb019fa;|none
 ioBroker/ioBroker.icons-fatcow-hosting: master:4722e453cdc567e5bc3db97de5194f080ac7282a;|none
 ioBroker/ioBroker.proxy: master:7f0b498f045f8ba2b2d7199f7a82d8a755ba1235;dependabot/npm_and_yarn/tmp-0.2.4:185a91babdfea9108dba74e3c833d99c5f8098bc;dependabot/npm_and_yarn/protobufjs-and-google-gax-7.2.4:4669f9d1b9d2950d3407a3709478eaaf28aa628d;dependabot/npm_and_yarn/node-forge-1.4.0:da6d815555ff1721feefcfff56babc0b3c608a83;dependabot/npm_and_yarn/multi-c15d0f6685:7ceb3a7fe180e303f21d7966eb8a81beb9ad926e;|2022-10-01T21:12:25Z
+ioBroker/ioBroker.parser: master:0389b25785212aae8aa9ba1eafd839773080ea41;copilot/add-testing-for-windows-macos:0564b788f1322e3f3f5fe8dc5a17df0293329bd5;|2026-04-13T21:26:22Z
