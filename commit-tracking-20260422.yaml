@@ -1921,3 +1921,4 @@ adafruit/Adafruit-Qwiic-Stemma-QT-Breakout-Board-PCB: main:da06d4686b1067d85027d
 adafruit/Adafruit_S-35710: main:959f929eb010247666ff50c29d9f5e32213847c6;gh-pages:c41f761cca1ba054e2736956587967f119d9592e;|2024-05-09T14:18:48Z|SIZE:83742
 adafruit/Adafruit_CircuitPython_S35710: main:5d5a34f0265ea15947516c3614f8ba5849b8c13a;|2026-03-27T19:03:22Z|SIZE:18745
 adafruit/Adafruit-555-PWM-Output-STEMMA-PCB: main:2e76b0f1a4a3c2c5f1c1120031069969fc5e505a;|none
+adafruit/Adafruit-SEN5x-Adapter-Breakout-PCB: main:fcedf60e56ee80e49331ec1621d4c64182aa6177;|none
