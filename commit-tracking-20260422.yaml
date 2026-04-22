@@ -1260,3 +1260,4 @@ adafruit/Adafruit-2.4-TFT-FeatherWing-PCB: master:7db81bbb064e1e703423beb6f8e4db
 adafruit/Adafruit-MAX31865-PCB: master:456676008584923c0892454c5a9b0b33346f05f2;|none
 adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: master:1ef873512150740edc9798f90028facfa35fd81f;|none
 adafruit/Adafruit-BNO055-Breakout-PCB: master:64c5a387aa807edb01eff440d1cd07ce4b608642;|none
+adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: master:2577abd97ffa3dab39b631643d5861f5b6bd98c1;|none
