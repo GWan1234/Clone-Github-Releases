@@ -2451,3 +2451,4 @@ adafruit/rpi-vision: transfer-learning-predictions:fbb7375f97670c08f86ecb83c3ef3
 adafruit/Adafruit_CircuitPython_EthernetManager: master:8b6e271b23eac4625dc8e566a3af2be805568a3a;|none|SIZE:7906
 adafruit/circup: ww-portno:ae3919e4b4925c0ce1d71b843e3e8a27ff89b740;main:f7f7873fb2b63941041aae46dd922909f978d024;|2026-02-04T23:21:28Z|SIZE:191020
 adafruit/Adafruit_CircuitPython_PCT2075: main:01229511d51a2437d70b149eee785dcfda9acbca;discord-fix:966804e55eab37949015d74ba2278bb66860694a;|2026-03-27T19:02:48Z|SIZE:36343
+adafruit/littlefs: v2:494dd6673d008c03e3199b24af7bff0fe82017f1;v2-prefix:f3608e84c7739ae9eeac3d5a4f44bbb4b0767948;v2-alpha-with-b-trees:227936b043915465aa5fedcfa9fb6b12e29c5a7b;v2-alpha-prefixed:97e21eb68e87c9bc4668027c6ce9564f2f9e0aad;v2-alpha:48bd2bff821ae70e85c82d7f6c6c6bcf2ee23dae;|none|SIZE:369295
