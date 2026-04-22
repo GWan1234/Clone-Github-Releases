@@ -1410,3 +1410,4 @@ adafruit/contributor_covenant: version_1_0:6edbd238afdb0629f9ec2bca7e631d3b6663f
 adafruit/Adafruit-RGB-Matrix-Bonnet-PCB: master:a006ae8f92572893c6c3cdf3699f2f4156cceadb;|none
 adafruit/Adafruit_CircuitPython_RFM9x: main:ad3a28df5e0cab2a24b9a6acf0667fe7c5a26563;|2026-03-27T19:03:12Z|SIZE:29489
 adafruit/Adafruit_CircuitPython_MCP230xx: patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;main:b8cbc34dc879eb54a03680e46ffea9c65600809b;|2026-03-27T19:01:00Z|SIZE:53050
+adafruit/Adafruit_CircuitPython_AM2320: pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;main:7749e4d454ea7d4145a4a2d9e717f0545dbe6135;|2026-03-27T18:56:04Z|SIZE:33639
