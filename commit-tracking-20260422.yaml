@@ -493,3 +493,4 @@ obsproject/obs-websocket: release/5.5.6:c542622d7b6d41ce5875f54efdab1d4ac2967ef4
 obsproject/obs-vst: shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825cbe1474561ec2dc28d9ca7905367e08823b90;process:935a4e3d311526f9ba5a58fc73b073d792d283bc;noclose:7119699c70e86c97c446adc401aa7104008678c5;master:b28cdef1fb06ece14d6be023b0f08ec28bca972e;|none
 obsproject/loganalyzer: master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;|none
 obsproject/obs-plugintemplate: master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;|none
+obsproject/.github: master:ab3485c814e97c245a7fbaace3bc522b62c04a34;|none
