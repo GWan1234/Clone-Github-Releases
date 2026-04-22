@@ -2560,3 +2560,4 @@ adafruit/Adafruit_CircuitPython_SI1145: main:d2c26fcb2ff9b74d42b68769c688bfffdea
 adafruit/esp32-camera: solarize:2758089a06ccae79d8fcab6c93e2ca3761646f9f;master:4f577672515090da05a9761408d3270df13ab956;fix-write16:6e7bd56988325b75b2a0f389e5bb914a13418a5a;feature/lcd_cam_hw:caf2efb650abd5d5b5f60df6a56d747614e8c468;feat/add_libjpeg:6e28fec389ff9eeb11028a3588c375782485b19f;|none|SIZE:1046861
 adafruit/Adafruit_CircuitPython_AGS02MA: main:2a20d1e17cb6a68918c5ddd9be121216022d0d26;|2026-03-27T18:55:58Z|SIZE:19380
 adafruit/pi-facerec-box: master:bd4ba88a0590640a29987b1e11f35985af993a1b;|none|SIZE:3170113
+adafruit/Adafruit-PCF8574-PCB: main:a2fbf46bed447a1bd87b51f11169b275b9bc8fb0;|none|SIZE:1163439
