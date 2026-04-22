@@ -803,3 +803,4 @@ adafruit/Adafruit_On_Air: master:3957f81639928a8ce943575fb357884c95559b58;|none|
 adafruit/Adafruit-Sharp-Memory-Display-PCBs: master:58b3ededa86c2b7cfefea12a5e15883150ea17de;|none
 adafruit/Adafruit-1.5inch-Color-OLED-PCB: master:6d5c1242dd9d6124b18336f8cebff1993a29b6e4;|none
 adafruit/Adafruit-USB-DC-LiPoly-Charger: master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489;|none
+adafruit/Adafruit_CC3000_Library: travis:67e7d85469929b1240f7a811b69a638890b05bc7;master:3327fd02c33703a5d5fe50672336e5a484ca513b;|2019-07-10T17:19:41Z
