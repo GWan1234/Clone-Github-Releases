@@ -825,7 +825,7 @@ adafruit/CC3000_MDNS: master:acb2a96f2232effd9ad2fb833b332c60e03d9091;|2015-03-3
 adafruit/Adafruit_Breadboard_NeoPixel_PCB: master:fcb0f12bb62142336634dfb3a8a8ffc5c15bb90e;|none
 adafruit/Adafruit_10DOF: master:53c43d1f6358ac92cde2c8b7987431c98fe8f848;dherrada-patch-1:a9853b82a127c5b02a81274b3f4fdd283dfe67da;|2020-01-12T01:55:07Z
 adafruit/NeoPixel_Painter: master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f;|none|SIZE:9722
-adafruit/Adafruit_L3GD20_U: master:c8c354335b41c453c8989541dd9fd64dabd420ae;gh-pages:2384b63badbb3386a3e3c9703d5ee659aef1034a;actionci:2733f34eda9448f4dffc938947a611f23d299270;|2023-11-15T15:25:18Z|SIZE:106772
+adafruit/Adafruit_L3GD20_U: master:c8c354335b41c453c8989541dd9fd64dabd420ae;gh-pages:2384b63badbb3386a3e3c9703d5ee659aef1034a;actionci:2733f34eda9448f4dffc938947a611f23d299270;|2023-11-15T15:25:18Z|SIZE:106771
 adafruit/Adafruit_Trellis: master:ed55d2b8e0e7266798c11dea75f4dbf1a81849e7;|none|SIZE:800812
 adafruit/Adafruit_Trellis_Library: panel-diagram:97d9fe84bbb39bfeebae26057f9e4ed1ef116c7f;master:0d6be80cd5b6d7cdba54afc3f956b4ce28f08b8d;layout:2e2e58e4be2236f6710bab8d6f4a1ab7be9bdb76;examples:fdd1b1f73bab0bc911850416500a0d725a2d3524;|2016-11-29T15:02:17Z|SIZE:22844
 adafruit/adafruit-pi-cam: master:d3ff22672785de876a74a4c873104dde3b1183fa;|none|SIZE:83552
