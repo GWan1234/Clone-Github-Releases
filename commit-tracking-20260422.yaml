@@ -806,3 +806,4 @@ adafruit/Adafruit-USB-DC-LiPoly-Charger: master:1cd4020ce630e7b5477cf49d1db1c1bc
 adafruit/Adafruit_CC3000_Library: travis:67e7d85469929b1240f7a811b69a638890b05bc7;master:3327fd02c33703a5d5fe50672336e5a484ca513b;|2019-07-10T17:19:41Z
 adafruit/Adafruit_DS2413: master:a044150b7fd3a57d3e0123b154df27d782edc3f5;|none|SIZE:2193
 adafruit/Adafruit-Trinket-Gemma-Bootloader: master:3bc1bb561273535d4d493518a233a3a1fccf6b76;button-boot-activation:1be6ac8acfb27d521159ff753dd387ba54489d4e;|none
+adafruit/TinyWireM: master:e3c07f2a91621632f7a4128b91e985d2bd72467a;gh-pages:aea76a3938531d45b6adf79dafae46f6e5ddc925;endTransmission-optional-stop:b6ebdfce9431e53881ecb840410038de5471fa98;|2026-02-11T17:57:34Z|SIZE:114953
