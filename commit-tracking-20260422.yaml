@@ -203,3 +203,4 @@ ioBroker/ioBroker.wolf: master:1f03af4119a07e7036cd6785ec9ac3fe9a56f903;dependab
 ioBroker/ioBroker.icons-addictive-flavour-png: master:7ca79945e7886646799cbd91382dcbb858090493;|none
 ioBroker/ioBroker.icons-ultimate-png: master:519f1a7d31416157f8297b6e5b33745a3989a122;|none
 ioBroker/ioBroker.icons-material-png: master:94ebd8d8b379df4bbee2d90b4a99fe9ba3906e55;|none
+ioBroker/ioBroker.icons-material-svg: master:c5777c5a5ec9e20429609c4b31d2da084fad06a8;|none
