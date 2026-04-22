@@ -1883,3 +1883,4 @@ adafruit/circuitpython-fonts: prepare-handoff:2f5d05558dad8c0f11105bbb8f5e210933
 adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: main:2815cb84b56f4e79c573aa0c641fadef878a512f;|none
 adafruit/Adafruit-MCP3421-18-Bit-ADC-PCB: main:3037fb9364ec7dbc29817c3254bda21e8217cbe5;|none
 adafruit/Adafruit_CircuitPython_ConnectionManager: main:89e59ec81bdfa7349b08ba3adf0d3cefc57af4d2;|2026-03-27T19:08:40Z|SIZE:27621
+adafruit/Adafruit-TS3USB30-PCB: main:7973099481a65c3ff5689a037ec01d45db234d2c;|none
