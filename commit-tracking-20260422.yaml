@@ -2431,3 +2431,4 @@ adafruit/Adafruit_CircuitPython_Requests: wiznet-ssl-example:dd0cbf80ae3904f7dac
 adafruit/Adafruit_CircuitPython_SSD1325: pylint_update:5724871e0683dacab6768d1e01d58538455d9da9;main:c2184459e466ce55be32b013c9509374529b0166;|2026-03-27T19:04:20Z|SIZE:35850
 adafruit/pxt-adafruit-boot-sequence: master:bb1cd172c3603161afbf5e6062c1d5efc2baac7c;|2020-04-05T01:19:23Z|SIZE:99565
 adafruit/Adafruit_CircuitPython_RSA: update-badge-url:73756b929f16b344020ddf913a38aba9192987c3;patch-fix:0c425c9c9be096e1cb821036654f3f5ae0f141f8;main:0f55828eec99d1f3f0b9f7f39b75c31943dece20;linting:07a6bc695b9c55d3ea54ac4ddb2875b6bccddc59;|2026-03-27T19:14:40Z|SIZE:160394
+adafruit/Servo: master:25587715ccf7be0c65d551ee8a81f45325a2f143;adafruit_samd51:962192408a0a2608351fc54e567bca28ccb2b74b;|none|SIZE:26819
