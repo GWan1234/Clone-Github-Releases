@@ -2324,3 +2324,4 @@ adafruit/Adafruit_MCP3008: master:94e5003152294bf6877da976e079af476de3544f;gh-pa
 adafruit/arduino-esp32: xteink_pr:5ee2d4d4f7a7cf7977bb9e70b61e00822c55c6b3;wipper-esp3.3.6-idf5.5.2:b0fd41f6d70946439e236b4186e98182467421a3;wipper-esp3.3.5-pre-c0395df:c0395df7e038fe02186543c32eb6de3d12987636;wipper-esp3.3.3:731aee27927442ad3b591ee31e6fcfbfa0a10971;wipper-bsp-3.0.6-idf-5-1-4:b12bfa3361e8c6929cbe252398b0c0199b43edc9;|none|SIZE:126653091
 adafruit/Adafruit_CompositeVideo: master:5d40b02788e65fc3a5b0423828a9e3f7b94992e7;gh-pages:dfa96101bb408add0f0b0b5cf7c1bec5a6f8f4f8;|2026-03-03T14:48:25Z|SIZE:98056
 adafruit/Adafruit-PiOLED-128x32-PCB: master:41f958463af931f5eb51f1135b290f3378779290;|none|SIZE:998967
+adafruit/Saleae_PDMAnalyzer: master:a27e1d9f65ac6fe8b8f0678bc81567cf1930688f;1.1.14-for-win32-debug:a6a4b647494fda011d13360afc3a34b64adc7c04;|none|SIZE:12598542
