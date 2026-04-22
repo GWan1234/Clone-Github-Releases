@@ -2441,3 +2441,4 @@ adafruit/ArduinoECCX08: master:077d43bf713be4efdf5de2c3b15c8d587f0f4932;|none|SI
 adafruit/Adafruit_CircuitPython_APDS9500: main:43410c611d6e3d78e7bf962426aa67bdd8c80c1a;|none|SIZE:24685
 adafruit/Adafruit_CircuitPython_MSA301: use_ruff:b34604e6b826eef0e8bebf461f70d5e1bcb17dbe;pylint_update:f29fe4341b1575fd453646afd9a0c24787d1ee85;main:8737db978f7432b556af93500cae21e0ad47dd3b;|2026-03-27T19:01:59Z|SIZE:58772
 adafruit/Adafruit_CircuitPython_hashlib: patch-fix:2b2ff736e1284702272f3b1ac9ebffa2a6301466;main:d319dd0785b60398b1b338ea6efc95d13f7330af;linting:05dc21b46f99af8e35a72ba9614affbec875dd86;|2026-03-27T19:09:57Z|SIZE:81979
+adafruit/Adafruit_CircuitPython_binascii: tannewt-patch-1:cec1f580e14a082f92264e86d025d6afee95bed5;main:b47574b65d1e2dd95ddb819119e9ab898b633b08;|2026-03-27T19:07:29Z|SIZE:40973
