@@ -1709,3 +1709,4 @@ adafruit/Adafruit_EMC2101: master:f370727d16d160debda809577a0b23728eb934ca;gh-pa
 adafruit/M.2: main:76067c0f05ab3ffe5e817ef9fc4fe77cd9b866b8;|none|SIZE:2680784
 adafruit/Adafruit-Voice-Bonnet-PCB: master:9a0927aa41c9a2b6cb3f4e198425ffd6a30149b2;|none
 adafruit/arduino-CAN: same51:32db2dab0fb4b8fee6d9d02a9a38a652c5a4e44a;master:37fa95ea8d37280c22406e99bedf3de98d19fc42;fix-missing-same5x-header:febf86573760e53178c4aebdad2c692bda822ce2;|2023-05-22T17:05:55Z|SIZE:52911
+adafruit/Adafruit-Metro-ESP32-S2-PCB: master:42dac1c66d3001a97ef5565b1fea2e842364df32;|none
