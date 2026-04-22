@@ -1374,3 +1374,4 @@ adafruit/Adafruit_QSPI: master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages
 adafruit/Adafruit-ItsyBitsy-32u4-PCB: master:b48fb1454afa84d1d83d4641d6c31fb49d360222;|none
 adafruit/Adafruit_CircuitPython_APDS9960: patch-test:9343629cf011fb48b69084710cf9d527298ba981;main:0134a126af8430126c9a569a29958802716262fc;|2026-03-27T18:56:09Z|SIZE:53690
 adafruit/Adafruit_CircuitPython_FeatherWing: patch-fix:d15d62b5d38d8e34d9d1e634b7da34e5a2eda820;main:99d27cd8d37922b5d95beff43aa679856435ff03;linting:9c5d052b42f5b69c2a8ffba5b7f180e8489168e1;|2026-03-27T19:09:41Z|SIZE:8572349
+adafruit/Adafruit_CircuitPython_FancyLED: pb-rgbw:039c8e7b7133884750401f754687769c23888d2f;main:0f0e19b9dd3dfef7dc7e1aed18c24f504bebaa06;discord-fix:ff6b835eda94dc54fd1c48f797967b292fd458ae;|2026-03-27T19:09:33Z|SIZE:77013
