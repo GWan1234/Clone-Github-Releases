@@ -1490,3 +1490,4 @@ adafruit/Adafruit-USB-C-Downstream-Breakout: master:1484ecb56b369e177848e69de4b7
 adafruit/Adafruit-ADT7410-PCB: master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41;|none
 adafruit/Adafruit-MLX90393-PCB: master:1c5deadca25875af5eb643b80ae0b7ece4afbb02;|none
 adafruit/Adafruit-AR: v.1.7.2:9cfaf8b4f275607c9fb39efd427f7b8f87d7dde5;master:c741d3d80db4e7636a1ebf7ca52b0bd620b18b68;iOS-17-Update:dd155da5531986d0d2ba91872a90fa72218fefc8;UIkit-test:11b1b9c594ecc6a2618693fb94deb7492c59f483;UI-Fix:cf60a8bc4e0b323dd98d7b2df759f059200435e3;|none
+adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs: master:eca6fc73d1fde5d0a4278ba339d5789e1cf3f13c;|none
