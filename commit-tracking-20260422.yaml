@@ -2619,3 +2619,4 @@ adafruit/Adafruit_CircuitPython_JSON_Stream: main:a8d424d829aaaa360738916313a05f
 adafruit/Adafruit-PiCowbell-DVI-Output: main:eebbb6a106e7084c95cee9f53a9a498f4e444766;|none|SIZE:1271222
 adafruit/Adafruit_CircuitPython_MCU_Flasher: main:8c49071094aba3e4979ef0c67566f29316e2152c;|none|SIZE:27095
 adafruit/Adafruit_CircuitPython_Debug_Probe: main:d6245eed908daa5c94ceb9c2b462377fec95acd6;|none|SIZE:22455
+adafruit/snxrom: main:62d05b2ab19cedc3380ceb07624927ffe4405f63;|none|SIZE:498152
