@@ -2167,3 +2167,4 @@ sonocotta/ili9341-orangepi-python: master:ca6023d39547847365d24a26c6188c3b5ff400
 sonocotta/loud-esp: main:c79a5d07c4123286bdc1e69036e04e38a117e443;|none|SIZE:128044527
 sonocotta/mopidy-alexa-voice-control: master:cff6775a06f74b7917ef2cac538e7b354ef15925;features/mopidy-native-integration:6e18ce62a745d1e2231f5ad4ef5fb004f207fa1b;|none|SIZE:1760559
 sonocotta/mopidy-headless2: master:339af3d3697556be342bbd18d48d7c6102638af9;|none|SIZE:6809
+sonocotta/mopidy-orangepi-pidi: master:a606aaa09d81fe74ab441e280b7cd02cd2537880;|none|SIZE:14438
