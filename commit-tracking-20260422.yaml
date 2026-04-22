@@ -2340,3 +2340,4 @@ adafruit/Adafruit_NeoMatrix_ZeroDMA: master:7b89ebb10c3ef8bbc864ad63c57f023f1af3
 adafruit/Circuit_Walker_Sneakers: master:3e991e3b4000be430f4e1eef9861166efc6410d2;|none|SIZE:140691
 adafruit/METROX-Examples-and-Project-Sketches: travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;master:03ce7109b3f816926a510c3d755a2c380949e575;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce;|none|SIZE:3219877
 adafruit/Bluefruit_LE_Connect_Plotter: master:5fdd5c80a55c04f5f21f971b57d68551373b3ada;|none|SIZE:3703
+adafruit/Adafruit_CircuitPython_LIDARLite: main:e09200be5161ddfafc9a7451f294cd940e5847b2;|2026-03-27T18:59:54Z|SIZE:20272
