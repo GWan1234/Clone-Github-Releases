@@ -786,7 +786,7 @@ adafruit/Adafruit_ADXL345_PCB: master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de;|
 adafruit/Adafruit-Retrogame: mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;master:89b32aff4e971d4ecd057d1359699eebbf3df8f5;|none
 adafruit/Sous_Viduino: master:b1b71a4316e9789541d4926df6983e5703d32f68;|none|SIZE:4338
 adafruit/adafruit-beaglebone-io-python: pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;master:cf306ed7f9f24111d0949dd60ac232e81241bffe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;|2020-07-30T02:39:56Z
-adafruit/Citi-Bike-Helmet: master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;|none|SIZE:7902
+adafruit/Citi-Bike-Helmet: master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;|none|SIZE:7903
 adafruit/Hunt-The-Wumpus: master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;|none|SIZE:4834
 adafruit/Adafruit-LSM303-PCB: master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;|none
 adafruit/Adafruit_ILI9340: master:00e5efe5d5c95f1255e55031b57f17288cf3c840;|2015-03-31T19:42:04Z|SIZE:58219
