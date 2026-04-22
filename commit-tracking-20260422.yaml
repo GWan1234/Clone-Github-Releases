@@ -2276,3 +2276,4 @@ adafruit/Adafruit_CircuitPython_Register: patch-fix:a99a8e2089b15e85aa6ce6af9b2a
 adafruit/Adafruit_VL6180X: master:7a3798cb584b3ba00cf086378e0320e98f041e88;hoffmannjan-patch-1:bd4b4825f2537742768b5bc3507da311c2adba8b;gh-pages:1e31396a6da1fabb17e13b274dbd586e2270398a;|2024-11-27T15:44:15Z|SIZE:102893
 adafruit/Adafruit_CircuitPython_BusDevice: main:d4b283c85b7b2043eb0d095638a47305a1f4ef61;fix_rtd_theme:101e57221a3d4891e11445a3e25080420e8c713c;docs_req_fixes:7167cf21f4877611801b19a2ed9e72e5276b09f2;dherrada-patch-3:28a7ae6add37403ad2b3a3c9fdaefe73423079f1;|2026-03-27T19:08:30Z|SIZE:84484
 adafruit/Adafruit_FXAS21002C: master:6781653dbad1973d1319ef792f843b312f0848e6;gh-pages:39f2c241a5886a9632eaacecdd08228d69d0133b;actionsci:e97de3ca0e6a74eda200b169873ae4b9138fe0ed;|2023-11-29T01:41:54Z|SIZE:104250
+adafruit/BLE-Black-Robot-Rover: master:44ae68af66a2a68945bf9457e7883fe920cee7bc;|none|SIZE:4773
