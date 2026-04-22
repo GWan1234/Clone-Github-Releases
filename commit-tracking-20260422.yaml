@@ -2258,3 +2258,4 @@ adafruit/micropython-adafruit-rgb-display: master:9eae54177972e9ce1c3a85c2732257
 adafruit/openapi-mitm: master:7067b6d99ee4b8963e918a23081b5708f2e0cbc6;|none|SIZE:2818
 adafruit/micropython-adafruit-ssd1306: master:7dc5e750f40fdac5e457a557653827916310ec09;|2016-10-30T21:26:59Z|SIZE:3924
 adafruit/CircuitPlaygroundMakeBelieve: master:7f971da9fd1d40390ccf9299cbee49782c81abd7;|none|SIZE:74007
+adafruit/MotorHatDemo: master:7cd65c5cc3d7ebc1b5c5bad53574d252f5f8013b;|none|SIZE:20517
