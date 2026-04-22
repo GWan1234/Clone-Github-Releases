@@ -1618,3 +1618,4 @@ adafruit/Adafruit_CircuitPython_BLE_iBBQ: main:859f65e94d8f39469a08ccdf2e531954c
 adafruit/Adafruit-Bonsai-Buckaroo-PCB: master:be6e6ddbd39d17c167c8c9e1557860620e71a305;|none
 adafruit/Adafruit_LvGL_Glue: master:cc359145abbb60f490b5068c29c09dc849d35c90;gh-pages:2597df2267df734486ec6ea691f802fd06624a53;funhouse:7f3f9ca37396c6fd347a47419f6ba55f13b2fc40;actionci:a80b162ea0935a0b8faa8aa8203b06bb26453182;|2026-03-03T14:48:37Z|SIZE:270833
 adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter: main:8fca447a98f1e644ed4c56b198a67c3878d68b47;|2026-03-27T19:08:02Z|SIZE:19951
+adafruit/Adafruit-DS1841-PCB: master:5d475eace8eedf69f1152edd5dc347744d76609f;|none
