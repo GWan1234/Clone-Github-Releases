@@ -1784,3 +1784,4 @@ adafruit/Adafruit-Feather-ESP32-S3-PCB: main:2c95ed51a500d929fd6d8f519b895f0c4da
 adafruit/a2woz: main:eee0285cdb4c6f814a08d8dc080c2e45f6a352bd;|none
 adafruit/Adafruit-VL53L4CX-PCB: main:8e287e0d06293984a3c2b4e14180830dda2e3acc;|none
 adafruit/Adafruit-DVI-Breakout-Board-PCB: main:178a6d45b2d40acaa1cf14b79479a770cc7d01a5;|none
+adafruit/Adafruit-NAU7802-PCB: main:7ac4d376418c66b9cfffc7b09d1e085368788a7c;|none
