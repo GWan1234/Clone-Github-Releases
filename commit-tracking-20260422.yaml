@@ -649,3 +649,4 @@ adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: master:eeeefb1d5689572439e4811c6ff96
 adafruit/Adafruit_Atmega32u4_Breakout_Board: master:95a296a2957c41f86e3013eb707e21c7b2db7678;|none
 adafruit/Kinect: master:e133c23fffc3e0eff2de20e25a170ef9c6faae44;|none|SIZE:295745411
 adafruit/HL1606-LED-Strip: master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;|2023-10-03T13:34:23Z|SIZE:101834
+adafruit/HL1606-LED-Strip-PWM: master:bc43d9cf18b152ccc197515ceab0498f7600ae92;|2015-03-31T19:44:08Z|SIZE:7739
