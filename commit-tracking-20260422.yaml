@@ -1657,3 +1657,4 @@ adafruit/Adafruit-PMSA003I-PCB: master:15c4cc619a86802bf7076370570ea5ab72ba020f;
 adafruit/Adafruit_CircuitPython_AS7341: patch-fix:991f3b292f135503b8eb9fb6d045a3bcb784160e;main:81c202ea0ac1820382e411edf8dd6dbf386ee800;fix_rtd_theme:2be8aa13fc48a777d22e3f53b6bbb43d3b930c4d;|2026-03-27T18:56:23Z|SIZE:77110
 adafruit/Adafruit-PCF8591-PCB: master:618da56679c56b97583774e2c2f724c453e78396;|none|SIZE:4804297
 adafruit/Adafruit_CircuitPython_MS8607: patch-fix:1d08d0d09f0c556c71bb19c9816e6efb59aead65;main:107f2dabfcc7a828c7bf1dd20c64c87e127478d1;|2026-03-27T19:01:55Z|SIZE:45104
+adafruit/Adafruit_MS8607: master:7ada811e1e9950c47865d868da3c65bfbcdcdd31;gh-pages:9ca714bc93f4bfc97a019011971587518a75aee7;fix-Werror=return-type:02d962e3e87d809aaf740a9cc60461f245a5edcf;|2023-10-17T14:23:04Z|SIZE:279271
