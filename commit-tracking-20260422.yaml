@@ -1819,3 +1819,4 @@ adafruit/Adafruit-Feather-RP2040-DVI-PCB: main:24f7c1cde8c7284bbd626f78e2b853be2
 adafruit/Adafruit-Feather-RP2040-RFM-PCB: main:e7c663f0e25d1f043d91e50bf284a5c97b28cdc5;|none
 adafruit/Adafruit-Feather-RP2040-USB-Host-PCB: main:872f24e8be5948ba2ae3d12925d18a2a8b4b8adc;|none
 adafruit/Adafruit-Feather-RP2040-ThinkInk: main:d58fe34ce514708b82d5a25def954bce635c4c8f;|none
+adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB: main:499de161e9d106e530be5ba1aa09a756c38a31ba;|none
