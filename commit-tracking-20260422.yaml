@@ -185,3 +185,4 @@ ioBroker/ioBroker.growl: master:1cb0defd4f9101ddc9165e718fceb19530133291;|none
 ioBroker/ioBroker.graphite: master:0c86c280a04e38a6f5177d68d615a616786d9f78;|none
 ioBroker/ioBroker.telnet: master:235475ec8e8ca00076cd321043db9490f02345f7;|none
 ioBroker/ioBroker.knx: no-git:0362cd9986fa8e456231bcc9582d23fa64f1e1ea;master:2e73cdf6fa306083cb9c4ef4168c0771b3c20a9a;|2016-10-13T21:06:41Z
+ioBroker/ioBroker.socketio: typescript:cffd0e7bef57965e6c1f3a87c997172998bc15ab;socketio-upgrade:cf089aae599c4b9f75acd45e96de32d793b51619;master:c4a39922f03e52fcd628493c55dab03f01bd82c5;developJack:4ec6bb90b460a93cbce93df15ee4fd8899eeb382;|2026-04-13T09:13:30Z
