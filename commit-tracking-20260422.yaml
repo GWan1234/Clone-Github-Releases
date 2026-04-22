@@ -2093,3 +2093,4 @@ adafruit/fruitjam-286: main:cb4b04147da6610304482f3b4f9b0618cf9641a6;|2025-10-21
 adafruit/Adafruit_CircuitPython_STHS34PF80: main:1b8398881936e667a1f630c18887c7a2b04e52de;|2026-03-27T19:04:54Z|SIZE:21829
 adafruit/pi_video_looper2: missing_mount_dir:a5ea64a00dbee8b1a5237caa06ef92eb5cfcdac3;main:aa9691c787f1bbbf0c3497a21ddb2cc2d49287e7;blinka_gpio:32de210713f656ba37df0978dcd942e3fc67636a;|2025-12-01T16:47:24Z|SIZE:81861
 adafruit/Adafruit-ENS161-MOX-Gas-Sensor-PCB: main:e86ce34b208d4d83c8f4cb945312f6c976704c81;|none
+adafruit/Adafruit_STCC4: main:0f16cee04a833090b3ff82efc09045f6dcd13611;gh-pages:0c8c7bc2cdaa39a20560d10b04a32fd6591f384a;|2026-03-03T14:48:45Z|SIZE:94707
