@@ -2418,3 +2418,4 @@ adafruit/makecode-newsletter: master:a1506c9dd3570859f14a7581e723a850a411af95;|n
 adafruit/iOS13-beta-file-issue: master:37c016d044f05af0779389224bc95901458aa35b;|none|SIZE:5364634
 adafruit/Adafruit_CircuitPython_MiniMQTT: patch-fix:8232136c35966ff69f1aade75ec996ce0c640548;main:7ec01da0571483180495f7482b52697e8c48f0db;|2026-03-27T19:10:58Z|SIZE:77001
 adafruit/cookiecutter-adafruit-pcb: main:f754859a393c6ce892d7b5aeb57fc1f83c57c627;|none|SIZE:9593
+adafruit/machinelearning-newsletter: master:a56cb4135d3f1174e42c0d2c2f5f711d75b27198;|none|SIZE:5141
