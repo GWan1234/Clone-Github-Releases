@@ -1768,3 +1768,4 @@ adafruit/Adafruit-Feather-ESP32-S2-PCB: main:4a6263861580257d42a889a1518133441d2
 adafruit/Adafruit-KB2040-PCB: main:b4160dcf4385ef2cc30e9652489328321720ee4b;|none
 adafruit/Adafruit-NeoSlider-PCB: main:f0bf0d2795cdc2af0f31f70b032023b25afa5b69;|none
 adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB: main:9e9f52790239a755241bfee62628dc8b3c713c63;|none
+adafruit/Adafruit-CP2102N-Friend-PCB: main:1c29f780bdc7503e18c8b6d29d1f8fb7cc1510bb;|none
