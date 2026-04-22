@@ -1777,3 +1777,4 @@ adafruit/Adafruit-ESP32-Feather-V2-PCB: main:cbde2c6658acb3c788616ceb13423b5d363
 adafruit/Adafruit-VL53L4CD-PCB: main:de475b8aede92ff30e66671ded9ec015fc0df6ba;|none
 adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB: main:73022f63a4b82117093ff5c250c119b6720005df;|none
 adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: main:55df02725e803b00706c48715883efdbe4aceb1c;|none
+adafruit/Adafruit-NeoKey-Breakout-PCB: main:8e89cf15d32369072d473cda4424f417255abf97;|none
