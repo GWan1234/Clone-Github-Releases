@@ -721,3 +721,4 @@ adafruit/2.8-TFT-Breakout-PCB: master:27ec9e198e64fb72922ecde4f1b3d66e50c392c9;|
 adafruit/Adafruit-Ultimate-GPS: master:70430c1240b49c1e054f1edee84ad0b5ec8ebe56;|none
 adafruit/Adafruit-Programmable-Piggy-Bank: master:f6b7d523e648ca6d012c6636367265c2a3ac1c33;|none|SIZE:2566
 adafruit/Adafruit-PS2-Trackpad: master:b24f1867ad11afd7fb787b0413e4af2f52ed1f0f;gh-pages:30a9786606d84e6f56d5bd454851d17dea06a7dc;|2023-11-22T17:47:19Z|SIZE:97832
+adafruit/Adafruit-Resistor-Helper: master:a1b431ca0a94ce867ad79d102a5c5b1941a7c43c;|none
