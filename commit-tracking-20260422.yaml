@@ -2177,3 +2177,4 @@ sonocotta/onion-omega-media-center: main:99e1e911550d70f864d1891fcbcfca9d3830c7d
 sonocotta/orange-pi-media-center: main:7fcee88ea4110d24e81e44994cd44625fadd6c74;|none|SIZE:1251288
 sonocotta/orangepi-ky040: master:817b47b807123e7f2b401cf9b790b023fd29653f;|none|SIZE:17747
 sonocotta/orangepi-ws2812-spi: master:9639c33450cb0a2f35356e4a61caf67a839e8531;|none|SIZE:16236
+sonocotta/pidi-plugins-python: master:7c5c32174a8a01c2339beeb9eb59c34bfd09d236;|none|SIZE:11281
