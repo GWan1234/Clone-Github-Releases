@@ -210,3 +210,4 @@ ioBroker/ioBroker.icons-open-icon-library-png: master:0847a79d713ee6725ccb6ccfb0
 ioBroker/ioBroker.vis-metro: master:eefd2d5e557bc1f5a1d53098eb66ea5332315e06;|2022-02-12T23:23:45Z
 ioBroker/ioBroker.vis-web-admin: master:5e6f3c99778ee1fc2d3d990dff47f1240e6c832b;|none
 ioBroker/ioBroker.vis-hqwidgets: refactoring:3a170817cd67ccb565154c0465a051b14597058e;master:d47f17f999ae04906c9f6a3b2b824535b3c2e2b0;|2026-04-13T14:06:51Z
+ioBroker/ioBroker.vis-lcars: master:29f478ee8176dc522d6b5a067f71fa0e449475ad;|2023-06-14T17:27:36Z
