@@ -2052,3 +2052,4 @@ adafruit/Adafruit-Triple-LED-Matrix-Bonnet-PCB: main:e08584d4753d574331288d4d446
 adafruit/Adafruit-Simple-Soil-Moisture-Sensor-PCB: main:c5401f929e78ba1f8dc35b9587ab3c62d0f73073;|none
 adafruit/Adafruit-LM73100-Ideal-Diode-Breakout-PCB: main:eb584e823d1e506ff31bf8f8e76e6a0b5fa13176;|none
 adafruit/Adafruit-Pi-Stemma-QT-Breakout-PCB: main:58188b7bb82e7a350ddfcdb5ebd9e4ec83bcc90c;|none|SIZE:353903
+adafruit/Adafruit-PiCowBell-HSTX-DVI-Output-PCB: main:de706f7de9b370711e137c459e2da7ac8113e2ee;|none|SIZE:304724
