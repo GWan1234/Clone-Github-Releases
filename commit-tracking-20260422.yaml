@@ -2024,3 +2024,4 @@ adafruit/Adafruit-I2C-to-8-Channel-Solenoid-Driver-PCB: main:9266434c5517c4b418d
 adafruit/Adafruit-USB-Type-C-CC-Resistor-Fixer-PCB: main:7ab085193a5180f3ebc9a4a0971910ae7ee4553b;|none
 adafruit/Adafruit_CircuitPython_Pathlib: main:e076444c2cba6b066fbce66574ecd17ec83c2add;|2026-03-27T19:11:30Z|SIZE:20169
 adafruit/Adafruit_CircuitPython_FruitJam: main:446bae6a89b9e7bb08ef8f4fff6f8b3a4704bfa0;|2026-03-27T19:09:47Z|SIZE:221041
+adafruit/Adafruit_CircuitPython_Argv_File: main:04f167a4e34e88a10a991e304ea86e7931dfd9d0;|2026-03-27T19:07:19Z|SIZE:18641
