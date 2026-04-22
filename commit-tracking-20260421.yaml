@@ -5589,7 +5589,7 @@ sonocotta/mopidy-headless2: master:339af3d3697556be342bbd18d48d7c6102638af9;|non
 sonocotta/mopidy-orangepi-pidi: master:a606aaa09d81fe74ab441e280b7cd02cd2537880;|none|SIZE:14438
 sonocotta/mouse-whisperer: main:5bb3bfa78df90fef4818f4dd166cbfc74a8b2e5b;features/t1616-port:0b5d3ea13d812f4c21e329085f6ee3441a079f1e;features/add-build-workflow:2a52b0bdbbef7709b17b91a5f6491f3ff5b50f95;|none|SIZE:8781138
 sonocotta/nRF24LE1-Example: master:97ea3b9aae1ab8cc74742e8ae35e7a0428ecdddb;|none|SIZE:4980
-sonocotta/nRF24LE1-Programmer: master:217bfdcb2192f68e7624d4895aef6f6011a5541b;|none|SIZE:7445
+sonocotta/nRF24LE1-Programmer: master:217bfdcb2192f68e7624d4895aef6f6011a5541b;|none|SIZE:7446
 sonocotta/nRF24LE1-SDK: master:44e1464ee9cb728d8efc2106ed4f4fbd70a2ec2f;|none|SIZE:4980095
 sonocotta/nRF24LE1-Starter-Kit: master:2b3f107e590bc55af6300e7529e6df564234d8c0;|none|SIZE:4847666
 sonocotta/onion-omega-media-center: main:99e1e911550d70f864d1891fcbcfca9d3830c7d0;|none|SIZE:419122
