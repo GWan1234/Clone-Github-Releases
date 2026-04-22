@@ -1566,7 +1566,7 @@ adafruit/Adafruit_SensorLab: master:82d6a554a07dc80978631a9fdbaf0bbf72b4bc16;lsm
 adafruit/Adafruit_CircuitPython_BLE_Apple_Media: main:cbc815d1d27b31e66c42c26e48e03468683a3e50;|2026-03-27T19:07:55Z|SIZE:19921
 adafruit/Adafruit_CircuitPython_ProgressBar: readthedocs-yml:bff50e4df7ab4c9c14b7673e15d73c81768ddd12;patch-fix:d6a4bf210ce65744ffacf304c5b92c174fb5fc3b;main:fab168ab38f61f654735140c67c7defdad512de8;|2026-03-27T19:14:07Z|SIZE:81384
 adafruit/MIMXRT10xx_SDK: master:97b29486e66ba736c96892831eace128461a3c74;|none|SIZE:2894257
-adafruit/Adafruit_DPS310: master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;|2026-02-26T04:34:48Z|SIZE:115885
+adafruit/Adafruit_DPS310: master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;|2026-02-26T04:34:48Z|SIZE:115886
 adafruit/awesome-stemma: master:4faee5dea99c06c97c47408a4c860b3d020a6880;|none|SIZE:537448
 adafruit/Adafruit_CircuitPython_LIS3MDL: update-docs-link:482aa0cb10605d7ed96934f8e41bde51fd6d55d3;patch-fix:d49f645ab8d723c465f0f5ab28ecbdc97d66096b;main:61e675110d9d1af32d56ac879c17cfa0c521b5c1;|2026-03-27T19:00:03Z|SIZE:64634
 adafruit/Adafruit-Feather-STM32F405-Express-PCB: master:f10cfb45e79fb9163b55f375cafa664dbac05268;|none
