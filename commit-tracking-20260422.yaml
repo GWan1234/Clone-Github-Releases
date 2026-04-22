@@ -2502,3 +2502,4 @@ adafruit/deep-dive-notes: main:6ead4f3ff273d8023c389b9f1ad02960cc08896b;2022/202
 adafruit/Adafruit_WebSerial_NVMGenerator: update-to-beta-13:9cb6afb1f49fe1317a4f877039232788256a7a8e;main:d618be82ed94f6c5e6485a4b4dfa27156fba7e7d;|none|SIZE:1164900
 adafruit/quirc: main:8c6ffa228a4c7643daed7039d3c51d38a43991b8;|none|SIZE:34735
 adafruit/Adafruit_CircuitPython_PCF8563: main:16e3112885b0b6149b4dfa1749181424dd5da122;|2026-03-27T19:02:34Z|SIZE:20147
+adafruit/WipperSnapper_Component_Requests: main:5804918d7f1e6aef4076cb1028c27623e67684c7;|none|SIZE:1322
