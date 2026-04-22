@@ -2101,3 +2101,4 @@ adafruit/Adafruit_CircuitPython_YotoPlayer: main:cc008ca15bc3f04ede8e1e7dfa5b01e
 adafruit/Adafruit_AS7343: main:21e3a81db1e346e4c3ec2ec305fb9a81bf481baf;gh-pages:7b091dec91d39c5676b4e1e4d658028a647082a3;|2026-03-03T14:48:20Z
 adafruit/Adafruit_AS7331: piclaw-main:a736750d67d7dfee752b78d67bc7e96997153c53;main:f4bf93596c125a7a5d9f3bf3913edfa284d3640b;gh-pages:713a00e2d3fa3ecce346dd29452dc2a8ff459e92;|2026-04-09T22:24:07Z
 adafruit/Agent_Skills: main:4958fe4f07abe198e951e8d3cebde16d5c1421fd;|none|SIZE:17716
+adafruit/Adafruit-SGP41-Gas-Sensor-Breakout-PCB: main:9c8e8c6d195e430a3537b0dca20fe7e310ece822;|none
