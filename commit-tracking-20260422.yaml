@@ -2048,3 +2048,4 @@ adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: main:e146e77404551f1ae0619f6
 adafruit/Adafruit_CircuitPython_Color_Terminal: main:af19166da9b5773bd9acf56e766776939ae09e46;|2026-03-27T19:08:35Z|SIZE:25840
 adafruit/Adafruit_CircuitPython_AS5600: main:574446b274c6442d69d023f2f964825653d56684;|2026-03-27T18:56:16Z|SIZE:21474
 adafruit/Adafruit_bq25798: main:01e8dc096688770f834b13f1e63f1e747d88c02d;gh-pages:07d15606d6e410d8b5dcf3f36830c0cf061104f4;|none
+adafruit/Adafruit-Triple-LED-Matrix-Bonnet-PCB: main:e08584d4753d574331288d4d4462254386a30d6d;|none
