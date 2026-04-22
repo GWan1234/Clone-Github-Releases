@@ -138,3 +138,4 @@ esphome/esphome-schema: main:e3bb819337ea009985c93684645dffd32b0cfe50;|2026-04-2
 esphome/pngle: master:8bf3862f84a4643e75a7d92e046d7c07f934cead;|none
 esphome/starter-components: main:34ad217e69336d07ca69645d3cf199c583ede1b3;|none
 esphome/zwa-2: main:73b6b5b925882319b9a40fe60b278347c6d60bc7;esphome-version-update:c1eb1bc04868cd649271a831d39fd821b4ae479b;20250928-get-usb-uart-release:66ab38f8222a06b2dbe920c28d0e02f9777dd472;20250926-split-jobs:b663d3061c45150adb816bc3e6030fa5dcf2cd0c;20250926-rename:d91ad674acb32d4b0a417ec29e1ec82d92ad9685;|2026-03-24T00:37:52Z
+esphome/home-assistant-voice-pe-alpha: pin-action-shas:067939a9d498c4c4acb940297de0439cd1ec7a1d;alpha:d108f132af709f563dac33739728bff082e38491;|none|SIZE:1405208
