@@ -75,3 +75,4 @@ cockpit-project/cockpit-files: po-refresh-20260421-185931:8a6da595aae9dc685a2557
 cockpit-project/cockpit-files-weblate: main:e82d6d48610cb20ddd204e74c9494c774d197552;|none
 cockpit-project/.github: main:1f0f37943e41c60e144a466f4e936aadcc397eda;|none
 cockpit-project/cockpit-docs: main:da6589a9c572fa2870429eea6faf0365e37ac56d;|none
+cockpit-project/subscription-manager-cockpit-weblate: main:75a82c86be26d28d28df4150700e25e406515e97;|none
