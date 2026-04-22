@@ -2341,3 +2341,4 @@ adafruit/Circuit_Walker_Sneakers: master:3e991e3b4000be430f4e1eef9861166efc6410d
 adafruit/METROX-Examples-and-Project-Sketches: travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;master:03ce7109b3f816926a510c3d755a2c380949e575;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce;|none|SIZE:3219877
 adafruit/Bluefruit_LE_Connect_Plotter: master:5fdd5c80a55c04f5f21f971b57d68551373b3ada;|none|SIZE:3703
 adafruit/Adafruit_CircuitPython_LIDARLite: main:e09200be5161ddfafc9a7451f294cd940e5847b2;|2026-03-27T18:59:54Z|SIZE:20272
+adafruit/Adafruit_CircuitPython_FRAM: main:ee4879c1a11efbc395c10427d91c1a7418286c05;biggerfram:a8ee6e2a9d0386eebbc8f117acf6e17c228ef200;|2026-03-27T18:58:31Z|SIZE:46281
