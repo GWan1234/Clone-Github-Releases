@@ -975,3 +975,4 @@ adafruit/BLE_Colorific: master:b80af87eaf7551567ba882be85e8ebfdf397f2f7;|none|SI
 adafruit/Adafruit-Si4713-PCB: master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f;|none
 adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB: master:8461d91e9c2a485d83ba2c7e3a984a1c105fe1d6;|none|SIZE:282806
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: master:0e987f272e67a953c1bece2c690ddaa7c65dfc82;|none
+adafruit/Adafruit-RasPipe: master:bedc53e0f97bdc11dc2ea8188df925c7903604d9;|none
