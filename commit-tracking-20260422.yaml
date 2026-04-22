@@ -2620,3 +2620,4 @@ adafruit/Adafruit-PiCowbell-DVI-Output: main:eebbb6a106e7084c95cee9f53a9a498f4e4
 adafruit/Adafruit_CircuitPython_MCU_Flasher: main:8c49071094aba3e4979ef0c67566f29316e2152c;|none|SIZE:27095
 adafruit/Adafruit_CircuitPython_Debug_Probe: main:d6245eed908daa5c94ceb9c2b462377fec95acd6;|none|SIZE:22455
 adafruit/snxrom: main:62d05b2ab19cedc3380ceb07624927ffe4405f63;|none|SIZE:498152
+adafruit/Adafruit_CircuitPython_PIO_UART: main:5c730b45c5e8227a07c049ea7cb9a9ae7eb732c0;|2026-03-27T19:11:33Z|SIZE:20400
