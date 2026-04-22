@@ -2472,3 +2472,4 @@ adafruit/Adafruit_CircuitPython_BLE_File_Transfer: tannewt-patch-2:cca80810f4cd0
 adafruit/Adafruit_CircuitPython_FunHouse: main:e7710043c3ddea3b0d28c27fc2964f16424da4b4;|2026-03-27T19:09:50Z|SIZE:23202
 adafruit/Adafruit_CircuitPython_NeoKey: rainbowio:499778876447543b285f427b51378f4aea90e448;main:0431d33d2fcc5b1e098ff6460e860a806f8854bf;|2026-03-27T19:11:18Z|SIZE:40767
 adafruit/circuitpython-action-library-ci-failed: main:c274cd6e41b7ab9f922cc856ea5084e7827493ec;|none|SIZE:431282
+adafruit/circuitpython-action-library-ci-problem-matchers: main:eb45d58ad65b0bd8bf0db02330493a7ac4681a30;|none|SIZE:156048
