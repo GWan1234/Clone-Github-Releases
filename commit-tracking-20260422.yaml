@@ -1997,3 +1997,4 @@ adafruit/Adafruit-Mini-Sparkle-Motion-PCB: main:2c29150d79a7e4539b1e595055df8d90
 adafruit/zephyr: main:03fa6a0c33c7e918d4157eb5404835c164b2c3f1;fix_rp2350_entropy:6be0aa4c355f3ed9f7b9364969bfe042f23fe174;circuitpython-v4.3.0:8801b409ec554cfd217c159c00f91280ea1331db;circuitpython:d991bfc190507849d510326b24ba7b7a6c51a0e6;|none|SIZE:354250681
 adafruit/Adafruit_FT6x36: main:cf64b19b38310b0db7f4b8feaa011e399e5d522e;|none|SIZE:3271
 adafruit/Adafruit_CircuitPython_INA228: main:fefdf16ce96ec11e895258864b32707cf4e368e4;|2026-03-27T18:59:26Z|SIZE:22374
+adafruit/adafruit-zephyr-support: main:cb4516a62e618da59223ccb01eeedb70a9f196e1;|none
