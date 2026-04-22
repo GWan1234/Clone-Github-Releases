@@ -1662,3 +1662,4 @@ adafruit/Adafruit_CircuitPython_MatrixPortal: rp2040:03a22ceeaa8e071e1087b01f65b
 adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB: master:959792478854acec21fb862650427ffaa32b07f1;|none
 adafruit/Adafruit-MPM3610-PCB: master:8cdc9051c29e348b88fd83b331d0875e7154879b;|none
 adafruit/AnimatedGIF: test-drawbastract:21db6cd5a82c9dd92829449365e96ae899c655ec;pb-experiments:ef84f43a76b0fdbf41cf7466bb2f2d6d406bdcdb;master:688d1c99fbf4ff82a2ceabab928fbe6cea244d31;|none|SIZE:33438834
+adafruit/Adafruit_CircuitPython_TC74: main:fbb3479701ee184dd304d4223369addfae35b98f;|2026-03-27T19:04:58Z|SIZE:18196
