@@ -790,7 +790,7 @@ adafruit/Citi-Bike-Helmet: master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;|none
 adafruit/Hunt-The-Wumpus: master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;|none|SIZE:4834
 adafruit/Adafruit-LSM303-PCB: master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;|none
 adafruit/Adafruit_ILI9340: master:00e5efe5d5c95f1255e55031b57f17288cf3c840;|2015-03-31T19:42:04Z|SIZE:58219
-adafruit/PiMiner: master:dce07f83d178489c92eb67922ff1124f5f376e29;|none|SIZE:16285
+adafruit/PiMiner: master:dce07f83d178489c92eb67922ff1124f5f376e29;|none|SIZE:16284
 adafruit/Adafruit_TLC5947: master:605cc440ca9d4a6ea02f399b2a616c007e867527;gh-pages:f1339da830e1e3d83f87a4e85dc405ecf72eb53c;|2023-11-15T15:20:32Z|SIZE:585772
 adafruit/Adafruit_TLC59711: master:b26853a3dfb9b6f6d128814aceae84dedc0cd44a;gh-pages:b406ded61b84c17ab4ae94db83ec2a7aa36f17e9;busio:6d7b57c031fd6c5e2c835c853b5f30daf8dcfd0a;|2023-11-15T02:09:44Z|SIZE:502869
 adafruit/Cryptosuite: master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410;|none|SIZE:3735
