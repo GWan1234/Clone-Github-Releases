@@ -2070,3 +2070,4 @@ adafruit/Adafruit_BMP5xx: main:9d3bcc5fd8417b95d4ef3acd4660ad9e342c9e46;gh-pages
 adafruit/Adafruit-NeoPot-PCB: main:f7f8e609945e3cf06294e324812ee3c9bee61d06;|none
 adafruit/fruitjam-doom: rp2:29a453c980918a03e40fc8b69b024e7a3bdb5dc2;adafruit-fruitjam:f2ded0b71ae6419f47ea7907a03f5b3dc503a0b3;|none|SIZE:6463662
 adafruit/Adafruit-MLX90632-FIR-Remote-Thermal-Temperature-Sensor-PCB: main:928c728704680ccfc11515f2ec7113c8cb7d4224;|none
+adafruit/Adafruit_VEML6046: main:25677023f3d87a8379124711218337e86e07ee6b;gh-pages:bf063635db056f4049b131e0fe91fc18a60759d6;|2025-08-19T15:59:53Z|SIZE:96841
