@@ -128,3 +128,4 @@ esphome/data.esphome.io: main:525747f1f0dbca72c6079e5c2d08d2027206ad9c;|none
 esphome/.github: main:f3d4a4fa4c93daa46864caf0aaaa217cf1610b2d;|none
 esphome/docker-base: main:1a02f62358c53fb1e41ffcd61eae8bc329dc69aa;|2025-04-16T04:11:26Z
 esphome/home-assistant-voice-pe: update-sendspin-hashes:c06949089b0157fc36bb06591757d039d6a4fee6;stop-pipeline-uppon-ww-detection:a60fa36b42d6636e795ee03a4ec038e25152f0fa;split-firmware:b53dac56481812e711b51edb1668c8ab360b8768;revert-273-feature/restart-button:dc158c1c2876d1c7241f99d18c1e51a6efc1db1c;revert-60-synesthesiam-20240827-mediaplayer-supportedformats:0eccc1e36b14575838cc2ac9fd91d7a90b207230;|2026-04-02T17:09:21Z
+esphome/voice-kit-xmos-firmware: usb_fw:a81bec4d20e0ad4f7934ea5a1d657045822af404;i2s_fw_48khz:e500a6a9e49aed68a21ada3003227ac555e68e2e;i2s_fw:f68764ba615762802a37938f8c40bdaa8d4c1490;double_i2s:8a6cfbbd58822ede2a19f5f8ebecffbc63f8bc1b;dev:ef04d4b59d172dfbe5c85ba982bf05fcc85f77f3;|2024-09-17T19:08:03Z
