@@ -2504,3 +2504,4 @@ adafruit/quirc: main:8c6ffa228a4c7643daed7039d3c51d38a43991b8;|none|SIZE:34735
 adafruit/Adafruit_CircuitPython_PCF8563: main:16e3112885b0b6149b4dfa1749181424dd5da122;|2026-03-27T19:02:34Z|SIZE:20147
 adafruit/WipperSnapper_Component_Requests: main:5804918d7f1e6aef4076cb1028c27623e67684c7;|none|SIZE:1322
 adafruit/Adafruit_VL53L1X: main:77801c2692058d0b40d7b29605ceae7604e4e80c;gh-pages:c9683fa38a2180618ab60ac4ffa5dd43c4c4f8fa;|2024-11-12T17:24:01Z|SIZE:128277
+adafruit/Adafruit_CircuitPython_UC8151D: patch:4975f08a192f1cb19066d84637ab6763c7e319b9;main:ec3fd72eb4219520c2ad5dd33e2e865a7e4b9d6a;detached:b9bd61a0bbef1f4705abb831739d4888f1dcec95;|2026-03-27T19:05:57Z|SIZE:75009
