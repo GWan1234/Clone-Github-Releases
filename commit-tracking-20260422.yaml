@@ -1831,3 +1831,4 @@ adafruit/Adafruit-Mini-I2C-Gamepad-PCB: main:f214e3c4c4cc4926375d8748b2b136e1991
 adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB: main:635fe51901050a78f4ecf4533022d0e440b82875;|none
 adafruit/Adafruit-STEMMA-Audio-Amp-PCB: main:12d0f77a674db2b356c9e6b385f3917d4eb3420a;|none
 adafruit/Adafruit_CircuitPython_EK79686: main:520aa4a3fb14cfcec41d0eb22af657ce80fb01df;|2026-03-27T18:58:03Z|SIZE:22869
+adafruit/Adafruit-Swirly-Grid-PCB: main:49286339d01add733458087ed84454ef3ddb5100;|none
