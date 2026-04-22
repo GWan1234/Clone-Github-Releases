@@ -1685,3 +1685,4 @@ adafruit/Adafruit-AP3429A-PCB: main:ce112ce8a2ad4f7fece2f17de90d2e1153a14a0d;|no
 adafruit/Adafruit-TMP235-PCB: main:05afa047f2324ed06268ded1c27b741c86acedc8;|none
 adafruit/Adafruit-LC709203F-PCB: master:65d60917fbe771308a387132dc943800a52f1380;|none
 adafruit/Adafruit_GC9A01A: main:a03514ae042e990bc8d16f51aad7e87dabd989b1;gh-pages:2bd7c6d983712b70e9affa9d38002c9e936b4ab6;|2023-06-07T16:56:54Z|SIZE:100143
+adafruit/CircuitPython-Apple-Watch-app: master:a1e41e6179cbe11f07c37598a35840e7d7197b7c;|none|SIZE:146498
