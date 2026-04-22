@@ -625,7 +625,7 @@ adafruit/SD-card-testing-jig: master:823b68201f1215d345dc6af727399f021bfddb9b;|n
 adafruit/Ice-Tube-Clock: master:df64981f389418ee562fef81f0daa5cc06c18018;GPS:9d5e87a7ab6c68f822207db36cf53191f3f922ca;|none|SIZE:1159772
 adafruit/Custom-Magstripe-Swiper: master:372f204894cf2d2fd742f08ca38aeb3581362ed8;|none|SIZE:1804463
 adafruit/Adafruit_Conway-Game-of-Life-Kit: master:7aef8f749d77336e8db07470485f04823cc30415;|none|SIZE:261171
-adafruit/MAX6675-library: master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d;|2023-11-15T15:13:02Z|SIZE:86913
+adafruit/MAX6675-library: master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d;|2023-11-15T15:13:02Z|SIZE:86914
 adafruit/DS1307-breakout-board: master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6;|none|SIZE:1167548
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: master:364b6e315bb638f88918776ade06b1e69b71d268;|none
 adafruit/MicroSD-breakout-board: master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c;|none|SIZE:665632
