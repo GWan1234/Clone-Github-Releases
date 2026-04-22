@@ -426,3 +426,4 @@ OpenListTeam/OpenList-FLATPAK: main:eeeb030e160c84838db95d94e41867915924e6f1;|20
 OpenListTeam/resty-tinygo: v3:8fff8b24c719b0e11d50911826aab1cff4a2442b;|none
 OpenListTeam/go-wasi-socket: main:3bb0353ddc811a94aa11ec2952f489f38136f23a;|none
 OpenListTeam/openlist-wasi-plugin-driver: perf/cache:df5c7f48137864a307ef570952f7683feaa531eb;main:15f32c12f2b29b828bf5e25a56cc1cd9f787d195;|none
+OpenListTeam/go-wasi-http: main:97ffd481755003f7c853acb42bdb25362dc37a21;|none
