@@ -1314,3 +1314,4 @@ adafruit/Adafruit_EPD: z29tricolor:d7079afe011907efa55fb99d90c2a72bb967b76f;soma
 adafruit/kicad-libs: master:2a0d44d92385a047b53a0dec0db82931e77aa94b;|none|SIZE:1006023
 adafruit/Feather-RISC-V-PCB: master:d1b705eca6b0b992383a75706f3e1aeb1fdcd9a9;|none|SIZE:98785
 adafruit/Feather-ICE40-PCB: master:d2a4cf7ad1d9c1139535624bacd64d180dd3e111;|none|SIZE:75692
+adafruit/Bluefruit-Swift-Playground-Book: master:c7fdfa98580203546c4491927d0d73c04fa678f4;collin:47bcc1feab81e1aeb396cc826cecbf953a6c719e;|none|SIZE:502288
