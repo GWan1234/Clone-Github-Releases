@@ -1717,3 +1717,4 @@ adafruit/Adafruit_TMP117: master:6876d913b529ce408060f38013037e5ed0c1abad;gh-pag
 adafruit/Adafruit_CircuitPython_MagTag: rename-example:6267ceb7dfdfceccda9280b68037b759e6094a21;main:67c2f9b3d7d7a05787d20f093b034ba6dbee2747;kattni-rtd-fix:46cea8068d9a1f74bb476e00f845a87aab4c736b;3.3-battery-voltage:85df610a337bb15753155a34a82f38793497ccf2;|2026-03-27T19:10:46Z|SIZE:106974
 adafruit/Adafruit-TMP117-PCB: main:874b3a5b27792d4d166547bab075cb963e1bdb32;|none
 adafruit/Adafruit_SGP40: master:661eb5c6184ad2c55c436efd46221ac33aabcb3d;gh-pages:e44323aa2a6009165d07ae0c2acfaba46b18e408;|2026-03-02T14:54:08Z|SIZE:123614
+adafruit/Adafruit_WebSerial_ESPTool: main:677371b5acc05474e77e1c60083817e957d92aeb;|2024-12-31T18:23:50Z|SIZE:79278
