@@ -2078,3 +2078,4 @@ adafruit/Adafruit_ADS122C04: main:41aa4b60f25176d7b2c41c90d28e4f9ca4750270;gh-pa
 adafruit/Adafruit_CircuitPython_BMP5xx: main:1c72e2975a88f92a47582a574ba432ea8ac04281;|2026-03-27T18:56:53Z|SIZE:20994
 adafruit/Adafruit-BMP5xx-Temperature-and-Pressure-Sensor-PCB: main:0d42329e09e19452f154789a3a77a89a8873e5c7;|none
 adafruit/Adafruit-CSI-or-DSI-Cable-Adapter-Thingy-PCB: main:6a56b0344bab56906893c6de4cb1e9ee8a8d00c7;|none
+adafruit/Adafruit_CircuitPython_MLX90632: main:552af7404cb0232311cc0b46730655bf3faa02d6;|2026-03-27T19:01:27Z|SIZE:21244
