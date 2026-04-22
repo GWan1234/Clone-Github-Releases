@@ -1982,3 +1982,4 @@ adafruit/Adafruit-LPS28-Pressure-Sensor-PCB: main:593fed8bfe3f406d6f40a9c7bd83e8
 adafruit/Adafruit-bq25185-Charger-Breakout-PCB: main:e73b39bac750f2c90abdb5ea465c1b8128979dfa;|none
 adafruit/Adafruit-bq25185-with-3.3V-Buck-PCB: main:a28ea1355e38f7f310f64ec49bac85a8aacb365c;|none
 adafruit/Adafruit-bq25185-with-5V-Boost-PCB: main:2ce979f3dec58aa42ab4ae3707f10a7df528ef12;|none
+adafruit/Adafruit_Blinka_Raspberry_Pi5_Neopixel: rtd-sphinx-configuration:9e5fcc6d99da4725e1f6ff9f2b8ff34a76120694;multi-strip:52b7bb3c63956dca11be5faa779b5af748bcd3c6;main:562393ac8eed39e10fb9ad4c9ab7e665315d2b8c;dependabot/github_actions/pypa/cibuildwheel-3.2.1:1d4cdd71e3a5a15487051b902adc746fa154fdb2;dependabot/github_actions/actions/upload-artifact-5:0de97b2bde7a5a5befae16112020bd47b5e6fa93;|2025-01-23T13:56:41Z
