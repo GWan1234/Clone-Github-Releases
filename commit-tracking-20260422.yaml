@@ -1121,3 +1121,4 @@ adafruit/Adafruit_Python_ADXL345: master:d897bcaa16b5fe365463ae0c2791d0c155becd0
 adafruit/Adafruit_Python_LSM303: master:b286a95e81e627dbc2b262b90a475ec2f4bb6f4f;|none|SIZE:8289
 adafruit/Adafruit_Python_VCNL40xx: master:f88ec755fd23017028b6dec1be0607ff4a018e10;|2018-08-30T19:11:52Z|SIZE:8673
 adafruit/Adafruit_Python_TCS34725: master:996396cd095522d788b7b15d20fd44e566c8464e;|2018-08-30T19:10:40Z|SIZE:10419
+adafruit/Adafruit_Python_WS2801: master:d9fa0f9ce1577a142f6dd5a974de3ba201351545;|none|SIZE:9442
