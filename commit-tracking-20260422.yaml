@@ -1637,3 +1637,4 @@ adafruit/tinyuf2: tftexp_revB:30b8c2f9c77ea7ef4895891138489d76a1879587;master:d5
 adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB: master:63ee954e2c78665d69f9f5e730198dd6479f95b5;|none
 adafruit/Adafruit_PCF8591: master:ef72f79835dbb6ca9e75d9c3684288a2cb57b9e5;gh-pages:49f3d3d1431f0adebd62977895d97e66b0798b7f;|2023-10-17T14:25:44Z|SIZE:206940
 adafruit/Adafruit_CircuitPython_SHTC3: main:789956f6b4e4f596dcd74095fb3b1bc8f0daf356;|2026-03-27T19:03:56Z|SIZE:19898
+adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB: master:5e6b23348bc0b392c68f590d13ea71fd63684273;|none
