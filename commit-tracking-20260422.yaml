@@ -1990,3 +1990,4 @@ adafruit/Adafruit_CircuitPython_Wiz: main:a34e58e7e574d9c1acb70c6c6fedc813d7cd5c
 adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197;|none
 adafruit/Adafruit-Metro-RP2350-PCB: main:d8e135da6ee3383372035fb6ac2bb9387eec1233;|none
 adafruit/Adafruit-TMC2209-Breakout-PCB: main:227f79e2cda77b99653316692f8ec1975f58c6af;|none
+adafruit/Adafruit-Sparkle-Motion-PCB: main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef31a;|none
