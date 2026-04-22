@@ -796,7 +796,7 @@ adafruit/Adafruit_TLC59711: master:b26853a3dfb9b6f6d128814aceae84dedc0cd44a;gh-p
 adafruit/Cryptosuite: master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410;|none|SIZE:3734
 adafruit/Adafruit_NeoMatrix: master:7b612d10d3101db91ab66df1b14ab9d8ff9fd562;gh-pages:2f91c406cee485144061914b1429fa9c5eb20561;|2024-07-23T14:19:03Z|SIZE:122594
 adafruit/pianoglove: pianoglove-midi:fed157809528b3d21451ebb251753ae781a06bde;master:93e689909e590c3e22e14123814b70cb38339a99;|none|SIZE:29788
-adafruit/Adafruit_Motor_Shield_V2_Library: master:2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3;gh-pages:99c678f3bca8c77769a1e0c56d64bdcffd787ec6;actionci:5006c19e77194698069beffd3466b647ce5628b1;|2026-03-03T14:48:39Z|SIZE:110156
+adafruit/Adafruit_Motor_Shield_V2_Library: master:2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3;gh-pages:99c678f3bca8c77769a1e0c56d64bdcffd787ec6;actionci:5006c19e77194698069beffd3466b647ce5628b1;|2026-03-03T14:48:39Z|SIZE:110155
 adafruit/Feedback-Servo-Record-and-Play: master:9ed41f443a37443ef52a0c2a8031256e09fc8c05;|none|SIZE:429
 adafruit/SPI-Neopixel: master:463c18bce55b07924e7fb3b397f33faad1dadebf;|none|SIZE:15050
 adafruit/Adafruit_On_Air: master:3957f81639928a8ce943575fb357884c95559b58;|none|SIZE:3284
