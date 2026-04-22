@@ -2187,3 +2187,4 @@ sonocotta/tas5805m-driver-for-raspbian: main:2021494698c320bb8fdefbe9deaab970381
 rednblkx/2DGame: master:52543941fa8e07169b32d9c96eb938948dbdd89d;|none|SIZE:8789469
 rednblkx/addon-cloudflared: main:403c3c8fdeee6e1075a3d66e1a6559ba60878be1;export-ssl-certs:64ef0b02838732ecb1616fe276ba15bef0db34dc;|none|SIZE:48929
 rednblkx/AirLib: main:932089fae529ddf2dcfbd8615a278be7d2d7a91c;|none|SIZE:260484
+rednblkx/Android-BLE-Scan-Example: master:9a3d69df0de45a72fd910cb9cdcbecf914e61d53;|none|SIZE:37316
