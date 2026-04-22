@@ -742,3 +742,4 @@ adafruit/Adafruit-Prototyping-Pi-Plate-PCB: master:e54e072a655814936e89cb3c01314
 adafruit/Adafruit-PN532-RFID-NFC-Breakout: master:d614276a3168bd402d0729daa7bd94c406de7beb;|none|SIZE:313385
 adafruit/GPS-Dog-Collar: master:122f0a2765b9fdd98e449cd1c3524862f01dd0e0;|none|SIZE:3963
 adafruit/Adafruit-1.8-TFT-Shield-PCB: master:b1b4d0c39047ab5ab925ad0953ec4c94e3ed6001;|none
+adafruit/adafruit-raspberrypi-linux: rpi-patches:d0fecbde7dc5ff4afb88027630e764a976ecd5fd;rpi-kali-3.18.y:cef70a86b35ba54d6b949c1997c48b41143d5de2;rpi-4.9.y:1418a05a5d81ef829418767bf53e3cd93fc38a55;rpi-4.4.y:6864aa4f92d00dfa2e5f75607e1356c4fbbc99dc;rpi-4.1.y-trythisagain:ad46d74df33d342f95424f10e89567a7fb176076;|none
