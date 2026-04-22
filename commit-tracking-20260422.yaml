@@ -2163,3 +2163,4 @@ sonocotta/esparagus-media-center: main:290b1487b81a3957d0d77a20b13c2cacb8179312;
 sonocotta/esparagus-snapclient: main:3c86becf1cd3d559915c9c52320fab0853de4830;features/merge:131cf4afa54e93db1c7d6e04a00f99a2d86d8694;|none|SIZE:7349157
 sonocotta/esparagus-snapclient-fork: master-backup:a825a7025fcb0ab5273e4ea18ee3a39e469fcb60;master:e0d5a8e99c21df0970c1a526e63c16c1be6056b8;features/s3-support:600d8a6e68bb399d02c890117ea954a4c7eee0dd;|none|SIZE:13324645
 sonocotta/esphome-pcm5122: main:cb5846dab63b982f054828da7c04e9cd121c1c28;|none|SIZE:21380
+sonocotta/ili9341-orangepi-python: master:ca6023d39547847365d24a26c6188c3b5ff400a3;|none|SIZE:36802
