@@ -1296,3 +1296,4 @@ adafruit/Adafruit-Gemma-M0-PCB: master:682dbf68e51ad478915fdf6520119f15588f4375;
 adafruit/IO-Connect-Example: master:482870e3bbe75a294f0737abc53302c533f2ba7e;|none|SIZE:7039
 adafruit/Adafruit_CircuitPython_CCS811: main:24754fe639a21ff393a76b11a95f9f61b604988b;|2026-03-27T18:57:08Z|SIZE:20467
 adafruit/Adafruit_Seesaw: revert-100-soil:23d0b70db064a650c51b0f80daf108a600198229;philb-include-detangle:5ee85e8c3d7f565f4f5a9b8ac55baa18b70ab639;neokey:0eaeacb2b80658713ff95a26d2c5534780814910;mulitcoder:e8a71073abb0d8444d890c5205376b507d7a2413;master:985b41efae3d9a8cba12a7b4d9ff0d226f9e0759;|2024-10-09T00:32:10Z|SIZE:378674
+adafruit/Adafruit-CCS811-Breakout-PCB: master:6b31de55a1ffcc86e7109338973b7a35ebe27e38;|none
