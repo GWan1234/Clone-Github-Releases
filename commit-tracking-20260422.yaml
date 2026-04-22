@@ -1280,3 +1280,4 @@ adafruit/Adafruit_AMG88xx: test-io-travis:a8076f706baeef1c125b066c6ec808f7620f23
 adafruit/Adafruit_AMG88xx_python: master:f3fc4871260a088f78e2fdfd773d4146cd00ebfc;|2018-08-30T19:14:44Z
 adafruit/Adafruit_bitfield_python: master:3c2bb9a1e024c5aea020104b2a32730d06d28f38;|none
 adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: master:5cabac70d709c34fb8477e2eca90dc6429af0151;|none
+adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB: master:7ada397dddd065125d27c9d957d58b2a96cdf6d7;|none
