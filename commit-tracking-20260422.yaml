@@ -273,3 +273,4 @@ ioBroker/ioBroker.hass: master:9a24c2be910fcc1b683c382a0b69b25ef949654d;dependab
 ioBroker/ioBroker.ekey: master:b6dd1906a8735427df96d6b5ce54aede47baefc6;dependabot/npm_and_yarn/serialport-13.0.0:ee7c190850a0047794a59fbc8359df982c58e611;dependabot/npm_and_yarn/iobroker/legacy-testing-2.0.2:f66530433ccbdaa01691e58739d85acac3ab3f59;dependabot/npm_and_yarn/iobroker/adapter-core-3.3.2:1c63a9fdd51f6471f991c4243956b34c7de7706e;dependabot/npm_and_yarn/iobroker/adapter-core-3.2.2:1a34a4fd72d0bb68598f4bbb6c966bc1f5b28e65;|2022-11-22T10:52:18Z
 ioBroker/AdapterRequests: master:b2aa020efc32bed011d5c6f7d247fb535b95e79f;copilot/lock-old-closed-issues:aff86a773ed248c47efdd2dd965e32d831977de1;copilot/convert-issue-template:7a646f54543dbfd2ee8206654b2415ca496f43df;|none
 ioBroker/MMM-ioBroker: master:9d76892bfe2da6819c53a05ace7da5ec3ee6ccd1;gh-pages:c980d522f3ca2937ba180443dac253d96d08c00f;|none
+ioBroker/ioBroker.vpn: master:8ba2f2a4d652f80dbcbdf97e586e645e032cadaa;|none
