@@ -2545,3 +2545,4 @@ adafruit/Adafruit_TSC2007: responsive_fixes:077f918bc947b0a92d017d543217b646e91a
 adafruit/littlefs-pure-js: main:9a229087ad96f6eca0e3cc1c4d3ae5375a3cc182;|2022-04-08T15:19:36Z|SIZE:20849
 adafruit/fluxvis: workflows:131079da3c8ca741194b0efa12a2ace51a929150;main:cd3d3a61713dc33bfabb0dc8cdf296185ec177bf;improve-packaging:b4082b8d554364abb0024c98e16e33683d594172;fix-url-readme:9e837f04ed62ef9deedfc90e1059417b37adca33;fix-render-location:3ab71882b0e722d9800fd120021af2fe59ac4a0f;|2025-03-06T13:14:21Z|SIZE:1184212
 adafruit/CircuitPython_NAU7802: main:b464aa6fb307b9f630583063f3c06df7f47a92ab;dhalbert-patch-1:0a460863036c7c456a021e7d42a877d87f13b326;|2026-03-30T14:42:43Z|SIZE:21879336
+adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: main:f45b12704ccbb7180d89db28e1af7bd861124133;|none|SIZE:1840320
