@@ -1409,3 +1409,4 @@ adafruit/Adafruit_CircuitPython_MPL3115A2: patch-fix:ee8de5a4c57c0b9a707ebb70371
 adafruit/contributor_covenant: version_1_0:6edbd238afdb0629f9ec2bca7e631d3b6663f98c;v1_4:628401580c599915d9cacf92e3894e94ea049554;sexual-practices-clause:5738a899ea6374469396536a0a7fabe5a96c7fb7;revert-266-patch-2:b2874563a93a3301593aaea321354433b62232e7;patch-1:1b6fb1cc26f868174d6c1f2dff4240d6032e0526;|none|SIZE:1421108
 adafruit/Adafruit-RGB-Matrix-Bonnet-PCB: master:a006ae8f92572893c6c3cdf3699f2f4156cceadb;|none
 adafruit/Adafruit_CircuitPython_RFM9x: main:ad3a28df5e0cab2a24b9a6acf0667fe7c5a26563;|2026-03-27T19:03:12Z|SIZE:29489
+adafruit/Adafruit_CircuitPython_MCP230xx: patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;main:b8cbc34dc879eb54a03680e46ffea9c65600809b;|2026-03-27T19:01:00Z|SIZE:53050
