@@ -2228,3 +2228,4 @@ rednblkx/node-bluetooth-hci-socket: uart:d90a505c5c185117cdd5959ad59ad15357651e0
 rednblkx/node-steamcmd: master:96e5e0139e85c12ef69f1d9ebcbfa7553e75f12f;|none|SIZE:2645
 rednblkx/node_bleno_rssi: main:aa4857bfbced7b21d3fc915391638c98b148bd1a;|none|SIZE:5233
 rednblkx/oc34n-r2: master:e98aa71b2d3a6ad9b70e42273af5d16ded24bff1;|none|SIZE:9956737
+rednblkx/openwrt: openwrt-19.07:8ea6be1510af130ee458fb261372a042a1ba6490;openwrt-18.06:2ba95d287e1fcfbff782de5e5cebfc5d49edbc7c;mi4a:cce14de37fb680a21ce7acab1531338a0abf5674;master:b6e440a0f560330187f87d25d193c9f92baa777a;lede-17.01:beaa2ecc10b5a3d1ea95c95fe1ff4c32f5e88965;|none|SIZE:31535191
