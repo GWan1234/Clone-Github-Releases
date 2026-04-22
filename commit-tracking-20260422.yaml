@@ -1150,3 +1150,4 @@ adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB: master:fab08d3f5f0755a29559b81a
 adafruit/Raspberry_Pi_SQLite_Sensors: master:7ac7cfce9549b83332c498eb365a766f74b26ee0;|none|SIZE:7288
 adafruit/eagle2fritzing: master:d18749346438d31870de54bcbf2748cdc676138f;|none|SIZE:18385407
 adafruit/Adafruit-Bluefruit-EZ-Key-PCB: master:b5eea193aba7fc2795fc4ac54534faceee2c3a84;|none
+adafruit/Weather-Pixels: master:d1bb8951b25315a378a47f5bc7e8bbf04a399225;|none|SIZE:7340
