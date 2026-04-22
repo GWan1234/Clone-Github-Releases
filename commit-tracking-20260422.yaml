@@ -1987,3 +1987,4 @@ adafruit/Adafruit_Blinka_Raspberry_Pi5_rp1pio: share-program-space:7132fc25bad4f
 adafruit/Adafruit_Blinka_Raspberry_Pi5_Piomatter: use-cmake:8d2e9c079b3d9ea29bee6d92fa1ea92a94ad46e2;temporal:9bd7813dc3d77a56e744e711b8d727dbda16f329;rtd-config:65c9942bb84d267675b98f882d13a6d2f2b941a9;report-errors:e8e07106be47151be92b07908e905737b93a580b;reduce-post-addr-delay:a2827b6e2856326d52aba767ab835e77befe3a1c;|2025-07-15T13:14:41Z
 adafruit/Adafruit-A4988-Breakout-PCB: main:f10f6b1d10aeeabc7a4a3445b81925c0a51d0e45;|none
 adafruit/Adafruit_CircuitPython_Wiz: main:a34e58e7e574d9c1acb70c6c6fedc813d7cd5cfd;|2026-03-27T19:15:28Z|SIZE:22077
+adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197;|none
