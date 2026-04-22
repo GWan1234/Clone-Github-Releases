@@ -505,3 +505,4 @@ obsproject/bouf: only-prepare-relevant-files:d86b102e2109e2bce71ec0b9fd757bdae43
 obsproject/homebrew-tools: main:09ec2f00762cc74adf94fb3a2b55391e90893ac6;|2026-01-08T21:35:36Z
 obsproject/design: profiler:4596953019176f09bbef88351f620b9c8ae9a2c6;main:6a7639840dc6d88546da127c18374541b3fadfa2;|none
 obsproject/obs-deps-buildstream: master:51e02e25a2c113ba259e928e2c58a9e919ff6fff;automated/update-fsdk:de346d9a575dfaa41b1d25f05ec310d5882b2b21;|2026-01-09T15:42:43Z
+antimof/libcamera: main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;|none
