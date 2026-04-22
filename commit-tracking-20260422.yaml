@@ -2114,3 +2114,4 @@ adafruit/Adafruit_RV8803: main:cafe3513b9bd1a07b5868bc87da21ab69f0e0b8c;|none|SI
 adafruit/Adafruit-APDS9999-Proximity-Light-and-Color-Sensor-PCB: main:0f0fc27bab6c79a684ce17a6ab397f63f98f74bd;|none
 adafruit/Adafruit-AS7331-UV-UVA-UVB-UVC-Sensor-PCB: main:3e07d4ead4e060f03129066e03426ed243d007ec;|none
 adafruit/Adafruit-AS7343-14-Channel-Light-Color-Sensor-PCB: main:ce4bb797425e7eecbcbe1ded1232209a2d995e7e;|none
+adafruit/Adafruit_WF100DPZ: main:1fef8d851c56253e14ca4a655b770ba4760d08bc;gh-pages:5e1807c4525fb3a369ea49bd829fc876e8126923;|2026-03-31T17:25:04Z|SIZE:107697
