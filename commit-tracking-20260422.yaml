@@ -1609,3 +1609,4 @@ adafruit/Adafruit_CircuitPython_RockBlock: main:536801a23157121865097a972f48955f
 adafruit/Adafruit_WebBluetooth_Dashboard: master:d0cf85f20e98c27a92f1759b1d07dd849c884663;|none|SIZE:585082
 adafruit/Adafruit_DRV8830: master:cbbe5ebf6e53256050b025014bc0ede17fc925f4;gh-pages:886abebb2acbbbf876c7a115d49a1b63fed537c3;fix-ci:a027e4c82b340e817615220dbb3603c8a3b5307a;|none|SIZE:17908
 adafruit/Adafruit-Feather-nRF52840-Sense-PCB: master:afeb0acb67e98c807cfdfbf7b5fe5e6e49490796;|none
+adafruit/Adafruit_CircuitPython_BLE_Adafruit: main:7b2ca72c2aafa064e27937fb012d32b0a02866ba;|2026-03-27T19:07:52Z|SIZE:23693
