@@ -785,3 +785,4 @@ adafruit/Adafruit_TCS34725: master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-p
 adafruit/Adafruit_ADXL345_PCB: master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de;|none
 adafruit/Adafruit-Retrogame: mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;master:89b32aff4e971d4ecd057d1359699eebbf3df8f5;|none
 adafruit/Sous_Viduino: master:b1b71a4316e9789541d4926df6983e5703d32f68;|none|SIZE:4338
+adafruit/adafruit-beaglebone-io-python: pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;master:cf306ed7f9f24111d0949dd60ac232e81241bffe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;|2020-07-30T02:39:56Z
