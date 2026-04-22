@@ -673,3 +673,4 @@ adafruit/Adafruit-NEC-remote-control-library: master:72975ab49a409c74df57b878b75
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: master:e2b12428c08d286dc9f568c8117f6e77986ef0ab;|none|SIZE:364615
 adafruit/Adafruit-BMP085-Library: samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b;master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;|2023-11-15T15:30:48Z
 adafruit/LPD8806: master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;|2023-11-15T15:19:02Z|SIZE:121776
+adafruit/Adafruit-WS2801-Library: master:f43db5f745b5be30a3667d9c41428f84fa5894f3;gh-pages:551bebf191fe7d2fab8aa16a22bf395ce62a421b;|2023-11-15T15:29:18Z
