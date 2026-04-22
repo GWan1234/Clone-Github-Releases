@@ -2358,3 +2358,4 @@ adafruit/Adafruit-Prop-Maker-FeatherWing-PCB: master:f0e322ee15e06fe7810d9ec08f9
 adafruit/beaglecap: master:35dc8cdb19a573dd7241f13615f7aff3cfaf2298;|none|SIZE:8271
 adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure: master:3e6e7d4f37c7df0f40a096f67ab64dfadd4c15db;|none|SIZE:1375949
 adafruit/circuitpython-org: main:4f5325f88471fc241c04b12b30f00c5211912364;gh-pages:9f9d742bac892414b7387215ad15d4663afcf769;create-pull-request/patch-1775003222:70207e08363a64bc81dfd98f0cdcd23a2b2ee882;|none|SIZE:709775366
+adafruit/Adafruit_CircuitPython_74HC595: main:f918ed0b6f78179b016ef8723e7d6cc863534a55;discord-fix:3ddfee13b6ae106c98bc1573dd08cc894e25c014;|2026-03-27T18:55:31Z|SIZE:2136806
