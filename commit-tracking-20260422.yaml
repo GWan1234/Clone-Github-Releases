@@ -1943,3 +1943,4 @@ adafruit/Adafruit-HX711-24-bit-ADC-PCB: main:4444b42fc47d665fcd6694097690cfbf6c6
 adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB: main:083c789179ca1150e4816bf293eda970ff5c3c46;|none
 adafruit/Adafruit_CircuitPython_HX711: main:b9ddb37bf2961cb0c4b8e3a4ecb50412001baf2c;|2026-03-27T18:59:07Z|SIZE:19458
 adafruit/board_manager_files: main:649cb6cebb11d5893a207f7d7f2fefc1f22349b5;add-wchisp-rs:174f6ab3638b71bd74a8cdb92d48af94efaa9845;|none|SIZE:3698
+adafruit/wchisp: unix-tar:2c05739470ceea5d9eaf9fb276064a1c29f5d4f9;main:266538ad3ed47f6d07022aa1e7b08ea0bd1cfaa9;add-linux-aarch64:68a782a1244859d598d54a0049399f7eb9ae2c76;|2024-06-27T05:42:30Z|SIZE:95027
