@@ -1084,3 +1084,4 @@ adafruit/Adafruit_FeatherOLED: refactor:d39ff120f43cc2f8f23bad2ce7d6874b52bb7641
 adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad: master:738c479a5a08af69c7864ff1053404e821fcd700;|none
 adafruit/Printer-Profiles: master:ed08154bdf56525741dbfbfe852a1d9a747698bd;|none|SIZE:16090
 adafruit/Pi_Physical_Dashboard: master:81a513ac8508e387a081c2c0fc02140d4f37100d;|none|SIZE:9511
+adafruit/Adafruit_Lightship: master:06085f349833c9ede0f93b87f5b06c4aa6c77844;|none|SIZE:16289
