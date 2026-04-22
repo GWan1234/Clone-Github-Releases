@@ -2314,3 +2314,4 @@ adafruit/Arduino-IRremote: z3t0-patch-1:4f24b696cf8ea2a7ec28c95c7216803fa3621ecd
 adafruit/Adafruit_CircuitPython_IRRemote: main:646cc051881a07d8bd5c442320479c6e5e553567;|2026-03-27T18:59:38Z|SIZE:21071
 adafruit/Adafruit_ZeroPDM: master:6955e2e80eaaf37b2586e8ea510f0d996bc32ca8;gh-pages:d54a7c4266628ced99cb145b7168215c8ef8b4ca;actionsci:0f7a0c7d82a2ca866425506efcc70b8d2e815f82;actionci:2f80f6d358c8f325e15657fd30c7c9219f70489c;|2026-03-03T14:48:56Z|SIZE:138538
 adafruit/jupyter_micropython_kernel: master:f60fc2d3bde0684ceb7e9a071f36058c1f8b1d01;|none|SIZE:6452
+adafruit/Adafruit_CircuitPython_IS31FL3731: patch:40d56274bbaba88273cce27c2811f1c2aaa328f3;main:c011e8e0d021a6c5870242eb721f012922002fc8;experimental:4e6425880be5585859746a16934e8851211521cb;|2026-03-27T18:59:40Z|SIZE:63915
