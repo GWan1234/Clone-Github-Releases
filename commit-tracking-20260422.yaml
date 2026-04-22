@@ -136,3 +136,4 @@ esphome/esphome-project-template-r2: main:ba509731248640ca996cfe01472d1dbad8d680
 esphome/esphome-glyphsets: simplify_code:bb44fcc2aba25aeb304f24b06635aab59ae92333;pre-commit-ci-update-config:b9c8ab6b28c6dc717a80217e8e32928e6bb0b179;main:e58122e8ac81d371c2800af27521ac256aed1034;|2025-02-19T15:50:25Z
 esphome/esphome-schema: main:e3bb819337ea009985c93684645dffd32b0cfe50;|2026-04-20T01:54:33Z
 esphome/pngle: master:8bf3862f84a4643e75a7d92e046d7c07f934cead;|none
+esphome/starter-components: main:34ad217e69336d07ca69645d3cf199c583ede1b3;|none
