@@ -1899,3 +1899,4 @@ adafruit/Adafruit-Proto-Under-Plate-PiCowBell-PCB: main:0d81b50b824235020d45e982
 adafruit/Adafruit-Proto-Doubler-PiCowbell-PCB: main:81f28591642658e7d283915c6803a6aa63a82c02;|none|SIZE:825701
 adafruit/Adafruit-Terminal-PiCowbell-for-Pico: main:38f512959eea28a4ae38c9ba7e700d3ac0d5618c;|none
 adafruit/Adafruit-SHT4x-Trinkey-PCB: main:56dc3b26c14a202ee8db53184b9ac5c2ba787e03;|none
+adafruit/esp32-arduino-lib-builder: master:aaf47abea86752cda706293664171d9f38b8e3ad;bluefruit-ez/idfv4.4.6:c4023c61813ee81b1ecb4f1e0af87074e46a83a5;|none|SIZE:75978
