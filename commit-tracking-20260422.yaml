@@ -1696,3 +1696,4 @@ adafruit/Adafruit-MatrixPortal-M4-PCB: main:200f94f83a08dd23e0b6cb51ff53554e0a12
 adafruit/DAPLink: refactor/weak_family_descriptors:8db4f919259dacfce83816dd74b3b5c84271bd7f;master:8e7333e3d79d8d4e2823b440d13ab2125cf6c2be;freescale:5808ccafa2830b7623367ffaed672238e9a74d4a;feature/update_cmsis:04f3e1db56e79ea1e024d6cfd5198213f9584fe6;feature/lpc55xx_hic:12772ac6c4bdee6142a2eaa7a516fc2cf10d62c9;|none|SIZE:6322176
 adafruit/Adafruit-QT-Py-PCB: master:a8caed9ad5f2670c662f0b0a68af62cceb3cec96;|none|SIZE:795977
 adafruit/Adafruit-LTC4311-PCB: master:8fb4ee69175a7ddb4128edbb7d9d79a78fbbf405;|none
+adafruit/Adafruit-MIDI-FeatherWing-PCB: master:d060360d31ba77963443121e71bae136c882a788;|none
