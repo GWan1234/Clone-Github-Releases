@@ -663,7 +663,7 @@ adafruit/LS2208-USB-Barcode-Scanner: master:e0649268db70c54e7d4be64f7317b55b6d29
 adafruit/Adafruit-PN532: rick_temp:ca9feddc10466e93ee65775318a20f8bad69baf0;master:bf9f3f31961474fdbca23cb57d604c7f27269baf;i2c:e1aa0c2b6c6082fdbd18c5952d7aa0fd3d4791e2;gh-pages:2c288462fa97ed7fca3e4b63ed93b343d4418aff;evaherrada-patch-1:01ff94ef2195fb0aae54e46cee00dbaf3e3f9a90;|2025-02-18T23:50:07Z|SIZE:212888
 adafruit/Adafruit-ST7735-Library: st7796s:4fdbc00ffa9cbbd0082e260f3563be5fe9ce4da4;st77xxhacking:3491a227fdb4c4d8cd50299896e6e866b1e964f8;spitft:90e00d141708d710c2f98c73ebb02ef183585d5f;plugin_160x80_tft:ea7e0c12479de66165d7dc9566c91b8834484dfd;platform_shim:e46991aee3655d09269f9073f2be3a1ebaebd02e;|2025-01-28T14:57:38Z
 adafruit/GPS-shield-RMC-test-sketch: master:600346d12e5f666cbeca19cc8c6ad771283004cd;|none|SIZE:2245
-adafruit/SD-Basic-GPS-logger: master:31fba7bd11831064ddabea46626f2acf97a3c7b6;|none|SIZE:3901
+adafruit/SD-Basic-GPS-logger: master:31fba7bd11831064ddabea46626f2acf97a3c7b6;|none|SIZE:3900
 adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB: master:abc1a06fbe98e76854ee4e68c9107f614c2d436f;|none
 adafruit/Thermistor-test: master:decc864620a95bb15ae20fce10af666b1656ff03;|none|SIZE:1113
 adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: master:c67f3c11a326cb13ff92d747d8009442a3d8c843;|none
