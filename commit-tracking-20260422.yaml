@@ -151,3 +151,4 @@ esphome/ESPhome-GUI-Documentation: main:e57559282f425ce53ff0cc1c6482bd668e1625c9
 esphome/roadmap: pin-action-shas:64d7619edec55576b31e685c8a132bc1f7b3a5c4;main:0fdb09488277c566dc56e0ea315822fcabf249bd;|none
 esphome/workflow-shas: main:3982364501c6fc0aa642d06af71553b870122cab;dependabot/github_actions/actions-81661f83bb:8399b661f8d4322973a39d2275bc3d5317f5f4ce;|none
 domoticz/win32-libraries: master:a13e008a9f9aea5e79c3eac39c65d3f076b7ba8e;|none
+domoticz/domoticz: master:fca2725f20bfcf1ab36df23f558f2075f39eef8b;fix/plugin-gil-sql-blocking:26becc24d806289373422724430d90367886598a;fix/kwh-counter-spike-autodetect:fcf5e45052722c1ce0885a0ade075ebba58294c5;feature/p1-report-custom-date-range:80e8ee3fc6fb454f55bc12d53e4510739580f35f;feature/hue-v2-sensors-sse:33bb81d04dd80226d27373eb40d3665c7d11dbcf;|2026-03-25T06:41:28Z
