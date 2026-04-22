@@ -2022,3 +2022,4 @@ adafruit/Fruit-Jam-OS: working_on_stuff:d2d52558e5977a56e21c80e78ac51812e1c3cb49
 adafruit/Adafruit_CircuitPython_Anchored_Group: main:c3bbfd786b419c2c73b3f7080040296647ba140e;|2026-03-27T19:07:13Z|SIZE:19340
 adafruit/Adafruit-I2C-to-8-Channel-Solenoid-Driver-PCB: main:9266434c5517c4b418d8a69ba3281bf652bf98ff;|none
 adafruit/Adafruit-USB-Type-C-CC-Resistor-Fixer-PCB: main:7ab085193a5180f3ebc9a4a0971910ae7ee4553b;|none
+adafruit/Adafruit_CircuitPython_Pathlib: main:e076444c2cba6b066fbce66574ecd17ec83c2add;|2026-03-27T19:11:30Z|SIZE:20169
