@@ -46,7 +46,7 @@ anzhiyu-c/vue-ts-cms: master:e18a8e9383d18045423ba5c6d42c88779c523e51;|none
 anzhiyu-c/vue2-temp: main:0feef65bba4c3a5b773c0a1bcb3fcac01e188df9;|none
 anzhiyu-c/vue3-cms-temp: main:a8619f5055c4b561ed21d297fac090be99a83fa6;|none
 anzhiyu-c/xiaoyu-newtab: main:4dde595040e3a9cfe3aa6e21e3a88dcd134be7c6;|none
-cockpit-project/cockpit-project.github.io: workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;main:33ad1fb76262e95d6a1b6f39028c7653777aa7cd;|none|SIZE:49712436
+cockpit-project/cockpit-project.github.io: workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;main:33ad1fb76262e95d6a1b6f39028c7653777aa7cd;|none|SIZE:49712437
 cockpit-project/cockpit: unit-tests-without-cockpit-js:dc961bd47aca1a83695ff7f6c1b8248d2f6fcfdf;tasks-container-update-cockpit-ci-container-20260420-031345:8a31a40274743e8a0414af3c98e802d08671a2f9;subman-1.28-testlib:0b901a3a83a30c48c8b05c0ca41d8e8789582402;rhel-10.2:9e445cc34bad5c125c1be4315a43ba48ef71c5d4;rhel-9.8:1ec313892d016210dd44c753bc8705956aade1be;|2026-04-21T12:24:44Z|SIZE:31455888
 cockpit-project/cockpit-design: main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;|none
 cockpit-project/hubbot: master:fd89610f8b7909874577ce5755c74eab24b08f99;|none
