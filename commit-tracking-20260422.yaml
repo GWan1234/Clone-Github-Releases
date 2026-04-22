@@ -668,7 +668,7 @@ adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB: master:abc1a06fbe98e76854ee4e68c910
 adafruit/Thermistor-test: master:decc864620a95bb15ae20fce10af666b1656ff03;|none|SIZE:1114
 adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: master:c67f3c11a326cb13ff92d747d8009442a3d8c843;|none
 adafruit/Adafruit_iCufflinks: master:a150f329582a90235f2d32650af52d1175c764c4;|none|SIZE:233734
-adafruit/DHT-sensor-library: master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec;|2026-03-03T14:49:02Z|SIZE:119212
+adafruit/DHT-sensor-library: master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec;|2026-03-03T14:49:02Z|SIZE:119211
 adafruit/Adafruit-NEC-remote-control-library: master:72975ab49a409c74df57b878b7520572744a3fa2;|none
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: master:e2b12428c08d286dc9f568c8117f6e77986ef0ab;|none|SIZE:364615
 adafruit/Adafruit-BMP085-Library: samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b;master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;|2023-11-15T15:30:48Z
