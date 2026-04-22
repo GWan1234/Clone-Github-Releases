@@ -433,3 +433,4 @@ OpenListTeam/openlist-ftp-plugin: main:be1a3ee9684749791d6b0e3bac4cac977f72d76c;
 OpenListTeam/openlist-lanzou-plugin: main:e65f249178fdc53a8e25e2fc79c0cadfe0918e2a;|2025-10-15T18:26:16Z
 OpenListTeam/OpenList-Helm: main:e42a41d242b14246149f241dff33004911ee19ac;|2025-11-04T09:28:01Z
 Finb/Bark: master:6a2997a300dc4133505a58b6f022ceaa2940ff3b;feature/ttl:a0b67ed282f1ef72533c306ec82bacd2ede44785;|none
+Finb/Bark-Chrome-Extension: master:81c34b40f1409d4d7a8d745505a06f92f07fd3bb;AutomaticallyCopy:340cf3c79abfbba58f083e44aecde32ea3c1714a;|2018-12-19T02:45:46Z
