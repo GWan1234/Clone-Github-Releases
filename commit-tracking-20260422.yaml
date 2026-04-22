@@ -2270,3 +2270,4 @@ adafruit/Adafruit_CircuitPython_DS3231: main:552104c8aed472c7437413e94b8954e63b4
 adafruit/Adafruit_CircuitPython_PCF8523: main:e1f70bfef202fb1b3dd815e59cbf00a5d26cd5b1;docs_req_fixes:bd4d237ddd5956207377d699396995e4df3b9dc1;discord-fix:f0e059aebf091b4c0048737cceebe7477d4b5703;|2026-03-27T19:02:32Z|SIZE:783522
 adafruit/micropython-adafruit-gfx: master:878b87ed490e3813b4bd7519da5f74ba83e2a8cd;|2017-10-02T18:22:14Z|SIZE:4939
 adafruit/Adafruit_nRF52_Arduino: sdfat_v2:739d6485a07e655ca6b7ba8aa7b9cb820b3557bf;master:fa129c2a1075ca4290ab4b4bdef080a83b1b83c4;|2025-05-30T10:12:08Z|SIZE:29840385
+adafruit/Adafruit_nRF52_Arduino_Bootloader: master:e37c04aa06858f47ce76994b51417fbcd02e4756;|2018-08-17T17:53:52Z|SIZE:1053753
