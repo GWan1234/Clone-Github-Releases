@@ -2375,3 +2375,4 @@ adafruit/Adafruit_CircuitPython_framebuf: precommit-update:972b9271ccf2c9f71a566
 adafruit/Adafruit_CircuitPython_GFX: patch-fix:db7275f967b6b04e27ebcae2109c9059b7920ebe;main:d631e6bb0397f6f57c864d04a1b7fe93f2aab52b;docs_req_fixes:5595fd9f064cac2d932a23c60485a5ab6398f44b;discord-fix:883171741058060cb94894aa9ccc336697e81d1c;|2026-03-27T19:09:52Z|SIZE:112368
 adafruit/Adafruit_CircuitPython_PCD8544: main:062c54c3befa9666b72b6309d43de260c6f3f8e1;|2026-03-27T19:02:30Z|SIZE:19460
 adafruit/Adafruit_CircuitPython_SharpMemoryDisplay: main:dfbcae96317d9921e27d989409a0109a9fcc18c2;|2026-03-27T19:03:45Z|SIZE:20763
+adafruit/Adafruit_CircuitPython_BLE: pylint-fix:5e4e55c9d2d315f4d7fe66a1a4b31ed7ac65ca5b;main:63c9af9a343c68ebbd013054b799d2e35a513343;|2026-03-27T22:21:22Z|SIZE:85469
