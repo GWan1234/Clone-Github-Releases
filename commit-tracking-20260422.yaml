@@ -1765,3 +1765,4 @@ adafruit/Adafruit-ATtiny8x7-Breakout-PCB: main:442a8ca863d1fc0ffb78cd526b82855fc
 adafruit/Adafruit-VL53L1X-PCB: main:e2a85759d3b85907b3c2422f3c140d6bb45390d7;|none
 adafruit/Adafruit-1.12in-128x128-OLED-PCB: main:ac65ded15c60c42bd7fa323c670640263b88f761;|none
 adafruit/Adafruit-Feather-ESP32-S2-PCB: main:4a6263861580257d42a889a1518133441d25f35d;|none
+adafruit/Adafruit-KB2040-PCB: main:b4160dcf4385ef2cc30e9652489328321720ee4b;|none
