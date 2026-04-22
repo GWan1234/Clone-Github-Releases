@@ -2104,3 +2104,4 @@ adafruit/Agent_Skills: main:4958fe4f07abe198e951e8d3cebde16d5c1421fd;|none|SIZE:
 adafruit/Adafruit-SGP41-Gas-Sensor-Breakout-PCB: main:9c8e8c6d195e430a3537b0dca20fe7e310ece822;|none
 adafruit/Adafruit_CircuitPython_SGP41: main:b08e3feb28d548129fc4d6db9ce0bfde2616bc4f;|2026-03-27T19:03:43Z|SIZE:20353
 adafruit/Bluefruit_LE_Connect_Android_V4: main:1ad31a97f90315da7403585d9ad64f6e9c1ca3fa;|none|SIZE:12333663
+adafruit/Adafruit_TMF8806: main:905093c9872749a39eb22c4769cbba8fd1e1c54f;gh-pages:a4e5797c5e00b88cedcc8e916e06a962db596aab;|none|SIZE:116987
