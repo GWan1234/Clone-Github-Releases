@@ -1164,3 +1164,4 @@ adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: master:7384f4727943c46e8f2473a76
 adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB: master:cb5f0e3d89c9b20db55984077ba5f2eba29c8d69;|none
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: master:37c7ffb587c00e67d739baa078eb755f0976d15f;|none
 adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: master:1d60495b54bd6ff8fa4d5acca7a6e1c1a317cfe1;|none
+adafruit/Adafruit-Push-Button-Power-Switch-PCB: master:6013b8b9aa67f74778996c69ec765875c787ff53;|none|SIZE:1775729
