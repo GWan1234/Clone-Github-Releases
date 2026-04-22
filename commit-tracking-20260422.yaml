@@ -507,3 +507,4 @@ obsproject/design: profiler:4596953019176f09bbef88351f620b9c8ae9a2c6;main:6a7639
 obsproject/obs-deps-buildstream: master:51e02e25a2c113ba259e928e2c58a9e919ff6fff;automated/update-fsdk:de346d9a575dfaa41b1d25f05ec310d5882b2b21;|2026-01-09T15:42:43Z
 antimof/libcamera: main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;|none
 antimof/UxPlay: master:fd88c0c465df492e03461980bedf115a40bc835a;|none
+antimof/WebRTC: latest:329cbd2cd6ff2a1f2405dfdb2ea8c884565cdd84;|2026-01-07T11:15:17Z
