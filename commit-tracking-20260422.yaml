@@ -1473,3 +1473,4 @@ adafruit/Adafruit_BMP3XX: revert-2-patch-2:ddf9e637b9ac46fd10ae00c8b5f49fb3ab9b8
 adafruit/Adafruit_CircuitPython_MAX31856: main:7a598433c7cc485a50c1897bccba33cf48535055;dhalbert-ustruct:b687ce5f62d8dd8ffc79087ab9c4309853ea7fcc;|2026-03-27T19:00:50Z|SIZE:45793
 adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB: master:27dbdde340e4f16171009e7c3edf578995c0ee02;|none
 adafruit/Adafruit-VEML6075-UV-Sensor-PCB: master:3165308f9a23535ee0ace7843d7facc22f5181bb;|none
+adafruit/Adafruit_Keypad: master:379ee71e113ecbc98971fde1b0526d7fca1f8cde;hoffmannjan-patch-1:73acc49075fda61b3d01f930c0f64b835ce6b62e;gh-pages:16933294fac1a69591b9c7c0a224bb8c95c512a3;add_rowcol:dbdabfcdec2001a9bdeb0d0082dbed37c872018f;|2023-10-03T20:33:34Z|SIZE:104415
