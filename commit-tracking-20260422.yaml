@@ -2126,3 +2126,4 @@ adafruit/Adafruit_CircuitPython_STCC4: main:54b2af0216858ed228fd4d51fc5fe9bd4170
 adafruit/Adafruit_VL53L5: main:8576a432e3f106c3eeb03ecbda38e8afc9831f3b;gh-pages:50e834d375186a0a05b248a11590ad4f53156bac;|2026-04-09T22:24:10Z|SIZE:205983
 adafruit/Adafruit_CircuitPython_TCS3430: split_interrupt_examples:1a7c0ec42c8cc7612e4f9cffc1e99942d9e8bf32;main:5acd418c12da4bfa679990c998a229e61f71ec1f;|2026-03-27T19:05:06Z|SIZE:59185
 adafruit/Adafruit_VL53L5CX_NoST: main:2057f945a03cc69687f80d864c9246bf516bd8ae;|none|SIZE:89882
+adafruit/espectre: main:995601b30953441531b4e90217bca990013a6036;|2026-03-25T00:39:21Z|SIZE:13106424
