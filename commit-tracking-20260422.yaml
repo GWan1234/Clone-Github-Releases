@@ -138,7 +138,7 @@ esphome/esphome-schema: main:e3bb819337ea009985c93684645dffd32b0cfe50;|2026-04-2
 esphome/pngle: master:8bf3862f84a4643e75a7d92e046d7c07f934cead;|none
 esphome/starter-components: main:34ad217e69336d07ca69645d3cf199c583ede1b3;|none
 esphome/zwa-2: main:73b6b5b925882319b9a40fe60b278347c6d60bc7;esphome-version-update:c1eb1bc04868cd649271a831d39fd821b4ae479b;20250928-get-usb-uart-release:66ab38f8222a06b2dbe920c28d0e02f9777dd472;20250926-split-jobs:b663d3061c45150adb816bc3e6030fa5dcf2cd0c;20250926-rename:d91ad674acb32d4b0a417ec29e1ec82d92ad9685;|2026-03-24T00:37:52Z
-esphome/home-assistant-voice-pe-alpha: pin-action-shas:067939a9d498c4c4acb940297de0439cd1ec7a1d;alpha:d108f132af709f563dac33739728bff082e38491;|none|SIZE:1405208
+esphome/home-assistant-voice-pe-alpha: pin-action-shas:067939a9d498c4c4acb940297de0439cd1ec7a1d;alpha:d108f132af709f563dac33739728bff082e38491;|none|SIZE:1405209
 esphome/lite-action: main:5d6cc0eb514c891a40562a58a8e71576c5c7fb43;|none
 esphome/pre-commit-action: pin-action-shas:5c715dd7aaa44a0b3786b201064e3efe35a7bd32;main:999250d73defebfe1394a96470523b9d4ecf05c2;|none
 esphome/media.esphome.io: main:3fe29b052c89e2e88126274abce7667284c6fa74;jesserockz-2025-537:b9757cb2460ca81b53fe1a52af30dfa59a11fb65;jesserockz-2025-535:243b4f41874ff32b7e5251b4fc374c426357e70d;jesserockz-2025-534:e8a514ff480cb18ce7615c2c0c84fb491736bc9f;jesserockz-2025-533:994eec34a87c4c9eb3cfd146114a849fbb811ec6;|none
