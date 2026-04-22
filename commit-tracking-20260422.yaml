@@ -1862,3 +1862,4 @@ adafruit/Adafruit-Qualia-S3-RGB666-PCB: main:789d986f34e7949f0477ffd4a9567d1a4c0
 adafruit/Adafruit-VCNL4020-Proximity-and-Light-Sensor-PCB: main:525a2aff1484aa23a424b656a5bf022d4b70a36e;|none
 adafruit/Adafruit_CircuitPython_TemplateEngine: main:9e10d1e8d4a0d94b0b49bd430b45abc34720933e;|2026-03-27T19:15:00Z|SIZE:27286
 adafruit/Adafruit_CircuitPython_HUSB238: main:58be98ec24e8428f491eda317ca96941cd9572db;|2026-03-27T18:59:04Z|SIZE:19598
+adafruit/Adafruit_ADS7830: main:a850382d1fa42392a432c61f820450f54da479ab;gh-pages:23f4b4242523a55e75afc962683804d12aff1752;|2023-11-01T22:22:26Z
