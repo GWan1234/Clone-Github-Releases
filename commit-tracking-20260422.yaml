@@ -1606,3 +1606,4 @@ adafruit/Adafruit_NAU7802: master:594dec00df8edc7163de858f1aecd9de4c65ec41;gh-pa
 adafruit/Adafruit-HTS221-PCB: master:e32c12659a54739f9700e8706e82f13b841f2f86;|none
 adafruit/Adafruit-LPS2X-PCB: master:5d8dc248b63ff39d1ca1ddbf29ea7fc30e9d4278;|none
 adafruit/Adafruit_CircuitPython_RockBlock: main:536801a23157121865097a972f48955fe19d5ca3;|2026-03-27T19:03:18Z|SIZE:22288
+adafruit/Adafruit_WebBluetooth_Dashboard: master:d0cf85f20e98c27a92f1759b1d07dd849c884663;|none|SIZE:585082
