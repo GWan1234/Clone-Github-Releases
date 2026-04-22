@@ -2251,3 +2251,4 @@ adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB: master:971a39b8e052325ed28be4cbfae0e14
 adafruit/Adafruit_Mouse: master:499b841958bd0b66a54d7a96a51a65fb0fe9f3b6;|none|SIZE:2815
 adafruit/Adafruit-Perma-Proto-Pi-PCBs: master:eebe4895c17e70200071dd98876799b278e233f3;|none|SIZE:1330874
 adafruit/linker-map-summary: master:507951b4d4e07fa9a5bc12913eec2ba65017103b;|none|SIZE:3324
+adafruit/gdb-micro-trace-buffer: master:8baa889c6f515cc73145d2e9d2800efb85696be1;|none|SIZE:3369
