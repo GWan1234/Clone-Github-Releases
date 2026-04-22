@@ -1677,3 +1677,4 @@ adafruit/Adafruit_Wippersnapper_Arduino: waveshare-p4-wifi6-stick:d24c7330518876
 adafruit/Election-Day-iOS: master:c3981b5815b58aaeae38ab4514d389865282cb67;|none|SIZE:1902170
 adafruit/Adafruit_SSD1327: master:6404a444267240bfc19f55c7080c36c9710d13b9;gh-pages:0baa94c2362bdc3dfa350b483b6906dc56db1e33;fix-ci:b46138ddb9c9ea2f365f7826ca41d904104e4054;|2022-11-03T17:18:39Z|SIZE:110618
 adafruit/Adafruit_Python_Shell: main:1e279fc15bd9db4c929955ba30208d5f436db9ed;|2025-12-15T19:43:46Z|SIZE:25422
+adafruit/BLM-Badge-PCB: master:85f0a9a0df072579ab00b5e9a2e22b0477bad65a;|none|SIZE:65762
