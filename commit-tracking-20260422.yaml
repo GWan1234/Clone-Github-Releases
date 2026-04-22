@@ -1872,3 +1872,4 @@ adafruit/Adafruit_CST8XX_Library: main:2f43c19d376f5f2800fd63ca277f1d1466c3503d;
 adafruit/Adafruit_CircuitPython_PCA9554: main:7753447e8a5a40f14fa61ad8010d8371c828c69a;|2026-03-27T19:02:25Z|SIZE:19504
 adafruit/Adafruit-LM66200-PCB: main:a305a260e91be4643626c906667e9f58f7349832;|none
 adafruit/Adafruit_CircuitPython_Qualia: main:2ab04a898952c62682e5b3fcb4a9a2e865b9ed6e;|2026-03-27T19:14:23Z|SIZE:27481
+adafruit/Adafruit-ADS7830-PCB: main:b796c6e98ecc7bddd24d97c2ce9e553dbf0edf7c;|none
