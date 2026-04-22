@@ -2140,3 +2140,4 @@ adafruit/Adafruit-Terminal-Block-BFF-PCB: main:6e2c47d43d37a4911910750956fb27c94
 adafruit/esp-usb: master:d03ae8127b336b62fa60f6d61f5adc58931139ae;fsls-only:35021d724b4072235582d5eb6bb1e776a69d9d4c;|none|SIZE:3279197
 adafruit/Adafruit-MAX44009-Lux-Light-Sensor-PCB: main:8105e22700e71f254633c947bb89a1d9bafbcb18;|none
 adafruit/esp-usbip-bridge: main:78e32a95542aced35e94ba6960721cc39178a084;|none|SIZE:27051
+adafruit/pyusb-usbip-backend: main:11914e98d3f87890b8eff303137454a83dd65f13;|2026-04-10T18:53:47Z|SIZE:21260
