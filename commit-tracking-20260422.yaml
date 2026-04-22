@@ -2123,3 +2123,4 @@ adafruit/Adafruit_CircuitPython_AS7343: main:1bc1eab727f0fdf77e027444d66ef5d3d5b
 adafruit/Adafruit-TCS3430-Ambient-Tri-Stimulus-Color-Sensor-PCB: main:66a56ff8cdb46158dbb87cbe5cc557d7ff14b6e1;|none
 adafruit/Adafruit-STCC4-and-SHT41-CO2-Temperature-and-Humidity-Sensor-PCB: main:3bf8a8ea4042964af182c617ce1ab904cc4a7bd1;|none
 adafruit/Adafruit_CircuitPython_STCC4: main:54b2af0216858ed228fd4d51fc5fe9bd4170bc8d;|2026-03-27T19:04:52Z|SIZE:20653
+adafruit/Adafruit_VL53L5: main:8576a432e3f106c3eeb03ecbda38e8afc9831f3b;gh-pages:50e834d375186a0a05b248a11590ad4f53156bac;|2026-04-09T22:24:10Z|SIZE:205983
