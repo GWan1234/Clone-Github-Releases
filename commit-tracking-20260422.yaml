@@ -2517,3 +2517,4 @@ adafruit/cp210x-cfg: master:b417a28b3367a65990ad501c6cb98da2c32b7ea4;|none|SIZE:
 adafruit/Adafruit_CircuitPython_24LC32: main:3797df938995001a5bf3937465d3138d6fa87836;|2026-03-27T18:54:18Z|SIZE:20027
 adafruit/Adafruit-QT-Py-ESP32-S2-PCB: main:7df4eac2c0b9a73ba966766ae6027b0a4d8a6901;|none|SIZE:2349614
 adafruit/greaseweazle: tracemalloc:14698d1d7237f56c6e427a6929264c9eb1e57149;sega.sf7:bff764a9e8c17aac50e4bb019573e26fb7725803;mydebug:d56fe227613f74ace4065242c7d4f1160bedd019;master:524798fb9cf2e3f0087f6a63818992bf58496920;mac:5595b8281371f50934a4c3d476a26cc7cf39af65;|none|SIZE:310490
+adafruit/Adafruit_Floppy_PCB: main:b6aca14941193c18e0abb5d8302ce5b7f62ed25d;|none|SIZE:54496
