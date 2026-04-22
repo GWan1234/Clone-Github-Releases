@@ -1539,7 +1539,7 @@ adafruit/Adafruit-TLV493D-PCB: master:2450d66eef51807f25f6ce598fa7aa9f95d588aa;|
 adafruit/Adafruit-MPU6050-PCB: master:7158d89fb3f02c66a11a58ae016f29490d770d93;|none
 adafruit/Adafruit_CircuitPython_LSM6DS: pypi_fix:45257fa4d003425d824c556e9ecb98643283da95;pylint-fix:45fd001fdc6ee6fe90e36c7b6b142fd53f8ed656;patch-fix:4f7a72b08682b30a6d9e7bcb4f6de229b9172fd9;main:9d94dc6a3350cb8766baa4a1247e36576b00f68a;lsm6dso32:7178527b7a2cbaf1bcff1a58bb8c931c65fe82e8;|2026-03-27T19:00:27Z|SIZE:124936
 adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305: pylint_update:7d4d5c56f80b39b88337e85e3d9b5237b0b5b87b;main:8bd02ce516474f96d064b36a3907fc90085679e5;|2026-03-27T18:57:32Z|SIZE:36228
-adafruit/Adafruit_CircuitPython_Gizmo: main:32cbf5f0118160101abe97d8510b970af4304c5f;|2026-03-27T19:09:55Z|SIZE:33562
+adafruit/Adafruit_CircuitPython_Gizmo: main:32cbf5f0118160101abe97d8510b970af4304c5f;|2026-03-27T19:09:55Z|SIZE:33561
 adafruit/Adafruit_LSM6DS: wake:1629037a618bc9599ad5e53ef79c43d83839a3ed;step:009a245e5b1d3315f90609d4b5533a263ce38c70;no_reboot:35a970a36d84fcb91913752e2b53ec647186846a;master:379a5204c0bad71264c3d635de84d0f9679ab784;lsm6ds:92daa1e3bc60d97089dcb893fddefec9239fc9f2;|2024-12-03T22:26:38Z|SIZE:2399259
 adafruit/Adafruit_NT35510: master:3a9c7bc03b66c282a65fbedb695da72bea5579be;|none|SIZE:32882
 adafruit/Adafruit-PA1010D-Mini-GPS-PCB: master:6f1d0f216b848bea8d473a4b1384fd0340536ea0;|none|SIZE:511217
