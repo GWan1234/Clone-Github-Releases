@@ -2325,3 +2325,4 @@ adafruit/arduino-esp32: xteink_pr:5ee2d4d4f7a7cf7977bb9e70b61e00822c55c6b3;wippe
 adafruit/Adafruit_CompositeVideo: master:5d40b02788e65fc3a5b0423828a9e3f7b94992e7;gh-pages:dfa96101bb408add0f0b0b5cf7c1bec5a6f8f4f8;|2026-03-03T14:48:25Z|SIZE:98056
 adafruit/Adafruit-PiOLED-128x32-PCB: master:41f958463af931f5eb51f1135b290f3378779290;|none|SIZE:998967
 adafruit/Saleae_PDMAnalyzer: master:a27e1d9f65ac6fe8b8f0678bc81567cf1930688f;1.1.14-for-win32-debug:a6a4b647494fda011d13360afc3a34b64adc7c04;|none|SIZE:12598542
+adafruit/Adafruit_CircuitPython_AMG88xx: main:b7309fd6d85ee0e5b62c8823fdbf8f15d039f619;dhalbert-master:e14c153ca5371b7e91fe47264ce20c154fc92233;|2026-03-27T18:56:07Z|SIZE:29122
