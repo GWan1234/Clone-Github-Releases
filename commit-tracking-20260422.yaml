@@ -2081,3 +2081,4 @@ adafruit/Adafruit-CSI-or-DSI-Cable-Adapter-Thingy-PCB: main:6a56b0344bab56906893
 adafruit/Adafruit_CircuitPython_MLX90632: main:552af7404cb0232311cc0b46730655bf3faa02d6;|2026-03-27T19:01:27Z|SIZE:21244
 adafruit/Adafruit-E-Ink-Bonnet-for-Raspberry-Pi-PCB: main:1989721717d068c1726f18f8ec16ca58ac011fee;|none
 adafruit/Adafruit-SPA06-003-Temperature-and-Pressure-Sensor-PCB: main:c4adbd023d64f5dbd1cea79366b0a2216d34facf;|none
+adafruit/Adafruit-PCM5122-I2S-DAC-PCB: main:5ce8729798cefc4174524ae678db3958ad0b8113;|none|SIZE:1171697
