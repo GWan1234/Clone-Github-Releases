@@ -2025,3 +2025,4 @@ adafruit/Adafruit-USB-Type-C-CC-Resistor-Fixer-PCB: main:7ab085193a5180f3ebc9a4a
 adafruit/Adafruit_CircuitPython_Pathlib: main:e076444c2cba6b066fbce66574ecd17ec83c2add;|2026-03-27T19:11:30Z|SIZE:20169
 adafruit/Adafruit_CircuitPython_FruitJam: main:446bae6a89b9e7bb08ef8f4fff6f8b3a4704bfa0;|2026-03-27T19:09:47Z|SIZE:221041
 adafruit/Adafruit_CircuitPython_Argv_File: main:04f167a4e34e88a10a991e304ea86e7931dfd9d0;|2026-03-27T19:07:19Z|SIZE:18641
+adafruit/Adafruit_CircuitPython_USB_Host_Mouse: main:a4a9f58c9fcac92a39bde42b762aa7b69089f3e7;docs_improvements:00629c3f5980fb3a13d04e300704cc0cc7706156;|2026-03-27T19:15:20Z|SIZE:41371
