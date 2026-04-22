@@ -1571,3 +1571,4 @@ adafruit/awesome-stemma: master:4faee5dea99c06c97c47408a4c860b3d020a6880;|none|S
 adafruit/Adafruit_CircuitPython_LIS3MDL: update-docs-link:482aa0cb10605d7ed96934f8e41bde51fd6d55d3;patch-fix:d49f645ab8d723c465f0f5ab28ecbdc97d66096b;main:61e675110d9d1af32d56ac879c17cfa0c521b5c1;|2026-03-27T19:00:03Z|SIZE:64634
 adafruit/Adafruit-Feather-STM32F405-Express-PCB: master:f10cfb45e79fb9163b55f375cafa664dbac05268;|none
 adafruit/Adafruit-LIS3MDL-PCB: master:cdf0482ef9cf26c8840c9147bff7b56a6197d997;|none
+adafruit/Adafruit-LSM6DS33-PCB: master:c5b2d72517fd7a82d49b426c440742131aa8cbae;|none
