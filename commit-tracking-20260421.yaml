@@ -5571,7 +5571,7 @@ sonocotta/attiny-flasher: master:e220ee7f8602ab577218dc025096c98ebfe94d61;featur
 sonocotta/attiny1616-dev-board: main:352e5beb1ee896f236b29e0d347c5a2898ca2fb2;|none|SIZE:152242
 sonocotta/esp-adf: release/v2.4:6381a4413ca6eadf41853b4e596d85d89b63e677;master:a535ca9d6960543dc9cd523e6593a6f0b70b88fc;|none|SIZE:111497723
 sonocotta/esp-luma-drive: main:c3f3fc2ea8ce746be744dc7155f72e977d12f19b;|none|SIZE:418850
-sonocotta/esp-tunein-player: master:3a891ec6a1a374507e89510c52a69b75e3917d5a;|none|SIZE:48576
+sonocotta/esp-tunein-player: master:3a891ec6a1a374507e89510c52a69b75e3917d5a;|none|SIZE:48577
 sonocotta/esp32-audio-dock: main:af9d2a703d9d976db20fc5b679c1488efadcf9d0;|none|SIZE:70171487
 sonocotta/esp32-esp8266-screensavers: master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc;|none|SIZE:60336415
 sonocotta/esp32-gameboy: main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7;|none|SIZE:1009604
