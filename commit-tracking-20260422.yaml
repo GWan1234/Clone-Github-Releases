@@ -2042,3 +2042,4 @@ adafruit/Adafruit_AS5600: main:d0e1eda5fc0c9e2cfbb84ad55bcb50fc73708d7d;gh-pages
 adafruit/Adafruit_STHS34PF80: main:1cf47e4bead466bc5bdae87d819853259a3e8c90;gh-pages:bac29572d1d27087cfe37a0159b850b372ee8ff2;|2025-11-04T14:34:42Z|SIZE:380345
 adafruit/Adafruit-STSPIN220-Stepper-Motor-Driver-Breakout-Board-PCB: main:900c418203489887894b71debe1849a6df259c0f;|none
 adafruit/Adafruit_CircuitPython_STSPIN: main:052284b1262c586643eb01d9b26a655d8c262e4b;|2026-03-27T19:14:58Z|SIZE:21865
+adafruit/awesome-open-source-robotic-arms: main:fec1141d5dc44edccb7f06e66cd71d43e1bd9d32;|none|SIZE:11117
