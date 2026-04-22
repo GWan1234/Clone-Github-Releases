@@ -2301,3 +2301,4 @@ adafruit/Adafruit_Media_Converters: master:85a50a03dfeef5b0d3a33c6124e940c19b9e5
 adafruit/Adafruit_Curie_Bot: master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae;|none|SIZE:8133
 adafruit/single_chan_pkt_fwd: master:aab8d308ea2abd5f4c39ca74a4493097a6632245;|none|SIZE:68222
 adafruit/Adafruit_CircuitPython_Thermistor: main:bdfeb28d741a0233c4d8789b610d116831c9c0dd;|2026-03-27T19:05:13Z|SIZE:18594
+adafruit/Adafruit_CircuitPython_LIS3DH: main:ca871b8bc59b23acbfd779bf59d420599e8bcbb5;|2026-03-27T19:00:01Z|SIZE:25671
