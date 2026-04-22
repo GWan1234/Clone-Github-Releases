@@ -1814,3 +1814,4 @@ adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB: main:633459d74623227a18f7c4b
 adafruit/Adafruit-Metro-M7-with-AirLift-PCB: main:a3c861b5d9f21f124cc4e0cc4034f511857c55a1;|none
 adafruit/Adafruit_CAN: main:d029f1dfdea13c686e98d9456ae176d7fc8d56f1;gh-pages:45c019a179153ff5d47d3f65c79bbd83a537c802;clang-2025-07-17:da4643b05b844f80965c46a8ef101107fff2fd4b;|2025-07-22T14:31:53Z
 adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: main:263cd9f75ba8c8b48291bd6e62f8672c98619663;|none
+adafruit/Adafruit-CAN-Pal-PCB: main:56618b3a53162ce48872514be044eab033ed33ef;|none
