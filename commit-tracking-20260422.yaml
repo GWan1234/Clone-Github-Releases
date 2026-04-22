@@ -264,3 +264,4 @@ ioBroker/ioBroker.rfxcom: master:636043f29f8013f2978508a6c556e43301d349da;depend
 ioBroker/ioBroker.wiki.js: master:b413dd874b35f9258d27590134c8fb2c0e35ee06;|none
 ioBroker/ioBroker.template-ts: master:38500e1782346bff8c06191bb99d3e9258c56f8e;|none
 ioBroker/ioBroker.rest-api: master:abd19dafbf2a83c3f6a2ed4e643eefa4f976f898;dependabot/npm_and_yarn/typescript-6.0.2:071181ad6cbac56e321bca22e2041502326c8543;dependabot/npm_and_yarn/multer-2.1.1:d106960d5f6ab953f94208859ae361b21fd5bfe6;dependabot/npm_and_yarn/axios-1.14.0:8bb627f44f09433f3959d070ae625aab88876f7a;copilot/make-adapter-reverse-proxy-aware:cc1157aa8617cf275f68610f5179a3f80045d969;|2026-02-17T14:43:22Z
+ioBroker/ioBroker.graphpic: master:82aeb7e313d59b754f8c4bad21cfadf128035a59;|none
