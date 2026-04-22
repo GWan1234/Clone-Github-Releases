@@ -629,3 +629,4 @@ adafruit/MAX6675-library: master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pag
 adafruit/DS1307-breakout-board: master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6;|none|SIZE:1167548
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: master:364b6e315bb638f88918776ade06b1e69b71d268;|none
 adafruit/MicroSD-breakout-board: master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c;|none|SIZE:665632
+adafruit/Solar-charging-tracker: master:e6385cec80193c8e74f7895d32f5e91a541ee3d0;|none|SIZE:1559
