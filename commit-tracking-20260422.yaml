@@ -219,3 +219,4 @@ ioBroker/ioBroker.terminal: master:174ef37e99ce1b7f178ae166be62d7c9f118663d;depe
 ioBroker/ioBroker.vis-jqui-mfd: master:cab70d768e942265dddff5dec3d4e4575de4fa00;|2026-01-25T18:56:20Z
 ioBroker/ioBroker.modbus: typescript:da9d0e157977c142af8c40f11cfe1e5cfb9612a1;refactoring:2438b61ba895ff0c569be81f7296d43afff7de32;new-jsmodbus:c1c757637f2edc30283ab2656ce523524d0e4626;master:fe873612c0b41786f51030965139f35ff28efea5;lib:79bcea724bcb14aa559cd05e879716a5f69d4d51;|2026-04-13T18:11:56Z
 ioBroker/ioBroker.vis-rgraph: master:1b5fef6b343838433b308dab2e6f6e7d2548323e;|none
+ioBroker/ioBroker.vis-fancyswitch: master:62fe89a9bf646392c6a53e7f91744352409135ae;|none
