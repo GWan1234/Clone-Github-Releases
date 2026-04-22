@@ -2443,3 +2443,4 @@ adafruit/Adafruit_CircuitPython_MSA301: use_ruff:b34604e6b826eef0e8bebf461f70d5e
 adafruit/Adafruit_CircuitPython_hashlib: patch-fix:2b2ff736e1284702272f3b1ac9ebffa2a6301466;main:d319dd0785b60398b1b338ea6efc95d13f7330af;linting:05dc21b46f99af8e35a72ba9614affbec875dd86;|2026-03-27T19:09:57Z|SIZE:81979
 adafruit/Adafruit_CircuitPython_binascii: tannewt-patch-1:cec1f580e14a082f92264e86d025d6afee95bed5;main:b47574b65d1e2dd95ddb819119e9ab898b633b08;|2026-03-27T19:07:29Z|SIZE:40973
 adafruit/Adafruit_CircuitPython_IL0398: pylint_update:69c425a0902d17a53faf795a041fae0fa6a27d11;main:a496bcc89bf43373690d8662207786203a0c7ea5;|2026-03-27T18:59:16Z|SIZE:42950
+adafruit/Adafruit_CircuitPython_JWT: main:d24818d317b0664008f8249e73e5e6cccb09dd2a;REUSE:68f3480783e4757d32a641527d537c3cccf97e9f;|2026-03-27T19:10:35Z|SIZE:46146
