@@ -1837,3 +1837,4 @@ adafruit/Adafruit-Audio-BFF-PCB: main:cc58e5b14991044038626a00b502c2e8eda2f85a;|
 adafruit/Adafruit_CircuitPython_ICN6211: main:1c219ab2a01d8ceb50d10f75a1b46a4dd0e0d92e;|none|SIZE:24656
 adafruit/Adafruit-MatrixPortal-S3-PCB: main:1ff841b511d7dc153ae8d4c0b148d33cb3b2ba85;|none
 adafruit/Adafruit-TSC2046-PCB: main:cf5b01b3b6ae479abf051a8d0d3e8ed5b05ba632;|none
+adafruit/Adafruit-ADXL343-ADT7410-Sensor-FeatherWing-PCB: main:808e86d439341e5acc1c307a376ca220d96751ee;|none
