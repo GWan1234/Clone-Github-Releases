@@ -1040,7 +1040,7 @@ adafruit/Adafruit_WICED_Arduino: win32_binaries:ce8c5b86016d9695962db976cc922912
 adafruit/Adafruit-MPR121-PCB: master:d1e18d5ea07d596006c414746e8c1ac4c8230e1f;|none
 adafruit/Adafruit_Python_BME280: master:09b690dea026e0d045ad4aa3373245a56b189f7f;|none|SIZE:4538
 adafruit/io-api: main:2995a32c86d184bd401781df3c7f297e70ca6341;|none|SIZE:407256
-adafruit/Uncanny_Eyes: master:d2103e84aa33da9f6924885ebc06d880af8deeff;|none|SIZE:929924
+adafruit/Uncanny_Eyes: master:d2103e84aa33da9f6924885ebc06d880af8deeff;|none|SIZE:929925
 adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB: master:2fa8e23b2653935aaf2ee6c1171b122358689485;|none|SIZE:489267
 adafruit/adafruit-bluefruit-le-desktop: master:d601794ba56041afc49df64014fea93ad1406933;|none
 adafruit/io-swagger-templates: master:1eb516b553057f9a7eae1cc409541621fe9b95af;|none|SIZE:6507
