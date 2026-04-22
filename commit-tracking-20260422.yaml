@@ -2571,3 +2571,4 @@ adafruit/Adafruit_LTR329_LTR303: main:5c001574c5699a9e42775682e3a1766433ea2923;g
 adafruit/Adafruit_CircuitPython_ENS160: main:27616d6c76a2a5a7d36fd0e81da90c5b5db24060;|2026-03-27T18:58:08Z|SIZE:20593
 adafruit/Adafruit_CircuitPython_PCF8575: main:c8ac3abf7212821ed01f7cd9edee077a8be062d2;|2026-03-27T19:02:40Z|SIZE:19817
 adafruit/Adafruit_CircuitPython_BLE_Beacon: main:56cb6030dc8d461f360c3e38642a5581fe698153;|2026-03-27T19:08:00Z|SIZE:18967
+adafruit/Adafruit_Pinguin: main:38fb0288cba03f763e727c85ab6593e5da3acedb;|none|SIZE:5704239
