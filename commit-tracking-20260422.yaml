@@ -2221,3 +2221,4 @@ rednblkx/jsoncons: master:0674bb8d3fb63c02eee35da378727c38dbf0a477;|none|SIZE:91
 rednblkx/libsodium-esphome: main:4fd1d10337efc0a9d943bfd43f6c1073382b9c4f;|none|SIZE:2906
 rednblkx/linux: master:1707c39ae309bf91965aa6f04d63816a090d90a1;|none|SIZE:137683768
 rednblkx/loggable-espidf: main:aa233315fce551fe4963624c993d40a8c6cedac9;|none|SIZE:4003
+rednblkx/loggable-thing: main:7c9e6e642f5e3e27dd3cbf31a844a2ccda7b709a;|none|SIZE:12635
