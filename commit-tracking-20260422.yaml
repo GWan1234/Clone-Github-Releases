@@ -2608,3 +2608,4 @@ adafruit/Adafruit-PiCowbell-Adalogger-PCB: main:667876fdbc1bf1bf7e68f5d9e240d109
 adafruit/web-firmware-installer-js: main:1b33db1faef89afcf2c52966f65fc2facad6b07f;|2026-03-20T05:31:03Z|SIZE:100756
 adafruit/Adafruit_IntelliKeys: update-doc:4e6de65b072192fdcfcf151e97369300addf3856;main:afd23a892c4b3e187de99fdf2c738f058d11ea3b;|2024-11-12T17:31:54Z|SIZE:264304
 adafruit/cookiecutter-adafruit-arduino: main:66a16eac492106c9e8091f9c2b588a8dee068a3f;|none|SIZE:3767
+adafruit/Adafruit_MCP2515: main:f283438d8021440568b3f2a8e49eccc781ff3473;gh-pages:f189f86b7685b640c67c99e1995c86afc8f3f3cd;|2023-08-11T10:47:35Z|SIZE:83225
