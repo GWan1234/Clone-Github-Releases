@@ -5566,7 +5566,7 @@ adafruit/Adafruit_CircuitPython_MAX44009: main:dcfaec94bf12a1311ba5787ae66ac3d07
 adafruit/onekey-keyboard: main:c040ea9ac41e4a643c6cfc5af647fe546a85fdbd;|none|SIZE:6881
 adafruit/esp-perfetto-logic: main:c367aaa3d04960a18a655032b512b94133956db6;|none|SIZE:37851
 adafruit/kicad-libraries: main:4566d23229fdfdfec37caaf610f36d72b7de864a;|none|SIZE:38856246
-sonocotta/attiny-candle: master:4eb1a50d85c7a7e7a0a20da7cdc6d748363ffc3a;features/tiny-painter:3db7530265bf922db0e148f93d329c5512f6dc02;|none|SIZE:227248604
+sonocotta/attiny-candle: master:4eb1a50d85c7a7e7a0a20da7cdc6d748363ffc3a;features/tiny-painter:3db7530265bf922db0e148f93d329c5512f6dc02;|none|SIZE:227248605
 sonocotta/attiny-flasher: master:e220ee7f8602ab577218dc025096c98ebfe94d61;features/sync-fork-changes:b497b9313cf164c4a5a9855d335848fc92e73c55;|none|SIZE:25157180
 sonocotta/attiny1616-dev-board: main:352e5beb1ee896f236b29e0d347c5a2898ca2fb2;|none|SIZE:152242
 sonocotta/esp-adf: release/v2.4:6381a4413ca6eadf41853b4e596d85d89b63e677;master:a535ca9d6960543dc9cd523e6593a6f0b70b88fc;|none|SIZE:111497724
