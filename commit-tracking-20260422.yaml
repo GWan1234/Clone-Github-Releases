@@ -1672,3 +1672,4 @@ adafruit/Adafruit-MS8607-PCB: main:56dfd5af979fb63cff98ebcfe2170644b4439430;|non
 adafruit/Adafruit_CircuitPython_BNO08x: unbatch_reports:12b22937b70b3e750d05b173953b0d98ce3f2a9d;uart:fbfff2156a302a011e374caf59749c1c26f880ca;spi_refactor:338f68d8b37a2a1c96d9711b5d31966f399f2d36;shake_tuning:454329f8cb32db3ad792c1f55e5325b9a4651a3b;patch-fix:06e9cb20156b1b66c5cbb8ffb473d7a8b4c51cb7;|2026-03-27T18:57:01Z|SIZE:159965
 adafruit/Adafruit-2-13in-eInk-Bonnet-PCB: master:76df16153ef37dc6a620457f3f69457a8bdb660a;|none
 adafruit/Adafruit_CircuitPython_JTAG: main:5b5dea36851d35875de9edec2523eaacf0cae461;|none|SIZE:513384
+adafruit/Adafruit_CircuitPython_MachXO: main:2bbc07b8896bcfc2e1cb78a1207d0438a1df4af7;|none|SIZE:24293
