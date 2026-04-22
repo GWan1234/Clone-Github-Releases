@@ -1825,3 +1825,4 @@ adafruit/Adafruit-NeoKey-CHOC-Breakout-PCB: main:bd122a0f123f57fcc9778dbe4175bc8
 adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB: main:aaaae6964cf56ddb17c5ab11a15566573e1a4cb7;|none
 adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: main:408fa9a40c0a01a3a65497ef42a29e0b08fe711e;|none
 adafruit/Adafruit-TRRS-Jack-Breakout-PCB: main:d6d4fe70bc727056076c4603e90112b8b1c6d006;|none
+adafruit/Adafruit-I2S-Amplifier-BFF-PCB: main:fe191f0585be438605feca267afa38fe587e57f4;|none
