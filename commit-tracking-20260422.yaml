@@ -2017,3 +2017,4 @@ adafruit/umac: soundemu:431e905354e975cd942eb4c1c5ea5a39237691ab;resolution-exte
 adafruit/pico-extras: pico2-dma-pio:8606fb88057873154f9b6f98a3e52e233cd988d9;master:f05d4f7371802440cadd36744789a26944d950ac;|none|SIZE:184666
 adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB: main:4456a62a418b1a25ce2500ce0335ab6fe1eceacf;|none
 adafruit/circuitpython-font-generator: main:cffd40601608665c0edb3664a2e8e9c1b7bafd68;|none|SIZE:2848690
+adafruit/Adafruit_Wippersnapper_Offline_Configurator: xiao-breakout-backup:275f2ad231bcaa14f60903031495f1a1848eaac5;xiao-breakout:59234454130c556013d9149ef0d2ce01b0c7ef62;web-native-usb:679848a9ff97095c71803f491be6c1ad3abe8f6f;use_boards_sd_card:97b00309957a8a0aa33c1716c02ef83d5612bff4;sleep-mode:7bd9d0db26099a81dc6ec6745cff3e55a45d8f00;|none|SIZE:346588
