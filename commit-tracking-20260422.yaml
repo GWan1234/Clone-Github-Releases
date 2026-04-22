@@ -66,3 +66,4 @@ cockpit-project/cockpit-machines: rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f28
 cockpit-project/cockpit-machines-weblate: main:5b979a8115d9c2ede70aae89e15a0ec1bf780205;|none
 cockpit-project/node-cache: main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;|none
 cockpit-project/pixel-test-reference: master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;|none
+cockpit-project/cockpit-cloud: main:c2896dc1654fd92f9d3f0dd790fa340e30d8accf;builder-container:f6ead712496f6d619e132f0b647e56eb83bbff1f;|none
