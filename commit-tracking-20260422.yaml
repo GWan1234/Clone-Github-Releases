@@ -868,7 +868,7 @@ adafruit/Adafruit-MiniPOV4-Kit: master:067ae4dcad3fcc97ba4ef02da5cda2650d8b921f;
 adafruit/Adafruit-MAX9744-Amplifier-PCB: master:8df09f97bcc66b78a54ca049957f7637fdd513c0;|none
 adafruit/Adafruit-MAX31850-thermocouple-breakout-board: master:759ee92d8dd940d14ad418e81016b3e25eb1a581;|none
 adafruit/Adafruit-RA8875-Breakout-Board-PCB: master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e;|none|SIZE:428050
-adafruit/TeeOnArdu: master:29ad8742eaa81aa76ed1c73be77ef67e4432db83;30pins:5946367beec54ac208f16840dfca701a66502225;|none|SIZE:224987
+adafruit/TeeOnArdu: master:29ad8742eaa81aa76ed1c73be77ef67e4432db83;30pins:5946367beec54ac208f16840dfca701a66502225;|none|SIZE:224988
 adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB: master:e3f77c8c186fbdbadf4f33629ca83cec93f3f731;|none
 adafruit/Adafruit-Bluefruit-Classic-PCBs: master:5967ea1c635cca5b95b06fb4927643782f446c64;|none
 adafruit/Adafruit-BMP180-PCB: master:b47479ee8a43e5b217078e9e3b3a166479a68f7e;|none
