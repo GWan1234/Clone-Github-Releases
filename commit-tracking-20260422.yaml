@@ -2527,3 +2527,4 @@ adafruit/fluxengine: wybren1971-master:4ad6805ea1a8f55e2f8951b0f92809e5998e92cd;
 adafruit/LCDDisplay10_Arduino: main:ff0983a2bba51089c576ca786068d745309a1a28;|none|SIZE:3220
 adafruit/stm32f4xx_hal_driver: master:abb4cd6a27ce4b95dd76d262a13d0e2c688b1f10;|none|SIZE:910500
 adafruit/Adafruit_MSA311_PCB: main:a4a29e76941999057e062a5255594cabc4eba0ca;|none|SIZE:1091430
+adafruit/Adafruit_CircuitPython_HTTPServer: reuseaddr:2fd62996ece966d9fd2c14c9fa06dc9aadb903b2;main:d55c6f54aba54df9b0e0b9d83ddf7fca46eea5e4;|2026-03-27T19:10:08Z|SIZE:102071
