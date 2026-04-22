@@ -760,7 +760,7 @@ adafruit/Adafruit-Analog-Accelerometers-PCBs: master:1cfa246270a750b416d54a9c9b4
 adafruit/ADS1X15-Breakout-Board-PCBs: master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55;|none|SIZE:1478873
 adafruit/piccolo: master:aeda8407684dbc44b845cf845289d02abb0ffb27;|none|SIZE:16719
 adafruit/USB-NeXT-Keyboard: master:332d2707793794d897ae3548a2eedd726c46e329;|none|SIZE:8105
-adafruit/Adafruit_OV7670: pb-wip2:f45f4c1fab2c9e3dba3922a7a060a62bdc84cb95;pb-rp2040:55ba6d25da1741a747c98c352b0574a91acd9ffb;old:578a20e1d2572fd339a364b20daf86b593c91b3c;master:f40dae2304282b88f5816a64883f9aad296ad24a;gh-pages:d13cddc453b045beb54873169a0416c713fb5859;|2026-03-03T14:48:43Z|SIZE:395452
+adafruit/Adafruit_OV7670: pb-wip2:f45f4c1fab2c9e3dba3922a7a060a62bdc84cb95;pb-rp2040:55ba6d25da1741a747c98c352b0574a91acd9ffb;old:578a20e1d2572fd339a364b20daf86b593c91b3c;master:f40dae2304282b88f5816a64883f9aad296ad24a;gh-pages:d13cddc453b045beb54873169a0416c713fb5859;|2026-03-03T14:48:43Z|SIZE:395455
 adafruit/Adafruit-BMP085-PCB: master:907e8f1b10be21946501d4489de2c388cc4a8455;|none
 adafruit/Adafruit_NeoPixel: rp2350_fixes:c2e104673660f765f7c8ff997e7a858a11766e87;nrf-nonblocking:7781223f6d44621fec8ac3c84620a71113287731;master:fab349658b6a19df622f642342c0ff797940759e;marcmerlin-master:8efb43165274be95c25295ba7b3698285a6a082b;gh-pages:e94d83dba9011f7933db85311725530cee946bcf;|2026-02-11T17:55:35Z|SIZE:295188
 adafruit/Flora-TV-B-Gone: master:f5e14320153824048f497d97ec716595a9e3f707;|none|SIZE:17805
