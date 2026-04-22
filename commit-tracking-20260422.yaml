@@ -1034,7 +1034,7 @@ adafruit/Adafruit_BluefruitLE_OSX: master:f71eb6e981885d70830cb6087ac46386662249
 adafruit/xcarve-server: master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6;|none|SIZE:9621
 adafruit/Adafruit-PowerBoost-1000C: master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65;|none|SIZE:744740
 adafruit/xcarve-proxy: master:83cdba78067629063f6158d665baaee8380ccde8;|none|SIZE:2586
-adafruit/Adafruit_DotStarMatrix: master:14f09e427d72f74581f07775652bedf2828f46e6;gh-pages:b2cf28e0ba7797f39fc4ddec8b155190cbcae08e;actionci:af97b82f2bc07283ecf7696ec9dd229d0170d832;|2024-06-18T12:07:41Z|SIZE:133170
+adafruit/Adafruit_DotStarMatrix: master:14f09e427d72f74581f07775652bedf2828f46e6;gh-pages:b2cf28e0ba7797f39fc4ddec8b155190cbcae08e;actionci:af97b82f2bc07283ecf7696ec9dd229d0170d832;|2024-06-18T12:07:41Z|SIZE:133171
 adafruit/adafruit-io-node-tunnel: master:6c36968af4738995c80447055d87eb3320c5e4b4;|none
 adafruit/Adafruit_WICED_Arduino: win32_binaries:ce8c5b86016d9695962db976cc92291293e41a2a;master:33c7c9efe9208bd9d7d7ff40bb39219d01b920a3;development:67530d098f95f05952a056644a0b53ff3886118b;|2017-08-03T09:42:58Z|SIZE:28817784
 adafruit/Adafruit-MPR121-PCB: master:d1e18d5ea07d596006c414746e8c1ac4c8230e1f;|none
