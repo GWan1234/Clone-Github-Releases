@@ -5512,7 +5512,7 @@ adafruit/Adafruit_CircuitPython_UC8179: main:146a2243c560f1142b5e376905a37d7fc43
 adafruit/Adafruit_CircuitPython_UC8253: main:f83d7a15b9a5d0c99dac62b4d7931ad057d5796b;|2026-03-27T19:06:02Z|SIZE:23644
 adafruit/Adafruit-QMC5883P-Triple-Axis-Magnetometer-PCB: main:e99e587a0e0e38b1deaf081639ec0116de6006aa;|none|SIZE:1283079
 adafruit/Adafruit_CircuitPython_SSD1683: main:d44617b341b2be959b4fff657040858634692867;|2026-03-27T19:04:41Z|SIZE:24126
-adafruit/Adafruit_CircuitPython_QMC5883P: main:a56bae9f72544567f4d636e74b7b7c55c5c0cabc;|2026-03-27T19:03:02Z|SIZE:20169
+adafruit/Adafruit_CircuitPython_QMC5883P: main:a56bae9f72544567f4d636e74b7b7c55c5c0cabc;|2026-03-27T19:03:02Z|SIZE:20170
 adafruit/fruitjam-doom: rp2:29a453c980918a03e40fc8b69b024e7a3bdb5dc2;adafruit-fruitjam:f2ded0b71ae6419f47ea7907a03f5b3dc503a0b3;|none|SIZE:6463662
 adafruit/Adafruit_VEML6046: main:25677023f3d87a8379124711218337e86e07ee6b;gh-pages:bf063635db056f4049b131e0fe91fc18a60759d6;|2025-08-19T15:59:53Z|SIZE:96841
 adafruit/Adafruit_TCS3430: main:62190e5d7e6faa7ee8177417cb4f3af63a6a9398;gh-pages:55d8609d5fcd474b90ada68165dd9b9c6d9b2cb8;|2026-03-11T17:56:03Z|SIZE:115566
