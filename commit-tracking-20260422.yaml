@@ -2145,3 +2145,4 @@ adafruit/pyserial-pyusb: main:e21f31f5e62c98398333047158e894d4a3d7a7da;|2026-04-
 adafruit/Adafruit_CircuitPython_MAX44009: main:dcfaec94bf12a1311ba5787ae66ac3d079abec85;|2026-04-14T13:32:19Z|SIZE:26855
 adafruit/onekey-keyboard: main:c040ea9ac41e4a643c6cfc5af647fe546a85fdbd;|none|SIZE:6881
 adafruit/esp-perfetto-logic: main:c367aaa3d04960a18a655032b512b94133956db6;|none|SIZE:37851
+adafruit/kicad-libraries: main:4566d23229fdfdfec37caaf610f36d72b7de864a;|none|SIZE:38856247
