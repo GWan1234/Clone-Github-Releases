@@ -1522,3 +1522,4 @@ adafruit/Adafruit-TFT-Gizmo-PCB: master:dc9a7479381c01421a630a93f891c7142f4dfde0
 adafruit/Adafruit-STEMMA-Speaker-PCB: master:2f4a20b1411e8ead3160e6e89889f20311b248a1;|none
 adafruit/Adafruit_CircuitPython_LSM303_Accel: main:cca2ec72e8798dae15e1f79c378edc002811b9e3;|2026-03-27T19:00:15Z|SIZE:21131
 adafruit/Adafruit_CircuitPython_LSM303DLH_Mag: main:76eee384d64591b8f740c94caf5882be92fee530;dhalbert-ustruct:7768d220e5cc55007b54fc7ff491c34867b77a5a;|2026-03-27T19:00:18Z|SIZE:42912
+adafruit/Adafruit_TinyUSB_ArduinoCore: update-tinyusb:b18a1eb3024526a2d8bd7d29fbaa4a87474b06c1;master:68b4323a7d6c82fe3fa940e004ea690dc8b57762;|none|SIZE:289420
