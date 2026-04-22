@@ -504,3 +504,4 @@ obsproject/cef: on-accelerated-paint2:7144c114c031bdc53ce1af3825f1c7d5c28d7bb6;m
 obsproject/bouf: only-prepare-relevant-files:d86b102e2109e2bce71ec0b9fd757bdae43a6ad0;master:8d914e28148be7229e399dbbf291feff58f43be2;fix-bsdiff:d31b66d8c3cc5a5cc091aeda1092fae7889798d4;dependabot/cargo/winreg-0.56.0:5044a8adae907ba62a04db7f1f6cae07d1ce675f;dependabot/cargo/toml-1.1.2:16b7ef4b5624f92e5929545f7ef1ee42929b285b;|2025-03-05T21:20:14Z
 obsproject/homebrew-tools: main:09ec2f00762cc74adf94fb3a2b55391e90893ac6;|2026-01-08T21:35:36Z
 obsproject/design: profiler:4596953019176f09bbef88351f620b9c8ae9a2c6;main:6a7639840dc6d88546da127c18374541b3fadfa2;|none
+obsproject/obs-deps-buildstream: master:51e02e25a2c113ba259e928e2c58a9e919ff6fff;automated/update-fsdk:de346d9a575dfaa41b1d25f05ec310d5882b2b21;|2026-01-09T15:42:43Z
