@@ -1138,7 +1138,7 @@ adafruit/Adafruit_TinyCAP1188: master:da7346e9c4b491349d7f9ed82952703a89ee4082;|
 adafruit/Adafruit-VEML6070-PCB: master:3dd13922832c37869195787b3112429c482605c8;|none
 adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB: master:b2e0b3f2930568da3471d6c42cb4919d573d3481;|none
 adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB: master:1b15a4f782c555903c0cfd7174d0616d2e128887;|none
-adafruit/Adafruit_Mynewt: nrf51:11cf962447c83e47fca7c097dd37fd933b999dbe;master:3fbe5b011feacd11661cce2840e709929282217e;develop:1729a5a96725c7bb9e4ca49781a829955d8fb9d1;|2017-08-19T11:28:12Z|SIZE:11835938
+adafruit/Adafruit_Mynewt: nrf51:11cf962447c83e47fca7c097dd37fd933b999dbe;master:3fbe5b011feacd11661cce2840e709929282217e;develop:1729a5a96725c7bb9e4ca49781a829955d8fb9d1;|2017-08-19T11:28:12Z|SIZE:11835939
 adafruit/node_mpr121: master:3730f618dd343af339218f89183ab621542f9758;|none|SIZE:3502
 adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB: master:536d39c0d90da3ef5916985afb3ce4178c219206;|none
 adafruit/Adafruit-PiTFT-3.5-Plus-PCB: master:c0683a0be53799e4b8360780cd641cd8a3f13282;|none|SIZE:1252218
