@@ -1961,3 +1961,4 @@ adafruit/Adafruit-Reversible-USB-Type-A-Plug-Connector-Breakout-PCB: main:61c86c
 adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: main:63c6200bb3ef17d491089cfa6441b1810d79bb20;|none
 adafruit/Adafruit-ESP32-C6-Feather-PCB: main:7376e394a3a889550e0092d7dbe3bea453b309b3;|none
 adafruit/Adafruit-FPC-Breakout-PCB: main:78b551a2118c356b7c2f6ffc1eb3b41b45943fb4;|none
+adafruit/Ask_An_Engineer: main:9c2526f080f4a1628c78124e0e36b328125f17e6;|none|SIZE:42348
