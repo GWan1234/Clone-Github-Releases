@@ -1189,3 +1189,4 @@ adafruit/Adafruit-LM4040-Voltage-Reference-PCB: master:b6f5163e6dd82882ff37e80a0
 adafruit/CatLaser2: master:0c17e68a444e7ccd2befccd8102861135d9da243;|none|SIZE:193898
 adafruit/ArduinoTap: master:ea20afb99dad4c814f0f7a8242f4de94dc7d136d;|none|SIZE:6765
 adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB: master:5c021a4e2553110bd933c4f5083aa2298960f2df;|none
+adafruit/Adafruit-PowerBoost-500-Shield-PCB: master:c6799eecacb8f7873f7a9418e8f4b1bad8a7554d;|none|SIZE:390190
