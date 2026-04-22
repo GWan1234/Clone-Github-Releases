@@ -2029,3 +2029,4 @@ adafruit/Adafruit_CircuitPython_USB_Host_Mouse: main:a4a9f58c9fcac92a39bde42b762
 adafruit/Adafruit_OPT4048: oembed:97ad03a64633a6b27d001949810cb44f4748f9b6;main:113c191ffb7c899a0921179579046e994948e452;gh-pages:649eeb7d84900369987cf17a60a404bd792300dd;|2025-07-29T10:36:39Z|SIZE:145409
 adafruit/Adafruit_CircuitPython_MIDI_Parser: main:42e3b16866193e25d59deb3fa1004c446db1d3e1;|2026-03-27T19:10:53Z|SIZE:23211
 adafruit/Adafruit_INA237_INA238: main:b02845ec43143c4c601e98879721dc48725fb3cc;gh-pages:f71907bb2f785905f4a6d9c4e3cf60d2a5c9bf9a;|2025-12-17T00:44:07Z|SIZE:98161
+adafruit/Adafruit-Sparkle-Motion-Stick-PCB: main:5a2fd7a7e1ae0e15677335af38f3ba7fcb5a308f;|none
