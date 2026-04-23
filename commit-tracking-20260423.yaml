@@ -557,3 +557,4 @@ adafruit/zj-58: BRANCHES:[master:603f034e125305c464bab170b7144e446a193f0d;]|RELE
 adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: BRANCHES:[master:b5c7edd20f00010be64d25145d6ee1dacd28b083;]|RELEASE:[none|none]
 adafruit/Adafruit-Adalogger-FeatherWing-PCB: BRANCHES:[master:28ea68d9ffa6d51690195bf295ecfa656ab45f18;]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-808-Breakout-PCB: BRANCHES:[master:da32ad54c3895f2b397a972f241e2013f246f7c4;]|RELEASE:[none|none]
+adafruit/aedes-persistence-redis: BRANCHES:[master:76a4f91b4261f3e5a494725a842edb4137120ddb;]|RELEASE:[none|none]
