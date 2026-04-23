@@ -804,3 +804,4 @@ adafruit/STEMMA_LiquidCrystal: BRANCHES:[master:b91a554ae98a61674beeb8170b5b9dea
 adafruit/Adafruit_CircuitPython_MAX7219: BRANCHES:[main:5d8886d02356f596396e6f49ef58df2f12a2d5be;patch-fix:9aa2985fbb5cb40553ed25eb5600493479513381;Tasm-Devil-master:c8f87f0222a3714b08046897ec0415ac17162ea4;]|RELEASE:[1.5.20|none]
 adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB: BRANCHES:[master:7a19d15939cb776f1931c3b4b38ac35509f06bd3;]|RELEASE:[none|none]
 adafruit/Adafruit_DAP: BRANCHES:[master:8ca356d92e73d0d1005534030849e7ca37324805;actionci:8860fa39c165541ac26a116529589d0c77cac675;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124;]|RELEASE:[1.8.3|none]
+adafruit/Adafruit-Trinket-M0-PCB: BRANCHES:[master:4103b9cd2722fadc28dc3969bbe067c6873e0540;]|RELEASE:[none|none]
