@@ -818,3 +818,4 @@ adafruit/Bluefruit-Swift-Playground-Book: BRANCHES:[master:c7fdfa98580203546c449
 adafruit/Adafruit_CircuitPython_DHT: BRANCHES:[main:d4279a9a19913c51c4372cc9101f3b6b049b1da9;fix_rtd_theme:7e91a4bb226367d050c7a4751a5982645c770a27;dev/fix-pylint-jquery:e32bad46a3bfafe9ecc1ba4f59f21c049a098758;REUSE:8d393f32b8530b05514b6c1fa8705aeccd352d8f;pulseio-fix:a515f920f5c187c04f9e2fb4deb299c53dcb5218;libgpio_pulsein:8c7a6c9ed14ab76540d1e8c69e822132eb33344b;]|RELEASE:[4.0.11|none]
 adafruit/Adafruit-PiGRRL-PCB: BRANCHES:[master:2d2e6ea5e7ed23f049389dab598643fbaf242440;]|RELEASE:[none|none]
 adafruit/Adafruit_Learning_System_Guides: BRANCHES:[folder-images:bf11cd73581fec48459856cfa7dc7aec41435ff2;main:cfc2a26007c9f6b9046e95cd24b7e22d15c06859;]|RELEASE:[20260423|none]
+adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f756714c5385a355e00b80270;]|RELEASE:[none|none]
