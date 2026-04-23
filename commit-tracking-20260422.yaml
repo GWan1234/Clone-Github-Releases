@@ -932,7 +932,7 @@ adafruit/Adafruit_DotStar_Pi: master:5477937908f2cb4dc2d6cdc04c1ffb0213326dc3;|n
 adafruit/Adafruit_BLESniffer_Python: master:36a0ac3eb9f287af524575bfedd3dab0be018741;|none
 adafruit/Adafruit_BluefruitLE_Firmware: release-0.9.0:9e419abe6f80969ad6784f63414a619b37715530;release-0.9.0-beta:a828e1bff040f2296a57883abba9c23ab7004d4b;master:43ee08402fe8d08c079401a5e0b0a97d594daca1;|none
 adafruit/4-Channel-Level-Shifter-PCB: master:a2bfd3a94ed87bce64bd2230732cc06198c33c06;|none
-adafruit/Adafruit_DRV2605_Library: master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d;|2023-11-15T15:17:34Z|SIZE:106346
+adafruit/Adafruit_DRV2605_Library: master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d;|2023-11-15T15:17:34Z|SIZE:106345
 adafruit/adafruit-io-node: req-sig:e1f26c365aa8d91a35b8e578d629d5e1e163d8aa;master:8c117eebf66b8396f40ebeb19c1477113e78fbb3;homekit:fb7303eacb301cb11b78ddfe4636d9e347bae514;api_v2:3623b7335e5e9fde3406308534a037ec31ede961;|none
 adafruit/Adafruit-MPL3115A2-PCB: master:c57b3e05fa7907f850a4f0af6fb211ae9c831847;|none
 adafruit/rpi-rgb-led-matrix: master:8c8af1cc135a767d7cb58be2604bb0846670db99;|none|SIZE:1644412
