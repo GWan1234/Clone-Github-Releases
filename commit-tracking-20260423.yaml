@@ -712,3 +712,4 @@ adafruit/Adafruit_CircuitPython_RGB_Display: BRANCHES:[main:f12141fc0880fdd4b2ad
 adafruit/Adafruit_FXOS8700: BRANCHES:[master:03d807192e5a731f0298143ab20ebcc42e8bb7ba;gh-pages:eaa4494bd66dd2be8caed7809184751c274d691f;actionsci:9e9a9cdbfb040e6309c3d3821524451c84d8d002;fix-timestamp-hardfault:6ad3cf50b4da523362ebbfd170b1a5240e9fca45;]|RELEASE:[2.2.2|none]
 adafruit/Adafruit-Music-Maker-FeatherWing-PCB: BRANCHES:[master:8721087a4720070e3c38f449119976e4316446ef;]|RELEASE:[none|none]
 adafruit/MicroPython_TravisCI_Deploy: BRANCHES:[master:307afb12fd1112dcd0395f38f0aaa55819876e8f;]|RELEASE:[none|none]
+adafruit/Adafruit-CP2104-Friend-PCB: BRANCHES:[master:4684fff897c221bcf2539f7125dbf4c11cbf1564;]|RELEASE:[none|none]
