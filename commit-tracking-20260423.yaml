@@ -12,3 +12,4 @@ cockpit-project/cockpit-podman: BRANCHES:[]|RELEASE:[125|4d67fc3ddeda30dcbe96503
 cockpit-project/bots: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-podman-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpit-ostree-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
