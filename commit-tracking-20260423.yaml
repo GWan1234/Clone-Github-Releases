@@ -894,3 +894,4 @@ adafruit/Adafruit_nRF52_Bootloader: BRANCHES:[master:48a149ffcb2e092051d1169f443
 adafruit/Adafruit_CircuitPython_MCP4725: BRANCHES:[main:b9f326e5787a8e43851d41989588d184ff91c337;]|RELEASE:[1.4.20|none]
 adafruit/Adafruit_CircuitPython_MAX9744: BRANCHES:[main:1daf6bddfab95356e171a2627a073b2531eb550b;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit_CircuitPython_TLC59711: BRANCHES:[main:0fd102b3b102674cc1d530a5632896b1a6756de9;]|RELEASE:[2.0.19|none]
+adafruit/Adafruit_CircuitPython_SHT31D: BRANCHES:[main:89d5633b6d00404b80c11a3679cbf19c147c582d;]|RELEASE:[2.3.30|none]
