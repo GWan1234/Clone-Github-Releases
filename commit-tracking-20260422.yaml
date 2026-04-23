@@ -1343,7 +1343,7 @@ adafruit/usb_descriptor: master:d687dc3f03dacaf0750db65562fd43aad79b8a9a;dynamic
 adafruit/Adafruit-SAMD09-Breakout-PCB: master:96a45c25123ad9d083f19f33c68cff4817065014;|none
 adafruit/Adafruit_CircuitPython_VS1053: main:b1f4a3dffffd398ba559df80a4c9d3f6821bf9cf;|2026-03-27T19:06:48Z|SIZE:21223
 adafruit/Adafruit_CircuitPython_VC0706: require_pyserial:af0c0d93c9766befa3467a65e1d4646390146658;main:b5ae07656ee2cf8bb45e472ea1f2e338667b7e08;|2026-03-27T19:06:07Z|SIZE:39414
-adafruit/Adafruit_CircuitPython_ADS1x15: main:56a4e2aa21a992d4fa669cabc0fbf057911fc699;|2026-03-27T18:55:44Z|SIZE:23206
+adafruit/Adafruit_CircuitPython_ADS1x15: main:56a4e2aa21a992d4fa669cabc0fbf057911fc699;|2026-03-27T18:55:44Z|SIZE:23207
 adafruit/Adafruit_CircuitPython_GPS: patch:b1e5ec0e7584808e6fcaf63493a366490ed92005;main:532170ba274225a2b7dadd2a540c13d9bdc95b2e;fix_rtd_theme:337fafd28390df772bce52df5148be1120a625d4;docs_req_fixes:e7b04f733fb88b8d135eae599a7301e52acc59f2;|2026-03-27T18:58:43Z|SIZE:140252
 adafruit/Adafruit-BME680-PCB: master:2d1e857d88c157422347d2568fdfcd76155c1997;|none
 adafruit/Adafruit_SGP30: master:b4a631b1d75996a4dc2b1dda07e02a8529365d33;gh-pages:aa4f6b6c8c78125a86b0240afa0c8ba192c32eb0;busio:4ead0f0d09dbd7d169f4a8a594dc5e4cbc3eff31;actionci:2fddc64b7d8e8c833d160bd23592f636f0d44b04;|2024-02-06T18:19:00Z|SIZE:1202183
