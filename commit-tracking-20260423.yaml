@@ -28,3 +28,4 @@ cockpit-project/cockpit-files: BRANCHES:[]|RELEASE:[40|29c76da906008871334bf9b34
 cockpit-project/cockpit-files-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/.github: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-docs: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/subscription-manager-cockpit-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
