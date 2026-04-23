@@ -4,7 +4,7 @@ cockpit-project/cockpit: BRANCHES:[main:f6024a7d3cab0889eea23b453e0fbff9479ff083
 cockpit-project/cockpit-design: BRANCHES:[main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;]|RELEASE:[none|none]
 cockpit-project/hubbot: BRANCHES:[master:fd89610f8b7909874577ce5755c74eab24b08f99;]|RELEASE:[none|none]
 cockpit-project/cockpituous: BRANCHES:[main:e3b32b348fb7da6f36329630d2f9e4056a0a6b8d;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;]|RELEASE:[none|none]
-cockpit-project/term.js: BRANCHES:[mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;master:df24a161e45f461488ba773237a96faa4c82f1eb;]|RELEASE:[none|none]|SIZE:0GB
+cockpit-project/term.js: BRANCHES:[master:df24a161e45f461488ba773237a96faa4c82f1eb;mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;]|RELEASE:[none|none]
 cockpit-project/starter-kit: BRANCHES:[main:15c135ce09fb423d0132184333af42adbab80f23;dependabot/npm_and_yarn/types-f57dc2645f:58c2afb6b84022a8d8db5b1464671c66daef6116;cockpit-lib-update-cockpit-lib-20260423-044123:42efc0266436bf904f8d28f303f53d65c463d82d;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/registry-image-widgets: BRANCHES:[master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpit-ostree: BRANCHES:[main:28bbd58e151c82512b63c2d32bf4f9cc7696521d;cockpit-lib-update-cockpit-lib-20260423-044319:bc17f30968671ec74e3f2ec1f0fd89938ac48530;]|RELEASE:[224|e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10]|SIZE:0GB
