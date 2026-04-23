@@ -113,3 +113,4 @@ adafruit/SpokePOV: BRANCHES:[master:0e97b586be428beb6c0f9c1edffdf9d42cf6d9cd;]|R
 adafruit/Standalone-Arduino-AVR-ISP-programmer: BRANCHES:[master:46ff5e404afaeef1763f65b4128de66ac2281865;]|RELEASE:[none|none]
 adafruit/OSHW-Embroidered-Badge: BRANCHES:[master:c56eb77a749bccf14f1ff3d91104e3b7c6ee2ecd;]|RELEASE:[none|none]
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c;]|RELEASE:[none|none]
+adafruit/Adafruit_SPIFlash: BRANCHES:[master:910c72df68ad5938292d2163398a2888be85a701;tyeth-patch-1:f06446556a08b24fed5548fc042411330c41e1a4;gh-pages:741d1e3151f12f209205536af17f56cf65997872;]|RELEASE:[5.1.1|none]
