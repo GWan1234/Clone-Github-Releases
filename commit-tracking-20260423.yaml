@@ -200,3 +200,4 @@ adafruit/Adafruit_SensorTester: BRANCHES:[master:1efa4ab7d511b2a20f8d5ff8b9c8df5
 adafruit/Python-Thermal-Printer: BRANCHES:[master:678e13ae918deadf2b350b3f866a21de6ff1ad6d;]|RELEASE:[none|none]
 adafruit/Adafruit_TSL2561: BRANCHES:[master:bf2adc60e22a46356d48755931852d2d6d0d2238;gh-pages:6665a283eab0fb2c234d443b494897a1d293b46a;actionci:f882164c9b291e5937d6d815e6071ed538aa9716;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_LSM303DLHC: BRANCHES:[master:ccc4e70113460333a70926e08150d2d13a32c35b;gh-pages:3908872a08cc26aca7127ad2804af119efa89eb8;]|RELEASE:[1.0.4|none]
+adafruit/Flora-Brakelight-Backpack: BRANCHES:[master:8f6ed6e5dd51cb952dad99b5e27b60949b299634;]|RELEASE:[none|none]
