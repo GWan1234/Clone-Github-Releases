@@ -706,3 +706,4 @@ adafruit/Adafruit_CircuitPython_BusDevice: BRANCHES:[main:d4b283c85b7b2043eb0d09
 adafruit/Adafruit_FXAS21002C: BRANCHES:[master:6781653dbad1973d1319ef792f843b312f0848e6;gh-pages:39f2c241a5886a9632eaacecdd08228d69d0133b;actionsci:e97de3ca0e6a74eda200b169873ae4b9138fe0ed;]|RELEASE:[2.2.3|none]
 adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB: BRANCHES:[master:7ba780f5f5c00274d3eeb395f444534189f13a0d;]|RELEASE:[none|none]
 adafruit/BLE-Black-Robot-Rover: BRANCHES:[master:44ae68af66a2a68945bf9457e7883fe920cee7bc;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_SimpleIO: BRANCHES:[main:b024e7276cf3796dddcced3cbe438195d310661b;tone:c16eca829fe2288dd4e0249dd660c59b5631858c;servo:992c3b7b92d43fefc04f68dd46323b0a017dd20d;_map:cd15d89aface4f867c4b90b49535730ee5c5e5df;map:f213e1ba42e6de9bc59c64308dd05a38b5315d57;pulseio:f213e1ba42e6de9bc59c64308dd05a38b5315d57;stepper:f213e1ba42e6de9bc59c64308dd05a38b5315d57;]|RELEASE:[3.0.19|none]
