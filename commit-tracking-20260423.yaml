@@ -3,7 +3,7 @@ cockpit-project/cockpit-project.github.io: BRANCHES:[workflow/verify-links:9ab36
 cockpit-project/cockpit: BRANCHES:[unit-tests-without-cockpit-js:dc961bd47aca1a83695ff7f6c1b8248d2f6fcfdf;tasks-container-update-cockpit-ci-container-20260420-031345:8a31a40274743e8a0414af3c98e802d08671a2f9;subman-1.28-testlib:0b901a3a83a30c48c8b05c0ca41d8e8789582402;rhel-9.8:1ec313892d016210dd44c753bc8705956aade1be;rhel-8:1aff36580434091e7c7954c725b3cf9a53816a6e;rhel-7.9:fb1da1ecc9673698a929f8d9bbb270b47eb7504e;rhel-10.2:9e445cc34bad5c125c1be4315a43ba48ef71c5d4;packit/fallback-repo:907c8480f373511e0e852d4b9167db21f1c51f0b;main:f6024a7d3cab0889eea23b453e0fbff9479ff083;lib/override-readonly-input:a8995d2fbf5e12216012ab5f442cc17c77e9c40e;]|RELEASE:[310.7|1aff36580434091e7c7954c725b3cf9a53816a6e]|SIZE:.05GB
 cockpit-project/cockpit-design: BRANCHES:[main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;]|RELEASE:[none|none]|SIZE:.15GB
 cockpit-project/hubbot: BRANCHES:[master:fd89610f8b7909874577ce5755c74eab24b08f99;]|RELEASE:[none|none]|SIZE:0GB
-cockpit-project/cockpituous: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpituous: BRANCHES:[main:e3b32b348fb7da6f36329630d2f9e4056a0a6b8d;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/term.js: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/starter-kit: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/registry-image-widgets: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
