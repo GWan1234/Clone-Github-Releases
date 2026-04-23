@@ -969,7 +969,7 @@ adafruit/pi_video_looper: pb-bullseye:0fd56c40518acc48645f7370dcb6a7d902d84c97;m
 adafruit/fbtft: master:bcb4de90206842831bd40b20c93aa3e5c9553ea1;|none|SIZE:47577
 adafruit/Adafruit-Music-Maker-MP3-Shield-PCB: master:2a8905dc18227600a303027847bdda5d07dcfe0e;|none
 adafruit/Adafruit-Proto-Shield-PCB: master:d27fa77264402a773efc66d303ae7d9dc6df6621;|none|SIZE:492729
-adafruit/FifteenStep: untz:5e4a4b67cb25c9208429e22647b9594f9640df51;master:32143eca13ba33ae2d3f5c764e881c2be9b2c1e2;gh-pages:41c7369e06e3f70f69097aec3563780f39b75937;actionci:1fcbb1712b8078ba98e3b5786714528eeded3d40;|2019-07-10T17:27:35Z|SIZE:4998684
+adafruit/FifteenStep: untz:5e4a4b67cb25c9208429e22647b9594f9640df51;master:32143eca13ba33ae2d3f5c764e881c2be9b2c1e2;gh-pages:41c7369e06e3f70f69097aec3563780f39b75937;actionci:1fcbb1712b8078ba98e3b5786714528eeded3d40;|2019-07-10T17:27:35Z|SIZE:4998685
 adafruit/Adafruit-NextBus: master:e87decc082bb10867b50d8c500fa9ec62be401eb;|none|SIZE:8311
 adafruit/BLE_Colorific: master:b80af87eaf7551567ba882be85e8ebfdf397f2f7;|none|SIZE:2792
 adafruit/Adafruit-Si4713-PCB: master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f;|none
