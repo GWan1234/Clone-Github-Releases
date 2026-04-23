@@ -780,3 +780,4 @@ adafruit/Adafruit_NeoPixel_ZeroDMA: BRANCHES:[master:608c671a82717f2d4816ce8977c
 adafruit/Adafruit-AMG8833-Breakout-PCB: BRANCHES:[master:3e5dd5f7bc0ed9e6ca07226eaa56b04bbe408489;]|RELEASE:[none|none]
 adafruit/ftdiflash: BRANCHES:[master:242ae956cbfc0652e862db4a381a26dfa275a5e8;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_DotStar: BRANCHES:[main:a12e2ce2046afc1791ca6aa2bdeb33cb97f7def0;pi_bitbang_exception:896a76d4e836e52e7294e2b2f37cbbcebd2f27c1;]|RELEASE:[2.2.20|none]
+adafruit/rosie-ci: BRANCHES:[master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef;]|RELEASE:[none|none]
