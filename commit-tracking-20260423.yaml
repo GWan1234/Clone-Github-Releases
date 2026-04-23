@@ -46,3 +46,4 @@ adafruit/RTClib: BRANCHES:[master:5298434167b770c4602661d682e3b340d565073f;gh-pa
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009;]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6;]|RELEASE:[none|none]
 adafruit/Light-and-Temp-logger: BRANCHES:[master:d615540bfa0b30aa721960312a46d62161b6c2e8;]|RELEASE:[none|none]
+adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac;]|RELEASE:[none|none]
