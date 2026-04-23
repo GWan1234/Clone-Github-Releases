@@ -11,21 +11,12 @@ jobs:
   clean-repo:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete releases and workflows runs
-        uses: ophub/delete-releases-workflows@main
-        with:
-          delete_releases: true
-          releases_keep_latest: 0
-          delete_workflows: true
-          workflows_keep_day: 0
-          gh_token: ${{ secrets.MY_TOKEN }}
-
       - name: Delete releases
         uses: sgpublic/delete-release-action@v1.1
         with:
           # repo: '<owner>/<repoName>' # you can input a another repo here, defaults to current repo
           release-drop: true
-          release-keep-count: 2
+          release-keep-count: -1
           release-drop-tag: true
           pre-release-drop: true
           pre-release-keep-count: -1
@@ -34,6 +25,15 @@ jobs:
           draft-drop-count: -1
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          
+      - name: Delete releases and workflows runs
+        uses: ophub/delete-releases-workflows@main
+        with:
+          delete_releases: true
+          releases_keep_latest: 0
+          delete_workflows: true
+          workflows_keep_day: 0
+          gh_token: ${{ secrets.MY_TOKEN }}
 
       - name: Delete releases Tags
         uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
