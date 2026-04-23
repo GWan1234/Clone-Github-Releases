@@ -770,7 +770,7 @@ adafruit/Adafruit-Flora-Mainboard: master:25cd6a85201cdcfaf87b5cbb872280c4484614
 adafruit/Adafruit-Flora-Ultimate-GPS: master:931c95ded8acbfc410564054b0273b7d0bf2d7b4;|none
 adafruit/Adafruit-Flora-Smart-NeoPixel: master:0e6a7230ea0931884c57d5954533523599c54df7;|none
 adafruit/Adafruit_Sensor: master:0a9127a1e886ff1adb4c1b6f5958b24108d55aa6;gh-pages:c43948cef48d0c8ca15eabf9f3091d49f0c595c6;|2025-01-06T14:56:22Z|SIZE:103606
-adafruit/Adafruit_SensorTester: master:1efa4ab7d511b2a20f8d5ff8b9c8df5985572bc9;|none|SIZE:1240
+adafruit/Adafruit_SensorTester: master:1efa4ab7d511b2a20f8d5ff8b9c8df5985572bc9;|none|SIZE:1241
 adafruit/Python-Thermal-Printer: master:678e13ae918deadf2b350b3f866a21de6ff1ad6d;|none|SIZE:29085
 adafruit/Adafruit_TSL2561: master:bf2adc60e22a46356d48755931852d2d6d0d2238;gh-pages:6665a283eab0fb2c234d443b494897a1d293b46a;actionci:f882164c9b291e5937d6d815e6071ed538aa9716;|2026-02-26T00:02:34Z|SIZE:115951
 adafruit/Adafruit_LSM303DLHC: master:ccc4e70113460333a70926e08150d2d13a32c35b;gh-pages:3908872a08cc26aca7127ad2804af119efa89eb8;|2019-09-13T21:48:33Z|SIZE:7782
