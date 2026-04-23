@@ -1010,3 +1010,4 @@ adafruit/Adafruit_Python_PlatformDetect: BRANCHES:[main:31cac12b3606b80aaca14195
 adafruit/Adafruit_CircuitPython_MotorKit: BRANCHES:[main:9dfb00ac6a45cf2120ddf25a43053f4aa237b11d;patch-fix:8e332122446476d8417712c1b6c6bf699691ada3;REUSE:ce903aedaa06666c68479cfd061def461fdfe908;travisyml-update:cb15f98ec2be7af425f5c6aeb611e399fb04bbec;]|RELEASE:[1.6.20|none]
 adafruit/Adafruit_CircuitPython_miniesptool: BRANCHES:[main:d1497390c629d3d62dfb7a2b7d78365a689048cf;REUSE:cc6dc83cf28754bbd3e19fce87721351774b9ebd;]|RELEASE:[0.2.27|none]
 adafruit/Adafruit_CircuitPython_ESP_ATcontrol: BRANCHES:[main:9a9e824e5121795138d562aacca97e84ab813e83;not-using-with:9a63cbaddecd71c5e7b44bf0ff22d4485ad1ef6e;]|RELEASE:[0.11.6|none]
+adafruit/Adafruit_CircuitPython_BoardTest: BRANCHES:[main:d79460e376a87e0462871fcdee722440a62cbef8;patch-fix:4f345d06ccc2ef90e9c005cf946541e45b3fac33;linting:58e8002e66fdf181cd4ba142695587b4ce851494;]|RELEASE:[1.2.26|none]
