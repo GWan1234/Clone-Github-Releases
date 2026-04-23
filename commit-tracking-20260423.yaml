@@ -863,3 +863,4 @@ adafruit/Adafruit_CircuitPython_FXAS21002C: BRANCHES:[main:d1173529c283481e60f74
 adafruit/Adafruit_CircuitPython_FXOS8700: BRANCHES:[main:3911690b26e7fd5cc0d25856d36c45e6a9f30681;docs_fixes:6829600aee38e7d852697db3b171f7c67df5689d;dhalbert-ustruct:ecf4f4ee79c5f5ff21c427a005373e166f2d7989;]|RELEASE:[3.0.8|none]
 adafruit/Adafruit_CircuitPython_MAX31865: BRANCHES:[main:a14dc6a0e2d95c2adbee84c86cff4fc3d8b80186;patch-fix:f41e79a7ffd164a574b1da19d11420a482bda2e8;]|RELEASE:[2.2.27|none]
 adafruit/Adafruit_CircuitPython_TCS34725: BRANCHES:[main:1d73d7d7d22f107ac3ae4f5b19abb5228377eb84;]|RELEASE:[3.3.27|none]
+adafruit/Atom-fsync-on-save: BRANCHES:[master:613368413957c291b8778a9d69f07be5b51352ec;]|RELEASE:[none|none]
