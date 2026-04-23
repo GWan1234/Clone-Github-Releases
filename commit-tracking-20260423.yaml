@@ -737,3 +737,4 @@ adafruit/Adafruit_CircuitPython_HID: BRANCHES:[main:a147d3b5b976371601b460622209
 adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB: BRANCHES:[master:f1967694bc20333d31b167e4eeaff58742e37bba;]|RELEASE:[none|none]
 adafruit/CircuitPlayground_Power_Reactor: BRANCHES:[master:02e84435cdf04f674f8cb0c8c8d5aca9fa399f3e;]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-Bonnet-PCB: BRANCHES:[master:d2d4f61d18bc89df4edd18c1f8aefd049b45a227;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_MPR121: BRANCHES:[main:ca2f1cdaac20d5b6380d44845160527bded54312;patch-fix:3da6defc9cb3d5638cd8b5f8b3d7e52cc215c13e;linting:7b1625b5f2b710668ee0fb9ac045d2d8608d0d07;keyboard_disable_logging:7242734b2358b89a3f9f329d2600e60db5686878;pi_keyboard:7e0c53af1bcdb390cd7abb2567d3ae88efab3f53;travis-yaml-typo:5470c964b98ed0f7dc30540da87f2e6064698177;]|RELEASE:[2.1.26|none]
