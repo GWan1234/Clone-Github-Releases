@@ -926,3 +926,4 @@ adafruit/Adafruit_CircuitPython_Colorsys: BRANCHES:[main:e607d12f9daa88cbe4a5bca
 adafruit/DotStar-2020-8x8-Matrix-PCB: BRANCHES:[master:40f15689e170cea4bffe8427b758e0617109e5db;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TMP007: BRANCHES:[main:1324b9c69c7fd139851d5762cadea417ddf3bf4b;]|RELEASE:[2.1.21|none]
 adafruit/Adafruit-pIRKey-PCB: BRANCHES:[master:6f962ffc77d781d85bb019384fd80bceb0dc80a4;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802;]|RELEASE:[none|none]
