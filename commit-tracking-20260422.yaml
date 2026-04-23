@@ -620,7 +620,7 @@ adafruit/USBgamepad: master:506623c2a255cee401ae0335ea943319e3781009;|none|SIZE:
 adafruit/Data-Logger-shield: master:223f8db28a8b0171fdb56cfbc78d5d98338228d6;|none|SIZE:139653
 adafruit/Light-and-Temp-logger: master:d615540bfa0b30aa721960312a46d62161b6c2e8;|none|SIZE:2385
 adafruit/Tweet-a-Watt: master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac;|none|SIZE:15404
-adafruit/ST7565-LCD: master:d40d9d832be8a6ce26d6462e85de3dcf439942fc;|none|SIZE:215395
+adafruit/ST7565-LCD: master:d40d9d832be8a6ce26d6462e85de3dcf439942fc;|none|SIZE:215394
 adafruit/SD-card-testing-jig: master:823b68201f1215d345dc6af727399f021bfddb9b;|none|SIZE:1235
 adafruit/Ice-Tube-Clock: master:df64981f389418ee562fef81f0daa5cc06c18018;GPS:9d5e87a7ab6c68f822207db36cf53191f3f922ca;|none|SIZE:1159772
 adafruit/Custom-Magstripe-Swiper: master:372f204894cf2d2fd742f08ca38aeb3581362ed8;|none|SIZE:1804463
