@@ -766,3 +766,4 @@ adafruit/Adafruit_AMG88xx_python: BRANCHES:[master:f3fc4871260a088f78e2fdfd773d4
 adafruit/Adafruit_bitfield_python: BRANCHES:[master:3c2bb9a1e024c5aea020104b2a32730d06d28f38;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AMG88xx: BRANCHES:[main:b7309fd6d85ee0e5b62c8823fdbf8f15d039f619;dhalbert-master:e14c153ca5371b7e91fe47264ce20c154fc92233;]|RELEASE:[1.2.27|none]
 adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:5cabac70d709c34fb8477e2eca90dc6429af0151;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_CharLCD: BRANCHES:[main:41a032561dbe26b62bdfeb102e90e266875ddc4c;patch:af753ae25682f7b462fceaed543e1643bb23607e;]|RELEASE:[3.5.6|none]
