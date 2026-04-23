@@ -829,3 +829,4 @@ adafruit/Adafruit_MFRC630: BRANCHES:[master:e31520ec7303108a4235f1b9ae2252aeccb8
 adafruit/Adafruit_CircuitPython_OneWire: BRANCHES:[main:cc3c86d112ff1aaf6bfcc28fd544741501139ba0;REUSE:c4075dd6c170d41b42414e6e9420a7b9c4b652bb;]|RELEASE:[2.0.13|none]
 adafruit/IRLibCP: BRANCHES:[master:2caa7720bd941bca2a44f7efa7a3d64696f8f261;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_INA219: BRANCHES:[main:8511c3a8e1efe3a474b26620e385d2f1114832fd;REUSE:f155504dffd553e4caf4b6671c085bf3f2b4d2e3;]|RELEASE:[3.5.1|none]
+adafruit/Adafruit_CircuitPython_SGP30: BRANCHES:[main:b61dca0704021fa7a7affa7be8eb6afd907d8526;]|RELEASE:[3.0.15|none]
