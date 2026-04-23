@@ -26,3 +26,4 @@ cockpit-project/action-release: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/console.dot: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-files: BRANCHES:[]|RELEASE:[40|29c76da906008871334bf9b34ef4abb2e96d7302|2026-04-21T11:34:29Z]|SIZE:0GB
 cockpit-project/cockpit-files-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/.github: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
