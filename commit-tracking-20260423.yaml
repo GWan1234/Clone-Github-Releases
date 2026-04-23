@@ -1121,3 +1121,4 @@ adafruit/Adafruit_CircuitPython_PyBadger: BRANCHES:[main:2e535d09ce781f4eef04768
 adafruit/Adafruit-Airlift-Shield-PCB: BRANCHES:[master:2f39914e1258ad189924d53cba77aa766780e73a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Debug_SPI: BRANCHES:[main:3583d66af8f29527b1021f8d8dd9f7398ae35789;]|RELEASE:[none|none]
 adafruit/Adafruit_TFLite_Micro_Speech: BRANCHES:[master:b5b1f4fb93587e3fc0a66cecb3d43b5dce14fc3b;updownmodel:a3fb431d02937a2d4c2a25a50748977fef9f707f;4commands:2775e407e85f32dc3d83533a38787ea7c09a49f4;gh-pages:1c6b27599c5536c7603db200409504cefb02cb70;]|RELEASE:[1.16.1|none]
+adafruit/Adafruit_CircuitPython_Pypixelbuf: BRANCHES:[main:445b828124100001a2d633b835a05b94e32083d5;]|RELEASE:[2.2.8|none]
