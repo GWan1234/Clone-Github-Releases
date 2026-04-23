@@ -542,3 +542,4 @@ adafruit/Adafruit-1.44-TFT-Breakout-PCB: BRANCHES:[master:ceaa444157175651785903
 adafruit/Adafruit-OLED-FeatherWing-PCB: BRANCHES:[master:179eb83875ab86c49a6b2d771e95099a55d8984b;]|RELEASE:[none|none]
 adafruit/Caterina-Bootloader: BRANCHES:[master:411557016cdc498c04840892d769e1f8184613dd;]|RELEASE:[none|none]
 adafruit/Adafruit-DPI-Kippah: BRANCHES:[master:d05c5e17c85a94d8a6d5fdcd45e5aba5d8b37188;]|RELEASE:[none|none]
+adafruit/Raspberry_Pi_Talk_To_Things: BRANCHES:[master:61714e20232127c8ba06d5fd1f1ee792648f19e2;]|RELEASE:[none|none]
