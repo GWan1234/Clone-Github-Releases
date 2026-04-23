@@ -571,3 +571,4 @@ adafruit/Adafruit-PiTFT-3.5-Plus-PCB: BRANCHES:[master:c0683a0be53799e4b8360780c
 adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing: BRANCHES:[master:b4883693227a02cd6affefb6ecc7a748b8150883;]|RELEASE:[none|none]
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49;]|RELEASE:[none|none]
 adafruit/io-client-go: BRANCHES:[main:eb896776411afb581c1b57238073d1adffa2a22b;initial-dev:13dfced6058748471793785df5950265804cfa15;]|RELEASE:[none|none]
+adafruit/Adafruit-MAX98357-I2S-Amp-Breakout: BRANCHES:[master:5fa51d3f5828f699c21a91cdf07e1ca8992f8897;]|RELEASE:[none|none]
