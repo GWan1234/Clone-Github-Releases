@@ -404,3 +404,4 @@ adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1
 adafruit/Adafruit-RasPipe: BRANCHES:[master:bedc53e0f97bdc11dc2ea8188df925c7903604d9;]|RELEASE:[none|none]
 adafruit/aio_gif: BRANCHES:[master:0bbb66d48c9a19fe081edb7937d76ea3f13e44c4;]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-LSM303-PCB: BRANCHES:[master:c0f6d981bd21317941c3759b98100a59fe0c3634;]|RELEASE:[none|none]
+adafruit/Adafruit_Python_PN532: BRANCHES:[master:343521a8ec842ea82f680a5ed868fee16e9609bd;alt_preamble:7515c0c18737015ecb591347a4ff3d99e5a9e3b1;]|RELEASE:[none|none]
