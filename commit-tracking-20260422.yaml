@@ -1007,7 +1007,7 @@ adafruit/BNO055-Cordova-Example: sawcoach:0dbee7f5ac745ff51854e520cc91382ceee68a
 adafruit/cordova-adafruit-io: master:be274cee2c1669e9b491d5bd265b01acf51d93ae;|none|SIZE:62146
 adafruit/Adafruit-STMPE610-Breakout-PCB: master:8cf4f3cc9aaa31c6f5b90e661fa7ba99559052bb;|none
 adafruit/Arduin_o_phone: master:f6abf2b2d1821cc4410ec10594bb55a1cf5a7984;|none|SIZE:3004
-adafruit/Adafruit_Legolas: master:7313a1d3516611b3b7666272b986e4138f6f6e25;|none|SIZE:13949
+adafruit/Adafruit_Legolas: master:7313a1d3516611b3b7666272b986e4138f6f6e25;|none|SIZE:13948
 adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: master:ddd588632d07928551e7f1f71a38335e33c4b530;|none
 adafruit/Adafruit_IO_Arduino: update-schedule-example:ef46ac5a6738338da435ea93ccbd89a03839e584;test-travis:dcfbd006b5624c78a304f3a56b62206b55c22b4a;ssl-fingerprint-2020:fa397aeeb2f4717b54629412bc22330a9f79b9a0;revert-135-fix-fona-disconnect-err:edca38212ffaf4d4061382643c5933def8276515;master:f90caefc96c94d96d42a43a6c82832ad55afb944;|2026-04-15T01:03:44Z|SIZE:295898
 adafruit/Pro_Trinket_Power_Meter: master:28f838ec70095028f11e59f6cd7a1da0a7d96e81;|none|SIZE:2593
