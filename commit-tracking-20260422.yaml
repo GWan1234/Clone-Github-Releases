@@ -851,7 +851,7 @@ adafruit/Bluefruit_LE_Connect: master:4721ec20245598fdb107f89b089f06671dc490f4;|
 adafruit/MAX31850_OneWire: master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce;|2023-11-15T15:31:53Z|SIZE:105123
 adafruit/MAX31850_DallasTemp: master:c83bb4710e539f2574ad613448dfe1c48bc661e3;gh-pages:7ff84118ac593c8ef007943c9b4e3482a5b4beb4;actionci:13515400a91aee096ffd9c52893f5145c202f7b8;|2023-11-15T15:18:45Z|SIZE:118179
 adafruit/Talkie: master:513c507b5289868ce0cfabf21d4920b93fc32070;|none|SIZE:1619038
-adafruit/io-client-ruby: master:a2eecbd67a0c6857b462750f5d2d355533869125;|none|SIZE:20618
+adafruit/io-client-ruby: master:a2eecbd67a0c6857b462750f5d2d355533869125;|none|SIZE:20619
 adafruit/Adafruit_HMC5883_Unified: master:e18d8707156630b1abb43dd4c1ad6e08e47f9ad7;gh-pages:5988f466767056344cc25f2e10b807b030303313;|2026-03-03T14:48:35Z|SIZE:91772
 adafruit/adafruit-rpi-kernel: rpi-3.10.y:ceafb987d68f7ec0cec446cc28b65865cf36a5d6;|none
 adafruit/adafruit-rpi-fbtft: master:35890c52f9e3eef3237b76acc295585dd93fc8cd;hx8357d-support:623ba1175328127ca1b3630c1deff0d8df55d15c;|none
