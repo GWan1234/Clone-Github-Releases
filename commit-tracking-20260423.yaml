@@ -258,3 +258,4 @@ adafruit/adafruit-pi-cam: BRANCHES:[master:d3ff22672785de876a74a4c873104dde3b118
 adafruit/NeoPixel-Sticks: BRANCHES:[master:e505da1f3e2f702076bb7845865026569e0b103c;]|RELEASE:[none|none]
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: BRANCHES:[master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3;]|RELEASE:[none|none]
 adafruit/Adafruit_FRAM_I2C: BRANCHES:[master:cb13d177db301d11469f3e52f7154c4aeac36f3f;gh-pages:7fc1e7081b6d5f27794367a89a4b9cd2cce5be08;busio:37310b12133ef8b830f65ca57386a5af2dab973a;actionci:a62bb175d768b709e32fd3007381c9d079d61426;docs_badge:28e3f1767a5c39a64cccb0868a8ecea5d052f784;]|RELEASE:[2.0.3|none]
+adafruit/Adafruit_FRAM_SPI: BRANCHES:[master:a05bf7243106fc49c377e07a21f8a3120196ea37;gh-pages:20df47f7357a802d51667312245e5a3960dec573;actions_spi:ece1e7378aaa8c66d81f04690464e34edb94c570;]|RELEASE:[2.6.2|none]
