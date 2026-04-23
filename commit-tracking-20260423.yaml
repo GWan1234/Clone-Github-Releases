@@ -488,3 +488,4 @@ adafruit/Adafruit_LIS3DH: BRANCHES:[default-nulls:9aeefd6520b6e5567f35ff5487d26f
 adafruit/Ethernet2: BRANCHES:[master:0bab6349fb5b42fce2d5442bbed093279184b548;debug:908e92bcbc09e1d6de09a70b08ca2b107b64d7fc;]|RELEASE:[1.0.4|none]
 adafruit/DotStarPiPainter: BRANCHES:[master:71df036fef22e8c70a1173bf0d216fd252d81fc6;]|RELEASE:[none|none]
 adafruit/Adafruit_RGB_LCD_backpack: BRANCHES:[master:c439c0c5afee3af63df33a2987fc69ea8ee80e95;]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-LE-Micro-PCB: BRANCHES:[master:b96e10fc1481de5e03bc5926590aeae6c27a46e3;]|RELEASE:[none|none]
