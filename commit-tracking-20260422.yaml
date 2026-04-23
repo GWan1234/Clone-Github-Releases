@@ -781,7 +781,7 @@ adafruit/Adafruit_TMP006: master:d0fc98a7d40474e02f2d97eb465d65230b7e26c2;gh-pag
 adafruit/Python-WiFi-Radio: revert-7-master:3e5587d38c4f2b5ea413c244b4637dc817fd03f4;master:689b2335d86a74274f76733261d031e40ee37d14;|none|SIZE:14032
 adafruit/Adafruit_AM2315: master:7f52340f38ce714f00ce47de39fd50c82e409184;gh-pages:81931048c99957035d1828a25ba65a8f44a154b6;actionci:18d9bca559a50cfd9c6b48e0124b9c5c521cd880;|2023-10-03T20:06:31Z
 adafruit/adafruit_flora_game_controller: master:bb1621ab2839846d799061c408b1d522443e7ea5;|none|SIZE:2123
-adafruit/Adafruit_TCS34725: master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-pages:2902921a50b4b9c136dd39291cb157b8995502ec;|2023-12-12T13:05:45Z|SIZE:884023
+adafruit/Adafruit_TCS34725: master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-pages:2902921a50b4b9c136dd39291cb157b8995502ec;|2023-12-12T13:05:45Z|SIZE:884021
 adafruit/Adafruit_ADXL345_PCB: master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de;|none
 adafruit/Adafruit-Retrogame: mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;master:89b32aff4e971d4ecd057d1359699eebbf3df8f5;|none
 adafruit/Sous_Viduino: master:b1b71a4316e9789541d4926df6983e5703d32f68;|none|SIZE:4338
