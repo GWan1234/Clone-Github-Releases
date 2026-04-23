@@ -956,7 +956,7 @@ adafruit/Adafruit-Motor-HAT-Python-Library: master:07cec2046678f72af87c759f19115
 adafruit/Adafruit-TLC5947-PCB: master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a;|none
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: master:efe89824b3574463ebca864a2494f7c86fb5c82b;|none
 adafruit/Pro-Trinket-Rotary-Encoder: master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7defa6;|none|SIZE:428252
-adafruit/Adafruit_Soundboard_library: master:ab279797cb35f4aea58cb19f906e38f28d4a2d78;gh-pages:58a1b2af111f7e4a8f115805015f06bc5f095e2e;|2023-11-15T15:20:53Z|SIZE:91678
+adafruit/Adafruit_Soundboard_library: master:ab279797cb35f4aea58cb19f906e38f28d4a2d78;gh-pages:58a1b2af111f7e4a8f115805015f06bc5f095e2e;|2023-11-15T15:20:53Z|SIZE:91680
 adafruit/3.5inch-TFT-Breakout-PCB: master:f229969d9b1416f34bedc4015fce967aaf7c5b00;|none
 adafruit/Adafruit-5-HDMI-Backpack-PCB: master:906e152b9ae9eea91dbcb699fe88c4e1909339b5;|none
 adafruit/Adafruit-Perma-Proto-HAT-PCB: master:fdee45a5dee903ecfbd9f010ca250b968f43a1f5;|none|SIZE:463939
