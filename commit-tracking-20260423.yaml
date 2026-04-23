@@ -743,3 +743,4 @@ adafruit/RadioHead: BRANCHES:[master:44475b7e7143738668a4fc93024afba4950c54e5;ad
 adafruit/Adafruit-Joy-Bonnet-PCB: BRANCHES:[master:6f2c397555472348c959db74b7dde90106c48bb4;]|RELEASE:[none|none]
 adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB: BRANCHES:[master:20cfdfdcf656a3c3dd9d07e3db91b0f1ac79b31a;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Express-PCB: BRANCHES:[master:5017ef41885371f8a26ba1b8ab9dd700bd7ce655;]|RELEASE:[none|none]
+adafruit/Adafruit_FreeTouch: BRANCHES:[master:cf2f2f6d5916aa208628b531ef369effb3950478;]|RELEASE:[1.1.3|none]
