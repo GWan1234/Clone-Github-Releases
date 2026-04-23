@@ -672,7 +672,7 @@ adafruit/DHT-sensor-library: master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-
 adafruit/Adafruit-NEC-remote-control-library: master:72975ab49a409c74df57b878b7520572744a3fa2;|none
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: master:e2b12428c08d286dc9f568c8117f6e77986ef0ab;|none|SIZE:364615
 adafruit/Adafruit-BMP085-Library: samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b;master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;|2023-11-15T15:30:48Z
-adafruit/LPD8806: master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;|2023-11-15T15:19:02Z|SIZE:121778
+adafruit/LPD8806: master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;|2023-11-15T15:19:02Z|SIZE:121774
 adafruit/Adafruit-WS2801-Library: master:f43db5f745b5be30a3667d9c41428f84fa5894f3;gh-pages:551bebf191fe7d2fab8aa16a22bf395ce62a421b;|2023-11-15T15:29:18Z
 adafruit/Adafruit-VC0706-Serial-Camera-Library: master:e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85;gh-pages:e45d0578eb65444bbe638eca2fc1743292b8d907;actions:17841710c4440bc6cd59106aceca90304fc4d5e9;|2023-11-15T15:16:35Z
 adafruit/RGB-matrix-Panel: samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;master:81ee07118cc267cfab30743ae621c193c9e5838b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;|2023-11-15T15:18:31Z|SIZE:166700
