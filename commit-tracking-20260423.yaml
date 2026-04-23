@@ -110,3 +110,4 @@ adafruit/TSL2561-breakout-board-PCB: BRANCHES:[master:8a062ad303b8b4768694e1ab10
 adafruit/Adafruit_Motor-Shield-v1: BRANCHES:[master:f2505a85855fb00b468a78ba527afbf0d91bdb22;]|RELEASE:[none|none]
 adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90;]|RELEASE:[none|none]
 adafruit/SpokePOV: BRANCHES:[master:0e97b586be428beb6c0f9c1edffdf9d42cf6d9cd;]|RELEASE:[none|none]
+adafruit/Standalone-Arduino-AVR-ISP-programmer: BRANCHES:[master:46ff5e404afaeef1763f65b4128de66ac2281865;]|RELEASE:[none|none]
