@@ -255,3 +255,4 @@ adafruit/Adafruit_L3GD20_U: BRANCHES:[master:c8c354335b41c453c8989541dd9fd64dabd
 adafruit/Adafruit_Trellis: BRANCHES:[master:ed55d2b8e0e7266798c11dea75f4dbf1a81849e7;]|RELEASE:[none|none]
 adafruit/Adafruit_Trellis_Library: BRANCHES:[master:0d6be80cd5b6d7cdba54afc3f956b4ce28f08b8d;layout:2e2e58e4be2236f6710bab8d6f4a1ab7be9bdb76;panel-diagram:97d9fe84bbb39bfeebae26057f9e4ed1ef116c7f;examples:fdd1b1f73bab0bc911850416500a0d725a2d3524;]|RELEASE:[1.0.1|none]
 adafruit/adafruit-pi-cam: BRANCHES:[master:d3ff22672785de876a74a4c873104dde3b1183fa;]|RELEASE:[none|none]
+adafruit/NeoPixel-Sticks: BRANCHES:[master:e505da1f3e2f702076bb7845865026569e0b103c;]|RELEASE:[none|none]
