@@ -901,3 +901,4 @@ adafruit/Adafruit_CircuitPython_MMA8451: BRANCHES:[main:d018109927f058e1344224f6
 adafruit/Adafruit_CircuitPython_SI5351: BRANCHES:[main:da23521a339ef1c8b7cdf75d54b4ec9b153d38cd;]|RELEASE:[1.4.10|none]
 adafruit/Cyber_Flower: BRANCHES:[master:70213348355adcf66542522b56580ca9d3805c70;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AS726x: BRANCHES:[main:0aa2a7e5908786a705b2f2742e3e5e19e049f838;dhalbert-ustruct:84835d377bb2bc11cd6ebb26b5830fe38307a905;]|RELEASE:[2.0.24|none]
+adafruit/Swift-Playgroundbooks-Subscription: BRANCHES:[collin-update:d988e7097efdc67f7716a9e16df05b605050ba6c;master:6771b76d46d691eeac994517a3f8f582dc1eda16;]|RELEASE:[none|none]
