@@ -1016,3 +1016,4 @@ adafruit/Adafruit_CircuitPython_ServoKit: BRANCHES:[main:9b67bce10f27f42f46dcd7a
 adafruit/Adafruit_CircuitPython_MFRC630: BRANCHES:[main:a4f71eb00188b1fe26684b58b9c220d13a9c5207;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_framebuf: BRANCHES:[main:3d2036d2926f7d04a00908845dd14cb18e3d8b90;docs_req_fixes:cd26d921e4c4cdea0bd8d20fbc59d50ebc0d905d;fix_rtd_theme:5109bc53bb57a490b643bafa6a3f71448037b1a9;precommit-update:972b9271ccf2c9f71a566dbb9b3e17185e21a061;patch-fix:ae22f03f19c7d718dd0d5738c157eae1813c020c;]|RELEASE:[1.6.11|none]
 adafruit/Adafruit_CircuitPython_GFX: BRANCHES:[main:d631e6bb0397f6f57c864d04a1b7fe93f2aab52b;docs_req_fixes:5595fd9f064cac2d932a23c60485a5ab6398f44b;patch-fix:db7275f967b6b04e27ebcae2109c9059b7920ebe;discord-fix:883171741058060cb94894aa9ccc336697e81d1c;]|RELEASE:[1.1.27|none]
+adafruit/Adafruit_CircuitPython_PCD8544: BRANCHES:[main:062c54c3befa9666b72b6309d43de260c6f3f8e1;]|RELEASE:[1.2.22|none]
