@@ -1209,3 +1209,4 @@ adafruit/Adafruit_NT35510: BRANCHES:[master:3a9c7bc03b66c282a65fbedb695da72bea55
 adafruit/Adafruit-PA1010D-Mini-GPS-PCB: BRANCHES:[master:6f1d0f216b848bea8d473a4b1384fd0340536ea0;]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB: BRANCHES:[master:c7018c043310292976dcb720322e12d6d8e324fc;]|RELEASE:[none|none]
 adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB: BRANCHES:[master:765d4e303830c064a426bf57dccdb68e05473a36;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_ICM20X: BRANCHES:[main:9783a6f524e3db5d1873b4343d533479a5ecbc8d;fix_rtd_theme:f03167fb5c770acd849d7a9821afd7ff956a5eb3;patch-fix:8804667609778bc4955f80f01e69676794b71a4d;icm20948:185855a53b2e63864d579a8c743546d7738072f6;]|RELEASE:[2.1.9|none]
