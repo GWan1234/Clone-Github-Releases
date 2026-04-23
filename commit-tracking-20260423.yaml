@@ -656,3 +656,4 @@ adafruit/atmel-samd-micropython-vagrant: BRANCHES:[master:9f1eaca51befa1e29447bd
 adafruit/Adafruit_VL53L0X: BRANCHES:[master:99a130ca7c7ee930fa428244dbe16d84703e4756;gh-pages:ebda1706c5fd91f8c143af31a1ae6b9e60a75c69;doxy-fix:3d854028fb716241270fbfee487f59bade6f68b4;]|RELEASE:[1.2.5|none]
 adafruit/Pi_Eyes: BRANCHES:[master:1163cb71914828ed9726ec769184df452bfaaaf0;]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB: BRANCHES:[master:c78bc655084c2441063c0faf744ffa5eca69b233;]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB: BRANCHES:[master:8891795d7776b7203f25237db4f25ad5692758d4;]|RELEASE:[none|none]
