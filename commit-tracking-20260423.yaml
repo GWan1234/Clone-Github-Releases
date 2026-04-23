@@ -474,3 +474,4 @@ adafruit/Adafruit_Python_MAX9744: BRANCHES:[master:b7de3549f356eb2adc4c9c1c87e58
 adafruit/Adafruit_Arduino_OpenPixelServer: BRANCHES:[master:d72678e9b6c2d9564224fb2c35fc85250457494c;]|RELEASE:[none|none]
 adafruit/Bluetooth_Talking_Dog_Collar: BRANCHES:[master:d62cf7158093e09c4bac78fc36a5a681950387a2;]|RELEASE:[none|none]
 adafruit/Adafruit-Servo-HAT-Bonnet-PCB: BRANCHES:[master:b15611b66fcf0dffc06f1d888e84cd751dda3e4a;]|RELEASE:[none|none]
+adafruit/Adafruit_VCNL4010: BRANCHES:[master:fd4eb0fe7c7f9d69766ddda7f14fce1f75226817;gh-pages:b99bdd8b373eb284118d5c6904393dc2715d735a;]|RELEASE:[1.1.2|none]
