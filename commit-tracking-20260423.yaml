@@ -854,3 +854,4 @@ adafruit/adabot: BRANCHES:[main:5cdf889e635990d2626adfc29ecb376cf8684a73;dependa
 adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi: BRANCHES:[master:b8a0df00fed2f4d240c807b3f454ff6b7d8780d9;]|RELEASE:[none|none]
 adafruit/Adafruit-WINC1500-Shield-PCB: BRANCHES:[master:5b4642c624ffe549731ff9aae4aeb5330fbbb4a3;]|RELEASE:[none|none]
 adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: BRANCHES:[master:e836025c26c8dcfa3fab3e9aa7756542770f4849;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Fingerprint: BRANCHES:[main:88070ae653133de8659e0dd08e657c33983f25b0;issue-36:1c56c2c6e266b0e8ce55a74dca3178eee08a33b2;]|RELEASE:[2.2.24|none]
