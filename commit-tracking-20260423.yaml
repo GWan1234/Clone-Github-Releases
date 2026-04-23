@@ -867,3 +867,4 @@ adafruit/Atom-fsync-on-save: BRANCHES:[master:613368413957c291b8778a9d69f07be5b5
 adafruit/Adafruit_CircuitPython_DS18X20: BRANCHES:[main:e609ea7fcf5c1932c316a429e35c2169b8f7162c;patch-fix:15da73fcfb5404e8b8a6fad85da4dbce442b5277;setup-py-fix:579018754309da6a0a073faad0ef8a434a76e68a;]|RELEASE:[1.4.8|none]
 adafruit/codal-core: BRANCHES:[master:fdfe0534461442dcce2e6d5a3df42fe9cad2b6e0;snorfs:5f4c08607ba8eeb820fdc4b676008eaf9a271474;msc:7739fd6e3978bf31d034fe0ecff26e0b10b7864b;timing-test-instrumentation:9f62246117c3f4675e991b1336601124c0b06189;list:cf312a7b7a3f5ab93451630fe87cea39e22b6e70;atmega328p:e15b491d0f8f99120bb1505607f48fdb853f713d;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Motor: BRANCHES:[main:f55b2910b01094904461d769581221c20418a267;]|RELEASE:[3.4.19|none]
+adafruit/Adafruit_CircuitPython_Thermal_Printer: BRANCHES:[main:81e7ff54d7eebf08e3d93e3e2e6f729e76445918;patch-fix:13dc990d4b323cf996b1897aed3db555472d79b0;]|RELEASE:[1.4.0|none]
