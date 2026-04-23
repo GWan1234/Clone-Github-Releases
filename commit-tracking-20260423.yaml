@@ -666,3 +666,4 @@ adafruit/Adafruit-Qualia-Driver-PCB: BRANCHES:[master:4d750ce85bc1e8e5e38395030f
 adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB: BRANCHES:[master:df6070e9ce8c00acc6c2e1ce54eb46770552a9ba;]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-Shield-PCB: BRANCHES:[master:66ff2063c3adaf0599a0345deff2191c684018fd;]|RELEASE:[none|none]
 adafruit/Adafruit-2.4-TFT-Breakout-PCB: BRANCHES:[master:62eaf05ad6ead75f2da987f2ff7ed994c02869c7;]|RELEASE:[none|none]
+adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB: BRANCHES:[master:514d5ded1aade108d0698d0e718a92c22ff5496f;]|RELEASE:[none|none]
