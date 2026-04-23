@@ -2299,7 +2299,7 @@ adafruit/Adafruit_CircuitPython_BNO055: main:8c5dc065e117af294f23538b3d3d52aa15b
 adafruit/micropython-adafruit-framebuf: master:26556e49935521cde014946bdf4f6070a7fe56f3;|2017-09-14T22:41:04Z|SIZE:3537
 adafruit/Adafruit_Media_Converters: master:85a50a03dfeef5b0d3a33c6124e940c19b9e550c;|none|SIZE:4876
 adafruit/Adafruit_Curie_Bot: master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae;|none|SIZE:8133
-adafruit/single_chan_pkt_fwd: master:aab8d308ea2abd5f4c39ca74a4493097a6632245;|none|SIZE:68222
+adafruit/single_chan_pkt_fwd: master:aab8d308ea2abd5f4c39ca74a4493097a6632245;|none|SIZE:68221
 adafruit/Adafruit_CircuitPython_Thermistor: main:bdfeb28d741a0233c4d8789b610d116831c9c0dd;|2026-03-27T19:05:13Z|SIZE:18594
 adafruit/Adafruit_CircuitPython_LIS3DH: main:ca871b8bc59b23acbfd779bf59d420599e8bcbb5;|2026-03-27T19:00:01Z|SIZE:25671
 adafruit/pt100rtd: master:94a8c8835d93a4050d7681da64e976a6458f78f6;|none|SIZE:8239
