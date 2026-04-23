@@ -726,7 +726,7 @@ adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: master:fcc1a8964feb782278f444b70fea
 adafruit/Adafruit-PWM-Servo-Driver-Library: photodude-patch-1:16705a539bfe829ad518f6f69ffcbb3a1c087181;master:a98850b815bf9696c8ffdc2a0f89d657c52dd44b;gh-pages:b434ae32f5dd40f6c2e3318e29584f3921424fdd;actions:e610e9ccdbe9a6dcd6af5ebed888224014a98f20;|2026-03-03T14:48:12Z|SIZE:118611
 adafruit/Adafruit-2.2-SPI-TFT: master:9acf08e9cd9cc020d296851c06b92dab65d5afca;|none
 adafruit/Adafruit-Flow-Meter: master:93f998dd91b6aef33e1e965beb9f8c4c92cf15a5;|none
-adafruit/Adafruit_NFCShield_I2C: master:c48e16ab35b373d9e33efd500879aa0e43490963;|none|SIZE:22622
+adafruit/Adafruit_NFCShield_I2C: master:c48e16ab35b373d9e33efd500879aa0e43490963;|none|SIZE:22621
 adafruit/Adafruit_MCP4725: master:705778cc8f1918880063b07547e78c6ded409a88;gh-pages:da58ca904a3143944763eb82ad6627a6d8ef25a5;action:a4fecc0483a8336546aceb4ceb7cf8a69ecd1b62;|2023-11-15T15:23:42Z|SIZE:139732
 adafruit/Adafruit_INA219: master:ce59837b4a8feccd767c67d26806a0bd89d1d8eb;gh-pages:43222e8a1c5626206224db8451722733e8946ca2;fix-ci:dfabb31aa994a5f657b34b3793b5cccaf4795e67;actionci:08806a0f73867da2ddbd62a2f01aa467a63e4264;|2023-11-15T15:25:41Z|SIZE:902100
 adafruit/Adafruit-MAX31855-library: master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae;|2023-11-15T15:30:22Z
