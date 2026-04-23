@@ -157,3 +157,4 @@ adafruit/Adafruit_MCP4725: BRANCHES:[master:705778cc8f1918880063b07547e78c6ded40
 adafruit/Adafruit_INA219: BRANCHES:[master:ce59837b4a8feccd767c67d26806a0bd89d1d8eb;fix-ci:dfabb31aa994a5f657b34b3793b5cccaf4795e67;gh-pages:43222e8a1c5626206224db8451722733e8946ca2;actionci:08806a0f73867da2ddbd62a2f01aa467a63e4264;]|RELEASE:[1.2.3|none]
 adafruit/Adafruit-MAX31855-library: BRANCHES:[master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae;]|RELEASE:[1.4.2|none]
 adafruit/Adafruit-MAX31855-breakout-board: BRANCHES:[master:5b12736f17d53d22d9dc4287e4f2129bc876d180;]|RELEASE:[none|none]
+adafruit/Adafruit-PN532-RFID-NFC-Shield: BRANCHES:[master:c22321c82ec1510522fa394c15ca7cf79c298208;]|RELEASE:[none|none]
