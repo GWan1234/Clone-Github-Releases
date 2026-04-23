@@ -1076,3 +1076,4 @@ adafruit/Adafruit_CircuitPython_IterTools: BRANCHES:[main:505bd96d4538dfd86ddfbb
 adafruit/Adafruit_CircuitPython_PYOA: BRANCHES:[main:23c2bec8fe66d34b99167e51ae2c0cbaaa734e6e;patch-fix:db17bbe4a6cb119b783ca1de7e2492cefbf3af88;setup-py-disabled:69db58b5a9e193674e790e15a6d90fed706de725;]|RELEASE:[2.6.7|none]
 adafruit/Adafruit_CircuitPython_DymoScale: BRANCHES:[main:5ba3ad88717da960c900a04d5104d227ab7eb894;patch-fix:e2e75677f244f3c57a95103d8a450ebfdbdb8e3c;]|RELEASE:[2.0.13|none]
 adafruit/Adafruit-VEML7700-PCB: BRANCHES:[master:ab489f03c957f681ed0161fc6d2b786956556e23;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_SSD1331: BRANCHES:[main:0608ca39b9189acbb4a8023b4f1bc565fb7a5a14;setup-py-disabled:2e080b0c5d8304a1f187c062c1efb5e91d68a822;]|RELEASE:[2.0.3|none]
