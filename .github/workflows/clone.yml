@@ -181,34 +181,38 @@ jobs:
             # 2. 按提交时间倒序排序（最新在前）
             # 注意：GitHub API 返回的 branches 默认是按 pushed 最新排序
             # 这里我们直接取前 5 个
-            local branch_states=""
-            local count=0
-            printf "%s\n" "${all_branches[@]}" \
-              | jq -s 'sort_by(.commit.commit.author.date) | reverse | .[]' -c \
-              | while read -r br; do
-                if [[ $count -ge 10 ]]; then break; fi
-                local name sha
-                name=$(echo "$br" | jq -r '.name // ""')
-                sha=$(echo "$br" | jq -r '.commit.sha // ""')
-                if [[ -n "$name" && -n "$sha" && "$name" != "null" ]]; then
-                  branch_states+="${name}:${sha};"
-                  count=$((count + 1))
-                fi
-              done
-          
+            branch_states=""
+            count=0
+            
+            while read -r br; do
+              [[ $count -ge 10 ]] && break
+            
+              name=$(echo "$br" | jq -r '.name // ""')
+              sha=$(echo "$br" | jq -r '.commit.sha // ""')
+            
+              if [[ -n "$name" && -n "$sha" && "$name" != "null" ]]; then
+                branch_states+="${name}:${sha};"
+                count=$((count + 1))
+              fi
+            done < <(
+              printf "%s\n" "${all_branches[@]}" \
+                | jq -s 'sort_by(.commit.commit.author.date, .name) | reverse | .[]' -c
+            )
+                      
             # 3. 【修复】通过 tag 获取真实 commit SHA（唯一正确方式）
             local rel_tag rel_time rel_commit
             rel_tag=$(echo "$release_json" | jq -r '.tag_name // "none"' 2>/dev/null || echo "none")
             rel_time=$(echo "$release_json" | jq -r '.published_at // "none"' 2>/dev/null || echo "none")
           
             if [[ "$rel_tag" != "none" ]]; then
-              rel_commit=$(git ls-remote "$(auth_url "$repo")" "refs/tags/$rel_tag" 2>/dev/null | awk '{print $1}' | head -n1)
+              rel_commit=$(git ls-remote "$(auth_url "$repo")" "refs/tags/$rel_tag^{}" 2>/dev/null | awk '{print $1}' | head -n1)
+
               rel_commit=${rel_commit:-none}
             else
               rel_commit="none"
             fi
           
-            echo "BRANCHES:[${branch_states}]|RELEASE:[${rel_tag}|${rel_commit}|${rel_time}]"
+            echo "BRANCHES:[${branch_states}]|RELEASE:[${rel_tag}|${rel_commit}]"
           }
 
           # =========================
