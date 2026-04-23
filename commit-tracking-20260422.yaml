@@ -1093,7 +1093,7 @@ adafruit/Circuit-Playground-Arduino: readmefile_try1:aa7e801fafab83d9e3653ff6946
 adafruit/Adafruit-MCP4725-PCB: master:0c89d205fcd7d0a1269a4f57c5cdfa0ce09e54dd;|none
 adafruit/Adafruit_Python_MCP3008: master:03232cad6b888faf3dc2ff76e548c5fa3ffe3ae0;|none|SIZE:8603
 adafruit/scale: gh-pages:a9416b52382fcf49ee9b8515be71c65183121622;|none|SIZE:30945
-adafruit/WiFi101-FirmwareUpdater: master:57663e575bd0b77fa45d301e8389e829f340c668;|none|SIZE:4889307
+adafruit/WiFi101-FirmwareUpdater: master:57663e575bd0b77fa45d301e8389e829f340c668;|none|SIZE:4889306
 adafruit/Adafruit_Python_ADS1x15: master:804728974fcefaafc8b5994be65d22e9c198a8d1;|none|SIZE:11353
 adafruit/Adafruit_Python_PureIO: main:117f1f19f08a2c6edd11ef0281586ba5301dd649;|2023-05-25T19:00:52Z|SIZE:29083
 adafruit/Adafruit-SPW2430-PCB: master:929cb33e8e66308cb46321be057e7f0ad7111999;|none
