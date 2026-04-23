@@ -2315,7 +2315,7 @@ adafruit/Adafruit_CircuitPython_IRRemote: main:646cc051881a07d8bd5c442320479c6e5
 adafruit/Adafruit_ZeroPDM: master:6955e2e80eaaf37b2586e8ea510f0d996bc32ca8;gh-pages:d54a7c4266628ced99cb145b7168215c8ef8b4ca;actionsci:0f7a0c7d82a2ca866425506efcc70b8d2e815f82;actionci:2f80f6d358c8f325e15657fd30c7c9219f70489c;|2026-03-03T14:48:56Z|SIZE:138538
 adafruit/jupyter_micropython_kernel: master:f60fc2d3bde0684ceb7e9a071f36058c1f8b1d01;|none|SIZE:6452
 adafruit/Adafruit_CircuitPython_IS31FL3731: patch:40d56274bbaba88273cce27c2811f1c2aaa328f3;main:c011e8e0d021a6c5870242eb721f012922002fc8;experimental:4e6425880be5585859746a16934e8851211521cb;|2026-03-27T18:59:40Z|SIZE:63914
-adafruit/uf2-samdx1: master:ce0489a38e6f1038a8b95a7c9e93945655c8151d;|2024-03-15T00:24:39Z|SIZE:25209806
+adafruit/uf2-samdx1: master:ce0489a38e6f1038a8b95a7c9e93945655c8151d;|2024-03-15T00:24:39Z|SIZE:25209805
 adafruit/Pulse_Room: master:c7d92a53611a4d79694f548c5fe91b25433718f6;|none|SIZE:9524
 adafruit/Adafruit_remoteFXTrigger: master:f018b3b5323818cf93bd5e1005e849d102b8f610;|none|SIZE:6901
 adafruit/Adafruit_CircuitPython_Waveform: main:48b67b73b878afcaf42e5c58ddee4a9c90f6df6d;|2026-03-27T19:15:25Z|SIZE:17564
