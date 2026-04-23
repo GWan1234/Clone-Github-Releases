@@ -1131,7 +1131,7 @@ adafruit/zj-58: master:603f034e125305c464bab170b7144e446a193f0d;|none|SIZE:11997
 adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: master:b5c7edd20f00010be64d25145d6ee1dacd28b083;|none
 adafruit/Adafruit-Adalogger-FeatherWing-PCB: master:28ea68d9ffa6d51690195bf295ecfa656ab45f18;|none
 adafruit/Adafruit-FONA-808-Breakout-PCB: master:da32ad54c3895f2b397a972f241e2013f246f7c4;|none
-adafruit/aedes-persistence-redis: master:76a4f91b4261f3e5a494725a842edb4137120ddb;|none|SIZE:6018
+adafruit/aedes-persistence-redis: master:76a4f91b4261f3e5a494725a842edb4137120ddb;|none|SIZE:6019
 adafruit/mqemitter-io: updated-deps:969fd1355300f95db6a6dbc6b28eeb4e11392fc4;master:9d30990d3eaee305bf2c0820f302c03fdfee4a82;|none|SIZE:6562
 adafruit/Adafruit_VEML6070: master:f0638a4d745c7b04635b225ae9d6aeb4eb1309c4;gh-pages:6e205ceb265cfd931a10873cdab0a3176c222bd5;|2023-11-15T15:19:57Z|SIZE:88621
 adafruit/Adafruit_TinyCAP1188: master:da7346e9c4b491349d7f9ed82952703a89ee4082;|none|SIZE:4233
