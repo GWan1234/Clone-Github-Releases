@@ -924,3 +924,4 @@ adafruit/Adafruit_Community_Code_of_Conduct: BRANCHES:[main:b8438fe7ca77815dc82f
 adafruit/Adafruit_CircuitPython_LED_Animation: BRANCHES:[main:7cc736df1628f767c4fc6f23287cedbf6e80f4ce;optimizations:73d5f61c6e059a289e7ff548fb90197559683f86;patch:9fde73f3dc34a2f3007a7a9b3ca1633adc511494;REUSE:3ed7a36c878ba80b597418b2db161b7000a425c6;]|RELEASE:[2.12.5|none]
 adafruit/Adafruit_CircuitPython_Colorsys: BRANCHES:[main:e607d12f9daa88cbe4a5bca4a727473e942ee95b;fix-module-name:c68a56d04f66314abb92aa5e86fbb6841b6578f7;setup-py-disabled:d8f4d85984e5459b9be5a21f593e562d50e11078;]|RELEASE:[3.0.5|none]
 adafruit/DotStar-2020-8x8-Matrix-PCB: BRANCHES:[master:40f15689e170cea4bffe8427b758e0617109e5db;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_TMP007: BRANCHES:[main:1324b9c69c7fd139851d5762cadea417ddf3bf4b;]|RELEASE:[2.1.21|none]
