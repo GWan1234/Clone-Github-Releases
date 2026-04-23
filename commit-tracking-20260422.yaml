@@ -916,7 +916,7 @@ adafruit/wifi-reset: master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;|none|SIZE:
 adafruit/rpi-firmware: master:8f305cad54cf725a14551b59a2e33c6fd37d7492;|none|SIZE:16648329
 adafruit/rayshobby-hid-serial-trinket: master:282903bdcb78856a5fe74fb0ae16e8473c1431b4;|none|SIZE:7492859
 adafruit/Adafruit_CC3000_Shield_PCB: master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba;|none
-adafruit/Mini-LED-Gamer: master:4e230a14bdc480bc3f983829d7cea8b83dadd3be;|none|SIZE:7759
+adafruit/Mini-LED-Gamer: master:4e230a14bdc480bc3f983829d7cea8b83dadd3be;|none|SIZE:7758
 adafruit/Trinket_Arduino_Linux: master:827471769d16bbf7816a6bf8b1fe6d716cf684b4;1.6.2:16db139fec9d2adab8d2bb5d3119deeab2556bba;1.6.1:6526bbebdabdae9a25ac20125a2c9050e69b341a;1.0.5:1e8d26e1f9ba6e0fad1069d5f72a54fd8e79b52a;|none|SIZE:42520058
 adafruit/Adafruit-TMP006-and-TMP007-PCB: master:84323b3001cdc9efe614bf6d703c1444c3d275b8;|none
 adafruit/Adafruit_Python_TMP: master:258b29f7b730e4534808c27473a76de84e765e58;|2018-08-30T19:12:45Z|SIZE:9253
