@@ -428,3 +428,4 @@ adafruit/Adafruit_BluefruitLE_nRF51: BRANCHES:[master:16412c28c5d25eb2577c0d5bba
 adafruit/Adafruit-MAX9814-AGC-Microphone-PCB: BRANCHES:[master:96bd97b32a5378517301185de4905cf5070b363f;]|RELEASE:[none|none]
 adafruit/arduino-board-index: BRANCHES:[gh-pages:2bc9c2f2c867e8d6f4299a4609255e69324e605f;dm-add-m4:fb36ae6c8c6e06ff0b08523d6a8b16da7484c36f;]|RELEASE:[esptool-0.4.2-winfix|none]
 adafruit/Adafruit-Feed-Mangler: BRANCHES:[master:4c7b329a94e399f8d886f99a96f2d4d867a9ab9f;]|RELEASE:[none|none]
+adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034;]|RELEASE:[none|none]
