@@ -7,3 +7,4 @@ cockpit-project/cockpituous: BRANCHES:[main:e3b32b348fb7da6f36329630d2f9e4056a0a
 cockpit-project/term.js: BRANCHES:[master:df24a161e45f461488ba773237a96faa4c82f1eb;mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;]|RELEASE:[none|none]
 cockpit-project/starter-kit: BRANCHES:[main:0d74fdf8d7b9f4ac0531ec158b838ca3b405f91d;dependabot/npm_and_yarn/types-f57dc2645f:58c2afb6b84022a8d8db5b1464671c66daef6116;]|RELEASE:[none|none]
 cockpit-project/registry-image-widgets: BRANCHES:[master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;]|RELEASE:[none|none]
+cockpit-project/cockpit-ostree: BRANCHES:[cockpit-lib-update-cockpit-lib-20260423-044319:bc17f30968671ec74e3f2ec1f0fd89938ac48530;main:28bbd58e151c82512b63c2d32bf4f9cc7696521d;]|RELEASE:[224|e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10]
