@@ -18,3 +18,4 @@ cockpit-project/presentations: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-machines: BRANCHES:[]|RELEASE:[352|9fac3a7baed5b860abd64f791540bc35a7eca867|2026-04-21T11:10:25Z]|SIZE:0GB
 cockpit-project/cockpit-machines-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/node-cache: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/pixel-test-reference: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
