@@ -14,7 +14,7 @@ jobs:
       - name: Delete drafts
         uses: hugo19941994/delete-draft-releases@v3.0.0
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Delete releases and workflows runs
         uses: ophub/delete-releases-workflows@main
