@@ -290,3 +290,4 @@ adafruit/Adafruit_MCP9808_Library: BRANCHES:[master:1447e4e8ab099dec3bc76bbb19ab
 adafruit/Adafruit-Trinket-PCB: BRANCHES:[master:3a2695463e52f72434d20daca6502fc62e8e2fcc;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: BRANCHES:[master:5d9281aebe826950512105acbb304bf30f5d0540;]|RELEASE:[none|none]
 adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a215;]|RELEASE:[none|none]
+adafruit/Adafruit-MiniPOV4-Kit: BRANCHES:[master:067ae4dcad3fcc97ba4ef02da5cda2650d8b921f;]|RELEASE:[none|none]
