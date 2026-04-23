@@ -375,3 +375,4 @@ adafruit/Adafruit-PowerBoost-500-Basic-PCB: BRANCHES:[master:ce7199be2eb4bc33deb
 adafruit/Pro_Trinket_USB_Mouse: BRANCHES:[master:6f08dc2f06d9b6d5c4f44fadb1e794c065354bff;actionci:cdf72e730fb74a6773b07cc07b3bc6feffc7b46a;gh-pages:decd2db848c1422b0d63e052886d304b741935e9;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit-PowerBoost-500-Charger-PCB: BRANCHES:[master:68258d7d14932951b72911ef3be3c1138dce2d6c;]|RELEASE:[none|none]
 adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoPixel-Jewel-7: BRANCHES:[master:1bc598ba1738a68f54cb9d259eba3665135769cb;]|RELEASE:[none|none]
