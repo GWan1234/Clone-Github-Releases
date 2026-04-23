@@ -16,7 +16,7 @@ cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:d0a8abfac10b1be9c9e64780a
 cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/presentations: BRANCHES:[main:ea28a183510394cf43194cac689a4984df23c8d9;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpit-machines: BRANCHES:[rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;main:fdc42567c91db3762cf3e0ff72dc2aa71eec5320;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;cockpit-lib-update-cockpit-lib-20260423-044134:cc457c356b1b26dd8aecccc0994c29823af9f5d5;]|RELEASE:[352|83a039ec53b14b1963498ef9fe7260c66227f8bf]|SIZE:0GB
-cockpit-project/cockpit-machines-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpit-machines-weblate: BRANCHES:[main:69af612dbea95c0e580ccab65dc85e255fad3e65;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/node-cache: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/pixel-test-reference: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-cloud: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
