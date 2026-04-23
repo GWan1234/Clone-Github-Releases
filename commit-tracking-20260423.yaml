@@ -724,3 +724,4 @@ adafruit/Adafruit_Bluetooth_Mini_Rover_Bot: BRANCHES:[master:d3162ff5b602756921e
 adafruit/Adafruit_CircuitPython_CircuitPlayground: BRANCHES:[main:2ee9b7ddd9d8574f1a154c67b5c849d2e44e3435;remove-gamepad-from-mock-imports:56367dee227dea64c689061bb10be4ed75cbbbc5;]|RELEASE:[5.3.11|none]
 adafruit/Adafruit_CircuitPython_SD: BRANCHES:[main:c700b45d484a7e5054cf1856b871f3f25edb5ebb;REUSE:4b1d94ada75cf7abc46faab0fde35a0ad0ed53f8;nativeio:42c52fa288289580e60e0e9f83f179041bd14eb8;]|RELEASE:[3.3.29|none]
 adafruit/RFM69: BRANCHES:[master:180d3ac9a4004ca200ac25e19de1c1910f82a1ee;ListenMode:aa1cc78a17fe3eab9718f51c8afa1c5b0eab58b1;SPI_TRANSACTION-attempt:c38928ecb4810e8563dac4ccbd8902468bbd684b;]|RELEASE:[none|none]
+adafruit/Adafruit-LSM9DS1-Breakout-PCB: BRANCHES:[master:9f6db79a66ae599aa410a2a14b161e26216e8bd4;]|RELEASE:[none|none]
