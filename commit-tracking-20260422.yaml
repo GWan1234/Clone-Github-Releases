@@ -1224,7 +1224,7 @@ adafruit/fritzing-parts: travis:6698c45ee1ba4087cab75d777a62cf9b081eb8f3;test:f0
 adafruit/micropython-adafruit-is31fl3731: master:0037ebc519ba3ffb29d556868e75718f4966dd39;|2016-11-02T18:25:40Z|SIZE:10534
 adafruit/micropython-adafruit-ads1015: master:16dacb638a4965765f89577e773eecd7ad0b1e13;|2016-10-30T21:24:32Z|SIZE:9710
 adafruit/micropython-adafruit-pca9685: master:0fea2736f99a2840f0d644be866f6abd5bc14b48;|2016-10-30T21:28:00Z|SIZE:11146
-adafruit/micropython-adafruit-max7219: master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062;|2016-10-30T21:26:19Z|SIZE:8853
+adafruit/micropython-adafruit-max7219: master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062;|2016-10-30T21:26:19Z|SIZE:8852
 adafruit/Adafruit-LIS3DH-Breakout-PCB: master:f5f3e1b33fec19a56b2c14c69bb1b97c1c4f2861;|none
 adafruit/Adafruit-Feather-32u4-Adalogger-PCB: master:c7e87d6e0feb5d3e048c3715038c0e4ce71cdfa0;|none
 adafruit/Adafruit-Bluefruit-LE-Shield-PCB: master:6b86d1bdaa0a1058f4738f09524606a86cd793ce;|none
