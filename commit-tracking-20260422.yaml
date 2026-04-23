@@ -642,7 +642,7 @@ adafruit/Raw-IR-decoder-for-Arduino: master:e23d69394b9e7c8e9a0652f09342afdfa1cf
 adafruit/Nikon-Intervalometer: master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2;|none|SIZE:1494
 adafruit/IR-Commander: master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336;|none|SIZE:2768
 adafruit/lufa-lib: master:556497a310d1f44960e6be49aef27846939da970;|none|SIZE:538374
-adafruit/knitting_machine: master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b;|none|SIZE:45297
+adafruit/knitting_machine: master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b;|none|SIZE:45296
 adafruit/Adafruit_Microtouch: master:938e22db4ca6a5437cd282e12f8c34114067a8f3;|none|SIZE:182176
 adafruit/Adafruit_USB_Boarduino_PCB: master:1203bb861fc49a53dd95dcb425c5a1d59985b9b0;|none|SIZE:248738
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: master:eeeefb1d5689572439e4811c6ff969dd7036709f;|none
