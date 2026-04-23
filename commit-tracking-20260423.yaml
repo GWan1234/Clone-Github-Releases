@@ -38,3 +38,4 @@ dushixiang/uart_sms_forwarder: BRANCHES:[main:62c6bc0b6b1e13338f96765a0dc0194cf1
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10;]|RELEASE:[none|none]
 kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de0768a9;master:10c56b4f94c1ec79a65c4d8eb890e2ac4e9b11bc;2023.03.02.1000:4b4f1bd2649f3b540ca20945f461287d4f987a01;]|RELEASE:[v2023.03.02.1000|none]
 LeoChen-CoreMind/UDX710-TOOLS: BRANCHES:[main:5d706ae9fcd7b9a1a9e7156ec64aba4bbd13507f;SZ50:ce5ff9585bd868f2023a8605e74beb8f51713cd5;]|RELEASE:[V2.3.4|none]
+fatedier/frp: BRANCHES:[master:4ec8de973f52a1cabde54ad3499216cf1bc3dbaf;dev:e8dfd6efcccded4affeee9bb25f542c8280edf6e;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c;]|RELEASE:[v0.68.1|4ec8de973f52a1cabde54ad3499216cf1bc3dbaf]
