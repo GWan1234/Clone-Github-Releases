@@ -1058,3 +1058,4 @@ adafruit/Adafruit_CircuitPython_INA260: BRANCHES:[main:00e64b94d8b4f1b8c5631bf99
 adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs: BRANCHES:[master:eca6fc73d1fde5d0a4278ba339d5789e1cf3f13c;]|RELEASE:[none|none]
 adafruit/Adafruit-CharliePlex-Bonnet-PCBs: BRANCHES:[master:e6c0dc1cc87f6add9272260db3fe237371e3ac52;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Logging: BRANCHES:[main:497a37809d654800b2e4676505ac98057679bcc9;patch-fix:88a6a6d0ba5b105fbcf717877491b020e0a41a7c;]|RELEASE:[5.6.3|none]
+adafruit/Adafruit_BusIO: BRANCHES:[master:3b8364267c3ee6e16bad91bc2101aefbd5b5915f;gh-pages:052594eb2c19a6310db4ec14c361a02170f4e4ea;fixavrsetspeed:3e0e740d56935705f88344bacd42cc6664a4d839;revert-77-master:9bef46eebac730bdf9f2643e9e3605285d5019df;renamebitorder:d33a16468f94b2ff28fac7d19f9d00863c6f3d95;tiny8:f28f3ae7f082b38b2c3d1346883bba7c40165276;mcpreg:f1db9d5956d705669662d23f18545276cd5424ae;actionci:ddee2a23392a24d06914a995e93201f5bceb31de;]|RELEASE:[1.17.4|none]
