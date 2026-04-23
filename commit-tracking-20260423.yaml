@@ -315,3 +315,4 @@ adafruit/Adafruit_UNTZtrument: BRANCHES:[master:69c337b04206297aae3d765c9b0e6990
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38;]|RELEASE:[none|none]
 adafruit/Adafruit-40-pin-TFT-Friend: BRANCHES:[master:f9efc2816b9a4665d219ac4bde7d5dddc7d82945;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_BMP: BRANCHES:[master:54b307fa6e5b039adffab5dcb6f506d70b8f3249;]|RELEASE:[1.5.4|none]
+adafruit/Adafruit_TSL2591_Library: BRANCHES:[master:a857bf93c10b5d60d02928c7a6c364e67ff5e0f3;gh-pages:f9d9699fd8df32acbe9e248a9526bf11566c36ff;actions:75f0fb9c34c7741796b80d30ae48650492fb2682;hoffmannjan-patch-1:8860a6edc41db43f2511deafc56bae127a7f06d5;]|RELEASE:[1.4.5|none]
