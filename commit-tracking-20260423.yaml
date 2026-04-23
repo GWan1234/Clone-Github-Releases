@@ -96,3 +96,4 @@ adafruit/Thermistor-test: BRANCHES:[master:decc864620a95bb15ae20fce10af666b1656f
 adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: BRANCHES:[master:c67f3c11a326cb13ff92d747d8009442a3d8c843;]|RELEASE:[none|none]
 adafruit/Adafruit_iCufflinks: BRANCHES:[master:a150f329582a90235f2d32650af52d1175c764c4;]|RELEASE:[none|none]
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec;]|RELEASE:[1.4.7|none]
+adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2;]|RELEASE:[none|none]
