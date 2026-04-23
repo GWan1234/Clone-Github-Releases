@@ -152,7 +152,6 @@ jobs:
 
           # =========================
           # 核心：获取 时间排序 TOP10 分支 commit + 最新 release
-          # 【已增强】按最新提交时间倒序，固定 TOP10，状态稳定不重复备份
           # =========================
           get_repo_current_state() {
             local repo="$1"
@@ -162,9 +161,8 @@ jobs:
             local branch_states=""
             local count=0
           
-            # 【关键】--sort=-committerdate = 按提交时间 最新 → 最旧
             while read -r line; do
-              [[ $count -ge 10 ]] && break  # 固定 TOP10
+              [[ $count -ge 10 ]] && break
               local name sha
               name="${line%%|*}"
               sha="${line#*|}"
@@ -341,36 +339,38 @@ jobs:
             REPO_JSON=$(fetch_repo_info "$REPO")
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
 
-            # =========================
-            # 【BUG 修复】必须先克隆，再获取状态！之前这里顺序错了
-            # =========================
             local MIRROR EXPORT
             MIRROR="tmp/${REPO_SLUG}.git"
             EXPORT="tmp/export/${REPO_SLUG}"
             mkdir -p "$EXPORT"
 
-            echo "🔽 Cloning repository for state check..."
+            echo "🔽 Cloning repository..."
             git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
               echo "❌ Clone failed, skip repo"
               cleanup
               return 0
             }
-
-            # 【正确】克隆后再生成状态
+            
+            # 拿到正确状态
             local CURRENT_STATE
             CURRENT_STATE=$(get_repo_current_state "$REPO" "$MIRROR" "$UPSTREAM_JSON")
 
-            # 关键：判断是否需要备份
-            if ! need_backup "$REPO" "$CURRENT_STATE"; then
-              echo "✅ Skip: $REPO (no changes)"
-              cleanup
-              return 0
+            # ======================
+            # 关键修复：强制备份一次，不再卡死
+            # ======================
+            if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
+              echo "🔴 No tracking file yet → force backup"
+            else
+              if ! need_backup "$REPO" "$CURRENT_STATE"; then
+                echo "✅ Skip: $REPO (no changes)"
+                cleanup
+                return 0
+              fi
+              echo "🔴 Changes detected → backup"
             fi
 
-            echo "🔴 Backup needed: $REPO (changes detected)"
-
             # =========================
-            # 【功能增强】按提交时间排序 → 取 TOP10
+            # 按提交时间排序 → 取 TOP10
             # =========================
             mapfile -t BRANCHES < <(
               git -C "$MIRROR" for-each-ref \
@@ -378,7 +378,7 @@ jobs:
                 --format='%(refname:short)' \
                 refs/heads 2>/dev/null || true
             )
-            BRANCHES=("${BRANCHES[@]:0:10}")  # 固定取最新 10 个
+            BRANCHES=("${BRANCHES[@]:0:10}")
 
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
@@ -386,7 +386,7 @@ jobs:
               return 0
             fi
 
-            echo "📦 Packaging ${#BRANCHES[@]} branches (sorted by latest commit time)..."
+            echo "📦 Packaging ${#BRANCHES[@]} branches (TOP10 latest)..."
             FILES=()
             IDX=0
 
@@ -421,7 +421,6 @@ jobs:
             build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
             FIRST_FILE="${FILES[0]}"
-            # ✅【修复】release 创建失败直接终止，不写 tracking
             if ! gh release create "$TAG" "$FIRST_FILE" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
@@ -434,7 +433,6 @@ jobs:
             fi
             echo "✅ Release created successfully"
 
-            # ✅【修复】上传失败标记错误
             echo "📤 Uploading ${#FILES[@]} files..."
             for ((i=1; i<${#FILES[@]}; i++)); do
               if ! safe_upload "${FILES[$i]}" "$TAG"; then
@@ -442,7 +440,6 @@ jobs:
               fi
             done
 
-            # ✅【修复】上游资产上传失败标记错误
             echo "🔗 Sync upstream assets..."
             ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
             if [[ -n "$ASSETS_DATA" ]]; then
@@ -464,12 +461,9 @@ jobs:
 
             rm -f "$NOTES_FILE"
 
-            # ✅【终极修复】只有 100% 成功才写入 tracking
             if [[ $error_occurred -eq 0 ]]; then
               echo "✅ Backup 100% SUCCESS → writing tracking"
-              local SIZE_GB=$(echo "scale=2; $TOTAL_SIZE / 1024 / 1024 / 1024" | bc)
-              local FINAL_STATE="${CURRENT_STATE}"
-              set_tracking "$REPO" "$FINAL_STATE"
+              set_tracking "$REPO" "$CURRENT_STATE"
               if ! sync_tracking; then
                 echo "❌ WARNING: Tracking sync failed"
                 error_occurred=1
@@ -504,7 +498,7 @@ jobs:
               done
             done
 
-            # 2) repositories ✅【修复】遍历所有真实存在的 key，永不中断
+            # 2) repositories
             echo -e "\n====================================="
             echo "==== Processing manual repositories ===="
             echo "====================================="
@@ -518,11 +512,10 @@ jobs:
             for KEY in "${ALL_KEYS[@]}"; do
               echo "➡️ Group: $KEY"
               mapfile -t REPOS < <(
-              yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositories.yaml 2>/dev/null \
-              | grep -v '^[[:space:]]*#' \
-              | sed '/^[[:space:]]*$/d' || true
-            )
-
+                yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositories.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
+              )
 
               for R in "${REPOS[@]}"; do
                 [[ -z "$R" ]] && continue
