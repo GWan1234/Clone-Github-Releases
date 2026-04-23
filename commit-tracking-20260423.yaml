@@ -935,3 +935,4 @@ adafruit/samd-peripherals: BRANCHES:[main:da0a1d7dccb34b7fa07738e7a8ce25118c88d1
 adafruit/Adafruit-ItsyBitsy-M4-Express-PCB: BRANCHES:[master:77ccac24a6eb36fca6f780fd45511d039f0e574f;]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M4-Express-PCB: BRANCHES:[master:4aafb2ac645c0d93eed7e4fd6cb71c8eef1a3ac6;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_L3GD20: BRANCHES:[main:2de0d35a5a4808793637ae2ea47911f899ed07f5;stemma_i2c:dfe2148e0cd4b2322ac3cccef5280384e2e0411f;patch-fix:537655868f1ef2329a5a1455bdc16c4ab5f53516;remove_debug_print:a2aa8e3e6112091d5cd624df0a456ce0460de0ce;]|RELEASE:[2.3.26|none]
+adafruit/esp8266-weather-station-color: BRANCHES:[tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0;]|RELEASE:[none|none]
