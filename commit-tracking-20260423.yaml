@@ -399,3 +399,4 @@ adafruit/FifteenStep: BRANCHES:[actionci:1fcbb1712b8078ba98e3b5786714528eeded3d4
 adafruit/Adafruit-NextBus: BRANCHES:[master:e87decc082bb10867b50d8c500fa9ec62be401eb;]|RELEASE:[none|none]
 adafruit/BLE_Colorific: BRANCHES:[master:b80af87eaf7551567ba882be85e8ebfdf397f2f7;]|RELEASE:[none|none]
 adafruit/Adafruit-Si4713-PCB: BRANCHES:[master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f;]|RELEASE:[none|none]
+adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB: BRANCHES:[master:8461d91e9c2a485d83ba2c7e3a984a1c105fe1d6;]|RELEASE:[none|none]
