@@ -2320,7 +2320,7 @@ adafruit/Pulse_Room: master:c7d92a53611a4d79694f548c5fe91b25433718f6;|none|SIZE:
 adafruit/Adafruit_remoteFXTrigger: master:f018b3b5323818cf93bd5e1005e849d102b8f610;|none|SIZE:6901
 adafruit/Adafruit_CircuitPython_Waveform: main:48b67b73b878afcaf42e5c58ddee4a9c90f6df6d;|2026-03-27T19:15:25Z|SIZE:17565
 adafruit/Adafruit_CircuitPython_RTTTL: main:29a8297a7cc2589158ecfe920c64fd9f97f43c37;|2026-03-27T19:14:43Z|SIZE:19104
-adafruit/Adafruit_MCP3008: master:94e5003152294bf6877da976e079af476de3544f;gh-pages:172dbc4597e2dc2fe4c3a45619c6fe4012783ba5;|2023-11-15T15:23:57Z|SIZE:346659
+adafruit/Adafruit_MCP3008: master:94e5003152294bf6877da976e079af476de3544f;gh-pages:172dbc4597e2dc2fe4c3a45619c6fe4012783ba5;|2023-11-15T15:23:57Z|SIZE:346660
 adafruit/arduino-esp32: xteink_pr:5ee2d4d4f7a7cf7977bb9e70b61e00822c55c6b3;wipper-esp3.3.6-idf5.5.2:b0fd41f6d70946439e236b4186e98182467421a3;wipper-esp3.3.5-pre-c0395df:c0395df7e038fe02186543c32eb6de3d12987636;wipper-esp3.3.3:731aee27927442ad3b591ee31e6fcfbfa0a10971;wipper-bsp-3.0.6-idf-5-1-4:b12bfa3361e8c6929cbe252398b0c0199b43edc9;|none|SIZE:126653091
 adafruit/Adafruit_CompositeVideo: master:5d40b02788e65fc3a5b0423828a9e3f7b94992e7;gh-pages:dfa96101bb408add0f0b0b5cf7c1bec5a6f8f4f8;|2026-03-03T14:48:25Z|SIZE:98056
 adafruit/Adafruit-PiOLED-128x32-PCB: master:41f958463af931f5eb51f1135b290f3378779290;|none|SIZE:998967
