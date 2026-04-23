@@ -12,6 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Delete releases and workflows runs
+        uses: ophub/delete-releases-workflows@main
+        with:
+          delete_releases: true
+          releases_keep_latest: 0
+          delete_workflows: true
+          workflows_keep_day: 0
+          gh_token: ${{ secrets.MY_TOKEN }}
+
+      - name: Delete releases and workflows runs
         uses: sgpublic/delete-release-action@v1.1
         with:
           # repo: '<owner>/<repoName>' # you can input a another repo here, defaults to current repo
