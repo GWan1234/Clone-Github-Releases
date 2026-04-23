@@ -165,3 +165,4 @@ adafruit/Adafruit_ADS1X15: BRANCHES:[master:3d16518ab00f9f2f05473fc46930a312e72a
 adafruit/Adafruit_ADXL345: BRANCHES:[master:8e799d73d8eca7e6c00e74f7cecd325f6d88e113;gh-pages:5625dbf761417226c470f84b8f1422267446c57c;]|RELEASE:[1.3.4|none]
 adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859;]|RELEASE:[none|none]
 adafruit/Adafruit-Prototyping-Pi-Plate-PCB: BRANCHES:[master:e54e072a655814936e89cb3c01314b95d48c88b4;]|RELEASE:[none|none]
+adafruit/Adafruit-PN532-RFID-NFC-Breakout: BRANCHES:[master:d614276a3168bd402d0729daa7bd94c406de7beb;]|RELEASE:[none|none]
