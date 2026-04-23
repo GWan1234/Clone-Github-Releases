@@ -326,3 +326,4 @@ adafruit/Adafruit_FONA: BRANCHES:[master:226211877714ecf64a0bf14605d87b30000cf5f
 adafruit/Adafruit-TPA2016-PCB: BRANCHES:[master:cad449b53378a89066d524a24f085207d74faf06;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_LED_Backpack: BRANCHES:[master:a0a91e0bb0a9a16f898b591137a9f091dee6b4ee;]|RELEASE:[none|none]
 adafruit/Adafruit_MPR121: BRANCHES:[master:e4abfcd40be1ed471b6ab0280b133f0d8ab23c25;gh-pages:8035655cd33d2dc11d21632134b55a5d31426a64;busio:95bf9b5e24ca02150841bdc1b311cdd7b37f046e;]|RELEASE:[1.2.1|none]
+adafruit/Adafruit_MMA8451_Library: BRANCHES:[master:a97c1b328bd067b6e99f1df5c8ac93dd444bedff;gh-pages:44622074cc97ffbde23d346a0e3e85443fc47140;actionci:72ddc74429869636f7a539edf53b960b3ec06581;]|RELEASE:[1.2.3|none]
