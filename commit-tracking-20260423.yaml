@@ -469,3 +469,4 @@ adafruit/io-api: BRANCHES:[main:2995a32c86d184bd401781df3c7f297e70ca6341;]|RELEA
 adafruit/Uncanny_Eyes: BRANCHES:[master:d2103e84aa33da9f6924885ebc06d880af8deeff;]|RELEASE:[none|none]
 adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB: BRANCHES:[master:2fa8e23b2653935aaf2ee6c1171b122358689485;]|RELEASE:[none|none]
 adafruit/adafruit-bluefruit-le-desktop: BRANCHES:[master:d601794ba56041afc49df64014fea93ad1406933;]|RELEASE:[none|none]
+adafruit/io-swagger-templates: BRANCHES:[master:1eb516b553057f9a7eae1cc409541621fe9b95af;]|RELEASE:[none|none]
