@@ -1008,3 +1008,4 @@ adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc76
 adafruit/Adafruit_CircuitPython_TinyLoRa: BRANCHES:[main:8ce86dd45d300233e6ac3ad40b3006cada9be176;]|RELEASE:[2.2.24|none]
 adafruit/Adafruit_Python_PlatformDetect: BRANCHES:[main:31cac12b3606b80aaca14195400d4798b9fbc44e;dhalbert-patch-1:d8a1cc223755cf5ac9c9ed1faf00ffb519ccc292;96boards:dcdd646251091cc02825e2bb6a5352a05c60d140;]|RELEASE:[3.88.0|none]
 adafruit/Adafruit_CircuitPython_MotorKit: BRANCHES:[main:9dfb00ac6a45cf2120ddf25a43053f4aa237b11d;patch-fix:8e332122446476d8417712c1b6c6bf699691ada3;REUSE:ce903aedaa06666c68479cfd061def461fdfe908;travisyml-update:cb15f98ec2be7af425f5c6aeb611e399fb04bbec;]|RELEASE:[1.6.20|none]
+adafruit/Adafruit_CircuitPython_miniesptool: BRANCHES:[main:d1497390c629d3d62dfb7a2b7d78365a689048cf;REUSE:cc6dc83cf28754bbd3e19fce87721351774b9ebd;]|RELEASE:[0.2.27|none]
