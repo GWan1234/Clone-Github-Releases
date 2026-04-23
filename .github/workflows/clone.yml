@@ -30,7 +30,7 @@ jobs:
       - name: Install deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq yq gh git curl p7zip-full coreutils
+          sudo apt-get install -y jq yq gh git curl p7zip-full coreutils bc
 
       - name: Run backup
         env:
@@ -48,11 +48,8 @@ jobs:
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
           TRACKING_FILE="commit-tracking-${NOW_DATE}.yaml"
 
-          if [[ -f "$TRACKING_FILE" ]]; then
-            LAST_TRACKING_FILE="$TRACKING_FILE"
-          else
-            LAST_TRACKING_FILE=$(ls -1 commit-tracking-*.yaml 2>/dev/null | sort -r | head -n1 || true)
-          fi
+          # 永远使用上一个历史文件做对比
+          LAST_TRACKING_FILE=$(ls -1 commit-tracking-*.yaml 2>/dev/null | sort -r | head -n1 || true)
 
           # =========================
           # 安全函数
@@ -117,6 +114,9 @@ jobs:
           set_tracking() {
             local repo="$1"
             local state="$2"
+            if [[ ! -f "$TRACKING_FILE" ]]; then
+              echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
+            fi
             yq -y -i --arg repo "$repo" --arg state "$state" '.[$repo] = $state' "$TRACKING_FILE"
           }
 
@@ -131,11 +131,15 @@ jobs:
             echo "✅ Tracking file synced"
           }
 
+          # =========================
+          # 核心：获取 5 个分支 commit + 最新 release commit
+          # =========================
           get_repo_current_state() {
             local repo="$1"
             local repo_json="$2"
             local release_json="$3"
 
+            # 1. 获取前 5 个分支最新 commit
             local branches_data
             branches_data=$(curl -fsSL --retry 1 --max-time 20 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
@@ -152,34 +156,42 @@ jobs:
               fi
             done < <(echo "$branches_data" | jq -c '.[]?' 2>/dev/null || true)
 
-            local release_time
-            release_time=$(echo "$release_json" | jq -r '.published_at // "none"' 2>/dev/null || echo "none")
-            echo "${branch_states}|${release_time}"
+            # 2. 获取最新 release 的 tag_name + published_at + commitish
+            local rel_tag rel_time rel_commit
+            rel_tag=$(echo "$release_json" | jq -r '.tag_name // "none"' 2>/dev/null || echo "none")
+            rel_time=$(echo "$release_json" | jq -r '.published_at // "none"' 2>/dev/null || echo "none")
+            rel_commit=$(echo "$release_json" | jq -r '.target_commitish // "none"' 2>/dev/null || echo "none")
+
+            # 最终唯一状态 ID
+            echo "BRANCHES:[${branch_states}]|RELEASE:[${rel_tag}|${rel_commit}|${rel_time}]"
           }
 
+          # =========================
+          # 核心：只要任意一个变化 → 必须备份
+          # 无论是否变化 → 都写入新文件
+          # =========================
           need_backup() {
             local repo="$1"
             local current_state="$2"
 
-            if [[ -f "$TRACKING_FILE" ]]; then
-              local today_state
-              today_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$TRACKING_FILE" 2>/dev/null || true)
-              if [[ -n "$today_state" && "$today_state" == "$current_state" ]]; then
-                return 1
-              fi
-            fi
+            # 永远写入最新状态到新文件
+            set_tracking "$repo" "$current_state"
 
+            # 如果没有历史记录 → 必须备份
             if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
               return 0
             fi
 
+            # 对比历史状态
             local last_state
             last_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$LAST_TRACKING_FILE" 2>/dev/null || true)
 
-            if [[ -z "$last_state" || "$last_state" != "$current_state" ]]; then
+            # 不一样 = 需要备份
+            if [[ "$last_state" != "$current_state" ]]; then
               return 0
             fi
 
+            # 完全一样 = 跳过备份
             return 1
           }
 
@@ -232,16 +244,16 @@ jobs:
             printf -- "- Backup time: %s\n" "$RELEASE_TIME"
             printf -- "\n## 🔍 Incremental Backup\n"
             printf -- "- Track 5 latest branches commits\n"
-            printf -- "- Backup triggered by changes\n"
+            printf -- "- Track latest release commit & tag\n"
+            printf -- "- Backup triggered by any change"
           }
 
           # =========================
-          # 获取一个用户/组织的全部 public repo (修复分支)
+          # 获取一个用户/组织的全部 public repo
           # =========================
           get_all_repos() {
             local owner="$1"
             
-            # 1. 探测类型
             local user_info
             user_info=$(curl -sSL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
               "https://api.github.com/users/$owner")
@@ -250,8 +262,7 @@ jobs:
             type=$(echo "$user_info" | jq -r '.type // empty')
 
             if [[ -z "$type" ]]; then
-              echo "❌ Error: Could not resolve owner type for $owner. Response:" >&2
-              echo "$user_info" | jq -C '.' >&2
+              echo "❌ Error: Could not resolve owner type for $owner." >&2
               return 0
             fi
 
@@ -262,20 +273,16 @@ jobs:
               api_endpoint="users/$owner/repos"
             fi
 
-            # 2. 循环分页
             local page=1
             while true; do
               local data
               data=$(curl -sSL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
                 "https://api.github.com/${api_endpoint}?per_page=100&page=$page")
 
-              # 验证 JSON 有效性，防止被 403/401 吞掉
               local is_array
               is_array=$(echo "$data" | jq 'if type=="array" then true else false end')
-
               if [[ "$is_array" != "true" ]]; then
-                echo "❌ API Error fetching repos for $owner (Page $page):" >&2
-                echo "$data" | jq -C '.' >&2
+                echo "❌ API Error fetching repos for $owner (Page $page)" >&2
                 break
               fi
 
@@ -316,9 +323,9 @@ jobs:
             local CURRENT_STATE
             CURRENT_STATE=$(get_repo_current_state "$REPO" "$REPO_JSON" "$UPSTREAM_JSON")
 
+            # 关键：判断是否需要备份
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
-              echo "✅ Skip: $REPO (no changes in 5 branches)"
-              set_tracking "$REPO" "$CURRENT_STATE"
+              echo "✅ Skip: $REPO (no changes)"
               sync_tracking
               cleanup
               return 0
@@ -402,7 +409,6 @@ jobs:
 
             echo "🔗 Sync upstream assets..."
             ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
-
             if [[ -n "$ASSETS_DATA" ]]; then
               while read -r asset; do
                 [[ -z "$asset" ]] && continue
@@ -418,22 +424,17 @@ jobs:
 
             rm -f "$NOTES_FILE"
 
-            if [[ $error_occurred -eq 0 ]]; then
-              # 在状态字符串末尾附加大小信息存入 tracking
-              local FINAL_STATE="${CURRENT_STATE}|SIZE:${TOTAL_SIZE}"
-              set_tracking "$REPO" "$FINAL_STATE"
-              sync_tracking
-            fi
+            # 记录大小（GB）
+            local SIZE_GB=$(echo "scale=2; $TOTAL_SIZE / 1024 / 1024 / 1024" | bc)
+            local FINAL_STATE="${CURRENT_STATE}|SIZE:${SIZE_GB}GB"
+            set_tracking "$REPO" "$FINAL_STATE"
+            sync_tracking
 
             cleanup
             [[ $error_occurred -eq 0 ]] && echo "✅ Backup success: $REPO" || echo "⚠️ Backup finished with warnings"
           }
 
           process_all() {
-            if [[ ! -f "$TRACKING_FILE" ]]; then
-              echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
-            fi
-
             # 1) allrepositories
             mapfile -t OWNERS < <(
               yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
@@ -448,7 +449,7 @@ jobs:
               echo "====================================="
 
               mapfile -t REPOS < <(get_all_repos "$O" | grep -v '^$' || true)
-              [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos found (or check error log above)"; continue; }
+              [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos found"; continue; }
 
               for R in "${REPOS[@]}"; do
                 backup_repo "$R"

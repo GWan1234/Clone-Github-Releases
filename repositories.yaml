@@ -1,35 +1,37 @@
 allrepositories:
-  - anzhiyu-c
+#  - anzhiyu-c
   - cockpit-project
-  - hacs
-  - esphome
-  - domoticz
-  - ioBroker
-  - OpenListTeam
-  - Finb
-  - algerkong
-  - ScottSloan
-  - obsproject
-  - antimof
-  - leapbtw
-  - AlistGo
-  - localsend
-  - thelastoutpostworkshop
-  - adafruit
-  - sonocotta
-  - rednblkx
-  - HomeSpan
-  - Andryushik
-  - arendst
-  - Koenkk
-  - emqx
-  - qlwz
-  - a2633063
+#  - hacs
+#  - esphome
+#  - domoticz
+#  - ioBroker
+#  - OpenListTeam
+#  - Finb
+#  - algerkong
+#  - ScottSloan
+#  - obsproject
+#  - antimof
+#  - leapbtw
+#  - AlistGo
+#  - localsend
+#  - thelastoutpostworkshop
+#  - adafruit
+#  - sonocotta
+#  - rednblkx
+#  - HomeSpan
+#  - Andryushik
+#  - arendst
+#  - Koenkk
+#  - emqx
+#  - qlwz
+#  - a2633063
 #  - unifreq
 #  - ophub
 #  - home-assistant
 #  - rustdesk
 #  - armbian
+#  - LilyGO
+#  - Xinyuan-LilyGO
 
 repositories:
   name0:
