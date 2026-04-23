@@ -86,3 +86,4 @@ adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a7
 adafruit/SD: BRANCHES:[master:041f788250d00157918e073825e35603e1ac3cbd;]|RELEASE:[none|none]
 adafruit/Adafruit_MintyBoost_PCB: BRANCHES:[master:ba585c4538bc26ebedb089dd746fca42d2931783;]|RELEASE:[none|none]
 adafruit/SPI_VFD: BRANCHES:[master:69e0f7f4105c535b182f41514e6674a396b32acc;gh-pages:80db41da6b1cedd72ab2a4d477edc98a6af0cee9;]|RELEASE:[1.1.4|none]
+adafruit/LS2208-USB-Barcode-Scanner: BRANCHES:[master:e0649268db70c54e7d4be64f7317b55b6d29708d;]|RELEASE:[none|none]
