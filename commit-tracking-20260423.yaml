@@ -24,3 +24,4 @@ cockpit-project/org.cockpit_project.CockpitClient: BRANCHES:[]|RELEASE:[none|non
 cockpit-project/subscription-manager-cockpit: BRANCHES:[]|RELEASE:[14.1|2df9566f87721b92f138be28d1ff20045a386a1d|2026-04-13T12:05:10Z]|SIZE:0GB
 cockpit-project/action-release: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/console.dot: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpit-files: BRANCHES:[]|RELEASE:[40|29c76da906008871334bf9b34ef4abb2e96d7302|2026-04-21T11:34:29Z]|SIZE:0GB
