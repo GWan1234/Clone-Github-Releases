@@ -713,3 +713,4 @@ adafruit/Adafruit_FXOS8700: BRANCHES:[master:03d807192e5a731f0298143ab20ebcc42e8
 adafruit/Adafruit-Music-Maker-FeatherWing-PCB: BRANCHES:[master:8721087a4720070e3c38f449119976e4316446ef;]|RELEASE:[none|none]
 adafruit/MicroPython_TravisCI_Deploy: BRANCHES:[master:307afb12fd1112dcd0395f38f0aaa55819876e8f;]|RELEASE:[none|none]
 adafruit/Adafruit-CP2104-Friend-PCB: BRANCHES:[master:4684fff897c221bcf2539f7125dbf4c11cbf1564;]|RELEASE:[none|none]
+adafruit/BNO055_Demo: BRANCHES:[master:dec5b9ded60a3bc3d878543a4b2b671b5ae07b8e;]|RELEASE:[none|none]
