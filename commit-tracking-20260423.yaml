@@ -933,3 +933,4 @@ adafruit/awesome-adafruitio: BRANCHES:[master:4f82a243d30de770ff8fd3273d3db54381
 adafruit/circuitpython_jupyter_kernel: BRANCHES:[master:b4e1743ad432b1ca698f17b0e284f9e79de35f74;fix-version-nu:cf9e9c8c5919e5fde01dbe372916cdbe3973e5df;rtd-work:2e0838de7cb1d786b6a6997f2d4b39b2d90e26d7;]|RELEASE:[0.6.0|none]
 adafruit/samd-peripherals: BRANCHES:[main:da0a1d7dccb34b7fa07738e7a8ce25118c88d1a3;spi-dma-fixes:a1f1504d414387fc3ff48dc2ba98fd7af4461a63;atomic-spi-startup:e376cabb69c617ff9a1a433fa05d8f166f0cbe25;syncbusy-timers:1b8d817240901b02096f43e3f914662a09861824;]|RELEASE:[none|none]
 adafruit/Adafruit-ItsyBitsy-M4-Express-PCB: BRANCHES:[master:77ccac24a6eb36fca6f780fd45511d039f0e574f;]|RELEASE:[none|none]
+adafruit/Adafruit-Metro-M4-Express-PCB: BRANCHES:[master:4aafb2ac645c0d93eed7e4fd6cb71c8eef1a3ac6;]|RELEASE:[none|none]
