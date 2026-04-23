@@ -636,7 +636,7 @@ adafruit/SDWebBrowse: master:429f394ac41bf7cce3d8d2dd8f0943ee986c5d76;|none|SIZE
 adafruit/Adafruit-MCP23008-library: master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567;|2020-09-16T18:56:21Z
 adafruit/Adafruit_LiquidCrystal: zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b;master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;|2023-11-15T15:24:11Z|SIZE:183752
 adafruit/Adafruit-Motor-Shield-library: master:d81504057474e940de7f0a0934f19c626846a154;|2018-12-06T21:15:12Z
-adafruit/Adafruit_FTDI-Friend-PCB: master:5525f3a2a2a0bf62e60e2db7f8cf0dcab3b69713;|none|SIZE:552644
+adafruit/Adafruit_FTDI-Friend-PCB: master:5525f3a2a2a0bf62e60e2db7f8cf0dcab3b69713;|none|SIZE:552643
 adafruit/Adafruit_SSD1306: zero:5674153e88a71d8b7cf035787caa7eb06d7484df;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;master:74cc197f485cd17f68016bc323e10085e8d261f9;gh-pages:18800cb7c62ab0627dee6f6c758d24ec8761795b;|2025-12-05T14:40:05Z|SIZE:153924
 adafruit/Raw-IR-decoder-for-Arduino: master:e23d69394b9e7c8e9a0652f09342afdfa1cfc7e2;|none|SIZE:2014
 adafruit/Nikon-Intervalometer: master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2;|none|SIZE:1494
