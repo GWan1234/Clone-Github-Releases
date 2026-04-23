@@ -966,3 +966,4 @@ adafruit/arduino-lmic: BRANCHES:[master:ba1265d5d2f775177cdc7c82186724e4f0bdc3a8
 adafruit/Adafruit_CircuitPython_HTU21D: BRANCHES:[main:d8354f88bbe47bab30f4053436dad660e800709e;dhalbert-ustruct:3cd9a43499c8ad41eb9298809689648bf0a3c9df;]|RELEASE:[0.11.21|none]
 adafruit/Adafruit_CircuitPython_miniQR: BRANCHES:[main:c609df93ae520b0d8dd4b0b2444d9de9065f58a0;]|RELEASE:[2.1.8|none]
 adafruit/Adafruit-NeoTrellis-4x4-PCB: BRANCHES:[master:d9c12effecfbaab5c55e2c96186188166340862a;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_CAP1188: BRANCHES:[main:32928c232587a9ffa930cbac693b90f719286a31;patch-fix:01663b092fd4d660ceabca0b7082fba4aaa4f05d;]|RELEASE:[1.3.18|none]
