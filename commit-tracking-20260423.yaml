@@ -1096,3 +1096,4 @@ adafruit/SdFat: BRANCHES:[master:20f3ffa005c1db4e8184735329afbf7e5c90a66a;upstre
 adafruit/Adafruit-Metro-M4-Express-AirLift-PCB: BRANCHES:[master:502637b33ce97a9a3048938506316001ef6dcd72;]|RELEASE:[none|none]
 adafruit/MakerFaireBayArea2019: BRANCHES:[master:92b9600dbbc761ea3b262291383f5aadd6b5f613;]|RELEASE:[none|none]
 adafruit/Adafruit-PyBadge-PCB: BRANCHES:[master:992e322d5b4b0b9a2b60a809ba2ebaa2b0cfe090;]|RELEASE:[none|none]
+adafruit/Adafruit-INA260-PCB: BRANCHES:[master:6fbc2f2fd8afe26760e791ae2f3d00977a3f1d6b;]|RELEASE:[none|none]
