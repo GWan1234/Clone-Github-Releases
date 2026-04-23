@@ -369,3 +369,4 @@ adafruit/Pi_Node_Example: BRANCHES:[master:7ddf92a9b8c52ab6dd199430f5b89714913ea
 adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: BRANCHES:[master:28187bf4de497bd6bcff28d3767473f78b46038d;]|RELEASE:[none|none]
 adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB: BRANCHES:[master:cb76b1dcdf8be3f4f506ec89adc563f6022a0e07;]|RELEASE:[none|none]
+adafruit/Adafruit-Pi-Finder: BRANCHES:[v4:329847e9ba2539654a6e658568a058daf42e0c92;master:d686bad555d2b97390e6b0d690c3498921c059cb;]|RELEASE:[3.0.0|none]
