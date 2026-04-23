@@ -492,3 +492,4 @@ adafruit/Adafruit-Bluefruit-LE-Micro-PCB: BRANCHES:[master:b96e10fc1481de5e03bc5
 adafruit/Adafruit-LM3671-Buck-Converter-PCB: BRANCHES:[master:7635cfe1f15899a86acc20f0ee553fb4e0e780c7;]|RELEASE:[none|none]
 adafruit/Flora_Demos: BRANCHES:[master:3232f66ed232af7cc4655c52640012b607332169;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5;]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: BRANCHES:[master:1de541ff46165575234d826ae64be64a82e8bc93;]|RELEASE:[none|none]
