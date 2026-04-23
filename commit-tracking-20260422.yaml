@@ -732,7 +732,7 @@ adafruit/Adafruit_INA219: master:ce59837b4a8feccd767c67d26806a0bd89d1d8eb;gh-pag
 adafruit/Adafruit-MAX31855-library: master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae;|2023-11-15T15:30:22Z
 adafruit/Adafruit-MAX31855-breakout-board: master:5b12736f17d53d22d9dc4287e4f2129bc876d180;|none
 adafruit/Adafruit-PN532-RFID-NFC-Shield: master:c22321c82ec1510522fa394c15ca7cf79c298208;|none|SIZE:479743
-adafruit/Adafruit_LED_Backpack: master:c4ec1328fda9e4cbf355f6e407346347b4d207e2;gh-pages:54ab0b8ddf2855d067bbf8e61a0d354b438d4dbf;actionsci:25b2d63dc03f6dc93dffdbc268d7f634dfc01ab4;|2024-02-13T12:37:49Z|SIZE:202061
+adafruit/Adafruit_LED_Backpack: master:c4ec1328fda9e4cbf355f6e407346347b4d207e2;gh-pages:54ab0b8ddf2855d067bbf8e61a0d354b438d4dbf;actionsci:25b2d63dc03f6dc93dffdbc268d7f634dfc01ab4;|2024-02-13T12:37:49Z|SIZE:202060
 adafruit/Adafruit-LED-Backpacks: master:a58b392b20838c60256d767576a823a6984f7284;|none
 adafruit/Adafruit_MPL115A2: master:0cbecc86371846d60aa79cb45485182ef43e1ddb;gh-pages:a68a54ff7d68c2df91c565bb0a759c8ed11953f6;busio:e982bd0e9b7ff4a84d6fb0ee5a343e51fa4ad51f;|2023-10-17T14:21:02Z|SIZE:634319
 adafruit/Adafruit_ADS1X15: revert-89-misc_volts:2d315b5dca57e2b11da0a1c0f4451115f2cb85fe;master:3d16518ab00f9f2f05473fc46930a312e72af685;gh-pages:7fb1fddbfa128d5fd268890549e17e3015fbc8b9;|2026-01-20T16:36:50Z
