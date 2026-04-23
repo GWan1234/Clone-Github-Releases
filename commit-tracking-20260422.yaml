@@ -1330,7 +1330,7 @@ adafruit/Adafruit_CircuitPython_OneWire: main:cc3c86d112ff1aaf6bfcc28fd544741501
 adafruit/IRLibCP: master:2caa7720bd941bca2a44f7efa7a3d64696f8f261;|none|SIZE:660946
 adafruit/Adafruit_CircuitPython_INA219: main:8511c3a8e1efe3a474b26620e385d2f1114832fd;REUSE:f155504dffd553e4caf4b6671c085bf3f2b4d2e3;|2026-03-27T18:59:24Z|SIZE:45792
 adafruit/Adafruit_CircuitPython_SGP30: main:b61dca0704021fa7a7affa7be8eb6afd907d8526;|2026-03-27T19:03:38Z|SIZE:19625
-adafruit/Adafruit_CircuitPython_BMP280: pypi-readme-update:37974d2adadc58655623bac5553502172804432d;patch-fix:65aca3e7c6a0e009d9634cf2b8fdb9f508205b7b;main:6cea45b8f7e1e337b43fff33fdbb8e061ffcee01;dhalbert-ustruct:cf823bf6ef86d1408c0aaf2a6b2994d82ba4943c;|2026-03-27T18:56:48Z|SIZE:89317
+adafruit/Adafruit_CircuitPython_BMP280: pypi-readme-update:37974d2adadc58655623bac5553502172804432d;patch-fix:65aca3e7c6a0e009d9634cf2b8fdb9f508205b7b;main:6cea45b8f7e1e337b43fff33fdbb8e061ffcee01;dhalbert-ustruct:cf823bf6ef86d1408c0aaf2a6b2994d82ba4943c;|2026-03-27T18:56:48Z|SIZE:89315
 adafruit/Adafruit_CircuitPython_TSL2561: main:eb50af30525f44d33501ada8e5b7c398824c8922;|2026-03-27T19:05:50Z|SIZE:19559
 adafruit/Audio: master:66d81f2f46bb52faf7e43db0eef14eac6637f612;2019_04_18_upstreammerge:c99f3e7808fda2cccd914a4ed4f3d0cc0920773d;|2020-01-24T16:35:54Z|SIZE:8955013
 adafruit/Adafruit-3.5in-TFT-Featherwing-PCB: master:824a68056b2b102a71621405b9bd683ddf38796b;|none
