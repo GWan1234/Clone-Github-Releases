@@ -1051,3 +1051,4 @@ adafruit/Adafruit-AR: BRANCHES:[iOS-17-Update:dd155da5531986d0d2ba91872a90fa7221
 adafruit/Adafruit_CircuitPython_VEML7700: BRANCHES:[main:ec67cea8e3b26a5ca69d8c1d854f149d761abfd4;]|RELEASE:[2.2.1|none]
 adafruit/Adafruit_CircuitPython_AdafruitIO: BRANCHES:[main:17a665dfc17fba382ff137dee6b517ce7477b1d8;mqtt-integration-tests-cpython:3fab687f2edeaab98be940e5bf94fa61dd262e47;copilot/add-air-quality-api:418c310a1b17fe1cb3f3e49b58ce6b621cb4601b;docs_req_fixes:30667b9b9865d14128f6f3b8202d53dfe1c49109;fix_rtd_theme:ed8153fb88c92a34f057a827af49cfdd2f6aef7c;discord-fix:160a5e67c979bbe81af359b28370765841f07c06;example-rename-move:c2b262e73b2094cb71e959903d097a4d82ab8e4e;]|RELEASE:[6.1.1|none]
 adafruit/rplidar: BRANCHES:[master:8ac97ed8c4c96291bb935438134c548ee93ad46c;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_PyPortal: BRANCHES:[main:ae8483518afdec4848e8536a39616a036d2c6b23;patch-fix:f66b129ffe551f36b09ba30dab7d3f7969779a2d;]|RELEASE:[7.1.3|none]
