@@ -1109,3 +1109,4 @@ adafruit/Adafruit_GhostFAT: BRANCHES:[master:0c2352e3e2dd8edcaf9186ac5d4dd25d2cd
 adafruit/Adafruit-MCP9600-PCB: BRANCHES:[master:59ed646dfbeafb9d4124db583fe9df9532cd3a07;]|RELEASE:[none|none]
 adafruit/Adafruit-AirLift-FeatherWing-PCB: BRANCHES:[master:c8631c7eeed9f69f61403827fa0e0d247da1ea8e;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_RGBLED: BRANCHES:[main:65d0326ff06314375bc9ba7a96a497cd7941f334;patch-fix:f0f7bb7847dbf19269294c7cadac4e519ae3009f;discord-fix:747ad0ab6ffa71d460025875d0bd59f376d2ce56;]|RELEASE:[1.2.6|none]
+adafruit/awesome-makecode: BRANCHES:[master:bd9c5d3afca8996f9c5cb462da30de64fe8c6895;]|RELEASE:[none|none]
