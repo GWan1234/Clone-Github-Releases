@@ -694,3 +694,4 @@ adafruit/Adafruit_MAX31865: BRANCHES:[master:02dd3393d9750ca6e227be84b0e3b795a69
 adafruit/Adafruit-MAX31865-PCB: BRANCHES:[master:456676008584923c0892454c5a9b0b33346f05f2;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_DS1307: BRANCHES:[main:2a46b585865e930fbad35984477667a133d8008a;use_ruff:63cc2f86834159f12b45f9fe7f0451f5060e69bf;]|RELEASE:[2.1.26|none]
 adafruit/Adafruit_CircuitPython_DS3231: BRANCHES:[main:552104c8aed472c7437413e94b8954e63b4a4d4d;REUSE:d87023164096a0f3e86663f961a77b4780a0399c;lowercase_module_name:14a7b38d7714792c84039e4d07d1055c7800356f;doc_fix:5906417b30b895edd365e4882528e2022a5e4577;]|RELEASE:[2.4.27|none]
+adafruit/Adafruit_CircuitPython_PCF8523: BRANCHES:[main:e1f70bfef202fb1b3dd815e59cbf00a5d26cd5b1;docs_req_fixes:bd4d237ddd5956207377d699396995e4df3b9dc1;discord-fix:f0e059aebf091b4c0048737cceebe7477d4b5703;]|RELEASE:[2.0.8|none]
