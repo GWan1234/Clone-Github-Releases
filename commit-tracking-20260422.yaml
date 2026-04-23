@@ -1020,7 +1020,7 @@ adafruit/Adafruit_nRF51822_Flasher: master:ca606ce6fe82219cf6a66ca7d764ee0245696
 adafruit/Adafruit-Git-Intro: master:48468f4f7f39642ed24cbe04debc915ac0f0c1c9;|none
 adafruit/ci-arduino: master:98013dfdfce85b074df37822736861472e2f4495;local-build-mac:6963246a307659c73836c009911f3e495f197378;increase-timeout:f33b09ee58df38e5d25dcc4560340155940e4d79;copilot/update-to-gh-cli-for-cloning:3c94fb0b0cd4f8a5dc16c5809b34da7bad5c94fb;ci-wippersnapper-show-config:b5031f56e3efcf00be9aaeca18e36ece13c1e091;|none|SIZE:238424
 adafruit/Adafruit_HDC1000_Library: master:e1622912148faba94e5c44f33bf0b9526d58c2a0;gh-pages:c6b734ced6ae17d1d561a2737e31afff5b55c5fa;busio:3178b20b72df3e5e45535bc4af4240bf52a0204f;|2023-10-03T20:31:28Z|SIZE:95038
-adafruit/gpio-stream: master:a14e0f5a1cf2fadbed047a80cdc4118b555df842;|none|SIZE:1531291
+adafruit/gpio-stream: master:a14e0f5a1cf2fadbed047a80cdc4118b555df842;|none|SIZE:1531292
 adafruit/Adafruit_Python_BNO055: master:ce9d7ae76cb23b8962d2dddc48f943bd8416831d;|none|SIZE:1650950
 adafruit/Adafruit-INA169-Breakout-PCB: master:8c1084623d75d41d05dd5070c191f7a1176434ca;|none
 adafruit/Adafruit_BME280_Library: mjs513-master:79258774941006851e713e9decd56667920cc002;master:ef712e95147de926b4545e379f6296ad271529b5;gh-pages:ad3403f38da6c42166fbe0278aed5110d1bb233a;actions:ed29ee6360ce824c7f68b77c446aeceb7caf4292;|2025-04-30T13:35:17Z
