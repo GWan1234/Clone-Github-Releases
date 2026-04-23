@@ -186,7 +186,7 @@ jobs:
             printf "%s\n" "${all_branches[@]}" \
               | jq -s 'sort_by(.commit.commit.author.date) | reverse | .[]' -c \
               | while read -r br; do
-                if [[ $count -ge 5 ]]; then break; fi
+                if [[ $count -ge 10 ]]; then break; fi
                 local name sha
                 name=$(echo "$br" | jq -r '.name // ""')
                 sha=$(echo "$br" | jq -r '.commit.sha // ""')
@@ -391,7 +391,7 @@ jobs:
                 --format='%(refname:short)' \
                 refs/heads 2>/dev/null || true
             )
-            BRANCHES=("${BRANCHES[@]:0:5}")
+            BRANCHES=("${BRANCHES[@]:0:10}")
 
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
