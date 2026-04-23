@@ -130,3 +130,4 @@ adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d889
 adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7;gh-pages:bc4e069d763a365765d209be4b1c9d147f17f9ef;actionci:ba3d0f9fb3de8d72c5dc163b7191164b877e3827;]|RELEASE:[1.2.2|none]
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9;]|RELEASE:[none|none]
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de;]|RELEASE:[none|none]
+adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb;]|RELEASE:[none|none]
