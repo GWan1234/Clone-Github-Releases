@@ -921,7 +921,7 @@ adafruit/Trinket_Arduino_Linux: master:827471769d16bbf7816a6bf8b1fe6d716cf684b4;
 adafruit/Adafruit-TMP006-and-TMP007-PCB: master:84323b3001cdc9efe614bf6d703c1444c3d275b8;|none
 adafruit/Adafruit_Python_TMP: master:258b29f7b730e4534808c27473a76de84e765e58;|2018-08-30T19:12:45Z|SIZE:9253
 adafruit/Adafruit_Python_MCP9808: master:5524605a15cfce5668f259de72c88d5be74565f4;|2018-08-30T19:13:28Z|SIZE:8233
-adafruit/Adafruit_Python_MAX31855: master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9;|none|SIZE:8986
+adafruit/Adafruit_Python_MAX31855: master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9;|none|SIZE:8987
 adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs: master:04f6f23f995a4a0c8b944c07b2d74d602898c528;|none
 adafruit/FreqShow: master:53c517eba98ab11b2d119d9e5b366aba9630e432;|none|SIZE:15096
 adafruit/Adafruit-Pro-Trinket-PCBs: master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a;|none|SIZE:1315947
