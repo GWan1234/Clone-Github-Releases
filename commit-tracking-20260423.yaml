@@ -649,3 +649,4 @@ adafruit/Adafruit-LIS3DH-Breakout-PCB: BRANCHES:[master:f5f3e1b33fec19a56b2c14c6
 adafruit/Adafruit-Feather-32u4-Adalogger-PCB: BRANCHES:[master:c7e87d6e0feb5d3e048c3715038c0e4ce71cdfa0;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-Shield-PCB: BRANCHES:[master:6b86d1bdaa0a1058f4738f09524606a86cd793ce;]|RELEASE:[none|none]
 adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: BRANCHES:[master:c5bdfe4c8e860cee7400539d6e45a235da7afcd2;]|RELEASE:[none|none]
+adafruit/Adafruit-DS2413-PCB: BRANCHES:[master:a5aeeffa483ae80c718e9cb3cd23ea769cd5321b;]|RELEASE:[none|none]
