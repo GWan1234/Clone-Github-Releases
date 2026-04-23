@@ -679,3 +679,4 @@ adafruit/Adafruit_Newtmgr_Swift: BRANCHES:[xcode9:2cbbf3baed3bc612c12e08352f4c32
 adafruit/Adafruit-Ultimate-GPS-HAT-PCB: BRANCHES:[master:73b23e57b2c80f36aa1405aa67be887b5dabe68e;]|RELEASE:[none|none]
 adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB: BRANCHES:[master:0c0c72915d3f1a48031f893c11a9e7c903f5cbf9;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB: BRANCHES:[master:7b570b683977344c6326c91de085fa2087e38a5d;]|RELEASE:[none|none]
+adafruit/Salae_SPI_Packet: BRANCHES:[master:d021c21ceb6930df0a4cf7fe530d5b9fd5b8ca82;]|RELEASE:[none|none]
