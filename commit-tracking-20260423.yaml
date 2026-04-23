@@ -472,3 +472,4 @@ adafruit/adafruit-bluefruit-le-desktop: BRANCHES:[master:d601794ba56041afc49df64
 adafruit/io-swagger-templates: BRANCHES:[master:1eb516b553057f9a7eae1cc409541621fe9b95af;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MAX9744: BRANCHES:[master:b7de3549f356eb2adc4c9c1c87e58b62c09b03bc;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit_Arduino_OpenPixelServer: BRANCHES:[master:d72678e9b6c2d9564224fb2c35fc85250457494c;]|RELEASE:[none|none]
+adafruit/Bluetooth_Talking_Dog_Collar: BRANCHES:[master:d62cf7158093e09c4bac78fc36a5a681950387a2;]|RELEASE:[none|none]
