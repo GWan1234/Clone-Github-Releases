@@ -1097,3 +1097,4 @@ adafruit/Adafruit-Metro-M4-Express-AirLift-PCB: BRANCHES:[master:502637b33ce97a9
 adafruit/MakerFaireBayArea2019: BRANCHES:[master:92b9600dbbc761ea3b262291383f5aadd6b5f613;]|RELEASE:[none|none]
 adafruit/Adafruit-PyBadge-PCB: BRANCHES:[master:992e322d5b4b0b9a2b60a809ba2ebaa2b0cfe090;]|RELEASE:[none|none]
 adafruit/Adafruit-INA260-PCB: BRANCHES:[master:6fbc2f2fd8afe26760e791ae2f3d00977a3f1d6b;]|RELEASE:[none|none]
+adafruit/acme.sh: BRANCHES:[dns_cf_zone_id:7c2e382d108d53daab554ce2936d47c9da9cb047;master:552a49a6801fa3c144856d95b3a8a2c8f121cf31;no-save-creds:059694c49f5b03031344e899a81dfb3853efb98e;dev:2b765fdedb84532052918a5524da5090604dbe18;notify:45a8bdbedca4cca3e2a1f46763798b11d698def9;vv:f2add8de94e0ad9646f86dba3ea8666c9e39b348;cron:bbcc9d4b8e1d9f0069ccc80bf3c0a18badc4cb38;]|RELEASE:[none|none]
