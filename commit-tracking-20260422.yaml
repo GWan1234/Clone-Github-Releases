@@ -963,7 +963,7 @@ adafruit/Adafruit-Perma-Proto-HAT-PCB: master:fdee45a5dee903ecfbd9f010ca250b968f
 adafruit/Adafruit-PiTFT-Helper: wheezy:da1641a7ade7446272df2781ea8fba42abbadefe;master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;|none|SIZE:25788
 adafruit/omxplayer: master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f;|2015-02-11T03:59:25Z|SIZE:942486
 adafruit/Adafruit-Occidentalis: master:115173db410886eed029ebcce3414b6f5b01950f;|none|SIZE:492284
-adafruit/pi_hello_video: master:e08d2a43a9cbaa38ba0decb86f972b558ee7eef4;|none|SIZE:31023347
+adafruit/pi_hello_video: master:e08d2a43a9cbaa38ba0decb86f972b558ee7eef4;|none|SIZE:31023346
 adafruit/Adafruit-Occi: master:a4d5c50a45e2c1079692ac2a52907935f34836eb;|none|SIZE:5736
 adafruit/pi_video_looper: pb-bullseye:0fd56c40518acc48645f7370dcb6a7d902d84c97;master:e94fb69a6b920d01ea8e18fbca74eca1cab75770;font_scaling:64f8f85349582fd9ddc29d37006647231071c2b5;feature_single_loop_select:ad71cffcb98435bb3bed4cad4b4256b0dd0e0d18;dev:6dc2545252365915b3639bb05e9d74951b990059;|2026-02-14T11:49:57Z|SIZE:163729
 adafruit/fbtft: master:bcb4de90206842831bd40b20c93aa3e5c9553ea1;|none|SIZE:47578
