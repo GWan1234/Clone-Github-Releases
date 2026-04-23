@@ -644,3 +644,4 @@ adafruit/fritzing-parts: BRANCHES:[nightlyParts:964eea03a6b24bb6e19752a90b7f0c61
 adafruit/micropython-adafruit-is31fl3731: BRANCHES:[master:0037ebc519ba3ffb29d556868e75718f4966dd39;]|RELEASE:[1.0.1|none]
 adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e773eecd7ad0b1e13;]|RELEASE:[1.0|none]
 adafruit/micropython-adafruit-pca9685: BRANCHES:[master:0fea2736f99a2840f0d644be866f6abd5bc14b48;]|RELEASE:[1.1.1|none]
+adafruit/micropython-adafruit-max7219: BRANCHES:[master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062;]|RELEASE:[1.0|none]
