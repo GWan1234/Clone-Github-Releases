@@ -773,7 +773,7 @@ adafruit/Adafruit_Sensor: master:0a9127a1e886ff1adb4c1b6f5958b24108d55aa6;gh-pag
 adafruit/Adafruit_SensorTester: master:1efa4ab7d511b2a20f8d5ff8b9c8df5985572bc9;|none|SIZE:1241
 adafruit/Python-Thermal-Printer: master:678e13ae918deadf2b350b3f866a21de6ff1ad6d;|none|SIZE:29085
 adafruit/Adafruit_TSL2561: master:bf2adc60e22a46356d48755931852d2d6d0d2238;gh-pages:6665a283eab0fb2c234d443b494897a1d293b46a;actionci:f882164c9b291e5937d6d815e6071ed538aa9716;|2026-02-26T00:02:34Z|SIZE:115951
-adafruit/Adafruit_LSM303DLHC: master:ccc4e70113460333a70926e08150d2d13a32c35b;gh-pages:3908872a08cc26aca7127ad2804af119efa89eb8;|2019-09-13T21:48:33Z|SIZE:7782
+adafruit/Adafruit_LSM303DLHC: master:ccc4e70113460333a70926e08150d2d13a32c35b;gh-pages:3908872a08cc26aca7127ad2804af119efa89eb8;|2019-09-13T21:48:33Z|SIZE:7783
 adafruit/Flora-Brakelight-Backpack: master:8f6ed6e5dd51cb952dad99b5e27b60949b299634;|none|SIZE:2834
 adafruit/Adafruit_BMP085_Unified: master:95ae5cc07f14cb36955d946c2403ccebce9bb00f;gh-pages:b9303682d3615a47bc08c38cb6842053ef9944f7;actionci:e42eabf784db123e8f0cad5f2f69d117705f0333;|2023-11-15T15:28:03Z
 adafruit/LED-Ampli-Tie-with-Flora: master:2449eaa274f1f3ea5f234367b8c5086b67c10b43;|none|SIZE:6660
