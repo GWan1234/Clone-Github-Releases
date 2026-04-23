@@ -720,3 +720,4 @@ adafruit/Adafruit_CircuitPython_PCA9685: BRANCHES:[main:a35fa412073d6d1c587e45f1
 adafruit/Adafruit_CircuitPython_SSD1306: BRANCHES:[main:04d8d531e8ed2df45c061c8b3c6d91abda001f13;]|RELEASE:[2.12.23|none]
 adafruit/Adafruit-Animated-Eyes-Bonnet-PCB: BRANCHES:[master:e28ffce0e3b88679aefb5901f7fa6e0b5559f853;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MCP9808: BRANCHES:[main:7345fa877e622edccd6de21c07e4f0ebec6eafaf;]|RELEASE:[3.3.31|none]
+adafruit/Adafruit_Bluetooth_Mini_Rover_Bot: BRANCHES:[master:d3162ff5b602756921e8603e7ed49d80ad50bf39;]|RELEASE:[none|none]
