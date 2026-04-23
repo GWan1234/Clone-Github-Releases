@@ -532,3 +532,4 @@ adafruit/Adafruit_IS31FL3731: BRANCHES:[master:6a9d478de67c154e8529fe67f917926f3
 adafruit/Adafruit_Windows_Drivers: BRANCHES:[main:9f5e362d282cb04d5cff4269a6199643d374688a;]|RELEASE:[2.5.0.0|none]
 adafruit/Adafruit-GPS-Logger-Shield-PCB: BRANCHES:[master:20679c594e363723b81bb2cac5fc47c21cd4b214;]|RELEASE:[none|none]
 adafruit/Twitch-API-Examples: BRANCHES:[master:7c7b493f9f28fc74958cdc1d700e6adfc5605dff;]|RELEASE:[none|none]
+adafruit/TinyXML: BRANCHES:[master:19619111b675528d835e5bcba571b868f1828e53;]|RELEASE:[1.0.3|none]
