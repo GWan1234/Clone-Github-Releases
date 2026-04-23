@@ -663,3 +663,4 @@ adafruit/Adafruit-FONA808-Shield-PCB: BRANCHES:[master:c94430e42dd25bde73e9e6e00
 adafruit/Adafruit-BMP280-Breakout-PCB: BRANCHES:[master:1ba329baf692f9e681e0deb891c98ce6579a5c26;]|RELEASE:[none|none]
 adafruit/Adafruit-GA1A1S202WP-Breakout-PCB: BRANCHES:[master:fb7282a5a6f07f0f92fb131a7287262b66c5e148;]|RELEASE:[none|none]
 adafruit/Adafruit-Qualia-Driver-PCB: BRANCHES:[master:4d750ce85bc1e8e5e38395030ff21ee8a353148d;]|RELEASE:[none|none]
+adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB: BRANCHES:[master:df6070e9ce8c00acc6c2e1ce54eb46770552a9ba;]|RELEASE:[none|none]
