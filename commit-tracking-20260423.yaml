@@ -276,3 +276,4 @@ adafruit/Adafruit-TPA2016-Library: BRANCHES:[master:17d1a6cf3f423952c0b07518e9ef
 adafruit/Bluefruit_LE_Connect: BRANCHES:[master:4721ec20245598fdb107f89b089f06671dc490f4;]|RELEASE:[none|none]
 adafruit/MAX31850_OneWire: BRANCHES:[master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce;]|RELEASE:[1.1.3|none]
 adafruit/MAX31850_DallasTemp: BRANCHES:[master:c83bb4710e539f2574ad613448dfe1c48bc661e3;gh-pages:7ff84118ac593c8ef007943c9b4e3482a5b4beb4;actionci:13515400a91aee096ffd9c52893f5145c202f7b8;]|RELEASE:[1.1.6|none]
+adafruit/Talkie: BRANCHES:[master:513c507b5289868ce0cfabf21d4920b93fc32070;]|RELEASE:[none|none]
