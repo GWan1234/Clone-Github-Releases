@@ -222,3 +222,4 @@ adafruit/Adafruit_TLC59711: BRANCHES:[master:b26853a3dfb9b6f6d128814aceae84dedc0
 adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410;]|RELEASE:[none|none]
 adafruit/Adafruit_NeoMatrix: BRANCHES:[master:7b612d10d3101db91ab66df1b14ab9d8ff9fd562;gh-pages:2f91c406cee485144061914b1429fa9c5eb20561;]|RELEASE:[1.3.3|none]
 adafruit/pianoglove: BRANCHES:[master:93e689909e590c3e22e14123814b70cb38339a99;pianoglove-midi:fed157809528b3d21451ebb251753ae781a06bde;]|RELEASE:[none|none]
+adafruit/Adafruit_Motor_Shield_V2_Library: BRANCHES:[master:2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3;gh-pages:99c678f3bca8c77769a1e0c56d64bdcffd787ec6;actionci:5006c19e77194698069beffd3466b647ce5628b1;]|RELEASE:[1.1.4|none]
