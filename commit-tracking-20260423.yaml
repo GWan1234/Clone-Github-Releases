@@ -1071,3 +1071,4 @@ adafruit/Adafruit_CircuitPython_SSD1351: BRANCHES:[main:d3e5e0c6b8ee4425e9a0e533
 adafruit/Adafruit_CircuitPython_Display_Button: BRANCHES:[main:f380c628a4cccd144c9a57e3d8de6691612926cb;use_ruff:5bc4267c64b7b6f8515858fb577a7f19a64b4f16;patch-fix:d767d28e177184c7cfa7b14fd94bd2cb94998b98;]|RELEASE:[1.11.7|none]
 adafruit/Adafruit_CircuitPython_Display_Shapes: BRANCHES:[main:bf6c2addf2465625de747d2f4ea1613fcded7840;patch-fix:7cc6b4e4357acb456a216022c8de72cded17172c;REUSE:222cbfc555a9219b87fce2f33227e2d3d11232a4;]|RELEASE:[2.10.5|none]
 adafruit/Adafruit_CircuitPython_ST7789: BRANCHES:[main:8fb8cbf7c4cf404c1334df67a7512ccf99a00c52;setup-py-disabled:00fda887df06dc044bca5ff9bb779d5b1945be4c;]|RELEASE:[2.1.4|none]
+adafruit/Adafruit_CircuitPython_HX8357: BRANCHES:[main:cd495bc856c220222830cf5fee27f530702292fc;setup-py-disabled:1d6480c1cdc1d7d4d8d9d5c697b96a83c9ef5d08;]|RELEASE:[2.0.3|none]
