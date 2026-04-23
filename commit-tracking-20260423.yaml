@@ -1112,3 +1112,4 @@ adafruit/Adafruit_CircuitPython_RGBLED: BRANCHES:[main:65d0326ff06314375bc9ba7a9
 adafruit/awesome-makecode: BRANCHES:[master:bd9c5d3afca8996f9c5cb462da30de64fe8c6895;]|RELEASE:[none|none]
 adafruit/META-Picomon: BRANCHES:[master:58a76ac2941ab347823101fc0346eca43f3f307a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_DS3502: BRANCHES:[main:a727ac7ac0b569360d4876bd741418e7f9358426;patch:d7cba2fd3c1eb2b5c003d79fac334ceb545c68e9;]|RELEASE:[1.1.26|none]
+adafruit/Adafruit_DS3502: BRANCHES:[master:61d4e904f8c38069325a0dae65c0c0b0493f480e;gh-pages:65dc2cd0881b6beab82111fd67fa63acb5e84eab;actionci:356dee281aaa26ae1635845aa71e6d2f73560a8a;]|RELEASE:[1.0.3|none]
