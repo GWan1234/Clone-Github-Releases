@@ -1194,3 +1194,4 @@ adafruit/Adafruit_LSM303_Accel: BRANCHES:[gh-pages:e7e4b6703d2898e0a63fa8d74dbe8
 adafruit/Adafruit_LIS2MDL: BRANCHES:[config-default-nullptr:712f1ad4e1ebdcd172cd4f10a352af33aeb83862;master:f7b8f3130744437e0b886fc076d8284ec1de9c30;gh-pages:f4a51f9eacc96a8cb9c2809be64766c87dc8ebb1;spi:bb939e4ad229c9e302c98fa89d5ffef22c4e5e29;]|RELEASE:[2.1.8|none]
 adafruit/Adafruit_CircuitPython_AWS_IOT: BRANCHES:[main:2f6940093a3fc63c08022291324b103da19cec76;]|RELEASE:[3.0.4|none]
 adafruit/Adafruit_MLX90640: BRANCHES:[master:1850e00e4a505abe8c44a17fcdba57e7c66085d5;gh-pages:5be492f9f303a29a69bac4c03b4d79905c095a1f;]|RELEASE:[1.1.2|none]
+adafruit/Adafruit-1.14-inch-240x135-TFT-PCB: BRANCHES:[master:e87c63d29caea5604ad987077b2ca9eb61a4284f;]|RELEASE:[none|none]
