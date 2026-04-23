@@ -353,3 +353,4 @@ adafruit/FreqShow: BRANCHES:[master:53c517eba98ab11b2d119d9e5b366aba9630e432;]|R
 adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a;]|RELEASE:[none|none]
 adafruit/Adafruit_DotStar: BRANCHES:[master:0acd031b27ace1df0222c66991ee3a4bac806313;gh-pages:6f724a10476fbc9004d935fa0183187523f5660f;]|RELEASE:[1.2.5|none]
 adafruit/Adafruit-Gemma-PCB: BRANCHES:[master:88b3cb1a0c9ede216d3a93f904ab7ded9e63daed;]|RELEASE:[none|none]
+adafruit/Adafruit_TiCoServo: BRANCHES:[master:12151970fb08c355980b5fe3c85010dc04f0988f;actionsci:b4639c54d21bced4fe5f4bc7525fe70042116aa2;gh-pages:8e64f8269730b4b9eb37a6e9e1e66acfb903b2d2;actionci:c731b27aa8e0661fe5510b581eae63b189936e29;]|RELEASE:[1.0.6|none]
