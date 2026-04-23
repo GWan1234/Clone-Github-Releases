@@ -151,8 +151,8 @@ jobs:
           }
 
           # =========================
-          # 核心：获取 5 个分支 commit + 最新 release 的真实 tag SHA
-          # 【修复】分支列表支持全部分页遍历，不会漏掉后面的分支
+          # 核心：获取 时间排序 TOP10 分支 commit + 最新 release
+          # 【已增强】按最新提交时间倒序，固定 TOP10，状态稳定不重复备份
           # =========================
           get_repo_current_state() {
             local repo="$1"
@@ -162,8 +162,9 @@ jobs:
             local branch_states=""
             local count=0
           
+            # 【关键】--sort=-committerdate = 按提交时间 最新 → 最旧
             while read -r line; do
-              [[ $count -ge 10 ]] && break
+              [[ $count -ge 10 ]] && break  # 固定 TOP10
               local name sha
               name="${line%%|*}"
               sha="${line#*|}"
@@ -263,7 +264,7 @@ jobs:
             printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
             printf -- "- Backup time: %s\n" "$RELEASE_TIME"
             printf -- "\n## 🔍 Incremental Backup\n"
-            printf -- "- Track 5 latest branches commits\n"
+            printf -- "- Track 10 latest branches commits (sorted by commit time)\n"
             printf -- "- Track latest release commit & tag\n"
             printf -- "- Backup triggered by any change"
           }
@@ -340,8 +341,24 @@ jobs:
             REPO_JSON=$(fetch_repo_info "$REPO")
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
 
+            # =========================
+            # 【BUG 修复】必须先克隆，再获取状态！之前这里顺序错了
+            # =========================
+            local MIRROR EXPORT
+            MIRROR="tmp/${REPO_SLUG}.git"
+            EXPORT="tmp/export/${REPO_SLUG}"
+            mkdir -p "$EXPORT"
+
+            echo "🔽 Cloning repository for state check..."
+            git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
+              echo "❌ Clone failed, skip repo"
+              cleanup
+              return 0
+            }
+
+            # 【正确】克隆后再生成状态
             local CURRENT_STATE
-            CURRENT_STATE=$(get_repo_current_state "$REPO" "$REPO_JSON" "$UPSTREAM_JSON")
+            CURRENT_STATE=$(get_repo_current_state "$REPO" "$MIRROR" "$UPSTREAM_JSON")
 
             # 关键：判断是否需要备份
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
@@ -352,27 +369,16 @@ jobs:
 
             echo "🔴 Backup needed: $REPO (changes detected)"
 
-            local MIRROR EXPORT
-            MIRROR="tmp/${REPO_SLUG}.git"
-            EXPORT="tmp/export/${REPO_SLUG}"
-            mkdir -p "$EXPORT"
-
-            echo "🔽 Cloning repository..."
-            git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1 || {
-              echo "❌ Clone failed, skip repo"
-              cleanup
-              return 0
-            }
-            
-            CURRENT_STATE=$(get_repo_current_state "$REPO" "$MIRROR" "$UPSTREAM_JSON")
-
+            # =========================
+            # 【功能增强】按提交时间排序 → 取 TOP10
+            # =========================
             mapfile -t BRANCHES < <(
               git -C "$MIRROR" for-each-ref \
                 --sort=-committerdate \
                 --format='%(refname:short)' \
                 refs/heads 2>/dev/null || true
             )
-            BRANCHES=("${BRANCHES[@]:0:10}")
+            BRANCHES=("${BRANCHES[@]:0:10}")  # 固定取最新 10 个
 
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
@@ -380,7 +386,7 @@ jobs:
               return 0
             fi
 
-            echo "📦 Packaging ${#BRANCHES[@]} branches..."
+            echo "📦 Packaging ${#BRANCHES[@]} branches (sorted by latest commit time)..."
             FILES=()
             IDX=0
 
