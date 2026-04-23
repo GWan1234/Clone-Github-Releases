@@ -693,7 +693,7 @@ adafruit/Adafruit_SHARP_Memory_Display: master:c7a1c95d568c25aea1360fd8a44d38181
 adafruit/2-axis-joystick-breakout-board-with-mounting-holes: master:1d523eacdbcaed54abf94ee1703fdcb76a94d8cf;|none
 adafruit/HT1632: master:af146db458c21f6136448716f2c9cd69a14ea355;gh-pages:58e09e9c8965032cd5fbc57b39f1adf9ca6fc671;actionci:d8f845b03401e012ca1dad4e58d1782af273907b;|2023-11-15T15:32:08Z|SIZE:102015
 adafruit/Adafruit-Thermal-Printer-Library: master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d;|2022-10-27T21:01:38Z
-adafruit/Fritzing-Library: master:5f455d53061c0360c13ab5f214850b87a4c5d868;|none|SIZE:42139375
+adafruit/Fritzing-Library: master:5f455d53061c0360c13ab5f214850b87a4c5d868;|none|SIZE:42139376
 adafruit/Adafruit-X2-Time-Ball: master:3eb5d4a473b991b88267ea914ef938100e9baf3c;|none
 adafruit/Adafruit-RGB-LCD-shield-PCB: master:acb4ada959e35a67703b50efb88ad986440d37e5;|none
 adafruit/Adafruit-Menta-PCB: master:2aff04449fe4b49777f31e235e1997ec017bf1bb;|none
