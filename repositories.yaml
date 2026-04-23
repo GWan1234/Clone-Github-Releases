@@ -32,16 +32,17 @@ allrepositories:
 #  - armbian
 #  - LilyGO
 #  - Xinyuan-LilyGO
+#  - openwrt
 
 repositories:
   name0:
-    - openwrt
+#    - openwrt
 #    - sing-box
   repo0:
-    - openwrt/openwrt
+#    - openwrt/openwrt
 #    - SagerNet/sing-box
   source0:
-    - https://github.com/openwrt/openwrt
+#    - https://github.com/openwrt/openwrt
 #    - https://github.com/SagerNet/sing-box
 
   name1:
