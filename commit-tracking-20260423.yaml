@@ -555,3 +555,4 @@ adafruit/Adafruit-Feather-32u4-FONA-PCB: BRANCHES:[master:db45e3e1a5e53590cac33a
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: BRANCHES:[master:50dc43b6c03adafa21683995f62efb6e825bba12;]|RELEASE:[none|none]
 adafruit/zj-58: BRANCHES:[master:603f034e125305c464bab170b7144e446a193f0d;]|RELEASE:[none|none]
 adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: BRANCHES:[master:b5c7edd20f00010be64d25145d6ee1dacd28b083;]|RELEASE:[none|none]
+adafruit/Adafruit-Adalogger-FeatherWing-PCB: BRANCHES:[master:28ea68d9ffa6d51690195bf295ecfa656ab45f18;]|RELEASE:[none|none]
