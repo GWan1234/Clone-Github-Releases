@@ -1029,3 +1029,4 @@ adafruit/Adafruit-Grand-Central-PCB: BRANCHES:[master:9e59fe3cd1ea37aa6caaf5780f
 adafruit/Adafruit_CircuitPython_RA8875: BRANCHES:[main:2eb9a0fcef1a6f6b1c4b1371f714ecf73b9f69b2;discord-fix:dedb3b23e05f82aa4ba47a4a04e5e9ff67190538;]|RELEASE:[3.1.28|none]
 adafruit/nina-fw: BRANCHES:[master:586ef2a982ac1d30d696ba88ee025daa2b605ae1;revert-24-github-actions-test:731718b6d86047aefa041ef02e64c56030466f2b;BT_HCI:56d7b740ed2751b7efed1e7590098829626c1324;if_statistics:53c45b18fd2377b0c5af578d72d91c1f859d5cba;wpa2_enterprise:50f55a0732d42524b51d491d032a11b4267f2abc;filesystem_apis:3cb8c800583c19259484cfb65ebdbc23c226ebe3;bluetooth:627db2f14acf46a834e261b838685f9628456be1;]|RELEASE:[3.3.0|none]
 adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;master:7c96adca4aacd72ff1472d5813cd860ad5924c18;]|RELEASE:[none|none]
+adafruit/adafruit_io_python_jupyter: BRANCHES:[master:20a577d2d191f677da2652c72daf7a27251b033d;]|RELEASE:[none|none]
