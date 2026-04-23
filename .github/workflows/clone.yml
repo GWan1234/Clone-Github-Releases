@@ -103,7 +103,6 @@ jobs:
             numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "0B"
           }
 
-          # ✅【修复】上传失败返回错误码，不再吞错误
           safe_upload() {
             local file="$1"
             local tag="$2"
@@ -131,13 +130,11 @@ jobs:
             git config --global user.name "Action"
             git config --global user.email "action@github.com"
           
-            # ✅【终极稳】自动暂存本地修改 → 拉取 → 恢复，永远不冲突
             if ! git pull --rebase --autostash origin HEAD; then
               echo "❌ Tracking pull/rebase failed"
               return 1
             fi
           
-            # 现在本地是最新的，再提交修改
             git add "$TRACKING_FILE"
             git commit -m "track sync: $NOW_HUMAN" 2>/dev/null || true
           
@@ -153,6 +150,8 @@ jobs:
           # =========================
           # 核心：获取 5 个分支 commit + 最新 release 的真实 tag SHA
           # 【修复】分支列表支持全部分页遍历，不会漏掉后面的分支
+          # 【修复】使用进程替换避免子shell变量丢失
+          # 【修复】状态中移除易变时间，仅保留不可变标识
           # =========================
           get_repo_current_state() {
             local repo="$1"
@@ -178,31 +177,27 @@ jobs:
               page=$((page + 1))
             done
           
-            # 2. 按提交时间倒序排序（最新在前）
-            # 注意：GitHub API 返回的 branches 默认是按 pushed 最新排序
-            # 这里我们直接取前 5 个
+            # 2. 按提交时间倒序排序，取前5个分支（修复：使用进程替换，避免子shell变量丢失）
             local branch_states=""
             local count=0
-            printf "%s\n" "${all_branches[@]}" \
-              | jq -s 'sort_by(.commit.commit.author.date) | reverse | .[]' -c \
-              | while read -r br; do
-                if [[ $count -ge 10 ]]; then break; fi
-                local name sha
-                name=$(echo "$br" | jq -r '.name // ""')
-                sha=$(echo "$br" | jq -r '.commit.sha // ""')
-                if [[ -n "$name" && -n "$sha" && "$name" != "null" ]]; then
-                  branch_states+="${name}:${sha};"
-                  count=$((count + 1))
-                fi
-              done
+            while IFS= read -r br; do
+              if [[ $count -ge 5 ]]; then break; fi
+              local name sha
+              name=$(echo "$br" | jq -r '.name // ""')
+              sha=$(echo "$br" | jq -r '.commit.sha // ""')
+              if [[ -n "$name" && -n "$sha" && "$name" != "null" ]]; then
+                branch_states+="${name}:${sha};"
+                count=$((count + 1))
+              fi
+            done < <(printf "%s\n" "${all_branches[@]}" \
+                     | jq -s 'sort_by(.commit.commit.committer.date, .name) | reverse | .[]' -c)
           
-            # 3. 【修复】通过 tag 获取真实 commit SHA（唯一正确方式）
-            local rel_tag rel_time rel_commit
+            # 3. 通过 tag 获取真实 commit SHA（修复：不再包含易变的时间戳）
+            local rel_tag rel_commit
             rel_tag=$(echo "$release_json" | jq -r '.tag_name // "none"' 2>/dev/null || echo "none")
-            rel_time=$(echo "$release_json" | jq -r '.published_at // "none"' 2>/dev/null || echo "none")
           
             if [[ "$rel_tag" != "none" ]]; then
-              rel_commit=$(git ls-remote "$(auth_url "$repo")" "refs/tags/$rel_tag^{}" 2>/dev/null | awk '{print $1}' | head -n1)
+              rel_commit=$(git ls-remote "$(auth_url "$repo")" "refs/tags/$rel_tag" 2>/dev/null | awk '{print $1}' | head -n1)
               rel_commit=${rel_commit:-none}
             else
               rel_commit="none"
@@ -391,7 +386,7 @@ jobs:
                 --format='%(refname:short)' \
                 refs/heads 2>/dev/null || true
             )
-            BRANCHES=("${BRANCHES[@]:0:10}")
+            BRANCHES=("${BRANCHES[@]:0:5}")
 
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
@@ -434,7 +429,6 @@ jobs:
             build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
             FIRST_FILE="${FILES[0]}"
-            # ✅【修复】release 创建失败直接终止，不写 tracking
             if ! gh release create "$TAG" "$FIRST_FILE" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
@@ -447,7 +441,6 @@ jobs:
             fi
             echo "✅ Release created successfully"
 
-            # ✅【修复】上传失败标记错误
             echo "📤 Uploading ${#FILES[@]} files..."
             for ((i=1; i<${#FILES[@]}; i++)); do
               if ! safe_upload "${FILES[$i]}" "$TAG"; then
@@ -455,7 +448,6 @@ jobs:
               fi
             done
 
-            # ✅【修复】上游资产上传失败标记错误
             echo "🔗 Sync upstream assets..."
             ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
             if [[ -n "$ASSETS_DATA" ]]; then
@@ -477,7 +469,7 @@ jobs:
 
             rm -f "$NOTES_FILE"
 
-            # ✅【终极修复】只有 100% 成功才写入 tracking
+            # 只有 100% 成功才写入 tracking
             if [[ $error_occurred -eq 0 ]]; then
               echo "✅ Backup 100% SUCCESS → writing tracking"
               local SIZE_GB=$(echo "scale=2; $TOTAL_SIZE / 1024 / 1024 / 1024" | bc)
@@ -517,7 +509,7 @@ jobs:
               done
             done
 
-            # 2) repositories ✅【修复】遍历所有真实存在的 key，永不中断
+            # 2) repositories
             echo -e "\n====================================="
             echo "==== Processing manual repositories ===="
             echo "====================================="
@@ -531,11 +523,10 @@ jobs:
             for KEY in "${ALL_KEYS[@]}"; do
               echo "➡️ Group: $KEY"
               mapfile -t REPOS < <(
-              yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositories.yaml 2>/dev/null \
-              | grep -v '^[[:space:]]*#' \
-              | sed '/^[[:space:]]*$/d' || true
-            )
-
+                yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositories.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
+              )
 
               for R in "${REPOS[@]}"; do
                 [[ -z "$R" ]] && continue
