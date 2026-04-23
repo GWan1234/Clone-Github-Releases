@@ -1043,3 +1043,4 @@ adafruit/Adafruit_CircuitPython_BitbangIO: BRANCHES:[main:f0d926f1c3ff99914229e9
 adafruit/Adafruit_ADXL343_PCB: BRANCHES:[master:13dce5a5963041d7d7f60492da459e00a96f4344;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_VCNL4040: BRANCHES:[main:0d789e668b1a5f0622b752bcefb05ca6365344a2;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit-USB-C-Downstream-Breakout: BRANCHES:[master:1484ecb56b369e177848e69de4b7b7e513399590;]|RELEASE:[none|none]
+adafruit/Adafruit-ADT7410-PCB: BRANCHES:[master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41;]|RELEASE:[none|none]
