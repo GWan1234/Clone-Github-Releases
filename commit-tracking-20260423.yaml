@@ -600,3 +600,6 @@ adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: BRANCHES:[master:00cb07abd32b2a1bcf
 adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB: BRANCHES:[master:7075f89067dfed503101a3414c45d55e9ab80444;]|RELEASE:[none|none]
 adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: BRANCHES:[master:0c7bd1cb7a409f9d1689bc26a0a18079c9339b33;]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Plus-3.2-PCB: BRANCHES:[master:dcd017ebe4af66390dcd68f1515990550651461a;]|RELEASE:[none|none]
+adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e86d61f061a08a52dabeede7d3;]|RELEASE:[none|none]
+adafruit/Adafruit-DRV8871-Breakout-PCB: BRANCHES:[master:4183ffe41cac746a327c60825b18fa814e081e0f;]|RELEASE:[none|none]
+adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB: BRANCHES:[master:d347601d3c62369d5b22a20b0e3f15a8fc04ef48;]|RELEASE:[none|none]
