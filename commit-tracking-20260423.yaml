@@ -35,3 +35,4 @@ MISTERNEGATIVE21/QuectelEC200U: BRANCHES:[main:dff543949ebfabf369ffbbf015b1c7c59
 maxming2333/esp32-sms-forwarding: BRANCHES:[master:73dbc904d52f27c5e88e50a434161a3aa8075796;]|RELEASE:[v1-20260423T212008-73dbc90|none]
 chenxuuu/sms_forwarding: BRANCHES:[fix-issue-57:12cb1045bc10a82e062f2f227ccf291efcd0240b;master:9b82817001f4e695af6cc24e8f0f7574d8352d34;page:a67f5cecae9a1ac070bba9b01d508b186e87f56a;old-luatos:0b225468672c3fb1380e7faed8baf3aacfea33e7;]|RELEASE:[none|none]
 dushixiang/uart_sms_forwarder: BRANCHES:[main:62c6bc0b6b1e13338f96765a0dc0194cf1148050;]|RELEASE:[v0.1.10|none]
+GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10;]|RELEASE:[none|none]
