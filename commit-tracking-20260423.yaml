@@ -702,3 +702,4 @@ adafruit/Raspberry-Pi-Installer-Scripts: BRANCHES:[main:7f35962231bad41f58a10517
 adafruit/Adafruit_CircuitPython_Register: BRANCHES:[main:2a7039c548456ddf7573814967ce494f61adbc46;patch-fix:a99a8e2089b15e85aa6ce6af9b2aeaac766c3171;]|RELEASE:[1.11.2|none]
 adafruit/Adafruit_VL6180X: BRANCHES:[master:7a3798cb584b3ba00cf086378e0320e98f041e88;gh-pages:1e31396a6da1fabb17e13b274dbd586e2270398a;hoffmannjan-patch-1:bd4b4825f2537742768b5bc3507da311c2adba8b;]|RELEASE:[1.4.4|none]
 adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: BRANCHES:[master:2577abd97ffa3dab39b631643d5861f5b6bd98c1;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_BusDevice: BRANCHES:[main:d4b283c85b7b2043eb0d095638a47305a1f4ef61;docs_req_fixes:7167cf21f4877611801b19a2ed9e72e5276b09f2;fix_rtd_theme:101e57221a3d4891e11445a3e25080420e8c713c;dherrada-patch-3:28a7ae6add37403ad2b3a3c9fdaefe73423079f1;]|RELEASE:[5.2.16|none]
