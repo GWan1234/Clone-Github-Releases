@@ -889,3 +889,4 @@ adafruit/Adafruit_PixelDust: BRANCHES:[master:14efd21814c495bac758806666d8b699f6
 adafruit/Adafruit_CircuitPython_VEML6070: BRANCHES:[main:603593d885270af96781a48e92fd07c64c349aab;stemma_i2c:f97dd63381af09b83702548d1ca74912def79f20;patch-fix:3d63cef9af7619a7e4247b4e000827d257450f34;]|RELEASE:[3.1.26|none]
 adafruit/Adafruit_CircuitPython_DS2413: BRANCHES:[main:4799a06c93f3425dc331639b2ef1ddec874369a2;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit_CircuitPython_LSM303: BRANCHES:[master:466dedfcdc107260a888af42babdb6868a0557d5;]|RELEASE:[1.2.5|none]
+adafruit/Adafruit-Feather-328P-PCB: BRANCHES:[master:62859c243921da2d1221681373356f1559855cbc;]|RELEASE:[none|none]
