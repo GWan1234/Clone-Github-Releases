@@ -4,7 +4,7 @@ cockpit-project/cockpit: BRANCHES:[unit-tests-without-cockpit-js:dc961bd47aca1a8
 cockpit-project/cockpit-design: BRANCHES:[main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;]|RELEASE:[none|none]|SIZE:.15GB
 cockpit-project/hubbot: BRANCHES:[master:fd89610f8b7909874577ce5755c74eab24b08f99;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpituous: BRANCHES:[main:e3b32b348fb7da6f36329630d2f9e4056a0a6b8d;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;]|RELEASE:[none|none]|SIZE:0GB
-cockpit-project/term.js: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/term.js: BRANCHES:[mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;master:df24a161e45f461488ba773237a96faa4c82f1eb;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/starter-kit: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/registry-image-widgets: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-ostree: BRANCHES:[]|RELEASE:[224|b400f36b33f6711687a3f1e57c09b34e7c0428a4|2026-04-21T11:50:44Z]|SIZE:0GB
