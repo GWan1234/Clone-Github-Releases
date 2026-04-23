@@ -1390,7 +1390,7 @@ adafruit/Adafruit_CircuitPython_VEML6070: stemma_i2c:f97dd63381af09b83702548d1ca
 adafruit/Adafruit_CircuitPython_DS2413: main:4799a06c93f3425dc331639b2ef1ddec874369a2;|2026-03-27T18:57:50Z|SIZE:18971
 adafruit/Adafruit_CircuitPython_LSM303: master:466dedfcdc107260a888af42babdb6868a0557d5;|2019-08-23T21:27:16Z|SIZE:17397
 adafruit/Adafruit-Feather-328P-PCB: master:62859c243921da2d1221681373356f1559855cbc;|none
-adafruit/Adafruit_nRF52_Bootloader: tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4;master:48a149ffcb2e092051d1169f443f9b9b8613a54c;|2026-02-03T08:49:48Z|SIZE:2428462
+adafruit/Adafruit_nRF52_Bootloader: tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4;master:48a149ffcb2e092051d1169f443f9b9b8613a54c;|2026-02-03T08:49:48Z|SIZE:2428463
 adafruit/Adafruit_CircuitPython_MCP4725: main:b9f326e5787a8e43851d41989588d184ff91c337;|2026-03-27T19:01:11Z|SIZE:18958
 adafruit/Adafruit_CircuitPython_MAX9744: main:1daf6bddfab95356e171a2627a073b2531eb550b;|2026-03-27T19:00:58Z|SIZE:18363
 adafruit/Adafruit_CircuitPython_TLC59711: main:0fd102b3b102674cc1d530a5632896b1a6756de9;|2026-03-27T19:05:20Z|SIZE:27631
