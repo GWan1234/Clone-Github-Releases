@@ -652,3 +652,4 @@ adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: BRANCHES:[master:c5bdfe4c8e860ce
 adafruit/Adafruit-DS2413-PCB: BRANCHES:[master:a5aeeffa483ae80c718e9cb3cd23ea769cd5321b;]|RELEASE:[none|none]
 adafruit/Adafruit-Si7021-PCB: BRANCHES:[master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31856-PCB: BRANCHES:[master:fee86485c7b8150e20707d628b4c9d6f52d87255;]|RELEASE:[none|none]
+adafruit/atmel-samd-micropython-vagrant: BRANCHES:[master:9f1eaca51befa1e29447bd6ef37a438a43ad0afc;]|RELEASE:[none|none]
