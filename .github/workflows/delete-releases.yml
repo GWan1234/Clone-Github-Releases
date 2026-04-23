@@ -23,7 +23,7 @@ jobs:
           releases_keep_latest: 0
           delete_workflows: true
           workflows_keep_day: 0
-          gh_token: ${{ secrets.MY_TOKEN }}
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Delete releases Tags
         uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
