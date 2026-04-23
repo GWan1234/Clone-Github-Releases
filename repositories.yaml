@@ -56,6 +56,7 @@ repositories:
     - GWan1234
     - kukudemajia
     - LeoChen-CoreMind
+    - vernesong
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
@@ -66,7 +67,7 @@ repositories:
     - GWan1234/msg_forward_new
     - kukudemajia/esp_framework
     - LeoChen-CoreMind/UDX710-TOOLS
-
+    - vernesong/OpenClash
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
@@ -77,6 +78,7 @@ repositories:
     - https://github.com/GWan1234/msg_forward_new
     - https://github.com/kukudemajia/esp_framework
     - https://github.com/LeoChen-CoreMind/UDX710-TOOLS
+    - https://github.com/vernesong/OpenClash.git
 
   name2:
     - frpc
