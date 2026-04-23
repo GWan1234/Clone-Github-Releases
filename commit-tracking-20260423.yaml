@@ -207,3 +207,4 @@ adafruit/Adafruit_TMP006: BRANCHES:[master:d0fc98a7d40474e02f2d97eb465d65230b7e2
 adafruit/Python-WiFi-Radio: BRANCHES:[master:689b2335d86a74274f76733261d031e40ee37d14;revert-7-master:3e5587d38c4f2b5ea413c244b4637dc817fd03f4;]|RELEASE:[none|none]
 adafruit/Adafruit_AM2315: BRANCHES:[master:7f52340f38ce714f00ce47de39fd50c82e409184;gh-pages:81931048c99957035d1828a25ba65a8f44a154b6;actionci:18d9bca559a50cfd9c6b48e0124b9c5c521cd880;]|RELEASE:[2.2.3|none]
 adafruit/adafruit_flora_game_controller: BRANCHES:[master:bb1621ab2839846d799061c408b1d522443e7ea5;]|RELEASE:[none|none]
+adafruit/Adafruit_TCS34725: BRANCHES:[master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-pages:2902921a50b4b9c136dd39291cb157b8995502ec;]|RELEASE:[1.4.4|none]
