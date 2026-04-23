@@ -416,3 +416,4 @@ adafruit/Adafruit_SleepyDog: BRANCHES:[master:6cebe708b966354eab898fefbe62ccc1d6
 adafruit/Adafruit-Pi-ExternalRoot-Helper: BRANCHES:[master:0d091e18f3f710c8112a647506594ff40e6ad517;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_BluefruitLE: BRANCHES:[master:a01dec2c88fa38143afb855e1df4f9ac774156b7;]|RELEASE:[none|none]
 adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: BRANCHES:[master:530ec62b7f4ef73fc794e10b9c59c43b7ac2c17a;]|RELEASE:[none|none]
+adafruit/Adafruit-LSM9DS0-PCB: BRANCHES:[master:f42885935255b68560c1eaf7bc05a538efcccbdb;]|RELEASE:[none|none]
