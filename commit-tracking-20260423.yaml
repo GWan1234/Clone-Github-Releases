@@ -1165,3 +1165,4 @@ adafruit/rpi-vision: BRANCHES:[master:c2752688b772f327c8d2cbe306e911f2bafa4b91;b
 adafruit/Adafruit_CircuitPython_EthernetManager: BRANCHES:[master:8b6e271b23eac4625dc8e566a3af2be805568a3a;]|RELEASE:[none|none]
 adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB: BRANCHES:[master:e865b846cad8b220f4c14781b5a82e452e0712bc;]|RELEASE:[none|none]
 adafruit/Adafruit-ATECC608-PCB: BRANCHES:[master:1535820f36fb71b8a76cebc654b934e32a760c9c;]|RELEASE:[none|none]
+adafruit/circup: BRANCHES:[main:f7f7873fb2b63941041aae46dd922909f978d024;ww-portno:ae3919e4b4925c0ce1d71b843e3e8a27ff89b740;]|RELEASE:[3.0.1|none]
