@@ -1073,3 +1073,4 @@ adafruit/Adafruit_CircuitPython_Display_Shapes: BRANCHES:[main:bf6c2addf2465625d
 adafruit/Adafruit_CircuitPython_ST7789: BRANCHES:[main:8fb8cbf7c4cf404c1334df67a7512ccf99a00c52;setup-py-disabled:00fda887df06dc044bca5ff9bb779d5b1945be4c;]|RELEASE:[2.1.4|none]
 adafruit/Adafruit_CircuitPython_HX8357: BRANCHES:[main:cd495bc856c220222830cf5fee27f530702292fc;setup-py-disabled:1d6480c1cdc1d7d4d8d9d5c697b96a83c9ef5d08;]|RELEASE:[2.0.3|none]
 adafruit/Adafruit_CircuitPython_IterTools: BRANCHES:[main:505bd96d4538dfd86ddfbb8418937cb4dc29d24e;]|RELEASE:[2.1.7|none]
+adafruit/Adafruit_CircuitPython_PYOA: BRANCHES:[main:23c2bec8fe66d34b99167e51ae2c0cbaaa734e6e;patch-fix:db17bbe4a6cb119b783ca1de7e2492cefbf3af88;setup-py-disabled:69db58b5a9e193674e790e15a6d90fed706de725;]|RELEASE:[2.6.7|none]
