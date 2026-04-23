@@ -296,3 +296,4 @@ adafruit/Adafruit-MAX31850-thermocouple-breakout-board: BRANCHES:[master:759ee92
 adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e;]|RELEASE:[none|none]
 adafruit/TeeOnArdu: BRANCHES:[master:29ad8742eaa81aa76ed1c73be77ef67e4432db83;30pins:5946367beec54ac208f16840dfca701a66502225;]|RELEASE:[none|none]
 adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB: BRANCHES:[master:e3f77c8c186fbdbadf4f33629ca83cec93f3f731;]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64;]|RELEASE:[none|none]
