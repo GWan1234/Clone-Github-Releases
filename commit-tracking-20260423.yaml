@@ -241,3 +241,4 @@ adafruit/Flora-NeoGeo-Watch: BRANCHES:[master:2e81db16a70abc0fb91af357fdd86ae946
 adafruit/Adafruit_ProTrinket_Bootloader: BRANCHES:[master:b2cd5fad38f444b00be7a7d38a41d126eef437cf;]|RELEASE:[none|none]
 adafruit/TinyDHT: BRANCHES:[master:a900d69aa4c0b9df7053c026e8b843373e80d5b0;gh-pages:507c925f2dcf0224ae19e9d96b9c7b0b0aee4609;]|RELEASE:[1.1.2|none]
 adafruit/TinyLiquidCrystal: BRANCHES:[master:cb439bd5a56950609a20a15ad7977adb1796b9d8;gh-pages:c97aedb557950943707664f3b7e803964d918962;actionci:de1909013991b0ae9adab7e917dd09816f8faefb;]|RELEASE:[1.2.2|none]
+adafruit/USB-Power-Gauge: BRANCHES:[master:4072a6d4c0e282fd573cf8be6f2c4a1dbb3f91b4;]|RELEASE:[none|none]
