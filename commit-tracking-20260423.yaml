@@ -423,3 +423,4 @@ adafruit/Adafruit-USB-Isolator-PCB: BRANCHES:[master:826956acd5fa3ed2c04f8f39ebb
 adafruit/Adafruit_Adalink: BRANCHES:[master:071ee995192a673bef2262bfc3aaae9b6195f4e2;]|RELEASE:[2.3.0|none]
 adafruit/Adafruit-SMT-Breakout-PCBs: BRANCHES:[master:e7f95c87a5ef1eb566af64ad816a61ee8ca5f92d;]|RELEASE:[none|none]
 adafruit/Adafruit-METRO-328-PCB: BRANCHES:[master:1d635d70533c446c925ec77240370cfee4fba7ad;]|RELEASE:[none|none]
+adafruit/Adafruit-MouseLogger: BRANCHES:[master:440937ffc5e4fd574eb769870de30d26437fe031;]|RELEASE:[none|none]
