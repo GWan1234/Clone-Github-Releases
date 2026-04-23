@@ -12,7 +12,7 @@ cockpit-project/cockpit-podman: BRANCHES:[tasks-container-update-cockpit-ci-cont
 cockpit-project/bots: BRANCHES:[trigger-wildcard:f32c35254d78083516ebf56f5835124f10474ea9;naughty-prune-8630-20260405-042012:9c0fe1e59a477167d787f7d17ef286bec5a4f310;naughty-prune-7707-20260419-043549:98524c5d0aac80e74d891b217a9d13d60682076c;naughty-prune-7707-20260412-043326:bdedd5f97a95854999954e581b1a3ee7a2c2a073;naughty-prune-7707-20260405-042118:c50b60d1afd3ab598a228a9ad6c4229c68bd71cf;naughty-prune-7707-20260208-041820:e3b3b25a1cf73fe3ef0c186d2ef8c602938dbcde;main:655b89d8128587dbf6ae7cdae10c116848138a8e;image-refresh-ubuntu-2604-20260417-091901:c578aadda6bda60ad2c52c1006ac26cd97c46557;image-refresh-services-20260413-123301:8ecaa760e0e2209da2c08c32b15e9db44232b9c0;image-refresh-rhel-8-10-20260423-000814:60c25dd7218ad834ca75b34be40c08fc507c9f59;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpit-podman-weblate: BRANCHES:[main:52efd362ab375fd5fde13cf09b390e5e8878ea40;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpit-weblate: BRANCHES:[main:49b362e29d0ce6f3a03b43e6b9431954d6e70060;]|RELEASE:[none|none]|SIZE:0GB
-cockpit-project/cockpit-ostree-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:d0a8abfac10b1be9c9e64780a9d0b762856f043f;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpit-certificates: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/presentations: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-machines: BRANCHES:[]|RELEASE:[352|9fac3a7baed5b860abd64f791540bc35a7eca867|2026-04-21T11:10:25Z]|SIZE:0GB
