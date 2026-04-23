@@ -2300,7 +2300,7 @@ adafruit/micropython-adafruit-framebuf: master:26556e49935521cde014946bdf4f6070a
 adafruit/Adafruit_Media_Converters: master:85a50a03dfeef5b0d3a33c6124e940c19b9e550c;|none|SIZE:4876
 adafruit/Adafruit_Curie_Bot: master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae;|none|SIZE:8133
 adafruit/single_chan_pkt_fwd: master:aab8d308ea2abd5f4c39ca74a4493097a6632245;|none|SIZE:68221
-adafruit/Adafruit_CircuitPython_Thermistor: main:bdfeb28d741a0233c4d8789b610d116831c9c0dd;|2026-03-27T19:05:13Z|SIZE:18594
+adafruit/Adafruit_CircuitPython_Thermistor: main:bdfeb28d741a0233c4d8789b610d116831c9c0dd;|2026-03-27T19:05:13Z|SIZE:18595
 adafruit/Adafruit_CircuitPython_LIS3DH: main:ca871b8bc59b23acbfd779bf59d420599e8bcbb5;|2026-03-27T19:00:01Z|SIZE:25671
 adafruit/pt100rtd: master:94a8c8835d93a4050d7681da64e976a6458f78f6;|none|SIZE:8239
 adafruit/Adafruit_CircuitPython_HID: tannewt-patch-1:edd75dde975dd537e97e984e9c96debd4057bd15;revert-40-alternate-devices-for-ble:6ed148d85a62083ef632135c5faad2ef6504d7b3;patch-fix:a36884e02f4d1578da50adfe6b16024ecc623034;main:a147d3b5b976371601b460622209d327f51eb681;dont-crash-on-full:3e86e825f902822aa7a90988e8cbc2e22bf85434;|2026-03-27T19:10:05Z|SIZE:149940
