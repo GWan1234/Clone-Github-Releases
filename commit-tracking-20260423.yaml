@@ -937,3 +937,4 @@ adafruit/Adafruit-Metro-M4-Express-PCB: BRANCHES:[master:4aafb2ac645c0d93eed7e4f
 adafruit/Adafruit_CircuitPython_L3GD20: BRANCHES:[main:2de0d35a5a4808793637ae2ea47911f899ed07f5;stemma_i2c:dfe2148e0cd4b2322ac3cccef5280384e2e0411f;patch-fix:537655868f1ef2329a5a1455bdc16c4ab5f53516;remove_debug_print:a2aa8e3e6112091d5cd624df0a456ce0460de0ce;]|RELEASE:[2.3.26|none]
 adafruit/esp8266-weather-station-color: BRANCHES:[tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Crickit: BRANCHES:[main:e3c372fecf7209320826009de88818d91809cff6;patch-fix:7a11ee3cdd37a52efc40e72ebd72631fedc3a250;]|RELEASE:[2.3.23|none]
+adafruit/Adafruit_Crickit_PCBs: BRANCHES:[master:4615138e959c50a519bfaaa30a3203e038487cdd;]|RELEASE:[none|none]
