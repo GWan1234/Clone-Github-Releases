@@ -1026,3 +1026,4 @@ adafruit/Adafruit_CircuitPython_ADT7410: BRANCHES:[main:8145c9f8f6decb3c7f899f14
 adafruit/Adafruit_ADT7410: BRANCHES:[master:8b134b3609705d2554994d959f6356d2aa7e89d8;gh-pages:4c175d0f0c9452007151c6095921a042ec83d438;busio:cf5a11e125d3127f546baf342e42673b6998a9c5;]|RELEASE:[1.3.1|none]
 adafruit/Adafruit_CircuitPython_Display_Text: BRANCHES:[main:6450c7a3dc4c16c4af4b75eda549537dffb5a73c;patch:fe259d0f96f20350c3ba062fc98b0792b7727751;]|RELEASE:[5.0.2|none]
 adafruit/Adafruit-Grand-Central-PCB: BRANCHES:[master:9e59fe3cd1ea37aa6caaf5780fa80956e6ccd74b;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_RA8875: BRANCHES:[main:2eb9a0fcef1a6f6b1c4b1371f714ecf73b9f69b2;discord-fix:dedb3b23e05f82aa4ba47a4a04e5e9ff67190538;]|RELEASE:[3.1.28|none]
