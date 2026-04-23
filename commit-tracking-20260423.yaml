@@ -22,3 +22,4 @@ cockpit-project/pixel-test-reference: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:
 cockpit-project/cockpit-cloud: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/org.cockpit_project.CockpitClient: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/subscription-manager-cockpit: BRANCHES:[]|RELEASE:[14.1|2df9566f87721b92f138be28d1ff20045a386a1d|2026-04-13T12:05:10Z]|SIZE:0GB
+cockpit-project/action-release: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
