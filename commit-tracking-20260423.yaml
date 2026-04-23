@@ -978,3 +978,4 @@ adafruit/glitterpos: BRANCHES:[master:ea8e287096cae2de893e2a92a9fb8c5e4e40cb29;d
 adafruit/Adafruit_MLX90393_Library: BRANCHES:[master:5174d8c6a166ad5c9df7554ad53780a60c80c93c;gh-pages:56a2ca8a9576b3fc67cd0a9eceb6ba14ea39199b;sensorify:96eaf5f30f734e38fd84bd5e2588749b87f8c832;actionci:fbb0fba22161529bca1027b08a83fe7567058128;]|RELEASE:[2.0.5|none]
 adafruit/Adafruit_CircuitPython_LIDARLite: BRANCHES:[main:e09200be5161ddfafc9a7451f294cd940e5847b2;]|RELEASE:[1.3.13|none]
 adafruit/Adafruit_CircuitPython_FRAM: BRANCHES:[main:ee4879c1a11efbc395c10427d91c1a7418286c05;biggerfram:a8ee6e2a9d0386eebbc8f117acf6e17c228ef200;]|RELEASE:[1.3.28|none]
+adafruit/Adafruit_CircuitPython_MLX90393: BRANCHES:[main:7337aa04435de69d9588888a33c7a9d7c23f09de;setup-py-update:17ab231dc66a4b9abbf18f8d36d1f6a6694cf027;]|RELEASE:[2.4.1|none]
