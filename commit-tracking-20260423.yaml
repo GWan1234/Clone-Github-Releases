@@ -459,3 +459,4 @@ adafruit/dash-examples: BRANCHES:[master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00
 adafruit/Adafruit_BluefruitLE_OSX: BRANCHES:[master:f71eb6e981885d70830cb6087ac46386662249be;]|RELEASE:[none|none]
 adafruit/xcarve-server: BRANCHES:[master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6;]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65;]|RELEASE:[none|none]
+adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8;]|RELEASE:[none|none]
