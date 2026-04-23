@@ -878,3 +878,4 @@ adafruit/Adafruit_CircuitPython_FancyLED: BRANCHES:[main:0f0e19b9dd3dfef7dc7e1ae
 adafruit/Adafruit_ZeroFFT: BRANCHES:[master:7b285fc6d706ab4f983c5475ea45dcf2ff8edc4f;gh-pages:833e47f40a8318bade9bed6cd6ce6ffce0e0cf5e;action:da5072cc5ec0d99bc7c446dc8404e0feb5b012e9;]|RELEASE:[1.0.6|none]
 adafruit/Adafruit_CircuitPython_AVRprog: BRANCHES:[main:55e42879621fc8ef9bd1bfbadb07fb169114e3a0;patch-fix:7490faf39b5dddc2431d170f15f1a38a9018c2a2;]|RELEASE:[1.5.7|none]
 adafruit/Adafruit-PXT-Setup: BRANCHES:[master:c25ac1f717904a1bb22caee3295cd6ba778745fa;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_RFM69: BRANCHES:[main:1837cb10b353a6349c33d87c0f045c80c08003e3;docs_req_fixes:5e95b41adb824c475ebdfdc2380a9633110c9d74;fix_rtd_theme:fef9e6236cf265868f96a99e5d94824f7badafbc;]|RELEASE:[2.1.29|none]
