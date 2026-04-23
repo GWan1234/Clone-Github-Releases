@@ -13,3 +13,4 @@ cockpit-project/bots: BRANCHES:[main:9da823e5345939c8c7baee036a4092cc442350b5;ma
 cockpit-project/cockpit-podman-weblate: BRANCHES:[main:52efd362ab375fd5fde13cf09b390e5e8878ea40;]|RELEASE:[none|none]
 cockpit-project/cockpit-weblate: BRANCHES:[main:49b362e29d0ce6f3a03b43e6b9431954d6e70060;]|RELEASE:[none|none]
 cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:d0a8abfac10b1be9c9e64780a9d0b762856f043f;]|RELEASE:[none|none]
+cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]
