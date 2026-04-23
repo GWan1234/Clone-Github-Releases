@@ -30,3 +30,4 @@ cockpit-project/.github: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-docs: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/subscription-manager-cockpit-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 openwrt/openwrt: BRANCHES:[]|RELEASE:[v25.12.2|02fe9b4f4872fdb1703f04379fd063c7e27c7aa4|2026-03-27T13:52:28Z]|SIZE:.03GB
+MetaCubeX/mihomo: BRANCHES:[]|RELEASE:[v1.19.24|a84724665eb7f989809abe463c05f5723bd24975|2026-04-20T01:56:58Z]|SIZE:0GB
