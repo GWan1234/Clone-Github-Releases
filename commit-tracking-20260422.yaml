@@ -1000,7 +1000,7 @@ adafruit/Adafruit-METRO-328-PCB: master:1d635d70533c446c925ec77240370cfee4fba7ad
 adafruit/Adafruit-MouseLogger: master:440937ffc5e4fd574eb769870de30d26437fe031;|none
 adafruit/Adafruit_BluefruitLE_nRF51: swspi:44fe0b94a07167f3ce577a7d6d54ec646375761b;master:16412c28c5d25eb2577c0d5bbac85f3c7dc7baae;development:70aa05c828587418bd1dd5bfb52ab8e0838261a6;actionci:f1e8caae07a63e74c7113958201750241b22871a;SPI:5d8eb1e9eb66634f4f2d51845ff38ea646c4e749;|2020-10-16T19:56:06Z
 adafruit/Adafruit-MAX9814-AGC-Microphone-PCB: master:96bd97b32a5378517301185de4905cf5070b363f;|none
-adafruit/arduino-board-index: gh-pages:2bc9c2f2c867e8d6f4299a4609255e69324e605f;dm-add-m4:fb36ae6c8c6e06ff0b08523d6a8b16da7484c36f;|2015-05-08T23:54:37Z|SIZE:2776923553
+adafruit/arduino-board-index: gh-pages:2bc9c2f2c867e8d6f4299a4609255e69324e605f;dm-add-m4:fb36ae6c8c6e06ff0b08523d6a8b16da7484c36f;|2015-05-08T23:54:37Z|SIZE:2776923554
 adafruit/Adafruit-Feed-Mangler: master:4c7b329a94e399f8d886f99a96f2d4d867a9ab9f;|none
 adafruit/esp8266-micropython-vagrant: master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034;|none|SIZE:4572
 adafruit/BNO055-Cordova-Example: sawcoach:0dbee7f5ac745ff51854e520cc91382ceee68ae1;master:a1c6ba346303ed26d8d5a84af1dd7c15884bdd6e;|none|SIZE:18489881
