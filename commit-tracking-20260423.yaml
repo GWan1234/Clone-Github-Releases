@@ -238,3 +238,4 @@ adafruit/Adafruit_SoftServo: BRANCHES:[master:9e9d72ad7487a7eda11c5f19dfcc7a81dc
 adafruit/Adafruit-Trinket-USB: BRANCHES:[master:51f208bc569dd79d7357f16d548ed0c43f4927e8;experimental-update-jan31-2014:da4d1b515a725f90208462f4d4a018f6391678bf;]|RELEASE:[none|none]
 adafruit/Adafruit-TLC59711-Breakout-PCB: BRANCHES:[master:db1aa65ded2fdca2fb8dca48995195abe2235a0f;]|RELEASE:[none|none]
 adafruit/Flora-NeoGeo-Watch: BRANCHES:[master:2e81db16a70abc0fb91af357fdd86ae946a53ae8;]|RELEASE:[none|none]
+adafruit/Adafruit_ProTrinket_Bootloader: BRANCHES:[master:b2cd5fad38f444b00be7a7d38a41d126eef437cf;]|RELEASE:[none|none]
