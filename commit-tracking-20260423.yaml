@@ -929,3 +929,4 @@ adafruit/Adafruit-pIRKey-PCB: BRANCHES:[master:6f962ffc77d781d85bb019384fd80bceb
 adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802;]|RELEASE:[none|none]
 adafruit/pxt-crickit: BRANCHES:[master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;microbit:6d78a8f266ac325ae42bad16f21e285492d740f1;servopulse:8dbf72089de398fb4da70809c32a9a35fe17c8d4;dm-edits:c895b7a11609f4edd4d43787fad04e20d50c2f25;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MatrixKeypad: BRANCHES:[main:26386099df777764f129187655aac05b421b2f7b;rpi_simpletests:12d277c226594276627439253772f7cc949c2e50;]|RELEASE:[1.2.22|none]
+adafruit/awesome-adafruitio: BRANCHES:[master:4f82a243d30de770ff8fd3273d3db543817a3818;]|RELEASE:[none|none]
