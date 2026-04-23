@@ -20,3 +20,4 @@ cockpit-project/cockpit-machines-weblate: BRANCHES:[]|RELEASE:[none|none|none]|S
 cockpit-project/node-cache: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/pixel-test-reference: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
 cockpit-project/cockpit-cloud: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/org.cockpit_project.CockpitClient: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
