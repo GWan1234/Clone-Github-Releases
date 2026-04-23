@@ -715,3 +715,4 @@ adafruit/MicroPython_TravisCI_Deploy: BRANCHES:[master:307afb12fd1112dcd0395f38f
 adafruit/Adafruit-CP2104-Friend-PCB: BRANCHES:[master:4684fff897c221bcf2539f7125dbf4c11cbf1564;]|RELEASE:[none|none]
 adafruit/BNO055_Demo: BRANCHES:[master:dec5b9ded60a3bc3d878543a4b2b671b5ae07b8e;]|RELEASE:[none|none]
 adafruit/Adafruit_LSM9DS1: BRANCHES:[master:3b293ea7218f39144e330e7a22a250bb4ccabcd6;gh-pages:600145b9ea7ebc9aced0544a336ad57d2d406c93;readme_update:402a85149233b9145c35d6e3e1d011d8ace136d7;mag_refactor:b5e8991143b29dc13eae3b2006559cebb15a7522;]|RELEASE:[2.2.1|none]
+adafruit/Adafruit_CircuitPython_HT16K33: BRANCHES:[main:a8169b23a8cbaaf140f94baacc267cf859892e82;patch-fix:33a709b993cf4fbaba5ff7070e3e1e11d2630214;]|RELEASE:[4.6.16|none]
