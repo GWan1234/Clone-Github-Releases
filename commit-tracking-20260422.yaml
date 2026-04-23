@@ -828,7 +828,7 @@ adafruit/NeoPixel_Painter: master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f;|none
 adafruit/Adafruit_L3GD20_U: master:c8c354335b41c453c8989541dd9fd64dabd420ae;gh-pages:2384b63badbb3386a3e3c9703d5ee659aef1034a;actionci:2733f34eda9448f4dffc938947a611f23d299270;|2023-11-15T15:25:18Z|SIZE:106772
 adafruit/Adafruit_Trellis: master:ed55d2b8e0e7266798c11dea75f4dbf1a81849e7;|none|SIZE:800812
 adafruit/Adafruit_Trellis_Library: panel-diagram:97d9fe84bbb39bfeebae26057f9e4ed1ef116c7f;master:0d6be80cd5b6d7cdba54afc3f956b4ce28f08b8d;layout:2e2e58e4be2236f6710bab8d6f4a1ab7be9bdb76;examples:fdd1b1f73bab0bc911850416500a0d725a2d3524;|2016-11-29T15:02:17Z|SIZE:22844
-adafruit/adafruit-pi-cam: master:d3ff22672785de876a74a4c873104dde3b1183fa;|none|SIZE:83552
+adafruit/adafruit-pi-cam: master:d3ff22672785de876a74a4c873104dde3b1183fa;|none|SIZE:83551
 adafruit/NeoPixel-Sticks: master:e505da1f3e2f702076bb7845865026569e0b103c;|none|SIZE:364594
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3;|none
 adafruit/Adafruit_FRAM_I2C: master:cb13d177db301d11469f3e52f7154c4aeac36f3f;gh-pages:7fc1e7081b6d5f27794367a89a4b9cd2cce5be08;docs_badge:28e3f1767a5c39a64cccb0868a8ecea5d052f784;busio:37310b12133ef8b830f65ca57386a5af2dab973a;actionci:a62bb175d768b709e32fd3007381c9d079d61426;|2023-11-15T15:26:39Z|SIZE:1656356
