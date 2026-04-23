@@ -3,3 +3,4 @@ cockpit-project/cockpit-project.github.io: BRANCHES:[]|RELEASE:[none|none|none]|
 cockpit-project/cockpit: BRANCHES:[]|RELEASE:[310.7|26bd244d8f8793d3048cc0d166ebd9ad3629c7e8|2026-04-21T12:24:44Z]|SIZE:.02GB
 cockpit-project/cockpit-design: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:.15GB
 cockpit-project/hubbot: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpituous: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
