@@ -819,3 +819,4 @@ adafruit/Adafruit_CircuitPython_DHT: BRANCHES:[main:d4279a9a19913c51c4372cc9101f
 adafruit/Adafruit-PiGRRL-PCB: BRANCHES:[master:2d2e6ea5e7ed23f049389dab598643fbaf242440;]|RELEASE:[none|none]
 adafruit/Adafruit_Learning_System_Guides: BRANCHES:[folder-images:bf11cd73581fec48459856cfa7dc7aec41435ff2;main:cfc2a26007c9f6b9046e95cd24b7e22d15c06859;]|RELEASE:[20260423|none]
 adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f756714c5385a355e00b80270;]|RELEASE:[none|none]
+adafruit/Adafruit-Joy-Featherwing-PCB: BRANCHES:[master:45f843d490a5968f4642ff970e8e867918c80b8d;]|RELEASE:[none|none]
