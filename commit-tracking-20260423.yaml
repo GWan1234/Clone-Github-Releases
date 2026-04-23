@@ -320,3 +320,4 @@ adafruit/Adafruit_Python_SSD1306: BRANCHES:[master:dfa8717cb7a2d8706bef5e1ed6c49
 adafruit/Adafruit-Si4713-Library: BRANCHES:[master:fa38460fb0303d7951ff6a20828d707d13225d30;gh-pages:f0ad4926a5bd1bf761594fd828e17d3df08f9872;fix-warning:3db8e11741686a783c62ccc337f982db1a7f3ab5;actionci:e1a17ab996bc4fa91b3ce707617b023e88203bd3;]|RELEASE:[1.2.4|none]
 adafruit/Adafruit-Perma-Proto-PCB: BRANCHES:[master:d6febb550024f057007c0d634e846f9c0ede5c36;]|RELEASE:[none|none]
 adafruit/Adafruit-CAP1188-PCB: BRANCHES:[master:cf65678210cb9bc8a792efa091d49082e4ad6a2b;]|RELEASE:[none|none]
+adafruit/PiTFT_Extras: BRANCHES:[master:9d42b2c3941db30e1a6df3d6cfffe533662716ae;display_type:85d46d8d4c9061f572fd7c46f5d1c6c4fe9a6bbc;]|RELEASE:[none|none]
