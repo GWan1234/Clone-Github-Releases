@@ -1122,7 +1122,7 @@ adafruit/Adafruit_Python_LSM303: master:b286a95e81e627dbc2b262b90a475ec2f4bb6f4f
 adafruit/Adafruit_Python_VCNL40xx: master:f88ec755fd23017028b6dec1be0607ff4a018e10;|2018-08-30T19:11:52Z|SIZE:8673
 adafruit/Adafruit_Python_TCS34725: master:996396cd095522d788b7b15d20fd44e566c8464e;|2018-08-30T19:10:40Z|SIZE:10418
 adafruit/Adafruit_Python_WS2801: master:d9fa0f9ce1577a142f6dd5a974de3ba201351545;|none|SIZE:9441
-adafruit/Adafruit_Python_PCA9685: master:bd0e2b989d95aff8ee2643f0324564313ae4de21;|none|SIZE:8464
+adafruit/Adafruit_Python_PCA9685: master:bd0e2b989d95aff8ee2643f0324564313ae4de21;|none|SIZE:8465
 adafruit/Adafruit_CircuitPlayground: siddacious-patch-1:4fb36652a81951ac524e5f3a77db97f5c07f3729;master:a6708e5a32bb63713add2aba2d494e20dac89a28;gh-pages:b83524688759cf74715ae1f0c9ea3a5c98589b96;fix-pdm-nrf:6c4b4361170212d12a0cb2856dc8adee23638fa1;fix-ci:a5a967c561c99cdedd27b8fc611cba7a680d8e3b;|2023-12-06T00:18:03Z|SIZE:1442634
 adafruit/Adafruit-Circuit-Playground-PCB: master:123fc8ded8a6c41de64b6e2ac4d6405f95199b43;|none
 adafruit/Adafruit-Feather-32u4-FONA-PCB: master:db45e3e1a5e53590cac33a1f3adc783d1e70ea01;|none
