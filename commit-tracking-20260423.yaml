@@ -577,3 +577,4 @@ adafruit/Raspberry_Pi_SQLite_Sensors: BRANCHES:[master:7ac7cfce9549b83332c498eb3
 adafruit/eagle2fritzing: BRANCHES:[master:d18749346438d31870de54bcbf2748cdc676138f;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-EZ-Key-PCB: BRANCHES:[master:b5eea193aba7fc2795fc4ac54534faceee2c3a84;]|RELEASE:[none|none]
 adafruit/Weather-Pixels: BRANCHES:[master:d1bb8951b25315a378a47f5bc7e8bbf04a399225;]|RELEASE:[none|none]
+adafruit/Adafruit-L3GD20-Breakout-PCB: BRANCHES:[master:32bf273c21430e7c4e28cfa79be2109f91b893ea;]|RELEASE:[none|none]
