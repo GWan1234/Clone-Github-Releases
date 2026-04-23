@@ -233,3 +233,4 @@ adafruit/Adafruit_CC3000_Library: BRANCHES:[master:3327fd02c33703a5d5fe50672336e
 adafruit/Adafruit_DS2413: BRANCHES:[master:a044150b7fd3a57d3e0123b154df27d782edc3f5;]|RELEASE:[none|none]
 adafruit/Adafruit-Trinket-Gemma-Bootloader: BRANCHES:[master:3bc1bb561273535d4d493518a233a3a1fccf6b76;button-boot-activation:1be6ac8acfb27d521159ff753dd387ba54489d4e;]|RELEASE:[none|none]
 adafruit/TinyWireM: BRANCHES:[master:e3c07f2a91621632f7a4128b91e985d2bd72467a;gh-pages:aea76a3938531d45b6adf79dafae46f6e5ddc925;endTransmission-optional-stop:b6ebdfce9431e53881ecb840410038de5471fa98;]|RELEASE:[1.1.4|none]
+adafruit/Adafruit_RA8875: BRANCHES:[master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pages:56b737e11c1f75469b797977b2a53d055b737f4a;doxy-fix:67907ed926f2e276033b0f355b60d66ccc17ecbd;]|RELEASE:[1.4.5|none]
