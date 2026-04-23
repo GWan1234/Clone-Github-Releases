@@ -581,3 +581,4 @@ adafruit/Adafruit-L3GD20-Breakout-PCB: BRANCHES:[master:32bf273c21430e7c4e28cfa7
 adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: BRANCHES:[master:6d03cc0e0a1d64360514f60730dba3c79e2846a0;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Adalogger-PCB: BRANCHES:[master:0147a7204c11ae57fc42c5424d5c700bcca875b2;]|RELEASE:[none|none]
 adafruit/Adafruit_MAX30100: BRANCHES:[master:b487b81597bdb3f7711a42a21689ac771278cafa;]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB: BRANCHES:[master:ace22faec73dda4b8dcfec16e1667551456689dd;]|RELEASE:[none|none]
