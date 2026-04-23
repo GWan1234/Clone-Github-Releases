@@ -33,6 +33,7 @@ allrepositories:
 #  - LilyGO
 #  - Xinyuan-LilyGO
 #  - openwrt
+#  - flameshot-org
 
 repositories:
   name0:
