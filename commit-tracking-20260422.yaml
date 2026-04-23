@@ -1438,7 +1438,7 @@ adafruit/Adafruit_CircuitPython_L3GD20: stemma_i2c:dfe2148e0cd4b2322ac3cccef5280
 adafruit/esp8266-weather-station-color: tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0;|none|SIZE:1484178
 adafruit/Adafruit_CircuitPython_Crickit: patch-fix:7a11ee3cdd37a52efc40e72ebd72631fedc3a250;main:e3c372fecf7209320826009de88818d91809cff6;|2026-03-27T18:57:19Z|SIZE:45828
 adafruit/Adafruit_Crickit_PCBs: master:4615138e959c50a519bfaaa30a3203e038487cdd;|none|SIZE:1994023
-adafruit/Circuit-Playground-Character-Icons: master:9ebcc0e87610c6890f698aee40eb895613985573;|2020-04-03T21:10:07Z|SIZE:175922
+adafruit/Circuit-Playground-Character-Icons: master:9ebcc0e87610c6890f698aee40eb895613985573;|2020-04-03T21:10:07Z|SIZE:175923
 adafruit/Adafruit_TFTDMA: master:c99d3724fd26b02b0d1b2268bf93f029a8f74ee4;gh-pages:123f03a5271149db9ec58f74cba47151ff2cf262;actionci:da1fcbafdc0b3ee038f34b259992501d4cfdec90;|2020-06-08T17:51:25Z|SIZE:161874
 adafruit/Adafruit_CircuitPython_MLX90614: patch-fix:f6ffc0e33f94643b883b7034ff8950836fec4927;main:96ce6eb5746c11303b81fd1b9f443525a7306c32;|2026-03-27T19:01:25Z|SIZE:41071
 adafruit/Adafruit_CircuitPython_MCP3xxx: pylint-fix:511a5fe57550e045da898ce8c1819e5e633b4046;main:bb92c7be68ac123938c12e8e83bc200850ffc4bc;|2026-03-27T19:01:09Z|SIZE:43270
