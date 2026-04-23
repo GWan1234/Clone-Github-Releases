@@ -858,3 +858,4 @@ adafruit/Adafruit_CircuitPython_Fingerprint: BRANCHES:[main:88070ae653133de8659e
 adafruit/Swift-Playground-Book-For-Bluefruit-Template: BRANCHES:[master:b80c03e276af5431a538c52104cb3df312f129e7;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_VL53L0X: BRANCHES:[main:c80951bd8cff61b021bd569d68642281096afad6;stemma_i2c:fcaea82e0a5bb0567abc43f3ec80291963119cc8;patch-fix:eac5e85c718af2dc86e61a39536b03cc5de47b2a;]|RELEASE:[3.6.18|none]
 adafruit/Adafruit_CircuitPython_LSM9DS0: BRANCHES:[main:490d762acbd30c39c2514530d196bfb5f7a01bf1;dhalbert-ustruct:8bc1d1490e559c97f0b447c130dd5caa771a0346;patch-fix:b249039e2c91202e51557b766e6730fd65c2d231;]|RELEASE:[2.2.23|none]
+adafruit/Adafruit_CircuitPython_LSM9DS1: BRANCHES:[main:bb536a86ba9fa3140e8e76f5b06b70c8409e1fd2;patch-fix:7d58e5710d433d79eb34c22dc46f367576d410a5;REUSE:6d7e9ee383146f0911581314649f6a808af64139;spi_mag_auto_incr:8303bc484b5fc01f0130634cf99f77b54acffeba;]|RELEASE:[2.1.28|none]
