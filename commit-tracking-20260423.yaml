@@ -462,3 +462,4 @@ adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78
 adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8;]|RELEASE:[none|none]
 adafruit/Adafruit_DotStarMatrix: BRANCHES:[master:14f09e427d72f74581f07775652bedf2828f46e6;gh-pages:b2cf28e0ba7797f39fc4ddec8b155190cbcae08e;actionci:af97b82f2bc07283ecf7696ec9dd229d0170d832;]|RELEASE:[1.0.9|none]
 adafruit/adafruit-io-node-tunnel: BRANCHES:[master:6c36968af4738995c80447055d87eb3320c5e4b4;]|RELEASE:[none|none]
+adafruit/Adafruit_WICED_Arduino: BRANCHES:[master:33c7c9efe9208bd9d7d7ff40bb39219d01b920a3;development:67530d098f95f05952a056644a0b53ff3886118b;win32_binaries:ce8c5b86016d9695962db976cc92291293e41a2a;]|RELEASE:[0.6.6|none]
