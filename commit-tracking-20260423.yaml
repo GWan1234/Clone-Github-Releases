@@ -912,3 +912,4 @@ adafruit/Adafruit_CircuitPython_RFM9x: BRANCHES:[main:adb163578a3a32e0235a040345
 adafruit/Adafruit_CircuitPython_MCP230xx: BRANCHES:[main:b8cbc34dc879eb54a03680e46ffea9c65600809b;patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;]|RELEASE:[2.6.1|none]
 adafruit/Adafruit_CircuitPython_AM2320: BRANCHES:[main:7749e4d454ea7d4145a4a2d9e717f0545dbe6135;pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;]|RELEASE:[1.2.27|none]
 adafruit/Adafruit_AM2320: BRANCHES:[master:34c038ec3a6afa65ac9be95288cf6697df7912f6;gh-pages:c318b9a823c66a4f7eda4c7c98c295429fca559b;tyeth/issue13:27336667d10cb0f2b82e48b744bafe229c82dc9c;]|RELEASE:[1.2.5|none]
+adafruit/Adafruit-ItsyBitsy-M0-PCB: BRANCHES:[master:faa92dda428868c7042f9ee04685ffdc70849725;]|RELEASE:[none|none]
