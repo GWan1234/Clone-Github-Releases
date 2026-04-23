@@ -365,3 +365,4 @@ adafruit/rpi-rgb-led-matrix: BRANCHES:[master:8c8af1cc135a767d7cb58be2604bb08466
 adafruit/Bluefruit_LE_Connect_Android: BRANCHES:[master:5443af2742840b715d5f52197230525b762790a1;]|RELEASE:[v1.1.4|none]
 adafruit/Adafruit_ESP8266: BRANCHES:[master:08fadf3c31d5355cb51fb6278a7097bcdea85553;gh-pages:10821ebc9c53398477b53d3e065c3ba96724da0b;doxy-fix:bfbd90bb4e7325108382d9e198506f467e0a6a1b;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_Python_MPR121: BRANCHES:[master:86360b80186617e0056d5bd5279bda000978d92c;]|RELEASE:[none|none]
+adafruit/Pi_Node_Example: BRANCHES:[master:7ddf92a9b8c52ab6dd199430f5b89714913eab86;]|RELEASE:[none|none]
