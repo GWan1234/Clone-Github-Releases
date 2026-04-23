@@ -1230,3 +1230,4 @@ adafruit/Adafruit_SensorLab: BRANCHES:[master:82d6a554a07dc80978631a9fdbaf0bbf72
 adafruit/Adafruit_CircuitPython_BLE_Apple_Media: BRANCHES:[main:248e5ea32bfeb0aeb458358131e5d1fb4a882c8b;]|RELEASE:[0.9.22|none]
 adafruit/Adafruit_CircuitPython_ProgressBar: BRANCHES:[main:e720f6ff61aa41485a5611d8df3f7fa25fe8fb79;patch-fix:d6a4bf210ce65744ffacf304c5b92c174fb5fc3b;readthedocs-yml:bff50e4df7ab4c9c14b7673e15d73c81768ddd12;]|RELEASE:[2.3.21|none]
 adafruit/MIMXRT10xx_SDK: BRANCHES:[master:97b29486e66ba736c96892831eace128461a3c74;]|RELEASE:[none|none]
+adafruit/AnimatedGIF: BRANCHES:[master:688d1c99fbf4ff82a2ceabab928fbe6cea244d31;pb-experiments:ef84f43a76b0fdbf41cf7466bb2f2d6d406bdcdb;test-drawbastract:21db6cd5a82c9dd92829449365e96ae899c655ec;]|RELEASE:[none|none]
