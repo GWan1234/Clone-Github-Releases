@@ -858,7 +858,7 @@ adafruit/adafruit-rpi-fbtft: master:35890c52f9e3eef3237b76acc295585dd93fc8cd;hx8
 adafruit/Adafruit-MLX90614-Library: master:8c32c95768e0960d7c27258b1d9bac16b8d7fdfc;gh-pages:84e61be419032c6ad8158a0bd61278002f69d82d;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598;|2026-03-03T14:48:10Z
 adafruit/Adafruit-NeoPixel-Shield-PCB: master:8d382ceb17fb866f36544c106bb4346278c69c05;|none
 adafruit/Adafruit-CC3000-Breakout-PCB: master:85e69770538f91498fa18eec89245c2f9de09d5a;|none
-adafruit/Adafruit_MiniMLX90614: master:613aee3bbf05754574ce7d2112da7de45b352c5d;|2015-03-31T19:44:43Z|SIZE:4233
+adafruit/Adafruit_MiniMLX90614: master:613aee3bbf05754574ce7d2112da7de45b352c5d;|2015-03-31T19:44:43Z|SIZE:4232
 adafruit/Adafruit_SI1145_Library: master:27757d5dd017f6dbe0dce11c49323312f87394c9;gh-pages:7711140ab17bdf407eaffb4b5c7bce42efa22e31;|2023-11-15T15:21:26Z|SIZE:369697
 adafruit/Adafruit_MCP9808_Library: master:1447e4e8ab099dec3bc76bbb19ab9136f9478b15;gh-pages:044be17019e1bd328f068a1a480d5832a46717d8;busiosensor:2c69f263873148d0e1cea4cd734c143af9f2b96b;|2023-11-15T15:23:29Z|SIZE:375982
 adafruit/Adafruit-Trinket-PCB: master:3a2695463e52f72434d20daca6502fc62e8e2fcc;|none
