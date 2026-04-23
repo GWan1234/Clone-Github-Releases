@@ -1123,3 +1123,4 @@ adafruit/Adafruit_CircuitPython_Debug_SPI: BRANCHES:[main:3583d66af8f29527b1021f
 adafruit/Adafruit_TFLite_Micro_Speech: BRANCHES:[master:b5b1f4fb93587e3fc0a66cecb3d43b5dce14fc3b;updownmodel:a3fb431d02937a2d4c2a25a50748977fef9f707f;4commands:2775e407e85f32dc3d83533a38787ea7c09a49f4;gh-pages:1c6b27599c5536c7603db200409504cefb02cb70;]|RELEASE:[1.16.1|none]
 adafruit/Adafruit_CircuitPython_Pypixelbuf: BRANCHES:[main:445b828124100001a2d633b835a05b94e32083d5;]|RELEASE:[2.2.8|none]
 adafruit/Adafruit_VCNL4040: BRANCHES:[master:2b8154032c005eea3b8955eb3cc4317a995204ad;gh-pages:fa726931c2dd5515e554435fdce4dc6a434c3337;actionci:8fd98cf867bfb8d5f3215cd8c51fa255e790bb7e;]|RELEASE:[1.2.0|none]
+adafruit/makecode-newsletter: BRANCHES:[master:a1506c9dd3570859f14a7581e723a850a411af95;]|RELEASE:[none|none]
