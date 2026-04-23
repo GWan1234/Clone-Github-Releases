@@ -8,3 +8,4 @@ cockpit-project/term.js: BRANCHES:[master:df24a161e45f461488ba773237a96faa4c82f1
 cockpit-project/starter-kit: BRANCHES:[main:0d74fdf8d7b9f4ac0531ec158b838ca3b405f91d;dependabot/npm_and_yarn/types-f57dc2645f:58c2afb6b84022a8d8db5b1464671c66daef6116;]|RELEASE:[none|none]
 cockpit-project/registry-image-widgets: BRANCHES:[master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;]|RELEASE:[none|none]
 cockpit-project/cockpit-ostree: BRANCHES:[cockpit-lib-update-cockpit-lib-20260423-044319:bc17f30968671ec74e3f2ec1f0fd89938ac48530;main:28bbd58e151c82512b63c2d32bf4f9cc7696521d;]|RELEASE:[224|e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10]
+cockpit-project/cockpit-podman: BRANCHES:[main:f9911ae65fcb36631fa8ae15b0a6d66a5928b371;tasks-container-update-cockpit-ci-container-20260420-044953:b6b5ad8efa98553a374b4bc272d7d1a8f79d0c19;dependabot/npm_and_yarn/types-f57dc2645f:6c288793e6c58b03853176c8fd328db73f4271d2;]|RELEASE:[125|95e2175f3dd6a65d7321db2038c764676106d0d3]
