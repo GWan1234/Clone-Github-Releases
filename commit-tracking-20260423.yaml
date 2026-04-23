@@ -218,3 +218,4 @@ adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454c
 adafruit/Adafruit_ILI9340: BRANCHES:[master:00e5efe5d5c95f1255e55031b57f17288cf3c840;]|RELEASE:[1.0.0|none]
 adafruit/PiMiner: BRANCHES:[master:dce07f83d178489c92eb67922ff1124f5f376e29;]|RELEASE:[none|none]
 adafruit/Adafruit_TLC5947: BRANCHES:[master:605cc440ca9d4a6ea02f399b2a616c007e867527;gh-pages:f1339da830e1e3d83f87a4e85dc405ecf72eb53c;]|RELEASE:[1.2.3|none]
+adafruit/Adafruit_TLC59711: BRANCHES:[master:b26853a3dfb9b6f6d128814aceae84dedc0cd44a;gh-pages:b406ded61b84c17ab4ae94db83ec2a7aa36f17e9;busio:6d7b57c031fd6c5e2c835c853b5f30daf8dcfd0a;]|RELEASE:[1.3.4|none]
