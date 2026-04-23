@@ -299,3 +299,4 @@ adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB: BRANCHES:[master:e3f77c8c186
 adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64;]|RELEASE:[none|none]
 adafruit/Adafruit-BMP180-PCB: BRANCHES:[master:b47479ee8a43e5b217078e9e3b3a166479a68f7e;]|RELEASE:[none|none]
 adafruit/Adafruit_MPL3115A2_Library: BRANCHES:[master:007c3bdb71375d016064e34e2dde0568ee78fb3c;gh-pages:cee04da13a6a3683e22c5550fc81c95366b54537;dm-mods:576fcbb02e02d50ae77611db724cb51238d3ddec;]|RELEASE:[2.1.2|none]
+adafruit/Adafruit-VS1053-Breakout-PCB: BRANCHES:[master:61db4e571d89d321c33bb693b84f80da1510c5e2;]|RELEASE:[none|none]
