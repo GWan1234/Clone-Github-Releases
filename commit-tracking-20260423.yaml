@@ -87,3 +87,4 @@ adafruit/SD: BRANCHES:[master:041f788250d00157918e073825e35603e1ac3cbd;]|RELEASE
 adafruit/Adafruit_MintyBoost_PCB: BRANCHES:[master:ba585c4538bc26ebedb089dd746fca42d2931783;]|RELEASE:[none|none]
 adafruit/SPI_VFD: BRANCHES:[master:69e0f7f4105c535b182f41514e6674a396b32acc;gh-pages:80db41da6b1cedd72ab2a4d477edc98a6af0cee9;]|RELEASE:[1.1.4|none]
 adafruit/LS2208-USB-Barcode-Scanner: BRANCHES:[master:e0649268db70c54e7d4be64f7317b55b6d29708d;]|RELEASE:[none|none]
+adafruit/Adafruit-PN532: BRANCHES:[master:bf9f3f31961474fdbca23cb57d604c7f27269baf;evaherrada-patch-1:01ff94ef2195fb0aae54e46cee00dbaf3e3f9a90;gh-pages:2c288462fa97ed7fca3e4b63ed93b343d4418aff;busio:2df38b4f6156cdd3c28d60bda416f891d00200a4;andydoro-master:f47cc5befa5b91dadd1ffad8befd11d0908e7f46;i2c:e1aa0c2b6c6082fdbd18c5952d7aa0fd3d4791e2;rick_temp:ca9feddc10466e93ee65775318a20f8bad69baf0;]|RELEASE:[1.3.4|none]
