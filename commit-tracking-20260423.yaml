@@ -736,3 +736,4 @@ adafruit/Adafruit_CircuitPython_Thermistor: BRANCHES:[main:bdfeb28d741a0233c4d87
 adafruit/Adafruit_CircuitPython_HID: BRANCHES:[main:a147d3b5b976371601b460622209d327f51eb681;dont-crash-on-full:3e86e825f902822aa7a90988e8cbc2e22bf85434;patch-fix:a36884e02f4d1578da50adfe6b16024ecc623034;tannewt-patch-1:edd75dde975dd537e97e984e9c96debd4057bd15;revert-40-alternate-devices-for-ble:6ed148d85a62083ef632135c5faad2ef6504d7b3;]|RELEASE:[6.1.9|none]
 adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB: BRANCHES:[master:f1967694bc20333d31b167e4eeaff58742e37bba;]|RELEASE:[none|none]
 adafruit/CircuitPlayground_Power_Reactor: BRANCHES:[master:02e84435cdf04f674f8cb0c8c8d5aca9fa399f3e;]|RELEASE:[none|none]
+adafruit/Adafruit-Perma-Proto-Bonnet-PCB: BRANCHES:[master:d2d4f61d18bc89df4edd18c1f8aefd049b45a227;]|RELEASE:[none|none]
