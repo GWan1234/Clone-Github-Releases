@@ -1223,3 +1223,4 @@ adafruit/Adafruit_Spectro_Pi: BRANCHES:[master:5da6bd1f40b9ea37b6b19d87967baeaec
 adafruit/Adafruit-MCP4728-PCB: BRANCHES:[master:ab66f6aaf2e95f0027f17c2dde804d79508300f2;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_Magic_Light: BRANCHES:[main:3a5c1468d4bfd853ee80fec37a81040c2da87725;]|RELEASE:[0.9.26|none]
 adafruit/actions-ci-circuitpython-libs: BRANCHES:[main:fdf1cc33fc828429d08b1785de92ba214038b469;]|RELEASE:[none|none]
+adafruit/Adafruit-MCP2221-PCB: BRANCHES:[master:53e780f92007ff5cd0de8680872af6d316c64847;]|RELEASE:[none|none]
