@@ -1133,3 +1133,4 @@ adafruit/Adafruit_CircuitPython_BitmapSaver: BRANCHES:[main:20d6cce45d6ea0a2c73d
 adafruit/Adafruit_CircuitPython_Nunchuk: BRANCHES:[main:6f0d9cd4f8954200eb861fe1c6919caf18002221;stemma_i2c:23cbb07b3d46e456e82e5d62a5e86ff0f24310ef;]|RELEASE:[1.1.17|none]
 adafruit/Adafruit_MSA301: BRANCHES:[master:c096f70814404a36586783df381479234379be76;gh-pages:203716a9327c11bb1035eadebe42f3a66e19aa28;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit_CircuitPython_WSGI: BRANCHES:[main:f889f3aeaa52cadfefb25e1b427954dc9d36ab7b;]|RELEASE:[3.0.4|none]
+adafruit/stm32f4: BRANCHES:[master:612e81b67edc5d0402d42d5cc32e151a4e55bcb0;]|RELEASE:[none|none]
