@@ -185,3 +185,4 @@ adafruit/Adafruit_LSM303: BRANCHES:[master:7f9230639ae2ccbe3b9b208cd715614d27bf5
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:1cfa246270a750b416d54a9c9b48423afb8aa759;]|RELEASE:[none|none]
 adafruit/ADS1X15-Breakout-Board-PCBs: BRANCHES:[master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55;]|RELEASE:[none|none]
 adafruit/piccolo: BRANCHES:[master:aeda8407684dbc44b845cf845289d02abb0ffb27;]|RELEASE:[none|none]
+adafruit/USB-NeXT-Keyboard: BRANCHES:[master:332d2707793794d897ae3548a2eedd726c46e329;]|RELEASE:[none|none]
