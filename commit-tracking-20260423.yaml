@@ -518,3 +518,4 @@ adafruit/Bluefruit_LE_Connect_v2: BRANCHES:[master:26da88b2a667e1de42e029959f405
 adafruit/Circuit-Playground-Arduino: BRANCHES:[master:e931ce821578298567acb5898b602cd09a37a6a5;readmefile_try1:aa7e801fafab83d9e3653ff69466a34a59e62c1e;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP4725-PCB: BRANCHES:[master:0c89d205fcd7d0a1269a4f57c5cdfa0ce09e54dd;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MCP3008: BRANCHES:[master:03232cad6b888faf3dc2ff76e548c5fa3ffe3ae0;]|RELEASE:[none|none]
+adafruit/scale: BRANCHES:[gh-pages:a9416b52382fcf49ee9b8515be71c65183121622;]|RELEASE:[none|none]
