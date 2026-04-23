@@ -1000,3 +1000,4 @@ adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure: BRANCHES:[master:3e6e7d4f37c7
 adafruit/circuitpython-org: BRANCHES:[gh-pages:b4d1294099378b59cd7790a4badacec4787f177d;main:11b96cee30f09d8e28ee945f2405cd79d26f535d;create-pull-request/patch-1775003222:70207e08363a64bc81dfd98f0cdcd23a2b2ee882;]|RELEASE:[none|none]
 adafruit/Adafruit-Sound-Samples: BRANCHES:[master:7675c60a47c025ab62f77b699d6460d22bb963b1;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_74HC595: BRANCHES:[main:f918ed0b6f78179b016ef8723e7d6cc863534a55;discord-fix:3ddfee13b6ae106c98bc1573dd08cc894e25c014;]|RELEASE:[1.5.1|none]
+adafruit/Adafruit-STEMMA-Soil-Sensor-PCB: BRANCHES:[master:b20a708dd015cb81da8740460d47aae1555a1781;]|RELEASE:[none|none]
