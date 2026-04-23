@@ -28,7 +28,7 @@ cockpit-project/cockpit-files: BRANCHES:[main:c643b479860d4dbafa0ec764f8b1ffdb80
 cockpit-project/cockpit-files-weblate: BRANCHES:[main:e092ccac0438b6e874eca3f8801f0dadd71821fa;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/.github: BRANCHES:[main:1f0f37943e41c60e144a466f4e936aadcc397eda;]|RELEASE:[none|none]|SIZE:0GB
 cockpit-project/cockpit-docs: BRANCHES:[main:da6589a9c572fa2870429eea6faf0365e37ac56d;]|RELEASE:[none|none]|SIZE:0GB
-cockpit-project/subscription-manager-cockpit-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/subscription-manager-cockpit-weblate: BRANCHES:[main:31146e55de4573b31a81e79f82a7dbc532597738;]|RELEASE:[none|none]|SIZE:0GB
 openwrt/openwrt: BRANCHES:[]|RELEASE:[v25.12.2|02fe9b4f4872fdb1703f04379fd063c7e27c7aa4|2026-03-27T13:52:28Z]|SIZE:.03GB
 MetaCubeX/mihomo: BRANCHES:[]|RELEASE:[v1.19.24|a84724665eb7f989809abe463c05f5723bd24975|2026-04-20T01:56:58Z]|SIZE:0GB
 FUjr/QModem: BRANCHES:[]|RELEASE:[v3.0.2|0f7a17d79aefce785fb4baa2a544f6348d79ba1b|2026-02-27T12:53:38Z]|SIZE:0GB
