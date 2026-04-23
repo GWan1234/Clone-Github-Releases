@@ -821,7 +821,7 @@ adafruit/Adafruit_TinyFlash: master:853e2fa031e0556752e3b8e5c652150f32c2b41f;gh-
 adafruit/IRKey: master:44ea72a1142ae43aea40ccf8c77d674704ffc945;|none|SIZE:188373
 adafruit/TinyRTCLib: master:48385f8972a270f4aacec73a1b5e46f114c647f5;actionci:05e69f19810b90ed0c9e3a6c5f881d0be3badc9d;|2026-02-11T17:56:27Z|SIZE:13017
 adafruit/Adafruit_STMPE610: master:3707ff5e8ff9149f352626d217e7255812df010f;gh-pages:8c1fd086982f30e528bacf63d11cd8b6a756d0dc;|2023-11-15T15:21:09Z|SIZE:380122
-adafruit/CC3000_MDNS: master:acb2a96f2232effd9ad2fb833b332c60e03d9091;|2015-03-31T19:35:22Z|SIZE:7498
+adafruit/CC3000_MDNS: master:acb2a96f2232effd9ad2fb833b332c60e03d9091;|2015-03-31T19:35:22Z|SIZE:7497
 adafruit/Adafruit_Breadboard_NeoPixel_PCB: master:fcb0f12bb62142336634dfb3a8a8ffc5c15bb90e;|none
 adafruit/Adafruit_10DOF: master:53c43d1f6358ac92cde2c8b7987431c98fe8f848;dherrada-patch-1:a9853b82a127c5b02a81274b3f4fdd283dfe67da;|2020-01-12T01:55:07Z
 adafruit/NeoPixel_Painter: master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f;|none|SIZE:9722
