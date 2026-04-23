@@ -949,3 +949,4 @@ adafruit/Adafruit-Feather-M4-Express-PCB: BRANCHES:[master:d98407a6071813bc35c39
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: BRANCHES:[master:bb19790ef2cb5c1c291311f99104a12b05fa0cad;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Pixie: BRANCHES:[main:453bc8c8618e7b992890811a50e5fc482d1c97a0;]|RELEASE:[1.2.22|none]
 adafruit/Adafruit-Podcasts: BRANCHES:[master:17d58772eb7d81b2556864ee11e494c5f6a6e8c6;Collin:2d2454bab7055f5b050f7f32ca45db0d83eeb78a;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_TCA9548A: BRANCHES:[main:be3011a5a811d420bbb126f8920367717bc0a0e2;]|RELEASE:[0.8.5|none]
