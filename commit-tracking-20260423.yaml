@@ -1068,3 +1068,4 @@ adafruit/circuitpython-default-files: BRANCHES:[main:850cb39997d167a14265bf8ce4f
 adafruit/Adafruit_CircuitPython_TPA2016: BRANCHES:[main:dbdb6d8db51a38d79ceb6296e7f2929308fe734a;doc/add-typing:22a1326dbd05c8509b5b72acf2a5fb63e54f582a;]|RELEASE:[1.1.22|none]
 adafruit/Adafruit_Arcada_GifDecoder: BRANCHES:[master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc;]|RELEASE:[1.3.3|none]
 adafruit/Adafruit_CircuitPython_SSD1351: BRANCHES:[main:d3e5e0c6b8ee4425e9a0e533089f7e0588b2e2bf;setup-py-disabled:a9fcf15ffded3086fda2349a510a3daa11d30367;]|RELEASE:[1.4.8|none]
+adafruit/Adafruit_CircuitPython_Display_Button: BRANCHES:[main:f380c628a4cccd144c9a57e3d8de6691612926cb;use_ruff:5bc4267c64b7b6f8515858fb577a7f19a64b4f16;patch-fix:d767d28e177184c7cfa7b14fd94bd2cb94998b98;]|RELEASE:[1.11.7|none]
