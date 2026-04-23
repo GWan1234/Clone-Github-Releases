@@ -330,3 +330,4 @@ adafruit/Adafruit_MMA8451_Library: BRANCHES:[master:a97c1b328bd067b6e99f1df5c8ac
 adafruit/FONA_PPP: BRANCHES:[master:b1aeec0d5f951bdc24e8924ef5f4c3a138e711e6;]|RELEASE:[none|none]
 adafruit/LittleWireISP: BRANCHES:[master:2762515cd69a4add211d47b5c7fb45345307a1b1;]|RELEASE:[none|none]
 adafruit/Adafruit_FT6206_Library: BRANCHES:[master:32955bbde0019647556b27c6fdd35b602414fcb9;gh-pages:5fdc41104ab3f212b183445231d63f805a1139bc;busio:f0de0d27b5554746f1e5ffcd794feb7583f75e03;doxy-fix:dfee8d12de9c506fc9a156e464104d39c732c4db;actionci:dbf9600a7c02ee4301c6c96e11d9e4c03aaa9554;]|RELEASE:[1.1.1|none]
+adafruit/Adafruit_Si5351_Library: BRANCHES:[master:2e53d2f1bffd40d8bcdba2a117d5671b2fc572ab;gh-pages:4d19aec79b5441d1d87ccc4fc959fc7f52eb7104;actionci:2fc19308f1566722b298f14b755b1b0fde3c5924;]|RELEASE:[1.4.3|none]
