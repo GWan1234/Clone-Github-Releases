@@ -10,3 +10,4 @@ cockpit-project/registry-image-widgets: BRANCHES:[]|RELEASE:[none|none|none]|SIZ
 cockpit-project/cockpit-ostree: BRANCHES:[]|RELEASE:[224|b400f36b33f6711687a3f1e57c09b34e7c0428a4|2026-04-21T11:50:44Z]|SIZE:0GB
 cockpit-project/cockpit-podman: BRANCHES:[]|RELEASE:[125|4d67fc3ddeda30dcbe9650377a1e7d60d49791ce|2026-04-21T11:42:00Z]|SIZE:0GB
 cockpit-project/bots: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
+cockpit-project/cockpit-podman-weblate: BRANCHES:[]|RELEASE:[none|none|none]|SIZE:0GB
