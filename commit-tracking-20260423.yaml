@@ -857,3 +857,4 @@ adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: BRANCHES:[master:e836025c26c8dcfa
 adafruit/Adafruit_CircuitPython_Fingerprint: BRANCHES:[main:88070ae653133de8659e0dd08e657c33983f25b0;issue-36:1c56c2c6e266b0e8ce55a74dca3178eee08a33b2;]|RELEASE:[2.2.24|none]
 adafruit/Swift-Playground-Book-For-Bluefruit-Template: BRANCHES:[master:b80c03e276af5431a538c52104cb3df312f129e7;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_VL53L0X: BRANCHES:[main:c80951bd8cff61b021bd569d68642281096afad6;stemma_i2c:fcaea82e0a5bb0567abc43f3ec80291963119cc8;patch-fix:eac5e85c718af2dc86e61a39536b03cc5de47b2a;]|RELEASE:[3.6.18|none]
+adafruit/Adafruit_CircuitPython_LSM9DS0: BRANCHES:[main:490d762acbd30c39c2514530d196bfb5f7a01bf1;dhalbert-ustruct:8bc1d1490e559c97f0b447c130dd5caa771a0346;patch-fix:b249039e2c91202e51557b766e6730fd65c2d231;]|RELEASE:[2.2.23|none]
