@@ -749,7 +749,7 @@ adafruit/TIMESQUARE-Watch: master:9c604a9a8826a33d8d6ebfb8ae42fc12068bd0dc;|none
 adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB: master:02c953af3a9c7c53d0c33faaa98a8aa1bffca5be;|none
 adafruit/Adafruit-WebIDE: update_setup_image:9e6f26ed45d349649d84bc8b22f6592185429ed3;test:a169807033eb4c3137c064980725430be31be744;terminal:9d1d5542ae79fe9433949cf493a730ad3e8dc321;startup:260dfe06d9ede3e8d43a4104548846132f23e527;selfcheck:558836a68556008e8b0a0732fe20535ab6ebba3e;|2018-03-13T18:13:20Z
 adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: master:74d6e65d5d33551bb1158547309b19381252ed38;|none
-adafruit/Adafruit_VS1053_Library: master:ee1b0de61107db2c0f45bce55d057f83e0ec07ed;gh-pages:c118e58a2eba1a5e210c95c09e6ae7a2688e1f97;actionci:4160e55ce9ea97688c037cf9e1292915ef2f40b6;|2025-12-09T18:33:00Z|SIZE:156505
+adafruit/Adafruit_VS1053_Library: master:ee1b0de61107db2c0f45bce55d057f83e0ec07ed;gh-pages:c118e58a2eba1a5e210c95c09e6ae7a2688e1f97;actionci:4160e55ce9ea97688c037cf9e1292915ef2f40b6;|2025-12-09T18:33:00Z|SIZE:156503
 adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80;|none
 adafruit/Adafruit_L3GD20: master:d931c17ebc3094d40c472fda889cf97d9112f2a1;|2015-03-31T19:44:20Z|SIZE:5894
 adafruit/adavoice: master:b78baee279b7297fa3e43e27ef2de0863330c74e;|none|SIZE:449603
