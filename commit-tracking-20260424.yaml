@@ -1883,3 +1883,4 @@ adafruit/Glider-for-iOS: BRANCHES:[main:ba7b6052e5e035ce195d530338b71fdc3cbb4c46
 adafruit/pico-fatfs-reader: BRANCHES:[main:4cfa338a0883aaf83b68155aacb1959ab92690d0;]|RELEASE:[0.0.1|none]
 adafruit/Adafruit-Rotary-Trinkey-PCB: BRANCHES:[main:b93b2aeaabbfbfd231eec6c88afc6694d4581410;]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: BRANCHES:[main:f45b12704ccbb7180d89db28e1af7bd861124133;]|RELEASE:[none|none]
+adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: BRANCHES:[main:53c602e97d82ec5722f49521e3dbe6c71da10422;]|RELEASE:[none|none]
