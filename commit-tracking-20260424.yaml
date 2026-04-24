@@ -1671,3 +1671,4 @@ adafruit/onekey-keyboard: BRANCHES:[main:c040ea9ac41e4a643c6cfc5af647fe546a85fdb
 adafruit/esp-perfetto-logic: BRANCHES:[main:c367aaa3d04960a18a655032b512b94133956db6;]|RELEASE:[none|none]
 adafruit/kicad-libraries: BRANCHES:[main:92ad237c0adc6fff8b2f37909ea444d171fc8cec;]|RELEASE:[none|none]
 adafruit/lgpio-python-wheels: BRANCHES:[main:6be65ff7f8279fc85b6101dbc93528465fcf2551;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_HID: BRANCHES:[main:693baa60eb684bb53379d98c6a036f56b8010666;dont-crash-on-full:3e86e825f902822aa7a90988e8cbc2e22bf85434;patch-fix:a36884e02f4d1578da50adfe6b16024ecc623034;tannewt-patch-1:edd75dde975dd537e97e984e9c96debd4057bd15;revert-40-alternate-devices-for-ble:6ed148d85a62083ef632135c5faad2ef6504d7b3;]|RELEASE:[6.1.10|none]
