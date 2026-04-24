@@ -1616,3 +1616,4 @@ adafruit/Adafruit_BME690: BRANCHES:[main:ca21f78dcac07eb83bcb5a828cbdf5a6cb84983
 adafruit/fruitjam-286: BRANCHES:[main:cb4b04147da6610304482f3b4f9b0618cf9641a6;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_CircuitPython_STHS34PF80: BRANCHES:[main:6bd721dc46204fcb30bd70462bb05354ae53de7e;]|RELEASE:[1.0.2|none]
 adafruit/pi_video_looper2: BRANCHES:[main:aa9691c787f1bbbf0c3497a21ddb2cc2d49287e7;missing_mount_dir:a5ea64a00dbee8b1a5237caa06ef92eb5cfcdac3;blinka_gpio:32de210713f656ba37df0978dcd942e3fc67636a;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit-ENS161-MOX-Gas-Sensor-PCB: BRANCHES:[main:e86ce34b208d4d83c8f4cb945312f6c976704c81;]|RELEASE:[none|none]
