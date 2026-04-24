@@ -1816,3 +1816,4 @@ adafruit/Adafruit_CircuitPython_SCD30: BRANCHES:[main:c8341c0129b65c3c172a882366
 adafruit/Adafruit-SGP40-PCB: BRANCHES:[main:57911e5d238bc5c3730c621e3135ff2aa36604ec;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M4-CAN-PCB: BRANCHES:[main:d82af0d26250cb47e0685715276474798bb79470;]|RELEASE:[none|none]
 adafruit/Adafruit_SCD30: BRANCHES:[master:b2b0d0413e0bfa186a5a33fe8d4392457a28786e;gh-pages:0c24e2b62be536dd449db5dbc2a0c565c602c1cc;review:451f71ad5f9cbbaf32440c0cdc8594cbef890419;]|RELEASE:[1.0.11|none]
+adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB: BRANCHES:[main:d3f2e25c4f9211553e32b36ffce03212f414ead3;]|RELEASE:[none|none]
