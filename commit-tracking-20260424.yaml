@@ -1339,3 +1339,4 @@ adafruit/Adafruit_LSM9DS1: BRANCHES:[master:3b293ea7218f39144e330e7a22a250bb4cca
 adafruit/Adafruit_CircuitPython_HT16K33: BRANCHES:[main:a85341cc99574bf1479dd2cf1a56790139f0d79b;patch-fix:33a709b993cf4fbaba5ff7070e3e1e11d2630214;]|RELEASE:[4.6.17|none]
 adafruit/Adafruit_CircuitPython_PCA9685: BRANCHES:[main:38e67352fba5fa4a97261b6e458395e6a635e46f;docs_req_fixes:43ab81e17eab8d69d3749d65680e2ad8b9dffdbb;fix_rtd_theme:813d1d9da14e092119ad98421edfcc3981195e69;dev/fix-plyint-jquery:c8634aebaecc6decadd572f0a7ae9ae9f1053f37;revert-2-chgaddr60:90531b7abb7f7383d3f6be6732b8ff8a9c152ac9;]|RELEASE:[3.4.22|none]
 adafruit/Adafruit_CircuitPython_SSD1306: BRANCHES:[main:f8fa41a320f0bb29be6f37d340e69eba16b7a311;]|RELEASE:[2.12.24|none]
+adafruit/Adafruit-Animated-Eyes-Bonnet-PCB: BRANCHES:[master:e28ffce0e3b88679aefb5901f7fa6e0b5559f853;]|RELEASE:[none|none]
