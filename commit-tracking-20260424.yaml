@@ -455,3 +455,4 @@ adafruit/snxrom: BRANCHES:[main:62d05b2ab19cedc3380ceb07624927ffe4405f63;]|RELEA
 adafruit/Adafruit-NeoKey-CHOC-Breakout-PCB: BRANCHES:[main:bd122a0f123f57fcc9778dbe4175bc802d06cbc5;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_PIO_UART: BRANCHES:[main:706201847b8d880ae6c614f619b3a2a29f18ce92;]|RELEASE:[1.1.6|none]
 adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB: BRANCHES:[main:aaaae6964cf56ddb17c5ab11a15566573e1a4cb7;]|RELEASE:[none|none]
+adafruit/library-registry-pb: BRANCHES:[main:3daffd99c127fc072ddd0e4acb678f4fd8150c17;]|RELEASE:[none|none]
