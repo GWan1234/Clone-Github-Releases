@@ -1373,3 +1373,4 @@ adafruit/Adafruit_Python_PlatformDetect: BRANCHES:[main:31cac12b3606b80aaca14195
 adafruit/Adafruit_CircuitPython_MotorKit: BRANCHES:[main:dee829448b969f1946c968bceabced7096d40a45;patch-fix:8e332122446476d8417712c1b6c6bf699691ada3;REUSE:ce903aedaa06666c68479cfd061def461fdfe908;travisyml-update:cb15f98ec2be7af425f5c6aeb611e399fb04bbec;]|RELEASE:[1.6.21|none]
 adafruit/Adafruit_CircuitPython_miniesptool: BRANCHES:[main:5be10f70046d3a19a5df9b02f9276d19d7da75de;REUSE:cc6dc83cf28754bbd3e19fce87721351774b9ebd;]|RELEASE:[0.2.28|none]
 adafruit/Adafruit_LIS2MDL: BRANCHES:[config-default-nullptr:712f1ad4e1ebdcd172cd4f10a352af33aeb83862;master:f7b8f3130744437e0b886fc076d8284ec1de9c30;gh-pages:f4a51f9eacc96a8cb9c2809be64766c87dc8ebb1;spi:bb939e4ad229c9e302c98fa89d5ffef22c4e5e29;]|RELEASE:[2.1.8|none]
+adafruit/Adafruit_CircuitPython_AWS_IOT: BRANCHES:[main:2f6940093a3fc63c08022291324b103da19cec76;]|RELEASE:[3.0.5|none]
