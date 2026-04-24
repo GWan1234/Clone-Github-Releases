@@ -1288,3 +1288,4 @@ adafruit/Adafruit_Mouse: BRANCHES:[master:499b841958bd0b66a54d7a96a51a65fb0fe9f3
 adafruit/Adafruit-RGB-Matrix-HAT-PCB: BRANCHES:[master:42d0963e0c03d152ab2fc267019c7d940d330365;]|RELEASE:[none|none]
 adafruit/Adafruit-MPL115A2-Breakout-PCB: BRANCHES:[master:c28cfcbce2a9bd072de601268ede652433dbb51a;]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-Pi-PCBs: BRANCHES:[master:eebe4895c17e70200071dd98876799b278e233f3;]|RELEASE:[none|none]
+adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba65017103b;]|RELEASE:[none|none]
