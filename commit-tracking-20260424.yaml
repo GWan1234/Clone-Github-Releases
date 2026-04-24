@@ -1741,3 +1741,4 @@ adafruit/Adafruit-VEML6075-UV-Sensor-PCB: BRANCHES:[master:3165308f9a23535ee0ace
 adafruit/Adafruit_Keypad: BRANCHES:[master:379ee71e113ecbc98971fde1b0526d7fca1f8cde;add_rowcol:dbdabfcdec2001a9bdeb0d0082dbed37c872018f;gh-pages:16933294fac1a69591b9c7c0a224bb8c95c512a3;hoffmannjan-patch-1:73acc49075fda61b3d01f930c0f64b835ce6b62e;]|RELEASE:[1.3.2|none]
 adafruit/glitterpos: BRANCHES:[master:ea8e287096cae2de893e2a92a9fb8c5e4e40cb29;dherrada-patch-1:fa77c31eee4ab0db700b3f1796d901b26f7a8e82;]|RELEASE:[none|none]
 adafruit/Adafruit_MLX90393_Library: BRANCHES:[master:5174d8c6a166ad5c9df7554ad53780a60c80c93c;gh-pages:56a2ca8a9576b3fc67cd0a9eceb6ba14ea39199b;sensorify:96eaf5f30f734e38fd84bd5e2588749b87f8c832;actionci:fbb0fba22161529bca1027b08a83fe7567058128;]|RELEASE:[2.0.5|none]
+adafruit/Adafruit_CircuitPython_LIDARLite: BRANCHES:[main:749c0a572bdefb1f6efec59afa5b71ec0f9c3399;]|RELEASE:[1.3.14|none]
