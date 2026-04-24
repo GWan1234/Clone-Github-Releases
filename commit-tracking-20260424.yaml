@@ -1503,3 +1503,4 @@ adafruit/Adafruit_CircuitPython_AS7341: BRANCHES:[main:54dfbfdb5adaf8d618de1a4d9
 adafruit/Adafruit-PCF8591-PCB: BRANCHES:[master:618da56679c56b97583774e2c2f724c453e78396;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MS8607: BRANCHES:[main:3ac980d21975dfd572dbacb8b49649fe462aac03;patch-fix:1d08d0d09f0c556c71bb19c9816e6efb59aead65;]|RELEASE:[1.1.8|none]
 adafruit/Adafruit_MS8607: BRANCHES:[master:7ada811e1e9950c47865d868da3c65bfbcdcdd31;gh-pages:9ca714bc93f4bfc97a019011971587518a75aee7;fix-Werror=return-type:02d962e3e87d809aaf740a9cc60461f245a5edcf;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit_CircuitPython_MatrixPortal: BRANCHES:[main:4d0c82ba1932424cc979b14b71a12aeeca2ead0f;rp2040:03a22ceeaa8e071e1087b01f65beef482d8dd45c;bigscroll:76ae0c1ff8cdeb17da904dd67b18c17e339a5bd2;no-network:d6fe5fd54f9d28c6e0449e811a3581f73129a236;]|RELEASE:[3.2.12|none]
