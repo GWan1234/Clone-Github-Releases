@@ -1894,3 +1894,4 @@ adafruit/Adafruit_ADS7830: BRANCHES:[gh-pages:23f4b4242523a55e75afc962683804d12a
 adafruit/Adafruit_CircuitPython_VCNL4020: BRANCHES:[main:7e04befb58017790c3e3a0e4f3450320fb16f179;]|RELEASE:[1.0.8|none]
 adafruit/Adafruit_INA228: BRANCHES:[main:9bd01a6f80169c2efd6888ab42b89b9cf20cef9a;gh-pages:c722bc658ae63b3190422d35bcdbbc513d5c7ae3;remove_INA23x:594e075b75c05c6c7ba27c44aee16c05d5d48e36;fix_bus_voltage:f93d2170e2cda6c535e755be166ec71a4f4c6062;add_charge_read:bd12ddcad65d0d009ce6948dfac867fbf024f13f;add-ina237-support:98a70105c0d1adf0f82609d94206afa5e1762965;pass-ci-2024-06-04:cd317b67e427215d17e40d6863b552554057d72d;fixabug:63192d4a56687943f7e903657e7d05970f1fdac9;]|RELEASE:[3.0.0|none]
 adafruit/Adafruit-INA228-PCB: BRANCHES:[main:61b0d990f8e5f2e6df1ee5d270c501d17f53242d;]|RELEASE:[none|none]
+adafruit/Adafruit_Faux86: BRANCHES:[main:aa3d577a462e1000777b0155e70f81e27eea44c2;disable-arduino-gfx:6a9fbd0f5df88fed690824dc5190b3c1c243fb7f;]|RELEASE:[0.2.1|none]
