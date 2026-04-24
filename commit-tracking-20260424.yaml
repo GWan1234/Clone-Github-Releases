@@ -1425,3 +1425,4 @@ adafruit/bluetooth-low-energy: BRANCHES:[master:4bec8bf7e0a6b3e0cb8f6a82a03154cf
 adafruit/Adafruit_CircuitPython_DPS310: BRANCHES:[main:3d9e13fbf1f229f1bd387187f2d824e3d51b7ce0;patch-fix:c5a1fb5a7346bdf7c102a6a3e583ff6ae3081f9d;update-docs-link:8c08cd1f06f4412f3776df5b454b5278d7821f4a;]|RELEASE:[2.1.22|none]
 adafruit/Adafruit_CircuitPython_BLE_Heart_Rate: BRANCHES:[main:66009588c4dbfd8255be0ef70d637bd8d6820b2f;]|RELEASE:[1.1.25|none]
 adafruit/Adafruit-DPS310-PCB: BRANCHES:[master:f51c8400e03b04cdcf023d6c83b1b382c91a4a45;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Wiznet5k: BRANCHES:[main:f01275e34ad2e5f7ddd9d074e963a8359011a297;use_ruff:bdde4e18d1ae1c8e4468dedd83b587c972b5db1b;core-compatible-socket-type-numbers:72fd989383cf91c92d92237e7b184055916d875a;patch-fix:42e8a4c6426a2ceeacc1a908d90392504a348106;requests_hack:e55125f568d24ea1f01496aeab5047b9a60aade0;timeout_fix:8e8625ad11d4e3c0621fec0e19696e255b59fa49;]|RELEASE:[7.4.5|none]
