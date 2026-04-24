@@ -1419,3 +1419,4 @@ adafruit/Adafruit-LIS3MDL-PCB: BRANCHES:[master:cdf0482ef9cf26c8840c9147bff7b56a
 adafruit/Adafruit-LSM6DS33-PCB: BRANCHES:[master:c5b2d72517fd7a82d49b426c440742131aa8cbae;]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90640-PCB: BRANCHES:[master:398d7ceac6f1c1e234bf920386eaf9239ef79adf;]|RELEASE:[none|none]
 adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB: BRANCHES:[master:3a3a478c8059b5ab06fbf25c2583ac7d3a8ca3eb;]|RELEASE:[none|none]
+adafruit/Adafruit-ICM20649-PCB: BRANCHES:[master:b24cb0fffe4bd48439c44565f2e086876f0483c0;]|RELEASE:[none|none]
