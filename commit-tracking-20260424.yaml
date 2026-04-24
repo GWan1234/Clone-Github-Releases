@@ -1777,3 +1777,4 @@ adafruit/Adafruit_GC9A01A: BRANCHES:[main:a03514ae042e990bc8d16f51aad7e87dabd989
 adafruit/CircuitPython-Apple-Watch-app: BRANCHES:[master:a1e41e6179cbe11f07c37598a35840e7d7197b7c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Pixel_Framebuf: BRANCHES:[main:ffd3e8a692676d076a2fa3f725e3a8ea63441139;patch:7446063008387fe3de80920cd9f5064b95aa87b3;]|RELEASE:[1.1.20|none]
 adafruit/Adafruit_BNO08x: BRANCHES:[master:0301e6d5d838609b5f30afafdd9e56dfb1a02d47;gh-pages:5909869a6705284481234ef511652de5af66a511;nrf_buffer_fix:3cbbb7460ec03901f479c556a649bc0b81a49ac8;hal:c656229dfc6ce450ee7651aa644bcdbb645c811c;]|RELEASE:[1.2.5|none]
+adafruit/Adafruit-BQ24074-PCB: BRANCHES:[master:844404b10e1a87820ee9cb9024d85f67f4bc4bfd;]|RELEASE:[none|none]
