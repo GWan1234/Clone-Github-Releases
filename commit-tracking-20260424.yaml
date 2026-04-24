@@ -1069,3 +1069,4 @@ adafruit/Adafruit-EYESPI-Pi-Beret-PCB: BRANCHES:[main:db6a85a699fe0bd1d8f0cb4918
 adafruit/Adafruit_HUSB238: BRANCHES:[main:19ffa188866ba6a5e28b28d0d61bd259a8db68e1;gh-pages:6960df0614bf526aed328409323152b870704bbb;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_VCNL4020: BRANCHES:[main:c467fcad07a18a9625160afea092b2a0cf7840ba;gh-pages:da21f358050a90acc8b0ad36700457a1631eb033;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_AD569x: BRANCHES:[main:6e725d0efbe4010b3971d011c6df82f64d6b0541;gh-pages:8a1bb2010d74e81468323ca153aae8d9d906f305;]|RELEASE:[1.0.1|none]
+adafruit/Adafruit-STEMMA-Piezo-Driver-Amp-PCB: BRANCHES:[main:678bf96ec53107bd831f84c2aebca380a3bd4157;]|RELEASE:[none|none]
