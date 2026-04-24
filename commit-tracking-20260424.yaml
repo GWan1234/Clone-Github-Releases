@@ -154,3 +154,4 @@ adafruit/Adafruit_CircuitPython_Debouncer: BRANCHES:[main:ddf65223d08bd8ad0825d4
 adafruit/Adafruit_CircuitPython_ADT7410: BRANCHES:[main:f12040c7a8d10bef739603c9a71c87c1ad11e0a8;discord-fix:e841e3cd0da79298e9c8f13a96c6160cf5b92e52;]|RELEASE:[2.0.8|none]
 adafruit/Adafruit_CircuitPython_Display_Text: BRANCHES:[main:438f8c7a9b796c5bd039a83d3e577fbf2bbbb3d2;patch:fe259d0f96f20350c3ba062fc98b0792b7727751;]|RELEASE:[5.0.3|none]
 adafruit/Adafruit_CircuitPython_RA8875: BRANCHES:[main:2f2790468bdbb6f12711c48468c6b17e261bb60f;discord-fix:dedb3b23e05f82aa4ba47a4a04e5e9ff67190538;]|RELEASE:[3.1.29|none]
+adafruit/Adafruit_CircuitPython_BluefruitConnect: BRANCHES:[main:ca2a3685f6aae19e221e386bdb28c1450d0a27d3;patch-fix:2370266e60a10f079d9890a8639ea03b37df77f4;REUSE:15b5fe922a0b965f2264704ebdfbc9001451e433;]|RELEASE:[1.3.2|none]
