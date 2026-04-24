@@ -1669,3 +1669,4 @@ adafruit/pyserial-pyusb: BRANCHES:[main:e21f31f5e62c98398333047158e894d4a3d7a7da
 adafruit/Adafruit_CircuitPython_MAX44009: BRANCHES:[main:dcfaec94bf12a1311ba5787ae66ac3d079abec85;]|RELEASE:[1.0.1|none]
 adafruit/onekey-keyboard: BRANCHES:[main:c040ea9ac41e4a643c6cfc5af647fe546a85fdbd;]|RELEASE:[none|none]
 adafruit/esp-perfetto-logic: BRANCHES:[main:c367aaa3d04960a18a655032b512b94133956db6;]|RELEASE:[none|none]
+adafruit/kicad-libraries: BRANCHES:[main:92ad237c0adc6fff8b2f37909ea444d171fc8cec;]|RELEASE:[none|none]
