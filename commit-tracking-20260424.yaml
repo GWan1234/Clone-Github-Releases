@@ -569,3 +569,4 @@ adafruit/Adafruit_STCC4: BRANCHES:[main:0f16cee04a833090b3ff82efc09045f6dcd13611
 adafruit/Adafruit_APDS9999: BRANCHES:[main:ff25a7f27bb595e6fdc267d9efdbfcde9b316dee;gh-pages:82d09b086259607cbf67189d142b39fe116f6bcc;piclaw-hwtests:07754ff6bb6f36e9bd716d12ce75d45a824044ba;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_CircuitPython_CheckBox: BRANCHES:[main:c47564914d40eaf90343d0747ac238afc7ae1e7e;]|RELEASE:[1.0.2|none]
 adafruit/wreath-of-khan-2025: BRANCHES:[main:29c2e99a5bce06bdfc28a02a5d8858ff2c986906;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_YotoPlayer: BRANCHES:[main:1c55cf5fe95c7a6ba786383ca8aa4822c55c3b15;]|RELEASE:[1.0.3|none]
