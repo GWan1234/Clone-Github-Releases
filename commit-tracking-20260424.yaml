@@ -135,3 +135,4 @@ adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd31
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb;]|RELEASE:[none|none]
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:e2b7a7ef61b9cee1720b28030a2944d5efeb20fe;]|RELEASE:[none|none]
 adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: BRANCHES:[master:1d637245ba0df241e05768b4b201ae9e80e4f0a0;]|RELEASE:[none|none]
+adafruit/Adafruit-SSD1351-library: BRANCHES:[master:8c1ca3b367460498c9258c683e8dbd11770d8b83;gh-pages:7de70b6a53bd8267f51de7555d9638596cda8ac3;actionci:09c28550dfa3141b2993bf7935d952650204e7cd;]|RELEASE:[1.3.3|none]
