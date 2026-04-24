@@ -245,3 +245,4 @@ adafruit/TinyDHT: BRANCHES:[master:a900d69aa4c0b9df7053c026e8b843373e80d5b0;gh-p
 adafruit/TinyLiquidCrystal: BRANCHES:[master:cb439bd5a56950609a20a15ad7977adb1796b9d8;gh-pages:c97aedb557950943707664f3b7e803964d918962;actionci:de1909013991b0ae9adab7e917dd09816f8faefb;]|RELEASE:[1.2.2|none]
 adafruit/USB-Power-Gauge: BRANCHES:[master:4072a6d4c0e282fd573cf8be6f2c4a1dbb3f91b4;]|RELEASE:[none|none]
 adafruit/avrdude: BRANCHES:[heads/6.1-pi:7859732c734edf2f19c80439293d09595e9aee15;usbtiny-new-protocol:199081d8c9c27ed9c22ce53b427f1f27ce740b19;5.11-trinketfriendly:124de3f2f7a427ce584b8203b912b48defe74f9d;]|RELEASE:[6.1-pi|none]
+adafruit/Adafruit_TinyFlash: BRANCHES:[master:853e2fa031e0556752e3b8e5c652150f32c2b41f;gh-pages:311f8144aa45ca7a9af4fd9243e9831dc55270b1;]|RELEASE:[1.0.4|none]
