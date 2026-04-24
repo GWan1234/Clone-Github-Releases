@@ -40,3 +40,4 @@ kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de076
 LeoChen-CoreMind/UDX710-TOOLS: BRANCHES:[main:5d706ae9fcd7b9a1a9e7156ec64aba4bbd13507f;SZ50:ce5ff9585bd868f2023a8605e74beb8f51713cd5;]|RELEASE:[V2.3.4|none]
 vernesong/OpenClash: BRANCHES:[dev:d7acc6246d2c36892106c51609c6e354db8b44f9;core:dede32429da62e32abc6923ea5a907303c529061;package:ae0a00c3f1666e753d215386f2dbd8b9683f22c6;master:184daebfd78b6eb73868f795a5812dd187ad9a30;]|RELEASE:[v0.47.088|none]
 fatedier/frp: BRANCHES:[master:4ec8de973f52a1cabde54ad3499216cf1bc3dbaf;dev:e8dfd6efcccded4affeee9bb25f542c8280edf6e;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c;]|RELEASE:[v0.68.1|4ec8de973f52a1cabde54ad3499216cf1bc3dbaf]
+adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e;]|RELEASE:[none|none]
