@@ -1017,3 +1017,4 @@ adafruit/Adafruit_IntelliKeys: BRANCHES:[main:afd23a892c4b3e187de99fdf2c738f058d
 adafruit/cookiecutter-adafruit-arduino: BRANCHES:[main:66a16eac492106c9e8091f9c2b588a8dee068a3f;]|RELEASE:[none|none]
 adafruit/Adafruit_CAN: BRANCHES:[main:d029f1dfdea13c686e98d9456ae176d7fc8d56f1;clang-2025-07-17:da4643b05b844f80965c46a8ef101107fff2fd4b;gh-pages:45c019a179153ff5d47d3f65c79bbd83a537c802;]|RELEASE:[0.2.3|none]
 adafruit/Adafruit_MCP2515: BRANCHES:[main:f283438d8021440568b3f2a8e49eccc781ff3473;gh-pages:f189f86b7685b640c67c99e1995c86afc8f3f3cd;]|RELEASE:[0.2.1|none]
+adafruit/Adafruit_TSC2046: BRANCHES:[main:3557a58bf1b87a8af5d637f6a13c4cfc776dc97c;gh-pages:9700ab1620c7edc993dbdfd54cae1a7bc82f8b3b;pre:9be243b4b0aa049c07966c5ebe0625483f10440e;]|RELEASE:[1.0.1|none]
