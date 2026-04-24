@@ -91,3 +91,4 @@ adafruit/Adafruit_CircuitPython_DS2413: BRANCHES:[main:b74b6d94abd4c2d0db95cda81
 adafruit/Adafruit_CircuitPython_MCP4725: BRANCHES:[main:6493475472e358423bb90fa48bd67e294a6b0f01;]|RELEASE:[1.4.21|none]
 adafruit/Adafruit_CircuitPython_MAX9744: BRANCHES:[main:20a448e4bb39f63f6810decf642c3636a236a78f;]|RELEASE:[1.2.24|none]
 adafruit/Adafruit_CircuitPython_TLC59711: BRANCHES:[main:49c4f6bcb82cba49c2811dcc4f841eacde661f3e;]|RELEASE:[2.0.20|none]
+adafruit/Adafruit_CircuitPython_SHT31D: BRANCHES:[main:5f83ab964bb59ca85177cb771fa3a3ed56f4b420;]|RELEASE:[2.3.31|none]
