@@ -1934,3 +1934,4 @@ adafruit/Adafruit-STEMMA-Reflective-Photo-Interrupt-Sensor-PCB: BRANCHES:[main:3
 adafruit/Adafruit-ADG728-1-to-8-Analog-Matrix-Switch-PCB: BRANCHES:[main:7bdabc857d920b025906c68e29400955831a361a;]|RELEASE:[none|none]
 adafruit/Adafruit-ADG729-Dual-1-to-4-Analog-Matrix-Switch-PCB: BRANCHES:[main:0cae682f07dc8351b45d07d01df7e9eaa0ca875f;]|RELEASE:[none|none]
 adafruit/ch55xduino: BRANCHES:[ch55xduino:a962b9bb848081f1310fae11713ea93064624352;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_ADG72x: BRANCHES:[main:b26a70236cc6c532bb0a515c829b04e70fe32378;]|RELEASE:[1.0.7|none]
