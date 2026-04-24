@@ -409,3 +409,4 @@ adafruit/ENS160_driver: BRANCHES:[master:2b42be14c984847f225841568015fd5129d7ff8
 adafruit/Adafruit_CircuitPython_ULP_Blink: BRANCHES:[main:d9b2796facf9a346a257a68ffd008a6f9762ac12;]|RELEASE:[none|none]
 adafruit/Adafruit-MOSFET-Driver-STEMMA-PCB: BRANCHES:[main:ea11049753a79330cc2651df233909c0191a5af4;]|RELEASE:[none|none]
 adafruit/Adafruit-QT-3V-to-5V-Level-Booster-PCB: BRANCHES:[main:13637316890d99395fe7f6b359de027a0f422c7b;]|RELEASE:[none|none]
+adafruit/Adafruit-PCA9546-PCB: BRANCHES:[main:a98b24b8bafac251284dff313569e4c2b790bf23;]|RELEASE:[none|none]
