@@ -460,3 +460,4 @@ adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: BRANCHES:[main:408fa9a40c0a01a3
 adafruit/Adafruit-TRRS-Jack-Breakout-PCB: BRANCHES:[main:d6d4fe70bc727056076c4603e90112b8b1c6d006;]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Amplifier-BFF-PCB: BRANCHES:[main:fe191f0585be438605feca267afa38fe587e57f4;]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-BFF-PCB: BRANCHES:[main:90ddd1a730d2963aacaa67d787213e31e9ef8a0f;]|RELEASE:[none|none]
+adafruit/Adafruit-Mini-I2C-Gamepad-PCB: BRANCHES:[main:f214e3c4c4cc4926375d8748b2b136e1991acdf8;]|RELEASE:[none|none]
