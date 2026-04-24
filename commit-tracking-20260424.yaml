@@ -1380,3 +1380,4 @@ adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB: BRANCHES:[master:d7365a23988f25d98
 adafruit/Adafruit_TFLite: BRANCHES:[master:1e84fc9134d3584c7ab1198a08504aa694f1c577;act:41a024952a8bcec6042fe3ed8c44ca931d0783d7;actionci:5e1abe546a58ca3e4e6122d0f00e4de51d8b3c98;actions:ee81b6bdf0e286135f172156f4f764ee69594c2e;gh-pages:7b94d392bf6d347eddee7322df378415060f630f;]|RELEASE:[1.2.5|none]
 adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB: BRANCHES:[master:7559d509a129d1555af92d410a75b5d89673a9e4;]|RELEASE:[none|none]
 adafruit/Adafruit-LSM303AGR-PCB: BRANCHES:[master:3a099ee3de341bfaf089d7f314380e825b3ae35e;]|RELEASE:[none|none]
+adafruit/Adafruit-TLV493D-PCB: BRANCHES:[master:2450d66eef51807f25f6ce598fa7aa9f95d588aa;]|RELEASE:[none|none]
