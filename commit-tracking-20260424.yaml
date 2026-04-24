@@ -1689,3 +1689,4 @@ adafruit/Adafruit_ZeroPDM: BRANCHES:[master:6955e2e80eaaf37b2586e8ea510f0d996bc3
 adafruit/jupyter_micropython_kernel: BRANCHES:[master:f60fc2d3bde0684ceb7e9a071f36058c1f8b1d01;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_IS31FL3731: BRANCHES:[main:3becc08e451eeb2b6678a3d17547f5b0922e4660;patch:40d56274bbaba88273cce27c2811f1c2aaa328f3;experimental:4e6425880be5585859746a16934e8851211521cb;]|RELEASE:[3.4.8|none]
 adafruit/uf2-samdx1: BRANCHES:[master:ce0489a38e6f1038a8b95a7c9e93945655c8151d;]|RELEASE:[v3.16.0|none]
+adafruit/Pulse_Room: BRANCHES:[master:c7d92a53611a4d79694f548c5fe91b25433718f6;]|RELEASE:[none|none]
