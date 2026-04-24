@@ -489,3 +489,4 @@ adafruit/Adafruit-Circuit-Playground-Express-PCB: BRANCHES:[master:2962c0cb972e0
 adafruit/ARDX-Fritzing-Diagrams: BRANCHES:[master:55a3c1bf7a8a806078ba129865149882ecd4050f;]|RELEASE:[none|none]
 adafruit/Adafruit_Userspace_PiTFT: BRANCHES:[master:c2c2daea31bad7ddff3516d1b9c085bc3608d75c;]|RELEASE:[none|none]
 adafruit/icestorm: BRANCHES:[master:f704149b7298c7c6b56520d104dc4b20abf455b2;]|RELEASE:[none|none]
+adafruit/Adafruit_AS726x: BRANCHES:[master:a935de63411bd93e5d8fdff790c1dcd9c15d40d5;gh-pages:3841d786eb5f53f25d4ba8b6f0c9060fbe829acd;actionci:31f92bfa293647fc3536b7ecba300f5f7e00ebc4;]|RELEASE:[1.2.3|none]
