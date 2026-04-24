@@ -1827,3 +1827,4 @@ adafruit/web-bdftopcf: BRANCHES:[gh-pages:4010d0eb29f3e00c465288a4e9635e49338d30
 adafruit/Adafruit-SCD-30-PCB: BRANCHES:[main:54178bea411a7661007c529d41ed45fce767d155;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_OAuth2: BRANCHES:[main:200d3006097a51835cd1767d65f3b6c4d9352f1b;patch-fix:48216c6c508c32a224401e869a9cf1d0dd2488e2;]|RELEASE:[1.0.25|none]
 adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC: BRANCHES:[main:43a86aa6cf1b963e1d1f47be862ab00aa6ace9c6;use_ruff:c80e57afc1e06ce4c13a72748b3e3573969a6d32;]|RELEASE:[1.0.23|none]
+adafruit/Adafruit_WebSerial_IMU_Calibration: BRANCHES:[main:64d293a655128eb9566966ca2a5add782be3f4af;]|RELEASE:[none|none]
