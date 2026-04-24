@@ -1326,3 +1326,4 @@ adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: BRANCHES:[master:2577abd97ffa
 adafruit/Adafruit_CircuitPython_BusDevice: BRANCHES:[main:686728c7b11eb0b7ffb62691b68ccead413e7cc5;docs_req_fixes:7167cf21f4877611801b19a2ed9e72e5276b09f2;fix_rtd_theme:101e57221a3d4891e11445a3e25080420e8c713c;dherrada-patch-3:28a7ae6add37403ad2b3a3c9fdaefe73423079f1;]|RELEASE:[5.2.17|none]
 adafruit/Adafruit_FXAS21002C: BRANCHES:[master:6781653dbad1973d1319ef792f843b312f0848e6;gh-pages:39f2c241a5886a9632eaacecdd08228d69d0133b;actionsci:e97de3ca0e6a74eda200b169873ae4b9138fe0ed;]|RELEASE:[2.2.3|none]
 adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB: BRANCHES:[master:7ba780f5f5c00274d3eeb395f444534189f13a0d;]|RELEASE:[none|none]
+adafruit/BLE-Black-Robot-Rover: BRANCHES:[master:44ae68af66a2a68945bf9457e7883fe920cee7bc;]|RELEASE:[none|none]
