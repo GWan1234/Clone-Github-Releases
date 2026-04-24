@@ -759,3 +759,4 @@ adafruit/Adafruit_CircuitPython_Pypixelbuf: BRANCHES:[main:445b828124100001a2d63
 adafruit/Adafruit_VCNL4040: BRANCHES:[master:2b8154032c005eea3b8955eb3cc4317a995204ad;gh-pages:fa726931c2dd5515e554435fdce4dc6a434c3337;actionci:8fd98cf867bfb8d5f3215cd8c51fa255e790bb7e;]|RELEASE:[1.2.0|none]
 adafruit/makecode-newsletter: BRANCHES:[master:a1506c9dd3570859f14a7581e723a850a411af95;]|RELEASE:[none|none]
 adafruit/iOS13-beta-file-issue: BRANCHES:[master:37c016d044f05af0779389224bc95901458aa35b;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_MiniMQTT: BRANCHES:[main:7ec01da0571483180495f7482b52697e8c48f0db;patch-fix:8232136c35966ff69f1aade75ec996ce0c640548;]|RELEASE:[8.0.4|none]
