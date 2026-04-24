@@ -466,3 +466,4 @@ adafruit/Adafruit_DotStarMatrix: BRANCHES:[master:14f09e427d72f74581f07775652bed
 adafruit/adafruit-io-node-tunnel: BRANCHES:[master:6c36968af4738995c80447055d87eb3320c5e4b4;]|RELEASE:[none|none]
 adafruit/Adafruit_WICED_Arduino: BRANCHES:[master:33c7c9efe9208bd9d7d7ff40bb39219d01b920a3;development:67530d098f95f05952a056644a0b53ff3886118b;win32_binaries:ce8c5b86016d9695962db976cc92291293e41a2a;]|RELEASE:[0.6.6|none]
 adafruit/Adafruit-MPR121-PCB: BRANCHES:[master:d1e18d5ea07d596006c414746e8c1ac4c8230e1f;]|RELEASE:[none|none]
+adafruit/Adafruit_Python_BME280: BRANCHES:[master:09b690dea026e0d045ad4aa3373245a56b189f7f;]|RELEASE:[none|none]
