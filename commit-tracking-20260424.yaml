@@ -1032,3 +1032,4 @@ adafruit/Adafruit_CircuitPython_Wave: BRANCHES:[main:b2dd41fa0e3757c187a4693147e
 adafruit/Adafruit_CircuitPython_Prompt_Toolkit: BRANCHES:[main:9f5017e7ebad8a6d7816958cca099ef1a80f2355;]|RELEASE:[1.0.8|none]
 adafruit/Adafruit_CircuitPython_JSON_Stream: BRANCHES:[main:54b53031b137cd52cc4d282408bf2b839bb93e01;]|RELEASE:[0.9.5|none]
 adafruit/Adafruit-PiCowbell-DVI-Output: BRANCHES:[main:eebbb6a106e7084c95cee9f53a9a498f4e444766;]|RELEASE:[none|none]
+adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C: BRANCHES:[main:4bf9961d2f3bbb52921cd88fdf38c1d5cd38e901;]|RELEASE:[none|none]
