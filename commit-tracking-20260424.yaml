@@ -322,3 +322,4 @@ adafruit/Adafruit_CircuitPython_PyCamera: BRANCHES:[main:0db4a02b21752146c18ba2d
 adafruit/Adafruit_CircuitPython_VL53L4CD: BRANCHES:[main:1196cb63efb310c3bed212cde2c0c842e5f9f5dc;docs_req_fixes:c338902a691f95059b0127408ccee1610d554558;fix_rtd_theme:8230a97397a19ab57d1b5daeb8fc2c21349b2d2c;]|RELEASE:[1.3.6|none]
 adafruit/Adafruit-ESP32-Feather-V2-PCB: BRANCHES:[main:cbde2c6658acb3c788616ceb13423b5d36305ef0;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TT21100: BRANCHES:[main:5b0b0c5534aa871f053cb5f14f5d4addd65034ac;use_ruff:187d4948fc91b8d6531ea7308692823166396c08;]|RELEASE:[1.0.9|none]
+adafruit/Adafruit-QT-Py-ESP32-C3-PCB: BRANCHES:[main:8618fb52d806fb184ec5807490db0a9b084ffa9c;]|RELEASE:[none|none]
