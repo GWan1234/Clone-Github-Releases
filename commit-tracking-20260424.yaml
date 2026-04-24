@@ -1446,3 +1446,4 @@ adafruit/Adafruit_Blinka_bleio: BRANCHES:[main:c290f9c0867abf30b0f633a11ae4828be
 adafruit/Adafruit_WebSerial_3DModelViewer: BRANCHES:[master:3642232b39c331ae108b9cac5f261e30b3d17c74;]|RELEASE:[none|none]
 adafruit/Adafruit_HTS221: BRANCHES:[master:52c4dd07a21820256ff3db35dc470cf4090e23ff;gh-pages:692a2ac5279d94ca39629981afaae3fd9c90aa91;humidity_calc_fix:2200a9e67e9a8df3be51516330f19eda6e53f41f;]|RELEASE:[0.1.5|none]
 adafruit/CapacitiveSensor: BRANCHES:[master:78fed5a5c885306c943eba3ea77e6b6b79d8172b;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_HTS221: BRANCHES:[main:1fdd382ce9fdf8b057c5f948d202dea2444196b6;add_debug:78889c03c0375559ac08c28992acfed0b27167de;update-docs-link:f75ec009a91f770dca551626042b95c7df6b5cde;]|RELEASE:[1.1.24|none]
