@@ -181,3 +181,4 @@ adafruit/Adafruit_CircuitPython_SSD1331: BRANCHES:[main:2475fe400a137f4a1032e859
 adafruit/Adafruit_CircuitPython_ST7735R: BRANCHES:[main:bbe37f9ac0768cb04475f1ba8b69381142b1b265;setup-py-disabled:bb258e152fcf212a46be970741920070c4b6517f;]|RELEASE:[2.0.5|none]
 adafruit/Adafruit_CircuitPython_LIFX: BRANCHES:[main:3b0b74f2564b13cf190e73e733d78d8aeb50c748;docs_req_fixes:6637d4d9afcaf1600282bdcb6c8191a04ed9a030;patch-fix:689a477fec73ad9b574307dfbde09e0b8159b361;revert-3-update-set-colors:6f5283448ea5490f8cd3e09b10d7103bde86e1b1;]|RELEASE:[3.0.6|none]
 adafruit/Adafruit_CircuitPython_LPS35HW: BRANCHES:[main:8854ab850135a98466e16d37048e8bcf82468f28;patch:9bd029f219e86fb56badbe02edd51072ca1f28c1;lps25:cf5642956f05ff582c17fc03eb2116c920dbe1d0;filter_add:66db34741baf6c4bbae9efab1c169ae41a2dbdfe;]|RELEASE:[1.2.26|none]
+adafruit/Adafruit_CircuitPython_Hue: BRANCHES:[main:141e5993860c9ab6f6d6791d46564ae4c06da247;]|RELEASE:[2.0.6|none]
