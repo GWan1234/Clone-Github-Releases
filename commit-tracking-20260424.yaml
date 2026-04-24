@@ -990,3 +990,4 @@ adafruit/lwip: BRANCHES:[circuitpython9:bd522fde9409398297b4e3244c92576b86ef16ec
 adafruit/Adafruit_CircuitPython_PixelMap: BRANCHES:[main:11c0846fe2d858f3188fefe6fc299af05f379520;]|RELEASE:[1.0.12|none]
 adafruit/FileTransfer-For-Android: BRANCHES:[main:92cb629d380f9efd28931cb976ccf2cce8fefe4d;fix_compose_preview:08b3fc6aa8834ad63bc5d35b4b73035a9c8fa368;content_provider:e192e9a3b360847403fcf32966074f0e514dbe0c;]|RELEASE:[none|none]
 adafruit/ENS160_driver: BRANCHES:[master:2b42be14c984847f225841568015fd5129d7ff82;]|RELEASE:[3.0.1|none]
+adafruit/Adafruit_CircuitPython_ULP_Blink: BRANCHES:[main:d9b2796facf9a346a257a68ffd008a6f9762ac12;]|RELEASE:[none|none]
