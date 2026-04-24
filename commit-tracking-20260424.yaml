@@ -431,3 +431,4 @@ adafruit/Adafruit-Metro-M7-with-AirLift-PCB: BRANCHES:[main:a3c861b5d9f21f124cc4
 adafruit/web-firmware-installer-js: BRANCHES:[main:1b33db1faef89afcf2c52966f65fc2facad6b07f;]|RELEASE:[2.2.2|none]
 adafruit/Adafruit_IntelliKeys: BRANCHES:[main:afd23a892c4b3e187de99fdf2c738f058d11ea3b;update-doc:4e6de65b072192fdcfcf151e97369300addf3856;]|RELEASE:[0.2.3|none]
 adafruit/cookiecutter-adafruit-arduino: BRANCHES:[main:66a16eac492106c9e8091f9c2b588a8dee068a3f;]|RELEASE:[none|none]
+adafruit/Adafruit_CAN: BRANCHES:[main:d029f1dfdea13c686e98d9456ae176d7fc8d56f1;clang-2025-07-17:da4643b05b844f80965c46a8ef101107fff2fd4b;gh-pages:45c019a179153ff5d47d3f65c79bbd83a537c802;]|RELEASE:[0.2.3|none]
