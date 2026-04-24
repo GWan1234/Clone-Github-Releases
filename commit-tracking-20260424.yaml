@@ -352,3 +352,4 @@ adafruit/Adafruit_PCF8574: BRANCHES:[main:a9542ac4119439a82038aebea31db2b1b4433b
 adafruit/Adafruit_CircuitPython_PCF8574: BRANCHES:[main:de8dcdeae7f348527061239e7542e688f9c6de93;]|RELEASE:[1.0.17|none]
 adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB: BRANCHES:[main:e2cfb6b5e5edb46688429b701eead7a78738b0f8;]|RELEASE:[none|none]
 adafruit/Adafruit-Infineon-Trust-M-PCB: BRANCHES:[main:be8bbc2b780c9807f57df6a793e743d38681eccd;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_MMC56x3: BRANCHES:[main:3ba876a95009896c39970ba4a012f723000380de;]|RELEASE:[1.0.16|none]
