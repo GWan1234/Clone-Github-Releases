@@ -1455,3 +1455,4 @@ adafruit/Adafruit_WebBluetooth_Dashboard: BRANCHES:[master:d0cf85f20e98c27a92f17
 adafruit/Adafruit_DRV8830: BRANCHES:[master:cbbe5ebf6e53256050b025014bc0ede17fc925f4;gh-pages:886abebb2acbbbf876c7a115d49a1b63fed537c3;fix-ci:a027e4c82b340e817615220dbb3603c8a3b5307a;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-nRF52840-Sense-PCB: BRANCHES:[master:afeb0acb67e98c807cfdfbf7b5fe5e6e49490796;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_Adafruit: BRANCHES:[main:6e5eacee67c463fdf548df592e8d2e8e9a70b01c;]|RELEASE:[1.4.16|none]
+adafruit/Adafruit_CircuitPython_FONA: BRANCHES:[main:ef0f3adff57135d4bdfaef7caa20bff61aa84c59;fix_rtd_theme:32a49567c618ee31ba37f95635ce28bedc6866d9;patch-fix:6b113b2c195c7f6b8ed3a168a2d8d61d4807612b;]|RELEASE:[3.0.12|none]
