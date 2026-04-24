@@ -2021,3 +2021,4 @@ adafruit/Adafruit-TMC2209-Breakout-PCB: BRANCHES:[main:227f79e2cda77b99653316692
 adafruit/Adafruit-Sparkle-Motion-PCB: BRANCHES:[main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef31a;]|RELEASE:[none|none]
 adafruit/WLED: BRANCHES:[main:b64cd36468384bf4f293a72602cbb2b860b25146;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Display_AnalogClock: BRANCHES:[main:0582ab46c2b5c206de18c1c028ab7436a969c8d8;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit-Mini-Sparkle-Motion-PCB: BRANCHES:[main:2c29150d79a7e4539b1e595055df8d9086d79dda;]|RELEASE:[none|none]
