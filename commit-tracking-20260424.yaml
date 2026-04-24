@@ -562,3 +562,4 @@ adafruit/Adafruit_CircuitPython_GPS: BRANCHES:[main:c326d99d18513e3d45875f8ff6e1
 adafruit/Adafruit-BME680-PCB: BRANCHES:[master:2d1e857d88c157422347d2568fdfcd76155c1997;]|RELEASE:[none|none]
 adafruit/Adafruit_SGP30: BRANCHES:[master:b4a631b1d75996a4dc2b1dda07e02a8529365d33;gh-pages:aa4f6b6c8c78125a86b0240afa0c8ba192c32eb0;busio:4ead0f0d09dbd7d169f4a8a594dc5e4cbc3eff31;actionci:2fddc64b7d8e8c833d160bd23592f636f0d44b04;]|RELEASE:[2.0.3|none]
 adafruit/rpi-fbcp: BRANCHES:[master:3a136f2d9803d5b293f6221cc7e3dec03a138648;gh-pages:e7f27e8db151b5c9aba2599537d1ff959fb2d2dd;]|RELEASE:[none|none]
+adafruit/circuitpython-build-tools: BRANCHES:[main:a0d36a7f9f04cce45bd2b31046d13bce866eb04d;dhalbert-patch-1:0af572a15328cad8d32b8b34c9a597309e91b06f;]|RELEASE:[1.20.1|none]
