@@ -420,3 +420,4 @@ adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB: BRANCHES:[main:ce3ce90565b9e
 adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB: BRANCHES:[main:e724d4d8524af681a166bce0f3d29dee50b44cb1;]|RELEASE:[none|none]
 adafruit/Adafruit-OV5640-Camera-Breakout-PCB: BRANCHES:[main:6eba49749bf953b8e4c8abfd61bd996d184dc0c7;]|RELEASE:[none|none]
 adafruit/Adafruit-microSD-Card-BFF-PCB: BRANCHES:[main:65445ba23f0ee7e381b21e19db13e9ccfef9ba11;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoKey-BFF-PCB: BRANCHES:[main:4f0e7f24bc6bd4af262cbd93772e1eeb09c9244a;]|RELEASE:[none|none]
