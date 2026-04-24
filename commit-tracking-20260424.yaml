@@ -1959,3 +1959,4 @@ adafruit/Adafruit-Pixel-Trinkey-PCB: BRANCHES:[main:3331f2f048f8ea2769698f96f35f
 adafruit/Adafruit_DS248x: BRANCHES:[main:642fec2ab4c29d1765ac5305eead8cf513c08069;gh-pages:5f0c997fd7b007e8fbd76163ecf39a6cbf2e525e;]|RELEASE:[1.2.0|none]
 adafruit/Adafruit-Chainable-DS18B20-Extender-Breakout-PCB: BRANCHES:[main:bf200b6586b9d5aa7c498a762af0e22f15290840;]|RELEASE:[none|none]
 adafruit/Adafruit-TSMP96000-Breakout-PCB: BRANCHES:[main:5d456214739128a6fc19903849618996ac3116b8;]|RELEASE:[none|none]
+adafruit/Adafruit-Switchable-USB-Type-A-to-C-Breakout-Board-PCB: BRANCHES:[main:1566b53c2cd5469be964c5f8bf6cf9d399ec7730;]|RELEASE:[none|none]
