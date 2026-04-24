@@ -32,3 +32,4 @@ adafruit/FastLED: BRANCHES:[pixel_trinkey_fastled:adbebb780394748f776fcea6b22bb8
 adafruit/cookiecutter-adafruit-circuitpython: BRANCHES:[main:302da5e155805f285102eb482fed981138a17ac9;dev/update-pre-commit-hooks:1bdbfd69196bddfb0f5be78a95e0939b2474aa72;test-cookie-pylint-clean:55f6d042e40428a9e6f3201822b4a89088610c70;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_SD: BRANCHES:[main:e85d264ad6eaa286333fd3dbbf7a95b9ea7f0af3;REUSE:4b1d94ada75cf7abc46faab0fde35a0ad0ed53f8;nativeio:42c52fa288289580e60e0e9f83f179041bd14eb8;]|RELEASE:[3.3.30|none]
 adafruit/Adafruit_CircuitPython_SI7021: BRANCHES:[main:689c0b409421ca72c30e9885bc25633ce082e039;REUSE:9eddddd6ed2322d3bdc443a373d9cfa81e3d1cd8;tannewt-lint:37d8dfabfdd2445d964eb455708ce1dc2b87446a;]|RELEASE:[4.1.19|none]
+adafruit/Adafruit_CircuitPython_MAX31855: BRANCHES:[main:902af768892e68483d5ea876b270763974740964;]|RELEASE:[3.2.28|none]
