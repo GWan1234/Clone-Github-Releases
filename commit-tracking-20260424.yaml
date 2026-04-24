@@ -1891,3 +1891,4 @@ adafruit/Adafruit-VCNL4020-Proximity-and-Light-Sensor-PCB: BRANCHES:[main:525a2a
 adafruit/Adafruit_CircuitPython_TemplateEngine: BRANCHES:[main:781879a3893cbdf20965197b7227a997ea387896;]|RELEASE:[2.0.9|none]
 adafruit/Adafruit_CircuitPython_HUSB238: BRANCHES:[main:acd68db15040942bdbb96868698280cac0a2d863;]|RELEASE:[1.0.8|none]
 adafruit/Adafruit_ADS7830: BRANCHES:[gh-pages:23f4b4242523a55e75afc962683804d12aff1752;main:a850382d1fa42392a432c61f820450f54da479ab;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit_CircuitPython_VCNL4020: BRANCHES:[main:7e04befb58017790c3e3a0e4f3450320fb16f179;]|RELEASE:[1.0.8|none]
