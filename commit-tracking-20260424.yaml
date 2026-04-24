@@ -1466,3 +1466,4 @@ adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter: BRANCHES:[main:2779
 adafruit/Adafruit-DS1841-PCB: BRANCHES:[master:5d475eace8eedf69f1152edd5dc347744d76609f;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_MIDI: BRANCHES:[main:628b434253dc7291a00fa2189d9ff953541807a6;]|RELEASE:[1.0.24|none]
 adafruit/Adafruit_UTI165_Camera: BRANCHES:[master:5db633d69c03dd5bcc9c0d2158a3dcb1b6f56c85;]|RELEASE:[none|none]
+adafruit/Adafruit_Python_Extended_Bus: BRANCHES:[main:464ea7f9ba0d7f0d5699d91ecb53770fd0700c8d;]|RELEASE:[1.0.2|none]
