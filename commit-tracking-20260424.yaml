@@ -745,3 +745,4 @@ adafruit/Adafruit-AirLift-FeatherWing-PCB: BRANCHES:[master:c8631c7eeed9f69f6140
 adafruit/Adafruit_CircuitPython_RGBLED: BRANCHES:[main:c14e4f14c6991fd128a2150f3e54f1a952511d67;patch-fix:f0f7bb7847dbf19269294c7cadac4e519ae3009f;discord-fix:747ad0ab6ffa71d460025875d0bd59f376d2ce56;]|RELEASE:[1.2.7|none]
 adafruit/awesome-makecode: BRANCHES:[master:bd9c5d3afca8996f9c5cb462da30de64fe8c6895;]|RELEASE:[none|none]
 adafruit/META-Picomon: BRANCHES:[master:58a76ac2941ab347823101fc0346eca43f3f307a;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_DS3502: BRANCHES:[main:a727ac7ac0b569360d4876bd741418e7f9358426;patch:d7cba2fd3c1eb2b5c003d79fac334ceb545c68e9;]|RELEASE:[1.1.27|none]
