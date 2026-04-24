@@ -1812,3 +1812,4 @@ adafruit/Adafruit_LTR390: BRANCHES:[master:cd1d7175408d5ed5e928cc200d65de842a1d3
 adafruit/Adafruit_HTU31D: BRANCHES:[master:0f5ebb6e9edf9d842f1ba3795202a3b85ede8808;gh-pages:e9b07240197f46b8e9fc06288d8224a332b975fe;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_CircuitPython_FakeRequests: BRANCHES:[main:130a3d7fcfbba67bb86232f22ca08ba862873947;patch-fix:99105bc59ca43bc2c76d82ef95fd40f1856df068;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_CircuitPython_PortalBase: BRANCHES:[main:fc4aeea36ae462463eb1317b66e0f772c439b28a;]|RELEASE:[3.5.2|none]
+adafruit/Adafruit_CircuitPython_SCD30: BRANCHES:[main:c8341c0129b65c3c172a8823668cab698d901277;tannewt-patch-2:6e7a63b482826c4d22b2c2af91c60c234a5b4aa4;tannewt-patch-1:c90c9722d3638dc178e8bec453a9c8782c5354cb;slowdown:4a7b33f6d6f1010afc55488a636a3f4fd0f4de67;]|RELEASE:[2.2.19|none]
