@@ -545,3 +545,4 @@ adafruit/IRLibCP: BRANCHES:[master:2caa7720bd941bca2a44f7efa7a3d64696f8f261;]|RE
 adafruit/Adafruit_CircuitPython_INA219: BRANCHES:[main:8379e7e45e651196462a54e1fde1690ab2524c69;REUSE:f155504dffd553e4caf4b6671c085bf3f2b4d2e3;]|RELEASE:[3.5.2|none]
 adafruit/Adafruit_CircuitPython_SGP30: BRANCHES:[main:1f47eef77fa2dff7b16600164bcd3cf97db992a9;]|RELEASE:[3.0.16|none]
 adafruit/Adafruit_CircuitPython_BMP280: BRANCHES:[main:da8aa7d5be3f37d4b894098c4569888dd1309700;dhalbert-ustruct:cf823bf6ef86d1408c0aaf2a6b2994d82ba4943c;patch-fix:65aca3e7c6a0e009d9634cf2b8fdb9f508205b7b;pypi-readme-update:37974d2adadc58655623bac5553502172804432d;]|RELEASE:[3.3.12|none]
+adafruit/Adafruit_CircuitPython_TSL2561: BRANCHES:[main:414fefdbf2d08a24d2339d8ac78b9ec931825e30;]|RELEASE:[3.3.25|none]
