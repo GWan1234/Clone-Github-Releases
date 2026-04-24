@@ -810,3 +810,4 @@ adafruit/Adafruit_CircuitPython_SSD1305: BRANCHES:[main:43fad7468edba4d52c82dfcc
 adafruit/Adafruit_MPU6050: BRANCHES:[master:502a7caccda630a151dfb03ecbdd4b8452809ef7;gh-pages:ef28ed9052a42527a7e62119d6437291e2321a88;sensorlab_refactor:807149b98cfc412b926859b9020dfabe6c0cb040;self_test:dd7cc7f9b45fce1079afce46d468ec4727fafabc;]|RELEASE:[2.2.9|none]
 adafruit/Adafruit_CircuitPython_ATECC: BRANCHES:[main:b8d49c0aa542eee6b4dc6b44cfcdde625138ac90;patch-fix:75e796bdc80362c0c2332549fe8b71d2ff341658;]|RELEASE:[1.3.2|none]
 adafruit/Adafruit-Hallowing-M4-PCB: BRANCHES:[master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27;]|RELEASE:[none|none]
+adafruit/glider: BRANCHES:[dependabot/npm_and_yarn/y18n-3.2.2:40d0794a34fe0f20a6464c36c08e146227176a27;master:e463b130cb19464031fe94904c554743cd353442;]|RELEASE:[none|none]
