@@ -1656,3 +1656,4 @@ adafruit/Adafruit-ADS122C04-24-Bit-ADC-PCB: BRANCHES:[main:bb60e307305d48648d0d7
 adafruit/Adafruit-VCNL4030-Proximity-and-Lux-Sensor-PCB: BRANCHES:[main:2cb43e92b39950b2a3431f76c197c378cac2ba3e;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TMAG5273: BRANCHES:[main:1e7e42b7cb1c2777b37220c95050e7cddaf4e853;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_CircuitPython_ADS122C04: BRANCHES:[main:5a89ab160ef6426d4402509d4a5b3a17762ee441;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit_CircuitPython_VCNL4030: BRANCHES:[main:6b5ccff52097d4d98bd2989dc3ac70dacfa38d7c;hw_tests_improvements:a925f2af3fc88ee0888d3a317fb44a36119f1bf1;]|RELEASE:[1.1.3|none]
