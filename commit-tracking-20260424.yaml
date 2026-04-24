@@ -1540,3 +1540,4 @@ adafruit/Adafruit-TPS65131-Split-Power-Supply-PCB: BRANCHES:[main:5c4644c7acc1e2
 adafruit/umac: BRANCHES:[main:d08af73527e47b839744434a0707a6e164f3a82d;soundemu:431e905354e975cd942eb4c1c5ea5a39237691ab;resolution-extension:3b58a695a07bb30878996d455d26a499a935999b;]|RELEASE:[none|none]
 adafruit/pico-extras: BRANCHES:[pico2-dma-pio:8606fb88057873154f9b6f98a3e52e233cd988d9;master:f05d4f7371802440cadd36744789a26944d950ac;]|RELEASE:[none|none]
 adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB: BRANCHES:[main:4456a62a418b1a25ce2500ce0335ab6fe1eceacf;]|RELEASE:[none|none]
+adafruit/circuitpython-font-generator: BRANCHES:[main:cffd40601608665c0edb3664a2e8e9c1b7bafd68;]|RELEASE:[none|none]
