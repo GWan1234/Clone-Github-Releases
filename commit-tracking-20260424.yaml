@@ -1772,3 +1772,4 @@ adafruit/Adafruit_CircuitPython_MCP2515: BRANCHES:[main:8274b98938d3e2b4ba5ec8d6
 adafruit/Adafruit_CircuitPython_AirLift: BRANCHES:[main:4d040e5610f5e306419a4b78db6611fe32095616;]|RELEASE:[1.0.21|none]
 adafruit/Adafruit-AP3429A-PCB: BRANCHES:[main:ce112ce8a2ad4f7fece2f17de90d2e1153a14a0d;]|RELEASE:[none|none]
 adafruit/Adafruit-TMP235-PCB: BRANCHES:[main:05afa047f2324ed06268ded1c27b741c86acedc8;]|RELEASE:[none|none]
+adafruit/Adafruit-LC709203F-PCB: BRANCHES:[master:65d60917fbe771308a387132dc943800a52f1380;]|RELEASE:[none|none]
