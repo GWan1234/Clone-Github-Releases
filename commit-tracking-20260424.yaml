@@ -1558,3 +1558,4 @@ adafruit/Adafruit-OPT4048-XYZ-Color-Sensor-PCB: BRANCHES:[main:a9569a56fbfb380a2
 adafruit/Adafruit-SEN6x-Breakout-PCB: BRANCHES:[main:7caff419c5f32d5bf41f8e42641b9c158a1db04e;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_OPT4048: BRANCHES:[main:97e63d8cd2425248c0aee323c3d8a6422404eaa5;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_STSPIN: BRANCHES:[main:c76482b58b04e25258fd8bd5873a98977b8a6ac7;gh-pages:1d0e4454b75c9ead8a869bc81219900c5593a259;]|RELEASE:[1.0.1|none]
+adafruit/Adafruit_CircuitPython_SEN6x: BRANCHES:[main:1c2ec4e6714af7c4b4324bdded5a19ca1cde3366;]|RELEASE:[1.0.6|none]
