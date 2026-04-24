@@ -1042,3 +1042,4 @@ adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB: BRANCHES:[main:aaaae6964cf56ddb17c5ab
 adafruit/library-registry-pb: BRANCHES:[main:3daffd99c127fc072ddd0e4acb678f4fd8150c17;]|RELEASE:[none|none]
 adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: BRANCHES:[main:408fa9a40c0a01a3a65497ef42a29e0b08fe711e;]|RELEASE:[none|none]
 adafruit/Adafruit-TRRS-Jack-Breakout-PCB: BRANCHES:[main:d6d4fe70bc727056076c4603e90112b8b1c6d006;]|RELEASE:[none|none]
+adafruit/Adafruit-I2S-Amplifier-BFF-PCB: BRANCHES:[main:fe191f0585be438605feca267afa38fe587e57f4;]|RELEASE:[none|none]
