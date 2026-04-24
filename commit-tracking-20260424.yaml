@@ -45,3 +45,4 @@ adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB: BRANCHES:[master:6020d6
 adafruit/Adafruit_CircuitPython_IRRemote: BRANCHES:[main:bb14c81e07aa798b36a53923059b5ab8a914915b;]|RELEASE:[5.0.8|none]
 adafruit/Adafruit_CircuitPython_IS31FL3731: BRANCHES:[main:3becc08e451eeb2b6678a3d17547f5b0922e4660;patch:40d56274bbaba88273cce27c2811f1c2aaa328f3;experimental:4e6425880be5585859746a16934e8851211521cb;]|RELEASE:[3.4.8|none]
 adafruit/Adafruit_CircuitPython_Waveform: BRANCHES:[main:8d36e16180f10e0a2a733e53ba0c767f33219ecf;]|RELEASE:[1.3.27|none]
+adafruit/Adafruit_CircuitPython_RTTTL: BRANCHES:[main:3fb2062f3ee6408eb6151d179e5d2af6d6aceaac;]|RELEASE:[2.4.29|none]
