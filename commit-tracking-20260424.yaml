@@ -1786,3 +1786,4 @@ adafruit/DAPLink: BRANCHES:[adafruit/stm32f103:28d6e42dbc386800a416a54c427280348
 adafruit/Adafruit-QT-Py-PCB: BRANCHES:[master:a8caed9ad5f2670c662f0b0a68af62cceb3cec96;]|RELEASE:[none|none]
 adafruit/Adafruit-LTC4311-PCB: BRANCHES:[master:8fb4ee69175a7ddb4128edbb7d9d79a78fbbf405;]|RELEASE:[none|none]
 adafruit/Adafruit-MIDI-FeatherWing-PCB: BRANCHES:[master:d060360d31ba77963443121e71bae136c882a788;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_DisplayIO_SH1107: BRANCHES:[main:0bed196e7ca903701708845e723de72f3b2edc2c;dhalbert-patch-1:19030c629d876a995eba7ef1658dc04176bb6174;]|RELEASE:[2.0.6|none]
