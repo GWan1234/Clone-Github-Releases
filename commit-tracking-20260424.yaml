@@ -140,3 +140,4 @@ adafruit/Adafruit_CircuitPython_TMP006: BRANCHES:[main:ceac48055904b57fe786d4bcb
 adafruit/Adafruit_CircuitPython_TinyLoRa: BRANCHES:[main:0b0c6abd09136c481c3ffae264170ed762ebc65d;]|RELEASE:[2.2.25|none]
 adafruit/Adafruit_CircuitPython_MotorKit: BRANCHES:[main:dee829448b969f1946c968bceabced7096d40a45;patch-fix:8e332122446476d8417712c1b6c6bf699691ada3;REUSE:ce903aedaa06666c68479cfd061def461fdfe908;travisyml-update:cb15f98ec2be7af425f5c6aeb611e399fb04bbec;]|RELEASE:[1.6.21|none]
 adafruit/Adafruit_CircuitPython_miniesptool: BRANCHES:[main:5be10f70046d3a19a5df9b02f9276d19d7da75de;REUSE:cc6dc83cf28754bbd3e19fce87721351774b9ebd;]|RELEASE:[0.2.28|none]
+adafruit/Adafruit_CircuitPython_ESP_ATcontrol: BRANCHES:[main:e2cef5fe26e3e14522af7e1b4ae074a029d40c4c;not-using-with:9a63cbaddecd71c5e7b44bf0ff22d4485ad1ef6e;]|RELEASE:[0.11.7|none]
