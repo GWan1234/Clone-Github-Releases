@@ -108,3 +108,4 @@ adafruit/Adafruit_CircuitPython_LED_Animation: BRANCHES:[main:38a3c7844b4c59235f
 adafruit/Adafruit_CircuitPython_Colorsys: BRANCHES:[main:df5bcb448dbcc6c348d2e2984ce506eafead179c;fix-module-name:c68a56d04f66314abb92aa5e86fbb6841b6578f7;setup-py-disabled:d8f4d85984e5459b9be5a21f593e562d50e11078;]|RELEASE:[3.0.6|none]
 adafruit/Adafruit_CircuitPython_TMP007: BRANCHES:[main:9533cc2c8356f4c1d1f7e0e9b0bcabdb5007da40;]|RELEASE:[2.1.22|none]
 adafruit/Adafruit_CircuitPython_MatrixKeypad: BRANCHES:[main:25b43c08f0f03623cb821464a4b109b496046309;rpi_simpletests:12d277c226594276627439253772f7cc949c2e50;]|RELEASE:[1.2.23|none]
+adafruit/Adafruit_CircuitPython_L3GD20: BRANCHES:[main:f74880027c1c9c27d2ec53a136ed51382e90fe2f;stemma_i2c:dfe2148e0cd4b2322ac3cccef5280384e2e0411f;patch-fix:537655868f1ef2329a5a1455bdc16c4ab5f53516;remove_debug_print:a2aa8e3e6112091d5cd624df0a456ce0460de0ce;]|RELEASE:[2.3.27|none]
