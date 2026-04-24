@@ -1026,3 +1026,4 @@ adafruit/Adafruit_CPFS: BRANCHES:[main:b3c0d3652109a627c078827c81c18a64c1666a13;
 adafruit/Adafruit_CircuitPython_Wii_Classic: BRANCHES:[main:e366752e26bda589f1701eebecb23529633aab44;]|RELEASE:[1.0.13|none]
 adafruit/Adafruit-Feather-RP2040-USB-Host-PCB: BRANCHES:[main:872f24e8be5948ba2ae3d12925d18a2a8b4b8adc;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-ThinkInk: BRANCHES:[main:d58fe34ce514708b82d5a25def954bce635c4c8f;]|RELEASE:[none|none]
+adafruit/Adafruit-PiCowbell-CAN-Bus-PCB: BRANCHES:[main:6a54bc0068c96f8ab23616ab215f0996f77bea80;]|RELEASE:[none|none]
