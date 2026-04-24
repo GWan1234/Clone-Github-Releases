@@ -1439,3 +1439,4 @@ adafruit/Adafruit_nRFCrypto: BRANCHES:[master:2be11062ac56cf75a9a8b8ed087ad49542
 adafruit/awesome-micropythons: BRANCHES:[master:174283519e3b6b04ac44b6391c8a5cb0a0d797b8;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_Radio: BRANCHES:[main:f1001190a105603720bb1b3716962c92a90bf104;add-build-yml:ee8953a4694169994be4cd4a4567bd2b5b375c02;]|RELEASE:[0.5.17|none]
 adafruit/Adafruit_WebSerial_Plotter: BRANCHES:[master:347fc6dd89d4b817fa1dbb803e9bb8264efc587f;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_BLE_Eddystone: BRANCHES:[main:5a33a27ac395748653a4c07099059fd884e2d3d2;docs_req_fixes:17c46c260069c540da9833cf2114d208e2d967cb;fix_rtd_theme:faa62f5826e5fe3b3b3565849498a9620e60a7a0;tannewt-patch-1:6c298468149e6d5a2ad9fe8f8d04a2ca649db713;]|RELEASE:[1.10.25|none]
