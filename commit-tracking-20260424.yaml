@@ -49,3 +49,4 @@ adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d9833
 adafruit/Light-and-Temp-logger: BRANCHES:[master:d615540bfa0b30aa721960312a46d62161b6c2e8;]|RELEASE:[none|none]
 adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac;]|RELEASE:[none|none]
 adafruit/ST7565-LCD: BRANCHES:[master:d40d9d832be8a6ce26d6462e85de3dcf439942fc;]|RELEASE:[none|none]
+adafruit/SD-card-testing-jig: BRANCHES:[master:823b68201f1215d345dc6af727399f021bfddb9b;]|RELEASE:[none|none]
