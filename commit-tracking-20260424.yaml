@@ -1811,3 +1811,4 @@ adafruit/Adafruit_CircuitPython_MLX90395: BRANCHES:[main:718df9c92dea8703e44bb72
 adafruit/Adafruit_LTR390: BRANCHES:[master:cd1d7175408d5ed5e928cc200d65de842a1d3317;gh-pages:5ae60fe1973c53acb36b531ab1c491f1d3046f57;fix-reset-nrf52-rp2040:f8e070dade7f44968bef94cdd1a40fa3a144b4f8;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_HTU31D: BRANCHES:[master:0f5ebb6e9edf9d842f1ba3795202a3b85ede8808;gh-pages:e9b07240197f46b8e9fc06288d8224a332b975fe;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_CircuitPython_FakeRequests: BRANCHES:[main:130a3d7fcfbba67bb86232f22ca08ba862873947;patch-fix:99105bc59ca43bc2c76d82ef95fd40f1856df068;]|RELEASE:[1.1.3|none]
+adafruit/Adafruit_CircuitPython_PortalBase: BRANCHES:[main:fc4aeea36ae462463eb1317b66e0f772c439b28a;]|RELEASE:[3.5.2|none]
