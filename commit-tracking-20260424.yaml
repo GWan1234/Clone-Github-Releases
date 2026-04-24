@@ -101,3 +101,4 @@ adafruit/Adafruit_CircuitPython_SI4713: BRANCHES:[main:de1586bd2bbdf152772710785
 adafruit/Adafruit_CircuitPython_MPL3115A2: BRANCHES:[main:c30f69e37a6755f5467bcf7c95ef07c1af676014;patch-fix:ee8de5a4c57c0b9a707ebb703719d44a2883a99a;]|RELEASE:[3.0.12|none]
 adafruit/Adafruit_CircuitPython_RFM9x: BRANCHES:[main:b2a843ddff22cec5a2b6ee79ba0c52e17cbf9dd2;]|RELEASE:[2.2.25|none]
 adafruit/Adafruit_CircuitPython_MCP230xx: BRANCHES:[main:8a951eff76137ad1994c4838e5f151e348087941;patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;]|RELEASE:[2.6.2|none]
+adafruit/Adafruit_CircuitPython_AM2320: BRANCHES:[main:89e502e27a1749fec9fa1a499877e9db140dff73;pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;]|RELEASE:[1.2.28|none]
