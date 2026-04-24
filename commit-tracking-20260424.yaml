@@ -1005,3 +1005,4 @@ adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB: BRANCHES:[main:e724d4d8524af681a16
 adafruit/Adafruit-OV5640-Camera-Breakout-PCB: BRANCHES:[main:6eba49749bf953b8e4c8abfd61bd996d184dc0c7;]|RELEASE:[none|none]
 adafruit/Adafruit-microSD-Card-BFF-PCB: BRANCHES:[main:65445ba23f0ee7e381b21e19db13e9ccfef9ba11;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-BFF-PCB: BRANCHES:[main:4f0e7f24bc6bd4af262cbd93772e1eeb09c9244a;]|RELEASE:[none|none]
+adafruit/RP2040-Based-Tester-Brains-PCB: BRANCHES:[main:2d2ad210bc536647132b5b5b1e395b6177a4dccf;]|RELEASE:[none|none]
