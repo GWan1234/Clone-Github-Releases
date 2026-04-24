@@ -585,3 +585,4 @@ adafruit/Adafruit_CircuitPython_SSD1677: BRANCHES:[main:10cc23daba1b2ce7ebb02c82
 adafruit/Adafruit_RV8803: BRANCHES:[main:cafe3513b9bd1a07b5868bc87da21ab69f0e0b8c;]|RELEASE:[none|none]
 adafruit/Adafruit-APDS9999-Proximity-Light-and-Color-Sensor-PCB: BRANCHES:[main:0f0fc27bab6c79a684ce17a6ab397f63f98f74bd;]|RELEASE:[none|none]
 adafruit/Adafruit-AS7331-UV-UVA-UVB-UVC-Sensor-PCB: BRANCHES:[main:3e07d4ead4e060f03129066e03426ed243d007ec;]|RELEASE:[none|none]
+adafruit/Adafruit-AS7343-14-Channel-Light-Color-Sensor-PCB: BRANCHES:[main:ce4bb797425e7eecbcbe1ded1232209a2d995e7e;]|RELEASE:[none|none]
