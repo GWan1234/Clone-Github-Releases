@@ -607,3 +607,4 @@ adafruit/Adafruit-Feather-328P-PCB: BRANCHES:[master:62859c243921da2d12216813733
 adafruit/Adafruit_nRF52_Bootloader: BRANCHES:[master:48a149ffcb2e092051d1169f443f9b9b8613a54c;tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4;]|RELEASE:[0.10.0|none]
 adafruit/Adafruit_CircuitPython_MCP4725: BRANCHES:[main:6493475472e358423bb90fa48bd67e294a6b0f01;]|RELEASE:[1.4.21|none]
 adafruit/Adafruit_CircuitPython_MAX9744: BRANCHES:[main:20a448e4bb39f63f6810decf642c3636a236a78f;]|RELEASE:[1.2.24|none]
+adafruit/Adafruit_CircuitPython_TLC59711: BRANCHES:[main:49c4f6bcb82cba49c2811dcc4f841eacde661f3e;]|RELEASE:[2.0.20|none]
