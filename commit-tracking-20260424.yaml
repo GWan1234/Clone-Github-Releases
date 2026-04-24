@@ -206,3 +206,4 @@ adafruit/Adafruit_CircuitPython_IL91874: BRANCHES:[main:20ca580caa64a616106e7632
 adafruit/Adafruit_CircuitPython_MSA301: BRANCHES:[main:8933068635ed199fb1f147bd0d9adc54ec6cc28f;use_ruff:b34604e6b826eef0e8bebf461f70d5e1bcb17dbe;pylint_update:f29fe4341b1575fd453646afd9a0c24787d1ee85;]|RELEASE:[1.3.13|none]
 adafruit/Adafruit_CircuitPython_hashlib: BRANCHES:[main:dcdecf149680b72c60c95620c7cf3c1f212806aa;patch-fix:2b2ff736e1284702272f3b1ac9ebffa2a6301466;linting:05dc21b46f99af8e35a72ba9614affbec875dd86;]|RELEASE:[1.4.22|none]
 adafruit/Adafruit_CircuitPython_binascii: BRANCHES:[main:8c2ed98fa7582e2f9f910c50d35298883f2ab9d6;tannewt-patch-1:cec1f580e14a082f92264e86d025d6afee95bed5;]|RELEASE:[2.0.10|none]
+adafruit/Adafruit_CircuitPython_IL0398: BRANCHES:[main:7e254842757f1084d03bb9f69b6eb6cb734d45cb;pylint_update:69c425a0902d17a53faf795a041fae0fa6a27d11;]|RELEASE:[2.0.5|none]
