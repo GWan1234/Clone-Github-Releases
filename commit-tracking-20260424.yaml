@@ -1161,3 +1161,4 @@ adafruit/Adafruit-Circuit-Playground-PCB: BRANCHES:[master:123fc8ded8a6c41de64b6
 adafruit/Adafruit-Feather-32u4-FONA-PCB: BRANCHES:[master:db45e3e1a5e53590cac33a1f3adc783d1e70ea01;]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: BRANCHES:[master:50dc43b6c03adafa21683995f62efb6e825bba12;]|RELEASE:[none|none]
 adafruit/zj-58: BRANCHES:[master:603f034e125305c464bab170b7144e446a193f0d;]|RELEASE:[none|none]
+adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: BRANCHES:[master:b5c7edd20f00010be64d25145d6ee1dacd28b083;]|RELEASE:[none|none]
