@@ -207,3 +207,4 @@ adafruit/Adafruit_BMP085_Unified: BRANCHES:[master:95ae5cc07f14cb36955d946c2403c
 adafruit/LED-Ampli-Tie-with-Flora: BRANCHES:[master:2449eaa274f1f3ea5f234367b8c5086b67c10b43;]|RELEASE:[none|none]
 adafruit/Adafruit_TMP006: BRANCHES:[master:d0fc98a7d40474e02f2d97eb465d65230b7e26c2;actions:3a8ac74118b5acc0efe1ac45d8129eb2cdb23db2;gh-pages:f498bb96cc338557554f29347e38004686577547;]|RELEASE:[1.1.0|none]
 adafruit/Python-WiFi-Radio: BRANCHES:[master:689b2335d86a74274f76733261d031e40ee37d14;revert-7-master:3e5587d38c4f2b5ea413c244b4637dc817fd03f4;]|RELEASE:[none|none]
+adafruit/Adafruit_AM2315: BRANCHES:[master:7f52340f38ce714f00ce47de39fd50c82e409184;gh-pages:81931048c99957035d1828a25ba65a8f44a154b6;actionci:18d9bca559a50cfd9c6b48e0124b9c5c521cd880;]|RELEASE:[2.2.3|none]
