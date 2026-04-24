@@ -582,3 +582,4 @@ adafruit/Adafruit_CircuitPython_DS18X20: BRANCHES:[main:b8411113c8f459b253bc3f10
 adafruit/codal-core: BRANCHES:[master:fdfe0534461442dcce2e6d5a3df42fe9cad2b6e0;snorfs:5f4c08607ba8eeb820fdc4b676008eaf9a271474;msc:7739fd6e3978bf31d034fe0ecff26e0b10b7864b;timing-test-instrumentation:9f62246117c3f4675e991b1336601124c0b06189;list:cf312a7b7a3f5ab93451630fe87cea39e22b6e70;atmega328p:e15b491d0f8f99120bb1505607f48fdb853f713d;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Motor: BRANCHES:[main:20ebf51fe0d2bb48b1780c3c9bd74c16c73bc02e;]|RELEASE:[3.4.20|none]
 adafruit/Adafruit_CircuitPython_Thermal_Printer: BRANCHES:[main:81e7ff54d7eebf08e3d93e3e2e6f729e76445918;patch-fix:13dc990d4b323cf996b1897aed3db555472d79b0;]|RELEASE:[1.4.0|none]
+adafruit/Adafruit_CircuitPython_DRV2605: BRANCHES:[main:2b8443ff94a179a027efd9f62d905c398f4f7b43;use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;]|RELEASE:[1.3.10|none]
