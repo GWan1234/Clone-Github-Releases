@@ -666,3 +666,4 @@ adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf7358
 adafruit/adafruit_io_python_jupyter: BRANCHES:[master:20a577d2d191f677da2652c72daf7a27251b033d;]|RELEASE:[none|none]
 adafruit/Adafruit-Radio-Bonnet-PCB: BRANCHES:[master:dd0cb11d273a3e95d90786b02c9ded95ae6168c6;add-pcb-files:a13f00c2224d9a3857ca04dad4a3ad8fafdbed01;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BluefruitConnect: BRANCHES:[main:ca2a3685f6aae19e221e386bdb28c1450d0a27d3;patch-fix:2370266e60a10f079d9890a8639ea03b37df77f4;REUSE:15b5fe922a0b965f2264704ebdfbc9001451e433;]|RELEASE:[1.3.2|none]
+adafruit/Adafruit_CircuitPython_MIDI: BRANCHES:[main:6f5d6812474a0460e9418278ea7da1e2269d2c0d;useful-repr:f89b137f8800e7b6b70521e20a9597504d9e7c21;patch:27ee05b34e85dd3705ff9221a147eff5f4f8fd38;test-lint:2de0cece802129d6d07d2c23f5e3badd0c060d23;]|RELEASE:[1.6.0|none]
