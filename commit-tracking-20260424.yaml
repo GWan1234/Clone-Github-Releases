@@ -197,3 +197,4 @@ adafruit/TIMESQUARE-DIY-Watch-Kit: BRANCHES:[master:e96eb4b1c59d834064f6a437160f
 adafruit/Adafruit-Flora-Mainboard: BRANCHES:[master:25cd6a85201cdcfaf87b5cbb872280c448461445;]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Ultimate-GPS: BRANCHES:[master:931c95ded8acbfc410564054b0273b7d0bf2d7b4;]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Smart-NeoPixel: BRANCHES:[master:0e6a7230ea0931884c57d5954533523599c54df7;]|RELEASE:[none|none]
+adafruit/Adafruit_Sensor: BRANCHES:[gh-pages:c43948cef48d0c8ca15eabf9f3091d49f0c595c6;master:0a9127a1e886ff1adb4c1b6f5958b24108d55aa6;]|RELEASE:[1.1.15|none]
