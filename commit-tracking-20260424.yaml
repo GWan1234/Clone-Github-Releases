@@ -1467,3 +1467,4 @@ adafruit/Adafruit-DS1841-PCB: BRANCHES:[master:5d475eace8eedf69f1152edd5dc347744
 adafruit/Adafruit_CircuitPython_BLE_MIDI: BRANCHES:[main:628b434253dc7291a00fa2189d9ff953541807a6;]|RELEASE:[1.0.24|none]
 adafruit/Adafruit_UTI165_Camera: BRANCHES:[master:5db633d69c03dd5bcc9c0d2158a3dcb1b6f56c85;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_Extended_Bus: BRANCHES:[main:464ea7f9ba0d7f0d5699d91ecb53770fd0700c8d;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit_LIS331: BRANCHES:[master:5356d148c2d02d8a6969b7e1410ff50cc0652b4e;gh-pages:93414311c2259e16a3ad4ce100101b14be67f650;fix-ci:d97e378e4c5ce7c045dd1581210eba0968cacde7;lis331_refactor:b248bf6876ac9b843fd496586122f6c718e8cbee;]|RELEASE:[1.0.6|none]
