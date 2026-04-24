@@ -535,3 +535,4 @@ adafruit/Adafruit_CircuitPython_JD79661: BRANCHES:[main:bb1c133e7892491f90254d09
 adafruit/Adafruit_CircuitPython_UC8179: BRANCHES:[main:18227be883684a789e6181bc51fe11ff9d044ed6;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_UC8253: BRANCHES:[main:abdb413e274b5ba70ddaf2bfb3dac2a816deec4d;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit_bq25628e: BRANCHES:[gh-pages:0ae3185cff5b274a5137935c9e5c385bfd00dc71;main:d0d3e29b75cb96d77a2080996d99d4ecef8909f4;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit-QMC5883P-Triple-Axis-Magnetometer-PCB: BRANCHES:[main:e99e587a0e0e38b1deaf081639ec0116de6006aa;]|RELEASE:[none|none]
