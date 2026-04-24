@@ -5,3 +5,4 @@ cockpit-project/cockpit-design: BRANCHES:[main:bde4dc78604032ac09daacf675bc8ef25
 cockpit-project/hubbot: BRANCHES:[master:fd89610f8b7909874577ce5755c74eab24b08f99;]|RELEASE:[none|none]
 cockpit-project/cockpituous: BRANCHES:[main:e3b32b348fb7da6f36329630d2f9e4056a0a6b8d;drop-image-refresh-test:ac44cc3a899d504d6e2fc967d727e4ccae034af2;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b;]|RELEASE:[none|none]
 cockpit-project/term.js: BRANCHES:[master:df24a161e45f461488ba773237a96faa4c82f1eb;mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;]|RELEASE:[none|none]
+cockpit-project/starter-kit: BRANCHES:[dependabot/npm_and_yarn/types-f57dc2645f:e54519dd843ca3818608bfcfe528f695249f2259;dependabot/npm_and_yarn/stylelint-b1565ee849:44bd3c048cced0a2cbf3a0137aff951cfea9b308;main:0d74fdf8d7b9f4ac0531ec158b838ca3b405f91d;]|RELEASE:[none|none]
