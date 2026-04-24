@@ -1807,3 +1807,4 @@ adafruit/Adafruit_CircuitPython_MagTag: BRANCHES:[main:ae5a33753037c893eba35bf7e
 adafruit/Adafruit-TMP117-PCB: BRANCHES:[main:874b3a5b27792d4d166547bab075cb963e1bdb32;]|RELEASE:[none|none]
 adafruit/Adafruit_SGP40: BRANCHES:[master:661eb5c6184ad2c55c436efd46221ac33aabcb3d;gh-pages:e44323aa2a6009165d07ae0c2acfaba46b18e408;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit_WebSerial_ESPTool: BRANCHES:[main:677371b5acc05474e77e1c60083817e957d92aeb;]|RELEASE:[1.3.1|none]
+adafruit/Adafruit_CircuitPython_MLX90395: BRANCHES:[main:718df9c92dea8703e44bb72089af29aa4a6fcb8e;patch:7eca5708b930c1d6332bca3af59605dd9da4cbb4;]|RELEASE:[1.0.20|none]
