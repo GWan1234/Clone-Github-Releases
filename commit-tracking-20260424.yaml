@@ -1444,3 +1444,4 @@ adafruit/Adafruit_CircuitPython_LPS2X: BRANCHES:[main:c80f4e9d9b487937fed2daa05c
 adafruit/Adafruit_LPS2X: BRANCHES:[master:6c849f5417fa574f5757f6fb64b1b312cf5b2688;gh-pages:a7f9bdcabfa62ca426e48d3062d8c676eb77095e;temp_fix:e6b5aa648e88f695afda62e7736ae1fe20d52ef8;LPS22:ed5ef95f3f2329f01d711f02a0f45ca44bcd42ca;lps25hb:d9f8ab0b2fa28a51dee134b83c083c4d98787e9f;]|RELEASE:[2.0.6|none]
 adafruit/Adafruit_Blinka_bleio: BRANCHES:[main:c290f9c0867abf30b0f633a11ae4828be8fac488;]|RELEASE:[4.1.2|none]
 adafruit/Adafruit_WebSerial_3DModelViewer: BRANCHES:[master:3642232b39c331ae108b9cac5f261e30b3d17c74;]|RELEASE:[none|none]
+adafruit/Adafruit_HTS221: BRANCHES:[master:52c4dd07a21820256ff3db35dc470cf4090e23ff;gh-pages:692a2ac5279d94ca39629981afaae3fd9c90aa91;humidity_calc_fix:2200a9e67e9a8df3be51516330f19eda6e53f41f;]|RELEASE:[0.1.5|none]
