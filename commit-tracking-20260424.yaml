@@ -335,3 +335,4 @@ adafruit/Adafruit-TSC2007-PCB: BRANCHES:[main:8d182929dfc27dcdb407a2769cf416f9f6
 adafruit/littlefs-pure-js: BRANCHES:[main:9a229087ad96f6eca0e3cc1c4d3ae5375a3cc182;]|RELEASE:[1.0.3|none]
 adafruit/fluxvis: BRANCHES:[main:cd3d3a61713dc33bfabb0dc8cdf296185ec177bf;improve-packaging:b4082b8d554364abb0024c98e16e33683d594172;fix-url-readme:9e837f04ed62ef9deedfc90e1059417b37adca33;fix-render-location:3ab71882b0e722d9800fd120021af2fe59ac4a0f;workflows:131079da3c8ca741194b0efa12a2ace51a929150;]|RELEASE:[1.0.0-alpha.5|none]
 adafruit/Adafruit-Charger-BFF-PCB: BRANCHES:[main:2acd339ac57539b236e1b072488f581ea56e3a4c;]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-ESP32-S3-PCB: BRANCHES:[main:2c95ed51a500d929fd6d8f519b895f0c4daeb982;]|RELEASE:[none|none]
