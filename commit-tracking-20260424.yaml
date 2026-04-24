@@ -1983,3 +1983,4 @@ adafruit/CircuitMatter: BRANCHES:[circuitpython:119ab5f5d665dbbf3d40aa630abe88b8
 adafruit/Adafruit-USB-Type-C-PD-Switchable-PCB: BRANCHES:[main:d10701c22751842250420a06cf4d39d50d58c750;]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-CH32V203-PCB: BRANCHES:[main:c5c1580d9823d2f8923778530339179531d024f6;]|RELEASE:[none|none]
 adafruit/Adafruit-CH334F-Breakout-PCB: BRANCHES:[main:a29ea7705f029962ebec1947eac3fb4d641f63bb;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_RFM: BRANCHES:[main:f83e74d2604a17c06e91301552ad84abab51bec5;dhalbert-patch-1:fbd6d1dfe2f015fabfe58a530ecf9516cf0f0b5c;]|RELEASE:[1.0.13|none]
