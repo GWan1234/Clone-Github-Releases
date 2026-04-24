@@ -528,3 +528,4 @@ adafruit/Adafruit_EPD: BRANCHES:[master:6ff10d83e154a8707917c1fa061c98391d68f6ad
 adafruit/kicad-libs: BRANCHES:[master:2a0d44d92385a047b53a0dec0db82931e77aa94b;]|RELEASE:[none|none]
 adafruit/Feather-RISC-V-PCB: BRANCHES:[master:d1b705eca6b0b992383a75706f3e1aeb1fdcd9a9;]|RELEASE:[none|none]
 adafruit/Feather-ICE40-PCB: BRANCHES:[master:d2a4cf7ad1d9c1139535624bacd64d180dd3e111;]|RELEASE:[none|none]
+adafruit/Bluefruit-Swift-Playground-Book: BRANCHES:[master:c7fdfa98580203546c4491927d0d73c04fa678f4;collin:47bcc1feab81e1aeb396cc826cecbf953a6c719e;]|RELEASE:[none|none]
