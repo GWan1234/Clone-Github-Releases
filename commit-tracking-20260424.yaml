@@ -531,3 +531,4 @@ adafruit/Feather-ICE40-PCB: BRANCHES:[master:d2a4cf7ad1d9c1139535624bacd64d180dd
 adafruit/Bluefruit-Swift-Playground-Book: BRANCHES:[master:c7fdfa98580203546c4491927d0d73c04fa678f4;collin:47bcc1feab81e1aeb396cc826cecbf953a6c719e;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_DHT: BRANCHES:[main:09726be2006c07a91351514b199087d46c5ee8b5;fix_rtd_theme:7e91a4bb226367d050c7a4751a5982645c770a27;dev/fix-pylint-jquery:e32bad46a3bfafe9ecc1ba4f59f21c049a098758;REUSE:8d393f32b8530b05514b6c1fa8705aeccd352d8f;pulseio-fix:a515f920f5c187c04f9e2fb4deb299c53dcb5218;libgpio_pulsein:8c7a6c9ed14ab76540d1e8c69e822132eb33344b;]|RELEASE:[4.0.12|none]
 adafruit/Adafruit-PiGRRL-PCB: BRANCHES:[master:2d2e6ea5e7ed23f049389dab598643fbaf242440;]|RELEASE:[none|none]
+adafruit/Adafruit_Learning_System_Guides: BRANCHES:[folder-images:bf11cd73581fec48459856cfa7dc7aec41435ff2;main:cfc2a26007c9f6b9046e95cd24b7e22d15c06859;]|RELEASE:[20260424|none]
