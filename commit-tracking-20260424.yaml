@@ -27,3 +27,4 @@ cockpit-project/console.dot: BRANCHES:[playbook-demo:b3189db6b2523fbb84810e1affc
 cockpit-project/cockpit-files: BRANCHES:[main:97f1668be9864bc1ced2694bd46c68660c422c1b;dependabot/npm_and_yarn/types-574b0d5a74:37cc33674a197306408e2d9d5eff5f30b8968098;]|RELEASE:[40|f3dc9a476a4470de324ce52d9630c04ec016b0da]
 cockpit-project/cockpit-files-weblate: BRANCHES:[main:cba22f6a1294927d357053b02d2392c76958083f;]|RELEASE:[none|none]
 cockpit-project/.github: BRANCHES:[main:1f0f37943e41c60e144a466f4e936aadcc397eda;]|RELEASE:[none|none]
+cockpit-project/cockpit-docs: BRANCHES:[main:da6589a9c572fa2870429eea6faf0365e37ac56d;]|RELEASE:[none|none]
