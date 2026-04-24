@@ -398,3 +398,4 @@ adafruit/assistant-sdk-python: BRANCHES:[master:02e7985a13747a0d9224cd428cfd93f5
 adafruit/Adafruit_CircuitPython_NeoPxl8: BRANCHES:[main:39d89020efec369553bacb278c62c5fd99a53d0e;fix-timings:afad71d951833e3f0c0495c3c50d7e9ebeea3af9;enhancements:674782fe45307492c63277e29a20bc1fc36317b2;bg-write:304801e2cf11ae6accd83a263bfa4d0198cd0453;]|RELEASE:[0.3.8|none]
 adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB: BRANCHES:[main:f4ca8e1c846ced71a104c657bcb727502675b466;]|RELEASE:[none|none]
 adafruit/Adafruit-High-Power-Infrared-LED-Emitter-PCB: BRANCHES:[main:bf82859bcb77e3b545f9ae6dc629a24ca0695343;]|RELEASE:[none|none]
+adafruit/Adafruit-SPI-Flash-Breakout-PCB: BRANCHES:[main:9a46c77e68ab9a797bfdce54b0629004823e868a;]|RELEASE:[none|none]
