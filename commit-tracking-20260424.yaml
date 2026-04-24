@@ -1923,3 +1923,4 @@ adafruit/Adafruit-NeoRGB-Stemma-PCB: BRANCHES:[main:2ddebac3517cb3013345f5e2e3bd
 adafruit/Adafruit-ItsyBitsy-ESP32-PCB: BRANCHES:[main:552bf913248863c3a8e1e96671081113e4072478;]|RELEASE:[none|none]
 adafruit/Adafruit-STEMMA-Analog-SPDT-Switch-PCB: BRANCHES:[main:0d377c1934aaadf3bcc8a9a89adf87b82d96726a;]|RELEASE:[none|none]
 adafruit/tlsf: BRANCHES:[sixtyfour:6ecac2d0bcc36a3b5273b7b471e2913c6816a264;circuitpython:5481d1cafe8c705e8387130fbc241378de7d3dc1;idf:ddfa052fbf46a95d84c7496e10e5781607532de3;]|RELEASE:[none|none]
+adafruit/Adafruit-Proto-Under-Plate-PiCowBell-PCB: BRANCHES:[main:0d81b50b824235020d45e98251f9488744e53de7;]|RELEASE:[none|none]
