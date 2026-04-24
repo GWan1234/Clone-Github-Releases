@@ -492,3 +492,4 @@ adafruit/icestorm: BRANCHES:[master:f704149b7298c7c6b56520d104dc4b20abf455b2;]|R
 adafruit/Adafruit_AS726x: BRANCHES:[master:a935de63411bd93e5d8fdff790c1dcd9c15d40d5;gh-pages:3841d786eb5f53f25d4ba8b6f0c9060fbe829acd;actionci:31f92bfa293647fc3536b7ecba300f5f7e00ebc4;]|RELEASE:[1.2.3|none]
 adafruit/Adafruit_NeoPixel_ZeroDMA: BRANCHES:[master:608c671a82717f2d4816ce8977c1e516167365f2;gh-pages:811f0cfbd994f0be482ad87f72048ad500319a05;actions:24ded5925f76e6aaf88832f07b1ee62661b7d873;dm-trellis2:251f2ee96d25feaaf93364bbe15cd3253c5aa5ad;dm-trellis:5ae682505fba7f5bfbd742ab02261a6c7bca4a1b;]|RELEASE:[1.3.3|none]
 adafruit/Adafruit-AMG8833-Breakout-PCB: BRANCHES:[master:3e5dd5f7bc0ed9e6ca07226eaa56b04bbe408489;]|RELEASE:[none|none]
+adafruit/ftdiflash: BRANCHES:[master:242ae956cbfc0652e862db4a381a26dfa275a5e8;]|RELEASE:[none|none]
