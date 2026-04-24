@@ -1130,3 +1130,4 @@ adafruit/WiFi101-FirmwareUpdater: BRANCHES:[master:57663e575bd0b77fa45d301e8389e
 adafruit/Adafruit_Python_ADS1x15: BRANCHES:[master:804728974fcefaafc8b5994be65d22e9c198a8d1;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_PureIO: BRANCHES:[main:117f1f19f08a2c6edd11ef0281586ba5301dd649;]|RELEASE:[1.1.11|none]
 adafruit/Adafruit-SPW2430-PCB: BRANCHES:[master:929cb33e8e66308cb46321be057e7f0ad7111999;]|RELEASE:[none|none]
+adafruit/TrinketReactCounter: BRANCHES:[master:fc66fa314555135b50974e9edb35978627d98855;]|RELEASE:[none|none]
