@@ -1065,3 +1065,4 @@ adafruit/Adafruit_CircuitPython_USB_Host_MIDI: BRANCHES:[main:303cec18bd22322859
 adafruit/Adafruit_CircuitPython_WM8960: BRANCHES:[main:644d8dcd14a5d6324453a40243be95a4e5d4d04a;]|RELEASE:[1.0.7|none]
 adafruit/Adafruit_FT5336: BRANCHES:[gh-pages:0ae6fccf963d4b2eabbfaafeeec05d342c9814f3;main:7b8949ec03b8f6a03a6cff7c1eb7d46ac145a1f6;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit-Metro-ESP32-S3-PCB: BRANCHES:[main:4ae86649879d3e6c4b93b258ce9f9d0889f40ad2;]|RELEASE:[none|none]
+adafruit/Adafruit-EYESPI-Pi-Beret-PCB: BRANCHES:[main:db6a85a699fe0bd1d8f0cb4918d9db1ea701f3d9;]|RELEASE:[none|none]
