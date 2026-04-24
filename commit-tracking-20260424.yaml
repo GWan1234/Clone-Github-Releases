@@ -1273,3 +1273,4 @@ adafruit/Pi_Eyes: BRANCHES:[master:1163cb71914828ed9726ec769184df452bfaaaf0;]|RE
 adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB: BRANCHES:[master:c78bc655084c2441063c0faf744ffa5eca69b233;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB: BRANCHES:[master:8891795d7776b7203f25237db4f25ad5692758d4;]|RELEASE:[none|none]
 adafruit/Adafruit-BME280-Breakout-PCB: BRANCHES:[master:93e2b97928ba906ba19b265e9f2d0024d29472f0;]|RELEASE:[none|none]
+adafruit/Adafruit-HDC1008-Breakout-PCB: BRANCHES:[master:997a197ad04c62881c347f31e6c0324c6d831bb9;]|RELEASE:[none|none]
