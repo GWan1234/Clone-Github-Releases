@@ -542,3 +542,4 @@ adafruit/Adafruit_BMP5xx: BRANCHES:[main:9d3bcc5fd8417b95d4ef3acd4660ad9e342c9e4
 adafruit/Adafruit-NeoPot-PCB: BRANCHES:[main:f7f8e609945e3cf06294e324812ee3c9bee61d06;]|RELEASE:[none|none]
 adafruit/fruitjam-doom: BRANCHES:[adafruit-fruitjam:f2ded0b71ae6419f47ea7907a03f5b3dc503a0b3;rp2:29a453c980918a03e40fc8b69b024e7a3bdb5dc2;]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90632-FIR-Remote-Thermal-Temperature-Sensor-PCB: BRANCHES:[main:928c728704680ccfc11515f2ec7113c8cb7d4224;]|RELEASE:[none|none]
+adafruit/Adafruit_VEML6046: BRANCHES:[main:25677023f3d87a8379124711218337e86e07ee6b;gh-pages:bf063635db056f4049b131e0fe91fc18a60759d6;]|RELEASE:[1.0.1|none]
