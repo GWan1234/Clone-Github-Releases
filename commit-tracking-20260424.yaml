@@ -219,3 +219,4 @@ adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c9
 adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;]|RELEASE:[none|none]
 adafruit/Adafruit_ILI9340: BRANCHES:[master:00e5efe5d5c95f1255e55031b57f17288cf3c840;]|RELEASE:[1.0.0|none]
 adafruit/PiMiner: BRANCHES:[master:dce07f83d178489c92eb67922ff1124f5f376e29;]|RELEASE:[none|none]
+adafruit/Adafruit_TLC5947: BRANCHES:[master:605cc440ca9d4a6ea02f399b2a616c007e867527;gh-pages:f1339da830e1e3d83f87a4e85dc405ecf72eb53c;]|RELEASE:[1.2.3|none]
