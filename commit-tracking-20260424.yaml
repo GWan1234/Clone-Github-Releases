@@ -779,3 +779,4 @@ adafruit/Servo: BRANCHES:[adafruit_samd51:962192408a0a2608351fc54e567bca28ccb2b7
 adafruit/Adafruit-PyRuler-PCB: BRANCHES:[master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_IL0373: BRANCHES:[main:645f0bf78cd9e09ef07eaca37871ee310fa36445;]|RELEASE:[2.0.5|none]
 adafruit/Adafruit_CircuitPython_SSD1608: BRANCHES:[main:cd7b8336b3751436f742429a7c55aa36f03e04fc;setup-py-disabled:fcb2fa417db3acbf5f5bcd19da6a14956995a34f;]|RELEASE:[1.3.10|none]
+adafruit/Adafruit_CircuitPython_SSD1675: BRANCHES:[main:50d65ec341d79c9d3b15e4520da8c4704d78014b;pylint_update:1d30ef9c7a90de023c225ad05afadb277eeb9fa6;]|RELEASE:[2.0.5|none]
