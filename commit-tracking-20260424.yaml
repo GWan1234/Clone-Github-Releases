@@ -1775,3 +1775,4 @@ adafruit/Adafruit-TMP235-PCB: BRANCHES:[main:05afa047f2324ed06268ded1c27b741c86a
 adafruit/Adafruit-LC709203F-PCB: BRANCHES:[master:65d60917fbe771308a387132dc943800a52f1380;]|RELEASE:[none|none]
 adafruit/Adafruit_GC9A01A: BRANCHES:[main:a03514ae042e990bc8d16f51aad7e87dabd989b1;gh-pages:2bd7c6d983712b70e9affa9d38002c9e936b4ab6;]|RELEASE:[1.1.1|none]
 adafruit/CircuitPython-Apple-Watch-app: BRANCHES:[master:a1e41e6179cbe11f07c37598a35840e7d7197b7c;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Pixel_Framebuf: BRANCHES:[main:ffd3e8a692676d076a2fa3f725e3a8ea63441139;patch:7446063008387fe3de80920cd9f5064b95aa87b3;]|RELEASE:[1.1.20|none]
