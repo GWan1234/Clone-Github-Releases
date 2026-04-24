@@ -959,3 +959,4 @@ adafruit/Adafruit_CircuitPython_ENS160: BRANCHES:[main:3daae9c793c9b4b92dfa4c9c7
 adafruit/Adafruit_CircuitPython_PCF8575: BRANCHES:[main:532cc56ec0f46ad1fe22f11c814f050482c99bd7;]|RELEASE:[1.0.14|none]
 adafruit/Adafruit-MAX17048-PCB: BRANCHES:[main:cc7d6e2477db89dabc9c64f91ac5f30f354466be;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_Beacon: BRANCHES:[main:168c14c76b5313db852b454d6eb468780034c86f;]|RELEASE:[1.0.13|none]
+adafruit/Adafruit_Pinguin: BRANCHES:[main:38fb0288cba03f763e727c85ab6593e5da3acedb;]|RELEASE:[none|none]
