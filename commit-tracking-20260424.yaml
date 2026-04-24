@@ -672,3 +672,4 @@ adafruit/Adafruit_CircuitPython_ILI9341: BRANCHES:[main:58e68cc13e42c069a9277fbe
 adafruit/Adafruit_CircuitPython_ESP32SPI: BRANCHES:[main:b0e2124a175f421bb07ac5cc72b81f6209966a3b;connect_dgram_mode:86ffa6bfc338fa8c81677a8cd1ea3e1ec272df06;tannewt-patch-1:5b06d235b3f36ba4b3c9afbf5e98d5f330decb5c;patch-fix:c86f7cf1f5ca68abff0b6d455c6b0a72e9f47fba;anecdata-patch-1:502975826b07012dbe4e46853c3a97ecc85e8169;]|RELEASE:[11.1.3|none]
 adafruit/WiFiNINA: BRANCHES:[master:1e0c3503dbdaec40bf125cb2835928d82bb9cab8;support-fruitjam-c6:7d7f080f2aaaa5e2912fb2b3523825659cb7535c;rgbled:e80d0edbcf81ecd152cc9440c75825d595904d3a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Touchscreen: BRANCHES:[main:43bd088136f42820f4c1f3177daaade620f3b0d7;patch-fix:1bcc7f2f2b749654f96d8066a8a2683b73fb7598;]|RELEASE:[1.3.8|none]
+adafruit/awesome-feather: BRANCHES:[main:3c4b663a1ca05af01500aef603a0a4955d1de7e6;]|RELEASE:[none|none]
