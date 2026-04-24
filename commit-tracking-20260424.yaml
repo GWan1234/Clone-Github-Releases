@@ -1252,3 +1252,4 @@ adafruit/Adafruit-MCP9808-Breakout-PCB: BRANCHES:[master:5a46deacf915eeeb5fcafd8
 adafruit/micropython-adafruit-tcs34725: BRANCHES:[master:96f9936317130f8a140b4e638ebb77aa4c564891;]|RELEASE:[1.0|none]
 adafruit/micropython-adafruit-tsl2561: BRANCHES:[master:4dc704265ec783d8949130698140c85d8d2d7375;]|RELEASE:[1.0|none]
 adafruit/Adafruit-FPC-SMT-Adapter-PCBs: BRANCHES:[master:912e2d995534371c4cf32d994de5610cb6000167;]|RELEASE:[none|none]
+adafruit/Adafruit_Si7021: BRANCHES:[master:223a4b93942404bdf68ea8c107e86a1dc5d3c379;gh-pages:43eb0d14c7dadd554a2124cccaf5d284ae637057;actionci:2ed011d2b28f9296d15b31f12e753d54d9661ea5;helmut64-ECO_POWER:a6e6631442e024493aa8e6907b18ca6d60ce9e82;]|RELEASE:[1.5.3|none]
