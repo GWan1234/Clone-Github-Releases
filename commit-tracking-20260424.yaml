@@ -241,3 +241,4 @@ adafruit/Glider-for-iOS: BRANCHES:[main:ba7b6052e5e035ce195d530338b71fdc3cbb4c46
 adafruit/pico-fatfs-reader: BRANCHES:[main:4cfa338a0883aaf83b68155aacb1959ab92690d0;]|RELEASE:[0.0.1|none]
 adafruit/Adafruit-Rotary-Trinkey-PCB: BRANCHES:[main:b93b2aeaabbfbfd231eec6c88afc6694d4581410;]|RELEASE:[none|none]
 adafruit/ArduinoCore-mbed: BRANCHES:[master:06d7756fc51651a20df0e1b6095cabf6f4a0c8c4;pennam_portenta_pdm_gain:69faa746c403a13b096ecc368e329044f9b38a2a;fix_i2c_scan:da21f0e4987a979829ab456a715400d5aed6aeee;]|RELEASE:[none|none]
+adafruit/Glider-Wireframe: BRANCHES:[main:12bf9547666aed83aae5f3cda80389eff65d8bd1;]|RELEASE:[none|none]
