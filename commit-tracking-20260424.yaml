@@ -1871,3 +1871,4 @@ adafruit/Adafruit_CircuitPython_OV7670: BRANCHES:[main:e1dd879d85284439f0d4835dc
 adafruit/Adafruit-NeoKey-FeatherWing-PCB: BRANCHES:[main:b80f2ae0778319e608a03a650e2590eef8f501f6;]|RELEASE:[none|none]
 adafruit/Adafruit-ItsyBitsy-RP2040-PCB: BRANCHES:[main:b12f7b3f1ebf71c53b30fb2f254b85aeb1e6d6f4;]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-RP2040-PCB: BRANCHES:[main:5b6ebd1661fd5250b4f60bdba14d5c475259b7f4;]|RELEASE:[none|none]
+adafruit/Adafruit_ImageCapture: BRANCHES:[main:e703e43cc6ad6e3a707da268797ae9c8f2253490;fix-ci:42c1f3a039c318bf0648482dc0046b7889d84a84;pb-ov5640:5c5a41b706dbe4a3b7a879e61da195c3fbaced85;gh-pages:8e0af8f0c4897d0676f1a4b6567e0163b2c05158;]|RELEASE:[none|none]
