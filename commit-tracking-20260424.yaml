@@ -2019,3 +2019,4 @@ adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: BRANCHES:[main:89c8dfd70d3f9e746
 adafruit/Adafruit-Metro-RP2350-PCB: BRANCHES:[main:d8e135da6ee3383372035fb6ac2bb9387eec1233;]|RELEASE:[none|none]
 adafruit/Adafruit-TMC2209-Breakout-PCB: BRANCHES:[main:227f79e2cda77b99653316692f8ec1975f58c6af;]|RELEASE:[none|none]
 adafruit/Adafruit-Sparkle-Motion-PCB: BRANCHES:[main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef31a;]|RELEASE:[none|none]
+adafruit/WLED: BRANCHES:[main:b64cd36468384bf4f293a72602cbb2b860b25146;]|RELEASE:[none|none]
