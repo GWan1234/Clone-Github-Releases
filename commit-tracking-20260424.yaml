@@ -1259,3 +1259,4 @@ adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e
 adafruit/micropython-adafruit-pca9685: BRANCHES:[master:0fea2736f99a2840f0d644be866f6abd5bc14b48;]|RELEASE:[1.1.1|none]
 adafruit/micropython-adafruit-max7219: BRANCHES:[master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062;]|RELEASE:[1.0|none]
 adafruit/Adafruit-LIS3DH-Breakout-PCB: BRANCHES:[master:f5f3e1b33fec19a56b2c14c69bb1b97c1c4f2861;]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-32u4-Adalogger-PCB: BRANCHES:[master:c7e87d6e0feb5d3e048c3715038c0e4ce71cdfa0;]|RELEASE:[none|none]
