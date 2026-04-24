@@ -601,3 +601,4 @@ adafruit/Adafruit_VL53L5CX_NoST: BRANCHES:[main:2057f945a03cc69687f80d864c9246bf
 adafruit/espectre: BRANCHES:[main:995601b30953441531b4e90217bca990013a6036;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit-TMAG5273-3D-Hall-Effect-Magnetometer-Breakout-PCB: BRANCHES:[main:543c3c93357a56703c6f33de5c8e277451bf9f1d;]|RELEASE:[none|none]
 adafruit/Adafruit-ADS122C04-24-Bit-ADC-PCB: BRANCHES:[main:bb60e307305d48648d0d77d3edcdef25bee5c94a;]|RELEASE:[none|none]
+adafruit/Adafruit-VCNL4030-Proximity-and-Lux-Sensor-PCB: BRANCHES:[main:2cb43e92b39950b2a3431f76c197c378cac2ba3e;]|RELEASE:[none|none]
