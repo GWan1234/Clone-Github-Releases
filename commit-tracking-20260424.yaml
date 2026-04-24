@@ -1735,3 +1735,4 @@ adafruit/Adafruit_CircuitPython_CAP1188: BRANCHES:[main:c6a1734cc8266aa0e43957fa
 adafruit/Adafruit_VEML6075: BRANCHES:[master:61e8704ddd2c4afa00398918de329ddcf1f902dd;gh-pages:067c84d9f2d43d4d2f449d8bef04d8a128baa816;]|RELEASE:[2.2.2|none]
 adafruit/Adafruit_MPRLS: BRANCHES:[master:541172d6c550f81e26dab857dade39903b2b5ac4;gh-pages:d02a8c36c6b43a90f966e4f28971cdda3b3e3618;]|RELEASE:[1.2.2|none]
 adafruit/Adafruit_BMP3XX: BRANCHES:[master:82e3aa6407f299180a7b190eba5653ca221805a5;gh-pages:fc76d15c3f41ae0549895b43e16851d86e06b442;busio390:3ee067131e50caeb1abef793d6ec986d34017ec5;actions:1a99d19dc69ef339ebef385d962aa713cf229283;revert-2-patch-2:ddf9e637b9ac46fd10ae00c8b5f49fb3ab9b8a17;]|RELEASE:[2.1.6|none]
+adafruit/Adafruit_CircuitPython_MAX31856: BRANCHES:[main:d06f5b10135bb367ae3ffd7ceb74ba24b9406b59;dhalbert-ustruct:b687ce5f62d8dd8ffc79087ab9c4309853ea7fcc;]|RELEASE:[0.12.7|none]
