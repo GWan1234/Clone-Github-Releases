@@ -254,3 +254,4 @@ adafruit/Adafruit_Breadboard_NeoPixel_PCB: BRANCHES:[master:fcb0f12bb62142336634
 adafruit/Adafruit_10DOF: BRANCHES:[master:53c43d1f6358ac92cde2c8b7987431c98fe8f848;dherrada-patch-1:a9853b82a127c5b02a81274b3f4fdd283dfe67da;]|RELEASE:[1.1.1|none]
 adafruit/NeoPixel_Painter: BRANCHES:[master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f;]|RELEASE:[none|none]
 adafruit/Adafruit_L3GD20_U: BRANCHES:[master:c8c354335b41c453c8989541dd9fd64dabd420ae;gh-pages:2384b63badbb3386a3e3c9703d5ee659aef1034a;actionci:2733f34eda9448f4dffc938947a611f23d299270;]|RELEASE:[2.0.3|none]
+adafruit/Adafruit_Trellis: BRANCHES:[master:ed55d2b8e0e7266798c11dea75f4dbf1a81849e7;]|RELEASE:[none|none]
