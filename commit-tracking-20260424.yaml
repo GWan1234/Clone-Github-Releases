@@ -1843,3 +1843,4 @@ adafruit/Adafruit-SHT40-PCB: BRANCHES:[main:40fe2b3aca1aaa3b2185d3d138e77d5b043a
 adafruit/Adafruit_TCA8418: BRANCHES:[main:df1319acbe1f250b74d155c3535c177a20854030;gh-pages:60f96a0e819da6ddef94a4a4e6c726e7f48dff18;fix-ci:d4d4086974a117dc59b3c15261a99f000b9c0a8d;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit-ISO1540-PCB: BRANCHES:[main:59e7a9b459f6fe00e7247c57086b538a52093745;]|RELEASE:[none|none]
 adafruit/platform-espressif32: BRANCHES:[develop:f5b40712b6fbdfb084ba7bf86a2e0fa000b08b33;master:c71138328384189bfd64a1fb857e620cd72621b9;feature/idf-v4.0:833f645be533d0c25f29d05680031771260492ac;espidf-332:4c26bd9deefad4c3a1c80ce865760152bcab7253;]|RELEASE:[none|none]
+adafruit/Adafruit-AW9523-PCB: BRANCHES:[main:080a15c70db83a9091bdfd03ee7e85ae38b694a5;]|RELEASE:[none|none]
