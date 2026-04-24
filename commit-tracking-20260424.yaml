@@ -967,3 +967,4 @@ adafruit/build-mpy: BRANCHES:[main:9078cbecba992d2f94475eb2ddee7dbd00947083;dev/
 adafruit/esp-iot-solution: BRANCHES:[usb/add_usb_solutions:7da906e5352b53fcff8141a96c9fe3a50f49d7f8;circuitpython:feeeb6b98ed1ff201b32a241e2e9f28f33aac996;master:feeeb6b98ed1ff201b32a241e2e9f28f33aac996;release/v1.1:788f98cb0a864bb8c238ead67229705b777a44b6;release/v1.0:f94fde73bc222863743d221e0588ad5c88a36d53;]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-PCB: BRANCHES:[main:bc5fa13b55c25feb3bf47e483b4d0bc770fbf20b;]|RELEASE:[none|none]
 adafruit/Adafruit-WCH-CH9102F-Friend-PCB: BRANCHES:[main:eb022866b738f738971172c8725546e7b221369f;]|RELEASE:[none|none]
+adafruit/Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB: BRANCHES:[main:6e0b58b27cc36f2f4f2ae72371457032f9a1dc75;]|RELEASE:[none|none]
