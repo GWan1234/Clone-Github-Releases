@@ -1651,3 +1651,4 @@ adafruit/Adafruit_VL53L5: BRANCHES:[main:8576a432e3f106c3eeb03ecbda38e8afc9831f3
 adafruit/Adafruit_CircuitPython_TCS3430: BRANCHES:[main:ba5454d39083a7bd911471ff2bf6c3e3a32c6cf7;split_interrupt_examples:1a7c0ec42c8cc7612e4f9cffc1e99942d9e8bf32;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_VL53L5CX_NoST: BRANCHES:[main:2057f945a03cc69687f80d864c9246bf516bd8ae;]|RELEASE:[none|none]
 adafruit/espectre: BRANCHES:[main:995601b30953441531b4e90217bca990013a6036;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit-TMAG5273-3D-Hall-Effect-Magnetometer-Breakout-PCB: BRANCHES:[main:543c3c93357a56703c6f33de5c8e277451bf9f1d;]|RELEASE:[none|none]
