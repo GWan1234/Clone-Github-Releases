@@ -27,3 +27,4 @@ adafruit/Adafruit_CircuitPython_HT16K33: BRANCHES:[main:a85341cc99574bf1479dd2cf
 adafruit/Adafruit_CircuitPython_PCA9685: BRANCHES:[main:38e67352fba5fa4a97261b6e458395e6a635e46f;docs_req_fixes:43ab81e17eab8d69d3749d65680e2ad8b9dffdbb;fix_rtd_theme:813d1d9da14e092119ad98421edfcc3981195e69;dev/fix-plyint-jquery:c8634aebaecc6decadd572f0a7ae9ae9f1053f37;revert-2-chgaddr60:90531b7abb7f7383d3f6be6732b8ff8a9c152ac9;]|RELEASE:[3.4.22|none]
 adafruit/Adafruit_CircuitPython_SSD1306: BRANCHES:[main:f8fa41a320f0bb29be6f37d340e69eba16b7a311;]|RELEASE:[2.12.24|none]
 adafruit/Adafruit_CircuitPython_MCP9808: BRANCHES:[main:0c3c1897278bc53590446ad8bf511b8b577f7425;]|RELEASE:[3.3.32|none]
+adafruit/Adafruit_CircuitPython_CircuitPlayground: BRANCHES:[main:852e7206e5ed26ec3929a25bc8331b0951fee20e;remove-gamepad-from-mock-imports:56367dee227dea64c689061bb10be4ed75cbbbc5;]|RELEASE:[5.3.12|none]
