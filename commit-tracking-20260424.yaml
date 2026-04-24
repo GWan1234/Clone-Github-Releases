@@ -1119,3 +1119,4 @@ adafruit/Printer-Profiles: BRANCHES:[master:ed08154bdf56525741dbfbfe852a1d9a7476
 adafruit/Pi_Physical_Dashboard: BRANCHES:[master:81a513ac8508e387a081c2c0fc02140d4f37100d;]|RELEASE:[none|none]
 adafruit/Adafruit_Lightship: BRANCHES:[master:06085f349833c9ede0f93b87f5b06c4aa6c77844;]|RELEASE:[none|none]
 adafruit/CircuitPlaygroundFirmata: BRANCHES:[master:26a0f9720476f0965ce93fa4ac96196a6a38417b;]|RELEASE:[none|none]
+adafruit/Adafruit-PowerBoost-1000-PCB: BRANCHES:[master:493d06d70537ce418355b395bb251a661d683150;]|RELEASE:[none|none]
