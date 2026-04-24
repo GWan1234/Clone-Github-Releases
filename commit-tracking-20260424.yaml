@@ -346,3 +346,4 @@ adafruit/I2C_Addresses: BRANCHES:[main:ec0cfd7200579fe644762615eace99e54d7d19c3;
 adafruit/elf-section-graph: BRANCHES:[main:74e5a410e8de83483306a7f937bc3a3510a2d850;]|RELEASE:[none|none]
 adafruit/Adafruit-NAU7802-PCB: BRANCHES:[main:7ac4d376418c66b9cfffc7b09d1e085368788a7c;]|RELEASE:[none|none]
 adafruit/ESP_8_BIT_composite: BRANCHES:[main:20dda71af3e47b351c6d1d4ce55d4ce8bda61fee;]|RELEASE:[none|none]
+adafruit/PyLeap-Android: BRANCHES:[main:d2223c45163be9ab2d0554d9d179ae5a4bbcd18f;gradle8_0_2:75d0932d8c89ce2ab661ee0ddd8211cbc0ad29b5;filter_projects_based_on_board_id:0e346c307f8c39287c0ef909557b2c82a93a54fa;discover_bonded_peripherals:257ea8147692459dbfec94bcb564e5f651d5f3ba;filetransfer:a93cfbe375a760364016660167a27b10dc204ed2;ui_mockup:fe0d134ce615c6f8849b5c5250fc412b1d83ad50;]|RELEASE:[none|none]
