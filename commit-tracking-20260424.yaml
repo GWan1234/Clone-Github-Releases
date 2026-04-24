@@ -65,3 +65,4 @@ adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d417
 adafruit/Adafruit_LiquidCrystal: BRANCHES:[master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b;]|RELEASE:[2.0.4|none]
 adafruit/Adafruit-Motor-Shield-library: BRANCHES:[master:d81504057474e940de7f0a0934f19c626846a154;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_FTDI-Friend-PCB: BRANCHES:[master:5525f3a2a2a0bf62e60e2db7f8cf0dcab3b69713;]|RELEASE:[none|none]
+adafruit/Adafruit_SSD1306: BRANCHES:[master:74cc197f485cd17f68016bc323e10085e8d261f9;gh-pages:18800cb7c62ab0627dee6f6c758d24ec8761795b;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;zero:5674153e88a71d8b7cf035787caa7eb06d7484df;]|RELEASE:[2.5.16|none]
