@@ -1311,3 +1311,4 @@ adafruit/micropython-adafruit-bitmap-font: BRANCHES:[master:bf04e0b2abba6570d7d2
 adafruit/Adafruit_CircuitPython_NeoPixel: BRANCHES:[main:aa82c0724ccb68fbd94605c9f4f09b19c5d2919d;bgr:57c3ea789763d89f05e83f63d1fb08e96af9f7e5;docs_req_fixes:d849c6bb0ec425745e1d45736ec1102a1494dc95;fix_rtd_theme:6f3d157ba653f038f642208263842eb676cb6d34;update:3de90405d2d33486a9a336f431c2da4d0b59d75a;patch:31f05fb24d5a904a33819bc3713a5fa36e5a894f;]|RELEASE:[6.4.2|none]
 adafruit/Adafruit_MAX31865: BRANCHES:[master:02dd3393d9750ca6e227be84b0e3b795a6941c36;gh-pages:e8de9ca0bdc49ffe398bfd078eec3496c0b9cf20;actions:416c4a1c33b03a918034392613515cc782c48618;]|RELEASE:[1.6.2|none]
 adafruit/Adafruit-MAX31865-PCB: BRANCHES:[master:456676008584923c0892454c5a9b0b33346f05f2;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_DS1307: BRANCHES:[main:d9ccc8cbc90af7f5daf380fca9492d3a337430d6;use_ruff:63cc2f86834159f12b45f9fe7f0451f5060e69bf;]|RELEASE:[2.1.27|none]
