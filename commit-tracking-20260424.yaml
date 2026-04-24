@@ -1604,3 +1604,4 @@ adafruit/Adafruit-BMP5xx-Temperature-and-Pressure-Sensor-PCB: BRANCHES:[main:0d4
 adafruit/Adafruit-CSI-or-DSI-Cable-Adapter-Thingy-PCB: BRANCHES:[main:6a56b0344bab56906893c6de4cb1e9ee8a8d00c7;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MLX90632: BRANCHES:[main:283f4403aaa5675ae3a826e11147576309121ee3;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit-E-Ink-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[main:1989721717d068c1726f18f8ec16ca58ac011fee;]|RELEASE:[none|none]
+adafruit/Adafruit-SPA06-003-Temperature-and-Pressure-Sensor-PCB: BRANCHES:[main:c4adbd023d64f5dbd1cea79366b0a2216d34facf;]|RELEASE:[none|none]
