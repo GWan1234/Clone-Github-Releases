@@ -1220,3 +1220,4 @@ adafruit/Adafruit-7-HDMI-Backpack-PCB: BRANCHES:[master:8285985bc9f0eac63062c7d2
 adafruit/Adafruit-Ethernet-FeatherWing-PCB: BRANCHES:[master:1f950d49ed57129f6c33656a3ac37ad7d21d757b;]|RELEASE:[none|none]
 adafruit/Adafruit-LM4040-Voltage-Reference-PCB: BRANCHES:[master:b6f5163e6dd82882ff37e80a05cc75b7f2a70ff7;]|RELEASE:[none|none]
 adafruit/CatLaser2: BRANCHES:[master:0c17e68a444e7ccd2befccd8102861135d9da243;]|RELEASE:[none|none]
+adafruit/ArduinoTap: BRANCHES:[master:ea20afb99dad4c814f0f7a8242f4de94dc7d136d;]|RELEASE:[none|none]
