@@ -1849,3 +1849,4 @@ adafruit/Adafruit_CircuitPython_SSD1681: BRANCHES:[main:4f50be807966c6764889cbbe
 adafruit/Adafruit-PiRTC-DS3231-PCB: BRANCHES:[main:fea853b94ebefe77f3655f3e572b4addfe14ead7;]|RELEASE:[none|none]
 adafruit/Adafruit-TPS62827-PCB: BRANCHES:[main:441e9beed498f62705ee2df458a903a010eae4a2;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_ST7565: BRANCHES:[main:299b16e023f59d8ec8239f016df328a6db205189;patch:afa530e745851165c2a20e4fce891a0a796033ba;]|RELEASE:[1.1.16|none]
+adafruit/nvm.toml: BRANCHES:[main:a2a0c03c221a9bc37992147b5d4ad785a6e467fe;tannewt-patch-1:a8e620d00cff86e0164f9f2fac95db3fb94b6bc4;]|RELEASE:[none|none]
