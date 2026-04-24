@@ -283,3 +283,4 @@ adafruit/io-client-ruby: BRANCHES:[master:a2eecbd67a0c6857b462750f5d2d3555338691
 adafruit/Adafruit_HMC5883_Unified: BRANCHES:[master:e18d8707156630b1abb43dd4c1ad6e08e47f9ad7;gh-pages:5988f466767056344cc25f2e10b807b030303313;]|RELEASE:[1.2.4|none]
 adafruit/adafruit-rpi-kernel: BRANCHES:[rpi-3.10.y:ceafb987d68f7ec0cec446cc28b65865cf36a5d6;]|RELEASE:[none|none]
 adafruit/adafruit-rpi-fbtft: BRANCHES:[master:35890c52f9e3eef3237b76acc295585dd93fc8cd;hx8357d-support:623ba1175328127ca1b3630c1deff0d8df55d15c;]|RELEASE:[none|none]
+adafruit/Adafruit-MLX90614-Library: BRANCHES:[master:8c32c95768e0960d7c27258b1d9bac16b8d7fdfc;gh-pages:84e61be419032c6ad8158a0bd61278002f69d82d;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598;]|RELEASE:[2.1.6|none]
