@@ -399,3 +399,4 @@ adafruit/Adafruit_CircuitPython_NeoPxl8: BRANCHES:[main:39d89020efec369553bacb27
 adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB: BRANCHES:[main:f4ca8e1c846ced71a104c657bcb727502675b466;]|RELEASE:[none|none]
 adafruit/Adafruit-High-Power-Infrared-LED-Emitter-PCB: BRANCHES:[main:bf82859bcb77e3b545f9ae6dc629a24ca0695343;]|RELEASE:[none|none]
 adafruit/Adafruit-SPI-Flash-Breakout-PCB: BRANCHES:[main:9a46c77e68ab9a797bfdce54b0629004823e868a;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoPixel-Driver-BFF-PCB: BRANCHES:[main:eb3fc189fbd73227ace0e5a74d15265b98fb59e1;]|RELEASE:[none|none]
