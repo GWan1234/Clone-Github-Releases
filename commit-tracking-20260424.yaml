@@ -216,3 +216,4 @@ adafruit/Sous_Viduino: BRANCHES:[master:b1b71a4316e9789541d4926df6983e5703d32f68
 adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:cf306ed7f9f24111d0949dd60ac232e81241bffe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;]|RELEASE:[1.2.0|none]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;]|RELEASE:[none|none]
 adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;]|RELEASE:[none|none]
+adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;]|RELEASE:[none|none]
