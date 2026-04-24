@@ -1591,3 +1591,4 @@ adafruit/Adafruit-QMC5883P-Triple-Axis-Magnetometer-PCB: BRANCHES:[main:e99e587a
 adafruit/Adafruit_CircuitPython_SSD1683: BRANCHES:[main:9143e825912e685d98a41aae1910bdca5d986bc0;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_QMC5883P: BRANCHES:[main:64a71e58c46a0fd185beea53f49ab022abe8ddc3;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_BMP5xx: BRANCHES:[main:9d3bcc5fd8417b95d4ef3acd4660ad9e342c9e46;gh-pages:d16080341ab0cb8774f837fe762cbd19b0c9a998;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit-NeoPot-PCB: BRANCHES:[main:f7f8e609945e3cf06294e324812ee3c9bee61d06;]|RELEASE:[none|none]
