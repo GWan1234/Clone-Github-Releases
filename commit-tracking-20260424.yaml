@@ -1712,3 +1712,4 @@ adafruit/pxt-common-packages: BRANCHES:[master:643d48841cc5fdb499817df2aac6f4a82
 adafruit/Adafruit-RGB-Matrix-Shield-PCB: BRANCHES:[master:d49153b7b42f584c5b243d7605a7ec9c75c3b934;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M4-Express-PCB: BRANCHES:[master:d98407a6071813bc35c39c6e88ca09c0c9ef6f18;]|RELEASE:[none|none]
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: BRANCHES:[master:bb19790ef2cb5c1c291311f99104a12b05fa0cad;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Pixie: BRANCHES:[main:10c7ce6816efccf23e25436f20b2072fbdba9ec4;]|RELEASE:[1.2.23|none]
