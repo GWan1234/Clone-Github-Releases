@@ -1206,3 +1206,4 @@ adafruit/Adafruit-Audio-FX-Sound-Board-PCBs: BRANCHES:[master:378d5c6b68a12f1ec5
 adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: BRANCHES:[master:00cb07abd32b2a1bcfb4534cd69d71cc91630a36;]|RELEASE:[none|none]
 adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB: BRANCHES:[master:7075f89067dfed503101a3414c45d55e9ab80444;]|RELEASE:[none|none]
 adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: BRANCHES:[master:0c7bd1cb7a409f9d1689bc26a0a18079c9339b33;]|RELEASE:[none|none]
+adafruit/Adafruit-PiTFT-Plus-3.2-PCB: BRANCHES:[master:dcd017ebe4af66390dcd68f1515990550651461a;]|RELEASE:[none|none]
