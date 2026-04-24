@@ -1169,3 +1169,4 @@ adafruit/mqemitter-io: BRANCHES:[master:9d30990d3eaee305bf2c0820f302c03fdfee4a82
 adafruit/Adafruit_VEML6070: BRANCHES:[master:f0638a4d745c7b04635b225ae9d6aeb4eb1309c4;gh-pages:6e205ceb265cfd931a10873cdab0a3176c222bd5;]|RELEASE:[1.0.8|none]
 adafruit/Adafruit_TinyCAP1188: BRANCHES:[master:da7346e9c4b491349d7f9ed82952703a89ee4082;]|RELEASE:[none|none]
 adafruit/Adafruit-VEML6070-PCB: BRANCHES:[master:3dd13922832c37869195787b3112429c482605c8;]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB: BRANCHES:[master:b2e0b3f2930568da3471d6c42cb4919d573d3481;]|RELEASE:[none|none]
