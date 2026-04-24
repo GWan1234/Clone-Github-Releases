@@ -1635,3 +1635,4 @@ adafruit/Adafruit_TMAG5273: BRANCHES:[main:aaed05431a895a598d794cb8cd4ade8cd49b5
 adafruit/Adafruit_CircuitPython_Xteink_X4: BRANCHES:[main:18cd000924169be485d44394557400dfc19290ad;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_CircuitPython_SSD1677: BRANCHES:[main:10cc23daba1b2ce7ebb02c8245228c156984a062;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_RV8803: BRANCHES:[main:cafe3513b9bd1a07b5868bc87da21ab69f0e0b8c;]|RELEASE:[none|none]
+adafruit/Adafruit-APDS9999-Proximity-Light-and-Color-Sensor-PCB: BRANCHES:[main:0f0fc27bab6c79a684ce17a6ab397f63f98f74bd;]|RELEASE:[none|none]
