@@ -1801,3 +1801,4 @@ adafruit/arduino-CAN: BRANCHES:[master:37fa95ea8d37280c22406e99bedf3de98d19fc42;
 adafruit/Adafruit-Metro-ESP32-S2-PCB: BRANCHES:[master:42dac1c66d3001a97ef5565b1fea2e842364df32;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TMP117: BRANCHES:[main:c6cbb89192b35fcd55fdeda79d27083ea4a76137;stemma_i2c:9c1ab7bb38c054d18f1883c1863a52f291ae57e4;patch:4cf8913abdcb3b797dd9571bf3edc3b5c90e5987;precommit:80b4f42bacfab8f67b16d1677a1c246364ad66de;]|RELEASE:[1.2.2|none]
 adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB: BRANCHES:[main:a48daa304b9d13a8d1f4ab29866c116abd44727d;]|RELEASE:[none|none]
+adafruit/Adafruit_MagTag_PCBs: BRANCHES:[main:2746976559095738acfb7063a46d37e4d7c93603;]|RELEASE:[none|none]
