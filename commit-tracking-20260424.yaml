@@ -1398,3 +1398,4 @@ adafruit/Adafruit_CircuitPython_Display_BLE_Status: BRANCHES:[master:4c4b64d4d7e
 adafruit/Adafruit_CircuitPython_NeoPixel_SPI: BRANCHES:[main:57ede1b27fab935b7b508cf72b317047c709ac30;]|RELEASE:[1.0.16|none]
 adafruit/Adafruit-LSM6DSOX-PCB: BRANCHES:[master:c05abef4675b0380fbf3d23171615a2f1ac0b130;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MCP4728: BRANCHES:[main:749da15a163e203f754da12a110649a94ab8801d;blitzcity_fork:d907e3e0baa15cd50cc647d80261dac77aeb68fe;patch-fix:79723493818734a82e954db4e9b161ca073c87fe;]|RELEASE:[1.3.16|none]
+adafruit/Adafruit_MCP4728: BRANCHES:[gh-pages:2f8b181b4cdce6c8830e2f4dccac84455ae61d46;master:c5891d580070099c40cec57b96bac5ed55e3ca25;actionsci:125e257188f0abcef8dce9cd350ddfee27d9a90b;]|RELEASE:[1.0.10|none]
