@@ -252,3 +252,4 @@ adafruit/Adafruit_STMPE610: BRANCHES:[master:3707ff5e8ff9149f352626d217e7255812d
 adafruit/CC3000_MDNS: BRANCHES:[master:acb2a96f2232effd9ad2fb833b332c60e03d9091;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_Breadboard_NeoPixel_PCB: BRANCHES:[master:fcb0f12bb62142336634dfb3a8a8ffc5c15bb90e;]|RELEASE:[none|none]
 adafruit/Adafruit_10DOF: BRANCHES:[master:53c43d1f6358ac92cde2c8b7987431c98fe8f848;dherrada-patch-1:a9853b82a127c5b02a81274b3f4fdd283dfe67da;]|RELEASE:[1.1.1|none]
+adafruit/NeoPixel_Painter: BRANCHES:[master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f;]|RELEASE:[none|none]
