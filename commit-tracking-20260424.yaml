@@ -1848,3 +1848,4 @@ adafruit/pico-sdk: BRANCHES:[adafruit-fruit-jam:453527f13e790941131c4f91a4e929d8
 adafruit/Adafruit_CircuitPython_SSD1681: BRANCHES:[main:4f50be807966c6764889cbbeab484bf5b4ab3757;]|RELEASE:[2.0.5|none]
 adafruit/Adafruit-PiRTC-DS3231-PCB: BRANCHES:[main:fea853b94ebefe77f3655f3e572b4addfe14ead7;]|RELEASE:[none|none]
 adafruit/Adafruit-TPS62827-PCB: BRANCHES:[main:441e9beed498f62705ee2df458a903a010eae4a2;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_ST7565: BRANCHES:[main:299b16e023f59d8ec8239f016df328a6db205189;patch:afa530e745851165c2a20e4fce891a0a796033ba;]|RELEASE:[1.1.16|none]
