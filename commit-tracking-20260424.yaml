@@ -452,3 +452,4 @@ adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C: BRANCHES:[main:4bf9961d2
 adafruit/Adafruit_CircuitPython_MCU_Flasher: BRANCHES:[main:8c49071094aba3e4979ef0c67566f29316e2152c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Debug_Probe: BRANCHES:[main:d6245eed908daa5c94ceb9c2b462377fec95acd6;]|RELEASE:[none|none]
 adafruit/snxrom: BRANCHES:[main:62d05b2ab19cedc3380ceb07624927ffe4405f63;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoKey-CHOC-Breakout-PCB: BRANCHES:[main:bd122a0f123f57fcc9778dbe4175bc802d06cbc5;]|RELEASE:[none|none]
