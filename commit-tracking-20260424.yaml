@@ -1147,3 +1147,4 @@ adafruit/FirePendant: BRANCHES:[master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2;
 adafruit/Adafruit-Flora-Bluefruit-LE-PCB: BRANCHES:[master:31ad4c6afe5267c02daf48849e1f1bfb597df588;]|RELEASE:[none|none]
 adafruit/Adafruit-1.44-TFT-Breakout-PCB: BRANCHES:[master:ceaa444157175651785903b73bb0001e45b7ea88;]|RELEASE:[none|none]
 adafruit/Adafruit-OLED-FeatherWing-PCB: BRANCHES:[master:179eb83875ab86c49a6b2d771e95099a55d8984b;]|RELEASE:[none|none]
+adafruit/Caterina-Bootloader: BRANCHES:[master:411557016cdc498c04840892d769e1f8184613dd;]|RELEASE:[none|none]
