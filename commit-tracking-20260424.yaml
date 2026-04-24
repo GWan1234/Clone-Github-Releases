@@ -1794,3 +1794,4 @@ adafruit/Logic2-SPIFlash: BRANCHES:[main:c6604edce621ac6f8074d2f498cc0105bf11382
 adafruit/Adafruit_MLX90395: BRANCHES:[master:f6e48b0fd637f124b0235f9606e8b992e22cd254;gh-pages:14af1281e4ba8e7ab4b31f98015367bde4e72e82;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_EMC2101: BRANCHES:[main:388dc4bee54d5182a43892ec1e5067a3ed3d1c9a;]|RELEASE:[1.2.14|none]
 adafruit/Adafruit_CircuitPython_MONSTERM4SK: BRANCHES:[main:69890e8b9e9412a6d8b482dc3a3e68cb6cbbeb44;]|RELEASE:[1.0.9|none]
+adafruit/Adafruit_EMC2101: BRANCHES:[master:f370727d16d160debda809577a0b23728eb934ca;gh-pages:5b57830be7abdbd69f6a27fad4969b5bd131289b;edits:632fe350684eeab813cd8d5f0b11e53c5e4c8b57;]|RELEASE:[1.0.7|none]
