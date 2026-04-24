@@ -462,3 +462,4 @@ adafruit/Adafruit-I2S-Amplifier-BFF-PCB: BRANCHES:[main:fe191f0585be438605feca26
 adafruit/Adafruit-EYESPI-BFF-PCB: BRANCHES:[main:90ddd1a730d2963aacaa67d787213e31e9ef8a0f;]|RELEASE:[none|none]
 adafruit/Adafruit-Mini-I2C-Gamepad-PCB: BRANCHES:[main:f214e3c4c4cc4926375d8748b2b136e1991acdf8;]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB: BRANCHES:[main:635fe51901050a78f4ecf4533022d0e440b82875;]|RELEASE:[none|none]
+adafruit/g722_1_mod: BRANCHES:[update-cibuildwheel:f97b9291b2ae4a9f3956ad84b097d6176b61e643;dependabot/github_actions/pypa/cibuildwheel-2.23.3:48a5cbe4f4b52df09082b5c86f27c4a25e9720e0;main:a9d832273c926a05b875eb5a48e2920966d9e95d;concurrency-event-name:1f2ed7b304437a709d16476156b19a55c2c7f987;]|RELEASE:[0.0.10|none]
