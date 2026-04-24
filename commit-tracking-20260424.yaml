@@ -1733,3 +1733,4 @@ adafruit/Adafruit_CircuitPython_miniQR: BRANCHES:[main:e6ca00b37634118f78a1db109
 adafruit/Adafruit-NeoTrellis-4x4-PCB: BRANCHES:[master:d9c12effecfbaab5c55e2c96186188166340862a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_CAP1188: BRANCHES:[main:c6a1734cc8266aa0e43957faabe28933a822d382;patch-fix:01663b092fd4d660ceabca0b7082fba4aaa4f05d;]|RELEASE:[1.3.19|none]
 adafruit/Adafruit_VEML6075: BRANCHES:[master:61e8704ddd2c4afa00398918de329ddcf1f902dd;gh-pages:067c84d9f2d43d4d2f449d8bef04d8a128baa816;]|RELEASE:[2.2.2|none]
+adafruit/Adafruit_MPRLS: BRANCHES:[master:541172d6c550f81e26dab857dade39903b2b5ac4;gh-pages:d02a8c36c6b43a90f966e4f28971cdda3b3e3618;]|RELEASE:[1.2.2|none]
