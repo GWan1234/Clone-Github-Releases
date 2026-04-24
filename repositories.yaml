@@ -1,6 +1,6 @@
 allrepositories:
 #  - anzhiyu-c
-#  - cockpit-project
+  - cockpit-project
 #  - hacs
 #  - esphome
 #  - domoticz
@@ -15,7 +15,7 @@ allrepositories:
 #  - AlistGo
 #  - localsend
 #  - thelastoutpostworkshop
-  - adafruit
+#  - adafruit
 #  - sonocotta
 #  - rednblkx
 #  - HomeSpan
