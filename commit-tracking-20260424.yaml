@@ -513,3 +513,4 @@ adafruit/Adafruit-Wiz5500-Ethernet-Co-Processor-Breakout-Board-PCB: BRANCHES:[ma
 adafruit/Adafruit_AS5600: BRANCHES:[main:d0e1eda5fc0c9e2cfbb84ad55bcb50fc73708d7d;gh-pages:af5e0d4afad0ad67af143add9bbb5a720c3b1e3d;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_STHS34PF80: BRANCHES:[gh-pages:bac29572d1d27087cfe37a0159b850b372ee8ff2;main:1cf47e4bead466bc5bdae87d819853259a3e8c90;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit-STSPIN220-Stepper-Motor-Driver-Breakout-Board-PCB: BRANCHES:[main:900c418203489887894b71debe1849a6df259c0f;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_STSPIN: BRANCHES:[main:09be7751e4bfdeaed2a39d5a5a475ab2209ae322;]|RELEASE:[1.0.3|none]
