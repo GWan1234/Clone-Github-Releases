@@ -260,3 +260,4 @@ adafruit/Adafruit-TCA4307-PCB: BRANCHES:[main:5b71f3b8aa3b892fa96e2a7e8e102f69f4
 adafruit/Adafruit-NeoKey-Snap-Apart-PCB: BRANCHES:[main:dad48248819229b98b2e654eef7ee50762c89508;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Pixelbuf: BRANCHES:[main:e6d5b3573a6a53f4234e6c85b83f160d7361f156;]|RELEASE:[2.0.12|none]
 adafruit/Adafruit_CircuitPython_IS31FL3741: BRANCHES:[main:3fda54c0b60ccd4f55e14dd9b7f18dfdc8ec5408;require-busdevice:9625150ed8fc3efdeefba216bad8b593a89627a7;patch:fea20c5fd35468b0d547a72adb6921b0dca6a081;pb-color-order:6a2d9b532e298172f5851b6c5644afb6d28dea58;]|RELEASE:[1.5.8|none]
+adafruit/Adafruit_CircuitPython_SCD4X: BRANCHES:[main:cb3c7f1186c5ceba466de9d11404808d3db06691;patch:e0aa248fee6ebf3b0599614c6c3439189e160d1a;]|RELEASE:[1.4.11|none]
