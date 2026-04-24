@@ -188,3 +188,4 @@ adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:1cfa246270a750b41
 adafruit/ADS1X15-Breakout-Board-PCBs: BRANCHES:[master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55;]|RELEASE:[none|none]
 adafruit/piccolo: BRANCHES:[master:aeda8407684dbc44b845cf845289d02abb0ffb27;]|RELEASE:[none|none]
 adafruit/USB-NeXT-Keyboard: BRANCHES:[master:332d2707793794d897ae3548a2eedd726c46e329;]|RELEASE:[none|none]
+adafruit/Adafruit_OV7670: BRANCHES:[master:f40dae2304282b88f5816a64883f9aad296ad24a;pb-rp2040:55ba6d25da1741a747c98c352b0574a91acd9ffb;pb-wip2:f45f4c1fab2c9e3dba3922a7a060a62bdc84cb95;gh-pages:d13cddc453b045beb54873169a0416c713fb5859;old:578a20e1d2572fd339a364b20daf86b593c91b3c;]|RELEASE:[1.2.5|none]
