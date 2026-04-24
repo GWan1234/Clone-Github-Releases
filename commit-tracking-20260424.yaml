@@ -293,3 +293,4 @@ adafruit/Wippersnapper_Components: BRANCHES:[add/expanders:79198e402b1a5e5abf152
 adafruit/Adafruit-NeoSlider-PCB: BRANCHES:[main:f0bf0d2795cdc2af0f31f70b032023b25afa5b69;]|RELEASE:[none|none]
 adafruit/cp210x-cfg: BRANCHES:[master:b417a28b3367a65990ad501c6cb98da2c32b7ea4;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_24LC32: BRANCHES:[main:c00b2117005011a77fb4e3e65f385176189f1e89;]|RELEASE:[1.2.6|none]
+adafruit/Adafruit-QT-Py-ESP32-S2-PCB: BRANCHES:[main:7df4eac2c0b9a73ba966766ae6027b0a4d8a6901;]|RELEASE:[none|none]
