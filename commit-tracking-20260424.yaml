@@ -477,3 +477,4 @@ adafruit/Adafruit_AMG88xx: BRANCHES:[master:d857b8e68dd52026c3dd8e792e7424812ec7
 adafruit/Adafruit-PiOLED-128x32-PCB: BRANCHES:[master:41f958463af931f5eb51f1135b290f3378779290;]|RELEASE:[none|none]
 adafruit/Saleae_PDMAnalyzer: BRANCHES:[master:a27e1d9f65ac6fe8b8f0678bc81567cf1930688f;1.1.14-for-win32-debug:a6a4b647494fda011d13360afc3a34b64adc7c04;]|RELEASE:[none|none]
 adafruit/Adafruit_AMG88xx_python: BRANCHES:[master:f3fc4871260a088f78e2fdfd773d4146cd00ebfc;]|RELEASE:[1.4.3|none]
+adafruit/Adafruit_bitfield_python: BRANCHES:[master:3c2bb9a1e024c5aea020104b2a32730d06d28f38;]|RELEASE:[none|none]
