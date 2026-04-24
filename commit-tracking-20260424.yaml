@@ -286,3 +286,4 @@ adafruit/adafruit-rpi-fbtft: BRANCHES:[master:35890c52f9e3eef3237b76acc295585dd9
 adafruit/Adafruit-MLX90614-Library: BRANCHES:[master:8c32c95768e0960d7c27258b1d9bac16b8d7fdfc;gh-pages:84e61be419032c6ad8158a0bd61278002f69d82d;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598;]|RELEASE:[2.1.6|none]
 adafruit/Adafruit-NeoPixel-Shield-PCB: BRANCHES:[master:8d382ceb17fb866f36544c106bb4346278c69c05;]|RELEASE:[none|none]
 adafruit/Adafruit-CC3000-Breakout-PCB: BRANCHES:[master:85e69770538f91498fa18eec89245c2f9de09d5a;]|RELEASE:[none|none]
+adafruit/Adafruit_MiniMLX90614: BRANCHES:[master:613aee3bbf05754574ce7d2112da7de45b352c5d;]|RELEASE:[1.0.0|none]
