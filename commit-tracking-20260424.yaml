@@ -703,3 +703,4 @@ adafruit/Adafruit_CircuitPython_TPA2016: BRANCHES:[main:9071620e91531769de9377cc
 adafruit/Adafruit_Arcada_GifDecoder: BRANCHES:[master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc;]|RELEASE:[1.3.3|none]
 adafruit/Adafruit_CircuitPython_SSD1351: BRANCHES:[main:0f76923aede64608d0d4bd3fc145e17a2f833ef5;setup-py-disabled:a9fcf15ffded3086fda2349a510a3daa11d30367;]|RELEASE:[1.4.9|none]
 adafruit/Adafruit_CircuitPython_Display_Button: BRANCHES:[main:855287b1e14a013aa0ba3554726b07c8b7868db0;use_ruff:5bc4267c64b7b6f8515858fb577a7f19a64b4f16;patch-fix:d767d28e177184c7cfa7b14fd94bd2cb94998b98;]|RELEASE:[1.11.8|none]
+adafruit/Adafruit_CircuitPython_Display_Shapes: BRANCHES:[main:7f0466c1d3ac344bb8ef282d09c5eb8c1a521d72;patch-fix:7cc6b4e4357acb456a216022c8de72cded17172c;REUSE:222cbfc555a9219b87fce2f33227e2d3d11232a4;]|RELEASE:[2.10.6|none]
