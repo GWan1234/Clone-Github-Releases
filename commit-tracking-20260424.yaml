@@ -641,3 +641,4 @@ adafruit/DotStar-2020-8x8-Matrix-PCB: BRANCHES:[master:40f15689e170cea4bffe8427b
 adafruit/Adafruit_CircuitPython_TMP007: BRANCHES:[main:9533cc2c8356f4c1d1f7e0e9b0bcabdb5007da40;]|RELEASE:[2.1.22|none]
 adafruit/Adafruit-pIRKey-PCB: BRANCHES:[master:6f962ffc77d781d85bb019384fd80bceb0dc80a4;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802;]|RELEASE:[none|none]
+adafruit/pxt-crickit: BRANCHES:[master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;microbit:6d78a8f266ac325ae42bad16f21e285492d740f1;servopulse:8dbf72089de398fb4da70809c32a9a35fe17c8d4;dm-edits:c895b7a11609f4edd4d43787fad04e20d50c2f25;]|RELEASE:[none|none]
