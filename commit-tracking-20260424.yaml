@@ -843,3 +843,4 @@ adafruit/Adafruit-MacroPad-RP2040-PCB: BRANCHES:[main:fdd7f2cb3bc2b3c7a9c0765780
 adafruit/Adafruit_CircuitPython_Ticks: BRANCHES:[main:0b27bc3dad368b2cd6f18cb4faba3fcb41d54477;patch:4c5f81d4b1570a33bf7018e6610c64333e522d6f;fix-no-monotonic-ns:3fa7f7e6986e237ec75265fd3e0350eb2ab2f2a9;]|RELEASE:[1.1.7|none]
 adafruit/Adafruit-TCA4307-PCB: BRANCHES:[main:5b71f3b8aa3b892fa96e2a7e8e102f69f4f75ee1;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-Snap-Apart-PCB: BRANCHES:[main:dad48248819229b98b2e654eef7ee50762c89508;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Pixelbuf: BRANCHES:[main:e6d5b3573a6a53f4234e6c85b83f160d7361f156;]|RELEASE:[2.0.12|none]
