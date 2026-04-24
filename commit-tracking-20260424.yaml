@@ -563,3 +563,4 @@ adafruit/Adafruit-STHS34PF80-IR-Presence-Sensor-PCB: BRANCHES:[main:df3aece9ec5e
 adafruit/Adafruit_BME690: BRANCHES:[main:ca21f78dcac07eb83bcb5a828cbdf5a6cb849834;gh-pages:31dfed4e48a36163167db0c993d4e47b7495db41;]|RELEASE:[none|none]
 adafruit/fruitjam-286: BRANCHES:[main:cb4b04147da6610304482f3b4f9b0618cf9641a6;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_CircuitPython_STHS34PF80: BRANCHES:[main:6bd721dc46204fcb30bd70462bb05354ae53de7e;]|RELEASE:[1.0.2|none]
+adafruit/pi_video_looper2: BRANCHES:[main:aa9691c787f1bbbf0c3497a21ddb2cc2d49287e7;missing_mount_dir:a5ea64a00dbee8b1a5237caa06ef92eb5cfcdac3;blinka_gpio:32de210713f656ba37df0978dcd942e3fc67636a;]|RELEASE:[1.0.0|none]
