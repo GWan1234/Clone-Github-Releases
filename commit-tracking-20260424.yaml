@@ -1939,3 +1939,4 @@ adafruit/Adafruit-Infrared-IR-Remote-Receiver-PCB: BRANCHES:[main:ead85073a5f1e0
 adafruit/Adafruit-BNO055-BMP280-BFF-PCB: BRANCHES:[main:6959d4d990cc3c7b6c0eb1595544220e9e2b8a87;]|RELEASE:[none|none]
 adafruit/awesome-qt-py: BRANCHES:[main:888dd45a91b1263098eaf5f8f936466e7c78b2e6;]|RELEASE:[none|none]
 adafruit/Adafruit-TSSP77038-IR-Demodulator-Breakout-PCB: BRANCHES:[main:6df204dc531804658d977a4f69bc873b863bb6ac;]|RELEASE:[none|none]
+adafruit/Adafruit-DVI-Sock-for-Pico-PCB: BRANCHES:[main:f9e5a5557654b1b3d8d63e5405fc23394c13cd19;]|RELEASE:[none|none]
