@@ -1534,3 +1534,4 @@ adafruit/Adafruit-DVI-HSTX: BRANCHES:[main:abff804996384d372b30bb7a16c940d2b5832
 adafruit/Adafruit_CircuitPython_Display_Emoji_Text: BRANCHES:[main:e47198b67072193261c1b355a9f80d062618066a;updating_text:675beb42697dcffb4abdc1718199f72e2a30aafe;]|RELEASE:[1.0.4|none]
 adafruit/MCUME: BRANCHES:[main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit-PCM510x-I2S-DAC-PCB: BRANCHES:[main:2edfe9e71b59e6acc73d0ab2b2f796149146ce74;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_TLV320: BRANCHES:[main:dbf30c296b446846decb95b7d4039f1cab543fe3;]|RELEASE:[1.3.2|none]
