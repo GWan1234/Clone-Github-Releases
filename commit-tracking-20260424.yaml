@@ -193,3 +193,4 @@ adafruit/Adafruit_CircuitPython_PyBadger: BRANCHES:[main:2e535d09ce781f4eef04768
 adafruit/Adafruit_CircuitPython_BitmapSaver: BRANCHES:[main:20d6cce45d6ea0a2c73d0f18b688c0261baef1ad;jepler-patch-1:b4c5f77ceec8dfc2968a0bfbdee7b6ba14a8fe5f;docs_req_fixes:c3df9a326dad1372506794fb204fcc93853f3e69;fix_rtd_theme:bade7f85a941d7b334b6a08bf5cc12aec84f0da5;patch-fix:a8e941f1aef1bf6609c41c631f9bac300115988c;]|RELEASE:[1.3.11|none]
 adafruit/Adafruit_CircuitPython_Nunchuk: BRANCHES:[main:6f0d9cd4f8954200eb861fe1c6919caf18002221;stemma_i2c:23cbb07b3d46e456e82e5d62a5e86ff0f24310ef;]|RELEASE:[1.1.18|none]
 adafruit/Adafruit_CircuitPython_WSGI: BRANCHES:[main:f889f3aeaa52cadfefb25e1b427954dc9d36ab7b;]|RELEASE:[3.0.5|none]
+adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306: BRANCHES:[main:45520b642df77b1718befb24e5e6853b1172792f;]|RELEASE:[3.0.6|none]
