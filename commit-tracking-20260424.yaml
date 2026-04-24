@@ -113,3 +113,4 @@ adafruit/Adafruit_Motor-Shield-v1: BRANCHES:[master:f2505a85855fb00b468a78ba527a
 adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90;]|RELEASE:[none|none]
 adafruit/SpokePOV: BRANCHES:[master:0e97b586be428beb6c0f9c1edffdf9d42cf6d9cd;]|RELEASE:[none|none]
 adafruit/Standalone-Arduino-AVR-ISP-programmer: BRANCHES:[master:46ff5e404afaeef1763f65b4128de66ac2281865;]|RELEASE:[none|none]
+adafruit/OSHW-Embroidered-Badge: BRANCHES:[master:c56eb77a749bccf14f1ff3d91104e3b7c6ee2ecd;]|RELEASE:[none|none]
