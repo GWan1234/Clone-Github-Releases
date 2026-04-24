@@ -166,3 +166,4 @@ adafruit/Adafruit_MPL115A2: BRANCHES:[master:0cbecc86371846d60aa79cb45485182ef43
 adafruit/Adafruit_ADS1X15: BRANCHES:[master:3d16518ab00f9f2f05473fc46930a312e72af685;gh-pages:7fb1fddbfa128d5fd268890549e17e3015fbc8b9;revert-89-misc_volts:2d315b5dca57e2b11da0a1c0f4451115f2cb85fe;]|RELEASE:[2.6.2|none]
 adafruit/Adafruit_ADXL345: BRANCHES:[master:8e799d73d8eca7e6c00e74f7cecd325f6d88e113;gh-pages:5625dbf761417226c470f84b8f1422267446c57c;]|RELEASE:[1.3.4|none]
 adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859;]|RELEASE:[none|none]
+adafruit/Adafruit-Prototyping-Pi-Plate-PCB: BRANCHES:[master:e54e072a655814936e89cb3c01314b95d48c88b4;]|RELEASE:[none|none]
