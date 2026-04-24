@@ -458,3 +458,4 @@ adafruit/Adafruit_BMP280_Library: BRANCHES:[master:4af9a4e49a7e2134def094aa0b7dc
 adafruit/node_npr: BRANCHES:[master:78b44403d40b1149a5a281f43da267dda5ff958f;]|RELEASE:[none|none]
 adafruit/ARM-toolchain-vagrant: BRANCHES:[master:f1bf4624eb09d40daa59a01ccbf70cbdd06e617e;]|RELEASE:[none|none]
 adafruit/dash-examples: BRANCHES:[master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00c;]|RELEASE:[none|none]
+adafruit/Adafruit_BluefruitLE_OSX: BRANCHES:[master:f71eb6e981885d70830cb6087ac46386662249be;]|RELEASE:[none|none]
