@@ -560,3 +560,4 @@ adafruit/Adafruit_CircuitPython_VC0706: BRANCHES:[main:52c5d073e1d9156214aa2fa6d
 adafruit/Adafruit_CircuitPython_ADS1x15: BRANCHES:[main:b5057ce3bee6552eb36827dc1217cbbe88152a00;]|RELEASE:[3.0.4|none]
 adafruit/Adafruit_CircuitPython_GPS: BRANCHES:[main:c326d99d18513e3d45875f8ff6e11fd1b6765c70;docs_req_fixes:e7b04f733fb88b8d135eae599a7301e52acc59f2;fix_rtd_theme:337fafd28390df772bce52df5148be1120a625d4;patch:b1e5ec0e7584808e6fcaf63493a366490ed92005;]|RELEASE:[3.11.8|none]
 adafruit/Adafruit-BME680-PCB: BRANCHES:[master:2d1e857d88c157422347d2568fdfcd76155c1997;]|RELEASE:[none|none]
+adafruit/Adafruit_SGP30: BRANCHES:[master:b4a631b1d75996a4dc2b1dda07e02a8529365d33;gh-pages:aa4f6b6c8c78125a86b0240afa0c8ba192c32eb0;busio:4ead0f0d09dbd7d169f4a8a594dc5e4cbc3eff31;actionci:2fddc64b7d8e8c833d160bd23592f636f0d44b04;]|RELEASE:[2.0.3|none]
