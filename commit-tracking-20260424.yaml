@@ -1198,3 +1198,4 @@ adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB: BRANCHES:[master:cb5f0e3d89c9b20d
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: BRANCHES:[master:37c7ffb587c00e67d739baa078eb755f0976d15f;]|RELEASE:[none|none]
 adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: BRANCHES:[master:1d60495b54bd6ff8fa4d5acca7a6e1c1a317cfe1;]|RELEASE:[none|none]
 adafruit/Adafruit-Push-Button-Power-Switch-PCB: BRANCHES:[master:6013b8b9aa67f74778996c69ec765875c787ff53;]|RELEASE:[none|none]
+adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: BRANCHES:[master:6293e5aa3d88caab44292709fef00a5e12c1bef6;]|RELEASE:[none|none]
