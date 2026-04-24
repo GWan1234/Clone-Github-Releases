@@ -74,3 +74,4 @@ adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3;]|RELEASE:[none|none]
 adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:1203bb861fc49a53dd95dcb425c5a1d59985b9b0;]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:eeeefb1d5689572439e4811c6ff969dd7036709f;]|RELEASE:[none|none]
+adafruit/Adafruit_Atmega32u4_Breakout_Board: BRANCHES:[master:95a296a2957c41f86e3013eb707e21c7b2db7678;]|RELEASE:[none|none]
