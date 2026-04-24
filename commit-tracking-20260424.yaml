@@ -344,3 +344,4 @@ adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: BRANCHES:[main:f45b12704ccbb7180d89db28e
 adafruit/Adafruit-QT-Py-ESP32-S3-PCB: BRANCHES:[main:333b35f9c77338d69816e542e7c6aa4db271d432;]|RELEASE:[none|none]
 adafruit/I2C_Addresses: BRANCHES:[main:ec0cfd7200579fe644762615eace99e54d7d19c3;]|RELEASE:[none|none]
 adafruit/elf-section-graph: BRANCHES:[main:74e5a410e8de83483306a7f937bc3a3510a2d850;]|RELEASE:[none|none]
+adafruit/Adafruit-NAU7802-PCB: BRANCHES:[main:7ac4d376418c66b9cfffc7b09d1e085368788a7c;]|RELEASE:[none|none]
