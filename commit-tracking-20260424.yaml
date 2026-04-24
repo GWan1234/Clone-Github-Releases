@@ -1411,3 +1411,4 @@ adafruit/Adafruit_SensorLab: BRANCHES:[master:82d6a554a07dc80978631a9fdbaf0bbf72
 adafruit/Adafruit_CircuitPython_BLE_Apple_Media: BRANCHES:[main:248e5ea32bfeb0aeb458358131e5d1fb4a882c8b;]|RELEASE:[0.9.23|none]
 adafruit/Adafruit_CircuitPython_ProgressBar: BRANCHES:[main:e720f6ff61aa41485a5611d8df3f7fa25fe8fb79;patch-fix:d6a4bf210ce65744ffacf304c5b92c174fb5fc3b;readthedocs-yml:bff50e4df7ab4c9c14b7673e15d73c81768ddd12;]|RELEASE:[2.3.22|none]
 adafruit/MIMXRT10xx_SDK: BRANCHES:[master:97b29486e66ba736c96892831eace128461a3c74;]|RELEASE:[none|none]
+adafruit/Adafruit_DPS310: BRANCHES:[master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7;]|RELEASE:[1.1.6|none]
