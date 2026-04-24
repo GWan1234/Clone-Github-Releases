@@ -591,3 +591,4 @@ adafruit/Adafruit_CircuitPython_APDS9999: BRANCHES:[main:17387d4f9799900a9aa0e76
 adafruit/Adafruit_CircuitPython_AS7331: BRANCHES:[main:e5dc0dcf90eeae5f7ab704ae764d9c01473dfedf;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_ADS7128: BRANCHES:[gh-pages:cd35aa9e830db27a17829ce7fa05d3cfda154ea8;main:4bb48018679bd2f5402fb7c1ad49f20e8eb324ea;]|RELEASE:[none|none]
 adafruit/Adafruit-TMP119-Temperature-Sensor-PCB: BRANCHES:[main:fe8ae26b0f8362aa93a8074374984c1da7bf01aa;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_AS7343: BRANCHES:[main:8f9edf05c40c7e4cb99de6013e6f6589cb5e1c0f;examples:172ea7bc26829d5752331f7ba5dc2bebd5870d6a;]|RELEASE:[1.0.3|none]
