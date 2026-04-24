@@ -720,3 +720,4 @@ adafruit/ArduboyPlaytune: BRANCHES:[master:52ca6170af45432c07269861c91349e70b4cd
 adafruit/Adafruit_CircuitPython_LPS35HW: BRANCHES:[main:8854ab850135a98466e16d37048e8bcf82468f28;patch:9bd029f219e86fb56badbe02edd51072ca1f28c1;lps25:cf5642956f05ff582c17fc03eb2116c920dbe1d0;filter_add:66db34741baf6c4bbae9efab1c169ae41a2dbdfe;]|RELEASE:[1.2.26|none]
 adafruit/Adafruit-AirLift-Breakout-PCB: BRANCHES:[master:821189f7f9160b896a46bf6e239c8a0262ba1a46;]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c825a3747d51849c088c390d;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Hue: BRANCHES:[main:141e5993860c9ab6f6d6791d46564ae4c06da247;]|RELEASE:[2.0.6|none]
