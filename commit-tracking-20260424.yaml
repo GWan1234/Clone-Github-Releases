@@ -1609,3 +1609,4 @@ adafruit/Adafruit-PCM5122-I2S-DAC-PCB: BRANCHES:[main:5ce8729798cefc4174524ae678
 adafruit/Adafruit_CircuitPython_PCM51xx: BRANCHES:[main:19fed5340a954424462299402225280442dd2278;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_SPA06_003: BRANCHES:[main:cdd67f83107aa419b4f12fd0a6942e5411b7792b;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_SGP41: BRANCHES:[main:b6d66008b34f547f6b8067401aed743e39e8f8f1;piclaw-examples-and-hwtests:8f987093433ad9c996467a38a5bd68fcc55ea0cd;gh-pages:3650111fa553c63c785c919892e5327cb3fa6a6a;]|RELEASE:[1.0.1|none]
+adafruit/reload-emulator: BRANCHES:[main:96f776934bb2b08f0eadce0648d9f639b77cfb0d;]|RELEASE:[1.0.0|none]
