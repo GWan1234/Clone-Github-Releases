@@ -131,3 +131,4 @@ adafruit/Adafruit-Tweet-Receipt: BRANCHES:[master:531f248c298479a2c5b570877ca5e2
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1;]|RELEASE:[2.3.2|none]
 adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7;gh-pages:bc4e069d763a365765d209be4b1c9d147f17f9ef;actionci:ba3d0f9fb3de8d72c5dc163b7191164b877e3827;]|RELEASE:[1.2.2|none]
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9;]|RELEASE:[none|none]
+adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de;]|RELEASE:[none|none]
