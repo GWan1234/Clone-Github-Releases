@@ -411,3 +411,4 @@ adafruit/Adafruit-DRV2605-PCB: BRANCHES:[master:78a53522699b0f0661ed8fec2f3d5eb2
 adafruit/adafruit-arduino-proxy: BRANCHES:[master:266ea574635b0fcc0416c68ab918f2c275ad665e;]|RELEASE:[none|none]
 adafruit/toolchain-avr: BRANCHES:[attiny85_delay_increase:f0bd3e2eaef5cacab05c68de35b0e1d40fae6429;master:8b6e66b2113af050be324cefdb28cfefb05580c8;]|RELEASE:[none|none]
 adafruit/Arduino_Library_Github_Tools: BRANCHES:[master:be07c342fc63268f145ef94904ccedee9f999786;travis:be07c342fc63268f145ef94904ccedee9f999786;]|RELEASE:[none|none]
+adafruit/Adafruit_Arduino_Boards: BRANCHES:[master:3751f438bb2cff9b5970d1056c4a2e91876a93f0;add-wire-end:7157b88f4a683aa069d877b217f96c1063df01aa;refactor:f4e274f512f9def3b537ec98a76313e8229bf769;]|RELEASE:[1.4.15|none]
