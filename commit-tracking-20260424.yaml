@@ -1417,3 +1417,4 @@ adafruit/Adafruit_CircuitPython_LIS3MDL: BRANCHES:[main:af872e9944a1368bfaf5de97
 adafruit/Adafruit-Feather-STM32F405-Express-PCB: BRANCHES:[master:f10cfb45e79fb9163b55f375cafa664dbac05268;]|RELEASE:[none|none]
 adafruit/Adafruit-LIS3MDL-PCB: BRANCHES:[master:cdf0482ef9cf26c8840c9147bff7b56a6197d997;]|RELEASE:[none|none]
 adafruit/Adafruit-LSM6DS33-PCB: BRANCHES:[master:c5b2d72517fd7a82d49b426c440742131aa8cbae;]|RELEASE:[none|none]
+adafruit/Adafruit-MLX90640-PCB: BRANCHES:[master:398d7ceac6f1c1e234bf920386eaf9239ef79adf;]|RELEASE:[none|none]
