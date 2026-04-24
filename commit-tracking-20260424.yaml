@@ -349,3 +349,4 @@ adafruit/Trinket_Arduino_Linux: BRANCHES:[master:827471769d16bbf7816a6bf8b1fe6d7
 adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_TMP: BRANCHES:[master:258b29f7b730e4534808c27473a76de84e765e58;]|RELEASE:[1.6.3|none]
 adafruit/Adafruit_Python_MCP9808: BRANCHES:[master:5524605a15cfce5668f259de72c88d5be74565f4;]|RELEASE:[1.5.6|none]
+adafruit/Adafruit_Python_MAX31855: BRANCHES:[master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9;]|RELEASE:[none|none]
