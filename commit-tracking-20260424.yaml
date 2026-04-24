@@ -913,3 +913,4 @@ adafruit/Glider-for-Android: BRANCHES:[main:6aa112dae8e6efee9dd0247f3b55bba2aa83
 adafruit/Adafruit-VL53L4CD-PCB: BRANCHES:[main:de475b8aede92ff30e66671ded9ec015fc0df6ba;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TSC2007: BRANCHES:[main:04d89339c995dfb449c0c95ae6270b0ee5187cd1;stemma_i2c:eaa79a0d9333733f7a1ddedf84649041ef89c169;dev/proposed-cookiecutter-patch:0dfdaf717bd90cd7f2014b40bd93b42724c46f64;]|RELEASE:[1.1.9|none]
 adafruit/Adafruit_TSC2007: BRANCHES:[master:99a91e05758fd7aa440773562f9506e94655c788;gh-pages:e5522d700eb3bc9f5cada8ff529a74d03753cfc3;responsive_fixes:077f918bc947b0a92d017d543217b646e91ad48a;]|RELEASE:[1.1.2|none]
+adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB: BRANCHES:[main:73022f63a4b82117093ff5c250c119b6720005df;]|RELEASE:[none|none]
