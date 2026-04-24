@@ -1413,3 +1413,4 @@ adafruit/Adafruit_CircuitPython_ProgressBar: BRANCHES:[main:e720f6ff61aa41485a56
 adafruit/MIMXRT10xx_SDK: BRANCHES:[master:97b29486e66ba736c96892831eace128461a3c74;]|RELEASE:[none|none]
 adafruit/Adafruit_DPS310: BRANCHES:[master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7;]|RELEASE:[1.1.6|none]
 adafruit/awesome-stemma: BRANCHES:[master:4faee5dea99c06c97c47408a4c860b3d020a6880;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_LIS3MDL: BRANCHES:[main:af872e9944a1368bfaf5de97f1ae271642bc538a;patch-fix:d49f645ab8d723c465f0f5ab28ecbdc97d66096b;update-docs-link:482aa0cb10605d7ed96934f8e41bde51fd6d55d3;]|RELEASE:[1.2.8|none]
