@@ -1658,3 +1658,4 @@ adafruit/Adafruit_CircuitPython_TMAG5273: BRANCHES:[main:1e7e42b7cb1c2777b37220c
 adafruit/Adafruit_CircuitPython_ADS122C04: BRANCHES:[main:5a89ab160ef6426d4402509d4a5b3a17762ee441;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_CircuitPython_VCNL4030: BRANCHES:[main:6b5ccff52097d4d98bd2989dc3ac70dacfa38d7c;hw_tests_improvements:a925f2af3fc88ee0888d3a317fb44a36119f1bf1;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_CircuitPython_uBlox: BRANCHES:[main:07738346c557954964ce709353f85a25e5f60c13;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit_VL53L7: BRANCHES:[gh-pages:247dc61a01219b3fad8ffe49baf5efabc60b89d1;main:1b0816a7eb1a8d7706d08ba075819027e51354e1;]|RELEASE:[1.0.0|none]
