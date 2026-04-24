@@ -749,3 +749,4 @@ adafruit/Adafruit_CircuitPython_DS3502: BRANCHES:[main:a727ac7ac0b569360d4876bd7
 adafruit/Adafruit_DS3502: BRANCHES:[master:61d4e904f8c38069325a0dae65c0c0b0493f480e;gh-pages:65dc2cd0881b6beab82111fd67fa63acb5e84eab;actionci:356dee281aaa26ae1635845aa71e6d2f73560a8a;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_Debug_Bus_Device: BRANCHES:[main:376bf3e30298c1fa4de1c0f6c1e9a236b409ce04;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_turtle: BRANCHES:[main:c4704e90e5464c83dff99e71b9876ca75b5939a2;issue41:614e9e2b4fd2012679b8a35f49126495c12c3fb9;tannewt-fix-koch:480352b7b9464ffb0dfda99907bc64c588a5f732;patch-fix:27e8367bcae790144fa624a7c2108cf3b2ec256c;]|RELEASE:[3.1.11|none]
+adafruit/Adafruit_CircuitPython_Debug_I2C: BRANCHES:[main:912d53ab03450a7a65d6ec9c794e0e351c2d2fcb;fix_nonerror:6914eaacf3ef1b294f6a7321cce5eced096558d9;setup-py-disabled:9e84ce9d4cf9254ffcb5430011f360c673e0a8ab;]|RELEASE:[1.2.26|none]
