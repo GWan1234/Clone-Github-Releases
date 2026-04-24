@@ -398,3 +398,4 @@ adafruit/fbtft: BRANCHES:[master:bcb4de90206842831bd40b20c93aa3e5c9553ea1;]|RELE
 adafruit/Adafruit-Music-Maker-MP3-Shield-PCB: BRANCHES:[master:2a8905dc18227600a303027847bdda5d07dcfe0e;]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Shield-PCB: BRANCHES:[master:d27fa77264402a773efc66d303ae7d9dc6df6621;]|RELEASE:[none|none]
 adafruit/FifteenStep: BRANCHES:[actionci:1fcbb1712b8078ba98e3b5786714528eeded3d40;gh-pages:41c7369e06e3f70f69097aec3563780f39b75937;master:32143eca13ba33ae2d3f5c764e881c2be9b2c1e2;untz:5e4a4b67cb25c9208429e22647b9594f9640df51;]|RELEASE:[1.2.4|none]
+adafruit/Adafruit-NextBus: BRANCHES:[master:e87decc082bb10867b50d8c500fa9ec62be401eb;]|RELEASE:[none|none]
