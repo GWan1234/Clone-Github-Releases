@@ -79,3 +79,4 @@ adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44;]|REL
 adafruit/HL1606-LED-Strip: BRANCHES:[master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;]|RELEASE:[1.1.2|none]
 adafruit/HL1606-LED-Strip-PWM: BRANCHES:[master:bc43d9cf18b152ccc197515ceab0498f7600ae92;]|RELEASE:[1.0.0|none]
 adafruit/LPD6803-RGB-Pixels: BRANCHES:[master:e5d3a2a55a8ee7e417e1e03dd5593530f0265eab;gh-pages:080ce20cc5b7ff32b1964190ec17423152656ec0;]|RELEASE:[1.1.2|none]
+adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63;]|RELEASE:[none|none]
