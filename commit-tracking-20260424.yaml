@@ -1389,3 +1389,4 @@ adafruit/Adafruit_LSM6DS: BRANCHES:[master:379a5204c0bad71264c3d635de84d0f9679ab
 adafruit/Adafruit_NT35510: BRANCHES:[master:3a9c7bc03b66c282a65fbedb695da72bea5579be;]|RELEASE:[none|none]
 adafruit/Adafruit-PA1010D-Mini-GPS-PCB: BRANCHES:[master:6f1d0f216b848bea8d473a4b1384fd0340536ea0;]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB: BRANCHES:[master:c7018c043310292976dcb720322e12d6d8e324fc;]|RELEASE:[none|none]
+adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB: BRANCHES:[master:765d4e303830c064a426bf57dccdb68e05473a36;]|RELEASE:[none|none]
