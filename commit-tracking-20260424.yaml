@@ -1978,3 +1978,4 @@ adafruit/Adafruit_CircuitPython_HDC302x: BRANCHES:[main:57fa5a85f572b6feafe87ef9
 adafruit/Adafruit-RS232-Pal-PCB: BRANCHES:[main:653d1bb7c6cf2d9efe381b85ff275bf0feefdb17;]|RELEASE:[none|none]
 adafruit/Adafruit-Infrared-IR-Remote-Transceiver: BRANCHES:[main:d449f19025cf3325f29dc6c28da059d09875721d;]|RELEASE:[none|none]
 adafruit/Adafruit-HDC3021-Precision-Temperature-Humidity-Sensor-PCB: BRANCHES:[main:c19db414e4e80d9613fda8acdfface82af903001;]|RELEASE:[none|none]
+adafruit/Adafruit-USB-Type-C-Vertical-Breakout-PCB: BRANCHES:[main:412fb33dba25c7b84994b1aa90161a8e67a379b2;]|RELEASE:[none|none]
