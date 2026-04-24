@@ -1705,3 +1705,4 @@ adafruit/Adafruit_CircuitPython_Crickit: BRANCHES:[main:aa213ba6f897cdeb45ce4e96
 adafruit/Adafruit_Crickit_PCBs: BRANCHES:[master:4615138e959c50a519bfaaa30a3203e038487cdd;]|RELEASE:[none|none]
 adafruit/Circuit-Playground-Character-Icons: BRANCHES:[master:9ebcc0e87610c6890f698aee40eb895613985573;]|RELEASE:[v0.0.8|none]
 adafruit/Adafruit_TFTDMA: BRANCHES:[master:c99d3724fd26b02b0d1b2268bf93f029a8f74ee4;gh-pages:123f03a5271149db9ec58f74cba47151ff2cf262;actionci:da1fcbafdc0b3ee038f34b259992501d4cfdec90;]|RELEASE:[1.1.0|none]
+adafruit/Adafruit_CircuitPython_MLX90614: BRANCHES:[main:bad5be36d95ec0285c15f487f3dd6fd6ffb092a5;patch-fix:f6ffc0e33f94643b883b7034ff8950836fec4927;]|RELEASE:[1.2.25|none]
