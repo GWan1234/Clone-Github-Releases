@@ -627,3 +627,4 @@ adafruit/Adafruit_CircuitPython_MCP230xx: BRANCHES:[main:8a951eff76137ad1994c483
 adafruit/Adafruit_CircuitPython_AM2320: BRANCHES:[main:89e502e27a1749fec9fa1a499877e9db140dff73;pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;]|RELEASE:[1.2.28|none]
 adafruit/Adafruit_AM2320: BRANCHES:[master:34c038ec3a6afa65ac9be95288cf6697df7912f6;gh-pages:c318b9a823c66a4f7eda4c7c98c295429fca559b;tyeth/issue13:27336667d10cb0f2b82e48b744bafe229c82dc9c;]|RELEASE:[1.2.5|none]
 adafruit/Adafruit-ItsyBitsy-M0-PCB: BRANCHES:[master:faa92dda428868c7042f9ee04685ffdc70849725;]|RELEASE:[none|none]
+adafruit/Adafruit_CAD_Parts: BRANCHES:[main:5ead410a8034146307aa99f2ab916bbd2a87114f;my-first-pull:e63b5966eb8e755451755a33b99182c385039ad8;]|RELEASE:[none|none]
