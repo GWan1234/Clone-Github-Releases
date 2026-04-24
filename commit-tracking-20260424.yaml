@@ -716,3 +716,4 @@ adafruit/Adafruit_CircuitPython_ST7735R: BRANCHES:[main:bbe37f9ac0768cb04475f1ba
 adafruit/Adafruit_CircuitPython_LIFX: BRANCHES:[main:3b0b74f2564b13cf190e73e733d78d8aeb50c748;docs_req_fixes:6637d4d9afcaf1600282bdcb6c8191a04ed9a030;patch-fix:689a477fec73ad9b574307dfbde09e0b8159b361;revert-3-update-set-colors:6f5283448ea5490f8cd3e09b10d7103bde86e1b1;]|RELEASE:[3.0.6|none]
 adafruit/Arduboy2: BRANCHES:[master:5d975e7bf4064a96821790d08aab13551f4017af;noUSB:44aeda92a248f4b4bd2134c4352b3de44af3a1f9;develop:78de8a439b2be3ee9bb8cea762b65173a62c7ae6;]|RELEASE:[none|none]
 adafruit/ArduboyTones: BRANCHES:[master:4ba1bcc7a8761154958ad6ffee3cb7fe1de0ac67;]|RELEASE:[none|none]
+adafruit/ArduboyPlaytune: BRANCHES:[master:52ca6170af45432c07269861c91349e70b4cd73d;]|RELEASE:[none|none]
