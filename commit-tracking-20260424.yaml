@@ -212,3 +212,4 @@ adafruit/Adafruit_CircuitPython_GC_IOT_Core: BRANCHES:[main:63f87ca9dbffc8294e3f
 adafruit/Adafruit_CircuitPython_NTP: BRANCHES:[main:2e4b7a8bd9fcdd06d661d47aca2b80c3d5bce969;REUSE:8b319dc1209b34f999c06d3bad4ac513a3140272;]|RELEASE:[3.3.7|none]
 adafruit/Adafruit_CircuitPython_TLV493D: BRANCHES:[main:be86c170167db0573ccdc680616fcebde1ac3828;]|RELEASE:[2.0.12|none]
 adafruit/Adafruit_CircuitPython_PCT2075: BRANCHES:[main:8e18e644c5c321251c0125598629261918b04387;discord-fix:966804e55eab37949015d74ba2278bb66860694a;]|RELEASE:[1.1.28|none]
+adafruit/Adafruit_CircuitPython_SSD1305: BRANCHES:[main:43fad7468edba4d52c82dfccc7aa50686598cff3;]|RELEASE:[1.4.6|none]
