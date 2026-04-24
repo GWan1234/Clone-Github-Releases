@@ -48,3 +48,4 @@ adafruit/Adafruit_CircuitPython_Waveform: BRANCHES:[main:8d36e16180f10e0a2a733e5
 adafruit/Adafruit_CircuitPython_RTTTL: BRANCHES:[main:3fb2062f3ee6408eb6151d179e5d2af6d6aceaac;]|RELEASE:[2.4.29|none]
 adafruit/Adafruit_CircuitPython_AMG88xx: BRANCHES:[main:de821175e1eb68c2be90c7ed51c2e6a27b9cc855;dhalbert-master:e14c153ca5371b7e91fe47264ce20c154fc92233;]|RELEASE:[1.2.28|none]
 adafruit/Adafruit_CircuitPython_CharLCD: BRANCHES:[main:2a44a948172e66c5e33587215809383289fac5ec;patch:af753ae25682f7b462fceaed543e1643bb23607e;]|RELEASE:[3.5.7|none]
+adafruit/Adafruit_CircuitPython_DotStar: BRANCHES:[main:d08e231d5f95566a09f2a0c08cb647703882262d;pi_bitbang_exception:896a76d4e836e52e7294e2b2f37cbbcebd2f27c1;]|RELEASE:[2.2.21|none]
