@@ -11,3 +11,4 @@ adafruit/Pixie-3W-Smart-LED-PCB: BRANCHES:[master:68dae8b61938339e1cd423abbddee3
 adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: BRANCHES:[master:217534674defab8d2040a7399b23d3cead345195;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX98306-Class-D-Amp-PCB: BRANCHES:[master:424e82a2ca2bff2f5b96e02a092e1e1a1b3cb81e;]|RELEASE:[none|none]
 adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB: BRANCHES:[master:2f651eeb3cfd8395e67a2dd241d086286ceb7668;]|RELEASE:[none|none]
+adafruit/openapi-mitm: BRANCHES:[master:7067b6d99ee4b8963e918a23081b5708f2e0cbc6;]|RELEASE:[none|none]
