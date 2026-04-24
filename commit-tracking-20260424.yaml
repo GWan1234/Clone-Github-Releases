@@ -340,3 +340,4 @@ adafruit/a2woz: BRANCHES:[main:eee0285cdb4c6f814a08d8dc080c2e45f6a352bd;]|RELEAS
 adafruit/CircuitPython_NAU7802: BRANCHES:[main:b464aa6fb307b9f630583063f3c06df7f47a92ab;dhalbert-patch-1:0a460863036c7c456a021e7d42a877d87f13b326;]|RELEASE:[2.1.4|none]
 adafruit/Adafruit-VL53L4CX-PCB: BRANCHES:[main:8e287e0d06293984a3c2b4e14180830dda2e3acc;]|RELEASE:[none|none]
 adafruit/Adafruit-DVI-Breakout-Board-PCB: BRANCHES:[main:178a6d45b2d40acaa1cf14b79479a770cc7d01a5;]|RELEASE:[none|none]
+adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: BRANCHES:[main:f45b12704ccbb7180d89db28e1af7bd861124133;]|RELEASE:[none|none]
