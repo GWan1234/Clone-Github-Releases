@@ -1097,3 +1097,4 @@ adafruit/DotStarPiPainter: BRANCHES:[master:71df036fef22e8c70a1173bf0d216fd252d8
 adafruit/Adafruit_RGB_LCD_backpack: BRANCHES:[master:c439c0c5afee3af63df33a2987fc69ea8ee80e95;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-Micro-PCB: BRANCHES:[master:b96e10fc1481de5e03bc5926590aeae6c27a46e3;]|RELEASE:[none|none]
 adafruit/Adafruit-LM3671-Buck-Converter-PCB: BRANCHES:[master:7635cfe1f15899a86acc20f0ee553fb4e0e780c7;]|RELEASE:[none|none]
+adafruit/Flora_Demos: BRANCHES:[master:3232f66ed232af7cc4655c52640012b607332169;]|RELEASE:[none|none]
