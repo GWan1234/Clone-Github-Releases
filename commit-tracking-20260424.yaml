@@ -1667,3 +1667,4 @@ adafruit/esp-usbip-bridge: BRANCHES:[main:78e32a95542aced35e94ba6960721cc39178a0
 adafruit/pyusb-usbip-backend: BRANCHES:[main:11914e98d3f87890b8eff303137454a83dd65f13;]|RELEASE:[0.0.1|none]
 adafruit/pyserial-pyusb: BRANCHES:[main:e21f31f5e62c98398333047158e894d4a3d7a7da;]|RELEASE:[0.0.1|none]
 adafruit/Adafruit_CircuitPython_MAX44009: BRANCHES:[main:dcfaec94bf12a1311ba5787ae66ac3d079abec85;]|RELEASE:[1.0.1|none]
+adafruit/onekey-keyboard: BRANCHES:[main:c040ea9ac41e4a643c6cfc5af647fe546a85fdbd;]|RELEASE:[none|none]
