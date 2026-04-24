@@ -77,3 +77,4 @@ adafruit/Adafruit_CircuitPython_DS18X20: BRANCHES:[main:b8411113c8f459b253bc3f10
 adafruit/Adafruit_CircuitPython_Motor: BRANCHES:[main:20ebf51fe0d2bb48b1780c3c9bd74c16c73bc02e;]|RELEASE:[3.4.20|none]
 adafruit/Adafruit_CircuitPython_DRV2605: BRANCHES:[main:2b8443ff94a179a027efd9f62d905c398f4f7b43;use_ruff:fc722e9353ee1e4a976f861457d8943328cce19d;]|RELEASE:[1.3.10|none]
 adafruit/Adafruit_CircuitPython_VCNL4010: BRANCHES:[main:6d0e981ff0019ebf50ba31cd4cee0ca4cd5fe8c6;]|RELEASE:[0.11.18|none]
+adafruit/Adafruit_CircuitPython_APDS9960: BRANCHES:[main:75a7b1abef02342a7cdead30271ce168243bf1fa;patch-test:9343629cf011fb48b69084710cf9d527298ba981;]|RELEASE:[3.1.19|none]
