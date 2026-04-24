@@ -34,3 +34,4 @@ FUjr/QModem: BRANCHES:[main:784ae09b8a8ac8b7db54735c3567022b0add3557;feat/sim-83
 MISTERNEGATIVE21/QuectelEC200U: BRANCHES:[main:dff543949ebfabf369ffbbf015b1c7c595527d41;]|RELEASE:[3.5.0|none]
 maxming2333/esp32-sms-forwarding: BRANCHES:[copilot/fix-memory-leak:fee9355fdbaf35973ebd1cfe34379f0c5a232503;copilot/hello-world:36631d3b503e57c7a30839f86b37eb69d5f76f12;master:36631d3b503e57c7a30839f86b37eb69d5f76f12;]|RELEASE:[v1-20260423T213836-36631d3|none]
 chenxuuu/sms_forwarding: BRANCHES:[fix-issue-57:12cb1045bc10a82e062f2f227ccf291efcd0240b;master:9b82817001f4e695af6cc24e8f0f7574d8352d34;page:a67f5cecae9a1ac070bba9b01d508b186e87f56a;old-luatos:0b225468672c3fb1380e7faed8baf3aacfea33e7;]|RELEASE:[none|none]
+dushixiang/uart_sms_forwarder: BRANCHES:[main:62c6bc0b6b1e13338f96765a0dc0194cf1148050;]|RELEASE:[v0.1.10|none]
