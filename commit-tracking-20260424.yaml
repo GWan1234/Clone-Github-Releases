@@ -1201,3 +1201,4 @@ adafruit/Adafruit-Push-Button-Power-Switch-PCB: BRANCHES:[master:6013b8b9aa67f74
 adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: BRANCHES:[master:6293e5aa3d88caab44292709fef00a5e12c1bef6;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-FeatherWing-PCB: BRANCHES:[master:3b80152edf1808446eab953d2f7a7b06b433c199;]|RELEASE:[none|none]
 adafruit/Adafruit-Relay-FeatherWing-PCBs: BRANCHES:[master:130d79e53912a8a22dc273c521f96e74ea0b280d;]|RELEASE:[none|none]
+adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB: BRANCHES:[master:b099d41a3fb4cddce5f19a7a8bbdc7a2d68711d8;]|RELEASE:[none|none]
