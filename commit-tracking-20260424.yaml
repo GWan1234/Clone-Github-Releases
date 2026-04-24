@@ -917,3 +917,4 @@ adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB: BRANCHES:[main:73022f6
 adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: BRANCHES:[main:55df02725e803b00706c48715883efdbe4aceb1c;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-Breakout-PCB: BRANCHES:[main:8e89cf15d32369072d473cda4424f417255abf97;]|RELEASE:[none|none]
 adafruit/Adafruit-TSC2007-PCB: BRANCHES:[main:8d182929dfc27dcdb407a2769cf416f9f63b4a16;]|RELEASE:[none|none]
+adafruit/littlefs-pure-js: BRANCHES:[main:9a229087ad96f6eca0e3cc1c4d3ae5375a3cc182;]|RELEASE:[1.0.3|none]
