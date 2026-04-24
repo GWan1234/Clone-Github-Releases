@@ -132,3 +132,4 @@ adafruit/Adafruit_CircuitPython_Slideshow: BRANCHES:[main:6fa2ef18237b549a7a5234
 adafruit/Adafruit_CircuitPython_ADXL34x: BRANCHES:[main:1e84a8d3d4905b61ffb19847d98a19290ff6f8d2;]|RELEASE:[1.12.20|none]
 adafruit/Adafruit_CircuitPython_MPL115A2: BRANCHES:[main:efce9d6f5b1edebba68186a7c5bcd0aff2491744;patch-fix:1ce5f752d967b17bc84e24acc9e6aa0e350fc586;]|RELEASE:[1.1.24|none]
 adafruit/Adafruit_CircuitPython_US100: BRANCHES:[main:f0e7f036217a942594839d2166d4ff8b046fe393;]|RELEASE:[1.1.24|none]
+adafruit/Adafruit_CircuitPython_TrellisM4: BRANCHES:[main:6cbaa27a373fd0950302791c904c31e1ad4479c3;pylint-fix:35cc3297ac4b1c7123441dc333b164b749fa8977;patch-fix:15e62a687c8089b2349171b1ce3ed5fa7f2231e4;rainbowio:1000cc700cc48f07b3e40ad911e41749d29e96d1;]|RELEASE:[1.5.25|none]
