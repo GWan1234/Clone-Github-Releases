@@ -59,3 +59,4 @@ adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:364b6e315bb638f88
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c;]|RELEASE:[none|none]
 adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e91a541ee3d0;]|RELEASE:[none|none]
 adafruit/Reflowduino: BRANCHES:[master:953add928782a5a8baf7adda3f973daf9a1276ff;]|RELEASE:[none|none]
+adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51bd16cd17286410;]|RELEASE:[none|none]
