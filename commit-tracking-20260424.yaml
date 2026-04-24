@@ -687,3 +687,4 @@ adafruit/Adafruit_CircuitPython_AdafruitIO: BRANCHES:[main:68aa5525f39d77a3e5ae7
 adafruit/rplidar: BRANCHES:[master:8ac97ed8c4c96291bb935438134c548ee93ad46c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_PyPortal: BRANCHES:[main:4a6fab8911ae5c9d51ab9c8dd0676b983196c61a;patch-fix:f66b129ffe551f36b09ba30dab7d3f7969779a2d;]|RELEASE:[7.1.4|none]
 adafruit/Adafruit-PyPortal-PCB: BRANCHES:[master:90d9aa7ba3f892fd4adb31815c99ede26c10757c;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_MCP9600: BRANCHES:[main:61268e4852009365b194f9b4423545a8bc1cff55;]|RELEASE:[2.0.10|none]
