@@ -68,3 +68,4 @@ adafruit/Adafruit_FTDI-Friend-PCB: BRANCHES:[master:5525f3a2a2a0bf62e60e2db7f8cf
 adafruit/Adafruit_SSD1306: BRANCHES:[master:74cc197f485cd17f68016bc323e10085e8d261f9;gh-pages:18800cb7c62ab0627dee6f6c758d24ec8761795b;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;zero:5674153e88a71d8b7cf035787caa7eb06d7484df;]|RELEASE:[2.5.16|none]
 adafruit/Raw-IR-decoder-for-Arduino: BRANCHES:[master:e23d69394b9e7c8e9a0652f09342afdfa1cfc7e2;]|RELEASE:[none|none]
 adafruit/Nikon-Intervalometer: BRANCHES:[master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2;]|RELEASE:[none|none]
+adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336;]|RELEASE:[none|none]
