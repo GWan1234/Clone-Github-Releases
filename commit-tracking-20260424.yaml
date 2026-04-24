@@ -195,3 +195,4 @@ adafruit/Adafruit_CircuitPython_Nunchuk: BRANCHES:[main:6f0d9cd4f8954200eb861fe1
 adafruit/Adafruit_CircuitPython_WSGI: BRANCHES:[main:f889f3aeaa52cadfefb25e1b427954dc9d36ab7b;]|RELEASE:[3.0.5|none]
 adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306: BRANCHES:[main:45520b642df77b1718befb24e5e6853b1172792f;]|RELEASE:[3.0.6|none]
 adafruit/Adafruit_CircuitPython_SSD1327: BRANCHES:[main:818ae16035878c0abea0cfb323aacdbb99b251a3;update-display-modules:fc1717a0d80769faf5ae54710e850dcaedb611b4;setup-py-disabled:75f324e0961079633d34871c6dad1275ada07125;]|RELEASE:[1.4.10|none]
+adafruit/Adafruit_CircuitPython_SSD1322: BRANCHES:[main:14adb676d97dbc1843a3819ab6c5a955d8a79b5f;setup-py-disabled:5db61393929eb9d7f47e0cd559482ae991aa5829;]|RELEASE:[1.4.10|none]
