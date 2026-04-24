@@ -70,3 +70,4 @@ adafruit/Raw-IR-decoder-for-Arduino: BRANCHES:[master:e23d69394b9e7c8e9a0652f093
 adafruit/Nikon-Intervalometer: BRANCHES:[master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2;]|RELEASE:[none|none]
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336;]|RELEASE:[none|none]
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970;]|RELEASE:[none|none]
+adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b;]|RELEASE:[none|none]
