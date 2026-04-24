@@ -1195,3 +1195,4 @@ adafruit/Adafruit-WICED-WiFi-Feather-PCB: BRANCHES:[master:f2c70ce49ef3df7f60be3
 adafruit/Adafruit_MAX31856: BRANCHES:[master:2e5358b148116c083c24cda3b4e675942686541f;gh-pages:239bf0e2cf7cc80ff6b8c61675903843dd1d3654;action:41c96a7769add3235fb7493382090b0d201e9f1e;]|RELEASE:[1.2.8|none]
 adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46e8f2473a765239112a8b48f12;]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB: BRANCHES:[master:cb5f0e3d89c9b20db55984077ba5f2eba29c8d69;]|RELEASE:[none|none]
+adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: BRANCHES:[master:37c7ffb587c00e67d739baa078eb755f0976d15f;]|RELEASE:[none|none]
