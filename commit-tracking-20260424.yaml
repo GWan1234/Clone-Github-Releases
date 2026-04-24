@@ -1145,3 +1145,4 @@ adafruit/Adafruit_Python_MCP4725: BRANCHES:[master:56a3ce47612cb6306686781e4819d
 adafruit/Smart_Toilet_Light: BRANCHES:[master:4111fd813bb7f031e3d3407065ab2a55d1a22d9b;]|RELEASE:[none|none]
 adafruit/FirePendant: BRANCHES:[master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2;]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Bluefruit-LE-PCB: BRANCHES:[master:31ad4c6afe5267c02daf48849e1f1bfb597df588;]|RELEASE:[none|none]
+adafruit/Adafruit-1.44-TFT-Breakout-PCB: BRANCHES:[master:ceaa444157175651785903b73bb0001e45b7ea88;]|RELEASE:[none|none]
