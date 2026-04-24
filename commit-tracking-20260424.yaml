@@ -1349,3 +1349,4 @@ adafruit/Adafruit_CircuitPython_SD: BRANCHES:[main:e85d264ad6eaa286333fd3dbbf7a9
 adafruit/RFM69: BRANCHES:[master:180d3ac9a4004ca200ac25e19de1c1910f82a1ee;ListenMode:aa1cc78a17fe3eab9718f51c8afa1c5b0eab58b1;SPI_TRANSACTION-attempt:c38928ecb4810e8563dac4ccbd8902468bbd684b;]|RELEASE:[none|none]
 adafruit/Adafruit-LSM9DS1-Breakout-PCB: BRANCHES:[master:9f6db79a66ae599aa410a2a14b161e26216e8bd4;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_SI7021: BRANCHES:[main:689c0b409421ca72c30e9885bc25633ce082e039;REUSE:9eddddd6ed2322d3bdc443a373d9cfa81e3d1cd8;tannewt-lint:37d8dfabfdd2445d964eb455708ce1dc2b87446a;]|RELEASE:[4.1.19|none]
+adafruit/Adafruit_CircuitPython_MAX31855: BRANCHES:[main:902af768892e68483d5ea876b270763974740964;]|RELEASE:[3.2.28|none]
