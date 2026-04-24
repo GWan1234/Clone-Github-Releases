@@ -972,3 +972,4 @@ adafruit/Adafruit-ENS160-PCB: BRANCHES:[main:70109a844d554d955433ffba0b05acc497b
 adafruit/Adafruit-LTR-329-LTR-303-PCB: BRANCHES:[main:618d2124daa9b3865b55c9bf389d3fd9157ee4d7;]|RELEASE:[none|none]
 adafruit/Adafruit-PCA9548-PCB: BRANCHES:[main:5b8baf8ad61c5bd340e53f47d9386bd3bd553d92;]|RELEASE:[none|none]
 adafruit/esp32-s3-boy_fw: BRANCHES:[main:d24440a4e8dfddaffad23adea98bc54c4bd48f9c;external-screen:1ca3d0c85b53dd531bf5719c229ef2554a511ecf;]|RELEASE:[v0.2|none]
+adafruit/Adafruit-PB86-Breakout-PCB: BRANCHES:[main:a7fce3014e27e929397fabb8f74ddbdae1fbd95d;]|RELEASE:[none|none]
