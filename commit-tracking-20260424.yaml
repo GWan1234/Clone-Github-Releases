@@ -771,3 +771,4 @@ adafruit/stm32f4: BRANCHES:[master:612e81b67edc5d0402d42d5cc32e151a4e55bcb0;]|RE
 adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306: BRANCHES:[main:45520b642df77b1718befb24e5e6853b1172792f;]|RELEASE:[3.0.6|none]
 adafruit/Adafruit_CircuitPython_SSD1327: BRANCHES:[main:818ae16035878c0abea0cfb323aacdbb99b251a3;update-display-modules:fc1717a0d80769faf5ae54710e850dcaedb611b4;setup-py-disabled:75f324e0961079633d34871c6dad1275ada07125;]|RELEASE:[1.4.10|none]
 adafruit/Adafruit_CircuitPython_SSD1322: BRANCHES:[main:14adb676d97dbc1843a3819ab6c5a955d8a79b5f;setup-py-disabled:5db61393929eb9d7f47e0cd559482ae991aa5829;]|RELEASE:[1.4.10|none]
+adafruit/Adafruit_CircuitPython_Requests: BRANCHES:[main:82a656aa80797ae8c526b69061b9e75728d377c9;no-space-after-colon:9543728198760e9f2c207517aaecf7e348c2e7e1;wiznet-ssl-example:dd0cbf80ae3904f7daccf61eb582480d52c633a2;tannewt-patch-1:6473e0ad78c28efb357eb627fbe1e406230bee33;]|RELEASE:[4.1.17|none]
