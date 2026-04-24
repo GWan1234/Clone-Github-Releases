@@ -1303,3 +1303,4 @@ adafruit/micropython-adafruit-ssd1306: BRANCHES:[master:7dc5e750f40fdac5e457a557
 adafruit/CircuitPlaygroundMakeBelieve: BRANCHES:[master:7f971da9fd1d40390ccf9299cbee49782c81abd7;]|RELEASE:[none|none]
 adafruit/MotorHatDemo: BRANCHES:[master:7cd65c5cc3d7ebc1b5c5bad53574d252f5f8013b;]|RELEASE:[none|none]
 adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB: BRANCHES:[master:dda79a86d6518d05a35091cb8b03b9c0d57d04e2;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Bundle: BRANCHES:[folder-images:be181d96f0cf05fe2d127e9a3e7970acc1900dab;main:57d935b7c7bafb73325bbf3122381dda204c531d;add_max44009:510b952a74545ea5345690d327159c250396deca;dacx578:f6e6fac9ca5bedcc45f5f696388d10f5a70e02a2;update-workflow-ubuntu-deprecated:8c10a663b6c4ec67fe060ee7bad9fc8172c34271;dhalbert-patch-2:ff5975727be0a9768467a3abf37e93e7153f5418;master:d55c3d7701e1a92d76f9ad8a1eae16401fd5601e;]|RELEASE:[20260424|none]
