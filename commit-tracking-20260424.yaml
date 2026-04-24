@@ -335,3 +335,4 @@ adafruit/Adafruit_FT6206_Library: BRANCHES:[master:32955bbde0019647556b27c6fdd35
 adafruit/Adafruit_Si5351_Library: BRANCHES:[master:2e53d2f1bffd40d8bcdba2a117d5671b2fc572ab;gh-pages:4d19aec79b5441d1d87ccc4fc959fc7f52eb7104;actionci:2fc19308f1566722b298f14b755b1b0fde3c5924;]|RELEASE:[1.4.3|none]
 adafruit/Adafruit_Python_CharLCD: BRANCHES:[master:c126e6b673074c12a03f4bd36afb2fe40272341e;]|RELEASE:[none|none]
 adafruit/Adafruit_LSM9DS0_Library: BRANCHES:[master:44a7af3a3e0ec4ebef78a7726fcd4176fb063712;gh-pages:72bec3979bad5ff498ebcba387523916e38a28d8;doxy-fix:6582bb8fc13e29763fd022ddd2c82fb71a2ebf36;readme_update:bbf850413b249868da20e74a824781ad4b5ac7f5;]|RELEASE:[2.0.4|none]
+adafruit/Adafruit_Python_ILI9341: BRANCHES:[master:f1fb7ec1614e3fde8fa25ad1324cdaa8fdb416a8;]|RELEASE:[none|none]
