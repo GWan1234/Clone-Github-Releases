@@ -1437,3 +1437,4 @@ adafruit/Adafruit-LIS2MDL-PCB: BRANCHES:[master:c65288a9024d03b559eb0121ec8c2313
 adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence: BRANCHES:[main:aec491063a085d144dc5910eff9300eba6951eac;pre-commit:bd2088ab24e969d4934e4b5f65e2009e53e9f601;]|RELEASE:[1.1.22|none]
 adafruit/Adafruit_nRFCrypto: BRANCHES:[master:2be11062ac56cf75a9a8b8ed087ad495421403f4;bump-up-version-to-0.1.2:859ab430efded79e642609804837ef1c6eeb1f3a;add-ci:b651ddc0e82cc068021e9ba92d83e575ff515ca4;]|RELEASE:[0.1.2|none]
 adafruit/awesome-micropythons: BRANCHES:[master:174283519e3b6b04ac44b6391c8a5cb0a0d797b8;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_BLE_Radio: BRANCHES:[main:f1001190a105603720bb1b3716962c92a90bf104;add-build-yml:ee8953a4694169994be4cd4a4567bd2b5b375c02;]|RELEASE:[0.5.17|none]
