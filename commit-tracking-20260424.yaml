@@ -1481,3 +1481,4 @@ adafruit/Adafruit-AHT20-PCB: BRANCHES:[master:6188da253330968dfac1ca1ff0389cd894
 adafruit/tinyuf2: BRANCHES:[master:d541823db56b4321595b2048d2cedd4058db46c8;add-max32-support:1518c8c9fdf3c5e0662c25099cf873057c3caa9e;tftexp_revB:30b8c2f9c77ea7ef4895891138489d76a1879587;esp32-boot-reset-issue:eaa03a0378b29e77138538a8c58644197e750802;esp32sx_revtft:5c6d80bc2807cc800a1244a32e0935361942e6b0;esp32s2-update-boot2:b4c66b9556de5b8a7c292255d2c839694e17e783;]|RELEASE:[0.35.0|none]
 adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB: BRANCHES:[master:63ee954e2c78665d69f9f5e730198dd6479f95b5;]|RELEASE:[none|none]
 adafruit/Adafruit_PCF8591: BRANCHES:[master:ef72f79835dbb6ca9e75d9c3684288a2cb57b9e5;gh-pages:49f3d3d1431f0adebd62977895d97e66b0798b7f;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit_CircuitPython_SHTC3: BRANCHES:[main:19acd2177d8c3c98b56fa04a7fc46f27acf06270;]|RELEASE:[1.1.22|none]
