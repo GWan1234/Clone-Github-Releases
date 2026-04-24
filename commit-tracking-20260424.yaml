@@ -1318,3 +1318,4 @@ adafruit/micropython-adafruit-gfx: BRANCHES:[master:878b87ed490e3813b4bd7519da5f
 adafruit/Adafruit_nRF52_Arduino: BRANCHES:[master:fa129c2a1075ca4290ab4b4bdef080a83b1b83c4;sdfat_v2:739d6485a07e655ca6b7ba8aa7b9cb820b3557bf;]|RELEASE:[1.7.0|none]
 adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: BRANCHES:[master:1ef873512150740edc9798f90028facfa35fd81f;]|RELEASE:[none|none]
 adafruit/Adafruit_nRF52_Arduino_Bootloader: BRANCHES:[master:e37c04aa06858f47ce76994b51417fbcd02e4756;]|RELEASE:[5.1.0|none]
+adafruit/Adafruit-BNO055-Breakout-PCB: BRANCHES:[master:64c5a387aa807edb01eff440d1cd07ce4b608642;]|RELEASE:[none|none]
