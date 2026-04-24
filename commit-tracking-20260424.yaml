@@ -1377,3 +1377,4 @@ adafruit/Adafruit_CircuitPython_AWS_IOT: BRANCHES:[main:2f6940093a3fc63c08022291
 adafruit/Adafruit_MLX90640: BRANCHES:[master:1850e00e4a505abe8c44a17fcdba57e7c66085d5;gh-pages:5be492f9f303a29a69bac4c03b4d79905c095a1f;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit-1.14-inch-240x135-TFT-PCB: BRANCHES:[master:e87c63d29caea5604ad987077b2ca9eb61a4284f;]|RELEASE:[none|none]
 adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB: BRANCHES:[master:d7365a23988f25d98cf9b729d5811f3d207f2230;]|RELEASE:[none|none]
+adafruit/Adafruit_TFLite: BRANCHES:[master:1e84fc9134d3584c7ab1198a08504aa694f1c577;act:41a024952a8bcec6042fe3ed8c44ca931d0783d7;actionci:5e1abe546a58ca3e4e6122d0f00e4de51d8b3c98;actions:ee81b6bdf0e286135f172156f4f764ee69594c2e;gh-pages:7b94d392bf6d347eddee7322df378415060f630f;]|RELEASE:[1.2.5|none]
