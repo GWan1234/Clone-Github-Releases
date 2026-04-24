@@ -1360,3 +1360,4 @@ adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679
 adafruit/Adafruit-Arcade-Bonnet-PCB: BRANCHES:[master:20446a9dc6a3f9b86abfc56c499863b030211beb;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_LIS3DH: BRANCHES:[main:cd40b482a098a62ecce1b4c62a1f1930be984e16;]|RELEASE:[5.2.10|none]
 adafruit/pt100rtd: BRANCHES:[master:94a8c8835d93a4050d7681da64e976a6458f78f6;]|RELEASE:[none|none]
+adafruit/circuitpython-org: BRANCHES:[gh-pages:6a596d7b288c6b8344e3a6a01985fc37204716bf;main:11b96cee30f09d8e28ee945f2405cd79d26f535d;create-pull-request/patch-1775003222:70207e08363a64bc81dfd98f0cdcd23a2b2ee882;]|RELEASE:[none|none]
