@@ -230,3 +230,4 @@ adafruit/Adafruit_CircuitPython_MCP4728: BRANCHES:[main:749da15a163e203f754da12a
 adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center: BRANCHES:[main:7c08132594453a021812f45e86a2972d6945672e;]|RELEASE:[0.10.16|none]
 adafruit/Adafruit_CircuitPython_BLE_Magic_Light: BRANCHES:[main:3a5c1468d4bfd853ee80fec37a81040c2da87725;]|RELEASE:[0.9.27|none]
 adafruit/Adafruit_CircuitPython_BLE_Apple_Media: BRANCHES:[main:248e5ea32bfeb0aeb458358131e5d1fb4a882c8b;]|RELEASE:[0.9.23|none]
+adafruit/Adafruit_CircuitPython_ProgressBar: BRANCHES:[main:e720f6ff61aa41485a5611d8df3f7fa25fe8fb79;patch-fix:d6a4bf210ce65744ffacf304c5b92c174fb5fc3b;readthedocs-yml:bff50e4df7ab4c9c14b7673e15d73c81768ddd12;]|RELEASE:[2.3.22|none]
