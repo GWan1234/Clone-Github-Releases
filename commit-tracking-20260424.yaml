@@ -1141,3 +1141,4 @@ adafruit/Adafruit-GPS-Logger-Shield-PCB: BRANCHES:[master:20679c594e363723b81bb2
 adafruit/Twitch-API-Examples: BRANCHES:[master:7c7b493f9f28fc74958cdc1d700e6adfc5605dff;]|RELEASE:[none|none]
 adafruit/TinyXML: BRANCHES:[master:19619111b675528d835e5bcba571b868f1828e53;]|RELEASE:[1.0.3|none]
 adafruit/Pi_Internet_Thing_Videos: BRANCHES:[master:cf54b574b709d694c67e5b3a4db2e28c55a01690;]|RELEASE:[none|none]
+adafruit/Adafruit_Python_MCP4725: BRANCHES:[master:56a3ce47612cb6306686781e4819d014e50b2a74;]|RELEASE:[1.0.4|none]
