@@ -365,3 +365,4 @@ adafruit/pi-facerec-box: BRANCHES:[master:bd4ba88a0590640a29987b1e11f35985af993a
 adafruit/Adafruit-PCF8574-PCB: BRANCHES:[main:a2fbf46bed447a1bd87b51f11169b275b9bc8fb0;]|RELEASE:[none|none]
 adafruit/Adafruit-MMC5603-PCB: BRANCHES:[main:fb9a564eb11939578643054a859481408a64a868;]|RELEASE:[none|none]
 adafruit/esptool: BRANCHES:[master:fc0c98485056b66296f7e77ab8f9f98ebf7dddd1;add-delay-hard-reset:fd3a257386437213b9a615e577eec0e4c47f626e;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_TCA8418: BRANCHES:[main:d520150442d4709c00bd22cc2910a0052eccb8fa;]|RELEASE:[1.0.21|none]
