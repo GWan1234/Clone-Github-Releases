@@ -144,3 +144,4 @@ adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c
 adafruit/Adafruit_GPS: BRANCHES:[gh-pages:46cefb88661b4d8e23d67f92581174f89400b45b;master:f7bff30a018753caf48ebd3a87e32baca88137e6;actions:e4eb78f41cab05122248cf66ff2f9a6b715f7a95;]|RELEASE:[1.7.5|none]
 adafruit/Adafruit_SSD1305: BRANCHES:[master:3807b07f48f35692155fd10209d33bf894aa18bc;gh-pages:206d3b621578984e5e29e2735dcaca54c4beaaf9;gray:399e405943ebee4af9dd8db184af39acee5e6dc9;update_readme:97f2589bd09b6eb1f217334690d77860665b6bf0;monooled:1f25aea94ab3b85cb211547005d26c1c7401502d;]|RELEASE:[2.2.3|none]
 adafruit/Adafruit_SSD1325_Library: BRANCHES:[master:d86c98d66a10dcfecb59e99cd133a277f6622b56;gh-pages:827fcaadef84979bcf16a062cd888cbc4496db8d;]|RELEASE:[1.3.0|none]
+adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: BRANCHES:[master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9;]|RELEASE:[none|none]
