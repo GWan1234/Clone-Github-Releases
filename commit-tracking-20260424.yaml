@@ -1351,3 +1351,4 @@ adafruit/Adafruit-LSM9DS1-Breakout-PCB: BRANCHES:[master:9f6db79a66ae599aa410a2a
 adafruit/Adafruit_CircuitPython_SI7021: BRANCHES:[main:689c0b409421ca72c30e9885bc25633ce082e039;REUSE:9eddddd6ed2322d3bdc443a373d9cfa81e3d1cd8;tannewt-lint:37d8dfabfdd2445d964eb455708ce1dc2b87446a;]|RELEASE:[4.1.19|none]
 adafruit/Adafruit_CircuitPython_MAX31855: BRANCHES:[main:902af768892e68483d5ea876b270763974740964;]|RELEASE:[3.2.28|none]
 adafruit/Adafruit_CircuitPython_BNO055: BRANCHES:[main:33fec1851ce0fd660e210a024365461b11ec0bf0;]|RELEASE:[5.4.22|none]
+adafruit/micropython-adafruit-framebuf: BRANCHES:[master:26556e49935521cde014946bdf4f6070a7fe56f3;]|RELEASE:[2.0.0|none]
