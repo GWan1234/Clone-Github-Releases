@@ -136,3 +136,4 @@ adafruit/Adafruit_CircuitPython_TrellisM4: BRANCHES:[main:6cbaa27a373fd095030279
 adafruit/Adafruit_CircuitPython_BluefruitSPI: BRANCHES:[main:6771a8c7b258558504e7d6459b093c076418b2e3;]|RELEASE:[1.1.26|none]
 adafruit/Adafruit_CircuitPython_BMP3XX: BRANCHES:[main:05ba78b1c3b42a43048e4f2a3a4d90b83eedc8af;patch-fix:9b72e69f5ede2c5c46fca84807429fa7dd7a8b60;REUSE:c91b9a156980e0e00ff34fc2b644327c2d0d9d6b;]|RELEASE:[1.3.27|none]
 adafruit/Adafruit_CircuitPython_74HC595: BRANCHES:[main:8fe7ffa3cd0a7b656575c667b69155497e9137cc;discord-fix:3ddfee13b6ae106c98bc1573dd08cc894e25c014;]|RELEASE:[1.5.2|none]
+adafruit/Adafruit_CircuitPython_TMP006: BRANCHES:[main:ceac48055904b57fe786d4bcbc9c457ce8f8da86;]|RELEASE:[2.1.25|none]
