@@ -112,3 +112,4 @@ adafruit/Adafruit_CircuitPython_L3GD20: BRANCHES:[main:f74880027c1c9c27d2ec53a13
 adafruit/Adafruit_CircuitPython_Crickit: BRANCHES:[main:aa213ba6f897cdeb45ce4e961f44f862e3832c03;patch-fix:7a11ee3cdd37a52efc40e72ebd72631fedc3a250;]|RELEASE:[2.3.24|none]
 adafruit/Adafruit_CircuitPython_MLX90614: BRANCHES:[main:bad5be36d95ec0285c15f487f3dd6fd6ffb092a5;patch-fix:f6ffc0e33f94643b883b7034ff8950836fec4927;]|RELEASE:[1.2.25|none]
 adafruit/Adafruit_CircuitPython_MCP3xxx: BRANCHES:[main:ca1476e1600d9298f53bd804243fb7873c057801;pylint-fix:511a5fe57550e045da898ce8c1819e5e633b4046;]|RELEASE:[1.5.2|none]
+adafruit/Adafruit_CircuitPython_Pixie: BRANCHES:[main:10c7ce6816efccf23e25436f20b2072fbdba9ec4;]|RELEASE:[1.2.23|none]
