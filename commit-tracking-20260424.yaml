@@ -1381,3 +1381,4 @@ adafruit/Adafruit_TFLite: BRANCHES:[master:1e84fc9134d3584c7ab1198a08504aa694f1c
 adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB: BRANCHES:[master:7559d509a129d1555af92d410a75b5d89673a9e4;]|RELEASE:[none|none]
 adafruit/Adafruit-LSM303AGR-PCB: BRANCHES:[master:3a099ee3de341bfaf089d7f314380e825b3ae35e;]|RELEASE:[none|none]
 adafruit/Adafruit-TLV493D-PCB: BRANCHES:[master:2450d66eef51807f25f6ce598fa7aa9f95d588aa;]|RELEASE:[none|none]
+adafruit/Adafruit-MPU6050-PCB: BRANCHES:[master:7158d89fb3f02c66a11a58ae016f29490d770d93;]|RELEASE:[none|none]
