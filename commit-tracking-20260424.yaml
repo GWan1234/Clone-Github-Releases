@@ -439,3 +439,4 @@ adafruit/Adafruit-CAN-Pal-PCB: BRANCHES:[main:56618b3a53162ce48872514be044eab033
 adafruit/Adafruit-Feather-RP2040-DVI-PCB: BRANCHES:[main:24f7c1cde8c7284bbd626f78e2b853be24d32ee6;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-RFM-PCB: BRANCHES:[main:e7c663f0e25d1f043d91e50bf284a5c97b28cdc5;]|RELEASE:[none|none]
 adafruit/Adafruit_CPFS: BRANCHES:[main:b3c0d3652109a627c078827c81c18a64c1666a13;gh-pages:9ae75ada255adeb87f91c5d548b7829e0d69de66;]|RELEASE:[1.2.1|none]
+adafruit/Adafruit_CircuitPython_Wii_Classic: BRANCHES:[main:e366752e26bda589f1701eebecb23529633aab44;]|RELEASE:[1.0.13|none]
