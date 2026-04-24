@@ -894,3 +894,4 @@ adafruit/Adafruit_ADXL375: BRANCHES:[master:20d259fc5bca4f5a500402e7abd2d45f7023
 adafruit/LCDDisplay10_Arduino: BRANCHES:[main:ff0983a2bba51089c576ca786068d745309a1a28;]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Arcade-Button-1x4-PCB: BRANCHES:[main:437bc15cf86fe7176b153575118f58b178de18fd;]|RELEASE:[none|none]
 adafruit/stm32f4xx_hal_driver: BRANCHES:[master:abb4cd6a27ce4b95dd76d262a13d0e2c688b1f10;]|RELEASE:[none|none]
+adafruit/Adafruit_MSA311_PCB: BRANCHES:[main:a4a29e76941999057e062a5255594cabc4eba0ca;]|RELEASE:[none|none]
