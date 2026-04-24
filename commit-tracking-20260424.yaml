@@ -337,3 +337,4 @@ adafruit/fluxvis: BRANCHES:[main:cd3d3a61713dc33bfabb0dc8cdf296185ec177bf;improv
 adafruit/Adafruit-Charger-BFF-PCB: BRANCHES:[main:2acd339ac57539b236e1b072488f581ea56e3a4c;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-ESP32-S3-PCB: BRANCHES:[main:2c95ed51a500d929fd6d8f519b895f0c4daeb982;]|RELEASE:[none|none]
 adafruit/a2woz: BRANCHES:[main:eee0285cdb4c6f814a08d8dc080c2e45f6a352bd;]|RELEASE:[none|none]
+adafruit/CircuitPython_NAU7802: BRANCHES:[main:b464aa6fb307b9f630583063f3c06df7f47a92ab;dhalbert-patch-1:0a460863036c7c456a021e7d42a877d87f13b326;]|RELEASE:[2.1.4|none]
