@@ -369,3 +369,4 @@ adafruit/Adafruit_ESP8266: BRANCHES:[master:08fadf3c31d5355cb51fb6278a7097bcdea8
 adafruit/Adafruit_Python_MPR121: BRANCHES:[master:86360b80186617e0056d5bd5279bda000978d92c;]|RELEASE:[none|none]
 adafruit/Pi_Node_Example: BRANCHES:[master:7ddf92a9b8c52ab6dd199430f5b89714913eab86;]|RELEASE:[none|none]
 adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: BRANCHES:[master:28187bf4de497bd6bcff28d3767473f78b46038d;]|RELEASE:[none|none]
+adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6;]|RELEASE:[none|none]
