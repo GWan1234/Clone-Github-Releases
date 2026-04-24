@@ -1631,3 +1631,4 @@ adafruit/Bluefruit_LE_Connect_Android_V4: BRANCHES:[main:1ad31a97f90315da7403585
 adafruit/Adafruit_TMF8806: BRANCHES:[gh-pages:a4e5797c5e00b88cedcc8e916e06a962db596aab;main:905093c9872749a39eb22c4769cbba8fd1e1c54f;]|RELEASE:[none|none]
 adafruit/Adafruit_MAX44009: BRANCHES:[main:a72fbb4a28ed2623f2cbe8a8fca165c91fccad32;gh-pages:5862c242ad3d9bb998a87216357e9987c0e65d5e;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_VCNL4030: BRANCHES:[main:0bed1b46b642c2241e819147b57d5f2a0089dd13;gh-pages:4934087a113b51d23ffdab5b9d037c881888003d;]|RELEASE:[1.0.1|none]
+adafruit/Adafruit_TMAG5273: BRANCHES:[main:aaed05431a895a598d794cb8cd4ade8cd49b5566;gh-pages:cb2b7dcf8fe0a7c31ad4ce0f26167df5c79cdc29;]|RELEASE:[1.0.1|none]
