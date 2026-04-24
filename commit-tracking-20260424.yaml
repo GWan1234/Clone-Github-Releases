@@ -1212,3 +1212,4 @@ adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e
 adafruit/Adafruit-DRV8871-Breakout-PCB: BRANCHES:[master:4183ffe41cac746a327c60825b18fa814e081e0f;]|RELEASE:[none|none]
 adafruit/Adafruit-Capacitive-Touch-HAT-PCB: BRANCHES:[master:6405328c281fe7d9d8e9cbfa334d50c3eccef7ce;]|RELEASE:[none|none]
 adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB: BRANCHES:[master:d347601d3c62369d5b22a20b0e3f15a8fc04ef48;]|RELEASE:[none|none]
+adafruit/Adafruit-PiTFT-Plus-2.8-PCB: BRANCHES:[master:6de22137d8b5a057a5723dfffa9831c17d4e9a30;]|RELEASE:[none|none]
