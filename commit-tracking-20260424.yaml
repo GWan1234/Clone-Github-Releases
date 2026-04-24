@@ -162,3 +162,4 @@ adafruit/Adafruit-MAX31855-breakout-board: BRANCHES:[master:5b12736f17d53d22d9dc
 adafruit/Adafruit-PN532-RFID-NFC-Shield: BRANCHES:[master:c22321c82ec1510522fa394c15ca7cf79c298208;]|RELEASE:[none|none]
 adafruit/Adafruit_LED_Backpack: BRANCHES:[master:c4ec1328fda9e4cbf355f6e407346347b4d207e2;gh-pages:54ab0b8ddf2855d067bbf8e61a0d354b438d4dbf;actionsci:25b2d63dc03f6dc93dffdbc268d7f634dfc01ab4;]|RELEASE:[1.5.1|none]
 adafruit/Adafruit-LED-Backpacks: BRANCHES:[master:a58b392b20838c60256d767576a823a6984f7284;]|RELEASE:[none|none]
+adafruit/Adafruit_MPL115A2: BRANCHES:[master:0cbecc86371846d60aa79cb45485182ef43e1ddb;gh-pages:a68a54ff7d68c2df91c565bb0a759c8ed11953f6;busio:e982bd0e9b7ff4a84d6fb0ee5a343e51fa4ad51f;]|RELEASE:[2.0.2|none]
