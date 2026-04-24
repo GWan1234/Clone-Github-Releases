@@ -885,3 +885,4 @@ adafruit/Adafruit_Floppy: BRANCHES:[gh-pages:28197002d3148ac5e42b5d95a14b79ebedb
 adafruit/Adafruit_CircuitPython_floppy: BRANCHES:[main:6f044245ac290375e7044d7823c25bee9573e440;floppsy-revb-fat-archiver:4636370b6d0c656c80738762f56c202f85f891ca;pinouts:041aea1e545c587b4befec36d0dce52b6375238c;enhance:638261343f25f572b3561bf9e8aa65fd9ee5f329;]|RELEASE:[3.0.6|none]
 adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB: BRANCHES:[main:9e9f52790239a755241bfee62628dc8b3c713c63;]|RELEASE:[none|none]
 adafruit/Adafruit-CP2102N-Friend-PCB: BRANCHES:[main:1c29f780bdc7503e18c8b6d29d1f8fb7cc1510bb;]|RELEASE:[none|none]
+adafruit/Adafruit-MCP23017-PCB: BRANCHES:[main:f73186f1b593f7a5a3e710d9ced889005b580c38;]|RELEASE:[none|none]
