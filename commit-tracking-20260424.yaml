@@ -122,3 +122,4 @@ adafruit/Adafruit_CircuitPython_VEML6075: BRANCHES:[main:89fff9e65629161a52f6f23
 adafruit/Adafruit_CircuitPython_MPRLS: BRANCHES:[main:02121ab6e8fb33aec2662e746077e042dc8fb105;]|RELEASE:[1.2.26|none]
 adafruit/Adafruit_CircuitPython_TFmini: BRANCHES:[main:fa709de0054d0725ba7d6af092af711249f9fd70;]|RELEASE:[1.2.25|none]
 adafruit/Adafruit_CircuitPython_HTU21D: BRANCHES:[main:ee6659658e18811d29b7640df653312f9eb94590;dhalbert-ustruct:3cd9a43499c8ad41eb9298809689648bf0a3c9df;]|RELEASE:[0.11.22|none]
+adafruit/Adafruit_CircuitPython_miniQR: BRANCHES:[main:e6ca00b37634118f78a1db109977e4c85a0fac88;]|RELEASE:[2.1.9|none]
