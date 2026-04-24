@@ -859,3 +859,4 @@ adafruit/Adafruit-SCD-4x-PCB: BRANCHES:[main:2f8caf5e2a7f6d436a1075595dea69ab085
 adafruit/Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB: BRANCHES:[main:f4768731183344c8bbe1453f15ff3c655001d592;]|RELEASE:[none|none]
 adafruit/Adafruit-IS31FL3741-PCB: BRANCHES:[main:07d4cb6a19e65be56da4a96736c2335b714ff82b;]|RELEASE:[none|none]
 adafruit/Adafruit_VL53L1X: BRANCHES:[main:77801c2692058d0b40d7b29605ceae7604e4e80c;gh-pages:c9683fa38a2180618ab60ac4ffa5dd43c4c4f8fa;]|RELEASE:[3.1.2|none]
+adafruit/Adafruit_CircuitPython_UC8151D: BRANCHES:[main:9a37fc43eeb277f698614e8d657c4104a75a44aa;detached:b9bd61a0bbef1f4705abb831739d4888f1dcec95;patch:4975f08a192f1cb19066d84637ab6763c7e319b9;]|RELEASE:[2.0.6|none]
