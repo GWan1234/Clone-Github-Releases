@@ -42,3 +42,4 @@ vernesong/OpenClash: BRANCHES:[dev:d7acc6246d2c36892106c51609c6e354db8b44f9;core
 fatedier/frp: BRANCHES:[master:4ec8de973f52a1cabde54ad3499216cf1bc3dbaf;dev:e8dfd6efcccded4affeee9bb25f542c8280edf6e;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c;]|RELEASE:[v0.68.1|4ec8de973f52a1cabde54ad3499216cf1bc3dbaf]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e;]|RELEASE:[none|none]
 adafruit/monochron: BRANCHES:[master:30cca6a53b24f6a5f8f7b5a33cea1bd9a14608ea;SevenChron:9beb1b22f62a3a38e0f9722b22a1bf3f84c7128a;XDALICHRON:fc6ed3b98d64556280acdddced83ccb9612a3e0c;]|RELEASE:[none|none]
+adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da87;]|RELEASE:[none|none]
