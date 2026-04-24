@@ -823,3 +823,4 @@ adafruit/Adafruit_CircuitPython_LSM303DLH_Mag: BRANCHES:[main:aabb3eb3387c3aba80
 adafruit/Adafruit_TinyUSB_ArduinoCore: BRANCHES:[master:68b4323a7d6c82fe3fa940e004ea690dc8b57762;update-tinyusb:b18a1eb3024526a2d8bd7d29fbaa4a87474b06c1;]|RELEASE:[none|none]
 adafruit/Adafruit_WavePlayer: BRANCHES:[master:60e0a78875358513edc84296650978ad181062b5;gh-pages:feab3d9d7205d94423d504c05a3c9ef6a97d3f24;]|RELEASE:[1.0.7|none]
 adafruit/Adafruit_CircuitPython_LIS2MDL: BRANCHES:[main:c890fa9027778a5eaadb147ce39be181679f61c0;]|RELEASE:[2.1.30|none]
+adafruit/Adafruit_LSM303DLH_Mag: BRANCHES:[gh-pages:2f4671886f4ec572da7c10eee7268dfb68a22ac2;master:74ac22f9779bddb41013fb23e5245a2255b91e05;nullptr-defaults:2e100c3ec9315d3ffe73ca034d32b521a07ea70b;fix-warnings:2be490758ce576b7cc79e704c2f2cc682427321a;doxy-fix:d1fd81516505ef61966512618869bc4360a9920b;actionsci:24ace07f2b19550f701719740e54128091bb01dd;]|RELEASE:[1.0.11|none]
