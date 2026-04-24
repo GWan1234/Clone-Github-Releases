@@ -102,3 +102,4 @@ adafruit/Adafruit_CircuitPython_MPL3115A2: BRANCHES:[main:c30f69e37a6755f5467bcf
 adafruit/Adafruit_CircuitPython_RFM9x: BRANCHES:[main:b2a843ddff22cec5a2b6ee79ba0c52e17cbf9dd2;]|RELEASE:[2.2.25|none]
 adafruit/Adafruit_CircuitPython_MCP230xx: BRANCHES:[main:8a951eff76137ad1994c4838e5f151e348087941;patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;]|RELEASE:[2.6.2|none]
 adafruit/Adafruit_CircuitPython_AM2320: BRANCHES:[main:89e502e27a1749fec9fa1a499877e9db140dff73;pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;]|RELEASE:[1.2.28|none]
+adafruit/circuitpython-weekly-newsletter: BRANCHES:[gh-pages:a4512825b37e779b8968e7810ef57ac4e48d981c;BlitzCityDIY-patch-2:6ddce7e6eed2a9c63a81efd9643c1d43820f0e7e;dhalbert-patch-1:8ca11c9741a4a3f8d538f7c704481d7483d023b7;tannewt-patch-1:20bc067247a7f32737ffb8a3fef7d25f91cd69b1;BlitzCityDIY-patch-1:122217a7b2291657cada0460b266e4a5854f5506;dhalbert-patch-7:93b152a813ad0867f712c0a7684014f3c329e710;]|RELEASE:[none|none]
