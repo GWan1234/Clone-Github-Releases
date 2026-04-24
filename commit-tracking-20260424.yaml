@@ -1405,3 +1405,4 @@ adafruit/Adafruit-MCP4728-PCB: BRANCHES:[master:ab66f6aaf2e95f0027f17c2dde804d79
 adafruit/Adafruit_CircuitPython_BLE_Magic_Light: BRANCHES:[main:3a5c1468d4bfd853ee80fec37a81040c2da87725;]|RELEASE:[0.9.27|none]
 adafruit/actions-ci-circuitpython-libs: BRANCHES:[main:fdf1cc33fc828429d08b1785de92ba214038b469;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP2221-PCB: BRANCHES:[master:53e780f92007ff5cd0de8680872af6d316c64847;]|RELEASE:[none|none]
+adafruit/Adafruit_LIS3MDL: BRANCHES:[gh-pages:c4eb5800a077b165524555b9d4b6549a1b0946df;master:9940aa3a995b0a65315999b7297227925d685fa8;multi_inits:0c86770d3a7d8f5efe8a6461a439d4778e6909e7;arduino-api:fb2b299888c112056bd46bbb7289af13d56435af;combo-example:824489c9e987c4da6110397fd2382677a1d50d5f;doxy-fix:d162c5759bfab9ed707fa89b92098169a04e01ac;actionsci:ab63598436b6ec67577136922a157518d9447ec9;]|RELEASE:[1.2.5|none]
