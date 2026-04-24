@@ -1203,3 +1203,4 @@ adafruit/Adafruit-NeoPixel-FeatherWing-PCB: BRANCHES:[master:3b80152edf1808446ea
 adafruit/Adafruit-Relay-FeatherWing-PCBs: BRANCHES:[master:130d79e53912a8a22dc273c521f96e74ea0b280d;]|RELEASE:[none|none]
 adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB: BRANCHES:[master:b099d41a3fb4cddce5f19a7a8bbdc7a2d68711d8;]|RELEASE:[none|none]
 adafruit/Adafruit-Audio-FX-Sound-Board-PCBs: BRANCHES:[master:378d5c6b68a12f1ec56110df7422b18ddeafe679;]|RELEASE:[none|none]
+adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: BRANCHES:[master:00cb07abd32b2a1bcfb4534cd69d71cc91630a36;]|RELEASE:[none|none]
