@@ -1115,3 +1115,4 @@ adafruit/Adafruit_ZeroI2S: BRANCHES:[master:4f9e1d15060b4e1cbc24ba4383d02aff5ec8
 adafruit/BLE-Robot-Rover: BRANCHES:[master:0982a9b21267ee76e238a34e61dea12d929cf955;]|RELEASE:[none|none]
 adafruit/Adafruit_FeatherOLED: BRANCHES:[master:17d62d3c42e593b263bcdac62c592afc79cc5685;gh-pages:e4d0f99e6e6dad20e8c84a7aa46a083e2957e790;refactor:d39ff120f43cc2f8f23bad2ce7d6874b52bb7641;]|RELEASE:[2.0.4|none]
 adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad: BRANCHES:[master:738c479a5a08af69c7864ff1053404e821fcd700;]|RELEASE:[none|none]
+adafruit/Printer-Profiles: BRANCHES:[master:ed08154bdf56525741dbfbfe852a1d9a747698bd;]|RELEASE:[none|none]
