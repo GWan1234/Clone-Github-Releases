@@ -947,3 +947,4 @@ adafruit/Adafruit_CircuitPython_AGS02MA: BRANCHES:[main:d1ce93ff836d67b188f3cf3e
 adafruit/Adafruit_AGS02MA: BRANCHES:[main:2c89af090ebcbcb480c76abc6fcc2bd34bf453db;gh-pages:b832397f3260e26d32798033a008735b2159f31d;fix-ci:0ac53263cead29ae201967d60126c8c993142b59;]|RELEASE:[1.0.3|none]
 adafruit/pi-facerec-box: BRANCHES:[master:bd4ba88a0590640a29987b1e11f35985af993a1b;]|RELEASE:[none|none]
 adafruit/Adafruit-PCF8574-PCB: BRANCHES:[main:a2fbf46bed447a1bd87b51f11169b275b9bc8fb0;]|RELEASE:[none|none]
+adafruit/Adafruit-MMC5603-PCB: BRANCHES:[main:fb9a564eb11939578643054a859481408a64a868;]|RELEASE:[none|none]
