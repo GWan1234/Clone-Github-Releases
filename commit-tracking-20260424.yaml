@@ -1101,3 +1101,4 @@ adafruit/Flora_Demos: BRANCHES:[master:3232f66ed232af7cc4655c52640012b607332169;
 adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: BRANCHES:[master:1de541ff46165575234d826ae64be64a82e8bc93;]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB: BRANCHES:[master:1611c88b5a0f16be4fa7ca2b05c5bc311e0f7577;]|RELEASE:[none|none]
+adafruit/Adafruit_SHT31: BRANCHES:[master:5e34a20df62371150f7cb10330919e9393b884b1;gh-pages:24f2d6e60cea1360485853cc97dcac35b4f96d80;busio:a303b73f6059f0e47db9a2ac7b47cdde2b73bf9b;]|RELEASE:[2.2.2|none]
