@@ -19,3 +19,4 @@ adafruit/Adafruit_CircuitPython_DS3231: BRANCHES:[main:5dc331cd99930dd209c63f772
 adafruit/Adafruit_CircuitPython_PCF8523: BRANCHES:[main:28187e912a1ddd5ae544857fb449198ea1914197;docs_req_fixes:bd4d237ddd5956207377d699396995e4df3b9dc1;discord-fix:f0e059aebf091b4c0048737cceebe7477d4b5703;]|RELEASE:[2.0.9|none]
 adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: BRANCHES:[master:1ef873512150740edc9798f90028facfa35fd81f;]|RELEASE:[none|none]
 adafruit/Adafruit-BNO055-Breakout-PCB: BRANCHES:[master:64c5a387aa807edb01eff440d1cd07ce4b608642;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Register: BRANCHES:[main:e168e97a2c9713ec0f82cb6171461873dfffd46d;patch-fix:a99a8e2089b15e85aa6ce6af9b2aeaac766c3171;]|RELEASE:[1.11.3|none]
