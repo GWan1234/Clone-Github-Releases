@@ -1170,3 +1170,4 @@ adafruit/Adafruit_VEML6070: BRANCHES:[master:f0638a4d745c7b04635b225ae9d6aeb4eb1
 adafruit/Adafruit_TinyCAP1188: BRANCHES:[master:da7346e9c4b491349d7f9ed82952703a89ee4082;]|RELEASE:[none|none]
 adafruit/Adafruit-VEML6070-PCB: BRANCHES:[master:3dd13922832c37869195787b3112429c482605c8;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB: BRANCHES:[master:b2e0b3f2930568da3471d6c42cb4919d573d3481;]|RELEASE:[none|none]
+adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB: BRANCHES:[master:1b15a4f782c555903c0cfd7174d0616d2e128887;]|RELEASE:[none|none]
