@@ -127,3 +127,4 @@ adafruit/Adafruit_CircuitPython_CAP1188: BRANCHES:[main:c6a1734cc8266aa0e43957fa
 adafruit/Adafruit_CircuitPython_MAX31856: BRANCHES:[main:d06f5b10135bb367ae3ffd7ceb74ba24b9406b59;dhalbert-ustruct:b687ce5f62d8dd8ffc79087ab9c4309853ea7fcc;]|RELEASE:[0.12.7|none]
 adafruit/Adafruit_CircuitPython_LIDARLite: BRANCHES:[main:749c0a572bdefb1f6efec59afa5b71ec0f9c3399;]|RELEASE:[1.3.14|none]
 adafruit/Adafruit_CircuitPython_FRAM: BRANCHES:[main:eebbba543a026140ac4a72f189fbfb85637e52d6;biggerfram:a8ee6e2a9d0386eebbc8f117acf6e17c228ef200;]|RELEASE:[1.3.29|none]
+adafruit/Adafruit_CircuitPython_MLX90393: BRANCHES:[main:89aed8d61471adbc27249f84f78801acea4e21ee;setup-py-update:17ab231dc66a4b9abbf18f8d36d1f6a6694cf027;]|RELEASE:[2.4.2|none]
