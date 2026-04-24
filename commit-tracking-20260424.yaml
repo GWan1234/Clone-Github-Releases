@@ -554,3 +554,4 @@ adafruit/Adafruit_CircuitPython_BME680: BRANCHES:[main:56c60ad8ffec0eebb191f13bf
 adafruit/USBHost_t36: BRANCHES:[master:ae1061ea503a96cae1cc0cd256c91ff1d08afd6d;my_generic_usb:c6515c7c5e8f484482b1c776ef48e79a533a14ad;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Power-Gauge-PCB: BRANCHES:[master:0dc263aaff419a6f150e74e4a9b6e94b6b4057be;]|RELEASE:[none|none]
 adafruit/usb_descriptor: BRANCHES:[master:d687dc3f03dacaf0750db65562fd43aad79b8a9a;dynamic-descriptors-help:727530692805bb1c9d9d20d7477804a1799e358d;]|RELEASE:[none|none]
+adafruit/Adafruit-SAMD09-Breakout-PCB: BRANCHES:[master:96a45c25123ad9d083f19f33c68cff4817065014;]|RELEASE:[none|none]
