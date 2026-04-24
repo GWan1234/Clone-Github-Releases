@@ -785,3 +785,4 @@ adafruit/Adafruit-DS3502-PCB: BRANCHES:[master:9562216c105b017f94334ad31ba957679
 adafruit/Adafruit-1.3-inch-240x240-TFT-PCB: BRANCHES:[master:7632e0cbe4a0b5b5219c8262aa0737c611716a09;]|RELEASE:[none|none]
 adafruit/Adafruit-2.0-inch-240x320-TFT-PCB: BRANCHES:[master:9804ed3f84ab9b4547706bc13a467492435a60f4;]|RELEASE:[none|none]
 adafruit/ArduinoECCX08: BRANCHES:[master:077d43bf713be4efdf5de2c3b15c8d587f0f4932;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_APDS9500: BRANCHES:[main:43410c611d6e3d78e7bf962426aa67bdd8c80c1a;]|RELEASE:[none|none]
