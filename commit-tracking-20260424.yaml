@@ -1193,3 +1193,4 @@ adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB: BRANCHES:[master:1b3616c9daf1cd0643bb
 adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB: BRANCHES:[master:3ad6bed6e1b407afa7119ae548b5c2f1b107c6b1;]|RELEASE:[none|none]
 adafruit/Adafruit-WICED-WiFi-Feather-PCB: BRANCHES:[master:f2c70ce49ef3df7f60be3a6a30fa39ff34a9dde3;]|RELEASE:[none|none]
 adafruit/Adafruit_MAX31856: BRANCHES:[master:2e5358b148116c083c24cda3b4e675942686541f;gh-pages:239bf0e2cf7cc80ff6b8c61675903843dd1d3654;action:41c96a7769add3235fb7493382090b0d201e9f1e;]|RELEASE:[1.2.8|none]
+adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46e8f2473a765239112a8b48f12;]|RELEASE:[none|none]
