@@ -1368,3 +1368,4 @@ adafruit/Adafruit_ImageReader: BRANCHES:[master:fb050eebd725d07f8045b97627787946
 adafruit/libgpiod_pulsein: BRANCHES:[libgpiod2:a91d3875192a875f2eacfed47e506963ecafe851;master:a91d3875192a875f2eacfed47e506963ecafe851;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TMP006: BRANCHES:[main:ceac48055904b57fe786d4bcbc9c457ce8f8da86;]|RELEASE:[2.1.25|none]
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc762a0cb25abfc437afecab66a5e88e5a5338;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_TinyLoRa: BRANCHES:[main:0b0c6abd09136c481c3ffae264170ed762ebc65d;]|RELEASE:[2.2.25|none]
