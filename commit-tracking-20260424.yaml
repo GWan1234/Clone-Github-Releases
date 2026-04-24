@@ -413,3 +413,4 @@ adafruit/toolchain-avr: BRANCHES:[attiny85_delay_increase:f0bd3e2eaef5cacab05c68
 adafruit/Arduino_Library_Github_Tools: BRANCHES:[master:be07c342fc63268f145ef94904ccedee9f999786;travis:be07c342fc63268f145ef94904ccedee9f999786;]|RELEASE:[none|none]
 adafruit/Adafruit_Arduino_Boards: BRANCHES:[master:3751f438bb2cff9b5970d1056c4a2e91876a93f0;add-wire-end:7157b88f4a683aa069d877b217f96c1063df01aa;refactor:f4e274f512f9def3b537ec98a76313e8229bf769;]|RELEASE:[1.4.15|none]
 adafruit/Adafruit_BNO055: BRANCHES:[master:1b1af096747d74d7a7b79b751cd70eefeee5813e;gh-pages:a075db98bf7cb4cb4772793786151f7b94e5e717;davgibbs-master:fbe39c88bdcde4b40b268fc352c2851977a1e67f;fix-documentation-link:4aa9ec9c3efb26ea41035c01298314a9b2c0fde6;actionci:06ab449d3aeb972fc7de3f963f29c33a712d2728;tinywirem:d964148c3bed73adbfd09deb77d08d678734eb15;]|RELEASE:[1.6.4|none]
+adafruit/ESP8266_Morse_Code: BRANCHES:[master:4043f058e0c18a0c69ad1ef09b74b7e0b60357ad;]|RELEASE:[none|none]
