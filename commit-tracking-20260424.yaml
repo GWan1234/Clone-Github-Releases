@@ -1243,3 +1243,4 @@ adafruit/Adafruit-BMP183-Breakout-PCB: BRANCHES:[master:3ee9a89b60a06bb53a157749
 adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a7263721490af9cc6a455f;]|RELEASE:[none|none]
 adafruit/GPSDemoApp: BRANCHES:[master:146c587b4712398de97c97ce53789d15f8c4b0e4;]|RELEASE:[none|none]
 adafruit/CharLCDPlateTest: BRANCHES:[master:cd2df54ef7ffd73fef905770315d007a628ec592;]|RELEASE:[none|none]
+adafruit/DotStarDemo: BRANCHES:[master:5169592fa88f9c18165a20983030298541768506;]|RELEASE:[none|none]
