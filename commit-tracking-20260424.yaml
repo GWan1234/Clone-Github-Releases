@@ -1646,3 +1646,4 @@ adafruit/Adafruit-TMP119-Temperature-Sensor-PCB: BRANCHES:[main:fe8ae26b0f8362aa
 adafruit/Adafruit_CircuitPython_AS7343: BRANCHES:[main:8f9edf05c40c7e4cb99de6013e6f6589cb5e1c0f;examples:172ea7bc26829d5752331f7ba5dc2bebd5870d6a;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit-TCS3430-Ambient-Tri-Stimulus-Color-Sensor-PCB: BRANCHES:[main:66a56ff8cdb46158dbb87cbe5cc557d7ff14b6e1;]|RELEASE:[none|none]
 adafruit/Adafruit-STCC4-and-SHT41-CO2-Temperature-and-Humidity-Sensor-PCB: BRANCHES:[main:3bf8a8ea4042964af182c617ce1ab904cc4a7bd1;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_STCC4: BRANCHES:[main:31bacd31f1c44ccc3cae6298fc56184777d7fdb6;]|RELEASE:[1.0.2|none]
