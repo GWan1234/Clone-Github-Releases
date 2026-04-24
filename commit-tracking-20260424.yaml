@@ -403,3 +403,4 @@ adafruit/Adafruit-NeoPixel-Driver-BFF-PCB: BRANCHES:[main:eb3fc189fbd73227ace0e5
 adafruit/Adafruit-5x5-NeoPixel-Grid-BFF-PCB: BRANCHES:[main:defbba9accab3281a52eb74f49cb0ef6d8ce7387;]|RELEASE:[none|none]
 adafruit/cyw43-driver: BRANCHES:[circuitpython9:7869c39530e3a9a41d0010c7ef47af3885a8b083;main:b7195d8f931a22bdb2da2699da14eeb3ca8a26f7;circuitpython8:746e0636033d0550b7652688124a77a6a1639cf9;]|RELEASE:[none|none]
 adafruit/lwip: BRANCHES:[circuitpython9:bd522fde9409398297b4e3244c92576b86ef16ec;circuitpython8:d26459c32c83aa14a6d4e30237d91cee36e0adbd;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_PixelMap: BRANCHES:[main:11c0846fe2d858f3188fefe6fc299af05f379520;]|RELEASE:[1.0.12|none]
