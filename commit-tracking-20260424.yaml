@@ -418,3 +418,4 @@ adafruit/Adafruit_CircuitPython_SPD1656: BRANCHES:[main:7e56b1870f06c7986951df11
 adafruit/Adafruit_CircuitPython_ACeP7In: BRANCHES:[main:488d485db56502609c8b9f5fcc281f2e6c18bcbb;]|RELEASE:[1.0.5|none]
 adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB: BRANCHES:[main:ce3ce90565b9e49af0ebbd1c2e0abd300d2fd0d3;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB: BRANCHES:[main:e724d4d8524af681a166bce0f3d29dee50b44cb1;]|RELEASE:[none|none]
+adafruit/Adafruit-OV5640-Camera-Breakout-PCB: BRANCHES:[main:6eba49749bf953b8e4c8abfd61bd996d184dc0c7;]|RELEASE:[none|none]
