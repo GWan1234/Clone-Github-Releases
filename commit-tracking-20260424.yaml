@@ -181,3 +181,4 @@ adafruit/Adafruit_VS1053_Library: BRANCHES:[master:ee1b0de61107db2c0f45bce55d057
 adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: BRANCHES:[master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80;]|RELEASE:[none|none]
 adafruit/Adafruit_L3GD20: BRANCHES:[master:d931c17ebc3094d40c472fda889cf97d9112f2a1;]|RELEASE:[1.0.0|none]
 adafruit/adavoice: BRANCHES:[master:b78baee279b7297fa3e43e27ef2de0863330c74e;]|RELEASE:[none|none]
+adafruit/Adafruit-Flora-Pixel-Library: BRANCHES:[master:eed8adeaad7fb8d342f96b3d97d11c35b5e76759;]|RELEASE:[1.0.0|none]
