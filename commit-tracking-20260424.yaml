@@ -133,3 +133,4 @@ adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f61
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9;]|RELEASE:[none|none]
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de;]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb;]|RELEASE:[none|none]
+adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:e2b7a7ef61b9cee1720b28030a2944d5efeb20fe;]|RELEASE:[none|none]
