@@ -1521,3 +1521,4 @@ adafruit/Adafruit_CircuitPython_MachXO: BRANCHES:[main:2bbc07b8896bcfc2e1cb78a12
 adafruit/zephyr: BRANCHES:[circuitpython:d991bfc190507849d510326b24ba7b7a6c51a0e6;fix_rp2350_entropy:6be0aa4c355f3ed9f7b9364969bfe042f23fe174;circuitpython-v4.3.0:8801b409ec554cfd217c159c00f91280ea1331db;main:03fa6a0c33c7e918d4157eb5404835c164b2c3f1;]|RELEASE:[none|none]
 adafruit/Adafruit_FT6x36: BRANCHES:[main:cf64b19b38310b0db7f4b8feaa011e399e5d522e;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_INA228: BRANCHES:[main:d51172d42baccc2418f47c5aed7017824c2217db;]|RELEASE:[2.0.5|none]
+adafruit/adafruit-zephyr-support: BRANCHES:[main:cb4516a62e618da59223ccb01eeedb70a9f196e1;]|RELEASE:[none|none]
