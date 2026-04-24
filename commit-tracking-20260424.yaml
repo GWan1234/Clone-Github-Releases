@@ -1841,3 +1841,4 @@ adafruit/Adafruit-SPI-Flash-SD-Card-PCB: BRANCHES:[main:8d985bd12f2732e94b4727e2
 adafruit/Adafruit_CircuitPython_SimpleMath: BRANCHES:[main:3653b67541b7dbf0fbaaa65628c25cc6900dea87;]|RELEASE:[2.0.19|none]
 adafruit/Adafruit-SHT40-PCB: BRANCHES:[main:40fe2b3aca1aaa3b2185d3d138e77d5b043a56e1;]|RELEASE:[none|none]
 adafruit/Adafruit_TCA8418: BRANCHES:[main:df1319acbe1f250b74d155c3535c177a20854030;gh-pages:60f96a0e819da6ddef94a4a4e6c726e7f48dff18;fix-ci:d4d4086974a117dc59b3c15261a99f000b9c0a8d;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit-ISO1540-PCB: BRANCHES:[main:59e7a9b459f6fe00e7247c57086b538a52093745;]|RELEASE:[none|none]
