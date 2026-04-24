@@ -839,3 +839,4 @@ adafruit/Adafruit-NeoKey-1x4-PCB: BRANCHES:[main:54262bcfc402392ed569482824f7cf7
 adafruit/Adafruit_CircuitPython_Ducky: BRANCHES:[main:e7eb69c069fc9d95fca2326b9691d87b7932cbed;docs_req_fixes:236ca0a6cc0aa90bd2e0227b99597420f0d18dc6;fix_rtd_theme:092f17f6a033c8aaef37a7d218f582e0149330a8;fix-example:dd0f94bcf005520b4c24ffbc8d466ad4cf62ad0f;]|RELEASE:[1.5.6|none]
 adafruit/Adafruit_CircuitPython_MacroPad: BRANCHES:[main:c3b6a690fa71af3bd39cfd157ea812e6e5d950ea;patch-fix:60f89abc185b6283fd2f507e57a417ac70c69cdc;linting:9a423cf45ac76ee730dfc88eea6eb223cff0ff96;]|RELEASE:[2.4.7|none]
 adafruit/ble-file-transfer-js: BRANCHES:[main:585c05f25f362bce498324e7966f4768ba6224dd;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit-MacroPad-RP2040-PCB: BRANCHES:[main:fdd7f2cb3bc2b3c7a9c0765780387647ea872141;]|RELEASE:[none|none]
