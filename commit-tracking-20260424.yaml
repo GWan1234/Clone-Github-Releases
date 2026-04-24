@@ -445,3 +445,4 @@ adafruit/Adafruit-Feather-RP2040-ThinkInk: BRANCHES:[main:d58fe34ce514708b82d5a2
 adafruit/Adafruit-PiCowbell-CAN-Bus-PCB: BRANCHES:[main:6a54bc0068c96f8ab23616ab215f0996f77bea80;]|RELEASE:[none|none]
 adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB: BRANCHES:[main:499de161e9d106e530be5ba1aa09a756c38a31ba;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Wave: BRANCHES:[main:b2dd41fa0e3757c187a4693147eb7d83a84b5119;fix-doc-badge:217ba01fd888767d23acc7b6dd83f8bc78c30a30;]|RELEASE:[0.0.10|none]
+adafruit/Adafruit_CircuitPython_Prompt_Toolkit: BRANCHES:[main:9f5017e7ebad8a6d7816958cca099ef1a80f2355;]|RELEASE:[1.0.8|none]
