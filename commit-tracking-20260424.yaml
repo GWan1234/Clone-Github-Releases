@@ -1889,3 +1889,4 @@ adafruit/Adafruit_CircuitPython_AD569x: BRANCHES:[main:f3c9c6194af728c309facdb83
 adafruit/Adafruit-Qualia-S3-RGB666-PCB: BRANCHES:[main:789d986f34e7949f0477ffd4a9567d1a4c07b310;]|RELEASE:[none|none]
 adafruit/Adafruit-VCNL4020-Proximity-and-Light-Sensor-PCB: BRANCHES:[main:525a2aff1484aa23a424b656a5bf022d4b70a36e;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TemplateEngine: BRANCHES:[main:781879a3893cbdf20965197b7227a997ea387896;]|RELEASE:[2.0.9|none]
+adafruit/Adafruit_CircuitPython_HUSB238: BRANCHES:[main:acd68db15040942bdbb96868698280cac0a2d863;]|RELEASE:[1.0.8|none]
