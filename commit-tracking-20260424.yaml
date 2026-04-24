@@ -1112,3 +1112,4 @@ adafruit/Adafruit_ZeroDMA: BRANCHES:[master:5b48867c1d3015ec63cd8f31def45f5a2d8e
 adafruit/Adafruit_ASFcore: BRANCHES:[master:99f9be5465caad6e368102b5465b30aa9b07a26e;]|RELEASE:[none|none]
 adafruit/Adafruit_ZeroTimer: BRANCHES:[master:0ee525c2a1b07322f68c5644c099941a1ddb6dc0;gh-pages:bbb0ee9c13d8e3699348a75fd31dcf0256efb90b;actionci:0e204246d51287065142e3563cfc22468029d377;no-asf-rewrite:ed9299c348a45334dc9fa6adfe1c2227991516f8;]|RELEASE:[2.2.5|none]
 adafruit/Adafruit_ZeroI2S: BRANCHES:[master:4f9e1d15060b4e1cbc24ba4383d02aff5ec87a17;gh-pages:c4aa979484914fa0a8428826f4099ce1f79859e4;actionci:04d2487a3155458a99a93170efb6938401f9e708;]|RELEASE:[1.2.4|none]
+adafruit/BLE-Robot-Rover: BRANCHES:[master:0982a9b21267ee76e238a34e61dea12d929cf955;]|RELEASE:[none|none]
