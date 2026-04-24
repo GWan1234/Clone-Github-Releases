@@ -106,3 +106,4 @@ adafruit/circuitpython-weekly-newsletter: BRANCHES:[gh-pages:a4512825b37e779b896
 adafruit/Adafruit_CircuitPython_STMPE610: BRANCHES:[main:36ef301a9204972bb0c02432c469ffd3be6dc1f5;]|RELEASE:[1.3.22|none]
 adafruit/Adafruit_CircuitPython_LED_Animation: BRANCHES:[main:38a3c7844b4c59235fac46ee01e20caf872dad43;optimizations:73d5f61c6e059a289e7ff548fb90197559683f86;patch:9fde73f3dc34a2f3007a7a9b3ca1633adc511494;REUSE:3ed7a36c878ba80b597418b2db161b7000a425c6;]|RELEASE:[2.12.6|none]
 adafruit/Adafruit_CircuitPython_Colorsys: BRANCHES:[main:df5bcb448dbcc6c348d2e2984ce506eafead179c;fix-module-name:c68a56d04f66314abb92aa5e86fbb6841b6578f7;setup-py-disabled:d8f4d85984e5459b9be5a21f593e562d50e11078;]|RELEASE:[3.0.6|none]
+adafruit/Adafruit_CircuitPython_TMP007: BRANCHES:[main:9533cc2c8356f4c1d1f7e0e9b0bcabdb5007da40;]|RELEASE:[2.1.22|none]
