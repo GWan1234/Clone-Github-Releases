@@ -586,3 +586,4 @@ adafruit/Adafruit_CircuitPython_DRV2605: BRANCHES:[main:2b8443ff94a179a027efd9f6
 adafruit/Adafruit_CircuitPython_VCNL4010: BRANCHES:[main:6d0e981ff0019ebf50ba31cd4cee0ca4cd5fe8c6;]|RELEASE:[0.11.18|none]
 adafruit/Adafruit_QSPI: BRANCHES:[master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879;]|RELEASE:[3.0.0|none]
 adafruit/Adafruit-ItsyBitsy-32u4-PCB: BRANCHES:[master:b48fb1454afa84d1d83d4641d6c31fb49d360222;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_APDS9960: BRANCHES:[main:75a7b1abef02342a7cdead30271ce168243bf1fa;patch-test:9343629cf011fb48b69084710cf9d527298ba981;]|RELEASE:[3.1.19|none]
