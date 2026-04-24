@@ -614,3 +614,4 @@ adafruit/Adafruit_CircuitPython_Trellis: BRANCHES:[main:141926c2402d0d256167b2a4
 adafruit/Adafruit_CircuitPython_MMA8451: BRANCHES:[main:1bd84071679f88c8f2cd1fd3839dbb4d1cce5116;dhalbert-ustruct:a56cc3698457e12cae8ea35093448fc586272c16;patch-fix:9bea657be93267dc4ff37a19878217a767a85802;]|RELEASE:[1.3.29|none]
 adafruit/Adafruit_CircuitPython_SI5351: BRANCHES:[main:495957725744de9f1d0ef8af3972282105cad284;]|RELEASE:[1.4.11|none]
 adafruit/Cyber_Flower: BRANCHES:[master:70213348355adcf66542522b56580ca9d3805c70;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_AS726x: BRANCHES:[main:e342947cba64e0660a64038abb757224bfd0554f;dhalbert-ustruct:84835d377bb2bc11cd6ebb26b5830fe38307a905;]|RELEASE:[2.0.25|none]
