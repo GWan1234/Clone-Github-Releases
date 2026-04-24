@@ -1885,3 +1885,4 @@ adafruit/Adafruit-Rotary-Trinkey-PCB: BRANCHES:[main:b93b2aeaabbfbfd231eec6c88af
 adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: BRANCHES:[main:f45b12704ccbb7180d89db28e1af7bd861124133;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: BRANCHES:[main:53c602e97d82ec5722f49521e3dbe6c71da10422;]|RELEASE:[none|none]
 adafruit/Adafruit-AD5693R-Breakout-Board-PCB: BRANCHES:[main:5eaa6eb797945a917ff46a1db228a3c6ca9b0e8d;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_AD569x: BRANCHES:[main:f3c9c6194af728c309facdb83dfc8b4e7a34ccf2;]|RELEASE:[2.0.11|none]
