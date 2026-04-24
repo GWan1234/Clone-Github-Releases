@@ -1076,3 +1076,4 @@ adafruit/Adafruit_Debounce: BRANCHES:[gh-pages:c96ba6fa886a24bcca773e65f1c1b3036
 adafruit/esp-protocols: BRANCHES:[circuitpython:2f492c02289015ecbb36851dd1bd04e0eb0a9937;master:12bacdc3a01121ca97eeb3988e2faf38c7563472;]|RELEASE:[none|none]
 adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB: BRANCHES:[master:2fa8e23b2653935aaf2ee6c1171b122358689485;]|RELEASE:[none|none]
 adafruit/adafruit-bluefruit-le-desktop: BRANCHES:[master:d601794ba56041afc49df64014fea93ad1406933;]|RELEASE:[none|none]
+adafruit/io-swagger-templates: BRANCHES:[master:1eb516b553057f9a7eae1cc409541621fe9b95af;]|RELEASE:[none|none]
