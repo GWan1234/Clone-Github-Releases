@@ -389,3 +389,4 @@ adafruit/3.5inch-TFT-Breakout-PCB: BRANCHES:[master:f229969d9b1416f34bedc4015fce
 adafruit/Adafruit-5-HDMI-Backpack-PCB: BRANCHES:[master:906e152b9ae9eea91dbcb699fe88c4e1909339b5;]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-HAT-PCB: BRANCHES:[master:fdee45a5dee903ecfbd9f010ca250b968f43a1f5;]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Helper: BRANCHES:[master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;wheezy:da1641a7ade7446272df2781ea8fba42abbadefe;]|RELEASE:[none|none]
+adafruit/omxplayer: BRANCHES:[master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f;]|RELEASE:[2/10/2015|none]
