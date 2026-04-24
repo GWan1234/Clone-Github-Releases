@@ -1289,3 +1289,4 @@ adafruit/Adafruit-RGB-Matrix-HAT-PCB: BRANCHES:[master:42d0963e0c03d152ab2fc2670
 adafruit/Adafruit-MPL115A2-Breakout-PCB: BRANCHES:[master:c28cfcbce2a9bd072de601268ede652433dbb51a;]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-Pi-PCBs: BRANCHES:[master:eebe4895c17e70200071dd98876799b278e233f3;]|RELEASE:[none|none]
 adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba65017103b;]|RELEASE:[none|none]
+adafruit/gdb-micro-trace-buffer: BRANCHES:[master:8baa889c6f515cc73145d2e9d2800efb85696be1;]|RELEASE:[none|none]
