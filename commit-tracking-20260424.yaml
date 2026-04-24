@@ -84,3 +84,4 @@ adafruit/Adafruit_CircuitPython_AVRprog: BRANCHES:[main:f276860a0bbdf1d1528d5238
 adafruit/Adafruit_CircuitPython_RFM69: BRANCHES:[main:2f8a38c3cae772aa73216499dd40fde695878566;docs_req_fixes:5e95b41adb824c475ebdfdc2380a9633110c9d74;fix_rtd_theme:fef9e6236cf265868f96a99e5d94824f7badafbc;]|RELEASE:[2.1.30|none]
 adafruit/Adafruit_CircuitPython_FocalTouch: BRANCHES:[main:2070d7853cd1fe81381e02f4bc0af1bb145cb69e;ladyada-patch-1:287f9e8b6afe37d295aab3e9719b16a5d5602863;]|RELEASE:[1.5.10|none]
 adafruit/Adafruit_CircuitPython_VL6180X: BRANCHES:[main:2df0df8e135fb1fc56c17c866e1608e7b4066019;patch-fix:f108c4e00ed793c997231b183c2e5d9dbd414d4b;]|RELEASE:[1.4.21|none]
+adafruit/Adafruit_CircuitPython_TSL2591: BRANCHES:[main:4fc5b0b07bdfb3a8f144dd5693a0546fbccb24ae;patch-fix:9c935d1eb42ebbdbb181b53fc5d8fedbb45ead0e;]|RELEASE:[1.4.8|none]
