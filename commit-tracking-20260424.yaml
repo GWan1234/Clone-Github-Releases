@@ -1264,3 +1264,4 @@ adafruit/Adafruit-Bluefruit-LE-Shield-PCB: BRANCHES:[master:6b86d1bdaa0a1058f473
 adafruit/Pixie-3W-Smart-LED-PCB: BRANCHES:[master:68dae8b61938339e1cd423abbddee3cfc6715022;]|RELEASE:[none|none]
 adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: BRANCHES:[master:217534674defab8d2040a7399b23d3cead345195;]|RELEASE:[none|none]
 adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: BRANCHES:[master:c5bdfe4c8e860cee7400539d6e45a235da7afcd2;]|RELEASE:[none|none]
+adafruit/Adafruit-DS2413-PCB: BRANCHES:[master:a5aeeffa483ae80c718e9cb3cd23ea769cd5321b;]|RELEASE:[none|none]
