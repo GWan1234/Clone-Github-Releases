@@ -502,3 +502,4 @@ adafruit/Adafruit_OPT4048: BRANCHES:[main:113c191ffb7c899a0921179579046e994948e4
 adafruit/Adafruit_CircuitPython_MIDI_Parser: BRANCHES:[main:901b2cb5e108e43159b2694852430109a98ee84b;]|RELEASE:[1.2.3|none]
 adafruit/Adafruit_INA237_INA238: BRANCHES:[main:b02845ec43143c4c601e98879721dc48725fb3cc;gh-pages:f71907bb2f785905f4a6d9c4e3cf60d2a5c9bf9a;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit-Sparkle-Motion-Stick-PCB: BRANCHES:[main:5a2fd7a7e1ae0e15677335af38f3ba7fcb5a308f;]|RELEASE:[none|none]
+adafruit/Adafruit-OPT4048-XYZ-Color-Sensor-PCB: BRANCHES:[main:a9569a56fbfb380a23adae0f867d1da971801185;]|RELEASE:[none|none]
