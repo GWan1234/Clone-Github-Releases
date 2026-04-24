@@ -1009,3 +1009,4 @@ adafruit/RP2040-Based-Tester-Brains-PCB: BRANCHES:[main:2d2ad210bc536647132b5b5b
 adafruit/Adafruit_Floppy_FeatherWing_PCB: BRANCHES:[main:8793e86222bd62b1ee243e07e97a8de9ff6a7e7e;]|RELEASE:[none|none]
 adafruit/Adafruit-ATtinyx16-Breakouts-PCB: BRANCHES:[main:8d8df661986daff4623344e7244f5448a0d37fba;]|RELEASE:[none|none]
 adafruit/esptool-mergebin-js: BRANCHES:[main:e7713006f9daac1c7f955348a243331576ed2646;]|RELEASE:[1.1.0|none]
+adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB: BRANCHES:[main:633459d74623227a18f7c4b1594db0840ba5592d;]|RELEASE:[none|none]
