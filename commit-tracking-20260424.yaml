@@ -998,3 +998,4 @@ adafruit/PicoDVI: BRANCHES:[master:93c013dde4d4cda7b6d0448a50d037a2f33c63b3;Wren
 adafruit/Adafruit-IoT-Button-with-NeoPixel-BFF-PCB: BRANCHES:[main:6c3fe13b68c13fb1ca52c27b5d0db88478e917f9;]|RELEASE:[none|none]
 adafruit/display-ruler: BRANCHES:[main:144f8ae4f9b67dbc52ead44ae1e482ae36b20e21;]|RELEASE:[none|none]
 adafruit/circuitpython-repl-js: BRANCHES:[main:1d14bb66f89853d23584668d403b464af6bc890d;]|RELEASE:[3.2.5|none]
+adafruit/Adafruit_CircuitPython_SPD1656: BRANCHES:[main:7e56b1870f06c7986951df110c3d7acecfb34efb;]|RELEASE:[0.9.8|none]
