@@ -1122,3 +1122,4 @@ adafruit/CircuitPlaygroundFirmata: BRANCHES:[master:26a0f9720476f0965ce93fa4ac96
 adafruit/Adafruit-PowerBoost-1000-PCB: BRANCHES:[master:493d06d70537ce418355b395bb251a661d683150;]|RELEASE:[none|none]
 adafruit/Reference-Cards: BRANCHES:[master:602f1c8823132464358e8eaf37ddbd3979048d9c;]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect_v2: BRANCHES:[master:26da88b2a667e1de42e029959f405f40130a10d8;xcode15_update:5b21c9e6499a944a5f94293f0928b5df82bdd219;mqtt_and_charts_update:28d2d50d31feec689c3a8c25fc71fdcfbb3fbf5c;circuitpython_osc:60551774b70ac8881f1437e5b337e99759f32801;circuitpython_service:51564ae949bd87dc85529548097dac019912d65c;swift2:0ad790d3d07788f5ff1d6c3440a2440605ae55ca;]|RELEASE:[none|none]
+adafruit/Circuit-Playground-Arduino: BRANCHES:[master:e931ce821578298567acb5898b602cd09a37a6a5;readmefile_try1:aa7e801fafab83d9e3653ff69466a34a59e62c1e;]|RELEASE:[none|none]
