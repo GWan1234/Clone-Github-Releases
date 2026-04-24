@@ -106,3 +106,4 @@ adafruit/Adafruit-VC0706-Serial-Camera-Library: BRANCHES:[master:e11b41a6ea3b5ee
 adafruit/RGB-matrix-Panel: BRANCHES:[master:81ee07118cc267cfab30743ae621c193c9e5838b;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;]|RELEASE:[1.1.9|none]
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: BRANCHES:[master:6f265953b8eb8ee1573c0f3bddfe5c41781c6d95;]|RELEASE:[none|none]
 adafruit/Adafruit_MCP73833_PCB: BRANCHES:[master:21d2302412f317989304d1bb608ae01c7c1d3808;]|RELEASE:[none|none]
+adafruit/ArduinoISP: BRANCHES:[master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685;]|RELEASE:[none|none]
