@@ -1518,3 +1518,4 @@ adafruit/Adafruit_CircuitPython_BNO08x: BRANCHES:[main:a9aa286c6a0bea3b459a7eac5
 adafruit/Adafruit-2-13in-eInk-Bonnet-PCB: BRANCHES:[master:76df16153ef37dc6a620457f3f69457a8bdb660a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_JTAG: BRANCHES:[main:5b5dea36851d35875de9edec2523eaacf0cae461;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MachXO: BRANCHES:[main:2bbc07b8896bcfc2e1cb78a1207d0438a1df4af7;]|RELEASE:[none|none]
+adafruit/zephyr: BRANCHES:[circuitpython:d991bfc190507849d510326b24ba7b7a6c51a0e6;fix_rp2350_entropy:6be0aa4c355f3ed9f7b9364969bfe042f23fe174;circuitpython-v4.3.0:8801b409ec554cfd217c159c00f91280ea1331db;main:03fa6a0c33c7e918d4157eb5404835c164b2c3f1;]|RELEASE:[none|none]
