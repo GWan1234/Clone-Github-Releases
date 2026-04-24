@@ -701,3 +701,4 @@ adafruit/Adafruit_IO_Documentation: BRANCHES:[dependabot/bundler/addressable-2.9
 adafruit/circuitpython-default-files: BRANCHES:[main:850cb39997d167a14265bf8ce4fc04e10465489a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TPA2016: BRANCHES:[main:9071620e91531769de9377cc110e2b5c71d14a05;doc/add-typing:22a1326dbd05c8509b5b72acf2a5fb63e54f582a;]|RELEASE:[1.1.23|none]
 adafruit/Adafruit_Arcada_GifDecoder: BRANCHES:[master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc;]|RELEASE:[1.3.3|none]
+adafruit/Adafruit_CircuitPython_SSD1351: BRANCHES:[main:0f76923aede64608d0d4bd3fc145e17a2f833ef5;setup-py-disabled:a9fcf15ffded3086fda2349a510a3daa11d30367;]|RELEASE:[1.4.9|none]
