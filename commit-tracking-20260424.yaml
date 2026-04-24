@@ -239,3 +239,4 @@ adafruit/Adafruit_RA8875: BRANCHES:[master:eece6ef40be7c3e21c4ba7ad332c93078e42c
 adafruit/Adafruit_SoftServo: BRANCHES:[master:9e9d72ad7487a7eda11c5f19dfcc7a81dc416d07;gh-pages:067333a6bceda3849897d7cfb1abce784bf42119;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit-Trinket-USB: BRANCHES:[master:51f208bc569dd79d7357f16d548ed0c43f4927e8;experimental-update-jan31-2014:da4d1b515a725f90208462f4d4a018f6391678bf;]|RELEASE:[none|none]
 adafruit/Adafruit-TLC59711-Breakout-PCB: BRANCHES:[master:db1aa65ded2fdca2fb8dca48995195abe2235a0f;]|RELEASE:[none|none]
+adafruit/Flora-NeoGeo-Watch: BRANCHES:[master:2e81db16a70abc0fb91af357fdd86ae946a53ae8;]|RELEASE:[none|none]
