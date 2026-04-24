@@ -1914,3 +1914,4 @@ adafruit/Adafruit_CircuitPython_ConnectionManager: BRANCHES:[main:69542345f3dc6f
 adafruit/Adafruit-TS3USB30-PCB: BRANCHES:[main:7973099481a65c3ff5689a037ec01d45db234d2c;]|RELEASE:[none|none]
 adafruit/Adafruit-TPS61040-PCB: BRANCHES:[main:07958c909f40c45c5aea5cdd2cc96ca19461ec96;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MCP3421: BRANCHES:[main:dbd135fbe03d6360bcfd82c94604ca8c7c6b6d9c;]|RELEASE:[1.1.7|none]
+adafruit/Adafruit-3.5in-Capacitive-Touch-TFT-FeatherWing-PCB: BRANCHES:[main:88d6f57cb721cbbae89b5a6fed1f939e1092c2d3;]|RELEASE:[none|none]
