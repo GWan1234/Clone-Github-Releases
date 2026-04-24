@@ -1507,3 +1507,4 @@ adafruit/Adafruit_CircuitPython_MatrixPortal: BRANCHES:[main:4d0c82ba1932424cc97
 adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB: BRANCHES:[master:959792478854acec21fb862650427ffaa32b07f1;]|RELEASE:[none|none]
 adafruit/Adafruit-MPM3610-PCB: BRANCHES:[master:8cdc9051c29e348b88fd83b331d0875e7154879b;]|RELEASE:[none|none]
 adafruit/AnimatedGIF: BRANCHES:[master:688d1c99fbf4ff82a2ceabab928fbe6cea244d31;pb-experiments:ef84f43a76b0fdbf41cf7466bb2f2d6d406bdcdb;test-drawbastract:21db6cd5a82c9dd92829449365e96ae899c655ec;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_TC74: BRANCHES:[main:e4d76e6946f697f9e1ecb9e12a42d78ee49b6a17;]|RELEASE:[1.0.24|none]
