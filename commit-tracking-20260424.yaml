@@ -1767,3 +1767,4 @@ adafruit/Election-Day-iOS: BRANCHES:[master:c3981b5815b58aaeae38ab4514d389865282
 adafruit/Adafruit_SSD1327: BRANCHES:[master:6404a444267240bfc19f55c7080c36c9710d13b9;fix-ci:b46138ddb9c9ea2f365f7826ca41d904104e4054;gh-pages:0baa94c2362bdc3dfa350b483b6906dc56db1e33;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit_Python_Shell: BRANCHES:[main:1e279fc15bd9db4c929955ba30208d5f436db9ed;]|RELEASE:[1.11.1|none]
 adafruit/BLM-Badge-PCB: BRANCHES:[master:85f0a9a0df072579ab00b5e9a2e22b0477bad65a;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_LC709203F: BRANCHES:[main:bcbb0cfead8650a61357a167bc47058f05fba159;patch-fix:4743baf6881fdeb332ba8b5d693bd80db0573f2f;fix_voltage:f516242df8a72e6ad0e2e7785f715e85314b9280;simplify-example-init:c247856f41d99616fe0897fafbf1075ead087aef;working:5bea33eb93a8821c187c67513ef771dd5c3a6548;]|RELEASE:[2.3.10|none]
