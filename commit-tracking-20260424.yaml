@@ -1981,3 +1981,4 @@ adafruit/Adafruit-HDC3021-Precision-Temperature-Humidity-Sensor-PCB: BRANCHES:[m
 adafruit/Adafruit-USB-Type-C-Vertical-Breakout-PCB: BRANCHES:[main:412fb33dba25c7b84994b1aa90161a8e67a379b2;]|RELEASE:[none|none]
 adafruit/CircuitMatter: BRANCHES:[circuitpython:119ab5f5d665dbbf3d40aa630abe88b818a9a8a4;main:14140f75530c6919855c60183dbe1e587cc6592a;]|RELEASE:[0.4.1|none]
 adafruit/Adafruit-USB-Type-C-PD-Switchable-PCB: BRANCHES:[main:d10701c22751842250420a06cf4d39d50d58c750;]|RELEASE:[none|none]
+adafruit/Adafruit-QT-Py-CH32V203-PCB: BRANCHES:[main:c5c1580d9823d2f8923778530339179531d024f6;]|RELEASE:[none|none]
