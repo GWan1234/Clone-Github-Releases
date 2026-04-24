@@ -519,3 +519,4 @@ adafruit/Adafruit-TPS61169-Constant-Current-Boost-Converter-PCB: BRANCHES:[main:
 adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: BRANCHES:[main:e146e77404551f1ae0619f6627bcc4435d81b0eb;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Color_Terminal: BRANCHES:[main:b665695cf255e4d95436d53f93865cf7807cf710;]|RELEASE:[0.2.3|none]
 adafruit/Adafruit_CircuitPython_AS5600: BRANCHES:[main:00b9b94a0a575865a5cbd8c454b0425afd8bd82b;]|RELEASE:[1.0.3|none]
+adafruit/Adafruit_bq25798: BRANCHES:[gh-pages:07d15606d6e410d8b5dcf3f36830c0cf061104f4;main:01e8dc096688770f834b13f1e63f1e747d88c02d;]|RELEASE:[none|none]
