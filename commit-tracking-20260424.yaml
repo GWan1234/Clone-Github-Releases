@@ -426,3 +426,4 @@ adafruit/Adafruit_Floppy_FeatherWing_PCB: BRANCHES:[main:8793e86222bd62b1ee243e0
 adafruit/Adafruit-ATtinyx16-Breakouts-PCB: BRANCHES:[main:8d8df661986daff4623344e7244f5448a0d37fba;]|RELEASE:[none|none]
 adafruit/esptool-mergebin-js: BRANCHES:[main:e7713006f9daac1c7f955348a243331576ed2646;]|RELEASE:[1.1.0|none]
 adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB: BRANCHES:[main:633459d74623227a18f7c4b1594db0840ba5592d;]|RELEASE:[none|none]
+adafruit/Adafruit-PiCowbell-Adalogger-PCB: BRANCHES:[main:667876fdbc1bf1bf7e68f5d9e240d109c55e5093;]|RELEASE:[none|none]
