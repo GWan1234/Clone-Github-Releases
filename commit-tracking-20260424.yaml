@@ -61,3 +61,4 @@ adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e9
 adafruit/Reflowduino: BRANCHES:[master:953add928782a5a8baf7adda3f973daf9a1276ff;]|RELEASE:[none|none]
 adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51bd16cd17286410;]|RELEASE:[none|none]
 adafruit/SDWebBrowse: BRANCHES:[master:429f394ac41bf7cce3d8d2dd8f0943ee986c5d76;]|RELEASE:[none|none]
+adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567;]|RELEASE:[1.2.0|none]
