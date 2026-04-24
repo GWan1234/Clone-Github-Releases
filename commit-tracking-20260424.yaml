@@ -142,3 +142,4 @@ adafruit/Adafruit_CircuitPython_MotorKit: BRANCHES:[main:dee829448b969f1946c968b
 adafruit/Adafruit_CircuitPython_miniesptool: BRANCHES:[main:5be10f70046d3a19a5df9b02f9276d19d7da75de;REUSE:cc6dc83cf28754bbd3e19fce87721351774b9ebd;]|RELEASE:[0.2.28|none]
 adafruit/Adafruit_CircuitPython_ESP_ATcontrol: BRANCHES:[main:e2cef5fe26e3e14522af7e1b4ae074a029d40c4c;not-using-with:9a63cbaddecd71c5e7b44bf0ff22d4485ad1ef6e;]|RELEASE:[0.11.7|none]
 adafruit/Adafruit_CircuitPython_BoardTest: BRANCHES:[main:515d18d1444418090641954cd108b6ae8c461a92;patch-fix:4f345d06ccc2ef90e9c005cf946541e45b3fac33;linting:58e8002e66fdf181cd4ba142695587b4ce851494;]|RELEASE:[1.2.27|none]
+adafruit/Adafruit_CircuitPython_Bitmap_Font: BRANCHES:[main:fe0cdfd5501070f5ca47b3e66dfd15e62c54011e;docs_req_fixes:f0233645c964b29088348bf8c6ac55ec60ddefc8;fix_rtd_theme:1a614f9633f84519bffee2146008d32b7b677d06;linting:d89c935c672f05dc29c9c5e18661572f7d3386df;]|RELEASE:[2.4.2|none]
