@@ -1870,3 +1870,4 @@ adafruit/Adafruit-FunHouse-PCB: BRANCHES:[main:4d8cb249c480c1fc4cf6891359cfbdf1c
 adafruit/Adafruit_CircuitPython_OV7670: BRANCHES:[main:e1dd879d85284439f0d4835dc5228f66aca66b7d;patch:1ad299c5106ff6971a1cabb2edd9d457028bffa1;]|RELEASE:[1.1.9|none]
 adafruit/Adafruit-NeoKey-FeatherWing-PCB: BRANCHES:[main:b80f2ae0778319e608a03a650e2590eef8f501f6;]|RELEASE:[none|none]
 adafruit/Adafruit-ItsyBitsy-RP2040-PCB: BRANCHES:[main:b12f7b3f1ebf71c53b30fb2f254b85aeb1e6d6f4;]|RELEASE:[none|none]
+adafruit/Adafruit-QT-Py-RP2040-PCB: BRANCHES:[main:5b6ebd1661fd5250b4f60bdba14d5c475259b7f4;]|RELEASE:[none|none]
