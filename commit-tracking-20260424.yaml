@@ -1561,3 +1561,4 @@ adafruit/Adafruit_STSPIN: BRANCHES:[main:c76482b58b04e25258fd8bd5873a98977b8a6ac
 adafruit/Adafruit_CircuitPython_SEN6x: BRANCHES:[main:1c2ec4e6714af7c4b4324bdded5a19ca1cde3366;]|RELEASE:[1.0.6|none]
 adafruit/Adafruit-INA237-Power-Monitor-PCB: BRANCHES:[main:d62a2a17f07157d492c9cd14a48fe0efc3f8dbbc;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_INA23x: BRANCHES:[main:abae74b376c4c9322ca12d3ee7b880df79841ffa;]|RELEASE:[1.0.3|none]
+adafruit/Adafruit-Wiz5500-Ethernet-Co-Processor-Breakout-Board-PCB: BRANCHES:[main:f7faefb4fd304faa20f5977add138715da4b3f3c;]|RELEASE:[none|none]
