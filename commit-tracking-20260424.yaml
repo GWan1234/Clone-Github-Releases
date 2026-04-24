@@ -590,3 +590,4 @@ adafruit/Adafruit_CircuitPython_APDS9960: BRANCHES:[main:75a7b1abef02342a7cdead3
 adafruit/Adafruit_CircuitPython_FeatherWing: BRANCHES:[main:43f766b1d74786c1246492fefbdc7c92f3edda12;patch-fix:d15d62b5d38d8e34d9d1e634b7da34e5a2eda820;linting:9c5d052b42f5b69c2a8ffba5b7f180e8489168e1;]|RELEASE:[1.15.10|none]
 adafruit/Adafruit_CircuitPython_FancyLED: BRANCHES:[main:57283d03376d154bc40cd39ee350aa355697b120;pb-rgbw:039c8e7b7133884750401f754687769c23888d2f;discord-fix:ff6b835eda94dc54fd1c48f797967b292fd458ae;]|RELEASE:[1.4.26|none]
 adafruit/Adafruit_ZeroFFT: BRANCHES:[master:7b285fc6d706ab4f983c5475ea45dcf2ff8edc4f;gh-pages:833e47f40a8318bade9bed6cd6ce6ffce0e0cf5e;action:da5072cc5ec0d99bc7c446dc8404e0feb5b012e9;]|RELEASE:[1.0.6|none]
+adafruit/Adafruit_CircuitPython_AVRprog: BRANCHES:[main:f276860a0bbdf1d1528d52380cf2d34dc2e43c60;patch-fix:7490faf39b5dddc2431d170f15f1a38a9018c2a2;]|RELEASE:[1.5.8|none]
