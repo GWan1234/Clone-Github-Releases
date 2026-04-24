@@ -1791,3 +1791,4 @@ adafruit/Adafruit_CircuitPython_TLA202x: BRANCHES:[main:0096974de1c9d85fa9483c5b
 adafruit/Adafruit-BrainCraft-HAT-PCB: BRANCHES:[main:1bc88c224a28d02f727879ffe7213ad599972443;]|RELEASE:[none|none]
 adafruit/Adafruit_TLA202x: BRANCHES:[master:56edbc87e559521f248fc8cfaa026b44abb81015;gh-pages:cf03cc94027171726085d17c4796ce544a5b051a;]|RELEASE:[1.0.2|none]
 adafruit/Logic2-SPIFlash: BRANCHES:[main:c6604edce621ac6f8074d2f498cc0105bf11382a;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit_MLX90395: BRANCHES:[master:f6e48b0fd637f124b0235f9606e8b992e22cd254;gh-pages:14af1281e4ba8e7ab4b31f98015367bde4e72e82;]|RELEASE:[1.0.3|none]
