@@ -56,3 +56,4 @@ adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db0
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d;]|RELEASE:[1.1.2|none]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:364b6e315bb638f88918776ade06b1e69b71d268;]|RELEASE:[none|none]
+adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c;]|RELEASE:[none|none]
