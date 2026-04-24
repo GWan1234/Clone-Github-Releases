@@ -61,3 +61,4 @@ adafruit/Adafruit_CircuitPython_BMP280: BRANCHES:[main:da8aa7d5be3f37d4b894098c4
 adafruit/Adafruit_CircuitPython_TSL2561: BRANCHES:[main:414fefdbf2d08a24d2339d8ac78b9ec931825e30;]|RELEASE:[3.3.25|none]
 adafruit/Adafruit_CircuitPython_BME280: BRANCHES:[main:252fa2ca61e4187eaad373e6765631cbbf1d8cc3;REUSE:3650b6b29cb90d6a4a59faf77807780ee5927872;pypi-readme-update:9f4c59bffb930998d7e7159fda00e550dffdf566;revert-12-add-dew-point:6a9d4e7bf17a8c7dd6bf5339ee0a7a03716e0ac9;]|RELEASE:[2.6.32|none]
 adafruit/Adafruit_CircuitPython_BME680: BRANCHES:[main:56c60ad8ffec0eebb191f13bf5923bab3bf14f98;patch-fix:80d5401fb7db21a0abc1912d4cd40636a52cb6ef;temp-offset:64d2709a312f07947f226dfaf06e2e62eb238157;chickadee-tech-lint:5ab8bef5c2e924f363b349d5f1f4b068271d3311;]|RELEASE:[3.7.16|none]
+adafruit/Adafruit_CircuitPython_VS1053: BRANCHES:[main:b1a434d9708b74529dae4b5674930c23b39d43ac;]|RELEASE:[1.2.26|none]
