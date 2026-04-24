@@ -1917,3 +1917,4 @@ adafruit/Adafruit_CircuitPython_MCP3421: BRANCHES:[main:dbd135fbe03d6360bcfd82c9
 adafruit/Adafruit-3.5in-Capacitive-Touch-TFT-FeatherWing-PCB: BRANCHES:[main:88d6f57cb721cbbae89b5a6fed1f939e1092c2d3;]|RELEASE:[none|none]
 adafruit/Adafruit-UPDI-Friend-PCB: BRANCHES:[main:6063046738409ca77509f5ccce2f2b0ce72be210;]|RELEASE:[none|none]
 adafruit/Adafruit-CAN-Bus-BFF-PCB: BRANCHES:[main:7456bb16b65da5de6bae232dbe146e98cf4b0a5b;]|RELEASE:[none|none]
+adafruit/Adafruit-DC-Power-BFF-PCB: BRANCHES:[main:de89d2fa7b7cfbdea51fc6e946cd2e780d7b2677;]|RELEASE:[none|none]
