@@ -1962,3 +1962,4 @@ adafruit/Adafruit-TSMP96000-Breakout-PCB: BRANCHES:[main:5d456214739128a6fc19903
 adafruit/Adafruit-Switchable-USB-Type-A-to-C-Breakout-Board-PCB: BRANCHES:[main:1566b53c2cd5469be964c5f8bf6cf9d399ec7730;]|RELEASE:[none|none]
 adafruit/Adafruit-CH9328-Breakout-PCB: BRANCHES:[main:8dccab1fd771ca7ed068b74442a3e8785da59d03;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_CH9328: BRANCHES:[main:52e93983abf1f2158db2cdcf4a906b4c22b3624c;]|RELEASE:[1.0.8|none]
+adafruit/arduino_core_ch32: BRANCHES:[add-qtpy-board:5355d8b506bcce97501061e2bc437c8a6934ccf4;main:273620c809ba4cc3c6928543c6929634de8e50ba;]|RELEASE:[none|none]
