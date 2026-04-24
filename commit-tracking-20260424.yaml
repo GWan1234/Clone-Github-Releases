@@ -89,3 +89,4 @@ adafruit/Adafruit_CircuitPython_WS2801: BRANCHES:[main:80e549b8c25b2662229aca8db
 adafruit/Adafruit_CircuitPython_VEML6070: BRANCHES:[main:d64ca4a69f7ec2f8fffe4b5abb35825a0927618b;stemma_i2c:f97dd63381af09b83702548d1ca74912def79f20;patch-fix:3d63cef9af7619a7e4247b4e000827d257450f34;]|RELEASE:[3.1.27|none]
 adafruit/Adafruit_CircuitPython_DS2413: BRANCHES:[main:b74b6d94abd4c2d0db95cda81818bd049692eef9;]|RELEASE:[1.2.24|none]
 adafruit/Adafruit_CircuitPython_MCP4725: BRANCHES:[main:6493475472e358423bb90fa48bd67e294a6b0f01;]|RELEASE:[1.4.21|none]
+adafruit/Adafruit_CircuitPython_MAX9744: BRANCHES:[main:20a448e4bb39f63f6810decf642c3636a236a78f;]|RELEASE:[1.2.24|none]
