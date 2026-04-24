@@ -729,3 +729,4 @@ adafruit/Adafruit_TinyUSB_Arduino: BRANCHES:[master:5d53bd5081e587f32752098e7529
 adafruit/SdFat: BRANCHES:[master:20f3ffa005c1db4e8184735329afbf7e5c90a66a;upstream-changes-2_2_2:0cc0c4e9a291637d1d0826ea2fb0e31d2fef6cd3;legacy_v1:8313193820a5b8bfd732e06365f5229db1b94c1a;fix-warnings:850e1aaee1812ebcee727bb476c88925a59d4478;pb-samd-dma:2b053a19103b954d2c632c472cb9728fbae6d0c4;]|RELEASE:[2.3.103|none]
 adafruit/Adafruit-Metro-M4-Express-AirLift-PCB: BRANCHES:[master:502637b33ce97a9a3048938506316001ef6dcd72;]|RELEASE:[none|none]
 adafruit/MakerFaireBayArea2019: BRANCHES:[master:92b9600dbbc761ea3b262291383f5aadd6b5f613;]|RELEASE:[none|none]
+adafruit/Adafruit-PyBadge-PCB: BRANCHES:[master:992e322d5b4b0b9a2b60a809ba2ebaa2b0cfe090;]|RELEASE:[none|none]
