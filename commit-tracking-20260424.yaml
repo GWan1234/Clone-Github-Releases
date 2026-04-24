@@ -1898,3 +1898,4 @@ adafruit/Adafruit_Faux86: BRANCHES:[main:aa3d577a462e1000777b0155e70f81e27eea44c
 adafruit/Adafruit_CircuitPython_CST8XX: BRANCHES:[main:7c3c0ac25ef2601350b7323fd7592c7ddf74ec44;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_CST8XX_Library: BRANCHES:[main:2f43c19d376f5f2800fd63ca277f1d1466c3503d;gh-pages:4bde3fd4f4ca72537a0cb53f46c4f90f03750b02;]|RELEASE:[1.1.1|none]
 adafruit/Adafruit_CircuitPython_PCA9554: BRANCHES:[main:c0d93c5f392c73747c110aa92eaadb5431768ec3;]|RELEASE:[1.0.9|none]
+adafruit/Adafruit-LM66200-PCB: BRANCHES:[main:a305a260e91be4643626c906667e9f58f7349832;]|RELEASE:[none|none]
