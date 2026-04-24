@@ -383,3 +383,4 @@ adafruit/Adafruit-Pi-Kernel-o-Matic: BRANCHES:[pitft:877272efc6546d01e8ee346abac
 adafruit/Adafruit-Motor-HAT-Python-Library: BRANCHES:[master:07cec2046678f72af87c759f191158b9a5f32824;]|RELEASE:[none|none]
 adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a;]|RELEASE:[none|none]
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: BRANCHES:[master:efe89824b3574463ebca864a2494f7c86fb5c82b;]|RELEASE:[none|none]
+adafruit/Pro-Trinket-Rotary-Encoder: BRANCHES:[master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7defa6;]|RELEASE:[none|none]
