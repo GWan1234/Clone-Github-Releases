@@ -827,3 +827,4 @@ adafruit/Adafruit_LSM303DLH_Mag: BRANCHES:[gh-pages:2f4671886f4ec572da7c10eee726
 adafruit/Adafruit_LSM303_Accel: BRANCHES:[gh-pages:e7e4b6703d2898e0a63fa8d74dbe8004b08827a4;master:baf3e995e74afdfbab0bf809b87f5822c03bfaaf;nullptr-defaults:78986298b58751fe15da0eeef99df51be1f44854;doxy-fix:d7e1c1ecf06a721af5f3eb46451254892eef1f65;actionsci:44888f1757fcbc0686394665c5174e9a1ab4c185;]|RELEASE:[1.1.9|none]
 adafruit/ArduinoCore-mbed: BRANCHES:[master:06d7756fc51651a20df0e1b6095cabf6f4a0c8c4;pennam_portenta_pdm_gain:69faa746c403a13b096ecc368e329044f9b38a2a;fix_i2c_scan:da21f0e4987a979829ab456a715400d5aed6aeee;]|RELEASE:[none|none]
 adafruit/Glider-Wireframe: BRANCHES:[main:12bf9547666aed83aae5f3cda80389eff65d8bd1;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Simple_Text_Display: BRANCHES:[main:df29c00d0cd8afe0206cb7177acf6f03ac3073d1;patch-fix:aeddb2b6f3f77b191d89b046d137fea661cb8494;]|RELEASE:[1.2.23|none]
