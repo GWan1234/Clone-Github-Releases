@@ -1500,3 +1500,4 @@ adafruit/Adafruit-TPS61023-PCB: BRANCHES:[master:82b5a33a1900a5c13849029bc84e785
 adafruit/Adafruit_AS7341: BRANCHES:[master:0a32bc8f963a50d5a0e6ab6129869d8053a1fe02;gh-pages:062544315b6d9f5d8a02bdc39d6b41fec12c1f9b;fix-ci:98f2a1d7a9c665e4766b573829d6e0e3d61086d8;build_fix:b4abc2c5cd7a6f05fed7385079e2def4af8af897;stephenf7072:38068ca1ab798b9469354c5fb31fd9e8a385226d;return_fix:c2d7006744de7d28d709721b413da38f0b84608e;]|RELEASE:[1.4.1|none]
 adafruit/Adafruit-PMSA003I-PCB: BRANCHES:[master:15c4cc619a86802bf7076370570ea5ab72ba020f;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AS7341: BRANCHES:[main:54dfbfdb5adaf8d618de1a4d9ef65a2ff5e71255;fix_rtd_theme:2be8aa13fc48a777d22e3f53b6bbb43d3b930c4d;patch-fix:991f3b292f135503b8eb9fb6d045a3bcb784160e;]|RELEASE:[1.2.27|none]
+adafruit/Adafruit-PCF8591-PCB: BRANCHES:[master:618da56679c56b97583774e2c2f724c453e78396;]|RELEASE:[none|none]
