@@ -267,3 +267,4 @@ adafruit/quirc: BRANCHES:[main:8c6ffa228a4c7643daed7039d3c51d38a43991b8;]|RELEAS
 adafruit/Adafruit-HTU31-PCB: BRANCHES:[main:9ac7a4470edb8555ba33d1aba62f260fa4cc63da;]|RELEASE:[none|none]
 adafruit/Adafruit-24LC32-PCB: BRANCHES:[main:e92cf5549d43c5c17ab04d6ee2899a7783cc19f4;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_PCF8563: BRANCHES:[main:c4ca8d355b79179b44716544577925442a801bc0;]|RELEASE:[2.0.9|none]
+adafruit/Adafruit-3.2-TFT-Breakout-PCB: BRANCHES:[main:78921b1128d96fb384ceedf88545cafa5540b3a8;]|RELEASE:[none|none]
