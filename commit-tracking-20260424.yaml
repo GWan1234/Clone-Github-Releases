@@ -1995,3 +1995,4 @@ adafruit/Adafruit-DS2482S-800-Breakout-PCB: BRANCHES:[main:520f5e8de72928ab3b551
 adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: BRANCHES:[main:cde79ddef57c7df69a5e7268b66567fa50b7e42d;]|RELEASE:[none|none]
 adafruit/Adafruit-Sunken-USB-Type-C-Breakout-PCB: BRANCHES:[main:4cb1207ddd6eae864f4410d110bac38072e9b895;]|RELEASE:[none|none]
 adafruit/Adafruit-RP2350-HSTX-to-DVI-Adapter-PCB: BRANCHES:[main:a607353591e19b0b8bc43ebdb2391b96b9278346;]|RELEASE:[none|none]
+adafruit/Adafruit_INA3221: BRANCHES:[main:43558800d999eecb35de7b15b94488afa945825e;gh-pages:06845a37e7ca82b836777d7c24d907c815fa4753;]|RELEASE:[1.0.3|none]
