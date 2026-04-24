@@ -28,3 +28,4 @@ cockpit-project/cockpit-files: BRANCHES:[main:97f1668be9864bc1ced2694bd46c68660c
 cockpit-project/cockpit-files-weblate: BRANCHES:[main:cba22f6a1294927d357053b02d2392c76958083f;]|RELEASE:[none|none]
 cockpit-project/.github: BRANCHES:[main:1f0f37943e41c60e144a466f4e936aadcc397eda;]|RELEASE:[none|none]
 cockpit-project/cockpit-docs: BRANCHES:[main:da6589a9c572fa2870429eea6faf0365e37ac56d;]|RELEASE:[none|none]
+cockpit-project/subscription-manager-cockpit-weblate: BRANCHES:[main:0fc573ec48f21126b5b82ae2911967c70c409588;]|RELEASE:[none|none]
