@@ -1569,3 +1569,4 @@ adafruit/Adafruit_CircuitPython_STSPIN: BRANCHES:[main:09be7751e4bfdeaed2a39d5a5
 adafruit/awesome-open-source-robotic-arms: BRANCHES:[main:fec1141d5dc44edccb7f06e66cd71d43e1bd9d32;]|RELEASE:[none|none]
 adafruit/Adafruit-TPS61169-Constant-Current-Boost-Converter-PCB: BRANCHES:[main:c538e5fd9950a652d65cf40744e51a227d458ab2;]|RELEASE:[none|none]
 adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: BRANCHES:[main:e146e77404551f1ae0619f6627bcc4435d81b0eb;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Color_Terminal: BRANCHES:[main:b665695cf255e4d95436d53f93865cf7807cf710;]|RELEASE:[0.2.3|none]
