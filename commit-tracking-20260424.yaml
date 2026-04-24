@@ -1694,3 +1694,4 @@ adafruit/Adafruit_remoteFXTrigger: BRANCHES:[master:f018b3b5323818cf93bd5e1005e8
 adafruit/Adafruit_CircuitPython_Waveform: BRANCHES:[main:8d36e16180f10e0a2a733e53ba0c767f33219ecf;]|RELEASE:[1.3.27|none]
 adafruit/Adafruit_CircuitPython_RTTTL: BRANCHES:[main:3fb2062f3ee6408eb6151d179e5d2af6d6aceaac;]|RELEASE:[2.4.29|none]
 adafruit/Adafruit_MCP3008: BRANCHES:[master:94e5003152294bf6877da976e079af476de3544f;gh-pages:172dbc4597e2dc2fe4c3a45619c6fe4012783ba5;]|RELEASE:[1.3.3|none]
+adafruit/awesome-adafruitio: BRANCHES:[master:4f82a243d30de770ff8fd3273d3db543817a3818;]|RELEASE:[none|none]
