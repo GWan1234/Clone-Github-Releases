@@ -557,3 +557,4 @@ adafruit/usb_descriptor: BRANCHES:[master:d687dc3f03dacaf0750db65562fd43aad79b8a
 adafruit/Adafruit-SAMD09-Breakout-PCB: BRANCHES:[master:96a45c25123ad9d083f19f33c68cff4817065014;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_VS1053: BRANCHES:[main:b1a434d9708b74529dae4b5674930c23b39d43ac;]|RELEASE:[1.2.26|none]
 adafruit/Adafruit_CircuitPython_VC0706: BRANCHES:[main:52c5d073e1d9156214aa2fa6dc83bb6a9a9cecca;require_pyserial:af0c0d93c9766befa3467a65e1d4646390146658;]|RELEASE:[6.0.17|none]
+adafruit/Adafruit_CircuitPython_ADS1x15: BRANCHES:[main:b5057ce3bee6552eb36827dc1217cbbe88152a00;]|RELEASE:[3.0.4|none]
