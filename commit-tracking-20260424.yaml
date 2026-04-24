@@ -279,3 +279,4 @@ adafruit/Adafruit-Proximity-Trinkey-PCB: BRANCHES:[main:6e99b157c7857fc71afc03e7
 adafruit/Adafruit_CircuitPython_Radial_Controller: BRANCHES:[main:c49212d5694ae8a17d1a1e6dfe8a04f1a7a51e0e;]|RELEASE:[1.0.19|none]
 adafruit/broadcom-peripherals: BRANCHES:[main-build:ec1043800fc987f7067fc07615193439843695d6;main:6d990ac1b16a8856fe031fa8c0e392c150d52a73;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_OV5640: BRANCHES:[main:6b0859eaf91c2bb87258faf6f34d79671d92726b;docs_req_fixes:f52a1b3e0d1e23371c46273aa1cf705b40e5404a;fix_rtd_theme:67db66fc90a5025133b289ed4bedcab9ccfe6517;dev/pre-commit-patch:e5f7244a6c7448ad16e8ab3b60b91348e5b9cf5e;pico-simpletest:07292b99f3fb9c957c4e252c4b0f81474baf9add;seesawify:b78e625dbb5a06acf1af1f8810799e6e50ee3b9a;switches:f33a3a656ea45f8d4f722280205ddfc7799e837d;]|RELEASE:[1.2.13|none]
+adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB: BRANCHES:[main:b6d4e909afa879750c0bd96747585dc598a90a67;]|RELEASE:[none|none]
