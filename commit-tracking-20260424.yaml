@@ -1067,3 +1067,4 @@ adafruit/Adafruit_FT5336: BRANCHES:[gh-pages:0ae6fccf963d4b2eabbfaafeeec05d342c9
 adafruit/Adafruit-Metro-ESP32-S3-PCB: BRANCHES:[main:4ae86649879d3e6c4b93b258ce9f9d0889f40ad2;]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-Pi-Beret-PCB: BRANCHES:[main:db6a85a699fe0bd1d8f0cb4918d9db1ea701f3d9;]|RELEASE:[none|none]
 adafruit/Adafruit_HUSB238: BRANCHES:[main:19ffa188866ba6a5e28b28d0d61bd259a8db68e1;gh-pages:6960df0614bf526aed328409323152b870704bbb;]|RELEASE:[1.0.1|none]
+adafruit/Adafruit_VCNL4020: BRANCHES:[main:c467fcad07a18a9625160afea092b2a0cf7840ba;gh-pages:da21f358050a90acc8b0ad36700457a1631eb033;]|RELEASE:[1.0.1|none]
