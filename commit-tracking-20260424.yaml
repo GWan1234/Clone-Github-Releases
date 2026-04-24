@@ -149,3 +149,4 @@ adafruit/Adafruit_CircuitPython_GFX: BRANCHES:[main:a1bb86535edc7631e98636e96f34
 adafruit/Adafruit_CircuitPython_PCD8544: BRANCHES:[main:1428422d9bcc8ced9e6f53ea5948799d04413a0e;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit_CircuitPython_SharpMemoryDisplay: BRANCHES:[main:b4c64bc9ffab699edf3a20392a357662c325309e;]|RELEASE:[1.4.19|none]
 adafruit/Adafruit_CircuitPython_BLE: BRANCHES:[main:82ada04a0f4019de00d103256621f73b80151a0d;pylint-fix:5e4e55c9d2d315f4d7fe66a1a4b31ed7ac65ca5b;]|RELEASE:[10.1.3|none]
+adafruit/Adafruit_CircuitPython_RPLIDAR: BRANCHES:[main:3d543d64e4bdb0636b96783b03f42ed5c50af4ec;REUSE:19709c9fbfef32a9bf48fd0ace2829dfb5137aa5;badge-link-fix:4559a7ef32fa48dec7d6925d35714f4dbbb26b89;]|RELEASE:[1.2.21|none]
