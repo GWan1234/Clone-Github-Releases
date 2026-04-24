@@ -188,7 +188,6 @@ jobs:
             echo "BRANCHES:[${branch_states}]|RELEASE:[${rel_tag}|${rel_commit}]"
           }
 
-
           # =========================
           # 核心：只要任意一个变化 → 必须备份
           # =========================
@@ -398,10 +397,19 @@ jobs:
               git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
 
               ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
-              7z a -t7z -mx5 -mmt2 "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
-              [[ -f "$ARCHIVE" && -s "$ARCHIVE" ]] && sha256sum "$ARCHIVE" > "$ARCHIVE.sha256" 2>/dev/null || true
+              
+              # ✅ 分卷参数正常保留
+              7z a -t7z -mx5 -mmt2 -v1500m "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
+              
+              # ✅ 核心修复：遍历找出生成的所有分卷文件（如 .7z.001, .7z.002 或单独的 .7z）
+              for f in "${ARCHIVE}"*; do
+                if [[ -f "$f" && -s "$f" && "$f" != *.sha256 ]]; then
+                  sha256sum "$f" > "${f}.sha256" 2>/dev/null || true
+                  # 同时将压缩包和校验文件推入数组
+                  FILES+=("$f" "${f}.sha256")
+                fi
+              done
 
-              [[ -f "$ARCHIVE" ]] && FILES+=("$ARCHIVE" "$ARCHIVE.sha256")
               IDX=$((IDX + 1))
             done
 
@@ -412,8 +420,11 @@ jobs:
             fi
 
             local TOTAL_SIZE=0
-            for f in *.7z; do
-              [[ -f "$f" ]] && TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
+            # ✅ 核心修复：统计分卷文件大小也要用通配符
+            for f in *.7z*; do
+              if [[ -f "$f" && "$f" != *.sha256 ]]; then
+                TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
+              fi
             done
 
             echo "🚀 Creating release: $TAG"
@@ -425,7 +436,10 @@ jobs:
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
               --notes-file "$NOTES_FILE" 2>/dev/null; then
-              echo "❌ Release create failed → ABORT"
+              echo "❌ Release create failed → Cleaning up orphaned draft..."
+              # 强制删除刚刚创建的废弃 Release 和 Tag
+              gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
+              
               error_occurred=1
               rm -f "$NOTES_FILE"
               cleanup
