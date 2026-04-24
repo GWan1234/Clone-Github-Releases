@@ -486,3 +486,4 @@ adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB: BRANCHES:[master:afaa9a44856f3
 adafruit/Adafruit-PCF8523-RTC-Breakout-PCB: BRANCHES:[master:4ec7e14d667a2d075430da0980c35c4f049e860b;]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M0-Express-PCB: BRANCHES:[master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125;]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Express-PCB: BRANCHES:[master:2962c0cb972e031d070303bbeda3ed95a2098951;]|RELEASE:[none|none]
+adafruit/ARDX-Fritzing-Diagrams: BRANCHES:[master:55a3c1bf7a8a806078ba129865149882ecd4050f;]|RELEASE:[none|none]
