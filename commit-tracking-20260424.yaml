@@ -435,3 +435,4 @@ adafruit/Adafruit_CAN: BRANCHES:[main:d029f1dfdea13c686e98d9456ae176d7fc8d56f1;c
 adafruit/Adafruit_MCP2515: BRANCHES:[main:f283438d8021440568b3f2a8e49eccc781ff3473;gh-pages:f189f86b7685b640c67c99e1995c86afc8f3f3cd;]|RELEASE:[0.2.1|none]
 adafruit/Adafruit_TSC2046: BRANCHES:[main:3557a58bf1b87a8af5d637f6a13c4cfc776dc97c;gh-pages:9700ab1620c7edc993dbdfd54cae1a7bc82f8b3b;pre:9be243b4b0aa049c07966c5ebe0625483f10440e;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: BRANCHES:[main:263cd9f75ba8c8b48291bd6e62f8672c98619663;]|RELEASE:[none|none]
+adafruit/Adafruit-CAN-Pal-PCB: BRANCHES:[main:56618b3a53162ce48872514be044eab033ed33ef;]|RELEASE:[none|none]
