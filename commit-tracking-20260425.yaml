@@ -185,3 +185,4 @@ ioBroker/ioBroker.growl: BRANCHES:[master:1cb0defd4f9101ddc9165e718fceb195301332
 ioBroker/ioBroker.graphite: BRANCHES:[master:0c86c280a04e38a6f5177d68d615a616786d9f78;]|RELEASE:[none|none]
 ioBroker/ioBroker.telnet: BRANCHES:[master:235475ec8e8ca00076cd321043db9490f02345f7;]|RELEASE:[none|none]
 ioBroker/ioBroker.knx: BRANCHES:[master:2e73cdf6fa306083cb9c4ef4168c0771b3c20a9a;no-git:0362cd9986fa8e456231bcc9582d23fa64f1e1ea;]|RELEASE:[0.7.0|none]
+ioBroker/ioBroker.socketio: BRANCHES:[master:c4a39922f03e52fcd628493c55dab03f01bd82c5;typescript:cffd0e7bef57965e6c1f3a87c997172998bc15ab;socketio-upgrade:cf089aae599c4b9f75acd45e96de32d793b51619;developJack:4ec6bb90b460a93cbce93df15ee4fd8899eeb382;]|RELEASE:[v7.1.3|67c329cab141ac1240e02a00ef52a11f628adae7]
