@@ -77,3 +77,4 @@ cockpit-project/cockpit-podman-weblate: BRANCHES:[main:117c71f3ddc23782be51a01ee
 cockpit-project/cockpit-weblate: BRANCHES:[main:4acda0e4791e51a686294f2db535dd0025219101;]|RELEASE:[none|none]
 cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:1b493572f1be2a8e9aebfb5243e019ea3625de2e;]|RELEASE:[none|none]
 cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]
+cockpit-project/presentations: BRANCHES:[main:ea28a183510394cf43194cac689a4984df23c8d9;]|RELEASE:[none|none]
