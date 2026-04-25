@@ -121,3 +121,4 @@ esphome/bluetooth-proxies: BRANCHES:[esphome-version-update:165ab90164dd6964fdc4
 esphome/deployments: BRANCHES:[dependabot/github_actions/hashicorp/setup-terraform-4.0.0:56ec8fc1045bff345d1605a85628a7c9ad8f9dbf;main:c50b61d9ace129171add357cdcc242c51eed2e16;jesserockz-2026-067:fd0fe022c965c907d15e508bbcab46fa5c723b59;jesserockz-2026-068:4f606eaa5e4815691242eb02811e5ee2925e1613;]|RELEASE:[none|none]
 esphome/dashboard-api: BRANCHES:[dependabot/github_actions/github-actions-e01ed90380:df92ab9aadceac231cdd6f62eb41f1f39834b8bc;main:84922ef3e8e36af51b00262e2ca9d0bd196749a6;]|RELEASE:[1.3.0|none]
 esphome/ESPAsyncTCP: BRANCHES:[main:27d5661e6877699de21e256262e537475170a9ba;pin-action-shas:7c48dbc52618fce3a3022eb136a739c0a512c585;]|RELEASE:[none|none]
+esphome/component-image-generator: BRANCHES:[main:a5a3be12459d71094d703d038db9efc489bd7753;]|RELEASE:[v1.0.0|none]
