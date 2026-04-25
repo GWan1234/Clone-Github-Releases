@@ -207,3 +207,4 @@ ioBroker/ioBroker.icons-material-svg: BRANCHES:[master:c5777c5a5ec9e20429609c4b3
 ioBroker/ioBroker.icons-mfd-png: BRANCHES:[master:8ac54dca9be08a00affcbce7dda22f82ca6250a0;]|RELEASE:[none|none]
 ioBroker/ioBroker.icons-mfd-svg: BRANCHES:[master:feb3c10a04e615b64cd83037f48d273817b5e293;]|RELEASE:[none|none]
 ioBroker/ioBroker.icons-open-icon-library-png: BRANCHES:[master:0847a79d713ee6725ccb6ccfb044c025b73ec946;]|RELEASE:[none|none]
+ioBroker/ioBroker.vis-metro: BRANCHES:[master:eefd2d5e557bc1f5a1d53098eb66ea5332315e06;]|RELEASE:[v1.2.0|eefd2d5e557bc1f5a1d53098eb66ea5332315e06]
