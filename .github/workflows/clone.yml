@@ -53,6 +53,14 @@ jobs:
           # 永远使用上一个历史文件做对比
           LAST_TRACKING_FILE=$(ls -1 commit-tracking-*.yaml 2>/dev/null | sort -r | head -n1 || true)
 
+          # ============== 🔥 新增：复制最近跟踪文件作为当天初始基线 ==============
+          # 目的：即使当天工作流中途失败，也能保留之前所有仓库的已知状态，
+          #       避免因为当天文件缺失而导致下一次运行误判为“从未备份”而强制全量。
+          if [[ ! -f "$TRACKING_FILE" && -n "$LAST_TRACKING_FILE" && -f "$LAST_TRACKING_FILE" ]]; then
+            echo "📋 Copying latest tracking file to today: $LAST_TRACKING_FILE -> $TRACKING_FILE"
+            cp "$LAST_TRACKING_FILE" "$TRACKING_FILE"
+          fi
+
           # =========================
           # 安全函数
           # =========================
@@ -122,9 +130,7 @@ jobs:
           set_tracking() {
             local repo="$1"
             local state="$2"
-            if [[ ! -f "$TRACKING_FILE" ]]; then
-              echo "commit-tracking: $NOW_HUMAN" > "$TRACKING_FILE"
-            fi
+            # 由于上面已经初始化了当天文件（如果之前不存在），这里不需要再判断创建
             yq -y -i --arg repo "$repo" --arg state "$state" '.[$repo] = $state' "$TRACKING_FILE" 2>/dev/null || true
           }
 
