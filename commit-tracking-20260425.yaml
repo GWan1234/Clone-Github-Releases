@@ -75,3 +75,4 @@ cockpit-project/cockpit-ostree: BRANCHES:[main:e3486407ee446a66740ad218328cbfc16
 cockpit-project/cockpit-podman: BRANCHES:[main:772987d75008a93bc54497f630cbd7a213755f3f;tasks-container-update-cockpit-ci-container-20260420-044953:b6b5ad8efa98553a374b4bc272d7d1a8f79d0c19;dependabot/npm_and_yarn/types-f57dc2645f:6c288793e6c58b03853176c8fd328db73f4271d2;]|RELEASE:[125|95e2175f3dd6a65d7321db2038c764676106d0d3]
 cockpit-project/cockpit-podman-weblate: BRANCHES:[main:117c71f3ddc23782be51a01ee8a1f49b777836a4;]|RELEASE:[none|none]
 cockpit-project/cockpit-weblate: BRANCHES:[main:4acda0e4791e51a686294f2db535dd0025219101;]|RELEASE:[none|none]
+cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:1b493572f1be2a8e9aebfb5243e019ea3625de2e;]|RELEASE:[none|none]
