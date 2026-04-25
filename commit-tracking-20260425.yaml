@@ -137,3 +137,4 @@ esphome/esphome-glyphsets: BRANCHES:[pre-commit-ci-update-config:b9c8ab6b28c6dc7
 esphome/esphome-schema: BRANCHES:[main:e3bb819337ea009985c93684645dffd32b0cfe50;]|RELEASE:[2026.4.2|none]
 esphome/pngle: BRANCHES:[master:8bf3862f84a4643e75a7d92e046d7c07f934cead;]|RELEASE:[none|none]
 esphome/starter-components: BRANCHES:[main:34ad217e69336d07ca69645d3cf199c583ede1b3;]|RELEASE:[none|none]
+esphome/zwa-2: BRANCHES:[esphome-version-update:19b1f83d374d7e8a4fb4e82704111e012775e436;main:73b6b5b925882319b9a40fe60b278347c6d60bc7;20250928-get-usb-uart-release:66ab38f8222a06b2dbe920c28d0e02f9777dd472;20250926-rename:d91ad674acb32d4b0a417ec29e1ec82d92ad9685;20250926-fix-path:ff7cb360b075f9c00b2b1358a893343c450918cc;20250926-split-jobs:b663d3061c45150adb816bc3e6030fa5dcf2cd0c;]|RELEASE:[26.3.0|none]
