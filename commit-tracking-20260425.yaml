@@ -40,3 +40,4 @@ anzhiyu-c/Tianli-cdn-whitelist: BRANCHES:[patch-1:a80679860fecf117e14d25b24ca04f
 anzhiyu-c/translated-content: BRANCHES:[main:ad7d11ffdb1659b60ae1e9425ba8ee1a752b6542;yin1999-fix-ng-build:66f4a7f9db48f4a31fa303d2817fdc4bedcf034b;ru-remove-css_key_concepts-macro:edb1cf2e2b2611aed968b6d1f92e19fe7f38fe85;revert-7041-patch-1:e51fa7e51cee12924937798a6a53fe493e1980a3;]|RELEASE:[none|none]
 anzhiyu-c/varlet-deomo: BRANCHES:[main:57e31278ed150337e64dee73fa1cc638a39adb44;]|RELEASE:[none|none]
 anzhiyu-c/vercel-jsdelivr: BRANCHES:[main:d250495bf05aa45d8b9b3e7ce2605c509b4d110b;]|RELEASE:[none|none]
+anzhiyu-c/vite: BRANCHES:[main:61e801d10da8d67f6886993e4a723014d3865a08;]|RELEASE:[none|none]
