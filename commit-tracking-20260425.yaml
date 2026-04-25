@@ -71,3 +71,4 @@ cockpit-project/cockpituous: BRANCHES:[main:e3b32b348fb7da6f36329630d2f9e4056a0a
 cockpit-project/term.js: BRANCHES:[master:df24a161e45f461488ba773237a96faa4c82f1eb;mvollmer-patch-1:50dc1432d32574fdab465ba4d2917445ad43fa29;]|RELEASE:[none|none]
 cockpit-project/starter-kit: BRANCHES:[dependabot/npm_and_yarn/types-f57dc2645f:e54519dd843ca3818608bfcfe528f695249f2259;dependabot/npm_and_yarn/stylelint-b1565ee849:44bd3c048cced0a2cbf3a0137aff951cfea9b308;main:0d74fdf8d7b9f4ac0531ec158b838ca3b405f91d;]|RELEASE:[none|none]
 cockpit-project/registry-image-widgets: BRANCHES:[master:a7084e5f0b49d7ec0381fa417affba1ccdcc5611;]|RELEASE:[none|none]
+cockpit-project/cockpit-ostree: BRANCHES:[main:e3486407ee446a66740ad218328cbfc16513577e;]|RELEASE:[224|e43a3daf6ed0f73ec9d738eda2f2aa3a2feabb10]
