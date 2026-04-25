@@ -24,3 +24,4 @@ anzhiyu-c/hexo-filter-fcircle-anzhiyu: BRANCHES:[main:273b58a372de82a8a2e44fecd1
 anzhiyu-c/hexo-theme-anzhiyu: BRANCHES:[dev:72439d93936b63da59a4a1195f64de9f952f6cc1;main:72439d93936b63da59a4a1195f64de9f952f6cc1;]|RELEASE:[1.7.1|none]
 anzhiyu-c/hexo-theme-butterfly: BRANCHES:[master:4e99420568d19ccbe8e1283f2340d8197f63bad2;dev:496234c8ad9dd63d07107b1b0fd8c2a48a645953;]|RELEASE:[none|none]
 anzhiyu-c/img2color-go: BRANCHES:[main:93d52b5d402db432b2f02f0048205236cf892c8e;]|RELEASE:[none|none]
+anzhiyu-c/kkadmin-open: BRANCHES:[vercel:ac856f8ebd1f74302d621c5a6ce1f98810e75c34;master:77684799a97da83ed2b9cbeb2f67f79385e614fe;]|RELEASE:[none|none]
