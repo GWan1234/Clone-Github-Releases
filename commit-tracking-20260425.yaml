@@ -183,3 +183,4 @@ ioBroker/ioBroker.web: BRANCHES:[dependabot/npm_and_yarn/follow-redirects-1.16.0
 ioBroker/ioBroker.rickshaw: BRANCHES:[master:bb5ea2d94c45ec9dc07a6b8e8208c52a1c9bdc60;]|RELEASE:[none|none]
 ioBroker/ioBroker.growl: BRANCHES:[master:1cb0defd4f9101ddc9165e718fceb19530133291;]|RELEASE:[none|none]
 ioBroker/ioBroker.graphite: BRANCHES:[master:0c86c280a04e38a6f5177d68d615a616786d9f78;]|RELEASE:[none|none]
+ioBroker/ioBroker.telnet: BRANCHES:[master:235475ec8e8ca00076cd321043db9490f02345f7;]|RELEASE:[none|none]
