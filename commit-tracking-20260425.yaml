@@ -135,3 +135,4 @@ esphome/xmos_fwk_io: BRANCHES:[pin-action-shas:8ca524f645119f5842102d385d499cd3c
 esphome/esphome-project-template-r2: BRANCHES:[main:ba509731248640ca996cfe01472d1dbad8d6802a;]|RELEASE:[24.12.1|none]
 esphome/esphome-glyphsets: BRANCHES:[pre-commit-ci-update-config:b9c8ab6b28c6dc717a80217e8e32928e6bb0b179;main:e58122e8ac81d371c2800af27521ac256aed1034;simplify_code:bb44fcc2aba25aeb304f24b06635aab59ae92333;]|RELEASE:[v0.2.0|d58e481369ac111d05fc186e7f33e1b9f814869d]
 esphome/esphome-schema: BRANCHES:[main:e3bb819337ea009985c93684645dffd32b0cfe50;]|RELEASE:[2026.4.2|none]
+esphome/pngle: BRANCHES:[master:8bf3862f84a4643e75a7d92e046d7c07f934cead;]|RELEASE:[none|none]
