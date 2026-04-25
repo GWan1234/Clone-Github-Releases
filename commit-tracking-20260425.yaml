@@ -78,3 +78,4 @@ cockpit-project/cockpit-weblate: BRANCHES:[main:4acda0e4791e51a686294f2db535dd00
 cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:1b493572f1be2a8e9aebfb5243e019ea3625de2e;]|RELEASE:[none|none]
 cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]
 cockpit-project/presentations: BRANCHES:[main:ea28a183510394cf43194cac689a4984df23c8d9;]|RELEASE:[none|none]
+cockpit-project/cockpit-machines: BRANCHES:[main:83b77f06323e52f0f26ead96c7154d807e108cc8;dependabot/npm_and_yarn/types-f57dc2645f:c6ce692f1e851c5afce9b0004329f8a1ab284623;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;]|RELEASE:[352|83a039ec53b14b1963498ef9fe7260c66227f8bf]
