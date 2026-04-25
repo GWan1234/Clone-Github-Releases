@@ -41,12 +41,21 @@ repositories:
   name0:
 #    - openwrt
 #    - sing-box
+#    - armbian
+#    - armbian
+#    - armbian
   repo0:
 #    - openwrt/openwrt
 #    - SagerNet/sing-box
+#    - armbian/cache-next
+#    - armbian/cache
+#    - armbian/os
   source0:
 #    - https://github.com/openwrt/openwrt
 #    - https://github.com/SagerNet/sing-box
+#    - https://github.com/armbian/cache-next.git
+#    - https://github.com/armbian/cache.git
+#    - https://github.com/armbian/os.git
 
   name1:
     - mihomo
