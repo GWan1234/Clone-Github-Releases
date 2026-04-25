@@ -13,3 +13,4 @@ cockpit-project/bots: BRANCHES:[image-refresh-fedora-rawhide-20260424-234203:1c6
 cockpit-project/cockpit-podman-weblate: BRANCHES:[main:6d893f009e7ce23c859243eff5d7e63ac68b21dc;]|RELEASE:[none|none]
 cockpit-project/cockpit-weblate: BRANCHES:[main:4338f565e759c771e28f36636c337ce96f77d335;]|RELEASE:[none|none]
 cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:5850a33be0f725d12d1c2cab52b6af019b607f8a;]|RELEASE:[none|none]
+cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]
