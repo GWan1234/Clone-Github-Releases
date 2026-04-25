@@ -91,3 +91,4 @@ cockpit-project/cockpit-files: BRANCHES:[main:97f1668be9864bc1ced2694bd46c68660c
 cockpit-project/cockpit-files-weblate: BRANCHES:[main:cba22f6a1294927d357053b02d2392c76958083f;]|RELEASE:[none|none]
 cockpit-project/.github: BRANCHES:[main:1f0f37943e41c60e144a466f4e936aadcc397eda;]|RELEASE:[none|none]
 cockpit-project/cockpit-docs: BRANCHES:[main:da6589a9c572fa2870429eea6faf0365e37ac56d;]|RELEASE:[none|none]
+esphome/esphome-core: BRANCHES:[dev:254d059945932adb64f5cbe8f4928ea19b4f6f00;master:5d6f01d4c3579940927f03b1517f0d4a1b52032b;display-color:e1d991d588997498c70f7f6cca6d14019743ef99;fix-ultrasonic:4cf2eecf026696d9ba70604492d92ffd4098b659;add-ibeacon:e592c971172d97caadce0ee5a257b7919fb24651;beta:c7d00a72303ce075860a59d30291b559dd058b96;pzem004t:af9b454a0d8b4f1f94e7372f16f1954e07af76f3;sonoff-rf-bridge:ef8faf46066cd632288d155f89d87a0b61c8aef8;http-client2:a8c6a349b3fbe18db65b790f03cb8e148e4d7074;]|RELEASE:[v1.12.2|none]
