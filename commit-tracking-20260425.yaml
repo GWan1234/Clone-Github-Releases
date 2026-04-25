@@ -126,3 +126,4 @@ esphome/developers.esphome.io: BRANCHES:[improve-large-submissions-guidance:6768
 esphome/micro-wake-word-models: BRANCHES:[main:05b65922cc433c9df13e98e32a7fe520758c837e;]|RELEASE:[none|none]
 esphome/data.esphome.io: BRANCHES:[main:525747f1f0dbca72c6079e5c2d08d2027206ad9c;]|RELEASE:[none|none]
 esphome/.github: BRANCHES:[main:f3d4a4fa4c93daa46864caf0aaaa217cf1610b2d;]|RELEASE:[none|none]
+esphome/docker-base: BRANCHES:[main:1a02f62358c53fb1e41ffcd61eae8bc329dc69aa;]|RELEASE:[2025.04.0|none]
