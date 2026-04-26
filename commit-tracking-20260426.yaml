@@ -418,3 +418,4 @@ OpenListTeam/ocr_api_server: BRANCHES:[main:57d660df5a717b3eb30d03bc54e36ab1dcee
 OpenListTeam/OpenList-Proxy: BRANCHES:[feat/pages:61847608f3ab4ec84cff9098f78a148b5d9e6a11;main:649207eb45906693cfe1571d72f0bb2ad1a03acf;]|RELEASE:[v0.0.7|none]
 OpenListTeam/times: BRANCHES:[master:cf4314f6c16c535f9433fe400b78dba76234c808;]|RELEASE:[v0.1.0|none]
 OpenListTeam/gofakes3: BRANCHES:[master:e81a64992c96d6c1c07efd73bb35da889aebe3b0;package:e81a64992c96d6c1c07efd73bb35da889aebe3b0;]|RELEASE:[none|none]
+OpenListTeam/openlist-desktop-service: BRANCHES:[main:4c4d03ff6c4790c15613ef040f9369947f146430;]|RELEASE:[i686-pc-windows-msvc|none]
