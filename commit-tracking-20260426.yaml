@@ -587,3 +587,4 @@ thelastoutpostworkshop/esp32-2432S028_video_player: BRANCHES:[main:ea44e5aca4e1c
 thelastoutpostworkshop/ESP32-C6-1_3_240x240_video_player: BRANCHES:[main:1eaea9094e843972e5da76e4e0346b9b3691533f;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32-C6-LCD-1.47_LVGL9_Crypto_Monitor: BRANCHES:[main:a17c7d8fbf52837d545374aab33806e96036d54a;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32-C6-LCD-1.47_video_player: BRANCHES:[main:6085a7e339de19356d399e8e2b48a0af152ce7a5;]|RELEASE:[none|none]
+thelastoutpostworkshop/ESP32-S3_2_inch_240x320_video_player: BRANCHES:[main:6094be3e4f1ba62ebf846089e2426ed6b070e250;]|RELEASE:[none|none]
