@@ -483,3 +483,4 @@ ScottSloan/Bili23-Downloader: BRANCHES:[dev:5b736a84b380d0f424112be7210e986b21f8
 ScottSloan/Bili23-Downloader-CLI: BRANCHES:[v2:c487059ed3a0e40d62ceb4bc8f168b0653fd8d5e;dev:f5b434432f06a2ce53c468091ccf54e51248672b;main:cf4f5b5901758bcd11c36cc78c531e52f060557a;]|RELEASE:[v1.11|none]
 ScottSloan/Bili23-Downloader-Doc: BRANCHES:[main:86bb33357dfc099c90f00230c62bb4b47733ba6c;]|RELEASE:[none|none]
 ScottSloan/Bili23-Downloader-Loader: BRANCHES:[main:035f5eaf2f29db100cdc0dd2d917075dedaf8bdf;]|RELEASE:[none|none]
+ScottSloan/Bili23-Downloader-WebUI: BRANCHES:[dev:1d6a67b37f8df18f69b39ba83adf8bbbafeaddb2;main:940576e22324d687767a0d2c5561e3fc4c030558;]|RELEASE:[none|none]
