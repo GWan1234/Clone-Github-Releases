@@ -519,3 +519,4 @@ obsproject/design: BRANCHES:[main:6a7639840dc6d88546da127c18374541b3fadfa2;profi
 obsproject/obs-deps-buildstream: BRANCHES:[master:51e02e25a2c113ba259e928e2c58a9e919ff6fff;automated/update-fsdk:de346d9a575dfaa41b1d25f05ec310d5882b2b21;]|RELEASE:[2026-01-09|none]
 antimof/libcamera: BRANCHES:[main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a;]|RELEASE:[none|none]
+antimof/WebRTC: BRANCHES:[latest:329cbd2cd6ff2a1f2405dfdb2ea8c884565cdd84;]|RELEASE:[M144|none]
