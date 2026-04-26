@@ -569,3 +569,4 @@ localsend/winget-pkgs: BRANCHES:[master:ff27f2aaeb70a7449e6f58a08e98deff538058e5
 localsend/homebrew-localsend: BRANCHES:[main:22735388c7869dee9f5d7ed0a88190420367236a;]|RELEASE:[none|none]
 localsend/mtls-example: BRANCHES:[main:ea33543da83b0c2722e56e97e428674a77c77820;]|RELEASE:[none|none]
 localsend/permission_handler_windows_noop: BRANCHES:[main:2dadd8afbf81e0e3e4791d7144e689555e58f649;]|RELEASE:[none|none]
+localsend/snap: BRANCHES:[main:3861e08593044f7296b717cd5f008d330bc6df1f;]|RELEASE:[none|none]
