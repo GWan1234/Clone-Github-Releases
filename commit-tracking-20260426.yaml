@@ -671,3 +671,4 @@ sonocotta/mouse-whisperer: BRANCHES:[main:5bb3bfa78df90fef4818f4dd166cbfc74a8b2e
 sonocotta/nRF24LE1-Example: BRANCHES:[master:97ea3b9aae1ab8cc74742e8ae35e7a0428ecdddb;]|RELEASE:[none|none]
 sonocotta/nRF24LE1-Programmer: BRANCHES:[master:217bfdcb2192f68e7624d4895aef6f6011a5541b;]|RELEASE:[none|none]
 sonocotta/nRF24LE1-SDK: BRANCHES:[master:44e1464ee9cb728d8efc2106ed4f4fbd70a2ec2f;]|RELEASE:[none|none]
+sonocotta/nRF24LE1-Starter-Kit: BRANCHES:[master:2b3f107e590bc55af6300e7529e6df564234d8c0;]|RELEASE:[none|none]
