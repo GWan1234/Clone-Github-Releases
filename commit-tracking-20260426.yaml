@@ -448,3 +448,4 @@ Finb/Bark: BRANCHES:[master:6a2997a300dc4133505a58b6f022ceaa2940ff3b;feature/ttl
 Finb/Bark-Chrome-Extension: BRANCHES:[AutomaticallyCopy:340cf3c79abfbba58f083e44aecde32ea3c1714a;master:81c34b40f1409d4d7a8d745505a06f92f07fd3bb;]|RELEASE:[0.0.1|none]
 Finb/bark-server: BRANCHES:[dependabot/go_modules/github.com/buger/jsonparser-1.1.2:a0903593469abf8374535b130fc8d56920e60f2e;dependabot/go_modules/github.com/gofiber/fiber/v2-2.52.12:fd2ca0c93d2f0e95c2a7e2764994d105f3339948;master:1091c91780c032afa4bebc7be5bc36da4b27e323;dependabot/go_modules/filippo.io/edwards25519-1.1.1:d4fbf04e3a07d2212a156e7a60d3acf83225333e;]|RELEASE:[v2.3.4|none]
 Finb/configs: BRANCHES:[main:f31c00e4483395b1a25a7d844085a7c96f0d2e1e;]|RELEASE:[none|none]
+Finb/finb.github.com: BRANCHES:[gh-pages:e6ec5c7f34f00e6b3e5e8c0061406c805756836e;master:dccafac99b184b9ec9af497369e380b98761cbf3;]|RELEASE:[none|none]
