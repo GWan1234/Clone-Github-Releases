@@ -558,3 +558,4 @@ AlistGo/cf-workers-proxy: BRANCHES:[main:3b5a10d4e3d0d0ca2f55ec98a9b293a21389648
 AlistGo/with_aria2: BRANCHES:[main:c7795b18b380782e52b99808d1611ada10e51aad;]|RELEASE:[none|none]
 AlistGo/desktop-release: BRANCHES:[main:60a93cdcab75203d9814498d9adb9257a00ae8d6;okatu-loli-patch-4:062e8ba01a8e49c0212a992ac7fb590d8986424f;okatu-loli-patch-3:6eaf4c22dad83571f10097a2cb1e7a796977b7f0;okatu-loli-patch-2:ac0dc285cb65da75199d0364e8ca01107f6de632;okatu-loli-patch-1:f55261ff3d569deffa394969a6fd4b1aa7e0bf4e;renovate/configure:a5c9b9e14bd873191832e27815989cd60a4795a2;]|RELEASE:[v3.60.0|60a93cdcab75203d9814498d9adb9257a00ae8d6]
 AlistGo/auth: BRANCHES:[main:891d373ead44787faf8c234dfd9c8d8510a72c20;]|RELEASE:[none|none]
+AlistGo/old-docs: BRANCHES:[gh-pages:eb631057c30b8d27aa3aa65813bb4e2486688041;main:8f4992bd31acb779e4a6cb433a7750f953d3cd32;]|RELEASE:[none|none]
