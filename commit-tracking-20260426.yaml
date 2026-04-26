@@ -578,3 +578,4 @@ thelastoutpostworkshop/animated_gif_sdcard_spiffs: BRANCHES:[main:c8b55475a80123
 thelastoutpostworkshop/arduino-maker-workshop: BRANCHES:[main:dd002c9e04d8b5a537214247ce7beae6a0410607;multiroot:e93d30db6cf716a2b5e6dc41ac25714d3402cfa4;]|RELEASE:[v1.1.3|none]
 thelastoutpostworkshop/arduino_wsl: BRANCHES:[main:f90627fcade9fbd9fd28fd1dfdc4c74be227600f;]|RELEASE:[none|none]
 thelastoutpostworkshop/ATXPowerSupply: BRANCHES:[main:5414efe252159810e670fbba949b570813dbfc20;]|RELEASE:[none|none]
+thelastoutpostworkshop/chatGPT_DALLE: BRANCHES:[main:e62a51548acccff028cbcd01a364362025f92147;]|RELEASE:[none|none]
