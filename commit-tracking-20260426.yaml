@@ -99,3 +99,4 @@ hacs/ND-NotifyUpdates: BRANCHES:[master:1af01e57d0336e64426e75297a5841bbac6c778e
 hacs/development: BRANCHES:[master:c241ba81939c911b8d498e213476ea625cc669a1;]|RELEASE:[none|none]
 hacs/container: BRANCHES:[main:a5c0d78eea823480b011170d89086f866ba0ba3a;]|RELEASE:[none|none]
 hacs/action: BRANCHES:[main:dcb30e72781db3f207d5236b861172774ab0b485;]|RELEASE:[22.5.0|none]
+hacs/get: BRANCHES:[main:180232dc98600cb20dd1912eca63ec0650365b92;]|RELEASE:[none|none]
