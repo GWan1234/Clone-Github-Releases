@@ -356,3 +356,4 @@ ioBroker/modbus-templates: BRANCHES:[main:6b2b3355a82a77d7a0f4712f1a16620b2da80e
 ioBroker/ioBroker.vis-2-widgets-jaeger-design: BRANCHES:[main:9238bd62585db0a810517e3848ae8fa70de51435;update-readme-video-links:ed3f4546bf1211062cbbc4590afb04bd75aec2e7;]|RELEASE:[none|none]
 ioBroker/.github: BRANCHES:[main:17482f27b3ef04286bd436a07fd4558ddce8df94;]|RELEASE:[none|none]
 ioBroker/dm-utils: BRANCHES:[main:ef4b4ddf29c3c3ef62154708c61941e8d30900f9;incremental-loading:ae5b5a51ac897b900dd912602ef9fc81104f6511;generate-common:882d8ceac0bf7dd5af030afa8d001835efe18478;add-controls:c5b5517fb896132777d698eafd68e631c6b24229;extend-device-info:79d958a4be9c569000eb0aed37ee9ce7b7d2a8b2;]|RELEASE:[v3.0.19|ef4b4ddf29c3c3ef62154708c61941e8d30900f9]
+ioBroker/webserver: BRANCHES:[main:d699a7ccb5aafde40dd344538bbbd7e2050aa895;small-adaption:38ac4ea605fe0aa52a9104f41fbfd40575436d28;]|RELEASE:[v1.4.0|d699a7ccb5aafde40dd344538bbbd7e2050aa895]
