@@ -1,26 +1,25 @@
 allrepositories:
-#  - anzhiyu-c
+  - anzhiyu-c
   - cockpit-project
-#  - hacs
-#  - esphome
-#  - domoticz
-#  - ioBroker
-#  - OpenListTeam
-#  - Finb
-#  - algerkong
-#  - ScottSloan
-#  - obsproject
-#  - antimof
-#  - leapbtw
-#  - AlistGo
-#  - localsend
-#  - thelastoutpostworkshop
-#  - adafruit
-#  - dr-dolomite
-#  - sonocotta
-#  - rednblkx
-#  - HomeSpan
-#  - Andryushik
+  - hacs
+  - esphome
+  - domoticz
+  - ioBroker
+  - OpenListTeam
+  - Finb
+  - algerkong
+  - ScottSloan
+  - obsproject
+  - antimof
+  - leapbtw
+  - AlistGo
+  - localsend
+  - thelastoutpostworkshop
+  - dr-dolomite
+  - sonocotta
+  - rednblkx
+  - HomeSpan
+  - Andryushik
 #  - arendst
 #  - Koenkk
 #  - emqx
@@ -35,6 +34,7 @@ allrepositories:
 #  - home-assistant
 #  - rustdesk
 #  - armbian
+#  - adafruit
 
 
 repositories:
