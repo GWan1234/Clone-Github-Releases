@@ -645,3 +645,4 @@ dr-dolomite/QuecManagerBetaReleases: BRANCHES:[development-SDXPINN:0420706f454aa
 dr-dolomite/simpleadmin-mockup: BRANCHES:[main:296c9bf79f70c009fda0b84b4120b0eff2e4be23;]|RELEASE:[none|none]
 dr-dolomite/sja-grading-system: BRANCHES:[master:0bb733802394b4057709816eb64c795ca1f8f6f4;]|RELEASE:[none|none]
 dr-dolomite/SJA-ID: BRANCHES:[main:d369199363ea938edb930ba936ec7e3ac8e6bf7f;]|RELEASE:[none|none]
+dr-dolomite/sja-voting: BRANCHES:[master:cf35479fcff0430ec2421253e50f276c309840a7;]|RELEASE:[none|none]
