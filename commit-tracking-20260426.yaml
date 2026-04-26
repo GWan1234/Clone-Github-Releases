@@ -697,3 +697,4 @@ rednblkx/DigitalDoorKey: BRANCHES:[main:ba0dceb996a94548c1958bb5acdb50ea648392c0
 rednblkx/dotfiles: BRANCHES:[main:9688363b81437db519a0bee1f35c2f398d98261f;]|RELEASE:[none|none]
 rednblkx/DungeonProject: BRANCHES:[master:ddaf75767cb0a10570a77464fe7af91c3960ed16;testing:4b4cb11bd2eb29ebaa14e986844e7aea91d6718d;]|RELEASE:[none|none]
 rednblkx/esp-hal-pn532: BRANCHES:[main:90da84e1eeef86e5d2329d6c1db1c9726f104436;]|RELEASE:[none|none]
+rednblkx/esp-homekit-sdk: BRANCHES:[esphome:1d1ea30bba62ed9c9d55da6613d828a658ec2a39;upstream:b542009658a6ba4bd9272304334577ae285769bb;master:e7451e9d6e58d91371bed0bc164e6d6765668243;]|RELEASE:[none|none]
