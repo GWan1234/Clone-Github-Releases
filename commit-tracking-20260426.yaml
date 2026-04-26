@@ -100,3 +100,4 @@ hacs/development: BRANCHES:[master:c241ba81939c911b8d498e213476ea625cc669a1;]|RE
 hacs/container: BRANCHES:[main:a5c0d78eea823480b011170d89086f866ba0ba3a;]|RELEASE:[none|none]
 hacs/action: BRANCHES:[main:dcb30e72781db3f207d5236b861172774ab0b485;]|RELEASE:[22.5.0|none]
 hacs/get: BRANCHES:[main:180232dc98600cb20dd1912eca63ec0650365b92;]|RELEASE:[none|none]
+hacs/collector: BRANCHES:[main:551fdb8f5d1c193af1402dd225f47d129205364d;]|RELEASE:[none|none]
