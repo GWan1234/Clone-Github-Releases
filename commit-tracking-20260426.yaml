@@ -539,3 +539,4 @@ AlistGo/react-viewer: BRANCHES:[master:266420ce2c7e45a39e285f691e073b85112180a7;
 AlistGo/alist-proxy: BRANCHES:[renovate/docker-build-push-action-6.x:361e389e830970a9e090da06f059b81c1a5d0627;main:ab1345e48be7e3ad1708439b888810b5b5ca374f;v2:bab243921e25fe07c04f89a9c2c0a7dce6aafc96;]|RELEASE:[v0.0.6|8c24adabdf7439f7e730507f8c2b9eacdafa642b]
 AlistGo/alist-railway: BRANCHES:[mysql:b96a4d03a3c992af03c85f66c1d1a1792c73798b;postgres:1e9adf4ac791aa7fc227cfe2221c5ec50e0a7105;]|RELEASE:[none|none]
 AlistGo/assets: BRANCHES:[main:aa243c0a9e021c8d95f35991869498eb28ebb60e;]|RELEASE:[none|none]
+AlistGo/alist-heroku: BRANCHES:[v2:8255569af13e769d178e31f8da1934fb9026b0b5;v1:af84eab795868ec6e6538a0023c51187b6af355c;]|RELEASE:[none|none]
