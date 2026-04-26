@@ -135,3 +135,4 @@ esphome/dashboard-api: BRANCHES:[dependabot/github_actions/github-actions-e01ed9
 esphome/ESPAsyncTCP: BRANCHES:[main:27d5661e6877699de21e256262e537475170a9ba;pin-action-shas:7c48dbc52618fce3a3022eb136a739c0a512c585;]|RELEASE:[none|none]
 esphome/component-image-generator: BRANCHES:[main:a5a3be12459d71094d703d038db9efc489bd7753;]|RELEASE:[v1.0.0|none]
 esphome/developers.esphome.io: BRANCHES:[main:06171040578db2bd1c1cec24c0cc3460eb3a8fce;improve-large-submissions-guidance:67682919fa844d507c75d8f0e6e393654f71ba2c;glmnet-doc-components:e405cf06f9d00dbab069d80e300f68c12bf4d849;20250401-copy-fixes:26c848d68273387dc9f014958c89734818d4a122;]|RELEASE:[none|none]
+esphome/micro-wake-word-models: BRANCHES:[main:05b65922cc433c9df13e98e32a7fe520758c837e;]|RELEASE:[none|none]
