@@ -506,3 +506,4 @@ obsproject/obs-vst: BRANCHES:[master:b28cdef1fb06ece14d6be023b0f08ec28bca972e;pr
 obsproject/loganalyzer: BRANCHES:[master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;]|RELEASE:[none|none]
 obsproject/obs-plugintemplate: BRANCHES:[master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;]|RELEASE:[none|none]
 obsproject/.github: BRANCHES:[master:ab3485c814e97c245a7fbaace3bc522b62c04a34;]|RELEASE:[none|none]
+obsproject/obs-deps: BRANCHES:[master:625d8aa3cc761c3202e4a96e62c74c2603caee77;]|RELEASE:[2025-08-23|21e25b2b508598ce8239de9ecd68400e45559399]
