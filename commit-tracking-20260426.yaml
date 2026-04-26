@@ -612,3 +612,4 @@ thelastoutpostworkshop/library-registry: BRANCHES:[patch-3:f1082562a1ce2947461f0
 thelastoutpostworkshop/littlefs-fatfs-wasm: BRANCHES:[main:9e2edbbb2646c85144b369ed12f948315b9beacc;]|RELEASE:[none|none]
 thelastoutpostworkshop/microcontroller_devkit: BRANCHES:[main:5f530881f5bb9b25dd791feddaf4d2d425fa28f3;]|RELEASE:[none|none]
 thelastoutpostworkshop/mp3_busy_pin: BRANCHES:[main:5d00e8a4889ece33319eb19b2e8436d05d12f468;]|RELEASE:[none|none]
+thelastoutpostworkshop/Mp3_Rotary: BRANCHES:[main:8c64654cbc02ce2033b201be7631f653ad71d0ce;]|RELEASE:[none|none]
