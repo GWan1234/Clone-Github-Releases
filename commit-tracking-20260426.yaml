@@ -444,3 +444,4 @@ OpenListTeam/wazero-wasip2: BRANCHES:[fix/resource:9d81773cdf415982a58524ccfa2cb
 OpenListTeam/openlist-ftp-plugin: BRANCHES:[main:be1a3ee9684749791d6b0e3bac4cac977f72d76c;]|RELEASE:[v0.0.1|none]
 OpenListTeam/openlist-lanzou-plugin: BRANCHES:[main:e65f249178fdc53a8e25e2fc79c0cadfe0918e2a;]|RELEASE:[v0.0.1|none]
 OpenListTeam/OpenList-Helm: BRANCHES:[main:e42a41d242b14246149f241dff33004911ee19ac;]|RELEASE:[0.1.1|none]
+Finb/Bark: BRANCHES:[master:6a2997a300dc4133505a58b6f022ceaa2940ff3b;feature/ttl:a0b67ed282f1ef72533c306ec82bacd2ede44785;]|RELEASE:[none|none]
