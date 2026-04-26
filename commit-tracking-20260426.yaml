@@ -508,3 +508,4 @@ obsproject/obs-plugintemplate: BRANCHES:[master:3e7d7ac3b5342cd7d9b88890b9c70b47
 obsproject/.github: BRANCHES:[master:ab3485c814e97c245a7fbaace3bc522b62c04a34;]|RELEASE:[none|none]
 obsproject/obs-deps: BRANCHES:[master:625d8aa3cc761c3202e4a96e62c74c2603caee77;]|RELEASE:[2025-08-23|21e25b2b508598ce8239de9ecd68400e45559399]
 obsproject/rfcs: BRANCHES:[master:da063de64d0fe8ed009128d896197bc918fb41e0;decklink_device_management:5cc6d50dd63215f41caf60ce10f2a94f329ce73b;]|RELEASE:[none|none]
+obsproject/obs-bot: BRANCHES:[master:42e6cdaffc5242cb32a66c89872a0e058a267c0d;self-service:e11aa4050c5a8aacd965fea79cdcc263daa32d64;disnake:24b0e3c0dc7d92296482492a23fef248c05eaaad;]|RELEASE:[none|none]
