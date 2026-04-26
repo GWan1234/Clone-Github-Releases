@@ -403,3 +403,4 @@ OpenListTeam/docs: BRANCHES:[gh-pages:6779b35c488f8085c4e599488f8b8bbaad69c9e8;m
 OpenListTeam/go-cache: BRANCHES:[main:63bca57ca085caf6c09116744ab23831f9c75622;]|RELEASE:[v0.1.0|none]
 OpenListTeam/rateg: BRANCHES:[main:f29392610fa74b6c9b2a35568535a3977e028da7;]|RELEASE:[v0.1.0|none]
 OpenListTeam/tache: BRANCHES:[main:ecf1c47cdbc0e6e997d1a431c38b44f6add6063e;]|RELEASE:[none|none]
+OpenListTeam/wopan-sdk-go: BRANCHES:[main:cacb5615dbf4d71b663623ea263a109497a2ebcb;]|RELEASE:[v0.2.0|none]
