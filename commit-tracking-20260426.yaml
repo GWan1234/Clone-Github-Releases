@@ -694,3 +694,4 @@ rednblkx/BroadlinkIRTools: BRANCHES:[dependabot/npm_and_yarn/eventsource-1.1.1:c
 rednblkx/cors-anywhere: BRANCHES:[master:4770e8dfb3df201027a5bb73427ec2aee78e7be4;NODE_TLS_REJECT_UNAUTHORIZED-support:ff0be47dddde2e492a8e40ed4cb0675174483232;]|RELEASE:[none|none]
 rednblkx/dash-mp4-decrypt: BRANCHES:[main:7bc0e474709a804636c2a787e2a5e129392d7680;]|RELEASE:[none|none]
 rednblkx/DigitalDoorKey: BRANCHES:[main:ba0dceb996a94548c1958bb5acdb50ea648392c0;esp-idf:c6a5b958bf4312c53df2c9e6aebe846336998861;esp-idf-4:3226f724018b6f4899f910845203328fac06c30c;]|RELEASE:[none|none]
+rednblkx/dotfiles: BRANCHES:[main:9688363b81437db519a0bee1f35c2f398d98261f;]|RELEASE:[none|none]
