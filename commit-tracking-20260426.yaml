@@ -721,3 +721,4 @@ rednblkx/libsodium-esphome: BRANCHES:[main:4fd1d10337efc0a9d943bfd43f6c1073382b9
 rednblkx/linux: BRANCHES:[master:1707c39ae309bf91965aa6f04d63816a090d90a1;]|RELEASE:[none|none]
 rednblkx/loggable-espidf: BRANCHES:[main:263a0eb8468c39292e3938759cd7d7ae68a8f4c2;]|RELEASE:[none|none]
 rednblkx/loggable-thing: BRANCHES:[main:471ad0bc69185a3e4b2380b4ffd9a87f776a906d;]|RELEASE:[none|none]
+rednblkx/nixpkgs-esp-dev: BRANCHES:[master:cbecd724ed0fba0caa0dc94494f81d2fdee79c1c;]|RELEASE:[none|none]
