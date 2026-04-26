@@ -675,3 +675,4 @@ sonocotta/nRF24LE1-Starter-Kit: BRANCHES:[master:2b3f107e590bc55af6300e7529e6df5
 sonocotta/onion-omega-media-center: BRANCHES:[main:99e1e911550d70f864d1891fcbcfca9d3830c7d0;]|RELEASE:[none|none]
 sonocotta/orange-pi-media-center: BRANCHES:[main:7fcee88ea4110d24e81e44994cd44625fadd6c74;]|RELEASE:[none|none]
 sonocotta/orangepi-ky040: BRANCHES:[master:817b47b807123e7f2b401cf9b790b023fd29653f;]|RELEASE:[none|none]
+sonocotta/orangepi-ws2812-spi: BRANCHES:[master:9639c33450cb0a2f35356e4a61caf67a839e8531;]|RELEASE:[none|none]
