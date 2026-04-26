@@ -603,3 +603,4 @@ thelastoutpostworkshop/gpio_viewer: BRANCHES:[main:ff76be3a0a2a991730c88026d3198
 thelastoutpostworkshop/images: BRANCHES:[main:9bc1be84078f83830ba9be1bae33bcba437c6416;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_AnimatedGIF: BRANCHES:[main:107f288138e00da6a618906901f8ffdb90e20e15;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_AnimatedGIF_pins_driven: BRANCHES:[main:1acd83845c68b27d8ea139158ab4e43b33259f5d;]|RELEASE:[none|none]
+thelastoutpostworkshop/JC4827W543_avi_player: BRANCHES:[main:06b0a9a000116d2540a1ef6700768c4c82ce1e6f;]|RELEASE:[none|none]
