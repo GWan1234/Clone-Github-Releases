@@ -561,3 +561,4 @@ AlistGo/auth: BRANCHES:[main:891d373ead44787faf8c234dfd9c8d8510a72c20;]|RELEASE:
 AlistGo/old-docs: BRANCHES:[gh-pages:eb631057c30b8d27aa3aa65813bb4e2486688041;main:8f4992bd31acb779e4a6cb433a7750f953d3cd32;]|RELEASE:[none|none]
 AlistGo/times: BRANCHES:[master:efa0c7d3ad9298803e95106774bd367ada3b81d5;]|RELEASE:[none|none]
 AlistGo/Alist-ikuai: BRANCHES:[main:49ebba2975b6dea2e3fe0b98a6e0ae03c9435262;]|RELEASE:[v3.60.0|none]
+AlistGo/luci-app-alist: BRANCHES:[main:4cb1cc4e290c4146a55be96eb0f85cdbcf2096ac;]|RELEASE:[v3.57.0|none]
