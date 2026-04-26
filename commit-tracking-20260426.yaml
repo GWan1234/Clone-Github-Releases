@@ -726,3 +726,4 @@ rednblkx/noble: BRANCHES:[master:c720ce47ac2d21f189c3b20cd272975b6aad842f;react-
 rednblkx/node-bluetooth-hci-socket: BRANCHES:[main:fd08a976cb81e8ca93fdc5392ca4ab5eb5bfbe98;master:916158269f7e48ddc73d2448d2634e91538c8991;pre-gyp-32-bit:fb8c6e91ad5f33bc694371a419111a11c36862ed;rework-kernel-workarounds:a342d8fd8ddcb34e00c5027447ad356f8b910c02;uart:d90a505c5c185117cdd5959ad59ad15357651e07;]|RELEASE:[none|none]
 rednblkx/node-steamcmd: BRANCHES:[master:96e5e0139e85c12ef69f1d9ebcbfa7553e75f12f;]|RELEASE:[none|none]
 rednblkx/node_bleno_rssi: BRANCHES:[main:aa4857bfbced7b21d3fc915391638c98b148bd1a;]|RELEASE:[none|none]
+rednblkx/oc34n-r2: BRANCHES:[master:e98aa71b2d3a6ad9b70e42273af5d16ded24bff1;]|RELEASE:[none|none]
