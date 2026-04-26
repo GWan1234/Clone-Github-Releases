@@ -437,3 +437,4 @@ OpenListTeam/OpenList-Worker: BRANCHES:[main:7829aa897ad5f59b5583ed29cc98a779fde
 OpenListTeam/OpenList-FLATPAK: BRANCHES:[main:eeeb030e160c84838db95d94e41867915924e6f1;]|RELEASE:[v4.1.10|none]
 OpenListTeam/resty-tinygo: BRANCHES:[v3:8fff8b24c719b0e11d50911826aab1cff4a2442b;]|RELEASE:[none|none]
 OpenListTeam/go-wasi-socket: BRANCHES:[main:3bb0353ddc811a94aa11ec2952f489f38136f23a;]|RELEASE:[none|none]
+OpenListTeam/openlist-wasi-plugin-driver: BRANCHES:[main:15f32c12f2b29b828bf5e25a56cc1cd9f787d195;perf/cache:df5c7f48137864a307ef570952f7683feaa531eb;]|RELEASE:[none|none]
