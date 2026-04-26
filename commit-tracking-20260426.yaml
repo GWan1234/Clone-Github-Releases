@@ -541,3 +541,4 @@ AlistGo/alist-railway: BRANCHES:[mysql:b96a4d03a3c992af03c85f66c1d1a1792c73798b;
 AlistGo/assets: BRANCHES:[main:aa243c0a9e021c8d95f35991869498eb28ebb60e;]|RELEASE:[none|none]
 AlistGo/alist-heroku: BRANCHES:[v2:8255569af13e769d178e31f8da1934fb9026b0b5;v1:af84eab795868ec6e6538a0023c51187b6af355c;]|RELEASE:[none|none]
 AlistGo/logo: BRANCHES:[main:547ff8157f12d9ba48f6fe20a99ab10ac72c66e8;]|RELEASE:[none|none]
+AlistGo/vite-plugin-dynamic-publicpath: BRANCHES:[main:ff72af11ac3c9e300f299f132f77c3bf0cf0bbb8;fix-legacy-browser:e9f51fed54326d54f2d1c1591832e858dc06c9d9;]|RELEASE:[none|none]
