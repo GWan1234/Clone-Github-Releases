@@ -18,23 +18,32 @@ allrepositories:
   - dr-dolomite
   - sonocotta
   - rednblkx
-  - HomeSpan
+#  - HomeSpan
   - Andryushik
+#
 #  - arendst
 #  - Koenkk
-#  - emqx
 #  - qlwz
+#  - xiaoshi930
+#  - lambilly
 #  - a2633063
-#  - LilyGO
-#  - Xinyuan-LilyGO
-#  - openwrt
 #  - flameshot-org
+#  - rime
+#  - sonocotta
+#  - openwrt
 #  - unifreq
-#  - ophub
+
 #  - home-assistant
 #  - rustdesk
+#
+#  - LilyGO
+#  - Xinyuan-LilyGO
+#  - emqx
 #  - armbian
+#  - ophub
+#
 #  - adafruit
+
 
 
 repositories:
@@ -44,19 +53,27 @@ repositories:
 #    - armbian
 #    - armbian
 #    - armbian
+#    - ophub
+#    - ophub
+#    - ophub
   repo0:
 #    - openwrt/openwrt
 #    - SagerNet/sing-box
 #    - armbian/cache-next
 #    - armbian/cache
 #    - armbian/os
+#    - ophub/fnnas
+#    - ophub/amlogic-s9xxx-armbian
+#    - ophub/amlogic-s9xxx-openwrt
   source0:
 #    - https://github.com/openwrt/openwrt
 #    - https://github.com/SagerNet/sing-box
 #    - https://github.com/armbian/cache-next.git
 #    - https://github.com/armbian/cache.git
 #    - https://github.com/armbian/os.git
-
+#    - https://github.com/ophub/fnnas
+#    - https://github.com/ophub/amlogic-s9xxx-armbian
+#    - https://github.com/ophub/amlogic-s9xxx-openwrt
   name1:
     - mihomo
     - QModem
