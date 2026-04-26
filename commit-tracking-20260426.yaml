@@ -665,3 +665,4 @@ sonocotta/esphome-pcm5122: BRANCHES:[main:cb5846dab63b982f054828da7c04e9cd121c1c
 sonocotta/ili9341-orangepi-python: BRANCHES:[master:ca6023d39547847365d24a26c6188c3b5ff400a3;]|RELEASE:[none|none]
 sonocotta/loud-esp: BRANCHES:[main:c79a5d07c4123286bdc1e69036e04e38a117e443;]|RELEASE:[none|none]
 sonocotta/mopidy-alexa-voice-control: BRANCHES:[features/mopidy-native-integration:6e18ce62a745d1e2231f5ad4ef5fb004f207fa1b;master:cff6775a06f74b7917ef2cac538e7b354ef15925;]|RELEASE:[none|none]
+sonocotta/mopidy-headless2: BRANCHES:[master:339af3d3697556be342bbd18d48d7c6102638af9;]|RELEASE:[none|none]
