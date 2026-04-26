@@ -646,3 +646,4 @@ dr-dolomite/simpleadmin-mockup: BRANCHES:[main:296c9bf79f70c009fda0b84b4120b0eff
 dr-dolomite/sja-grading-system: BRANCHES:[master:0bb733802394b4057709816eb64c795ca1f8f6f4;]|RELEASE:[none|none]
 dr-dolomite/SJA-ID: BRANCHES:[main:d369199363ea938edb930ba936ec7e3ac8e6bf7f;]|RELEASE:[none|none]
 dr-dolomite/sja-voting: BRANCHES:[master:cf35479fcff0430ec2421253e50f276c309840a7;]|RELEASE:[none|none]
+sonocotta/attiny-candle: BRANCHES:[master:4eb1a50d85c7a7e7a0a20da7cdc6d748363ffc3a;features/tiny-painter:3db7530265bf922db0e148f93d329c5512f6dc02;]|RELEASE:[none|none]
