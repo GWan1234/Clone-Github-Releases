@@ -575,3 +575,4 @@ thelastoutpostworkshop/AnimatedGIF340_240: BRANCHES:[main:f67d2b915ddfa6a232d501
 thelastoutpostworkshop/AnimatedGIF340_240_Push_Button: BRANCHES:[main:527351c0caa501ee083c8b44f8dbbdd3dd8b166a;]|RELEASE:[none|none]
 thelastoutpostworkshop/animated_gif_memory: BRANCHES:[main:10af69270a4d04dfc43341ea9266191673ea0ee0;]|RELEASE:[none|none]
 thelastoutpostworkshop/animated_gif_sdcard_spiffs: BRANCHES:[main:c8b55475a8012305c762cbc36cdac5049a8e3836;]|RELEASE:[none|none]
+thelastoutpostworkshop/arduino-maker-workshop: BRANCHES:[main:dd002c9e04d8b5a537214247ce7beae6a0410607;multiroot:e93d30db6cf716a2b5e6dc41ac25714d3402cfa4;]|RELEASE:[v1.1.3|none]
