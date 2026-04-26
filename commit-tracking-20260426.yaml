@@ -560,3 +560,4 @@ AlistGo/desktop-release: BRANCHES:[main:60a93cdcab75203d9814498d9adb9257a00ae8d6
 AlistGo/auth: BRANCHES:[main:891d373ead44787faf8c234dfd9c8d8510a72c20;]|RELEASE:[none|none]
 AlistGo/old-docs: BRANCHES:[gh-pages:eb631057c30b8d27aa3aa65813bb4e2486688041;main:8f4992bd31acb779e4a6cb433a7750f953d3cd32;]|RELEASE:[none|none]
 AlistGo/times: BRANCHES:[master:efa0c7d3ad9298803e95106774bd367ada3b81d5;]|RELEASE:[none|none]
+AlistGo/Alist-ikuai: BRANCHES:[main:49ebba2975b6dea2e3fe0b98a6e0ae03c9435262;]|RELEASE:[v3.60.0|none]
