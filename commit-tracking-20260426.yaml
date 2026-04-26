@@ -638,3 +638,4 @@ dr-dolomite/nerve-test: BRANCHES:[main:ce297399b130891fa48324c05a18bc73e667566a;
 dr-dolomite/NipYumWeb: BRANCHES:[main:47ed0045b25c7577f9dace7aa5fe6a098d3f3346;]|RELEASE:[none|none]
 dr-dolomite/pis-jsx: BRANCHES:[main:381b57c06bb915a4b747da23491fae51c6778c8a;]|RELEASE:[none|none]
 dr-dolomite/qadbkey-unlock: BRANCHES:[master:2f4d78cbbcbc084f5da73676b57560b673dbb427;]|RELEASE:[none|none]
+dr-dolomite/QManager: BRANCHES:[development-home:60ff74bf635c755ab547ba01a8e347922a18735c;main:615d0716d604c98e4f34d8f3debd339b7a083493;dev-rm520:8c54eb9b2ee190ebe60dfe66c622310648ccc2e7;dev-rm551e:a950e8df5c4a20c093ed0c4af54fba8060592373;]|RELEASE:[none|none]
