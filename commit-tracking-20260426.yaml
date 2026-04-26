@@ -430,3 +430,4 @@ OpenListTeam/openwrt-gh-action-sdk: BRANCHES:[go1.21:6919cb6719c21e6a6b890aa5120
 OpenListTeam/OpenList-Mobile: BRANCHES:[main:48aab08afc2dadde654d2dbdeb780698016ece98;fix/ci/pfx:e2c13d75723d17c27a1e04138f50cadaf81d8b98;refactor/bootstrap:62043195eb069121b7fd33ffce1270201cad9d60;fix/log/filter:b07c739a9fbb4cb5536cc6a64028b4c6a37ba6c1;fix/app-view:47fdd89820a2e681ba7721348e1d47d2b125137b;feat/next:78e1352b1324d01959af8fb5f215949f5e994fd0;feat/file_manage:ced02f6202827cc25714619028a96f8454029d00;]|RELEASE:[v4.2.1.26041405|none]
 OpenListTeam/hope-ui: BRANCHES:[main:dad0cb4dee84616420194944ad7aba4c16458700;]|RELEASE:[none|none]
 OpenListTeam/metaflow: BRANCHES:[main:1d192da160b1020840b8d98b4b84709e80e30d54;]|RELEASE:[none|none]
+OpenListTeam/docker-library: BRANCHES:[main:0af33a43565b190b9f19c52fe1e2f0a5ff694a07;]|RELEASE:[none|none]
