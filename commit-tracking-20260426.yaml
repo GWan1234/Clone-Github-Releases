@@ -663,3 +663,4 @@ sonocotta/esparagus-snapclient: BRANCHES:[main:3c86becf1cd3d559915c9c52320fab085
 sonocotta/esparagus-snapclient-fork: BRANCHES:[features/s3-support:600d8a6e68bb399d02c890117ea954a4c7eee0dd;master:e0d5a8e99c21df0970c1a526e63c16c1be6056b8;master-backup:a825a7025fcb0ab5273e4ea18ee3a39e469fcb60;]|RELEASE:[none|none]
 sonocotta/esphome-pcm5122: BRANCHES:[main:cb5846dab63b982f054828da7c04e9cd121c1c28;]|RELEASE:[none|none]
 sonocotta/ili9341-orangepi-python: BRANCHES:[master:ca6023d39547847365d24a26c6188c3b5ff400a3;]|RELEASE:[none|none]
+sonocotta/loud-esp: BRANCHES:[main:c79a5d07c4123286bdc1e69036e04e38a117e443;]|RELEASE:[none|none]
