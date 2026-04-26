@@ -584,3 +584,4 @@ thelastoutpostworkshop/curved_screen_ressources: BRANCHES:[main:710dd94c7f48305f
 thelastoutpostworkshop/devops-directive-github-actions-course: BRANCHES:[main:246fa14788e28cc503441223030582c3ce477471;]|RELEASE:[none|none]
 thelastoutpostworkshop/DualEye_display: BRANCHES:[main:37b768bf8c4bfe4d76447519f566f3e1373241e0;]|RELEASE:[none|none]
 thelastoutpostworkshop/esp32-2432S028_video_player: BRANCHES:[main:ea44e5aca4e1ce9923b8b9b3a9a2231323a07cf5;]|RELEASE:[none|none]
+thelastoutpostworkshop/ESP32-C6-1_3_240x240_video_player: BRANCHES:[main:1eaea9094e843972e5da76e4e0346b9b3691533f;]|RELEASE:[none|none]
