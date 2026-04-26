@@ -331,3 +331,4 @@ ioBroker/ioBroker.scheduler: BRANCHES:[dependabot/npm_and_yarn/types/node-25.5.2
 ioBroker/socket-client: BRANCHES:[dependabot/npm_and_yarn/typescript-6.0.2:213e7df9348b2552efc37474b9014459deaff768;main:fbd197f77b21ecff3f4c9715a886f8d591e63e36;dependabot/npm_and_yarn/iobroker/types-7.1.0:52783592a36eaf1c4151aad1d07a378c7a6c9605;dependabot/github_actions/actions/checkout-6:23158d21a67223916faa3c6f3d022faa0b7d3ad2;dependabot/github_actions/actions/setup-node-6:c13d905f51ed672a5c0b0cf962caaa7de2fa2166;]|RELEASE:[v5.1.2|fbd197f77b21ecff3f4c9715a886f8d591e63e36]
 ioBroker/ioBroker.material.app: BRANCHES:[master:b7294ad43f5dd634dd46206fe3be18479f9afaf8;]|RELEASE:[none|none]
 ioBroker/testing-action-check: BRANCHES:[master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;]|RELEASE:[v2.0.0|none]
+ioBroker/testing-action-adapter: BRANCHES:[master:c91f22babd740509d72864da740f7eaf9029b26b;]|RELEASE:[v1.1.1|none]
