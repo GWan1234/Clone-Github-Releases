@@ -453,3 +453,4 @@ Finb/FINCamera: BRANCHES:[master:6cfb611b1ac96e7b2cda715b2ef2adc9fbc9726c;]|RELE
 Finb/FINPaperViewController: BRANCHES:[master:6fa4b075aa3c1955d51c0dee93a820caf09c711b;dev:d31e32af007af54d74730437e8cc583c11db6062;]|RELEASE:[none|none]
 Finb/HttpProxy: BRANCHES:[master:699f3a33089fa4a5820efe75159aad6b68c3cba3;]|RELEASE:[none|none]
 Finb/ImageViewer.swift: BRANCHES:[master:cc9d8eefa19a1fcc70d72d85cd46704d24b83795;]|RELEASE:[none|none]
+Finb/iOSLogBrowserSDK: BRANCHES:[master:99e6445cce8f05d99e9c45da35a547b65ec63d64;]|RELEASE:[none|none]
