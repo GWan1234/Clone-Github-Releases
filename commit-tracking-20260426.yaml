@@ -623,3 +623,4 @@ thelastoutpostworkshop/virtualScreen: BRANCHES:[main:cf933d669b7aa0d93e5357216a9
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: BRANCHES:[main:a37ab3564b03257daaaf91621819306e118a5e68;]|RELEASE:[none|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_xwing_game: BRANCHES:[main:009eefc68d1ae29b4d8aafd18a61a92bb3923be7;]|RELEASE:[none|none]
 thelastoutpostworkshop/YoutubeCounter: BRANCHES:[main:9711a1ead0c90452e83a34399d09a5d3cd22eedd;]|RELEASE:[none|none]
+dr-dolomite/asterix-web: BRANCHES:[main:2a55f6811af27d879ea1595de5256e41430c02ee;]|RELEASE:[none|none]
