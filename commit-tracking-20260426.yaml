@@ -610,3 +610,4 @@ thelastoutpostworkshop/JC4827W543_WifiAnalyzer: BRANCHES:[main:1ee6731191921a304
 thelastoutpostworkshop/led_task: BRANCHES:[main:223dcca2cb7470a0763dda2126a21b43e104a894;]|RELEASE:[none|none]
 thelastoutpostworkshop/library-registry: BRANCHES:[patch-3:f1082562a1ce2947461f040d5b738adf6a2d6719;main:dcd1051d24ef36a7d06fbbc30b9c8983a43e2ae0;patch-2:f49bd57f7d6b35b4bde27b71e11542c8a6b16680;patch-1:a4aae801850ffb9b50765a3fbc8852805019ba7d;production:d5be92acaef48b840573acc5d5ca10fac1f8f4c7;]|RELEASE:[none|none]
 thelastoutpostworkshop/littlefs-fatfs-wasm: BRANCHES:[main:9e2edbbb2646c85144b369ed12f948315b9beacc;]|RELEASE:[none|none]
+thelastoutpostworkshop/microcontroller_devkit: BRANCHES:[main:5f530881f5bb9b25dd791feddaf4d2d425fa28f3;]|RELEASE:[none|none]
