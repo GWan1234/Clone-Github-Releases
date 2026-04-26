@@ -520,3 +520,4 @@ obsproject/obs-deps-buildstream: BRANCHES:[master:51e02e25a2c113ba259e928e2c58a9
 antimof/libcamera: BRANCHES:[main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a;]|RELEASE:[none|none]
 antimof/WebRTC: BRANCHES:[latest:329cbd2cd6ff2a1f2405dfdb2ea8c884565cdd84;]|RELEASE:[M144|none]
+leapbtw/altserver-pi: BRANCHES:[main:9c7a7847b444ee82ce94b6bf7fa4de91615ae66d;]|RELEASE:[none|none]
