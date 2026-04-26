@@ -592,3 +592,4 @@ thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player: BRANCHES:[main:406a03e
 thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386322fe7c6823f06e26bc49a9585354df1c715;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32LCDRound240x240Eyes: BRANCHES:[main:cf4b8c28d294738e15ec559587854c378b632cfe;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32ManyRoundScreenTest: BRANCHES:[main:41a33d4db991c1ca73b3374e62a75b9548a040e3;]|RELEASE:[none|none]
+thelastoutpostworkshop/ESP32PartitionBuilder: BRANCHES:[main:6c1ae9f71f3c0809bbdefcb6ef0dea9b9420eeb2;gh-pages:7c43e91913934ed4ff35652dd0b2aafb532dc827;]|RELEASE:[v1.2.1|none]
