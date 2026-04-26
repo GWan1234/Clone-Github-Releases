@@ -622,3 +622,4 @@ thelastoutpostworkshop/video_conversion: BRANCHES:[main:63534f3c98851efafd68aa28
 thelastoutpostworkshop/virtualScreen: BRANCHES:[main:cf933d669b7aa0d93e5357216a915f708a75a5ac;]|RELEASE:[v2.0.2|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: BRANCHES:[main:a37ab3564b03257daaaf91621819306e118a5e68;]|RELEASE:[none|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_xwing_game: BRANCHES:[main:009eefc68d1ae29b4d8aafd18a61a92bb3923be7;]|RELEASE:[none|none]
+thelastoutpostworkshop/YoutubeCounter: BRANCHES:[main:9711a1ead0c90452e83a34399d09a5d3cd22eedd;]|RELEASE:[none|none]
