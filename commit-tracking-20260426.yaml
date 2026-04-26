@@ -415,3 +415,4 @@ OpenListTeam/115-sdk-go: BRANCHES:[main:432cb2c9cfad683d64f1412719a61af2d52ceebe
 OpenListTeam/cgo-actions: BRANCHES:[v1:1fff82d72e52b29a6030d61f5b1809f72b11bd6e;]|RELEASE:[v1.2.4|none]
 OpenListTeam/sftpd-openlist: BRANCHES:[master:0b84c6926ebf0e5813831f053890aeb964aa6c7d;]|RELEASE:[v1.0.1|none]
 OpenListTeam/ocr_api_server: BRANCHES:[main:57d660df5a717b3eb30d03bc54e36ab1dceecc1e;]|RELEASE:[none|none]
+OpenListTeam/OpenList-Proxy: BRANCHES:[feat/pages:61847608f3ab4ec84cff9098f78a148b5d9e6a11;main:649207eb45906693cfe1571d72f0bb2ad1a03acf;]|RELEASE:[v0.0.7|none]
