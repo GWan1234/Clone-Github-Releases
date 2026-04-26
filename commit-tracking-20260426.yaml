@@ -699,3 +699,4 @@ rednblkx/DungeonProject: BRANCHES:[master:ddaf75767cb0a10570a77464fe7af91c3960ed
 rednblkx/esp-hal-pn532: BRANCHES:[main:90da84e1eeef86e5d2329d6c1db1c9726f104436;]|RELEASE:[none|none]
 rednblkx/esp-homekit-sdk: BRANCHES:[esphome:1d1ea30bba62ed9c9d55da6613d828a658ec2a39;upstream:b542009658a6ba4bd9272304334577ae285769bb;master:e7451e9d6e58d91371bed0bc164e6d6765668243;]|RELEASE:[none|none]
 rednblkx/esp32-event-bus: BRANCHES:[main:08a97b9464dd18cf1c861de073f911a55ede997d;]|RELEASE:[none|none]
+rednblkx/esp32-tlv8: BRANCHES:[master:e380df788c86003e75d3602d83d0f8355a04cc8a;]|RELEASE:[none|none]
