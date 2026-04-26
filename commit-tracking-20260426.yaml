@@ -596,3 +596,4 @@ thelastoutpostworkshop/ESP32PartitionBuilder: BRANCHES:[main:6c1ae9f71f3c0809bbd
 thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:49955e0c268cbb7de47d9f968cead72c3ee3986a;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESPConnect: BRANCHES:[main:79bf65282c8f259a9c38d3ec541ef1487a39ad98;gh-pages:bf03f932eecc2589297f4842068b769479f9bbe7;runningFirwmare:d7f3d207eafb9c16bfe1b670d14e5b2d278130e4;feature:e3e41b45df0c1f5bf776456ca2e24c7b27cd4e64;]|RELEASE:[v1.1.10|none]
 thelastoutpostworkshop/FastDisplayPrototyping: BRANCHES:[main:e4ae407c3aec9dfbf0f484c4df831818d622b054;]|RELEASE:[v1.3.1|none]
+thelastoutpostworkshop/firmware-releases: BRANCHES:[main:f05bd562020121900acc75e6f41339e9d51835bb;]|RELEASE:[v1.0.0|none]
