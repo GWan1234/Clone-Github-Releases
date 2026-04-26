@@ -677,3 +677,4 @@ sonocotta/orange-pi-media-center: BRANCHES:[main:7fcee88ea4110d24e81e44994cd4462
 sonocotta/orangepi-ky040: BRANCHES:[master:817b47b807123e7f2b401cf9b790b023fd29653f;]|RELEASE:[none|none]
 sonocotta/orangepi-ws2812-spi: BRANCHES:[master:9639c33450cb0a2f35356e4a61caf67a839e8531;]|RELEASE:[none|none]
 sonocotta/pidi-plugins-python: BRANCHES:[master:7c5c32174a8a01c2339beeb9eb59c34bfd09d236;]|RELEASE:[none|none]
+sonocotta/raspberry-camilla-vu-meter: BRANCHES:[master:c5c65d8b8f5ec7235a73c97ffe10ed432ebf9370;]|RELEASE:[none|none]
