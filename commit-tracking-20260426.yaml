@@ -600,3 +600,4 @@ thelastoutpostworkshop/firmware-releases: BRANCHES:[main:f05bd562020121900acc75e
 thelastoutpostworkshop/gif_image_processing: BRANCHES:[main:512a57feebe0647963f4ca002bf5d71f82739bbd;]|RELEASE:[none|none]
 thelastoutpostworkshop/GPIOViewerVueApplication: BRANCHES:[main:5a05eb8a97ff03377dfc7cc94a2b3b61d5d5121d;]|RELEASE:[none|none]
 thelastoutpostworkshop/gpio_viewer: BRANCHES:[main:ff76be3a0a2a991730c88026d3198cd22dd72319;]|RELEASE:[v1.7.1|none]
+thelastoutpostworkshop/images: BRANCHES:[main:9bc1be84078f83830ba9be1bae33bcba437c6416;]|RELEASE:[none|none]
