@@ -545,3 +545,4 @@ AlistGo/vite-plugin-dynamic-publicpath: BRANCHES:[main:ff72af11ac3c9e300f299f132
 AlistGo/alist-koyeb: BRANCHES:[v3:75c6af7e327952e5f9179e0cadbcf0912708b410;v2:1097a54a4fa42c1c1439ea656348a6fbe0d4c6d4;]|RELEASE:[none|none]
 AlistGo/alist-render: BRANCHES:[v3:4d8e55ae1e1077266b0e20306b775f4f39d05f92;v2:270c34bb9f9c864c98e04b5a5ef3df7b68bdc448;]|RELEASE:[none|none]
 AlistGo/alist-heroku-postgres: BRANCHES:[v2:a7b88a319b503a7188ef70e056111fc89fff5308;]|RELEASE:[none|none]
+AlistGo/alist-replit: BRANCHES:[v3:81600074218549fb2913ccf948bdd7d8b5c13ee0;v2:748c87416be8f39d76137f9bb52a818173f171f4;]|RELEASE:[none|none]
