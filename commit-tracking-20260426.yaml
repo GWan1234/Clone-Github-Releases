@@ -682,3 +682,4 @@ sonocotta/raspberry-media-center: BRANCHES:[main:d3719b13f2ed8a4694ba8036dd1fcb4
 sonocotta/raspberrypi-linux: BRANCHES:[features/tas5805m-mixer-controls:c131e462b766d2b182c15a0dcf6d8095da1ccd93;features/tas5805m-driver-improvement:2ae765c6b2937c81c540c9c1c7229ccc9f144c7d;rpi-6.12.y:1f204175932fe20e477da83012d9fd2fce221366;]|RELEASE:[none|none]
 sonocotta/st7789-orangepi-python: BRANCHES:[master:470233c7647644d531b6ae35da1f2d37e91016ca;]|RELEASE:[1.0.0|none]
 sonocotta/stm8s003-dev-board: BRANCHES:[main:31328bdf9bfc662fb66315719139aba4647fcaae;]|RELEASE:[none|none]
+sonocotta/tas5805m-driver-for-raspbian: BRANCHES:[main:2021494698c320bb8fdefbe9deaab970381b1369;features/louder-raspberry-2x-support:ef4d9a6f927ff07b959fcde2b56d1ab03296275e;features/dual-dac-support:0c99e394cc166f133a6e8a397a1ebd452e2d1f2d;]|RELEASE:[none|none]
