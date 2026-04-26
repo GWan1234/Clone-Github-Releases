@@ -649,3 +649,4 @@ dr-dolomite/sja-voting: BRANCHES:[master:cf35479fcff0430ec2421253e50f276c309840a
 sonocotta/attiny-candle: BRANCHES:[master:4eb1a50d85c7a7e7a0a20da7cdc6d748363ffc3a;features/tiny-painter:3db7530265bf922db0e148f93d329c5512f6dc02;]|RELEASE:[none|none]
 sonocotta/attiny-flasher: BRANCHES:[master:e220ee7f8602ab577218dc025096c98ebfe94d61;features/sync-fork-changes:b497b9313cf164c4a5a9855d335848fc92e73c55;]|RELEASE:[none|none]
 sonocotta/attiny1616-dev-board: BRANCHES:[main:352e5beb1ee896f236b29e0d347c5a2898ca2fb2;]|RELEASE:[none|none]
+sonocotta/esp-adf: BRANCHES:[release/v2.4:6381a4413ca6eadf41853b4e596d85d89b63e677;master:a535ca9d6960543dc9cd523e6593a6f0b70b88fc;]|RELEASE:[none|none]
