@@ -657,3 +657,4 @@ sonocotta/esp32-esp8266-screensavers: BRANCHES:[master:1c598a51dfc47ad29c2358c5b
 sonocotta/esp32-gameboy: BRANCHES:[main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7;]|RELEASE:[none|none]
 sonocotta/esp32-tas5805m-dac: BRANCHES:[main:c5d70d6ad765a58d798e887c62c3e9cdf49982a0;]|RELEASE:[none|none]
 sonocotta/esp32c3-dev-board: BRANCHES:[main:a6194a7d33debfb0ff611d6e8bc8954459285bdd;]|RELEASE:[none|none]
+sonocotta/esparagus-echo: BRANCHES:[main:352140d5be1d182a5925c7f14f46691646820720;]|RELEASE:[none|none]
