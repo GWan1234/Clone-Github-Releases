@@ -547,3 +547,4 @@ AlistGo/alist-render: BRANCHES:[v3:4d8e55ae1e1077266b0e20306b775f4f39d05f92;v2:2
 AlistGo/alist-heroku-postgres: BRANCHES:[v2:a7b88a319b503a7188ef70e056111fc89fff5308;]|RELEASE:[none|none]
 AlistGo/alist-replit: BRANCHES:[v3:81600074218549fb2913ccf948bdd7d8b5c13ee0;v2:748c87416be8f39d76137f9bb52a818173f171f4;]|RELEASE:[none|none]
 AlistGo/v0: BRANCHES:[main:535ca9a6fad1a62195a140b7154c291a20960135;]|RELEASE:[none|none]
+AlistGo/v1: BRANCHES:[main:9503d57c01c3570b9ca70c7aa8d3a2d8018cdded;]|RELEASE:[none|none]
