@@ -568,3 +568,4 @@ localsend/protocol: BRANCHES:[main:4ee5748d497ec9f8d335bf4b7627623729c5b569;feat
 localsend/winget-pkgs: BRANCHES:[master:ff27f2aaeb70a7449e6f58a08e98deff538058e5;LocalSend.LocalSend-1.17.0-4703A8BD68534808BF3612552AB8963B:4bd1393186c722771cc032ec592150707af40462;LocalSend.LocalSend-1.15.0-F6AAA0EBA5887C4D95D85D646AE6D1B826689707:242aa4495feee93525f087a087d513be12e2695f;]|RELEASE:[none|none]
 localsend/homebrew-localsend: BRANCHES:[main:22735388c7869dee9f5d7ed0a88190420367236a;]|RELEASE:[none|none]
 localsend/mtls-example: BRANCHES:[main:ea33543da83b0c2722e56e97e428674a77c77820;]|RELEASE:[none|none]
+localsend/permission_handler_windows_noop: BRANCHES:[main:2dadd8afbf81e0e3e4791d7144e689555e58f649;]|RELEASE:[none|none]
