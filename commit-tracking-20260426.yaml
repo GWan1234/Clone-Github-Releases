@@ -661,3 +661,4 @@ sonocotta/esparagus-echo: BRANCHES:[main:352140d5be1d182a5925c7f14f4669164682072
 sonocotta/esparagus-media-center: BRANCHES:[main:e7cb8461d0c8caf7ece54453c0b65d1957a77a41;features/esphome-configs-refactoring-and-snapclient-new-component:032564d35426d1b08779097a08a917075c8f1861;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462;]|RELEASE:[none|none]
 sonocotta/esparagus-snapclient: BRANCHES:[main:3c86becf1cd3d559915c9c52320fab0853de4830;features/merge:131cf4afa54e93db1c7d6e04a00f99a2d86d8694;]|RELEASE:[none|none]
 sonocotta/esparagus-snapclient-fork: BRANCHES:[features/s3-support:600d8a6e68bb399d02c890117ea954a4c7eee0dd;master:e0d5a8e99c21df0970c1a526e63c16c1be6056b8;master-backup:a825a7025fcb0ab5273e4ea18ee3a39e469fcb60;]|RELEASE:[none|none]
+sonocotta/esphome-pcm5122: BRANCHES:[main:cb5846dab63b982f054828da7c04e9cd121c1c28;]|RELEASE:[none|none]
