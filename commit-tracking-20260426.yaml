@@ -215,3 +215,4 @@ ioBroker/ioBroker.wolf: BRANCHES:[dependabot/npm_and_yarn/alcalzone/release-scri
 ioBroker/ioBroker.icons-addictive-flavour-png: BRANCHES:[master:7ca79945e7886646799cbd91382dcbb858090493;]|RELEASE:[none|none]
 ioBroker/ioBroker.icons-ultimate-png: BRANCHES:[master:519f1a7d31416157f8297b6e5b33745a3989a122;]|RELEASE:[none|none]
 ioBroker/ioBroker.icons-material-png: BRANCHES:[master:94ebd8d8b379df4bbee2d90b4a99fe9ba3906e55;]|RELEASE:[none|none]
+ioBroker/ioBroker.icons-material-svg: BRANCHES:[master:c5777c5a5ec9e20429609c4b31d2da084fad06a8;]|RELEASE:[none|none]
