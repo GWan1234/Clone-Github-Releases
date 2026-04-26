@@ -97,3 +97,4 @@ hacs/bot: BRANCHES:[dependabot/github_actions/actions/setup-node-6.4.0:e6f9aa1e2
 hacs/.github: BRANCHES:[master:d760fab8cc6bef9cafea4032ce99f9154222e435;]|RELEASE:[none|none]
 hacs/ND-NotifyUpdates: BRANCHES:[master:1af01e57d0336e64426e75297a5841bbac6c778e;]|RELEASE:[0.1.2|none]
 hacs/development: BRANCHES:[master:c241ba81939c911b8d498e213476ea625cc669a1;]|RELEASE:[none|none]
+hacs/container: BRANCHES:[main:a5c0d78eea823480b011170d89086f866ba0ba3a;]|RELEASE:[none|none]
