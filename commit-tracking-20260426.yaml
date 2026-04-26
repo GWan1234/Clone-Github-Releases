@@ -173,3 +173,4 @@ domoticz/Machinon: BRANCHES:[dependabot/npm_and_yarn/RE.MACHINON/re.machinon-ser
 domoticz/domoticz-docker: BRANCHES:[main:c8221b54abcc7aa5a9d29681a70d1bbf2a89415e;]|RELEASE:[none|none]
 domoticz/open-zwave: BRANCHES:[master:5550fa3440dcc65c3d7af84f52a5bb896158f919;revert-2517-patch-2:031241a98a53ac882a7966fbdafc160794355d4b;Dev:81f01cbe8bf68d877693b5aae150b124278ba188;S2Refactor:1f2999b9f409c504350aeb592e8986d4c8967dc8;1.4:449f89f063effb048f5dd6348d509a6c54fd942d;]|RELEASE:[none|none]
 domoticz/libwebem: BRANCHES:[master:48f8fbd97333939796a62939487be68a6e8abb88;]|RELEASE:[none|none]
+domoticz/home-connect: BRANCHES:[main:1e2286396718c649e4365a768391c4fb488da53d;]|RELEASE:[none|none]
