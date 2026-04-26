@@ -591,3 +591,4 @@ thelastoutpostworkshop/ESP32-S3_2_inch_240x320_video_player: BRANCHES:[main:6094
 thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player: BRANCHES:[main:406a03eb546e7579f2a447a7cd1093be73acb2bf;]|RELEASE:[none|none]
 thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386322fe7c6823f06e26bc49a9585354df1c715;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32LCDRound240x240Eyes: BRANCHES:[main:cf4b8c28d294738e15ec559587854c378b632cfe;]|RELEASE:[none|none]
+thelastoutpostworkshop/ESP32ManyRoundScreenTest: BRANCHES:[main:41a33d4db991c1ca73b3374e62a75b9548a040e3;]|RELEASE:[none|none]
