@@ -540,3 +540,4 @@ AlistGo/alist-proxy: BRANCHES:[renovate/docker-build-push-action-6.x:361e389e830
 AlistGo/alist-railway: BRANCHES:[mysql:b96a4d03a3c992af03c85f66c1d1a1792c73798b;postgres:1e9adf4ac791aa7fc227cfe2221c5ec50e0a7105;]|RELEASE:[none|none]
 AlistGo/assets: BRANCHES:[main:aa243c0a9e021c8d95f35991869498eb28ebb60e;]|RELEASE:[none|none]
 AlistGo/alist-heroku: BRANCHES:[v2:8255569af13e769d178e31f8da1934fb9026b0b5;v1:af84eab795868ec6e6538a0023c51187b6af355c;]|RELEASE:[none|none]
+AlistGo/logo: BRANCHES:[main:547ff8157f12d9ba48f6fe20a99ab10ac72c66e8;]|RELEASE:[none|none]
