@@ -337,3 +337,4 @@ ioBroker/ioBroker.xterm: BRANCHES:[master:8a900fc410dd42dba4c21e4229ba8d414caa16
 ioBroker/ioBroker.wireless-settings: BRANCHES:[master:99cbef54886d9aa87a182363bf4544ad1240d90e;]|RELEASE:[v1.2.2|99cbef54886d9aa87a182363bf4544ad1240d90e]
 ioBroker/ioBroker.vis-powertrust-fonts: BRANCHES:[main:9c8b2cd532b32d46a24c6090b4aa7c4f1d060bd7;]|RELEASE:[none|none]
 ioBroker/dev-docs: BRANCHES:[gh-pages:205221a4246aa4831eab0039a82ad3b37b19041f;main:179cc6457f6d659f4fbf3f313f952beeaa16effd;]|RELEASE:[none|none]
+ioBroker/ioBroker.ws: BRANCHES:[dependabot/npm_and_yarn/typescript-6.0.2:c2a24716350f94440adcadcff2e8f4bc2d3ca825;main:485b0ff9d76bd0c7cf3ee5393d6422ac41a63b80;typescript:217403a1d2de2df63178942fd3dbd845377670de;]|RELEASE:[v4.1.0|485b0ff9d76bd0c7cf3ee5393d6422ac41a63b80]
