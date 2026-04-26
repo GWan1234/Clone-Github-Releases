@@ -607,3 +607,4 @@ thelastoutpostworkshop/JC4827W543_avi_player: BRANCHES:[main:06b0a9a000116d2540a
 thelastoutpostworkshop/JC4827W543_LVGLv9: BRANCHES:[main:c2447f725f3b17060dc15d3c69b1d269272fd280;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_radio_lvgl: BRANCHES:[main:b6fe1c50a8925e235ec9e0ce8af691539ba5d0d1;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_WifiAnalyzer: BRANCHES:[main:1ee6731191921a3048f023677b642e5e684d4a5f;]|RELEASE:[none|none]
+thelastoutpostworkshop/led_task: BRANCHES:[main:223dcca2cb7470a0763dda2126a21b43e104a894;]|RELEASE:[none|none]
