@@ -442,3 +442,4 @@ OpenListTeam/go-wasi-http: BRANCHES:[main:97ffd481755003f7c853acb42bdb25362dc37a
 OpenListTeam/openlist-baidushare-plugin: BRANCHES:[main:8515b0f7bfa715007c833d1374fdb10b65fcc217;]|RELEASE:[v0.0.1|none]
 OpenListTeam/wazero-wasip2: BRANCHES:[fix/resource:9d81773cdf415982a58524ccfa2cb88a40a28002;main:b699dbc20d5c007f6e1fd42ad8b533d30adfbf17;]|RELEASE:[none|none]
 OpenListTeam/openlist-ftp-plugin: BRANCHES:[main:be1a3ee9684749791d6b0e3bac4cac977f72d76c;]|RELEASE:[v0.0.1|none]
+OpenListTeam/openlist-lanzou-plugin: BRANCHES:[main:e65f249178fdc53a8e25e2fc79c0cadfe0918e2a;]|RELEASE:[v0.0.1|none]
