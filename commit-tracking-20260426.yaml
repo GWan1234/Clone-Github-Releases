@@ -413,3 +413,4 @@ OpenListTeam/Logo: BRANCHES:[main:8d6008e89d005fd70a510c274b6dee3209f51de2;color
 OpenListTeam/solid-router: BRANCHES:[main:d960ff250025329e0a0394568dd336dc27070d8b;]|RELEASE:[none|none]
 OpenListTeam/115-sdk-go: BRANCHES:[main:432cb2c9cfad683d64f1412719a61af2d52ceebe;]|RELEASE:[v0.2.3|none]
 OpenListTeam/cgo-actions: BRANCHES:[v1:1fff82d72e52b29a6030d61f5b1809f72b11bd6e;]|RELEASE:[v1.2.4|none]
+OpenListTeam/sftpd-openlist: BRANCHES:[master:0b84c6926ebf0e5813831f053890aeb964aa6c7d;]|RELEASE:[v1.0.1|none]
