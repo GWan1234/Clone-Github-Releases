@@ -667,3 +667,4 @@ sonocotta/loud-esp: BRANCHES:[main:c79a5d07c4123286bdc1e69036e04e38a117e443;]|RE
 sonocotta/mopidy-alexa-voice-control: BRANCHES:[features/mopidy-native-integration:6e18ce62a745d1e2231f5ad4ef5fb004f207fa1b;master:cff6775a06f74b7917ef2cac538e7b354ef15925;]|RELEASE:[none|none]
 sonocotta/mopidy-headless2: BRANCHES:[master:339af3d3697556be342bbd18d48d7c6102638af9;]|RELEASE:[none|none]
 sonocotta/mopidy-orangepi-pidi: BRANCHES:[master:a606aaa09d81fe74ab441e280b7cd02cd2537880;]|RELEASE:[none|none]
+sonocotta/mouse-whisperer: BRANCHES:[main:5bb3bfa78df90fef4818f4dd166cbfc74a8b2e5b;features/t1616-port:0b5d3ea13d812f4c21e329085f6ee3441a079f1e;features/add-build-workflow:2a52b0bdbbef7709b17b91a5f6491f3ff5b50f95;]|RELEASE:[none|none]
