@@ -537,3 +537,4 @@ AlistGo/alist: BRANCHES:[dependabot/go_modules/github.com/golang-jwt/jwt/v4-4.5.
 AlistGo/alist-doc: BRANCHES:[main:64a4af832b77be1caf6e5e8811e5875e17a8ad4f;renovate/configure:6c89fec5ffd2a4a7285ddf429ab4884c16b2627d;]|RELEASE:[none|none]
 AlistGo/react-viewer: BRANCHES:[master:266420ce2c7e45a39e285f691e073b85112180a7;next:e2854a70ddb0a6f316cf761753368915d4740491;gh-pages:35e12bb416cc471089fa33eb4778b69c35d5334d;2.x:feb9419f879fdc2c29b3fb54dbcbbd17b3377f15;]|RELEASE:[none|none]
 AlistGo/alist-proxy: BRANCHES:[renovate/docker-build-push-action-6.x:361e389e830970a9e090da06f059b81c1a5d0627;main:ab1345e48be7e3ad1708439b888810b5b5ca374f;v2:bab243921e25fe07c04f89a9c2c0a7dce6aafc96;]|RELEASE:[v0.0.6|8c24adabdf7439f7e730507f8c2b9eacdafa642b]
+AlistGo/alist-railway: BRANCHES:[mysql:b96a4d03a3c992af03c85f66c1d1a1792c73798b;postgres:1e9adf4ac791aa7fc227cfe2221c5ec50e0a7105;]|RELEASE:[none|none]
