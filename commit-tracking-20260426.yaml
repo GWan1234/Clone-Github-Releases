@@ -332,3 +332,4 @@ ioBroker/socket-client: BRANCHES:[dependabot/npm_and_yarn/typescript-6.0.2:213e7
 ioBroker/ioBroker.material.app: BRANCHES:[master:b7294ad43f5dd634dd46206fe3be18479f9afaf8;]|RELEASE:[none|none]
 ioBroker/testing-action-check: BRANCHES:[master:1c9e1ade84112082cbd979e7f0b545d95bbe4e0a;]|RELEASE:[v2.0.0|none]
 ioBroker/testing-action-adapter: BRANCHES:[master:c91f22babd740509d72864da740f7eaf9029b26b;]|RELEASE:[v1.1.1|none]
+ioBroker/testing-action-deploy: BRANCHES:[master:3b33380398eb641e9d6029bda5103a4c75578526;supporting-custom-tag:317ff636ecdc74767690a513a2c2de4c50801910;downgrade-action-gh-release:6b8f1e027625f6bf09cecee869a0e8dcac2b6286;]|RELEASE:[v1.4.3|none]
