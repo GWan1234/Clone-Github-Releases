@@ -152,3 +152,4 @@ esphome/starter-components: BRANCHES:[main:34ad217e69336d07ca69645d3cf199c583ede
 esphome/zwa-2: BRANCHES:[esphome-version-update:19b1f83d374d7e8a4fb4e82704111e012775e436;main:73b6b5b925882319b9a40fe60b278347c6d60bc7;20250928-get-usb-uart-release:66ab38f8222a06b2dbe920c28d0e02f9777dd472;20250926-rename:d91ad674acb32d4b0a417ec29e1ec82d92ad9685;20250926-fix-path:ff7cb360b075f9c00b2b1358a893343c450918cc;20250926-split-jobs:b663d3061c45150adb816bc3e6030fa5dcf2cd0c;]|RELEASE:[26.3.0|none]
 esphome/home-assistant-voice-pe-alpha: BRANCHES:[pin-action-shas:067939a9d498c4c4acb940297de0439cd1ec7a1d;alpha:d108f132af709f563dac33739728bff082e38491;]|RELEASE:[none|none]
 esphome/lite-action: BRANCHES:[main:5d6cc0eb514c891a40562a58a8e71576c5c7fb43;]|RELEASE:[none|none]
+esphome/pre-commit-action: BRANCHES:[main:999250d73defebfe1394a96470523b9d4ecf05c2;pin-action-shas:5c715dd7aaa44a0b3786b201064e3efe35a7bd32;]|RELEASE:[none|none]
