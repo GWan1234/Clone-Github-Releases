@@ -659,3 +659,4 @@ sonocotta/esp32-tas5805m-dac: BRANCHES:[main:c5d70d6ad765a58d798e887c62c3e9cdf49
 sonocotta/esp32c3-dev-board: BRANCHES:[main:a6194a7d33debfb0ff611d6e8bc8954459285bdd;]|RELEASE:[none|none]
 sonocotta/esparagus-echo: BRANCHES:[main:352140d5be1d182a5925c7f14f46691646820720;]|RELEASE:[none|none]
 sonocotta/esparagus-media-center: BRANCHES:[main:e7cb8461d0c8caf7ece54453c0b65d1957a77a41;features/esphome-configs-refactoring-and-snapclient-new-component:032564d35426d1b08779097a08a917075c8f1861;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462;]|RELEASE:[none|none]
+sonocotta/esparagus-snapclient: BRANCHES:[main:3c86becf1cd3d559915c9c52320fab0853de4830;features/merge:131cf4afa54e93db1c7d6e04a00f99a2d86d8694;]|RELEASE:[none|none]
