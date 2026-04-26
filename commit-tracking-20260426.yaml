@@ -586,3 +586,4 @@ thelastoutpostworkshop/DualEye_display: BRANCHES:[main:37b768bf8c4bfe4d76447519f
 thelastoutpostworkshop/esp32-2432S028_video_player: BRANCHES:[main:ea44e5aca4e1ce9923b8b9b3a9a2231323a07cf5;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32-C6-1_3_240x240_video_player: BRANCHES:[main:1eaea9094e843972e5da76e4e0346b9b3691533f;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32-C6-LCD-1.47_LVGL9_Crypto_Monitor: BRANCHES:[main:a17c7d8fbf52837d545374aab33806e96036d54a;]|RELEASE:[none|none]
+thelastoutpostworkshop/ESP32-C6-LCD-1.47_video_player: BRANCHES:[main:6085a7e339de19356d399e8e2b48a0af152ce7a5;]|RELEASE:[none|none]
