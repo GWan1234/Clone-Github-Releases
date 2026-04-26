@@ -719,3 +719,4 @@ rednblkx/IRremoteESP8266: BRANCHES:[master:b86aa36d78d9157a8a0a616e3eee9b419d012
 rednblkx/jsoncons: BRANCHES:[master:0674bb8d3fb63c02eee35da378727c38dbf0a477;]|RELEASE:[none|none]
 rednblkx/libsodium-esphome: BRANCHES:[main:4fd1d10337efc0a9d943bfd43f6c1073382b9c4f;]|RELEASE:[none|none]
 rednblkx/linux: BRANCHES:[master:1707c39ae309bf91965aa6f04d63816a090d90a1;]|RELEASE:[none|none]
+rednblkx/loggable-espidf: BRANCHES:[main:263a0eb8468c39292e3938759cd7d7ae68a8f4c2;]|RELEASE:[none|none]
