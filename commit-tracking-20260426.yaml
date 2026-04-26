@@ -711,3 +711,4 @@ rednblkx/hellozigbee: BRANCHES:[main:0d709de62faf59833bded814eb0f71a7c99bf934;]|
 rednblkx/HomeKey-ESP32: BRANCHES:[main:dc4093387296977b8df722ea64297d98a66480e7;esp-homekit-sdk:135106aa729dba149be0171aa13e79cf995807d0;]|RELEASE:[v0.8|85f93e1e17d158e983c1bd7085d9288ea1e91d79]
 rednblkx/homekit-lock-access-code: BRANCHES:[main:bf60c71e8ced7fbe34ff24dad12057d97214b6dc;]|RELEASE:[none|none]
 rednblkx/HomeSpan: BRANCHES:[1.9.1:9c7b6bc580b7053a53c7651e6a0f1a6951ca1981;master:2481fc410a3ba43d169f18442e851fcfee903b2e;dev:a82679088be81cf017e63e5168b2e26771e794cb;upstream-wr:61dd4e8a6b5b09c1caab709c9f937cf417f149fe;home-key:ab307b0694edb92d6ca4e18363c4a10b8d1b8682;]|RELEASE:[none|none]
+rednblkx/hypervisor: BRANCHES:[master:3a2e28e299b727862aeb6b18bcd4afc8ee99d42b;]|RELEASE:[none|none]
