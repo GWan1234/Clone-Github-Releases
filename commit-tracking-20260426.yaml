@@ -709,3 +709,4 @@ rednblkx/futurerestore: BRANCHES:[dev:e4450cef479f93d1978285e10091e371d71cf7e3;m
 rednblkx/HAP-ESPHome: BRANCHES:[main:018b356129ed5f0c5fd17c9dae6b4b77d7ab1add;upstream/pn532:ddbc8badcbe1123e84e83d3c5a0a715b34e9d006;coderabbitai/docstrings/7089a4c:8fb0ecabf085d1e9e1f9a14024c2296e8b86ab97;]|RELEASE:[none|none]
 rednblkx/hellozigbee: BRANCHES:[main:0d709de62faf59833bded814eb0f71a7c99bf934;]|RELEASE:[none|none]
 rednblkx/HomeKey-ESP32: BRANCHES:[main:dc4093387296977b8df722ea64297d98a66480e7;esp-homekit-sdk:135106aa729dba149be0171aa13e79cf995807d0;]|RELEASE:[v0.8|85f93e1e17d158e983c1bd7085d9288ea1e91d79]
+rednblkx/homekit-lock-access-code: BRANCHES:[main:bf60c71e8ced7fbe34ff24dad12057d97214b6dc;]|RELEASE:[none|none]
