@@ -505,3 +505,4 @@ obsproject/obs-websocket: BRANCHES:[master:1fcb95b15aa88b1b7e9bda3f9c8650e314377
 obsproject/obs-vst: BRANCHES:[master:b28cdef1fb06ece14d6be023b0f08ec28bca972e;process:935a4e3d311526f9ba5a58fc73b073d792d283bc;linux:c41c682b72202041f1c86a68efd07734e438c5f5;formatci:1a5e8e8a9b8c454994997e56b7cb9af2fe8ed8e9;noclose:7119699c70e86c97c446adc401aa7104008678c5;shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825cbe1474561ec2dc28d9ca7905367e08823b90;]|RELEASE:[none|none]
 obsproject/loganalyzer: BRANCHES:[master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;]|RELEASE:[none|none]
 obsproject/obs-plugintemplate: BRANCHES:[master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;]|RELEASE:[none|none]
+obsproject/.github: BRANCHES:[master:ab3485c814e97c245a7fbaace3bc522b62c04a34;]|RELEASE:[none|none]
