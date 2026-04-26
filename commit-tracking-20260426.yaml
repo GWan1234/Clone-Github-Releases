@@ -621,3 +621,4 @@ thelastoutpostworkshop/thelastoutpostworkshop.github.io: BRANCHES:[main:3e636e8f
 thelastoutpostworkshop/video_conversion: BRANCHES:[main:63534f3c98851efafd68aa288b639f19398e31bc;]|RELEASE:[v1.3.2|none]
 thelastoutpostworkshop/virtualScreen: BRANCHES:[main:cf933d669b7aa0d93e5357216a915f708a75a5ac;]|RELEASE:[v2.0.2|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: BRANCHES:[main:a37ab3564b03257daaaf91621819306e118a5e68;]|RELEASE:[none|none]
+thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_xwing_game: BRANCHES:[main:009eefc68d1ae29b4d8aafd18a61a92bb3923be7;]|RELEASE:[none|none]
