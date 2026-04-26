@@ -654,3 +654,4 @@ sonocotta/esp-luma-drive: BRANCHES:[main:c3f3fc2ea8ce746be744dc7155f72e977d12f19
 sonocotta/esp-tunein-player: BRANCHES:[master:3a891ec6a1a374507e89510c52a69b75e3917d5a;]|RELEASE:[none|none]
 sonocotta/esp32-audio-dock: BRANCHES:[main:4d892e610bb54505b615efb0695456d8c690cc55;]|RELEASE:[none|none]
 sonocotta/esp32-esp8266-screensavers: BRANCHES:[master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc;]|RELEASE:[none|none]
+sonocotta/esp32-gameboy: BRANCHES:[main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7;]|RELEASE:[none|none]
