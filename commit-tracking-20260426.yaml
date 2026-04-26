@@ -670,3 +670,4 @@ sonocotta/mopidy-orangepi-pidi: BRANCHES:[master:a606aaa09d81fe74ab441e280b7cd02
 sonocotta/mouse-whisperer: BRANCHES:[main:5bb3bfa78df90fef4818f4dd166cbfc74a8b2e5b;features/t1616-port:0b5d3ea13d812f4c21e329085f6ee3441a079f1e;features/add-build-workflow:2a52b0bdbbef7709b17b91a5f6491f3ff5b50f95;]|RELEASE:[none|none]
 sonocotta/nRF24LE1-Example: BRANCHES:[master:97ea3b9aae1ab8cc74742e8ae35e7a0428ecdddb;]|RELEASE:[none|none]
 sonocotta/nRF24LE1-Programmer: BRANCHES:[master:217bfdcb2192f68e7624d4895aef6f6011a5541b;]|RELEASE:[none|none]
+sonocotta/nRF24LE1-SDK: BRANCHES:[master:44e1464ee9cb728d8efc2106ed4f4fbd70a2ec2f;]|RELEASE:[none|none]
