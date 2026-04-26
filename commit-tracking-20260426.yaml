@@ -52,3 +52,4 @@ anzhiyu-c/anzhiyu-c: BRANCHES:[main:5b23163692085e30e5033722b6c456dce422cf2c;]|R
 anzhiyu-c/anzhiyu-docs: BRANCHES:[main:f12b2b04666dcb290a03667fe89e87c8a7b5f063;dependabot/npm_and_yarn/vue-3.3.13:a4ca656d5ca49331a34c470550365e809a57c645;dependabot/npm_and_yarn/types/node-20.10.5:6727c0ce9c880e0b556b656565adcf34a6f20833;dependabot/npm_and_yarn/vitepress-1.0.0-rc.32:c4aad3260259371489da8c375746a56bec5ff378;dependabot/npm_and_yarn/vitepress-plugin-tabs-0.4.1:9bdf92520da84606e15529c6d1dbfc74f06eebe3;]|RELEASE:[none|none]
 anzhiyu-c/anzhiyu-static: BRANCHES:[main:c77627e55131b89d947a7e4e4cb8b41dbb8fff2a;]|RELEASE:[none|none]
 anzhiyu-c/anzhiyu.org.js: BRANCHES:[main:a46949e8640ffc365b7ad889365b1efea75433d4;]|RELEASE:[none|none]
+anzhiyu-c/cdn-server: BRANCHES:[main:e48be52cfe3e023098f268e0eaa0664a2e47681c;]|RELEASE:[none|none]
