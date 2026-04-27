@@ -918,3 +918,4 @@ qlwz/BYD_S7_Contacts: BRANCHES:[master:0a2f4d93610c28fe7dfaa0bf759132c209d72c26;
 qlwz/ByteBuffer: BRANCHES:[master:516146265c2ac566fca5c562a9115169df005920;]|RELEASE:[none|none]
 qlwz/CodeGen_PECL: BRANCHES:[master:f746dc186b19f25827f7d49e67e436e63a90bc47;]|RELEASE:[none|none]
 qlwz/CompressHTML-For-Typecho: BRANCHES:[master:62035470cad541d8fd4ca4950af1ca5235bdd67e;]|RELEASE:[v.1.0.0.1|none]
+qlwz/csharp_InlineHook: BRANCHES:[master:45fd8f7fe2d9865738f4b0b8766046713d5e5c68;]|RELEASE:[none|none]
