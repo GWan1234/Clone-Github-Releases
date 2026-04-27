@@ -1039,3 +1039,4 @@ rime/ibus-rime: BRANCHES:[master:018ae95a27acb8f54881bba3db5526886dd11dbf;]|RELE
 rime/squirrel: BRANCHES:[master:151a43c6bc8ece4354d5a526be0a8de0f60cb6ad;cmake:10a85e770991f0f4259dc855c5dafd6cf68acce3;fast-check:4d1f549cbc87b3e4e9c2d04ecba44570c10e1526;nil-event:5c98d784c59ba7c8bd9dbc4f3e3580176a702a4c;app-bundle:a30a6e94d1b90f559567d592186b048ea8103102;core_text:94edfb611e05735b4e96253cdb487998dab7e33a;]|RELEASE:[1.1.2|none]
 rime/weasel: BRANCHES:[master:93eec2dc33dfcf04c356cce87732b638888fff4d;revert-1499-fix_status:935dc990f36f3d4f50809f6c3a28d34685c5d117;legacy:ce48ad184c0f8b0cb486f2c3533e85dc43227b1f;]|RELEASE:[0.17.4|9cc96e20dc71b80876b12f689bb5863c76c2a7ed]
 rime/artworks: BRANCHES:[master:d077b5a8c07c845403de19ce7078064efaf8401c;]|RELEASE:[none|none]
+rime/librime-legacy: BRANCHES:[master:9f04e6f6b645a9b57308928edf1b8487001abcf6;]|RELEASE:[none|none]
