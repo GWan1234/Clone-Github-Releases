@@ -896,3 +896,4 @@ Koenkk/xtext-languageserver-example: BRANCHES:[master:b8927e77d5e755b86d1900a011
 Koenkk/Z-Stack-firmware: BRANCHES:[master:58dda33d834ef09132427cb41721d7d68e11a7a6;dev:68d7b93d18798a2af9f91732ea098b5b4986f6c6;]|RELEASE:[Z-Stack_3.x.0_coordinator_20250321|none]
 Koenkk/z2m-frontend: BRANCHES:[imgbot:e397f8a0682300b6ddf7465fecd1fff754a6d426;master:c1cc399ab71199cb81e65aad6fb3f68499458d17;gh-pages:714c9bbbff3a5dd66aafa8125ce88ec06c8fecb8;]|RELEASE:[none|none]
 Koenkk/zcl-id: BRANCHES:[master:4fa75c92424cd070a3bf6e1f4640b1e3ad8f802d;salus:4db172c253c3381bb009366cdc4208a25182607f;HBUniversalCFRemote:754fc764ef6770d9f492a1e5c095c255532d133f;]|RELEASE:[none|none]
+Koenkk/zcl-packet: BRANCHES:[master:31b023453793dda9536a1dd874bf65d2b1b3fc7f;salus:e233d2298488b4799c35663792e243ffbad6c6e8;dzungpv:f36f723223363932c319a97d0f81ce048f75a923;HBUniversalCFRemote:80f29a42e5e2381e196c8a327323a296e4fdd0a9;]|RELEASE:[none|none]
