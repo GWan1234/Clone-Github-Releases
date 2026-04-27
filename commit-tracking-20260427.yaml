@@ -1050,3 +1050,4 @@ rime/rime-bopomofo: BRANCHES:[master:a8c35a4ae3998ac0cdbd02fbb42c883ecada4279;mo
 rime/rime-pinyin-simp: BRANCHES:[master:0c6861ef7420ee780270ca6d993d18d4101049d0;]|RELEASE:[none|none]
 rime/rime-double-pinyin: BRANCHES:[master:01a13287cbd27819be1c34fa1ddc1b3643d5001b;]|RELEASE:[none|none]
 rime/rime-combo-pinyin: BRANCHES:[master:711aaa6285216a4e86ec73ecae86a5d6e8fe2a2c;]|RELEASE:[none|none]
+rime/rime-stenotype: BRANCHES:[master:bef930831ffe97846fa484a81014ad3e465a25c1;]|RELEASE:[none|none]
