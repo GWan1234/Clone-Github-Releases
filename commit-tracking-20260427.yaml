@@ -980,3 +980,4 @@ lambilly/hass_tian_api: BRANCHES:[main:d0954dc5c1206279f6d2d63eef09869405c0af7e;
 lambilly/hass_tian_express: BRANCHES:[main:3e4731836f3a6f9da67218f8df6ca7f4943f91f5;]|RELEASE:[v1.0.3|none]
 lambilly/hass_tian_free: BRANCHES:[main:941f1d6cc761f0006c6c05e13c4ca7d6fdeb085e;]|RELEASE:[v1.2.0|none]
 lambilly/hass_tian_holiday: BRANCHES:[main:3dd18a42395a8a853f077da764955d1d670ef109;]|RELEASE:[v1.0.1|none]
+lambilly/hass_tian_realtime: BRANCHES:[main:c53c37affe7f88fede5d1381a1b2d6078737c3da;]|RELEASE:[v1.1.3|none]
