@@ -804,3 +804,4 @@ arendst/nodemcu-pyflasher: BRANCHES:[master:55d316927978b3456c2435eaf1f20b4d3763
 arendst/noduino-sdk: BRANCHES:[master:93ee43549a33a49a693f9ff95e3a8e3db2be418f;next:b2d342fda84d69cbb2a4b656bb069a1e60e46b50;]|RELEASE:[none|none]
 arendst/platform-espressif8266: BRANCHES:[main:d0b2f6e3874e63d4da7336ef3a72c783adbb2a14;]|RELEASE:[none|none]
 arendst/pyhOn: BRANCHES:[main:327d4a181484d49ccbef25e470cfc86d2c5d91fa;]|RELEASE:[none|none]
+arendst/RF-Bridge-EFM8BB1: BRANCHES:[Protocol:8d57177ca1ce65b3bba38a8ea39e10dc94fb1756;Duty_Cycle:9fce9e73c2f8deaf4c66488c2747868eef3c3d11;master:dc1a9aad758e7b6749c00bfb41147cc949ccfa89;]|RELEASE:[none|none]
