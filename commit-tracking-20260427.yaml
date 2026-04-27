@@ -803,3 +803,4 @@ arendst/MS-DOS: BRANCHES:[main:2d04cacc5322951f187bb17e017c12920ac8ebe2;]|RELEAS
 arendst/nodemcu-pyflasher: BRANCHES:[master:55d316927978b3456c2435eaf1f20b4d37634e81;gh-pages:38c8c6bacba5c888b9d450d5eadf775e48b01a9e;]|RELEASE:[none|none]
 arendst/noduino-sdk: BRANCHES:[master:93ee43549a33a49a693f9ff95e3a8e3db2be418f;next:b2d342fda84d69cbb2a4b656bb069a1e60e46b50;]|RELEASE:[none|none]
 arendst/platform-espressif8266: BRANCHES:[main:d0b2f6e3874e63d4da7336ef3a72c783adbb2a14;]|RELEASE:[none|none]
+arendst/pyhOn: BRANCHES:[main:327d4a181484d49ccbef25e470cfc86d2c5d91fa;]|RELEASE:[none|none]
