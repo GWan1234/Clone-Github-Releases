@@ -971,3 +971,4 @@ lambilly/brands: BRANCHES:[add-daily_fund-icons:4147861d2b79678a7127be187cbe2228
 lambilly/hacs: BRANCHES:[master:a92aa8263131fe1aaef2b4ec3a904c9a9722cd3c;]|RELEASE:[none|none]
 lambilly/hass_byd_mqtt: BRANCHES:[main:404ad975f215eea8c6d534526853e9c4d1495a24;]|RELEASE:[v1.0.1|none]
 lambilly/hass_daily_fund: BRANCHES:[main:2f96797194aec38433a2ea1f16236cc080db8b8f;]|RELEASE:[v1.0.2|none]
+lambilly/hass_daily_news: BRANCHES:[main:31e634b5b8bc7f9d01b0eeb721a8467316cb3118;]|RELEASE:[v1.2.1|none]
