@@ -929,3 +929,4 @@ qlwz/esp_zinguo: BRANCHES:[master:5407ae48149c78a2d476063236b12d243841d6a2;]|REL
 qlwz/FastColoredTextBox: BRANCHES:[master:b9ff468065e919ad3456e09dcf594275cae0c632;]|RELEASE:[none|none]
 qlwz/freepad: BRANCHES:[master:6f6abe1ca6d946ce46201034008eca218c390b20;]|RELEASE:[none|none]
 qlwz/hon: BRANCHES:[main:0a3e07a42f096df72276a320409ad7dfd05c1489;]|RELEASE:[none|none]
+qlwz/KODExplorer: BRANCHES:[master:08a20aee7385996e26195810fa0e560ffec6ad40;revert-25-master:dc1ad5b5d629ea394adc08c3fe01c91d62a2346c;]|RELEASE:[none|none]
