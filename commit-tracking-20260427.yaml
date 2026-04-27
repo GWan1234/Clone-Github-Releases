@@ -1161,3 +1161,4 @@ openwrt/maintainer-tools: BRANCHES:[changelog:7f1a3d674b9c3ee08a21337e7269ee832d
 openwrt/backports: BRANCHES:[main:0783fdb078f8cc99e0bf76621f22dd7ea24c58fa;]|RELEASE:[backports-v6.19|none]
 openwrt/downloads-openwrt-org: BRANCHES:[staging:2f67686b059d32cb21c0f933e661abfeb3be9dd4;main:a220f6f26f5ef3fb2d068d4fc0ffb03ae544f40c;]|RELEASE:[none|none]
 openwrt/qca-ppe: BRANCHES:[mtu:fff0bf97d4b4f8425da09caa6ff4370bf51ed759;main:f533ab03237518824bcdc480ad2652497967c2ac;]|RELEASE:[none|none]
+openwrt/qca-uniphy: BRANCHES:[main:0abeb3a428d305288c70eb37ac809f55cb50a7f4;add-hsgmii-support:47aa5fe67c5c194a3c4f7235ab4540313a833ef5;]|RELEASE:[none|none]
