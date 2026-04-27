@@ -1031,3 +1031,4 @@ flameshot-org/flameshot-dockerfiles: BRANCHES:[main:86b830b0b9f3418b07339f408580
 flameshot-org/vagrant: BRANCHES:[main:fcc3ea1a635dc3f7afd8df8e747cc61280496bb5;]|RELEASE:[none|none]
 flameshot-org/scripts: BRANCHES:[main:ca86964ecc8230258394af7cc4b2a4300ddb69f2;]|RELEASE:[none|none]
 flameshot-org/plugins: BRANCHES:[main:a237f6ef36df1396f7ccee2f824886cc13558230;]|RELEASE:[none|none]
+flameshot-org/QHotkey: BRANCHES:[master:d7063877c14d5ae2b489dc70bbe02e76a43bf38b;]|RELEASE:[none|none]
