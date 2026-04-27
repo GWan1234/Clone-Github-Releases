@@ -1149,3 +1149,4 @@ openwrt/forum-old: BRANCHES:[main:e91d4ca991a615e3b84a52764db5744af51b5d77;]|REL
 openwrt/forum-edit-history-override: BRANCHES:[main:96ba556d9cda0d27dd3bdeb152feb0a3a2e5dd87;]|RELEASE:[none|none]
 openwrt/rtl8125: BRANCHES:[master:024816580bb7792f36d8cc1bd1515443f3749605;]|RELEASE:[9.016.01|none]
 openwrt/rtl8126: BRANCHES:[master:27721fbedc45897cf1f155f5eb44de76962a1ba8;link-status:2dcb76c9fd5cfc5287ca12d159b1faed6585a0d0;]|RELEASE:[10.016.00|none]
+openwrt/rtl8168: BRANCHES:[master:92c9d03efe78e3550b1b1a8e5bf85d79a5eb3b7d;cflags:b5a3eaec6a4ba859602a286fcb5034cf3f25fc55;link-status:0078930e0c374d327cd3281e5e2f7ff97b40b335;link-speed-duplex:60e72a73acd6866f0d9b1bba0dcd6dd5513d9c40;]|RELEASE:[8.056.02|none]
