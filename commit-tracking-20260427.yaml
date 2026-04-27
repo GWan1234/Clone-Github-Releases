@@ -1030,3 +1030,4 @@ flameshot-org/flathub: BRANCHES:[org.flameshot.Flameshot:2a69030485a49c955db3a2c
 flameshot-org/flameshot-dockerfiles: BRANCHES:[main:86b830b0b9f3418b07339f40858003089a72b089;shdocker:e707d90b16a08cdf00bc789e094f4b2e5340e490;]|RELEASE:[none|none]
 flameshot-org/vagrant: BRANCHES:[main:fcc3ea1a635dc3f7afd8df8e747cc61280496bb5;]|RELEASE:[none|none]
 flameshot-org/scripts: BRANCHES:[main:ca86964ecc8230258394af7cc4b2a4300ddb69f2;]|RELEASE:[none|none]
+flameshot-org/plugins: BRANCHES:[main:a237f6ef36df1396f7ccee2f824886cc13558230;]|RELEASE:[none|none]
