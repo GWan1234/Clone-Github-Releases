@@ -985,3 +985,4 @@ lambilly/hass_today_history: BRANCHES:[main:729286e8c77b185d2dac211e54bdbf1ade66
 lambilly/hass_weekly_film: BRANCHES:[main:f35f1cc11badfccf1032ac8afc010d98d2889c7b;]|RELEASE:[v1.0.0|none]
 lambilly/ha_traccar: BRANCHES:[master:abc76db0c626d8fe530f412031f2a2158b4e3295;]|RELEASE:[v1.0.1|none]
 lambilly/ha_tuqiang123_traccar: BRANCHES:[main:0107cb0a8b8cfcd73803c248009afa796585e693;]|RELEASE:[v1.0.0|none]
+lambilly/ha_tuqiang_traccar: BRANCHES:[main:346f55ab38384b7bb53a9d6b35f12549914f891c;]|RELEASE:[v2.0.0|none]
