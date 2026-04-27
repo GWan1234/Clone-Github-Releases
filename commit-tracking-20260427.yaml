@@ -1137,3 +1137,4 @@ openwrt/urngd: BRANCHES:[master:f17e33d9942750edbd73124e6f03118a98abb402;]|RELEA
 openwrt/usbmode: BRANCHES:[master:9b4d0a6e25d5b9f5be9e9c7b6dbf1961763d0b93;]|RELEASE:[none|none]
 openwrt/usign: BRANCHES:[master:c4c72b1b07945ee192361dc751291a7c98d6adcd;]|RELEASE:[none|none]
 openwrt/usteer: BRANCHES:[master:1d6524c6e6b58853f053c7816249a8f68ad9b0e8;staging/stintel/dev:642607a3b44281ec6f1d94a04acf1461069d2c95;]|RELEASE:[none|none]
+openwrt/ustp: BRANCHES:[master:a85a5bc83bde5b485319ca12b6e32c4b7f0b120f;]|RELEASE:[none|none]
