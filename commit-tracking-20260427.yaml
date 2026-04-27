@@ -922,3 +922,4 @@ qlwz/csharp_InlineHook: BRANCHES:[master:45fd8f7fe2d9865738f4b0b8766046713d5e5c6
 qlwz/Embedded-Product-Collect: BRANCHES:[master:4167f4bfaa7763ffc2c340faf83fe58027c60dd5;]|RELEASE:[none|none]
 qlwz/esp: BRANCHES:[master:a63c9467d26e99709b969a7208c5e4c0f8142658;]|RELEASE:[2020.01.02.2300|none]
 qlwz/esp-serial-flasher: BRANCHES:[master:14742dc91c9f6b768c43798e77fb4050a1c88fbb;]|RELEASE:[none|none]
+qlwz/esp_cover: BRANCHES:[master:933a0668796daea9df160491bd4024f0b0361b13;]|RELEASE:[2020.02.22.2100|none]
