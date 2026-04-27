@@ -853,3 +853,4 @@ Koenkk/home-assistant.io: BRANCHES:[patch-1:f7887f064ceb3c61f47dbe059b722734f5cb
 Koenkk/ics_calendar: BRANCHES:[feat/additional-headers:76a765f65ef40c70941769206d97b5bdc69c5eea;releases:f151d3f20f17db337778ec1bf9747c0558ea6cd2;]|RELEASE:[none|none]
 Koenkk/jest-coverage-badges: BRANCHES:[issue-template:a2bd84a01a0de3185b8c5fac4c6abeea5589bf7f;master:11a207cf7f279c4f9435fe28058e5d7f452b8e9e;add-tests:e38237a441a7db18920ce2a47a93e86bdaf71f75;eslint:51138e825c6109892d6777f1d2a0db7310ac6371;testing:f2ad5b359183ce54d8cb8aa9cf1dda8159c7e497;]|RELEASE:[none|none]
 Koenkk/Koenkk: BRANCHES:[main:5d8dba789cbf0cb4c4784bbf9d6aad8eed1c0121;]|RELEASE:[none|none]
+Koenkk/libcec: BRANCHES:[master:ab2ab9ee1ac85713acdd5c29f1c35a5992fae214;libcec210:1c1ab2e55a5384dddf92bef959c252cd409e378c;release:d4a56bb9a13f82653a9d56a448671d0e8b5c8c42;]|RELEASE:[none|none]
