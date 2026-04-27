@@ -1163,3 +1163,4 @@ openwrt/downloads-openwrt-org: BRANCHES:[staging:2f67686b059d32cb21c0f933e661abf
 openwrt/qca-ppe: BRANCHES:[mtu:fff0bf97d4b4f8425da09caa6ff4370bf51ed759;main:f533ab03237518824bcdc480ad2652497967c2ac;]|RELEASE:[none|none]
 openwrt/qca-uniphy: BRANCHES:[main:0abeb3a428d305288c70eb37ac809f55cb50a7f4;add-hsgmii-support:47aa5fe67c5c194a3c4f7235ab4540313a833ef5;]|RELEASE:[none|none]
 openwrt/qca-edma: BRANCHES:[main:1da9c61d0905352e1d80445d0ae725b211b79b69;]|RELEASE:[none|none]
+unifreq/amlogic-boot-fip: BRANCHES:[master:59c9b835b401cf3781b0efafbce9cea2c861531d;]|RELEASE:[none|none]
