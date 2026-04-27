@@ -1155,3 +1155,4 @@ openwrt/rtl8101: BRANCHES:[cflags:1bb099396afa88077b93bfdbd4d20dbdacea36eb;kerne
 openwrt/toh-openwrt-org: BRANCHES:[develop:263871b6bdc7012b44429da6ad2e8c75112fad8c;master:891fc015ac1f28d01d62e769cf9964b1f2a1c1fa;]|RELEASE:[v1.78|891fc015ac1f28d01d62e769cf9964b1f2a1c1fa]
 openwrt/rtl8127: BRANCHES:[master:f80bc64922ac76f90618f61245fb29743c018d0a;]|RELEASE:[11.015.00|none]
 openwrt/qca-ssdk: BRANCHES:[openwrt:446db12b1fd3bca2e61e45cb01c4ad52cfddd95b;]|RELEASE:[none|none]
+openwrt/qca-nss-dp: BRANCHES:[openwrt:6a5c4716ca258d67202fc7964c9294dfefa3ccfa;]|RELEASE:[none|none]
