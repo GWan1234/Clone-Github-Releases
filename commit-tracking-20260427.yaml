@@ -1205,3 +1205,4 @@ unifreq/rk3588-kernel-libre: BRANCHES:[master:25d6616e204713dd9aa15651178d64ff4d
 unifreq/rkbin: BRANCHES:[master:83a608401a5f530ad600d2175cd0eeb7598bfb22;]|RELEASE:[none|none]
 unifreq/rockchip-rk3588-mainline-patches: BRANCHES:[main:9aa81c5a516dd66aeac24b9d4d50d73ee6f63304;]|RELEASE:[none|none]
 unifreq/RuView: BRANCHES:[main:c45690ed4eb0c078ee39543d12869b645087c4e2;]|RELEASE:[none|none]
+unifreq/statistic: BRANCHES:[master:427d5f2d69e46e1cd54ed2be74bff35f4e8c31ab;]|RELEASE:[none|none]
