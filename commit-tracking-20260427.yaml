@@ -1040,3 +1040,4 @@ rime/squirrel: BRANCHES:[master:151a43c6bc8ece4354d5a526be0a8de0f60cb6ad;cmake:1
 rime/weasel: BRANCHES:[master:93eec2dc33dfcf04c356cce87732b638888fff4d;revert-1499-fix_status:935dc990f36f3d4f50809f6c3a28d34685c5d117;legacy:ce48ad184c0f8b0cb486f2c3533e85dc43227b1f;]|RELEASE:[0.17.4|9cc96e20dc71b80876b12f689bb5863c76c2a7ed]
 rime/artworks: BRANCHES:[master:d077b5a8c07c845403de19ce7078064efaf8401c;]|RELEASE:[none|none]
 rime/librime-legacy: BRANCHES:[master:9f04e6f6b645a9b57308928edf1b8487001abcf6;]|RELEASE:[none|none]
+rime/rime.github.io: BRANCHES:[master:e2ad4af34ad40fadc26f1b286e5c7948b8c13c31;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf;]|RELEASE:[none|none]
