@@ -891,7 +891,7 @@ Koenkk/whb: BRANCHES:[gh-pages:b5f392d9fc62e4386b124f70880d120f1c0b8379;main:2b3
 Koenkk/Whoosh: BRANCHES:[master:37ebb10e776bacdb47a39cc98f23ef678f04e364;]|RELEASE:[none|none]
 Koenkk/xbian: BRANCHES:[imgbot:15164c59e36fc5539a90db6b6d4e1b168e01b9cc;xbian-beta1:889418cc9d655b8486b7566aca68c05de458669c;master:a33339e513e93a99dc9aac113a365fadc38df0f5;]|RELEASE:[none|none]
 Koenkk/xbian-config-python: BRANCHES:[master:690f0f2aaf1a3ed5c54acd1b4456083aafde0c2c;]|RELEASE:[none|none]
-Koenkk/XMLMerge: BRANCHES:[master:5ffd922d8ad4a89d24c99f3f5348104105b9506b;]|RELEASE:[v2.3|none]
+Koenkk/XMLMerge: BRANCHES:[master:5ffd922d8ad4a89d24c99f3f5348104105b9506b;]|RELEASE:[none|none]
 Koenkk/xtext-languageserver-example: BRANCHES:[master:b8927e77d5e755b86d1900a0110e026cfa06c740;cd_226wip:140bb77cba94522307c8245f46ee66f70cec9bc3;cd_websocket_2020_221:7b12329a90b4ca6b98f7cdd60de95e2fbf634905;cd_224wip:f487caac0db4db05c98a27821aa412411d764ec0;fix_build:4b6cd4607d44b92d34e9ebe235048f2c62aa4ce1;cd_focal:572193d6771db1b202a5511755448079cbb5803d;old_master:5f79be373e6d103fb54a0daa418f609ab88665a3;cd_222_wip_vscode:874219c10ee3458340caa7a54102ed51b4a915ec;cd_221_wip_vscode:5d801a79488e7a01a1395d34f975269a5c69e7ce;cd_websocket_2019:2e3b96cd11d5afcc0a2b7513cd3fbcce4c3c28c9;]|RELEASE:[none|none]
 Koenkk/Z-Stack-firmware: BRANCHES:[master:58dda33d834ef09132427cb41721d7d68e11a7a6;dev:68d7b93d18798a2af9f91732ea098b5b4986f6c6;]|RELEASE:[Z-Stack_3.x.0_coordinator_20250321|none]
 Koenkk/z2m-frontend: BRANCHES:[imgbot:e397f8a0682300b6ddf7465fecd1fff754a6d426;master:c1cc399ab71199cb81e65aad6fb3f68499458d17;gh-pages:714c9bbbff3a5dd66aafa8125ce88ec06c8fecb8;]|RELEASE:[none|none]
