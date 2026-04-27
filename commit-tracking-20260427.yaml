@@ -753,3 +753,4 @@ HomeSpan/ProgrammableHub: BRANCHES:[main:62857c7f34fb909b7b469a95d53404bab3f6b0e
 HomeSpan/RemoteTV_SAMSUNG: BRANCHES:[main:191830e979362e6c443c8c3558afedc3b87ba72e;]|RELEASE:[none|none]
 HomeSpan/RemoteTV_Sony: BRANCHES:[main:420ca05ed82cd80eafd5dc1e30256d5539f81725;]|RELEASE:[none|none]
 HomeSpan/SomfyPlus: BRANCHES:[main:f2165cbb1145389f30bbd1d31f9d189a34b612ef;]|RELEASE:[2.2.0|none]
+HomeSpan/SomfyRTS: BRANCHES:[main:0e6892e642344570fcc124fe49276aa10f5a8231;development:1b5f556d052aaa8e4963f85e3f490953532d286e;]|RELEASE:[1.0.1|none]
