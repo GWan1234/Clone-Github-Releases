@@ -1048,3 +1048,4 @@ rime/rime-luna-pinyin: BRANCHES:[master:0c6d8e37f00c3e43fd8d0ada42dab4eda0b3d811
 rime/rime-terra-pinyin: BRANCHES:[master:fa30016a9db2cf7d546ce33968c311525f0d90a0;]|RELEASE:[none|none]
 rime/rime-bopomofo: BRANCHES:[master:a8c35a4ae3998ac0cdbd02fbb42c883ecada4279;modular-config:20775ea8a2b89d6e0401ddf98af2822c909f6f5c;]|RELEASE:[none|none]
 rime/rime-pinyin-simp: BRANCHES:[master:0c6861ef7420ee780270ca6d993d18d4101049d0;]|RELEASE:[none|none]
+rime/rime-double-pinyin: BRANCHES:[master:01a13287cbd27819be1c34fa1ddc1b3643d5001b;]|RELEASE:[none|none]
