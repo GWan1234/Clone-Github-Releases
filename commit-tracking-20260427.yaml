@@ -1056,3 +1056,4 @@ rime/rime-wugniu: BRANCHES:[master:abd1ee98efbf170258fcf43875c21a4259e00b61;]|RE
 rime/rime-soutzoe: BRANCHES:[master:beeaeca72d8e17dfd1e9af58680439e9012987dc;]|RELEASE:[none|none]
 rime/rime-middle-chinese: BRANCHES:[master:582e144e525525ac2b6c2498097d7c7919e84174;]|RELEASE:[none|none]
 rime/rime-stroke: BRANCHES:[master:3a4b0f4013e2b4c14b1e80c92b1d4723eb65f39c;]|RELEASE:[none|none]
+rime/rime-cangjie: BRANCHES:[master:0ac8452eeb4abbcd8dd1f9e7314012310743285f;unicode10:7ccea77e1922a2f4cebaf896b4bd49afc3a7d1cd;]|RELEASE:[none|none]
