@@ -970,3 +970,4 @@ xiaoshi930/xiaoshi_theme: BRANCHES:[main:ba2e02bcb5675e8550757b7571ea5d4484bcf40
 lambilly/brands: BRANCHES:[add-daily_fund-icons:4147861d2b79678a7127be187cbe22282652c393;add-hengda_property-icons:6922720ce1e185b1d986a5d2218305479103443d;add-tian_api_icons:d5512e6810fd7ee33163c1d8ef90809395e67fba;master:e9578a138435328dcb49d2909b1c98719ea85d99;]|RELEASE:[none|none]
 lambilly/hacs: BRANCHES:[master:a92aa8263131fe1aaef2b4ec3a904c9a9722cd3c;]|RELEASE:[none|none]
 lambilly/hass_byd_mqtt: BRANCHES:[main:404ad975f215eea8c6d534526853e9c4d1495a24;]|RELEASE:[v1.0.1|none]
+lambilly/hass_daily_fund: BRANCHES:[main:2f96797194aec38433a2ea1f16236cc080db8b8f;]|RELEASE:[v1.0.2|none]
