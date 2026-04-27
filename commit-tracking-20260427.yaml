@@ -1068,3 +1068,4 @@ rime/plum-windows-bootstrap: BRANCHES:[master:449dbbe98556f397f5f6c9d785924bfb58
 rime/OpenCC: BRANCHES:[master:908d1fc5014e0dd4727c90999ba1cd60260daf94;gh-pages:bfc61c123d4128d90d12883772b5a5f41a16ee8f;]|RELEASE:[none|none]
 rime/rime-custom: BRANCHES:[master:9cb580f9e42fe27c72427a796d5ac0b720a790ea;]|RELEASE:[none|none]
 rime/marisa-trie: BRANCHES:[master:773766d670a16ee2166f1087f8b67fa0235ea8d1;]|RELEASE:[none|none]
+rime/rime-essay-simp: BRANCHES:[master:dc06d4c96ae72ad46b29e3aa824a5d1e8f721fd0;]|RELEASE:[none|none]
