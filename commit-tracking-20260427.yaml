@@ -1196,3 +1196,4 @@ unifreq/linux-rockchip-armbian: BRANCHES:[rk-6.1-rkr5.1:3bfbb94a2a7cfd47fafa7df0
 unifreq/luci: BRANCHES:[master:a817b8800dba5712a4d201a2d1ec9080e947be83;]|RELEASE:[none|none]
 unifreq/luci-app-oled: BRANCHES:[master:55912e415ee4ee6a82e65ccfe189894165991758;]|RELEASE:[none|none]
 unifreq/luci-app-sms-tool: BRANCHES:[master:04971d67c8fd05febd87a89b3a064db020c0e413;]|RELEASE:[none|none]
+unifreq/mpp: BRANCHES:[develop:37145900a208d5ca6eb2adbb0f9bab5d52f38270;]|RELEASE:[none|none]
