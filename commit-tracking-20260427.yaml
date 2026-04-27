@@ -516,7 +516,7 @@ obsproject/cef: BRANCHES:[6533-fix-stutter-and-osr-extra-info:176b09c19dec2b37c7
 obsproject/bouf: BRANCHES:[dependabot/cargo/object-0.39.1:7bd5d83240669b94c8f38536cc734a599246f045;dependabot/cargo/hashbrown-0.17:6989f17c5cc5bc78c254afd05f0a04a6f4bf8e3a;dependabot/cargo/toml-1.1.2:16b7ef4b5624f92e5929545f7ef1ee42929b285b;dependabot/cargo/winreg-0.56.0:5044a8adae907ba62a04db7f1f6cae07d1ce675f;master:8d914e28148be7229e399dbbf291feff58f43be2;delta-bundles:995dc4199713e60100714f8f23decbf51ed47052;bench:74ed0dee3921eff145c3286f0c54196913f5f77d;only-prepare-relevant-files:d86b102e2109e2bce71ec0b9fd757bdae43a6ad0;fix-bsdiff:d31b66d8c3cc5a5cc091aeda1092fae7889798d4;bidiff:5fa56ba2deb7456d997063c31c27668f6c604ddf;]|RELEASE:[v0.6.5|none]
 obsproject/homebrew-tools: BRANCHES:[main:09ec2f00762cc74adf94fb3a2b55391e90893ac6;]|RELEASE:[gersemi@0.25-0.25.0_1|none]
 obsproject/design: BRANCHES:[main:6a7639840dc6d88546da127c18374541b3fadfa2;profiler:4596953019176f09bbef88351f620b9c8ae9a2c6;]|RELEASE:[none|none]
-obsproject/obs-deps-buildstream: BRANCHES:[automated/update-fsdk:2c77691fd892af4b35da4646368aec92a2b74990;master:51e02e25a2c113ba259e928e2c58a9e919ff6fff;]|RELEASE:[2026-01-09|none]
+obsproject/obs-deps-buildstream: BRANCHES:[master:4728145cacc2f8bf5b59467fa07870459d3e0bc8;]|RELEASE:[2026-01-09|none]
 antimof/libcamera: BRANCHES:[main:5ae6f9e559d7fa2944e75a63e9a39752a17da2e2;]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a;]|RELEASE:[none|none]
 antimof/WebRTC: BRANCHES:[latest:329cbd2cd6ff2a1f2405dfdb2ea8c884565cdd84;]|RELEASE:[M144|none]
