@@ -1166,3 +1166,4 @@ openwrt/qca-edma: BRANCHES:[main:1da9c61d0905352e1d80445d0ae725b211b79b69;]|RELE
 unifreq/amlogic-boot-fip: BRANCHES:[master:59c9b835b401cf3781b0efafbce9cea2c861531d;]|RELEASE:[none|none]
 unifreq/ampart: BRANCHES:[ampart:16406fe8ce549d50e6d6005e2da83adf8ba34bdd;]|RELEASE:[none|none]
 unifreq/arm64-kernel-configs: BRANCHES:[main:591aa234bda71822738e128ba501829727d00cdb;]|RELEASE:[none|none]
+unifreq/build: BRANCHES:[master:64dbf04f279fc34d28fc87e6dab435b4cdec5af2;]|RELEASE:[none|none]
