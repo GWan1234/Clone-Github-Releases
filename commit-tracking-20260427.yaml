@@ -1140,3 +1140,4 @@ openwrt/usteer: BRANCHES:[master:1d6524c6e6b58853f053c7816249a8f68ad9b0e8;stagin
 openwrt/ustp: BRANCHES:[master:a85a5bc83bde5b485319ca12b6e32c4b7f0b120f;]|RELEASE:[none|none]
 openwrt/ustream-ssl: BRANCHES:[master:99f1c0db5a729f615bc5114b3b52fd8ac8083f34;openwrt-19.07:40b563b1ea89dabb2b6cd90644908134a0c8eff2;]|RELEASE:[none|none]
 openwrt/firmware_qca-wireless: BRANCHES:[main:beaf4667b9be6413c6d30994ba38475d77a5ae06;staging/stintel/edgecore-eap101:35d8f7e91ee854ce6251f901538feea17490a66d;staging/stintel/ruckus-t310:34f18c4a8e5008b98bef23b2b8a8184eb22e007b;]|RELEASE:[none|none]
+openwrt/broadcom-sprom: BRANCHES:[master:d36f7fcb37711106a3a2652b576436cb09aa5b6f;]|RELEASE:[none|none]
