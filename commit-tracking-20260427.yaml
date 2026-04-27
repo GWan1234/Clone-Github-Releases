@@ -1176,3 +1176,4 @@ unifreq/libv4l-rkmpp: BRANCHES:[master:a32b4ccf380523f18e39c7738fd00bbafcfc1f4a;
 unifreq/linux-5.10.y: BRANCHES:[main:cf91f84f8f660530981572278d3da66cd8ae4f17;]|RELEASE:[none|none]
 unifreq/linux-5.10.y-rk35xx: BRANCHES:[main:2aab60780dfa4125a6970127d56400877986eefa;]|RELEASE:[none|none]
 unifreq/linux-5.12.y: BRANCHES:[main:001b6ea90458f1efd0650d247f7c3712842df860;]|RELEASE:[none|none]
+unifreq/linux-5.13.y: BRANCHES:[main:f27b0e5cd88c6ae90e55290ca0c1ffb4919cdf8c;]|RELEASE:[none|none]
