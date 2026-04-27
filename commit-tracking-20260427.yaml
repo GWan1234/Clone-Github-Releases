@@ -1076,3 +1076,4 @@ rime/librime-predict: BRANCHES:[master:920bd41ebf6f9bf6855d14fbe80212e54e749791;
 rime/rppi: BRANCHES:[master:78044cc44fa2bd82164030b8960f77e332ee7462;]|RELEASE:[none|none]
 rime/rime-emoji-cantonese: BRANCHES:[master:a0f174cc863ada8ff8d7853a9364467cc9dddf0f;]|RELEASE:[none|none]
 sonocotta/esphome-ma12070p: BRANCHES:[main:8dcf406ff20813c17f42ed59bbcd79fa69434ab1;]|RELEASE:[none|none]
+openwrt/odhcp6c: BRANCHES:[openwrt-25.12:ee2949e3a70a1dd4905d83abf8fb8135b420ca17;master:24485bb4b35ab84c17c2e87bd561d026d4c15c00;openwrt-24.10:b6ae9ffaeb0e18e9fa3d5be62faa8d3c9f340a58;openwrt-19.07:64e1b4e78f65bd8ea41320be6ab732f6143955fe;]|RELEASE:[none|none]
