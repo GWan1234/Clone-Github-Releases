@@ -949,3 +949,4 @@ qlwz/WeChat: BRANCHES:[master:e7f8fdbc13a8d0b8ed45846f9ea826df826efe9e;]|RELEASE
 qlwz/wechat-bot: BRANCHES:[master:93c6b291c868e93de38d65381f6f3f91288c3d06;]|RELEASE:[none|none]
 qlwz/WeChatHelper-PC: BRANCHES:[master:4d4fa4101f56a4f28714a74c7f1cf0cdd88d37e3;]|RELEASE:[none|none]
 qlwz/WeChatRobot: BRANCHES:[master:19c7066147e31d8b576cba4f2516ebd085fd3f12;]|RELEASE:[none|none]
+qlwz/wifidog-ng: BRANCHES:[fix-logout-response:13162684185258644001d1e4de6c01757dfc935e;master:97de150ea361e13c69e4de8f1674ec93e8485423;fix-severping:d8e82e6468b75ac43930090ea59ebbcada4d9070;C:09b648cd0f6822ffd78baf9418cc1db6c7542154;]|RELEASE:[none|none]
