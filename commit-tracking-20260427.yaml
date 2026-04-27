@@ -1181,3 +1181,4 @@ unifreq/linux-5.14.y: BRANCHES:[main:8eac859f61433514a4df44b68a33316577479494;]|
 unifreq/linux-5.15.y: BRANCHES:[main:69d4974c9b5ebbb1b339c0701f3e8892649f5a93;]|RELEASE:[none|none]
 unifreq/linux-5.16.y: BRANCHES:[main:babe5f81c386b9eb6502da3ca99e7789fa04699f;]|RELEASE:[none|none]
 unifreq/linux-5.17.y: BRANCHES:[main:d71bd9eb23be4e3d883de009f96955b640eac095;]|RELEASE:[none|none]
+unifreq/linux-5.18.y: BRANCHES:[main:2b7e24a04044b1fb0df8d864a88db76047bd038b;]|RELEASE:[none|none]
