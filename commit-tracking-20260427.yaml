@@ -1103,3 +1103,4 @@ openwrt/branding: BRANCHES:[master:a6e1b9caefc18487047f182613787e9d56146001;]|RE
 openwrt/forum-unformatted-code-detector: BRANCHES:[openwrt-forum-mods:b332370893408bf0f780580bc0d0bf21abb9eb16;main:c46dbf4eb3f7d982ba296cb97b0b69d66275c84f;simplify_mentions_RE:3f1cb04304606b9bc7d37fb887c9b541e75d6979;add-optional-patterns:c774a63901bdf4654b493fb274c77289f50b11fc;dummy-test:ef500cc202ebae5ce9c9372d2e2e9f789347ed06;fix-strip-uploads:a3879b09e7e041d0db0550836730efd7d89d4661;]|RELEASE:[none|none]
 openwrt/firmware-utils: BRANCHES:[master:d21804addba650f2c538267e15fedd2d635a0506;openwrt-23.05:f3b636d0ee478ee8d757cb42d469e0a40d07627a;staging/stintel/eap615:3f1b7c46b658c3f4c1bdcaadc565e92af93f53ee;]|RELEASE:[none|none]
 openwrt/cgi-io: BRANCHES:[master:658b14bda2a0fb617fa456401daee61aae42c805;]|RELEASE:[none|none]
+openwrt/firewall3: BRANCHES:[master:3a65fde5a3e675fdf2a24cb3f5d12d0a426be36e;]|RELEASE:[none|none]
