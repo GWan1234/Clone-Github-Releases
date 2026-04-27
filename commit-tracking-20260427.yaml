@@ -845,3 +845,4 @@ Koenkk/docker-h5ai: BRANCHES:[master:a2bbd0167103b94f5279acf5ce60eee55d7505d2;cf
 Koenkk/docs: BRANCHES:[imgbot:48b3b9a5d591227d93092937f0766ac961d1dd08;master:c052587e7fd6a60fad8b0d01c67e0ee9684e26d1;]|RELEASE:[none|none]
 Koenkk/draggy: BRANCHES:[master:c52fdcce63f2071818c6601045ab54e829145de2;gh-pages:7f97763241a554be019fa90e4a2a07b46707ef0b;design:3337c8d8ca90d6d143a33043b9e614ba30c4adbc;]|RELEASE:[none|none]
 Koenkk/eufy-clean: BRANCHES:[fix/collect-dust:6ff3dc7dec5d67f06afbd01bc3b65bfa495c61f7;main:3edc8a735f06af2b1721bcfcced47d1dcc3c41e0;]|RELEASE:[none|none]
+Koenkk/firmware_oneplus: BRANCHES:[master:3ce59cee5e3cfe02158a6c92a0036b65d90bd382;]|RELEASE:[none|none]
