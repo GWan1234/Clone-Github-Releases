@@ -810,3 +810,4 @@ arendst/shelly-dimmer-stm32: BRANCHES:[master:3185b6f9db4d463d4eee5ed4a21371a8bc
 arendst/Sonoff-MQTT-OTA: BRANCHES:[master:599b5235c6f6c1df59135c6858ee6604b00f21f4;]|RELEASE:[none|none]
 arendst/Sonoff-MQTT-OTA-Arduino: BRANCHES:[master:bbf4cd0f86612e905eefb83d72982e50484e0692;]|RELEASE:[v3.2.13|none]
 arendst/Tasmota: BRANCHES:[development:7090fad51a2d41bf69528354f2e4ed4ef480bccb;master:3d5a6260afaaaf98575674370e1a70e2653928a8;prerelease-15.4.0:3d5a6260afaaaf98575674370e1a70e2653928a8;revert-24358-fix/wifi-mdns-crash:e103880cec9e802642cf26eaa502a34474f17b66;ldf_cache:60e1018fbff327d307856facffe2d9205174dcf4;pca9535_dev:2fd1c0b7fbe96071798f3a489ec2d5b37556bd51;]|RELEASE:[v15.4.0|none]
+arendst/Tasmota-firmware: BRANCHES:[firmware:92cc614fcd72c23d5f11f05586ae9b342fba0161;main:676815f9dfcd80a6af2dfd1e28d4e1ffa2250734;gh_actions:9367dce5d47885e6772a81226bcc9a3526344160;]|RELEASE:[none|none]
