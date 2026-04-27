@@ -797,3 +797,4 @@ arendst/home-assistant-core: BRANCHES:[dev:984410788f322976317329efeb070ecee3040
 arendst/mgos-to-tasmota: BRANCHES:[master:191efaaba425689bb4fc05ec6383efd4ab45325c;]|RELEASE:[none|none]
 arendst/microcontroller_devkit: BRANCHES:[main:d77fb1bef924ad7d79017e6add91f084e67b5f14;]|RELEASE:[none|none]
 arendst/mqtt-domoticz: BRANCHES:[master:7d7c877ad9f4a68df0dca5f95b946c30a72da3ba;]|RELEASE:[none|none]
+arendst/mqtt-mysensors: BRANCHES:[master:ba7a949b106c1d58d589f6b078a1611f7f79ddee;]|RELEASE:[none|none]
