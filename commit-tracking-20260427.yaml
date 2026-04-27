@@ -759,3 +759,4 @@ HomeSpan/TempSensorI2C: BRANCHES:[main:9ac6ae43197250ab61dde8ad97723c39298c6a91;
 HomeSpan/ZephyrVentHood: BRANCHES:[master:c3b38c79202300561a88210bd6b55e9fb21d2213;]|RELEASE:[1.0.1|none]
 Andryushik/air_hood: BRANCHES:[main:f52edca8539faf5bef88fbe9b052a75e9cad1691;]|RELEASE:[none|none]
 Andryushik/andryushik: BRANCHES:[main:0ebec574df75851c94453fef63a8a2a123828cc0;]|RELEASE:[none|none]
+Andryushik/blinds_homekit_esp32: BRANCHES:[main:33fbf041ce77b449607f6d9e2a23e40960648e93;]|RELEASE:[none|none]
