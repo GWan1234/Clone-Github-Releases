@@ -935,3 +935,4 @@ qlwz/krypton: BRANCHES:[master:a70d8f90a6e510d8b7f7f79bfe731858e5cb04ac;dtls-2:5
 qlwz/MicroLink: BRANCHES:[main:76a5091a30efffc45ae86cc550bdbfb1d1d96507;]|RELEASE:[none|none]
 qlwz/mirai: BRANCHES:[dev:4e2108d841a3eba87d178e7164c59352d40b303a;2.0-M2-1-release:ffe45ac2959ede8e94c6144a8102474b40f22cb3;proguard:8f8a5afa037c0ff1b8d659b431eda2461315071d;1.4.30:5b25a3240f57498435784ccb409fe43c8e31111f;1.x:e423b927a281a06ecbcbff1d07a4c415a710acff;master:a774b8a7062fbd26742b7eb73896294fa6ab01b0;rm:7ec7547a10264c1a87d2a0f18b4f0c20b678470d;heads/1.1.2:2e7370a0e7e08aa7bc551bd74f39fca4356eb627;KT-37716:70dd71cb61cc7decfc6861d01817983464011054;timpc:bc860a2d0d33bb5b612fc47d28d2c12ce3e18504;]|RELEASE:[none|none]
 qlwz/mock: BRANCHES:[master:c60e282bf5c6c8cbd84b77db8ecf7f04b9897383;]|RELEASE:[1.0.0.0|none]
+qlwz/pcWechat: BRANCHES:[master:ae4103dfaa70c685c1fc2be0225f53a7117fb7f2;]|RELEASE:[none|none]
