@@ -913,3 +913,4 @@ qlwz/AEC3: BRANCHES:[master:1e1793fde7c0b3bbbb83d97cec939885880fa6de;]|RELEASE:[
 qlwz/AjaxComment-For-Typecho: BRANCHES:[master:cf72d8a99a1256771bfd7bfbbf8e8fb1302467da;]|RELEASE:[1.0.0.2|none]
 qlwz/Arduino-HomeKit-ESP: BRANCHES:[master:30282024ccc9192b424a1bf1fbfd71d4b94d79e8;]|RELEASE:[none|none]
 qlwz/Arduino-HomeKit-ESP32: BRANCHES:[master:172ceda4024b659b768798ada0cfda202ef352ac;]|RELEASE:[none|none]
+qlwz/Arduino-HomeKit-ESP8266: BRANCHES:[master:0308ac9bff778b98b25b3f85afb12e48c2caa546;]|RELEASE:[none|none]
