@@ -1128,3 +1128,4 @@ openwrt/ubus: BRANCHES:[master:3cc98db1a422dcf560f2d6347fd410f17565a89d;staging/
 openwrt/ucert: BRANCHES:[master:57270b247c91f003db6e3ba1a71d6d1fa5710fef;]|RELEASE:[none|none]
 openwrt/uci: BRANCHES:[master:74f6277aabffc943d026f406df57c22595134c42;lede-17.01:141b64ef84f43c954e665865b1bbf216fbf7c05f;]|RELEASE:[none|none]
 openwrt/uclient: BRANCHES:[master:7a0aa2e4afb4993b7985094aa6847b9fcb04fae8;openwrt-19.07:51e16ebffc740c6afcdd45aced20fc0354a502d7;]|RELEASE:[none|none]
+openwrt/ugps: BRANCHES:[master:9a351d4111138aa13f957fa82cec818812e7b0ea;]|RELEASE:[none|none]
