@@ -952,3 +952,4 @@ qlwz/WeChatRobot: BRANCHES:[master:19c7066147e31d8b576cba4f2516ebd085fd3f12;]|RE
 qlwz/wifidog-ng: BRANCHES:[fix-logout-response:13162684185258644001d1e4de6c01757dfc935e;master:97de150ea361e13c69e4de8f1674ec93e8485423;fix-severping:d8e82e6468b75ac43930090ea59ebbcada4d9070;C:09b648cd0f6822ffd78baf9418cc1db6c7542154;]|RELEASE:[none|none]
 qlwz/xiaoaimqtt: BRANCHES:[master:3d94d7b4a553b1dd2fa455e3e0048bb015e9b214;]|RELEASE:[2020.02.01.2000|none]
 xiaoshi930/auto_light: BRANCHES:[main:6bc8a901ec8193a624ac69fb4fb064d07ded92b5;]|RELEASE:[1.5|none]
+xiaoshi930/brands: BRANCHES:[master:fd0a2da65397a2bc5707f817a6e6f8729ba306dd;]|RELEASE:[none|none]
