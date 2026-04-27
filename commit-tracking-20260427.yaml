@@ -812,3 +812,4 @@ arendst/Sonoff-MQTT-OTA-Arduino: BRANCHES:[master:bbf4cd0f86612e905eefb83d72982e
 arendst/Tasmota: BRANCHES:[development:7090fad51a2d41bf69528354f2e4ed4ef480bccb;master:3d5a6260afaaaf98575674370e1a70e2653928a8;prerelease-15.4.0:3d5a6260afaaaf98575674370e1a70e2653928a8;revert-24358-fix/wifi-mdns-crash:e103880cec9e802642cf26eaa502a34474f17b66;ldf_cache:60e1018fbff327d307856facffe2d9205174dcf4;pca9535_dev:2fd1c0b7fbe96071798f3a489ec2d5b37556bd51;]|RELEASE:[v15.4.0|none]
 arendst/Tasmota-firmware: BRANCHES:[firmware:92cc614fcd72c23d5f11f05586ae9b342fba0161;main:676815f9dfcd80a6af2dfd1e28d4e1ffa2250734;gh_actions:9367dce5d47885e6772a81226bcc9a3526344160;]|RELEASE:[none|none]
 arendst/Tasmota-Playground: BRANCHES:[development:c860f909e0a5cde3f3e3ef7d611047851bce2f1e;]|RELEASE:[none|none]
+arendst/TasmotaClient: BRANCHES:[master:d3cbe2fd48093c23a110cccb7803bf987e667d55;]|RELEASE:[none|none]
