@@ -925,3 +925,4 @@ qlwz/esp-serial-flasher: BRANCHES:[master:14742dc91c9f6b768c43798e77fb4050a1c88f
 qlwz/esp_cover: BRANCHES:[master:933a0668796daea9df160491bd4024f0b0361b13;]|RELEASE:[2020.02.22.2100|none]
 qlwz/esp_dc1: BRANCHES:[master:eefd75a06523c791d9d881ff31f31ee4a93ac5ec;]|RELEASE:[2020.07.11.2000|none]
 qlwz/esp_relay: BRANCHES:[master:6032d2f6ba8f575acac04f0640ddd954edd7b9ec;]|RELEASE:[2020.09.05.2200|none]
+qlwz/esp_zinguo: BRANCHES:[master:5407ae48149c78a2d476063236b12d243841d6a2;]|RELEASE:[2020.02.22.1000|none]
