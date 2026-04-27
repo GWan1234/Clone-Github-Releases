@@ -1042,3 +1042,4 @@ rime/artworks: BRANCHES:[master:d077b5a8c07c845403de19ce7078064efaf8401c;]|RELEA
 rime/librime-legacy: BRANCHES:[master:9f04e6f6b645a9b57308928edf1b8487001abcf6;]|RELEASE:[none|none]
 rime/rime.github.io: BRANCHES:[master:e2ad4af34ad40fadc26f1b286e5c7948b8c13c31;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf;]|RELEASE:[none|none]
 rime/home: BRANCHES:[master:755bf231b56a7c1a0f690137d386cc1497e49d87;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5;]|RELEASE:[none|none]
+rime/rime-prelude: BRANCHES:[master:541e03e0f36ff42318848046a3b61ac47483dca3;experimental:db691d2420b8e656a79692a94f9db0fb3e7aa12b;]|RELEASE:[none|none]
