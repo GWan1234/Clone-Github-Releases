@@ -976,3 +976,4 @@ lambilly/hass_dao_ji_shi: BRANCHES:[main:65212b87a0cfe2d19486857e6b637a097b4007a
 lambilly/hass_hengda_property: BRANCHES:[main:aca9b53e2367d7e5ef1addaa4cf10628db4ef2aa;]|RELEASE:[v1.0.1|none]
 lambilly/hass_kuangyuan_gas: BRANCHES:[main:bf1ef4f660fad7e6a4951fcd32aceaa1d2d5a1e6;]|RELEASE:[v1.0.1|none]
 lambilly/hass_putian_water: BRANCHES:[main:db67fb4830a33601cd6e899c69222b9102fdfb5d;]|RELEASE:[v1.0.2|none]
+lambilly/hass_tian_api: BRANCHES:[main:d0954dc5c1206279f6d2d63eef09869405c0af7e;]|RELEASE:[v1.1.2|none]
