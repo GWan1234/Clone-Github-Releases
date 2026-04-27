@@ -874,3 +874,4 @@ Koenkk/popcorn_maker: BRANCHES:[imgbot:bdbdba6c01394e7a1aca213f4dfda896df388966;
 Koenkk/py_compile_demo: BRANCHES:[master:0d7799533701939a8bc39cf426108bd82cc4e5af;]|RELEASE:[none|none]
 Koenkk/rasplex-installer: BRANCHES:[master:f9d4bad806010925e90d3d355c883ee03571034a;]|RELEASE:[none|none]
 Koenkk/react-hot-loader-problem: BRANCHES:[master:ec99ef0d1e3310859179c012b97b5f039b47d07c;]|RELEASE:[none|none]
+Koenkk/react-jupyter: BRANCHES:[master:17d5ac11209884409e72cff405ea35480d07e75d;website:43e677e76fa6338de7c294653abec133f37953de;gh-pages:2bfcf25ecf721ca0558ac5627ff708eaa3888b71;]|RELEASE:[none|none]
