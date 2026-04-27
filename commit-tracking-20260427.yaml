@@ -799,3 +799,4 @@ arendst/microcontroller_devkit: BRANCHES:[main:d77fb1bef924ad7d79017e6add91f084e
 arendst/mqtt-domoticz: BRANCHES:[master:7d7c877ad9f4a68df0dca5f95b946c30a72da3ba;]|RELEASE:[none|none]
 arendst/mqtt-mysensors: BRANCHES:[master:ba7a949b106c1d58d589f6b078a1611f7f79ddee;]|RELEASE:[none|none]
 arendst/mqtt-mysql: BRANCHES:[master:36bd99fb0fe2de80620030430838d7a07dedc813;]|RELEASE:[none|none]
+arendst/MS-DOS: BRANCHES:[main:2d04cacc5322951f187bb17e017c12920ac8ebe2;]|RELEASE:[none|none]
