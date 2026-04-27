@@ -1158,3 +1158,4 @@ openwrt/qca-ssdk: BRANCHES:[openwrt:446db12b1fd3bca2e61e45cb01c4ad52cfddd95b;]|R
 openwrt/qca-nss-dp: BRANCHES:[openwrt:6a5c4716ca258d67202fc7964c9294dfefa3ccfa;]|RELEASE:[none|none]
 openwrt/keyring: BRANCHES:[master:fbae29d730f81c892f52e0ff00fe867444aeeae6;]|RELEASE:[none|none]
 openwrt/maintainer-tools: BRANCHES:[changelog:7f1a3d674b9c3ee08a21337e7269ee832dbc2330;master:e0f0ae0a8e44e802319a987f615caf3a5a51a3ff;]|RELEASE:[none|none]
+openwrt/backports: BRANCHES:[main:0783fdb078f8cc99e0bf76621f22dd7ea24c58fa;]|RELEASE:[backports-v6.19|none]
