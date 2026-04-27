@@ -1146,3 +1146,4 @@ openwrt/actions-shared-workflows: BRANCHES:[main:8f09ba9d084def58c39a099b4c6f798
 openwrt/udebug: BRANCHES:[master:875e1a7af6ca9d86524d18169c3a79f4a1920053;]|RELEASE:[none|none]
 openwrt/toh: BRANCHES:[gh-pages:6868fb0eb23dd225f820c6b4b5eb735b91a4a090;main:ef9e8a6adec5240978cd268cf19a623bb52a6871;]|RELEASE:[none|none]
 openwrt/forum-old: BRANCHES:[main:e91d4ca991a615e3b84a52764db5744af51b5d77;]|RELEASE:[none|none]
+openwrt/forum-edit-history-override: BRANCHES:[main:96ba556d9cda0d27dd3bdeb152feb0a3a2e5dd87;]|RELEASE:[none|none]
