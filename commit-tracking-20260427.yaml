@@ -1065,3 +1065,4 @@ rime/rime-emoji: BRANCHES:[master:d1dbb424124fc50452a179300c7f287dbcc0db64;fix-m
 rime/rime-ipa: BRANCHES:[master:22b71710e029bcb412e9197192a638ab11bc2abf;]|RELEASE:[none|none]
 rime/plum: BRANCHES:[master:4c28f11f451facef809b380502874a48ba964ddb;]|RELEASE:[none|none]
 rime/plum-windows-bootstrap: BRANCHES:[master:449dbbe98556f397f5f6c9d785924bfb58950186;]|RELEASE:[none|none]
+rime/OpenCC: BRANCHES:[master:908d1fc5014e0dd4727c90999ba1cd60260daf94;gh-pages:bfc61c123d4128d90d12883772b5a5f41a16ee8f;]|RELEASE:[none|none]
