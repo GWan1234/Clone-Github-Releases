@@ -1173,3 +1173,4 @@ unifreq/lede: BRANCHES:[master:ff3c2f7979c51fa277c4c9ceafffc03d06562493;]|RELEAS
 unifreq/libreoffice-headless: BRANCHES:[master:6f70824e57c750abe07abec0ed38ff9a378d2550;]|RELEASE:[none|none]
 unifreq/librga: BRANCHES:[main:6664094b919d069ae7caf90833ed4d5cc2729585;]|RELEASE:[none|none]
 unifreq/libv4l-rkmpp: BRANCHES:[master:a32b4ccf380523f18e39c7738fd00bbafcfc1f4a;]|RELEASE:[none|none]
+unifreq/linux-5.10.y: BRANCHES:[main:cf91f84f8f660530981572278d3da66cd8ae4f17;]|RELEASE:[none|none]
