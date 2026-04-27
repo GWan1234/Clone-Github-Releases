@@ -1047,3 +1047,4 @@ rime/rime-essay: BRANCHES:[master:816b9eeab0f012e896d6c8d4f9b19f1524574378;mine:
 rime/rime-luna-pinyin: BRANCHES:[master:0c6d8e37f00c3e43fd8d0ada42dab4eda0b3d811;fixes:0e1fd5f4aad2ffce6444bc35ca05f57f14fde67b;pr/68:87df157bc0f190f37def7c692072896f464fbad4;opecc-options:8a63060d4bca0b1caf533641344d4fa53a8ca2de;]|RELEASE:[none|none]
 rime/rime-terra-pinyin: BRANCHES:[master:fa30016a9db2cf7d546ce33968c311525f0d90a0;]|RELEASE:[none|none]
 rime/rime-bopomofo: BRANCHES:[master:a8c35a4ae3998ac0cdbd02fbb42c883ecada4279;modular-config:20775ea8a2b89d6e0401ddf98af2822c909f6f5c;]|RELEASE:[none|none]
+rime/rime-pinyin-simp: BRANCHES:[master:0c6861ef7420ee780270ca6d993d18d4101049d0;]|RELEASE:[none|none]
