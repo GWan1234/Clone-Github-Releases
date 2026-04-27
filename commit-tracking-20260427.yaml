@@ -1099,3 +1099,4 @@ openwrt/cypress-nvram: BRANCHES:[master:de707b6d535e566479c2ed3e1d09ae5393aa7db3
 openwrt/bcm63xx-cfe: BRANCHES:[master:b8128fa4bdcdaf97549138965b00d5d7ceb7bb0f;]|RELEASE:[none|none]
 openwrt/gh-action-sdk: BRANCHES:[main:7fc2640243284ecc44f4a9c3f749a61746ee02cb;]|RELEASE:[none|none]
 openwrt/firmware-selector-openwrt-org: BRANCHES:[main:8be522af35b72ed1ee803bca9e9c66510a556fb4;started:9a8529b6dae11710653922ba5b225d20ec4fabc5;queue-position:b774825d2496de52a904c2b985b15f5db96a8d79;stable:e544b24ec2273bad39d7777c44e522d0ed0fc290;stable-branch:9905e3b914f584b77b9ef4b18c51171df2f1603d;]|RELEASE:[none|none]
+openwrt/branding: BRANCHES:[master:a6e1b9caefc18487047f182613787e9d56146001;]|RELEASE:[none|none]
