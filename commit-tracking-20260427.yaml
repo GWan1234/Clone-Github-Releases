@@ -1131,3 +1131,4 @@ openwrt/uclient: BRANCHES:[master:7a0aa2e4afb4993b7985094aa6847b9fcb04fae8;openw
 openwrt/ugps: BRANCHES:[master:9a351d4111138aa13f957fa82cec818812e7b0ea;]|RELEASE:[none|none]
 openwrt/uhttpd: BRANCHES:[master:e619cb04cddba8316d6928ff99f55a49e6ddc561;openwrt-19.07:3abcc89103799aaa79870fffcd58ec4370815024;]|RELEASE:[none|none]
 openwrt/umbim: BRANCHES:[master:2939b7d019abc2be0b77eda95f66a28128cadafb;]|RELEASE:[none|none]
+openwrt/unetd: BRANCHES:[pqc:f96694bd432bdd06a9b7398905e244eac20c35f9;master:52e504192ea746632e99abd75f07438c0237ff1a;]|RELEASE:[none|none]
