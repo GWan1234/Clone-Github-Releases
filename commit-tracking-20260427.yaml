@@ -1130,3 +1130,4 @@ openwrt/uci: BRANCHES:[master:74f6277aabffc943d026f406df57c22595134c42;lede-17.0
 openwrt/uclient: BRANCHES:[master:7a0aa2e4afb4993b7985094aa6847b9fcb04fae8;openwrt-19.07:51e16ebffc740c6afcdd45aced20fc0354a502d7;]|RELEASE:[none|none]
 openwrt/ugps: BRANCHES:[master:9a351d4111138aa13f957fa82cec818812e7b0ea;]|RELEASE:[none|none]
 openwrt/uhttpd: BRANCHES:[master:e619cb04cddba8316d6928ff99f55a49e6ddc561;openwrt-19.07:3abcc89103799aaa79870fffcd58ec4370815024;]|RELEASE:[none|none]
+openwrt/umbim: BRANCHES:[master:2939b7d019abc2be0b77eda95f66a28128cadafb;]|RELEASE:[none|none]
