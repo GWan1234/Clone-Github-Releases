@@ -1171,3 +1171,4 @@ unifreq/deer-flow: BRANCHES:[main:f0dd8cb0d22bd49cdb6c7efa35ca765403d143da;]|REL
 unifreq/itx-3588j-linux-libre: BRANCHES:[master:4f908b4581a1cd80b44e870908c1377b07f36773;]|RELEASE:[none|none]
 unifreq/lede: BRANCHES:[master:ff3c2f7979c51fa277c4c9ceafffc03d06562493;]|RELEASE:[none|none]
 unifreq/libreoffice-headless: BRANCHES:[master:6f70824e57c750abe07abec0ed38ff9a378d2550;]|RELEASE:[none|none]
+unifreq/librga: BRANCHES:[main:6664094b919d069ae7caf90833ed4d5cc2729585;]|RELEASE:[none|none]
