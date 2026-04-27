@@ -1062,3 +1062,4 @@ rime/rime-wubi: BRANCHES:[master:152a0d3f3efe40cae216d1e3b338242446848d07;]|RELE
 rime/rime-array: BRANCHES:[master:557dbe38381de174fe96e53e9bf8c863a275307c;]|RELEASE:[none|none]
 rime/rime-scj: BRANCHES:[master:cab5a0858765eff0553dd685a2d61d5536e9149c;]|RELEASE:[none|none]
 rime/rime-emoji: BRANCHES:[master:d1dbb424124fc50452a179300c7f287dbcc0db64;fix-mao:38a2bdac9496c6d54d3d9647ccddd6b0fc01becd;Emoji-14.0:771d613b6ad7bc480b56fa14a6bbdd36217b092d;]|RELEASE:[15.0|none]
+rime/rime-ipa: BRANCHES:[master:22b71710e029bcb412e9197192a638ab11bc2abf;]|RELEASE:[none|none]
