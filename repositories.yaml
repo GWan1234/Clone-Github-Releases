@@ -17,8 +17,8 @@ allrepositories:
   - thelastoutpostworkshop
   - dr-dolomite
   - sonocotta
-  - rednblkx
-#  - HomeSpan
+#  - rednblkx
+  - HomeSpan
   - Andryushik
 #
 #  - arendst
@@ -35,6 +35,7 @@ allrepositories:
 
 #  - home-assistant
 #  - rustdesk
+#  - xyzroe
 #
 #  - LilyGO
 #  - Xinyuan-LilyGO
