@@ -1075,3 +1075,4 @@ rime/librime-charcode: BRANCHES:[master:55e7f563e999802d41a13ba02657c1be4b2011b4
 rime/librime-predict: BRANCHES:[master:920bd41ebf6f9bf6855d14fbe80212e54e749791;]|RELEASE:[none|none]
 rime/rppi: BRANCHES:[master:78044cc44fa2bd82164030b8960f77e332ee7462;]|RELEASE:[none|none]
 rime/rime-emoji-cantonese: BRANCHES:[master:a0f174cc863ada8ff8d7853a9364467cc9dddf0f;]|RELEASE:[none|none]
+sonocotta/esphome-ma12070p: BRANCHES:[main:8dcf406ff20813c17f42ed59bbcd79fa69434ab1;]|RELEASE:[none|none]
