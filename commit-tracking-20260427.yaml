@@ -1060,3 +1060,4 @@ rime/rime-cangjie: BRANCHES:[master:0ac8452eeb4abbcd8dd1f9e7314012310743285f;uni
 rime/rime-quick: BRANCHES:[master:3fe5911ba608cb2df1b6301b76ad1573bd482a76;]|RELEASE:[none|none]
 rime/rime-wubi: BRANCHES:[master:152a0d3f3efe40cae216d1e3b338242446848d07;]|RELEASE:[none|none]
 rime/rime-array: BRANCHES:[master:557dbe38381de174fe96e53e9bf8c863a275307c;]|RELEASE:[none|none]
+rime/rime-scj: BRANCHES:[master:cab5a0858765eff0553dd685a2d61d5536e9149c;]|RELEASE:[none|none]
