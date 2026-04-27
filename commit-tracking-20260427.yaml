@@ -1123,3 +1123,4 @@ openwrt/procd: BRANCHES:[main:cd7a4e5f8b8e4e7ce38f7e2be577802b7ec4ff3e;master:cd
 openwrt/qosify: BRANCHES:[master:1501e0935175d713ad229d88a8401dbfddc0a6b4;testing:ca4509cf84d285d4d097e1ba8b0146faaeca05f4;staging/stintel/dev:ccbc16e19603dc1820fc9470eae0352262ce623f;]|RELEASE:[none|none]
 openwrt/relayd: BRANCHES:[master:708a76faa7a1f2f62af83303efea0eb760d99c62;]|RELEASE:[none|none]
 openwrt/rpcd: BRANCHES:[master:4476687403d8c6e988eaa1ecc892e998838e6da9;openwrt-24.10:bba95191ff2f22c9118a1ba1355b83afaa277ae3;openwrt-21.02:8d26a1ba3a175016b342cc5e25d340c08ae20eed;openwrt-19.07:c2a69a364ef857007e752aca11389149ffa4e589;openwrt-18.06:7be1f17138f19d1d7a86e0c27b3662d3643ff296;]|RELEASE:[none|none]
+openwrt/ubox: BRANCHES:[master:6f78fa496bf36c55864a41e353df7d13f04b1077;]|RELEASE:[none|none]
