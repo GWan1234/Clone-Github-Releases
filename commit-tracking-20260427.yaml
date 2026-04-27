@@ -1025,3 +1025,4 @@ flameshot-org/flameshot-org.github.io: BRANCHES:[gh-pages:304a7bdf7e95d66720fb74
 flameshot-org/translation-instruction: BRANCHES:[master:20378bbe5f1b0624cde02e243c87ce63370dbb45;]|RELEASE:[none|none]
 flameshot-org/packpack: BRANCHES:[multiarch:1ce6ed00d2f716ff0e51ae4c7ee28b415eb44d55;master:574fc41c57b62b36422f391f98cfcf84ddc77b5d;python-experimental:f27d9e54f5f05e278927a8437d82b43b4d8eaf6d;]|RELEASE:[none|none]
 flameshot-org/flameshot-docker-images: BRANCHES:[master:554acbeae77b2ef0bfe4d4dc778a2b3907dd726d;aarch64:5a91d3ee003c62cbe77d3ed4a333cf6abba973da;i386:9e94d2e18c03a4ba5e75c155d9f5de633cff55a5;armhf:e8aaead510d106fbd69bad3c174f9162cf571309;]|RELEASE:[none|none]
+flameshot-org/packages: BRANCHES:[master:3d294bc0b39b433cb3a22145388a903fd23706c0;]|RELEASE:[v0.6.0-1|none]
