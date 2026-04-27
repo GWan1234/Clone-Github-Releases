@@ -880,3 +880,4 @@ Koenkk/repository: BRANCHES:[master:ff211988f5948fdfd44d9df81dcba1bdbd88a182;]|R
 Koenkk/rpi-docker-backup: BRANCHES:[master:39e3ad0194eb7b03d4fca1648e945f53dce2427e;]|RELEASE:[none|none]
 Koenkk/rpi-zoneminder: BRANCHES:[master:4df7f7ae9e2fa92fb2e266a10344008f98a93148;]|RELEASE:[none|none]
 Koenkk/SignatureViewExample: BRANCHES:[imgbot:433b0938a6c3c507dcdb3c9d4110dae1bf3b08a7;master:69a87aff8cbfca812cefa776f8281eceeae8ab29;]|RELEASE:[none|none]
+Koenkk/simplelink-lowpower-f2-sdk: BRANCHES:[rel/lpf2-7.40.00.77:08f823e389c816c9f610970bdf503cb4cd3ddac2;]|RELEASE:[none|none]
