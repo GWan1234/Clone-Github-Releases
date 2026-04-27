@@ -829,3 +829,4 @@ Koenkk/android_kernel_oneplus_msm8998: BRANCHES:[lineage-15.0-dev:80dff89bdf73da
 Koenkk/android_vendor_lineage: BRANCHES:[imgbot:be852ca571b969eda7fb900a09afb629a0ae6be5;lineage-15.1:f36cadcb5bd9ab9b9abb26ed5a157398f1c37fc6;staging/lineage-15.1:6255f0325247dc7b159df689f308e863c1275584;lineage-15.0:012cc275e09346ef7909b6a5a144aed59b375ccd;]|RELEASE:[none|none]
 Koenkk/asciidoctor-multipage: BRANCHES:[master:926c5fc5ef3aa60dcface12c082a87fed0514e1a;test:ca89a2ecd403a2e9b1c7677dd890313695c4bd68;]|RELEASE:[none|none]
 Koenkk/asdf-dotnet-core: BRANCHES:[master:ed621ef1a7c8856e0b6618cc21e26dc2cf2fd2a0;]|RELEASE:[none|none]
+Koenkk/autosub: BRANCHES:[master:24d4c62193bab6a8dd7b5d7c624bed83e3bc6d4a;]|RELEASE:[none|none]
