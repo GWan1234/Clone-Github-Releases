@@ -944,3 +944,4 @@ qlwz/redpill-tool-chain: BRANCHES:[master:698d49604281c2d175d7cf731a23a44eae5eb8
 qlwz/SendKeyForIME: BRANCHES:[master:b66bfe6e664c81563bbca7293c5e4862ffb8fa49;]|RELEASE:[none|none]
 qlwz/silk-v3-decoder: BRANCHES:[master:9a13f2cf880e72f459180506676669d68f44db77;]|RELEASE:[none|none]
 qlwz/taobao-area-php: BRANCHES:[master:396d8cc9797e549581a023c560c3bdeb3813855b;]|RELEASE:[none|none]
+qlwz/Thinkphp5-Plugin: BRANCHES:[master:723d5f793519abb50f47376ffe506d9faf641829;tp3:2317903dbe7754e2afec992622f576486cc42b7b;]|RELEASE:[none|none]
