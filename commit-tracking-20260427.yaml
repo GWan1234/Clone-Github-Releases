@@ -837,3 +837,4 @@ Koenkk/cc2538-bsl: BRANCHES:[master:11de8cb2933d23ce001a1af14225ff4f5cd1983c;fea
 Koenkk/chart-releaser-action: BRANCHES:[main:45af99f369889d20f904e42dbad98118e80ff194;]|RELEASE:[none|none]
 Koenkk/codespaces-multi-repo: BRANCHES:[main:e07153a959d5f2c946cbcccdf77d39b3d2b7164f;]|RELEASE:[none|none]
 Koenkk/com.ikea.tradfri: BRANCHES:[imgbot:d6c2feb7a82d21a15cd4b6a353dc31f80e77f192;master:eb862760b77b3d2659afe1b6e76791e14139ebaf;stable:856699aad6adf06275909184e16eb45932576d3c;non-slave-devices:ada0110ef139a69944db46c6b597249aecee7620;]|RELEASE:[none|none]
+Koenkk/corenlp-docker: BRANCHES:[master:2a2d80ad63471ee3dbe0528acb4e6603da84725a;3:25edc0324e052c7b9d1ebc49bacfd1d54deab9ed;3.6:25edc0324e052c7b9d1ebc49bacfd1d54deab9ed;3.6.0:25edc0324e052c7b9d1ebc49bacfd1d54deab9ed;]|RELEASE:[none|none]
