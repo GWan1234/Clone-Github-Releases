@@ -1151,3 +1151,4 @@ openwrt/rtl8125: BRANCHES:[master:024816580bb7792f36d8cc1bd1515443f3749605;]|REL
 openwrt/rtl8126: BRANCHES:[master:27721fbedc45897cf1f155f5eb44de76962a1ba8;link-status:2dcb76c9fd5cfc5287ca12d159b1faed6585a0d0;]|RELEASE:[10.016.00|none]
 openwrt/rtl8168: BRANCHES:[master:92c9d03efe78e3550b1b1a8e5bf85d79a5eb3b7d;cflags:b5a3eaec6a4ba859602a286fcb5034cf3f25fc55;link-status:0078930e0c374d327cd3281e5e2f7ff97b40b335;link-speed-duplex:60e72a73acd6866f0d9b1bba0dcd6dd5513d9c40;]|RELEASE:[8.056.02|none]
 openwrt/rpi-imager-lists: BRANCHES:[master:7e5219c978df2b540267c97293426535982adcfc;]|RELEASE:[none|none]
+openwrt/rtl8101: BRANCHES:[cflags:1bb099396afa88077b93bfdbd4d20dbdacea36eb;kernel-6.18:37bbdad26212b500f80d099e50b635c4ec387510;master:c65f910c222365ff97b160dcf882e7c9a80665fe;link-status:ec0de750e20073b23c91b67f4bc3ab71c50f0eed;]|RELEASE:[1.039.00|none]
