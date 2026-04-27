@@ -931,3 +931,4 @@ qlwz/freepad: BRANCHES:[master:6f6abe1ca6d946ce46201034008eca218c390b20;]|RELEAS
 qlwz/hon: BRANCHES:[main:0a3e07a42f096df72276a320409ad7dfd05c1489;]|RELEASE:[none|none]
 qlwz/KODExplorer: BRANCHES:[master:08a20aee7385996e26195810fa0e560ffec6ad40;revert-25-master:dc1ad5b5d629ea394adc08c3fe01c91d62a2346c;]|RELEASE:[none|none]
 qlwz/Kogel.Dapper.Extension: BRANCHES:[open:c1e3b463d4964c5ec0f2b3ef8d924b396fc51a07;master:897f4245d2dc612a52eb5f84217018479e4e52cf;测试分支:ae361fc70a46f182b1768a14a8ed9ae91cb85d08;]|RELEASE:[none|none]
+qlwz/krypton: BRANCHES:[master:a70d8f90a6e510d8b7f7f79bfe731858e5cb04ac;dtls-2:51d2de932cf569385102678fd3a493521bb06d15;dtls:07064864c4e3f65a6fe17de37d827bde35869229;]|RELEASE:[none|none]
