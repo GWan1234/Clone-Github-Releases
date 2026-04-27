@@ -978,3 +978,4 @@ lambilly/hass_kuangyuan_gas: BRANCHES:[main:bf1ef4f660fad7e6a4951fcd32aceaa1d2d5
 lambilly/hass_putian_water: BRANCHES:[main:db67fb4830a33601cd6e899c69222b9102fdfb5d;]|RELEASE:[v1.0.2|none]
 lambilly/hass_tian_api: BRANCHES:[main:d0954dc5c1206279f6d2d63eef09869405c0af7e;]|RELEASE:[v1.1.2|none]
 lambilly/hass_tian_express: BRANCHES:[main:3e4731836f3a6f9da67218f8df6ca7f4943f91f5;]|RELEASE:[v1.0.3|none]
+lambilly/hass_tian_free: BRANCHES:[main:941f1d6cc761f0006c6c05e13c4ca7d6fdeb085e;]|RELEASE:[v1.2.0|none]
