@@ -1045,3 +1045,4 @@ rime/home: BRANCHES:[master:755bf231b56a7c1a0f690137d386cc1497e49d87;f5j:0066b93
 rime/rime-prelude: BRANCHES:[master:541e03e0f36ff42318848046a3b61ac47483dca3;experimental:db691d2420b8e656a79692a94f9db0fb3e7aa12b;]|RELEASE:[none|none]
 rime/rime-essay: BRANCHES:[master:816b9eeab0f012e896d6c8d4f9b19f1524574378;mine:65ea5c3707817f1c96e81a9f8d153c9c1f5408ca;]|RELEASE:[none|none]
 rime/rime-luna-pinyin: BRANCHES:[master:0c6d8e37f00c3e43fd8d0ada42dab4eda0b3d811;fixes:0e1fd5f4aad2ffce6444bc35ca05f57f14fde67b;pr/68:87df157bc0f190f37def7c692072896f464fbad4;opecc-options:8a63060d4bca0b1caf533641344d4fa53a8ca2de;]|RELEASE:[none|none]
+rime/rime-terra-pinyin: BRANCHES:[master:fa30016a9db2cf7d546ce33968c311525f0d90a0;]|RELEASE:[none|none]
