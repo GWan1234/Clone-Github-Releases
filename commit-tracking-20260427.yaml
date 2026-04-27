@@ -1097,3 +1097,4 @@ openwrt/chaos_calmer: BRANCHES:[chaos_calmer:22375a2fb87271dadcdb30f5e825c168ba7
 openwrt/docker: BRANCHES:[dependabot/github_actions/docker/setup-buildx-action-4:d43fe91d8588c68ae3b188f47eab1583370b5373;dependabot/github_actions/docker/metadata-action-6:7abe498aa06802ef6014910cf1fdff933ecef364;dependabot/github_actions/docker/build-push-action-7:32a0ba43b463180bb5dfd49f383ef5bd14a17d27;dependabot/github_actions/docker/login-action-4:4dcf5c3a662e75d237aca4fa2a47235cd94beb16;main:1164645a5ed34d91b08077f7549884c01503ad18;copilot/fix-182:a8eacfa74d8cb5ce804b395c95ec035874f7b12d;ynezz/fix-smoke-test:e8012cce6abbfe3cd0a5bbc8edb25717dd385fde;]|RELEASE:[none|none]
 openwrt/cypress-nvram: BRANCHES:[master:de707b6d535e566479c2ed3e1d09ae5393aa7db3;]|RELEASE:[none|none]
 openwrt/bcm63xx-cfe: BRANCHES:[master:b8128fa4bdcdaf97549138965b00d5d7ceb7bb0f;]|RELEASE:[none|none]
+openwrt/gh-action-sdk: BRANCHES:[main:7fc2640243284ecc44f4a9c3f749a61746ee02cb;]|RELEASE:[none|none]
