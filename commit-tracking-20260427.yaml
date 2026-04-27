@@ -1199,3 +1199,4 @@ unifreq/luci-app-sms-tool: BRANCHES:[master:04971d67c8fd05febd87a89b3a064db020c0
 unifreq/mpp: BRANCHES:[develop:37145900a208d5ca6eb2adbb0f9bab5d52f38270;]|RELEASE:[none|none]
 unifreq/openwrt_packit: BRANCHES:[master:3cf3cc28017824c7accf01ad89a6eb1cd76d3d50;]|RELEASE:[none|none]
 unifreq/packages: BRANCHES:[master:da8a3b6feda61cf2421ead9481666004d8e32b90;]|RELEASE:[none|none]
+unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|RELEASE:[none|none]
