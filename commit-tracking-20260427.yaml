@@ -1107,3 +1107,4 @@ openwrt/firewall3: BRANCHES:[master:3a65fde5a3e675fdf2a24cb3f5d12d0a426be36e;]|R
 openwrt/firewall4: BRANCHES:[master:b6e5157527d361f99ad52eaa6da273cb0f2dfd59;]|RELEASE:[none|none]
 openwrt/fstools: BRANCHES:[master:e600d842ce81b776dc8e2c7aaf39bb923e446c45;lede-17.01:6609e98a7416e107d1718b6ec6cc7339ab6523b8;]|RELEASE:[none|none]
 openwrt/bcm63xx_atf: BRANCHES:[master:e6d46baf3fae79f693f90bf34f7284c3dfc64aef;]|RELEASE:[none|none]
+openwrt/bcm63xx_u-boot: BRANCHES:[netgear-raxe:d6fed3eb68eabb131711fb23548deb83ff08c170;generic:4435700d18a791dca0d8d767e5414dfac9df4451;master:e5aee22e4be75e75a854ab64503fc80598bc2004;]|RELEASE:[none|none]
