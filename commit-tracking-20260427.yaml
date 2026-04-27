@@ -1135,3 +1135,4 @@ openwrt/unetd: BRANCHES:[pqc:f96694bd432bdd06a9b7398905e244eac20c35f9;master:52e
 openwrt/uqmi: BRANCHES:[master:7914da43cddaaf6cfba116260c81e6e9adffd5ab;]|RELEASE:[none|none]
 openwrt/urngd: BRANCHES:[master:f17e33d9942750edbd73124e6f03118a98abb402;]|RELEASE:[none|none]
 openwrt/usbmode: BRANCHES:[master:9b4d0a6e25d5b9f5be9e9c7b6dbf1961763d0b93;]|RELEASE:[none|none]
+openwrt/usign: BRANCHES:[master:c4c72b1b07945ee192361dc751291a7c98d6adcd;]|RELEASE:[none|none]
