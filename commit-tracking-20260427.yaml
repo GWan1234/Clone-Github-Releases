@@ -982,3 +982,4 @@ lambilly/hass_tian_free: BRANCHES:[main:941f1d6cc761f0006c6c05e13c4ca7d6fdeb085e
 lambilly/hass_tian_holiday: BRANCHES:[main:3dd18a42395a8a853f077da764955d1d670ef109;]|RELEASE:[v1.0.1|none]
 lambilly/hass_tian_realtime: BRANCHES:[main:c53c37affe7f88fede5d1381a1b2d6078737c3da;]|RELEASE:[v1.1.3|none]
 lambilly/hass_today_history: BRANCHES:[main:729286e8c77b185d2dac211e54bdbf1ade66c6d9;]|RELEASE:[v1.0.1|none]
+lambilly/hass_weekly_film: BRANCHES:[main:f35f1cc11badfccf1032ac8afc010d98d2889c7b;]|RELEASE:[v1.0.0|none]
