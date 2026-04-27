@@ -1074,3 +1074,4 @@ rime/rime-cantonese: BRANCHES:[main:ec6ee73e83138fc47e658bbdc7a6b1d67e3075fc;cop
 rime/librime-charcode: BRANCHES:[master:55e7f563e999802d41a13ba02657c1be4b2011b4;]|RELEASE:[none|none]
 rime/librime-predict: BRANCHES:[master:920bd41ebf6f9bf6855d14fbe80212e54e749791;]|RELEASE:[none|none]
 rime/rppi: BRANCHES:[master:78044cc44fa2bd82164030b8960f77e332ee7462;]|RELEASE:[none|none]
+rime/rime-emoji-cantonese: BRANCHES:[master:a0f174cc863ada8ff8d7853a9364467cc9dddf0f;]|RELEASE:[none|none]
