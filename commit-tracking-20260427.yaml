@@ -1200,3 +1200,4 @@ unifreq/mpp: BRANCHES:[develop:37145900a208d5ca6eb2adbb0f9bab5d52f38270;]|RELEAS
 unifreq/openwrt_packit: BRANCHES:[master:3cf3cc28017824c7accf01ad89a6eb1cd76d3d50;]|RELEASE:[none|none]
 unifreq/packages: BRANCHES:[master:da8a3b6feda61cf2421ead9481666004d8e32b90;]|RELEASE:[none|none]
 unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|RELEASE:[none|none]
+unifreq/rk-ubuntu-build: BRANCHES:[main:4655857660a9ac65aa226656cf258f9d10adca20;]|RELEASE:[ubuntu_trixie-mini_save_2025.12|none]
