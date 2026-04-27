@@ -1071,3 +1071,4 @@ rime/marisa-trie: BRANCHES:[master:773766d670a16ee2166f1087f8b67fa0235ea8d1;]|RE
 rime/rime-essay-simp: BRANCHES:[master:dc06d4c96ae72ad46b29e3aa824a5d1e8f721fd0;]|RELEASE:[none|none]
 rime/librime-sample: BRANCHES:[master:2ce64efdb6f481288fcd394f66c0f8402f31a5cd;]|RELEASE:[none|none]
 rime/rime-cantonese: BRANCHES:[main:ec6ee73e83138fc47e658bbdc7a6b1d67e3075fc;copilot/add-continue-on-error-to-fetch-workflow:fe5aeb14dd80fca8ccbeb873dd2801e6c631db4d;install:001a9b695f63c972d3700971a17e255c2b0b4b72;ci_fix:50519e1e4cc6e3e1857b2cad12d39ae3c10e49c5;master:ac277184f161f297c2031b497588975234019f9d;build:d2c0d27d9f3115fe1c78fcee4963a75ad85bba2b;essay-cantonese:6adb7421df1b21495232f83757979f4349657956;三拼:c41f3358fc9595df1941230feeda9f9108740201;]|RELEASE:[latest|none]
+rime/librime-charcode: BRANCHES:[master:55e7f563e999802d41a13ba02657c1be4b2011b4;]|RELEASE:[none|none]
