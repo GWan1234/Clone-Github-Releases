@@ -883,3 +883,4 @@ Koenkk/SignatureViewExample: BRANCHES:[imgbot:433b0938a6c3c507dcdb3c9d4110dae1bf
 Koenkk/simplelink-lowpower-f2-sdk: BRANCHES:[rel/lpf2-7.40.00.77:08f823e389c816c9f610970bdf503cb4cd3ddac2;]|RELEASE:[none|none]
 Koenkk/Sonoff-Tasmota: BRANCHES:[imgbot:bf528b96f43f8e4af19465863c9948d37c445e5a;development:a80fcd98d74f4a8816763cb4cd793994070af6ce;master:173c19d1594ff51d321c7bf3d2b3e3a4a75be955;]|RELEASE:[none|none]
 Koenkk/tesla_api: BRANCHES:[master:6e7f746a7a7fd8f571ab96cf52f62a6e882bc103;]|RELEASE:[none|none]
+Koenkk/test-zigbee-OTA: BRANCHES:[master:adcffb5435c3fefdff8c18d74f9050eacef6920a;]|RELEASE:[none|none]
