@@ -756,3 +756,4 @@ HomeSpan/SomfyPlus: BRANCHES:[main:f2165cbb1145389f30bbd1d31f9d189a34b612ef;]|RE
 HomeSpan/SomfyRTS: BRANCHES:[main:0e6892e642344570fcc124fe49276aa10f5a8231;development:1b5f556d052aaa8e4963f85e3f490953532d286e;]|RELEASE:[1.0.1|none]
 HomeSpan/SpanPointLightSwitch: BRANCHES:[main:42518a04f4c97675d3d5bc94dc7299e2b1ed75df;]|RELEASE:[none|none]
 HomeSpan/TempSensorI2C: BRANCHES:[main:9ac6ae43197250ab61dde8ad97723c39298c6a91;]|RELEASE:[none|none]
+HomeSpan/ZephyrVentHood: BRANCHES:[master:c3b38c79202300561a88210bd6b55e9fb21d2213;]|RELEASE:[1.0.1|none]
