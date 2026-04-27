@@ -1145,3 +1145,4 @@ openwrt/buildbot: BRANCHES:[dependabot/github_actions/docker/metadata-action-6:3
 openwrt/actions-shared-workflows: BRANCHES:[main:8f09ba9d084def58c39a099b4c6f7985915bec66;ynezz/single-kernel:4694f67a9f20a361a50e80eeaa1cef4ada5eee59;ynezz/df-du:0c39d3a54c78acacf6483cbb79250f1ab45db691;ynezz/buildbot-config:27eb2d8430f6a1b896fac73e74d83b51c6269ae0;dev:92d33d6b7adf48f2603c122521ceda77d07ff018;ynezz/qa-source-integrity:31a959d3c94b49506e32e0c4567190eb56aebf02;ynezz/buildworker-v9:9cd54b71c449201809a4b7d422a9043966c0364c;]|RELEASE:[none|none]
 openwrt/udebug: BRANCHES:[master:875e1a7af6ca9d86524d18169c3a79f4a1920053;]|RELEASE:[none|none]
 openwrt/toh: BRANCHES:[gh-pages:6868fb0eb23dd225f820c6b4b5eb735b91a4a090;main:ef9e8a6adec5240978cd268cf19a623bb52a6871;]|RELEASE:[none|none]
+openwrt/forum-old: BRANCHES:[main:e91d4ca991a615e3b84a52764db5744af51b5d77;]|RELEASE:[none|none]
