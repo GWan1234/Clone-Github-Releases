@@ -1115,3 +1115,4 @@ openwrt/libnl-tiny: BRANCHES:[master:40493a655d8caa2ccf5206dde1e733abe2920432;st
 openwrt/librpc-uclibc: BRANCHES:[master:a921e3ded051746f9f7cd5e5a312fb6771716aac;]|RELEASE:[none|none]
 openwrt/libubox: BRANCHES:[master:f9b1f3ff17baeb490cc896a037f176c0240ae776;lede-17.01:4382c76d1f225e462c6adf37e577fea0d046b854;]|RELEASE:[none|none]
 openwrt/make_ext4fs: BRANCHES:[master:13767a96fcdffd59fef16f1b86919f63b6dee45a;]|RELEASE:[none|none]
+openwrt/mdnsd: BRANCHES:[master:a52cdb354d13c179150d2ba26f9f8a51d418b43d;openwrt-23.05:7c6759792502fa45ac1e38aa5644f8cf8f290894;]|RELEASE:[none|none]
