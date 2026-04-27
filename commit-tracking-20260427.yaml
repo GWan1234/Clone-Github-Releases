@@ -1203,3 +1203,4 @@ unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|R
 unifreq/rk-ubuntu-build: BRANCHES:[main:4655857660a9ac65aa226656cf258f9d10adca20;]|RELEASE:[ubuntu_trixie-mini_save_2025.12|none]
 unifreq/rk3588-kernel-libre: BRANCHES:[master:25d6616e204713dd9aa15651178d64ff4d9ebd26;]|RELEASE:[none|none]
 unifreq/rkbin: BRANCHES:[master:83a608401a5f530ad600d2175cd0eeb7598bfb22;]|RELEASE:[none|none]
+unifreq/rockchip-rk3588-mainline-patches: BRANCHES:[main:9aa81c5a516dd66aeac24b9d4d50d73ee6f63304;]|RELEASE:[none|none]
