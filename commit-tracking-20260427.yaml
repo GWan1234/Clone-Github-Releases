@@ -1089,3 +1089,4 @@ openwrt/telephony: BRANCHES:[master:e2c5adab62e25eddeff3e52d4678163f6c9a6c3a;ope
 openwrt/video: BRANCHES:[master:d25cad605d8ce9ff536d85bdda2ad7eb2b83f883;openwrt-25.12:094bf58da6682f895255a35a84349a79dab4bf95;openwrt-24.10:44dc7f3a1f7157d55817002eb4a5f3a59de65d67;dependabot/pip/libs/mesa/mako-1.2.2:17b5207d63fa77e9cf2b99a257a1802c8f3c2374;]|RELEASE:[none|none]
 openwrt/buildscripts: BRANCHES:[master:2b21404b40099866841431f325938fefc913a426;]|RELEASE:[none|none]
 openwrt/targets: BRANCHES:[master:0098d2b1a687a84f37167514fc6c6cc5d871643a;]|RELEASE:[none|none]
+openwrt/omcproxy: BRANCHES:[master:3abb601ab77f5e914a3203e5d0c8ae7fb1579bae;]|RELEASE:[none|none]
