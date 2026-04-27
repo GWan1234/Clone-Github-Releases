@@ -1052,3 +1052,4 @@ rime/rime-double-pinyin: BRANCHES:[master:01a13287cbd27819be1c34fa1ddc1b3643d500
 rime/rime-combo-pinyin: BRANCHES:[master:711aaa6285216a4e86ec73ecae86a5d6e8fe2a2c;]|RELEASE:[none|none]
 rime/rime-stenotype: BRANCHES:[master:bef930831ffe97846fa484a81014ad3e465a25c1;]|RELEASE:[none|none]
 rime/rime-jyutping: BRANCHES:[master:ee5e72b2b50a6708162a0402b91f257323bf852b;]|RELEASE:[none|none]
+rime/rime-wugniu: BRANCHES:[master:abd1ee98efbf170258fcf43875c21a4259e00b61;]|RELEASE:[none|none]
