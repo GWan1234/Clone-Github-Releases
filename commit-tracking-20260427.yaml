@@ -1169,3 +1169,4 @@ unifreq/arm64-kernel-configs: BRANCHES:[main:591aa234bda71822738e128ba501829727d
 unifreq/build: BRANCHES:[master:64dbf04f279fc34d28fc87e6dab435b4cdec5af2;]|RELEASE:[none|none]
 unifreq/deer-flow: BRANCHES:[main:f0dd8cb0d22bd49cdb6c7efa35ca765403d143da;]|RELEASE:[none|none]
 unifreq/itx-3588j-linux-libre: BRANCHES:[master:4f908b4581a1cd80b44e870908c1377b07f36773;]|RELEASE:[none|none]
+unifreq/lede: BRANCHES:[master:ff3c2f7979c51fa277c4c9ceafffc03d06562493;]|RELEASE:[none|none]
