@@ -1543,3 +1543,4 @@ adafruit/Pro_Trinket_USB_Keyboard_Library: BRANCHES:[master:1e461afce23f2d9d1ad1
 adafruit/Adafruit-PowerBoost-500-Basic-PCB: BRANCHES:[master:ce7199be2eb4bc33deb4a0a9f407b9dc05df20ea;]|RELEASE:[none|none]
 adafruit/Pro_Trinket_USB_Mouse: BRANCHES:[master:6f08dc2f06d9b6d5c4f44fadb1e794c065354bff;actionci:cdf72e730fb74a6773b07cc07b3bc6feffc7b46a;gh-pages:decd2db848c1422b0d63e052886d304b741935e9;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit-PowerBoost-500-Charger-PCB: BRANCHES:[master:68258d7d14932951b72911ef3be3c1138dce2d6c;]|RELEASE:[none|none]
+adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4;]|RELEASE:[none|none]
