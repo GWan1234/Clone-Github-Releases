@@ -1483,3 +1483,4 @@ adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596
 adafruit/Adafruit_UNTZtrument: BRANCHES:[master:69c337b04206297aae3d765c9b0e699005e3a75c;actionsci:a0faf315b4b829055c3678e01c84d8e976f21af1;gh-pages:022f13c445d0bd199800a17167bcf384baf32298;MIDIUSB:e9d294fd14ac76dee89f7d3f898d8e040ef44c23;]|RELEASE:[2.0.3|none]
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38;]|RELEASE:[none|none]
 adafruit/Adafruit-40-pin-TFT-Friend: BRANCHES:[master:f9efc2816b9a4665d219ac4bde7d5dddc7d82945;]|RELEASE:[none|none]
+adafruit/Adafruit_Python_BMP: BRANCHES:[master:54b307fa6e5b039adffab5dcb6f506d70b8f3249;]|RELEASE:[1.5.4|none]
