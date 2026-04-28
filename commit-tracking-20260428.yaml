@@ -1456,3 +1456,4 @@ adafruit/Adafruit-CC3000-Breakout-PCB: BRANCHES:[master:85e69770538f91498fa18eec
 adafruit/Adafruit_MiniMLX90614: BRANCHES:[master:613aee3bbf05754574ce7d2112da7de45b352c5d;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_SI1145_Library: BRANCHES:[master:27757d5dd017f6dbe0dce11c49323312f87394c9;gh-pages:7711140ab17bdf407eaffb4b5c7bce42efa22e31;]|RELEASE:[1.2.2|none]
 adafruit/Adafruit_MCP9808_Library: BRANCHES:[master:1447e4e8ab099dec3bc76bbb19ab9136f9478b15;gh-pages:044be17019e1bd328f068a1a480d5832a46717d8;busiosensor:2c69f263873148d0e1cea4cd734c143af9f2b96b;]|RELEASE:[2.0.2|none]
+adafruit/Adafruit-Trinket-PCB: BRANCHES:[master:3a2695463e52f72434d20daca6502fc62e8e2fcc;]|RELEASE:[none|none]
