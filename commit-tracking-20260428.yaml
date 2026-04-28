@@ -2616,3 +2616,4 @@ adafruit/Adafruit-TPS62827-PCB: BRANCHES:[main:441e9beed498f62705ee2df458a903a01
 adafruit/Adafruit_CircuitPython_ST7565: BRANCHES:[main:299b16e023f59d8ec8239f016df328a6db205189;patch:afa530e745851165c2a20e4fce891a0a796033ba;]|RELEASE:[1.1.16|none]
 adafruit/nvm.toml: BRANCHES:[main:a2a0c03c221a9bc37992147b5d4ad785a6e467fe;tannewt-patch-1:a8e620d00cff86e0164f9f2fac95db3fb94b6bc4;]|RELEASE:[none|none]
 adafruit/cascadetoml: BRANCHES:[main:9fe8ff037128f460d0c45e2ddb69cba9f45466f4;]|RELEASE:[0.3.5|none]
+adafruit/Adafruit_CircuitPython_SSD1680: BRANCHES:[main:292f58b987db50dd622be5b83722893c58c16ab9;redundant-constructor:d48f4a2336186bf91a4e3c710bd3c00160bb01ab;]|RELEASE:[2.1.3|none]
