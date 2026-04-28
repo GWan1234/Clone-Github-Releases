@@ -2755,3 +2755,4 @@ adafruit/Adafruit-NAU7802-PCB: BRANCHES:[main:7ac4d376418c66b9cfffc7b09d1e085368
 adafruit/ESP_8_BIT_composite: BRANCHES:[main:20dda71af3e47b351c6d1d4ce55d4ce8bda61fee;]|RELEASE:[none|none]
 adafruit/Adafruit-PiCowbell-CAN-Bus-PCB: BRANCHES:[main:6a54bc0068c96f8ab23616ab215f0996f77bea80;]|RELEASE:[none|none]
 adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB: BRANCHES:[main:499de161e9d106e530be5ba1aa09a756c38a31ba;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Wave: BRANCHES:[main:b2dd41fa0e3757c187a4693147eb7d83a84b5119;fix-doc-badge:217ba01fd888767d23acc7b6dd83f8bc78c30a30;]|RELEASE:[0.0.10|none]
