@@ -2545,3 +2545,4 @@ adafruit/Adafruit_BNO08x: BRANCHES:[master:0301e6d5d838609b5f30afafdd9e56dfb1a02
 adafruit/Adafruit-BQ24074-PCB: BRANCHES:[master:844404b10e1a87820ee9cb9024d85f67f4bc4bfd;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BNO08x_RVC: BRANCHES:[main:96b4c299ac59934c943e8efccb54c4bc65142692;]|RELEASE:[1.0.24|none]
 adafruit/Adafruit_BNO08x_RVC: BRANCHES:[master:48c1e013a04b9807cec02552ad4fd0e4dd1ecef4;gh-pages:be3e096f2d7a730d31bf25a56e26c4ead181fac7;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit-BNO08x-PCB: BRANCHES:[master:be9dc9984bb19b1e8ba31e8744917d0952993ef2;]|RELEASE:[none|none]
