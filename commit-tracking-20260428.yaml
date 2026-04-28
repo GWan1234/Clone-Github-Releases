@@ -1608,3 +1608,4 @@ adafruit/Adafruit_IO_Arduino: BRANCHES:[master:f90caefc96c94d96d42a43a6c82832ad5
 adafruit/Pro_Trinket_Power_Meter: BRANCHES:[master:28f838ec70095028f11e59f6cd7a1da0a7d96e81;]|RELEASE:[none|none]
 adafruit/Talking_D20: BRANCHES:[master:e8c9c5fa048261f43f8e301deaaeadfdb77dce57;]|RELEASE:[none|none]
 adafruit/Kinetic_POV: BRANCHES:[master:e528c8457828995f435527480325af5e401999ba;]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB: BRANCHES:[master:c4c1e41ac42f744587e5f3dfef258113a2126342;]|RELEASE:[none|none]
