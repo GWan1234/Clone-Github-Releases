@@ -2848,3 +2848,4 @@ adafruit/Adafruit-SHT4x-Trinkey-PCB: BRANCHES:[main:56dc3b26c14a202ee8db53184b9a
 adafruit/esp32-arduino-lib-builder: BRANCHES:[bluefruit-ez/idfv4.4.6:c4023c61813ee81b1ecb4f1e0af87074e46a83a5;master:aaf47abea86752cda706293664171d9f38b8e3ad;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Fake_BME280: BRANCHES:[fix-toml-load-error:cc9f390f5de61c05fa750143c4d5422e01dbf508;main:dc0555a33a6550ac26b6a03457c7ecf5acea00a9;fix-bme-fake:52fe1e735649b6c58e8c95e02d874f624f5e37b4;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit-LTC4316-PCB: BRANCHES:[main:16f4d8d3e788323f11749103c2cf7a24ee3c521c;]|RELEASE:[none|none]
+adafruit/Adafruit-STEMMA-Reflective-Photo-Interrupt-Sensor-PCB: BRANCHES:[main:301c949dc5f3d4b045aca5ca94913a096af24918;]|RELEASE:[none|none]
