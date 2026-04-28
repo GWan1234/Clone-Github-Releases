@@ -1629,3 +1629,4 @@ adafruit/Adafruit_BluefruitLE_OSX: BRANCHES:[master:f71eb6e981885d70830cb6087ac4
 adafruit/xcarve-server: BRANCHES:[master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6;]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65;]|RELEASE:[none|none]
 adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8;]|RELEASE:[none|none]
+adafruit/Adafruit_DotStarMatrix: BRANCHES:[master:14f09e427d72f74581f07775652bedf2828f46e6;gh-pages:b2cf28e0ba7797f39fc4ddec8b155190cbcae08e;actionci:af97b82f2bc07283ecf7696ec9dd229d0170d832;]|RELEASE:[1.0.9|none]
