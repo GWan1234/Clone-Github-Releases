@@ -2500,3 +2500,4 @@ adafruit/Wippersnapper_Protobuf: BRANCHES:[api-v2:8ca2068ca106c358b454d3a7c8944f
 adafruit/ArduinoBLE: BRANCHES:[master:8c244b8cb9bf1981c0b77cd64926d015513bc97c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_PCF8591: BRANCHES:[main:e93bf70f23eb569f8847fdc604bd0b3705774ffc;use_ruff:2794c080e2539503a0fd2f6b9d6ccfd7d8f9a0c3;docs_req_fixes:a8672200b7a451883a97e6021cad5620c2777b33;patch-fix:0467a57958d37239234c496acbc7ed06626c284c;]|RELEASE:[1.0.25|none]
 adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB: BRANCHES:[master:bd7f6d63e4edaed3d9089f1c9197f40e5a437c67;]|RELEASE:[none|none]
+adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB: BRANCHES:[master:3db1dae4f805b3572137c3a93e8ae65b40875546;]|RELEASE:[none|none]
