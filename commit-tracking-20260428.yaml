@@ -1324,3 +1324,4 @@ adafruit/Adafruit-Flow-Meter: BRANCHES:[master:93f998dd91b6aef33e1e965beb9f8c4c9
 adafruit/Adafruit_NFCShield_I2C: BRANCHES:[master:c48e16ab35b373d9e33efd500879aa0e43490963;]|RELEASE:[none|none]
 adafruit/Adafruit_MCP4725: BRANCHES:[master:705778cc8f1918880063b07547e78c6ded409a88;gh-pages:da58ca904a3143944763eb82ad6627a6d8ef25a5;action:a4fecc0483a8336546aceb4ceb7cf8a69ecd1b62;]|RELEASE:[2.0.2|none]
 adafruit/Adafruit_INA219: BRANCHES:[master:ce59837b4a8feccd767c67d26806a0bd89d1d8eb;fix-ci:dfabb31aa994a5f657b34b3793b5cccaf4795e67;gh-pages:43222e8a1c5626206224db8451722733e8946ca2;actionci:08806a0f73867da2ddbd62a2f01aa467a63e4264;]|RELEASE:[1.2.3|none]
+adafruit/Adafruit-MAX31855-library: BRANCHES:[master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae;]|RELEASE:[1.4.2|none]
