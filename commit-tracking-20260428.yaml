@@ -2003,3 +2003,4 @@ adafruit/PythonClub: BRANCHES:[master:6a06c98237823b1fcc7b4eb4c84556435699502c;d
 adafruit/adafruit-io-camera: BRANCHES:[master:9129c4e7ca4d49ebd4a742035ff1c4c6525c9c25;]|RELEASE:[none|none]
 adafruit/Track_Your_Treats: BRANCHES:[master:520dbc472362d117f93750d1d932425eefafe41a;]|RELEASE:[none|none]
 adafruit/Adafruit-Verter-PCB: BRANCHES:[master:47ff9d8588a4b841b6d0a1efa42fc9275463c16e;]|RELEASE:[none|none]
+adafruit/Adafruit_Pixie: BRANCHES:[master:dd358f643cb62fd8b1eeee2afd43e6ce6d71f81d;fix-ci:24eccb9d7895ece47feebb1cfc11e3b786fe3daa;actionci:c302b095bff043fa571286ce47a0acd8e0c5ed66;gh-pages:28b5780be8eadcd5497e7a5722ac390ef6e0ef55;]|RELEASE:[1.1.7|none]
