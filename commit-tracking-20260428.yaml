@@ -2802,3 +2802,4 @@ adafruit/Adafruit-Metro-M7-with-microSD-PCB: BRANCHES:[main:d7e0bc2ff4d5b9304a91
 adafruit/Adafruit_Debounce: BRANCHES:[gh-pages:c96ba6fa886a24bcca773e65f1c1b3036984cb88;main:7742ab28d1f2008572dd5a24f0a967f8d7d0d01b;]|RELEASE:[1.0.0|none]
 adafruit/esp-protocols: BRANCHES:[circuitpython:2f492c02289015ecbb36851dd1bd04e0eb0a9937;master:12bacdc3a01121ca97eeb3988e2faf38c7563472;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: BRANCHES:[main:53c602e97d82ec5722f49521e3dbe6c71da10422;]|RELEASE:[none|none]
+adafruit/Adafruit-AD5693R-Breakout-Board-PCB: BRANCHES:[main:5eaa6eb797945a917ff46a1db228a3c6ca9b0e8d;]|RELEASE:[none|none]
