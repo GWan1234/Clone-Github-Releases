@@ -2470,3 +2470,4 @@ adafruit/Adafruit_CircuitPython_DS1841: BRANCHES:[main:bc1ce22a3bb9bfbe10ed5ed48
 adafruit/Adafruit_DS1841: BRANCHES:[master:0dbcb92d3fd70cd7f898961a43865fd6dc16af47;gh-pages:277e52b0471fbdc5eb6eaeec4678ea6499a545ec;fix-ci:ef98b184a96ce6e9622c9d33c15e11501c7c34b0;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_BLE_iBBQ: BRANCHES:[main:a598ffd835ece92b29fffbce026af79c2652d222;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit-Bonsai-Buckaroo-PCB: BRANCHES:[master:be6e6ddbd39d17c167c8c9e1557860620e71a305;]|RELEASE:[none|none]
+adafruit/Adafruit_LvGL_Glue: BRANCHES:[master:cc359145abbb60f490b5068c29c09dc849d35c90;gh-pages:2597df2267df734486ec6ea691f802fd06624a53;funhouse:7f3f9ca37396c6fd347a47419f6ba55f13b2fc40;actionci:a80b162ea0935a0b8faa8aa8203b06bb26453182;]|RELEASE:[2.1.7|none]
