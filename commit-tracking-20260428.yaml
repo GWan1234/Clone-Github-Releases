@@ -2869,3 +2869,4 @@ adafruit/Adafruit_CircuitPython_S35710: BRANCHES:[main:9369094f996ddcdf62cba2213
 adafruit/Adafruit-555-PWM-Output-STEMMA-PCB: BRANCHES:[main:2e76b0f1a4a3c2c5f1c1120031069969fc5e505a;]|RELEASE:[none|none]
 adafruit/Adafruit-SEN5x-Adapter-Breakout-PCB: BRANCHES:[main:fcedf60e56ee80e49331ec1621d4c64182aa6177;]|RELEASE:[none|none]
 adafruit/Adafruit-TRRS-Trinkey-PCB: BRANCHES:[main:d244f5b5658d5cd1b1bf62de57265185179cdf0f;]|RELEASE:[none|none]
+adafruit/Adafruit-Proto-Tripler-PiCowbell-PCB: BRANCHES:[main:6cd373213d7bd0c569cbf81be19671b641bc1b8c;]|RELEASE:[none|none]
