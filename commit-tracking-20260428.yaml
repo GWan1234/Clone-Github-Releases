@@ -1706,3 +1706,4 @@ adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB: BRANCHES:[master:6020d6
 adafruit/Adafruit_CircuitPython_IRRemote: BRANCHES:[main:bb14c81e07aa798b36a53923059b5ab8a914915b;]|RELEASE:[5.0.8|none]
 adafruit/Adafruit_ZeroPDM: BRANCHES:[master:6955e2e80eaaf37b2586e8ea510f0d996bc32ca8;gh-pages:d54a7c4266628ced99cb145b7168215c8ef8b4ca;actionsci:0f7a0c7d82a2ca866425506efcc70b8d2e815f82;actionci:2f80f6d358c8f325e15657fd30c7c9219f70489c;]|RELEASE:[1.2.4|none]
 adafruit/jupyter_micropython_kernel: BRANCHES:[master:f60fc2d3bde0684ceb7e9a071f36058c1f8b1d01;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_IS31FL3731: BRANCHES:[main:3becc08e451eeb2b6678a3d17547f5b0922e4660;patch:40d56274bbaba88273cce27c2811f1c2aaa328f3;experimental:4e6425880be5585859746a16934e8851211521cb;]|RELEASE:[3.4.8|none]
