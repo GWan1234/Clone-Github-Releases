@@ -2622,3 +2622,4 @@ adafruit/PyLeap-iOS: BRANCHES:[FileTransfer-Update:84c28328071642566aafdde4b4eca
 adafruit/pyserial: BRANCHES:[windows-interface:163a16f50def4cc408ca1cc55b63dd79c6550e58;master:0e7634747568547b8a7f9fd0c48ed74f16af4b23;518-osx-workaround:b2b36cfc956e86d54e681bf25059a5bcb28d7ce5;issue-154:8ce3c0c770ef95f9b994eabb8e46faafd8703c28;gh-pages:5f7c648ef46b85d2730b4265b979f1f0caf96777;]|RELEASE:[none|none]
 adafruit/Adafruit-CYBERDECK-PCB: BRANCHES:[main:c884788284c1347c56e08148a6f87db115c484a8;]|RELEASE:[none|none]
 adafruit/nvm.raw: BRANCHES:[main:ea225c02ef3e69782695a8d73c641fac79e7358b;]|RELEASE:[none|none]
+adafruit/Adafruit_Dynamic_Bundler: BRANCHES:[main:1d96664beff67a9729484e63a734d12d1efc4a0f;]|RELEASE:[none|none]
