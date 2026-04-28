@@ -1837,3 +1837,4 @@ adafruit/Circuit-Playground-Character-Icons: BRANCHES:[master:9ebcc0e87610c6890f
 adafruit/Adafruit_TFTDMA: BRANCHES:[master:c99d3724fd26b02b0d1b2268bf93f029a8f74ee4;gh-pages:123f03a5271149db9ec58f74cba47151ff2cf262;actionci:da1fcbafdc0b3ee038f34b259992501d4cfdec90;]|RELEASE:[1.1.0|none]
 adafruit/Adafruit_CircuitPython_MLX90614: BRANCHES:[main:bad5be36d95ec0285c15f487f3dd6fd6ffb092a5;patch-fix:f6ffc0e33f94643b883b7034ff8950836fec4927;]|RELEASE:[1.2.25|none]
 adafruit/Adafruit_CircuitPython_MCP3xxx: BRANCHES:[main:ca1476e1600d9298f53bd804243fb7873c057801;pylint-fix:511a5fe57550e045da898ce8c1819e5e633b4046;]|RELEASE:[1.5.2|none]
+adafruit/Bluefruit_LE_Connect_Android_V2: BRANCHES:[main:f2fadabee9b05df1f62c9c97354813d1f8de943a;bluetooth_permissions_fixes:3357e36124441065a8ec1558d45858710ed932b7;circuitpython:33379e5d13ccac0ca31eeb0ec8f7700e3e1a3b41;android12_newpermissions:7f15043b439fcc5e9363ab879dd3bdb166cf4d7f;]|RELEASE:[none|none]
