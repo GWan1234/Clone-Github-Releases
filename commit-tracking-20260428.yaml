@@ -1267,3 +1267,4 @@ adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2;]|RELEASE:[none|none]
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: BRANCHES:[master:e2b12428c08d286dc9f568c8117f6e77986ef0ab;]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b;]|RELEASE:[1.2.4|none]
+adafruit/LPD8806: BRANCHES:[master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;]|RELEASE:[1.0.7|none]
