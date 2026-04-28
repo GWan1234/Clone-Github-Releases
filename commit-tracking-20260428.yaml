@@ -2452,3 +2452,4 @@ adafruit/Adafruit_CircuitPython_BLE_Eddystone: BRANCHES:[main:5a33a27ac395748653
 adafruit/Adafruit_CircuitPython_LPS2X: BRANCHES:[main:c80f4e9d9b487937fed2daa05c265479b9b96f21;lps22:419dd74fb673a96d8a5b402230383656e9405d76;update-docs-link:631a03f69e911c422968fda789d82d55e53a742c;]|RELEASE:[3.0.15|none]
 adafruit/Adafruit_LPS2X: BRANCHES:[master:6c849f5417fa574f5757f6fb64b1b312cf5b2688;gh-pages:a7f9bdcabfa62ca426e48d3062d8c676eb77095e;temp_fix:e6b5aa648e88f695afda62e7736ae1fe20d52ef8;LPS22:ed5ef95f3f2329f01d711f02a0f45ca44bcd42ca;lps25hb:d9f8ab0b2fa28a51dee134b83c083c4d98787e9f;]|RELEASE:[2.0.6|none]
 adafruit/Adafruit_Blinka_bleio: BRANCHES:[main:c290f9c0867abf30b0f633a11ae4828be8fac488;]|RELEASE:[4.1.2|none]
+adafruit/Adafruit_WebSerial_3DModelViewer: BRANCHES:[master:3642232b39c331ae108b9cac5f261e30b3d17c74;]|RELEASE:[none|none]
