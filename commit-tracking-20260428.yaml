@@ -2580,3 +2580,4 @@ adafruit/Adafruit_CircuitPython_PortalBase: BRANCHES:[main:fc4aeea36ae462463eb13
 adafruit/Adafruit_CircuitPython_SCD30: BRANCHES:[main:c8341c0129b65c3c172a8823668cab698d901277;tannewt-patch-2:6e7a63b482826c4d22b2c2af91c60c234a5b4aa4;tannewt-patch-1:c90c9722d3638dc178e8bec453a9c8782c5354cb;slowdown:4a7b33f6d6f1010afc55488a636a3f4fd0f4de67;]|RELEASE:[2.2.19|none]
 adafruit/Adafruit-SGP40-PCB: BRANCHES:[main:57911e5d238bc5c3730c621e3135ff2aa36604ec;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M4-CAN-PCB: BRANCHES:[main:d82af0d26250cb47e0685715276474798bb79470;]|RELEASE:[none|none]
+adafruit/Adafruit_SCD30: BRANCHES:[master:b2b0d0413e0bfa186a5a33fe8d4392457a28786e;gh-pages:0c24e2b62be536dd449db5dbc2a0c565c602c1cc;review:451f71ad5f9cbbaf32440c0cdc8594cbef890419;]|RELEASE:[1.0.11|none]
