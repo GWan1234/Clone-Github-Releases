@@ -1982,3 +1982,4 @@ adafruit/Adafruit_CircuitPython_LPS35HW: BRANCHES:[main:8854ab850135a98466e16d37
 adafruit/Adafruit-AirLift-Breakout-PCB: BRANCHES:[master:821189f7f9160b896a46bf6e239c8a0262ba1a46;]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c825a3747d51849c088c390d;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Hue: BRANCHES:[main:141e5993860c9ab6f6d6791d46564ae4c06da247;]|RELEASE:[2.0.6|none]
+adafruit/Gamebuino-META: BRANCHES:[master:a1b08beb135313f34c32eda89748d519aa68d4c4;drakker:0f944ee7f20e0bcee567659a6ca0717f9b5d3fd1;]|RELEASE:[none|none]
