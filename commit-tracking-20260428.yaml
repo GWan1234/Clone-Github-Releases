@@ -2511,3 +2511,4 @@ adafruit/Adafruit-PMSA003I-PCB: BRANCHES:[master:15c4cc619a86802bf7076370570ea5a
 adafruit/Adafruit_CircuitPython_AS7341: BRANCHES:[main:54dfbfdb5adaf8d618de1a4d9ef65a2ff5e71255;fix_rtd_theme:2be8aa13fc48a777d22e3f53b6bbb43d3b930c4d;patch-fix:991f3b292f135503b8eb9fb6d045a3bcb784160e;]|RELEASE:[1.2.27|none]
 adafruit/Adafruit-PCF8591-PCB: BRANCHES:[master:618da56679c56b97583774e2c2f724c453e78396;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MS8607: BRANCHES:[main:3ac980d21975dfd572dbacb8b49649fe462aac03;patch-fix:1d08d0d09f0c556c71bb19c9816e6efb59aead65;]|RELEASE:[1.1.8|none]
+adafruit/Adafruit_MS8607: BRANCHES:[master:7ada811e1e9950c47865d868da3c65bfbcdcdd31;gh-pages:9ca714bc93f4bfc97a019011971587518a75aee7;fix-Werror=return-type:02d962e3e87d809aaf740a9cc60461f245a5edcf;]|RELEASE:[1.0.4|none]
