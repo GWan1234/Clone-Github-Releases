@@ -2855,3 +2855,4 @@ adafruit/ch55xduino: BRANCHES:[ch55xduino:a962b9bb848081f1310fae11713ea930646243
 adafruit/Adafruit_CircuitPython_ADG72x: BRANCHES:[main:b26a70236cc6c532bb0a515c829b04e70fe32378;]|RELEASE:[1.0.7|none]
 adafruit/Adafruit-Infrared-IR-Remote-Receiver-PCB: BRANCHES:[main:ead85073a5f1e06c649a5f8e9a143e4ecd4e9333;]|RELEASE:[none|none]
 adafruit/Adafruit-BNO055-BMP280-BFF-PCB: BRANCHES:[main:6959d4d990cc3c7b6c0eb1595544220e9e2b8a87;]|RELEASE:[none|none]
+adafruit/awesome-qt-py: BRANCHES:[main:888dd45a91b1263098eaf5f8f936466e7c78b2e6;]|RELEASE:[none|none]
