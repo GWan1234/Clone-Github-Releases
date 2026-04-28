@@ -2603,3 +2603,4 @@ adafruit/Adafruit_CircuitPython_PIOASM: BRANCHES:[main:4c47f966aeea7983783e2f1e0
 adafruit/Adafruit_CircuitPython_DisplayIO_Layout: BRANCHES:[main:b3b21dd113072035bf7e1fe1cab61bf8c32e1a85;dhalbert-patch-1:f419a58e58f20bc7564559404b5b96499e5c0299;jepler-patch-1:cc067a3747d4472cfeb64ef117bda294c4cf24d4;patch:747faa671897ae41c049b9cd0fd683225a0da165;linting:4b302de009ef9e3240f3417df23baff9bb5d91fc;kattni-2021-03-03:6f49a1537bcef455170933c1304ab7bebca4d42e;]|RELEASE:[3.1.5|none]
 adafruit/Adafruit_CircuitPython_datetime: BRANCHES:[main:e9f78f905a6cf34283cd6c6c76e2f510f8623e95;]|RELEASE:[1.4.6|none]
 adafruit/Adafruit-SPI-Flash-SD-Card-PCB: BRANCHES:[main:8d985bd12f2732e94b4727e24874646f5911cd75;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_SimpleMath: BRANCHES:[main:3653b67541b7dbf0fbaaa65628c25cc6900dea87;]|RELEASE:[2.0.19|none]
