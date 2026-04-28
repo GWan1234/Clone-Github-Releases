@@ -2722,3 +2722,4 @@ adafruit/Adafruit_CircuitPython_HTTPServer: BRANCHES:[main:c1d964fe7bf8734f7a858
 adafruit/WipperSnapper_Firmware_Uploader: BRANCHES:[main:7bfc6c185f55d2ec86c33f326cf3358001a15f58;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_ADXL37x: BRANCHES:[main:203c816c60d7dcb14d298c18d99586c2d9b99052;]|RELEASE:[1.2.7|none]
 adafruit/VL53L4CD: BRANCHES:[main:a642dda7d53bf583f6e214fc2c02ec7485a195a8;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Typing: BRANCHES:[main:9fc36471c4dda0b66f3376c42f9dc01a2d26d955;]|RELEASE:[1.12.3|none]
