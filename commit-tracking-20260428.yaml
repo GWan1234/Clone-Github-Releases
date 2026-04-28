@@ -2864,3 +2864,4 @@ adafruit/esp-nimble: BRANCHES:[nimble-1.5.0-idf:81492a09c52ed308143779b7d1d20751
 adafruit/Adafruit-CH552-QT-Py-PCB: BRANCHES:[main:475a3a83213fda98c1a530a84eb6e167cd187b4b;]|RELEASE:[none|none]
 adafruit/Adafruit-S-35710-Breakout-PCB: BRANCHES:[main:acc0684ee70d88a395b09dcea589cb5b443159db;]|RELEASE:[none|none]
 adafruit/Adafruit-Qwiic-Stemma-QT-Breakout-Board-PCB: BRANCHES:[main:da06d4686b1067d85027d88b1607fdd3d8d6a381;]|RELEASE:[none|none]
+adafruit/Adafruit_S-35710: BRANCHES:[gh-pages:c41f761cca1ba054e2736956587967f119d9592e;main:959f929eb010247666ff50c29d9f5e32213847c6;]|RELEASE:[1.0.0|none]
