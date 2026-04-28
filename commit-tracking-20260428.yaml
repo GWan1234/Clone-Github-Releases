@@ -1765,3 +1765,4 @@ adafruit/Adafruit_DAP: BRANCHES:[master:8ca356d92e73d0d1005534030849e7ca37324805
 adafruit/Adafruit-Trinket-M0-PCB: BRANCHES:[master:4103b9cd2722fadc28dc3969bbe067c6873e0540;]|RELEASE:[none|none]
 adafruit/echo_2-xl: BRANCHES:[master:6225f233c03bc7b32c5f5cb6f756521254c34804;]|RELEASE:[none|none]
 adafruit/Adafruit-APDS9960-Breakout-PCB: BRANCHES:[master:23880074d26df8524399f323e016680ad82dc69f;]|RELEASE:[none|none]
+adafruit/Adafruit-PiUART-PCB: BRANCHES:[master:d75842b7de0eb8fb496069a549c87f94542d846c;]|RELEASE:[none|none]
