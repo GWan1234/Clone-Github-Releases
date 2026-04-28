@@ -1276,3 +1276,4 @@ adafruit/Adafruit_MCP73833_PCB: BRANCHES:[master:21d2302412f317989304d1bb608ae01
 adafruit/ArduinoISP: BRANCHES:[master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685;]|RELEASE:[none|none]
 adafruit/TSL2561-Arduino-Library: BRANCHES:[master:fea818e44a77122d31c5f79e373d3646af874fa0;]|RELEASE:[1.0.0|none]
 adafruit/TSL2561-breakout-board-PCB: BRANCHES:[master:8a062ad303b8b4768694e1ab1006ab0b00c8579a;]|RELEASE:[none|none]
+adafruit/Adafruit_Motor-Shield-v1: BRANCHES:[master:f2505a85855fb00b468a78ba527afbf0d91bdb22;]|RELEASE:[none|none]
