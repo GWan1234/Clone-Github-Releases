@@ -1780,3 +1780,4 @@ adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f7567
 adafruit/Adafruit-Joy-Featherwing-PCB: BRANCHES:[master:45f843d490a5968f4642ff970e8e867918c80b8d;]|RELEASE:[none|none]
 adafruit/Adafruit_BME680: BRANCHES:[master:ae6299132da0e5168f2e2097d23b12736146f881;gh-pages:232ba13a03340e0c4e8f9417dc4d5316c44c658d;688:25c094419bddc0b4d2ae11bf152b6b5fbc28550d;hoffmannjan-patch-1:cbe9c6965ec337e0614a951a3ac91dd96be0aef8;]|RELEASE:[2.0.6|none]
 adafruit/Adafruit_CircuitPython_seesaw: BRANCHES:[main:13ba8ba2a2cecb9df5a41390f991ce6c0cd76e14;patch-fix:f0c6f28e2bdf221c509a8df2e5d025264b251fbd;pylint-version-fix:ce9a74250514940cf2ea9d27ec06e78ec315a013;dm-crckit:7bce8f8b0b549cf71450ceb6acd8966f491a5745;]|RELEASE:[1.18.2|none]
+adafruit/Adafruit_Python_seesaw: BRANCHES:[master:6b849ee4c579e48edace1711b77ca125d583529e;]|RELEASE:[none|none]
