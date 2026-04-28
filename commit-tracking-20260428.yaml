@@ -1512,3 +1512,4 @@ adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492
 adafruit/rayshobby-hid-serial-trinket: BRANCHES:[master:282903bdcb78856a5fe74fb0ae16e8473c1431b4;]|RELEASE:[none|none]
 adafruit/Adafruit_CC3000_Shield_PCB: BRANCHES:[master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba;]|RELEASE:[none|none]
 adafruit/Mini-LED-Gamer: BRANCHES:[master:4e230a14bdc480bc3f983829d7cea8b83dadd3be;]|RELEASE:[none|none]
+adafruit/Trinket_Arduino_Linux: BRANCHES:[master:827471769d16bbf7816a6bf8b1fe6d716cf684b4;1.6.2:16db139fec9d2adab8d2bb5d3119deeab2556bba;1.6.1:6526bbebdabdae9a25ac20125a2c9050e69b341a;1.0.5:1e8d26e1f9ba6e0fad1069d5f72a54fd8e79b52a;]|RELEASE:[none|none]
