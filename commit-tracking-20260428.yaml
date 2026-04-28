@@ -2623,3 +2623,4 @@ adafruit/pyserial: BRANCHES:[windows-interface:163a16f50def4cc408ca1cc55b63dd79c
 adafruit/Adafruit-CYBERDECK-PCB: BRANCHES:[main:c884788284c1347c56e08148a6f87db115c484a8;]|RELEASE:[none|none]
 adafruit/nvm.raw: BRANCHES:[main:ea225c02ef3e69782695a8d73c641fac79e7358b;]|RELEASE:[none|none]
 adafruit/Adafruit_Dynamic_Bundler: BRANCHES:[main:1d96664beff67a9729484e63a734d12d1efc4a0f;]|RELEASE:[none|none]
+adafruit/imx_rt_flash_config: BRANCHES:[main:9de9b4a3f8f9dd9c71315ed9ad0d92bea0d5d549;]|RELEASE:[none|none]
