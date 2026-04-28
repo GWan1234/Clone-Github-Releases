@@ -1530,3 +1530,4 @@ adafruit/4-Channel-Level-Shifter-PCB: BRANCHES:[master:a2bfd3a94ed87bce64bd22307
 adafruit/Adafruit_DRV2605_Library: BRANCHES:[master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d;]|RELEASE:[1.2.4|none]
 adafruit/adafruit-io-node: BRANCHES:[api_v2:3623b7335e5e9fde3406308534a037ec31ede961;master:8c117eebf66b8396f40ebeb19c1477113e78fbb3;homekit:fb7303eacb301cb11b78ddfe4636d9e347bae514;req-sig:e1f26c365aa8d91a35b8e578d629d5e1e163d8aa;]|RELEASE:[none|none]
 adafruit/Adafruit-MPL3115A2-PCB: BRANCHES:[master:c57b3e05fa7907f850a4f0af6fb211ae9c831847;]|RELEASE:[none|none]
+adafruit/rpi-rgb-led-matrix: BRANCHES:[master:8c8af1cc135a767d7cb58be2604bb0846670db99;]|RELEASE:[none|none]
