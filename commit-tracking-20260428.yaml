@@ -2597,3 +2597,4 @@ adafruit/Adafruit_SHT4X: BRANCHES:[master:76a06edfa280a699da1c2f311bdeccb0bd5cee
 adafruit/Adafruit_CircuitPython_SHT4x: BRANCHES:[main:c29695027b1d5f5140b570f31c91ace373f45843;]|RELEASE:[1.0.27|none]
 adafruit/Adafruit_CircuitPython_HTU31D: BRANCHES:[main:8edac0f7264b3457d96c9cdb3dce8b8c838ce5d6;]|RELEASE:[1.1.22|none]
 adafruit/Adafruit_AW9523: BRANCHES:[gh-pages:191350351ae78b18f931b6766e8369a4d39b9f3e;master:43744cab9ed6e65e73964a04941673a7e823b18b;fix-ci:e3a4e4396f53b2a8c2bfb2d429fb5c42ecf56084;fixhighpins:4518f4dc804c2c0914b389421b2af0f4eb98a265;]|RELEASE:[1.0.5|none]
+adafruit/Adafruit_CircuitPython_AW9523: BRANCHES:[main:36545b5ee539ca39b45404c2e295e35bc503aa9f;]|RELEASE:[1.1.16|none]
