@@ -1939,3 +1939,4 @@ adafruit/Adafruit_ADXL343_PCB: BRANCHES:[master:13dce5a5963041d7d7f60492da459e00
 adafruit/Adafruit_CircuitPython_VCNL4040: BRANCHES:[main:f512b83224a860dfcd0ab79571e779943ba722b0;]|RELEASE:[1.2.24|none]
 adafruit/Adafruit-USB-C-Downstream-Breakout: BRANCHES:[master:1484ecb56b369e177848e69de4b7b7e513399590;]|RELEASE:[none|none]
 adafruit/Adafruit-ADT7410-PCB: BRANCHES:[master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41;]|RELEASE:[none|none]
+adafruit/pcb-parts: BRANCHES:[master:3e667bd62b04572076aebc3e5a52b2d089ff0af6;]|RELEASE:[none|none]
