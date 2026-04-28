@@ -29,7 +29,6 @@ allrepositories:
   - a2633063
   - flameshot-org
   - rime
-  - sonocotta
   - openwrt
   - unifreq
 
@@ -43,7 +42,7 @@ allrepositories:
 #  - armbian
 #  - ophub
 #
-#  - adafruit
+  - adafruit
 
 
 
@@ -87,6 +86,7 @@ repositories:
     - LeoChen-CoreMind
     - vernesong
     - aabbabaab
+    - mayday-wh
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
@@ -99,6 +99,7 @@ repositories:
     - LeoChen-CoreMind/UDX710-TOOLS
     - vernesong/OpenClash
     - aabbabaab/Modem_Webui
+    - mayday-wh/PCB-Art-Workstation
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
@@ -111,6 +112,7 @@ repositories:
     - https://github.com/LeoChen-CoreMind/UDX710-TOOLS
     - https://github.com/vernesong/OpenClash.git
     - https://github.com/aabbabaab/Modem_Webui
+    - https://github.com/mayday-wh/PCB-Art-Workstation.git
 
   name2:
     - frpc
