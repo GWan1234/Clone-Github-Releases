@@ -2296,3 +2296,4 @@ adafruit/Adafruit-PyGamer-PCB: BRANCHES:[master:6725ded4a2049f7bf44a9078c141ceb6
 adafruit/Adafruit_BD3491FS: BRANCHES:[master:05d0556a577e39940ae5ded6e368fa3058e29ce3;gh-pages:7aee4afd32832712e6fc374a4c03a8f0a8247997;actionci:0339a6482ae07c7968e893725024fae09a14e506;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_CircuitPython_BD3491FS: BRANCHES:[main:6ce7983df7c1f9e6b0e4d0085842de71b4453a33;]|RELEASE:[1.1.24|none]
 adafruit/Adafruit_GhostFAT: BRANCHES:[master:0c2352e3e2dd8edcaf9186ac5d4dd25d2cd8627c;]|RELEASE:[none|none]
+adafruit/Adafruit-MCP9600-PCB: BRANCHES:[master:59ed646dfbeafb9d4124db583fe9df9532cd3a07;]|RELEASE:[none|none]
