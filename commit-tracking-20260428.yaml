@@ -2099,3 +2099,4 @@ adafruit/Adafruit-MAX98357-I2S-Amp-Breakout: BRANCHES:[master:5fa51d3f5828f699c2
 adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB: BRANCHES:[master:fab08d3f5f0755a29559b81ad54239b746906b56;]|RELEASE:[none|none]
 adafruit/Raspberry_Pi_SQLite_Sensors: BRANCHES:[master:7ac7cfce9549b83332c498eb365a766f74b26ee0;]|RELEASE:[none|none]
 adafruit/eagle2fritzing: BRANCHES:[master:d18749346438d31870de54bcbf2748cdc676138f;]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-EZ-Key-PCB: BRANCHES:[master:b5eea193aba7fc2795fc4ac54534faceee2c3a84;]|RELEASE:[none|none]
