@@ -1995,3 +1995,4 @@ adafruit/Adafruit-INA260-PCB: BRANCHES:[master:6fbc2f2fd8afe26760e791ae2f3d00977
 adafruit/acme.sh: BRANCHES:[dns_cf_zone_id:7c2e382d108d53daab554ce2936d47c9da9cb047;master:552a49a6801fa3c144856d95b3a8a2c8f121cf31;no-save-creds:059694c49f5b03031344e899a81dfb3853efb98e;dev:2b765fdedb84532052918a5524da5090604dbe18;notify:45a8bdbedca4cca3e2a1f46763798b11d698def9;vv:f2add8de94e0ad9646f86dba3ea8666c9e39b348;cron:bbcc9d4b8e1d9f0069ccc80bf3c0a18badc4cb38;]|RELEASE:[none|none]
 adafruit/io-swagger-templates: BRANCHES:[master:1eb516b553057f9a7eae1cc409541621fe9b95af;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MAX9744: BRANCHES:[master:b7de3549f356eb2adc4c9c1c87e58b62c09b03bc;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit_Arduino_OpenPixelServer: BRANCHES:[master:d72678e9b6c2d9564224fb2c35fc85250457494c;]|RELEASE:[none|none]
