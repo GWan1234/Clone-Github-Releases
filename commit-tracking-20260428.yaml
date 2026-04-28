@@ -1243,3 +1243,4 @@ adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:1203bb861fc49a53dd95dcb425
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:eeeefb1d5689572439e4811c6ff969dd7036709f;]|RELEASE:[none|none]
 adafruit/Adafruit_Atmega32u4_Breakout_Board: BRANCHES:[master:95a296a2957c41f86e3013eb707e21c7b2db7678;]|RELEASE:[none|none]
 adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44;]|RELEASE:[none|none]
+adafruit/HL1606-LED-Strip: BRANCHES:[master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;]|RELEASE:[1.1.2|none]
