@@ -1848,3 +1848,4 @@ adafruit/Adafruit_CircuitPython_TCA9548A: BRANCHES:[main:514d550d999e4035947471a
 adafruit/Adafruit-Hallowing-M0-PCB: BRANCHES:[master:c0585b0672ce13e163b8da6ce9215ec600c63d64;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_PN532: BRANCHES:[main:909b0448a70dec7d68e34aae5f838e09e7b583ab;patch-fix:a971bbce7cf44880bf48d8dfe6ad3196308a1121;pypi-readme:54a65248411c5f77fc4c1d1ed15d18b574b75ca5;setup-py:3447de5d2d042f99ea02db2245189633a2194a76;]|RELEASE:[2.4.9|none]
 adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB: BRANCHES:[master:2c0839c80106b13e97aa733f85a1e7a78c5cbac7;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_NeoTrellis: BRANCHES:[main:c60db5011476a447aedea011b6da0ab89028cf35;build-badge-update:1d2e4240c5731415a3fac901de15ec91febb9b46;travis-requirements.txt:77492bd3f106bcd78095f567672e60e73c084086;]|RELEASE:[1.3.13|none]
