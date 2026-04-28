@@ -1462,3 +1462,4 @@ adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a2
 adafruit/Adafruit-MiniPOV4-Kit: BRANCHES:[master:067ae4dcad3fcc97ba4ef02da5cda2650d8b921f;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX9744-Amplifier-PCB: BRANCHES:[master:8df09f97bcc66b78a54ca049957f7637fdd513c0;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31850-thermocouple-breakout-board: BRANCHES:[master:759ee92d8dd940d14ad418e81016b3e25eb1a581;]|RELEASE:[none|none]
+adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e;]|RELEASE:[none|none]
