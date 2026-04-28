@@ -1601,3 +1601,4 @@ adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba
 adafruit/BNO055-Cordova-Example: BRANCHES:[master:a1c6ba346303ed26d8d5a84af1dd7c15884bdd6e;sawcoach:0dbee7f5ac745ff51854e520cc91382ceee68ae1;]|RELEASE:[none|none]
 adafruit/cordova-adafruit-io: BRANCHES:[master:be274cee2c1669e9b491d5bd265b01acf51d93ae;]|RELEASE:[none|none]
 adafruit/Adafruit-STMPE610-Breakout-PCB: BRANCHES:[master:8cf4f3cc9aaa31c6f5b90e661fa7ba99559052bb;]|RELEASE:[none|none]
+adafruit/Arduin_o_phone: BRANCHES:[master:f6abf2b2d1821cc4410ec10594bb55a1cf5a7984;]|RELEASE:[none|none]
