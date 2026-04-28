@@ -2166,3 +2166,4 @@ adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB: BRANCHES:[master:0dcd95006
 adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB: BRANCHES:[master:f09366288515bc9d9ea436602506ed4d2c295544;]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Sequin-PCB: BRANCHES:[master:9053b69556d4bbb35a02b35b46cfc946122779f7;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP9808-Breakout-PCB: BRANCHES:[master:5a46deacf915eeeb5fcafd82e214ce162bf4a464;]|RELEASE:[none|none]
+adafruit/micropython-adafruit-tcs34725: BRANCHES:[master:96f9936317130f8a140b4e638ebb77aa4c564891;]|RELEASE:[1.0|none]
