@@ -2839,3 +2839,4 @@ adafruit/Adafruit-DC-Power-BFF-PCB: BRANCHES:[main:de89d2fa7b7cfbdea51fc6e946cd2
 adafruit/Adafruit_ADG72x: BRANCHES:[gh-pages:2601f910d8be610b21a8d6e2485c62a572c7a79c;main:eeffb18d0a52505bede5523531d41bc530cd2f8a;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit-NeoRGB-Stemma-PCB: BRANCHES:[main:2ddebac3517cb3013345f5e2e3bdac1ded4aa0f8;]|RELEASE:[none|none]
 adafruit/Adafruit-ItsyBitsy-ESP32-PCB: BRANCHES:[main:552bf913248863c3a8e1e96671081113e4072478;]|RELEASE:[none|none]
+adafruit/Adafruit-STEMMA-Analog-SPDT-Switch-PCB: BRANCHES:[main:0d377c1934aaadf3bcc8a9a89adf87b82d96726a;]|RELEASE:[none|none]
