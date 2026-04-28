@@ -2890,3 +2890,4 @@ adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB: BRANCHES:[main:083c789179ca1150e
 adafruit/Adafruit_CircuitPython_HX711: BRANCHES:[main:3058a5123a28221a3f5fb891b9db617eb22bbaae;]|RELEASE:[1.1.2|none]
 adafruit/board_manager_files: BRANCHES:[add-wchisp-rs:174f6ab3638b71bd74a8cdb92d48af94efaa9845;main:649cb6cebb11d5893a207f7d7f2fefc1f22349b5;]|RELEASE:[none|none]
 adafruit/wchisp: BRANCHES:[add-linux-aarch64:68a782a1244859d598d54a0049399f7eb9ae2c76;main:266538ad3ed47f6d07022aa1e7b08ea0bd1cfaa9;unix-tar:2c05739470ceea5d9eaf9fb276064a1c29f5d4f9;]|RELEASE:[0.0.1|none]
+adafruit/Adafruit_CircuitPython_Base64_Stream: BRANCHES:[main:974e989547b303f7bef24a813e11a1d0a87c123e;]|RELEASE:[none|none]
