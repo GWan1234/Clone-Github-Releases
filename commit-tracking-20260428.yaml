@@ -1221,3 +1221,4 @@ adafruit/Ice-Tube-Clock: BRANCHES:[master:df64981f389418ee562fef81f0daa5cc06c180
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8;]|RELEASE:[none|none]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415;]|RELEASE:[none|none]
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d;]|RELEASE:[1.1.2|none]
+adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6;]|RELEASE:[none|none]
