@@ -1890,3 +1890,4 @@ adafruit/Adafruit_CircuitPython_BMP3XX: BRANCHES:[main:05ba78b1c3b42a43048e4f2a3
 adafruit/Adafruit-BMP3xx-PCB: BRANCHES:[master:e99a964dda0d6deb42314f8d9a376e4dd714fe59;]|RELEASE:[none|none]
 adafruit/Adafruit-Prop-Maker-FeatherWing-PCB: BRANCHES:[master:f0e322ee15e06fe7810d9ec08f992a1b2fbe9bc2;]|RELEASE:[none|none]
 adafruit/beaglecap: BRANCHES:[master:35dc8cdb19a573dd7241f13615f7aff3cfaf2298;]|RELEASE:[none|none]
+adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB: BRANCHES:[master:0521054d17cd04841d5a3ae2a54e3c76e21c9264;]|RELEASE:[none|none]
