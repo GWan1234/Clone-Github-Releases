@@ -2146,3 +2146,4 @@ adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB: BRANCHES:[master:df97d9269278190
 adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB: BRANCHES:[master:a18e1c035a787044fdb3ff570f4e811dee23ec7c;]|RELEASE:[none|none]
 adafruit/Raspberry-Pi-Pokemon-Detector: BRANCHES:[master:9545ee1486fdad90518995bbd5422d935d999b12;]|RELEASE:[none|none]
 adafruit/AdafruitClassLibrary: BRANCHES:[master:3fe5e2d3ca0a13a84567928365f09040768bb4ee;]|RELEASE:[none|none]
+adafruit/Adafruit_RTD266X_I2CFlasher: BRANCHES:[master:febb4f815731842439836268628d835e8d966f4f;]|RELEASE:[none|none]
