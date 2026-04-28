@@ -1887,3 +1887,4 @@ adafruit/Adafruit_CircuitPython_TrellisM4: BRANCHES:[main:6cbaa27a373fd095030279
 adafruit/Adafruit_CircuitPython_BluefruitSPI: BRANCHES:[main:6771a8c7b258558504e7d6459b093c076418b2e3;]|RELEASE:[1.1.26|none]
 adafruit/Adafruit_NeoTrellisM4: BRANCHES:[master:7e3c3b8294f5079cb2a6b97a36d97b7dd026d87a;gh-pages:3c949d84dff9f33ea90728cd2a7c9fe15161b5df;actionci:c4f0afb706829af0245c43964005c2a2f4f3c65e;Hold-Note-Lock-Button:dace703bc4a2849263146d35caf263a5c2ecccac;jedgarpark-patch-1:d30b378682b4f8358a4265c3dc130f3c55c8a280;]|RELEASE:[1.3.4|none]
 adafruit/Adafruit_CircuitPython_BMP3XX: BRANCHES:[main:05ba78b1c3b42a43048e4f2a3a4d90b83eedc8af;patch-fix:9b72e69f5ede2c5c46fca84807429fa7dd7a8b60;REUSE:c91b9a156980e0e00ff34fc2b644327c2d0d9d6b;]|RELEASE:[1.3.27|none]
+adafruit/Adafruit-BMP3xx-PCB: BRANCHES:[master:e99a964dda0d6deb42314f8d9a376e4dd714fe59;]|RELEASE:[none|none]
