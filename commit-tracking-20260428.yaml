@@ -2405,3 +2405,4 @@ adafruit/Adafruit_CircuitPython_MLX90640: BRANCHES:[main:6a537df6af2fce6ad301e20
 adafruit/Adafruit_CircuitPython_Display_Notification: BRANCHES:[main:eb55b7d8961391ec7fa2903df2c5a88def8bb109;discord-fix:92c919c8685795d307daf9a8bbfe45ece349cdfd;]|RELEASE:[1.0.8|none]
 adafruit/Adafruit_CircuitPython_Display_BLE_Status: BRANCHES:[master:4c4b64d4d7eef3ce7f1ddbac35173b1d13b366a5;dherrada-patch-1:0bce0f325c2a4e8ad95e15f3676af59b894ccc01;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_CircuitPython_NeoPixel_SPI: BRANCHES:[main:57ede1b27fab935b7b508cf72b317047c709ac30;]|RELEASE:[1.0.16|none]
+adafruit/Adafruit-LSM6DSOX-PCB: BRANCHES:[master:c05abef4675b0380fbf3d23171615a2f1ac0b130;]|RELEASE:[none|none]
