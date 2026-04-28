@@ -1914,3 +1914,4 @@ adafruit/Adafruit_CircuitPython_GFX: BRANCHES:[main:a1bb86535edc7631e98636e96f34
 adafruit/Adafruit_CircuitPython_PCD8544: BRANCHES:[main:1428422d9bcc8ced9e6f53ea5948799d04413a0e;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit_CircuitPython_SharpMemoryDisplay: BRANCHES:[main:b4c64bc9ffab699edf3a20392a357662c325309e;]|RELEASE:[1.4.19|none]
 adafruit/Adafruit_CircuitPython_BLE: BRANCHES:[main:82ada04a0f4019de00d103256621f73b80151a0d;pylint-fix:5e4e55c9d2d315f4d7fe66a1a4b31ed7ac65ca5b;]|RELEASE:[10.1.3|none]
+adafruit/Adafruit_CircuitPython_TestRepo: BRANCHES:[main:0c402bb6ff86e1933d806a61d1648468a721b7ca;test:adef8fb453f3099658668c4aa22ed010c8b605af;]|RELEASE:[3.2.2|none]
