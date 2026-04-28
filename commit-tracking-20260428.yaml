@@ -1490,3 +1490,4 @@ adafruit/Adafruit-Si4713-Library: BRANCHES:[master:fa38460fb0303d7951ff6a20828d7
 adafruit/Adafruit-Perma-Proto-PCB: BRANCHES:[master:d6febb550024f057007c0d634e846f9c0ede5c36;]|RELEASE:[none|none]
 adafruit/Adafruit-CAP1188-PCB: BRANCHES:[master:cf65678210cb9bc8a792efa091d49082e4ad6a2b;]|RELEASE:[none|none]
 adafruit/PiTFT_Extras: BRANCHES:[master:9d42b2c3941db30e1a6df3d6cfffe533662716ae;display_type:85d46d8d4c9061f572fd7c46f5d1c6c4fe9a6bbc;]|RELEASE:[none|none]
+adafruit/Adafruit_Android_BLE_UART: BRANCHES:[master:68c686575a307eaaa88ce76886f304779bd29690;]|RELEASE:[none|none]
