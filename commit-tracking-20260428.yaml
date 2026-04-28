@@ -1497,3 +1497,4 @@ adafruit/Adafruit_Python_LED_Backpack: BRANCHES:[master:a0a91e0bb0a9a16f898b5911
 adafruit/Adafruit_MPR121: BRANCHES:[master:e4abfcd40be1ed471b6ab0280b133f0d8ab23c25;gh-pages:8035655cd33d2dc11d21632134b55a5d31426a64;busio:95bf9b5e24ca02150841bdc1b311cdd7b37f046e;]|RELEASE:[1.2.1|none]
 adafruit/Adafruit_MMA8451_Library: BRANCHES:[master:a97c1b328bd067b6e99f1df5c8ac93dd444bedff;gh-pages:44622074cc97ffbde23d346a0e3e85443fc47140;actionci:72ddc74429869636f7a539edf53b960b3ec06581;]|RELEASE:[1.2.3|none]
 adafruit/FONA_PPP: BRANCHES:[master:b1aeec0d5f951bdc24e8924ef5f4c3a138e711e6;]|RELEASE:[none|none]
+adafruit/LittleWireISP: BRANCHES:[master:2762515cd69a4add211d47b5c7fb45345307a1b1;]|RELEASE:[none|none]
