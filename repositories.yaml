@@ -35,12 +35,14 @@ allrepositories:
 #  - home-assistant
 #  - rustdesk
 #  - xyzroe
+#  - iamromulan
 #
 #  - LilyGO
 #  - Xinyuan-LilyGO
 #  - emqx
 #  - armbian
 #  - ophub
+#  - philippe44
 #
   - adafruit
 
@@ -87,6 +89,11 @@ repositories:
     - vernesong
     - aabbabaab
     - mayday-wh
+    - rbouteiller
+    - 0-Mqix
+    - sle118
+    - megakerw
+
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
@@ -100,6 +107,11 @@ repositories:
     - vernesong/OpenClash
     - aabbabaab/Modem_Webui
     - mayday-wh/PCB-Art-Workstation
+    - rbouteiller/airplay-esp32
+    - 0-Mqix/airplay-esp32
+    - sle118/squeezelite-esp32
+    - megakerw/QuecDeck
+
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
@@ -113,6 +125,10 @@ repositories:
     - https://github.com/vernesong/OpenClash.git
     - https://github.com/aabbabaab/Modem_Webui
     - https://github.com/mayday-wh/PCB-Art-Workstation.git
+    - https://github.com/rbouteiller/airplay-esp32
+    - https://github.com/0-Mqix/airplay-esp32
+    - https://github.com/sle118/squeezelite-esp32
+    - https://github.com/megakerw/QuecDeck
 
   name2:
     - frpc
