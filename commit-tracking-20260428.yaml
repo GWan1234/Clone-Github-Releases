@@ -2531,3 +2531,4 @@ adafruit/Adafruit_Wippersnapper_Arduino: BRANCHES:[add-expanders:c68c997e0a93f5c
 adafruit/Election-Day-iOS: BRANCHES:[master:c3981b5815b58aaeae38ab4514d389865282cb67;]|RELEASE:[none|none]
 adafruit/Adafruit_SSD1327: BRANCHES:[master:6404a444267240bfc19f55c7080c36c9710d13b9;fix-ci:b46138ddb9c9ea2f365f7826ca41d904104e4054;gh-pages:0baa94c2362bdc3dfa350b483b6906dc56db1e33;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit_Python_Shell: BRANCHES:[main:1e279fc15bd9db4c929955ba30208d5f436db9ed;]|RELEASE:[1.11.1|none]
+adafruit/BLM-Badge-PCB: BRANCHES:[master:85f0a9a0df072579ab00b5e9a2e22b0477bad65a;]|RELEASE:[none|none]
