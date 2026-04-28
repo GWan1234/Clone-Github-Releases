@@ -1253,3 +1253,4 @@ adafruit/Adafruit_TouchScreen: BRANCHES:[master:b64e777d8f6e321ba2ed726412955dd2
 adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983;]|RELEASE:[2.0.3|none]
 adafruit/SD: BRANCHES:[master:041f788250d00157918e073825e35603e1ac3cbd;]|RELEASE:[none|none]
 adafruit/Adafruit_MintyBoost_PCB: BRANCHES:[master:ba585c4538bc26ebedb089dd746fca42d2931783;]|RELEASE:[none|none]
+adafruit/SPI_VFD: BRANCHES:[master:69e0f7f4105c535b182f41514e6674a396b32acc;gh-pages:80db41da6b1cedd72ab2a4d477edc98a6af0cee9;]|RELEASE:[1.1.4|none]
