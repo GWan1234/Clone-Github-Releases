@@ -2412,3 +2412,4 @@ adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center: BRANCHES:[main:7c
 adafruit/Adafruit_Spectro_Pi: BRANCHES:[master:5da6bd1f40b9ea37b6b19d87967baeaec36ac9ef;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP4728-PCB: BRANCHES:[master:ab66f6aaf2e95f0027f17c2dde804d79508300f2;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_Magic_Light: BRANCHES:[main:3a5c1468d4bfd853ee80fec37a81040c2da87725;]|RELEASE:[0.9.27|none]
+adafruit/actions-ci-circuitpython-libs: BRANCHES:[main:fdf1cc33fc828429d08b1785de92ba214038b469;]|RELEASE:[none|none]
