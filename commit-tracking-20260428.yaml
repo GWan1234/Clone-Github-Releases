@@ -2787,3 +2787,4 @@ adafruit/Adafruit-ADXL343-ADT7410-Sensor-FeatherWing-PCB: BRANCHES:[main:808e86d
 adafruit/Adafruit-Metro-RP2040-PCB: BRANCHES:[main:9fe571ea428c5c2bc1b7593dadf61e8ef804f480;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: BRANCHES:[main:f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435;]|RELEASE:[0.5.3|none]
 adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage: BRANCHES:[main:d3977af72ac362eedaa225327eae6146c25a392b;]|RELEASE:[0.8.6|none]
+adafruit/Adafruit-PC-Joystick-to-seesaw-PCB: BRANCHES:[main:890610a1efbc5e3b9c7dca5b28a125e36333b3f6;]|RELEASE:[none|none]
