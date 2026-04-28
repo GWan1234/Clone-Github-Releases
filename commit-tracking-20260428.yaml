@@ -1479,3 +1479,4 @@ adafruit/Adafruit-Motor-Shield-V2-PCB: BRANCHES:[master:ff0173e93d24c1c93d48a242
 adafruit/Adafruit_DHT_Unified: BRANCHES:[master:67b98789e89a63bb4e95b748578436ce954b03d1;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit_BMP183_Library: BRANCHES:[master:1c30859e2c9070e5683c83a155da37328eebb435;gh-pages:ab41367a2a0a1e4a69a2894c04221c03ddfa0384;ci-test:ba8f02cffadbacaa34889826798ab3ccec6aa273;actionci:5206dd170b9bed6fcfa1a6eeb732c0fdf21a2341;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit_Python_DHT: BRANCHES:[master:8f5e2c4d6ebba8836f6d31ec9a0c171948e3237d;publish_adafruit_python_dht:235fcaa11bdb2aa322f12c903e29a698e50cedb8;remove_ez_setup:f66c1ca8d391d09a589ed68fb41237ac5d30832a;add_manifest:cd9424c0755da4478c6047548fcaa0e83ac37f71;]|RELEASE:[1.4.1|none]
+adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596a012c2f9534be54a63;]|RELEASE:[none|none]
