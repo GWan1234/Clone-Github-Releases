@@ -1548,3 +1548,4 @@ adafruit/Adafruit-NeoPixel-Jewel-7: BRANCHES:[master:1bc598ba1738a68f54cb9d259eb
 adafruit/Adafruit_MQTT_Library: BRANCHES:[master:684391ddb35000c88ad7ff1490b2034cd6de5834;packet-len-calc:a38e837d428d717158906b4c6b0dbda079d8eab5;progmem_fixes:e0c88d8d2c0e458048219f5bde8fd63e0f3cad15;smarterreadpacket:522947731e50874787527765bcb9646072166f5a;]|RELEASE:[2.6.4|none]
 adafruit/Adafruit-Pi-Kernel-o-Matic: BRANCHES:[pitft:877272efc6546d01e8ee346abace59313c0fdfa3;mkknlimg:c87e9b7f48fb8088be055fc2221226effce388ae;master:c9df7d7712b022d542d36fba8a44d1bc01136c75;]|RELEASE:[none|none]
 adafruit/Adafruit-Motor-HAT-Python-Library: BRANCHES:[master:07cec2046678f72af87c759f191158b9a5f32824;]|RELEASE:[none|none]
+adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a;]|RELEASE:[none|none]
