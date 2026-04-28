@@ -2092,3 +2092,4 @@ adafruit/Adafruit_Mynewt: BRANCHES:[master:3fbe5b011feacd11661cce2840e7099292822
 adafruit/node_mpr121: BRANCHES:[master:3730f618dd343af339218f89183ab621542f9758;]|RELEASE:[none|none]
 adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB: BRANCHES:[master:536d39c0d90da3ef5916985afb3ce4178c219206;]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-3.5-Plus-PCB: BRANCHES:[master:c0683a0be53799e4b8360780cd641cd8a3f13282;]|RELEASE:[none|none]
+adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing: BRANCHES:[master:b4883693227a02cd6affefb6ecc7a748b8150883;]|RELEASE:[none|none]
