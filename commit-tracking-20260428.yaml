@@ -1639,3 +1639,4 @@ adafruit/Uncanny_Eyes: BRANCHES:[master:d2103e84aa33da9f6924885ebc06d880af8deeff
 adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB: BRANCHES:[master:2fa8e23b2653935aaf2ee6c1171b122358689485;]|RELEASE:[none|none]
 adafruit/adafruit-bluefruit-le-desktop: BRANCHES:[master:d601794ba56041afc49df64014fea93ad1406933;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_NeoPixel: BRANCHES:[main:aa82c0724ccb68fbd94605c9f4f09b19c5d2919d;bgr:57c3ea789763d89f05e83f63d1fb08e96af9f7e5;docs_req_fixes:d849c6bb0ec425745e1d45736ec1102a1494dc95;fix_rtd_theme:6f3d157ba653f038f642208263842eb676cb6d34;update:3de90405d2d33486a9a336f431c2da4d0b59d75a;patch:31f05fb24d5a904a33819bc3713a5fa36e5a894f;]|RELEASE:[6.4.2|none]
+adafruit/Adafruit_MAX31865: BRANCHES:[master:02dd3393d9750ca6e227be84b0e3b795a6941c36;gh-pages:e8de9ca0bdc49ffe398bfd078eec3496c0b9cf20;actions:416c4a1c33b03a918034392613515cc782c48618;]|RELEASE:[1.6.2|none]
