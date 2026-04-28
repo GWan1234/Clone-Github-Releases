@@ -1718,3 +1718,4 @@ adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: BRANCHES:[master:e23514c6f9e124a60
 adafruit/Adafruit_CompositeVideo: BRANCHES:[master:5d40b02788e65fc3a5b0423828a9e3f7b94992e7;gh-pages:dfa96101bb408add0f0b0b5cf7c1bec5a6f8f4f8;]|RELEASE:[1.0.5|none]
 adafruit/Adafruit_AMRadio: BRANCHES:[master:c73e6db18bf74f1b96491aba05643d9ec0780b4a;gh-pages:7ff9cfffd8d25b2e38e6da053124aeaa6c558aca;]|RELEASE:[1.0.6|none]
 adafruit/Adafruit_AMG88xx: BRANCHES:[master:d857b8e68dd52026c3dd8e792e7424812ec77043;fix-ci:e61d4f9567dd1ce45efc652c526764b119eeb343;gh-pages:5a4a7836334cb848c6b976d9414f06ea7acdf425;actions:d786eaf431843fdb5d6ca693fe1b164c5859f582;dm-negative:978e036c5a0aa020c24058eca865965cc74b5d01;test-io-travis:a8076f706baeef1c125b066c6ec808f7620f2328;dm-travis-test:5f808a7225c55bff138b795d49efe7dc12eb4e89;]|RELEASE:[1.3.2|none]
+adafruit/Adafruit-PiOLED-128x32-PCB: BRANCHES:[master:41f958463af931f5eb51f1135b290f3378779290;]|RELEASE:[none|none]
