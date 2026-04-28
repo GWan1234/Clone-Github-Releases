@@ -1508,3 +1508,4 @@ adafruit/Adafruit_TMP007_Library: BRANCHES:[master:bf53e8185e55e6b4d4e0d454af0aa
 adafruit/Adafruit-Talking-Clock: BRANCHES:[master:0b87769fcd721489e0e00bf42d8d75846296e5fb;]|RELEASE:[none|none]
 adafruit/Adafruit-2.8-TFT-Shield-v2-PCB: BRANCHES:[master:607bcb39927756fdf6f26de358471e876bbd9bbf;]|RELEASE:[none|none]
 adafruit/wifi-reset: BRANCHES:[master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd;]|RELEASE:[none|none]
+adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492;]|RELEASE:[none|none]
