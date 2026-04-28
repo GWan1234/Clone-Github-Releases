@@ -1879,3 +1879,4 @@ adafruit/adafruit-circuitpython-weekly-meeting: BRANCHES:[main:18542f8b49d1ba31a
 adafruit/Adafruit_CircuitPython_ADXL34x: BRANCHES:[main:1e84a8d3d4905b61ffb19847d98a19290ff6f8d2;]|RELEASE:[1.12.20|none]
 adafruit/nrfx: BRANCHES:[circuitpython-v2.0.0:ab21106ea57b63d97b757a9f17201ddf298ffab0;circuitpython-v3.3.0:d0d0a36419d7b43f33c3d1d4df8b5a44e58c60c3;master:66628bc1b7024a53d0af9ff81a483abc5557871a;]|RELEASE:[none|none]
 adafruit/CircuitPython_Badge_README: BRANCHES:[master:5e6380f8444a7f879b82b3da98b11543c0783791;]|RELEASE:[none|none]
+adafruit/TinyLoRa: BRANCHES:[master:dd6392bbb8a9b8544cf7f79b137d2bec3a58fc6e;gh-pages:602cfd523a7c041b218003c45f23342d51c4ac1b;actionci:2e36a426516380fe9a81dfd5e9bae83e40565c37;init-reset:7b8d1d8e63372f938e936c2fe9a60aec2ea4e4c6;fix-regver-issue:cbcd5d9ddca50942c302df6a00070b1f7c0c6cbb;brentru-patch-doxygen:b6ccbe110a350912dc43daf564adf5312323aa89;]|RELEASE:[1.4.3|none]
