@@ -2332,3 +2332,4 @@ adafruit/Adafruit_CircuitPython_SSD1325: BRANCHES:[main:cc204fc00498d770fc38ba56
 adafruit/pxt-adafruit-boot-sequence: BRANCHES:[master:bb1cd172c3603161afbf5e6062c1d5efc2baac7c;]|RELEASE:[v0.0.4|none]
 adafruit/Adafruit_CircuitPython_RSA: BRANCHES:[main:f4ff522f0a5b9777f44dd3d1672c0a66d53cd0ca;update-badge-url:73756b929f16b344020ddf913a38aba9192987c3;patch-fix:0c425c9c9be096e1cb821036654f3f5ae0f141f8;linting:07a6bc695b9c55d3ea54ac4ddb2875b6bccddc59;]|RELEASE:[1.2.30|none]
 adafruit/Servo: BRANCHES:[adafruit_samd51:962192408a0a2608351fc54e567bca28ccb2b74b;master:25587715ccf7be0c65d551ee8a81f45325a2f143;]|RELEASE:[none|none]
+adafruit/Adafruit-PyRuler-PCB: BRANCHES:[master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0;]|RELEASE:[none|none]
