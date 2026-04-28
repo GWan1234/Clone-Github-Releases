@@ -1520,3 +1520,4 @@ adafruit/Adafruit_Python_MAX31855: BRANCHES:[master:f6d6bfa3e27c16fd3edabf126ad8
 adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs: BRANCHES:[master:04f6f23f995a4a0c8b944c07b2d74d602898c528;]|RELEASE:[none|none]
 adafruit/FreqShow: BRANCHES:[master:53c517eba98ab11b2d119d9e5b366aba9630e432;]|RELEASE:[none|none]
 adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a;]|RELEASE:[none|none]
+adafruit/Adafruit_DotStar: BRANCHES:[master:0acd031b27ace1df0222c66991ee3a4bac806313;gh-pages:6f724a10476fbc9004d935fa0183187523f5660f;]|RELEASE:[1.2.5|none]
