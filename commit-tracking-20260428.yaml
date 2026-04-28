@@ -1528,3 +1528,4 @@ adafruit/Adafruit_BLESniffer_Python: BRANCHES:[master:36a0ac3eb9f287af524575bfed
 adafruit/Adafruit_BluefruitLE_Firmware: BRANCHES:[master:43ee08402fe8d08c079401a5e0b0a97d594daca1;release-0.9.0:9e419abe6f80969ad6784f63414a619b37715530;release-0.9.0-beta:a828e1bff040f2296a57883abba9c23ab7004d4b;]|RELEASE:[none|none]
 adafruit/4-Channel-Level-Shifter-PCB: BRANCHES:[master:a2bfd3a94ed87bce64bd2230732cc06198c33c06;]|RELEASE:[none|none]
 adafruit/Adafruit_DRV2605_Library: BRANCHES:[master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d;]|RELEASE:[1.2.4|none]
+adafruit/adafruit-io-node: BRANCHES:[api_v2:3623b7335e5e9fde3406308534a037ec31ede961;master:8c117eebf66b8396f40ebeb19c1477113e78fbb3;homekit:fb7303eacb301cb11b78ddfe4636d9e347bae514;req-sig:e1f26c365aa8d91a35b8e578d629d5e1e163d8aa;]|RELEASE:[none|none]
