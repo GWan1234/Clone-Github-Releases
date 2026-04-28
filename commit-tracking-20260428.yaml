@@ -2826,3 +2826,4 @@ adafruit/Adafruit-USB-Host-FeatherWing-PCB: BRANCHES:[main:7011deb5316121374db87
 adafruit/Adafruit-MEMENTO-PCB: BRANCHES:[main:8f1e07b4baa4e43749793e3ebebd12005a5a8f96;]|RELEASE:[none|none]
 adafruit/Adafruit_xCA9554: BRANCHES:[gh-pages:1c5824753f6132c0060cde77f90ca500613680c0;main:6e495f7ee0b4e56c794dc8e394f54d89e2a239a5;]|RELEASE:[1.0.0|none]
 adafruit/circuitpython-fonts: BRANCHES:[main:2a386c02da4a978a2694bf6407b7635b908a728b;jepler-patch-1:c2040d23ccbc7c0fdf367c72d39c60b3907cd760;no-images:160edfe19d917e1eb60414769fb3e747bc529bea;prepare-handoff:2f5d05558dad8c0f11105bbb8f5e210933882850;]|RELEASE:[20250418.0.0|none]
+adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: BRANCHES:[main:2815cb84b56f4e79c573aa0c641fadef878a512f;]|RELEASE:[none|none]
