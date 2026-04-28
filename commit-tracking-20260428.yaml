@@ -2142,3 +2142,4 @@ adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB: BRANCHES:[master:5c021a4e25
 adafruit/Adafruit-PowerBoost-500-Shield-PCB: BRANCHES:[master:c6799eecacb8f7873f7a9418e8f4b1bad8a7554d;]|RELEASE:[none|none]
 adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB: BRANCHES:[master:e5267e93a24939f5f07c1e0ae2910dcc9821bb35;]|RELEASE:[none|none]
 adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB: BRANCHES:[master:14a50ca2041bbcccc6a2b1378cb72424603f5d20;]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB: BRANCHES:[master:df97d9269278190e7688ac5e05eb0761db631ef8;]|RELEASE:[none|none]
