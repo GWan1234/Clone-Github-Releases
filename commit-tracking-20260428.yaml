@@ -1549,3 +1549,4 @@ adafruit/Adafruit_MQTT_Library: BRANCHES:[master:684391ddb35000c88ad7ff1490b2034
 adafruit/Adafruit-Pi-Kernel-o-Matic: BRANCHES:[pitft:877272efc6546d01e8ee346abace59313c0fdfa3;mkknlimg:c87e9b7f48fb8088be055fc2221226effce388ae;master:c9df7d7712b022d542d36fba8a44d1bc01136c75;]|RELEASE:[none|none]
 adafruit/Adafruit-Motor-HAT-Python-Library: BRANCHES:[master:07cec2046678f72af87c759f191158b9a5f32824;]|RELEASE:[none|none]
 adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a;]|RELEASE:[none|none]
+adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: BRANCHES:[master:efe89824b3574463ebca864a2494f7c86fb5c82b;]|RELEASE:[none|none]
