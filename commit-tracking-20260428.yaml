@@ -1390,3 +1390,4 @@ adafruit/Adafruit_TLC5947: BRANCHES:[master:605cc440ca9d4a6ea02f399b2a616c007e86
 adafruit/Adafruit_TLC59711: BRANCHES:[master:b26853a3dfb9b6f6d128814aceae84dedc0cd44a;gh-pages:b406ded61b84c17ab4ae94db83ec2a7aa36f17e9;busio:6d7b57c031fd6c5e2c835c853b5f30daf8dcfd0a;]|RELEASE:[1.3.4|none]
 adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410;]|RELEASE:[none|none]
 adafruit/Adafruit_NeoMatrix: BRANCHES:[master:7b612d10d3101db91ab66df1b14ab9d8ff9fd562;gh-pages:2f91c406cee485144061914b1429fa9c5eb20561;]|RELEASE:[1.3.3|none]
+adafruit/pianoglove: BRANCHES:[master:93e689909e590c3e22e14123814b70cb38339a99;pianoglove-midi:fed157809528b3d21451ebb251753ae781a06bde;]|RELEASE:[none|none]
