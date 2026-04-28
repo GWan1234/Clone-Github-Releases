@@ -1439,3 +1439,4 @@ adafruit/Adafruit-NeoPixel-Ring: BRANCHES:[master:2f25091f4bd556fc9af91edb441b00
 adafruit/Adafruit-PCB-Ruler: BRANCHES:[master:722a89a839cd30a00da8f9e0d61cb9332e491f55;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:0016765907bdbb98e76b3ddb5a29d213b046e619;]|RELEASE:[none|none]
 adafruit/Adafruit_BLE_PinIO: BRANCHES:[gh-pages:e3d2c88b64577ecce878c29fbde0f00718c74fcc;actionci:16aee47bb8f93e3ac28cbab4bc2f8358b85198bf;master:58aae290684bee3207eb5d27f4d780054eccc1d8;refactor_nrf51822:17ef23c3b3ed336c9a8e5b2c6ac2f40befe2d4bd;]|RELEASE:[1.1.2|none]
+adafruit/Adafruit_9DOF: BRANCHES:[master:e7e44d5024be020b462db87f6820841d0de44417;gh-pages:ad4db3bce26a437a60dbf8cab3cc58dba9d09a1d;actionci:1016a9767650fdfac4580688236726b574daad7f;]|RELEASE:[1.1.4|none]
