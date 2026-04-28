@@ -2894,3 +2894,4 @@ adafruit/Adafruit_CircuitPython_Base64_Stream: BRANCHES:[main:974e989547b303f7be
 adafruit/Adafruit-Feather-RP2040-Adalogger-PCB: BRANCHES:[main:dbe392caf8440e8d806dbed88806003d40c765d7;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_HDC302x: BRANCHES:[main:57fa5a85f572b6feafe87ef9b67f860fb03331f1;]|RELEASE:[1.0.9|none]
 adafruit/Adafruit-RS232-Pal-PCB: BRANCHES:[main:653d1bb7c6cf2d9efe381b85ff275bf0feefdb17;]|RELEASE:[none|none]
+adafruit/Adafruit-Infrared-IR-Remote-Transceiver: BRANCHES:[main:d449f19025cf3325f29dc6c28da059d09875721d;]|RELEASE:[none|none]
