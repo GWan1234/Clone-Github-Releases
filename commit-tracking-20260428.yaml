@@ -1961,3 +1961,4 @@ adafruit/PyCon2019: BRANCHES:[main:2eb482b7348bd1fd70c8da4203dd4100d7e47d48;pdf-
 adafruit/Adafruit_IO_Documentation: BRANCHES:[dependabot/bundler/addressable-2.9.0:ffdd3f613d3e19f12a6c6113b3295ae217f7c12a;dependabot/bundler/rack-2.2.23:e20718da467b72fea7da300e99ab9fd522441391;gh-pages:b8918d45d3984ab28243953d9df4d877627a3b6f;main:cda4c3e0f5af294a3d5d87c70fa21cafe7f318dc;update-kramdown:d8a86b8aa1b62e2f2245496e69cba891400816a8;]|RELEASE:[none|none]
 adafruit/circuitpython-default-files: BRANCHES:[main:850cb39997d167a14265bf8ce4fc04e10465489a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TPA2016: BRANCHES:[main:9071620e91531769de9377cc110e2b5c71d14a05;doc/add-typing:22a1326dbd05c8509b5b72acf2a5fb63e54f582a;]|RELEASE:[1.1.23|none]
+adafruit/Adafruit_Arcada_GifDecoder: BRANCHES:[master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc;]|RELEASE:[1.3.3|none]
