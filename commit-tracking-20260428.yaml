@@ -1466,3 +1466,4 @@ adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b
 adafruit/TeeOnArdu: BRANCHES:[master:29ad8742eaa81aa76ed1c73be77ef67e4432db83;30pins:5946367beec54ac208f16840dfca701a66502225;]|RELEASE:[none|none]
 adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB: BRANCHES:[master:e3f77c8c186fbdbadf4f33629ca83cec93f3f731;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64;]|RELEASE:[none|none]
+adafruit/Adafruit-BMP180-PCB: BRANCHES:[master:b47479ee8a43e5b217078e9e3b3a166479a68f7e;]|RELEASE:[none|none]
