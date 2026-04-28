@@ -2798,3 +2798,4 @@ adafruit/Adafruit_VCNL4020: BRANCHES:[main:c467fcad07a18a9625160afea092b2a0cf784
 adafruit/Adafruit_AD569x: BRANCHES:[main:6e725d0efbe4010b3971d011c6df82f64d6b0541;gh-pages:8a1bb2010d74e81468323ca153aae8d9d906f305;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit-STEMMA-Piezo-Driver-Amp-PCB: BRANCHES:[main:678bf96ec53107bd831f84c2aebca380a3bd4157;]|RELEASE:[none|none]
 adafruit/certificates: BRANCHES:[main:d7c6385f671665820ea2d307b0a94f9e61ef6f91;]|RELEASE:[20250209|none]
+adafruit/Adafruit-Metro-M7-with-microSD-PCB: BRANCHES:[main:d7e0bc2ff4d5b9304a915f01442e9cbdc6535e0e;]|RELEASE:[none|none]
