@@ -2629,3 +2629,4 @@ adafruit/Adafruit_CircuitPython_BLE_File_Transfer: BRANCHES:[main:14c0870bc915ab
 adafruit/Adafruit_CircuitPython_FunHouse: BRANCHES:[main:6f7d296ac16ee90bfbffa538939e1675baca3d56;]|RELEASE:[2.4.4|none]
 adafruit/Adafruit_CircuitPython_NeoKey: BRANCHES:[main:73129c60182fe2534332af4a65a12ad76094ee6c;rainbowio:499778876447543b285f427b51378f4aea90e448;]|RELEASE:[1.1.9|none]
 adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8;]|RELEASE:[none|none]
+adafruit/circuitpython-action-library-ci-failed: BRANCHES:[main:c274cd6e41b7ab9f922cc856ea5084e7827493ec;]|RELEASE:[none|none]
