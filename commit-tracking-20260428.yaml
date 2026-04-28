@@ -2043,3 +2043,4 @@ adafruit/Circuit-Playground-Arduino: BRANCHES:[master:e931ce821578298567acb5898b
 adafruit/Adafruit-MCP4725-PCB: BRANCHES:[master:0c89d205fcd7d0a1269a4f57c5cdfa0ce09e54dd;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MCP3008: BRANCHES:[master:03232cad6b888faf3dc2ff76e548c5fa3ffe3ae0;]|RELEASE:[none|none]
 adafruit/scale: BRANCHES:[gh-pages:a9416b52382fcf49ee9b8515be71c65183121622;]|RELEASE:[none|none]
+adafruit/WiFi101-FirmwareUpdater: BRANCHES:[master:57663e575bd0b77fa45d301e8389e829f340c668;]|RELEASE:[none|none]
