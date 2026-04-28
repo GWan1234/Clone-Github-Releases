@@ -2505,3 +2505,4 @@ adafruit/Wippersnapper_Boards: BRANCHES:[add/expanders-boards:e9dad3d64a3599fab1
 adafruit/Adafruit_Blinka_PyPortal: BRANCHES:[main:84773da59ce0aad33437b72d37c69318c26bb860;]|RELEASE:[2.0.1|none]
 adafruit/Adafruit_CircuitPython_BH1750: BRANCHES:[main:65cae1fa84a63c10e563ca4cd49273938ce877a3;patch-fix:9d5fabd77185a81cf06451b3fbdbaf518a1f4727;]|RELEASE:[1.1.19|none]
 adafruit/Adafruit_MMC5883: BRANCHES:[gh-pages:20b45792da415cd3a3efdfa63ee53d53a743cd65;master:d9e02bc91af377df917333fdd66b6cff8300ccff;fix-ci:1cb6e84ceeaa965c2f9013bfc07778d52841ce10;]|RELEASE:[none|none]
+adafruit/Adafruit-TPS61023-PCB: BRANCHES:[master:82b5a33a1900a5c13849029bc84e7856a44086e0;]|RELEASE:[none|none]
