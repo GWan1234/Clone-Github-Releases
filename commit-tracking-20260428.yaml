@@ -1239,3 +1239,4 @@ adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970;]|RELEASE:[none|none]
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b;]|RELEASE:[none|none]
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3;]|RELEASE:[none|none]
+adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:1203bb861fc49a53dd95dcb425c5a1d59985b9b0;]|RELEASE:[none|none]
