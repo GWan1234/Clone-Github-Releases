@@ -2071,3 +2071,4 @@ adafruit/Adafruit_Python_ADXL345: BRANCHES:[master:d897bcaa16b5fe365463ae0c2791d
 adafruit/Adafruit_Python_LSM303: BRANCHES:[master:b286a95e81e627dbc2b262b90a475ec2f4bb6f4f;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_VCNL40xx: BRANCHES:[master:f88ec755fd23017028b6dec1be0607ff4a018e10;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit_Python_TCS34725: BRANCHES:[master:996396cd095522d788b7b15d20fd44e566c8464e;]|RELEASE:[1.0.3|none]
+adafruit/Adafruit_Python_WS2801: BRANCHES:[master:d9fa0f9ce1577a142f6dd5a974de3ba201351545;]|RELEASE:[none|none]
