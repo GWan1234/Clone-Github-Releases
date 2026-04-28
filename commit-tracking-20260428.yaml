@@ -2684,3 +2684,4 @@ adafruit/Adafruit_VL53L1X: BRANCHES:[main:77801c2692058d0b40d7b29605ceae7604e4e8
 adafruit/Adafruit_CircuitPython_UC8151D: BRANCHES:[main:9a37fc43eeb277f698614e8d657c4104a75a44aa;detached:b9bd61a0bbef1f4705abb831739d4888f1dcec95;patch:4975f08a192f1cb19066d84637ab6763c7e319b9;]|RELEASE:[2.0.6|none]
 adafruit/Adafruit-Proximity-Trinkey-PCB: BRANCHES:[main:6e99b157c7857fc71afc03e713dce83d44b6d750;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Radial_Controller: BRANCHES:[main:c49212d5694ae8a17d1a1e6dfe8a04f1a7a51e0e;]|RELEASE:[1.0.19|none]
+adafruit/broadcom-peripherals: BRANCHES:[main-build:ec1043800fc987f7067fc07615193439843695d6;main:6d990ac1b16a8856fe031fa8c0e392c150d52a73;]|RELEASE:[none|none]
