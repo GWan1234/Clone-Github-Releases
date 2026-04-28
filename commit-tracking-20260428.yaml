@@ -1929,3 +1929,4 @@ adafruit/Adafruit-Radio-Bonnet-PCB: BRANCHES:[master:dd0cb11d273a3e95d90786b02c9
 adafruit/Adafruit_CircuitPython_BluefruitConnect: BRANCHES:[main:ca2a3685f6aae19e221e386bdb28c1450d0a27d3;patch-fix:2370266e60a10f079d9890a8639ea03b37df77f4;REUSE:15b5fe922a0b965f2264704ebdfbc9001451e433;]|RELEASE:[1.3.2|none]
 adafruit/Adafruit_CircuitPython_MIDI: BRANCHES:[main:6f5d6812474a0460e9418278ea7da1e2269d2c0d;useful-repr:f89b137f8800e7b6b70521e20a9597504d9e7c21;patch:27ee05b34e85dd3705ff9221a147eff5f4f8fd38;test-lint:2de0cece802129d6d07d2c23f5e3badd0c060d23;]|RELEASE:[1.6.0|none]
 adafruit/Adafruit_CircuitPython_ST7735: BRANCHES:[main:d333d4ad28ffe933e8df7c679e95b97e3df1ea86;setup-py-disabled:3814f672f5565e7f9c60f5f5f6d32e90c90da96d;]|RELEASE:[1.2.22|none]
+adafruit/Adafruit_CircuitPython_ILI9341: BRANCHES:[main:58e68cc13e42c069a9277fbeaa3eaeae77d12b9e;setup-py-disabled:0a4d1e8cf2d71fd0b9e8f471ad6bd4af3d953d60;]|RELEASE:[2.0.4|none]
