@@ -1685,3 +1685,4 @@ adafruit/micropython-adafruit-framebuf: BRANCHES:[master:26556e49935521cde014946
 adafruit/Adafruit_Media_Converters: BRANCHES:[master:85a50a03dfeef5b0d3a33c6124e940c19b9e550c;]|RELEASE:[none|none]
 adafruit/Adafruit_Curie_Bot: BRANCHES:[master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae;]|RELEASE:[none|none]
 adafruit/single_chan_pkt_fwd: BRANCHES:[master:aab8d308ea2abd5f4c39ca74a4493097a6632245;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Thermistor: BRANCHES:[main:86b152556138624979cad2df3210cadc38b5b344;]|RELEASE:[3.4.18|none]
