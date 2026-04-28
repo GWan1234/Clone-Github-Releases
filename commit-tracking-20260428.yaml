@@ -1689,3 +1689,4 @@ adafruit/Adafruit_CircuitPython_Thermistor: BRANCHES:[main:86b152556138624979cad
 adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679f676e0af41958bece6294b05;]|RELEASE:[none|none]
 adafruit/Adafruit-Arcade-Bonnet-PCB: BRANCHES:[master:20446a9dc6a3f9b86abfc56c499863b030211beb;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_LIS3DH: BRANCHES:[main:cd40b482a098a62ecce1b4c62a1f1930be984e16;]|RELEASE:[5.2.10|none]
+adafruit/pt100rtd: BRANCHES:[master:94a8c8835d93a4050d7681da64e976a6458f78f6;]|RELEASE:[none|none]
