@@ -2126,3 +2126,4 @@ adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: BRANCHES:[master:0c7bd1cb7a409
 adafruit/Adafruit-PiTFT-Plus-3.2-PCB: BRANCHES:[master:dcd017ebe4af66390dcd68f1515990550651461a;]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB: BRANCHES:[master:fd8656d030e89322835eb4495fd4475d672e7f96;]|RELEASE:[none|none]
 adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e86d61f061a08a52dabeede7d3;]|RELEASE:[none|none]
+adafruit/Adafruit-DRV8871-Breakout-PCB: BRANCHES:[master:4183ffe41cac746a327c60825b18fa814e081e0f;]|RELEASE:[none|none]
