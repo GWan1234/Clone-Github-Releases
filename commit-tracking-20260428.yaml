@@ -2310,3 +2310,4 @@ adafruit/Adafruit_CircuitPython_CursorControl: BRANCHES:[main:04a2e976649dbd69ee
 adafruit/Adafruit_CircuitPython_PyBadger: BRANCHES:[main:101e3a8709e3f9c1374cd196dd32f32d256f2ee1;pypi:be01f4235543c71f777cd5f00e007605ab4bf149;updates:d15c90b87e7e0d34a5e381f5c262c643443f8c0e;patch-fix:953991edad218f4f6021bb32289b8351ab204f62;REUSE:27ef4771423a6baf2297009ff9286e12b28e115b;]|RELEASE:[4.0.9|none]
 adafruit/Adafruit-Airlift-Shield-PCB: BRANCHES:[master:2f39914e1258ad189924d53cba77aa766780e73a;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Debug_SPI: BRANCHES:[main:3583d66af8f29527b1021f8d8dd9f7398ae35789;]|RELEASE:[none|none]
+adafruit/Adafruit_TFLite_Micro_Speech: BRANCHES:[master:b5b1f4fb93587e3fc0a66cecb3d43b5dce14fc3b;updownmodel:a3fb431d02937a2d4c2a25a50748977fef9f707f;4commands:2775e407e85f32dc3d83533a38787ea7c09a49f4;gh-pages:1c6b27599c5536c7603db200409504cefb02cb70;]|RELEASE:[1.16.1|none]
