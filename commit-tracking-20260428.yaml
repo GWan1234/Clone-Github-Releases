@@ -1384,3 +1384,4 @@ adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:cf306ed7f9f24111d0949dd
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;]|RELEASE:[none|none]
 adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;]|RELEASE:[none|none]
 adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;]|RELEASE:[none|none]
+adafruit/Adafruit_ILI9340: BRANCHES:[master:00e5efe5d5c95f1255e55031b57f17288cf3c840;]|RELEASE:[1.0.0|none]
