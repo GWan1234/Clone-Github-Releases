@@ -2553,3 +2553,4 @@ adafruit/Adafruit-LTC4311-PCB: BRANCHES:[master:8fb4ee69175a7ddb4128edbb7d9d79a7
 adafruit/Adafruit-MIDI-FeatherWing-PCB: BRANCHES:[master:d060360d31ba77963443121e71bae136c882a788;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_DisplayIO_SH1107: BRANCHES:[main:0bed196e7ca903701708845e723de72f3b2edc2c;dhalbert-patch-1:19030c629d876a995eba7ef1658dc04176bb6174;]|RELEASE:[2.0.6|none]
 adafruit/Adafruit_CircuitPython_TLA202x: BRANCHES:[main:0096974de1c9d85fa9483c5bbb10ae1bcb40469a;]|RELEASE:[1.0.23|none]
+adafruit/Adafruit-BrainCraft-HAT-PCB: BRANCHES:[main:1bc88c224a28d02f727879ffe7213ad599972443;]|RELEASE:[none|none]
