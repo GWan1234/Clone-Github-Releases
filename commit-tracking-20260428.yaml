@@ -1874,3 +1874,4 @@ adafruit/Adafruit_MLX90393_Library: BRANCHES:[master:5174d8c6a166ad5c9df7554ad53
 adafruit/Adafruit_CircuitPython_LIDARLite: BRANCHES:[main:749c0a572bdefb1f6efec59afa5b71ec0f9c3399;]|RELEASE:[1.3.14|none]
 adafruit/Adafruit_CircuitPython_FRAM: BRANCHES:[main:eebbba543a026140ac4a72f189fbfb85637e52d6;biggerfram:a8ee6e2a9d0386eebbc8f117acf6e17c228ef200;]|RELEASE:[1.3.29|none]
 adafruit/Adafruit_CircuitPython_MLX90393: BRANCHES:[main:89aed8d61471adbc27249f84f78801acea4e21ee;setup-py-update:17ab231dc66a4b9abbf18f8d36d1f6a6694cf027;]|RELEASE:[2.4.2|none]
+adafruit/Adafruit_CircuitPython_Slideshow: BRANCHES:[main:6fa2ef18237b549a7a52345fecedc88bc464b2af;patch-fix:70eed8492c7980d9f8ab30bb18df5ec9cf607867;REUSE:92966b3ddb75fb5f04b9eac9ad98bea9681d5478;revert-30-join_paths_instead_of_concat:c5d72727c371ab88ecc3882d3dde052e106d076f;]|RELEASE:[1.8.9|none]
