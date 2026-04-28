@@ -2522,3 +2522,4 @@ adafruit/Adafruit-ICM20948-PCB: BRANCHES:[master:de820cb677414d3e05c9b1a9fd5cef5
 adafruit/Adafruit-AS7341-PCB: BRANCHES:[master:a3fdedb61db3047458d89393f1c8f4b93204df81;]|RELEASE:[none|none]
 adafruit/Adafruit-ST25DV16-PCB: BRANCHES:[main:217428893fc24414be4f14eb7e002b759bfcd0ba;]|RELEASE:[none|none]
 adafruit/Adafruit-BH1750-PCB: BRANCHES:[main:0b61eb2c8c54254a5685adc044fbf7c5ab968e56;]|RELEASE:[none|none]
+adafruit/Adafruit-MS8607-PCB: BRANCHES:[main:56dfd5af979fb63cff98ebcfe2170644b4439430;]|RELEASE:[none|none]
