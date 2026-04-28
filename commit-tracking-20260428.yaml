@@ -1814,3 +1814,4 @@ adafruit/Adafruit-WINC1500-Shield-PCB: BRANCHES:[master:5b4642c624ffe549731ff9aa
 adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: BRANCHES:[master:e836025c26c8dcfa3fab3e9aa7756542770f4849;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Fingerprint: BRANCHES:[main:b2d9a4842b8fca7fa51fde03aed8699d4718350b;issue-36:1c56c2c6e266b0e8ce55a74dca3178eee08a33b2;]|RELEASE:[2.2.25|none]
 adafruit/Swift-Playground-Book-For-Bluefruit-Template: BRANCHES:[master:b80c03e276af5431a538c52104cb3df312f129e7;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_VL53L0X: BRANCHES:[main:63c8ab2833fc5b7a257ac9601a748d9538abb0da;stemma_i2c:fcaea82e0a5bb0567abc43f3ec80291963119cc8;patch-fix:eac5e85c718af2dc86e61a39536b03cc5de47b2a;]|RELEASE:[3.6.19|none]
