@@ -1314,3 +1314,4 @@ adafruit/Adafruit_SSD1325_Library: BRANCHES:[master:d86c98d66a10dcfecb59e99cd133
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: BRANCHES:[master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9;]|RELEASE:[none|none]
 adafruit/2.8-TFT-Breakout-PCB: BRANCHES:[master:27ec9e198e64fb72922ecde4f1b3d66e50c392c9;]|RELEASE:[none|none]
 adafruit/Adafruit-Ultimate-GPS: BRANCHES:[master:70430c1240b49c1e054f1edee84ad0b5ec8ebe56;]|RELEASE:[none|none]
+adafruit/Adafruit-Programmable-Piggy-Bank: BRANCHES:[master:f6b7d523e648ca6d012c6636367265c2a3ac1c33;]|RELEASE:[none|none]
