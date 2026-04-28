@@ -1728,3 +1728,4 @@ adafruit/Adafruit_CircuitPython_CharLCD: BRANCHES:[main:2a44a948172e66c5e3358721
 adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB: BRANCHES:[master:7ada397dddd065125d27c9d957d58b2a96cdf6d7;]|RELEASE:[none|none]
 adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB: BRANCHES:[master:afaa9a44856f370313c9509650e84d1f5b4b9b28;]|RELEASE:[none|none]
 adafruit/Adafruit-PCF8523-RTC-Breakout-PCB: BRANCHES:[master:4ec7e14d667a2d075430da0980c35c4f049e860b;]|RELEASE:[none|none]
+adafruit/Adafruit-Metro-M0-Express-PCB: BRANCHES:[master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125;]|RELEASE:[none|none]
