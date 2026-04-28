@@ -2492,3 +2492,4 @@ adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB: BRANCHES:[master:63ee954
 adafruit/Adafruit_PCF8591: BRANCHES:[master:ef72f79835dbb6ca9e75d9c3684288a2cb57b9e5;gh-pages:49f3d3d1431f0adebd62977895d97e66b0798b7f;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit_CircuitPython_SHTC3: BRANCHES:[main:19acd2177d8c3c98b56fa04a7fc46f27acf06270;]|RELEASE:[1.1.22|none]
 adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB: BRANCHES:[master:5e6b23348bc0b392c68f590d13ea71fd63684273;]|RELEASE:[none|none]
+adafruit/Adafruit-LSM6DS33-LIS3MDL-PCB: BRANCHES:[master:4148a01a7d9c997654afe7815ee746f692f3a1d4;]|RELEASE:[none|none]
