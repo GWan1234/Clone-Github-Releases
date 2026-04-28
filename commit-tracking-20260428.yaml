@@ -2466,3 +2466,4 @@ adafruit/Adafruit-Feather-nRF52840-Sense-PCB: BRANCHES:[master:afeb0acb67e98c807
 adafruit/Adafruit_CircuitPython_BLE_Adafruit: BRANCHES:[main:6e5eacee67c463fdf548df592e8d2e8e9a70b01c;]|RELEASE:[1.4.16|none]
 adafruit/Adafruit_CircuitPython_FONA: BRANCHES:[main:ef0f3adff57135d4bdfaef7caa20bff61aa84c59;fix_rtd_theme:32a49567c618ee31ba37f95635ce28bedc6866d9;patch-fix:6b113b2c195c7f6b8ed3a168a2d8d61d4807612b;]|RELEASE:[3.0.12|none]
 adafruit/Adafruit_AHTX0: BRANCHES:[master:81dae1433eb0aaf8eafbadbc48669bad104d367c;gh-pages:768c2ada0f9e3052e9b87f0d8253e652b09d36f6;calibrate_may_fail:29e2759ddedefadccb5100bb8b50e04edf25301c;ahtx0:7dfdba888e496c4073acca619fc212610361c856;]|RELEASE:[2.0.6|none]
+adafruit/Adafruit_CircuitPython_DS1841: BRANCHES:[main:bc1ce22a3bb9bfbe10ed5ed482992a4417de0718;patch-fix:356b309ee9b77f3baab94c688283d6c2bf3afb1b;update-rtd-link:bc9588fef95be425af113c3578824e8bbd8f716e;]|RELEASE:[1.0.25|none]
