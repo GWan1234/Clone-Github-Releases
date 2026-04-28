@@ -1617,3 +1617,4 @@ adafruit/ci-arduino: BRANCHES:[ci-wippersnapper-picotool-reset:0cd1c6ae49cfb2a07
 adafruit/Adafruit_HDC1000_Library: BRANCHES:[master:e1622912148faba94e5c44f33bf0b9526d58c2a0;gh-pages:c6b734ced6ae17d1d561a2737e31afff5b55c5fa;busio:3178b20b72df3e5e45535bc4af4240bf52a0204f;]|RELEASE:[2.0.2|none]
 adafruit/gpio-stream: BRANCHES:[master:a14e0f5a1cf2fadbed047a80cdc4118b555df842;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_BNO055: BRANCHES:[master:ce9d7ae76cb23b8962d2dddc48f943bd8416831d;]|RELEASE:[none|none]
+adafruit/Adafruit-INA169-Breakout-PCB: BRANCHES:[master:8c1084623d75d41d05dd5070c191f7a1176434ca;]|RELEASE:[none|none]
