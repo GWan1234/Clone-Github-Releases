@@ -1761,3 +1761,4 @@ adafruit/ArduinoModule-CMSIS-Atmel: BRANCHES:[adafruit:8ca10699bd86a856b5e21f78f
 adafruit/STEMMA_LiquidCrystal: BRANCHES:[master:b91a554ae98a61674beeb8170b5b9dea34fea0ba;pr_1517:87013086c3379180aadddc8080f7afe83df5c75c;pr_87:bc763f93d961b5fdcd2bae469f21b1e86148ad9e;pr_4450:9073940b8ddeabdf846632bba0f903d90d058863;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MAX7219: BRANCHES:[main:2fb2deec466ee8572fb6dcf6a8e843cb72e21e39;patch-fix:9aa2985fbb5cb40553ed25eb5600493479513381;Tasm-Devil-master:c8f87f0222a3714b08046897ec0415ac17162ea4;]|RELEASE:[1.5.21|none]
 adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB: BRANCHES:[master:7a19d15939cb776f1931c3b4b38ac35509f06bd3;]|RELEASE:[none|none]
+adafruit/Adafruit_DAP: BRANCHES:[master:8ca356d92e73d0d1005534030849e7ca37324805;actionci:8860fa39c165541ac26a116529589d0c77cac675;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124;]|RELEASE:[1.8.3|none]
