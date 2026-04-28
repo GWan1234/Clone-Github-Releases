@@ -1322,3 +1322,4 @@ adafruit/Adafruit-PWM-Servo-Driver-Library: BRANCHES:[master:a98850b815bf9696c8f
 adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab65d5afca;]|RELEASE:[none|none]
 adafruit/Adafruit-Flow-Meter: BRANCHES:[master:93f998dd91b6aef33e1e965beb9f8c4c92cf15a5;]|RELEASE:[none|none]
 adafruit/Adafruit_NFCShield_I2C: BRANCHES:[master:c48e16ab35b373d9e33efd500879aa0e43490963;]|RELEASE:[none|none]
+adafruit/Adafruit_MCP4725: BRANCHES:[master:705778cc8f1918880063b07547e78c6ded409a88;gh-pages:da58ca904a3143944763eb82ad6627a6d8ef25a5;action:a4fecc0483a8336546aceb4ceb7cf8a69ecd1b62;]|RELEASE:[2.0.2|none]
