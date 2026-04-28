@@ -1289,3 +1289,4 @@ adafruit/2-axis-joystick-breakout-board-with-mounting-holes: BRANCHES:[master:1d
 adafruit/HT1632: BRANCHES:[master:af146db458c21f6136448716f2c9cd69a14ea355;gh-pages:58e09e9c8965032cd5fbc57b39f1adf9ca6fc671;actionci:d8f845b03401e012ca1dad4e58d1782af273907b;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit-Thermal-Printer-Library: BRANCHES:[master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d;]|RELEASE:[1.4.1|none]
 adafruit/Fritzing-Library: BRANCHES:[master:5f455d53061c0360c13ab5f214850b87a4c5d868;]|RELEASE:[none|none]
+adafruit/Adafruit-X2-Time-Ball: BRANCHES:[master:3eb5d4a473b991b88267ea914ef938100e9baf3c;]|RELEASE:[none|none]
