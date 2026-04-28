@@ -1892,7 +1892,7 @@ adafruit/Adafruit-Prop-Maker-FeatherWing-PCB: BRANCHES:[master:f0e322ee15e06fe78
 adafruit/beaglecap: BRANCHES:[master:35dc8cdb19a573dd7241f13615f7aff3cfaf2298;]|RELEASE:[none|none]
 adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB: BRANCHES:[master:0521054d17cd04841d5a3ae2a54e3c76e21c9264;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure: BRANCHES:[master:3e6e7d4f37c7df0f40a096f67ab64dfadd4c15db;]|RELEASE:[none|none]
-adafruit/circuitpython-org: BRANCHES:[gh-pages:2cd2882e71049b6b5cfeb5e951042471fb86aefa;main:11b96cee30f09d8e28ee945f2405cd79d26f535d;create-pull-request/patch-1775003222:70207e08363a64bc81dfd98f0cdcd23a2b2ee882;]|RELEASE:[none|none]
+adafruit/circuitpython-org: BRANCHES:[gh-pages:e03eb4b4f97b6656b7b99599f98e513b72c9ba45;main:11b96cee30f09d8e28ee945f2405cd79d26f535d;create-pull-request/patch-1775003222:70207e08363a64bc81dfd98f0cdcd23a2b2ee882;]|RELEASE:[none|none]
 adafruit/Adafruit-Sound-Samples: BRANCHES:[master:7675c60a47c025ab62f77b699d6460d22bb963b1;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_74HC595: BRANCHES:[main:8fe7ffa3cd0a7b656575c667b69155497e9137cc;discord-fix:3ddfee13b6ae106c98bc1573dd08cc894e25c014;]|RELEASE:[1.5.2|none]
 adafruit/Adafruit-STEMMA-Soil-Sensor-PCB: BRANCHES:[master:b20a708dd015cb81da8740460d47aae1555a1781;]|RELEASE:[none|none]
