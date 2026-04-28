@@ -2170,3 +2170,4 @@ adafruit/micropython-adafruit-tcs34725: BRANCHES:[master:96f9936317130f8a140b4e6
 adafruit/micropython-adafruit-tsl2561: BRANCHES:[master:4dc704265ec783d8949130698140c85d8d2d7375;]|RELEASE:[1.0|none]
 adafruit/Adafruit-FPC-SMT-Adapter-PCBs: BRANCHES:[master:912e2d995534371c4cf32d994de5610cb6000167;]|RELEASE:[none|none]
 adafruit/Adafruit_Si7021: BRANCHES:[master:223a4b93942404bdf68ea8c107e86a1dc5d3c379;gh-pages:43eb0d14c7dadd554a2124cccaf5d284ae637057;actionci:2ed011d2b28f9296d15b31f12e753d54d9661ea5;helmut64-ECO_POWER:a6e6631442e024493aa8e6907b18ca6d60ce9e82;]|RELEASE:[1.5.3|none]
+adafruit/fritzing-parts: BRANCHES:[nightlyParts:964eea03a6b24bb6e19752a90b7f0c6188b36911;test:f0a661209c21f1fa07ebc3e765a2d91d7df1579d;master:504ab2c6710024789d077f7bd6305eddf74a5732;gh-pages:18db0274a1ade942d6643fca95414f0c7830501a;generic-smd:186b9479498e5124caecaf409763c80c8788adc6;travis:6698c45ee1ba4087cab75d777a62cf9b081eb8f3;]|RELEASE:[none|none]
