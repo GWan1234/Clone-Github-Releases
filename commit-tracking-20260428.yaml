@@ -1589,3 +1589,4 @@ adafruit/Adafruit-LSM9DS0-PCB: BRANCHES:[master:f42885935255b68560c1eaf7bc05a538
 adafruit/adafruit-io-basics: BRANCHES:[master:a00668a326f1e83d40a2281af3574021fa79eddd;]|RELEASE:[none|none]
 adafruit/pubsubclient: BRANCHES:[master:5bf68973085fff27841bfe9256e9bae88029845d;gh-pages:46572927e71f4772d01ece0105ab0748954e9804;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Isolator-PCB: BRANCHES:[master:826956acd5fa3ed2c04f8f39ebb1be42f8f25854;]|RELEASE:[none|none]
+adafruit/Adafruit_Adalink: BRANCHES:[master:071ee995192a673bef2262bfc3aaae9b6195f4e2;]|RELEASE:[2.3.0|none]
