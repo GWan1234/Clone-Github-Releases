@@ -2708,3 +2708,4 @@ adafruit/Adafruit_CircuitPython_floppy: BRANCHES:[main:6f044245ac290375e7044d782
 adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB: BRANCHES:[main:9e9f52790239a755241bfee62628dc8b3c713c63;]|RELEASE:[none|none]
 adafruit/Adafruit-CP2102N-Friend-PCB: BRANCHES:[main:1c29f780bdc7503e18c8b6d29d1f8fb7cc1510bb;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23017-PCB: BRANCHES:[main:f73186f1b593f7a5a3e710d9ced889005b580c38;]|RELEASE:[none|none]
+adafruit/HID: BRANCHES:[master:ea0c514d9129506700cb6a1df5dbc518f48c5031;]|RELEASE:[none|none]
