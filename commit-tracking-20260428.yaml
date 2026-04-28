@@ -2134,3 +2134,4 @@ adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB: BRANCHES:[master:bb61
 adafruit/Adafruit-Pi-Cobber-PCBs: BRANCHES:[master:8a30864c6cfe7dfd3faf86a2778dadc0db75f96f;]|RELEASE:[none|none]
 adafruit/Adafruit-FT232H-Breakout-PCB: BRANCHES:[master:78919715d58046e883cc4fe47f90c6634582adf7;]|RELEASE:[none|none]
 adafruit/Adafruit-7-HDMI-Backpack-PCB: BRANCHES:[master:8285985bc9f0eac63062c7d2f8349ac4be4ecb68;]|RELEASE:[none|none]
+adafruit/Adafruit-Ethernet-FeatherWing-PCB: BRANCHES:[master:1f950d49ed57129f6c33656a3ac37ad7d21d757b;]|RELEASE:[none|none]
