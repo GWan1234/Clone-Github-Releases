@@ -1935,3 +1935,4 @@ adafruit/WiFiNINA: BRANCHES:[master:1e0c3503dbdaec40bf125cb2835928d82bb9cab8;sup
 adafruit/Adafruit_CircuitPython_Touchscreen: BRANCHES:[main:43bd088136f42820f4c1f3177daaade620f3b0d7;patch-fix:1bcc7f2f2b749654f96d8066a8a2683b73fb7598;]|RELEASE:[1.3.8|none]
 adafruit/awesome-feather: BRANCHES:[main:3c4b663a1ca05af01500aef603a0a4955d1de7e6;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BitbangIO: BRANCHES:[main:3fdd397507cda2020494890c4d63b5a542b02146;docs_req_fixes:65b87a80be4ad21411cae9243722ceefff2b1dc4;fix_rtd_theme:4d3b269dbfc9f1d4af331ef007131c9bdceadf81;REUSE:4cbaa6bafdd315ccc9533858fadddc58d8408575;]|RELEASE:[1.3.22|none]
+adafruit/Adafruit_ADXL343_PCB: BRANCHES:[master:13dce5a5963041d7d7f60492da459e00a96f4344;]|RELEASE:[none|none]
