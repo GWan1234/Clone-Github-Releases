@@ -1767,3 +1767,4 @@ adafruit/echo_2-xl: BRANCHES:[master:6225f233c03bc7b32c5f5cb6f756521254c34804;]|
 adafruit/Adafruit-APDS9960-Breakout-PCB: BRANCHES:[master:23880074d26df8524399f323e016680ad82dc69f;]|RELEASE:[none|none]
 adafruit/Adafruit-PiUART-PCB: BRANCHES:[master:d75842b7de0eb8fb496069a549c87f94542d846c;]|RELEASE:[none|none]
 adafruit/Circuit_Pyrate: BRANCHES:[main:eb0288c51fac0f394fcb5e88408b56b8d9981911;]|RELEASE:[none|none]
+adafruit/Adafruit_Microbit: BRANCHES:[master:05453d26b7fef4d9be05d7809c173fe25ad91fe8;gh-pages:b4a3d053774572c2bbc10557afd292c166e6b858;actioncheck:589d5afabaab42640bf1d8f6bddf3522a0799fc5;doxy-fix:2f9078d04a5c5fa76c057eea6f0ffc889eea4b33;actionci:c2768f74c35b8e96821e06a51200cf71d742b1e5;]|RELEASE:[1.3.4|none]
