@@ -1570,3 +1570,4 @@ adafruit/BLE_Colorific: BRANCHES:[master:b80af87eaf7551567ba882be85e8ebfdf397f2f
 adafruit/Adafruit-Si4713-PCB: BRANCHES:[master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f;]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB: BRANCHES:[master:8461d91e9c2a485d83ba2c7e3a984a1c105fe1d6;]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1bece2c690ddaa7c65dfc82;]|RELEASE:[none|none]
+adafruit/Adafruit-RasPipe: BRANCHES:[master:bedc53e0f97bdc11dc2ea8188df925c7903604d9;]|RELEASE:[none|none]
