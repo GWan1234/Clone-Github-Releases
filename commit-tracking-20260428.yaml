@@ -2506,3 +2506,4 @@ adafruit/Adafruit_Blinka_PyPortal: BRANCHES:[main:84773da59ce0aad33437b72d37c693
 adafruit/Adafruit_CircuitPython_BH1750: BRANCHES:[main:65cae1fa84a63c10e563ca4cd49273938ce877a3;patch-fix:9d5fabd77185a81cf06451b3fbdbaf518a1f4727;]|RELEASE:[1.1.19|none]
 adafruit/Adafruit_MMC5883: BRANCHES:[gh-pages:20b45792da415cd3a3efdfa63ee53d53a743cd65;master:d9e02bc91af377df917333fdd66b6cff8300ccff;fix-ci:1cb6e84ceeaa965c2f9013bfc07778d52841ce10;]|RELEASE:[none|none]
 adafruit/Adafruit-TPS61023-PCB: BRANCHES:[master:82b5a33a1900a5c13849029bc84e7856a44086e0;]|RELEASE:[none|none]
+adafruit/Adafruit_AS7341: BRANCHES:[master:0a32bc8f963a50d5a0e6ab6129869d8053a1fe02;gh-pages:062544315b6d9f5d8a02bdc39d6b41fec12c1f9b;fix-ci:98f2a1d7a9c665e4766b573829d6e0e3d61086d8;build_fix:b4abc2c5cd7a6f05fed7385079e2def4af8af897;stephenf7072:38068ca1ab798b9469354c5fb31fd9e8a385226d;return_fix:c2d7006744de7d28d709721b413da38f0b84608e;]|RELEASE:[1.4.1|none]
