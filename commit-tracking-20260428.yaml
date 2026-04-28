@@ -1431,3 +1431,4 @@ adafruit/Adafruit_FRAM_SPI: BRANCHES:[master:a05bf7243106fc49c377e07a21f8a312019
 adafruit/Kegomatic: BRANCHES:[master:7b37465d7b0e417b37a5906838f315936828fa66;olgas-pi:0fa36b903ca22654ea0ed50336a1caded1aa9753;]|RELEASE:[none|none]
 adafruit/Adafruit_TinyRGBLCDShield: BRANCHES:[master:48555cf6a86ba5e1851552bfcdf3ad29068cc627;gh-pages:ff36c27a57ef707301a35b8d07622bbd3c72fe43;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1ddfbf0;gh-pages:c2be5823adea3fe9ead6b783363f09ad6b6c6136;master:5b331b370a980e90c0983a685da74996fe61dab1;arm_sdk:3dc7e7b0afde394b9b1328be060fb61221dae73d;]|RELEASE:[1.1.1|none]
+adafruit/Adafruit-16x2-LCD-Pi-Plate: BRANCHES:[master:86e06995a3c9cb201593b17dafc09ee5752a016a;]|RELEASE:[none|none]
