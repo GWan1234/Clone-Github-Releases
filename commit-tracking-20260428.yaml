@@ -2906,3 +2906,4 @@ adafruit/Pico-PIO-USB: BRANCHES:[main:9dc51f88257d4b730fbf7edec7b77b56abf5c622;r
 adafruit/Adafruit-Reversible-USB-Type-A-Plug-Connector-Breakout-PCB: BRANCHES:[main:61c86cfbb89a45a97a5046854997d486fac109d2;]|RELEASE:[none|none]
 adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: BRANCHES:[main:63c6200bb3ef17d491089cfa6441b1810d79bb20;]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-C6-Feather-PCB: BRANCHES:[main:7376e394a3a889550e0092d7dbe3bea453b309b3;]|RELEASE:[none|none]
+adafruit/Adafruit-FPC-Breakout-PCB: BRANCHES:[main:78b551a2118c356b7c2f6ffc1eb3b41b45943fb4;]|RELEASE:[none|none]
