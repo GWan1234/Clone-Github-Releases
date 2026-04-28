@@ -2719,3 +2719,4 @@ adafruit/stm32f4xx_hal_driver: BRANCHES:[master:abb4cd6a27ce4b95dd76d262a13d0e2c
 adafruit/Adafruit_MSA311_PCB: BRANCHES:[main:a4a29e76941999057e062a5255594cabc4eba0ca;]|RELEASE:[none|none]
 adafruit/Adafruit_ADXL375_PCB: BRANCHES:[main:0a0dd0672917c61476f87e22fec645ff99dc67d2;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_HTTPServer: BRANCHES:[main:c1d964fe7bf8734f7a858e798583d0f1304ae1c1;reuseaddr:2fd62996ece966d9fd2c14c9fa06dc9aadb903b2;]|RELEASE:[4.8.2|none]
+adafruit/WipperSnapper_Firmware_Uploader: BRANCHES:[main:7bfc6c185f55d2ec86c33f326cf3358001a15f58;]|RELEASE:[none|none]
