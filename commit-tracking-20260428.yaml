@@ -1984,3 +1984,4 @@ adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c8
 adafruit/Adafruit_CircuitPython_Hue: BRANCHES:[main:141e5993860c9ab6f6d6791d46564ae4c06da247;]|RELEASE:[2.0.6|none]
 adafruit/Gamebuino-META: BRANCHES:[master:a1b08beb135313f34c32eda89748d519aa68d4c4;drakker:0f944ee7f20e0bcee567659a6ca0717f9b5d3fd1;]|RELEASE:[none|none]
 adafruit/Adafruit_LPS35HW: BRANCHES:[master:6a628ba68ece77dfbbfba557c72e6690a5212d41;gh-pages:daef3747a40a417603822e42f6b010784c902997;]|RELEASE:[1.0.6|none]
+adafruit/nofrendo_arcada: BRANCHES:[master:c8a81ea4829f341a32c047344fe18aa920688c57;arcada-flash-rewrite:57c798449a94109816aa30dd4e95b8c70a841f97;savestate:a7b39e914f959cbd182132d334d403e99c06dc8d;]|RELEASE:[none|none]
