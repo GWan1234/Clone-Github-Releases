@@ -1825,3 +1825,4 @@ adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8f
 adafruit/pxt-crickit: BRANCHES:[master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;microbit:6d78a8f266ac325ae42bad16f21e285492d740f1;servopulse:8dbf72089de398fb4da70809c32a9a35fe17c8d4;dm-edits:c895b7a11609f4edd4d43787fad04e20d50c2f25;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MatrixKeypad: BRANCHES:[main:25b43c08f0f03623cb821464a4b109b496046309;rpi_simpletests:12d277c226594276627439253772f7cc949c2e50;]|RELEASE:[1.2.23|none]
 adafruit/awesome-adafruitio: BRANCHES:[master:4f82a243d30de770ff8fd3273d3db543817a3818;]|RELEASE:[none|none]
+adafruit/circuitpython_jupyter_kernel: BRANCHES:[master:b4e1743ad432b1ca698f17b0e284f9e79de35f74;fix-version-nu:cf9e9c8c5919e5fde01dbe372916cdbe3973e5df;rtd-work:2e0838de7cb1d786b6a6997f2d4b39b2d90e26d7;]|RELEASE:[0.6.0|none]
