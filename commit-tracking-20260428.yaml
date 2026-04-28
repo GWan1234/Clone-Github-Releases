@@ -2779,3 +2779,4 @@ adafruit/Adafruit-STEMMA-Audio-Amp-PCB: BRANCHES:[main:12d0f77a674db2b356c9e6b38
 adafruit/Adafruit_CircuitPython_EK79686: BRANCHES:[main:a461892460b2ea778e8f7d7af62ddbda2fb4a72e;]|RELEASE:[2.0.6|none]
 adafruit/Adafruit-Swirly-Grid-PCB: BRANCHES:[main:49286339d01add733458087ed84454ef3ddb5100;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Intellikeys: BRANCHES:[main:75075716ec2a968f9fd79e05b9a4bedbec93ee48;]|RELEASE:[none|none]
+adafruit/Adafruit-Audio-BFF-PCB: BRANCHES:[main:cc58e5b14991044038626a00b502c2e8eda2f85a;]|RELEASE:[none|none]
