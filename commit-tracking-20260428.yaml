@@ -2745,3 +2745,4 @@ adafruit/Adafruit-Charger-BFF-PCB: BRANCHES:[main:2acd339ac57539b236e1b072488f58
 adafruit/Adafruit-Feather-ESP32-S3-PCB: BRANCHES:[main:2c95ed51a500d929fd6d8f519b895f0c4daeb982;]|RELEASE:[none|none]
 adafruit/a2woz: BRANCHES:[main:eee0285cdb4c6f814a08d8dc080c2e45f6a352bd;]|RELEASE:[none|none]
 adafruit/CircuitPython_NAU7802: BRANCHES:[main:b464aa6fb307b9f630583063f3c06df7f47a92ab;dhalbert-patch-1:0a460863036c7c456a021e7d42a877d87f13b326;]|RELEASE:[2.1.4|none]
+adafruit/Adafruit-VL53L4CX-PCB: BRANCHES:[main:8e287e0d06293984a3c2b4e14180830dda2e3acc;]|RELEASE:[none|none]
