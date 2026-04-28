@@ -2631,3 +2631,4 @@ adafruit/Adafruit_CircuitPython_NeoKey: BRANCHES:[main:73129c60182fe2534332af4a6
 adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8;]|RELEASE:[none|none]
 adafruit/circuitpython-action-library-ci-failed: BRANCHES:[main:c274cd6e41b7ab9f922cc856ea5084e7827493ec;]|RELEASE:[none|none]
 adafruit/circuitpython-action-library-ci-problem-matchers: BRANCHES:[main:eb45d58ad65b0bd8bf0db02330493a7ac4681a30;]|RELEASE:[none|none]
+adafruit/Adafruit-FunHouse-PCB: BRANCHES:[main:4d8cb249c480c1fc4cf6891359cfbdf1c264d2a9;]|RELEASE:[none|none]
