@@ -1600,3 +1600,4 @@ adafruit/Adafruit-Feed-Mangler: BRANCHES:[master:4c7b329a94e399f8d886f99a96f2d4d
 adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034;]|RELEASE:[none|none]
 adafruit/BNO055-Cordova-Example: BRANCHES:[master:a1c6ba346303ed26d8d5a84af1dd7c15884bdd6e;sawcoach:0dbee7f5ac745ff51854e520cc91382ceee68ae1;]|RELEASE:[none|none]
 adafruit/cordova-adafruit-io: BRANCHES:[master:be274cee2c1669e9b491d5bd265b01acf51d93ae;]|RELEASE:[none|none]
+adafruit/Adafruit-STMPE610-Breakout-PCB: BRANCHES:[master:8cf4f3cc9aaa31c6f5b90e661fa7ba99559052bb;]|RELEASE:[none|none]
