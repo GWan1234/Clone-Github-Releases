@@ -2250,3 +2250,4 @@ adafruit/Adafruit_CircuitPython_RFM69: BRANCHES:[main:2f8a38c3cae772aa73216499dd
 adafruit/Adafruit_CircuitPython_FocalTouch: BRANCHES:[main:2070d7853cd1fe81381e02f4bc0af1bb145cb69e;ladyada-patch-1:287f9e8b6afe37d295aab3e9719b16a5d5602863;]|RELEASE:[1.5.10|none]
 adafruit/METROX-CircuitPython: BRANCHES:[master:622e17f29b9f4f687bfad6782d04c5ad96a9813b;guide-fixes:43e6a6546815538f0da01b7c1e23799eca7ee3bd;experimental-circ-struc:f3f99507e2d9d42cd51704d664c19f1388353c28;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_VL6180X: BRANCHES:[main:2df0df8e135fb1fc56c17c866e1608e7b4066019;patch-fix:f108c4e00ed793c997231b183c2e5d9dbd414d4b;]|RELEASE:[1.4.21|none]
+adafruit/codal-circuit-playground: BRANCHES:[master:32d527773982a157c50dfce5b981ea96ef536a57;gh-pages:5b0f7a95fa45a2bb5204ab1ec9c0aa588a3b702f;msc:239344885b15018b87cf5cb4e3adc0fc7954b95e;atmega328p:bff717cd65231eb59ceb7d48f8d844c3792470d0;]|RELEASE:[none|none]
