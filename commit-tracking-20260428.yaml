@@ -2045,3 +2045,4 @@ adafruit/Adafruit_Python_MCP3008: BRANCHES:[master:03232cad6b888faf3dc2ff76e548c
 adafruit/scale: BRANCHES:[gh-pages:a9416b52382fcf49ee9b8515be71c65183121622;]|RELEASE:[none|none]
 adafruit/WiFi101-FirmwareUpdater: BRANCHES:[master:57663e575bd0b77fa45d301e8389e829f340c668;]|RELEASE:[none|none]
 adafruit/Adafruit_Python_ADS1x15: BRANCHES:[master:804728974fcefaafc8b5994be65d22e9c198a8d1;]|RELEASE:[none|none]
+adafruit/Adafruit_Python_PureIO: BRANCHES:[main:117f1f19f08a2c6edd11ef0281586ba5301dd649;]|RELEASE:[1.1.11|none]
