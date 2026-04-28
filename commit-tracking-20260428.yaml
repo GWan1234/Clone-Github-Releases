@@ -1941,3 +1941,4 @@ adafruit/Adafruit-USB-C-Downstream-Breakout: BRANCHES:[master:1484ecb56b369e1778
 adafruit/Adafruit-ADT7410-PCB: BRANCHES:[master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41;]|RELEASE:[none|none]
 adafruit/pcb-parts: BRANCHES:[master:3e667bd62b04572076aebc3e5a52b2d089ff0af6;]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90393-PCB: BRANCHES:[master:1c5deadca25875af5eb643b80ae0b7ece4afbb02;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitScheme: BRANCHES:[master:1dff619c7e74caa8ad295cabb6e2540dba0e6c92;]|RELEASE:[none|none]
