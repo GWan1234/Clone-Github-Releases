@@ -1521,3 +1521,4 @@ adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs: BRANCHES:[master:04f6f23f
 adafruit/FreqShow: BRANCHES:[master:53c517eba98ab11b2d119d9e5b366aba9630e432;]|RELEASE:[none|none]
 adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a;]|RELEASE:[none|none]
 adafruit/Adafruit_DotStar: BRANCHES:[master:0acd031b27ace1df0222c66991ee3a4bac806313;gh-pages:6f724a10476fbc9004d935fa0183187523f5660f;]|RELEASE:[1.2.5|none]
+adafruit/Adafruit-Gemma-PCB: BRANCHES:[master:88b3cb1a0c9ede216d3a93f904ab7ded9e63daed;]|RELEASE:[none|none]
