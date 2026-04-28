@@ -2829,3 +2829,4 @@ adafruit/circuitpython-fonts: BRANCHES:[main:2a386c02da4a978a2694bf6407b7635b908
 adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: BRANCHES:[main:2815cb84b56f4e79c573aa0c641fadef878a512f;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP3421-18-Bit-ADC-PCB: BRANCHES:[main:3037fb9364ec7dbc29817c3254bda21e8217cbe5;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_ConnectionManager: BRANCHES:[main:69542345f3dc6f9060eb5d78d5dcd4e636bf66b9;]|RELEASE:[3.1.8|none]
+adafruit/Adafruit-TS3USB30-PCB: BRANCHES:[main:7973099481a65c3ff5689a037ec01d45db234d2c;]|RELEASE:[none|none]
