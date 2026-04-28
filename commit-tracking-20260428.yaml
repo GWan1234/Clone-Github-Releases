@@ -2461,3 +2461,4 @@ adafruit/Adafruit-HTS221-PCB: BRANCHES:[master:e32c12659a54739f9700e8706e82f13b8
 adafruit/Adafruit-LPS2X-PCB: BRANCHES:[master:5d8dc248b63ff39d1ca1ddbf29ea7fc30e9d4278;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_RockBlock: BRANCHES:[main:e7c63dcaac92854e6520634a1027eb572f864bb5;]|RELEASE:[1.4.2|none]
 adafruit/Adafruit_WebBluetooth_Dashboard: BRANCHES:[master:d0cf85f20e98c27a92f1759b1d07dd849c884663;]|RELEASE:[none|none]
+adafruit/Adafruit_DRV8830: BRANCHES:[master:cbbe5ebf6e53256050b025014bc0ede17fc925f4;gh-pages:886abebb2acbbbf876c7a115d49a1b63fed537c3;fix-ci:a027e4c82b340e817615220dbb3603c8a3b5307a;]|RELEASE:[none|none]
