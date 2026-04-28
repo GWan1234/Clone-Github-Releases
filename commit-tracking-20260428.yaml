@@ -2369,3 +2369,4 @@ adafruit/Adafruit-Hallowing-M4-PCB: BRANCHES:[master:24076afe1a14927e0a7cc2fb2ca
 adafruit/glider: BRANCHES:[dependabot/npm_and_yarn/y18n-3.2.2:40d0794a34fe0f20a6464c36c08e146227176a27;master:e463b130cb19464031fe94904c554743cd353442;]|RELEASE:[none|none]
 adafruit/pyright: BRANCHES:[master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87056e81b0f880f08f5125ce3168655e9f;]|RELEASE:[none|none]
 adafruit/BrainCraft: BRANCHES:[master:464a6d11b53a6d18cfebffc75e602fc9696bf95c;]|RELEASE:[none|none]
+adafruit/Adafruit-MONSTER-M4SK-PCB: BRANCHES:[master:ac886c5792dd29ff6c0f1a263ab7c3f77ccaebf3;]|RELEASE:[none|none]
