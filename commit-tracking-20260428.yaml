@@ -1526,3 +1526,4 @@ adafruit/Adafruit_TiCoServo: BRANCHES:[master:12151970fb08c355980b5fe3c85010dc04
 adafruit/Adafruit_DotStar_Pi: BRANCHES:[master:5477937908f2cb4dc2d6cdc04c1ffb0213326dc3;]|RELEASE:[none|none]
 adafruit/Adafruit_BLESniffer_Python: BRANCHES:[master:36a0ac3eb9f287af524575bfedd3dab0be018741;]|RELEASE:[none|none]
 adafruit/Adafruit_BluefruitLE_Firmware: BRANCHES:[master:43ee08402fe8d08c079401a5e0b0a97d594daca1;release-0.9.0:9e419abe6f80969ad6784f63414a619b37715530;release-0.9.0-beta:a828e1bff040f2296a57883abba9c23ab7004d4b;]|RELEASE:[none|none]
+adafruit/4-Channel-Level-Shifter-PCB: BRANCHES:[master:a2bfd3a94ed87bce64bd2230732cc06198c33c06;]|RELEASE:[none|none]
