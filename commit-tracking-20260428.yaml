@@ -1858,3 +1858,4 @@ adafruit/Adafruit_CircuitPython_TFmini: BRANCHES:[main:fa709de0054d0725ba7d6af09
 adafruit/Adafruit_CircuitPython_AT86RF233: BRANCHES:[main:44fd9c9cf4f3d170890f237c85cc7fde85f39752;]|RELEASE:[none|none]
 adafruit/Adafruit-1.54-inch-240x240-TFT-PCB: BRANCHES:[master:3f46e828b8404212ac402a82e02ab37381af1eb9;]|RELEASE:[none|none]
 adafruit/arduino-lmic: BRANCHES:[master:ba1265d5d2f775177cdc7c82186724e4f0bdc3a8;non-avr-printf:69cdef5eaf3ad51cf666609af317b2f651c03c82;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_HTU21D: BRANCHES:[main:ee6659658e18811d29b7640df653312f9eb94590;dhalbert-ustruct:3cd9a43499c8ad41eb9298809689648bf0a3c9df;]|RELEASE:[0.11.22|none]
