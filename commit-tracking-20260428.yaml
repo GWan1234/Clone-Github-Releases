@@ -1270,3 +1270,4 @@ adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a
 adafruit/LPD8806: BRANCHES:[master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db;]|RELEASE:[1.0.7|none]
 adafruit/Adafruit-WS2801-Library: BRANCHES:[master:f43db5f745b5be30a3667d9c41428f84fa5894f3;gh-pages:551bebf191fe7d2fab8aa16a22bf395ce62a421b;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit-VC0706-Serial-Camera-Library: BRANCHES:[master:e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85;gh-pages:e45d0578eb65444bbe638eca2fc1743292b8d907;actions:17841710c4440bc6cd59106aceca90304fc4d5e9;]|RELEASE:[1.2.2|none]
+adafruit/RGB-matrix-Panel: BRANCHES:[master:81ee07118cc267cfab30743ae621c193c9e5838b;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e;]|RELEASE:[1.1.9|none]
