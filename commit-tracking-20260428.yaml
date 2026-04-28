@@ -1758,3 +1758,4 @@ adafruit/Adafruit-CCS811-Breakout-PCB: BRANCHES:[master:6b31de55a1ffcc86e7109338
 adafruit/BOSSA: BRANCHES:[arduino:ec166966f58928142a9366939b917e2250a46ccb;master:2ebf559da43bb0ea6a3d9a17739458002b51ac52;]|RELEASE:[atsamr|none]
 adafruit/Adafruit_CCS811_python: BRANCHES:[master:b75196d2f887247a316a631b81c4a909da395f3d;]|RELEASE:[0.2.1|none]
 adafruit/ArduinoModule-CMSIS-Atmel: BRANCHES:[adafruit:8ca10699bd86a856b5e21f78f861e2f0ba803604;remove-LITTLE_ENDIAN:6049123d30cf01ff5afa18791fc132aa400fa238;add-same51:fd0a0eabfb2f4c75f2482d98a3b14f656f1cbeee;master:46ab1021146152a64caf1ddbb837d8181b8faa35;]|RELEASE:[v1.2.2|none]
+adafruit/STEMMA_LiquidCrystal: BRANCHES:[master:b91a554ae98a61674beeb8170b5b9dea34fea0ba;pr_1517:87013086c3379180aadddc8080f7afe83df5c75c;pr_87:bc763f93d961b5fdcd2bae469f21b1e86148ad9e;pr_4450:9073940b8ddeabdf846632bba0f903d90d058863;]|RELEASE:[none|none]
