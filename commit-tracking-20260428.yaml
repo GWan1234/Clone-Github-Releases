@@ -2113,3 +2113,4 @@ adafruit/Adafruit_MAX31856: BRANCHES:[master:2e5358b148116c083c24cda3b4e67594268
 adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46e8f2473a765239112a8b48f12;]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB: BRANCHES:[master:cb5f0e3d89c9b20db55984077ba5f2eba29c8d69;]|RELEASE:[none|none]
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: BRANCHES:[master:37c7ffb587c00e67d739baa078eb755f0976d15f;]|RELEASE:[none|none]
+adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: BRANCHES:[master:1d60495b54bd6ff8fa4d5acca7a6e1c1a317cfe1;]|RELEASE:[none|none]
