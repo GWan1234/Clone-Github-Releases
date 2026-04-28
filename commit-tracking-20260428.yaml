@@ -1744,3 +1744,4 @@ adafruit/Adafruit_NeoMatrix_ZeroDMA: BRANCHES:[master:7b89ebb10c3ef8bbc864ad63c5
 adafruit/Circuit_Walker_Sneakers: BRANCHES:[master:3e991e3b4000be430f4e1eef9861166efc6410d2;]|RELEASE:[none|none]
 adafruit/METROX-Examples-and-Project-Sketches: BRANCHES:[master:03ce7109b3f816926a510c3d755a2c380949e575;travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce;]|RELEASE:[none|none]
 adafruit/Adafruit_APDS9960: BRANCHES:[master:1eafe0c579febf813f02a8484dd7b4cc8176bf17;gh-pages:b988bb3a871c2723d4e728a7f97194267113fed9;actionci:f373e692c4a574dfe3bdfa9df07746c68ae7eab8;]|RELEASE:[1.3.1|none]
+adafruit/Bluefruit_LE_Connect_Plotter: BRANCHES:[master:5fdd5c80a55c04f5f21f971b57d68551373b3ada;]|RELEASE:[none|none]
