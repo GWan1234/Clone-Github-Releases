@@ -2210,3 +2210,4 @@ adafruit/gdb-micro-trace-buffer: BRANCHES:[master:8baa889c6f515cc73145d2e9d2800e
 adafruit/Adafruit_Newtmgr_Swift: BRANCHES:[xcode9:2cbbf3baed3bc612c12e08352f4c32d09907cb1d;master:18af31335fabc845e24f02770495c93b2ac91277;]|RELEASE:[none|none]
 adafruit/Adafruit-Ultimate-GPS-HAT-PCB: BRANCHES:[master:73b23e57b2c80f36aa1405aa67be887b5dabe68e;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX98306-Class-D-Amp-PCB: BRANCHES:[master:424e82a2ca2bff2f5b96e02a092e1e1a1b3cb81e;]|RELEASE:[none|none]
+adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB: BRANCHES:[master:2f651eeb3cfd8395e67a2dd241d086286ceb7668;]|RELEASE:[none|none]
