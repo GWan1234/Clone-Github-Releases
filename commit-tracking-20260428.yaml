@@ -2883,3 +2883,4 @@ adafruit/Adafruit_CircuitPython_CH9328: BRANCHES:[main:52e93983abf1f2158db2cdcf4
 adafruit/arduino_core_ch32: BRANCHES:[add-qtpy-board:5355d8b506bcce97501061e2bc437c8a6934ccf4;main:273620c809ba4cc3c6928543c6929634de8e50ba;]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Breakout-PCB: BRANCHES:[main:f8b87c97d100d141f227df93ddbd021832337ae4;]|RELEASE:[none|none]
 adafruit/Adafruit-DS2484-I2C-to-1-Wire-Bus-Adapter-Breakout-PCB: BRANCHES:[main:ef315868cc398ecc9a0faa217e7256dd28717d74;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_DS248x: BRANCHES:[main:87a3ac8d503555a5b987d6935d0f7af257ac1f91;]|RELEASE:[1.2.7|none]
