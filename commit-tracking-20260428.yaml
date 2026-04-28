@@ -2378,3 +2378,4 @@ adafruit/Adafruit_CircuitPython_LSM303_Accel: BRANCHES:[main:a0a25f52c33b93933ed
 adafruit/Adafruit_CircuitPython_LSM303DLH_Mag: BRANCHES:[main:aabb3eb3387c3aba80c5cbafd84ad80035567e16;dhalbert-ustruct:7768d220e5cc55007b54fc7ff491c34867b77a5a;]|RELEASE:[1.1.28|none]
 adafruit/Adafruit_TinyUSB_ArduinoCore: BRANCHES:[master:68b4323a7d6c82fe3fa940e004ea690dc8b57762;update-tinyusb:b18a1eb3024526a2d8bd7d29fbaa4a87474b06c1;]|RELEASE:[none|none]
 adafruit/Adafruit_WavePlayer: BRANCHES:[master:60e0a78875358513edc84296650978ad181062b5;gh-pages:feab3d9d7205d94423d504c05a3c9ef6a97d3f24;]|RELEASE:[1.0.7|none]
+adafruit/Adafruit_CircuitPython_LIS2MDL: BRANCHES:[main:c890fa9027778a5eaadb147ce39be181679f61c0;]|RELEASE:[2.1.30|none]
