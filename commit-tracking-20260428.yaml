@@ -2245,3 +2245,4 @@ adafruit/Adafruit_CircuitPython_FeatherWing: BRANCHES:[main:43f766b1d74786c12464
 adafruit/Adafruit_CircuitPython_FancyLED: BRANCHES:[main:57283d03376d154bc40cd39ee350aa355697b120;pb-rgbw:039c8e7b7133884750401f754687769c23888d2f;discord-fix:ff6b835eda94dc54fd1c48f797967b292fd458ae;]|RELEASE:[1.4.26|none]
 adafruit/Adafruit_ZeroFFT: BRANCHES:[master:7b285fc6d706ab4f983c5475ea45dcf2ff8edc4f;gh-pages:833e47f40a8318bade9bed6cd6ce6ffce0e0cf5e;action:da5072cc5ec0d99bc7c446dc8404e0feb5b012e9;]|RELEASE:[1.0.6|none]
 adafruit/Adafruit_CircuitPython_AVRprog: BRANCHES:[main:f276860a0bbdf1d1528d52380cf2d34dc2e43c60;patch-fix:7490faf39b5dddc2431d170f15f1a38a9018c2a2;]|RELEASE:[1.5.8|none]
+adafruit/Adafruit-PXT-Setup: BRANCHES:[master:c25ac1f717904a1bb22caee3295cd6ba778745fa;]|RELEASE:[none|none]
