@@ -2218,3 +2218,4 @@ adafruit/micropython-adafruit-rgb-display: BRANCHES:[master:9eae54177972e9ce1c3a
 adafruit/openapi-mitm: BRANCHES:[master:7067b6d99ee4b8963e918a23081b5708f2e0cbc6;]|RELEASE:[none|none]
 adafruit/micropython-adafruit-ssd1306: BRANCHES:[master:7dc5e750f40fdac5e457a557653827916310ec09;]|RELEASE:[1.0.1|none]
 adafruit/CircuitPlaygroundMakeBelieve: BRANCHES:[master:7f971da9fd1d40390ccf9299cbee49782c81abd7;]|RELEASE:[none|none]
+adafruit/MotorHatDemo: BRANCHES:[master:7cd65c5cc3d7ebc1b5c5bad53574d252f5f8013b;]|RELEASE:[none|none]
