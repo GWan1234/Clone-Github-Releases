@@ -2034,3 +2034,4 @@ adafruit/Adafruit_FeatherOLED: BRANCHES:[master:17d62d3c42e593b263bcdac62c592afc
 adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad: BRANCHES:[master:738c479a5a08af69c7864ff1053404e821fcd700;]|RELEASE:[none|none]
 adafruit/Printer-Profiles: BRANCHES:[master:ed08154bdf56525741dbfbfe852a1d9a747698bd;]|RELEASE:[none|none]
 adafruit/Pi_Physical_Dashboard: BRANCHES:[master:81a513ac8508e387a081c2c0fc02140d4f37100d;]|RELEASE:[none|none]
+adafruit/Adafruit_Lightship: BRANCHES:[master:06085f349833c9ede0f93b87f5b06c4aa6c77844;]|RELEASE:[none|none]
