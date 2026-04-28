@@ -2279,3 +2279,4 @@ adafruit/Adafruit-RGB-Matrix-Bonnet-PCB: BRANCHES:[master:a006ae8f92572893c6c3cd
 adafruit/Adafruit_CircuitPython_RFM9x: BRANCHES:[main:b2a843ddff22cec5a2b6ee79ba0c52e17cbf9dd2;]|RELEASE:[2.2.25|none]
 adafruit/Adafruit_CircuitPython_MCP230xx: BRANCHES:[main:8a951eff76137ad1994c4838e5f151e348087941;patch-fix:3150d738e8b913a49977aa5b39654e38045e5854;]|RELEASE:[2.6.2|none]
 adafruit/Adafruit_CircuitPython_AM2320: BRANCHES:[main:89e502e27a1749fec9fa1a499877e9db140dff73;pylint-version-fix:81ba29c39deb1ae648d0289678d34fdcf5ad4d46;]|RELEASE:[1.2.28|none]
+adafruit/Adafruit_AM2320: BRANCHES:[master:34c038ec3a6afa65ac9be95288cf6697df7912f6;gh-pages:c318b9a823c66a4f7eda4c7c98c295429fca559b;tyeth/issue13:27336667d10cb0f2b82e48b744bafe229c82dc9c;]|RELEASE:[1.2.5|none]
