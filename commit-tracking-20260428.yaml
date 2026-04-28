@@ -2247,3 +2247,4 @@ adafruit/Adafruit_ZeroFFT: BRANCHES:[master:7b285fc6d706ab4f983c5475ea45dcf2ff8e
 adafruit/Adafruit_CircuitPython_AVRprog: BRANCHES:[main:f276860a0bbdf1d1528d52380cf2d34dc2e43c60;patch-fix:7490faf39b5dddc2431d170f15f1a38a9018c2a2;]|RELEASE:[1.5.8|none]
 adafruit/Adafruit-PXT-Setup: BRANCHES:[master:c25ac1f717904a1bb22caee3295cd6ba778745fa;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_RFM69: BRANCHES:[main:2f8a38c3cae772aa73216499dd40fde695878566;docs_req_fixes:5e95b41adb824c475ebdfdc2380a9633110c9d74;fix_rtd_theme:fef9e6236cf265868f96a99e5d94824f7badafbc;]|RELEASE:[2.1.30|none]
+adafruit/Adafruit_CircuitPython_FocalTouch: BRANCHES:[main:2070d7853cd1fe81381e02f4bc0af1bb145cb69e;ladyada-patch-1:287f9e8b6afe37d295aab3e9719b16a5d5602863;]|RELEASE:[1.5.10|none]
