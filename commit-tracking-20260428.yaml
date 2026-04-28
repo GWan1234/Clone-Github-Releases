@@ -1398,3 +1398,4 @@ adafruit/Adafruit_On_Air: BRANCHES:[master:3957f81639928a8ce943575fb357884c95559
 adafruit/Adafruit-Sharp-Memory-Display-PCBs: BRANCHES:[master:58b3ededa86c2b7cfefea12a5e15883150ea17de;]|RELEASE:[none|none]
 adafruit/Adafruit-1.5inch-Color-OLED-PCB: BRANCHES:[master:6d5c1242dd9d6124b18336f8cebff1993a29b6e4;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-DC-LiPoly-Charger: BRANCHES:[master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489;]|RELEASE:[none|none]
+adafruit/Adafruit_CC3000_Library: BRANCHES:[master:3327fd02c33703a5d5fe50672336e5a484ca513b;travis:67e7d85469929b1240f7a811b69a638890b05bc7;]|RELEASE:[1.0.4|none]
