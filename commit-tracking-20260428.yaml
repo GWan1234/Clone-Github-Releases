@@ -999,7 +999,7 @@ a2633063/LineGridView: BRANCHES:[master:cea88403eafe14983c2267bab52999ad519b25f0
 a2633063/mYdigit: BRANCHES:[master:47a872995e64680597df7d0a91e37729fc55c650;]|RELEASE:[none|none]
 a2633063/SmartControl_Android: BRANCHES:[master:9b21078cd5beccfca9505512fb0d121b7548aeb1;]|RELEASE:[v1.0|none]
 a2633063/SmartControl_Android_MQTT: BRANCHES:[master:53567e48215d36407ccfb4129375800c10d69f5d;]|RELEASE:[v1.12.3|none]
-a2633063/SmartControl_ButtonMate_ESP8266: BRANCHES:[master:7e56e0bb49ddc6a318df2c0f1694d1bf986482c0;]|RELEASE:[none|none]
+a2633063/SmartControl_ButtonMate_ESP8266: BRANCHES:[master:7e56e0bb49ddc6a318df2c0f1694d1bf986482c0;]|RELEASE:[1.0|none]
 a2633063/SmartControl_PC: BRANCHES:[master:0a10c7ab2eea67aa50f993686a6c65ab00daa5a4;]|RELEASE:[v0.5.6|none]
 a2633063/STC12C5A60S2_USB_voltage_and_current_monitor: BRANCHES:[master:ecbd62ef571a618490bb87eb7e517f65cca28a63;]|RELEASE:[none|none]
 a2633063/Test: BRANCHES:[master:4fa0d37379c2a6555b70c6f44e2ac783c46dd764;]|RELEASE:[v0.2|none]
