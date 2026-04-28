@@ -1833,3 +1833,4 @@ adafruit/Adafruit_CircuitPython_L3GD20: BRANCHES:[main:f74880027c1c9c27d2ec53a13
 adafruit/esp8266-weather-station-color: BRANCHES:[tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Crickit: BRANCHES:[main:aa213ba6f897cdeb45ce4e961f44f862e3832c03;patch-fix:7a11ee3cdd37a52efc40e72ebd72631fedc3a250;]|RELEASE:[2.3.24|none]
 adafruit/Adafruit_Crickit_PCBs: BRANCHES:[master:4615138e959c50a519bfaaa30a3203e038487cdd;]|RELEASE:[none|none]
+adafruit/Circuit-Playground-Character-Icons: BRANCHES:[master:9ebcc0e87610c6890f698aee40eb895613985573;]|RELEASE:[v0.0.8|none]
