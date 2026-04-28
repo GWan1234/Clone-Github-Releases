@@ -2651,3 +2651,4 @@ adafruit/ArduinoCore-mbed: BRANCHES:[master:06d7756fc51651a20df0e1b6095cabf6f4a0
 adafruit/Glider-Wireframe: BRANCHES:[main:12bf9547666aed83aae5f3cda80389eff65d8bd1;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Simple_Text_Display: BRANCHES:[main:df29c00d0cd8afe0206cb7177acf6f03ac3073d1;patch-fix:aeddb2b6f3f77b191d89b046d137fea661cb8494;]|RELEASE:[1.2.23|none]
 adafruit/Adafruit_CircuitPython_DisplayIO_SH1106: BRANCHES:[main:37033ffb46e99083849060f7356b12d683c02822;patch:2c0a59fff04622050a3507135e4a1494ee07ed9c;]|RELEASE:[2.0.4|none]
+adafruit/Adafruit-Slider-Trinkey-PCB: BRANCHES:[main:77c27c2c1ccb6c2714d88b02618fdd5bbb70acdd;]|RELEASE:[none|none]
