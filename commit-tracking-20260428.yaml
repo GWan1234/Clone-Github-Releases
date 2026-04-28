@@ -2749,3 +2749,4 @@ adafruit/Adafruit-VL53L4CX-PCB: BRANCHES:[main:8e287e0d06293984a3c2b4e14180830dd
 adafruit/Adafruit-DVI-Breakout-Board-PCB: BRANCHES:[main:178a6d45b2d40acaa1cf14b79479a770cc7d01a5;]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: BRANCHES:[main:f45b12704ccbb7180d89db28e1af7bd861124133;]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-ESP32-S3-PCB: BRANCHES:[main:333b35f9c77338d69816e542e7c6aa4db271d432;]|RELEASE:[none|none]
+adafruit/I2C_Addresses: BRANCHES:[main:ec0cfd7200579fe644762615eace99e54d7d19c3;]|RELEASE:[none|none]
