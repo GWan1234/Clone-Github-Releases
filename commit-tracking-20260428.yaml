@@ -1560,3 +1560,4 @@ adafruit/omxplayer: BRANCHES:[master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f;]|
 adafruit/Adafruit-Occidentalis: BRANCHES:[master:115173db410886eed029ebcce3414b6f5b01950f;]|RELEASE:[none|none]
 adafruit/pi_hello_video: BRANCHES:[master:e08d2a43a9cbaa38ba0decb86f972b558ee7eef4;]|RELEASE:[none|none]
 adafruit/Adafruit-Occi: BRANCHES:[master:a4d5c50a45e2c1079692ac2a52907935f34836eb;]|RELEASE:[none|none]
+adafruit/pi_video_looper: BRANCHES:[master:aceb5d830a857aa6f446b5a728404bafaaba8ae8;cec:67249128bf8fc768646fa2f31d0e5d643f0a0539;feature_single_loop_select:ad71cffcb98435bb3bed4cad4b4256b0dd0e0d18;copymode_spacecheck:6bda006d3bcc9302a92a95bb9fb24a77897b6773;dev:6dc2545252365915b3639bb05e9d74951b990059;pb-bullseye:0fd56c40518acc48645f7370dcb6a7d902d84c97;font_scaling:64f8f85349582fd9ddc29d37006647231071c2b5;]|RELEASE:[v1.0.21|none]
