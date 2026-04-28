@@ -2632,3 +2632,4 @@ adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489b
 adafruit/circuitpython-action-library-ci-failed: BRANCHES:[main:c274cd6e41b7ab9f922cc856ea5084e7827493ec;]|RELEASE:[none|none]
 adafruit/circuitpython-action-library-ci-problem-matchers: BRANCHES:[main:eb45d58ad65b0bd8bf0db02330493a7ac4681a30;]|RELEASE:[none|none]
 adafruit/Adafruit-FunHouse-PCB: BRANCHES:[main:4d8cb249c480c1fc4cf6891359cfbdf1c264d2a9;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_OV7670: BRANCHES:[main:e1dd879d85284439f0d4835dc5228f66aca66b7d;patch:1ad299c5106ff6971a1cabb2edd9d457028bffa1;]|RELEASE:[1.1.9|none]
