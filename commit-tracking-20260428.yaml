@@ -1978,3 +1978,4 @@ adafruit/Adafruit_CircuitPython_LIFX: BRANCHES:[main:3b0b74f2564b13cf190e73e733d
 adafruit/Arduboy2: BRANCHES:[master:5d975e7bf4064a96821790d08aab13551f4017af;noUSB:44aeda92a248f4b4bd2134c4352b3de44af3a1f9;develop:78de8a439b2be3ee9bb8cea762b65173a62c7ae6;]|RELEASE:[none|none]
 adafruit/ArduboyTones: BRANCHES:[master:4ba1bcc7a8761154958ad6ffee3cb7fe1de0ac67;]|RELEASE:[none|none]
 adafruit/ArduboyPlaytune: BRANCHES:[master:52ca6170af45432c07269861c91349e70b4cd73d;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_LPS35HW: BRANCHES:[main:8854ab850135a98466e16d37048e8bcf82468f28;patch:9bd029f219e86fb56badbe02edd51072ca1f28c1;lps25:cf5642956f05ff582c17fc03eb2116c920dbe1d0;filter_add:66db34741baf6c4bbae9efab1c169ae41a2dbdfe;]|RELEASE:[1.2.26|none]
