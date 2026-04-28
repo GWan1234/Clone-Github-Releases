@@ -2695,3 +2695,4 @@ adafruit/Adafruit_CircuitPython_asyncio: BRANCHES:[main:d0d63f113c7da0852bdc5aa3
 adafruit/Adafruit-1.12in-128x128-OLED-PCB: BRANCHES:[main:ac65ded15c60c42bd7fa323c670640263b88f761;]|RELEASE:[none|none]
 adafruit/Adafruit_TestBed: BRANCHES:[master:c6f2a0cc4c1c3d0c228208a894ca70885c871f0a;rp2040brains:e7e367ca80091d3c38a8d72707141166dfbef317;gh-pages:c2df02d283e2a1f525b83685ecdb878914cf48d0;itsybitsy-support:f32d75ac922cf90994c72dfd1063a3778bf266fb;]|RELEASE:[1.14.2|none]
 adafruit/Adafruit-Feather-ESP32-S2-PCB: BRANCHES:[main:4a6263861580257d42a889a1518133441d25f35d;]|RELEASE:[none|none]
+adafruit/Adafruit-KB2040-PCB: BRANCHES:[main:b4160dcf4385ef2cc30e9652489328321720ee4b;]|RELEASE:[none|none]
