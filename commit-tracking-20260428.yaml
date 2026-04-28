@@ -1442,3 +1442,4 @@ adafruit/Adafruit_BLE_PinIO: BRANCHES:[gh-pages:e3d2c88b64577ecce878c29fbde0f007
 adafruit/Adafruit_9DOF: BRANCHES:[master:e7e44d5024be020b462db87f6820841d0de44417;gh-pages:ad4db3bce26a437a60dbf8cab3cc58dba9d09a1d;actionci:1016a9767650fdfac4580688236726b574daad7f;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit_AHRS: BRANCHES:[master:69fbb4021acbaccc55258ed8082d71c1968c8909;fix-warnings:278089246a142f129af44fe8d3f34adde1ffe44d;develop:2e20d45a26f05ecc5f3556f158e38c4b179b8436;gh-pages:503d1a344bd8a94962c1b073ef913e7a72ee70dd;adafactor:147509f060ea1217e7f3a47274928cf5d27e302f;refactor:780e698cbd5222d851474b16ac05e8dddb570947;]|RELEASE:[2.4.0|none]
 adafruit/Adafruit-TPA2016-Library: BRANCHES:[master:17d1a6cf3f423952c0b07518e9ef46a2476bf8df;gh-pages:afa1d75e70fc71c5a16bfa92ab1aeae44bff55b2;actionci:baa74d30398e9e536cf6bf3c6bde0fb7e07718be;]|RELEASE:[1.2.2|none]
+adafruit/Bluefruit_LE_Connect: BRANCHES:[master:4721ec20245598fdb107f89b089f06671dc490f4;]|RELEASE:[none|none]
