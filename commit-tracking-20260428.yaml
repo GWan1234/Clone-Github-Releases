@@ -2688,3 +2688,4 @@ adafruit/broadcom-peripherals: BRANCHES:[main-build:ec1043800fc987f7067fc0761519
 adafruit/Adafruit_CircuitPython_OV5640: BRANCHES:[main:6b0859eaf91c2bb87258faf6f34d79671d92726b;docs_req_fixes:f52a1b3e0d1e23371c46273aa1cf705b40e5404a;fix_rtd_theme:67db66fc90a5025133b289ed4bedcab9ccfe6517;dev/pre-commit-patch:e5f7244a6c7448ad16e8ab3b60b91348e5b9cf5e;pico-simpletest:07292b99f3fb9c957c4e252c4b0f81474baf9add;seesawify:b78e625dbb5a06acf1af1f8810799e6e50ee3b9a;switches:f33a3a656ea45f8d4f722280205ddfc7799e837d;]|RELEASE:[1.2.13|none]
 adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB: BRANCHES:[main:b6d4e909afa879750c0bd96747585dc598a90a67;]|RELEASE:[none|none]
 adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB: BRANCHES:[main:413ce0dd8db9915a982eab83b68ea9a01c70db77;]|RELEASE:[none|none]
+adafruit/Adafruit-ATtiny8x7-Breakout-PCB: BRANCHES:[main:442a8ca863d1fc0ffb78cd526b82855fc6b95d95;]|RELEASE:[none|none]
