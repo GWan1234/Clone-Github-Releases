@@ -2785,3 +2785,4 @@ adafruit/Adafruit-MatrixPortal-S3-PCB: BRANCHES:[main:1ff841b511d7dc153ae8d4c0b1
 adafruit/Adafruit-TSC2046-PCB: BRANCHES:[main:cf5b01b3b6ae479abf051a8d0d3e8ed5b05ba632;]|RELEASE:[none|none]
 adafruit/Adafruit-ADXL343-ADT7410-Sensor-FeatherWing-PCB: BRANCHES:[main:808e86d439341e5acc1c307a376ca220d96751ee;]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-RP2040-PCB: BRANCHES:[main:9fe571ea428c5c2bc1b7593dadf61e8ef804f480;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: BRANCHES:[main:f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435;]|RELEASE:[0.5.3|none]
