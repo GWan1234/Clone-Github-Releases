@@ -2761,3 +2761,4 @@ adafruit/Adafruit_CircuitPython_JSON_Stream: BRANCHES:[main:54b53031b137cd52cc4d
 adafruit/Adafruit-PiCowbell-DVI-Output: BRANCHES:[main:eebbb6a106e7084c95cee9f53a9a498f4e444766;]|RELEASE:[none|none]
 adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C: BRANCHES:[main:4bf9961d2f3bbb52921cd88fdf38c1d5cd38e901;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MCU_Flasher: BRANCHES:[main:8c49071094aba3e4979ef0c67566f29316e2152c;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Debug_Probe: BRANCHES:[main:d6245eed908daa5c94ceb9c2b462377fec95acd6;]|RELEASE:[none|none]
