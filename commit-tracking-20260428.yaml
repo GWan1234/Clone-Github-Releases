@@ -2132,3 +2132,4 @@ adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB: BRANCHES:[master:d347601d3c
 adafruit/Adafruit-PiTFT-Plus-2.8-PCB: BRANCHES:[master:6de22137d8b5a057a5723dfffa9831c17d4e9a30;]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB: BRANCHES:[master:bb6108b9a9eb952f4e8514530771253a16800d14;]|RELEASE:[none|none]
 adafruit/Adafruit-Pi-Cobber-PCBs: BRANCHES:[master:8a30864c6cfe7dfd3faf86a2778dadc0db75f96f;]|RELEASE:[none|none]
+adafruit/Adafruit-FT232H-Breakout-PCB: BRANCHES:[master:78919715d58046e883cc4fe47f90c6634582adf7;]|RELEASE:[none|none]
