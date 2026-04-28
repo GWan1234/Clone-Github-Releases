@@ -2284,3 +2284,4 @@ adafruit/Adafruit-ItsyBitsy-M0-PCB: BRANCHES:[master:faa92dda428868c7042f9ee0468
 adafruit/Adafruit_CAD_Parts: BRANCHES:[main:5ead410a8034146307aa99f2ab916bbd2a87114f;my-first-pull:e63b5966eb8e755451755a33b99182c385039ad8;]|RELEASE:[none|none]
 adafruit/circuitpython-weekly-newsletter: BRANCHES:[tannewt-patch-2:607fa2fc219b16ba0d7645ec82afdc5fb5f32dc0;gh-pages:459ca546e480834f8a9feff6d06c722c7133d65e;BlitzCityDIY-patch-2:6ddce7e6eed2a9c63a81efd9643c1d43820f0e7e;dhalbert-patch-1:8ca11c9741a4a3f8d538f7c704481d7483d023b7;tannewt-patch-1:20bc067247a7f32737ffb8a3fef7d25f91cd69b1;BlitzCityDIY-patch-1:122217a7b2291657cada0460b266e4a5854f5506;dhalbert-patch-7:93b152a813ad0867f712c0a7684014f3c329e710;]|RELEASE:[none|none]
 adafruit/Adafruit-AS7262-Breakout-PCB: BRANCHES:[master:e938964b93a0dca5c0120fe2aa54a16e590b27fa;]|RELEASE:[none|none]
+adafruit/Adafruit-DragonTail-for-micro-bit-PCB: BRANCHES:[master:2f220715487c3b55339cd84be5d9f9bac4e7a779;]|RELEASE:[none|none]
