@@ -2902,3 +2902,4 @@ adafruit/Adafruit-USB-Type-C-PD-Switchable-PCB: BRANCHES:[main:d10701c2275184225
 adafruit/Adafruit-QT-Py-CH32V203-PCB: BRANCHES:[main:c5c1580d9823d2f8923778530339179531d024f6;]|RELEASE:[none|none]
 adafruit/Adafruit-CH334F-Breakout-PCB: BRANCHES:[main:a29ea7705f029962ebec1947eac3fb4d641f63bb;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_RFM: BRANCHES:[main:f83e74d2604a17c06e91301552ad84abab51bec5;dhalbert-patch-1:fbd6d1dfe2f015fabfe58a530ecf9516cf0f0b5c;]|RELEASE:[1.0.13|none]
+adafruit/Pico-PIO-USB: BRANCHES:[main:9dc51f88257d4b730fbf7edec7b77b56abf5c622;rp2350b:7f7ea5b481648153bec264b7faeec8676abeb97d;support-rp2350-pio2:7f7ea5b481648153bec264b7faeec8676abeb97d;rp2350b-rebased:445ca6403643f19ae8a70a3632b6924943a93189;sdk2_fix:770e3b2e4af14dd202f062f850f9f14820ecbb1e;]|RELEASE:[none|none]
