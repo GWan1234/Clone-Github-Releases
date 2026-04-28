@@ -2258,3 +2258,4 @@ adafruit/Adafruit_CircuitPython_VEML6070: BRANCHES:[main:d64ca4a69f7ec2f8fffe4b5
 adafruit/Adafruit_CircuitPython_DS2413: BRANCHES:[main:b74b6d94abd4c2d0db95cda81818bd049692eef9;]|RELEASE:[1.2.24|none]
 adafruit/Adafruit_CircuitPython_LSM303: BRANCHES:[master:466dedfcdc107260a888af42babdb6868a0557d5;]|RELEASE:[1.2.5|none]
 adafruit/Adafruit-Feather-328P-PCB: BRANCHES:[master:62859c243921da2d1221681373356f1559855cbc;]|RELEASE:[none|none]
+adafruit/Adafruit_nRF52_Bootloader: BRANCHES:[master:48a149ffcb2e092051d1169f443f9b9b8613a54c;tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4;]|RELEASE:[0.10.0|none]
