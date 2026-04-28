@@ -2053,3 +2053,4 @@ adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB: BRANCHES:[master:20e781d8d7d0b31
 adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: BRANCHES:[master:cae1ee442bd88638aac6427bd78f737aa0846a9e;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB: BRANCHES:[master:957300988eee7d15d71649fd4e2cb023a6584acb;]|RELEASE:[none|none]
 adafruit/Adafruit_IS31FL3731: BRANCHES:[master:6a9d478de67c154e8529fe67f917926f3f75a518;busio:9889ef8a0da900898f45bedb64248ddf2693656e;gh-pages:4be689d51807d0ff2f8c3e8198e9bad0562ff09f;]|RELEASE:[2.0.2|none]
+adafruit/Adafruit_Windows_Drivers: BRANCHES:[main:9f5e362d282cb04d5cff4269a6199643d374688a;]|RELEASE:[2.5.0.0|none]
