@@ -2783,3 +2783,4 @@ adafruit/Adafruit-Audio-BFF-PCB: BRANCHES:[main:cc58e5b14991044038626a00b502c2e8
 adafruit/Adafruit_CircuitPython_ICN6211: BRANCHES:[main:1c219ab2a01d8ceb50d10f75a1b46a4dd0e0d92e;]|RELEASE:[none|none]
 adafruit/Adafruit-MatrixPortal-S3-PCB: BRANCHES:[main:1ff841b511d7dc153ae8d4c0b148d33cb3b2ba85;]|RELEASE:[none|none]
 adafruit/Adafruit-TSC2046-PCB: BRANCHES:[main:cf5b01b3b6ae479abf051a8d0d3e8ed5b05ba632;]|RELEASE:[none|none]
+adafruit/Adafruit-ADXL343-ADT7410-Sensor-FeatherWing-PCB: BRANCHES:[main:808e86d439341e5acc1c307a376ca220d96751ee;]|RELEASE:[none|none]
