@@ -2803,3 +2803,4 @@ adafruit/Adafruit_Debounce: BRANCHES:[gh-pages:c96ba6fa886a24bcca773e65f1c1b3036
 adafruit/esp-protocols: BRANCHES:[circuitpython:2f492c02289015ecbb36851dd1bd04e0eb0a9937;master:12bacdc3a01121ca97eeb3988e2faf38c7563472;]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: BRANCHES:[main:53c602e97d82ec5722f49521e3dbe6c71da10422;]|RELEASE:[none|none]
 adafruit/Adafruit-AD5693R-Breakout-Board-PCB: BRANCHES:[main:5eaa6eb797945a917ff46a1db228a3c6ca9b0e8d;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_AD569x: BRANCHES:[main:f3c9c6194af728c309facdb83dfc8b4e7a34ccf2;]|RELEASE:[2.0.11|none]
