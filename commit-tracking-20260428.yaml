@@ -1513,3 +1513,4 @@ adafruit/rayshobby-hid-serial-trinket: BRANCHES:[master:282903bdcb78856a5fe74fb0
 adafruit/Adafruit_CC3000_Shield_PCB: BRANCHES:[master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba;]|RELEASE:[none|none]
 adafruit/Mini-LED-Gamer: BRANCHES:[master:4e230a14bdc480bc3f983829d7cea8b83dadd3be;]|RELEASE:[none|none]
 adafruit/Trinket_Arduino_Linux: BRANCHES:[master:827471769d16bbf7816a6bf8b1fe6d716cf684b4;1.6.2:16db139fec9d2adab8d2bb5d3119deeab2556bba;1.6.1:6526bbebdabdae9a25ac20125a2c9050e69b341a;1.0.5:1e8d26e1f9ba6e0fad1069d5f72a54fd8e79b52a;]|RELEASE:[none|none]
+adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8;]|RELEASE:[none|none]
