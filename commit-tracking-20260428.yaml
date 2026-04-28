@@ -1388,3 +1388,4 @@ adafruit/Adafruit_ILI9340: BRANCHES:[master:00e5efe5d5c95f1255e55031b57f17288cf3
 adafruit/PiMiner: BRANCHES:[master:dce07f83d178489c92eb67922ff1124f5f376e29;]|RELEASE:[none|none]
 adafruit/Adafruit_TLC5947: BRANCHES:[master:605cc440ca9d4a6ea02f399b2a616c007e867527;gh-pages:f1339da830e1e3d83f87a4e85dc405ecf72eb53c;]|RELEASE:[1.2.3|none]
 adafruit/Adafruit_TLC59711: BRANCHES:[master:b26853a3dfb9b6f6d128814aceae84dedc0cd44a;gh-pages:b406ded61b84c17ab4ae94db83ec2a7aa36f17e9;busio:6d7b57c031fd6c5e2c835c853b5f30daf8dcfd0a;]|RELEASE:[1.3.4|none]
+adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410;]|RELEASE:[none|none]
