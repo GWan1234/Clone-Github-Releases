@@ -2460,3 +2460,4 @@ adafruit/Adafruit_NAU7802: BRANCHES:[master:594dec00df8edc7163de858f1aecd9de4c65
 adafruit/Adafruit-HTS221-PCB: BRANCHES:[master:e32c12659a54739f9700e8706e82f13b841f2f86;]|RELEASE:[none|none]
 adafruit/Adafruit-LPS2X-PCB: BRANCHES:[master:5d8dc248b63ff39d1ca1ddbf29ea7fc30e9d4278;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_RockBlock: BRANCHES:[main:e7c63dcaac92854e6520634a1027eb572f864bb5;]|RELEASE:[1.4.2|none]
+adafruit/Adafruit_WebBluetooth_Dashboard: BRANCHES:[master:d0cf85f20e98c27a92f1759b1d07dd849c884663;]|RELEASE:[none|none]
