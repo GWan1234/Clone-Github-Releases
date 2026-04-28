@@ -1558,3 +1558,4 @@ adafruit/Adafruit-Perma-Proto-HAT-PCB: BRANCHES:[master:fdee45a5dee903ecfbd9f010
 adafruit/Adafruit-PiTFT-Helper: BRANCHES:[master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;wheezy:da1641a7ade7446272df2781ea8fba42abbadefe;]|RELEASE:[none|none]
 adafruit/omxplayer: BRANCHES:[master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f;]|RELEASE:[2/10/2015|none]
 adafruit/Adafruit-Occidentalis: BRANCHES:[master:115173db410886eed029ebcce3414b6f5b01950f;]|RELEASE:[none|none]
+adafruit/pi_hello_video: BRANCHES:[master:e08d2a43a9cbaa38ba0decb86f972b558ee7eef4;]|RELEASE:[none|none]
