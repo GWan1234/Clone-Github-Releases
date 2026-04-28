@@ -2724,3 +2724,4 @@ adafruit/Adafruit_CircuitPython_ADXL37x: BRANCHES:[main:203c816c60d7dcb14d298c18
 adafruit/VL53L4CD: BRANCHES:[main:a642dda7d53bf583f6e214fc2c02ec7485a195a8;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Typing: BRANCHES:[main:9fc36471c4dda0b66f3376c42f9dc01a2d26d955;]|RELEASE:[1.12.3|none]
 adafruit/Adafruit_CircuitPython_Register_SPI: BRANCHES:[main:a823517e556942416556e63cea128fe701a63ea3;]|RELEASE:[1.0.1|none]
+adafruit/Adafruit_CircuitPython_ESP32S2TFT: BRANCHES:[main:5d07f083f2a131593b04a63042186894c06646ae;copilot/update-component-library:ff0c38752b41fc3f3cf2b714e1f39735ff780af0;]|RELEASE:[2.0.8|none]
