@@ -1519,3 +1519,4 @@ adafruit/Adafruit_Python_MCP9808: BRANCHES:[master:5524605a15cfce5668f259de72c88
 adafruit/Adafruit_Python_MAX31855: BRANCHES:[master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs: BRANCHES:[master:04f6f23f995a4a0c8b944c07b2d74d602898c528;]|RELEASE:[none|none]
 adafruit/FreqShow: BRANCHES:[master:53c517eba98ab11b2d119d9e5b366aba9630e432;]|RELEASE:[none|none]
+adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a;]|RELEASE:[none|none]
