@@ -1415,3 +1415,4 @@ adafruit/avrdude: BRANCHES:[heads/6.1-pi:7859732c734edf2f19c80439293d09595e9aee1
 adafruit/Adafruit_TinyFlash: BRANCHES:[master:853e2fa031e0556752e3b8e5c652150f32c2b41f;gh-pages:311f8144aa45ca7a9af4fd9243e9831dc55270b1;]|RELEASE:[1.0.4|none]
 adafruit/IRKey: BRANCHES:[master:44ea72a1142ae43aea40ccf8c77d674704ffc945;]|RELEASE:[none|none]
 adafruit/TinyRTCLib: BRANCHES:[master:48385f8972a270f4aacec73a1b5e46f114c647f5;actionci:05e69f19810b90ed0c9e3a6c5f881d0be3badc9d;]|RELEASE:[1.1.3|none]
+adafruit/Adafruit_STMPE610: BRANCHES:[master:3707ff5e8ff9149f352626d217e7255812df010f;gh-pages:8c1fd086982f30e528bacf63d11cd8b6a756d0dc;]|RELEASE:[1.1.6|none]
