@@ -1437,3 +1437,4 @@ adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e
 adafruit/Adafruit_CAP1188_Library: BRANCHES:[master:00ae4a226ed99286de3cfa6644c4eac804ba884e;gh-pages:529fc4e737efebe8ca920136387ee07dc95aa947;actionci:320b9eba7f51754ae6ee2bbeac576a01885b86a0;]|RELEASE:[1.1.3|none]
 adafruit/Adafruit-NeoPixel-Ring: BRANCHES:[master:2f25091f4bd556fc9af91edb441b003df9bfddcb;]|RELEASE:[none|none]
 adafruit/Adafruit-PCB-Ruler: BRANCHES:[master:722a89a839cd30a00da8f9e0d61cb9332e491f55;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:0016765907bdbb98e76b3ddb5a29d213b046e619;]|RELEASE:[none|none]
