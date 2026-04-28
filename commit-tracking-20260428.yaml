@@ -2875,3 +2875,4 @@ adafruit/Adafruit_CH9328: BRANCHES:[main:321cbc054776d79ebe7fd58f277a8bcfdecb9ba
 adafruit/Adafruit_HDC302x: BRANCHES:[main:e9c2cc8784c5aa8d429e54debd57264e0cfb90fd;gh-pages:84bff468dc671b286d54cacffe57a756e557161a;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit-Pixel-Trinkey-PCB: BRANCHES:[main:3331f2f048f8ea2769698f96f35f18969f4f3619;]|RELEASE:[none|none]
 adafruit/Adafruit_DS248x: BRANCHES:[copilot/fix-reset-function-arduino-mbed:96eddd83410d91768da2c6fdab70ea065f6e9b0b;main:642fec2ab4c29d1765ac5305eead8cf513c08069;gh-pages:5f0c997fd7b007e8fbd76163ecf39a6cbf2e525e;]|RELEASE:[1.2.0|none]
+adafruit/Adafruit-Chainable-DS18B20-Extender-Breakout-PCB: BRANCHES:[main:bf200b6586b9d5aa7c498a762af0e22f15290840;]|RELEASE:[none|none]
