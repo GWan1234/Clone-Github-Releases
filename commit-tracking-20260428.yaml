@@ -2185,3 +2185,4 @@ adafruit/Adafruit-DS2413-PCB: BRANCHES:[master:a5aeeffa483ae80c718e9cb3cd23ea769
 adafruit/Adafruit-Si7021-PCB: BRANCHES:[master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31856-PCB: BRANCHES:[master:fee86485c7b8150e20707d628b4c9d6f52d87255;]|RELEASE:[none|none]
 adafruit/atmel-samd-micropython-vagrant: BRANCHES:[master:9f1eaca51befa1e29447bd6ef37a438a43ad0afc;]|RELEASE:[none|none]
+adafruit/Adafruit_VL53L0X: BRANCHES:[master:99a130ca7c7ee930fa428244dbe16d84703e4756;gh-pages:ebda1706c5fd91f8c143af31a1ae6b9e60a75c69;doxy-fix:3d854028fb716241270fbfee487f59bade6f68b4;]|RELEASE:[1.2.5|none]
