@@ -2837,3 +2837,4 @@ adafruit/Adafruit-UPDI-Friend-PCB: BRANCHES:[main:6063046738409ca77509f5ccce2f2b
 adafruit/Adafruit-CAN-Bus-BFF-PCB: BRANCHES:[main:7456bb16b65da5de6bae232dbe146e98cf4b0a5b;]|RELEASE:[none|none]
 adafruit/Adafruit-DC-Power-BFF-PCB: BRANCHES:[main:de89d2fa7b7cfbdea51fc6e946cd2e780d7b2677;]|RELEASE:[none|none]
 adafruit/Adafruit_ADG72x: BRANCHES:[gh-pages:2601f910d8be610b21a8d6e2485c62a572c7a79c;main:eeffb18d0a52505bede5523531d41bc530cd2f8a;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit-NeoRGB-Stemma-PCB: BRANCHES:[main:2ddebac3517cb3013345f5e2e3bdac1ded4aa0f8;]|RELEASE:[none|none]
