@@ -1970,3 +1970,4 @@ adafruit/Adafruit_CircuitPython_HX8357: BRANCHES:[main:736c2ded2f65bb9f96e4e4236
 adafruit/Adafruit_CircuitPython_IterTools: BRANCHES:[main:c7295159281f63c18f658f47494738bf9620b03c;]|RELEASE:[2.1.8|none]
 adafruit/Adafruit_CircuitPython_PYOA: BRANCHES:[main:757f825a5ded561eebd5ee287a0e863f5988f169;patch-fix:db17bbe4a6cb119b783ca1de7e2492cefbf3af88;setup-py-disabled:69db58b5a9e193674e790e15a6d90fed706de725;]|RELEASE:[2.6.8|none]
 adafruit/Adafruit_CircuitPython_DymoScale: BRANCHES:[main:a9cc5a4cd493ce6779f4449ea608763f465478ce;patch-fix:e2e75677f244f3c57a95103d8a450ebfdbdb8e3c;]|RELEASE:[2.0.14|none]
+adafruit/Adafruit-VEML7700-PCB: BRANCHES:[master:ab489f03c957f681ed0161fc6d2b786956556e23;]|RELEASE:[none|none]
