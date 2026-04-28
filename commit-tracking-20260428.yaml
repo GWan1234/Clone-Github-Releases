@@ -2689,3 +2689,4 @@ adafruit/Adafruit_CircuitPython_OV5640: BRANCHES:[main:6b0859eaf91c2bb87258faf6f
 adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB: BRANCHES:[main:b6d4e909afa879750c0bd96747585dc598a90a67;]|RELEASE:[none|none]
 adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB: BRANCHES:[main:413ce0dd8db9915a982eab83b68ea9a01c70db77;]|RELEASE:[none|none]
 adafruit/Adafruit-ATtiny8x7-Breakout-PCB: BRANCHES:[main:442a8ca863d1fc0ffb78cd526b82855fc6b95d95;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_VL53L1X: BRANCHES:[main:6f5506aa2a4286ff93877642076870f1f8fa0f94;pylint-fix:d0e76a665b128df39d0352203f6b9d9fb025b60d;patch:b834832bdbe9fd9e5b694c7d9e5979398317c3a5;]|RELEASE:[1.2.9|none]
