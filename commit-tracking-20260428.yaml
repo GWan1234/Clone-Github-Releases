@@ -1464,3 +1464,4 @@ adafruit/Adafruit-MAX9744-Amplifier-PCB: BRANCHES:[master:8df09f97bcc66b78a54ca0
 adafruit/Adafruit-MAX31850-thermocouple-breakout-board: BRANCHES:[master:759ee92d8dd940d14ad418e81016b3e25eb1a581;]|RELEASE:[none|none]
 adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e;]|RELEASE:[none|none]
 adafruit/TeeOnArdu: BRANCHES:[master:29ad8742eaa81aa76ed1c73be77ef67e4432db83;30pins:5946367beec54ac208f16840dfca701a66502225;]|RELEASE:[none|none]
+adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB: BRANCHES:[master:e3f77c8c186fbdbadf4f33629ca83cec93f3f731;]|RELEASE:[none|none]
