@@ -2870,3 +2870,4 @@ adafruit/Adafruit-555-PWM-Output-STEMMA-PCB: BRANCHES:[main:2e76b0f1a4a3c2c5f1c1
 adafruit/Adafruit-SEN5x-Adapter-Breakout-PCB: BRANCHES:[main:fcedf60e56ee80e49331ec1621d4c64182aa6177;]|RELEASE:[none|none]
 adafruit/Adafruit-TRRS-Trinkey-PCB: BRANCHES:[main:d244f5b5658d5cd1b1bf62de57265185179cdf0f;]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Tripler-PiCowbell-PCB: BRANCHES:[main:6cd373213d7bd0c569cbf81be19671b641bc1b8c;]|RELEASE:[none|none]
+adafruit/Adafruit_HX711: BRANCHES:[main:2d5cb36a660277ab93ba955beff3c5d684754f63;gh-pages:edca919ee3ce1d8c1779d45117bddb40d1c65e92;]|RELEASE:[1.0.2|none]
