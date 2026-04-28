@@ -2147,3 +2147,4 @@ adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB: BRANCHES:[master:a18e1c035
 adafruit/Raspberry-Pi-Pokemon-Detector: BRANCHES:[master:9545ee1486fdad90518995bbd5422d935d999b12;]|RELEASE:[none|none]
 adafruit/AdafruitClassLibrary: BRANCHES:[master:3fe5e2d3ca0a13a84567928365f09040768bb4ee;]|RELEASE:[none|none]
 adafruit/Adafruit_RTD266X_I2CFlasher: BRANCHES:[master:febb4f815731842439836268628d835e8d966f4f;]|RELEASE:[none|none]
+adafruit/Adafruit-uRTC: BRANCHES:[master:9773b4f6f369eea39a8471126ad6201b8d511940;]|RELEASE:[none|none]
