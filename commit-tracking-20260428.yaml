@@ -2820,3 +2820,4 @@ adafruit/Adafruit-LM66200-PCB: BRANCHES:[main:a305a260e91be4643626c906667e9f58f7
 adafruit/Adafruit_CircuitPython_Qualia: BRANCHES:[main:e8c65d92a8b8fe4fad4d528a5fd25e900726e2e5;]|RELEASE:[2.2.4|none]
 adafruit/Adafruit-ADS7830-PCB: BRANCHES:[main:b796c6e98ecc7bddd24d97c2ce9e553dbf0edf7c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_ADS7830: BRANCHES:[main:a6370562f232243b2ba620e0e1c7087d75714e37;]|RELEASE:[1.0.8|none]
+adafruit/Adafruit_CircuitPython_FT5336: BRANCHES:[main:10d1f563f9e51353afd58e91d3b3d5a1c9711060;]|RELEASE:[1.1.8|none]
