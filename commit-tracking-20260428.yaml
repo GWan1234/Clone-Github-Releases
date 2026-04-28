@@ -2887,3 +2887,4 @@ adafruit/Adafruit_CircuitPython_DS248x: BRANCHES:[main:87a3ac8d503555a5b987d6935
 adafruit/Adafruit-USB-Type-C-Plug-Breakout-PCB: BRANCHES:[main:11a5d518bac2d73989a15c8c9e2dcd97611ef6ab;]|RELEASE:[none|none]
 adafruit/Adafruit-HX711-24-bit-ADC-PCB: BRANCHES:[main:4444b42fc47d665fcd6694097690cfbf6c609b43;]|RELEASE:[none|none]
 adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB: BRANCHES:[main:083c789179ca1150e4816bf293eda970ff5c3c46;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_HX711: BRANCHES:[main:3058a5123a28221a3f5fb891b9db617eb22bbaae;]|RELEASE:[1.1.2|none]
