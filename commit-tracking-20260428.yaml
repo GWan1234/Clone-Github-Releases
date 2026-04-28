@@ -2292,3 +2292,4 @@ adafruit/Adafruit_CircuitPython_AzureIoT: BRANCHES:[main:47dff067be254a26bfb8db7
 adafruit/apt-adafruit-com: BRANCHES:[master:9acf800006be32df7783facaff6ec13f517f708f;]|RELEASE:[none|none]
 adafruit/FabScanPi-Server: BRANCHES:[master:c310830a328b997ac20a55249134c66852342859;develop:7eeecdb05dadba003e1073b40a3e86a13f30e005;gh-pages:9d953db40741a28e85e9f9833186055b38a79797;release/v.0.6.0:08924b3cd7f8944b76c3a432deeb38622da6dedd;]|RELEASE:[none|none]
 adafruit/Adafruit-LPS3X-PCB: BRANCHES:[master:dacce39b9af0ccbcc31625c45ef3a9c001ab0a4d;]|RELEASE:[none|none]
+adafruit/Adafruit-PyGamer-PCB: BRANCHES:[master:6725ded4a2049f7bf44a9078c141ceb65a5547e9;]|RELEASE:[none|none]
