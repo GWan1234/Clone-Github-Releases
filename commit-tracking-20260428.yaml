@@ -2207,3 +2207,4 @@ adafruit/Adafruit-MPL115A2-Breakout-PCB: BRANCHES:[master:c28cfcbce2a9bd072de601
 adafruit/Adafruit-Perma-Proto-Pi-PCBs: BRANCHES:[master:eebe4895c17e70200071dd98876799b278e233f3;]|RELEASE:[none|none]
 adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba65017103b;]|RELEASE:[none|none]
 adafruit/gdb-micro-trace-buffer: BRANCHES:[master:8baa889c6f515cc73145d2e9d2800efb85696be1;]|RELEASE:[none|none]
+adafruit/Adafruit_Newtmgr_Swift: BRANCHES:[xcode9:2cbbf3baed3bc612c12e08352f4c32d09907cb1d;master:18af31335fabc845e24f02770495c93b2ac91277;]|RELEASE:[none|none]
