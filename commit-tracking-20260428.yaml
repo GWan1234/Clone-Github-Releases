@@ -98,7 +98,7 @@ hacs/.github: BRANCHES:[master:d760fab8cc6bef9cafea4032ce99f9154222e435;]|RELEAS
 hacs/ND-NotifyUpdates: BRANCHES:[master:1af01e57d0336e64426e75297a5841bbac6c778e;]|RELEASE:[0.1.2|none]
 hacs/development: BRANCHES:[master:c241ba81939c911b8d498e213476ea625cc669a1;]|RELEASE:[none|none]
 hacs/container: BRANCHES:[main:a5c0d78eea823480b011170d89086f866ba0ba3a;]|RELEASE:[none|none]
-hacs/action: BRANCHES:[main:dcb30e72781db3f207d5236b861172774ab0b485;]|RELEASE:[none|none]
+hacs/action: BRANCHES:[main:dcb30e72781db3f207d5236b861172774ab0b485;]|RELEASE:[22.5.0|none]
 hacs/get: BRANCHES:[main:180232dc98600cb20dd1912eca63ec0650365b92;]|RELEASE:[none|none]
 hacs/collector: BRANCHES:[main:551fdb8f5d1c193af1402dd225f47d129205364d;]|RELEASE:[none|none]
 hacs/addons: BRANCHES:[dependabot/github_actions/docker/login-action-4.1.0:afb561f377f30b6e148ad00b456a1a0d31ec8721;dependabot/github_actions/home-assistant/builder-2026.03.2:d3b6df823f85aecf2473460036a2757d707ee5ec;main:84ecb95a098132aa3cb4f7c8ed386e803bef1c16;]|RELEASE:[none|none]
