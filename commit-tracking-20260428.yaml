@@ -2676,3 +2676,4 @@ adafruit/Adafruit-24LC32-PCB: BRANCHES:[main:e92cf5549d43c5c17ab04d6ee2899a7783c
 adafruit/Adafruit_CircuitPython_PCF8563: BRANCHES:[main:c4ca8d355b79179b44716544577925442a801bc0;]|RELEASE:[2.0.9|none]
 adafruit/Adafruit-3.2-TFT-Breakout-PCB: BRANCHES:[main:78921b1128d96fb384ceedf88545cafa5540b3a8;]|RELEASE:[none|none]
 adafruit/Adafruit-MCP9601-PCB: BRANCHES:[main:135d6a8e4ca84c55ec2c8a0208ba61e98e4db31e;]|RELEASE:[none|none]
+adafruit/WipperSnapper_Component_Requests: BRANCHES:[main:5804918d7f1e6aef4076cb1028c27623e67684c7;]|RELEASE:[none|none]
