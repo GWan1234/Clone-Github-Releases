@@ -1248,3 +1248,4 @@ adafruit/HL1606-LED-Strip-PWM: BRANCHES:[master:bc43d9cf18b152ccc197515ceab0498f
 adafruit/LPD6803-RGB-Pixels: BRANCHES:[master:e5d3a2a55a8ee7e417e1e03dd5593530f0265eab;gh-pages:080ce20cc5b7ff32b1964190ec17423152656ec0;]|RELEASE:[1.1.2|none]
 adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63;]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Screwshield-PCB: BRANCHES:[master:ce439b0d2063337f03171edbf927aae6552befa0;]|RELEASE:[none|none]
+adafruit/TFTLCD-Library: BRANCHES:[actionci:b3d5ba1771a08639aec6defb38c77ad378d10c4a;master:2f917ad72bf9d2c39cb741d2435df537770e8eca;gh-pages:e3a8c46c8a35632ce679a370824d6d2868e3d3ea;nondma_samd51:3e1da133131fd05fa742e13fd15dc55be8d566d7;samd51:167e9364be7eac8ec17f822aeda97fe01b5c4c6c;xmega_support_test:bed0a09f5409d884a18aef798d6a374f59075546;Due:e8cb704fdd364380ddd204f674755417ebf03000;]|RELEASE:[1.0.3|none]
