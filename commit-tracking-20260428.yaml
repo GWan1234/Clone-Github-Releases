@@ -2737,3 +2737,4 @@ adafruit/Adafruit_CircuitPython_TSC2007: BRANCHES:[main:04d89339c995dfb449c0c95a
 adafruit/Adafruit_TSC2007: BRANCHES:[master:99a91e05758fd7aa440773562f9506e94655c788;gh-pages:e5522d700eb3bc9f5cada8ff529a74d03753cfc3;responsive_fixes:077f918bc947b0a92d017d543217b646e91ad48a;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB: BRANCHES:[main:73022f63a4b82117093ff5c250c119b6720005df;]|RELEASE:[none|none]
 adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: BRANCHES:[main:55df02725e803b00706c48715883efdbe4aceb1c;]|RELEASE:[none|none]
+adafruit/Adafruit-NeoKey-Breakout-PCB: BRANCHES:[main:8e89cf15d32369072d473cda4424f417255abf97;]|RELEASE:[none|none]
