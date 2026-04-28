@@ -1426,3 +1426,4 @@ adafruit/Adafruit_Trellis_Library: BRANCHES:[master:0d6be80cd5b6d7cdba54afc3f956
 adafruit/adafruit-pi-cam: BRANCHES:[master:d3ff22672785de876a74a4c873104dde3b1183fa;]|RELEASE:[none|none]
 adafruit/NeoPixel-Sticks: BRANCHES:[master:e505da1f3e2f702076bb7845865026569e0b103c;]|RELEASE:[none|none]
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: BRANCHES:[master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3;]|RELEASE:[none|none]
+adafruit/Adafruit_FRAM_I2C: BRANCHES:[master:cb13d177db301d11469f3e52f7154c4aeac36f3f;gh-pages:7fc1e7081b6d5f27794367a89a4b9cd2cce5be08;busio:37310b12133ef8b830f65ca57386a5af2dab973a;actionci:a62bb175d768b709e32fd3007381c9d079d61426;docs_badge:28e3f1767a5c39a64cccb0868a8ecea5d052f784;]|RELEASE:[2.0.3|none]
