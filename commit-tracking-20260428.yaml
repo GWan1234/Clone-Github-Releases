@@ -1551,3 +1551,4 @@ adafruit/Adafruit-Motor-HAT-Python-Library: BRANCHES:[master:07cec2046678f72af87
 adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a;]|RELEASE:[none|none]
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: BRANCHES:[master:efe89824b3574463ebca864a2494f7c86fb5c82b;]|RELEASE:[none|none]
 adafruit/Pro-Trinket-Rotary-Encoder: BRANCHES:[master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7defa6;]|RELEASE:[none|none]
+adafruit/Adafruit_Soundboard_library: BRANCHES:[master:ab279797cb35f4aea58cb19f906e38f28d4a2d78;gh-pages:58a1b2af111f7e4a8f115805015f06bc5f095e2e;]|RELEASE:[1.1.2|none]
