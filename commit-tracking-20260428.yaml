@@ -1535,3 +1535,4 @@ adafruit/Bluefruit_LE_Connect_Android: BRANCHES:[master:5443af2742840b715d5f5219
 adafruit/Adafruit_ESP8266: BRANCHES:[master:08fadf3c31d5355cb51fb6278a7097bcdea85553;gh-pages:10821ebc9c53398477b53d3e065c3ba96724da0b;doxy-fix:bfbd90bb4e7325108382d9e198506f467e0a6a1b;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_Python_MPR121: BRANCHES:[master:86360b80186617e0056d5bd5279bda000978d92c;]|RELEASE:[none|none]
 adafruit/Pi_Node_Example: BRANCHES:[master:7ddf92a9b8c52ab6dd199430f5b89714913eab86;]|RELEASE:[none|none]
+adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: BRANCHES:[master:28187bf4de497bd6bcff28d3767473f78b46038d;]|RELEASE:[none|none]
