@@ -528,7 +528,7 @@ leapbtw/PCW-lookup: BRANCHES:[main:179b54d617432c89dada5767fa33c88d08516e17;]|RE
 leapbtw/pid-to-corruptiontype-gen3: BRANCHES:[master:4ef3666b53bd00ea7e9beb69d89a953c8f4e3078;]|RELEASE:[2.0|none]
 leapbtw/SCInsta26: BRANCHES:[main:af722c9ec3627a21a14fe13b05ee2d2a8910591f;]|RELEASE:[none|none]
 leapbtw/space-invaders: BRANCHES:[master:5b79c118732c15969647889f51c3058dce4129cf;]|RELEASE:[none|none]
-leapbtw/suicuneFinder: BRANCHES:[main:6c6a166dea5d1d071f489dc961a7828056066ba5;]|RELEASE:[none|none]
+leapbtw/suicuneFinder: BRANCHES:[main:6c6a166dea5d1d071f489dc961a7828056066ba5;]|RELEASE:[1.4.0|none]
 leapbtw/thunderbird-ios: BRANCHES:[main:877d4032b986aae1ea3ddf209884474d03e982bf;]|RELEASE:[none|none]
 leapbtw/uxplay-windows: BRANCHES:[main:ea2896cdb84a2e97d92ecb1baf8037721157f72d;old-uxplay-windows:04ddaee1cf5e786205fc1b964274d4990608663e;]|RELEASE:[1.72.1-3|none]
 leapbtw/YTLitezzzzz: BRANCHES:[main:52cba53fdffae6f85cf75da58fb896d03a76ee99;]|RELEASE:[none|none]
