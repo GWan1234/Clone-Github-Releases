@@ -1855,3 +1855,4 @@ adafruit/Adafruit_CircuitPython_HCSR04: BRANCHES:[main:f84978b754a3b82854995bb7e
 adafruit/Adafruit_CircuitPython_VEML6075: BRANCHES:[main:89fff9e65629161a52f6f23334b69869803a32a3;patch-fix:4aa7dab62bed70025f735d8fe068d3a73447e482;]|RELEASE:[1.1.25|none]
 adafruit/Adafruit_CircuitPython_MPRLS: BRANCHES:[main:02121ab6e8fb33aec2662e746077e042dc8fb105;]|RELEASE:[1.2.26|none]
 adafruit/Adafruit_CircuitPython_TFmini: BRANCHES:[main:fa709de0054d0725ba7d6af092af711249f9fd70;]|RELEASE:[1.2.25|none]
+adafruit/Adafruit_CircuitPython_AT86RF233: BRANCHES:[main:44fd9c9cf4f3d170890f237c85cc7fde85f39752;]|RELEASE:[none|none]
