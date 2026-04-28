@@ -1972,3 +1972,4 @@ adafruit/Adafruit_CircuitPython_PYOA: BRANCHES:[main:757f825a5ded561eebd5ee287a0
 adafruit/Adafruit_CircuitPython_DymoScale: BRANCHES:[main:a9cc5a4cd493ce6779f4449ea608763f465478ce;patch-fix:e2e75677f244f3c57a95103d8a450ebfdbdb8e3c;]|RELEASE:[2.0.14|none]
 adafruit/Adafruit-VEML7700-PCB: BRANCHES:[master:ab489f03c957f681ed0161fc6d2b786956556e23;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_SSD1331: BRANCHES:[main:2475fe400a137f4a1032e8595f05a587857d9c4c;setup-py-disabled:2e080b0c5d8304a1f187c062c1efb5e91d68a822;]|RELEASE:[2.0.4|none]
+adafruit/Adafruit_AVRProg: BRANCHES:[gh-pages:23146b7db3dcd4cbcdd9ee6696abd51076972a03;master:2ec0aa64e468e0e4e1fd94dd04221a0dc9f068d8;updi:ed90b594b9fde03a41ab9b5e8a8f2e5fe43b7868;actionci:e24a1a3f61221fb33bb6ee7ec6612674edaa953a;]|RELEASE:[1.4.7|none]
