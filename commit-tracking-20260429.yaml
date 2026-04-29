@@ -3466,3 +3466,4 @@ LilyGO/Servo_STL: BRANCHES:[master:a9410c4af2864a632e639f2ccf3732dd9d9731f2;]|RE
 LilyGO/SoftRF: BRANCHES:[master:31fec6324ec101ce478066c10a64c66549829f20;]|RELEASE:[none|none]
 LilyGO/software: BRANCHES:[master:29253330c3b7d8adcbae6a8cc2449ac2efbc182c;]|RELEASE:[none|none]
 LilyGO/SSH-Server: BRANCHES:[master:8cc389fa3ee1b37158801a28e2430f3472d97dfd;]|RELEASE:[none|none]
+LilyGO/stm32-ad9850: BRANCHES:[master:d9e3408b5c958e7b56a27883e6df273302ce53f4;]|RELEASE:[none|none]
