@@ -3251,3 +3251,4 @@ home-assistant/companion.home-assistant: BRANCHES:[dependabot/npm_and_yarn/maste
 home-assistant/wheels: BRANCHES:[master:2933143d2add06b4c0e67d7c3510f4d4cbdeac8a;uv:4c82d7bb0df64651d81cb7716ba4f193802c50b7;upgrade-alpine-before-installing-packages:f73cc47ca09b59a13f09f535b76ad77fe0b2f42f;R2:ec6295d058dce88ca9dc194b43de3af28a7c6c3f;]|RELEASE:[2025.12.0|none]
 home-assistant/wheels-custom-integrations: BRANCHES:[dependabot/github_actions/actions/upload-artifact-7.0.1:514c79183bf96eaedc16ec48e90b48c22f185bcf;master:276a0a11c4d40261898c568addb6372780f47edd;remo:60440f4c634265e54b4dad5ca45e99625d268b3c;aiogithubapi2550:bce5cd53962a8a7395459bb0091a35dfb9803b2a;]|RELEASE:[none|none]
 home-assistant/wheels-opencv: BRANCHES:[master:924d4af139e557c908cc0773782df5949356a67d;]|RELEASE:[1.11.0|none]
+home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4;]|RELEASE:[none|none]
