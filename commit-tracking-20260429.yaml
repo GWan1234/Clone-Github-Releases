@@ -3144,3 +3144,4 @@ adafruit/Adafruit_AS7343: BRANCHES:[main:21e3a81db1e346e4c3ec2ec305fb9a81bf481ba
 adafruit/Adafruit_AS7331: BRANCHES:[main:f4bf93596c125a7a5d9f3bf3913edfa284d3640b;gh-pages:713a00e2d3fa3ecce346dd29452dc2a8ff459e92;piclaw-main:a736750d67d7dfee752b78d67bc7e96997153c53;]|RELEASE:[1.0.1|none]
 adafruit/Agent_Skills: BRANCHES:[main:4958fe4f07abe198e951e8d3cebde16d5c1421fd;]|RELEASE:[none|none]
 adafruit/Adafruit-SGP41-Gas-Sensor-Breakout-PCB: BRANCHES:[main:9c8e8c6d195e430a3537b0dca20fe7e310ece822;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_SGP41: BRANCHES:[main:9603782db00ea2a1d813fad666da3aec98926a83;]|RELEASE:[1.0.2|none]
