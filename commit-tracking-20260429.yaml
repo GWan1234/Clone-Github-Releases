@@ -3016,3 +3016,4 @@ adafruit/Adafruit-INA3221-Breakout-PCB: BRANCHES:[main:8512a5309b714b62bf669fd1b
 adafruit/Adafruit_CircuitPython_INA3221: BRANCHES:[main:0ef15d1a291e2865d7401cbacc3c5ea81420f76d;]|RELEASE:[1.2.3|none]
 adafruit/Adafruit_CircuitPython_TM1814: BRANCHES:[main:046d1ccec98c56390a15a1774314fc761cff0fe3;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit-VCNL4200-Breakout-PCB: BRANCHES:[main:461ffb1e80f5cb6555e25400d41db8b1a72ca58e;]|RELEASE:[none|none]
+adafruit/Adafruit-CP2105-Friend-PCB: BRANCHES:[main:b878e5d43cd5a98883767438d3711d69624bbe94;]|RELEASE:[none|none]
