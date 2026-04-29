@@ -3637,3 +3637,4 @@ Xinyuan-LilyGO/T-0.99TFT: BRANCHES:[main:551f48a4fdb4a17b37f4e62bd41b4f1e43f5f91
 Xinyuan-LilyGO/tbeam-helium-mapper: BRANCHES:[feature/web:5eaf58d2677bb128d64f58a1cd6e385f0616b040;main:00cec9c130d4452839dcf933905f5624d9711e41;]|RELEASE:[none|none]
 Xinyuan-LilyGO/CH9102_Mac_Driver: BRANCHES:[main:837cb6023c57942af7f376a8c494854e1a5f62bf;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-keyboard: BRANCHES:[main:6367192e4d610fdcec125a614db017855cd0e536;]|RELEASE:[T-KeyboardV1.0.0|none]
+Xinyuan-LilyGO/esp32-oled-sh1106: BRANCHES:[master:29e9524945b65f623d05423227e9e20165130481;]|RELEASE:[none|none]
