@@ -3527,3 +3527,4 @@ Xinyuan-LilyGO/esp32-camera-screen: BRANCHES:[master:66c7f1141e5429130f4ad21cf5f
 Xinyuan-LilyGO/T5-Ink-Screen-Series: BRANCHES:[master:fba4a4afd316b7e014c2080b6f6a5bed9c672b59;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-Camera-Series: BRANCHES:[master:11b68cb2c743023c813d63bc5638f9887fa23f26;esp32-camera-bme280(Have):bd0e17a6a153e0d12276a6f26e07891364cb6e61;]|RELEASE:[none|none]
 Xinyuan-LilyGO/esp32-face-recognition: BRANCHES:[master:e08271a9361600829b9a8aa7de7c989a295f6983;]|RELEASE:[none|none]
+Xinyuan-LilyGO/esp32-soil-dash: BRANCHES:[master:a379832a7c82eb9222df96a6d9ae37bfc9c7a99f;]|RELEASE:[none|none]
