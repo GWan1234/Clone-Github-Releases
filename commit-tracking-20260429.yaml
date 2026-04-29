@@ -3835,3 +3835,4 @@ emqx/mria: BRANCHES:[main:790a964aa01318a12fcfb8e543cd9179f155a12a;copilot/troub
 emqx/emqx-fvt: BRANCHES:[main:2bd202047c41fa2160b639f953ca956086b21745;broker-autotest:844122d80a4a28182437005093366d0c0e93bc47;broker-autotest-emqx-master:6f3ce92f54588eae345eeea2ab5d4aec6f7a3895;full_automated_test_suite:dde4025217693e79d1470c252850282625e5eecc;screenshot_test:7c3666335aba6fef9b568465af911994daf702e9;broker_performance_test:a203df0edd75039ebd267f6d82a82333a5d249df;]|RELEASE:[report1.0.1|none]
 emqx/deploy-emqx-to-alibabacloud-with-terraform: BRANCHES:[main:e4b012b3ed5ff61b981f5420845c9f4d48cf822c;]|RELEASE:[none|none]
 emqx/ipqueue: BRANCHES:[main:def641ad690b1fd8d696029ac81af1b8665304ad;benchmark:8399f25b9e346025e5447b1272617a98e2b890af;init:2872b052b7b35bc663e848678522ab1586ea86c2;]|RELEASE:[none|none]
+emqx/emqx-docker: BRANCHES:[main:cddc2e939a0ec978fb381aaed4bf2cd172c625f6;]|RELEASE:[none|none]
