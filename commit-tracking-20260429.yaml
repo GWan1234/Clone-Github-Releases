@@ -2996,3 +2996,4 @@ adafruit/Adafruit-PiCowbell-Adalogger-PCB: BRANCHES:[main:667876fdbc1bf1bf7e68f5
 adafruit/Adafruit-Metro-M7-with-AirLift-PCB: BRANCHES:[main:a3c861b5d9f21f124cc4e0cc4034f511857c55a1;]|RELEASE:[none|none]
 adafruit/web-firmware-installer-js: BRANCHES:[main:1b33db1faef89afcf2c52966f65fc2facad6b07f;]|RELEASE:[2.2.2|none]
 adafruit/Adafruit_IntelliKeys: BRANCHES:[main:afd23a892c4b3e187de99fdf2c738f058d11ea3b;update-doc:4e6de65b072192fdcfcf151e97369300addf3856;]|RELEASE:[0.2.3|none]
+adafruit/cookiecutter-adafruit-arduino: BRANCHES:[main:66a16eac492106c9e8091f9c2b588a8dee068a3f;]|RELEASE:[none|none]
