@@ -3264,3 +3264,4 @@ home-assistant/brands: BRANCHES:[master:d923dadb0fce45115763c528dc22b893d62df4d9
 home-assistant/plugin-multicast: BRANCHES:[master:6b8522219d537a8b9f79a98ea11d4e9526f1960c;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01;]|RELEASE:[2026.02.0|none]
 home-assistant/wheels-scipy: BRANCHES:[master:46ff221a202dc970e11eff7ae3781b9ea71dcbe1;]|RELEASE:[0.1.0|none]
 home-assistant/plugin-observer: BRANCHES:[master:43d08413afb0b13de3fd45e189b50e7ec18733d2;]|RELEASE:[2026.02.0|none]
+home-assistant/landingpage: BRANCHES:[autoupdate-frontend:9d81d96e0929471df4249d142b7bf85d64e376d4;main:5a66dd43122e6db251b963d7a4621c3588ab5c4c;]|RELEASE:[2025.08.0|none]
