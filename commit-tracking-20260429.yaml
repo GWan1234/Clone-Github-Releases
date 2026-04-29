@@ -3476,3 +3476,4 @@ LilyGO/T5-4Inch7-Doc: BRANCHES:[master:9a27b2993de13c9bd294c935e32e26057e565274;
 LilyGO/ttgo-32-micro-breakout-board: BRANCHES:[master:25b5022ca4a1b8c7ce7bae76715ad2db2fbf07d6;]|RELEASE:[none|none]
 LilyGO/TTGO-Electronic-Badge: BRANCHES:[master:8f90ca1300399ea8319a2098023559cfe0acda89;]|RELEASE:[none|none]
 LilyGO/TTGO-Epape-T5-V1.8: BRANCHES:[master:1ce4bddab6daa571329724bcba0edb3589a2fefe;]|RELEASE:[none|none]
+LilyGO/TTGO-ESP32-OV7670-1.8TFT: BRANCHES:[master:0879304d3c14847b52758fd16b67cf72b3aa405a;]|RELEASE:[none|none]
