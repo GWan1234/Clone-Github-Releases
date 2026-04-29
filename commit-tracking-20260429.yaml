@@ -3047,3 +3047,4 @@ adafruit/The-Great-Search-Game: BRANCHES:[Transition-Requirements:7e0e297636a5d3
 adafruit/Adafruit-DAC7578-Breakout-PCB: BRANCHES:[main:b9eeb74cd3d047db6354b2b9f4fa5676c20b3bc9;]|RELEASE:[none|none]
 adafruit/Adafruit_DACX578: BRANCHES:[main:b174745264477a5553d4f178b95f2245258d3c7c;gh-pages:ffb205cba261d616b1e0e39a54e744b59b2b9793;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_TLV320_I2S: BRANCHES:[gh-pages:875fd4553d247d4974acabddbab7079b1c0c66ef;main:a361dbc4f1168fd37c98329a600e7daffe658434;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit_CircuitPython_DACx578: BRANCHES:[main:7406f5764d63aae8c1d4657d576393e0af0aed5e;]|RELEASE:[1.0.3|none]
