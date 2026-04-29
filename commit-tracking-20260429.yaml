@@ -3518,3 +3518,4 @@ LilyGO/UNO_INA219: BRANCHES:[master:f39c135d15dddfe3f7cb43003a451e6b4f2646c3;]|R
 LilyGO/use_vim_as_ide: BRANCHES:[master:a56c4412b4885aa41410d9f0ba4f7b9fdc214ce1;]|RELEASE:[none|none]
 LilyGO/vl53l0x-arduino: BRANCHES:[master:22d997afc59625d14c3940d54dfd6d1800efa627;]|RELEASE:[none|none]
 LilyGO/Watch-Document-EN: BRANCHES:[master:f4898da71d15e1b8ca490978e3c2b3c610c29b80;]|RELEASE:[none|none]
+LilyGO/Watch_K210_doc: BRANCHES:[master:f76f882a0f259862f34a22be03cc2275512596c6;]|RELEASE:[none|none]
