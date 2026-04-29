@@ -3696,3 +3696,4 @@ Xinyuan-LilyGO/LilyGO-ETH-Gateway: BRANCHES:[master:861dcdb2b3af9a9bd7eeb742e84c
 Xinyuan-LilyGO/T-Connect: BRANCHES:[main:b0e7c4803a19fadaabf93890704a65193afcd181;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T3-STM32: BRANCHES:[master:24cae38c852f2acd5e3c62c50dfe006dfcde2b92;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Circle: BRANCHES:[master:e152c0823a0a697570bcb72fcec8f45c0ca6ae93;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Circle-S3: BRANCHES:[arduino-esp32-libs_V2.0.14:abab4c14406ed00c63564971f59e5235686e037f;esp-idf-V4.4.8:d0642b9e4bb8650bee6f4b0ede625c58e1eeef68;]|RELEASE:[none|none]
