@@ -3426,3 +3426,4 @@ LilyGO/esp8266-oled-ssd1306: BRANCHES:[SH1106:abb56c7d5492c47a392467773866421788
 LilyGO/esp8266-weather-station: BRANCHES:[master:e1e367424fdb8579a2bd2ae3494de758f5230878;development:8fc80586281423663ad95f519e95ee21a1214e6f;]|RELEASE:[none|none]
 LilyGO/esp8266_deauther: BRANCHES:[master:a3bb629c6519d2a35fca5ccfcfebbe9b2e7d83cb;travis-ci-tests:b1ea1f37b1bf67160cb1c1187c1ab0cf740de00d;]|RELEASE:[none|none]
 LilyGO/ESP8266_DHT11: BRANCHES:[master:91ebb29480096533b8c1f45226d78cdb9e6a4971;]|RELEASE:[none|none]
+LilyGO/ESP8266_F204_relay: BRANCHES:[master:b6ef139d0ed913b7ee1cdc69513680778323e4ac;]|RELEASE:[none|none]
