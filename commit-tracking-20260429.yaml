@@ -3388,3 +3388,4 @@ LilyGO/Basic: BRANCHES:[NewWebSockets:49a695164d2af548d7be9bb332b2e9876f1f017a;m
 LilyGO/BME280: BRANCHES:[master:6e92ab529f5014343553ba623cb76b718f82195b;]|RELEASE:[none|none]
 LilyGO/ch34xser_macos: BRANCHES:[main:05f7bc30a72d1f9443a449026fb8eec764583123;]|RELEASE:[none|none]
 LilyGO/chinese-programmer-wrong-pronunciation: BRANCHES:[master:b8689d4511bef2b1bed20332fcc9fb59476cd3de;]|RELEASE:[none|none]
+LilyGO/Color-Weather-Station-ESP32: BRANCHES:[master:30417fcbfaf52a3c4af45a4f7752c487a71af3df;]|RELEASE:[none|none]
