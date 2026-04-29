@@ -3721,3 +3721,4 @@ Xinyuan-LilyGO/T-Connect-Pro-MicroPython: BRANCHES:[main:455cffb6995a4b0798dd985
 Xinyuan-LilyGO/LilyGoLib-PlatformIO: BRANCHES:[master:df59195707a9684d829a41d665a2ef20626c8e73;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGoLib-ThirdParty: BRANCHES:[master:e80611c61a6ff64ffb3d08875e71b2f4ee447913;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-P4: BRANCHES:[T-Display-P4_v1:7293d4b050e5c3bc384ea27f184746a0dda96bc9;T-Display-P4_debug_2:4fa9b36a1557a5671a1c1b2eaba8bb1c87cbdb4a;T-Display-P4_debug_3:f5a675519aa54b02941e93d54bf1eebf8e230c6d;T-Display-P4_debug:c4da827e1f22b342b009a8527a26a1b437f99b6b;main:c9dda5a5bf0f2094b986c84047a37cd8e6b30c94;]|RELEASE:[none|none]
+Xinyuan-LilyGO/LilyGo-Modem-Series-MicroPython: BRANCHES:[main:72a9cc294953369329c87a7be941e87fbed75f44;]|RELEASE:[none|none]
