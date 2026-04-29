@@ -3400,3 +3400,4 @@ LilyGO/ESP32-Arduino-Case-37: BRANCHES:[master:9de2c278a524887a8f4bd25c8ada8a3ae
 LilyGO/esp32-cam-demo: BRANCHES:[m5cam-psram:0f8a432364d144f91099e2298e79c8a7fc332ada;m5cam:51dd0c79916e4b1b597545d2574b8c52395ebb24;mpu6050:1b7abfdbe0fc8946a5c8efd7ecc934c12c53a00a;master:34a354663d5c15ff2501c12659ff23486c31ea6f;hw_i2c:2e01a859776deda7361c8cc463325e86c1a39a91;]|RELEASE:[none|none]
 LilyGO/ESP32-Camera: BRANCHES:[master:ca43a7a387c3214332e29c91dd9e12ba3fef0002;]|RELEASE:[none|none]
 LilyGO/esp32-camera-bme280: BRANCHES:[master:022fdd3e065ed914dc064604a1e50941b2866cf9;]|RELEASE:[none|none]
+LilyGO/ESP32-Camera-OV7725: BRANCHES:[master:3fef8f30afd1ee0e86e76a20f3dac8e114c332b9;]|RELEASE:[none|none]
