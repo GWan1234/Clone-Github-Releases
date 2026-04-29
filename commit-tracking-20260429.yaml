@@ -3516,3 +3516,4 @@ LilyGO/TTGO_USB_Microcontroller: BRANCHES:[master:5324b4339d23ef6416f1aac8ee6ec8
 LilyGO/UNO-TPLORA: BRANCHES:[master:c524ab59c9181df67e8ee1aa790b6c7c4bc5599e;]|RELEASE:[none|none]
 LilyGO/UNO_INA219: BRANCHES:[master:f39c135d15dddfe3f7cb43003a451e6b4f2646c3;]|RELEASE:[none|none]
 LilyGO/use_vim_as_ide: BRANCHES:[master:a56c4412b4885aa41410d9f0ba4f7b9fdc214ce1;]|RELEASE:[none|none]
+LilyGO/vl53l0x-arduino: BRANCHES:[master:22d997afc59625d14c3940d54dfd6d1800efa627;]|RELEASE:[none|none]
