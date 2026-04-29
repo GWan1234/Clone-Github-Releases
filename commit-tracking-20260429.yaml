@@ -3670,3 +3670,4 @@ Xinyuan-LilyGO/CH340K_Driver: BRANCHES:[main:739ef6a2590aa98ff539679a24c2cd69130
 Xinyuan-LilyGO/T-Watch-Deps: BRANCHES:[master:23d7b8de44a8c004a0672fd0dae3ab39fc5f47de;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Watch-2021-lvgl: BRANCHES:[master:ddcd79107b861d20b3fb2272ddcf51208d2e4f92;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Touchbar-AMOLED: BRANCHES:[master:355803a6893f2ae7c57389dcda7f088880080293;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Vending: BRANCHES:[master:da068a6cec4f38e90efe12110b05eabbfc7065ee;]|RELEASE:[none|none]
