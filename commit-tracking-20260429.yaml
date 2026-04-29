@@ -3183,3 +3183,4 @@ adafruit/esp-usb: BRANCHES:[fsls-only:35021d724b4072235582d5eb6bb1e776a69d9d4c;m
 adafruit/Adafruit-MAX44009-Lux-Light-Sensor-PCB: BRANCHES:[main:8105e22700e71f254633c947bb89a1d9bafbcb18;]|RELEASE:[none|none]
 adafruit/esp-usbip-bridge: BRANCHES:[main:78e32a95542aced35e94ba6960721cc39178a084;]|RELEASE:[none|none]
 adafruit/pyusb-usbip-backend: BRANCHES:[main:11914e98d3f87890b8eff303137454a83dd65f13;]|RELEASE:[0.0.1|none]
+adafruit/pyserial-pyusb: BRANCHES:[main:e21f31f5e62c98398333047158e894d4a3d7a7da;]|RELEASE:[0.0.1|none]
