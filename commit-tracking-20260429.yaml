@@ -3701,3 +3701,4 @@ Xinyuan-LilyGO/T-Deck-Pro: BRANCHES:[HD-V1-250326:4db5af554c1ca433635ab52a7a745f
 Xinyuan-LilyGO/T-Keyboard-S3-Pro: BRANCHES:[arduino-esp32-libs_V2.0.14:3f97d398e67424db0a9ac366db47aae63488a99f;main:3347b02e986c8221ae5b33645a9bae1b2c4bd2f0;stm32cubeg0-firmware-package_V1.6.2:e35ec481e5136707293ef92e35f3540534095dc4;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGO-Mini-E-paper-S3: BRANCHES:[main:018c1fcde0a8dd95bbaf29d49780059fb36d1e3f;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Echo-Lite: BRANCHES:[main:98ec4c680843f8a44bd2a0af11f1be135bb1d33d;]|RELEASE:[none|none]
+Xinyuan-LilyGO/Meshtastic_firmware: BRANCHES:[master:ae4f54224ed21ca5d2a7b9c8706d74c9a6b955e5;]|RELEASE:[none|none]
