@@ -3728,3 +3728,4 @@ Xinyuan-LilyGO/LilyGO-Mini-Epaper-S3: BRANCHES:[main:a2a3d1ed4a89e07fef0da4b6454
 Xinyuan-LilyGO/T-Impulse-Plus: BRANCHES:[main:ea687f3823789b8342a758c3818d35824cc08111;]|RELEASE:[none|none]
 Xinyuan-LilyGO/micropython: BRANCHES:[dependabot/github_actions/actions/upload-artifact-5:0f0926f0a9727e08c8cd69992ae098d46d8f1c6b;main:6a71eb57e42f0a41b8f7945e99e52a94622159d6;dependabot/github_actions/actions/checkout-5:bf189b8af5ca3d8f51bffb3c200466f246e17417;dependabot/github_actions/codecov/codecov-action-5:7cd7ba78d0236d19a39320203444156554651f9a;dependabot/github_actions/devmasx/merge-branch-1.4.0:8227852cd455d93f3cf084db81131947b69cc6aa;dependabot/github_actions/mymindstorm/setup-emsdk-14:5adb7fd9acd6ce28126cb463f38824094b240765;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Radar: BRANCHES:[master:eee325f11473e55140bceb78e23b059b17118158;]|RELEASE:[none|none]
+Xinyuan-LilyGO/esp-gitee-tools: BRANCHES:[main:d2dcebcec325ebbb1bbb84da7fe2848f7dafeb7f;]|RELEASE:[none|none]
