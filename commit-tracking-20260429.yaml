@@ -3299,3 +3299,4 @@ home-assistant/zwa2-toolbox: BRANCHES:[dependabot/npm_and_yarn/vite-7.3.2:911af8
 home-assistant/operating-system-full-images: BRANCHES:[main:cfefbbf8c2da1cffdebe753dae15dfdc674b00ea;pre-bake-dind:ca55d7d6a6931248f9a1df4c55eb0604d6348c8d;build-channel-workflow:0e0fbe3bbe7f884a3c0b14340c11e5b751624a83;initial-implementation:6067fd5ff50d48b8127d7fcce5fc12f3568c9307;]|RELEASE:[none|none]
 rustdesk/doc.rustdesk.com: BRANCHES:[master:41b1bbf27525958cbf736cacd4efad480bdbc169;]|RELEASE:[console|none]
 rustdesk/engine: BRANCHES:[heads/main:9176a596b1f82625dfe8831edbcc4f2c9dc22da9;flutter-3.24.4-fix-desktop-multi-window-plugin-crash:9d1e76f59496eb0995b96e4bf56630fbc989dda8;]|RELEASE:[main|none]
+rustdesk/hbb_common: BRANCHES:[main:6490a8655c25801e16c3b30d161d9f2b9e458b36;]|RELEASE:[driver|none]
