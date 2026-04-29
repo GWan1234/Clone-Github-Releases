@@ -3022,3 +3022,4 @@ adafruit/Adafruit_CircuitPython_VCNL4200: BRANCHES:[main:b64eba6373aec302d8d739b
 adafruit/Adafruit-Pixel-Shifter-PCB: BRANCHES:[main:e8ec19ef46cda9e6cf594e6738372a66d1208d0e;]|RELEASE:[none|none]
 adafruit/Adafruit-LPS28-Pressure-Sensor-PCB: BRANCHES:[main:593fed8bfe3f406d6f40a9c7bd83e88b92a25055;]|RELEASE:[none|none]
 adafruit/Adafruit-bq25185-Charger-Breakout-PCB: BRANCHES:[main:e73b39bac750f2c90abdb5ea465c1b8128979dfa;]|RELEASE:[none|none]
+adafruit/Adafruit-bq25185-with-3.3V-Buck-PCB: BRANCHES:[main:a28ea1355e38f7f310f64ec49bac85a8aacb365c;]|RELEASE:[none|none]
