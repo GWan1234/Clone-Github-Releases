@@ -3795,3 +3795,4 @@ emqx/rocketmq-client-erl: BRANCHES:[master:2cabc7c8126759439a060edd6913652bee8ed
 emqx/crc32cer: BRANCHES:[master:38557c0b6a269cdea8be856f70b4b58fda792a5d;]|RELEASE:[none|none]
 emqx/snappyer: BRANCHES:[master:22d612c7dba852fba3a339e6747a77076cda8dd8;gh-pages:e1db20a5ce14b3f37aa86ac72778870774b4b6b9;]|RELEASE:[none|none]
 emqx/mysql-otp: BRANCHES:[master:a86d94e53ab73176cdc3ee3dac598c3ac298dbe6;fix_etimeout:f40e998919ca9a6d9789ed6deb93326272153282;update-app-src:6abbae71575fd09c53cbafeb377e71fd08afaa31;gh-pages:f40045581f0317e41ef63e406629a394b3dd6e01;]|RELEASE:[1.6.1|none]
+emqx/cowboy: BRANCHES:[emqx-2.13.x:2cc4265f4e67434442e9c4436783019f7ae634ad;master:957dc318057b1adf1c57c021cd097d2820a13880;active_n:fdd2b256600c47b6ca0e419940e1245e1546b5fe;1.1.x:0c15b9216b7467390623db84e169b32c68e85bcb;1.0.x:d08c2ab39d38c181abda279d5c2cadfac33a50c1;]|RELEASE:[2.9.1|0ebceb432f46b733fcb54c018ad2aae1e0c80f77]
