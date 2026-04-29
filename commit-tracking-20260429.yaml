@@ -2956,3 +2956,4 @@ adafruit/Adafruit-PCA9548-PCB: BRANCHES:[main:5b8baf8ad61c5bd340e53f47d9386bd3bd
 adafruit/esp32-s3-boy_fw: BRANCHES:[main:d24440a4e8dfddaffad23adea98bc54c4bd48f9c;external-screen:1ca3d0c85b53dd531bf5719c229ef2554a511ecf;]|RELEASE:[v0.2|none]
 adafruit/Adafruit-PB86-Breakout-PCB: BRANCHES:[main:a7fce3014e27e929397fabb8f74ddbdae1fbd95d;]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-PiCowbell-PCB: BRANCHES:[main:5f91ef80575652c059f2b19c5a45b21a443447a5;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_Pastebin: BRANCHES:[main:e8679abd62d1bb57158710a0cae9b77961043271;]|RELEASE:[1.0.13|none]
