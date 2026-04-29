@@ -3305,3 +3305,4 @@ rustdesk/rustdesk: BRANCHES:[master:d4a1430c27e4d07cc4e37f737a256b23eaf52cd5;ter
 rustdesk/rustdesk-server: BRANCHES:[master:815c728837b8a091c9feeeabb423d543be3a7f8d;]|RELEASE:[1.1.15|none]
 rustdesk/rustdesk-server-demo: BRANCHES:[main:4165a07271700356822ae5ad94696033e882d718;add-license-1:b4c4edbb6f5ab560c925b0304f6394793b3d8ed0;]|RELEASE:[none|none]
 rustdesk/rustdesk-server-pro: BRANCHES:[main:a25002a49cad74258506ef7606957a591b6e379c;]|RELEASE:[1.8.2|none]
+rustdesk/uptime: BRANCHES:[master:e0e0745588a427da9196f6cd1db3f03d513efd58;gh-pages:af0021e1a7cad1b55123ce585707d2d3b6d3cc2e;]|RELEASE:[none|none]
