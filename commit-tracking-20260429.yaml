@@ -2942,3 +2942,4 @@ adafruit/Adafruit_CircuitPython_PCF8575: BRANCHES:[main:532cc56ec0f46ad1fe22f11c
 adafruit/Adafruit-MAX17048-PCB: BRANCHES:[main:cc7d6e2477db89dabc9c64f91ac5f30f354466be;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_BLE_Beacon: BRANCHES:[main:168c14c76b5313db852b454d6eb468780034c86f;]|RELEASE:[1.0.13|none]
 adafruit/Adafruit_Pinguin: BRANCHES:[main:38fb0288cba03f763e727c85ab6593e5da3acedb;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_DisplayIO_FlipClock: BRANCHES:[main:634a9c69d4548c392c5e8992f7b5fed3911cf8b0;fix_build_yml:6102f72c93e572cf146391e2f620d7dddc785606;sort_colormap:708d05426c279019071534b240e6179c1ecbf21d;]|RELEASE:[1.1.10|none]
