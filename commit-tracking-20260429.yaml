@@ -3328,3 +3328,4 @@ xyzroe/home-assistant.io: BRANCHES:[next:b3babf90b32c536acce3ff3fa6bcd9295184487
 xyzroe/homed-service-common: BRANCHES:[master:9fbe53de93f539bfe8b197ea204551ef5eaf80ec;]|RELEASE:[none|none]
 xyzroe/homed-service-custom: BRANCHES:[master:e2a7b2b0eb50c6b2d979f7619472f61a1e997ab2;patch-1:63a8b788ebb3cb3f04e3c8665864be16cfd62f37;]|RELEASE:[none|none]
 xyzroe/homed-service-zigbee: BRANCHES:[patch-2:398e6432e8dfbc7808862747f211cf8db5cff9fa;patch-1:31df51821cecbf1a303cf5d4329819afdba525a5;master:38877cdd2b06a903b0651ba6f5eefd3d739af063;ezsp14:bb97fcfd1f6f4a8cd5fdf3170179fc338abf4a93;]|RELEASE:[none|none]
+xyzroe/homed-wiki: BRANCHES:[patch-2:824a192923b7146dc70931c43308173d4e705d06;patch-1:60cb896c2b0d4dae911baadd54afd04afb0cc82a;master:fb7b890417b3dd3ca5773e97350113a751ac4a52;]|RELEASE:[none|none]
