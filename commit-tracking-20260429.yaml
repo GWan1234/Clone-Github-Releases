@@ -3300,3 +3300,4 @@ home-assistant/operating-system-full-images: BRANCHES:[main:cfefbbf8c2da1cffdebe
 rustdesk/doc.rustdesk.com: BRANCHES:[master:41b1bbf27525958cbf736cacd4efad480bdbc169;]|RELEASE:[console|none]
 rustdesk/engine: BRANCHES:[heads/main:9176a596b1f82625dfe8831edbcc4f2c9dc22da9;flutter-3.24.4-fix-desktop-multi-window-plugin-crash:9d1e76f59496eb0995b96e4bf56630fbc989dda8;]|RELEASE:[main|none]
 rustdesk/hbb_common: BRANCHES:[main:6490a8655c25801e16c3b30d161d9f2b9e458b36;]|RELEASE:[driver|none]
+rustdesk/muxnet: BRANCHES:[main:303f2af95db99f297e5897e80b651a6d07a8fb8f;]|RELEASE:[none|none]
