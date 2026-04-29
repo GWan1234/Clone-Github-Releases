@@ -2934,3 +2934,4 @@ adafruit/esptool: BRANCHES:[master:fc0c98485056b66296f7e77ab8f9f98ebf7dddd1;add-
 adafruit/Adafruit_CircuitPython_TCA8418: BRANCHES:[main:d520150442d4709c00bd22cc2910a0052eccb8fa;]|RELEASE:[1.0.21|none]
 adafruit/Adafruit_PyCamera: BRANCHES:[memento-qsxga:6e4d763d00fdaf95d0b22c661ed14a1002b7ce58;gh-pages:deecf7bcda3ad057d50449d62daa3ed1fb98d77f;main:6cd745dd75633365f7045f1b02c02e801091d56e;fix-sdfat-cardsize:4d42341699d051d776487667835b54946db3794c;kitty_printer:e824c11b6ee07b7a728ae6bd7d8234a502e70876;]|RELEASE:[1.0.8|none]
 adafruit/Adafruit_MAX1704X: BRANCHES:[gh-pages:aca80448517eb117c958826f08c204ba1ac50e45;main:4953d76cc98fc3f2b072b477d80519b32f1f59dc;]|RELEASE:[1.0.3|none]
+adafruit/Adafruit_CircuitPython_GUVX_I2C: BRANCHES:[main:4619e8086b2d5ad93b751405f3f58868fdb4a351;]|RELEASE:[1.0.14|none]
