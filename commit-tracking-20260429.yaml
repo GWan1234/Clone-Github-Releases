@@ -3717,3 +3717,4 @@ Xinyuan-LilyGO/T3-S3-MVSRBoard: BRANCHES:[main:840a2e788b3192c4e9bddf0640c1ecaf7
 Xinyuan-LilyGO/T-Display-K230_canmv_rt: BRANCHES:[main:111b67743f0c238b717ae502a4b4a9638c45f691;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGoLib: BRANCHES:[master:ff331512f78c982e641d940725ebf1a63ab0b7e0;]|RELEASE:[V0.1.0|none]
 Xinyuan-LilyGO/T-Halow-P4: BRANCHES:[master:5df88447ac64e204f3076b71854479f14d2a3704;debug:b182bbe7a4539b39f35d424126c22737c8df44be;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Connect-Pro-MicroPython: BRANCHES:[main:455cffb6995a4b0798dd98511405f2427aca5953;]|RELEASE:[none|none]
