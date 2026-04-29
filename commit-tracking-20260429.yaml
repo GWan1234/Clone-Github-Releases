@@ -3403,3 +3403,4 @@ LilyGO/esp32-camera-bme280: BRANCHES:[master:022fdd3e065ed914dc064604a1e50941b28
 LilyGO/ESP32-Camera-OV7725: BRANCHES:[master:3fef8f30afd1ee0e86e76a20f3dac8e114c332b9;]|RELEASE:[none|none]
 LilyGO/ESP32-DHT-SSD1306: BRANCHES:[master:7141b2efd057398c765e73660c0226b1fbc119dc;]|RELEASE:[none|none]
 LilyGO/ESP32-Joystick: BRANCHES:[master:c25dd7b17fc17e434e89f52ae49df41847617cb4;]|RELEASE:[none|none]
+LilyGO/esp32-micro-sdcard: BRANCHES:[T-watch2020v2:d1a679d9e624939234d73389c85735d2584a084b;master:fd70d6f636d729fe331636a7b67d37cfa9d09278;]|RELEASE:[none|none]
