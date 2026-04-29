@@ -3395,3 +3395,4 @@ LilyGO/D1_mini_Examples: BRANCHES:[master:9c7ddf2c09d4aa4d351d3532739ed1598f6ae1
 LilyGO/DabbleESP32: BRANCHES:[master:c7f9a2acb86b1f07d361ebb5793bfec7a85a9bc4;]|RELEASE:[none|none]
 LilyGO/DigiSpark-ATtiny85-driver-install: BRANCHES:[master:075e0b5513fc6425e722af038566ba07125f3dfe;]|RELEASE:[none|none]
 LilyGO/Document: BRANCHES:[master:d806450325cfbab2b867d3e66d0eba6c45336b08;]|RELEASE:[none|none]
+LilyGO/esp-idf: BRANCHES:[master:84788230392d0918d3add78d9ccf8c2bb7de3152;release/v3.0:db17ffef00e402be3bef2090deffa844fc5b9920;release/v2.1:3baa4e39b3c1505438e2911857a4e61be60235dc;release/v2.0:bef9896305ca6a2b48507f6ec03ce13bc32d7005;]|RELEASE:[none|none]
