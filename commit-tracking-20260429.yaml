@@ -3538,3 +3538,4 @@ Xinyuan-LilyGO/LilyGo-LoRa-Series: BRANCHES:[master:16bc3e2b42fffc5a410db93db339
 Xinyuan-LilyGO/TTGO-T-Display: BRANCHES:[master:6f89cddcde7152b84f7afc1831b6a1dee1fc3206;add-license:cb3e66c3003d8e050ccba1972d9ce23949c359c8;]|RELEASE:[none|none]
 Xinyuan-LilyGO/TTCar_3D_Model: BRANCHES:[master:bd8eb4b9f94370852b90a6bfe16f870e5a851899;]|RELEASE:[none|none]
 Xinyuan-LilyGO/TTGO_TWatch_Library: BRANCHES:[t-watch-s3:9884d62113cd2f7aa77cd179c346b9017eb08301;master:e5a0f825a21198f97d2bafee03ea853766483d20;]|RELEASE:[V1.4.3|none]
+Xinyuan-LilyGO/TTGO_T_Watch_Baidu_Rec: BRANCHES:[master:520f97301acd4e0090b23a7506c393d61663d941;]|RELEASE:[none|none]
