@@ -3460,3 +3460,4 @@ LilyGO/Micropython_doc: BRANCHES:[master:fa4ce72680610fc8d27cb3f3e932650c7ac9293
 LilyGO/MINI32-V1.0: BRANCHES:[master:307c315b9e4761eacb3dc8b6b8cefcf01532753b;]|RELEASE:[none|none]
 LilyGO/mPython: BRANCHES:[master:005b7db6a2840ff549a14f166f428b08aaab146e;update/micropython_04.29:2f69e341e35efd06104e81003ffb42520bf011af;features/radio:5f140e594af82eef3dc598c8544283760cd7da96;]|RELEASE:[none|none]
 LilyGO/PacketMonitor32: BRANCHES:[master:9a8dbce922f0f8f1b330af8a1c58571c640a07d4;]|RELEASE:[none|none]
+LilyGO/Pictoblox_EN: BRANCHES:[master:6a011f273bc4bfb7b904a0d551d51a99a2d88312;]|RELEASE:[none|none]
