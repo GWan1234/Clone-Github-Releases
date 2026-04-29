@@ -3372,3 +3372,4 @@ iamromulan/quectel-rgmii-toolkit: BRANCHES:[development-SDXPINN:92667f65d5b18dec
 iamromulan/rdpwrap-server-client: BRANCHES:[master:ec98bb17a5e72902bb2da061986acce7a476e733;]|RELEASE:[none|none]
 iamromulan/router-opkg-feed: BRANCHES:[Hiveton-H5000M:b643756199d2ad94785b4a14ddf1ca9d28d0f42b;main:b3f307160f820fde24f88679f3790dda3c134590;]|RELEASE:[none|none]
 iamromulan/sms_tool: BRANCHES:[master:f54eea22946719fb937ad7e2c0daad3a13b1af24;]|RELEASE:[sms_tool_mod_1|none]
+LilyGO/3D_Shell: BRANCHES:[master:762d9c89ff6ed88240502859fb42e32a5abbc9ce;]|RELEASE:[none|none]
