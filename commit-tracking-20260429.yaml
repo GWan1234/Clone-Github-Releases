@@ -3181,3 +3181,4 @@ adafruit/Adafruit_TMF8828: BRANCHES:[gh-pages:1cde1d25d1e401deeac741c3be86bb949c
 adafruit/Adafruit-Terminal-Block-BFF-PCB: BRANCHES:[main:6e2c47d43d37a4911910750956fb27c9459b2a57;]|RELEASE:[none|none]
 adafruit/esp-usb: BRANCHES:[fsls-only:35021d724b4072235582d5eb6bb1e776a69d9d4c;master:d03ae8127b336b62fa60f6d61f5adc58931139ae;]|RELEASE:[none|none]
 adafruit/Adafruit-MAX44009-Lux-Light-Sensor-PCB: BRANCHES:[main:8105e22700e71f254633c947bb89a1d9bafbcb18;]|RELEASE:[none|none]
+adafruit/esp-usbip-bridge: BRANCHES:[main:78e32a95542aced35e94ba6960721cc39178a084;]|RELEASE:[none|none]
