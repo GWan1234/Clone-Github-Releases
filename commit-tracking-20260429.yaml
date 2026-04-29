@@ -3655,3 +3655,4 @@ Xinyuan-LilyGO/VGA32: BRANCHES:[master:4edd0d5fcb83b7e454c78ccb69ada1d18582f1e9;
 Xinyuan-LilyGO/LilyGo-T-RGB: BRANCHES:[main:359c03f7cd8e9aaadd4bf0f3fbf790844fd95f98;]|RELEASE:[v1.0.5|none]
 Xinyuan-LilyGO/T7-S3: BRANCHES:[main:6da73f50a73dcb9cc86283cce1bf64d1c0d03620;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-Cam-ESP32S3: BRANCHES:[master:af0b94d6e79280bb6e8938ce3383ac19687957ca;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Dongle-S3: BRANCHES:[main:fda1b85f75851e6dea66a5eb35f8d8e1bafcebea;]|RELEASE:[v0.1|none]
