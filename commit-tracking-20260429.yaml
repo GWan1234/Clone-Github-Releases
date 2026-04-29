@@ -2922,3 +2922,4 @@ adafruit/Adafruit_CircuitPython_MMC56x3: BRANCHES:[main:3ba876a95009896c39970ba4
 adafruit/Adafruit_MMC56x3: BRANCHES:[main:1ebfd46b75a37cf9b414067ca8cffbb6ef27c339;gh-pages:d071af011f5481b1bfa2b4e0d4afffb281a8fcbb;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit-LSM6DS3TR-C-PCB: BRANCHES:[main:9bf02b7214d35f2699bfd24737865511e4f9f114;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_MAX1704x: BRANCHES:[main:612570dc9ab7fb845a22865f4312f7bd54fd42aa;regfix:5148c6bd4e831028af24be8eeae71d53dc168692;]|RELEASE:[1.0.17|none]
+adafruit/Adafruit_CircuitPython_SI1145: BRANCHES:[main:ebd81cc042b96711d7f8a88d7e3f4e4b6076aa59;]|RELEASE:[1.2.8|none]
