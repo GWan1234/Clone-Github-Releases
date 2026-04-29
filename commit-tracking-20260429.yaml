@@ -2982,3 +2982,4 @@ adafruit/display-ruler: BRANCHES:[main:144f8ae4f9b67dbc52ead44ae1e482ae36b20e21;
 adafruit/circuitpython-repl-js: BRANCHES:[main:1d14bb66f89853d23584668d403b464af6bc890d;]|RELEASE:[3.2.5|none]
 adafruit/Adafruit_CircuitPython_SPD1656: BRANCHES:[main:7e56b1870f06c7986951df110c3d7acecfb34efb;]|RELEASE:[0.9.8|none]
 adafruit/Adafruit_CircuitPython_ACeP7In: BRANCHES:[main:488d485db56502609c8b9f5fcc281f2e6c18bcbb;]|RELEASE:[1.0.5|none]
+adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB: BRANCHES:[main:ce3ce90565b9e49af0ebbd1c2e0abd300d2fd0d3;]|RELEASE:[none|none]
