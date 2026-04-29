@@ -3358,3 +3358,4 @@ xyzroe/ZigUNO: BRANCHES:[main:b808da51954593613fd455e9c77c1d85f46160ae;]|RELEASE
 xyzroe/ZigUSB: BRANCHES:[main:c6e830910989d84701bf0c339784b30952d757ce;]|RELEASE:[none|none]
 xyzroe/ZigUSB_C6: BRANCHES:[main:bc6cc8aca8f8ea64b017d6d0f9f5192a475376e9;]|RELEASE:[407|none]
 xyzroe/Zintercom: BRANCHES:[master:5b2db2f803adb25d47cef93e337922eb1e34eefe;rgb_led:23e04d3571e1918b6dcfb9f89edf02d0b87a0fa5;]|RELEASE:[1.0.5|none]
+xyzroe/zmod: BRANCHES:[feature/readme-auto-sync:fadaa5d9fd5e8e708e56a5d662a8bfd6147c046a;main:8760340a33237df1c53cacabee215465674c60e4;gh-pages:686e073a9a37e674dd4c9d002daba32699bd60b0;]|RELEASE:[none|none]
