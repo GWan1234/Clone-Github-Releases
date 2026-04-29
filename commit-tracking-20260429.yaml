@@ -3191,3 +3191,4 @@ adafruit/kicad-libraries: BRANCHES:[main:de36451d020dce626050a933f24dca4622ed881
 adafruit/lgpio-python-wheels: BRANCHES:[main:6be65ff7f8279fc85b6101dbc93528465fcf2551;]|RELEASE:[none|none]
 mayday-wh/PCB-Art-Workstation: BRANCHES:[main:03769a45c452b778a3f9a7ace5a6c6d3a53bc7fc;]|RELEASE:[V2.1|none]
 rbouteiller/airplay-esp32: BRANCHES:[main:cdfe9b5942d77d4fcff32809ab8854e2aa4d5796;]|RELEASE:[v0.1.19|none]
+0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e;]|RELEASE:[none|none]
