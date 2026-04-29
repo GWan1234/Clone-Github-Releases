@@ -3431,3 +3431,4 @@ LilyGO/ESP8266_OLED_SH1106: BRANCHES:[master:b77cb6eb137386ec4848e1f70092733aa10
 LilyGO/ESP8266_Relay: BRANCHES:[master:6a0fb639e800f70ec4629d00835755c5c41acf8e;]|RELEASE:[none|none]
 LilyGO/ezdevice-python: BRANCHES:[dev:9f18b705b027e22151b27b0b6b2503cfa15c9be0;master:9f18b705b027e22151b27b0b6b2503cfa15c9be0;]|RELEASE:[none|none]
 LilyGO/FabGL: BRANCHES:[master:7cc4b6a65097dad60c540d00a70e3a6c5a6ae1c2;add-code-of-conduct-1:0b0b5768b78161b19ea0df52bb895e4d1a23bb8f;]|RELEASE:[none|none]
+LilyGO/GPS_SG: BRANCHES:[master:7978933908bb63809a0c1de76d2731fec942eb65;]|RELEASE:[none|none]
