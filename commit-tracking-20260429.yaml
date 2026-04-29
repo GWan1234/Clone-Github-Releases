@@ -3338,3 +3338,4 @@ xyzroe/OpenTherm-TTL-adapter: BRANCHES:[master:77cbf84f77260f1f5581d8a22d4d16c68
 xyzroe/Q_sensor: BRANCHES:[main:3664599ce694275c27ed1c84054283bd739f1ef1;]|RELEASE:[24|none]
 xyzroe/reed: BRANCHES:[master:a6b33852cffea908d8ce619efcd8b45c0ebc2265;]|RELEASE:[none|none]
 xyzroe/Solar2MQTT: BRANCHES:[master:d9865651f23df9b34237605651abe6ec74288c35;]|RELEASE:[none|none]
+xyzroe/SZOMK: BRANCHES:[master:a60d9f08e81ef95d68ad0ae8b6a77e11d72a2b48;]|RELEASE:[none|none]
