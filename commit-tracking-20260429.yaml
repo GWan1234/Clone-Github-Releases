@@ -3010,3 +3010,4 @@ adafruit/Adafruit-Feather-RP2040-USB-Host-PCB: BRANCHES:[main:872f24e8be5948ba2a
 adafruit/Adafruit-Feather-RP2040-ThinkInk: BRANCHES:[main:d58fe34ce514708b82d5a25def954bce635c4c8f;]|RELEASE:[none|none]
 adafruit/Adafruit-RP2350-HSTX-to-DVI-Adapter-PCB: BRANCHES:[main:a607353591e19b0b8bc43ebdb2391b96b9278346;]|RELEASE:[none|none]
 adafruit/Adafruit_INA3221: BRANCHES:[main:43558800d999eecb35de7b15b94488afa945825e;gh-pages:06845a37e7ca82b836777d7c24d907c815fa4753;]|RELEASE:[1.0.3|none]
+adafruit/Adafruit_LPS28: BRANCHES:[main:b247a0a2ea2db98cb05ace12feb3421a37fa8ee3;gh-pages:ce7933a8972fc510932100be25d71bc8624d372b;]|RELEASE:[1.0.1|none]
