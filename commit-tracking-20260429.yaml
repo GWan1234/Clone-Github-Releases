@@ -3417,3 +3417,4 @@ LilyGO/ESP32_Alexa: BRANCHES:[master:d4dcc65cb4ed373edde74be2d3f5be5dc4c30a3e;]|
 LilyGO/ESP32_BLE_Arduino: BRANCHES:[master:adc2aee2f0d01eb6b30dd5ad3589f2cc89934beb;]|RELEASE:[none|none]
 LilyGO/ESP32_Example: BRANCHES:[master:9a25f57168bae662e030d9698a61c6bc041abaf9;]|RELEASE:[none|none]
 LilyGO/ESP32_MP3_Decoder: BRANCHES:[master:ca6344801fadfb7ec74fd71bc8b76bb6887f65df;]|RELEASE:[none|none]
+LilyGO/ESP32_OLED_webradio: BRANCHES:[master:dc7ce2b1360400f2cedb1aa219d9ae5dc1701ddf;]|RELEASE:[none|none]
