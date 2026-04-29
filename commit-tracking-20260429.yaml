@@ -3640,3 +3640,4 @@ Xinyuan-LilyGO/T-keyboard: BRANCHES:[main:6367192e4d610fdcec125a614db017855cd0e5
 Xinyuan-LilyGO/esp32-oled-sh1106: BRANCHES:[master:29e9524945b65f623d05423227e9e20165130481;]|RELEASE:[none|none]
 Xinyuan-LilyGO/CubOS: BRANCHES:[main:8e1af85749bfb6c5ab1dc19b02395cde27858aa2;add-license-1:23460481a5a3057641828bb4195782628c418d49;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-PicoC3: BRANCHES:[main:9565b8a0e10f5def2d0c34015f9e3328f846a751;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Dongle-ESP32S2: BRANCHES:[main:86471ffc844bc619515af97d3a61d7e9daf7f327;]|RELEASE:[none|none]
