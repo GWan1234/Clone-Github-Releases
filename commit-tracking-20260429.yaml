@@ -3263,3 +3263,4 @@ home-assistant/plugin-audio: BRANCHES:[master:3c57e58d37807c2fab9f9a89dd8c527319
 home-assistant/brands: BRANCHES:[master:d923dadb0fce45115763c528dc22b893d62df4d9;claude/add-task-workflow-form-n96IV:bb2ee7bd523a271301c22afa70ec8b1886171453;add-task-workflow-and-issue-form:1c7aa6752749b6f86801fc583ed760d0b0a5313d;karwosts-patch-1:b1957cc2e686f2c9925f5cf780f8d513feb2e9c2;input_weekday:0cc44c2dc46424ac6f8e62c54710f7d90f1ec227;]|RELEASE:[none|none]
 home-assistant/plugin-multicast: BRANCHES:[master:6b8522219d537a8b9f79a98ea11d4e9526f1960c;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01;]|RELEASE:[2026.02.0|none]
 home-assistant/wheels-scipy: BRANCHES:[master:46ff221a202dc970e11eff7ae3781b9ea71dcbe1;]|RELEASE:[0.1.0|none]
+home-assistant/plugin-observer: BRANCHES:[master:43d08413afb0b13de3fd45e189b50e7ec18733d2;]|RELEASE:[2026.02.0|none]
