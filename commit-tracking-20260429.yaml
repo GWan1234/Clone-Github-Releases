@@ -3414,3 +3414,4 @@ LilyGO/ESP32-TTGO-T1: BRANCHES:[master:c0526e87584cba6cc86f6d992df5080cce2a2569;
 LilyGO/ESP32-WiFi-Robot: BRANCHES:[master:81861d7bc92b36af5eeee4814971e56962850f49;]|RELEASE:[none|none]
 LilyGO/ESP32SingleChannelGateway: BRANCHES:[master:8c8d23b901117643b169e8e915a02ba226cda9c2;]|RELEASE:[none|none]
 LilyGO/ESP32_Alexa: BRANCHES:[master:d4dcc65cb4ed373edde74be2d3f5be5dc4c30a3e;]|RELEASE:[none|none]
+LilyGO/ESP32_BLE_Arduino: BRANCHES:[master:adc2aee2f0d01eb6b30dd5ad3589f2cc89934beb;]|RELEASE:[none|none]
