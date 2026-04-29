@@ -3131,3 +3131,4 @@ adafruit/reload-emulator: BRANCHES:[main:96f776934bb2b08f0eadce0648d9f639b77cfb0
 adafruit/Adafruit_CircuitPython_JD79667: BRANCHES:[main:4a5ce53302152058cac151cef6d5c528304d3437;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit-STHS34PF80-IR-Presence-Sensor-PCB: BRANCHES:[main:df3aece9ec5e5ad5f1a1fe48835046ddb6b0a292;]|RELEASE:[none|none]
 adafruit/Adafruit_BME690: BRANCHES:[main:ca21f78dcac07eb83bcb5a828cbdf5a6cb849834;gh-pages:31dfed4e48a36163167db0c993d4e47b7495db41;]|RELEASE:[none|none]
+adafruit/fruitjam-286: BRANCHES:[main:cb4b04147da6610304482f3b4f9b0618cf9641a6;]|RELEASE:[1.0.0|none]
