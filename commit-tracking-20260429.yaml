@@ -3357,3 +3357,4 @@ xyzroe/zigstar_gateways: BRANCHES:[main:9442d9af09221b488621716cc4adecbc133342ab
 xyzroe/ZigUNO: BRANCHES:[main:b808da51954593613fd455e9c77c1d85f46160ae;]|RELEASE:[none|none]
 xyzroe/ZigUSB: BRANCHES:[main:c6e830910989d84701bf0c339784b30952d757ce;]|RELEASE:[none|none]
 xyzroe/ZigUSB_C6: BRANCHES:[main:bc6cc8aca8f8ea64b017d6d0f9f5192a475376e9;]|RELEASE:[407|none]
+xyzroe/Zintercom: BRANCHES:[master:5b2db2f803adb25d47cef93e337922eb1e34eefe;rgb_led:23e04d3571e1918b6dcfb9f89edf02d0b87a0fa5;]|RELEASE:[1.0.5|none]
