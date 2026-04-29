@@ -3192,3 +3192,4 @@ adafruit/lgpio-python-wheels: BRANCHES:[main:6be65ff7f8279fc85b6101dbc93528465fc
 mayday-wh/PCB-Art-Workstation: BRANCHES:[main:03769a45c452b778a3f9a7ace5a6c6d3a53bc7fc;]|RELEASE:[V2.1|none]
 rbouteiller/airplay-esp32: BRANCHES:[main:cdfe9b5942d77d4fcff32809ab8854e2aa4d5796;]|RELEASE:[v0.1.19|none]
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e;]|RELEASE:[none|none]
+sle118/squeezelite-esp32: BRANCHES:[master-cmake:602af3c3f5787eebda75e2801ee4b3da49177bcb;revert-165-es8311:f882647aecc11b4ad6badd1c21677e58cbf3d6ec;master-v4.3:02036822006b6708b023d73224f3d6c8f94ada49;refactoring:debc8c58b78fd0c7938b05f57a78f6082bd67aec;just-in-case:0a653bf3741335521b3e7475bd46817d0f09e6bd;improv-4.3:aa8b5ec2d4489536efd4c9dc01f6c3611f8f1428;master:7d45fb6f8fd24c56a7fb9508a4cb575717efb8aa;misc:c36348e99d6a99d65175c22b77f875d7b55ea082;]|RELEASE:[Muse.16.1716.master-v4.3|none]
