@@ -3313,3 +3313,4 @@ xyzroe/cc2538-bsl: BRANCHES:[master:0142853bc41fa80d754a47b3e1d886072d88b8da;fea
 xyzroe/core: BRANCHES:[dev:33e9a6bd586bb3a4b8c55bb1be7c9e694eaa8686;]|RELEASE:[none|none]
 xyzroe/cups-airprint-epson-tm: BRANCHES:[master:ec56e6a17c9ae617d7e2d9233925f53dd4b59a6d;]|RELEASE:[2.3|none]
 xyzroe/eBus-TTL-adapter: BRANCHES:[master:876c11d5d76e745481a38607c202d68f85f22fdc;]|RELEASE:[none|none]
+xyzroe/esp-idf-lib: BRANCHES:[master:5255765b139f545d7ba4984499e5622c26925135;]|RELEASE:[none|none]
