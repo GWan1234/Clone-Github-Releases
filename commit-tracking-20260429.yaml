@@ -3102,3 +3102,4 @@ adafruit/Adafruit_QMC5883P: BRANCHES:[main:b189f39e98fb5486c99512a6e3c0da67c5e40
 adafruit/Adafruit_MLX90632: BRANCHES:[main:b12dd117f5b3b3d5b326993f9af1679130eaef82;gh-pages:3950a65d7cd4a2d92f0db5cea41968b1b4d362b4;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_Dang: BRANCHES:[main:bf5d5bdf0be07d85eb243657f9594ddb40c45001;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_JD79661: BRANCHES:[main:bb1c133e7892491f90254d09c28e62d0153bfb74;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit_CircuitPython_UC8179: BRANCHES:[main:18227be883684a789e6181bc51fe11ff9d044ed6;]|RELEASE:[1.0.3|none]
