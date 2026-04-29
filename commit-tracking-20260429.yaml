@@ -3451,3 +3451,4 @@ LilyGO/lorawan-devices: BRANCHES:[gh-pages:646031679040bcb2f93aa9d388e63924edd47
 LilyGO/M5-Schematic: BRANCHES:[master:e0874c68c9ca68b10ba71eeeeac30f3a36205241;]|RELEASE:[none|none]
 LilyGO/M5Stack: BRANCHES:[master:22e8e7f04ac4adf8a1827c46ba4c85453d326165;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd;]|RELEASE:[none|none]
 LilyGO/Make-flash-upload-failed: BRANCHES:[master:28e43e6db33c8c851282ebfc7738655b8570c9a2;]|RELEASE:[none|none]
+LilyGO/Mega-WiFi_R3_ATmega2560_ESP8266: BRANCHES:[master:4b3cd27a75f76931a2e4568562d6d2e4088ffc04;]|RELEASE:[none|none]
