@@ -3483,3 +3483,4 @@ LilyGO/TTGO-LORA32: BRANCHES:[LilyGO-868-V1.0:fa04081af446f6dffcdbfd970fff12bacc
 LilyGO/TTGO-LoRa32-V2.1: BRANCHES:[master:f67da4a6dfa7b4305dd7c8014244cbb0399d104d;LilyGO-patch-1:720a41d76ecf9ca6b3aa6995bc24db0d56edca72;]|RELEASE:[none|none]
 LilyGO/TTGO-Micro32-V2.0: BRANCHES:[master:1b13285e6f0fa446194f06911f72d58b90193aad;]|RELEASE:[none|none]
 LilyGO/TTGO-RGB-WebServer: BRANCHES:[master:c8f84a2527c0884ba2c0c82e29d195b5e7fb072e;]|RELEASE:[none|none]
+LilyGO/TTGO-SD-test: BRANCHES:[master:828a4e9a8fcb254bec6cea82eb7081eaa5323d6a;]|RELEASE:[none|none]
