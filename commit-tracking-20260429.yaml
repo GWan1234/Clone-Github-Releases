@@ -2948,3 +2948,4 @@ adafruit/workflows-circuitpython-libs: BRANCHES:[main:9359a35ef3e9e238c1254f98c8
 adafruit/build-mpy: BRANCHES:[main:9078cbecba992d2f94475eb2ddee7dbd00947083;dev/gh-context:dacc477c3e37dbad94ab26702fb3f369fef0933d;dev/build-mpy-cross:bf5f5d3515dda90e9b02a01a81abd9bcd9c56026;dev/download-mpy-cross:2709c77b59fae1153f1926570e3d9e098ac67a27;]|RELEASE:[v2.0.0|none]
 adafruit/esp-iot-solution: BRANCHES:[usb/add_usb_solutions:7da906e5352b53fcff8141a96c9fe3a50f49d7f8;circuitpython:feeeb6b98ed1ff201b32a241e2e9f28f33aac996;master:feeeb6b98ed1ff201b32a241e2e9f28f33aac996;release/v1.1:788f98cb0a864bb8c238ead67229705b777a44b6;release/v1.0:f94fde73bc222863743d221e0588ad5c88a36d53;]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-PCB: BRANCHES:[main:bc5fa13b55c25feb3bf47e483b4d0bc770fbf20b;]|RELEASE:[none|none]
+adafruit/Adafruit-WCH-CH9102F-Friend-PCB: BRANCHES:[main:eb022866b738f738971172c8725546e7b221369f;]|RELEASE:[none|none]
