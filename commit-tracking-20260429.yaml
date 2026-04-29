@@ -3350,3 +3350,4 @@ xyzroe/Zigbee-LCD-1604: BRANCHES:[main:7a84945a8a28a1e1c95094ab3c9cb3eab5577e7d;
 xyzroe/zigbee-OTA: BRANCHES:[master:0d478861025c4c2fc895613359e76d686041631c;]|RELEASE:[none|none]
 xyzroe/zigbee2mqtt: BRANCHES:[dev:5050ca0dc067af9e24ef7a6a139ba3dca037343a;update_frontend:b690f5c71f8eb054343aefae5576c1d5b0f45ec7;bind_setup_reportings:03f327a9f6ade2075dc2b99987951f0cc130e654;master:07cdc9d549a9db4aa94a259388241b71aec4e12d;]|RELEASE:[none|none]
 xyzroe/zigbee2mqtt.io: BRANCHES:[master:743bb1fa93df59ae06f01c2a7cf3ed02bdfed786;]|RELEASE:[none|none]
+xyzroe/ZigDC: BRANCHES:[main:6f2f25c7285acd8c605d6922b8d0de840727152c;]|RELEASE:[none|none]
