@@ -3419,3 +3419,4 @@ LilyGO/ESP32_Example: BRANCHES:[master:9a25f57168bae662e030d9698a61c6bc041abaf9;
 LilyGO/ESP32_MP3_Decoder: BRANCHES:[master:ca6344801fadfb7ec74fd71bc8b76bb6887f65df;]|RELEASE:[none|none]
 LilyGO/ESP32_OLED_webradio: BRANCHES:[master:dc7ce2b1360400f2cedb1aa219d9ae5dc1701ddf;]|RELEASE:[none|none]
 LilyGO/ESP32_Photo_Album: BRANCHES:[master:8a9178057c5c598befb32aa8e37e55c7de570a6a;]|RELEASE:[none|none]
+LilyGO/esp32_ST7735_Movie: BRANCHES:[master:44958620995fcccd29a5f418c6f070a216272a31;]|RELEASE:[none|none]
