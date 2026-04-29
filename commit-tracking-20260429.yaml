@@ -3019,3 +3019,4 @@ adafruit/Adafruit-VCNL4200-Breakout-PCB: BRANCHES:[main:461ffb1e80f5cb6555e25400
 adafruit/Adafruit-CP2105-Friend-PCB: BRANCHES:[main:b878e5d43cd5a98883767438d3711d69624bbe94;]|RELEASE:[none|none]
 adafruit/Adafruit_VCNL4200: BRANCHES:[main:097d4db49c761fc03d03df10ce88c4d15c22dec9;gh-pages:7376e9d187f4879ab0f99aa5bd8a29a96b4eab0c;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_CircuitPython_VCNL4200: BRANCHES:[main:b64eba6373aec302d8d739be7d45e362a6fc6b7b;]|RELEASE:[1.0.4|none]
+adafruit/Adafruit-Pixel-Shifter-PCB: BRANCHES:[main:e8ec19ef46cda9e6cf594e6738372a66d1208d0e;]|RELEASE:[none|none]
