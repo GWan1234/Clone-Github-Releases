@@ -3003,3 +3003,4 @@ adafruit/Adafruit_TSC2046: BRANCHES:[main:3557a58bf1b87a8af5d637f6a13c4cfc776dc9
 adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: BRANCHES:[main:263cd9f75ba8c8b48291bd6e62f8672c98619663;]|RELEASE:[none|none]
 adafruit/Adafruit-CAN-Pal-PCB: BRANCHES:[main:56618b3a53162ce48872514be044eab033ed33ef;]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-DVI-PCB: BRANCHES:[main:24f7c1cde8c7284bbd626f78e2b853be24d32ee6;]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-RP2040-RFM-PCB: BRANCHES:[main:e7c663f0e25d1f043d91e50bf284a5c97b28cdc5;]|RELEASE:[none|none]
