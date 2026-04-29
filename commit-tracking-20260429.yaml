@@ -3018,3 +3018,4 @@ adafruit/Adafruit_CircuitPython_TM1814: BRANCHES:[main:046d1ccec98c56390a15a1774
 adafruit/Adafruit-VCNL4200-Breakout-PCB: BRANCHES:[main:461ffb1e80f5cb6555e25400d41db8b1a72ca58e;]|RELEASE:[none|none]
 adafruit/Adafruit-CP2105-Friend-PCB: BRANCHES:[main:b878e5d43cd5a98883767438d3711d69624bbe94;]|RELEASE:[none|none]
 adafruit/Adafruit_VCNL4200: BRANCHES:[main:097d4db49c761fc03d03df10ce88c4d15c22dec9;gh-pages:7376e9d187f4879ab0f99aa5bd8a29a96b4eab0c;]|RELEASE:[1.0.1|none]
+adafruit/Adafruit_CircuitPython_VCNL4200: BRANCHES:[main:b64eba6373aec302d8d739be7d45e362a6fc6b7b;]|RELEASE:[1.0.4|none]
