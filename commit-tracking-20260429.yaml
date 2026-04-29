@@ -3331,3 +3331,4 @@ xyzroe/homed-service-zigbee: BRANCHES:[patch-2:398e6432e8dfbc7808862747f211cf8db
 xyzroe/homed-wiki: BRANCHES:[patch-2:824a192923b7146dc70931c43308173d4e705d06;patch-1:60cb896c2b0d4dae911baadd54afd04afb0cc82a;master:fb7b890417b3dd3ca5773e97350113a751ac4a52;]|RELEASE:[none|none]
 xyzroe/klipper-led_effect: BRANCHES:[master:9a036ebaca59daa6edb912be5b8f74fc5445d5ab;]|RELEASE:[v0.0.19|none]
 xyzroe/Lumi-Router-JN5169: BRANCHES:[master:c2dc7d9fed147f26b7b1162a491ae2bea9255422;]|RELEASE:[2021.7.7|none]
+xyzroe/MEEF: BRANCHES:[main:bb7c3b7e25454eeeba34399e7ce4f9585956eb5c;dev:aeda3993c05e0e2514d29514de3834da2478845f;]|RELEASE:[none|none]
