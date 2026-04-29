@@ -3030,3 +3030,4 @@ adafruit/Adafruit_Blinka_Raspberry_Pi5_Piomatter: BRANCHES:[main:2203e568436af8b
 adafruit/Adafruit-A4988-Breakout-PCB: BRANCHES:[main:f10f6b1d10aeeabc7a4a3445b81925c0a51d0e45;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Wiz: BRANCHES:[main:43e8499085ca7afe3d93b27996ba29995b3cc59d;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: BRANCHES:[main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197;]|RELEASE:[none|none]
+adafruit/Adafruit-Metro-RP2350-PCB: BRANCHES:[main:d8e135da6ee3383372035fb6ac2bb9387eec1233;]|RELEASE:[none|none]
