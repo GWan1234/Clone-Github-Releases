@@ -3159,3 +3159,4 @@ adafruit/Adafruit-AS7343-14-Channel-Light-Color-Sensor-PCB: BRANCHES:[main:ce4bb
 adafruit/Adafruit_WF100DPZ: BRANCHES:[main:1fef8d851c56253e14ca4a655b770ba4760d08bc;gh-pages:5e1807c4525fb3a369ea49bd829fc876e8126923;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit_CircuitPython_APDS9999: BRANCHES:[main:17387d4f9799900a9aa0e76e0d10370ec1574329;improve_docstrings:147faed8999b3b81b2595781fff354c742b781a9;fix_reset_add_hw_tests:e97fa79f9b0f35c683bd7ef48b68c3a8011f800d;add_proximity_measurement_rate:728288339fc7402d942079b4f169f99bd05414ca;]|RELEASE:[1.2.1|none]
 adafruit/Adafruit_CircuitPython_AS7331: BRANCHES:[main:e5dc0dcf90eeae5f7ab704ae764d9c01473dfedf;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit_ADS7128: BRANCHES:[gh-pages:cd35aa9e830db27a17829ce7fa05d3cfda154ea8;main:4bb48018679bd2f5402fb7c1ad49f20e8eb324ea;]|RELEASE:[none|none]
