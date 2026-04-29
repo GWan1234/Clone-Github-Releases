@@ -3514,3 +3514,4 @@ LilyGO/TTGO_T_Gallery: BRANCHES:[master:0ed04db71fd824c14e4c12e0c3ce980a0f112263
 LilyGO/TTGO_UNO: BRANCHES:[master:28df56c7e39e281cc834605aceda24c0e7a5f84f;]|RELEASE:[none|none]
 LilyGO/TTGO_USB_Microcontroller: BRANCHES:[master:5324b4339d23ef6416f1aac8ee6ec828cf4e80e4;]|RELEASE:[none|none]
 LilyGO/UNO-TPLORA: BRANCHES:[master:c524ab59c9181df67e8ee1aa790b6c7c4bc5599e;]|RELEASE:[none|none]
+LilyGO/UNO_INA219: BRANCHES:[master:f39c135d15dddfe3f7cb43003a451e6b4f2646c3;]|RELEASE:[none|none]
