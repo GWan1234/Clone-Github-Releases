@@ -3037,3 +3037,4 @@ adafruit/WLED: BRANCHES:[main:b64cd36468384bf4f293a72602cbb2b860b25146;]|RELEASE
 adafruit/Adafruit_CircuitPython_Display_AnalogClock: BRANCHES:[main:0582ab46c2b5c206de18c1c028ab7436a969c8d8;]|RELEASE:[1.0.4|none]
 adafruit/Adafruit-Mini-Sparkle-Motion-PCB: BRANCHES:[main:2c29150d79a7e4539b1e595055df8d9086d79dda;]|RELEASE:[none|none]
 adafruit/zephyr: BRANCHES:[circuitpython:d991bfc190507849d510326b24ba7b7a6c51a0e6;fix_rp2350_entropy:6be0aa4c355f3ed9f7b9364969bfe042f23fe174;circuitpython-v4.3.0:8801b409ec554cfd217c159c00f91280ea1331db;main:03fa6a0c33c7e918d4157eb5404835c164b2c3f1;]|RELEASE:[none|none]
+adafruit/Adafruit_FT6x36: BRANCHES:[main:cf64b19b38310b0db7f4b8feaa011e399e5d522e;]|RELEASE:[none|none]
