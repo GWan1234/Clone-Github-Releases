@@ -3633,3 +3633,4 @@ Xinyuan-LilyGO/ESP_AT_Lib: BRANCHES:[master:5c62e71061f812aac4c7089e30943581875f
 Xinyuan-LilyGO/WiFiEspAT: BRANCHES:[master:fe7c182a233b304dcbbc9bbef41644d6c3a22f98;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo-micropython: BRANCHES:[master:5c6bc772971110dd9fdc3d7a05b2eb382319f45b;liangyingy-patch-2:8e2389713c487b78c990224b54812b02dc058aba;liangyingy-patch-1:80320928e38e3600901929af1b9707e622f9ad0c;]|RELEASE:[v0.1.0|none]
 Xinyuan-LilyGO/T-WATCH-Keyboard: BRANCHES:[main:1c4db7c8ad453e40577500ad6f9fb131b20e409f;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-0.99TFT: BRANCHES:[main:551f48a4fdb4a17b37f4e62bd41b4f1e43f5f91d;]|RELEASE:[none|none]
