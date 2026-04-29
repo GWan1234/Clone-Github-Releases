@@ -3789,3 +3789,4 @@ emqx/opentsdb-client-erl: BRANCHES:[master:ac61b12dc3d6692fb9e9119ccc26142c13320
 emqx/homebrew-emqx: BRANCHES:[master:08395ca785d5bddd3f7b081148ffb02b21d69f0a;]|RELEASE:[none|none]
 emqx/er_coap_client: BRANCHES:[master:f2b98b9d9b0d99b61e8affd12d429249a0e6c1db;]|RELEASE:[v1.0.5|none]
 emqx/MQTTX: BRANCHES:[main:b2c2dec856291e3e56e443d7d7801588c7f08d50;feature/disable-gpu-acceleration:3ffa50f5f0692a387fe3da7e3d46038a0f28156a;upgrade-node-22:c347287918c99779ac01667ec15d3a1ea0ba9576;dev/2.0.0:f5ccf30c48578f162bf55ba748b3aeb1c83efd1c;dev/1.x:885253d4aae564785c9d0085d7a4851471596022;]|RELEASE:[v1.13.0|none]
+emqx/influxdb-client-erl: BRANCHES:[master:26f2b2ee241d5a406a652b7b9ca3b4a4bc20931f;hackney:a20836c0a4481878c2e2650b680e92909778f0ca;]|RELEASE:[1.1.17|none]
