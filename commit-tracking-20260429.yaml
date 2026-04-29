@@ -3421,3 +3421,4 @@ LilyGO/ESP32_OLED_webradio: BRANCHES:[master:dc7ce2b1360400f2cedb1aa219d9ae5dc17
 LilyGO/ESP32_Photo_Album: BRANCHES:[master:8a9178057c5c598befb32aa8e37e55c7de570a6a;]|RELEASE:[none|none]
 LilyGO/esp32_ST7735_Movie: BRANCHES:[master:44958620995fcccd29a5f418c6f070a216272a31;]|RELEASE:[none|none]
 LilyGO/ESP32_T5Epaper_2.9inch: BRANCHES:[master:6506194f476f51a93d4d2f6ac54461090b48176d;]|RELEASE:[none|none]
+LilyGO/esp8266-OLED: BRANCHES:[master:e50bf860acd8b188d373edd52cd00ce6cef413be;]|RELEASE:[none|none]
