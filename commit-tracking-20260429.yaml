@@ -3336,3 +3336,4 @@ xyzroe/moonraker-telegram-bot: BRANCHES:[master:2eb0f1ae485d5edd1fb73cfd2aff1205
 xyzroe/oko2mqtt: BRANCHES:[master:8f49b7f30dc25426c6c23f24bfc5231208531df2;]|RELEASE:[v0.4|none]
 xyzroe/OpenTherm-TTL-adapter: BRANCHES:[master:77cbf84f77260f1f5581d8a22d4d16c68c44adf0;]|RELEASE:[none|none]
 xyzroe/Q_sensor: BRANCHES:[main:3664599ce694275c27ed1c84054283bd739f1ef1;]|RELEASE:[24|none]
+xyzroe/reed: BRANCHES:[master:a6b33852cffea908d8ce619efcd8b45c0ebc2265;]|RELEASE:[none|none]
