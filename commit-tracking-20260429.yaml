@@ -3438,3 +3438,4 @@ LilyGO/H103_DEMO: BRANCHES:[master:062586e63845c7aac03b0028dbff0df68d41725c;]|RE
 LilyGO/HiGrow-Soil-testing: BRANCHES:[master:50d3b14fc7b8703b5092da408d1cf2142fd5549f;]|RELEASE:[none|none]
 LilyGO/higrowopen: BRANCHES:[master:6a14f070893cd6f509aff3b8ea32f26c5fec49cc;]|RELEASE:[none|none]
 LilyGO/i2cdevlib: BRANCHES:[master:900b8f959e9fa5c3126e0301f8a61d45a4ea99cc;develop:d0d3a3622f89457091f520e6985c62361ab121ab;]|RELEASE:[none|none]
+LilyGO/I2C_Scanner: BRANCHES:[main:b0d25b6b2bb7c1ad1654ef8f3961fd56ce9b323f;]|RELEASE:[none|none]
