@@ -3256,3 +3256,4 @@ home-assistant/ci-azure: BRANCHES:[master:a4a69c7279dbd927dd49caa9f44242e945979e
 home-assistant/plugin-dns: BRANCHES:[master:a00ee74ec7a1770a0148198290ce2190cafa498d;]|RELEASE:[2026.02.0|none]
 home-assistant/alerts.home-assistant.io: BRANCHES:[master:6dc0926cab464492c66ea8b90b58b1d4a8996eba;frenck-2023-1198:9c53631d55881b66a5ad81c8624d9eaab0e3954e;adjust-firefox-alert:d3d278674a57ed6229aaa59eca81e68625e7b664;]|RELEASE:[none|none]
 home-assistant/wheels-tensorflow: BRANCHES:[master:85b2cf5c734eb9dcab0649b330fb14a4809019eb;frenck-2020-0776:78ba634425a590d57305fef18239538a326cb555;tensorflow-2.2.0:68bf1ed173b6902a4bf6fea0b388efa4a7b4e78d;fix-path:31ce4689d0cc555f3352fcf0e82ca9818cf2c4ab;python3.8:0ae95106cd7077e9056b8c1158d7eed56a9e4339;]|RELEASE:[2.0.2|none]
+home-assistant/github-issue-maker: BRANCHES:[master:c939b8c6679836f6a99263871b524a02dd3693eb;]|RELEASE:[none|none]
