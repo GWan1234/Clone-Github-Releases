@@ -3644,3 +3644,4 @@ Xinyuan-LilyGO/T-Dongle-ESP32S2: BRANCHES:[main:86471ffc844bc619515af97d3a61d7e9
 Xinyuan-LilyGO/T-HC32: BRANCHES:[main:25737d39824e1062307b2ce31d76dc23c93f472f;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-QT: BRANCHES:[main:230f0c0ea7677fdde29ca7a49a419dbf597e6b3e;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-S3: BRANCHES:[main:02f0e9dc4baf6f552116e58be96299e9c78a3ff4;]|RELEASE:[none|none]
+Xinyuan-LilyGO/telink-zigbee-sdk: BRANCHES:[3.6.8.2:516b735ad7e830cbed83218698a12026c8b71036;master:5648f1bcc5b01c601ffb71e2d73fb03f7b7bdfff;]|RELEASE:[none|none]
