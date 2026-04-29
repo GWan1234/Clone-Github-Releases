@@ -3468,3 +3468,4 @@ LilyGO/software: BRANCHES:[master:29253330c3b7d8adcbae6a8cc2449ac2efbc182c;]|REL
 LilyGO/SSH-Server: BRANCHES:[master:8cc389fa3ee1b37158801a28e2430f3472d97dfd;]|RELEASE:[none|none]
 LilyGO/stm32-ad9850: BRANCHES:[master:d9e3408b5c958e7b56a27883e6df273302ce53f4;]|RELEASE:[none|none]
 LilyGO/T-Base: BRANCHES:[master:89f8b63e9de4c83c3515ece981905d4839395612;]|RELEASE:[none|none]
+LilyGO/T-Internet-COM: BRANCHES:[main:7f70c93f9e81f729f7ca16ac2a67b76aaa7eb193;]|RELEASE:[none|none]
