@@ -3053,3 +3053,4 @@ adafruit/Adafruit_CircuitPython_Display_Emoji_Text: BRANCHES:[main:e47198b670721
 adafruit/MCUME: BRANCHES:[main:030e9f54d6eb5a6f7d79f2ad64531ead15a94cb3;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit-PCM510x-I2S-DAC-PCB: BRANCHES:[main:2edfe9e71b59e6acc73d0ab2b2f796149146ce74;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_TLV320: BRANCHES:[main:dbf30c296b446846decb95b7d4039f1cab543fe3;]|RELEASE:[1.3.2|none]
+adafruit/pico-mac: BRANCHES:[main:59c910b5c96a3a9c1a6fb62868775e711e56ce9d;monochrome:8d96b38ff32ef8c5d82c4e459cb14d41cc38cca8;reenable-speaker-set-volume:1c71dd765ae86b2501cb3db477f54ea9ded9bc2e;mute-etc:b1c20d06eaeed5fd2947e357465f38f99771aae4;oc-psram:dc7ab44c2369a0e5d8d983cbdabbd6dccfc4f3af;]|RELEASE:[1.0.0-alpha.4|none]
