@@ -3259,3 +3259,4 @@ home-assistant/wheels-tensorflow: BRANCHES:[master:85b2cf5c734eb9dcab0649b330fb1
 home-assistant/github-issue-maker: BRANCHES:[master:c939b8c6679836f6a99263871b524a02dd3693eb;]|RELEASE:[none|none]
 home-assistant/ada: BRANCHES:[master:72dbf9fdd0006149ab8f247780375d03dd71e5b5;]|RELEASE:[0.8.1|none]
 home-assistant/operating-system-blobs: BRANCHES:[master:f17a8e81e0b7e1bd2475441465cc737c0891edfa;]|RELEASE:[none|none]
+home-assistant/plugin-audio: BRANCHES:[master:3c57e58d37807c2fab9f9a89dd8c527319d4186f;]|RELEASE:[2026.02.0|none]
