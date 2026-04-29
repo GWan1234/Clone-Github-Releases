@@ -471,7 +471,7 @@ Finb/ZXFileBrowser: BRANCHES:[main:d336db998a171e60854cde1e5c797d0949e51e68;]|RE
 algerkong/Alger-Chrome-LocalStorage-Manager: BRANCHES:[master:52aa9727bfdd4425cca3949e851d51f83f8b32fe;]|RELEASE:[v1.0.0|none]
 algerkong/AlgerClipboard: BRANCHES:[master:33ae2784dad8bb45df094604343cdac536a5d438;dev:48d873bde25509aba2424e47806260da938dc5a8;]|RELEASE:[v1.10.0|none]
 algerkong/AlgerClipboard-Plugin: BRANCHES:[main:dcb28d15d6a1b42567aa74751728ae1ca0ee766f;]|RELEASE:[ide-projects-v1.1.0|none]
-algerkong/algerkong: BRANCHES:[output:5c5e9c1b5eb58bf7be583c9380ceab9e840a0622;main:30665375a422331c3436c58c1d52927e53763666;]|RELEASE:[none|none]
+algerkong/algerkong: BRANCHES:[output:49c3d04509595b214d93666481aaf7ff9374ce1b;main:30665375a422331c3436c58c1d52927e53763666;]|RELEASE:[none|none]
 algerkong/AlgerMusicPlayer: BRANCHES:[main:97220761cfc6782ec70555c8b2a4a53c8fb043cf;fix/mpris-review-643:030a1f1c8546c9afcc9f2ef237fcb4625e4d0941;]|RELEASE:[v5.1.0|none]
 algerkong/code-review-skill: BRANCHES:[main:032b09c2849c3995dd373cf1dee235d976930c01;]|RELEASE:[none|none]
 algerkong/markdown-parse-vue: BRANCHES:[main:6337d09b9cfbafcf4ed8596ade0493b2feaa17d7;]|RELEASE:[none|none]
