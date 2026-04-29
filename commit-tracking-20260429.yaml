@@ -3491,3 +3491,4 @@ LilyGO/TTGO-T-ControllerV2.2: BRANCHES:[master:8eea6e894f41a67affff78faa3b3cd107
 LilyGO/TTGO-T-Eight-ESP32: BRANCHES:[master:a05b55ad15824df5c70f971c7f3533daa2c4b3f6;]|RELEASE:[none|none]
 LilyGO/TTGO-T-thruster: BRANCHES:[master:82fecb5e0940faaff1406126378196bb28f3962b;]|RELEASE:[none|none]
 LilyGO/TTGO-T-Watch: BRANCHES:[master:88d7f47e1e300b6570e133b0f2263c889867e690;]|RELEASE:[none|none]
+LilyGO/TTGO-T2-ESP32: BRANCHES:[master:e39ec6cd1849e02000a615eb61f039ee75385f78;]|RELEASE:[none|none]
