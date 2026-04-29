@@ -3630,3 +3630,4 @@ Xinyuan-LilyGO/T-ZigBee: BRANCHES:[main:fc7602f6f3a269ffa234d0a6cb7846161f58c3f9
 Xinyuan-LilyGO/LILYGO-T8: BRANCHES:[main:10dfb6abd0c56f219c80e51f7fbc51725b8ef0ca;]|RELEASE:[none|none]
 Xinyuan-LilyGO/ESP32-Paxcounter: BRANCHES:[master:73636e7ef07fe6c6226103b18acd5094c65f3a2f;development:67c0313e8fadeaa1e364b78d9b0a501c2781e07d;]|RELEASE:[none|none]
 Xinyuan-LilyGO/ESP_AT_Lib: BRANCHES:[master:5c62e71061f812aac4c7089e30943581875f8b63;]|RELEASE:[none|none]
+Xinyuan-LilyGO/WiFiEspAT: BRANCHES:[master:fe7c182a233b304dcbbc9bbef41644d6c3a22f98;]|RELEASE:[none|none]
