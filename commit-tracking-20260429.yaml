@@ -3031,3 +3031,4 @@ adafruit/Adafruit-A4988-Breakout-PCB: BRANCHES:[main:f10f6b1d10aeeabc7a4a3445b81
 adafruit/Adafruit_CircuitPython_Wiz: BRANCHES:[main:43e8499085ca7afe3d93b27996ba29995b3cc59d;]|RELEASE:[1.1.4|none]
 adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: BRANCHES:[main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197;]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-RP2350-PCB: BRANCHES:[main:d8e135da6ee3383372035fb6ac2bb9387eec1233;]|RELEASE:[none|none]
+adafruit/Adafruit-TMC2209-Breakout-PCB: BRANCHES:[main:227f79e2cda77b99653316692f8ec1975f58c6af;]|RELEASE:[none|none]
