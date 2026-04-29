@@ -3412,3 +3412,4 @@ LilyGO/ESP32-Paxcounter: BRANCHES:[master:dee734a4893d4c4927dd8887d74be88b843d7d
 LilyGO/ESP32-Pulsesensor-Heart-Rate-Sensor: BRANCHES:[master:5efb4201eb5bda2561d60248f7990f50d4e58bea;]|RELEASE:[none|none]
 LilyGO/ESP32-TTGO-T1: BRANCHES:[master:c0526e87584cba6cc86f6d992df5080cce2a2569;]|RELEASE:[none|none]
 LilyGO/ESP32-WiFi-Robot: BRANCHES:[master:81861d7bc92b36af5eeee4814971e56962850f49;]|RELEASE:[none|none]
+LilyGO/ESP32SingleChannelGateway: BRANCHES:[master:8c8d23b901117643b169e8e915a02ba226cda9c2;]|RELEASE:[none|none]
