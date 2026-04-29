@@ -3210,3 +3210,4 @@ home-assistant/home-assistant-notebooks: BRANCHES:[master:99718ca31c37f2e187980c
 home-assistant/Iconic: BRANCHES:[master:caa4171338f77f72644f2fd684d7d31fe903fac9;dependencies-update:fead8cc3dd272945541708612690d8f3b1b88957;image-cache-support:2c5c5f170b0ceaebd1f80e37d2f49b80d85e05f8;]|RELEASE:[1.5|none]
 home-assistant/hadashboard: BRANCHES:[master:74bc478cce3bbb17a531c638a6c4c52e05a1dee8;]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b;]|RELEASE:[v1.6.1|none]
+home-assistant/hassbot: BRANCHES:[master:6e2a982959358fa12b832066622d559715a80683;dev:3c8edcba857f9d419fedf5c30c246e73b48b40bb;]|RELEASE:[v0.1.1|none]
