@@ -3794,3 +3794,4 @@ emqx/pulsar-client-erl: BRANCHES:[branch-0.7.x:985f1a53c51ac4520f15cfae95c789fa8
 emqx/rocketmq-client-erl: BRANCHES:[master:2cabc7c8126759439a060edd6913652bee8ed49f;develop:1051cf054fbef3ee440c0aa5d71cd33cc6931478;]|RELEASE:[v0.3.0|none]
 emqx/crc32cer: BRANCHES:[master:38557c0b6a269cdea8be856f70b4b58fda792a5d;]|RELEASE:[none|none]
 emqx/snappyer: BRANCHES:[master:22d612c7dba852fba3a339e6747a77076cda8dd8;gh-pages:e1db20a5ce14b3f37aa86ac72778870774b4b6b9;]|RELEASE:[none|none]
+emqx/mysql-otp: BRANCHES:[master:a86d94e53ab73176cdc3ee3dac598c3ac298dbe6;fix_etimeout:f40e998919ca9a6d9789ed6deb93326272153282;update-app-src:6abbae71575fd09c53cbafeb377e71fd08afaa31;gh-pages:f40045581f0317e41ef63e406629a394b3dd6e01;]|RELEASE:[1.6.1|none]
