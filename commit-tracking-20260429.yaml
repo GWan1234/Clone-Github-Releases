@@ -3444,3 +3444,4 @@ LilyGO/k210_watch_EN: BRANCHES:[master:7a42a91740de3083f29c2988b4ad804fcfcf69c1;
 LilyGO/KaRadio32_fork: BRANCHES:[master:0ae3809c5d2b19c0b2c20edcbf7f83cf96f68e10;]|RELEASE:[none|none]
 LilyGO/learnGitBranching: BRANCHES:[master:20debcae2c90624399e31e07812c5a9e03110718;gh-pages:a6bf5aa0226f7a4446920b963115aa09f794a2c9;fixHideBug:52d930d45aedba507ffc0fc6c34f2a62ce9a209c;allowDeletePush:a039693d637110f12b07ff1019045da655a2f3e0;killNative:a9dd27c25efc7d78032f06d853e9b9ab53bbc189;]|RELEASE:[none|none]
 LilyGO/LILYGO-T-Energy: BRANCHES:[master:ef0aa70346cc00317641c57c34ff0926b1d45771;]|RELEASE:[none|none]
+LilyGO/LILYGO-T-OI: BRANCHES:[master:e4af94e8b54f896ece9f6abfb16a743ffa3f52e1;]|RELEASE:[none|none]
