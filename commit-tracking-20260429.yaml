@@ -3393,3 +3393,4 @@ LilyGO/CryptoMoneyTicker: BRANCHES:[master:ce83cc769b514026cb20f3789fe34142280ec
 LilyGO/CryptoMoneyTicker_LITE: BRANCHES:[master:cef8a7b15125841775658cf3b8c0d3211c535470;]|RELEASE:[none|none]
 LilyGO/D1_mini_Examples: BRANCHES:[master:9c7ddf2c09d4aa4d351d3532739ed1598f6ae188;gh-pages:872032acce6fadf589b2c73e0aab6923407085f6;]|RELEASE:[none|none]
 LilyGO/DabbleESP32: BRANCHES:[master:c7f9a2acb86b1f07d361ebb5793bfec7a85a9bc4;]|RELEASE:[none|none]
+LilyGO/DigiSpark-ATtiny85-driver-install: BRANCHES:[master:075e0b5513fc6425e722af038566ba07125f3dfe;]|RELEASE:[none|none]
