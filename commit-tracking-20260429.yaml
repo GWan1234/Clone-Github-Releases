@@ -2961,3 +2961,4 @@ adafruit/Adafruit-QT-5-3V-Shifter-PCB: BRANCHES:[main:1b59f72ce55b4b116f2b8756c4
 adafruit/Adafruit-QSPI-DIP-Breakout-PCB: BRANCHES:[main:f9be7ef988d5ae79ad58d0e5105dabf0bacab807;]|RELEASE:[none|none]
 adafruit/Adafruit-PCF8575-PCB: BRANCHES:[main:8a26f47e5a0c47467d0bdf6a3385eb2c5a9a0377;]|RELEASE:[none|none]
 adafruit/assistant-sdk-python: BRANCHES:[master:02e7985a13747a0d9224cd428cfd93f5d2931356;]|RELEASE:[none|none]
+adafruit/Adafruit_CircuitPython_NeoPxl8: BRANCHES:[main:39d89020efec369553bacb278c62c5fd99a53d0e;fix-timings:afad71d951833e3f0c0495c3c50d7e9ebeea3af9;enhancements:674782fe45307492c63277e29a20bc1fc36317b2;bg-write:304801e2cf11ae6accd83a263bfa4d0198cd0453;]|RELEASE:[0.3.8|none]
