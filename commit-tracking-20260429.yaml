@@ -3081,3 +3081,4 @@ adafruit/Adafruit-INA237-Power-Monitor-PCB: BRANCHES:[main:d62a2a17f07157d492c9c
 adafruit/Adafruit_CircuitPython_INA23x: BRANCHES:[main:abae74b376c4c9322ca12d3ee7b880df79841ffa;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit-Wiz5500-Ethernet-Co-Processor-Breakout-Board-PCB: BRANCHES:[main:f7faefb4fd304faa20f5977add138715da4b3f3c;]|RELEASE:[none|none]
 adafruit/Adafruit_AS5600: BRANCHES:[main:d0e1eda5fc0c9e2cfbb84ad55bcb50fc73708d7d;gh-pages:af5e0d4afad0ad67af143add9bbb5a720c3b1e3d;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit_STHS34PF80: BRANCHES:[gh-pages:bac29572d1d27087cfe37a0159b850b372ee8ff2;main:1cf47e4bead466bc5bdae87d819853259a3e8c90;]|RELEASE:[1.0.2|none]
