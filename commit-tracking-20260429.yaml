@@ -3624,3 +3624,4 @@ Xinyuan-LilyGO/3.71-Inch-Capacitive-Touch-E-Paper: BRANCHES:[main:ede47088fd9b8d
 Xinyuan-LilyGO/T-CAN485: BRANCHES:[arduino-esp32-libs_v3.0.1:92f7f60a43b3b4faa9bbb0fab435dd4527264bd2;main:994de60a893af17b5a26e2cba25a884f459e3fcf;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Document_List: BRANCHES:[main:f00445f299b9405570d965eeb1ee044f6f3c4d66;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Color: BRANCHES:[main:3a4f6c7cdc6a266149af0a7dc851e1562af30ffa;]|RELEASE:[V1.0.0|none]
+Xinyuan-LilyGO/T96-OLED-SSD1306: BRANCHES:[main:5796acc566dbc4b9e9df6c62add1efc58dcb04f0;]|RELEASE:[none|none]
