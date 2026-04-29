@@ -3788,3 +3788,4 @@ emqx/paho.mqtt.testing: BRANCHES:[develop-5.0:13c936d17507749c11fa6d68b6a2d4d19f
 emqx/opentsdb-client-erl: BRANCHES:[master:ac61b12dc3d6692fb9e9119ccc26142c13320017;develop:18ec616e34df08cfddf5d3085db1e09d1c2778b9;huawei:d41e03b1fcf0847db1d3668721809e8ac27982b7;]|RELEASE:[v0.4.1|none]
 emqx/homebrew-emqx: BRANCHES:[master:08395ca785d5bddd3f7b081148ffb02b21d69f0a;]|RELEASE:[none|none]
 emqx/er_coap_client: BRANCHES:[master:f2b98b9d9b0d99b61e8affd12d429249a0e6c1db;]|RELEASE:[v1.0.5|none]
+emqx/MQTTX: BRANCHES:[main:b2c2dec856291e3e56e443d7d7801588c7f08d50;feature/disable-gpu-acceleration:3ffa50f5f0692a387fe3da7e3d46038a0f28156a;upgrade-node-22:c347287918c99779ac01667ec15d3a1ea0ba9576;dev/2.0.0:f5ccf30c48578f162bf55ba748b3aeb1c83efd1c;dev/1.x:885253d4aae564785c9d0085d7a4851471596022;]|RELEASE:[v1.13.0|none]
