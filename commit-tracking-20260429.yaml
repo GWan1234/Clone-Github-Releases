@@ -3289,3 +3289,4 @@ home-assistant/green.home-assistant.io: BRANCHES:[main:d882f12386641aa970fda58bb
 home-assistant/login.home-assistant.io: BRANCHES:[main:8aa6356d670227f14006b4325e74ca867bf7f5c5;]|RELEASE:[none|none]
 home-assistant/devices: BRANCHES:[main:ca2f4c46a64f3f0eda0cebe97d3911e6cef18c7f;add-via-device:b19dce9a595061925af80f584eb87f63423cfaf9;motionblinds-commission:785d53542a3a7e8a1f5702fa91baeb6dcd8cf504;]|RELEASE:[none|none]
 home-assistant/stun: BRANCHES:[main:e2a7dc8da3b2b2f21862cc906417a9fb0420efa9;task/add-deployment-workflow:23296789bbcf880409f9f8411fc265d5d036d9b5;]|RELEASE:[1.0.0|none]
+home-assistant/voice-pe.home-assistant.io: BRANCHES:[main:1e4201459d11f9a51e8087882a6ad0b380a81fe0;readme-add-note-on-content-migration:4b9c4940c19f8dc166d74179eb37364c483a2df4;remove-ref-to-rogue-automation-example:b911022b932a8e0a0ea6424eff32a2e122b84aa8;]|RELEASE:[none|none]
