@@ -3365,3 +3365,4 @@ iamromulan/claude-md-template: BRANCHES:[main:5a875e3e8fd0b6fbca07cb237faec79142
 iamromulan/luci-app-tailscale-community: BRANCHES:[gh-pages:b7b416c37d16fe4d53269ccd831c54acbb34c154;master:27058189b71d68a1dc61bf744ca01d696ea7e3df;]|RELEASE:[none|none]
 iamromulan/qadbkey-unlock: BRANCHES:[master:8de1367258c648e3bd53a7a0fa77282d5c44ab22;]|RELEASE:[none|none]
 iamromulan/qcseriald-darwin: BRANCHES:[main:c17db0ce757498b40763cb4caf9d9def1598ed1c;]|RELEASE:[v1.0.6|9906c615f54c08583a773e09ade6e159d84e5d35]
+iamromulan/qfenix: BRANCHES:[master:318a49cee9663a6a79fbcc8b44db8a3d2afdec2b;]|RELEASE:[v2.5.10-qfenix-0.1.0|none]
