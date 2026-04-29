@@ -3685,3 +3685,4 @@ Xinyuan-LilyGO/T-QT-C6: BRANCHES:[arduino-esp32-libs_V3.0.2:c0a004f9d9e8df850d51
 Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass: BRANCHES:[master:99ae22477daeaec55714f6b31e0219407dd52439;]|RELEASE:[V1.0.0|none]
 Xinyuan-LilyGO/Lilygo-LoRa-Epaper-series: BRANCHES:[master:787bc8f4cc311abbca2e7a250b3cd373b6102d3d;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Knob: BRANCHES:[master:a7d9189e4099875dff4a1a7dad4b07257b1ff508;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Embed-CC1101: BRANCHES:[master:7e07aab7311baf262102b01448320b6a41e3c8a8;]|RELEASE:[none|none]
