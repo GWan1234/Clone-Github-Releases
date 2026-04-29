@@ -3380,3 +3380,4 @@ LilyGO/Adafruit_SHT31: BRANCHES:[master:5576352d93fe5728a3f0bd861bbbb2d0bc2fccba
 LilyGO/Arduino: BRANCHES:[master:ddcf3efe2cf9d8a0746bef973530895adbbc8b6c;]|RELEASE:[none|none]
 LilyGO/arduino-esp32: BRANCHES:[master:70d0d4648766cea047613062ed50a9ecfc9de31f;pr/840:a5b33aff075940b8dc031db9d2c5fd74b8726f89;longReads:1270f400664e755acc55c7b0522f3eaf36d882ec;Prevent_lockup_in_i2cInitFix:6fcc35325037c7fa3ad4fa6bfb563a774fea2b35;i2cInitFix_Lockup_Protection:adff0716f92d493ab34e9533bff29876a117208e;]|RELEASE:[none|none]
 LilyGO/arduino-LoRa: BRANCHES:[master:dff276e26845727049a48a624d0eb2b545f3bb6a;set-sync-mode-op-mode:89d292be4dc09fe5b30be0df34d32baea6007f1a;]|RELEASE:[none|none]
+LilyGO/Arduino_XI: BRANCHES:[master:d9f01d14ad60b9b4eb7ff6b033d0c3c1b8dde234;]|RELEASE:[none|none]
