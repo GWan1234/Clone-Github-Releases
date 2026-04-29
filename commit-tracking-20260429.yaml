@@ -3423,3 +3423,4 @@ LilyGO/esp32_ST7735_Movie: BRANCHES:[master:44958620995fcccd29a5f418c6f070a21627
 LilyGO/ESP32_T5Epaper_2.9inch: BRANCHES:[master:6506194f476f51a93d4d2f6ac54461090b48176d;]|RELEASE:[none|none]
 LilyGO/esp8266-OLED: BRANCHES:[master:e50bf860acd8b188d373edd52cd00ce6cef413be;]|RELEASE:[none|none]
 LilyGO/esp8266-oled-ssd1306: BRANCHES:[SH1106:abb56c7d5492c47a3924677738664217882c1efd;master:fbd214686974071d9ed404f3982e621f8707bd7a;improve-sh1106-drivers:555d56f32f614e88daa3922bf5e312c3a502a6bc;add-sh1106-spi:9bc04a516ffa745e16e60e3402cc5cc8313c8cbd;fix-black-string-drawing:f42857c4d79dccb751b6ddba716e673986164f4d;]|RELEASE:[none|none]
+LilyGO/esp8266-weather-station: BRANCHES:[master:e1e367424fdb8579a2bd2ae3494de758f5230878;development:8fc80586281423663ad95f519e95ee21a1214e6f;]|RELEASE:[none|none]
