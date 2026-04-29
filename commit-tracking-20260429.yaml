@@ -3151,3 +3151,4 @@ adafruit/Adafruit_MAX44009: BRANCHES:[main:a72fbb4a28ed2623f2cbe8a8fca165c91fcca
 adafruit/Adafruit_VCNL4030: BRANCHES:[main:0bed1b46b642c2241e819147b57d5f2a0089dd13;gh-pages:4934087a113b51d23ffdab5b9d037c881888003d;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_TMAG5273: BRANCHES:[main:aaed05431a895a598d794cb8cd4ade8cd49b5566;gh-pages:cb2b7dcf8fe0a7c31ad4ce0f26167df5c79cdc29;]|RELEASE:[1.0.1|none]
 adafruit/Adafruit_CircuitPython_Xteink_X4: BRANCHES:[main:18cd000924169be485d44394557400dfc19290ad;]|RELEASE:[1.0.2|none]
+adafruit/Adafruit_CircuitPython_SSD1677: BRANCHES:[main:10cc23daba1b2ce7ebb02c8245228c156984a062;]|RELEASE:[1.0.2|none]
