@@ -3231,3 +3231,4 @@ home-assistant/custom-panel-starter-kit-react: BRANCHES:[master:66f76559c69dc312
 home-assistant/docker-base: BRANCHES:[master:19b37aec54d54919a20faa62ddb9d31c96714f89;update-python-versions-3.13.4:b72ddf1b4ed2b08397c368d33802d1a4739e9f31;python313:c005fb923022a1792a323e5489718dd20492545e;]|RELEASE:[2026.04.0|none]
 home-assistant/docker: BRANCHES:[master:6972b3ba69ee14d67bf8a08ada5ba0248852b1d8;]|RELEASE:[2026.04.0|none]
 home-assistant/hbmqtt-auth-home-assistant: BRANCHES:[master:c2f37cfa711e299eb59028e9818050038b563aea;]|RELEASE:[1.0.2|none]
+home-assistant/addons-development: BRANCHES:[master:040f9594d8e4b771a7c583e89866be96dbed1f4e;]|RELEASE:[none|none]
