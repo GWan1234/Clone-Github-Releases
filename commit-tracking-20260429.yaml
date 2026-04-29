@@ -3310,3 +3310,4 @@ rustdesk/winget-pkgs: BRANCHES:[RustDesk.RustDesk-1.4.6-E013E7135D514A91AF832A15
 xyzroe/16-relay-Zigbee: BRANCHES:[main:28d790d622b1a3340bc890dde52363909f7bb065;]|RELEASE:[none|none]
 xyzroe/AirSense: BRANCHES:[master:dcac9fcbb6d6f09e4d580a9ee162f4f2c664bab6;patch-1:1f50030a57feb02696bf860dc18f58507e566fc8;]|RELEASE:[4.0.3|none]
 xyzroe/cc2538-bsl: BRANCHES:[master:0142853bc41fa80d754a47b3e1d886072d88b8da;feature/ITead_Sonoff_Zigbee-delay:cc6ea40565b1a64643714ad3ef3c816e229ae32d;feature/unit_tests:10adf4f6e4cc700794dc76884df045913b499229;]|RELEASE:[none|none]
+xyzroe/core: BRANCHES:[dev:33e9a6bd586bb3a4b8c55bb1be7c9e694eaa8686;]|RELEASE:[none|none]
