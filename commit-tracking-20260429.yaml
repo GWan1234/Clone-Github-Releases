@@ -3737,3 +3737,4 @@ Xinyuan-LilyGO/T-Dongle-C5: BRANCHES:[master:253ffebaa0805cd6f61c7e9785b9eb24d87
 Xinyuan-LilyGO/T-Lora-Dual: BRANCHES:[master:bd603e651172b7c850f76dedca4cbac8d91e2575;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGoLib-MicroPython: BRANCHES:[main:6dcc0178d9bdfbde2895c44392d8757441862c72;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-S3-MicroPython: BRANCHES:[main:f9382d481eb56153dc8ba0c2c81b0cd9ff420fec;]|RELEASE:[none|none]
+Xinyuan-LilyGO/lilygo_device_driver: BRANCHES:[lilygo_device_driver-debug:aafa1b56b189e3c35df356221126898c88a85576;lilygo_device_driver-v1:59deff8349d8e21a2d712cd7b5593541567b7f03;main:59deff8349d8e21a2d712cd7b5593541567b7f03;]|RELEASE:[v1.1.0|none]
