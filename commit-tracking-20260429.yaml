@@ -3206,3 +3206,4 @@ home-assistant/iOS: BRANCHES:[drop-ios-integration/infrastructure:a41e0e561f8ee9
 home-assistant/hubot-home-assistant: BRANCHES:[master:09af34c58f98e13131cb87977a320fd8b8637a3a;]|RELEASE:[v2.0.0|8a7b9e545b953d74844aece0db241b86ddfb76e4]
 home-assistant/fabric-home-assistant: BRANCHES:[master:d68ade83fe7efb8808cd943392d8e3c4c3279fa8;]|RELEASE:[none|none]
 home-assistant/scenegen: BRANCHES:[master:38f91f5c86824a02784f470b1990eb5f54f7c7a6;]|RELEASE:[none|none]
+home-assistant/home-assistant-notebooks: BRANCHES:[master:99718ca31c37f2e187980cfaa59ede44139c6491;DataExploration-2:c6c6f55264046e7c4857dc9701bbd55feb5b3322;]|RELEASE:[none|none]
