@@ -3366,3 +3366,4 @@ iamromulan/luci-app-tailscale-community: BRANCHES:[gh-pages:b7b416c37d16fe4d5326
 iamromulan/qadbkey-unlock: BRANCHES:[master:8de1367258c648e3bd53a7a0fa77282d5c44ab22;]|RELEASE:[none|none]
 iamromulan/qcseriald-darwin: BRANCHES:[main:c17db0ce757498b40763cb4caf9d9def1598ed1c;]|RELEASE:[v1.0.6|9906c615f54c08583a773e09ade6e159d84e5d35]
 iamromulan/qfenix: BRANCHES:[master:318a49cee9663a6a79fbcc8b44db8a3d2afdec2b;]|RELEASE:[v2.5.10-qfenix-0.1.0|none]
+iamromulan/QuecDeploy: BRANCHES:[main:397a270469f7ce3139a5c93f28fb4d801bd1939f;]|RELEASE:[v1.0.7|none]
