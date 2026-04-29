@@ -3458,3 +3458,4 @@ LilyGO/MicroPython-ESP32: BRANCHES:[master:5e2160afc59c6055a2289285dec6a1e22153e
 LilyGO/MicroPython-ST7735: BRANCHES:[master:7967e875ad4a100814029e5ceeb999c2c62ade66;]|RELEASE:[none|none]
 LilyGO/Micropython_doc: BRANCHES:[master:fa4ce72680610fc8d27cb3f3e932650c7ac92930;]|RELEASE:[none|none]
 LilyGO/MINI32-V1.0: BRANCHES:[master:307c315b9e4761eacb3dc8b6b8cefcf01532753b;]|RELEASE:[none|none]
+LilyGO/mPython: BRANCHES:[master:005b7db6a2840ff549a14f166f428b08aaab146e;update/micropython_04.29:2f69e341e35efd06104e81003ffb42520bf011af;features/radio:5f140e594af82eef3dc598c8544283760cd7da96;]|RELEASE:[none|none]
