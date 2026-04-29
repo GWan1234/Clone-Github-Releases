@@ -3436,3 +3436,4 @@ LilyGO/GxEPD: BRANCHES:[T5-2.2-2.9:e3193112636a71532eb70bc1add285eff790416e;mast
 LilyGO/GxEPD_Partial_Refresh: BRANCHES:[master:b64178e96161963a7d8444a136775561c41d76aa;]|RELEASE:[none|none]
 LilyGO/H103_DEMO: BRANCHES:[master:062586e63845c7aac03b0028dbff0df68d41725c;]|RELEASE:[none|none]
 LilyGO/HiGrow-Soil-testing: BRANCHES:[master:50d3b14fc7b8703b5092da408d1cf2142fd5549f;]|RELEASE:[none|none]
+LilyGO/higrowopen: BRANCHES:[master:6a14f070893cd6f509aff3b8ea32f26c5fec49cc;]|RELEASE:[none|none]
