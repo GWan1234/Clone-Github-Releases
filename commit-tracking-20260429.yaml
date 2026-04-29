@@ -3252,3 +3252,4 @@ home-assistant/wheels: BRANCHES:[master:2933143d2add06b4c0e67d7c3510f4d4cbdeac8a
 home-assistant/wheels-custom-integrations: BRANCHES:[dependabot/github_actions/actions/upload-artifact-7.0.1:514c79183bf96eaedc16ec48e90b48c22f185bcf;master:276a0a11c4d40261898c568addb6372780f47edd;remo:60440f4c634265e54b4dad5ca45e99625d268b3c;aiogithubapi2550:bce5cd53962a8a7395459bb0091a35dfb9803b2a;]|RELEASE:[none|none]
 home-assistant/wheels-opencv: BRANCHES:[master:924d4af139e557c908cc0773782df5949356a67d;]|RELEASE:[1.11.0|none]
 home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4;]|RELEASE:[none|none]
+home-assistant/ci-azure: BRANCHES:[master:a4a69c7279dbd927dd49caa9f44242e945979e8d;maybe-fix-issue:884753946b34274d24c0c30e42637f2c2b9de7c4;frenck-2020-0875:25850038125c80194c12696c2a2261f89691b5bd;bump-py37:e61036390b9f4ae19ed3563fcc8bba8cc4a460dc;]|RELEASE:[none|none]
