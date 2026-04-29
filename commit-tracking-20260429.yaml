@@ -3211,3 +3211,4 @@ home-assistant/Iconic: BRANCHES:[master:caa4171338f77f72644f2fd684d7d31fe903fac9
 home-assistant/hadashboard: BRANCHES:[master:74bc478cce3bbb17a531c638a6c4c52e05a1dee8;]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b;]|RELEASE:[v1.6.1|none]
 home-assistant/hassbot: BRANCHES:[master:6e2a982959358fa12b832066622d559715a80683;dev:3c8edcba857f9d419fedf5c30c246e73b48b40bb;]|RELEASE:[v0.1.1|none]
+home-assistant/organization: BRANCHES:[master:c081419a637899795e8a4589ee53dc7e432bc9ff;readme-update:945f8768cc547039f07c6934b1725ed5e6097072;]|RELEASE:[none|none]
