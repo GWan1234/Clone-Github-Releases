@@ -2959,3 +2959,4 @@ adafruit/Adafruit-Proto-PiCowbell-PCB: BRANCHES:[main:5f91ef80575652c059f2b19c5a
 adafruit/Adafruit_CircuitPython_Pastebin: BRANCHES:[main:e8679abd62d1bb57158710a0cae9b77961043271;]|RELEASE:[1.0.13|none]
 adafruit/Adafruit-QT-5-3V-Shifter-PCB: BRANCHES:[main:1b59f72ce55b4b116f2b8756c4eefdb9fa2e4eb3;]|RELEASE:[none|none]
 adafruit/Adafruit-QSPI-DIP-Breakout-PCB: BRANCHES:[main:f9be7ef988d5ae79ad58d0e5105dabf0bacab807;]|RELEASE:[none|none]
+adafruit/Adafruit-PCF8575-PCB: BRANCHES:[main:8a26f47e5a0c47467d0bdf6a3385eb2c5a9a0377;]|RELEASE:[none|none]
