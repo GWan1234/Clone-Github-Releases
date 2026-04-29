@@ -3316,3 +3316,4 @@ xyzroe/eBus-TTL-adapter: BRANCHES:[master:876c11d5d76e745481a38607c202d68f85f22f
 xyzroe/esp-idf-lib: BRANCHES:[master:5255765b139f545d7ba4984499e5622c26925135;]|RELEASE:[none|none]
 xyzroe/esp-rfid: BRANCHES:[dev:142dc5ba737321f13343babd909a510edd17d252;stable:fef1d9b875c635790b4fdec8f81da74d830c6025;]|RELEASE:[none|none]
 xyzroe/esp32-zstack: BRANCHES:[master:421b60469f30be47374a37d3c5ef6267478ad25e;]|RELEASE:[none|none]
+xyzroe/ESP32_C6_D1: BRANCHES:[main:c8cd4bfd75c26afbeb0a209118ea358d2bd1cc7a;]|RELEASE:[none|none]
