@@ -3427,3 +3427,4 @@ LilyGO/esp8266-weather-station: BRANCHES:[master:e1e367424fdb8579a2bd2ae3494de75
 LilyGO/esp8266_deauther: BRANCHES:[master:a3bb629c6519d2a35fca5ccfcfebbe9b2e7d83cb;travis-ci-tests:b1ea1f37b1bf67160cb1c1187c1ab0cf740de00d;]|RELEASE:[none|none]
 LilyGO/ESP8266_DHT11: BRANCHES:[master:91ebb29480096533b8c1f45226d78cdb9e6a4971;]|RELEASE:[none|none]
 LilyGO/ESP8266_F204_relay: BRANCHES:[master:b6ef139d0ed913b7ee1cdc69513680778323e4ac;]|RELEASE:[none|none]
+LilyGO/ESP8266_OLED_SH1106: BRANCHES:[master:b77cb6eb137386ec4848e1f70092733aa105ee3d;]|RELEASE:[none|none]
