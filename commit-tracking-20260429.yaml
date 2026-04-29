@@ -2913,3 +2913,4 @@ adafruit/Adafruit-DS2482S-800-Breakout-PCB: BRANCHES:[main:520f5e8de72928ab3b551
 adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: BRANCHES:[main:cde79ddef57c7df69a5e7268b66567fa50b7e42d;]|RELEASE:[none|none]
 adafruit/Adafruit-Sunken-USB-Type-C-Breakout-PCB: BRANCHES:[main:4cb1207ddd6eae864f4410d110bac38072e9b895;]|RELEASE:[none|none]
 adafruit/PyLeap-Android: BRANCHES:[main:d2223c45163be9ab2d0554d9d179ae5a4bbcd18f;gradle8_0_2:75d0932d8c89ce2ab661ee0ddd8211cbc0ad29b5;filter_projects_based_on_board_id:0e346c307f8c39287c0ef909557b2c82a93a54fa;discover_bonded_peripherals:257ea8147692459dbfec94bcb564e5f651d5f3ba;filetransfer:a93cfbe375a760364016660167a27b10dc204ed2;ui_mockup:fe0d134ce615c6f8849b5c5250fc412b1d83ad50;]|RELEASE:[none|none]
+adafruit/adafruit-creations: BRANCHES:[main:482099c03ef4f8567cd59c4212c303d9a30baa8e;sparkle_motion:2a0f25d38b6371c3924c846b9166a0b8a34d1584;dhalbert-patch-1:88c8a2936e187b34c29d3a05e357461f4fef03ef;]|RELEASE:[none|none]
