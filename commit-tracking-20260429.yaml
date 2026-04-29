@@ -3586,3 +3586,4 @@ Xinyuan-LilyGO/arduino-dw1000: BRANCHES:[master:684ad84feaa6c4d491668a2f5df68885
 Xinyuan-LilyGO/LilyGo-EPD47: BRANCHES:[esp32s3:3607e73ba8b84f10e1595511894df52fb008b82a;master:4a49b32b6db99ca6951d94e0b864f078c20d5432;perfect-refresh:d5128cd5b5347e5d82161dc39548e5555845e74c;add-license-1:dcd70e4cf71cc5781da5b8cfa80f6a7ad7b33b1b;]|RELEASE:[v1.0.1|none]
 Xinyuan-LilyGO/LilyGo-T-Controlle: BRANCHES:[master:405338a85a890038c0ccfeed6d9e8b3075f2fdfd;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-T5-Grayscale: BRANCHES:[master:f80822202749fd16bfe2acd07b1feb801895db73;]|RELEASE:[none|none]
+Xinyuan-LilyGO/LilyGo-T-Node: BRANCHES:[master:a0992501978d0683dd3aff46505235ff62514b10;]|RELEASE:[none|none]
