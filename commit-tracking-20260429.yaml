@@ -3245,3 +3245,4 @@ home-assistant/.github: BRANCHES:[master:d1b6e3acaa9702e0f71c78cff44f79d10ad831a
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2;]|RELEASE:[none|none]
 home-assistant/codeowners-mention: BRANCHES:[master:0bc05848eab02a23bf70bac9756175c12475de77;]|RELEASE:[none|none]
 home-assistant/builder: BRANCHES:[master:54867a1d0e8d244e6495d8920138ba14b33a4471;gha-builder-test:3df508282092249ed069883bc1d854f259dd80ca;disable-aslr:2b198778666ba6d105ccaf49b92c70a9156d2f4d;disable-builder-cosign-verification:e292fd0d75763e9144f1cffc7904a8540c75dad8;bind-mount-mnt:700ecb8c59f73b37a67d717dd75ce79b85ee6a12;]|RELEASE:[2026.03.2|none]
+home-assistant/plugin-cli: BRANCHES:[master:03fd4c0e38f8327c9134fef265a3242da63fc122;]|RELEASE:[2026.04.0|none]
