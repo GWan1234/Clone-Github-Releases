@@ -3938,3 +3938,4 @@ emqx/zsh-in-docker: BRANCHES:[master:6170c6adb62df8e911a0ebe9f97de54131244774;]|
 emqx/emqx-relup: BRANCHES:[main:e2ea02a6b89262f7f5c07f962c31d2d4e2787ca5;]|RELEASE:[none|none]
 emqx/emqx-cloud-grafana: BRANCHES:[main:4fca075ff932b91e63039c9bdcc4201a8801ad3f;]|RELEASE:[none|none]
 emqx/iotdb-client-erl: BRANCHES:[main:c51df55129811aed48fa74acb39a9e793d360cb5;copilot/sub-pr-3:b6c73ff6c12d74973eeefd2de18552a3c78c0f89;]|RELEASE:[none|none]
+emqx/oidcc: BRANCHES:[emqx-v3.2:63444f0759eee555c1d9fc3fe16daf97c204115a;260416-accept-jwks-plus-json:fcdb4b122eebb9d0380da5d79f73f79842e892e9;fix/github-actions-fork:2a1d6634e24c01b239f5dcbf244db75e0c81d28f;ev3.2.0:47d68d8f7c8ada42cbbab33acad63f5a7f2de132;main:493b0d087d2ba93d4cf68631b80675a51e5cd121;]|RELEASE:[none|none]
