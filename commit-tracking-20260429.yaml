@@ -3897,3 +3897,4 @@ emqx/rabbitmq-server: BRANCHES:[heads/v3.11.13_with_app_src:4b0930600a85f42fffff
 emqx/gproc: BRANCHES:[master:e346b8bd477516a4132031b0e5b16e09e1478b9f;]|RELEASE:[none|none]
 emqx/MQTT-Feature-Examples: BRANCHES:[main:41edf452979bdfa93e72702983f13fe65b9d483f;]|RELEASE:[none|none]
 emqx/erl-cbor: BRANCHES:[master:a3442b21ec30c9023890b35f4ca6135a443c005f;]|RELEASE:[none|none]
+emqx/emqx-ecp-docs: BRANCHES:[main:5848a85b0f3dee5802113f51ce28b60bd0f9e540;v2.7.0:9c75871bebaac78410c0e0270ccd8c1e9bff7748;refactor/exporter:6d8984d21433d574b0b445ef2178f8cb5c1289b6;doc/emqx-metrics:36eec3dc254c7a8b7e9ede3816ad8bde07f14bd2;doc/emqx-agent:40ef01f5db2fb54fd079d5af302591ecf6d58b37;cy-tracing:5721ebc6ebb0bbf5bace56cc64c090d2f11d587b;sso:c91ada0499031747e21e382b55898dda97a1f595;cluster-helm:0feb556d1f11e851f38b8975aeb1bd3040819279;main-emqx:e52f5bc518b66e4c6e462ce254b8eec6d79238c1;fix/cluster:cc7df588cb1b510513ecf52476fbe886ed438c05;]|RELEASE:[v2.5|none]
