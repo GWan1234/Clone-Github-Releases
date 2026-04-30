@@ -3976,3 +3976,4 @@ emqx/gpb: BRANCHES:[master:856dae05bf2b8e181c96dad374e105afd005cb80;]|RELEASE:[4
 emqx/flink-connector-mqtt: BRANCHES:[main:f543a0ee3bd680ae2c9122b118168752532f6bb7;]|RELEASE:[none|none]
 emqx/mcp-typescript-sdk: BRANCHES:[main:d76783839383b2dab035406440644c8e2df66f7b;]|RELEASE:[v0.2.7|d76783839383b2dab035406440644c8e2df66f7b]
 emqx/flink-emqx-connector: BRANCHES:[main:285d52056f7d0ec8083852fa81fd92bd403c412e;]|RELEASE:[none|none]
+emqx/emqx-on-gke: BRANCHES:[master:fdf66a44c65948a271ac1d3610d92e67b57301c2;]|RELEASE:[none|none]
