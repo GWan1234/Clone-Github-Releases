@@ -3936,3 +3936,4 @@ emqx/erlazure: BRANCHES:[master:2ca28223adff854fa304ec0eb4aaf9903c298e45;]|RELEA
 emqx/mqtt-to-postgres: BRANCHES:[main:0f41f9c0716ffa0ee374917a458a041f355f10f9;]|RELEASE:[none|none]
 emqx/zsh-in-docker: BRANCHES:[master:6170c6adb62df8e911a0ebe9f97de54131244774;]|RELEASE:[none|none]
 emqx/emqx-relup: BRANCHES:[main:e2ea02a6b89262f7f5c07f962c31d2d4e2787ca5;]|RELEASE:[none|none]
+emqx/emqx-cloud-grafana: BRANCHES:[main:4fca075ff932b91e63039c9bdcc4201a8801ad3f;]|RELEASE:[none|none]
