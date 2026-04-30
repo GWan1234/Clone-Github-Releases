@@ -3908,3 +3908,4 @@ emqx/terraform-aws-github-runner: BRANCHES:[emqx-v6:1e1562bd2673f5b5dae9bcc00e3c
 emqx/msg_batcher: BRANCHES:[main:3584d2c1faa3e755e6d4c79b0e389671c11d4166;]|RELEASE:[0.1.0|none]
 emqx/mqtt-to-redis: BRANCHES:[main:cbd5497a3bf38af75bb2cc513b55b59c9a8768ea;]|RELEASE:[none|none]
 emqx/mqtt-to-webhook: BRANCHES:[main:c9fd322de1bea7edf9d19d568de86135921727dd;]|RELEASE:[none|none]
+emqx/mqtt-to-snowflake: BRANCHES:[main:33bc6d2182a1aa1e20e7a79dd8b1f1951c8249e3;]|RELEASE:[none|none]
