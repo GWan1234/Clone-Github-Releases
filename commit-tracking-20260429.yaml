@@ -3913,3 +3913,4 @@ emqx/mqtt-to-apache-iotdb: BRANCHES:[main:5c2a7491b3e25e0ff3b2c47d73d74ef4060d79
 emqx/opentelemetry-erlang: BRANCHES:[main:3f562cb5771a887082d8434d60e82405d8c0742e;emqx-v1.3:6c1d8e8e23a297b7aa62d2c0b9393e9e865ef6f8;]|RELEASE:[none|none]
 emqx/mqtt-to-redpanda: BRANCHES:[main:fae52e61edf85c5b16752dd0b901025391a856d8;]|RELEASE:[none|none]
 emqx/emqx-usage-example: BRANCHES:[main:445b6e9c78c07514845b22baf2a59d7ea65a4191;241130-retained-message-lazy-push:3b42a19b6128bf69296ce7b19df005c6ff3cfc6b;]|RELEASE:[none|none]
+emqx/emqx-rebalance-article: BRANCHES:[main:b5c9ca7b60790bc648a4d4660e828cfe59696bee;]|RELEASE:[none|none]
