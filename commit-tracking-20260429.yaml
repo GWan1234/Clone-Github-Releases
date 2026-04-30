@@ -3945,3 +3945,4 @@ emqx/ra: BRANCHES:[fix/main/silent-flush-error:80961e0d3ee04efa2456e1c922d4a7dbb
 emqx/thrift.erl: BRANCHES:[master:89b7e1c97f38ca0805c10afa384074cbbd29de06;]|RELEASE:[none|none]
 emqx/swift-mqtt: BRANCHES:[dev-sutext:eebac4f6859da94adfbd1f666b94bee0e1ca5b82;main:eebac4f6859da94adfbd1f666b94bee0e1ca5b82;alert-autofix-3:63c7dd2f3327bd4d19945598b793b9a79c357e3d;]|RELEASE:[none|none]
 emqx/emqx-offline-message-plugin: BRANCHES:[main:3d37e74979160edf34444ff3bb59554eceea5a25;250430-add-ci-badge:c05edd059f83fae2cff7c0f80c2d326ab11042fa;]|RELEASE:[v2.0.0|none]
+emqx/emqx-cloud-datadog: BRANCHES:[main:a224e8d38f30608542ddc15abc7a6a010a2fb95d;]|RELEASE:[none|none]
