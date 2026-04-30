@@ -63,8 +63,8 @@ repositories:
 #    - armbian
 #    - armbian
 #    - armbian
-#    - ophub
-#    - ophub
+    - ophub
+    - ophub
     - ophub
   repo0:
 #    - openwrt/openwrt
@@ -72,8 +72,8 @@ repositories:
 #    - armbian/cache-next
 #    - armbian/cache
 #    - armbian/os
-#    - ophub/fnnas
-#    - ophub/amlogic-s9xxx-armbian
+    - ophub/fnnas
+    - ophub/amlogic-s9xxx-armbian
     - ophub/amlogic-s9xxx-openwrt
   source0:
 #    - https://github.com/openwrt/openwrt
@@ -81,8 +81,8 @@ repositories:
 #    - https://github.com/armbian/cache-next.git
 #    - https://github.com/armbian/cache.git
 #    - https://github.com/armbian/os.git
-#    - https://github.com/ophub/fnnas
-#    - https://github.com/ophub/amlogic-s9xxx-armbian
+    - https://github.com/ophub/fnnas
+    - https://github.com/ophub/amlogic-s9xxx-armbian
     - https://github.com/ophub/amlogic-s9xxx-openwrt
   name1:
     - mihomo
