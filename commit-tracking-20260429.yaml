@@ -3972,3 +3972,4 @@ emqx/emqx-multimedia-proxy: BRANCHES:[main:f4eae7673f9d8cb0d5be0638190f0a1d19e2f
 emqx/mcp-ai-companion-demo: BRANCHES:[volcengine/rtc:58f15579ad0b7018383717d4c805e54de798f7ce;main:6288e6731feeebbabf3edfa051b611b0ae2514b0;]|RELEASE:[none|none]
 emqx/greptimedb-ingester-erl: BRANCHES:[main:44a818d3d249020db25cf920b19cae619524e424;feature/update-ci:2ac820e05c2146233adb592ddcacc62bd089776d;feature/row-write:282a9d4776fb8b31a719c36e61f5cf18a07570eb;feature/time-unit:0264a046bb13e53d62973987f1bc0964179e2374;develop:6d2600f477bf7002f005dd2e242ff3a5f22c520e;]|RELEASE:[none|none]
 emqx/mqtt-for-ai: BRANCHES:[main:e533bd7c38818644d470510e79e70d1feb034aa0;remove-homepage:3749f796cb7ee2881cc47dfa4e7dfc9204b3b14f;]|RELEASE:[none|none]
+emqx/gpb: BRANCHES:[master:856dae05bf2b8e181c96dad374e105afd005cb80;]|RELEASE:[4.21.4.1|none]
