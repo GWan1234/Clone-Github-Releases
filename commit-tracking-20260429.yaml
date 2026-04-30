@@ -4044,3 +4044,4 @@ philippe44/mdnssd: BRANCHES:[master:f65c30abb04384451e1b6696bc5e8aff9b63edc7;v2:
 philippe44/mdnssvc: BRANCHES:[master:314b5d80e36d7becc797f3000a713c8a56444145;]|RELEASE:[none|none]
 philippe44/nanopb: BRANCHES:[master:35f65e5ae8241c68b6ea9ae9a5085a24d043e157;]|RELEASE:[none|none]
 philippe44/ogg: BRANCHES:[master:a099b6fd6d3c48f3f9854893d73891552435a0ab;]|RELEASE:[none|none]
+philippe44/ogg-rust: BRANCHES:[PacketWriter's-inner-access-for-accessing-result:6a0c28309ae643e9b234ca0e4aa1355d6c464d08;master:3b3f3c725f43aef0ea62c9fe20a578e647c0ac58;]|RELEASE:[none|none]
