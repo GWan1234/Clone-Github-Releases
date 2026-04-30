@@ -3927,3 +3927,4 @@ emqx/gke-load-test: BRANCHES:[20241218-operator-private-namespace:223df098d2515a
 emqx/lhttpc: BRANCHES:[master:df503b630c1fc7f81a636373f2d9daefdbde6b16;]|RELEASE:[none|none]
 emqx/jesse: BRANCHES:[master:4c636440ac27d0a357286ed2822d1dfca60c2424;]|RELEASE:[none|none]
 emqx/erlavro: BRANCHES:[master:3789893d61f210539345d94a2a4e934d5f59e32e;]|RELEASE:[none|none]
+emqx/neuronex-helm-charts: BRANCHES:[gh-pages:66778b43311b3340757264fb0342f1361f61f06a;main:e8e4f15b859dc2af8f7fab3ef7e4ccd4f9714eec;]|RELEASE:[neuronex-operator-0.1.11|none]
