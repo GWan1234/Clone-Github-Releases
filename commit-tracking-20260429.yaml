@@ -3959,3 +3959,4 @@ emqx/brod_oauth: BRANCHES:[main:00483ffe7bb965aef1d481c4012c7f79ceb47567;2025111
 emqx/emqx-mcp-gateway: BRANCHES:[main:572e4c6c592e8d857f928c58cbac1d8eb5f3df5d;]|RELEASE:[none|none]
 emqx/emqx-plugin-ecq: BRANCHES:[main:773d8afdd37238953e1561a6991498759fbdff82;]|RELEASE:[0.1.2|none]
 emqx/emqx-plugin-mcp-tools: BRANCHES:[main:db4a9603effc1bb8c5979ecd1b9ad8c7f7d56915;]|RELEASE:[0.0.7|none]
+emqx/translate-issue-action: BRANCHES:[master:71628143ab1baff386f26de5926bf344cb0d7e50;]|RELEASE:[none|none]
