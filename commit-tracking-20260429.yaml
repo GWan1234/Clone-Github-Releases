@@ -3909,3 +3909,4 @@ emqx/msg_batcher: BRANCHES:[main:3584d2c1faa3e755e6d4c79b0e389671c11d4166;]|RELE
 emqx/mqtt-to-redis: BRANCHES:[main:cbd5497a3bf38af75bb2cc513b55b59c9a8768ea;]|RELEASE:[none|none]
 emqx/mqtt-to-webhook: BRANCHES:[main:c9fd322de1bea7edf9d19d568de86135921727dd;]|RELEASE:[none|none]
 emqx/mqtt-to-snowflake: BRANCHES:[main:33bc6d2182a1aa1e20e7a79dd8b1f1951c8249e3;]|RELEASE:[none|none]
+emqx/mqtt-to-apache-iotdb: BRANCHES:[main:5c2a7491b3e25e0ff3b2c47d73d74ef4060d7950;]|RELEASE:[none|none]
