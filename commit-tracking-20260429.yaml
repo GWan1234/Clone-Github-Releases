@@ -3883,3 +3883,4 @@ emqx/mqttbs: BRANCHES:[main:9a946c8c66ec3e8d1459fa5665def06f7b7d7eca;]|RELEASE:[
 emqx/deploy-emqx-to-gcp-with-terraform: BRANCHES:[main:1641cd7696fff27be578166abf2b790cfbb771bd;]|RELEASE:[none|none]
 emqx/tf-emqx-performance-test: BRANCHES:[master:604622f98ef1b5356bce643c2fdc16478eb2fa19;fix/emqx/disable-vm-dist-collector:88539bb566dd8387ecedc94c46dadc35e5223056;feat/richer-summary:1c8ab5657e3ebf2d839f91f49812dcae353ec4e7;20240816-tmg-ds-mnesia-backend-tmp-test:0fc1e260501f7b8721d5e3650d600ce262c37f07;]|RELEASE:[none|none]
 emqx/emqx-exporter: BRANCHES:[main:dc299c941cbd80f9e02b6e9f2abed9a220479a3a;]|RELEASE:[0.2.11|none]
+emqx/mqtt-to-timescaledb: BRANCHES:[main:ee24974979c91d02c12292507d0eac230fab44f0;update_charts:fae00adda1e39204eac871bff815fcf0b36a2a31;update_grafana:6253532d05360b43c8a26ad34eb2d8100d77205a;]|RELEASE:[none|none]
