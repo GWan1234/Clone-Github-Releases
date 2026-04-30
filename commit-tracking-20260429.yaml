@@ -3870,3 +3870,4 @@ emqx/local-storage-encryption: BRANCHES:[main:17526e3f74a237b8c9135fd040b0291f75
 emqx/hackney: BRANCHES:[master:76de40b838d8ec06ab6674b55b828c7d2d5aa6be;fix-pin-mimerl:0ef07fa5f8f2e91c0e80c00eaf0e740779587ad4;no-rebar3:317b10ac9b005ef281de664f50c048785bffe512;update-rebar3:46dcb71a4a2b11be1ef495afde780bbb2b8f2f48;]|RELEASE:[none|none]
 emqx/self-hosted-cleanup-action: BRANCHES:[master:64bec2b61521b4cea6326c728cfc60d10758dc04;]|RELEASE:[none|none]
 emqx/edge-operator: BRANCHES:[main:d311f4a6b90ea5f3837cf5ea4740ecd8a1f29820;]|RELEASE:[0.0.5|none]
+emqx/ekuiper-sample: BRANCHES:[main:b3349db0020b1b7c58828e24dd5f5e83f9c81997;]|RELEASE:[none|none]
