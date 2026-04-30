@@ -3990,3 +3990,4 @@ emqx/refresh-ali-cdn: BRANCHES:[main:ca564dac27e46a548190d72b730be9bb20134a36;]|
 emqx/docsearch-scraper: BRANCHES:[main:f8c0099fa38f5820d26396ec1e672e4d1111462e;]|RELEASE:[none|none]
 emqx/push-to-packagecloud: BRANCHES:[main:b91df1c4439a78cf3366cdb204cd97940bcf6fe7;]|RELEASE:[none|none]
 emqx/hannover-messe-demo: BRANCHES:[master:694781bde825ddd8171cb1c54fa31e4e52a76501;]|RELEASE:[none|none]
+philippe44/AirConnect: BRANCHES:[master:3710198b90e653a39ca70c6863bab4f82ff6931b;2.x:1e621c77b4b7fd3c52741684b4ff8fe58b929da5;]|RELEASE:[1.9.3|none]
