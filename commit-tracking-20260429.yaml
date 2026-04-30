@@ -3874,3 +3874,4 @@ emqx/ekuiper-sample: BRANCHES:[main:b3349db0020b1b7c58828e24dd5f5e83f9c81997;]|R
 emqx/.github: BRANCHES:[main:4658ba4386ca6d9454529d662a6e6658c382c556;]|RELEASE:[none|none]
 emqx/rebar3_sbom: BRANCHES:[master:6d1486ffea3e0ebe41589ce52e7c42be04117da5;dev/json_1.4:50b437031118d584197e44237a8cda4e88abae3a;]|RELEASE:[none|none]
 emqx/ezstd: BRANCHES:[v1.0.4-fix-build:ba2f7f63f9c8c6549d3ca0a9b763c3e4c0d41c67;master:2ac26f73b5b4093f43d11214d2aa988609699ef5;]|RELEASE:[none|none]
+emqx/deploy-emqx-to-azure-with-terraform: BRANCHES:[main:95b29ca0a04bf704ad2793ba89c3c7733cefd0a1;lvus:d9098fb1ce66b84e8c6725863977716c3fb265cc;]|RELEASE:[none|none]
