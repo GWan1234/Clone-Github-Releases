@@ -3979,3 +3979,4 @@ emqx/flink-emqx-connector: BRANCHES:[main:285d52056f7d0ec8083852fa81fd92bd403c41
 emqx/emqx-on-gke: BRANCHES:[master:fdf66a44c65948a271ac1d3610d92e67b57301c2;]|RELEASE:[none|none]
 emqx/ecp-builder: BRANCHES:[fix/tags:b202b673cb2f8a4bd09e7d221d5b6359f2972e4a;2.7.1/aliyun:3e231fa7033bab01674ee33905325e26bbeadf4b;main:8e19ae71ea23c040095547aa6c255486d90246d1;develop:a445a2c5b5d7250c220d270232df44d818695c49;]|RELEASE:[none|none]
 emqx/neuronex-builder: BRANCHES:[main:263bf6849f30faa7ddf6e6c8fd495a6230495dad;develop:f63db7cf1d49b85e82d1147b47080f1087749d08;3.7-custom:f97f91fbcd927ddcd8375dba40e635a05946c958;3.6-custom:4fc15061bc487a4d1b359ed9f2e3a00c5f90639a;]|RELEASE:[3.6.5|none]
+emqx/emqx_mcp_bridge: BRANCHES:[session-life-time:94561d1f8126b87ac933d0e80b34f547f94f9caa;main:19f58003fbb01c6e8c5cefca7a5e69180a95dc33;]|RELEASE:[1.0.14|19f58003fbb01c6e8c5cefca7a5e69180a95dc33]
