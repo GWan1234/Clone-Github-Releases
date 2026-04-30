@@ -3878,3 +3878,4 @@ emqx/deploy-emqx-to-azure-with-terraform: BRANCHES:[main:95b29ca0a04bf704ad2793b
 emqx/docker-images: BRANCHES:[master:74d9d477886a4e0829167b5d34fc8414a65662c4;ci-docker-cache-from:668fb286fd24471399e83b553c96620297217219;spark:c73a976ef30c0a7dd2710ac1e9f6add61a68c1a2;add-vsn:5811b638bd8f13ccfdddb4bf8560731a5dbc55ff;]|RELEASE:[none|none]
 emqx/jsone: BRANCHES:[master:850521dbdd7fee43f5b95a08f4d7c8683ce34dcb;]|RELEASE:[none|none]
 emqx/optvar: BRANCHES:[main:2331bbff4ddce7d9dc64698936a9d158174f3315;fix-race-timeout:58f1d84a76a5c62b6e8d2763d302cefea8e94e9c;]|RELEASE:[none|none]
+emqx/emqx_ctl: BRANCHES:[main:45524ea662d6c3735c8943d2a3936b875c6b8a0d;]|RELEASE:[none|none]
