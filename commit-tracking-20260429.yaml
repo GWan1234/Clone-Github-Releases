@@ -4002,3 +4002,4 @@ philippe44/cross-compiling: BRANCHES:[master:3bd6401614b885d500aa03d2619e365326e
 philippe44/crosstools: BRANCHES:[master:41544c653760a205cbf6cebfdeda4a9394cc6455;]|RELEASE:[none|none]
 philippe44/cspot: BRANCHES:[master:77afa6390ec92b451d50acace49b9becfbf84afc;gapless:92492bbcfc011cf1f780b51617d9d06f564c0258;feature/queue:f041bfa7457679d59a3e4fa9a87308b34d7bc653;feat/cdn:31bf7bbe6d800e75e52a3637765ea4d5ebc4e45c;misc:6ddffe2c34e2561020fd799b214f13bcf36e99bf;Windows+fixes:fbd1b743607a31b1b8014012e4f6a54f32f78c22;feat/s3:243e180d5c1704eb71cdeb31d070d7f7bd8df407;feature/euphonium:6eaeff6e054bbe2e55f2f99561ea43ea022afffb;feature/vaccum:852f0549c2f213a0237dd94e86fca0d4d439665f;feature/nanopb_begone:2ff55c6b82e07d9f3459ffd0b2fd6991682965a2;]|RELEASE:[none|none]
 philippe44/curve25519: BRANCHES:[master:67472447bc1f4278b7a07b38fdec3aa75f49e799;]|RELEASE:[none|none]
+philippe44/dmap-parser: BRANCHES:[master:2f8ee61e2427a177beea919d72dde8931084fe51;]|RELEASE:[none|none]
