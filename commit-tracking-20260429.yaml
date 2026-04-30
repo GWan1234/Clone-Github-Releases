@@ -3880,3 +3880,4 @@ emqx/jsone: BRANCHES:[master:850521dbdd7fee43f5b95a08f4d7c8683ce34dcb;]|RELEASE:
 emqx/optvar: BRANCHES:[main:2331bbff4ddce7d9dc64698936a9d158174f3315;fix-race-timeout:58f1d84a76a5c62b6e8d2763d302cefea8e94e9c;]|RELEASE:[none|none]
 emqx/emqx_ctl: BRANCHES:[main:45524ea662d6c3735c8943d2a3936b875c6b8a0d;]|RELEASE:[none|none]
 emqx/mqttbs: BRANCHES:[main:9a946c8c66ec3e8d1459fa5665def06f7b7d7eca;]|RELEASE:[none|none]
+emqx/deploy-emqx-to-gcp-with-terraform: BRANCHES:[main:1641cd7696fff27be578166abf2b790cfbb771bd;]|RELEASE:[none|none]
