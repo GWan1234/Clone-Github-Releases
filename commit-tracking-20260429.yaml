@@ -3942,3 +3942,4 @@ emqx/oidcc: BRANCHES:[emqx-v3.2:63444f0759eee555c1d9fc3fe16daf97c204115a;260416-
 emqx/mqtt-api-to-mysql: BRANCHES:[main:30fb26a0ddaa15cee0c02175f2be3ebef9b7d200;]|RELEASE:[none|none]
 emqx/avlizer: BRANCHES:[master:46cf4e3f620dd687f8da0d45c0762cc985ecc554;]|RELEASE:[none|none]
 emqx/ra: BRANCHES:[fix/main/silent-flush-error:80961e0d3ee04efa2456e1c922d4a7dbb9d73b85;v2.16.x-emqx:34d046611598af6ffc5e85b66d56069deb64fe5a;fix/candidate-down-ignore:66a6abecddb8edf29d8fc279ef1b3f1eb7811536;fix/lost-segment-index-write:6c4531ba41e43bbe76544e06eabd8c1c6cec434e;fix/respect-sync-none:2a69afbfb31517c06d8d0e2d7347369749a5f1ff;v2.15.x-emqx:081f66bc40b3c70371e1bb8329b9d710731814bb;v2.15.x:f9e084bfb8acdbcada529a22d8cf5487f140e2c3;main:5174d5020b1ee71ebd93e8076479da04a74a4bf9;fix/snapshot-sender-gone:559b77a9a66a21bfb0959463ef207bc05f261ae3;]|RELEASE:[none|none]
+emqx/thrift.erl: BRANCHES:[master:89b7e1c97f38ca0805c10afa384074cbbd29de06;]|RELEASE:[none|none]
