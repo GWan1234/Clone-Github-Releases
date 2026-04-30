@@ -3896,3 +3896,4 @@ emqx/emqx-gcp-iot-migrate: BRANCHES:[main:31620d6b993e9598b9d4b410d0e7d3249131db
 emqx/rabbitmq-server: BRANCHES:[heads/v3.11.13_with_app_src:4b0930600a85f42fffff05c29b80f3b6e66d3776;main:1844f71c7fb5d5db6e68a82ef57176cc2231ad3d;]|RELEASE:[none|none]
 emqx/gproc: BRANCHES:[master:e346b8bd477516a4132031b0e5b16e09e1478b9f;]|RELEASE:[none|none]
 emqx/MQTT-Feature-Examples: BRANCHES:[main:41edf452979bdfa93e72702983f13fe65b9d483f;]|RELEASE:[none|none]
+emqx/erl-cbor: BRANCHES:[master:a3442b21ec30c9023890b35f4ca6135a443c005f;]|RELEASE:[none|none]
