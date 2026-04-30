@@ -3934,3 +3934,4 @@ emqx/emqx-byoc-docs: BRANCHES:[main:edabc18976c2aa7229428f9229ee6570aa5ea57e;]|R
 emqx/emqx-platform-reused-docs: BRANCHES:[main:9d086fd32752f28612340aa57a4f5b9bc5b40bbf;]|RELEASE:[none|none]
 emqx/erlazure: BRANCHES:[master:2ca28223adff854fa304ec0eb4aaf9903c298e45;]|RELEASE:[none|none]
 emqx/mqtt-to-postgres: BRANCHES:[main:0f41f9c0716ffa0ee374917a458a041f355f10f9;]|RELEASE:[none|none]
+emqx/zsh-in-docker: BRANCHES:[master:6170c6adb62df8e911a0ebe9f97de54131244774;]|RELEASE:[none|none]
