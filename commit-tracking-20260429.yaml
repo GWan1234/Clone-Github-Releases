@@ -3981,3 +3981,4 @@ emqx/ecp-builder: BRANCHES:[fix/tags:b202b673cb2f8a4bd09e7d221d5b6359f2972e4a;2.
 emqx/neuronex-builder: BRANCHES:[main:263bf6849f30faa7ddf6e6c8fd495a6230495dad;develop:f63db7cf1d49b85e82d1147b47080f1087749d08;3.7-custom:f97f91fbcd927ddcd8375dba40e635a05946c958;3.6-custom:4fc15061bc487a4d1b359ed9f2e3a00c5f90639a;]|RELEASE:[3.6.5|none]
 emqx/emqx_mcp_bridge: BRANCHES:[session-life-time:94561d1f8126b87ac933d0e80b34f547f94f9caa;main:19f58003fbb01c6e8c5cefca7a5e69180a95dc33;]|RELEASE:[1.0.14|19f58003fbb01c6e8c5cefca7a5e69180a95dc33]
 emqx/emqx-on-k8s-argocd: BRANCHES:[master:bd6375e051c52285a376bb507c1961a9fe586a0a;]|RELEASE:[none|none]
+emqx/greptimedb-ingester-erlnif: BRANCHES:[main:8403f3439201115d81fe3c49113ffa0380d37a68;]|RELEASE:[0.1.10|none]
