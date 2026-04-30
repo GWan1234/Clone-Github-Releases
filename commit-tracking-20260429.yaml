@@ -4022,3 +4022,4 @@ philippe44/libopenssl: BRANCHES:[master:ac74d79efc7a702386fcf00d4b7e0a785721a3ed
 philippe44/libpthreads4w: BRANCHES:[master:2ae750783281db5b5cd867649880b3b951ced781;]|RELEASE:[none|none]
 philippe44/libpupnp: BRANCHES:[master:11a9750e2fa6da392345fcc8868b307444e13341;]|RELEASE:[none|none]
 philippe44/libraop: BRANCHES:[master:81c2182649da8645ac2a58b78e9f370c79a4165b;v1.x:b6438b4c1fb459946f3ba329c82377c430834ab0;]|RELEASE:[none|none]
+philippe44/libresample16: BRANCHES:[master:ea28868d3de1136db9676efc22d35dcf89819fc5;]|RELEASE:[none|none]
