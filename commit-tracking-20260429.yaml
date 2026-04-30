@@ -3924,3 +3924,4 @@ emqx/couchdb-erlfdb: BRANCHES:[dev:8b6477fa21b15e12991e2e161f1cb7d98c7759fe;impr
 emqx/redbug: BRANCHES:[otp26:85cdce1c84824891c948bccca5b681a536d0123a;master:55fb4b09edec7b6a3e5436e6455f3a2d8a8428ec;main:d927fec4e5ef8072e464ea519a942c24d29f116f;]|RELEASE:[none|none]
 emqx/upload-assets: BRANCHES:[master:974befcf0e72a1811360a81c798855efb66b0551;0328-skip-asset-if-already-exists:89e2c38026f93df4a7c140b3a04e7b27614bb283;]|RELEASE:[none|none]
 emqx/gke-load-test: BRANCHES:[20241218-operator-private-namespace:223df098d2515aafc6cf948bb70360dbed7541fe;master:a0af769e1d6046b1039305515ab2bc1baae1f1fc;]|RELEASE:[none|none]
+emqx/lhttpc: BRANCHES:[master:df503b630c1fc7f81a636373f2d9daefdbde6b16;]|RELEASE:[none|none]
