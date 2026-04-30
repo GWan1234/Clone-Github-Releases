@@ -3987,3 +3987,4 @@ emqx/egbk-conv: BRANCHES:[main:50648129f6cd2b08c805135c7967342636f50777;]|RELEAS
 emqx/flowmq-clusterfuzzlite-corpus: BRANCHES:[cflite-corpus:0fee9b6deeb8bf74407b5affc861e9fecfb43a99;manual_generate:20f2f33791e596862637c7c4c031c187a3b0cb51;gh-pages:4203a1b8de5f77be0144c86d07758672fee4dece;]|RELEASE:[none|none]
 emqx/refresh-huawei-cdn: BRANCHES:[main:efff541a3bb54dcde1051eaee494d40eb1b367b7;]|RELEASE:[none|none]
 emqx/refresh-ali-cdn: BRANCHES:[main:ca564dac27e46a548190d72b730be9bb20134a36;]|RELEASE:[none|none]
+emqx/docsearch-scraper: BRANCHES:[main:f8c0099fa38f5820d26396ec1e672e4d1111462e;]|RELEASE:[none|none]
