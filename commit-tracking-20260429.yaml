@@ -3958,3 +3958,4 @@ emqx/emqx-plugin-sdv: BRANCHES:[main:e7c18c68a4f86806c2dbc4d9429707337978a467;25
 emqx/brod_oauth: BRANCHES:[main:00483ffe7bb965aef1d481c4012c7f79ceb47567;20251114-fix-err-msg:f99b3220dab15ff3fc9c28b06a1e3f96c36bd684;bp/fix-extension-support:e635bcd29a272dc7dd8701b6b58fe1c98326e96a;]|RELEASE:[none|none]
 emqx/emqx-mcp-gateway: BRANCHES:[main:572e4c6c592e8d857f928c58cbac1d8eb5f3df5d;]|RELEASE:[none|none]
 emqx/emqx-plugin-ecq: BRANCHES:[main:773d8afdd37238953e1561a6991498759fbdff82;]|RELEASE:[0.1.2|none]
+emqx/emqx-plugin-mcp-tools: BRANCHES:[main:db4a9603effc1bb8c5979ecd1b9ad8c7f7d56915;]|RELEASE:[0.0.7|none]
