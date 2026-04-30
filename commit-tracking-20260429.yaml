@@ -3969,3 +3969,4 @@ emqx/macos-erlang: BRANCHES:[master:1e65a0125f99969fd5623999fe52e49f4fa542d5;]|R
 emqx/esp-mcp-over-mqtt: BRANCHES:[main:67a3a0500a0f8d79ee8aaaf183ee06697a9c40ca;]|RELEASE:[none|none]
 emqx/paho-mcp-over-mqtt: BRANCHES:[main:2c71eeef716d60c52b8d46dd2d8e5355b3be83aa;]|RELEASE:[none|none]
 emqx/emqx-multimedia-proxy: BRANCHES:[main:f4eae7673f9d8cb0d5be0638190f0a1d19e2f318;asr_by_audio_file:c6a68a389eed6a0456a160135050c2dae4a88a50;]|RELEASE:[none|none]
+emqx/mcp-ai-companion-demo: BRANCHES:[volcengine/rtc:58f15579ad0b7018383717d4c805e54de798f7ce;main:6288e6731feeebbabf3edfa051b611b0ae2514b0;]|RELEASE:[none|none]
