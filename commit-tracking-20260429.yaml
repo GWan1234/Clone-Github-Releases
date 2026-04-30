@@ -3852,3 +3852,4 @@ emqx/emqx_plugrel: BRANCHES:[master:17c022870c19c1a9c6077c54515cb5bbd6d465d2;]|R
 emqx/docker-aws-cdk: BRANCHES:[master:a8c2c1f13b9c449aa4946e6bcfca9cf5a19387ea;]|RELEASE:[none|none]
 emqx/NanoSDK: BRANCHES:[main:6cb73c849f3307ddc044b0dcace5992b7699b578;gee_bin:4447b4a1a27027ef482040535868d75742e28fa2;gee_bin_ng:9f8ce018bf39b8d649f6ed93a0b278ae4fdc4b49;jaylin/nanosdk:458a3f65df5a9f642b2a5361dd57edc5e142d9ba;neuron:eecfec375677eb2eb0db9f67b2d33c36da87f655;neuronlog:ecc696c3ed4bc05700c78cb77c3f25eadf57363f;test_udp:7d177699e97c8e2431e3bff5651d414300319c63;master:bcf4f0965b0c6d8a6ad124b6672a32b56855f2a2;]|RELEASE:[0.10.5|none]
 emqx/emqx-schema-validate: BRANCHES:[master:4939d74e4942a9d2252475bf48bc9ea60b233311;chore-add-SASL-and-GSSAPI-to-dict:386041b7fda40882dffd17a78bb258d3717861bf;docker:3ab6931ea0bc73224a014bd788af9c1aa4c20ea5;]|RELEASE:[none|none]
+emqx/ots_erl: BRANCHES:[master:dadb17d99ccefcc37d653195f0dc4251eee4bd6f;]|RELEASE:[none|none]
