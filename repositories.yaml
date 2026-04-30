@@ -37,16 +37,17 @@ allrepositories:
 #  - FDH2
 
 
-  - home-assistant
-  - rustdesk
-  - xyzroe
-  - iamromulan
+#  - home-assistant
+#  - rustdesk
+#  - xyzroe
+#  - iamromulan#
 
-  - LilyGO
-  - Xinyuan-LilyGO
-  - emqx
-  - philippe44
-  - adafruit
+#  - LilyGO
+#  - Xinyuan-LilyGO
+#  - emqx
+#  - philippe44
+#  - adafruit
+
 #  - armbian
 #  - ophub
 
@@ -64,7 +65,7 @@ repositories:
 #    - armbian
 #    - ophub
 #    - ophub
-#    - ophub
+    - ophub
   repo0:
 #    - openwrt/openwrt
 #    - SagerNet/sing-box
@@ -73,7 +74,7 @@ repositories:
 #    - armbian/os
 #    - ophub/fnnas
 #    - ophub/amlogic-s9xxx-armbian
-#    - ophub/amlogic-s9xxx-openwrt
+    - ophub/amlogic-s9xxx-openwrt
   source0:
 #    - https://github.com/openwrt/openwrt
 #    - https://github.com/SagerNet/sing-box
@@ -82,7 +83,7 @@ repositories:
 #    - https://github.com/armbian/os.git
 #    - https://github.com/ophub/fnnas
 #    - https://github.com/ophub/amlogic-s9xxx-armbian
-#    - https://github.com/ophub/amlogic-s9xxx-openwrt
+    - https://github.com/ophub/amlogic-s9xxx-openwrt
   name1:
     - mihomo
     - QModem
