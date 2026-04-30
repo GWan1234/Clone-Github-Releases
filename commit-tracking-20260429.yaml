@@ -4014,3 +4014,4 @@ philippe44/http-fetcher: BRANCHES:[master:fbc60253bb29454311df96e46e81a7d42867d6
 philippe44/IP-HargassnerIntegration: BRANCHES:[main:777ed6e1918516a6837b222b0d9268cebe49084e;Classic:a7784513ebbf14c8dcbebb44de567d84666dd1ad;]|RELEASE:[none|none]
 philippe44/jpeg: BRANCHES:[aitiv-dev:b918d8d3ace56ae1e2784eed385c09ecb2973ecc;devel:607bf36a1b23a5b25ba77fee2dc648dabb488015;master:607bf36a1b23a5b25ba77fee2dc648dabb488015;]|RELEASE:[none|none]
 philippe44/libcodecs: BRANCHES:[master:3234c96680fbe9f45047936a14df10edca822e5e;]|RELEASE:[none|none]
+philippe44/libjansson: BRANCHES:[master:67f84ac026589a69d196fd54602debc3393fc9de;]|RELEASE:[none|none]
