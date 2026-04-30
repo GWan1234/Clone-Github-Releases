@@ -3967,3 +3967,4 @@ emqx/flowsdk: BRANCHES:[automated/dependency-updates:daa72467a27f024a0a8eaefc6b5
 emqx/esp32-mcp-mqtt-tutorial: BRANCHES:[main:ec121cd0ae2592b4b5a3fb7e7e6d8b1316dba13f;]|RELEASE:[none|none]
 emqx/macos-erlang: BRANCHES:[master:1e65a0125f99969fd5623999fe52e49f4fa542d5;]|RELEASE:[none|none]
 emqx/esp-mcp-over-mqtt: BRANCHES:[main:67a3a0500a0f8d79ee8aaaf183ee06697a9c40ca;]|RELEASE:[none|none]
+emqx/paho-mcp-over-mqtt: BRANCHES:[main:2c71eeef716d60c52b8d46dd2d8e5355b3be83aa;]|RELEASE:[none|none]
