@@ -4008,3 +4008,4 @@ philippe44/esp-idf: BRANCHES:[release/v4.4:d83021a6e8550b4d462e11d61aaab0214dc03
 philippe44/esp32-gds: BRANCHES:[master:e4593d854f8947741df0857880960205eb7f20b9;]|RELEASE:[none|none]
 philippe44/ESP8266Audio: BRANCHES:[master:0898b8b3b22fd9964f711669e251f5f902dbb75f;]|RELEASE:[none|none]
 philippe44/faac: BRANCHES:[master:a38aecee0d5cf934f540caebfda8889b848cd668;]|RELEASE:[none|none]
+philippe44/faad2: BRANCHES:[master:3f312db2e6b9f65a0e8d5976303256af70ff714f;]|RELEASE:[none|none]
