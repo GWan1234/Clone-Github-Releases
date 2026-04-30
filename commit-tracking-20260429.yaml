@@ -3901,3 +3901,4 @@ emqx/emqx-ecp-docs: BRANCHES:[main:5848a85b0f3dee5802113f51ce28b60bd0f9e540;v2.7
 emqx/ranch: BRANCHES:[emqx-2.2:9de1897cc62b79de507c6c0e658603518cad2654;fix/EMQX-14393/limiter-create-once:4fd519975c3945034675365257d983e829edd769;emqx-1.8.x:78ade004dd2af236048f69340b37309b2727b80f;emqx-1.8:d3d6420b190b4ed084b3a5db82c35a3eeae75212;master:706594d9c80bc06a2681d2319ab7196478eb7bc4;]|RELEASE:[none|none]
 emqx/emqx-ft: BRANCHES:[main:0a9b85f1c620496cc23033199b3148bd9748716c;]|RELEASE:[none|none]
 emqx/emqx-api-testsuite: BRANCHES:[main:8f87217cfbc88d68c1a8d454537d58255327a270;]|RELEASE:[none|none]
+emqx/emqx-snowflake-proxy: BRANCHES:[main:d57b04e43c7ad3c7c1578c30ea782b2139d5004d;0712-push-docker-image-to-aws-ecr:532e608880bbb27a44b368579ac8fdf410037584;]|RELEASE:[none|none]
