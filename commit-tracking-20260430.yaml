@@ -4065,3 +4065,4 @@ azukaar/Cosmos-Server: BRANCHES:[master:28d88e1f1ac9f412ccbd4a0397f497f834fd8541
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095;]|RELEASE:[none|none]
 xfangfang/Macast: BRANCHES:[dev:881c6e6bc0006e85b152d2c70caad5807c029173;dev_test:ee58f4ec497704536461749c3afa659caccc34e0;pypi:0b138bd083d0609be2ae5973ff4510dbeef25cb2;main:121add3a8a70edb77e33aeab1ec88aeff27f49fc;add-license:7d56cce3f3110fd62df9fdcdd116f48e8fe2cea4;]|RELEASE:[v0.7|none]
 ophub/amlogic-s9xxx-openwrt: BRANCHES:[main:3c84ab4cd03549425e8ebc9897ec7adb199025cb;]|RELEASE:[OpenWrt_openwrt_main_save_2026.04|none]
+ophub/fnnas: BRANCHES:[main:42b53051e9384fd28b2ba5fbf7426431e034622f;]|RELEASE:[fnnas_rockchip_692|none]
