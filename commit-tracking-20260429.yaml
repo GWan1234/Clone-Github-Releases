@@ -3974,3 +3974,4 @@ emqx/greptimedb-ingester-erl: BRANCHES:[main:44a818d3d249020db25cf920b19cae61952
 emqx/mqtt-for-ai: BRANCHES:[main:e533bd7c38818644d470510e79e70d1feb034aa0;remove-homepage:3749f796cb7ee2881cc47dfa4e7dfc9204b3b14f;]|RELEASE:[none|none]
 emqx/gpb: BRANCHES:[master:856dae05bf2b8e181c96dad374e105afd005cb80;]|RELEASE:[4.21.4.1|none]
 emqx/flink-connector-mqtt: BRANCHES:[main:f543a0ee3bd680ae2c9122b118168752532f6bb7;]|RELEASE:[none|none]
+emqx/mcp-typescript-sdk: BRANCHES:[main:d76783839383b2dab035406440644c8e2df66f7b;]|RELEASE:[v0.2.7|d76783839383b2dab035406440644c8e2df66f7b]
