@@ -3863,3 +3863,4 @@ emqx/emqttsn: BRANCHES:[dev:fa91f53f42e5515f757c7418b7e8a78c72627d93;main:fa91f5
 emqx/xmeter-cloud-docs: BRANCHES:[master:c84c77d939ad580f9001b72d1614051b4cbfb734;dev:47112a43d1e9d8f7626925def746dc11b082b7fd;]|RELEASE:[none|none]
 emqx/push-helm-action: BRANCHES:[main:5ca37070f42cf874fc843a0e0c7c10ac76de5255;]|RELEASE:[none|none]
 emqx/murmerl3: BRANCHES:[master:5ae165c034e601b52e9569187b33ac95f6b3878e;]|RELEASE:[none|none]
+emqx/homebrew-emqx-erlang: BRANCHES:[master:70ce4636f96e874c04619bc4f98cecebf0e94c13;]|RELEASE:[none|none]
