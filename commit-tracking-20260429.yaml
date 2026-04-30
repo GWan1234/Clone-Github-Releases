@@ -3902,3 +3902,4 @@ emqx/ranch: BRANCHES:[emqx-2.2:9de1897cc62b79de507c6c0e658603518cad2654;fix/EMQX
 emqx/emqx-ft: BRANCHES:[main:0a9b85f1c620496cc23033199b3148bd9748716c;]|RELEASE:[none|none]
 emqx/emqx-api-testsuite: BRANCHES:[main:8f87217cfbc88d68c1a8d454537d58255327a270;]|RELEASE:[none|none]
 emqx/emqx-snowflake-proxy: BRANCHES:[main:d57b04e43c7ad3c7c1578c30ea782b2139d5004d;0712-push-docker-image-to-aws-ecr:532e608880bbb27a44b368579ac8fdf410037584;]|RELEASE:[none|none]
+emqx/mqtt-security-scanner: BRANCHES:[update:b024b179ac9c5d6b85e8c462e1a505abb473fb70;main:c2be742b80cb916787135b9184a55f234a286ffe;mqtt-security-scanner:a80421ccba240dc864c17b23bbdfd5fdd764f5d9;]|RELEASE:[v0.1|none]
