@@ -3954,3 +3954,4 @@ emqx/acme-erlang-client: BRANCHES:[main:c8aa68a02c927857c5bf62d9171200d7ab9fd4a3
 emqx/covertool: BRANCHES:[master:c95fe585e01693c7d849f99271e6675b77f37031;]|RELEASE:[none|none]
 emqx/emqx-plugin-helper: BRANCHES:[main:89f12828899c89ed096e2f8cb828b0f269c755c8;]|RELEASE:[none|none]
 emqx/sdv-mcp-demo: BRANCHES:[main:ca581a1724d3dfa1597c4f3439759405dad403b0;]|RELEASE:[none|none]
+emqx/emqx-plugin-sdv: BRANCHES:[main:e7c18c68a4f86806c2dbc4d9429707337978a467;250528-wait-for-tables-async:e018a957ee2f9a6e04d7c8ce9e8694b911683bb4;]|RELEASE:[0.4.6|none]
