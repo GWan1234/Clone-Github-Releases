@@ -3970,3 +3970,4 @@ emqx/esp-mcp-over-mqtt: BRANCHES:[main:67a3a0500a0f8d79ee8aaaf183ee06697a9c40ca;
 emqx/paho-mcp-over-mqtt: BRANCHES:[main:2c71eeef716d60c52b8d46dd2d8e5355b3be83aa;]|RELEASE:[none|none]
 emqx/emqx-multimedia-proxy: BRANCHES:[main:f4eae7673f9d8cb0d5be0638190f0a1d19e2f318;asr_by_audio_file:c6a68a389eed6a0456a160135050c2dae4a88a50;]|RELEASE:[none|none]
 emqx/mcp-ai-companion-demo: BRANCHES:[volcengine/rtc:58f15579ad0b7018383717d4c805e54de798f7ce;main:6288e6731feeebbabf3edfa051b611b0ae2514b0;]|RELEASE:[none|none]
+emqx/greptimedb-ingester-erl: BRANCHES:[main:44a818d3d249020db25cf920b19cae619524e424;feature/update-ci:2ac820e05c2146233adb592ddcacc62bd089776d;feature/row-write:282a9d4776fb8b31a719c36e61f5cf18a07570eb;feature/time-unit:0264a046bb13e53d62973987f1bc0964179e2374;develop:6d2600f477bf7002f005dd2e242ff3a5f22c520e;]|RELEASE:[none|none]
