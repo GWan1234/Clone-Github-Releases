@@ -4016,3 +4016,4 @@ philippe44/jpeg: BRANCHES:[aitiv-dev:b918d8d3ace56ae1e2784eed385c09ecb2973ecc;de
 philippe44/libcodecs: BRANCHES:[master:3234c96680fbe9f45047936a14df10edca822e5e;]|RELEASE:[none|none]
 philippe44/libjansson: BRANCHES:[master:67f84ac026589a69d196fd54602debc3393fc9de;]|RELEASE:[none|none]
 philippe44/libmbedtls: BRANCHES:[master:7e0b9a4f9d1be53c0bd1c73ae50baa463789d66a;]|RELEASE:[none|none]
+philippe44/libmdns: BRANCHES:[master:d7f58bf2791c3c25fd729d739a9267ce9db5b696;]|RELEASE:[none|none]
