@@ -3887,3 +3887,4 @@ emqx/mqtt-to-timescaledb: BRANCHES:[main:ee24974979c91d02c12292507d0eac230fab44f
 emqx/mqtt-to-influxdb: BRANCHES:[main:a55246e4a5004171974b1e41dd6a00a72f2642f5;]|RELEASE:[none|none]
 emqx/mqtt-to-mysql: BRANCHES:[main:c7909dcf7eb24ed049a8ce92a99ee4aafe77865f;]|RELEASE:[none|none]
 emqx/mqtt-to-kafka: BRANCHES:[main:86341f983c28d93f2e86c80bce405063812bf2fd;]|RELEASE:[none|none]
+emqx/mqtt-to-pulsar: BRANCHES:[main:f4f3e90828027dc1e769333eea66540a6e56ecf7;Add_Pular_data_integration_for_use:9951d421821e2a81a67f20ebb7e5cd571020d9d8;]|RELEASE:[none|none]
