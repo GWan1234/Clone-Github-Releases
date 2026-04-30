@@ -4019,3 +4019,4 @@ philippe44/libmbedtls: BRANCHES:[master:7e0b9a4f9d1be53c0bd1c73ae50baa463789d66a
 philippe44/libmdns: BRANCHES:[master:d7f58bf2791c3c25fd729d739a9267ce9db5b696;]|RELEASE:[none|none]
 philippe44/libmicrodns: BRANCHES:[master:1d4556e9da6330c05bf80151eab449d21bef8126;]|RELEASE:[none|none]
 philippe44/libopenssl: BRANCHES:[master:ac74d79efc7a702386fcf00d4b7e0a785721a3ed;]|RELEASE:[none|none]
+philippe44/libpthreads4w: BRANCHES:[master:2ae750783281db5b5cd867649880b3b951ced781;]|RELEASE:[none|none]
