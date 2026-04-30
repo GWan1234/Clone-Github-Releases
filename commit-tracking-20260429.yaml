@@ -3917,3 +3917,4 @@ emqx/emqx-rebalance-article: BRANCHES:[main:b5c9ca7b60790bc648a4d4660e828cfe5969
 emqx/MQTT-RT: BRANCHES:[main:8a44878e2dc06f0d833f9d1628ef3fe74f26505c;]|RELEASE:[none|none]
 emqx/esaml: BRANCHES:[master:317647e9647782c2759d264b7e13faa9f7daed14;]|RELEASE:[none|none]
 emqx/bootcamp: BRANCHES:[main:5f16bbb48d7bf58b7c6208e171dd9a84bff45394;]|RELEASE:[none|none]
+emqx/kube-ecp-stack: BRANCHES:[main:4a664eda09e6a8f268325559552ad6c337d424b9;]|RELEASE:[none|none]
