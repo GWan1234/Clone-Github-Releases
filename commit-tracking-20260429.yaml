@@ -3867,3 +3867,4 @@ emqx/homebrew-emqx-erlang: BRANCHES:[master:70ce4636f96e874c04619bc4f98cecebf0e9
 emqx/erlang-jose: BRANCHES:[emqx-1.11:c10587a842989bebdc52dfd06161a0641ea7bb3d;main:8b8c52a693ba7be9eedcac72b9b057849d55ec22;master:2789daee605bdede42f937f93d1580ff28709e03;]|RELEASE:[none|none]
 emqx/mqtt-file-transfer-schema: BRANCHES:[master:ee16d2e1296a5e73508964095df240104993ccbc;1010-async-replies:ec146c5ca99eadc30ac38be5c229b6ce13959608;]|RELEASE:[none|none]
 emqx/local-storage-encryption: BRANCHES:[main:17526e3f74a237b8c9135fd040b0291f75128f9a;]|RELEASE:[v1.0.0|17526e3f74a237b8c9135fd040b0291f75128f9a]
+emqx/hackney: BRANCHES:[master:76de40b838d8ec06ab6674b55b828c7d2d5aa6be;fix-pin-mimerl:0ef07fa5f8f2e91c0e80c00eaf0e740779587ad4;no-rebar3:317b10ac9b005ef281de664f50c048785bffe512;update-rebar3:46dcb71a4a2b11be1ef495afde780bbb2b8f2f48;]|RELEASE:[none|none]
