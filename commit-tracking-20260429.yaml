@@ -3953,3 +3953,4 @@ emqx/mcp-python-sdk: BRANCHES:[main:9088cc3a33b080e0afc7159a1728f921e0d68523;mqt
 emqx/acme-erlang-client: BRANCHES:[main:c8aa68a02c927857c5bf62d9171200d7ab9fd4a3;251224-add-dns-01:91fdcc5e870324befa742643b8c0d74146bd0598;]|RELEASE:[none|none]
 emqx/covertool: BRANCHES:[master:c95fe585e01693c7d849f99271e6675b77f37031;]|RELEASE:[none|none]
 emqx/emqx-plugin-helper: BRANCHES:[main:89f12828899c89ed096e2f8cb828b0f269c755c8;]|RELEASE:[none|none]
+emqx/sdv-mcp-demo: BRANCHES:[main:ca581a1724d3dfa1597c4f3439759405dad403b0;]|RELEASE:[none|none]
