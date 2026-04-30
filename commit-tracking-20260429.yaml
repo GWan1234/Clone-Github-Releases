@@ -4054,3 +4054,4 @@ philippe44/slimserver: BRANCHES:[fix-HTTP-keep-alive:2e034d48490369f2dd2db587b35
 philippe44/soxr: BRANCHES:[master:ee03a6bb3384d793ada0b1ea7722febbcaa3597d;]|RELEASE:[none|none]
 philippe44/SpotConnect: BRANCHES:[master:467034efb882ebb5dec02d72381928ece18cdbb1;queue:bb2c75d43c6e3d6149b0b3f358291ea0030cf5a3;]|RELEASE:[0.20.1|none]
 philippe44/SqueezeAMP: BRANCHES:[3.x:c32856b53297829fa339efa0de94f573c44d60f0;master:68cb85a09446c7cfd24c50d3fb28ae7aa0358a6a;]|RELEASE:[3.2|none]
+philippe44/SqueezeCloud: BRANCHES:[provider-shall-return-empty-when-nothing-is-found:403ce92ab955af641bb2883497f38bdfee55f03e;gh-pages:8b688acf4419342f4ef6a5074ef4e7bc602cd6bd;master:babb094419f83e25e2f0ccd0de5d16c7b665ccae;bugfix/do-not-run-actions-on-merge-request:d5007711c6e59832fa0e82840ee6b5515dcd77f9;SSLfix:6e3b079d2342cb27d719731475a699a30e13ae01;]|RELEASE:[none|none]
