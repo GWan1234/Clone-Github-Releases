@@ -3984,3 +3984,4 @@ emqx/emqx-on-k8s-argocd: BRANCHES:[master:bd6375e051c52285a376bb507c1961a9fe586a
 emqx/greptimedb-ingester-erlnif: BRANCHES:[main:8403f3439201115d81fe3c49113ffa0380d37a68;]|RELEASE:[0.1.10|none]
 emqx/greptimedb-ingester-rust: BRANCHES:[main:a3aacae6cfc42347e21627bf4fcd57fce0bfc48e;]|RELEASE:[none|none]
 emqx/egbk-conv: BRANCHES:[main:50648129f6cd2b08c805135c7967342636f50777;]|RELEASE:[none|none]
+emqx/flowmq-clusterfuzzlite-corpus: BRANCHES:[cflite-corpus:0fee9b6deeb8bf74407b5affc861e9fecfb43a99;manual_generate:20f2f33791e596862637c7c4c031c187a3b0cb51;gh-pages:4203a1b8de5f77be0144c86d07758672fee4dece;]|RELEASE:[none|none]
