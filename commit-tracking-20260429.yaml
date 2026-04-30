@@ -4047,3 +4047,4 @@ philippe44/ogg: BRANCHES:[master:a099b6fd6d3c48f3f9854893d73891552435a0ab;]|RELE
 philippe44/ogg-rust: BRANCHES:[PacketWriter's-inner-access-for-accessing-result:6a0c28309ae643e9b234ca0e4aa1355d6c464d08;master:3b3f3c725f43aef0ea62c9fe20a578e647c0ac58;]|RELEASE:[none|none]
 philippe44/pthread-w32: BRANCHES:[main:8c5c83941216df5430110d2ef7d4ff5953b6c212;]|RELEASE:[none|none]
 philippe44/pupnp: BRANCHES:[memory:5e1d8d95c9dd86093894be08878387bf3afc163c;branch-1.14.x:b1e39c0bf2355dc5b4324f9b01f6ce4f8ed286ca;branch-1.4.x:47d01a8f9b89105c8be5c4e36d33ec8978c2b42d;branch-1.6.x:da2320fbf53e54deb2669b2738c898cdb26a55d0;branch-1.8.x:31899a1cb663898c1bdcf70b64d2958b55b83d66;branch-1.10.x:3d378e16e7487ec3918acb3ed310bf5928d10df7;branch-1.12.x:f4957428b04a97060681030f536dcce3878a6315;branch-1.16.x-deprecated:ff796ab4b8cd197e19a9df1fb6c8055409c7a517;]|RELEASE:[none|none]
+philippe44/SB-Boom-charger: BRANCHES:[master:a3d4ce636d6c84da0927640d9ed886539c91a590;]|RELEASE:[none|none]
