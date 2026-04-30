@@ -3885,3 +3885,4 @@ emqx/tf-emqx-performance-test: BRANCHES:[master:604622f98ef1b5356bce643c2fdc1647
 emqx/emqx-exporter: BRANCHES:[main:dc299c941cbd80f9e02b6e9f2abed9a220479a3a;]|RELEASE:[0.2.11|none]
 emqx/mqtt-to-timescaledb: BRANCHES:[main:ee24974979c91d02c12292507d0eac230fab44f0;update_charts:fae00adda1e39204eac871bff815fcf0b36a2a31;update_grafana:6253532d05360b43c8a26ad34eb2d8100d77205a;]|RELEASE:[none|none]
 emqx/mqtt-to-influxdb: BRANCHES:[main:a55246e4a5004171974b1e41dd6a00a72f2642f5;]|RELEASE:[none|none]
+emqx/mqtt-to-mysql: BRANCHES:[main:c7909dcf7eb24ed049a8ce92a99ee4aafe77865f;]|RELEASE:[none|none]
