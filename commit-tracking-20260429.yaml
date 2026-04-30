@@ -3911,3 +3911,4 @@ emqx/mqtt-to-webhook: BRANCHES:[main:c9fd322de1bea7edf9d19d568de86135921727dd;]|
 emqx/mqtt-to-snowflake: BRANCHES:[main:33bc6d2182a1aa1e20e7a79dd8b1f1951c8249e3;]|RELEASE:[none|none]
 emqx/mqtt-to-apache-iotdb: BRANCHES:[main:5c2a7491b3e25e0ff3b2c47d73d74ef4060d7950;]|RELEASE:[none|none]
 emqx/opentelemetry-erlang: BRANCHES:[main:3f562cb5771a887082d8434d60e82405d8c0742e;emqx-v1.3:6c1d8e8e23a297b7aa62d2c0b9393e9e865ef6f8;]|RELEASE:[none|none]
+emqx/mqtt-to-redpanda: BRANCHES:[main:fae52e61edf85c5b16752dd0b901025391a856d8;]|RELEASE:[none|none]
