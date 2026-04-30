@@ -4027,3 +4027,4 @@ philippe44/librespot: BRANCHES:[HTTP-sink:b34b5b9b42347cf64d17873a0b9a2b92ef2b31
 philippe44/librespot-spotty: BRANCHES:[main:209337cd273e5fa24d4dce21867646759eafd510;]|RELEASE:[none|none]
 philippe44/LMS-Cast: BRANCHES:[master:09649d938b2aeef11981a40a7df5433de1fb223a;v1.x:175ceaf40825abe284b4f41b30873fe997969f1d;deprecated:83875bbdc355484790703188e0e624fbc8c48976;]|RELEASE:[2.2.8|none]
 philippe44/LMS-CPlus: BRANCHES:[master:ad88673d638fdf42750bd68652e2128d1504c525;]|RELEASE:[none|none]
+philippe44/lms-deezer: BRANCHES:[main:7b48ed3cad50eb0bc13fccfbe669f4d7e4f7ead3;new-icons:c1075f3e6a4f2406e0c495a93fb8f9514ba66f77;close-redirect:252a12565e9aadb907c91f48846abffb6bea03f8;]|RELEASE:[3.2.1|none]
