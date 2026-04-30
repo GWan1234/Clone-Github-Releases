@@ -3961,3 +3961,4 @@ emqx/emqx-plugin-ecq: BRANCHES:[main:773d8afdd37238953e1561a6991498759fbdff82;]|
 emqx/emqx-plugin-mcp-tools: BRANCHES:[main:db4a9603effc1bb8c5979ecd1b9ad8c7f7d56915;]|RELEASE:[0.0.7|none]
 emqx/translate-issue-action: BRANCHES:[master:71628143ab1baff386f26de5926bf344cb0d7e50;]|RELEASE:[none|none]
 emqx/mcp-mqtt-erl: BRANCHES:[main:7ac8c7ecce9884b1950c96c1f65565092769efbc;]|RELEASE:[none|none]
+emqx/parquer: BRANCHES:[main:e3189bea0e42a4990293d191113d6c8eb9b4607f;]|RELEASE:[none|none]
