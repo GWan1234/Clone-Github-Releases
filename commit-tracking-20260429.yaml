@@ -3983,3 +3983,4 @@ emqx/emqx_mcp_bridge: BRANCHES:[session-life-time:94561d1f8126b87ac933d0e80b34f5
 emqx/emqx-on-k8s-argocd: BRANCHES:[master:bd6375e051c52285a376bb507c1961a9fe586a0a;]|RELEASE:[none|none]
 emqx/greptimedb-ingester-erlnif: BRANCHES:[main:8403f3439201115d81fe3c49113ffa0380d37a68;]|RELEASE:[0.1.10|none]
 emqx/greptimedb-ingester-rust: BRANCHES:[main:a3aacae6cfc42347e21627bf4fcd57fce0bfc48e;]|RELEASE:[none|none]
+emqx/egbk-conv: BRANCHES:[main:50648129f6cd2b08c805135c7967342636f50777;]|RELEASE:[none|none]
