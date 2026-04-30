@@ -3929,3 +3929,4 @@ emqx/jesse: BRANCHES:[master:4c636440ac27d0a357286ed2822d1dfca60c2424;]|RELEASE:
 emqx/erlavro: BRANCHES:[master:3789893d61f210539345d94a2a4e934d5f59e32e;]|RELEASE:[none|none]
 emqx/neuronex-helm-charts: BRANCHES:[gh-pages:66778b43311b3340757264fb0342f1361f61f06a;main:e8e4f15b859dc2af8f7fab3ef7e4ccd4f9714eec;]|RELEASE:[neuronex-operator-0.1.11|none]
 emqx/emqx-serverless-docs: BRANCHES:[main:a3c0a0192bc9bd1ba96b3cb242f7ab8d69ac4897;]|RELEASE:[none|none]
+emqx/emqx-dedicated-docs: BRANCHES:[main:b5db964565d5d1001f116bb58879e6070780292f;]|RELEASE:[none|none]
