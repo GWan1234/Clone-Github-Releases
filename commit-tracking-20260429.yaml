@@ -3950,3 +3950,4 @@ emqx/mcp-over-mqtt-site: BRANCHES:[main:a6ad93a2ce22b8b96182bb65184654ce61422374
 emqx/aiot-mcp-server: BRANCHES:[main:e9ffb424a63b8640ab5987d210be34e108bf499e;]|RELEASE:[none|none]
 emqx/uns-demo: BRANCHES:[main:6ee6761b8a0fcbac4831a3be774cfbe2fceebe52;ysf/dev:b838b41d3dd8d36e07df057012bb518eac840d8f;]|RELEASE:[none|none]
 emqx/mcp-python-sdk: BRANCHES:[main:9088cc3a33b080e0afc7159a1728f921e0d68523;mqtt-1.6.0:4e6647c7e13976ada1e849f9bfe7878c69504dad;]|RELEASE:[none|none]
+emqx/acme-erlang-client: BRANCHES:[main:c8aa68a02c927857c5bf62d9171200d7ab9fd4a3;251224-add-dns-01:91fdcc5e870324befa742643b8c0d74146bd0598;]|RELEASE:[none|none]
