@@ -3989,3 +3989,4 @@ emqx/refresh-huawei-cdn: BRANCHES:[main:efff541a3bb54dcde1051eaee494d40eb1b367b7
 emqx/refresh-ali-cdn: BRANCHES:[main:ca564dac27e46a548190d72b730be9bb20134a36;]|RELEASE:[none|none]
 emqx/docsearch-scraper: BRANCHES:[main:f8c0099fa38f5820d26396ec1e672e4d1111462e;]|RELEASE:[none|none]
 emqx/push-to-packagecloud: BRANCHES:[main:b91df1c4439a78cf3366cdb204cd97940bcf6fe7;]|RELEASE:[none|none]
+emqx/hannover-messe-demo: BRANCHES:[master:694781bde825ddd8171cb1c54fa31e4e52a76501;]|RELEASE:[none|none]
