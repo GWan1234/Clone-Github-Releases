@@ -61,97 +61,97 @@ repositories:
 #    - openwrt
 #    - sing-box
 #    - armbian
-#    - armbian
-#    - armbian
-    - ophub
-    - ophub
-    - ophub
+    - armbian
+    - armbian
+#    - ophub
+#    - ophub
+#    - ophub
   repo0:
 #    - openwrt/openwrt
 #    - SagerNet/sing-box
 #    - armbian/cache-next
-#    - armbian/cache
-#    - armbian/os
-    - ophub/fnnas
-    - ophub/amlogic-s9xxx-armbian
-    - ophub/amlogic-s9xxx-openwrt
+    - armbian/cache
+    - armbian/os
+#    - ophub/fnnas
+#    - ophub/amlogic-s9xxx-armbian
+#    - ophub/amlogic-s9xxx-openwrt
   source0:
 #    - https://github.com/openwrt/openwrt
 #    - https://github.com/SagerNet/sing-box
 #    - https://github.com/armbian/cache-next.git
-#    - https://github.com/armbian/cache.git
-#    - https://github.com/armbian/os.git
-    - https://github.com/ophub/fnnas
-    - https://github.com/ophub/amlogic-s9xxx-armbian
-    - https://github.com/ophub/amlogic-s9xxx-openwrt
-  name1:
-    - mihomo
-    - QModem
-    - MISTERNEGATIVE21
-    - maxming2333
-    - chenxuuu
-    - dushixiang
-    - GWan1234
-    - kukudemajia
-    - LeoChen-CoreMind
-    - vernesong
-    - aabbabaab
-    - mayday-wh
-    - rbouteiller
-    - 0-Mqix
-    - sle118
-    - megakerw
-    - azukaar
-    - amenefus
-    - xfangfang
-
-  repo1:
-    - MetaCubeX/mihomo
-    - FUjr/QModem
-    - MISTERNEGATIVE21/QuectelEC200U
-    - maxming2333/esp32-sms-forwarding
-    - chenxuuu/sms_forwarding
-    - dushixiang/uart_sms_forwarder
-    - GWan1234/msg_forward_new
-    - kukudemajia/esp_framework
-    - LeoChen-CoreMind/UDX710-TOOLS
-    - vernesong/OpenClash
-    - aabbabaab/Modem_Webui
-    - mayday-wh/PCB-Art-Workstation
-    - rbouteiller/airplay-esp32
-    - 0-Mqix/airplay-esp32
-    - sle118/squeezelite-esp32
-    - megakerw/QuecDeck
-    - azukaar/Cosmos-Server
-    - amenefus/UxPlayerAirServer
-    - xfangfang/Macast
-
-  source1:
-    - https://github.com/MetaCubeX/mihomo
-    - https://github.com/FUjr/QModem
-    - https://github.com/MISTERNEGATIVE21/QuectelEC200U
-    - https://github.com/maxming2333/esp32-sms-forwarding
-    - https://github.com/chenxuuu/sms_forwarding
-    - https://github.com/dushixiang/uart_sms_forwarder
-    - https://github.com/GWan1234/msg_forward_new
-    - https://github.com/kukudemajia/esp_framework
-    - https://github.com/LeoChen-CoreMind/UDX710-TOOLS
-    - https://github.com/vernesong/OpenClash.git
-    - https://github.com/aabbabaab/Modem_Webui
-    - https://github.com/mayday-wh/PCB-Art-Workstation.git
-    - https://github.com/rbouteiller/airplay-esp32
-    - https://github.com/0-Mqix/airplay-esp32
-    - https://github.com/sle118/squeezelite-esp32
-    - https://github.com/megakerw/QuecDeck
-    - https://github.com/azukaar/Cosmos-Server.git
-    - https://github.com/amenefus/UxPlayerAirServer
-    - https://github.com/xfangfang/Macast
-
-  name2:
-    - frpc
-
-  repo2:
-    - fatedier/frp
-
-  source2:
-    - https://github.com/fatedier/frp
+    - https://github.com/armbian/cache.git
+    - https://github.com/armbian/os.git
+#    - https://github.com/ophub/fnnas
+#    - https://github.com/ophub/amlogic-s9xxx-armbian
+#    - https://github.com/ophub/amlogic-s9xxx-openwrt
+#  name1:
+#    - mihomo
+#    - QModem
+#    - MISTERNEGATIVE21
+#    - maxming2333
+#    - chenxuuu
+#    - dushixiang
+#    - GWan1234
+#    - kukudemajia
+#    - LeoChen-CoreMind
+#    - vernesong
+#    - aabbabaab
+#    - mayday-wh
+#    - rbouteiller
+#    - 0-Mqix
+#    - sle118
+#    - megakerw
+#    - azukaar
+#    - amenefus
+#    - xfangfang
+#
+#  repo1:
+#    - MetaCubeX/mihomo
+#    - FUjr/QModem
+#    - MISTERNEGATIVE21/QuectelEC200U
+#    - maxming2333/esp32-sms-forwarding
+#    - chenxuuu/sms_forwarding
+#    - dushixiang/uart_sms_forwarder
+#    - GWan1234/msg_forward_new
+#    - kukudemajia/esp_framework
+#    - LeoChen-CoreMind/UDX710-TOOLS
+#    - vernesong/OpenClash
+#    - aabbabaab/Modem_Webui
+#    - mayday-wh/PCB-Art-Workstation
+#    - rbouteiller/airplay-esp32
+#    - 0-Mqix/airplay-esp32
+#    - sle118/squeezelite-esp32
+#    - megakerw/QuecDeck
+#    - azukaar/Cosmos-Server
+#    - amenefus/UxPlayerAirServer
+#    - xfangfang/Macast
+#
+#  source1:
+#    - https://github.com/MetaCubeX/mihomo
+#    - https://github.com/FUjr/QModem
+#    - https://github.com/MISTERNEGATIVE21/QuectelEC200U
+#    - https://github.com/maxming2333/esp32-sms-forwarding
+#    - https://github.com/chenxuuu/sms_forwarding
+#    - https://github.com/dushixiang/uart_sms_forwarder
+#    - https://github.com/GWan1234/msg_forward_new
+#    - https://github.com/kukudemajia/esp_framework
+#    - https://github.com/LeoChen-CoreMind/UDX710-TOOLS
+#    - https://github.com/vernesong/OpenClash.git
+#    - https://github.com/aabbabaab/Modem_Webui
+#    - https://github.com/mayday-wh/PCB-Art-Workstation.git
+#    - https://github.com/rbouteiller/airplay-esp32
+#    - https://github.com/0-Mqix/airplay-esp32
+#    - https://github.com/sle118/squeezelite-esp32
+#    - https://github.com/megakerw/QuecDeck
+#    - https://github.com/azukaar/Cosmos-Server.git
+#    - https://github.com/amenefus/UxPlayerAirServer
+#    - https://github.com/xfangfang/Macast
+#
+#  name2:
+#    - frpc
+#
+#  repo2:
+#    - fatedier/frp
+#
+#  source2:
+#    - https://github.com/fatedier/frp
