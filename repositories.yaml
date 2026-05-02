@@ -58,29 +58,29 @@ allrepositories:
 
 repositories:
   name0:
-#    - openwrt
-#    - sing-box
+    - openwrt
+    - sing-box
+    - armbian
 #    - armbian
-    - armbian
-    - armbian
+#    - armbian
 #    - ophub
 #    - ophub
 #    - ophub
   repo0:
-#    - openwrt/openwrt
-#    - SagerNet/sing-box
-#    - armbian/cache-next
-    - armbian/cache
-    - armbian/os
+    - openwrt/openwrt
+    - SagerNet/sing-box
+    - armbian/cache-next
+#    - armbian/cache
+#    - armbian/os
 #    - ophub/fnnas
 #    - ophub/amlogic-s9xxx-armbian
 #    - ophub/amlogic-s9xxx-openwrt
   source0:
-#    - https://github.com/openwrt/openwrt
-#    - https://github.com/SagerNet/sing-box
-#    - https://github.com/armbian/cache-next.git
-    - https://github.com/armbian/cache.git
-    - https://github.com/armbian/os.git
+    - https://github.com/openwrt/openwrt
+    - https://github.com/SagerNet/sing-box
+    - https://github.com/armbian/cache-next.git
+#    - https://github.com/armbian/cache.git
+#    - https://github.com/armbian/os.git
 #    - https://github.com/ophub/fnnas
 #    - https://github.com/ophub/amlogic-s9xxx-armbian
 #    - https://github.com/ophub/amlogic-s9xxx-openwrt
