@@ -4083,3 +4083,4 @@ solderparty/pmod_rgb_oled_0.95in: BRANCHES:[master:4ea941c61aa86c28e7ba964b22271
 solderparty/arturo182_CircuitPython_BBQ10Keyboard: BRANCHES:[master:c61cd5649bc3ad33b17e4f07cfe101135e301e85;]|RELEASE:[v0.2.0|none]
 solderparty/serpente_hw: BRANCHES:[master:80a1758e4093578355ea36c727888db94d5ac9ec;]|RELEASE:[none|none]
 solderparty/pmod_to_qwiic_adapter: BRANCHES:[main:14b1141eca4fb4ff84d9898e756ee8e5445b6c1f;]|RELEASE:[none|none]
+solderparty/usb_c_plug_breakout: BRANCHES:[main:e0dd10410166aec31d69097a4866338fef413ac3;]|RELEASE:[none|none]
