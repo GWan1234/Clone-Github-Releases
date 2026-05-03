@@ -4104,3 +4104,4 @@ solderparty/i2c_puppet: BRANCHES:[platformio:3074d6b3cbcfebf324e63884f4cf3d2e036
 solderparty/rp2040_stamp_jig_hw: BRANCHES:[main:21e91d2acd4a5b4a35937f3c227d3a95272c363e;]|RELEASE:[none|none]
 solderparty/flexypin_adapters_hw: BRANCHES:[main:26e1c15af284cbf2a308c0afe12047f72138a0f3;]|RELEASE:[none|none]
 solderparty/pmod_bbq10_keyboard: BRANCHES:[master:f82690df749690b67fcf255964693fc95b7dce8d;]|RELEASE:[none|none]
+solderparty/rp2040_stamp_round_carrier_hw: BRANCHES:[main:bb2c5c3f9f47abdac018eea364c552c4e9b2caf1;]|RELEASE:[rev1|none]
