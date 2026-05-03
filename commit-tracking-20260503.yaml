@@ -4175,3 +4175,4 @@ kanoqwq/springboot-clothes-shopping-api: BRANCHES:[main:07786349f6f4ca871f77919d
 kanoqwq/storage-manager-client: BRANCHES:[master:bfa1cebb8e2c87a05e9f7506968a2b6aa2459438;]|RELEASE:[none|none]
 kanoqwq/tcadif: BRANCHES:[main:fa06f756293846c3bf4939993f340d3895d975fb;]|RELEASE:[none|none]
 kanoqwq/UFI-TOOLS: BRANCHES:[http-server-version:97481bd2e6afd191da291bae323f6b6086f66c1e;no-ztewebserver-depend:5cfa3e85d37985e924ab863b9b8bb4cb3c084c16;main:a92a83329d4b4ff9992d9de2e84dfbc7ea78e49e;]|RELEASE:[Release|none]
+kanoqwq/UFI-TOOLS-PLUGINS: BRANCHES:[main:2b31582a8a075032ac13b51565c1a2dafb04e38d;]|RELEASE:[none|none]
