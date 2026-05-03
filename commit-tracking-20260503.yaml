@@ -4109,3 +4109,4 @@ solderparty/bbq20kbd_hw: BRANCHES:[main:92fab7f4bf7c7a1552015d544ce958155a5b1877
 solderparty/rp2040_stamp_macropad_hw: BRANCHES:[main:3ac33137ae7d39ab13e41f900b8a55831c2fae4c;]|RELEASE:[none|none]
 solderparty/rp2040_stamp_console_hw: BRANCHES:[main:43f16f7f37298cd8d1c506be4e7b442c87b12c80;]|RELEASE:[none|none]
 solderparty/kmk_firmware: BRANCHES:[bbq20kbd:904b5ab57c9d8d5e226aa23becd92c7e90f18aa5;master:838263d40993da1df41ab9051538f82daecb12ab;]|RELEASE:[none|none]
+solderparty/lipo_disconnector_hw: BRANCHES:[main:e70656fad7e7756d6595a1598037d724dcd0e5d6;]|RELEASE:[none|none]
