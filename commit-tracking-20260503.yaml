@@ -4077,3 +4077,4 @@ algerkong/claude-ass: BRANCHES:[master:e0ca5060413ec736487c3536ca8c62fb549eacb8;
 solderparty/www: BRANCHES:[main:6037e510c1ce338ccb518f4332ccce8fc79600cb;]|RELEASE:[none|none]
 solderparty/keyboard_featherwing_hw: BRANCHES:[master:b9822a73ca6e7d6d93f29cfd4ba7a8e233f25f06;]|RELEASE:[rev2|none]
 solderparty/keyboard_featherwing_sw: BRANCHES:[main:7b1d2bfe8ada33d5b6dd4e6e8da849ad4b4a3601;]|RELEASE:[none|none]
+solderparty/arduino_bbq10kbd: BRANCHES:[master:b6924befc325827ab8ef2f28f7237430372a0eab;]|RELEASE:[1.1.0|none]
