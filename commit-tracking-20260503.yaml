@@ -4105,3 +4105,4 @@ solderparty/rp2040_stamp_jig_hw: BRANCHES:[main:21e91d2acd4a5b4a35937f3c227d3a95
 solderparty/flexypin_adapters_hw: BRANCHES:[main:26e1c15af284cbf2a308c0afe12047f72138a0f3;]|RELEASE:[none|none]
 solderparty/pmod_bbq10_keyboard: BRANCHES:[master:f82690df749690b67fcf255964693fc95b7dce8d;]|RELEASE:[none|none]
 solderparty/rp2040_stamp_round_carrier_hw: BRANCHES:[main:bb2c5c3f9f47abdac018eea364c552c4e9b2caf1;]|RELEASE:[rev1|none]
+solderparty/bbq20kbd_hw: BRANCHES:[main:92fab7f4bf7c7a1552015d544ce958155a5b1877;]|RELEASE:[none|none]
