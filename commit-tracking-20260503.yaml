@@ -4118,3 +4118,4 @@ solderparty/rp2350_stamp_hw: BRANCHES:[main:17239cf9fc7c65369b3edf41e6350ccd0d69
 solderparty/rp2350_stamp_xl_hw: BRANCHES:[main:accf40cda26e730370860a890736015bae096956;]|RELEASE:[none|none]
 solderparty/rp2xxx_stamp_carrier_xl_hw: BRANCHES:[main:d8cbb98b8ec6bee4f581e2ebccfec0564cdb3208;]|RELEASE:[none|none]
 solderparty/esp32p4_stamp_xl_usb_uart_bridge: BRANCHES:[main:123c7a5f23e5209e2dd04b477dfc4d5e26f173b1;]|RELEASE:[v0.1|none]
+solderparty/keebdeck_keyboard_hw: BRANCHES:[main:f1c074c47aa48d2eb584dad2ddad2a90ab6b86ed;]|RELEASE:[none|none]
