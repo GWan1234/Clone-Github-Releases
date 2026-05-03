@@ -4122,3 +4122,4 @@ solderparty/keebdeck_keyboard_hw: BRANCHES:[main:f1c074c47aa48d2eb584dad2ddad2a9
 solderparty/buildroot-phyx-tess: BRANCHES:[feat/ext4:48d1aaba3bf2cebcf47a69a3241c8954d327b779;feat/add_tess:124db322eeef6e89c1bba709feec8fa5dc521eed;master:4c9b13b8dd993050ba0f026bf4e402f816a3f6df;]|RELEASE:[none|none]
 solderparty/rp2xxx_stamp_carrier_basic_hw: BRANCHES:[main:1fd8828029053b385333b9c64f177f64022b3268;]|RELEASE:[none|none]
 solderparty/esp-hosted: BRANCHES:[esp32p4_stamp_xl:dc755a127aa79818a6648ba5ef89470f177214da;master:ba39e6392f4f1c2e9ace3c5fa463bab34a42cb31;]|RELEASE:[none|none]
+solderparty/qmk_firmware: BRANCHES:[keebdeck_basic:4e97ff875369fd8da2dc89d0795b827800ea8204;master:7aed244aaeb943377e134e21cce273a12b4b56f9;]|RELEASE:[none|none]
