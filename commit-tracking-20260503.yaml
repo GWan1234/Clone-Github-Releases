@@ -4125,3 +4125,4 @@ solderparty/esp-hosted: BRANCHES:[esp32p4_stamp_xl:dc755a127aa79818a6648ba5ef894
 solderparty/qmk_firmware: BRANCHES:[keebdeck_basic:4e97ff875369fd8da2dc89d0795b827800ea8204;master:7aed244aaeb943377e134e21cce273a12b4b56f9;]|RELEASE:[none|none]
 solderparty/keebdeck_basic_hw: BRANCHES:[main:2b537ce5fef3da50b016c18ca66aac520af5abd1;]|RELEASE:[none|none]
 webmin/authentic-theme: BRANCHES:[master:4145a070f42a9d71c4331f8e22632098cacc2e40;18:e998be3449d984d793198cfcafdf1efe0630a5c8;]|RELEASE:[26.30|none]
+webmin/usermin: BRANCHES:[master:377a9581d710b706a677b05788fe7767ba87eff0;heads/2.200:03a40d5fb83e7fa5d5d22efb7ac0a0d05ba1c99a;dev/list-folders-path:191d77fe19de5176da731b78bf053ef580645160;dev/improve-view-mail:6720a10bc08d0165b4d6c3a34e105a129a40eba7;]|RELEASE:[2.530|none]
