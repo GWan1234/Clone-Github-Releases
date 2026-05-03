@@ -4089,3 +4089,4 @@ solderparty/type-c_plug_lipo: BRANCHES:[rev2:6eedd14d5c9e4be54d35594ae73bbadc1af
 solderparty/arturo182_CircuitPython_tsc2004: BRANCHES:[main:7204bf47a9b2a6545c7d9bc92ebc92e7ac2e26a7;]|RELEASE:[none|none]
 solderparty/rp2xxx_stamp_footprints: BRANCHES:[main:7676fac43f12f672d9faf6230b40fd48681d7bda;]|RELEASE:[none|none]
 solderparty/datasheet-template: BRANCHES:[main:cc610a9ecda9c10d2b2128bb1331c3c59836bd08;]|RELEASE:[none|none]
+solderparty/keyboard_featherwing_pico_adapter: BRANCHES:[main:82cd7e86e2f42f4c379f0fbd24b2bf8bc6dfec93;]|RELEASE:[rev2|none]
