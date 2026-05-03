@@ -4120,3 +4120,4 @@ solderparty/rp2xxx_stamp_carrier_xl_hw: BRANCHES:[main:d8cbb98b8ec6bee4f581e2ebc
 solderparty/esp32p4_stamp_xl_usb_uart_bridge: BRANCHES:[main:123c7a5f23e5209e2dd04b477dfc4d5e26f173b1;]|RELEASE:[v0.1|none]
 solderparty/keebdeck_keyboard_hw: BRANCHES:[main:f1c074c47aa48d2eb584dad2ddad2a90ab6b86ed;]|RELEASE:[none|none]
 solderparty/buildroot-phyx-tess: BRANCHES:[feat/ext4:48d1aaba3bf2cebcf47a69a3241c8954d327b779;feat/add_tess:124db322eeef6e89c1bba709feec8fa5dc521eed;master:4c9b13b8dd993050ba0f026bf4e402f816a3f6df;]|RELEASE:[none|none]
+solderparty/rp2xxx_stamp_carrier_basic_hw: BRANCHES:[main:1fd8828029053b385333b9c64f177f64022b3268;]|RELEASE:[none|none]
