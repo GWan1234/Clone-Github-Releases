@@ -4112,3 +4112,4 @@ solderparty/kmk_firmware: BRANCHES:[bbq20kbd:904b5ab57c9d8d5e226aa23becd92c7e90f
 solderparty/lipo_disconnector_hw: BRANCHES:[main:e70656fad7e7756d6595a1598037d724dcd0e5d6;]|RELEASE:[none|none]
 solderparty/flux_projects_sw: BRANCHES:[main:f7439de5ed601b3bf416f2183d9bb8409865a471;]|RELEASE:[none|none]
 solderparty/Arduboy2: BRANCHES:[master:d222e092d33c1807ee95068372ae61600dae9a50;]|RELEASE:[none|none]
+solderparty/rp2040_stamp_photolight_hw: BRANCHES:[main:fe985f5bcddaa9f8ee14129121bf016426563b8f;]|RELEASE:[none|none]
