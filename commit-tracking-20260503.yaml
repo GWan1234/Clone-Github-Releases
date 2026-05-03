@@ -4116,3 +4116,4 @@ solderparty/rp2040_stamp_photolight_hw: BRANCHES:[main:fe985f5bcddaa9f8ee1412912
 solderparty/dhcpcd-ui: BRANCHES:[master:a8e490969426ed470210df69e618b34f67684ece;]|RELEASE:[none|none]
 solderparty/rp2350_stamp_hw: BRANCHES:[main:17239cf9fc7c65369b3edf41e6350ccd0d693be2;]|RELEASE:[none|none]
 solderparty/rp2350_stamp_xl_hw: BRANCHES:[main:accf40cda26e730370860a890736015bae096956;]|RELEASE:[none|none]
+solderparty/rp2xxx_stamp_carrier_xl_hw: BRANCHES:[main:d8cbb98b8ec6bee4f581e2ebccfec0564cdb3208;]|RELEASE:[none|none]
