@@ -4090,3 +4090,4 @@ solderparty/arturo182_CircuitPython_tsc2004: BRANCHES:[main:7204bf47a9b2a6545c7d
 solderparty/rp2xxx_stamp_footprints: BRANCHES:[main:7676fac43f12f672d9faf6230b40fd48681d7bda;]|RELEASE:[none|none]
 solderparty/datasheet-template: BRANCHES:[main:cc610a9ecda9c10d2b2128bb1331c3c59836bd08;]|RELEASE:[none|none]
 solderparty/keyboard_featherwing_pico_adapter: BRANCHES:[main:82cd7e86e2f42f4c379f0fbd24b2bf8bc6dfec93;]|RELEASE:[rev2|none]
+solderparty/arduino_tsc2004: BRANCHES:[main:5029ba553242569dbc1942569e28a7d5f44f1b07;]|RELEASE:[1.1.0|none]
