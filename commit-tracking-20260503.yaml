@@ -4085,3 +4085,4 @@ solderparty/serpente_hw: BRANCHES:[master:80a1758e4093578355ea36c727888db94d5ac9
 solderparty/pmod_to_qwiic_adapter: BRANCHES:[main:14b1141eca4fb4ff84d9898e756ee8e5445b6c1f;]|RELEASE:[none|none]
 solderparty/usb_c_plug_breakout: BRANCHES:[main:e0dd10410166aec31d69097a4866338fef413ac3;]|RELEASE:[none|none]
 solderparty/type-c_plug_cp2102: BRANCHES:[main:cf5f8f9969619d11d4b451894d7c93df38188d1e;]|RELEASE:[none|none]
+solderparty/type-c_plug_lipo: BRANCHES:[rev2:6eedd14d5c9e4be54d35594ae73bbadc1af54808;main:0bb19cc4500c3479b88f1da3d52d83cc16264953;]|RELEASE:[none|none]
