@@ -3362,7 +3362,7 @@ xyzroe/zmod: BRANCHES:[feature/readme-auto-sync:fadaa5d9fd5e8e708e56a5d662a8bfd6
 xyzroe/z_ff5m: BRANCHES:[1.6:5d76021cd4aa556fd2588385dd2d18e5ae407193;]|RELEASE:[none|none]
 iamromulan/cellular-modem-wiki: BRANCHES:[main:c4f9593252971ded2a25df3ce33b906f78f1b66a;]|RELEASE:[none|none]
 iamromulan/claude-md-template: BRANCHES:[main:5a875e3e8fd0b6fbca07cb237faec79142a1346f;]|RELEASE:[none|none]
-iamromulan/luci-app-tailscale-community: BRANCHES:[gh-pages:b7b416c37d16fe4d53269ccd831c54acbb34c154;master:27058189b71d68a1dc61bf744ca01d696ea7e3df;]|RELEASE:[none|none]
+iamromulan/luci-app-tailscale-community: BRANCHES:[master:6a04c504d057f4b6867193a786bc1db92b116c8f;tiny:3ccbdb7fe4670ad2be9cced4a6e7bfd14ddef881;]|RELEASE:[none|none]
 iamromulan/qadbkey-unlock: BRANCHES:[master:8de1367258c648e3bd53a7a0fa77282d5c44ab22;]|RELEASE:[none|none]
 iamromulan/qcseriald-darwin: BRANCHES:[main:c17db0ce757498b40763cb4caf9d9def1598ed1c;]|RELEASE:[v1.0.6|9906c615f54c08583a773e09ade6e159d84e5d35]
 iamromulan/qfenix: BRANCHES:[master:318a49cee9663a6a79fbcc8b44db8a3d2afdec2b;]|RELEASE:[v2.5.10-qfenix-0.1.0|none]
