@@ -4136,3 +4136,4 @@ FDH2/shairplay: BRANCHES:[master:02649a08a4c963e34666ff8978086ddc6565fc9f;LGPL_h
 FDH2/apsdk-public: BRANCHES:[playfair:0b37059d10a3371fe0fd9b13d9fe343c06bcd4eb;main:e7aba6204dd949558c30db286d5a7499e498ccff;older:82f53cda2402f40957ec51b4f294897a37dd2252;]|RELEASE:[none|none]
 FDH2/airplay-internal: BRANCHES:[main:c6aabe8f316e5af64790f39f29db3a961a7a1201;]|RELEASE:[none|none]
 FDH2/pair_ap: BRANCHES:[master:220e845ab3e6aaf9964af26ac0b5c6a8fa67a982;]|RELEASE:[none|none]
+FDH2/hlsparse: BRANCHES:[apsdk-fixes:9b495f8193124f66db18839493d1ada3a4501e8f;master:0694c9bf2d7d873960e9f8f1766f4549e211fd61;]|RELEASE:[none|none]
