@@ -4080,3 +4080,4 @@ solderparty/keyboard_featherwing_sw: BRANCHES:[main:7b1d2bfe8ada33d5b6dd4e6e8da8
 solderparty/arduino_bbq10kbd: BRANCHES:[master:b6924befc325827ab8ef2f28f7237430372a0eab;]|RELEASE:[1.1.0|none]
 solderparty/bbq10kbd_i2c_sw: BRANCHES:[master:1509dde98d217a5676217fde153a41c0c6dabeac;]|RELEASE:[none|none]
 solderparty/pmod_rgb_oled_0.95in: BRANCHES:[master:4ea941c61aa86c28e7ba964b222716347af83c43;]|RELEASE:[none|none]
+solderparty/arturo182_CircuitPython_BBQ10Keyboard: BRANCHES:[master:c61cd5649bc3ad33b17e4f07cfe101135e301e85;]|RELEASE:[v0.2.0|none]
