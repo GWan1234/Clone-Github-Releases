@@ -4110,3 +4110,4 @@ solderparty/rp2040_stamp_macropad_hw: BRANCHES:[main:3ac33137ae7d39ab13e41f900b8
 solderparty/rp2040_stamp_console_hw: BRANCHES:[main:43f16f7f37298cd8d1c506be4e7b442c87b12c80;]|RELEASE:[none|none]
 solderparty/kmk_firmware: BRANCHES:[bbq20kbd:904b5ab57c9d8d5e226aa23becd92c7e90f18aa5;master:838263d40993da1df41ab9051538f82daecb12ab;]|RELEASE:[none|none]
 solderparty/lipo_disconnector_hw: BRANCHES:[main:e70656fad7e7756d6595a1598037d724dcd0e5d6;]|RELEASE:[none|none]
+solderparty/flux_projects_sw: BRANCHES:[main:f7439de5ed601b3bf416f2183d9bb8409865a471;]|RELEASE:[none|none]
