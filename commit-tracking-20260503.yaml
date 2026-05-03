@@ -983,7 +983,7 @@ lambilly/hass_tian_holiday: BRANCHES:[main:3dd18a42395a8a853f077da764955d1d670ef
 lambilly/hass_tian_realtime: BRANCHES:[main:8daa65df78a4470d69360ace6468d70aadf5a62f;]|RELEASE:[v1.1.4|none]
 lambilly/hass_today_history: BRANCHES:[main:57d37d615d4fc3217556f65da9aedcfaf88e281e;]|RELEASE:[v1.0.2|none]
 lambilly/hass_weekly_film: BRANCHES:[main:e209e7d3e801c5a085041ea48affdab80e5118f4;]|RELEASE:[v1.0.1|none]
-lambilly/ha_traccar: BRANCHES:[master:abc76db0c626d8fe530f412031f2a2158b4e3295;]|RELEASE:[v1.0.1|none]
+lambilly/ha_traccar: BRANCHES:[master:548ca152d6988afae3ff998ce7ea7207aae42c0a;]|RELEASE:[v1.0.2|none]
 lambilly/ha_tuqiang123_traccar: BRANCHES:[main:0107cb0a8b8cfcd73803c248009afa796585e693;]|RELEASE:[v1.0.0|none]
 lambilly/ha_tuqiang_traccar: BRANCHES:[main:2e7b02c6baca6946c4113eda513136a580f00557;]|RELEASE:[v2.1.0|none]
 a2633063/a2633063: BRANCHES:[master:19c2ba567f2ca70e9ed8a952442abdd2c432a5b1;]|RELEASE:[none|none]
