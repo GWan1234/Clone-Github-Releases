@@ -4102,3 +4102,4 @@ solderparty/pico-sdk: BRANCHES:[develop:0f67a6c00c05e60c34fe1f35a835a133d3e12872
 solderparty/pcb_holder_ruler: BRANCHES:[main:0de8c1ecf1fdcf09f0223437fa53082453aa514b;]|RELEASE:[none|none]
 solderparty/i2c_puppet: BRANCHES:[platformio:3074d6b3cbcfebf324e63884f4cf3d2e03665fb4;feature/top_btns_ctrl:6966a62fdf96ca25ae771ecd81fc5d04535a72cc;main:f085518d78ed38c009f18651abc21321ddf6fcfd;]|RELEASE:[v1.1|none]
 solderparty/rp2040_stamp_jig_hw: BRANCHES:[main:21e91d2acd4a5b4a35937f3c227d3a95272c363e;]|RELEASE:[none|none]
+solderparty/flexypin_adapters_hw: BRANCHES:[main:26e1c15af284cbf2a308c0afe12047f72138a0f3;]|RELEASE:[none|none]
