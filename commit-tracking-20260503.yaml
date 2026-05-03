@@ -4107,3 +4107,4 @@ solderparty/pmod_bbq10_keyboard: BRANCHES:[master:f82690df749690b67fcf255964693f
 solderparty/rp2040_stamp_round_carrier_hw: BRANCHES:[main:bb2c5c3f9f47abdac018eea364c552c4e9b2caf1;]|RELEASE:[rev1|none]
 solderparty/bbq20kbd_hw: BRANCHES:[main:92fab7f4bf7c7a1552015d544ce958155a5b1877;]|RELEASE:[none|none]
 solderparty/rp2040_stamp_macropad_hw: BRANCHES:[main:3ac33137ae7d39ab13e41f900b8a55831c2fae4c;]|RELEASE:[none|none]
+solderparty/rp2040_stamp_console_hw: BRANCHES:[main:43f16f7f37298cd8d1c506be4e7b442c87b12c80;]|RELEASE:[none|none]
