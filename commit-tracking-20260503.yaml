@@ -970,7 +970,7 @@ xiaoshi930/xiaoshi_theme: BRANCHES:[main:ba2e02bcb5675e8550757b7571ea5d4484bcf40
 lambilly/brands: BRANCHES:[add-daily_fund-icons:4147861d2b79678a7127be187cbe22282652c393;add-hengda_property-icons:6922720ce1e185b1d986a5d2218305479103443d;add-tian_api_icons:d5512e6810fd7ee33163c1d8ef90809395e67fba;master:e9578a138435328dcb49d2909b1c98719ea85d99;]|RELEASE:[none|none]
 lambilly/hacs: BRANCHES:[master:a92aa8263131fe1aaef2b4ec3a904c9a9722cd3c;]|RELEASE:[none|none]
 lambilly/hass_byd_mqtt: BRANCHES:[main:7b10748d9b6d602818291f3f5341411c9487bdab;]|RELEASE:[v1.0.2|none]
-lambilly/hass_daily_fund: BRANCHES:[main:2f96797194aec38433a2ea1f16236cc080db8b8f;]|RELEASE:[v1.0.2|none]
+lambilly/hass_daily_fund: BRANCHES:[main:de2e10c326dacdbb9ee6b3372606150bc8769932;]|RELEASE:[v1.0.3|none]
 lambilly/hass_daily_news: BRANCHES:[main:31e634b5b8bc7f9d01b0eeb721a8467316cb3118;]|RELEASE:[v1.2.1|none]
 lambilly/hass_dao_ji_shi: BRANCHES:[main:65212b87a0cfe2d19486857e6b637a097b4007ac;]|RELEASE:[v1.0.0|none]
 lambilly/hass_hengda_property: BRANCHES:[main:aca9b53e2367d7e5ef1addaa4cf10628db4ef2aa;]|RELEASE:[v1.0.1|none]
