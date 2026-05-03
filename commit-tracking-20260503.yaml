@@ -4123,3 +4123,4 @@ solderparty/buildroot-phyx-tess: BRANCHES:[feat/ext4:48d1aaba3bf2cebcf47a69a3241
 solderparty/rp2xxx_stamp_carrier_basic_hw: BRANCHES:[main:1fd8828029053b385333b9c64f177f64022b3268;]|RELEASE:[none|none]
 solderparty/esp-hosted: BRANCHES:[esp32p4_stamp_xl:dc755a127aa79818a6648ba5ef89470f177214da;master:ba39e6392f4f1c2e9ace3c5fa463bab34a42cb31;]|RELEASE:[none|none]
 solderparty/qmk_firmware: BRANCHES:[keebdeck_basic:4e97ff875369fd8da2dc89d0795b827800ea8204;master:7aed244aaeb943377e134e21cce273a12b4b56f9;]|RELEASE:[none|none]
+solderparty/keebdeck_basic_hw: BRANCHES:[main:2b537ce5fef3da50b016c18ca66aac520af5abd1;]|RELEASE:[none|none]
