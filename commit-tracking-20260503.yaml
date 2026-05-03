@@ -4075,3 +4075,4 @@ esphome/device-builder: BRANCHES:[catalog/sync:8297bec89ad371fd746a88a5e40f7adc8
 esphome/rf-proxies: BRANCHES:[main:3c5fb1dcfbe2993eb463778c6b97ad49715a5c6e;]|RELEASE:[26.4.1|none]
 algerkong/claude-ass: BRANCHES:[master:e0ca5060413ec736487c3536ca8c62fb549eacb8;]|RELEASE:[v1.0.0|76310aff54c038fc37be30e21bc45b5d7b7b72fc]
 solderparty/www: BRANCHES:[main:6037e510c1ce338ccb518f4332ccce8fc79600cb;]|RELEASE:[none|none]
+solderparty/keyboard_featherwing_hw: BRANCHES:[master:b9822a73ca6e7d6d93f29cfd4ba7a8e233f25f06;]|RELEASE:[rev2|none]
