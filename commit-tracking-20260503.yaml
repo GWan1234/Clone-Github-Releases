@@ -1113,7 +1113,7 @@ openwrt/iwinfo: BRANCHES:[master:f35c47d50bf213f259e1ba60ecb8724fa53416f7;]|RELE
 openwrt/jsonpath: BRANCHES:[master:b9034210bd331749673416c6bf389cccd4e23610;]|RELEASE:[none|none]
 openwrt/libnl-tiny: BRANCHES:[master:40493a655d8caa2ccf5206dde1e733abe2920432;staging/ynezz/fix-strncpy:28c44ca97cd546ef8168e7476472a0da022b3421;]|RELEASE:[none|none]
 openwrt/librpc-uclibc: BRANCHES:[master:a921e3ded051746f9f7cd5e5a312fb6771716aac;]|RELEASE:[none|none]
-openwrt/libubox: BRANCHES:[master:f9b1f3ff17baeb490cc896a037f176c0240ae776;lede-17.01:4382c76d1f225e462c6adf37e577fea0d046b854;]|RELEASE:[none|none]
+openwrt/libubox: BRANCHES:[master:1501e60e5554bd206c9b13532b7352e668508420;lede-17.01:4382c76d1f225e462c6adf37e577fea0d046b854;]|RELEASE:[none|none]
 openwrt/make_ext4fs: BRANCHES:[master:13767a96fcdffd59fef16f1b86919f63b6dee45a;]|RELEASE:[none|none]
 openwrt/mdnsd: BRANCHES:[master:a52cdb354d13c179150d2ba26f9f8a51d418b43d;openwrt-23.05:7c6759792502fa45ac1e38aa5644f8cf8f290894;]|RELEASE:[none|none]
 openwrt/mountd: BRANCHES:[master:6aee7096d8fb3aa3f44cc4a06255020a248b90b0;]|RELEASE:[none|none]
