@@ -4013,7 +4013,7 @@ philippe44/flac: BRANCHES:[master:c87c4f4514c35eff54e4a08665a380fb43a6c8ea;]|REL
 philippe44/http-fetcher: BRANCHES:[master:fbc60253bb29454311df96e46e81a7d42867d691;]|RELEASE:[none|none]
 philippe44/IP-HargassnerIntegration: BRANCHES:[main:777ed6e1918516a6837b222b0d9268cebe49084e;Classic:a7784513ebbf14c8dcbebb44de567d84666dd1ad;]|RELEASE:[none|none]
 philippe44/jpeg: BRANCHES:[aitiv-dev:b918d8d3ace56ae1e2784eed385c09ecb2973ecc;devel:607bf36a1b23a5b25ba77fee2dc648dabb488015;master:607bf36a1b23a5b25ba77fee2dc648dabb488015;]|RELEASE:[none|none]
-philippe44/libcodecs: BRANCHES:[master:e1d705335e20f1e16973f751dadd5d9d0d3ad847;]|RELEASE:[none|none]
+philippe44/libcodecs: BRANCHES:[master:f6d9a54a8a63d018cff22c54f6a7e24d54411d98;]|RELEASE:[none|none]
 philippe44/libjansson: BRANCHES:[master:67f84ac026589a69d196fd54602debc3393fc9de;]|RELEASE:[none|none]
 philippe44/libmbedtls: BRANCHES:[master:7e0b9a4f9d1be53c0bd1c73ae50baa463789d66a;]|RELEASE:[none|none]
 philippe44/libmdns: BRANCHES:[master:d7f58bf2791c3c25fd729d739a9267ce9db5b696;]|RELEASE:[none|none]
