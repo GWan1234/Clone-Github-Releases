@@ -15,7 +15,7 @@ cockpit-project/cockpit-weblate: BRANCHES:[main:e9294f5388d578f2e2fa07d2cc5c22f1
 cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:5f2f751bb11b62361616f635b8f607b53cd7bf15;]|RELEASE:[none|none]
 cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]
 cockpit-project/presentations: BRANCHES:[main:ea28a183510394cf43194cac689a4984df23c8d9;]|RELEASE:[none|none]
-cockpit-project/cockpit-machines: BRANCHES:[main:623697a413021f0da3b5038756527f84f29910d5;dependabot/npm_and_yarn/multi-a4011dfb69:385acfbcf9f247c729998c7048de4920da7f5052;dependabot/npm_and_yarn/types-f57dc2645f:c0bc50aae3aa089cfbbc4075c2ca1b2670eea45b;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;]|RELEASE:[352|83a039ec53b14b1963498ef9fe7260c66227f8bf]
+cockpit-project/cockpit-machines: BRANCHES:[main:952137441dfe854daefc7630208ac33f1ae348f5;dependabot/npm_and_yarn/multi-a4011dfb69:385acfbcf9f247c729998c7048de4920da7f5052;dependabot/npm_and_yarn/types-f57dc2645f:c0bc50aae3aa089cfbbc4075c2ca1b2670eea45b;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;rhel-8:8fd602fd80181f078be1965c8ff8878bcd97f287;]|RELEASE:[352|83a039ec53b14b1963498ef9fe7260c66227f8bf]
 cockpit-project/cockpit-machines-weblate: BRANCHES:[main:89069a4150dbe75298b3cc912bbbc4a505b5e1e6;]|RELEASE:[none|none]
 cockpit-project/node-cache: BRANCHES:[main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;]|RELEASE:[none|none]
 cockpit-project/pixel-test-reference: BRANCHES:[empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;]|RELEASE:[none|none]
