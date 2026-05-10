@@ -1044,7 +1044,7 @@ rime/rime.github.io: BRANCHES:[master:e2ad4af34ad40fadc26f1b286e5c7948b8c13c31;r
 rime/home: BRANCHES:[master:755bf231b56a7c1a0f690137d386cc1497e49d87;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5;]|RELEASE:[none|none]
 rime/rime-prelude: BRANCHES:[master:082425ea0684bca36474415d4a0e8db9b016487e;]|RELEASE:[none|none]
 rime/rime-essay: BRANCHES:[master:425cc5d152a84389b6fde0ed85929abbfdea401d;mine:65ea5c3707817f1c96e81a9f8d153c9c1f5408ca;]|RELEASE:[none|none]
-rime/rime-luna-pinyin: BRANCHES:[master:0c6d8e37f00c3e43fd8d0ada42dab4eda0b3d811;fixes:0e1fd5f4aad2ffce6444bc35ca05f57f14fde67b;pr/68:87df157bc0f190f37def7c692072896f464fbad4;opecc-options:8a63060d4bca0b1caf533641344d4fa53a8ca2de;]|RELEASE:[none|none]
+rime/rime-luna-pinyin: BRANCHES:[master:ba97605aa00b4a972c1bfcd705b957fcd90b192c;fixes:0e1fd5f4aad2ffce6444bc35ca05f57f14fde67b;pr/68:87df157bc0f190f37def7c692072896f464fbad4;]|RELEASE:[none|none]
 rime/rime-terra-pinyin: BRANCHES:[master:fa30016a9db2cf7d546ce33968c311525f0d90a0;]|RELEASE:[none|none]
 rime/rime-bopomofo: BRANCHES:[master:a8c35a4ae3998ac0cdbd02fbb42c883ecada4279;modular-config:20775ea8a2b89d6e0401ddf98af2822c909f6f5c;]|RELEASE:[none|none]
 rime/rime-pinyin-simp: BRANCHES:[master:0c6861ef7420ee780270ca6d993d18d4101049d0;]|RELEASE:[none|none]
