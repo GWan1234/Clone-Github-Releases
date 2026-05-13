@@ -148,7 +148,7 @@ esphome/esphome-project-template-r2: BRANCHES:[main:ba509731248640ca996cfe01472d
 esphome/esphome-glyphsets: BRANCHES:[pre-commit-ci-update-config:029edaa3a69bd9a62b124aa2b841c64ec05fc487;main:e58122e8ac81d371c2800af27521ac256aed1034;simplify_code:bb44fcc2aba25aeb304f24b06635aab59ae92333;]|RELEASE:[v0.2.0|d58e481369ac111d05fc186e7f33e1b9f814869d]
 esphome/esphome-schema: BRANCHES:[main:441b0470f78a341fc23486ce414f541964d58827;]|RELEASE:[2026.4.5|none]
 esphome/pngle: BRANCHES:[master:8bf3862f84a4643e75a7d92e046d7c07f934cead;]|RELEASE:[none|none]
-esphome/starter-components: BRANCHES:[main:34ad217e69336d07ca69645d3cf199c583ede1b3;]|RELEASE:[none|none]
+esphome/starter-components: BRANCHES:[main:a0857e9e90e0bed717cdedaa9caaef29cf5de3a7;]|RELEASE:[none|none]
 esphome/zwa-2: BRANCHES:[esphome-version-update:6799fa73bbf17f0abef51fe3a30aa7ab65dae943;dependabot/github_actions/shared-workflows-bcd123a31d:70b8c52e50ec3c4ebf542aeba526c0dcfe838342;main:73b6b5b925882319b9a40fe60b278347c6d60bc7;20250928-get-usb-uart-release:66ab38f8222a06b2dbe920c28d0e02f9777dd472;20250926-rename:d91ad674acb32d4b0a417ec29e1ec82d92ad9685;20250926-fix-path:ff7cb360b075f9c00b2b1358a893343c450918cc;20250926-split-jobs:b663d3061c45150adb816bc3e6030fa5dcf2cd0c;]|RELEASE:[26.3.0|none]
 esphome/home-assistant-voice-pe-alpha: BRANCHES:[pin-action-shas:067939a9d498c4c4acb940297de0439cd1ec7a1d;alpha:d108f132af709f563dac33739728bff082e38491;]|RELEASE:[none|none]
 esphome/lite-action: BRANCHES:[main:5d6cc0eb514c891a40562a58a8e71576c5c7fb43;]|RELEASE:[none|none]
