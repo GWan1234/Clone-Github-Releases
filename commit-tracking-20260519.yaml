@@ -1040,7 +1040,7 @@ rime/squirrel: BRANCHES:[master:d47b984a3e138c12b3e1bb90074f05d0574476ed;cmake:1
 rime/weasel: BRANCHES:[master:93eec2dc33dfcf04c356cce87732b638888fff4d;revert-1499-fix_status:935dc990f36f3d4f50809f6c3a28d34685c5d117;legacy:ce48ad184c0f8b0cb486f2c3533e85dc43227b1f;]|RELEASE:[0.17.4|9cc96e20dc71b80876b12f689bb5863c76c2a7ed]
 rime/artworks: BRANCHES:[master:d077b5a8c07c845403de19ce7078064efaf8401c;]|RELEASE:[none|none]
 rime/librime-legacy: BRANCHES:[master:9f04e6f6b645a9b57308928edf1b8487001abcf6;]|RELEASE:[none|none]
-rime/rime.github.io: BRANCHES:[master:e2ad4af34ad40fadc26f1b286e5c7948b8c13c31;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf;]|RELEASE:[none|none]
+rime/rime.github.io: BRANCHES:[master:edbeda70fc3585c7d361f4599b941149f4b7f861;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf;]|RELEASE:[none|none]
 rime/home: BRANCHES:[master:755bf231b56a7c1a0f690137d386cc1497e49d87;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5;]|RELEASE:[none|none]
 rime/rime-prelude: BRANCHES:[master:082425ea0684bca36474415d4a0e8db9b016487e;]|RELEASE:[none|none]
 rime/rime-essay: BRANCHES:[master:425cc5d152a84389b6fde0ed85929abbfdea401d;mine:65ea5c3707817f1c96e81a9f8d153c9c1f5408ca;]|RELEASE:[none|none]
