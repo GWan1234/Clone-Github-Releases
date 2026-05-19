@@ -1160,7 +1160,7 @@ openwrt/keyring: BRANCHES:[master:fbae29d730f81c892f52e0ff00fe867444aeeae6;]|REL
 openwrt/maintainer-tools: BRANCHES:[changelog:7f1a3d674b9c3ee08a21337e7269ee832dbc2330;master:e0f0ae0a8e44e802319a987f615caf3a5a51a3ff;]|RELEASE:[none|none]
 openwrt/backports: BRANCHES:[main:6ecbb441fa5f01a88b163e00a0d74ba43386bc42;]|RELEASE:[backports-v6.19|none]
 openwrt/downloads-openwrt-org: BRANCHES:[staging:2f67686b059d32cb21c0f933e661abfeb3be9dd4;main:a220f6f26f5ef3fb2d068d4fc0ffb03ae544f40c;]|RELEASE:[none|none]
-openwrt/qca-ppe: BRANCHES:[main:acf30c0fcb04a240d427a26c5efad55622a61652;mtu:fff0bf97d4b4f8425da09caa6ff4370bf51ed759;]|RELEASE:[none|none]
+openwrt/qca-ppe: BRANCHES:[main:3041090e0aa1a4d77c7e8c61aba99e5ead7b3b37;pcs-alloc-mem:3041090e0aa1a4d77c7e8c61aba99e5ead7b3b37;mtu:fff0bf97d4b4f8425da09caa6ff4370bf51ed759;]|RELEASE:[none|none]
 openwrt/qca-uniphy: BRANCHES:[ipq5018:0bdee6d5f314dd5580cc6ae0356f9de828800364;main:214a3c0d293a763400fd6853e000a3e09f0c7751;]|RELEASE:[none|none]
 openwrt/qca-edma: BRANCHES:[main:1da9c61d0905352e1d80445d0ae725b211b79b69;]|RELEASE:[none|none]
 unifreq/amlogic-boot-fip: BRANCHES:[master:59c9b835b401cf3781b0efafbce9cea2c861531d;]|RELEASE:[none|none]
