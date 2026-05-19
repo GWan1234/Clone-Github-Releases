@@ -3368,7 +3368,7 @@ iamromulan/qcseriald-darwin: BRANCHES:[main:c17db0ce757498b40763cb4caf9d9def1598
 iamromulan/qfenix: BRANCHES:[master:318a49cee9663a6a79fbcc8b44db8a3d2afdec2b;]|RELEASE:[v2.5.10-qfenix-0.1.0|none]
 iamromulan/QuecDeploy: BRANCHES:[main:397a270469f7ce3139a5c93f28fb4d801bd1939f;]|RELEASE:[v1.0.7|none]
 iamromulan/quectel-rgmii-simpleadmin: BRANCHES:[dev:dbfe3fef49df2e007a3004603ea451e82d39ceb5;main:4d4d02c719fd884481969eb1f2017ff8bc760c74;]|RELEASE:[none|none]
-iamromulan/quectel-rgmii-toolkit: BRANCHES:[SDXPINN:ee138d2772ef7cb85301ba3696dd76c3a0159a6f;development-SDXPINN:149a8747adaabaf2ba24a0b9577be4f96f525ff1;development-SDXLEMUR:a6fe65d0150758373b56c13a6826cf693f064cdc;SDXLEMUR:62b8f199aa63e0954b2e434feedf8cf21e78c9fe;overhaul-SDXLEMUR:af7fc536f8a1609258003cab36499730981cd9eb;main:0d962f3130ae901e77790a563359e5a6f80d2651;]|RELEASE:[none|none]
+iamromulan/quectel-rgmii-toolkit: BRANCHES:[SDXPINN:53c5c090c243e8c6b02e9e3de2a9b9bbd0f5b70a;development-SDXPINN:9fcb1e3100e7de9082779318ede97c2b041c3db7;development-SDXLEMUR:a6fe65d0150758373b56c13a6826cf693f064cdc;SDXLEMUR:62b8f199aa63e0954b2e434feedf8cf21e78c9fe;overhaul-SDXLEMUR:af7fc536f8a1609258003cab36499730981cd9eb;main:0d962f3130ae901e77790a563359e5a6f80d2651;]|RELEASE:[none|none]
 iamromulan/rdpwrap-server-client: BRANCHES:[master:ec98bb17a5e72902bb2da061986acce7a476e733;]|RELEASE:[none|none]
 iamromulan/router-opkg-feed: BRANCHES:[Hiveton-H5000M:b643756199d2ad94785b4a14ddf1ca9d28d0f42b;main:b3f307160f820fde24f88679f3790dda3c134590;]|RELEASE:[none|none]
 iamromulan/sms_tool: BRANCHES:[master:f54eea22946719fb937ad7e2c0daad3a13b1af24;]|RELEASE:[sms_tool_mod_1|none]
