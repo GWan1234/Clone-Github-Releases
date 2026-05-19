@@ -3961,7 +3961,7 @@ emqx/emqx-plugin-ecq: BRANCHES:[main:773d8afdd37238953e1561a6991498759fbdff82;]|
 emqx/emqx-plugin-mcp-tools: BRANCHES:[main:db4a9603effc1bb8c5979ecd1b9ad8c7f7d56915;]|RELEASE:[0.0.7|none]
 emqx/translate-issue-action: BRANCHES:[master:71628143ab1baff386f26de5926bf344cb0d7e50;]|RELEASE:[none|none]
 emqx/mcp-mqtt-erl: BRANCHES:[main:7ac8c7ecce9884b1950c96c1f65565092769efbc;]|RELEASE:[none|none]
-emqx/parquer: BRANCHES:[main:e3189bea0e42a4990293d191113d6c8eb9b4607f;]|RELEASE:[none|none]
+emqx/parquer: BRANCHES:[main:94049e6e26846d1ef420500f04f7b1d9a851bd73;]|RELEASE:[none|none]
 emqx/ESP32-QUIC: BRANCHES:[main:3c8c7a30b7b32ae3feaa07788b74eec637be37fc;]|RELEASE:[none|none]
 emqx/flowsdk: BRANCHES:[gh-pages:45b16254d2c739f32d881e168a10cb7808b80698;main:8e7bd2da75a7126bd89884de4272770c2e62bcde;automated/dependency-updates:3928a2e32e10a04dd8695fd53ec307a1641bba45;dev/quic/quiche:7d4bf8ee1c4f01326a720311c7502b4f44ee4a1d;emqxmain:8bcec0fd39cfa607b0a59b82e293cc63d658d062;]|RELEASE:[v0.4.2|none]
 emqx/esp32-mcp-mqtt-tutorial: BRANCHES:[main:ec121cd0ae2592b4b5a3fb7e7e6d8b1316dba13f;]|RELEASE:[none|none]
