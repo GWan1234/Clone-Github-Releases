@@ -4201,5 +4201,5 @@ iamromulan/autoupgrade: BRANCHES:[main:cb58c7fbd50da6998d64baf6a8e2d89b00a82c03;
 OpenListTeam/mpegts.js: BRANCHES:[master:1e51e0f6f918cf08e05dfae9c7bfcf658d6b4ac2;]|RELEASE:[none|none]
 adafruit/Adafruit_Learning_System_Embeds: BRANCHES:[main:60ca7a42b9abd4a60a39e61fececc9573795dee8;]|RELEASE:[none|none]
 lambilly/hass_tian_history: BRANCHES:[main:5bdef6dad71b98f01916173602b1785a9b3c16b0;]|RELEASE:[v1.0.0|none]
-openwrt/dwmac-ipq5018: BRANCHES:[new-pcs:fe9ea4813f96a8592a5f3907b5d9bd9d6dba40f7;main:b487095dd7129def7a631e64e8c9b04e8613109b;]|RELEASE:[none|none]
+openwrt/dwmac-ipq5018: BRANCHES:[new-pcs:c953f10afd0dcef15dd521d13e482a04273e9270;main:b487095dd7129def7a631e64e8c9b04e8613109b;]|RELEASE:[none|none]
 OpenListTeam/reflink: BRANCHES:[master:ed3c0dbe80094a1a23baa31441be26027f648378;]|RELEASE:[none|none]
