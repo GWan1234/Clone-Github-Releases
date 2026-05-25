@@ -4187,7 +4187,7 @@ kanoqwq/WebSSH-u60pro: BRANCHES:[master:41c869af079e0d0656c9522237d4fe297d80c625
 xyzroe/deskhop: BRANCHES:[main:be55d7f7aeebf1faddd0016cd1ac1354d7b76d53;]|RELEASE:[none|none]
 iamromulan/tiny-tailscale: BRANCHES:[main:706b5ea6986873bdf78496d2d1a5dc8038f73def;]|RELEASE:[v1.98.3|none]
 thelastoutpostworkshop/virtualscreen_st7789: BRANCHES:[main:d18db73b917142f7b92bf887acd55d5a662666cf;]|RELEASE:[none|none]
-ioBroker/ioBroker.wattcycle: BRANCHES:[main:70b20db9142f507a062eb470c18fac4730904fb2;dependabot/npm_and_yarn/typescript-6.0.3:eaa046605194fb1e8474ea1bee68c18f2706a2bd;dependabot/github_actions/actions/checkout-6:8da68c80df7188dcf384d9a4be9b67b3117d6595;dependabot/github_actions/actions/github-script-9:62c1cec7df1de44bb650bba0906dc5ca52865ff0;]|RELEASE:[v0.2.2|28e585c9a60cf5b2c3e7cfc7beb640affeff7cb5]
+ioBroker/ioBroker.wattcycle: BRANCHES:[main:f010029a718b330c36f9399629c7e8bb9d4dea96;dependabot/npm_and_yarn/typescript-6.0.3:eaa046605194fb1e8474ea1bee68c18f2706a2bd;dependabot/github_actions/actions/checkout-6:8da68c80df7188dcf384d9a4be9b67b3117d6595;dependabot/github_actions/actions/github-script-9:62c1cec7df1de44bb650bba0906dc5ca52865ff0;]|RELEASE:[v0.2.2|28e585c9a60cf5b2c3e7cfc7beb640affeff7cb5]
 iamromulan/opkg-autoupgrade: BRANCHES:[main:35e33720e0315ef5b2d04c2430a784d923286c40;]|RELEASE:[none|none]
 anzhiyu-c/yupai-shop: BRANCHES:[claude/features-bento-redesign-StT6m:4b7e913a486437596b0edc406f0be3c3dec90c4f;claude/distracted-meninsky-93e932:e8848ccabffe99aa4fb9b3e08cea26088155044d;main:ee88b3de29ee0afd7f4c86dc39dd88980b4ac009;]|RELEASE:[none|none]
 rime/tests: BRANCHES:[main:9e31ead4cf4fdb398662cb7bb06a0966b6bba222;]|RELEASE:[none|none]
