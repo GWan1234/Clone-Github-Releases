@@ -759,7 +759,7 @@ HomeSpan/TempSensorI2C: BRANCHES:[main:9ac6ae43197250ab61dde8ad97723c39298c6a91;
 HomeSpan/ZephyrVentHood: BRANCHES:[master:c3b38c79202300561a88210bd6b55e9fb21d2213;]|RELEASE:[1.0.1|none]
 Andryushik/air_hood: BRANCHES:[main:f52edca8539faf5bef88fbe9b052a75e9cad1691;]|RELEASE:[none|none]
 Andryushik/andryushik: BRANCHES:[main:0ebec574df75851c94453fef63a8a2a123828cc0;]|RELEASE:[none|none]
-Andryushik/blinds_homekit_esp32: BRANCHES:[main:33fbf041ce77b449607f6d9e2a23e40960648e93;]|RELEASE:[none|none]
+Andryushik/blinds_homekit_esp32: BRANCHES:[main:ef41c5091f932e49283d4ec649ebefdd36a9d889;]|RELEASE:[none|none]
 Andryushik/browser-quiz-project: BRANCHES:[master:dd2fa93a490c36317dd7da30c7b8bce7aaf64b89;]|RELEASE:[none|none]
 Andryushik/Browsers: BRANCHES:[main:c6bfb13b31e66ea5d20d08d1b4fdee5d03fb63e9;]|RELEASE:[none|none]
 Andryushik/chat_app_react: BRANCHES:[main:053cb82a691c02ae514851e696e359629aa47c93;add-license-1:715e95e2a3035e19b75837af9a9f7cb4323f9494;]|RELEASE:[none|none]
