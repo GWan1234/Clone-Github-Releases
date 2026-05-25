@@ -1178,7 +1178,7 @@ unifreq/linux-5.10.y-rk35xx: BRANCHES:[main:6c6e1238ebb1f17a0daebc5d4f16ba4cae7e
 unifreq/linux-5.12.y: BRANCHES:[main:001b6ea90458f1efd0650d247f7c3712842df860;]|RELEASE:[none|none]
 unifreq/linux-5.13.y: BRANCHES:[main:f27b0e5cd88c6ae90e55290ca0c1ffb4919cdf8c;]|RELEASE:[none|none]
 unifreq/linux-5.14.y: BRANCHES:[main:8eac859f61433514a4df44b68a33316577479494;]|RELEASE:[none|none]
-unifreq/linux-5.15.y: BRANCHES:[main:0de7ac916f3edb143852051ee323bc7f0cdc62e3;]|RELEASE:[none|none]
+unifreq/linux-5.15.y: BRANCHES:[main:c1a4e3bb721ff3a06869762c3aa0b72997fbae4a;]|RELEASE:[none|none]
 unifreq/linux-5.16.y: BRANCHES:[main:babe5f81c386b9eb6502da3ca99e7789fa04699f;]|RELEASE:[none|none]
 unifreq/linux-5.17.y: BRANCHES:[main:d71bd9eb23be4e3d883de009f96955b640eac095;]|RELEASE:[none|none]
 unifreq/linux-5.18.y: BRANCHES:[main:2b7e24a04044b1fb0df8d864a88db76047bd038b;]|RELEASE:[none|none]
