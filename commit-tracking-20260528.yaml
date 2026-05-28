@@ -483,7 +483,7 @@ ScottSloan/Bili23-Downloader: BRANCHES:[dev:0483c15c9b232196dac006cd1f89775ef317
 ScottSloan/Bili23-Downloader-CLI: BRANCHES:[v2:c487059ed3a0e40d62ceb4bc8f168b0653fd8d5e;dev:f5b434432f06a2ce53c468091ccf54e51248672b;main:cf4f5b5901758bcd11c36cc78c531e52f060557a;]|RELEASE:[v1.11|none]
 ScottSloan/Bili23-Downloader-Doc: BRANCHES:[main:b3c8dc46044cb129911681d6ab063a11261f1cc1;]|RELEASE:[none|none]
 ScottSloan/Bili23-Downloader-Loader: BRANCHES:[main:bf2fe5fa3ba4229054f3a44ad8eaf07e10674f61;]|RELEASE:[none|none]
-ScottSloan/Bili23-Downloader-WebUI: BRANCHES:[dev:1d6a67b37f8df18f69b39ba83adf8bbbafeaddb2;main:940576e22324d687767a0d2c5561e3fc4c030558;]|RELEASE:[none|none]
+ScottSloan/Bili23-Downloader-WebUI: BRANCHES:[main:864360e6f6b173a674de8a763c0dde0233064906;dev:1d6a67b37f8df18f69b39ba83adf8bbbafeaddb2;]|RELEASE:[none|none]
 ScottSloan/bilibili-API-collect: BRANCHES:[master:cfc5fddcc8a94b74d91970bb5b4eaeb349addc47;]|RELEASE:[none|none]
 ScottSloan/Cloudreve-Uploader: BRANCHES:[main:82321a6871808863e2d3cc0dd52c9c1c1009091c;]|RELEASE:[none|none]
 ScottSloan/Easy-Send: BRANCHES:[main:0a805cf53d879bcf83077b4d3459b2858146e9f3;]|RELEASE:[none|none]
