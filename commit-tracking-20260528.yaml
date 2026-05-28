@@ -1200,7 +1200,7 @@ unifreq/mpp: BRANCHES:[develop:37145900a208d5ca6eb2adbb0f9bab5d52f38270;]|RELEAS
 unifreq/openwrt_packit: BRANCHES:[master:873a0de15fe93ed2c3ccb46cb2f0fa8a74597c38;]|RELEASE:[none|none]
 unifreq/packages: BRANCHES:[master:da8a3b6feda61cf2421ead9481666004d8e32b90;]|RELEASE:[none|none]
 unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|RELEASE:[none|none]
-unifreq/rk-ubuntu-build: BRANCHES:[main:d54ea8ca034ffc05930505d71061d8a9bcb81ad9;]|RELEASE:[ubuntu_trixie-mini_save_2025.12|none]
+unifreq/rk-ubuntu-build: BRANCHES:[main:8a025ed07264c0ff1818ce4dd7db4dde47a187cf;]|RELEASE:[ubuntu_trixie-mini_save_2025.12|none]
 unifreq/rk3588-kernel-libre: BRANCHES:[master:25d6616e204713dd9aa15651178d64ff4d9ebd26;]|RELEASE:[none|none]
 unifreq/rkbin: BRANCHES:[master:83a608401a5f530ad600d2175cd0eeb7598bfb22;]|RELEASE:[none|none]
 unifreq/rockchip-rk3588-mainline-patches: BRANCHES:[main:9aa81c5a516dd66aeac24b9d4d50d73ee6f63304;]|RELEASE:[none|none]
