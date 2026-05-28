@@ -2370,7 +2370,7 @@ adafruit/glider: BRANCHES:[dependabot/npm_and_yarn/y18n-3.2.2:40d0794a34fe0f20a6
 adafruit/pyright: BRANCHES:[master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87056e81b0f880f08f5125ce3168655e9f;]|RELEASE:[none|none]
 adafruit/BrainCraft: BRANCHES:[master:464a6d11b53a6d18cfebffc75e602fc9696bf95c;]|RELEASE:[none|none]
 adafruit/Adafruit-MONSTER-M4SK-PCB: BRANCHES:[master:ac886c5792dd29ff6c0f1a263ab7c3f77ccaebf3;]|RELEASE:[none|none]
-adafruit/Adafruit_CircuitPython_MPU6050: BRANCHES:[main:928d747a826fc8d8c4237ed1b40b53cf723cf1ee;patch-fix:3963838a50909d609ea37497e1cdd69aea9fbf80;]|RELEASE:[1.3.7|none]
+adafruit/Adafruit_CircuitPython_MPU6050: BRANCHES:[main:d30ee1fa5f49b62b4df382ea5310a77fa39d6bd9;patch-fix:3963838a50909d609ea37497e1cdd69aea9fbf80;]|RELEASE:[1.3.8|none]
 adafruit/Arduino_Core_STM32: BRANCHES:[master:2b723f85337a0684573de03a9d471f861f271435;]|RELEASE:[none|none]
 adafruit/Adafruit-TFT-Gizmo-PCB: BRANCHES:[master:dc9a7479381c01421a630a93f891c7142f4dfde0;]|RELEASE:[none|none]
 adafruit/Adafruit-STEMMA-Speaker-PCB: BRANCHES:[master:2f4a20b1411e8ead3160e6e89889f20311b248a1;]|RELEASE:[none|none]
