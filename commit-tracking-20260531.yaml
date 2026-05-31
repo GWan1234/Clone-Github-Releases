@@ -481,7 +481,7 @@ algerkong/tdesign-vue-next: BRANCHES:[develop:e2f4f011d9f00bf168af1609a5ab35981e
 ScottSloan/23-Downloader-CLI: BRANCHES:[main:19a2579d01091cb24645a6889a684a234a350a7c;]|RELEASE:[none|none]
 ScottSloan/Bili23-Downloader: BRANCHES:[dev:901b6f0003f9794cff803f231542aa59d743bb3d;main:176cc51462f48e7b4584d7225c09c40421598ac7;classic:cf6891e28ec04dfa88b489695db46745c1d5c8b8;]|RELEASE:[v2.00.6|none]
 ScottSloan/Bili23-Downloader-CLI: BRANCHES:[v2:c487059ed3a0e40d62ceb4bc8f168b0653fd8d5e;dev:f5b434432f06a2ce53c468091ccf54e51248672b;main:cf4f5b5901758bcd11c36cc78c531e52f060557a;]|RELEASE:[v1.11|none]
-ScottSloan/Bili23-Downloader-Doc: BRANCHES:[main:b3c8dc46044cb129911681d6ab063a11261f1cc1;]|RELEASE:[none|none]
+ScottSloan/Bili23-Downloader-Doc: BRANCHES:[main:cd515f468976d5ecd4e723453131bf203fab3ff9;]|RELEASE:[none|none]
 ScottSloan/Bili23-Downloader-Loader: BRANCHES:[main:bf2fe5fa3ba4229054f3a44ad8eaf07e10674f61;]|RELEASE:[none|none]
 ScottSloan/Bili23-Downloader-WebUI: BRANCHES:[main:864360e6f6b173a674de8a763c0dde0233064906;dev:1d6a67b37f8df18f69b39ba83adf8bbbafeaddb2;]|RELEASE:[none|none]
 ScottSloan/bilibili-API-collect: BRANCHES:[master:cfc5fddcc8a94b74d91970bb5b4eaeb349addc47;]|RELEASE:[none|none]
