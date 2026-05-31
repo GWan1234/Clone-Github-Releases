@@ -638,7 +638,7 @@ dr-dolomite/nerve-test: BRANCHES:[main:ce297399b130891fa48324c05a18bc73e667566a;
 dr-dolomite/NipYumWeb: BRANCHES:[main:47ed0045b25c7577f9dace7aa5fe6a098d3f3346;]|RELEASE:[none|none]
 dr-dolomite/pis-jsx: BRANCHES:[main:381b57c06bb915a4b747da23491fae51c6778c8a;]|RELEASE:[none|none]
 dr-dolomite/qadbkey-unlock: BRANCHES:[master:2f4d78cbbcbc084f5da73676b57560b673dbb427;]|RELEASE:[none|none]
-dr-dolomite/QManager: BRANCHES:[development-home:824eb3c7656df24ec41c7d85871a3422ea494e99;main:6d37deb1d597f9f611b93e74e0eeec1c97eb4b7f;dev-rm520:8c54eb9b2ee190ebe60dfe66c622310648ccc2e7;dev-rm551e:a950e8df5c4a20c093ed0c4af54fba8060592373;]|RELEASE:[language-packs|none]
+dr-dolomite/QManager: BRANCHES:[development-home:39080adc0a96253bf504bad9610306dda4e625a9;feature/sms-native-backend:9474f00216484dcb55bb26b266d080a5b9e7105a;main:6d37deb1d597f9f611b93e74e0eeec1c97eb4b7f;]|RELEASE:[language-packs|none]
 dr-dolomite/QManager-RM520N: BRANCHES:[development:5e051b0eef221d278e499784d229766c27a500a3;main:5e051b0eef221d278e499784d229766c27a500a3;]|RELEASE:[none|none]
 dr-dolomite/QuecManager-JS: BRANCHES:[development:4f7a6f5523907d2429cec43c30cb618383eaa9e5;main:4fec4d4f881c01743987f2008fcc098a259c4778;websocat-feat:331f7e269ad4261ec72e9d8fa9bd4a85c54ea321;]|RELEASE:[none|none]
 dr-dolomite/QuecManagerBetaReleases: BRANCHES:[development-SDXPINN:0420706f454aa172d427c58842cbccebdc853376;SDXPINN:f5cab2eb88cc70177bbdc0b87e6a7ca8010d00ee;main:0d962f3130ae901e77790a563359e5a6f80d2651;SDXLEMUR:909918c53868ab56c540ba54e2eba2d37fbaa482;development-SDXLEMUR:47aaea465ba9cacdc7b058c97d422c0a71814100;]|RELEASE:[none|none]
