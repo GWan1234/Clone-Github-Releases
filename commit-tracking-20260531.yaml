@@ -479,7 +479,7 @@ algerkong/opencode: BRANCHES:[dev:d82b163e563de59b99b426bb58b8eea04cf26202;brend
 algerkong/qoder-reset: BRANCHES:[main:b8ff806ef3b6ff6a2eff04eb6abe86290831226d;]|RELEASE:[none|none]
 algerkong/tdesign-vue-next: BRANCHES:[develop:e2f4f011d9f00bf168af1609a5ab35981e5a9ca6;fix/dialog_visible_bug:8da7811fff01acb12a5fe491f8fcea3416539495;fix/cascader_change_bug:7031bc2a263d7be8405d8d445299610a40002c3f;feat-popconfirm-showicon:cf819ba047791e6eddb3b9d0d6109d8c1872f8ee;]|RELEASE:[none|none]
 ScottSloan/23-Downloader-CLI: BRANCHES:[main:19a2579d01091cb24645a6889a684a234a350a7c;]|RELEASE:[none|none]
-ScottSloan/Bili23-Downloader: BRANCHES:[dev:901b6f0003f9794cff803f231542aa59d743bb3d;main:176cc51462f48e7b4584d7225c09c40421598ac7;classic:cf6891e28ec04dfa88b489695db46745c1d5c8b8;]|RELEASE:[v2.00.6|none]
+ScottSloan/Bili23-Downloader: BRANCHES:[dev:374f4a4dcd6c9bba951336cc5cac619d048d4daf;main:176cc51462f48e7b4584d7225c09c40421598ac7;classic:cf6891e28ec04dfa88b489695db46745c1d5c8b8;]|RELEASE:[v2.00.6|none]
 ScottSloan/Bili23-Downloader-CLI: BRANCHES:[v2:c487059ed3a0e40d62ceb4bc8f168b0653fd8d5e;dev:f5b434432f06a2ce53c468091ccf54e51248672b;main:cf4f5b5901758bcd11c36cc78c531e52f060557a;]|RELEASE:[v1.11|none]
 ScottSloan/Bili23-Downloader-Doc: BRANCHES:[main:cd515f468976d5ecd4e723453131bf203fab3ff9;]|RELEASE:[none|none]
 ScottSloan/Bili23-Downloader-Loader: BRANCHES:[main:bf2fe5fa3ba4229054f3a44ad8eaf07e10674f61;]|RELEASE:[none|none]
