@@ -3875,7 +3875,7 @@ emqx/.github: BRANCHES:[main:4658ba4386ca6d9454529d662a6e6658c382c556;]|RELEASE:
 emqx/rebar3_sbom: BRANCHES:[master:6d1486ffea3e0ebe41589ce52e7c42be04117da5;dev/json_1.4:50b437031118d584197e44237a8cda4e88abae3a;]|RELEASE:[none|none]
 emqx/ezstd: BRANCHES:[v1.0.4-fix-build:ba2f7f63f9c8c6549d3ca0a9b763c3e4c0d41c67;master:2ac26f73b5b4093f43d11214d2aa988609699ef5;]|RELEASE:[none|none]
 emqx/deploy-emqx-to-azure-with-terraform: BRANCHES:[main:95b29ca0a04bf704ad2793ba89c3c7733cefd0a1;lvus:d9098fb1ce66b84e8c6725863977716c3fb265cc;]|RELEASE:[none|none]
-emqx/docker-images: BRANCHES:[feature/certgen-output-prefix:741f06a251244311529810fef92ebb6409fa346d;master:638c4e6836874e613bb18cf7862b8541badcc845;ci-docker-cache-from:668fb286fd24471399e83b553c96620297217219;spark:c73a976ef30c0a7dd2710ac1e9f6add61a68c1a2;add-vsn:5811b638bd8f13ccfdddb4bf8560731a5dbc55ff;]|RELEASE:[none|none]
+emqx/docker-images: BRANCHES:[master:bc3c3a8ac600ca2da1565727d1e227519c7f37a2;ci-docker-cache-from:668fb286fd24471399e83b553c96620297217219;spark:c73a976ef30c0a7dd2710ac1e9f6add61a68c1a2;add-vsn:5811b638bd8f13ccfdddb4bf8560731a5dbc55ff;]|RELEASE:[none|none]
 emqx/jsone: BRANCHES:[master:850521dbdd7fee43f5b95a08f4d7c8683ce34dcb;]|RELEASE:[none|none]
 emqx/optvar: BRANCHES:[main:2331bbff4ddce7d9dc64698936a9d158174f3315;fix-race-timeout:58f1d84a76a5c62b6e8d2763d302cefea8e94e9c;]|RELEASE:[none|none]
 emqx/emqx_ctl: BRANCHES:[main:45524ea662d6c3735c8943d2a3936b875c6b8a0d;]|RELEASE:[none|none]
