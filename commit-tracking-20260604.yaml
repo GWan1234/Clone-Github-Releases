@@ -3963,7 +3963,7 @@ emqx/translate-issue-action: BRANCHES:[master:71628143ab1baff386f26de5926bf344cb
 emqx/mcp-mqtt-erl: BRANCHES:[main:7ac8c7ecce9884b1950c96c1f65565092769efbc;]|RELEASE:[none|none]
 emqx/parquer: BRANCHES:[main:94049e6e26846d1ef420500f04f7b1d9a851bd73;]|RELEASE:[none|none]
 emqx/ESP32-QUIC: BRANCHES:[main:3c8c7a30b7b32ae3feaa07788b74eec637be37fc;]|RELEASE:[none|none]
-emqx/flowsdk: BRANCHES:[automated/dependency-updates:bdfb036609fda4b1e803f8e7939e9777818c385c;gh-pages:25c26c5ab9c2edb31696278f90dbd7dfa7a37965;main:809bf33515dd011eff490f3ac49e89da820d33df;dev/example-conn-only:657731072878eb826c9adacbc7393eeea568f4ea;feat/example/io-uring-bench:88b09434d316448ae677c1f16605ece1853299fd;dev/quic/quiche:7d4bf8ee1c4f01326a720311c7502b4f44ee4a1d;emqxmain:8bcec0fd39cfa607b0a59b82e293cc63d658d062;]|RELEASE:[v0.4.2|none]
+emqx/flowsdk: BRANCHES:[gh-pages:babebf992532e330df452a1777f285cf794352fd;main:e7475dbf6c50e00641f50966577b3f056e2274dc;automated/dependency-updates:bdfb036609fda4b1e803f8e7939e9777818c385c;dev/example-conn-only:657731072878eb826c9adacbc7393eeea568f4ea;dev/quic/quiche:7d4bf8ee1c4f01326a720311c7502b4f44ee4a1d;emqxmain:8bcec0fd39cfa607b0a59b82e293cc63d658d062;]|RELEASE:[v0.4.2|none]
 emqx/esp32-mcp-mqtt-tutorial: BRANCHES:[main:ec121cd0ae2592b4b5a3fb7e7e6d8b1316dba13f;]|RELEASE:[none|none]
 emqx/macos-erlang: BRANCHES:[master:1e65a0125f99969fd5623999fe52e49f4fa542d5;]|RELEASE:[none|none]
 emqx/esp-mcp-over-mqtt: BRANCHES:[main:67a3a0500a0f8d79ee8aaaf183ee06697a9c40ca;]|RELEASE:[none|none]
