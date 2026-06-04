@@ -1173,7 +1173,7 @@ unifreq/lede: BRANCHES:[master:ff3c2f7979c51fa277c4c9ceafffc03d06562493;]|RELEAS
 unifreq/libreoffice-headless: BRANCHES:[master:6f70824e57c750abe07abec0ed38ff9a378d2550;]|RELEASE:[none|none]
 unifreq/librga: BRANCHES:[main:6664094b919d069ae7caf90833ed4d5cc2729585;]|RELEASE:[none|none]
 unifreq/libv4l-rkmpp: BRANCHES:[master:a32b4ccf380523f18e39c7738fd00bbafcfc1f4a;]|RELEASE:[none|none]
-unifreq/linux-5.10.y: BRANCHES:[main:cca6e67f0f15085bef0d54305c4365182fa7483b;]|RELEASE:[none|none]
+unifreq/linux-5.10.y: BRANCHES:[main:fa7e9862d2c6b57ca8e3d85dafcab4b8c53f847d;]|RELEASE:[none|none]
 unifreq/linux-5.10.y-rk35xx: BRANCHES:[main:6c6e1238ebb1f17a0daebc5d4f16ba4cae7ef5e4;]|RELEASE:[none|none]
 unifreq/linux-5.12.y: BRANCHES:[main:001b6ea90458f1efd0650d247f7c3712842df860;]|RELEASE:[none|none]
 unifreq/linux-5.13.y: BRANCHES:[main:f27b0e5cd88c6ae90e55290ca0c1ffb4919cdf8c;]|RELEASE:[none|none]
