@@ -4203,7 +4203,7 @@ adafruit/Adafruit_Learning_System_Embeds: BRANCHES:[main:21a7858b8aeb94071bbe5cc
 lambilly/hass_tian_history: BRANCHES:[main:5bdef6dad71b98f01916173602b1785a9b3c16b0;]|RELEASE:[v1.0.0|none]
 openwrt/dwmac-ipq5018: BRANCHES:[new-pcs:c953f10afd0dcef15dd521d13e482a04273e9270;main:b487095dd7129def7a631e64e8c9b04e8613109b;]|RELEASE:[none|none]
 OpenListTeam/reflink: BRANCHES:[master:ed3c0dbe80094a1a23baa31441be26027f648378;]|RELEASE:[none|none]
-Xinyuan-LilyGO/documentation: BRANCHES:[master:c0c747165cd273fe4bdc1e3a0b42c3aa6164eacc;]|RELEASE:[none|none]
+Xinyuan-LilyGO/documentation: BRANCHES:[master:70f3d37b5f5061488d9d4e1e4cc0a81db982ba25;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Connection-P4-Pro: BRANCHES:[main:bb3912510f9ec7622e951b5786763613bdfc6fdf;]|RELEASE:[none|none]
 emqx/emqx-neuron-demo: BRANCHES:[master:a95a42c93c5466f149218fe89d66c279ef409f4f;]|RELEASE:[none|none]
 anzhiyu-c/yuyu-cursor-transit: BRANCHES:[main:3018af41ec48ec9f8ca27377c49fffdab720bdac;]|RELEASE:[none|none]
