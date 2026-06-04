@@ -3685,7 +3685,7 @@ Xinyuan-LilyGO/T-QT-C6: BRANCHES:[arduino-esp32-libs_V3.0.2:c0a004f9d9e8df850d51
 Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass: BRANCHES:[master:99ae22477daeaec55714f6b31e0219407dd52439;]|RELEASE:[V1.0.0|none]
 Xinyuan-LilyGO/Lilygo-LoRa-Epaper-series: BRANCHES:[master:787bc8f4cc311abbca2e7a250b3cd373b6102d3d;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Knob: BRANCHES:[master:a7d9189e4099875dff4a1a7dad4b07257b1ff508;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Embed-CC1101: BRANCHES:[master:9c5af98b199e0ae5a974c06d4b46af8980073e13;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Embed-CC1101: BRANCHES:[master:c8d9119975712b913ea7c0aab044ff38b3885c79;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO: BRANCHES:[H752-01:cd79cda7bb8753ee956e4e952bc7b7c354a3cd37;H752:1ea4589a036a7e0ad87e4cd5ffd25bb0037897da;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T7-C6: BRANCHES:[main:e67375ab9533d9c91162968f27168c48ab3797c7;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Energy-S3: BRANCHES:[main:68a74854ce0443377d186786bf3478484a0813e0;]|RELEASE:[none|none]
