@@ -3229,7 +3229,7 @@ home-assistant/developers.home-assistant: BRANCHES:[document-dns-sd-discovery:8a
 home-assistant/ui-schema: BRANCHES:[master:3a52416fb5fc92a976be1100232de395d263eeaa;iantrich-patch-1:53b50e953ed44dc5919b2305f33b5f7ef1275266;]|RELEASE:[none|none]
 home-assistant/custom-panel-starter-kit-react: BRANCHES:[master:66f76559c69dc312df4ca0eafdaed1c0bb98311e;]|RELEASE:[none|none]
 home-assistant/docker-base: BRANCHES:[master:e3db15a34e8d102d97b57f1df2ef7e6b2fa21670;python-3.14-clang-tail-call:997c5354374476a3e5dff71ce0683d12753b7cbe;update-python-versions-3.13.4:b72ddf1b4ed2b08397c368d33802d1a4739e9f31;python313:c005fb923022a1792a323e5489718dd20492545e;]|RELEASE:[2026.05.0|none]
-home-assistant/docker: BRANCHES:[master:f5bc5e1fbf7fa587067ebc27f8667cbb69653a44;]|RELEASE:[2026.05.0|none]
+home-assistant/docker: BRANCHES:[master:e3a3207a500ad6eb8bb1a7b3b416a804624cfd8d;]|RELEASE:[2026.05.0|none]
 home-assistant/hbmqtt-auth-home-assistant: BRANCHES:[master:c2f37cfa711e299eb59028e9818050038b563aea;]|RELEASE:[1.0.2|none]
 home-assistant/addons-development: BRANCHES:[master:ba3ffc797124558ca89b7e2831120863b17b5204;]|RELEASE:[none|none]
 home-assistant/open-zwave: BRANCHES:[hass:94267fa298c1882f0dc73c0fd08f1f755ba83e83;master:c701f5f78fbb9949a88800e34fdcd8e59b637bf4;Dev:9efb10103c7ca9bbe509443b4a0750dfae77a5bf;]|RELEASE:[none|none]
