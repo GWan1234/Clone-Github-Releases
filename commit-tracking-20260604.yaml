@@ -3700,7 +3700,7 @@ Xinyuan-LilyGO/T-Circle-S3: BRANCHES:[arduino-esp32-libs_V2.0.14:0ee6fdb522acbd4
 Xinyuan-LilyGO/T-Deck-Pro: BRANCHES:[HD-V2-250915:b010777912d0726d704e8f772dfa968e5183105b;HD-V1-250326:e3246046972716edd5f264a6047ba3572a851b23;master:e3246046972716edd5f264a6047ba3572a851b23;HD-V3-250911:08563a9494f7b78ba96a033e2af478efeac776ad;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Keyboard-S3-Pro: BRANCHES:[arduino-esp32-libs_V2.0.14:3f97d398e67424db0a9ac366db47aae63488a99f;main:3347b02e986c8221ae5b33645a9bae1b2c4bd2f0;stm32cubeg0-firmware-package_V1.6.2:e35ec481e5136707293ef92e35f3540534095dc4;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGO-Mini-E-paper-S3: BRANCHES:[main:018c1fcde0a8dd95bbaf29d49780059fb36d1e3f;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Echo-Lite: BRANCHES:[main:c643a8c1abe05911b98dd949c4614c7ec999bce1;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Echo-Lite: BRANCHES:[main:d71c9f1cc51f6b92a3988afbfa838303ff27a242;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Meshtastic_firmware: BRANCHES:[master:ae4f54224ed21ca5d2a7b9c8706d74c9a6b955e5;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Meshtastic-Python: BRANCHES:[master:6243965044e346289ed827737bf449d1f52f979c;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Meshtastic: BRANCHES:[master:8e8f89491a8ba5bbbe725c7cc5f2498e3b814bfe;]|RELEASE:[none|none]
