@@ -1188,7 +1188,7 @@ unifreq/linux-6.0.y: BRANCHES:[main:1f09a2f946f1c195d11ae4442cd97e1885460aa3;]|R
 unifreq/linux-6.1.y: BRANCHES:[main:7614107efb55d4643b2a995b97500ed61d43deac;]|RELEASE:[none|none]
 unifreq/linux-6.1.y-rockchip: BRANCHES:[main:fc8ec2815b55d926c914fd425f8253c113816c21;]|RELEASE:[v2604a|none]
 unifreq/linux-6.12.y: BRANCHES:[main:2e8b5ece820b4617d4be2ddc39e53b56c9614222;]|RELEASE:[none|none]
-unifreq/linux-6.18.y: BRANCHES:[main:84c3d46d9c6f4dfbbee6c1fd6f4b2f07e94b2b85;]|RELEASE:[none|none]
+unifreq/linux-6.18.y: BRANCHES:[main:faa275362d1a48a5b65570e6e36e845636a520a0;]|RELEASE:[none|none]
 unifreq/linux-6.6.y: BRANCHES:[main:812158e95f79c72b31a3a769dbe27ebb57735d48;]|RELEASE:[none|none]
 arendst/platformio-core: BRANCHES:[develop:e030e1294466743004157f65827b72c8e4752d5d;master:a76e445ed98a7badf23c52de5ad649797044ccdb;feature/issue-2972-ino2cpp:4ee4315c048d129b0fc2407f38a731cf60cb9287;feature/issue-446-projecttpls:b5bc5712b115b24822b32ff8bd6000434ca6213a;]|RELEASE:[none|none]
 unifreq/linux-hbiyik: BRANCHES:[rk-6.1-rkr1-panthor-v5:f1de3c565306206546a275a5c7f5789ebc71b086;linux-6.1-rkbsp6-panthor-v4:8ae095a2b72b15795bfc03ce60fba6b89750fa46;linux-6.1-gen-rkr6+panthor_r3:2a88a7c44a6943d82c5b4ba0fcb1b298dbffcc46;linux-6.1-gen-rkr6+panthor:6d25679814a4b4141eff37d54a35d423e87d7726;panthor+mpp+rga:2d0ba5bcfcf55376c5593b8117104d14b9028ce2;panthor:f81e9055e0b9542ee2e82ee0d1e10baf359a0c1d;rkr6.1:c10819c672c6c03c033f2f4ae747137fcbcde8af;linux-5.10-gen-rkr4.1_fix_rga_uncompact:7fa270e7369583b8c1ea34e04c930bb0bbfc83d1;linux-5.10-gen-rkr4.1:b211467a1be0216c4eef9f6a129395756e9dd34d;]|RELEASE:[none|none]
