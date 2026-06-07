@@ -4222,3 +4222,4 @@ esphome/devices.esphome.io: BRANCHES:[main:7b4d2c5a7cec4d5cbcdb947028138f6e550a9
 Xinyuan-LilyGO/T-Display-SF32: BRANCHES:[master:60a6720d946eb6edc60a8c6033ae7118d0f36003;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-C5: BRANCHES:[master:6ba756a4ca1249b39f2d580811fccc346728f4fc;]|RELEASE:[none|none]
 ioBroker/ioBroker.ble-gateway: BRANCHES:[main:a128889b09397ebfb7cb455c516e8caa7962c1bc;dependabot/npm_and_yarn/typescript-6.0.3:06f225090b5bbd2bff8d6c91918b15d772870e53;dependabot/npm_and_yarn/stoprocent/noble-2.5.3:5dbb3d73ec3aac8d21b6fad118e446dbb889dbdc;dependabot/github_actions/actions/github-script-9:906dc113362eaad58624043df638275de55ca294;dependabot/github_actions/actions/checkout-6:110a68c1b405a942945ccfed7851925ae1731a3c;]|RELEASE:[none|none]
+ioBroker/ioBroker.mopeka: BRANCHES:[main:bd4ece4cbe281a696a5c46fe8c1948b432421212;]|RELEASE:[none|none]
