@@ -1161,7 +1161,7 @@ openwrt/maintainer-tools: BRANCHES:[changelog:7f1a3d674b9c3ee08a21337e7269ee832d
 openwrt/backports: BRANCHES:[main:6ecbb441fa5f01a88b163e00a0d74ba43386bc42;]|RELEASE:[backports-v6.19|none]
 openwrt/downloads-openwrt-org: BRANCHES:[staging:2f67686b059d32cb21c0f933e661abfeb3be9dd4;main:a220f6f26f5ef3fb2d068d4fc0ffb03ae544f40c;]|RELEASE:[none|none]
 openwrt/qca-ppe: BRANCHES:[main:3041090e0aa1a4d77c7e8c61aba99e5ead7b3b37;pcs-alloc-mem:3041090e0aa1a4d77c7e8c61aba99e5ead7b3b37;mtu:fff0bf97d4b4f8425da09caa6ff4370bf51ed759;]|RELEASE:[none|none]
-openwrt/qca-uniphy: BRANCHES:[cleanup-ipq5018:a3b25d23885ec801df8b5eefa9b7c63eb56b82d0;main:9a92ef9d15de2a93fb87759b27aa29e4c395deae;]|RELEASE:[none|none]
+openwrt/qca-uniphy: BRANCHES:[main:5e2e0757b5a952349a197863b8efbb3e5e374c78;cleanup-ipq5018:a3b25d23885ec801df8b5eefa9b7c63eb56b82d0;]|RELEASE:[none|none]
 openwrt/qca-edma: BRANCHES:[main:c2071ae5682271ada0a7f025679edac9c67050b7;]|RELEASE:[none|none]
 unifreq/amlogic-boot-fip: BRANCHES:[master:59c9b835b401cf3781b0efafbce9cea2c861531d;]|RELEASE:[none|none]
 unifreq/ampart: BRANCHES:[ampart:16406fe8ce549d50e6d6005e2da83adf8ba34bdd;]|RELEASE:[none|none]
