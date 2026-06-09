@@ -4237,3 +4237,4 @@ armbian/rkbin: BRANCHES:[master:6ead9fdef01d3874bc4d6159dd7ff1759e6daa76;odroid-
 armbian/autotests: BRANCHES:[master:afcdb44f87636376150afce0161dcba7f83c1d74;]|RELEASE:[none|none]
 armbian/ci-testing-tools: BRANCHES:[master:a19dfcc4a229a1a3751a75df543c5b6b80a4b448;]|RELEASE:[none|none]
 armbian/rtl8723ds: BRANCHES:[main:cf4b63ae238ccb3727b13b63d760bcd533680c85;]|RELEASE:[none|none]
+armbian/mpads: BRANCHES:[master:d02c182306f1901f0e9f2a55681e2b1ef16e84b2;serial-mux-updated:4e44bcea36e6ab3745f8be36c9a0f9d9d66f3dd4;sd-card-mux-redesign:fd23a6b80af9fb21828e8786bf463ba2d20625b7;add_pic:8f2291c944d9381e274ae0fe5178113da20606c3;]|RELEASE:[none|none]
