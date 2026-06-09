@@ -4235,3 +4235,4 @@ armbian/upload: BRANCHES:[apt.armbian.com:f536a30a2b382d63c7a5c979c344a399c4cdc0
 armbian/testings: BRANCHES:[master:320388cbeb7e7ee5112b6f9c10c5a15f9a81161e;20190624-orangepipcplus-next:9b7e8c5a37c45348e9f1586624d5814d62b0a226;20180902-cubox-i-default:f800a901c67adbdf0942229160a7cb24151524eb;]|RELEASE:[none|none]
 armbian/rkbin: BRANCHES:[master:6ead9fdef01d3874bc4d6159dd7ff1759e6daa76;odroid-m1-hardkernel:382f3355fe7610010963bab1c699e07a95b0db89;rk3399_bl31_v1.30:cd0c2bbc16eba65c6a996809e8026f01f7e435d2;]|RELEASE:[none|none]
 armbian/autotests: BRANCHES:[master:afcdb44f87636376150afce0161dcba7f83c1d74;]|RELEASE:[none|none]
+armbian/ci-testing-tools: BRANCHES:[master:a19dfcc4a229a1a3751a75df543c5b6b80a4b448;]|RELEASE:[none|none]
