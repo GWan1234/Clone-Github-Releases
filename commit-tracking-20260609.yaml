@@ -4247,3 +4247,4 @@ armbian/mirror: BRANCHES:[master:a3f1ecad5c2fe489458c2722f66c766543fd7a64;]|RELE
 armbian/qa: BRANCHES:[main:2b2fdb4c026192ca0f2a95fc054eef0adf9a1da9;]|RELEASE:[none|none]
 armbian/.github: BRANCHES:[master:bbfc3fcaa6dce884d73281d6d545abaa4713ef33;igorpecovnik-patch-1:2b7878e58ca9d296783d26f654b73a8a9cb06106;]|RELEASE:[none|none]
 armbian/distribution: BRANCHES:[master:2dad370cf0d13e0a2df4220fb5cfeaa6d742a119;]|RELEASE:[26.2.1|none]
+armbian/repository: BRANCHES:[main:9728f44d549929f0c00a329a1c83d015eaea3f73;numix:a3f72b7ee42e9863ec35650446971a2255122d01;ghcli:ea6da086741332f920e57c87314b671435b3ac56;vscodium:c3b591b29a2d05afda5eae5e92143f30b5c451c2;repository:ebaeae166160fae337ae48202c3564d7e0cbded9;]|RELEASE:[none|none]
