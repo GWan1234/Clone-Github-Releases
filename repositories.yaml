@@ -1,53 +1,56 @@
 allrepositories:
-  - anzhiyu-c
-  - cockpit-project
-  - hacs
-  - esphome
-  - domoticz
-  - ioBroker
-  - OpenListTeam
-  - Finb
-  - algerkong
-  - ScottSloan
-  - obsproject
-  - antimof
-  - leapbtw
-  - AlistGo
-  - localsend
-  - thelastoutpostworkshop
-  - dr-dolomite
-  - sonocotta
-#  - rednblkx
-  - HomeSpan
-  - Andryushik
+#  - anzhiyu-c
+#  - cockpit-project
+#  - hacs
+#  - esphome
+#  - domoticz
+#  - ioBroker
+#  - OpenListTeam
+#  - Finb
+#  - algerkong
+#  - ScottSloan
+#  - obsproject
+#  - antimof
+#  - leapbtw
+#  - AlistGo
+#  - localsend
+#  - thelastoutpostworkshop
+#  - dr-dolomite
+#  - sonocotta
+##  - rednblkx
+#  - HomeSpan
+#  - Andryushik
+#
+#  - arendst
+#  - Koenkk
+#  - qlwz
+#  - xiaoshi930
+#  - lambilly
+#  - a2633063
+#  - flameshot-org
+#  - rime
+#  - openwrt
+#  - unifreq
+#  - solderparty
+#  - webmin
+#  - antimof
+#  - FDH2
+#  - kanoqwq
+#
+#
+#  - home-assistant
+#  - rustdesk
+#  - xyzroe
+#  - iamromulan
+#
+#  - LilyGO
+#  - Xinyuan-LilyGO
+#  - emqx
+#  - philippe44
+#  - adafruit
 
-  - arendst
-  - Koenkk
-  - qlwz
-  - xiaoshi930
-  - lambilly
-  - a2633063
-  - flameshot-org
-  - rime
-  - openwrt
-  - unifreq
-  - solderparty
-  - webmin
-  - antimof
-  - FDH2
-  - kanoqwq
-
-
-  - home-assistant
-  - rustdesk
-  - xyzroe
-  - iamromulan
-
-  - LilyGO
-  - Xinyuan-LilyGO
-  - emqx
-  - philippe44
-  - adafruit
+exclude:
+  - armbian/cache-next         # 排除某个组织的特定仓库
 
 
 repositories:

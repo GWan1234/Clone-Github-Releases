@@ -494,51 +494,81 @@ jobs:
           }
 
           process_all() {
-            # 1) 按组织/用户列表扫描
-            mapfile -t OWNERS < <(
-              yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
-              | grep -v '^[[:space:]]*#' \
-              | sed '/^[[:space:]]*$/d' || true
-            )
-
-            for O in "${OWNERS[@]}"; do
-              [[ -z "$O" ]] && continue
-              echo -e "\n====================================="
-              echo "==== Scanning owner: $O ===="
-              echo "====================================="
-
-              mapfile -t REPOS < <(get_all_repos "$O" | grep -v '^$' || true)
-              [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos found"; continue; }
-
-              for R in "${REPOS[@]}"; do
-                backup_repo "$R"
-              done
-            done
-
-            # 2) 手动指定的仓库组
-            echo -e "\n====================================="
-            echo "==== Processing manual repositories ===="
-            echo "====================================="
-
-            mapfile -t ALL_KEYS < <(
-              yq -r '.repositories | keys[]' repositories.yaml 2>/dev/null \
-              | grep -v '^[[:space:]]*#' \
-              | sed '/^[[:space:]]*$/d' || true
-            )
-
-            for KEY in "${ALL_KEYS[@]}"; do
-              echo "➡️ Group: $KEY"
-              mapfile -t REPOS < <(
-                yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositories.yaml 2>/dev/null \
-                | grep -v '^[[:space:]]*#' \
-                | sed '/^[[:space:]]*$/d' || true
+              # ====== 新增：加载排除列表 ======
+              local excluded_repos=()
+              mapfile -t excluded_repos < <(
+                  yq -r '.exclude[]?' repositories.yaml 2>/dev/null |
+                  grep -v '^[[:space:]]*#' |
+                  sed '/^[[:space:]]*$/d' || true
               )
-
-              for R in "${REPOS[@]}"; do
-                [[ -z "$R" ]] && continue
-                backup_repo "$R"
+          
+              # 辅助函数：判断仓库是否被排除
+              is_excluded() {
+                  local repo="$1"
+                  for ex in "${excluded_repos[@]}"; do
+                      if [[ "$repo" == "$ex" ]]; then
+                          return 0  # 命中排除
+                      fi
+                  done
+                  return 1  # 未命中
+              }
+              # ================================
+          
+              # 1) 按组织/用户列表扫描
+              mapfile -t OWNERS < <(
+                  yq -r '.allrepositories[]?' repositories.yaml 2>/dev/null \
+                  | grep -v '^[[:space:]]*#' \
+                  | sed '/^[[:space:]]*$/d' || true
+              )
+          
+              for O in "${OWNERS[@]}"; do
+                  [[ -z "$O" ]] && continue
+                  echo -e "\n====================================="
+                  echo "==== Scanning owner: $O ===="
+                  echo "====================================="
+          
+                  mapfile -t REPOS < <(get_all_repos "$O" | grep -v '^$' || true)
+                  [[ ${#REPOS[@]} -eq 0 ]] && { echo "ℹ️ No public repos found"; continue; }
+          
+                  for R in "${REPOS[@]}"; do
+                      # 检查排除
+                      if is_excluded "$R"; then
+                          echo "⛔ Excluded: $R"
+                          continue
+                      fi
+                      backup_repo "$R"
+                  done
               done
-            done
+          
+              # 2) 手动指定的仓库组
+              echo -e "\n====================================="
+              echo "==== Processing manual repositories ===="
+              echo "====================================="
+          
+              mapfile -t ALL_KEYS < <(
+                  yq -r '.repositories | keys[]' repositories.yaml 2>/dev/null \
+                  | grep -v '^[[:space:]]*#' \
+                  | sed '/^[[:space:]]*$/d' || true
+              )
+          
+              for KEY in "${ALL_KEYS[@]}"; do
+                  echo "➡️ Group: $KEY"
+                  mapfile -t REPOS < <(
+                      yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositories.yaml 2>/dev/null \
+                      | grep -v '^[[:space:]]*#' \
+                      | sed '/^[[:space:]]*$/d' || true
+                  )
+          
+                  for R in "${REPOS[@]}"; do
+                      [[ -z "$R" ]] && continue
+                      # 检查排除
+                      if is_excluded "$R"; then
+                          echo "⛔ Excluded: $R"
+                          continue
+                      fi
+                      backup_repo "$R"
+                  done
+              done
           }
 
           process_all
