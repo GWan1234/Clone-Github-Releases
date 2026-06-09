@@ -4246,3 +4246,4 @@ armbian/ansible-collection-armbian: BRANCHES:[main:157e195d548e00b559a3f87edcb29
 armbian/mirror: BRANCHES:[master:a3f1ecad5c2fe489458c2722f66c766543fd7a64;]|RELEASE:[_toolchain|none]
 armbian/qa: BRANCHES:[main:2b2fdb4c026192ca0f2a95fc054eef0adf9a1da9;]|RELEASE:[none|none]
 armbian/.github: BRANCHES:[master:bbfc3fcaa6dce884d73281d6d545abaa4713ef33;igorpecovnik-patch-1:2b7878e58ca9d296783d26f654b73a8a9cb06106;]|RELEASE:[none|none]
+armbian/distribution: BRANCHES:[master:2dad370cf0d13e0a2df4220fb5cfeaa6d742a119;]|RELEASE:[26.2.1|none]
