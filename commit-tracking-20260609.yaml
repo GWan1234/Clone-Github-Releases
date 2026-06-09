@@ -4249,3 +4249,4 @@ armbian/.github: BRANCHES:[master:bbfc3fcaa6dce884d73281d6d545abaa4713ef33;igorp
 armbian/distribution: BRANCHES:[master:2dad370cf0d13e0a2df4220fb5cfeaa6d742a119;]|RELEASE:[26.2.1|none]
 armbian/repository: BRANCHES:[main:9728f44d549929f0c00a329a1c83d015eaea3f73;numix:a3f72b7ee42e9863ec35650446971a2255122d01;ghcli:ea6da086741332f920e57c87314b671435b3ac56;vscodium:c3b591b29a2d05afda5eae5e92143f30b5c451c2;repository:ebaeae166160fae337ae48202c3564d7e0cbded9;]|RELEASE:[none|none]
 armbian/configurator: BRANCHES:[repository:4bcc0ef842150227a1f34275a6b26b9bd7989090;dependabot/github_actions/actions/checkout-4:46f8508fb94cfa51ae0c073e64c1a9cd2ba7f82a;main:d96fea7b1757703846b51a3fb9f7c7659a8ee7aa;bats:8d404c8e2c5738d60abda3a7669a92ad88878e50;]|RELEASE:[20231206-2011|none]
+armbian/gitutils: BRANCHES:[main:bfe563921d84249e89ffbc7290395ff188262a49;]|RELEASE:[latest|none]
