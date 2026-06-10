@@ -4276,3 +4276,4 @@ armbian/test: BRANCHES:[armbianworker-patch-3:1f21ccd6b64e5f5514a18c0d5a866370fe
 armbian/imager: BRANCHES:[main:5603973d6f9ea78a85e14ca55249859a630540d1;feat/create-profile-shortcut:bb7121aa1123051812392825cf6e33f931e7a459;fix/dependabot-github-actions:203f8e9d7c3d76b2949e6e293a21795c508d1127;test:ab1ef1443e7cc6fe07c16d0aec22ce6c389f76f7;dev:f5ef2f3b75b8c0bd8f15847269f768331ebbe63d;act:91fe621d03a6712bb588ff90abc196d8cb8a23bc;fix/egl-error-linux-appimage:af7e6fc2ca854fe948fedb76743e3f28e3732e70;]|RELEASE:[v2.0.0|d1779304b8f5e6505bf405555874eb5e08fae8e1]
 armbian/mtkbin: BRANCHES:[main:ac66548f1c619813aa561d56d998206d3caaffba;]|RELEASE:[none|none]
 armbian/status: BRANCHES:[main:6afa5b5197b81022cfc6662c240f6400dac15c32;]|RELEASE:[none|none]
+armbian/qcombin: BRANCHES:[main:537da4bb0d4d4ea23299ac596fa6c9f099c51ecd;]|RELEASE:[none|none]
