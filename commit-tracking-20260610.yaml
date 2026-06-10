@@ -4277,3 +4277,4 @@ armbian/imager: BRANCHES:[main:5603973d6f9ea78a85e14ca55249859a630540d1;feat/cre
 armbian/mtkbin: BRANCHES:[main:ac66548f1c619813aa561d56d998206d3caaffba;]|RELEASE:[none|none]
 armbian/status: BRANCHES:[main:6afa5b5197b81022cfc6662c240f6400dac15c32;]|RELEASE:[none|none]
 armbian/qcombin: BRANCHES:[main:537da4bb0d4d4ea23299ac596fa6c9f099c51ecd;]|RELEASE:[none|none]
+armbian/website: BRANCHES:[main:99887c9e6c1f41bf71ca35d4bb7d565cd6f8f06c;copilot/check-current-vulnerabilities:3c0cacb356fc84d8b117ef798a72f6b6fbaa9bc4;]|RELEASE:[v0.4.12|99887c9e6c1f41bf71ca35d4bb7d565cd6f8f06c]
