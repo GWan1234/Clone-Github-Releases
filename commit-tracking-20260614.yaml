@@ -1197,7 +1197,7 @@ unifreq/luci: BRANCHES:[master:a817b8800dba5712a4d201a2d1ec9080e947be83;]|RELEAS
 unifreq/luci-app-oled: BRANCHES:[master:55912e415ee4ee6a82e65ccfe189894165991758;]|RELEASE:[none|none]
 unifreq/luci-app-sms-tool: BRANCHES:[master:04971d67c8fd05febd87a89b3a064db020c0e413;]|RELEASE:[none|none]
 unifreq/mpp: BRANCHES:[develop:37145900a208d5ca6eb2adbb0f9bab5d52f38270;]|RELEASE:[none|none]
-unifreq/openwrt_packit: BRANCHES:[master:873a0de15fe93ed2c3ccb46cb2f0fa8a74597c38;]|RELEASE:[none|none]
+unifreq/openwrt_packit: BRANCHES:[master:8007d3efd49bb42aa20c5755a50af21dc7a438e1;]|RELEASE:[none|none]
 unifreq/packages: BRANCHES:[master:da8a3b6feda61cf2421ead9481666004d8e32b90;]|RELEASE:[none|none]
 unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|RELEASE:[none|none]
 unifreq/rk-ubuntu-build: BRANCHES:[main:d2b03311ef8a339fc58449b34e215750709e9eef;]|RELEASE:[ubuntu_trixie-mini_save_2025.12|none]
