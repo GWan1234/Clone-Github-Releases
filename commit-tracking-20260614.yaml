@@ -4428,3 +4428,4 @@ syb999/u-boot-onecloud: BRANCHES:[onecloud:eb93cfa63f39a9e27a72cac78992bce280570
 syb999/u-boot_mod: BRANCHES:[master:c9a6587110424576f9df84e4e5e443a45dd5bc86;]|RELEASE:[none|none]
 syb999/uboot-onecloud: BRANCHES:[main:04cebf40fb349a2bf7b59b4b6dc695abd5b00dcb;]|RELEASE:[none|none]
 syb999/ubuntu-shell: BRANCHES:[master:da541252117820099d953385b6e0ad2193e25751;]|RELEASE:[none|none]
+syb999/WeChatMsg: BRANCHES:[master:c7cf15acf617ae4934f173a9576e5c76bd0712bf;]|RELEASE:[none|none]
