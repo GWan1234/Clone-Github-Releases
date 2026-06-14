@@ -4379,3 +4379,4 @@ syb999/openwrt-jollaman999: BRANCHES:[master:afa2596d56685b41ac74bfeb4463a67c63a
 syb999/openwrt-mt7615: BRANCHES:[master:1d71bfa33dd16756ac27aa9eb2cce1b940cb7456;]|RELEASE:[none|none]
 syb999/openwrt-musl-cups: BRANCHES:[master:229465904feba89e0af6d0626c390d9c0582d95a;]|RELEASE:[none|none]
 syb999/openwrt-musl-ipk: BRANCHES:[master:eb9b9a5c2a31203ad841fd46efd6803f0b1694f7;]|RELEASE:[none|none]
+syb999/openwrt-npc: BRANCHES:[master:7aa20547dc52d7ffa9bfa97e04ca9af5022d542d;]|RELEASE:[none|none]
