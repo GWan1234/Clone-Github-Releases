@@ -4395,3 +4395,4 @@ syb999/openwrtbb: BRANCHES:[master:24f647e1b028c3fa52b5b592b1f792bd7325f6be;]|RE
 syb999/openwrt_rtk: BRANCHES:[master:d237e45ee480ee7e75c80a4c61e1a335a0a77755;]|RELEASE:[none|none]
 syb999/oui: BRANCHES:[gh-pages:6818f72989fd803267cf3120cf79cab142198235;master:023b9bee9d42932b3c3b4b303c3da4aa55b8fc3c;]|RELEASE:[none|none]
 syb999/packages: BRANCHES:[master:5889266bcdb284e8e93e9902c42198f5c5ddd458;]|RELEASE:[none|none]
+syb999/packages-15.05.1: BRANCHES:[dependabot/pip/lang/python/host-pip-requirements/django-4.2.30:a45f6f92ad146c0f3bf5393dd8b8dc6f9e0d9c85;master:be4df1194bfc541f23a0195e3c8a23e1c230e018;heads/release-2023:f847d66da9b797e5e8b3fc0699a5564013f92ddb;]|RELEASE:[none|none]
