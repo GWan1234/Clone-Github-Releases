@@ -4426,3 +4426,4 @@ syb999/tenda-reverse: BRANCHES:[master:ee01d368dd9f4652f34cd7dfaad1f97528e95be5;
 syb999/tessdat: BRANCHES:[main:2acc4eab05c8cfe63c2a23b3e6ce7b274f6e4cf6;]|RELEASE:[none|none]
 syb999/u-boot-onecloud: BRANCHES:[onecloud:eb93cfa63f39a9e27a72cac78992bce280570b22;]|RELEASE:[none|none]
 syb999/u-boot_mod: BRANCHES:[master:c9a6587110424576f9df84e4e5e443a45dd5bc86;]|RELEASE:[none|none]
+syb999/uboot-onecloud: BRANCHES:[main:04cebf40fb349a2bf7b59b4b6dc695abd5b00dcb;]|RELEASE:[none|none]
