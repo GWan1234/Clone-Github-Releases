@@ -4412,3 +4412,4 @@ syb999/PPPwn_WRT: BRANCHES:[main:5a36c2f711da6c9c3a10fc118494c6ffa07b4912;]|RELE
 syb999/pyenv: BRANCHES:[master:3f2ef9e00afcdca2aadd07a4294269291dd8cc62;]|RELEASE:[none|none]
 syb999/python3-scripts: BRANCHES:[master:356ba83c61648d1bbcdb63d576fd51c18b17c1ed;]|RELEASE:[none|none]
 syb999/pywin32: BRANCHES:[master:7025a465c8d91a0d8b8cd9604199eaeadb3fc2fe;gen_py_temp_dir:b7b46f1155d1dfa7a21b30ee70a1613c1163e8e3;salted_test_environment:90a306a0eb179824ff215b95ae71a77e6596d6d7;]|RELEASE:[none|none]
+syb999/qrcode_barcode_detection: BRANCHES:[master:3f80b0b00a63b300aad34c84d2eba53722fb4b23;]|RELEASE:[none|none]
