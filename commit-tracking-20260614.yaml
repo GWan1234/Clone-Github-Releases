@@ -4388,3 +4388,4 @@ syb999/openwrt-uclibc-asterisk-gui: BRANCHES:[master:ffa2ec1b68ad656dfed1945a115
 syb999/openwrt-uclibc-cups: BRANCHES:[master:be97e44e660466e2e03bf4aa3f261cee0b24eaaf;]|RELEASE:[none|none]
 syb999/openwrt-uclibc-koolproxyR: BRANCHES:[master:4cf1bd7a08e8accf483f2575f83acc0bc53aa0f2;]|RELEASE:[none|none]
 syb999/openwrt-uclibc-mpg123: BRANCHES:[master:fae9958944150f4c4d8e1f1872c3749672ffbdd0;]|RELEASE:[none|none]
+syb999/openwrt-uclibc-usbip: BRANCHES:[master:f562bd2068b75937431308a542acb5f22db05421;]|RELEASE:[none|none]
