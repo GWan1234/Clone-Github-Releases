@@ -4322,3 +4322,4 @@ syb999/lede: BRANCHES:[master:732330371ba7ac86f369461cbdd926e9dc1d4e77;]|RELEASE
 syb999/lede-17.01.2: BRANCHES:[master:34cb2b550dc1366292197b05b0d2338b2b2fa87e;lede-17.01.2:5d7a0df5602d0ba4508e951574b69b632c1f0296;]|RELEASE:[none|none]
 syb999/lede-17.01.4-Mod: BRANCHES:[master:cffccff315a9897c5a6212bbed701aff120125ea;]|RELEASE:[none|none]
 syb999/luci: BRANCHES:[master:7bcfdb92348a008c0f4755f398f37693ecb279e3;]|RELEASE:[none|none]
+syb999/luci-1: BRANCHES:[master:a0b788d338d90cc6a8f69b02704c08291d823f9d;]|RELEASE:[none|none]
