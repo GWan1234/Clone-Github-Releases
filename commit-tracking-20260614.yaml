@@ -4312,3 +4312,4 @@ syb999/gmrender-resurrect: BRANCHES:[c++-conversion:93b1ebe6ffbd128b4a4014219863
 syb999/gnb_udp_over_tcp: BRANCHES:[master:fa4fef32de2d254a5768511c3d80dc4dceb8d564;]|RELEASE:[none|none]
 syb999/Gooey: BRANCHES:[master:be4b11b8f27f500e7326711641755ad44576d408;]|RELEASE:[none|none]
 syb999/gpio-pwm-ar9331: BRANCHES:[master:5fcdce2db67e48f74268e554974f850815cdf5d9;]|RELEASE:[none|none]
+syb999/HearthstoneCard: BRANCHES:[master:2d50701e31420a9b8ffd4dd108e8e053021349b0;]|RELEASE:[none|none]
