@@ -4383,3 +4383,4 @@ syb999/openwrt-npc: BRANCHES:[master:7aa20547dc52d7ffa9bfa97e04ca9af5022d542d;]|
 syb999/openwrt-nps: BRANCHES:[master:45ef6f124487da347f6b990b56ea9b36aa4a1a39;]|RELEASE:[none|none]
 syb999/openwrt-other-package: BRANCHES:[master:a039ecd9f00ba22360023ad578f2e61ca71724ad;]|RELEASE:[none|none]
 syb999/openwrt-tenda-w12: BRANCHES:[master:a919c025d099aa845d25aba000f29962d0e8508e;]|RELEASE:[none|none]
+syb999/openwrt-uclibc-aria2: BRANCHES:[master:edcc71e962162dd9cfe5c3d7b8c007a846f4775d;]|RELEASE:[none|none]
