@@ -4346,3 +4346,4 @@ syb999/MoneyPrinterTurbo: BRANCHES:[main:0ae5fb4de2d52984d801596784bcf566671b6b4
 syb999/mt76: BRANCHES:[master:3ea5da1639fe18a18295e381cd4fcd84faa82579;wip:f155ab86e6b05a6212a1f1fe180b266d3cf07738;openwrt-19.07:08054d5ab1350fcb8563feb90e6ab7f8f4a0a1b7;compat:a8858d0fba81eccd6683503bb298bd41f13c4d75;openwrt-18.06:053e76cc46f97ce0f2c8aba21e45c475fd40d9d7;lede-17.01:05bfc1ae7f36a9dfcb81b1f132d56a65f102f212;]|RELEASE:[none|none]
 syb999/mt7628-aes: BRANCHES:[master:fec0e5e1bf21e52e96cbfaa842c902de0f2abf61;]|RELEASE:[none|none]
 syb999/mtk-eip93: BRANCHES:[master:f3eb7cca47cb94648c108de7fcf2cf4483d32496;old:b2d7edf7bf40da81f63e82ca4c82f18ab6908ea0;]|RELEASE:[none|none]
+syb999/mtketh: BRANCHES:[master:f58e3e4f3acc3f2bf4417fca5014f8b4f20ce9ac;]|RELEASE:[none|none]
