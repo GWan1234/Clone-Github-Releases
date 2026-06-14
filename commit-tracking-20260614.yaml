@@ -4315,3 +4315,4 @@ syb999/gpio-pwm-ar9331: BRANCHES:[master:5fcdce2db67e48f74268e554974f850815cdf5d
 syb999/HearthstoneCard: BRANCHES:[master:2d50701e31420a9b8ffd4dd108e8e053021349b0;]|RELEASE:[none|none]
 syb999/iptables-raw-POSTROUTING: BRANCHES:[master:c5c2c3996826bb09fe8a1f1a556dc31691a91934;]|RELEASE:[none|none]
 syb999/kernel: BRANCHES:[main:a09319bab976b845ce920a12c1f6df4e64155cd4;]|RELEASE:[none|none]
+syb999/kivy_AssetManagement: BRANCHES:[main:9f7186f926f2e87ab36dcb9f4986a3111b9cf285;]|RELEASE:[2025-08-12|none]
