@@ -4330,3 +4330,4 @@ syb999/luci-22.03: BRANCHES:[master:953a58688f42026ba02341b4fc74ff5c303d5336;]|R
 syb999/luci-23.05: BRANCHES:[master:354611cc631fd90602af4993c9768d73b6ea4263;]|RELEASE:[none|none]
 syb999/luci-23.05.3: BRANCHES:[master:cd5ff2474535d4e26407a8ea8b812ac904641af8;]|RELEASE:[none|none]
 syb999/luci-24.10: BRANCHES:[master:afe2fa27e51f94226cb0db94a71bab26842274df;]|RELEASE:[none|none]
+syb999/luci-app-adguardhome: BRANCHES:[master:4c2995d3b40f90f33317c7724120f8cc40a67efe;]|RELEASE:[none|none]
