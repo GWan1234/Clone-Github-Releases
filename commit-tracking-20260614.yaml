@@ -4319,3 +4319,4 @@ syb999/kivy_AssetManagement: BRANCHES:[main:9f7186f926f2e87ab36dcb9f4986a3111b9c
 syb999/kivy_exam: BRANCHES:[main:ac9860db0e00516f1527943c1465878dc4aa435a;]|RELEASE:[2025-08-03|none]
 syb999/lama-cleaner: BRANCHES:[main:cc67436cbf29d4386a024083c2dee1ed94908a2e;]|RELEASE:[none|none]
 syb999/lede: BRANCHES:[master:732330371ba7ac86f369461cbdd926e9dc1d4e77;]|RELEASE:[none|none]
+syb999/lede-17.01.2: BRANCHES:[master:34cb2b550dc1366292197b05b0d2338b2b2fa87e;lede-17.01.2:5d7a0df5602d0ba4508e951574b69b632c1f0296;]|RELEASE:[none|none]
