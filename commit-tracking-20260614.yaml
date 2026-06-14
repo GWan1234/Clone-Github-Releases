@@ -4327,3 +4327,4 @@ syb999/luci-15.05.1: BRANCHES:[master:c8660341d8dee17f27ae57bf1eda017b7794bbe8;h
 syb999/luci-17.01: BRANCHES:[master:b95a0c104dd59e5da82b5557a1fa6fef6b0a9a85;]|RELEASE:[none|none]
 syb999/luci-19.07.1: BRANCHES:[master:03b56d0f2ae4158807fe681c7fc1c55625eff716;]|RELEASE:[none|none]
 syb999/luci-22.03: BRANCHES:[master:953a58688f42026ba02341b4fc74ff5c303d5336;]|RELEASE:[none|none]
+syb999/luci-23.05: BRANCHES:[master:354611cc631fd90602af4993c9768d73b6ea4263;]|RELEASE:[none|none]
