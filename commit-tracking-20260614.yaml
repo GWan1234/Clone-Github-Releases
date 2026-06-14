@@ -4362,3 +4362,4 @@ syb999/openwrt-19.07.0: BRANCHES:[master:a5dcba6987bf351d075aeed8df2e6e867e9446d
 syb999/openwrt-19.07.0-rc1: BRANCHES:[master:7adb808f1a56511311c37d345fd47ad4f0d3ac61;]|RELEASE:[none|none]
 syb999/openwrt-19.07.1: BRANCHES:[master:f48d0a263d021e3c5cb2baf3d7f402ff4cf6d7ff;]|RELEASE:[none|none]
 syb999/openwrt-21.02.0: BRANCHES:[main:9630d57dc96b9ba5042312c5bf85c2c2c1e87220;]|RELEASE:[none|none]
+syb999/openwrt-21.02.2-caddy: BRANCHES:[main:e2d5264d4eb42c36aeb77619d05f0a193079a5f7;]|RELEASE:[none|none]
