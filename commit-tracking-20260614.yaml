@@ -4359,3 +4359,4 @@ syb999/openwrt-15.05-ea4500-web: BRANCHES:[master:50d78a587d9681cbc6c4a4ba6f1b35
 syb999/openwrt-18.06: BRANCHES:[master:c3f01a61a0dede29dee884f4e391022f51783963;]|RELEASE:[none|none]
 syb999/openwrt-18.06.7: BRANCHES:[master:f86441511590449a057754baa8ccfad7b2d17e94;]|RELEASE:[none|none]
 syb999/openwrt-19.07.0: BRANCHES:[master:a5dcba6987bf351d075aeed8df2e6e867e9446dc;]|RELEASE:[none|none]
+syb999/openwrt-19.07.0-rc1: BRANCHES:[master:7adb808f1a56511311c37d345fd47ad4f0d3ac61;]|RELEASE:[none|none]
