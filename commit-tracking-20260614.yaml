@@ -4373,3 +4373,4 @@ syb999/openwrt-24.10.2: BRANCHES:[master:6158423bb7eec98a10039ad7bb24255873c1089
 syb999/openwrt-24.10.5: BRANCHES:[master:ee0a49cf8f36778e747671c64b6e88a18b9b3a3f;]|RELEASE:[release-2026|none]
 syb999/openwrt-AC10: BRANCHES:[openwrt-18.06-rtkmipsel-3.18:fc2a97e67043e63634c1e575c00921bd90213bea;]|RELEASE:[none|none]
 syb999/openwrt-caddy: BRANCHES:[master:eb4365904c4cfc7bd97195930426a0d960a1e685;]|RELEASE:[none|none]
+syb999/openwrt-caddy2: BRANCHES:[master:717fb36f0f5d4ec963e5f7afa375fd575b405252;]|RELEASE:[none|none]
