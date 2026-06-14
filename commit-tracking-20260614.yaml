@@ -4421,3 +4421,4 @@ syb999/sh-tel-iptv-spider: BRANCHES:[heads/main:84342e1737f9cde70602658d1c8f0a50
 syb999/smartdns: BRANCHES:[master:fcf67cb10c3ea87858cb4b0e5d84f13d89cff2b0;]|RELEASE:[none|none]
 syb999/telecomadmin-superman: BRANCHES:[master:7c8fc507e17d4ce0edd4b24ea83becf22a70a2ad;]|RELEASE:[none|none]
 syb999/telephony-15.05.1: BRANCHES:[master:353e0d17196bb966d693de0d12158bee2974ed00;]|RELEASE:[none|none]
+syb999/telephony-17.01: BRANCHES:[master:a417e7add87169295a4de3b1141b0e9c27bfac9f;]|RELEASE:[none|none]
