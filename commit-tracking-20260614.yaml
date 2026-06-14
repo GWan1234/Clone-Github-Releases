@@ -4391,3 +4391,4 @@ syb999/openwrt-uclibc-mpg123: BRANCHES:[master:fae9958944150f4c4d8e1f1872c374967
 syb999/openwrt-uclibc-usbip: BRANCHES:[master:f562bd2068b75937431308a542acb5f22db05421;]|RELEASE:[none|none]
 syb999/openwrt-uclibc-wireguard: BRANCHES:[master:1f728ac8078a24da4b7446fe40f69eaaf4eb5774;]|RELEASE:[none|none]
 syb999/openwrt-udp2raw: BRANCHES:[master:dbd4dd8413968683c5a55a30dae7467951f468a4;]|RELEASE:[none|none]
+syb999/openwrtbb: BRANCHES:[master:24f647e1b028c3fa52b5b592b1f792bd7325f6be;]|RELEASE:[none|none]
