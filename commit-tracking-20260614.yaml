@@ -4404,3 +4404,4 @@ syb999/packages-23.05.3: BRANCHES:[master:7d4a37ea630430f300d7796abc9f46bdcf444d
 syb999/packages-24.10: BRANCHES:[master:dad19026f1c2c764dd4162e5c59a4457da9d6891;]|RELEASE:[none|none]
 syb999/packages-openwrt-21.02: BRANCHES:[master:c8135dfa45957fb2dffb397119931827041e69a0;]|RELEASE:[none|none]
 syb999/pascal-1000y: BRANCHES:[master:f4eb7cc4b5ffe4cff4ecbe152057039da23f4fb2;]|RELEASE:[none|none]
+syb999/pdf2csv-converter: BRANCHES:[master:d5df687b3a54e74d53fc65bcb323fb802d505d94;]|RELEASE:[none|none]
