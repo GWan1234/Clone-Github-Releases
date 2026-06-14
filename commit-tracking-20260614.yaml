@@ -4347,3 +4347,4 @@ syb999/mt76: BRANCHES:[master:3ea5da1639fe18a18295e381cd4fcd84faa82579;wip:f155a
 syb999/mt7628-aes: BRANCHES:[master:fec0e5e1bf21e52e96cbfaa842c902de0f2abf61;]|RELEASE:[none|none]
 syb999/mtk-eip93: BRANCHES:[master:f3eb7cca47cb94648c108de7fcf2cf4483d32496;old:b2d7edf7bf40da81f63e82ca4c82f18ab6908ea0;]|RELEASE:[none|none]
 syb999/mtketh: BRANCHES:[master:f58e3e4f3acc3f2bf4417fca5014f8b4f20ce9ac;]|RELEASE:[none|none]
+syb999/mud: BRANCHES:[master:cbd2e3d4165b5270d54e1977e1a4e3b98083ad58;5.12:1206879661b721803ff15beec277d454b2b7b919;]|RELEASE:[none|none]
