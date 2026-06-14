@@ -4300,3 +4300,4 @@ syb999/cache-domains: BRANCHES:[master:18550ee283dccfae831065e1296163e397d27775;
 syb999/caddy-v1-webdav: BRANCHES:[master:00c768f82f96b0a7280332cab2b39e4d56e9a244;]|RELEASE:[none|none]
 syb999/cc-upx: BRANCHES:[master:35a4fa2b8fffd0d87c7fe46ecc64758b152bbdf8;]|RELEASE:[none|none]
 syb999/Chrome-Charset: BRANCHES:[master:782a97afe72bdddbe93b0bf6b47300a3b68a4c5b;]|RELEASE:[none|none]
+syb999/copy-fail-CVE-2026-31431: BRANCHES:[main:09e97bd8f1aa3868b720a7a12a60b1c365798e06;]|RELEASE:[none|none]
