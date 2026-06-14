@@ -4289,3 +4289,4 @@ syb999/amlogic-s9xxx-openwrt: BRANCHES:[main:4027e89bc3760ece5497b3a54248098c0e3
 syb999/android-apk: BRANCHES:[master:5a962547e897418d16dee9364c73c3dde33b02e4;]|RELEASE:[none|none]
 syb999/anti-AD: BRANCHES:[master:cc5efefd799a5d282feba9a449530f00ea684cbb;dev:92c83e1e9995884e08e007bcbe943d7ba62de9c1;]|RELEASE:[none|none]
 syb999/apfree_wifidog: BRANCHES:[master:fb87cbea600a563f8a353cd091c760f626efdf8a;v2.10.1437:e2b34069a5f5b6bb15090f28893b3d90b86dcfb7;apple_wisper_bypass:2a87b9946ce63607850356a7fc68eb0cd6c07f04;]|RELEASE:[none|none]
+syb999/asterisk-gui2.0: BRANCHES:[master:ef69f635332adbad32affdb60784cad33ac8d4cb;]|RELEASE:[none|none]
