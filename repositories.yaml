@@ -49,6 +49,7 @@ allrepositories:
 #  - philippe44
 #  - adafruit
   - armbian
+  - syb999
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
