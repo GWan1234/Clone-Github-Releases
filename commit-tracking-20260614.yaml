@@ -4376,3 +4376,4 @@ syb999/openwrt-caddy: BRANCHES:[master:eb4365904c4cfc7bd97195930426a0d960a1e685;
 syb999/openwrt-caddy2: BRANCHES:[master:717fb36f0f5d4ec963e5f7afa375fd575b405252;]|RELEASE:[none|none]
 syb999/openwrt-iptvhelper: BRANCHES:[master:08bde17d774921b3efa05f8e2e1d1a1adfaa7d20;]|RELEASE:[none|none]
 syb999/openwrt-jollaman999: BRANCHES:[master:afa2596d56685b41ac74bfeb4463a67c63a790af;test:be344d01968f84b4e8c03b70306a05ee2185856a;ar71xx_linux-4.14:68df2ce7f4fd1a028dc47ef422fe4d77310d8388;]|RELEASE:[none|none]
+syb999/openwrt-mt7615: BRANCHES:[master:1d71bfa33dd16756ac27aa9eb2cce1b940cb7456;]|RELEASE:[none|none]
