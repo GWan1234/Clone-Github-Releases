@@ -4308,3 +4308,4 @@ syb999/dl: BRANCHES:[barrier_breaker:1fa0f122d7e2619b15039060d4b10c378ed81e72;ch
 syb999/fluffos: BRANCHES:[v2019:dc9a507c30476614984bea57b5458cf5b2c95818;master:d067c75333dde9f4f442b4364d12443e40cf7dfe;v2017:70542372169a310daa99818efcefb7348c662f85;experimental:97d03a5b286dcc01bc12e868820cbe280ee86286;coverity_scan:4425a66530e00b9eba3b987ff289f19cd85a7e26;v2.27:def765c7f659d6f713aba5747edaf1d417eb05f4;]|RELEASE:[none|none]
 syb999/FreeGPT35: BRANCHES:[main:0ff47d931688a89a3b3690e0ce7997f32f9ab9ab;]|RELEASE:[none|none]
 syb999/gitea-openwrt: BRANCHES:[main:84d0a87b296124b3d25d6fd22b78450d58a6550d;]|RELEASE:[none|none]
+syb999/gmrender-resurrect: BRANCHES:[c++-conversion:93b1ebe6ffbd128b4a401421986376ae96dc2d7c;experimental-xmldoc2:8b583d027fcf0ce2f926b2dbb35b852ac6f0aefe;master:26d8f7edf5336bc30f7334c6ad459bf7f4f90ff2;]|RELEASE:[none|none]
