@@ -4282,3 +4282,4 @@ armbian/MorseMicro-DKMS: BRANCHES:[main:0d704a8ece8fc1124e79f15ca046c32565389091
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:4037aa2c8abbccd7f78c04eea5f138bb0feecf3c;airoha:9dec1130a14a47bee092342bc99c29577c9aeccb;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36;]|RELEASE:[2026.06.05-0921-all|none]
 syb999/-composer: BRANCHES:[master:4df7294d5a0e0ee725dab9f62141cf287b5c8d6d;]|RELEASE:[none|none]
 syb999/1000y: BRANCHES:[master:90ef37e6c0fe41012912c402a5fe55003ef9fa0a;imgbot:188241b413390060ed829d0cb8a5a0a0d1a59de4;]|RELEASE:[none|none]
+syb999/1000yTGS: BRANCHES:[master:8e18a81f588c3fdc66ab5ab29eec5f818e319b5b;]|RELEASE:[none|none]
