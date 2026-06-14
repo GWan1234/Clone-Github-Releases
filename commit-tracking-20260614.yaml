@@ -4299,3 +4299,4 @@ syb999/build: BRANCHES:[main:a74288e106dfa830ef0b17d94c0c8e2103289625;]|RELEASE:
 syb999/cache-domains: BRANCHES:[master:18550ee283dccfae831065e1296163e397d27775;]|RELEASE:[none|none]
 syb999/caddy-v1-webdav: BRANCHES:[master:00c768f82f96b0a7280332cab2b39e4d56e9a244;]|RELEASE:[none|none]
 syb999/cc-upx: BRANCHES:[master:35a4fa2b8fffd0d87c7fe46ecc64758b152bbdf8;]|RELEASE:[none|none]
+syb999/Chrome-Charset: BRANCHES:[master:782a97afe72bdddbe93b0bf6b47300a3b68a4c5b;]|RELEASE:[none|none]
