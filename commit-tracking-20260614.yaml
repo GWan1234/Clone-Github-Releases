@@ -4425,3 +4425,4 @@ syb999/telephony-17.01: BRANCHES:[master:a417e7add87169295a4de3b1141b0e9c27bfac9
 syb999/tenda-reverse: BRANCHES:[master:ee01d368dd9f4652f34cd7dfaad1f97528e95be5;]|RELEASE:[none|none]
 syb999/tessdat: BRANCHES:[main:2acc4eab05c8cfe63c2a23b3e6ce7b274f6e4cf6;]|RELEASE:[none|none]
 syb999/u-boot-onecloud: BRANCHES:[onecloud:eb93cfa63f39a9e27a72cac78992bce280570b22;]|RELEASE:[none|none]
+syb999/u-boot_mod: BRANCHES:[master:c9a6587110424576f9df84e4e5e443a45dd5bc86;]|RELEASE:[none|none]
