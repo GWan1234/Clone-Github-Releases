@@ -4365,3 +4365,4 @@ syb999/openwrt-21.02.0: BRANCHES:[main:9630d57dc96b9ba5042312c5bf85c2c2c1e87220;
 syb999/openwrt-21.02.2-caddy: BRANCHES:[main:e2d5264d4eb42c36aeb77619d05f0a193079a5f7;]|RELEASE:[none|none]
 syb999/openwrt-21.02.5: BRANCHES:[master:d3831a6806a9b4d85d0248a04283ab6c7084a829;]|RELEASE:[release-2026|none]
 syb999/openwrt-22.03.0: BRANCHES:[master:cce7768613c99f1092f1ca546797eef5e5e5bb0d;]|RELEASE:[none|none]
+syb999/openwrt-22.03.5: BRANCHES:[master:2328bb4de0771f51115c4f5780937d280e6fde84;]|RELEASE:[none|none]
