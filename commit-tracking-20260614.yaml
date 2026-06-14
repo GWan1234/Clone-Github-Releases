@@ -4368,3 +4368,4 @@ syb999/openwrt-22.03.0: BRANCHES:[master:cce7768613c99f1092f1ca546797eef5e5e5bb0
 syb999/openwrt-22.03.5: BRANCHES:[master:2328bb4de0771f51115c4f5780937d280e6fde84;]|RELEASE:[none|none]
 syb999/openwrt-23.05.0: BRANCHES:[master:df67fe6b490029d1c0f4e6e768e9a1d10e2adb10;fast-path:ab87aeefea6740b5b3bfc0d145b4326a04b3364c;]|RELEASE:[none|none]
 syb999/openwrt-23.05.3: BRANCHES:[master:f92d991233f666d06d7d3947773d44ff7ffc14ee;]|RELEASE:[none|none]
+syb999/openwrt-24.10.0: BRANCHES:[master:d634304cd6845f52b1f9b3ff068194035806c02d;]|RELEASE:[none|none]
