@@ -4418,3 +4418,4 @@ syb999/routing-17.01: BRANCHES:[master:82fce270ec029ba3243523626cc9583ce2f55b88;
 syb999/rt-n56u: BRANCHES:[master:6cc609d0b91e1e362412858bd41ecb5cd7e091dd;]|RELEASE:[none|none]
 syb999/sf16a18-sdk-4.2.10: BRANCHES:[master:f6a3f3c4f1a986e4baea6c0e74e490e6326e576c;]|RELEASE:[none|none]
 syb999/sh-tel-iptv-spider: BRANCHES:[heads/main:84342e1737f9cde70602658d1c8f0a50601b6653;]|RELEASE:[main|none]
+syb999/smartdns: BRANCHES:[master:fcf67cb10c3ea87858cb4b0e5d84f13d89cff2b0;]|RELEASE:[none|none]
