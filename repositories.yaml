@@ -1,53 +1,53 @@
 allrepositories:
-#  - anzhiyu-c
-#  - cockpit-project
-#  - hacs
-#  - esphome
-#  - domoticz
-#  - ioBroker
-#  - OpenListTeam
-#  - Finb
-#  - algerkong
-#  - ScottSloan
-#  - obsproject
-#  - antimof
-#  - leapbtw
-#  - AlistGo
-#  - localsend
-#  - thelastoutpostworkshop
-#  - dr-dolomite
-#  - sonocotta
-##  - rednblkx
-#  - HomeSpan
-#  - Andryushik
-#
-#  - arendst
-#  - Koenkk
-#  - qlwz
-#  - xiaoshi930
-#  - lambilly
-#  - a2633063
-#  - flameshot-org
-#  - rime
-#  - openwrt
-#  - unifreq
-#  - solderparty
-#  - webmin
-#  - antimof
-#  - FDH2
-#  - kanoqwq
-#
-#
-#  - home-assistant
-#  - rustdesk
-#  - xyzroe
-#  - iamromulan
-#
-#  - LilyGO
-#  - Xinyuan-LilyGO
-#  - emqx
-#  - philippe44
-#  - adafruit
+  - anzhiyu-c
+  - cockpit-project
+  - hacs
+  - esphome
+  - domoticz
+  - ioBroker
+  - OpenListTeam
+  - Finb
+  - algerkong
+  - ScottSloan
+  - obsproject
+  - antimof
+  - leapbtw
+  - AlistGo
+  - localsend
+  - thelastoutpostworkshop
+  - dr-dolomite
+  - sonocotta
+#  - rednblkx
+  - HomeSpan
+  - Andryushik
+
+  - arendst
+  - Koenkk
+  - qlwz
+  - xiaoshi930
+  - lambilly
+  - a2633063
+  - flameshot-org
+  - rime
+  - openwrt
+  - unifreq
+  - solderparty
+  - webmin
+  - antimof
+  - FDH2
+  - kanoqwq
+
+
+  - home-assistant
+  - rustdesk
+  - xyzroe
+  - iamromulan
+
+  - LilyGO
+  - Xinyuan-LilyGO
+  - emqx
+  - philippe44
+  - adafruit
   - armbian
   - syb999
 
