@@ -4378,3 +4378,4 @@ syb999/openwrt-iptvhelper: BRANCHES:[master:08bde17d774921b3efa05f8e2e1d1a1adfaa
 syb999/openwrt-jollaman999: BRANCHES:[master:afa2596d56685b41ac74bfeb4463a67c63a790af;test:be344d01968f84b4e8c03b70306a05ee2185856a;ar71xx_linux-4.14:68df2ce7f4fd1a028dc47ef422fe4d77310d8388;]|RELEASE:[none|none]
 syb999/openwrt-mt7615: BRANCHES:[master:1d71bfa33dd16756ac27aa9eb2cce1b940cb7456;]|RELEASE:[none|none]
 syb999/openwrt-musl-cups: BRANCHES:[master:229465904feba89e0af6d0626c390d9c0582d95a;]|RELEASE:[none|none]
+syb999/openwrt-musl-ipk: BRANCHES:[master:eb9b9a5c2a31203ad841fd46efd6803f0b1694f7;]|RELEASE:[none|none]
