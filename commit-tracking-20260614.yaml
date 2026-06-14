@@ -4324,3 +4324,4 @@ syb999/lede-17.01.4-Mod: BRANCHES:[master:cffccff315a9897c5a6212bbed701aff120125
 syb999/luci: BRANCHES:[master:7bcfdb92348a008c0f4755f398f37693ecb279e3;]|RELEASE:[none|none]
 syb999/luci-1: BRANCHES:[master:a0b788d338d90cc6a8f69b02704c08291d823f9d;]|RELEASE:[none|none]
 syb999/luci-15.05.1: BRANCHES:[master:c8660341d8dee17f27ae57bf1eda017b7794bbe8;heads/release-2023:4327f23edb00289bc94e4f369286f625e889d050;]|RELEASE:[none|none]
+syb999/luci-17.01: BRANCHES:[master:b95a0c104dd59e5da82b5557a1fa6fef6b0a9a85;]|RELEASE:[none|none]
