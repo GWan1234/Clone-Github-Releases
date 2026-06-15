@@ -1378,7 +1378,7 @@ adafruit/Adafruit_AM2315: BRANCHES:[master:7f52340f38ce714f00ce47de39fd50c82e409
 adafruit/adafruit_flora_game_controller: BRANCHES:[master:bb1621ab2839846d799061c408b1d522443e7ea5;]|RELEASE:[none|none]
 adafruit/Adafruit_TCS34725: BRANCHES:[master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-pages:2902921a50b4b9c136dd39291cb157b8995502ec;]|RELEASE:[1.4.4|none]
 adafruit/Adafruit_ADXL345_PCB: BRANCHES:[master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de;]|RELEASE:[none|none]
-adafruit/Adafruit-Retrogame: BRANCHES:[master:89b32aff4e971d4ecd057d1359699eebbf3df8f5;mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;]|RELEASE:[none|none]
+adafruit/Adafruit-Retrogame: BRANCHES:[master:44fc838bd4dc6d12ea97fc456c22d0f4e0a2453b;mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;]|RELEASE:[none|none]
 adafruit/Sous_Viduino: BRANCHES:[master:b1b71a4316e9789541d4926df6983e5703d32f68;]|RELEASE:[none|none]
 adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:cf306ed7f9f24111d0949dd60ac232e81241bffe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;]|RELEASE:[1.2.0|none]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;]|RELEASE:[none|none]
