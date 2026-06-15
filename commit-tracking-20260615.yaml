@@ -4194,7 +4194,7 @@ rime/tests: BRANCHES:[main:9e31ead4cf4fdb398662cb7bb06a0966b6bba222;]|RELEASE:[n
 Xinyuan-LilyGO/T-MixRF: BRANCHES:[main:3981cc34e4720b80d171b9ace7db533109b3f872;]|RELEASE:[none|none]
 adafruit/Sensor_Locked_Secrets_Encryptor: BRANCHES:[main:1d05330c4b9130f8e4814e8a7216686b3d15a7e6;]|RELEASE:[none|none]
 domoticz/.github: BRANCHES:[main:daad401807a4548f4dd6bd02417b86e67205b1cf;]|RELEASE:[none|none]
-Xinyuan-LilyGO/SlFli-SDK-Lilygo: BRANCHES:[master:8b7d2f78c0a184b077906c9f4d407f8967ef770c;]|RELEASE:[none|none]
+Xinyuan-LilyGO/SlFli-SDK-Lilygo: BRANCHES:[master:6835fb18a306e2923aeccaf7db9be8654851f374;]|RELEASE:[none|none]
 lambilly/MQTT-Bridge: BRANCHES:[main:9575cdc6f340de3175ed74bc1b19ca8f3db7bb84;]|RELEASE:[none|none]
 adafruit/esp-harness: BRANCHES:[main:b4099a8ec48bdd6b5b5cecf16cb5ddb643be2a9e;]|RELEASE:[none|none]
 iamromulan/autoupgrade: BRANCHES:[main:cb58c7fbd50da6998d64baf6a8e2d89b00a82c03;]|RELEASE:[v0.5.2|none]
