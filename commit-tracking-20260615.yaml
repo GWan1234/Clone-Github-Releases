@@ -3982,7 +3982,7 @@ emqx/neuronex-builder: BRANCHES:[main:fe5881897ce7308133118ff5432cc02bf968f14a;d
 emqx/emqx_mcp_bridge: BRANCHES:[session-life-time:94561d1f8126b87ac933d0e80b34f547f94f9caa;main:19f58003fbb01c6e8c5cefca7a5e69180a95dc33;]|RELEASE:[1.0.14|19f58003fbb01c6e8c5cefca7a5e69180a95dc33]
 emqx/emqx-on-k8s-argocd: BRANCHES:[master:bd6375e051c52285a376bb507c1961a9fe586a0a;]|RELEASE:[none|none]
 emqx/greptimedb-ingester-erlnif: BRANCHES:[main:c69d0f80f878e98ddd1f7c0dca3cb7129756d21c;]|RELEASE:[0.1.10|none]
-emqx/greptimedb-ingester-rust: BRANCHES:[main:a3aacae6cfc42347e21627bf4fcd57fce0bfc48e;]|RELEASE:[none|none]
+emqx/greptimedb-ingester-rust: BRANCHES:[main:43697c6aa29df5709c9cdc4337e08e043f4708d5;]|RELEASE:[none|none]
 emqx/egbk-conv: BRANCHES:[main:50648129f6cd2b08c805135c7967342636f50777;]|RELEASE:[none|none]
 emqx/flowmq-clusterfuzzlite-corpus: BRANCHES:[cflite-corpus:32341cfe56aa6e7f3f6a5d629a1c82baf7f64ee5;manual_generate:d2dff11337c437ef11672d83e133db94dae4bcb7;gh-pages:f6d65d06724959d9e2d5ff3e382b4ef85f34bb0d;]|RELEASE:[none|none]
 emqx/refresh-huawei-cdn: BRANCHES:[main:efff541a3bb54dcde1051eaee494d40eb1b367b7;]|RELEASE:[none|none]
