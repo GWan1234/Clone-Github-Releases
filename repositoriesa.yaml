@@ -28,6 +28,7 @@ allrepositories:
   - lambilly
   - a2633063
   - flameshot-org
+  - yifengyou
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
