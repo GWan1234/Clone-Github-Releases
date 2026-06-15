@@ -1240,7 +1240,7 @@ adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970;]|R
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b;]|RELEASE:[none|none]
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3;]|RELEASE:[none|none]
 adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:54a885baee53612ef38a02fa0ca4cf845c4ce1ae;]|RELEASE:[none|none]
-adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:eeeefb1d5689572439e4811c6ff969dd7036709f;]|RELEASE:[none|none]
+adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf;]|RELEASE:[none|none]
 adafruit/Adafruit_Atmega32u4_Breakout_Board: BRANCHES:[master:95a296a2957c41f86e3013eb707e21c7b2db7678;]|RELEASE:[none|none]
 adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44;]|RELEASE:[none|none]
 adafruit/HL1606-LED-Strip: BRANCHES:[master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a;]|RELEASE:[1.1.2|none]
