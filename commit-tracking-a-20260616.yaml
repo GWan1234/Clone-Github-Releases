@@ -4758,3 +4758,4 @@ yifengyou/linux-6: BRANCHES:[main:4b9811b7d9ac72020a3d509f34becb6505fd45a6;maste
 yifengyou/linux-6.1.y: BRANCHES:[main:65b92719b70d44d9cb575374711955357ecf6e88;]|RELEASE:[none|none]
 yifengyou/linux-6.12.y: BRANCHES:[main:ad6a50597fa627e39949da1ae60d2dadcf67cd8f;]|RELEASE:[none|none]
 yifengyou/linux-6.18.y: BRANCHES:[main:18e2fa8b01c2176a4ff092b166390364056361bd;]|RELEASE:[none|none]
+yifengyou/linux-6.6.y: BRANCHES:[main:a9ac0f3492f44d62846e1eb1b21ce33756f8ec0b;]|RELEASE:[none|none]
