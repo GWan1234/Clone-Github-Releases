@@ -4693,3 +4693,4 @@ yifengyou/learn-kali: BRANCHES:[master:3f5d090f5d3aec315da647be798cacb336dfaa5e;
 yifengyou/learn-kerberos: BRANCHES:[main:59dc5be570d032212bcf9678472d044c83502446;]|RELEASE:[none|none]
 yifengyou/learn-kernel: BRANCHES:[master:041967f0985ae911f9b2207348469e1986dbea4c;]|RELEASE:[none|none]
 yifengyou/learn-kprobe: BRANCHES:[main:e376020efa43539f2fd101d4ac947de7e398ed6d;]|RELEASE:[none|none]
+yifengyou/learn-kvm: BRANCHES:[master:569e4cdd8d8c617df9d07ffeba5659442b69d25b;]|RELEASE:[none|none]
