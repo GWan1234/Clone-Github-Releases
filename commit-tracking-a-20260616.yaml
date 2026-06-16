@@ -4756,3 +4756,4 @@ yifengyou/linux-4: BRANCHES:[main:17c042ed8a63280f0559de4241b5558c6b4b752b;]|REL
 yifengyou/linux-5: BRANCHES:[main:f62aba6a69b6e401862be5230797aab25e0aca41;master:8abdb5d22cc7d6d130c3ecd066f70e55e6f2f4cc;]|RELEASE:[none|none]
 yifengyou/linux-6: BRANCHES:[main:4b9811b7d9ac72020a3d509f34becb6505fd45a6;master:fed07ab45501a34bfe34306311b75ba7715ca1a9;6.8.4:56dc2f2b117699a7086429e8d53c0ca6f8e0b9d7;master-deprecated:4bbb5c2374f40ddedc43d5e9390a59b9bc529d53;docs:60f0919f2d26286f57d273f2a3b7a2c89e0b2152;]|RELEASE:[none|none]
 yifengyou/linux-6.1.y: BRANCHES:[main:65b92719b70d44d9cb575374711955357ecf6e88;]|RELEASE:[none|none]
+yifengyou/linux-6.12.y: BRANCHES:[main:ad6a50597fa627e39949da1ae60d2dadcf67cd8f;]|RELEASE:[none|none]
