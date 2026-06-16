@@ -4636,3 +4636,4 @@ yifengyou/kdev-rockchip: BRANCHES:[master:033c2785aa9c04efab432d21132712cb26436a
 yifengyou/kernel-cve: BRANCHES:[master:1e1e4f2a9a587bb4393fe5a296d72726d3479152;upstream:96f1058dda22c7968f7eb8f96815e3ad5af6ce21;]|RELEASE:[archive_dyad|none]
 yifengyou/kernel_memory_management: BRANCHES:[main:e7c9010eb1f449a1abbac9bfdd2ba660b6dc46ff;]|RELEASE:[none|none]
 yifengyou/kexec-tools: BRANCHES:[master:9c00b7db6f3702ba0a44bb3bf0ea3b5f1ff8f9ec;docs:c5264a1e80175f879c70faf2426f6f49c3b6ec95;]|RELEASE:[none|none]
+yifengyou/kexplorer: BRANCHES:[master:f9f3f790f00f4103c51aa361dcf822148045ca0a;]|RELEASE:[none|none]
