@@ -4496,3 +4496,4 @@ yifengyou/cirros: BRANCHES:[main:f82a7b658df0235a3b45fcb8ba8432e283dc7e33;]|RELE
 yifengyou/cit-compiler: BRANCHES:[arm:4dcb2d162a062ca78b352bb0b12d8e0b2586358c;x86:b76221c3a4057b1e51d16e04f86467c993d36a56;master:b98b9343e3921605b5a77463aaa1da4a59f38cfb;]|RELEASE:[none|none]
 yifengyou/cmake: BRANCHES:[master:fd571cdfa68560a15f1176dec7e25a21aed573f5;]|RELEASE:[none|none]
 yifengyou/cn_mooc_dl: BRANCHES:[master:ce1b9b4505aa48e64acb4dc5a5d2556cd9ac1294;]|RELEASE:[none|none]
+yifengyou/cockpit: BRANCHES:[master:2ae09d0611980f771d4c935fb11f81ca5a1b0f9d;docs:8762d1b52eb72f352419a68c15ba81e47e3bbc95;]|RELEASE:[none|none]
