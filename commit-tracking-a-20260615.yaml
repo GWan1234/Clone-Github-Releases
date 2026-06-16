@@ -4456,3 +4456,4 @@ yifengyou/anaconda: BRANCHES:[master:76818ac07edcf756835994444f06bc57088eb63b;rh
 yifengyou/analysis-cve: BRANCHES:[master:dcdc45eee3022e0cc4efd837dcf9f202a2acc151;]|RELEASE:[none|none]
 yifengyou/Android-software-security-and-reverse-analysis: BRANCHES:[master:8aba1dd84068dd9831b0e2b60d333d0fc0ca874b;]|RELEASE:[none|none]
 yifengyou/Android-system-source-code-scene-analysis: BRANCHES:[master:bee152ee24ed94d2ed6db06602b247611689918e;]|RELEASE:[none|none]
+yifengyou/android_firewall: BRANCHES:[donate:6b2078259b85a8a742bd8eed77ebab1b2b15ec20;master:6cf0935c95dae6973e3dcd6e76cb2f4a86f84e6b;]|RELEASE:[none|none]
