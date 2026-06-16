@@ -4463,3 +4463,4 @@ yifengyou/apparmor: BRANCHES:[master:e99d64bfb0804382950c60f51bab0ae7110c6925;]|
 yifengyou/APUE_notes: BRANCHES:[master:60e871c47734a601ae8d911465c1d20eec4bc800;]|RELEASE:[none|none]
 yifengyou/arch-arm: BRANCHES:[master:27a1585e8d67b99245678d48c94799720598c521;]|RELEASE:[none|none]
 yifengyou/arch-intel: BRANCHES:[master:6b559c712ee5902165c850af94f47ce911865411;]|RELEASE:[none|none]
+yifengyou/arch-mips: BRANCHES:[master:00aebc34b6e55bb9b48275b08b404ef73b6269c8;]|RELEASE:[none|none]
