@@ -4589,3 +4589,4 @@ yifengyou/go-dict: BRANCHES:[master:fae5f3d6369cd86b0848c288cd4b2edb5adfe66f;dev
 yifengyou/go-ebpf: BRANCHES:[main:e7bbabeb112c61dbf4bb10290e31019972117983;]|RELEASE:[none|none]
 yifengyou/go-keep: BRANCHES:[main:77dcc7b1fb13864e180d9a4ed4ac88a7138e7897;]|RELEASE:[none|none]
 yifengyou/go-mysql-lock: BRANCHES:[master:eb4a2f4e5cdadfb478a3813a795af1980682bec5;dev:dac36fb4445f26e6403bc306ed92d71070c5b64a;]|RELEASE:[none|none]
+yifengyou/go-patterns: BRANCHES:[master:f978e420361704bd7531e2b57905a308a3a012c8;gh-pages:6464cb2d85950cf321882c316264cb1a912080f0;]|RELEASE:[none|none]
