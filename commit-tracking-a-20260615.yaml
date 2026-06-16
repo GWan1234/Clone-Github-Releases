@@ -4521,3 +4521,4 @@ yifengyou/d3588-uboot: BRANCHES:[next-dev-v2026.01:1feef09260fa54f7c6d172bde3b4c
 yifengyou/DarunGrim: BRANCHES:[master:fbf9d3b1080a706689350a1d3566c64bdd336ace;gh-pages:a82c44670db9db7ef140af7809ef4bdec9419d0a;]|RELEASE:[none|none]
 yifengyou/dc-a588: BRANCHES:[master:cb0a6186b9cef69d62646b98ec70e201d3536679;]|RELEASE:[Armbian_DC-A588_Image_6.1.115|none]
 yifengyou/dc-a588-kernel-5.10.110: BRANCHES:[master:4e4bd355de90362e52c4a11628dfcb5500425c27;]|RELEASE:[none|none]
+yifengyou/dc-a588-kernel-5.10.226: BRANCHES:[master:af81a0927aed006b2cf3c051e53b27e598c8eac2;]|RELEASE:[none|none]
