@@ -906,7 +906,7 @@ Koenkk/zigbee2mqtt: BRANCHES:[dev-types:342031366cb6492c339ff879dd09dae02fe4b529
 Koenkk/zigbee2mqtt-chart: BRANCHES:[gh-pages:24b78db163164c359da87de504bc20bb9bcf13b4;main:bc90755ecbf0ba1d7151a88abeeba5f3a26d6747;fix/disable-onboarding:ed94d0c89c1e2b15bd8fc4811b33757c93fe0aed;release_2.1.1-patch1:36b79429802041f46fa18a96ca6bb54b094a64cb;update_url:c5ce8266dc30ee34e61845038dcb7a60ed84999d;v2_upgrades:9ff211946ed09d36835e818acd619385c239c410;code_conduct:5e11e7d918176ee246bd7a8f84f67bb57efa4235;helm_versions:43969da78a83520b919f6641851dcaef96a36db4;images_from_app_version:faf72ac00936f24fb64e8ddc2785ded81d9164d0;ci_typos:592ff97f46fe3a3d92451305b9aa89fab679c1d3;]|RELEASE:[2.12.0|none]
 Koenkk/zigbee2mqtt-hassio-addon: BRANCHES:[master:b18683b3bc6898672b529acc24df777606dd54fc;]|RELEASE:[none|none]
 Koenkk/zigbee2mqtt-user-extensions: BRANCHES:[main:ff72e9c469ef2565a915b473134d94dbf39ee5ae;matter:9393bbcccdaa211e59696d46327e6f4deaf61c5a;]|RELEASE:[none|none]
-Koenkk/zigbee2mqtt.io: BRANCHES:[gh-pages:7d9cd1dba6be5816842d8961bb60f97386d8ef72;dev:391e4af4f321317bb93c7195150e608a863e1828;master:50031aff6ee71f46261f336113ae0d49c6f3d0e7;]|RELEASE:[none|none]
+Koenkk/zigbee2mqtt.io: BRANCHES:[gh-pages:afd7c64e20d888f4889c5a885af541d6d5882ee5;dev:30a957677d7d20e856d4f1bd73191df4a024541e;master:1a94d4ad180f85b50fab8a27a3cfbaa305d6d35e;]|RELEASE:[none|none]
 Koenkk/zigpy-zigate: BRANCHES:[master:04d72d8e4299054a6112a471959370161a9289e8;]|RELEASE:[none|none]
 Koenkk/zstack-constants: BRANCHES:[master:a6a57116a42ab38cd87d33e4737502c28c46d1b3;]|RELEASE:[none|none]
 qlwz/AEC3: BRANCHES:[master:1e1793fde7c0b3bbbb83d97cec939885880fa6de;]|RELEASE:[none|none]
