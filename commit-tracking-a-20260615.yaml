@@ -4476,3 +4476,4 @@ yifengyou/awesome-asm: BRANCHES:[master:325702063a8f6d1d0f7524910e28df4b13cd7d1c
 yifengyou/awesome-malware-analysis: BRANCHES:[master:604a93b22090b032e5a2eb6393e2f29beb781120;hslatman-patch-3:79ec5bf5f6cc6516ba9af17807fa624f89648b2b;hslatman-patch-2:c317c66709a6bba04bf64705037494e53e40226d;hslatman-patch-1:94c9b2a8c601053968e0945cd077649f4c2d3020;]|RELEASE:[none|none]
 yifengyou/bash: BRANCHES:[main:76ab42609053720dd9f6ef808db78e333d5181a4;master:404bcaf5ffec3a72abe5b872268b9136a6a0d11b;]|RELEASE:[none|none]
 yifengyou/bcc: BRANCHES:[master:624d5adf1d5f830d0b1a0ce386e19eaa30be0562;]|RELEASE:[none|none]
+yifengyou/bear-2.4.4: BRANCHES:[docs:82887f55d11f963cb3eae57ec70da8ed838459a4;master:5d3db8587a86005f28ef2cc3c691e663728bae19;]|RELEASE:[none|none]
