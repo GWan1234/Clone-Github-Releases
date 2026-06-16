@@ -4643,3 +4643,4 @@ yifengyou/khadas_android_manifest: BRANCHES:[khadas-vim4-r-64bit:5d0ea1e3da178af
 yifengyou/kickstart: BRANCHES:[master:364e84e6e4201466645bcac519a98f292f4ecb65;]|RELEASE:[none|none]
 yifengyou/kmod: BRANCHES:[master:e365c06dc8671a73ab7c997b2a0952a9acbd8c2a;]|RELEASE:[none|none]
 yifengyou/KNighter: BRANCHES:[main:a9437c41bb87f15c6cb35b4ac54e346a8ea81046;ff:bfc6602e960d3911361164a2027f8d1a7ac8e997;fix/linux:e83c9157dd48173e7c00fe58d7b320dfbd2bd9f4;gen/checkers:8d123f0fae8e58d27ecf6e48875e193214e8ece8;dev:4576aaf7c59f6372173af382c6381938e6a5e67a;old-version:f30048d2489de195a669f30bb50e0729d16e6b39;]|RELEASE:[none|none]
+yifengyou/knotifier: BRANCHES:[master:b50d5a57b870d33cafcab7a5fdc4f8d046fe92c9;]|RELEASE:[none|none]
