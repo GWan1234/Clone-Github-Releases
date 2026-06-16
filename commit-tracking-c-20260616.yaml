@@ -3261,7 +3261,7 @@ home-assistant/ada: BRANCHES:[master:72dbf9fdd0006149ab8f247780375d03dd71e5b5;]|
 home-assistant/operating-system-blobs: BRANCHES:[master:f17a8e81e0b7e1bd2475441465cc737c0891edfa;]|RELEASE:[none|none]
 home-assistant/plugin-audio: BRANCHES:[master:b821793e9ae2c50144f5a265b5dddf13ef42373c;]|RELEASE:[2026.02.0|none]
 home-assistant/brands: BRANCHES:[master:810d6904ba8bf3e727e9da0cc5b92ff029700a22;dependabot/github_actions/actions/checkout-6.0.3:1d1de29949d4ad40c82ff7e8f25afd266f49a7e9;claude/add-task-workflow-form-n96IV:bb2ee7bd523a271301c22afa70ec8b1886171453;add-task-workflow-and-issue-form:1c7aa6752749b6f86801fc583ed760d0b0a5313d;karwosts-patch-1:b1957cc2e686f2c9925f5cf780f8d513feb2e9c2;input_weekday:0cc44c2dc46424ac6f8e62c54710f7d90f1ec227;]|RELEASE:[none|none]
-home-assistant/plugin-multicast: BRANCHES:[master:be5858de6e373e9b61b2d7e65e19c66f19a0a61f;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01;]|RELEASE:[2026.02.0|none]
+home-assistant/plugin-multicast: BRANCHES:[master:ed94653b885223799b0b84b301075dcf7f95629e;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01;]|RELEASE:[2026.02.0|none]
 home-assistant/wheels-scipy: BRANCHES:[master:46ff221a202dc970e11eff7ae3781b9ea71dcbe1;]|RELEASE:[0.1.0|none]
 home-assistant/plugin-observer: BRANCHES:[master:91bc740f8d6d566251b33aa7a8dd493e6147d2a7;]|RELEASE:[2026.02.0|none]
 home-assistant/landingpage: BRANCHES:[autoupdate-frontend:3ab4d155221174f81466c405cc5dea5e9db27424;main:c3ef6b69ebbea44f8a09f93aa0375a4a97de12a3;default-port-80:eea58c57847419650ab4d0d5f9a502769315505d;]|RELEASE:[2026.06.4|none]
