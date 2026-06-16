@@ -4595,3 +4595,4 @@ yifengyou/go-query: BRANCHES:[master:372d5bdaa0efb08f1f90c6791601c565674d64af;wi
 yifengyou/go-raft: BRANCHES:[main:7043b176e2aef90da434dd3bd16f5ae56fc853b1;]|RELEASE:[none|none]
 yifengyou/go-set: BRANCHES:[master:8dc59739a7ac3ec74148e9c190f869ac14d0e6e8;]|RELEASE:[none|none]
 yifengyou/go-skiplist: BRANCHES:[master:03d509a15299ca19fc1ed5a0d3e758905deeceff;unrolled_list:a0b21210d032f41ded4db6ba6cf8728aed9682f5;]|RELEASE:[none|none]
+yifengyou/go-sqlcipher: BRANCHES:[master:378dc29cf59b17c46ada70deda09fb9b9175f8a1;docs:3686620256feb9376a17009ef5ccb5d289c648c7;]|RELEASE:[none|none]
