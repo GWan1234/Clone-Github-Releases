@@ -4555,3 +4555,4 @@ yifengyou/EMB3531: BRANCHES:[master:20cbc68d07a3d49b259ee6266747c39ae02ee736;]|R
 yifengyou/emb3531-uboot: BRANCHES:[firefly_rk3399-uboot:a9dc58e445252081101d5b0626d6e695b4c69535;master:a9dc58e445252081101d5b0626d6e695b4c69535;next-dev:8d7f5ae8cf4ea4c9f20417a6ca5bb72924f5d14e;rockchip-linux_next-dev:8d7f5ae8cf4ea4c9f20417a6ca5bb72924f5d14e;gitlab-uboot:01a3e4f124dbb40b52853f15e56122e435a7dfb1;uboot-201709-ubuntu1804:a3eb1b07f5da63f98c650e64a067083cebc3193d;]|RELEASE:[none|none]
 yifengyou/enjoylinux-training: BRANCHES:[master:eb9b21a36ef2fcccbe8d39203c4c6564543a0232;]|RELEASE:[none|none]
 yifengyou/ethtool-5.13: BRANCHES:[master:1649e5fb6b203dda0ab73e1a46f24bed87787f56;]|RELEASE:[none|none]
+yifengyou/ev3: BRANCHES:[default:cfd329136d6d11b7c7543eafe635756f501c405a;linux:cfd329136d6d11b7c7543eafe635756f501c405a;]|RELEASE:[none|none]
