@@ -4564,3 +4564,4 @@ yifengyou/fio: BRANCHES:[master:286e14487bc461806f5bd5b85a1992ed25c25e0b;]|RELEA
 yifengyou/firefly-rk3399: BRANCHES:[master:f04a00e293b66ef7070105fcfbba2257b6e79b39;]|RELEASE:[none|none]
 yifengyou/firewall: BRANCHES:[main:d6ae2025b5d94280c434c981c4475c2aad0a6fc0;]|RELEASE:[none|none]
 yifengyou/firmware-tools: BRANCHES:[master:e614f48cac62319f5b4a54dbbfa3a836c8e8b781;hiwifi:606d388bfee9d90902298c51fe1b2488ddf235a2;]|RELEASE:[none|none]
+yifengyou/flasky-with-celery: BRANCHES:[dependabot/pip/requirements/bleach-3.1.4:5d2f599d36b378bbac370646ba5b9a519b77e680;dependabot/pip/requirements/httpie-1.0.3:9cea99834bcac66bdd6274b4db56d990f1501b95;master:c06b999e7e40b2b9348eba9dc5e3c1dc1b7173ee;]|RELEASE:[none|none]
