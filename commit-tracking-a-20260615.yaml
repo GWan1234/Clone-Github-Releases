@@ -4450,3 +4450,4 @@ yifengyou/ai: BRANCHES:[master:2ae8459f71f3e22315864eb91abcb9066c6a8a39;]|RELEAS
 yifengyou/aio3399c: BRANCHES:[master:4b6c4f0fcfdb205502d74371f2a97db1cab41260;]|RELEASE:[Armbian_aio-3399c-ai_noble|none]
 yifengyou/aiot-3588a: BRANCHES:[master:06a39afaefbf31567e5c391cc8cadd5370895820;]|RELEASE:[rockchip-linux_develop-6.1_kernel|none]
 yifengyou/alienspy: BRANCHES:[master:504460e7ca2242d6d58d368882eed582084c0aed;]|RELEASE:[none|none]
+yifengyou/am60: BRANCHES:[master:aaba0b876d53db5f2715c996683dafa295fd1c54;]|RELEASE:[workflow_envinfo|none]
