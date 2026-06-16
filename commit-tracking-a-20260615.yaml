@@ -4469,3 +4469,4 @@ yifengyou/armbian-rk3399: BRANCHES:[main:7051e6c4ac1603274f92f3785b39af2ea64ea53
 yifengyou/asm: BRANCHES:[main:2b0486666fa0992f2844811f336e02935b227530;]|RELEASE:[none|none]
 yifengyou/asm-shellcode: BRANCHES:[master:2284291693b0235bfad9a9ebf0e2d04909bb20ed;]|RELEASE:[none|none]
 yifengyou/asmhttpd: BRANCHES:[master:5d89d102103c0acdc1548069e637310d59241fa0;]|RELEASE:[none|none]
+yifengyou/asmPortScan: BRANCHES:[master:472b66eb214e52fab3225827144070b7650724c3;]|RELEASE:[none|none]
