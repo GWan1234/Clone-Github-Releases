@@ -4685,3 +4685,4 @@ yifengyou/learn-grep: BRANCHES:[master:8c225f1d29701516827d7def4c40ca70f277a04c;
 yifengyou/learn-gunicorn: BRANCHES:[master:873d1bfdb4c69cbc9a51ec84c39aa03a27be3ff8;]|RELEASE:[none|none]
 yifengyou/learn-IMX6U: BRANCHES:[master:85cf5f9b59840b894faf1dc90e3d9322cf24adcc;]|RELEASE:[none|none]
 yifengyou/learn-imx6ull: BRANCHES:[master:ab23a3b5cebca4adb12c01e700921c80b9d0d5dd;]|RELEASE:[none|none]
+yifengyou/learn-influxdb: BRANCHES:[main:134f59f190d85e15df8a03a28b439486320731bf;]|RELEASE:[none|none]
