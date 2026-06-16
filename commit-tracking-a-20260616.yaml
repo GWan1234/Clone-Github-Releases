@@ -4631,3 +4631,4 @@ yifengyou/jz2440: BRANCHES:[linux-2.6.22.6:15e6f27c5fa371ce8f3d507e95e625d005326
 yifengyou/k8s: BRANCHES:[mageedu-k8s:a32c0de5ecbb9f390e3fd719a3f780a3aa451c98;main:c6d24464ec19190d5c61b5253f7a8e9bcc9da337;]|RELEASE:[none|none]
 yifengyou/k8s-deploy: BRANCHES:[main:8e3c46c69db89da4c15413ae92cfe2e0524b2192;]|RELEASE:[none|none]
 yifengyou/kdev: BRANCHES:[master:ff525ca7d30c0aed5777151237e9a5113b688c35;deprecated:d70470467598dba969516228ba0e405ba4d50081;]|RELEASE:[dirtyfrag|none]
+yifengyou/kdev-armbian: BRANCHES:[master:8abc58bebb7e8c0485db12bd1dda4ad3e437d17e;]|RELEASE:[Armbian_Image|none]
