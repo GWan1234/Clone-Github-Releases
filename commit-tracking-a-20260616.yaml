@@ -4704,3 +4704,4 @@ yifengyou/learn-make: BRANCHES:[master:9f022ed6f0b610c46b84c6eab39111bb77a4c136;
 yifengyou/learn-markdown: BRANCHES:[master:e1cbddc74ad0d0e2a071a4f8975e9ce7c5d8591c;]|RELEASE:[none|none]
 yifengyou/learn-messagequeue: BRANCHES:[kafka:627564c6def48be966d5886acece734eb88514b0;redis:19c506f5fab5d2d748579b81dabb1d0ac33e46b6;main:8b25c28924263837034a6be87a33f9072707ebfd;]|RELEASE:[none|none]
 yifengyou/learn-mininet: BRANCHES:[master:fff32fc14a4f522b34927c1beb8d3b984e0e7148;]|RELEASE:[none|none]
+yifengyou/learn-mips: BRANCHES:[master:f6a0a4b83ce678024cf28d40b4d01c5d9ff2c179;]|RELEASE:[none|none]
