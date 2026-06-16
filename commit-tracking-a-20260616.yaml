@@ -4760,3 +4760,4 @@ yifengyou/linux-6.12.y: BRANCHES:[main:ad6a50597fa627e39949da1ae60d2dadcf67cd8f;
 yifengyou/linux-6.18.y: BRANCHES:[main:18e2fa8b01c2176a4ff092b166390364056361bd;]|RELEASE:[none|none]
 yifengyou/linux-6.6.y: BRANCHES:[main:a9ac0f3492f44d62846e1eb1b21ce33756f8ec0b;]|RELEASE:[none|none]
 yifengyou/linux-configs: BRANCHES:[master:69f650a14dbf0f054d728eef3326bf8dc8e26b0e;]|RELEASE:[none|none]
+yifengyou/linux-kconfig: BRANCHES:[master:0774b12824a76129f489476f948e6cae1da4f260;]|RELEASE:[none|none]
