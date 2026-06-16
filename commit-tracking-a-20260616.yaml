@@ -4547,3 +4547,4 @@ yifengyou/eaidk610-kernel: BRANCHES:[master:783a7593270de4e7240b097f740861369f92
 yifengyou/eaidk610-uboot: BRANCHES:[master:cfff2b00a3965557f1c02a913b60246928b2a5e2;]|RELEASE:[none|none]
 yifengyou/eaidk610-uboot-dev: BRANCHES:[master:f3840ed83ef901d70661da7d725d63648b180ebb;]|RELEASE:[none|none]
 yifengyou/EasyAndroids: BRANCHES:[master:d09c60aba27f181b1dc0ad07377eacc78e0e1c4a;]|RELEASE:[none|none]
+yifengyou/ea_3588s: BRANCHES:[master:797e8187a53124d0da4d4974be59587d21d26d28;]|RELEASE:[EA_3588S-kernel-5.10.226|none]
