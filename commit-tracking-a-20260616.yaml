@@ -4638,3 +4638,4 @@ yifengyou/kernel_memory_management: BRANCHES:[main:e7c9010eb1f449a1abbac9bfdd2ba
 yifengyou/kexec-tools: BRANCHES:[master:9c00b7db6f3702ba0a44bb3bf0ea3b5f1ff8f9ec;docs:c5264a1e80175f879c70faf2426f6f49c3b6ec95;]|RELEASE:[none|none]
 yifengyou/kexplorer: BRANCHES:[master:f9f3f790f00f4103c51aa361dcf822148045ca0a;]|RELEASE:[none|none]
 yifengyou/kflow: BRANCHES:[master:3bebdf3461412a73228f2f54ce0862c8e6a527c3;]|RELEASE:[none|none]
+yifengyou/kgdb: BRANCHES:[master:397c26c656d18136791c484851f4a4c8ab8c9756;]|RELEASE:[none|none]
