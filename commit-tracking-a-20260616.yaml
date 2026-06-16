@@ -4654,3 +4654,4 @@ yifengyou/LDD-LinuxDeviceDrivers: BRANCHES:[master:bf3290848fd080d63449e0f21a6dd
 yifengyou/learn: BRANCHES:[master:da593057d1b19dfe397ce5b6c819587e59794dfa;]|RELEASE:[none|none]
 yifengyou/learn-android: BRANCHES:[master:4f8999c7a44a784bc0da1ac361acaf1747ff1e03;]|RELEASE:[none|none]
 yifengyou/learn-ansible: BRANCHES:[main:2c33cfaae42cdd84102900551cc720cb6857c38b;]|RELEASE:[none|none]
+yifengyou/learn-apue: BRANCHES:[master:703031243c4511868c7fd8f4eed560ba52dcab69;]|RELEASE:[none|none]
