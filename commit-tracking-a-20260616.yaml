@@ -4711,3 +4711,4 @@ yifengyou/learn-network: BRANCHES:[linux-network_1.2.13:cbfa678ddc73ebb5f67d1bd6
 yifengyou/learn-nfs: BRANCHES:[main:c581eba7cc0b0f7ad655e9d79d8ff6f676645a14;]|RELEASE:[none|none]
 yifengyou/learn-nodejs: BRANCHES:[master:4827534db283fc4a6b5012746d698cb73376d728;]|RELEASE:[none|none]
 yifengyou/learn-openvswitch: BRANCHES:[master:523b71cf396b0cb7e24070660ff32946a6026ab1;]|RELEASE:[none|none]
+yifengyou/learn-openwrt: BRANCHES:[master:d4dd80b8b78be3dfa7a914356bbc46cb3431ca17;]|RELEASE:[none|none]
