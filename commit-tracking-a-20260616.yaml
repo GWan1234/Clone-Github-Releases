@@ -4584,3 +4584,4 @@ yifengyou/gnu-binutils: BRANCHES:[master:6fc4250477accb663be867743a506ce0e1c3a02
 yifengyou/go-cache: BRANCHES:[main:f10082defa5278ea56ffacde68a38eaa593933b9;]|RELEASE:[none|none]
 yifengyou/go-callvis: BRANCHES:[master:faa9a641834cedbcef6c18f6bfbbc765e1f71541;]|RELEASE:[none|none]
 yifengyou/go-colly: BRANCHES:[main:0880348013bb317b767b9f19d52fb7d63a5780ac;]|RELEASE:[none|none]
+yifengyou/go-datastructure: BRANCHES:[master:751f41e88183a94e830cf1903d616fb5e5aa9034;development:4bc610bb3fd6208d3a7820db6c3a5f2f14bd4ba7;]|RELEASE:[none|none]
