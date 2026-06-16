@@ -4567,3 +4567,4 @@ yifengyou/firmware-tools: BRANCHES:[master:e614f48cac62319f5b4a54dbbfa3a836c8e8b
 yifengyou/flasky-with-celery: BRANCHES:[dependabot/pip/requirements/bleach-3.1.4:5d2f599d36b378bbac370646ba5b9a519b77e680;dependabot/pip/requirements/httpie-1.0.3:9cea99834bcac66bdd6274b4db56d990f1501b95;master:c06b999e7e40b2b9348eba9dc5e3c1dc1b7173ee;]|RELEASE:[none|none]
 yifengyou/fourq: BRANCHES:[master:8ada258cf9c810fd74d13d56c41c04c18048e7d6;]|RELEASE:[none|none]
 yifengyou/free: BRANCHES:[master:e888ffab87477959bee963c06d9fe6e55a34f9dc;]|RELEASE:[none|none]
+yifengyou/FriendlyARM-Tiny6410: BRANCHES:[master:d7fd0cbaff1fee84af07ba7961faab7b437ef9b6;]|RELEASE:[none|none]
