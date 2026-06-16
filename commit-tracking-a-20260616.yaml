@@ -4572,3 +4572,4 @@ yifengyou/ftrace: BRANCHES:[main:a9ce0646dccd79ab26adcda361c0daaa1397386f;]|RELE
 yifengyou/funny_linux: BRANCHES:[master:7ef216a6eed74c7a0acc798879410cafe1f8d2d0;]|RELEASE:[none|none]
 yifengyou/gdb: BRANCHES:[master:b155dd590015fa785d3b96bf8fd69904792c098c;]|RELEASE:[none|none]
 yifengyou/GDOCK: BRANCHES:[master:fd6952e4115a000ea138147f0a0540dc122a4836;]|RELEASE:[none|none]
+yifengyou/gin-vue-admin: BRANCHES:[docs:f5c544e8df49594cec3521fa909dc91d90dd28b7;master:ff65925e7a4e83911a17402519e5caadbc108b68;upstream:8170daf48dc606d5e0039e2ddef7c2900803bdc9;backup-2.4.0:b7d7ec153197151e5f73ca769815784bfe067499;gva-vue3:224f6afb993ef33db92e14fff687f9f60c6f7d4e;develop:ec2070bde1f102c82c1ef4a303b28f0a32fd52ba;gva_gormv2_dev:10da0881fe75247ba41d632b3fd85dd8e2df760c;gva_vue2:10da0881fe75247ba41d632b3fd85dd8e2df760c;gva_workflow:354013cc3e20c0f9332867d74a9aa53226a72759;]|RELEASE:[none|none]
