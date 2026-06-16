@@ -4511,3 +4511,4 @@ yifengyou/create-ubuntu-live-cd: BRANCHES:[master:5bdad824e5d0759082da846dab3614
 yifengyou/createrepo_c: BRANCHES:[master:c2dca5b5d8c8ca8d970033876a6fd340badc4b29;docs:dcc755c99451f919c717a715c91eb699e387102e;]|RELEASE:[none|none]
 yifengyou/cron: BRANCHES:[master:f66d13a2b006812415f4657628f095ee5f4044f5;]|RELEASE:[none|none]
 yifengyou/cscope: BRANCHES:[main:f80b02939fc4048840b41014988ea8e45deed6c4;]|RELEASE:[none|none]
+yifengyou/CTF: BRANCHES:[master:99df7e7fd92c8a33667d24d3215eb5a112cf9324;]|RELEASE:[none|none]
