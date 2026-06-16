@@ -2,7 +2,7 @@ name: Clone Backup Repositories B
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -46,10 +46,10 @@ jobs:
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
-          TRACKING_FILE="commit-tracking-b-${NOW_DATE}.yaml"
+          TRACKING_FILE="commit-tracking-d-${NOW_DATE}.yaml"
 
           # 永远使用上一个历史文件做对比
-          LAST_TRACKING_FILE=$(ls -1 commit-tracking-b-*.yaml 2>/dev/null | sort -r | head -n1 || true)
+          LAST_TRACKING_FILE=$(ls -1 commit-tracking-d-*.yaml 2>/dev/null | sort -r | head -n1 || true)
 
           # ============== 🔥 新增：复制最近跟踪文件作为当天初始基线 ==============
           # 目的：即使当天工作流中途失败，也能保留之前所有仓库的已知状态，
@@ -495,7 +495,7 @@ jobs:
               # ====== 新增：加载排除列表 ======
               local excluded_repos=()
               mapfile -t excluded_repos < <(
-                  yq -r '.exclude[]?' repositoriesb.yaml 2>/dev/null |
+                  yq -r '.exclude[]?' repositoriesd.yaml 2>/dev/null |
                   grep -v '^[[:space:]]*#' |
                   sed '/^[[:space:]]*$/d' || true
               )
@@ -514,7 +514,7 @@ jobs:
           
               # 1) 按组织/用户列表扫描
               mapfile -t OWNERS < <(
-                  yq -r '.allrepositories[]?' repositoriesb.yaml 2>/dev/null \
+                  yq -r '.allrepositories[]?' repositoriesd.yaml 2>/dev/null \
                   | grep -v '^[[:space:]]*#' \
                   | sed '/^[[:space:]]*$/d' || true
               )
@@ -544,7 +544,7 @@ jobs:
               echo "====================================="
           
               mapfile -t ALL_KEYS < <(
-                  yq -r '.repositories | keys[]' repositoriesb.yaml 2>/dev/null \
+                  yq -r '.repositories | keys[]' repositoriesd.yaml 2>/dev/null \
                   | grep -v '^[[:space:]]*#' \
                   | sed '/^[[:space:]]*$/d' || true
               )
@@ -552,7 +552,7 @@ jobs:
               for KEY in "${ALL_KEYS[@]}"; do
                   echo "➡️ Group: $KEY"
                   mapfile -t REPOS < <(
-                      yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositoriesb.yaml 2>/dev/null \
+                      yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositoriesd.yaml 2>/dev/null \
                       | grep -v '^[[:space:]]*#' \
                       | sed '/^[[:space:]]*$/d' || true
                   )
