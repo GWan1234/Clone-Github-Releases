@@ -4433,7 +4433,7 @@ syb999/Ximalaya-Downloader: BRANCHES:[main:b9d40cf529091f325a1e87c5aa39d1bec1fcf
 syb999/xmlydownload: BRANCHES:[master:b4ab976e062b34ebec85b6295c72f8d3c82e7f3d;]|RELEASE:[none|none]
 algerkong/gemini-watermark-remover: BRANCHES:[claude/keen-babbage-SxxQ8:bf1e2231982017cd1f715ac37fa8e5dbba605963;main:5e8016fcc023e85622c6cff0ed07dcf7c26313e3;]|RELEASE:[none|none]
 xiaoshi930/bathroom_climate: BRANCHES:[main:26389e4b1c2d8e283eba9c6a1df6d84dbbef5a19;]|RELEASE:[1.4|none]
-home-assistant/hai: BRANCHES:[main:e84e19467238056b804d38dc7c79c4d3226af5f3;]|RELEASE:[none|none]
+home-assistant/hai: BRANCHES:[justanotherariel-rustfmt:d764e27d119f7d92df615de5a9fe16597fe25d18;justanotherariel-fix-tests:6d5b94ceafb75e01270641da96c84d2df385f601;copilot/fix-lint-github-actions:e2b364950ddfaf71f1ddfdf0209ebda779f330ce;copilot/fix-lint-frontend:b0ecdaedd3525c206d4c9dea519fd4daf95aba19;main:50ec504fef53775309c800d0340a5600865725bc;]|RELEASE:[none|none]
 home-assistant/tasks: BRANCHES:[main:776892492b5215f27513470d476fa3dab6ff1a9d;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Bao: BRANCHES:[main:0e31cbfac6ef9a7040fdf4fc5884d68a5059db29;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Halow-RJ45: BRANCHES:[main:fe3989ae4681c259532306f3019b79dc9862739c;]|RELEASE:[none|none]
