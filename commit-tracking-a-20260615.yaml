@@ -4494,3 +4494,4 @@ yifengyou/cerebro: BRANCHES:[master:56c5ccba9975329d5deea3a9595c31c0d5fdae9e;fea
 yifengyou/chipsec: BRANCHES:[master:3ba739cd9ad10697f351aa8ade88c77ca7851620;BrentHoltsclaw-chisecmain-patch:624710a14fd1384c655a49f13fe9d44a403117c1;BrentHoltsclaw-decompresslinux:4ab0f1a2775331ac25b7095cbb38adf26d5e9931;version-1.3.4:62399f3edaeabf33766ca6e17006fa9dab94a99a;fix_spi_osx:f629554e04da3ca1479e79ea99da6c5203823226;spi_descriptor:7738d4024a4637750a4258b3e13833af69528e07;spi_hal_cleanup:a3f23f81a7a00a46e354d291b4a90f91f293d0ad;]|RELEASE:[none|none]
 yifengyou/cirros: BRANCHES:[main:f82a7b658df0235a3b45fcb8ba8432e283dc7e33;]|RELEASE:[none|none]
 yifengyou/cit-compiler: BRANCHES:[arm:4dcb2d162a062ca78b352bb0b12d8e0b2586358c;x86:b76221c3a4057b1e51d16e04f86467c993d36a56;master:b98b9343e3921605b5a77463aaa1da4a59f38cfb;]|RELEASE:[none|none]
+yifengyou/cmake: BRANCHES:[master:fd571cdfa68560a15f1176dec7e25a21aed573f5;]|RELEASE:[none|none]
