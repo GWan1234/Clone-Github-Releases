@@ -4524,3 +4524,4 @@ yifengyou/dc-a588-kernel-5.10.110: BRANCHES:[master:4e4bd355de90362e52c4a11628df
 yifengyou/dc-a588-kernel-5.10.226: BRANCHES:[master:af81a0927aed006b2cf3c051e53b27e598c8eac2;]|RELEASE:[none|none]
 yifengyou/dc-a588-kernel-6.1.115: BRANCHES:[master:b5194a932ae29e340f375e917eb9be67a015bb1d;main:b1e2c9c39129635c84c7f06ec153d7e3ebf231c4;]|RELEASE:[linux-6.1.y-rockchip|none]
 yifengyou/dc-a588-uboot: BRANCHES:[dc-a588:51345702d9e1dba2f20f81460f37c8abee529e14;master:40ea9c91405ca882b077505046629369f335ad61;d3588:110362ddd9ffb97d7ccc0068e85151ceb01468c8;]|RELEASE:[none|none]
+yifengyou/dc-ym562: BRANCHES:[master:1a70039f6562b6355f1283962c42ba1909cb6020;]|RELEASE:[none|none]
