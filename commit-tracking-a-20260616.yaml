@@ -4570,3 +4570,4 @@ yifengyou/free: BRANCHES:[master:e888ffab87477959bee963c06d9fe6e55a34f9dc;]|RELE
 yifengyou/FriendlyARM-Tiny6410: BRANCHES:[master:d7fd0cbaff1fee84af07ba7961faab7b437ef9b6;]|RELEASE:[none|none]
 yifengyou/ftrace: BRANCHES:[main:a9ce0646dccd79ab26adcda361c0daaa1397386f;]|RELEASE:[none|none]
 yifengyou/funny_linux: BRANCHES:[master:7ef216a6eed74c7a0acc798879410cafe1f8d2d0;]|RELEASE:[none|none]
+yifengyou/gdb: BRANCHES:[master:b155dd590015fa785d3b96bf8fd69904792c098c;]|RELEASE:[none|none]
