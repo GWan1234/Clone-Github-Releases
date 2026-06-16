@@ -4507,3 +4507,4 @@ yifengyou/cpp: BRANCHES:[master:2476585b7d1258ab0f51b4f7ac12781889ff2cf6;]|RELEA
 yifengyou/crash: BRANCHES:[main:41d023ea93ad993b68c6901060299fd7a462d3f0;]|RELEASE:[none|none]
 yifengyou/crash-src: BRANCHES:[main:e7a994f2f735f2087f0f99512710e0dd3d620d7f;]|RELEASE:[none|none]
 yifengyou/crazy-python: BRANCHES:[main:28099bd5011de6981a7c5412783952cc7601ae0c;]|RELEASE:[none|none]
+yifengyou/create-ubuntu-live-cd: BRANCHES:[master:5bdad824e5d0759082da846dab3614f612f6782b;]|RELEASE:[none|none]
