@@ -4451,3 +4451,4 @@ yifengyou/aio3399c: BRANCHES:[master:4b6c4f0fcfdb205502d74371f2a97db1cab41260;]|
 yifengyou/aiot-3588a: BRANCHES:[master:06a39afaefbf31567e5c391cc8cadd5370895820;]|RELEASE:[rockchip-linux_develop-6.1_kernel|none]
 yifengyou/alienspy: BRANCHES:[master:504460e7ca2242d6d58d368882eed582084c0aed;]|RELEASE:[none|none]
 yifengyou/am60: BRANCHES:[master:aaba0b876d53db5f2715c996683dafa295fd1c54;]|RELEASE:[workflow_envinfo|none]
+yifengyou/amlogic-s9xxx-armbian: BRANCHES:[main:668e59e2c6ca81e7d8726a54ef6a14886e8f9722;main-yyf-dev:6608bd922292d41a727456f0ca97fda010f74118;]|RELEASE:[Armbian_trixie_arm64_server_2026.03|none]
