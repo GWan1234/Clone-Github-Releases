@@ -4648,3 +4648,4 @@ yifengyou/koji: BRANCHES:[master:b6aa82194f48a980db110c23515404debe059250;docs:9
 yifengyou/kpatch: BRANCHES:[master:84e6c0e4a105cd1144ed15e74427657e9248dada;]|RELEASE:[none|none]
 yifengyou/ksrc: BRANCHES:[master:b59976c3516702352c763b336521acc152f62b2e;deprecated:afc8fd4cae66f48a130fcfa9d15aaf300af9154f;lilin:efd6f62c31b8a4eb2917405302fb16050ce55522;kernel-drivers:8abc1ea60f4aa349dae0f3a8ada9ecdbacd22a1e;]|RELEASE:[none|none]
 yifengyou/kubernetes-1.14.0: BRANCHES:[master:76823b01d277ee74a4203b9663600dfc1aecb512;]|RELEASE:[none|none]
+yifengyou/KVM-Virtualization-Cookbook: BRANCHES:[master:32a2c22460592c38366337e0b105b267ebce4e6d;]|RELEASE:[none|none]
