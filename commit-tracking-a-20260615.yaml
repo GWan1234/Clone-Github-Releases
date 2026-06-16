@@ -4522,3 +4522,4 @@ yifengyou/DarunGrim: BRANCHES:[master:fbf9d3b1080a706689350a1d3566c64bdd336ace;g
 yifengyou/dc-a588: BRANCHES:[master:cb0a6186b9cef69d62646b98ec70e201d3536679;]|RELEASE:[Armbian_DC-A588_Image_6.1.115|none]
 yifengyou/dc-a588-kernel-5.10.110: BRANCHES:[master:4e4bd355de90362e52c4a11628dfcb5500425c27;]|RELEASE:[none|none]
 yifengyou/dc-a588-kernel-5.10.226: BRANCHES:[master:af81a0927aed006b2cf3c051e53b27e598c8eac2;]|RELEASE:[none|none]
+yifengyou/dc-a588-kernel-6.1.115: BRANCHES:[master:b5194a932ae29e340f375e917eb9be67a015bb1d;main:b1e2c9c39129635c84c7f06ec153d7e3ebf231c4;]|RELEASE:[linux-6.1.y-rockchip|none]
