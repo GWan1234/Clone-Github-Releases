@@ -4531,3 +4531,4 @@ yifengyou/debian_kernel: BRANCHES:[nicyou:28521d535e669998584d92a0781b1d034911c5
 yifengyou/dedup: BRANCHES:[master:2aaec5a8b30f5d4ec5019f61fcc9fec935ab2ee0;]|RELEASE:[none|none]
 yifengyou/deepin-file-control: BRANCHES:[master:ff65386f1a9be7698c321084e3701fe0a002f904;add-license-2:efaa046b75761253daea716ab6af732ff0e49ff6;add-license-1:1d5687fea45278ebb15b5e2c27a5519d828653de;code-review:17251e0360050fee74c302b23c9a0d53bf9c0f54;]|RELEASE:[none|none]
 yifengyou/distro-iso-build: BRANCHES:[master:00e923d21ca88f86d20bc66ffd09d860a58bfaac;]|RELEASE:[none|none]
+yifengyou/dkms: BRANCHES:[master:62661f8fe42258902fb61bceae0793f2f1692291;]|RELEASE:[none|none]
