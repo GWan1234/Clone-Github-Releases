@@ -4526,3 +4526,4 @@ yifengyou/dc-a588-kernel-6.1.115: BRANCHES:[master:b5194a932ae29e340f375e917eb9b
 yifengyou/dc-a588-uboot: BRANCHES:[dc-a588:51345702d9e1dba2f20f81460f37c8abee529e14;master:40ea9c91405ca882b077505046629369f335ad61;d3588:110362ddd9ffb97d7ccc0068e85151ceb01468c8;]|RELEASE:[none|none]
 yifengyou/dc-ym562: BRANCHES:[master:1a70039f6562b6355f1283962c42ba1909cb6020;]|RELEASE:[none|none]
 yifengyou/deadlockAlyzer: BRANCHES:[master:748caeaa9f247c4878ff0b8568ddb8f535a144ac;]|RELEASE:[none|none]
+yifengyou/debian-packaging-for-the-modern-developer: BRANCHES:[master:240d6e6230008bc5f802489e4c2231631be00fca;]|RELEASE:[none|none]
