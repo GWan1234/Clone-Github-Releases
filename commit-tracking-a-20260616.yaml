@@ -4610,3 +4610,4 @@ yifengyou/HelloGitHub: BRANCHES:[master:f3ff70e82b23634fb532433e269222845fe441a5
 yifengyou/hexo-local-image: BRANCHES:[master:23ed5a2754389798fffd317ac1f1d0564e864b0b;]|RELEASE:[none|none]
 yifengyou/hexo-theme-next: BRANCHES:[master:c60402ea67f4e998ae63d1b2c8a166dbd0635c20;affix:369262f546a7502dba3af093f18ffc5cfdcf8a01;can:679152b25711879808fd85237f269678b0fbeb24;three:e29e94d2170d57fe141b0047723a61c07d09a71c;i18n:3bde982edcf88e60d647b2bb3d4f9a6b202d28cd;v6.x:92a571ef9e4570b9da07f1640003f9da717ef761;]|RELEASE:[none|none]
 yifengyou/hotpatch: BRANCHES:[openEuler-kpatch-master:a0ac5abc2b37b846a5aae93346e3316b20c6f9c8;master:a47e7eec4e5fea108d9a495c5a5095b5e4e2b519;]|RELEASE:[none|none]
+yifengyou/hping3-0.0.20051105: BRANCHES:[master:25c58524a5cc8fa690594edd3e3f9dd102da5d99;docs:8bc697e0130314b3f0909801a245bf9763f70e62;]|RELEASE:[none|none]
