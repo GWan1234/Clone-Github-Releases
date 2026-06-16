@@ -4473,3 +4473,4 @@ yifengyou/asmPortScan: BRANCHES:[master:472b66eb214e52fab3225827144070b7650724c3
 yifengyou/asmttpd: BRANCHES:[master:af5b69e39ff52f5a10a7c455e25e8127b3844533;fasm:e36390ccfc4ecf11f50f7f34ed947b076ded86ac;osx:baa5a1506b080a4e6320f084728f2be26261fdc2;]|RELEASE:[none|none]
 yifengyou/atom-markdown-toc: BRANCHES:[master:0345d45ae1f41f6296730922c9d98fbc85748c23;]|RELEASE:[none|none]
 yifengyou/awesome-asm: BRANCHES:[master:325702063a8f6d1d0f7524910e28df4b13cd7d1c;]|RELEASE:[none|none]
+yifengyou/awesome-malware-analysis: BRANCHES:[master:604a93b22090b032e5a2eb6393e2f29beb781120;hslatman-patch-3:79ec5bf5f6cc6516ba9af17807fa624f89648b2b;hslatman-patch-2:c317c66709a6bba04bf64705037494e53e40226d;hslatman-patch-1:94c9b2a8c601053968e0945cd077649f4c2d3020;]|RELEASE:[none|none]
