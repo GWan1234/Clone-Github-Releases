@@ -4822,3 +4822,4 @@ yifengyou/ophub-kernel: BRANCHES:[main:8ea47bc1e40e157f780a9ccbfb6a0a833d2b5beb;
 yifengyou/os-elephant: BRANCHES:[master:76ed80167b74d674c753234d8f8c4ad5816ac228;]|RELEASE:[none|none]
 yifengyou/osbuild: BRANCHES:[docs:001e2693b93ddef281b79c653f4b9874503ed999;master:6f4b403eb17a54a0ba564b475c058e7e6036aa44;]|RELEASE:[none|none]
 yifengyou/panda: BRANCHES:[master:9d63be65425d1a76dc963e45b753246654a3ae4d;]|RELEASE:[none|none]
+yifengyou/panicAlyzer: BRANCHES:[master:2c1bf2a16e8cb8d2b3fe35d267d03445f662f9ad;docs:13a598950c01e64e55db975498c01d1302da21df;]|RELEASE:[none|none]
