@@ -4815,3 +4815,4 @@ yifengyou/OpenCloudOS: BRANCHES:[master:6fcc42863ef4ddd0b5cdcafe73adf960f93c5e74
 yifengyou/OpenEuler: BRANCHES:[master:43483d4eeff34f1e9855444abed5069e6a012d6b;docs:215a281727ef4a931b770a2bfd1b5732cb8a5829;]|RELEASE:[none|none]
 yifengyou/openssl-RPM-Builder: BRANCHES:[master:2640865b02ddac437d82f766951ab8af3bdbaa5a;]|RELEASE:[none|none]
 yifengyou/openstack: BRANCHES:[cloud_computing_openstack:cc5c7541769fd52711f640a46853fd686109b29b;main:3cba4f5976fa852f9817d5743273e87cd9ce47b9;]|RELEASE:[none|none]
+yifengyou/openwrt: BRANCHES:[master:9c19c35d1ee3af7dc4f173871ab774d8d30a4e18;openwrt-18.06:05062462f12952dba47c2c4529a179576e4a4fd9;openwrt-19.07:b6c01fec921bb094416e70abad4c706b6cb030fd;lede-17.01:beaa2ecc10b5a3d1ea95c95fe1ff4c32f5e88965;]|RELEASE:[none|none]
