@@ -4806,3 +4806,4 @@ yifengyou/nitro-kmod: BRANCHES:[remote-kill:abb5450fa602434b6d7137b9a21274f8afaa
 yifengyou/nitro-kmod_build: BRANCHES:[master:7600249ab08c15ee6bb2ccdf143d15e90c3555b6;]|RELEASE:[none|none]
 yifengyou/nitro-qemu: BRANCHES:[master:d414c73fcbeec841c14c541d3f15c3292750e812;]|RELEASE:[none|none]
 yifengyou/numactl: BRANCHES:[master:2640f8b8b9ab1d424cb0cc4d35f91084b4b94986;docs:de3e841afa38f7409f83f22b0cac393cd62579e7;]|RELEASE:[none|none]
+yifengyou/obs: BRANCHES:[master:cb8e5e4a187369ac33e899a550f60c87cd7cddbd;]|RELEASE:[none|none]
