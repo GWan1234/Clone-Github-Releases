@@ -4856,3 +4856,4 @@ yifengyou/rk3399pro-evb-kernel: BRANCHES:[develop-4.4:feb5b4e7d23356eeb9bb61b452
 yifengyou/rk3399pro-evb-uboot: BRANCHES:[master:68a3af431245ce4f9def1d9d460fe9984422d5c5;next-dev:4873a89ace0f303704b7e01d545c701c1edbac75;release:524f26463d9251cb8eef248c36eec33271f06dcb;rkdevelop:1ab854d6bb36a46c10ef93f36a8040145faceb25;rkproduct:f755231f8782236c554d1aa1dbea52329c9a0687;multi-os:d1b726288e268f21feeb361f066dd9c4086a2921;evb3288:d2f32c567341022a5c6c4a22d8ac7ef4be389863;android:f506ee2a95b9ec1d1a1f5c47d8fed19822385e4e;rk3036:d64ef6b272d84c92bd02a7925f500880633c8599;]|RELEASE:[none|none]
 yifengyou/rk3588-owl-ai-box-plus: BRANCHES:[master:4ef7968ce5fc252d084c8348c867c67d4e430f13;]|RELEASE:[torvalds_linux_kernel|none]
 yifengyou/rk3588-owl-ai-box-plus-kernel: BRANCHES:[master:94dc62def22c7611af120cb62a12b169646b8f85;]|RELEASE:[none|none]
+yifengyou/rk3588-owl-ai-box-plus-uboot: BRANCHES:[master:d339d958abb8fd705ab149b4fadd4a176e402efc;]|RELEASE:[none|none]
