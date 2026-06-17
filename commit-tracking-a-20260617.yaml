@@ -4766,3 +4766,4 @@ yifengyou/linux-kernel: BRANCHES:[master:9db59599ae502b38b27cff6462273f84acd5992
 yifengyou/linux-kernel-clion: BRANCHES:[master:9b6597b66f0f8775dcb2ad21e31e36a1ffdbf3fb;]|RELEASE:[none|none]
 yifengyou/linux-kernel-driver: BRANCHES:[kernel-drivers:8abc1ea60f4aa349dae0f3a8ada9ecdbacd22a1e;main:8abc1ea60f4aa349dae0f3a8ada9ecdbacd22a1e;docs:42cefdb7206a4ab23c8d67edfa916b8a9255fa69;]|RELEASE:[none|none]
 yifengyou/linux-net: BRANCHES:[master:2f2de74b33cfb0c38ead2af0e4764ce9645e7f19;]|RELEASE:[none|none]
+yifengyou/linux-pwn: BRANCHES:[master:e2b8908a09043bc2500ca01d909a78c614507748;]|RELEASE:[none|none]
