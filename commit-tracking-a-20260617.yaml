@@ -4805,3 +4805,4 @@ yifengyou/NetworkManager-1.36.0: BRANCHES:[master:0e0634571e3ebf33fa84e9f00f118c
 yifengyou/nitro-kmod: BRANCHES:[remote-kill:abb5450fa602434b6d7137b9a21274f8afaa7342;multi-core:4b8b76acad768801b5df13d20cdc163fde0ee97c;master:04c550d352ed1dcdf26b21fa69529bf206d4f02e;]|RELEASE:[none|none]
 yifengyou/nitro-kmod_build: BRANCHES:[master:7600249ab08c15ee6bb2ccdf143d15e90c3555b6;]|RELEASE:[none|none]
 yifengyou/nitro-qemu: BRANCHES:[master:d414c73fcbeec841c14c541d3f15c3292750e812;]|RELEASE:[none|none]
+yifengyou/numactl: BRANCHES:[master:2640f8b8b9ab1d424cb0cc4d35f91084b4b94986;docs:de3e841afa38f7409f83f22b0cac393cd62579e7;]|RELEASE:[none|none]
