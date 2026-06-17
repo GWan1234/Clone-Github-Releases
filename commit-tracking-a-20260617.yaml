@@ -4807,3 +4807,4 @@ yifengyou/nitro-kmod_build: BRANCHES:[master:7600249ab08c15ee6bb2ccdf143d15e90c3
 yifengyou/nitro-qemu: BRANCHES:[master:d414c73fcbeec841c14c541d3f15c3292750e812;]|RELEASE:[none|none]
 yifengyou/numactl: BRANCHES:[master:2640f8b8b9ab1d424cb0cc4d35f91084b4b94986;docs:de3e841afa38f7409f83f22b0cac393cd62579e7;]|RELEASE:[none|none]
 yifengyou/obs: BRANCHES:[master:cb8e5e4a187369ac33e899a550f60c87cd7cddbd;]|RELEASE:[none|none]
+yifengyou/OnlineJudge: BRANCHES:[zemal_dev:b694000ab937fc1f3e6cfca44444e33c28d5c039;master:446d1c5d4a5523d278b14a9c52ed0ae184785b16;opt:f5566148bce13b91d651e4089f2e1e970de05335;update_dockerfile:79dfaa5ba12b5dac0f79c34eeeaed205941c2f60;chiaki_dev:ce7161552f09b903008c03021bfc29d760624a5e;2.0:583954c61bd590567f40fd4bf542d743bb62ea4a;python-support:eec1a1dcfcf24423296995bae5e28940c6a304b9;vj:7f7699780a333c8a45ba32a24d8c60da43941ddb;]|RELEASE:[none|none]
