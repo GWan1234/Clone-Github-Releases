@@ -4840,3 +4840,4 @@ yifengyou/python: BRANCHES:[main:b3241cd7eba0997fa6925ac36ceb357dda3ca7df;1000ph
 yifengyou/python-crash-course: BRANCHES:[master:be865859d3f1356636ec8c96c647f68ac25b9537;]|RELEASE:[none|none]
 yifengyou/qemu-2.8.1.1: BRANCHES:[main:76e26e82383b0d046c73ebfc9657628f39edfb7d;]|RELEASE:[none|none]
 yifengyou/qemu-7.0.0: BRANCHES:[master:ede20b74a9e670a784a2016bdaafc64aec813e3b;]|RELEASE:[none|none]
+yifengyou/R619AC-OpBoot-and-OpenWrt-flashing: BRANCHES:[master:ad4c44cd0ea29258791159630c5b6e13995fc062;]|RELEASE:[none|none]
