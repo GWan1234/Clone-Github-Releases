@@ -4764,3 +4764,4 @@ yifengyou/linux-kconfig: BRANCHES:[master:0774b12824a76129f489476f948e6cae1da4f2
 yifengyou/gold-miner: BRANCHES:[css-hex-colors-demystified:40e14340a220c1d8fb7777c8c4a89242da7b3d95;master:c6f47ba195331369e12c87a0e837016486fcb671;binary-ast-newsletter-1:a89c7b3d9e2863ff76a263a7c9f6cb111edb34e4;error-message:6f724ff90c2cfb3129429fe9f8a1b11f78478366;learning-react-js-is-easier-than-you-think:733df0058e74a480000745db8e323e0c7f073fbf;translation/using-feature-queries-in-css:058b71509488588015dfb82d44ff8d0b15479923;]|RELEASE:[none|none]
 yifengyou/linux-kernel: BRANCHES:[master:9db59599ae502b38b27cff6462273f84acd59927;]|RELEASE:[none|none]
 yifengyou/linux-kernel-clion: BRANCHES:[master:9b6597b66f0f8775dcb2ad21e31e36a1ffdbf3fb;]|RELEASE:[none|none]
+yifengyou/linux-kernel-driver: BRANCHES:[kernel-drivers:8abc1ea60f4aa349dae0f3a8ada9ecdbacd22a1e;main:8abc1ea60f4aa349dae0f3a8ada9ecdbacd22a1e;docs:42cefdb7206a4ab23c8d67edfa916b8a9255fa69;]|RELEASE:[none|none]
