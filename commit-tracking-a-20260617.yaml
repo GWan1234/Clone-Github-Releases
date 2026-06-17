@@ -4801,3 +4801,4 @@ yifengyou/mysql: BRANCHES:[master:fc37e0d5fce491f3c19cfdcc7681fbdbb2da122f;]|REL
 yifengyou/nanopit4: BRANCHES:[master:087c27374b8a710f3bc018af0a0e5795540df41e;]|RELEASE:[Armbian_nanopct4_trixie|none]
 yifengyou/ndb: BRANCHES:[master:9354ff1bfc777ba9d03c3414e3043baf9ec2245a;]|RELEASE:[none|none]
 yifengyou/NetworkManager: BRANCHES:[master:0fa6fe4a5dc4c2e59c4fdf9dda4e188a579e78d6;]|RELEASE:[none|none]
+yifengyou/NetworkManager-1.36.0: BRANCHES:[master:0e0634571e3ebf33fa84e9f00f118c42db5b48cd;]|RELEASE:[none|none]
