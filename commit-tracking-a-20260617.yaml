@@ -4810,3 +4810,4 @@ yifengyou/obs: BRANCHES:[master:cb8e5e4a187369ac33e899a550f60c87cd7cddbd;]|RELEA
 yifengyou/OnlineJudge: BRANCHES:[zemal_dev:b694000ab937fc1f3e6cfca44444e33c28d5c039;master:446d1c5d4a5523d278b14a9c52ed0ae184785b16;opt:f5566148bce13b91d651e4089f2e1e970de05335;update_dockerfile:79dfaa5ba12b5dac0f79c34eeeaed205941c2f60;chiaki_dev:ce7161552f09b903008c03021bfc29d760624a5e;2.0:583954c61bd590567f40fd4bf542d743bb62ea4a;python-support:eec1a1dcfcf24423296995bae5e28940c6a304b9;vj:7f7699780a333c8a45ba32a24d8c60da43941ddb;]|RELEASE:[none|none]
 yifengyou/oomAlyzer: BRANCHES:[master:f9396652c22b11231cf20c5dfc5a1b48652b4f71;docs:3dda85cf895222fd8d59a21d88af4a5a29a9922f;]|RELEASE:[none|none]
 yifengyou/OpenAnolis: BRANCHES:[master:2c27a59141fa2ab2b76183c4bddb7a6ade19ced3;]|RELEASE:[none|none]
+yifengyou/openchain: BRANCHES:[master:3422c96258d0251b7221ef2be1c9f79a7d26ebdb;]|RELEASE:[none|none]
