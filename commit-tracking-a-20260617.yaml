@@ -4857,3 +4857,4 @@ yifengyou/rk3399pro-evb-uboot: BRANCHES:[master:68a3af431245ce4f9def1d9d460fe998
 yifengyou/rk3588-owl-ai-box-plus: BRANCHES:[master:4ef7968ce5fc252d084c8348c867c67d4e430f13;]|RELEASE:[torvalds_linux_kernel|none]
 yifengyou/rk3588-owl-ai-box-plus-kernel: BRANCHES:[master:94dc62def22c7611af120cb62a12b169646b8f85;]|RELEASE:[none|none]
 yifengyou/rk3588-owl-ai-box-plus-uboot: BRANCHES:[master:d339d958abb8fd705ab149b4fadd4a176e402efc;]|RELEASE:[none|none]
+yifengyou/rkbin: BRANCHES:[master:b0c100f1a260d807df450019774993c761beb79d;]|RELEASE:[none|none]
