@@ -4795,3 +4795,4 @@ yifengyou/microsegment: BRANCHES:[master:a63148840ab61986c5ee5cd72ffa45beb086953
 yifengyou/mirros: BRANCHES:[master:81a5213b969682c8e6657baabd498d8c8d239e30;upstream:26a10a3db42e3f8a4c78fe5c778abfb8edfa3233;]|RELEASE:[none|none]
 yifengyou/moby: BRANCHES:[master:ba3bf8191e3390745420ada6b7f79483eb7e7be0;17.03.x:ceb9e244d934d87104b7e4e0032f1d389e47fd64;17.04.x:a1e8b2ede880ffa159c72b4d62c827475fbff531;17.05.x:89658bed64c2a8fe05a978e5b87dbec409d57a0f;moby:252f7246a740b7a1d502638b4026ec81f359e0e1;1.13.x:473c5701cb66403b0535a5c01845cb0f27fbeb47;docs:301bfbdd21c7795c41611bf8a8c31a0136b91bde;1.12.x:175f1829377413b1887a0c38232b1cda975fd71c;]|RELEASE:[none|none]
 yifengyou/mock: BRANCHES:[master:0d922dc42ccd499a9778a48218bc7e77df00be7b;docs:042a1dbf37f18d33e12a4e4c57cfc21be00b10bb;]|RELEASE:[none|none]
+yifengyou/movfuscator: BRANCHES:[master:c86bd9b3be7f1bb4039e9311edac8afdc8e97f48;]|RELEASE:[none|none]
