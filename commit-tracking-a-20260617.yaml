@@ -4798,3 +4798,4 @@ yifengyou/mock: BRANCHES:[master:0d922dc42ccd499a9778a48218bc7e77df00be7b;docs:0
 yifengyou/movfuscator: BRANCHES:[master:c86bd9b3be7f1bb4039e9311edac8afdc8e97f48;]|RELEASE:[none|none]
 yifengyou/mykernel: BRANCHES:[master:7a77b511ee195679670b8ef39b3bc548e7830c36;]|RELEASE:[none|none]
 yifengyou/mysql: BRANCHES:[master:fc37e0d5fce491f3c19cfdcc7681fbdbb2da122f;]|RELEASE:[none|none]
+yifengyou/nanopit4: BRANCHES:[master:087c27374b8a710f3bc018af0a0e5795540df41e;]|RELEASE:[Armbian_nanopct4_trixie|none]
