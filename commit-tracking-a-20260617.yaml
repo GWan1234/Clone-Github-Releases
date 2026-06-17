@@ -4842,3 +4842,4 @@ yifengyou/qemu-2.8.1.1: BRANCHES:[main:76e26e82383b0d046c73ebfc9657628f39edfb7d;
 yifengyou/qemu-7.0.0: BRANCHES:[master:ede20b74a9e670a784a2016bdaafc64aec813e3b;]|RELEASE:[none|none]
 yifengyou/R619AC-OpBoot-and-OpenWrt-flashing: BRANCHES:[master:ad4c44cd0ea29258791159630c5b6e13995fc062;]|RELEASE:[none|none]
 yifengyou/raft-zh_cn: BRANCHES:[master:dc9417449944a429216257680b49275733d12807;]|RELEASE:[none|none]
+yifengyou/Raspberry_Pi: BRANCHES:[4b:63f671db969f66daf8c0b0548d4e93927f05b850;main:5deffc76398efcd667f1f2b6c248b4ff5b4b132f;]|RELEASE:[none|none]
