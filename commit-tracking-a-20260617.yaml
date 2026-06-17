@@ -4827,3 +4827,4 @@ yifengyou/parser-elf: BRANCHES:[master:10cc8d68680f869211651118a54422d24a6a2d14;
 yifengyou/parser-iso: BRANCHES:[master:dd1fbc6c21f8d9fcbf32eba0618c7d37411562ef;]|RELEASE:[none|none]
 yifengyou/parser-pe: BRANCHES:[master:9061ac1b131232f42cdf9a83393abebb5be1dfa3;]|RELEASE:[none|none]
 yifengyou/patch: BRANCHES:[master:da846c872a519ff72e87ca1312b1531067a782a0;]|RELEASE:[none|none]
+yifengyou/patch-2.7.6: BRANCHES:[docs:24476fb581c2940ebe4efead70cba08a52004a31;master:a2ab89775d74acb838e30b62da2537ff7d6c6e80;]|RELEASE:[none|none]
