@@ -4848,3 +4848,4 @@ yifengyou/Reading-and-comprehense-linux-Kernel-network-protocol-stack: BRANCHES:
 yifengyou/redis-5.0.3: BRANCHES:[master:cae2d93a7ff9b2019ace692197bc31cf1715df52;]|RELEASE:[none|none]
 yifengyou/repo: BRANCHES:[master:65bcda877c0b72858cda2d767bd5052d0907e37e;docs:7ab6218e37aec13ba874043a8051c616a2525b6d;]|RELEASE:[none|none]
 yifengyou/research-linux0.11: BRANCHES:[master:1ac29d49a720271d7e92177e572c106556a33294;]|RELEASE:[none|none]
+yifengyou/research-rootkit: BRANCHES:[master:5e1db10f09f57b7b90882dec689c17200d24d9a4;]|RELEASE:[none|none]
