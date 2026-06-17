@@ -4819,3 +4819,4 @@ yifengyou/openwrt: BRANCHES:[master:9c19c35d1ee3af7dc4f173871ab774d8d30a4e18;ope
 yifengyou/OpenWrt-gdock: BRANCHES:[master:c925ae2741fba797a3e044d2038c35019538d0f9;]|RELEASE:[none|none]
 yifengyou/openwrtcc15.05: BRANCHES:[master:9a1fd3e313cedf1e689f6f4e342528ed27c09766;]|RELEASE:[none|none]
 yifengyou/ophub-kernel: BRANCHES:[main:8ea47bc1e40e157f780a9ccbfb6a0a833d2b5beb;]|RELEASE:[kernel_beta|none]
+yifengyou/os-elephant: BRANCHES:[master:76ed80167b74d674c753234d8f8c4ad5816ac228;]|RELEASE:[none|none]
