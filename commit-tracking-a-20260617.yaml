@@ -4858,3 +4858,4 @@ yifengyou/rk3588-owl-ai-box-plus: BRANCHES:[master:4ef7968ce5fc252d084c8348c867c
 yifengyou/rk3588-owl-ai-box-plus-kernel: BRANCHES:[master:94dc62def22c7611af120cb62a12b169646b8f85;]|RELEASE:[none|none]
 yifengyou/rk3588-owl-ai-box-plus-uboot: BRANCHES:[master:d339d958abb8fd705ab149b4fadd4a176e402efc;]|RELEASE:[none|none]
 yifengyou/rkbin: BRANCHES:[master:b0c100f1a260d807df450019774993c761beb79d;]|RELEASE:[none|none]
+yifengyou/rock5b: BRANCHES:[master:0065df130ad10964b229c508e8cb3ae342f1964f;]|RELEASE:[workflow_envinfo|none]
