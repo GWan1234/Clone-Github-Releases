@@ -4851,3 +4851,4 @@ yifengyou/research-linux0.11: BRANCHES:[master:1ac29d49a720271d7e92177e572c10655
 yifengyou/research-rootkit: BRANCHES:[master:5e1db10f09f57b7b90882dec689c17200d24d9a4;]|RELEASE:[none|none]
 yifengyou/rk-open-docs: BRANCHES:[master:d5530e3aabaca7ddebd98681352b4aec355d7d58;]|RELEASE:[none|none]
 yifengyou/rk2918_tools: BRANCHES:[master:5f114faa144edfce1ecfe35eb1aa7b85e021b6a6;]|RELEASE:[none|none]
+yifengyou/rk3399-evb: BRANCHES:[master:ebb5d4f9b6061b1a571037f2d1da5c84111310c4;]|RELEASE:[none|none]
