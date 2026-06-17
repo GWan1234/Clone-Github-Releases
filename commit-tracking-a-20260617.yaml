@@ -4772,3 +4772,4 @@ yifengyou/linux-struct: BRANCHES:[master:51238223088693a9932c768808bf70cdeb3b464
 yifengyou/linux-syscall: BRANCHES:[main:00a09ae09e0253ee3ff4c82617b32a8252363dd1;]|RELEASE:[none|none]
 yifengyou/LinuxDev: BRANCHES:[master:53229420c7bedabefb3602c2f318ba047d92cf0e;]|RELEASE:[none|none]
 yifengyou/LinuxKernelTravel: BRANCHES:[master:450c92ed55d44c5fb8aa9be01721684f6a2ac41f;]|RELEASE:[none|none]
+yifengyou/Liontron-D3588: BRANCHES:[master:e5fd20cb48b11884478f4fbd4c7f30ae3f7b9828;]|RELEASE:[official_5.10.198_kernel|none]
