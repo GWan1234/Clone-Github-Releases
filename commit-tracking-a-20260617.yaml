@@ -4802,3 +4802,4 @@ yifengyou/nanopit4: BRANCHES:[master:087c27374b8a710f3bc018af0a0e5795540df41e;]|
 yifengyou/ndb: BRANCHES:[master:9354ff1bfc777ba9d03c3414e3043baf9ec2245a;]|RELEASE:[none|none]
 yifengyou/NetworkManager: BRANCHES:[master:0fa6fe4a5dc4c2e59c4fdf9dda4e188a579e78d6;]|RELEASE:[none|none]
 yifengyou/NetworkManager-1.36.0: BRANCHES:[master:0e0634571e3ebf33fa84e9f00f118c42db5b48cd;]|RELEASE:[none|none]
+yifengyou/nitro-kmod: BRANCHES:[remote-kill:abb5450fa602434b6d7137b9a21274f8afaa7342;multi-core:4b8b76acad768801b5df13d20cdc163fde0ee97c;master:04c550d352ed1dcdf26b21fa69529bf206d4f02e;]|RELEASE:[none|none]
