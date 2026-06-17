@@ -4779,3 +4779,4 @@ yifengyou/livego: BRANCHES:[master:619e76c544f53ef68847392371e913e81e3e8d71;webu
 yifengyou/livepatch: BRANCHES:[master:fee02d57b5e5d43cc5f8a35d0b901fa4a6e0cd43;]|RELEASE:[none|none]
 yifengyou/lkm: BRANCHES:[master:7810079e6a24368978827939ebf8c5f8bf31e998;]|RELEASE:[none|none]
 yifengyou/lkmpg: BRANCHES:[gh-pages:8656a33f49260e719250277510f214306e11af37;master:b0bbe0121fb98990dfd5014af094f788c4c75b65;threaded-irq:ed1962752a9d8789fed93ff7145385d055ed2240;]|RELEASE:[none|none]
+yifengyou/lockupAlyzer: BRANCHES:[master:ca09096c6670cc652221a92da0d51a363b70fe62;docs:d3eeb005c66f9c3e6c4179e36ae8f9dfa41f4fd2;]|RELEASE:[none|none]
