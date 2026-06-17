@@ -4818,3 +4818,4 @@ yifengyou/openstack: BRANCHES:[cloud_computing_openstack:cc5c7541769fd52711f640a
 yifengyou/openwrt: BRANCHES:[master:9c19c35d1ee3af7dc4f173871ab774d8d30a4e18;openwrt-18.06:05062462f12952dba47c2c4529a179576e4a4fd9;openwrt-19.07:b6c01fec921bb094416e70abad4c706b6cb030fd;lede-17.01:beaa2ecc10b5a3d1ea95c95fe1ff4c32f5e88965;]|RELEASE:[none|none]
 yifengyou/OpenWrt-gdock: BRANCHES:[master:c925ae2741fba797a3e044d2038c35019538d0f9;]|RELEASE:[none|none]
 yifengyou/openwrtcc15.05: BRANCHES:[master:9a1fd3e313cedf1e689f6f4e342528ed27c09766;]|RELEASE:[none|none]
+yifengyou/ophub-kernel: BRANCHES:[main:8ea47bc1e40e157f780a9ccbfb6a0a833d2b5beb;]|RELEASE:[kernel_beta|none]
