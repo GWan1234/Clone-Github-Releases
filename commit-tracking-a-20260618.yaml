@@ -4860,3 +4860,4 @@ yifengyou/rk3588-owl-ai-box-plus-uboot: BRANCHES:[master:d339d958abb8fd705ab149b
 yifengyou/rkbin: BRANCHES:[master:b0c100f1a260d807df450019774993c761beb79d;]|RELEASE:[none|none]
 yifengyou/rock5b: BRANCHES:[master:0065df130ad10964b229c508e8cb3ae342f1964f;]|RELEASE:[workflow_envinfo|none]
 yifengyou/rockchip-tools: BRANCHES:[master:acf0023cb4508301aef2c94336c27d05eb17697b;]|RELEASE:[none|none]
+ioBroker/mcp-package: BRANCHES:[main:2c6fdbd2ed3d9c168caed3b645872298ef3e932c;dependabot/github_actions/actions/checkout-6:994090061945725dd4f110cf37ac1da761d884b5;dependabot/github_actions/github/codeql-action-4:2bc01245215bf8f798c965aeabd57ee3843f6904;]|RELEASE:[none|none]
