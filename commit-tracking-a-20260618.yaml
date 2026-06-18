@@ -4883,3 +4883,4 @@ yifengyou/samba: BRANCHES:[master:e8575d2bd304c48245ed7656c4ca924a4e9e53ec;]|REL
 yifengyou/sandlock: BRANCHES:[main:622795dedc0fb0d7c976a4d12078695197225c1e;rust-spawn-checkpoint:d736707c2086c57c4d96081e33e71a455a80056a;]|RELEASE:[none|none]
 yifengyou/saydone: BRANCHES:[master:64a2d0ee6ccdc6a31d663587a3ce7a9198079bd3;]|RELEASE:[none|none]
 yifengyou/SDK.UBNT.v5.5: BRANCHES:[master:d559e65713d64fee6c3f28f1d9d180a26756ecf3;feature/quagga-0.99.21:c1406b3707d792716d4a413c95119394f60f26e7;feature/ninuxarch-routing:fb40689f0def980bfc7554d206d6bb3897f53f48;bugfix/radvd-v1.2-do-not-work:4fa15d4661ff9e9b0a4e57faa1089cea6b1e761c;feature/optional-gateway:92bfed321f18a9dcd6f851c1406a19684841a1a9;feature/multiple-rt2:d348740242680adf58fa6afe79ab1664412e66bf;feature/multiple-rt:772f883901644818c96aada8c7bc783bdcaa5a49;]|RELEASE:[none|none]
+yifengyou/SEAL: BRANCHES:[master:3940336d40d22f0685e441dc400bbe0400872c8b;]|RELEASE:[none|none]
