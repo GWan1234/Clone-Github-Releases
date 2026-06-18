@@ -4865,3 +4865,4 @@ yifengyou/rockchip-toybrick-kernel: BRANCHES:[stable:663e851d80f83be6624fab08f19
 yifengyou/rockchip-toybrick-linux-x86: BRANCHES:[master:32505a8032d04e9320dbdb817b08bf67bdfb5a0c;]|RELEASE:[none|none]
 yifengyou/rockchip-toybrick-rkbin: BRANCHES:[develop-12.1:e539c622801de502d45f60ecc5ffc4c676f6cdd6;develop-11.0:042e9318daaaa0f89bfa3313b2e267c8add2c96c;master:78c1c4939634a76f6f4531c912c1a52a83f0451b;]|RELEASE:[none|none]
 yifengyou/rockchip-toybrick-u-boot: BRANCHES:[master:5e8b7ebafa4d7b36c28d233f0d25bbb7f5697e28;master-a12:ccd395cb5c766768d989c443498ca21290821c59;next-dev:977627fbb4f1ec4e4b653071a6baf5da71e62670;ruihe:3cfaf9766d5aaebc7ce013965212cb4946624fc2;96ai:f727b12a0bff0cff9d45c29beee35f9620977a88;eaidk610:9b90093b2708f90817960df587c55e0435c9794a;]|RELEASE:[none|none]
+yifengyou/rocky-linux: BRANCHES:[main:08520fe5c7f2a398320f7c3c40c2ac6d622a6bf0;]|RELEASE:[none|none]
