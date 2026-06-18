@@ -4881,3 +4881,4 @@ yifengyou/sabpf-kernel: BRANCHES:[cgroup_lsm:18cb9303ed52c5464c4dd25981944b2b3af
 yifengyou/safeguard: BRANCHES:[master:b1cae8a6625ef5a5348251980ab80a0fdc27281d;]|RELEASE:[none|none]
 yifengyou/samba: BRANCHES:[master:e8575d2bd304c48245ed7656c4ca924a4e9e53ec;]|RELEASE:[none|none]
 yifengyou/sandlock: BRANCHES:[main:622795dedc0fb0d7c976a4d12078695197225c1e;rust-spawn-checkpoint:d736707c2086c57c4d96081e33e71a455a80056a;]|RELEASE:[none|none]
+yifengyou/saydone: BRANCHES:[master:64a2d0ee6ccdc6a31d663587a3ce7a9198079bd3;]|RELEASE:[none|none]
