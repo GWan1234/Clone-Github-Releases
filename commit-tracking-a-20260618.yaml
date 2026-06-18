@@ -4879,3 +4879,4 @@ yifengyou/rust: BRANCHES:[main:d03032409a9818b9c61459928ba7ee932c764641;]|RELEAS
 yifengyou/Ryu-VM-Management: BRANCHES:[master:c04989af34fb037d8b9c59d70d9dc8b30ac80bda;]|RELEASE:[none|none]
 yifengyou/sabpf-kernel: BRANCHES:[cgroup_lsm:18cb9303ed52c5464c4dd25981944b2b3afa400a;cgroup_lsmv2:bcdf55189233f6543116aedf5ce9254a66acc998;rpm:663196ccf80c5e207b065b409cf48501090412d8;main:07279b6faf0b30444110fee282d4898f26ff467e;dummy_lsm:12eabbea6823671aa0aba3f82de4f5fd8d8606fe;cgroup_lsmv1:71b0c9d182e60ae801198385d1158bf71507a523;skb_load_bytes:91c61730599c5386deaf2f5a6dc57e7502555c46;dentry_path:1a3b4520eb5477418385ad5bb5ab9f03cba73987;]|RELEASE:[none|none]
 yifengyou/safeguard: BRANCHES:[master:b1cae8a6625ef5a5348251980ab80a0fdc27281d;]|RELEASE:[none|none]
+yifengyou/samba: BRANCHES:[master:e8575d2bd304c48245ed7656c4ca924a4e9e53ec;]|RELEASE:[none|none]
