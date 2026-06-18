@@ -4870,3 +4870,4 @@ yifengyou/rockylinux-devtools: BRANCHES:[main:526b971360660e40bc9a152ea65ae96508
 yifengyou/rockylinux-srpmproc: BRANCHES:[main:06ffd1e50796ee3a1f769d70a1526a8589cdb798;]|RELEASE:[none|none]
 yifengyou/rootkit: BRANCHES:[master:81d2d0433573c3f0e8ed6d62a7bd24a038760a5e;]|RELEASE:[none|none]
 yifengyou/rootkit-sample-code: BRANCHES:[master:2f3505095e6f6a360ee9c33911c9ef26bd16c944;]|RELEASE:[none|none]
+yifengyou/rpm: BRANCHES:[main:40ccb34373760a147ee5adfa1d32a9a0e3afab23;]|RELEASE:[none|none]
