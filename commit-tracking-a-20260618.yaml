@@ -4872,3 +4872,4 @@ yifengyou/rootkit: BRANCHES:[master:81d2d0433573c3f0e8ed6d62a7bd24a038760a5e;]|R
 yifengyou/rootkit-sample-code: BRANCHES:[master:2f3505095e6f6a360ee9c33911c9ef26bd16c944;]|RELEASE:[none|none]
 yifengyou/rpm: BRANCHES:[main:40ccb34373760a147ee5adfa1d32a9a0e3afab23;]|RELEASE:[none|none]
 yifengyou/rpmbuild: BRANCHES:[master:b569a05b7a18a7396e584a90e35acf102830dc07;docs:1311dcfccc5607637bb8daccd70d02f21e0222ec;]|RELEASE:[none|none]
+yifengyou/rsync: BRANCHES:[master:8b3071f94ef888a8170955ef3771043c3a5804fd;]|RELEASE:[none|none]
