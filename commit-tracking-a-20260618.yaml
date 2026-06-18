@@ -4907,3 +4907,4 @@ yifengyou/systemd: BRANCHES:[master:a5e1d1520141bb8c34bb17669e629d0951932ea9;doc
 yifengyou/systemd-239: BRANCHES:[master:ecc6a7391a2ac9deb4e0ce6c657d2861b7dc5203;]|RELEASE:[none|none]
 yifengyou/systemtap: BRANCHES:[master:60eaf12ce173c9ddd9f29886278812a557577a65;docs:cef4625fa57851b52638a63b4b29e4d45a38d207;]|RELEASE:[none|none]
 yifengyou/systune: BRANCHES:[master:756575f96cfbc385c6a9bfa847322fed3cf5ff5b;]|RELEASE:[none|none]
+yifengyou/syzkaller: BRANCHES:[master:9bec74f6c2cb821f39f2491759bcf602ff9987dc;docs:bff8b539d05a60f4bc57090efa493bd32f3099e2;usb-fuzzer:88fc7370cd7629d77c3d7a229d21819b5dc112ed;]|RELEASE:[none|none]
