@@ -1,5 +1,5 @@
 commit-tracking: 2026-04-25 05:02
-cockpit-project/cockpit-project.github.io: BRANCHES:[main:7db174fe6fbfe6377944c172048608c425240658;workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;]|RELEASE:[none|none]
+cockpit-project/cockpit-project.github.io: BRANCHES:[main:f6b434027c946c5769f44ec664750eeb76c1b96b;workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3;]|RELEASE:[none|none]
 cockpit-project/cockpit: BRANCHES:[main:3b6be58156d2c0c4a300c27240a683d8e8e9df3a;cockpit-ci-container-20260608-031954:3f2a84c9845c89d199bcf4ec0c1b16baaec925f2;rhel-8:40f407dc0c4c0d48ef3b55776a239fe53fbcbdcb;rhel-9.8:9ee89bfc529536e511b5bf5e4cd39ed489c949ca;rhel-10.2:9e445cc34bad5c125c1be4315a43ba48ef71c5d4;unit-tests-without-cockpit-js:dc961bd47aca1a83695ff7f6c1b8248d2f6fcfdf;subman-1.28-testlib:0b901a3a83a30c48c8b05c0ca41d8e8789582402;rhel-7.9:fb1da1ecc9673698a929f8d9bbb270b47eb7504e;]|RELEASE:[363.2|e0e3ba3feecf4d01e6c10a4771855b1ecc57105c]
 cockpit-project/cockpit-design: BRANCHES:[main:bde4dc78604032ac09daacf675bc8ef2544c0bbf;chunky:a9584b7634ab8f05cdab9a9f38964e261a915a28;]|RELEASE:[none|none]
 cockpit-project/hubbot: BRANCHES:[master:fd89610f8b7909874577ce5755c74eab24b08f99;]|RELEASE:[none|none]
