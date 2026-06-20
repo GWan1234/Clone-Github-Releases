@@ -4950,3 +4950,4 @@ yifengyou/windows-kernel-exploits: BRANCHES:[master:1dc201c83b32a2b84455f2a17b59
 yifengyou/WNetLicensor: BRANCHES:[master:274baa820ddac05b8b1c2279605b80b83cc83225;]|RELEASE:[none|none]
 yifengyou/WProtect: BRANCHES:[master:0940a6e35e0da02c71edc34a6d24fc97a443ee62;]|RELEASE:[none|none]
 yifengyou/write-a-C-interpreter: BRANCHES:[master:64ac65bcbd64d6ea1ee49699b8e1bef2356581dd;step-6:fb9badda9852ab4f63599f79dc5db755611af884;step-5:ca2df1e5c356d3e696cb120220bab6ce7860d27d;step-4:b46ab088cbdd3abe6cd04bbb147e639fd8441db6;step-3:137f596cea8e12859a0f46a388735d1b9e533949;step-2:f741be7c28db4900ceecad8baa515f99e28e6add;tutorial-en:73eaedd50d6cbcdfbb29a0bd0da1f1e48f9db4cd;step-1:9fda3bfc43fb0b363e657cd4bc5d1a0245b91534;step-0:dfaa932c7dc8aafd54c1ee3aae18b12c694879f4;]|RELEASE:[none|none]
+yifengyou/wtg-assistant: BRANCHES:[mainline:177e242e24a446642506ffaca1887e9e84f252eb;master:b479db510a4770a9ee8cfa9c9eb57e0f9a874adb;]|RELEASE:[none|none]
