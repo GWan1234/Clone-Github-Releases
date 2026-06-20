@@ -4910,3 +4910,4 @@ yifengyou/systune: BRANCHES:[master:756575f96cfbc385c6a9bfa847322fed3cf5ff5b;]|R
 yifengyou/syzkaller: BRANCHES:[master:9bec74f6c2cb821f39f2491759bcf602ff9987dc;docs:bff8b539d05a60f4bc57090efa493bd32f3099e2;usb-fuzzer:88fc7370cd7629d77c3d7a229d21819b5dc112ed;]|RELEASE:[none|none]
 yifengyou/TB-RK3399ProD: BRANCHES:[master:2fb376ca9d5f6fca1b218308c91b4bcaf71778cc;]|RELEASE:[official-image-4.4.194|none]
 yifengyou/TencentOS-kernel: BRANCHES:[master:f9a96d3888b0e468d9f880c14df354c19d2fb183;]|RELEASE:[none|none]
+xiaoshi930/classschedule: BRANCHES:[main:e39a0b9ce5c2cdf539ee33db721f81fe8a2873c6;]|RELEASE:[1.1|none]
