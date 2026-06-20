@@ -4953,3 +4953,4 @@ yifengyou/write-a-C-interpreter: BRANCHES:[master:64ac65bcbd64d6ea1ee49699b8e1be
 yifengyou/wtg-assistant: BRANCHES:[mainline:177e242e24a446642506ffaca1887e9e84f252eb;master:b479db510a4770a9ee8cfa9c9eb57e0f9a874adb;]|RELEASE:[none|none]
 yifengyou/X86-assembly-language-from-real-mode-to-protection-mode: BRANCHES:[master:d9a3928e4a5a19c5979ed8ee7cfdfc9ddd7236b9;]|RELEASE:[none|none]
 yifengyou/Xposed: BRANCHES:[master:aa7ae1dbd63decea012000d06c2ae01fa0916dc3;]|RELEASE:[none|none]
+yifengyou/XposedHookAllMethod: BRANCHES:[master:20894374a28da5fc4d3a926640bc0a5cd72c8374;]|RELEASE:[none|none]
