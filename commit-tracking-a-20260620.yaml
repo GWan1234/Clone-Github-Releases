@@ -4938,3 +4938,4 @@ yifengyou/util-linux-2.32.1: BRANCHES:[master:feb1c43d936d12fb90f48a997a91a79a8e
 yifengyou/vector-edk: BRANCHES:[master:99fe0d044ce9681c26bc685bade4f9dd23d30541;]|RELEASE:[none|none]
 yifengyou/vendor_xiaomi_earth: BRANCHES:[lineage-21:26195c7f2ef51100e883a499d2835eef66dfc0b6;lineage-21-old:cab55243c89f3c94abd97f7d5e5f15f10c6c40c3;]|RELEASE:[none|none]
 yifengyou/vim: BRANCHES:[master:fa2a05549913c7977b4295c2b8e0e0682392e7f1;]|RELEASE:[none|none]
+yifengyou/vim-color: BRANCHES:[master:8663e2c10140e9facc60d3ea0aed29e8c86f2723;]|RELEASE:[none|none]
