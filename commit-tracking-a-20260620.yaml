@@ -4926,3 +4926,4 @@ yifengyou/top: BRANCHES:[main:7cb6835555214dc550a683c436024d74aa50f42b;]|RELEASE
 yifengyou/tsadmin: BRANCHES:[master:e4d067b563afd5f6fc02c351930b5ed1a1f886c6;]|RELEASE:[none|none]
 yifengyou/tuned: BRANCHES:[master:bc71399a979b95cead135531db60a11416044014;gh-pages:6e37898486731439db9ab4d0b35127ef8ff59495;revert-140-rhbz1592743:55078cbd0c7d875ef0c0d9a5c251d5a4fb661d7b;1.0:613169bc73b24946e3cb8d923d52d1bd1c1914d4;]|RELEASE:[none|none]
 yifengyou/tuning: BRANCHES:[master:50a0b7c327ff5149524189deb18df2269f6c0dfd;]|RELEASE:[none|none]
+yifengyou/ubuntu-rockchip: BRANCHES:[main:04da844a2860ed42b0d49eb6c9113c01de4f5ee0;dev:c0722b8d22d53a01b0ec5daca5fbd6260c610c6c;]|RELEASE:[none|none]
