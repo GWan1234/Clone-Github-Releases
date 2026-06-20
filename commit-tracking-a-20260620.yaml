@@ -4932,3 +4932,4 @@ yifengyou/ucc: BRANCHES:[master:e9d1b2d8ec92755203135b824ba4537dad6bf003;]|RELEA
 yifengyou/udis86: BRANCHES:[master:56ff6c87c11de0ffa725b14339004820556e343d;avx:d7b4ed448e866564e87357f551953b4346a68b9d;]|RELEASE:[none|none]
 yifengyou/UEFITool: BRANCHES:[master:3ffdae1123b0c3a4c263160f4a123f99fa6c7f64;new_engine:d380888c0c0b269f82e0d845440a83b56b4dad01;]|RELEASE:[none|none]
 yifengyou/UESTCthesis: BRANCHES:[master:5eef27da383c60d588ec1a279fe8ed8fb87b0146;revert-80-patch-2:ea32e98259013d66d77efcf891261801736e55a3;]|RELEASE:[none|none]
+yifengyou/usbutils-010: BRANCHES:[master:0d67f1f6370199d6b45e615c7f6688d6c8758a7f;docs:7f7c0c8d67dc72c26f4b30ea88b46b8393726a8f;]|RELEASE:[none|none]
