@@ -4930,3 +4930,4 @@ yifengyou/ubuntu-rockchip: BRANCHES:[main:04da844a2860ed42b0d49eb6c9113c01de4f5e
 yifengyou/Ubuntu18.04-MacOS-themes: BRANCHES:[master:2848cc5348982d15bd6d1990a4e3aa95716d296f;]|RELEASE:[none|none]
 yifengyou/ucc: BRANCHES:[master:e9d1b2d8ec92755203135b824ba4537dad6bf003;]|RELEASE:[none|none]
 yifengyou/udis86: BRANCHES:[master:56ff6c87c11de0ffa725b14339004820556e343d;avx:d7b4ed448e866564e87357f551953b4346a68b9d;]|RELEASE:[none|none]
+yifengyou/UEFITool: BRANCHES:[master:3ffdae1123b0c3a4c263160f4a123f99fa6c7f64;new_engine:d380888c0c0b269f82e0d845440a83b56b4dad01;]|RELEASE:[none|none]
