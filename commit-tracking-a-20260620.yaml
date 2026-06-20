@@ -4936,3 +4936,4 @@ yifengyou/usbutils-010: BRANCHES:[master:0d67f1f6370199d6b45e615c7f6688d6c8758a7
 yifengyou/util-linux: BRANCHES:[master:0036bf3286e33c00e9185703e04aa91c0710e9d1;]|RELEASE:[none|none]
 yifengyou/util-linux-2.32.1: BRANCHES:[master:feb1c43d936d12fb90f48a997a91a79a8eb6cf9c;]|RELEASE:[none|none]
 yifengyou/vector-edk: BRANCHES:[master:99fe0d044ce9681c26bc685bade4f9dd23d30541;]|RELEASE:[none|none]
+yifengyou/vendor_xiaomi_earth: BRANCHES:[lineage-21:26195c7f2ef51100e883a499d2835eef66dfc0b6;lineage-21-old:cab55243c89f3c94abd97f7d5e5f15f10c6c40c3;]|RELEASE:[none|none]
