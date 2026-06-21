@@ -4443,3 +4443,4 @@ adafruit/Ubuntu_Core_Blinka_Sensor_Snap: BRANCHES:[main:a499186c48e21516527efc2f
 emqx/classy: BRANCHES:[dev/nonblocking-run-levels:4cb6af6475502c50f4f30cdfc5bdc066324156b9;master:f9dc631e2caeaf5d4ed7f840c423cd5e7ec596b3;dev/clarify-hooks:91ee5c0ffcf87a380ae92422f3edf680229f6df7;dev/bidi-link:961d610510f136002ce4cabde5920b3c599e0802;dev/improve-autocluster:da293a2b2d9d3c60a96d9755a3268c58b89da0d1;reserve-space:242e8919c16f9747422eb47bc44774c65421480e;autocluster:40c8b246c2d8b91a6f7364951844953cc1937aaa;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AY8912_Emulator: BRANCHES:[main:2aaa89a13cf7ada8313d6e65c51f877cc5a9468c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AY8912: BRANCHES:[main:160a766b65465d6a5de239213ca06b7d18b9146f;]|RELEASE:[1.0.0|none]
+iamromulan/qttyforge: BRANCHES:[main:1aafe04b2a4daa717c1d6533a7c7b17a2926ea2c;]|RELEASE:[none|none]
