@@ -4442,3 +4442,4 @@ emqx/classy: BRANCHES:[dev/nonblocking-run-levels:4cb6af6475502c50f4f30cdfc5bdc0
 adafruit/protomq: BRANCHES:[displays-v2-testing:5b2113f6f106d0f4a270a9fd42cbe4150d4c4589;main:b7fa39485a14f38f3b6c140e6db6ff177937f544;]|RELEASE:[none|none]
 adafruit/Ubuntu_Core_Blinka_Sensor_Snap: BRANCHES:[main:a499186c48e21516527efc2fdc1ec467126c283f;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AY8912: BRANCHES:[main:160a766b65465d6a5de239213ca06b7d18b9146f;]|RELEASE:[1.0.0|none]
+iamromulan/qttyforge: BRANCHES:[main:1aafe04b2a4daa717c1d6533a7c7b17a2926ea2c;]|RELEASE:[none|none]
