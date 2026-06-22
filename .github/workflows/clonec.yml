@@ -2,7 +2,7 @@ name: Clone Backup Repositories C
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 12 * * 1-6"
   workflow_dispatch:
 
 jobs:

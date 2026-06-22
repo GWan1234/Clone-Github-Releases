@@ -1,0 +1,261 @@
+name: Discussions Backup Repositories
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * 0"
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.MY_TOKEN }}
+
+      - name: Free Disk Space (Ubuntu)
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: true
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
+
+      - name: Install deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq yq gh git curl p7zip-full coreutils bc
+
+name: Discussions Backup
+
+on:
+workflow_dispatch:
+
+schedule:
+- cron: "0 */6 * * *"
+
+permissions:
+contents: write
+
+jobs:
+
+backup:
+
+```
+runs-on: ubuntu-latest
+
+steps:
+
+  - name: Checkout
+    uses: actions/checkout@v4
+    with:
+      fetch-depth: 1
+
+  - name: Install
+    run: |
+      sudo apt update
+
+      sudo apt install -y \
+        jq \
+        yq \
+        p7zip-full \
+        curl \
+        git
+
+      python3 -m pip install -U \
+        github-backup
+
+      gh --version
+
+  - name: Backup Discussions
+    env:
+      GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+
+    run: |
+
+      set -euo pipefail
+
+      export GIT_TERMINAL_PROMPT=0
+
+      NOW=$(date +"%Y%m%d-%H%M")
+
+      OUT=backup
+
+      mkdir -p "$OUT"
+
+      sanitize() {
+
+        echo "$1" |
+        tr '/' '-' |
+        tr '[:upper:]' '[:lower:]'
+
+      }
+
+      release_exists() {
+
+        gh release view \
+          "$1" \
+          --repo "$GITHUB_REPOSITORY" \
+          >/dev/null 2>&1
+
+      }
+
+      get_all_repos() {
+
+        local owner="$1"
+
+        TYPE=$(
+          curl -s \
+          -H "Authorization: Bearer $GITHUB_TOKEN" \
+          https://api.github.com/users/$owner \
+          |
+          jq -r '.type'
+        )
+
+        if [[ "$TYPE" == "Organization" ]]; then
+            API="orgs/$owner/repos"
+        else
+            API="users/$owner/repos"
+        fi
+
+        PAGE=1
+
+        while true
+        do
+
+          DATA=$(
+            curl -s \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/$API?per_page=100&page=$PAGE"
+          )
+
+          COUNT=$(echo "$DATA" | jq length)
+
+          [[ "$COUNT" == 0 ]] && break
+
+          echo "$DATA" |
+          jq -r '.[]|select(.private==false)|.full_name'
+
+          PAGE=$((PAGE+1))
+
+        done
+
+      }
+
+      backup_repo() {
+
+        REPO="$1"
+
+        OWNER="${REPO%%/*}"
+        NAME="${REPO##*/}"
+
+        echo ""
+        echo "==== $REPO ===="
+
+        github-backup \
+          "$OWNER" \
+          -R "$NAME" \
+          --discussions \
+          --attachments \
+          --wikis \
+          --issues \
+          --issue-comments \
+          --pulls \
+          --pull-comments \
+          --pull-reviews \
+          --releases \
+          --assets \
+          --retries 20 \
+          --throttle-limit 1000 \
+          --throttle-pause 2 \
+          -f "${{ secrets.MY_TOKEN }}" \
+          -o "$OUT" \
+        || true
+
+      }
+
+      mapfile -t EXCLUDE < <(
+        yq -r '.exclude[]?' discussions.yaml
+      )
+
+      excluded() {
+
+        for E in "${EXCLUDE[@]}"
+        do
+
+          [[ "$1" == "$E" ]] &&
+          return 0
+
+        done
+
+        return 1
+
+      }
+
+      mapfile -t OWNERS < <(
+        yq -r '.allrepositories[]?' discussions.yaml
+      )
+
+      for O in "${OWNERS[@]}"
+      do
+
+        mapfile -t REPOS < <(
+          get_all_repos "$O"
+        )
+
+        for R in "${REPOS[@]}"
+        do
+
+          excluded "$R" &&
+          continue
+
+          backup_repo "$R"
+
+        done
+
+      done
+
+      mapfile -t MANUAL < <(
+        yq -r '.repositories[]?[]' discussions.yaml
+      )
+
+      for R in "${MANUAL[@]}"
+      do
+
+        excluded "$R" &&
+        continue
+
+        backup_repo "$R"
+
+      done
+
+      ARCHIVE="discussions-$NOW.7z"
+
+      7z a \
+        -mx5 \
+        "$ARCHIVE" \
+        "$OUT"
+
+      TAG="discussions-$NOW"
+
+      release_exists "$TAG" &&
+      gh release delete \
+        "$TAG" \
+        --repo "$GITHUB_REPOSITORY" \
+        --cleanup-tag \
+        -y
+
+      gh release create \
+        "$TAG" \
+        "$ARCHIVE" \
+        --repo "$GITHUB_REPOSITORY" \
+        --title "$TAG"
+
+      echo "Done"
+```

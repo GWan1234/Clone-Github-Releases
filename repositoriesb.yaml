@@ -56,8 +56,8 @@ repositories:
     - azukaar
     - amenefus
     - xfangfang
-
     - Yuzhii0718
+    - Anime4000
   repo1:
     - MetaCubeX/mihomo
     - FUjr/QModem
@@ -78,8 +78,8 @@ repositories:
     - azukaar/Cosmos-Server
     - amenefus/UxPlayerAirServer
     - xfangfang/Macast
-
     - Yuzhii0718/bl-mt798x-dhcpd
+    - Anime4000/RTL960x
   source1:
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
@@ -102,6 +102,7 @@ repositories:
     - https://github.com/xfangfang/Macast
 
     - https://github.com/Yuzhii0718/bl-mt798x-dhcpd.git
+    - https://github.com/Anime4000/RTL960x.git
   name2:
     - frpc
 
