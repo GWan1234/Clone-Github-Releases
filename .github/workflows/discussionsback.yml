@@ -150,7 +150,7 @@ jobs:
               --retries 20 \
               --throttle-limit 1000 \
               --throttle-pause 2 \
-              -f "$GITHUB_TOKEN" \
+              -t "$GITHUB_TOKEN" \
               -o "$OUT" \
             || true
     
