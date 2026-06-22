@@ -83,45 +83,63 @@ jobs:
           }
     
           get_all_repos() {
-    
+          
             local owner="$1"
-    
+          
             TYPE=$(
-              curl -s \
-              -H "Authorization: Bearer $GITHUB_TOKEN" \
-              https://api.github.com/users/$owner \
+              curl -fsSL \
+                -H "Authorization: Bearer $GITHUB_TOKEN" \
+                "https://api.github.com/users/$owner" \
               |
-              jq -r '.type'
+              jq -r '.type // empty'
             )
-    
+          
+            [[ -z "$TYPE" ]] && return
+          
             if [[ "$TYPE" == "Organization" ]]; then
                 API="orgs/$owner/repos"
             else
                 API="users/$owner/repos"
             fi
-    
+          
             PAGE=1
-    
+          
             while true
             do
-    
+          
               DATA=$(
-                curl -s \
+                curl -fsSL \
                 -H "Authorization: Bearer $GITHUB_TOKEN" \
-                "https://api.github.com/$API?per_page=100&page=$PAGE"
+                "https://api.github.com/$API?per_page=100&page=$PAGE" \
+                || echo "[]"
               )
-    
-              COUNT=$(echo "$DATA" | jq length)
-    
-              [[ "$COUNT" == 0 ]] && break
-    
+          
+              COUNT=$(
+                echo "$DATA" |
+                jq '
+                  if type=="array"
+                  then length
+                  else 0
+                  end
+                '
+              )
+          
+              [[ "$COUNT" -eq 0 ]] && break
+          
               echo "$DATA" |
-              jq -r '.[]|select(.private==false)|.full_name'
-    
+              jq -r '
+                if type=="array"
+                then .[]
+                | select(.private==false)
+                | .full_name
+                else empty
+                end
+              '
+          
               PAGE=$((PAGE+1))
-    
+          
             done
-    
+          
           }
     
           backup_repo() {
