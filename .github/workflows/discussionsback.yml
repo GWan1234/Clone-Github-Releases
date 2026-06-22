@@ -174,7 +174,7 @@ steps:
           --retries 20 \
           --throttle-limit 1000 \
           --throttle-pause 2 \
-          -f "${{ secrets.MY_TOKEN }}" \
+          -f "$GITHUB_TOKEN" \
           -o "$OUT" \
         || true
 
@@ -258,4 +258,3 @@ steps:
         --title "$TAG"
 
       echo "Done"
-```
