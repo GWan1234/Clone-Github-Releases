@@ -30,6 +30,7 @@ allrepositories:
   - flameshot-org
   - yifengyou
   - dailook
+  - SmartRouterZone
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
