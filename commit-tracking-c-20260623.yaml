@@ -4124,7 +4124,7 @@ solderparty/rp2xxx_stamp_carrier_basic_hw: BRANCHES:[main:1fd8828029053b385333b9
 solderparty/esp-hosted: BRANCHES:[esp32p4_stamp_xl:dc755a127aa79818a6648ba5ef89470f177214da;master:ba39e6392f4f1c2e9ace3c5fa463bab34a42cb31;]|RELEASE:[none|none]
 solderparty/qmk_firmware: BRANCHES:[keebdeck_basic:4e97ff875369fd8da2dc89d0795b827800ea8204;master:7aed244aaeb943377e134e21cce273a12b4b56f9;]|RELEASE:[none|none]
 solderparty/keebdeck_basic_hw: BRANCHES:[main:2b537ce5fef3da50b016c18ca66aac520af5abd1;]|RELEASE:[none|none]
-webmin/authentic-theme: BRANCHES:[master:edb73e47af197fb9606de8cba94bbf12a1f77fc5;18:e998be3449d984d793198cfcafdf1efe0630a5c8;]|RELEASE:[26.50|none]
+webmin/authentic-theme: BRANCHES:[master:4170a70ae6bb7eff906a0e666349cdca0473c8ca;18:e998be3449d984d793198cfcafdf1efe0630a5c8;]|RELEASE:[26.50|none]
 webmin/usermin: BRANCHES:[master:c29638559303773c3051875596ba883b2554cc08;heads/2.200:03a40d5fb83e7fa5d5d22efb7ac0a0d05ba1c99a;dev/list-folders-path:191d77fe19de5176da731b78bf053ef580645160;dev/improve-view-mail:6720a10bc08d0165b4d6c3a34e105a129a40eba7;]|RELEASE:[2.540|none]
 webmin/webmin: BRANCHES:[dev/add-deb-dhcpcd-support-1607:8ba6a021222b1673b91863c22088d064759dadb4;master:8c631bceebfc542593c511b50fc0ff7872b0eb70;systemd:a1c88df428aa1e04ad2b0e3fa40e5a82dcfe208e;dev/deb-nm:6574373761a31b00bbc4ca4064461ca46d391354;dev/grub2:8d09b0724c0e491cbfcd61379f376506a721a0a0;modules/legacy:0bbeb5f4f733e8c9d529b7f5916a03578a4f7851;]|RELEASE:[2.641|none]
 webmin/webmin-ci-cd: BRANCHES:[main:922b94f68c5c7fb16e03b599b00acd0f5d00b75b;]|RELEASE:[v2.6.2|none]
