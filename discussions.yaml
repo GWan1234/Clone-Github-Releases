@@ -1,5 +1,6 @@
 allrepositories:
   - Anime4000
+  - iamromulan
 
 repositories:
   name0:
@@ -32,7 +33,7 @@ repositories:
     #- amenefus
     #- xfangfang
 
-    - Yuzhii0718
+    #- Yuzhii0718
   repo1:
     - MetaCubeX/mihomo
     #- FUjr/QModem
