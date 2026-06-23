@@ -233,22 +233,30 @@ jobs:
     
           7z a \
             -mx5 \
+            -v1800m \
             "$ARCHIVE" \
             "$OUT"
-    
+          
           TAG="discussions-$NOW"
-    
+          
           release_exists "$TAG" &&
           gh release delete \
             "$TAG" \
             --repo "$GITHUB_REPOSITORY" \
             --cleanup-tag \
             -y
-    
+          
+          FILES=()
+          
+          while IFS= read -r f
+          do
+            FILES+=("$f")
+          done < <(
+            ls -1 discussions-*.7z*
+          )
+          
           gh release create \
             "$TAG" \
-            "$ARCHIVE" \
+            "${FILES[@]}" \
             --repo "$GITHUB_REPOSITORY" \
             --title "$TAG"
-    
-          echo "Done"
