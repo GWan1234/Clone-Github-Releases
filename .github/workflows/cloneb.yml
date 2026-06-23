@@ -1,8 +1,12 @@
 name: Clone Backup Repositories B
 
 on:
-  schedule:
-    - cron: "0 6 * * 1-6"
+  workflow_run:
+    workflows:
+      - "Clone Backup Repositories A"
+    types:
+      - completed
+
   workflow_dispatch:
 
 jobs:
