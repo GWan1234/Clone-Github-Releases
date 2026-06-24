@@ -4370,7 +4370,7 @@ syb999/openwrt-23.05.0: BRANCHES:[master:df67fe6b490029d1c0f4e6e768e9a1d10e2adb1
 syb999/openwrt-23.05.3: BRANCHES:[master:f92d991233f666d06d7d3947773d44ff7ffc14ee;]|RELEASE:[none|none]
 syb999/openwrt-24.10.0: BRANCHES:[master:d634304cd6845f52b1f9b3ff068194035806c02d;]|RELEASE:[none|none]
 syb999/openwrt-24.10.2: BRANCHES:[master:6158423bb7eec98a10039ad7bb24255873c10893;]|RELEASE:[none|none]
-syb999/openwrt-24.10.5: BRANCHES:[master:ee0a49cf8f36778e747671c64b6e88a18b9b3a3f;]|RELEASE:[release-2026|none]
+syb999/openwrt-24.10.5: BRANCHES:[master:1039f71ddbf90392eb8d4b92ac109be86b134e7c;]|RELEASE:[release-2026|none]
 syb999/openwrt-AC10: BRANCHES:[openwrt-18.06-rtkmipsel-3.18:fc2a97e67043e63634c1e575c00921bd90213bea;]|RELEASE:[none|none]
 syb999/openwrt-caddy: BRANCHES:[master:eb4365904c4cfc7bd97195930426a0d960a1e685;]|RELEASE:[none|none]
 syb999/openwrt-caddy2: BRANCHES:[master:717fb36f0f5d4ec963e5f7afa375fd575b405252;]|RELEASE:[none|none]
