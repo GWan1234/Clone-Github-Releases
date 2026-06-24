@@ -4977,3 +4977,4 @@ dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12:58bfd4af73346366d86abf07e2269
 dailook/lede: BRANCHES:[master:8dddaee18cd295078b9c0ab4f8a30695a676d353;]|RELEASE:[none|none]
 dailook/luci-app-adguardhome: BRANCHES:[main:36108202f326f65ab6f5a85d15adcba6538f8e8b;]|RELEASE:[none|none]
 dailook/luci-app-airoha-npu: BRANCHES:[main:0dacf6afd1cdfe9e36047886d87d0d48d6dfd331;]|RELEASE:[none|none]
+dailook/luci-app-easytier: BRANCHES:[main:bfaeeac084b3e48a5e6c5bb72b711f631e70cc0a;]|RELEASE:[none|none]
