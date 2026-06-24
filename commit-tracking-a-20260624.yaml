@@ -4982,3 +4982,4 @@ dailook/luci-app-modem: BRANCHES:[main:3a2137336635d27b8b83f1f477384366b081a491;
 dailook/luci-app-tailscale: BRANCHES:[main:534eb3f3acba24dac4e6fee9fa33049b004ef121;]|RELEASE:[none|none]
 dailook/luci-app-turboacc: BRANCHES:[luci:61026d9284e1cb0490fabfa24df0b90ba21ad987;]|RELEASE:[none|none]
 dailook/meta-tools: BRANCHES:[master:f6fb9a070207c8307a0a792bb3654d711ff6458d;]|RELEASE:[none|none]
+dailook/nxshell: BRANCHES:[main:1760e78097a8a6c367e06b3f180f5d504e3cef57;]|RELEASE:[none|none]
