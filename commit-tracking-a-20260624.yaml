@@ -4962,5 +4962,5 @@ ioBroker/socketio-package: BRANCHES:[main:3939bb08ced11dd3fd580b3c6a0a2617d8e863
 ioBroker/ws-server-package: BRANCHES:[dependabot/npm_and_yarn/types/node-25.9.3:ecdbbe752b8517a0ade03f97b32844ccb131bba6;main:2171b98780278e21566781fa09560bb3dc91d633;]|RELEASE:[v5.0.2|2171b98780278e21566781fa09560bb3dc91d633]
 algerkong/iptv-api: BRANCHES:[master:cdac565047646f87effc88e9d13bd1743d412027;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESPVault: BRANCHES:[main:adea3e1eaa57e1b3669e52208c97bc4fa40c8225;]|RELEASE:[v1.0.23|none]
-dr-dolomite/SJA-Library-Management-System: BRANCHES:[feat/foundation:ba6a4411f92676e5dc323f1e640b532ac463c951;main:e7f3b50470140a2ca57fd5b02a69f1a4eed3cc5a;]|RELEASE:[none|none]
+dr-dolomite/SJA-Library-Management-System: BRANCHES:[feat/circulation-and-venue:a60b5247fb5bed6aae7b053275e311bafd6c067c;main:6e61035deb25b4405e1f5e0f811cbc4ac4fea480;]|RELEASE:[none|none]
 yifengyou/p330: BRANCHES:[master:820e6892b4248e98664624e7b57fec03d48a67e4;]|RELEASE:[none|none]
