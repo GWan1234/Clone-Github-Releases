@@ -4984,3 +4984,4 @@ dailook/luci-app-turboacc: BRANCHES:[luci:61026d9284e1cb0490fabfa24df0b90ba21ad9
 dailook/meta-tools: BRANCHES:[master:f6fb9a070207c8307a0a792bb3654d711ff6458d;]|RELEASE:[none|none]
 dailook/nxshell: BRANCHES:[main:1760e78097a8a6c367e06b3f180f5d504e3cef57;]|RELEASE:[none|none]
 dailook/openwrt-21.02-for-mt7987: BRANCHES:[main:fdc6cef29a9ad26fd8512d0f4e442168b5bd3e1f;]|RELEASE:[none|none]
+dailook/package-backup: BRANCHES:[master:35c7d66a754b4d69b1417182bd69f4cbdd2bb592;]|RELEASE:[none|none]
