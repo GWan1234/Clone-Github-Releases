@@ -4969,3 +4969,4 @@ dailook/bl-mt798x-dhcp: BRANCHES:[2025-meteor:47c16e6d2add6e5d180322e5f9e70e2569
 dailook/COMFAST_CF-WR632AX_en: BRANCHES:[master:8b4fd18769eec9df5339048dbf77f624d9e6c468;]|RELEASE:[none|none]
 dailook/extract-dtb: BRANCHES:[master:ab824ac0993efc03a3a9201c5c03f54fda4bcfd0;]|RELEASE:[none|none]
 dailook/fancontrol: BRANCHES:[master:d64130ac448f07df5237fdacddaff092619889c0;]|RELEASE:[none|none]
+dailook/gl-infra-builder: BRANCHES:[main:bcf28a4224d1f3345e65d22272c8c198b24bb5ab;]|RELEASE:[none|none]
