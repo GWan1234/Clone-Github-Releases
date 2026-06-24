@@ -1380,7 +1380,7 @@ adafruit/Adafruit_TCS34725: BRANCHES:[master:48d793bf4670f6ee83e15fe488a12d91618
 adafruit/Adafruit_ADXL345_PCB: BRANCHES:[master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de;]|RELEASE:[none|none]
 adafruit/Adafruit-Retrogame: BRANCHES:[master:44fc838bd4dc6d12ea97fc456c22d0f4e0a2453b;mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3;]|RELEASE:[none|none]
 adafruit/Sous_Viduino: BRANCHES:[master:b1b71a4316e9789541d4926df6983e5703d32f68;]|RELEASE:[none|none]
-adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:b473a4eeec164e5ab7ea317f34733d6d047981fe;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;]|RELEASE:[1.2.3|none]
+adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:c0c6fadf7881228e9d45bb92082432b542d90e30;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5;]|RELEASE:[1.2.4|none]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82;]|RELEASE:[none|none]
 adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f;]|RELEASE:[none|none]
 adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f;]|RELEASE:[none|none]
