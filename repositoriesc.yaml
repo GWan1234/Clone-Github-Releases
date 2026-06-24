@@ -1,23 +1,7 @@
 allrepositories:
-  - rime
-  - openwrt
+  - ophub
   - unifreq
-  - solderparty
-  - webmin
-  - antimof
-  - FDH2
-  - kanoqwq
-
-
   - home-assistant
-  - rustdesk
-  - xyzroe
-  - iamromulan
-  - adafruit
-  - LilyGO
-  - Xinyuan-LilyGO
-  - emqx
-  - philippe44
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
