@@ -4980,3 +4980,4 @@ dailook/luci-app-airoha-npu: BRANCHES:[main:0dacf6afd1cdfe9e36047886d87d0d48d6df
 dailook/luci-app-easytier: BRANCHES:[main:bfaeeac084b3e48a5e6c5bb72b711f631e70cc0a;]|RELEASE:[none|none]
 dailook/luci-app-modem: BRANCHES:[main:3a2137336635d27b8b83f1f477384366b081a491;]|RELEASE:[none|none]
 dailook/luci-app-tailscale: BRANCHES:[main:534eb3f3acba24dac4e6fee9fa33049b004ef121;]|RELEASE:[none|none]
+dailook/luci-app-turboacc: BRANCHES:[luci:61026d9284e1cb0490fabfa24df0b90ba21ad987;]|RELEASE:[none|none]
