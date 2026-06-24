@@ -4995,3 +4995,4 @@ SmartRouterZone/WAX206: BRANCHES:[v24.10.0:9cfe00f3854c21f5b5cafefc4cc2ea5ff884f
 SmartRouterZone/CLX-S20P: BRANCHES:[master:936b791aecfd86adfcad7a47c4f7c79b36e8d757;24.10-mtk-k6.6:aa5b0570271116250841f90e08b72e621971085d;21.02-mtk-k5.4:c86686c63d9ffc5e162a612c92e463e5cbc23db0;]|RELEASE:[20260501|none]
 SmartRouterZone/.github: BRANCHES:[main:c06f575a892d38b2c847048eca8ef82ab39c88c2;]|RELEASE:[none|none]
 SmartRouterZone/bl-mt798x-dhcpd: BRANCHES:[master:844ceb9d3b4ac3b67e9722495282c1dd8c67ad9c;]|RELEASE:[none|none]
+SmartRouterZone/luci-app-tproxy: BRANCHES:[main:eb485ca8d3a5816538e54023ca7da21845edc32f;]|RELEASE:[none|none]
