@@ -4522,3 +4522,4 @@ natecarlson/PulsepointScraperV2: BRANCHES:[V3:019bce436bf61670a71bcd4fd348971eac
 natecarlson/qadbkey-unlock: BRANCHES:[master:831074781d55e82e39c6ac5de9a9113929f87838;]|RELEASE:[none|none]
 natecarlson/quectel-CM: BRANCHES:[master:789e86ed71eb3c82573228539306ebdd04a7b3ea;yocto_1.6.1:f2802b2da49b749b9d773ca9c0d4a43c8c2d298c;1.6.1:2e632451022951732fa653fdf5374429bb7a5722;yocto_1.1.45:9b4476223e78705ad1ab1f9105c3475810b7d73b;1.1.45:551b0dc9cddb0062ae2b12049bd428ad47d42b5d;]|RELEASE:[none|none]
 natecarlson/quectel-onmodem-webui: BRANCHES:[master:c742f12c07497ae07b453246ff468629a47b807a;dev:45cef3909ca14bc85feb167a2590b100edf2c2e2;]|RELEASE:[none|none]
+natecarlson/quectel-rgmii-at-command-client: BRANCHES:[main:39c20b83b1a2e0987165f4acfee999c9aaadcf62;]|RELEASE:[none|none]
