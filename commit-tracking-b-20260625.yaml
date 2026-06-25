@@ -4455,3 +4455,4 @@ FUjr/China-Unicom: BRANCHES:[master:413fecbe469a061c3b746f8f1817799d1afa9b84;]|R
 FUjr/connection_recorder: BRANCHES:[main:6a558661812b07c8c7ba3ca47e25c9e0d7a895d0;]|RELEASE:[v2|none]
 FUjr/cqbot: BRANCHES:[master:ed3eff846a2de0ea080aeec763bc2ee438141bb9;cqbot_2.0_dev:ce6343f6288b9e1ad292e0df53cb91961836384a;stable:2e944ce86278d856c6cd57cab053ba621daa0e59;main:f56a979874acc3d23518e7708bc2dabec9ab4599;]|RELEASE:[none|none]
 FUjr/esp_websocket_audio_recorder: BRANCHES:[main:cb2efbbf166001dd481ea818a485b23c39113d1d;]|RELEASE:[none|none]
+FUjr/face_recognition: BRANCHES:[master:53d42b733c21525d9a67c81e1a932f5d17167792;]|RELEASE:[none|none]
