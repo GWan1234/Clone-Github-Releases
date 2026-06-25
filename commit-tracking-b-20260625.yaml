@@ -4462,3 +4462,4 @@ FUjr/gemini2oai: BRANCHES:[main:af1db1642385ab3f84362618ca216c6aa9484e9c;]|RELEA
 FUjr/gl-infra-builder: BRANCHES:[main:54419b12e8cc08116ab8c3138e93de00ccd2afe9;work:1de46cd5095af4b87fe603524778898c3f8f732c;]|RELEASE:[360t7-1.2|none]
 FUjr/hacs-default: BRANCHES:[add_openwrt_ubus:7ae34abaf1ac2caa30554acdcb1dd00ed5150a8b;master:6d3cc9e0381de842e3df35780c8ea7a1bf5d6d8b;]|RELEASE:[none|none]
 FUjr/hass-brands: BRANCHES:[add_openwrt_ubus_icon:1a8effa3e73baba9742c2fee8e92de5dbf7a7ee1;master:e59fbbb4a5059979401cfc6458f97ad67615ba8e;]|RELEASE:[none|none]
+FUjr/hass-core: BRANCHES:[dev:e30d40562527e5d3c3fe88bf1421518e334d9446;]|RELEASE:[none|none]
