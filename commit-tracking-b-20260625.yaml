@@ -4501,3 +4501,4 @@ natecarlson/cacti-iostat-templates: BRANCHES:[master:dcafe3ee06820d59aec9ae4062f
 natecarlson/cloudwatch2graphite: BRANCHES:[master:a87bda93dae75d727190d735b9e224d8635e6c2f;]|RELEASE:[none|none]
 natecarlson/collectd: BRANCHES:[master:aef15b632b9f415e5ebfadd4e41fa8a3c19407ee;collectd-5.5:56536633afb68ded68ac7bd012060cb9337fbcc5;collectd-5.4:70cb50ea9a7aa0554c3874862192b5ca3b1283d5;collectd-5.3:04c96b0c99584b1bc66383f5fdbe9ca3ce2d226e;collectd-4.10:c6da31fb30c2fb1d131f92efcde0b3ec9a010b2c;collectd-5.2:9de042657fa536305c5d98ef114dd9750ed4d656;]|RELEASE:[none|none]
 natecarlson/contentcreator: BRANCHES:[master:a386bec3b35f6a9b2add9692a90f16611de7e334;]|RELEASE:[none|none]
+natecarlson/CRISPResso2: BRANCHES:[fix-name-error:039013efe363603dfe89f10b857d58bb1ef8e8d9;master:adb0d8b791686846fa8522f46e064418cbfbdc1c;]|RELEASE:[none|none]
