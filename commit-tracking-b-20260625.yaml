@@ -4487,3 +4487,4 @@ FUjr/pvr.iptvsimple: BRANCHES:[Nexus:e9bdfa0aa7895e025dfcb0afee22d904f445b7be;]|
 FUjr/routing: BRANCHES:[main:d374debb4d5c8dd6352fb7f72e74d5ff157dd34e;]|RELEASE:[none|none]
 FUjr/rttys: BRANCHES:[all_feature:f7c318e21d4812012eccbbc2a75d3cb2a529fac6;feature/set_cookie_domain:9ff30ee14970b40301c70b34610deb8c10f77116;feature/auto_bind:2585739db2a583967e55dbd2d7846d74a3ec6450;feature/user_management:9f9bce16ebcd0eeec56e5ad4df29fa942b04b7ce;feature/remark:bd120b7256ad5b546d3c82f9ba1c326d8971f9cd;master:b2cd7ab5a87d2aad9287cf52886ce8a452bc0891;]|RELEASE:[none|none]
 FUjr/snap-sensor: BRANCHES:[main:60ebf26f60ab79f30eede5292994873a1be4b385;]|RELEASE:[none|none]
+FUjr/snap_detect: BRANCHES:[master:9b4d4778420fbdf81749335eabc10046e91e3bf7;main:99cd57384b2a1d9209a7cfabc9deb916718a4957;]|RELEASE:[none|none]
