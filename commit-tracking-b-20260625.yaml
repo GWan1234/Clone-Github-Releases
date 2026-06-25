@@ -4485,3 +4485,4 @@ FUjr/openwrt_7620: BRANCHES:[master:f70f0009ea66de4cf78f7fc7d10b8e143e75c089;]|R
 FUjr/performence_metric_ml: BRANCHES:[master:c05c4d0e0768f5dc15ef9bf3908f6a267884634f;]|RELEASE:[none|none]
 FUjr/pvr.iptvsimple: BRANCHES:[Nexus:e9bdfa0aa7895e025dfcb0afee22d904f445b7be;]|RELEASE:[none|none]
 FUjr/routing: BRANCHES:[main:d374debb4d5c8dd6352fb7f72e74d5ff157dd34e;]|RELEASE:[none|none]
+FUjr/rttys: BRANCHES:[all_feature:f7c318e21d4812012eccbbc2a75d3cb2a529fac6;feature/set_cookie_domain:9ff30ee14970b40301c70b34610deb8c10f77116;feature/auto_bind:2585739db2a583967e55dbd2d7846d74a3ec6450;feature/user_management:9f9bce16ebcd0eeec56e5ad4df29fa942b04b7ce;feature/remark:bd120b7256ad5b546d3c82f9ba1c326d8971f9cd;master:b2cd7ab5a87d2aad9287cf52886ce8a452bc0891;]|RELEASE:[none|none]
