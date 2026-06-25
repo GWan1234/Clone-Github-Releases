@@ -4491,3 +4491,4 @@ FUjr/snap_detect: BRANCHES:[master:9b4d4778420fbdf81749335eabc10046e91e3bf7;main
 FUjr/tc1_mqtt: BRANCHES:[master:336100becc5d3cac7c109973ae6d359a6c301824;]|RELEASE:[none|none]
 FUjr/tch-exploit: BRANCHES:[master:3f9c61fe502ebdafbf4173ddcbcdfcf243135a15;]|RELEASE:[none|none]
 FUjr/teenage_study: BRANCHES:[main:84e16df74cdc06f94d0f5a54e205511de07e84da;]|RELEASE:[none|none]
+FUjr/torrentbot: BRANCHES:[main:11f42960a602261d8e6aefbc8df06b34c1ad801b;master:8907c11ff4f0509d94281aa58b07f8479101794d;]|RELEASE:[none|none]
