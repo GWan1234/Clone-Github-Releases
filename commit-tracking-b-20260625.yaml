@@ -4479,3 +4479,4 @@ FUjr/luci-theme-asus: BRANCHES:[main:6d619ab4fbbd5dc62e7553abe9a9cf82000efb1c;js
 FUjr/MikroTikPatch: BRANCHES:[main:c662227e85735c106fcf3b3e42d5baacf7e7ff3d;FUjr-patch-1:b043b6544709fd38a3132dc0d37dd433588bb624;]|RELEASE:[7.17|none]
 FUjr/n2n-stack: BRANCHES:[main:3531af78b262238b439a035f20880a934d00f1b5;]|RELEASE:[none|none]
 FUjr/openwrt-app-actions: BRANCHES:[main:9ec9d0a700ea35e513706e7c6836eef2d29da7c3;]|RELEASE:[none|none]
+FUjr/openwrt-qsdk11: BRANCHES:[master:253b3e694fd9888cf670bff1cf2662dca17c1554;]|RELEASE:[none|none]
