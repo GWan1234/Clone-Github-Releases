@@ -4527,3 +4527,4 @@ natecarlson/quectel-rgmii-configuration-notes: BRANCHES:[main:d7f7840a76d5d9408c
 natecarlson/rm520-micropython: BRANCHES:[master:468f3f3f6d1d46fa51adbb096625278746e50399;]|RELEASE:[none|none]
 natecarlson/rm5xx-modem-buildenv: BRANCHES:[main:06ef982693bdbe89f442d3fdd4fb630c59186435;]|RELEASE:[none|none]
 natecarlson/scanner-transcription-hack: BRANCHES:[main:9e814fb7fa69e1cf3d823ee954932e7c9633acff;]|RELEASE:[none|none]
+natecarlson/scoresight: BRANCHES:[main:b6da66e514f52ca0cc7cf49eda8ed3d5f45c69fe;roy.uno_essentials:f58450a4ed4e87c9bec1f16bc10a942acc805645;roy.fix_quit_mac_m1:71b231762673b84ab4bf5a4001a071c93598de1f;roy.fix_numpy_import:8e83d86a0cbfafba03069da214077a35b8f45107;]|RELEASE:[none|none]
