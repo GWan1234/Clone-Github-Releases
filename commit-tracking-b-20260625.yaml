@@ -4518,3 +4518,4 @@ natecarlson/netgear_mr6400: BRANCHES:[main:17a4a91b2cb559df602dcc1e6c455a5db8d5e
 natecarlson/nexus-9-enable-att-tether: BRANCHES:[master:e5fd636d01f7da35a643037f9c3f818a0fa25669;]|RELEASE:[none|none]
 natecarlson/orah-4i-recovery: BRANCHES:[main:817583773cc85927205c34fe6b50db4bde2671a8;]|RELEASE:[none|none]
 natecarlson/PDAP-Scrapers: BRANCHES:[fix-bay-cty-florida-v2:d62880d37cff908b5f729e3f18df376e4278a335;main:cb326cbd92a29cf1a62e0f659ef2b35eb669f688;license-adjust:30094fe0b202a4d2aacad4b711e3fd91097a6444;]|RELEASE:[none|none]
+natecarlson/PulsepointScraperV2: BRANCHES:[V3:019bce436bf61670a71bcd4fd348971eac60bd5c;]|RELEASE:[none|none]
