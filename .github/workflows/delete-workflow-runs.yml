@@ -1,9 +1,13 @@
 name: Delete Workflow Runs
 
 on:
-  schedule:
-    - cron: "0 23 * * *"
+  workflow_run:
+    workflows:
+      - "Discussions Backup Repositories"
+    types:
+      - completed
   workflow_dispatch:
+
 jobs:
   delete-runs:
     runs-on: ubuntu-latest

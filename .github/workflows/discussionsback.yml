@@ -1,8 +1,11 @@
 name: Discussions Backup Repositories
 
 on:
-  schedule:
-    - cron: "0 0,6,12,18 * * 0"
+  workflow_run:
+    workflows:
+      - "Clone Backup Repositories D"
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
