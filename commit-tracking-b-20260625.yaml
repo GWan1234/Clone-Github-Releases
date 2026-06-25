@@ -4469,3 +4469,4 @@ FUjr/homeassistant-openwrt-ubus: BRANCHES:[main:77d59c340291015c54f3c0fd444cd5ec
 FUjr/icmptunnel: BRANCHES:[master:7aa6788194fc2749477470f7a79ea5f64883f4bb;]|RELEASE:[none|none]
 FUjr/immich_to_rknn2: BRANCHES:[unificli:4f12f5d5bb3de06ad3169ed0577543c546fd90de;]|RELEASE:[none|none]
 FUjr/immortalwrt: BRANCHES:[misectel:f08ddcbc32c60d84e6116bc700fbab226994423f;copilot/fix-ap8220-mac-offset:0da0b122afe6b595d3569273abd5f0a31bce1749;fix/ap8220_mac_offset:e81f04648c85aa3c3eb1c2ef2a4acc70df254eff;master:534aaadac7aa5d627f5e2fc8371ac2d9f9eb470a;add_m60k63:09a3f733a9104aba0b4a29fc908398c72fcccfd7;m28c:6e48b1b7af3333aae0ca249659e607e2b918cea7;]|RELEASE:[none|none]
+FUjr/immortalwrt-237: BRANCHES:[master:edd25462a13ab1fde900869b4d1464601d857dc3;mt7915_mtwifi:4d663c5bcd24ebb2ec567ba64133d2c2c8136ca6;q20-pbboot:e95b79d09a21823bce2dbded0df8b3e098d46006;]|RELEASE:[none|none]
