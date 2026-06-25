@@ -4453,3 +4453,4 @@ FUjr/anbox-arm-installer: BRANCHES:[master:20f9b629f726d160de35c3df16aff777fe361
 FUjr/chatgpt-web: BRANCHES:[main:7cbbd57988dc71875ec987d08928369aec5db170;]|RELEASE:[none|none]
 FUjr/China-Unicom: BRANCHES:[master:413fecbe469a061c3b746f8f1817799d1afa9b84;]|RELEASE:[none|none]
 FUjr/connection_recorder: BRANCHES:[main:6a558661812b07c8c7ba3ca47e25c9e0d7a895d0;]|RELEASE:[v2|none]
+FUjr/cqbot: BRANCHES:[master:ed3eff846a2de0ea080aeec763bc2ee438141bb9;cqbot_2.0_dev:ce6343f6288b9e1ad292e0df53cb91961836384a;stable:2e944ce86278d856c6cd57cab053ba621daa0e59;main:f56a979874acc3d23518e7708bc2dabec9ab4599;]|RELEASE:[none|none]
