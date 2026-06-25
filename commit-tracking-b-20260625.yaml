@@ -4489,3 +4489,4 @@ FUjr/rttys: BRANCHES:[all_feature:f7c318e21d4812012eccbbc2a75d3cb2a529fac6;featu
 FUjr/snap-sensor: BRANCHES:[main:60ebf26f60ab79f30eede5292994873a1be4b385;]|RELEASE:[none|none]
 FUjr/snap_detect: BRANCHES:[master:9b4d4778420fbdf81749335eabc10046e91e3bf7;main:99cd57384b2a1d9209a7cfabc9deb916718a4957;]|RELEASE:[none|none]
 FUjr/tc1_mqtt: BRANCHES:[master:336100becc5d3cac7c109973ae6d359a6c301824;]|RELEASE:[none|none]
+FUjr/tch-exploit: BRANCHES:[master:3f9c61fe502ebdafbf4173ddcbcdfcf243135a15;]|RELEASE:[none|none]
