@@ -4475,3 +4475,4 @@ FUjr/jd_scripts2: BRANCHES:[master:538a5610e8953ea6b8a557ae441a6491d28a50f8;]|RE
 FUjr/lede: BRANCHES:[add_huasifei_shf_28x:163709f914ee460171179149eb7784a077c395e2;fix_syntax_error:c20fd57fdb306ec8293c5f1be295fb080fc8f88e;add_ws3009_support:8aa102206f6573683ec7cac47f81828eebf16b13;master:ccd9ae0c8c32f7a95511489665de6c2d91522342;]|RELEASE:[none|none]
 FUjr/luci: BRANCHES:[openwrt-23.05:c204c6a955e0d579bd7fe6ee6e7a62f705109023;master:75adc268393833848073443d5e326715e4d603ca;]|RELEASE:[none|none]
 FUjr/luci-app-4gmodem: BRANCHES:[master:ce7f2be9ab3a8f066265d97da07b8b9b2462fdd4;main:7de819b2235df935bdee0c1bd18272f87029271a;]|RELEASE:[none|none]
+FUjr/luci-theme-asus: BRANCHES:[main:6d619ab4fbbd5dc62e7553abe9a9cf82000efb1c;js:ea7a01ca0c1c712f2bd3a8111cd8f63fc10a18b9;]|RELEASE:[none|none]
