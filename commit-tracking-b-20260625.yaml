@@ -4496,3 +4496,4 @@ FUjr/uboot-mt7621: BRANCHES:[main:703e647db588c07e1e7d522b8fd85da542ad4454;]|REL
 FUjr/uboot-mt7621-2025: BRANCHES:[main:ab57d2b5c29ef25db8f5be32e5151b1cbbe66bc3;]|RELEASE:[none|none]
 FUjr/v2ray-forward: BRANCHES:[master:9b5f491bf4d97073aa45be94e28c90df562a28a2;]|RELEASE:[none|none]
 FUjr/XiaomiGateway3: BRANCHES:[master:d6c71da13d00d5520e98f264c32aad225ac8490c;]|RELEASE:[none|none]
+natecarlson/android_kernel_lenovo_msm8953: BRANCHES:[lineage-17.1-test:f07940ba0f27e4484f7d708ac3f25c0578fb5a74;lineage-17.1:76d81e89f018fdbaf41898a368bc59115a511681;lineage-17.0:562189cea8f2a995365aea0291283c0a60058361;lineage-16.0:3f11bc6a4233d6d66c8f5e4aad52b47e7e3c1e13;staging/lineage-15.1:9dceb86ab95f1d4f80eb9a90e494d8b28adea4bb;lineage-15.1:23d05f47cd28ef70c43c2f5b67d39b04a288b1e2;cm-14.1:efc0c6ff4371b86782c88610d85a98ed5a23cf0d;staging/cm-14.1:20fee56d6a35912db4882ae61feb8b0d3a35f63f;]|RELEASE:[none|none]
