@@ -4459,3 +4459,4 @@ FUjr/face_recognition: BRANCHES:[master:53d42b733c21525d9a67c81e1a932f5d17167792
 FUjr/firmware_qca-wireless: BRANCHES:[main:8f71922b8fa20c964f3f79d774ce256400868415;]|RELEASE:[none|none]
 FUjr/gdut_network: BRANCHES:[main:c0dc9519100a3afd736b4ff8e0c3e12f7ff769b9;]|RELEASE:[none|none]
 FUjr/gemini2oai: BRANCHES:[main:af1db1642385ab3f84362618ca216c6aa9484e9c;]|RELEASE:[none|none]
+FUjr/gl-infra-builder: BRANCHES:[main:54419b12e8cc08116ab8c3138e93de00ccd2afe9;work:1de46cd5095af4b87fe603524778898c3f8f732c;]|RELEASE:[360t7-1.2|none]
