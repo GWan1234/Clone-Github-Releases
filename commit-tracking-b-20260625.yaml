@@ -4457,3 +4457,4 @@ FUjr/cqbot: BRANCHES:[master:ed3eff846a2de0ea080aeec763bc2ee438141bb9;cqbot_2.0_
 FUjr/esp_websocket_audio_recorder: BRANCHES:[main:cb2efbbf166001dd481ea818a485b23c39113d1d;]|RELEASE:[none|none]
 FUjr/face_recognition: BRANCHES:[master:53d42b733c21525d9a67c81e1a932f5d17167792;]|RELEASE:[none|none]
 FUjr/firmware_qca-wireless: BRANCHES:[main:8f71922b8fa20c964f3f79d774ce256400868415;]|RELEASE:[none|none]
+FUjr/gdut_network: BRANCHES:[main:c0dc9519100a3afd736b4ff8e0c3e12f7ff769b9;]|RELEASE:[none|none]
