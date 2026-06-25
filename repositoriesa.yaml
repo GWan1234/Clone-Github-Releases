@@ -32,6 +32,14 @@ allrepositories:
   - dailook
   - SmartRouterZone
 
+  - DFRobot
+  - OLIMEX
+  - sparkfun
+  - HelTecAutomation
+  - waveshareteam
+  - m5stack
+  - Seeed-Studio
+
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
