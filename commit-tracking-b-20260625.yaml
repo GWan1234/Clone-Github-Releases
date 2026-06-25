@@ -4464,3 +4464,4 @@ FUjr/hacs-default: BRANCHES:[add_openwrt_ubus:7ae34abaf1ac2caa30554acdcb1dd00ed5
 FUjr/hass-brands: BRANCHES:[add_openwrt_ubus_icon:1a8effa3e73baba9742c2fee8e92de5dbf7a7ee1;master:e59fbbb4a5059979401cfc6458f97ad67615ba8e;]|RELEASE:[none|none]
 FUjr/hass-core: BRANCHES:[dev:e30d40562527e5d3c3fe88bf1421518e334d9446;]|RELEASE:[none|none]
 FUjr/hhs-public-lecture: BRANCHES:[v2:496af34477e13e73544cf0a51c832b09221b8016;lesson-drafts:b66d5fd25d3a9c51bd8eb5a43257ce5014710eb3;master:397d01d1b4c57c3e1bedc35e22671b564dc454b5;]|RELEASE:[none|none]
+FUjr/HiCnUnicom: BRANCHES:[master:7bccb2477a89ffe07e34f4f85493e5d014ca0e0b;]|RELEASE:[none|none]
