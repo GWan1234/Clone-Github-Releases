@@ -16,6 +16,8 @@ allrepositories:
   - emqx
   - philippe44
   - adafruit
+  - natecarlson
+  - iamromulan
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
