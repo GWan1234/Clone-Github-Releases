@@ -4472,3 +4472,4 @@ FUjr/immortalwrt: BRANCHES:[misectel:f08ddcbc32c60d84e6116bc700fbab226994423f;co
 FUjr/immortalwrt-237: BRANCHES:[master:edd25462a13ab1fde900869b4d1464601d857dc3;mt7915_mtwifi:4d663c5bcd24ebb2ec567ba64133d2c2c8136ca6;q20-pbboot:e95b79d09a21823bce2dbded0df8b3e098d46006;]|RELEASE:[none|none]
 FUjr/jd-base: BRANCHES:[v3:31eb62b24e4cf63d4944eb245e8a1ab4be19f334;main:a28ea7d089b2743f7368bb75b9537888b557f497;]|RELEASE:[none|none]
 FUjr/jd_scripts2: BRANCHES:[master:538a5610e8953ea6b8a557ae441a6491d28a50f8;]|RELEASE:[none|none]
+FUjr/lede: BRANCHES:[add_huasifei_shf_28x:163709f914ee460171179149eb7784a077c395e2;fix_syntax_error:c20fd57fdb306ec8293c5f1be295fb080fc8f88e;add_ws3009_support:8aa102206f6573683ec7cac47f81828eebf16b13;master:ccd9ae0c8c32f7a95511489665de6c2d91522342;]|RELEASE:[none|none]
