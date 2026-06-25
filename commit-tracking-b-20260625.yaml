@@ -4525,3 +4525,4 @@ natecarlson/quectel-onmodem-webui: BRANCHES:[master:c742f12c07497ae07b453246ff46
 natecarlson/quectel-rgmii-at-command-client: BRANCHES:[main:39c20b83b1a2e0987165f4acfee999c9aaadcf62;]|RELEASE:[none|none]
 natecarlson/quectel-rgmii-configuration-notes: BRANCHES:[main:d7f7840a76d5d9408c7fdd19e533b652bba84d91;dev-build-env:f772479ae66dd8fb1832b775136873368c59de85;]|RELEASE:[none|none]
 natecarlson/rm520-micropython: BRANCHES:[master:468f3f3f6d1d46fa51adbb096625278746e50399;]|RELEASE:[none|none]
+natecarlson/rm5xx-modem-buildenv: BRANCHES:[main:06ef982693bdbe89f442d3fdd4fb630c59186435;]|RELEASE:[none|none]
