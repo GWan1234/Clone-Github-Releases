@@ -5412,3 +5412,4 @@ DFRobot/DFRobot_LTR308: BRANCHES:[master:de101d136b5ac14527c7b522fcaa48ea315f04c
 DFRobot/pxt-DFRobot_MLX90614: BRANCHES:[master:4b66049e8ce31a47bc9a76e669b5a66aae981ddd;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_matrixLidarDistanceSensor: BRANCHES:[master:d89a8863e697d55ec0f9bd6a1eed7e5674adb8e7;]|RELEASE:[v1.1.2|none]
 DFRobot/pxt-DFRobot_loRaWANNodeModule: BRANCHES:[main:90014afc7e19e8551906cbaccce8c4b394c95404;merge-1:8ddc3b4678a3ecb1013223c6bbb158b723103ed4;]|RELEASE:[none|none]
+DFRobot/DFRobot_ADS1115_0_10V: BRANCHES:[master:acb7bca8dd67af6f45ac7227114b30d8c255974e;]|RELEASE:[V1.0.1|none]
