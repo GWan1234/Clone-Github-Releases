@@ -5461,3 +5461,4 @@ DFRobot/DFRobot_HuskylensV2_MQTT: BRANCHES:[dev:73e97049dc950669fb4c47d5892b41e0
 DFRobot/DFRobot_SD3031: BRANCHES:[master:ebe92d4fa6ae5cf8b969d89d71dbcc4423e5a656;]|RELEASE:[none|none]
 DFRobot/DFR0289-RLY-8-software: BRANCHES:[master:bb5abf574cbb02ec593c413b5e1153a89147b985;]|RELEASE:[none|none]
 DFRobot/DFRobot_HuskylensV2: BRANCHES:[dev:3753d9747e384783d739ccf1f198a73c07c49d06;master:659aaf6dad0a4b735b5708d2b05a2a4d18de4124;donkeycar:37258a7cff849ac7cec6dce686bde502682c1e86;python-mqtt:fea9cec949b985d0b32c1a2f86c64e9b27115b85;]|RELEASE:[v1.2.2|none]
+DFRobot/DFRobot_EasyFlash: BRANCHES:[master:0a594adc2d77de3a6b89deaa5382653658dc6817;]|RELEASE:[none|none]
