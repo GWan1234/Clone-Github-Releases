@@ -5430,3 +5430,4 @@ DFRobot/DFRobot_PT100: BRANCHES:[master:da2bd8dcbe745b6c7c6b05a3b77be7e43cc01b95
 DFRobot/DFRobot_CT1780: BRANCHES:[master:960ff76cff72477ea871002c42ccbe33b17d39fd;]|RELEASE:[none|none]
 DFRobot/k10_base64: BRANCHES:[master:142d504af29a7b4f31bce5d24ee248b8f3ded5c4;]|RELEASE:[none|none]
 DFRobot/arduino-esp32-lora: BRANCHES:[master:07d90477b0ec241f1fd937f7ffd342aa43f09f0c;]|RELEASE:[none|none]
+DFRobot/DFRobot_C4001: BRANCHES:[master:d96504653cb07678e57aa7181e98faa329a3161e;]|RELEASE:[none|none]
