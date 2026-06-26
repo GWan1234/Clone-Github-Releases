@@ -5313,3 +5313,4 @@ DFRobot/pxt-DFRobot_AirQualitySensor: BRANCHES:[master:5ff3f27e63da4ec1b6aa73280
 DFRobot/DFRobot_BosonADCModule: BRANCHES:[main:6b681e416486446c821bf69a88dea0a255236a01;]|RELEASE:[none|none]
 DFRobot/DFRobot_VisualRotaryEncoder: BRANCHES:[main:9fde2687fd36c06e02be3c37a36a00888218b0bb;]|RELEASE:[none|none]
 DFRobot/DFRobot_SpeechSynthesis_V2: BRANCHES:[main:66195611ff0f70b57fd434b1b3211d8f4e9a25ff;]|RELEASE:[none|none]
+DFRobot/DFRobot_ENS160: BRANCHES:[main:7a45a70acbe75389514f0b380d0a9aa53c055b51;]|RELEASE:[none|none]
