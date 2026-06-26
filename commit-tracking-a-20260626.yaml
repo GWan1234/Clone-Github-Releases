@@ -5297,3 +5297,4 @@ DFRobot/DFRobot_DHT20: BRANCHES:[master:af63fb5ccb0f25dee4fc33739d0c236a70547444
 DFRobot/DFRobot_RTU: BRANCHES:[master:c1478e3ef0e6ea731b9f5bb48d90aa32fe023eca;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP3XX: BRANCHES:[master:157f8d9b2fc6427db49a44eaa8fae6ab5beb8533;]|RELEASE:[none|none]
 DFRobot/DFRobot_ICG20660L: BRANCHES:[master:134c97f640908a1b65072796df984c303fd2ee82;]|RELEASE:[none|none]
+DFRobot/CH_Driver: BRANCHES:[master:6cbe729ab978dd214227e521cf26a61a1ec91462;]|RELEASE:[none|none]
