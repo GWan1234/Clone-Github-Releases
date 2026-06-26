@@ -5472,3 +5472,4 @@ DFRobot/DFRobot_64x8DTOF: BRANCHES:[main:7d6fd497016792ac83bb129bd2b7ccab6603ed3
 DFRobot/M10MeetsFirebeetle: BRANCHES:[master:92269c2a4a2cc73631db74acdf7315e61165ad2c;]|RELEASE:[none|none]
 DFRobot/DFRobot_Multi_DOF_IMU: BRANCHES:[master:288d922c119432135621c3a3e0d89b8706e24ef5;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMI323: BRANCHES:[master:46f8913034a594aa5fe2988ce2d049eb8bb9bde5;]|RELEASE:[none|none]
+DFRobot/DFRobot_STCC4: BRANCHES:[master:f67b120704c2b011686185dc3725e01ad1e232bc;]|RELEASE:[none|none]
