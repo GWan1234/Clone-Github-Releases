@@ -5189,3 +5189,4 @@ DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b
 DFRobot/DFR0606: BRANCHES:[master:7a49405d37d689f72e12a18f7fd32ee2f9b03da6;]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_Expansion_Board: BRANCHES:[master:d83c356e6f2b33b4eee4cc1f3a78ee10006abc5f;]|RELEASE:[none|none]
 DFRobot/FIT0620: BRANCHES:[master:c6752e8b6b5f6841f0806d7b072614618da78d59;]|RELEASE:[none|none]
+DFRobot/DFRobot_VL53L1X: BRANCHES:[master:6fe27ac3cb8153d25a110573ebab94cfc42f85eb;]|RELEASE:[none|none]
