@@ -5332,3 +5332,4 @@ DFRobot/DFRobot_MCP9808: BRANCHES:[master:738eb2370305beaf498add4a5142d2be1c2691
 DFRobot/DFRobot_AHT20: BRANCHES:[master:4301f51df4132c99129ff8c4530602f79a774a13;]|RELEASE:[none|none]
 DFRobot/DFRobot_EOxygenSensor: BRANCHES:[master:e88e4f1bf01ed67834ec4e88f7b1388a54303348;]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT: BRANCHES:[master:54dbc1a44e4b3f062887afeb1e873aff24fba054;]|RELEASE:[none|none]
+DFRobot/DFRobot_SU03T: BRANCHES:[master:4551c1ee51a4419f1556457484916542aaaa9aba;]|RELEASE:[none|none]
