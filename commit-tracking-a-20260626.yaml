@@ -5420,3 +5420,4 @@ DFRobot/DFRobot_Cosmo: BRANCHES:[master:7a5075cedae000e5e6ba0adea53be186449dfc2f
 DFRobot/pxt-DFRobot_newIR: BRANCHES:[master:ba4279c5903c408d53ebcda64d06f820510dc16f;]|RELEASE:[v0.0.4|none]
 DFRobot/DFRobot_SCIWifiIotModule: BRANCHES:[master:89210f1b806b4ac4fafaee4ccd103071aaf353d1;]|RELEASE:[none|none]
 DFRobot/DFRobot_MSM261: BRANCHES:[master:79ef278d21e59e31774718be5ae228ace6c5e176;]|RELEASE:[none|none]
+DFRobot/pxt-dfrobot_maqueenplus_v20_tw: BRANCHES:[master:566fb9322b69433c59736dd2188fdb8953a333e0;]|RELEASE:[v0.0.2|none]
