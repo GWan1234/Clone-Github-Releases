@@ -5278,3 +5278,4 @@ DFRobot/DFRobot_BT401: BRANCHES:[master:239aca7b14b887ddb7272c63f0e20e670b5db913
 DFRobot/pxt-DFRobot_Environment_Science: BRANCHES:[master:c22979559666356ba6d948df1babd94af62f56db;]|RELEASE:[v0.7.2|none]
 DFRobot/DFRobot_HX711_I2C: BRANCHES:[master:65b55c624b58160e211833a42585055c5a278be7;]|RELEASE:[none|none]
 DFRobot/DFRobot_TCS3430: BRANCHES:[master:34ddde97dd9e9e636db2f9c15356c07a822dd8dd;]|RELEASE:[none|none]
+DFRobot/DFRobot_SpeechSynthesis: BRANCHES:[master:ed6dba1b157c0db40ef30a93afff8e60cffc2251;]|RELEASE:[none|none]
