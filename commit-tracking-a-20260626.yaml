@@ -5003,3 +5003,4 @@ DFRobot/EcoDuino: BRANCHES:[master:5c393b7e568b9b444d5fd8ff2f08b4ab76c21697;]|RE
 DFRobot/Rainbow-Ring: BRANCHES:[master:051b4dc726508da2cccc3df432f10fe41911d1bf;]|RELEASE:[none|none]
 DFRobot/NFC-module: BRANCHES:[master:98e0ccfe1c42f965e257cea5d4b6f7eb3aa84693;]|RELEASE:[none|none]
 DFRobot/UltraSound-distance-URM37: BRANCHES:[master:ccd58168dc1952c048e832e32b44164bc527f1b0;]|RELEASE:[none|none]
+DFRobot/RGB-LED: BRANCHES:[master:28698f2f86d8132437d8364e8e9021616e776858;]|RELEASE:[none|none]
