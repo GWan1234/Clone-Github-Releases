@@ -5205,3 +5205,4 @@ DFRobot/overlord: BRANCHES:[master:78eebc9c2e5e5cae79fd2e8c1949a43b1855d18a;]|RE
 DFRobot/DFRobot_SerialScreen1248: BRANCHES:[master:c497ecb79a173bdbda1df86aaa281cc597ceb777;]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP23017: BRANCHES:[master:fe41f82c7607cd420db9e2f09ee6ba989ac38dd6;]|RELEASE:[none|none]
 DFRobot/DFRobot_PAJ7620U2: BRANCHES:[master:57edc1dee3d0f95613b15eb9c1ac9241308bc917;]|RELEASE:[none|none]
+DFRobot/DFRobot_CCS811: BRANCHES:[master:7bfddd339cc28d33f002d41c028d31b2502bd417;]|RELEASE:[none|none]
