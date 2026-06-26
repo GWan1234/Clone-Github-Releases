@@ -5041,3 +5041,4 @@ DFRobot/VortexAndroid: BRANCHES:[master:2823a818a3d8b094ee4ba28e1710c79933d72700
 DFRobot/WindowsIoT: BRANCHES:[master:c8eb2b75dcac6794bdc11a4b71e5fe24079f465d;Waterplantsystem:e2adbc25bc96bc6db5d5a0e303da06aaece91308;fork:056de85eff28c8d0b208fb1149e7bb9ea1a49e94;]|RELEASE:[none|none]
 DFRobot/DFRobotWindowsIoTTempelate: BRANCHES:[master:43d6687840aa8e7340958c479eb7dca4c4b22d74;]|RELEASE:[none|none]
 DFRobot/swift-ble-framework: BRANCHES:[master:933269c6f065dee70a5a93198f627a904eeaa39c;]|RELEASE:[none|none]
+DFRobot/print-manager: BRANCHES:[add-overlord:5e6385f34c3f0838bb256df57dfedfedc7c16f8d;sandbox:49ba4d16179cda096836a67bbff9989674ce0298;master:905564e90fa3fa81610f54fc4258f41d11eb6655;addMakerBot2x:fc58931485219baab783cded8e114d7a188468b5;addPrinterBot:13c95daf51883f8d3cc2fa2841a8bc61bfb15fe8;]|RELEASE:[none|none]
