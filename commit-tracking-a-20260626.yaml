@@ -5351,3 +5351,4 @@ DFRobot/DFRobot_CH423: BRANCHES:[master:78bcb7bd4b34e4d3e5c0af54dffc930fdf027407
 DFRobot/DFRobot_LSM303: BRANCHES:[master:033ddf66308296dbbe6f6b5b7a7078781b1f666f;]|RELEASE:[none|none]
 DFRobot/DFRobot_DigitalPot: BRANCHES:[main:b60d3d33a4e29f0c93db272feeb2a85f29aab77f;]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX31855: BRANCHES:[main:1fc82f5131271b54fbb91d00ec293e758d3007a1;]|RELEASE:[none|none]
+DFRobot/DFRobot_LIDAR07: BRANCHES:[master:308a098dd9321593ce844786ff42952192663fd2;]|RELEASE:[none|none]
