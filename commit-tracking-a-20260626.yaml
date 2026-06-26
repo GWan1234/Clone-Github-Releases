@@ -5158,3 +5158,4 @@ DFRobot/DFRobot_I2C_Multiplexer_old: BRANCHES:[master:3da89d2b279eb00d0622295c73
 DFRobot/DFRobot_BMP388: BRANCHES:[master:a904f136ee242f66deb271dc63a54f7985e16091;]|RELEASE:[none|none]
 DFRobot/pxt-ds18b20: BRANCHES:[master:fe3c85446ee71d4190f5ed057eddded882c6b44a;]|RELEASE:[v0.1.0|none]
 DFRobot/Wiki: BRANCHES:[master:eec9b91e73b23b36062fcfaba7fac8df01164072;SEN0290:d3399eda93a7ca07376593538f401dca2296bdb8;]|RELEASE:[none|none]
+DFRobot/mpy-gravity: BRANCHES:[master:3b6161616587d44befc1da99c871c049dfd21e87;]|RELEASE:[none|none]
