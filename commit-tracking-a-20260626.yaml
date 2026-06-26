@@ -5359,3 +5359,4 @@ DFRobot/I2C_Addresses: BRANCHES:[master:2bcc431bf326166af2857ce528c79e2b48d6ceb9
 DFRobot/Silly-Maqueen-Tutorial-Makecode: BRANCHES:[master:23167927f15afc2dd129fecdffb6d143211cb263;]|RELEASE:[none|none]
 DFRobot/maqueen-plus-V1-Tutorial: BRANCHES:[master:c4a9d1bf3fcbed291a8030c2afa48059afbb841a;]|RELEASE:[none|none]
 DFRobot/WeatherStationSHTC3: BRANCHES:[master:4344b9c91156606bfab2977b557320c2dac2d84e;]|RELEASE:[none|none]
+DFRobot/DFRobot_RGBButton: BRANCHES:[main:ce7742a69db7e290c63af09478dd64c7ff670e95;]|RELEASE:[none|none]
