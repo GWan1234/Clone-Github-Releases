@@ -5197,3 +5197,4 @@ DFRobot/DFRobot_ADS1115: BRANCHES:[master:6d3df78d29693bf9e245a223afe0443406bd29
 DFRobot/pxt-keyboard: BRANCHES:[master:0504471f90802bf374b03056e409b96546f870c0;]|RELEASE:[v1.0.0|none]
 DFRobot/DFRobot_PN532: BRANCHES:[master:f6dc6f0bfec866804e674387dece54e716773a58;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMX160: BRANCHES:[master:ed616cff2c8c54e1e3e867fec7ee438e9b06ffa0;]|RELEASE:[none|none]
+DFRobot/DFRobot_URM09: BRANCHES:[master:508097340abd521d31e57e9a5bdf31b626f9f033;]|RELEASE:[none|none]
