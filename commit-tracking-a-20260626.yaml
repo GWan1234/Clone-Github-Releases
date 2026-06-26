@@ -5118,3 +5118,4 @@ DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3
 DFRobot/DFRobot_ESP32_Servo: BRANCHES:[master:93f74a267ed52513aede2e83a2efa6335dd61939;]|RELEASE:[none|none]
 DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823;]|RELEASE:[none|none]
 DFRobot/DFRobot_ILI9488: BRANCHES:[master:170bb7506a7db80cfb1c59514a3ed510cbd5b415;]|RELEASE:[none|none]
+DFRobot/Bluno2_Firmware: BRANCHES:[master:5b86c708134f75060e69bf0e856625747ecd8393;]|RELEASE:[none|none]
