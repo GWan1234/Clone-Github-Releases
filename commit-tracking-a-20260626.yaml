@@ -5042,3 +5042,4 @@ DFRobot/WindowsIoT: BRANCHES:[master:c8eb2b75dcac6794bdc11a4b71e5fe24079f465d;Wa
 DFRobot/DFRobotWindowsIoTTempelate: BRANCHES:[master:43d6687840aa8e7340958c479eb7dca4c4b22d74;]|RELEASE:[none|none]
 DFRobot/swift-ble-framework: BRANCHES:[master:933269c6f065dee70a5a93198f627a904eeaa39c;]|RELEASE:[none|none]
 DFRobot/print-manager: BRANCHES:[add-overlord:5e6385f34c3f0838bb256df57dfedfedc7c16f8d;sandbox:49ba4d16179cda096836a67bbff9989674ce0298;master:905564e90fa3fa81610f54fc4258f41d11eb6655;addMakerBot2x:fc58931485219baab783cded8e114d7a188468b5;addPrinterBot:13c95daf51883f8d3cc2fa2841a8bc61bfb15fe8;]|RELEASE:[none|none]
+DFRobot/print-studio-local-test: BRANCHES:[master:0fac5448488a560aaa0b11d16605feaaee476c54;]|RELEASE:[none|none]
