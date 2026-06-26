@@ -5349,3 +5349,4 @@ DFRobot/DFRobot_I2C_Multiplexer: BRANCHES:[main:818a57db30c137e28d6c9d7b5e93889f
 DFRobot/DFRobot_Gesture_Touch: BRANCHES:[main:9c84661b60c6b98977596c6be024fd034d82e805;]|RELEASE:[none|none]
 DFRobot/DFRobot_CH423: BRANCHES:[master:78bcb7bd4b34e4d3e5c0af54dffc930fdf027407;]|RELEASE:[none|none]
 DFRobot/DFRobot_LSM303: BRANCHES:[master:033ddf66308296dbbe6f6b5b7a7078781b1f666f;]|RELEASE:[none|none]
+DFRobot/DFRobot_DigitalPot: BRANCHES:[main:b60d3d33a4e29f0c93db272feeb2a85f29aab77f;]|RELEASE:[none|none]
