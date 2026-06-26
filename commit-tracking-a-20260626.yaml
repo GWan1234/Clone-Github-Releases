@@ -5216,3 +5216,4 @@ DFRobot/pxt-OLED: BRANCHES:[master:d433741e5c9b82d97281fcafb83043be31fa399e;]|RE
 DFRobot/pxt-DFRobot-NaturalScience: BRANCHES:[master:922c92dd8aa42c997580bac766d6bfb8405d7e0b;add-license-1:96009bfc0914bc32fed2a771a050c5a6341f6b61;]|RELEASE:[v1.5.7|none]
 DFRobot/Maqueen-CE-FCC: BRANCHES:[master:939315a3295fe173172663d701490cb17f3c4aa9;]|RELEASE:[none|none]
 DFRobot/pxt-RGB_LCD: BRANCHES:[master:31da3334abb879e6487313147af193cb8af7c667;]|RELEASE:[none|none]
+DFRobot/DFRobot_RPi_Display_V2: BRANCHES:[master:e74752a5e437c747c53950f4bed4434ba4bd445f;]|RELEASE:[none|none]
