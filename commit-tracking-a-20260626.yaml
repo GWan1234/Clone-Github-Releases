@@ -5116,3 +5116,4 @@ DFRobot/GoBle: BRANCHES:[master:4f3087b697754cd8036eacd0a08abaa096e96ffb;]|RELEA
 DFRobot/binaryfiles: BRANCHES:[master:ba4c3afebb503a2c6ac6e4c7689ab2ea93d72e45;]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3;]|RELEASE:[none|none]
 DFRobot/DFRobot_ESP32_Servo: BRANCHES:[master:93f74a267ed52513aede2e83a2efa6335dd61939;]|RELEASE:[none|none]
+DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823;]|RELEASE:[none|none]
