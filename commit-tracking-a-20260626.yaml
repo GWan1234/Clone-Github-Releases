@@ -5199,3 +5199,4 @@ DFRobot/DFRobot_PN532: BRANCHES:[master:f6dc6f0bfec866804e674387dece54e716773a58
 DFRobot/DFRobot_BMX160: BRANCHES:[master:ed616cff2c8c54e1e3e867fec7ee438e9b06ffa0;]|RELEASE:[none|none]
 DFRobot/DFRobot_URM09: BRANCHES:[master:508097340abd521d31e57e9a5bdf31b626f9f033;]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen771: BRANCHES:[master:d0248460344e1a7b355a7c81adbee0b82949cab5;]|RELEASE:[none|none]
+DFRobot/pxt-NFCI2C: BRANCHES:[master:7ba87dbd1371a00c12cae089d198a841533a088b;]|RELEASE:[none|none]
