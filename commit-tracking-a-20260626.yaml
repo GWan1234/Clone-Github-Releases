@@ -5427,3 +5427,4 @@ DFRobot/pxt-DFRobot_creative-robotics-kit: BRANCHES:[master:dc22c7bcf18274a2cc7c
 DFRobot/openai-realtime-embedded-sdk: BRANCHES:[main:14f11f9b4ecbb351bd78e72a7fcbb1ff3bc8d7c6;]|RELEASE:[none|none]
 DFRobot/DFRobot_FM17550: BRANCHES:[master:f54c4a607c310f4eb763787ed91bdea7b587e5ef;]|RELEASE:[none|none]
 DFRobot/DFRobot_PT100: BRANCHES:[master:da2bd8dcbe745b6c7c6b05a3b77be7e43cc01b95;]|RELEASE:[none|none]
+DFRobot/DFRobot_CT1780: BRANCHES:[master:960ff76cff72477ea871002c42ccbe33b17d39fd;]|RELEASE:[none|none]
