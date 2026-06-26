@@ -5383,3 +5383,4 @@ DFRobot/DFRobot_LcdDisplay: BRANCHES:[master:7ab0e6cefd7636e35825bc532a79a54cff8
 DFRobot/pxt-DFRobot_speechSynthesisV2: BRANCHES:[master:844fda1627414aa982c326ae9c9bf3949c1281a7;]|RELEASE:[v0.0.6|none]
 DFRobot/pxt-DFRobot_SCD41: BRANCHES:[master:6fea1cfe45554f6368f615e77dd9eaeeae620559;]|RELEASE:[v0.0.2|none]
 DFRobot/DFRobot_GP8XXX: BRANCHES:[master:0fcd909888f48431420fa23ec56926ca389c9258;]|RELEASE:[none|none]
+DFRobot/DFRobot_CE30C: BRANCHES:[master:4f33e51f44eb822fba3c77447e3e7c4fa01e0f45;]|RELEASE:[none|none]
