@@ -5309,3 +5309,4 @@ DFRobot/DFRobot_RGBLCD1602: BRANCHES:[master:8e2b24daf12847dc1ebe6405580c7e8b110
 DFRobot/DFRobot_MGC3130: BRANCHES:[master:a676973396e6774c09ed5483ac4259868cd9270c;]|RELEASE:[none|none]
 DFRobot/DFRobot_URM13: BRANCHES:[master:eacd43ed96551c80c6186bbdd9b8145d013d7430;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_ASR: BRANCHES:[master:1e178467fd6944149b685fdcbb77868685c29c99;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_AirQualitySensor: BRANCHES:[master:5ff3f27e63da4ec1b6aa732807f065b7907f15f9;]|RELEASE:[v0.1.0|none]
