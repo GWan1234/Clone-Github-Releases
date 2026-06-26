@@ -5196,3 +5196,4 @@ DFRobot/obloq-weather: BRANCHES:[master:7701e9b90f4e18bfbc57f901b192959384984795
 DFRobot/DFRobot_ADS1115: BRANCHES:[master:6d3df78d29693bf9e245a223afe0443406bd2980;]|RELEASE:[none|none]
 DFRobot/pxt-keyboard: BRANCHES:[master:0504471f90802bf374b03056e409b96546f870c0;]|RELEASE:[v1.0.0|none]
 DFRobot/DFRobot_PN532: BRANCHES:[master:f6dc6f0bfec866804e674387dece54e716773a58;]|RELEASE:[none|none]
+DFRobot/DFRobot_BMX160: BRANCHES:[master:ed616cff2c8c54e1e3e867fec7ee438e9b06ffa0;]|RELEASE:[none|none]
