@@ -5049,3 +5049,4 @@ DFRobot/Waterplantsystem: BRANCHES:[master:5edcef1d6ed9b5c99f5090aae62c518f4ec1a
 DFRobot/DFRobotRomeoBLEMini: BRANCHES:[master:7ebbcb7db105d917c544f607f8bc8c9f636e7c21;]|RELEASE:[none|none]
 DFRobot/DFRobotIRPosition: BRANCHES:[master:8edc82b74f39abde636f83226a9c12f629ee9eda;]|RELEASE:[1.0.2|none]
 DFRobot/Intermediate-Kit: BRANCHES:[master:4f2ff21830cbc1c8563f92c58f03688ffc15692d;]|RELEASE:[none|none]
+DFRobot/DFSerialChart: BRANCHES:[master:fac822b834c6cfdc3c69e643a55b33fa6cf46551;]|RELEASE:[none|none]
