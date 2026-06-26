@@ -5303,3 +5303,4 @@ DFRobot/DFRobot_MICS: BRANCHES:[master:5f3177aeb8e824ad43151b60d4efd7e74057d04d;
 DFRobot/DFRobot_TMF8x01: BRANCHES:[master:54200552f3e151ada42c0762b42a45b336844615;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_MaqueenPlus_v20: BRANCHES:[master:4242d6e34d36499b20a9a5370f6edced0a8d03ea;]|RELEASE:[v2.2.29|none]
 DFRobot/DFRobot_ASR: BRANCHES:[main:fece70339902f606a28e9e34fa5e370ef1e28568;]|RELEASE:[none|none]
+DFRobot/VL53L3CX: BRANCHES:[master:0d083fda40b0b857c83b30b09140dcdffcb84261;]|RELEASE:[none|none]
