@@ -5188,3 +5188,4 @@ DFRobot/DFRobot_INA219: BRANCHES:[master:804e82702ff852bb549e88178f8c0ae76bfe273
 DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b57325129b6d5;revert-4-lib_support_ubuntu_20-04:7cf3bc880d7afc75a87633d4a06a348179d1b73b;]|RELEASE:[none|none]
 DFRobot/DFR0606: BRANCHES:[master:7a49405d37d689f72e12a18f7fd32ee2f9b03da6;]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_Expansion_Board: BRANCHES:[master:d83c356e6f2b33b4eee4cc1f3a78ee10006abc5f;]|RELEASE:[none|none]
+DFRobot/FIT0620: BRANCHES:[master:c6752e8b6b5f6841f0806d7b072614618da78d59;]|RELEASE:[none|none]
