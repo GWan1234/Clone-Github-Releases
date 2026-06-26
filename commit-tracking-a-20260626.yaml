@@ -5226,3 +5226,4 @@ DFRobot/DFRobot_IICSerial: BRANCHES:[master:11548014e194df6ec46b6458640a7e36ac08
 DFRobot/DFRobot_HX711: BRANCHES:[master:4e5cffa345591d642df0597eca7c23ccef559bc2;]|RELEASE:[none|none]
 DFRobot/pxt-huskylens: BRANCHES:[master:aef9dc1b1e9d569b9de510f4c3fcbed66274577e;]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT3x: BRANCHES:[master:f5fc122192f39ba6745f374fea06ab34a744359b;]|RELEASE:[none|none]
+DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d;]|RELEASE:[none|none]
