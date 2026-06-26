@@ -5012,3 +5012,4 @@ DFRobot/LCD-KeyPad-Shield: BRANCHES:[master:d98295739aa40f7b02740e7b04e9b986e4d6
 DFRobot/Marlin: BRANCHES:[Marlin_v1:48a185d0044336eb71663f9271d9e9f7f4515120;deltabot:58d12aad73441df27d15abe53b6efb031ace0ea7;reisnyderb:5090c56651bf18ea45a7453f5fccfe6a09d13062;Marlin_os1r1s:6752cb2d9ce085ed1df760475adac46a959009c4;Test_BED:016800bb3b05523363f513ebd5649e23ac0d5b52;MaukCC:6eb25e4ddbd032d834e7c4264e8c06a181d75771;dob71merge:28b122fa7a6fd2c9057aba1d065b8ade1241423b;experimental_zshift:03f2d0a6c631ff5caaca90e046e4ec2ed5d132d3;test2:cf9331039bcab232b558a86cdf1a409147ab80e6;Marlin_v1_arduino1.0_test:616e14161682394aefe4b5d63734358c8f04c449;]|RELEASE:[none|none]
 DFRobot/BlunoSample: BRANCHES:[master:8edc2985857a8f2703b1c9a7617cff5b24cc3eb2;]|RELEASE:[none|none]
 DFRobot/arduino-projects: BRANCHES:[master:142df7909715792727c975ed7760b719c20887af;]|RELEASE:[none|none]
+DFRobot/softwaretools: BRANCHES:[master:0ec7eed6e30a5f6fbe00c5837b68a4a60643b09a;]|RELEASE:[none|none]
