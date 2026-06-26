@@ -5364,3 +5364,4 @@ DFRobot/TOY0083-project-card-V2.0: BRANCHES:[main:9db8e8bf38d7f455cb652c4833fd0a
 DFRobot/adapter-board: BRANCHES:[master:7094aa3efcf6525d5729218801a9a7327a6fb2e7;]|RELEASE:[none|none]
 DFRobot/SportsButtonESP32C3: BRANCHES:[master:650172c4e0a12cbd08da56e6d04adcc9d18921dc;]|RELEASE:[none|none]
 DFRobot/SmartWateringDevice: BRANCHES:[master:96374946429272ba33925b4e13a76790deb11d08;]|RELEASE:[none|none]
+DFRobot/ThreeAxisAccelerationRecorder: BRANCHES:[master:a3d69f6ca303909b83c0098de9a178fb8fc15f78;]|RELEASE:[none|none]
