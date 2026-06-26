@@ -5065,3 +5065,4 @@ DFRobot/Starter-Kit-for-Genuino-101: BRANCHES:[master:34e172acb5d34e3f86c220d0df
 DFRobot/DFRobotBLEGamepad: BRANCHES:[master:5a376fcbd5a0ad27f6ab7f42b15583d560d5c011;]|RELEASE:[none|none]
 DFRobot/MagneticSensorLsm303: BRANCHES:[master:0be050aa699554711f44619edff96d7280fa5c9c;]|RELEASE:[none|none]
 DFRobot/Arduino-HMC5883L: BRANCHES:[master:8b27c96370296eb067457980e0c81d1184f2d24f;]|RELEASE:[none|none]
+DFRobot/DFRobotDuinoBoard: BRANCHES:[master:3055558310798f11a5984dc240be96d6e54b0f6d;]|RELEASE:[none|none]
