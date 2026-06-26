@@ -5468,3 +5468,4 @@ DFRobot/DFRobot_TactileSensor: BRANCHES:[master:962a7b32ac8ea32ae2a395dc33402b4e
 DFRobot/DFRobot_LWNode: BRANCHES:[main:540cee94e65a58a5f5964a996f69dc70f42f0ad3;]|RELEASE:[none|none]
 DFRobot/DFRobot_FRN20: BRANCHES:[main:f4f01c311c6c50214e9f7efd2d6e73ef867bd012;]|RELEASE:[none|none]
 DFRobot/DFRobot_64xDTOF: BRANCHES:[main:c0e1265e8dec5ad2a4236e48a7ab5c715c9bac53;official_release:c0e1265e8dec5ad2a4236e48a7ab5c715c9bac53;]|RELEASE:[none|none]
+DFRobot/DFRobot_64x8DTOF: BRANCHES:[main:7d6fd497016792ac83bb129bd2b7ccab6603ed37;]|RELEASE:[none|none]
