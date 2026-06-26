@@ -5084,3 +5084,4 @@ DFRobot/DFRobot_BMP280: BRANCHES:[master:8e91480a840bde12e144938597487cf8aab20d3
 DFRobot/DFRobot_VEML7700: BRANCHES:[master:2626122eaac19e861048e9644be6814e653eae6a;]|RELEASE:[none|none]
 DFRobot/DFRobot_3V-Relay-Module: BRANCHES:[master:6c8a5df66b2f08e758e037e2e546d6c51e01154a;]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd9;]|RELEASE:[none|none]
+DFRobot/FireBeetle-ESP8266: BRANCHES:[master:e1bf2427a0bb7c6d0ab52294b3a7a005e05e7b0d;]|RELEASE:[none|none]
