@@ -5210,3 +5210,4 @@ DFRobot/DFRobot_MuVisionSensor: BRANCHES:[master:bfc495c0ed051aec7dd59f660d95f2c
 DFRobot/pxt-Micro-Diorama: BRANCHES:[master:26ccd290aa7bcfbea407adb9a540e45ffbe82918;]|RELEASE:[none|none]
 DFRobot/pxt-Math-Automatic: BRANCHES:[master:bccc2c93ef59a446cc134d812fda727bc1297d2e;]|RELEASE:[none|none]
 DFRobot/pxt-HTTP-MQTT: BRANCHES:[master:c34a8dc9af5a2628fd5aa7c2407a0681c69806a4;]|RELEASE:[v1.1.4|none]
+DFRobot/LCD-picture: BRANCHES:[master:80b307d36fa7fda3a4dcef8a38593c85e2d2e781;]|RELEASE:[none|none]
