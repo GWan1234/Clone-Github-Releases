@@ -5233,3 +5233,4 @@ DFRobot/Display_Brightness_Setting: BRANCHES:[master:c78ee78a55a1ee006164e0c7b49
 DFRobot/ext-oled12864: BRANCHES:[master:c5cc4080382e17ef35281fa917e2f44607f2aab0;]|RELEASE:[none|none]
 DFRobot/MindPlus-User_Extension_Tutorial: BRANCHES:[master:54db35d79fda8fb5a144139c47afbdbaae1c8334;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot-Maqueenplus: BRANCHES:[master:8769f31c6b124dfc83d7094c865da379da2aeded;]|RELEASE:[v1.5.1|none]
+DFRobot/NaturalScience: BRANCHES:[master:058dc52265b9f08153d9deabaa0b3559562e797b;]|RELEASE:[none|none]
