@@ -5203,3 +5203,4 @@ DFRobot/pxt-NFCI2C: BRANCHES:[master:7ba87dbd1371a00c12cae089d198a841533a088b;]|
 DFRobot/pxt-DFRobot-microIoT: BRANCHES:[master:6c58659ae662c9d8f143b5154aa571622a364dd9;]|RELEASE:[v1.3.0|none]
 DFRobot/overlord: BRANCHES:[master:78eebc9c2e5e5cae79fd2e8c1949a43b1855d18a;]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen1248: BRANCHES:[master:c497ecb79a173bdbda1df86aaa281cc597ceb777;]|RELEASE:[none|none]
+DFRobot/DFRobot_MCP23017: BRANCHES:[master:fe41f82c7607cd420db9e2f09ee6ba989ac38dd6;]|RELEASE:[none|none]
