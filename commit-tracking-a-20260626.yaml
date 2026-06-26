@@ -5098,3 +5098,4 @@ DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4c
 DFRobot/DFRobot_QMC5883_old: BRANCHES:[master:2439045dd5f901ee3f000ad352e8922f22eeaa7d;]|RELEASE:[none|none]
 DFRobot/micropython-esp32: BRANCHES:[esp32:eded7dd70b2c1b3c41fcc4bf98c2e29d2eeb3a95;bt:d8f36a394d324e93d854fc8ab88c5dd7807127e3;master:a64dc82742749cf4a4bbe5688dde05122fb38f56;]|RELEASE:[none|none]
 DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510;]|RELEASE:[none|none]
+DFRobot/DFRobot_IIS: BRANCHES:[master:a58e50e01757773e42e7d4aa03e3f8d126520f94;]|RELEASE:[iismonitor_v1.0|none]
