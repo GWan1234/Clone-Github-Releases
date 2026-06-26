@@ -5005,3 +5005,4 @@ DFRobot/NFC-module: BRANCHES:[master:98e0ccfe1c42f965e257cea5d4b6f7eb3aa84693;]|
 DFRobot/UltraSound-distance-URM37: BRANCHES:[master:ccd58168dc1952c048e832e32b44164bc527f1b0;]|RELEASE:[none|none]
 DFRobot/RGB-LED: BRANCHES:[master:28698f2f86d8132437d8364e8e9021616e776858;]|RELEASE:[none|none]
 DFRobot/PlainProtocol: BRANCHES:[master:648ca89119a502b09cf504b8ffd6e274370efb39;]|RELEASE:[none|none]
+DFRobot/liteide: BRANCHES:[master:a48431c0e87ac7824507d6d6f4c446447667ab52;]|RELEASE:[none|none]
