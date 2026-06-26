@@ -5474,3 +5474,4 @@ DFRobot/DFRobot_Multi_DOF_IMU: BRANCHES:[master:288d922c119432135621c3a3e0d89b87
 DFRobot/DFRobot_BMI323: BRANCHES:[master:46f8913034a594aa5fe2988ce2d049eb8bb9bde5;]|RELEASE:[none|none]
 DFRobot/DFRobot_STCC4: BRANCHES:[master:f67b120704c2b011686185dc3725e01ad1e232bc;]|RELEASE:[none|none]
 DFRobot/mimiclaw: BRANCHES:[main:fd5898b2fefacba504fc276bfa023b663082b12e;]|RELEASE:[none|none]
+DFRobot/DFTactileSensorTool: BRANCHES:[master:ed6839b62b7672a611046b39fed2561e1d0dcf2b;]|RELEASE:[none|none]
