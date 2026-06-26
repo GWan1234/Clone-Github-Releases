@@ -5147,3 +5147,4 @@ DFRobot/DFRobot_MAX31855_old: BRANCHES:[master:68a10c0274b69df87aa5da9d3467fdfa4
 DFRobot/GravityPump: BRANCHES:[master:ec5dfd6ee4f6815dd6357a43a24080351b4f0393;]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_TouchScreen_Firmware: BRANCHES:[master:1cad16fca090f078306454885fbc2e54a79ad6eb;]|RELEASE:[none|none]
 DFRobot/pxt-joystick: BRANCHES:[master:4a423fc1fe3621737db2aed29fd05ed8ec5c47bb;]|RELEASE:[none|none]
+DFRobot/DFRobot_EC: BRANCHES:[master:ed563497d22936d306a58d03d288846d08cac3ef;]|RELEASE:[none|none]
