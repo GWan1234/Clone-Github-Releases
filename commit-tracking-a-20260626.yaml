@@ -5230,3 +5230,4 @@ DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1
 DFRobot/DFR0289: BRANCHES:[master:b1e68bbb33806bf046237e34c0bedcf414ae1c88;]|RELEASE:[none|none]
 DFRobot/ext-test: BRANCHES:[master:3783868d38291ceecf52d39f3a865398632a5609;]|RELEASE:[none|none]
 DFRobot/Display_Brightness_Setting: BRANCHES:[master:c78ee78a55a1ee006164e0c7b49f6f07bc43c8d3;]|RELEASE:[none|none]
+DFRobot/ext-oled12864: BRANCHES:[master:c5cc4080382e17ef35281fa917e2f44607f2aab0;]|RELEASE:[none|none]
