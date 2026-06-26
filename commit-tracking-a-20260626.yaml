@@ -5329,3 +5329,4 @@ DFRobot/DFRobot_MultiGasSensor: BRANCHES:[main:5b08794160db81db76a7cb5348a8f1778
 DFRobot/DFRobot_CH432T_raspberrypi: BRANCHES:[main:1b10c2f5a82993935af4433e49126a77884e3dc9;]|RELEASE:[none|none]
 DFRobot/arduino-pico: BRANCHES:[master:ca898d6d697a2947c931b8a46bf01943dd33b2a0;]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP9808: BRANCHES:[master:738eb2370305beaf498add4a5142d2be1c26914a;]|RELEASE:[none|none]
+DFRobot/DFRobot_AHT20: BRANCHES:[master:4301f51df4132c99129ff8c4530602f79a774a13;]|RELEASE:[none|none]
