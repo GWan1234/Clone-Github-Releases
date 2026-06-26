@@ -5200,3 +5200,4 @@ DFRobot/DFRobot_BMX160: BRANCHES:[master:ed616cff2c8c54e1e3e867fec7ee438e9b06ffa
 DFRobot/DFRobot_URM09: BRANCHES:[master:508097340abd521d31e57e9a5bdf31b626f9f033;]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen771: BRANCHES:[master:d0248460344e1a7b355a7c81adbee0b82949cab5;]|RELEASE:[none|none]
 DFRobot/pxt-NFCI2C: BRANCHES:[master:7ba87dbd1371a00c12cae089d198a841533a088b;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot-microIoT: BRANCHES:[master:6c58659ae662c9d8f143b5154aa571622a364dd9;]|RELEASE:[v1.3.0|none]
