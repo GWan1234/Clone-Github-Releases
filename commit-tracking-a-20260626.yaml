@@ -5389,3 +5389,4 @@ DFRobot/DFRobot_GR10_30: BRANCHES:[master:9abbfcafb12e03eb6eb175513898f88f2f56ae
 DFRobot/DFRobot_LTR390UV: BRANCHES:[master:30ca2519e7a6300ac006017ad4da0fb72ffec3de;]|RELEASE:[none|none]
 DFRobot/DFRobot_DMX512: BRANCHES:[master:0924c8c047b698f1ee78597693da8e5eeba14f2b;]|RELEASE:[none|none]
 DFRobot/DFRobot_FermionBLE: BRANCHES:[master:03b858f898a562b57e1a2dccb9bf63aad6a59744;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_lark: BRANCHES:[master:58fe8cd091209aba3b86ae88cf94db2484e81dd3;]|RELEASE:[v0.0.3|none]
