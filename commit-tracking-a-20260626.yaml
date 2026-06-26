@@ -4999,3 +4999,4 @@ SmartRouterZone/luci-app-tproxy: BRANCHES:[main:eb485ca8d3a5816538e54023ca7da218
 algerkong/EPD-nRF5_DYC: BRANCHES:[Tmp:6878f56528150a79118407c286a4ff8e800047f0;]|RELEASE:[none|none]
 DFRobot/Fritzing-library: BRANCHES:[master:2ccdf815b9f27a18691d0466167e074001b76391;gh-pages:1153c46d21c85c8e99c123336c3abd49b164d75d;]|RELEASE:[none|none]
 DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2;]|RELEASE:[none|none]
+DFRobot/EcoDuino: BRANCHES:[master:5c393b7e568b9b444d5fd8ff2f08b4ab76c21697;]|RELEASE:[none|none]
