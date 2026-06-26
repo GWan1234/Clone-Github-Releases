@@ -5315,3 +5315,4 @@ DFRobot/DFRobot_VisualRotaryEncoder: BRANCHES:[main:9fde2687fd36c06e02be3c37a36a
 DFRobot/DFRobot_SpeechSynthesis_V2: BRANCHES:[main:66195611ff0f70b57fd434b1b3211d8f4e9a25ff;]|RELEASE:[none|none]
 DFRobot/DFRobot_ENS160: BRANCHES:[main:7a45a70acbe75389514f0b380d0a9aa53c055b51;]|RELEASE:[none|none]
 DFRobot/DFRobot_STS3X: BRANCHES:[main:881afd6f9198caa873b1095d19afcc3c744cd323;]|RELEASE:[none|none]
+DFRobot/DFRobot_EnvironmentalSensor: BRANCHES:[master:efead3ef841481414519e9214ca8e8bd419d2157;]|RELEASE:[none|none]
