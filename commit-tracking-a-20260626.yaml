@@ -5399,3 +5399,4 @@ DFRobot/DFRobot_GNSSAndRTC: BRANCHES:[master:e739e8cdba7998ecf3af9ea3db80b676a0c
 DFRobot/DFRobot_LarkWeatherStation: BRANCHES:[master:da4f0bc35f4a51b3c7201b0998f879278aaf110e;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_MaqueenPlus_v20_Simple: BRANCHES:[master:92f04f7ead4fef409df15dad9112c573747846a1;]|RELEASE:[v0.1.0|none]
 DFRobot/DFRobot_ColorTemperature: BRANCHES:[master:7e00d4e456db0636a15647760dde3367158eca7e;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_IoT_Ubidots: BRANCHES:[master:223090410b6d88ac31bb9ff3c3020fe1bcce91d6;]|RELEASE:[v0.0.1|none]
