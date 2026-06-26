@@ -5154,3 +5154,4 @@ DFRobot/DFRobot_MAX17043: BRANCHES:[master:14d60b9f8fa2a65937b202eb5abba6e988032
 DFRobot/pxt-Matrix8x8: BRANCHES:[master:f0c0804ebc95aae336be9ec412ec8ac59b374c1d;]|RELEASE:[none|none]
 DFRobot/DFRobot_10DOF: BRANCHES:[master:32d9ca7ca5b5301a1e69aef8d3ae1e860361c0a9;]|RELEASE:[none|none]
 DFRobot/DFRobot_PH: BRANCHES:[master:43f229a843b89cf20c7e50f8a55410f80050cde0;]|RELEASE:[none|none]
+DFRobot/DFRobot_I2C_Multiplexer_old: BRANCHES:[master:3da89d2b279eb00d0622295c73ee88ac15b19d95;]|RELEASE:[none|none]
