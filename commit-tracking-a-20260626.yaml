@@ -5045,3 +5045,4 @@ DFRobot/print-manager: BRANCHES:[add-overlord:5e6385f34c3f0838bb256df57dfedfedc7
 DFRobot/print-studio-local-test: BRANCHES:[master:0fac5448488a560aaa0b11d16605feaaee476c54;]|RELEASE:[none|none]
 DFRobot/DFResources: BRANCHES:[master:6d2bc31d9d94dcd2c706da463ad192ef8a57a479;]|RELEASE:[none|none]
 DFRobot/Windows-10-IoT-text-code: BRANCHES:[master:a98a23bd192386b8f4b8539b830fc22f22898f37;]|RELEASE:[none|none]
+DFRobot/Waterplantsystem: BRANCHES:[master:5edcef1d6ed9b5c99f5090aae62c518f4ec1ab2b;]|RELEASE:[none|none]
