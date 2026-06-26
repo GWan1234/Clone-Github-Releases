@@ -5398,3 +5398,4 @@ DFRobot/DFRobot_LEDMatrix: BRANCHES:[master:3c9d844079889dbaeb48ba47f073f5470acd
 DFRobot/DFRobot_GNSSAndRTC: BRANCHES:[master:e739e8cdba7998ecf3af9ea3db80b676a0c43d25;]|RELEASE:[none|none]
 DFRobot/DFRobot_LarkWeatherStation: BRANCHES:[master:da4f0bc35f4a51b3c7201b0998f879278aaf110e;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_MaqueenPlus_v20_Simple: BRANCHES:[master:92f04f7ead4fef409df15dad9112c573747846a1;]|RELEASE:[v0.1.0|none]
+DFRobot/DFRobot_ColorTemperature: BRANCHES:[master:7e00d4e456db0636a15647760dde3367158eca7e;]|RELEASE:[none|none]
