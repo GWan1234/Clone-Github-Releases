@@ -5123,3 +5123,4 @@ DFRobot/microbit-micropython: BRANCHES:[version1:c8c4db8444fa35cda2bbca94b703be7
 DFRobot/DFRobot_EINKBWR_IL0376F: BRANCHES:[master:095203e2a9f1858c956cbefc541120e3e799d1d7;]|RELEASE:[none|none]
 DFRobot/SD_SPI: BRANCHES:[master:a40d50d2fc64f95967a8c0c6d55401952f9cc43a;]|RELEASE:[none|none]
 DFRobot/DFRobot_Display: BRANCHES:[master:8ab880d7374b5f533e05559d21003630418f97a6;]|RELEASE:[none|none]
+DFRobot/DFRobot_DigitalPot-100K-: BRANCHES:[master:0beb4a0167a111c5d235165d49b1aae461a4a1e8;]|RELEASE:[none|none]
