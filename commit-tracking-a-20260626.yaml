@@ -5179,3 +5179,4 @@ DFRobot/DFRobot_EC10: BRANCHES:[master:b12dc95086a6f9dd2b57cf55419438e13e45e25f;
 DFRobot/Arduino-Course-Library-Files: BRANCHES:[master:ba6d68d3e17088a9648186237965636479040f93;]|RELEASE:[none|none]
 DFRobot/TEL0125: BRANCHES:[master:2fcaeb6f73f9736c1375c709ce83359ad41e0faf;]|RELEASE:[none|none]
 DFRobot/SEN0304: BRANCHES:[master:e50744c9359f258217cf39d9291e5e94c85e42ab;]|RELEASE:[none|none]
+DFRobot/DFR0494: BRANCHES:[master:e8423b757aa20df65ab32a88267cff955a91aadc;]|RELEASE:[none|none]
