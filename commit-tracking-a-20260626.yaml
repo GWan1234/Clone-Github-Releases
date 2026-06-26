@@ -5142,3 +5142,4 @@ DFRobot/DFRobot_MCP4725: BRANCHES:[master:befc5b19f58364e270b4c0a3a7d50620edbfd2
 DFRobot/pxt-gamePad: BRANCHES:[master:b509667f2d9acf19327c1c50e89b2c764d0dbb78;]|RELEASE:[v1.1.0|none]
 DFRobot/pxt-motor: BRANCHES:[master:2cdf17586556c5a532782aa436c516ae50f5f316;]|RELEASE:[none|none]
 DFRobot/Button: BRANCHES:[master:03d6f7bc1573bb17bd5c34a860d4c21db7f03833;]|RELEASE:[none|none]
+DFRobot/DFRobot_IMU_Show: BRANCHES:[master:6c87ce471cee154d21378a9749b94aa8aecd9ec8;]|RELEASE:[V1.5|none]
