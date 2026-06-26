@@ -5100,3 +5100,4 @@ DFRobot/micropython-esp32: BRANCHES:[esp32:eded7dd70b2c1b3c41fcc4bf98c2e29d2eeb3
 DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510;]|RELEASE:[none|none]
 DFRobot/DFRobot_IIS: BRANCHES:[master:a58e50e01757773e42e7d4aa03e3f8d126520f94;]|RELEASE:[iismonitor_v1.0|none]
 DFRobot/raspberrypi_ups: BRANCHES:[master:d18bb92ff15dfc6f6c12dd9fcbb7709aadc65bf4;]|RELEASE:[none|none]
+DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b64e2542;]|RELEASE:[none|none]
