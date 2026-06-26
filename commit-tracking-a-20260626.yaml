@@ -5089,3 +5089,4 @@ DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8;
 DFRobot/watermonitor: BRANCHES:[master:ccdce7c735dace2d05a97f3abadb24b8cd794a05;]|RELEASE:[none|none]
 DFRobot/uPyCraft: BRANCHES:[master:41936c881a6d0c07d221615642bfd548e3191e05;]|RELEASE:[none|none]
 DFRobot/DFRobot_BME280: BRANCHES:[master:76e7f85b6acaabddcb46cf74aac8c3bf2a0f9d19;]|RELEASE:[none|none]
+DFRobot/DFRobot_SX1278: BRANCHES:[master:438e344c9e67694c77303803e149430174631139;]|RELEASE:[none|none]
