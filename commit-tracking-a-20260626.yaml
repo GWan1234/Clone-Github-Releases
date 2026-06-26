@@ -5459,3 +5459,4 @@ DFRobot/pxt-DFRobot_HuskyLensV2: BRANCHES:[master:5d141b65f5452618345aa101ec20cf
 DFRobot/DFRobot_RTK_4G: BRANCHES:[master:defbb6fba420dd68fd70b7ff9ba917dd9d8a6e3d;]|RELEASE:[none|none]
 DFRobot/DFRobot_HuskylensV2_MQTT: BRANCHES:[dev:73e97049dc950669fb4c47d5892b41e0eaf48741;master:c9aa35e31906c20a45c168b88d1813a29b9fdec6;]|RELEASE:[v1.2.1|none]
 DFRobot/DFRobot_SD3031: BRANCHES:[master:ebe92d4fa6ae5cf8b969d89d71dbcc4423e5a656;]|RELEASE:[none|none]
+DFRobot/DFR0289-RLY-8-software: BRANCHES:[master:bb5abf574cbb02ec593c413b5e1153a89147b985;]|RELEASE:[none|none]
