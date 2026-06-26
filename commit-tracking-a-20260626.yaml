@@ -5172,3 +5172,4 @@ DFRobot/DFRobot_PCF8591: BRANCHES:[master:f2e5b9c08f210e91c8d3ab93249ee56aef3507
 DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37dbc4e6;]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture_Touch_old: BRANCHES:[master:8f359ed14d37435674a1a5468b9286f2d6ca9f4e;]|RELEASE:[none|none]
 DFRobot/pxt-MP3: BRANCHES:[master:5841eb1adad1f114d8bdc59cf5837ac91f1a95e5;]|RELEASE:[none|none]
+DFRobot/DFRobot_MultiTouchPad: BRANCHES:[master:833442f060c51478cc1cbaee74baf0b397bcd9eb;]|RELEASE:[none|none]
