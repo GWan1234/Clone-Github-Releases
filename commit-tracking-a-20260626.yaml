@@ -5030,3 +5030,4 @@ DFRobot/PulseGlassDemo: BRANCHES:[master:dc7d350e22dcafb6a416d2bffb1f4601e827fc0
 DFRobot/wido_ddns: BRANCHES:[master:7c4f5d172eeb0cc78006ec46fe97aef66ab2ea75;v0.1:32da2d4d8330279917960c33872541e0358a1e2b;]|RELEASE:[none|none]
 DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d;]|RELEASE:[none|none]
 DFRobot/preferences.txt-for-adruino-ide: BRANCHES:[master:dfd2bb39c4188540fcd55f23b0f38836a637a2e8;]|RELEASE:[none|none]
+DFRobot/DFRobotVeyronBrushed: BRANCHES:[master:ead629b3116a30456f16b71a2841111cbc211894;]|RELEASE:[none|none]
