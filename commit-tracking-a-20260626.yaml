@@ -5319,3 +5319,4 @@ DFRobot/DFRobot_EnvironmentalSensor: BRANCHES:[master:efead3ef841481414519e9214c
 DFRobot/DFRobot_Iot: BRANCHES:[master:a36e39d231ffd3fdddb99bb557072fec554b835a;]|RELEASE:[none|none]
 DFRobot/DFRobot_BC20_Gravity: BRANCHES:[main:c9aed2ad61965d4602eec21d76bf3a54343ae7e0;]|RELEASE:[none|none]
 DFRobot/DFRobot_GM60: BRANCHES:[main:173df375f720786a3cb74475a575a8e29c572198;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_liquid_level: BRANCHES:[master:b69e1f9b61ea17dcca96b79ab40843458b66a158;]|RELEASE:[none|none]
