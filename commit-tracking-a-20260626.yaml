@@ -5170,3 +5170,4 @@ DFRobot/DFRobot_AS3935: BRANCHES:[master:1d974051b06a0d3930311fc47a98b1fabfb1f35
 DFRobot/DFRobot_DHT11: BRANCHES:[master:d6de7bd51683eb45c4e7d951e8a7b1ffd254c1b5;]|RELEASE:[none|none]
 DFRobot/DFRobot_PCF8591: BRANCHES:[master:f2e5b9c08f210e91c8d3ab93249ee56aef3507e3;]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37dbc4e6;]|RELEASE:[none|none]
+DFRobot/DFRobot_Gesture_Touch_old: BRANCHES:[master:8f359ed14d37435674a1a5468b9286f2d6ca9f4e;]|RELEASE:[none|none]
