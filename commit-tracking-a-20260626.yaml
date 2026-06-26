@@ -5134,3 +5134,4 @@ DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588;
 DFRobot/DFRobot_DS1307: BRANCHES:[master:38a0d9388f91380efc2a84af49873ebc86a31922;]|RELEASE:[none|none]
 DFRobot/FreeSixIMU: BRANCHES:[master:89e8fa3c4b8028aeb1188b6e5468f3f51b5b2312;]|RELEASE:[none|none]
 DFRobot/OBLOQExamples: BRANCHES:[master:6308d98366cc0bf9d24d0cb219eb3e9afb6361ab;]|RELEASE:[none|none]
+DFRobot/GravityTDS: BRANCHES:[master:e711cd1ea5f410b257cf8a59cd548d7c8b131428;]|RELEASE:[none|none]
