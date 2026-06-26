@@ -5410,3 +5410,4 @@ DFRobot/DFRobot_SIM7070G: BRANCHES:[master:40bf361fb8554eb19be0b8e9563f8ffa1996f
 DFRobot/DFRobot_HumanDetection: BRANCHES:[master:f98f64ea8bc29a9bb0fbb1624401ce8db126f966;]|RELEASE:[none|none]
 DFRobot/DFRobot_LTR308: BRANCHES:[master:de101d136b5ac14527c7b522fcaa48ea315f04cc;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_MLX90614: BRANCHES:[master:4b66049e8ce31a47bc9a76e669b5a66aae981ddd;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_matrixLidarDistanceSensor: BRANCHES:[master:d89a8863e697d55ec0f9bd6a1eed7e5674adb8e7;]|RELEASE:[v1.1.2|none]
