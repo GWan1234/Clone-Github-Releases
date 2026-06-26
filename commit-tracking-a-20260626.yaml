@@ -5381,3 +5381,4 @@ DFRobot/pxt-DFRobot_MaqueenCalliope_Microbit: BRANCHES:[master:f0f8db5e9165d119c
 DFRobot/pxt-DFRobot_voiceRecognition: BRANCHES:[master:9a6f143ad277977214f7fd83261fdd719e39f6da;]|RELEASE:[v0.0.5|none]
 DFRobot/DFRobot_LcdDisplay: BRANCHES:[master:7ab0e6cefd7636e35825bc532a79a54cff8a1087;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_speechSynthesisV2: BRANCHES:[master:844fda1627414aa982c326ae9c9bf3949c1281a7;]|RELEASE:[v0.0.6|none]
+DFRobot/pxt-DFRobot_SCD41: BRANCHES:[master:6fea1cfe45554f6368f615e77dd9eaeeae620559;]|RELEASE:[v0.0.2|none]
