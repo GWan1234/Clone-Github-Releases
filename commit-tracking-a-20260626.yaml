@@ -5439,3 +5439,4 @@ DFRobot/DFRobot_MHZ9041A: BRANCHES:[master:dc218fe07accabcb23faead70b2cb3b4066a6
 DFRobot/esp-adf: BRANCHES:[master:4c29b5578e9739cbc3b6f5258380115b79cedc16;]|RELEASE:[none|none]
 DFRobot/DFR1154_Examples: BRANCHES:[master:f63ef72ad7cb277e850e0602f1a2ed84207f3da8;]|RELEASE:[none|none]
 DFRobot/DFRobot_MatrixLidar: BRANCHES:[master:058db6ca7447ffc79ea3d31245e9057ccceb4cfc;]|RELEASE:[none|none]
+DFRobot/DFRobot_AS6221: BRANCHES:[master:580302ebf8daddbdb54e2bf9c14ac83d277b1295;]|RELEASE:[none|none]
