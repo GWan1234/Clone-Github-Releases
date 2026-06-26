@@ -5418,3 +5418,4 @@ DFRobot/DFRobot_UVIndex240370Sensor: BRANCHES:[master:e09bca3465a45c4523512b3ab4
 DFRobot/DFRobot_matrixLidarDistanceSensor: BRANCHES:[master:7050679198ef496cf7da797dcce66c4f0104cc73;]|RELEASE:[none|none]
 DFRobot/DFRobot_Cosmo: BRANCHES:[master:7a5075cedae000e5e6ba0adea53be186449dfc2f;]|RELEASE:[V1.0.3|none]
 DFRobot/pxt-DFRobot_newIR: BRANCHES:[master:ba4279c5903c408d53ebcda64d06f820510dc16f;]|RELEASE:[v0.0.4|none]
+DFRobot/DFRobot_SCIWifiIotModule: BRANCHES:[master:89210f1b806b4ac4fafaee4ccd103071aaf353d1;]|RELEASE:[none|none]
