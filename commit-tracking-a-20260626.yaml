@@ -5373,3 +5373,4 @@ DFRobot/DFRobot_DF2301Q: BRANCHES:[master:f6b0551cd1ed21ff35acb253d89180a6e3c55c
 DFRobot/pxt-DFRobot_SCI_DAQ_Module: BRANCHES:[master:2ab35f171dea550d69ce19f96f03c0b37a2a274c;]|RELEASE:[v1.1.0|none]
 DFRobot/CO2_Concentration_Alert_Keychain: BRANCHES:[master:84bfa7fdcd705c37e6d966d520db769bd84b4ed1;]|RELEASE:[none|none]
 DFRobot/DFRobot_RP2040_SCI: BRANCHES:[master:1dae093ad015185e1209531fa279636205100d83;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_IR: BRANCHES:[master:b4dbadf6cc9b86f9817146cacff5f9b85484b171;]|RELEASE:[v1.0.5|b4dbadf6cc9b86f9817146cacff5f9b85484b171]
