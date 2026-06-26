@@ -5087,3 +5087,4 @@ DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd
 DFRobot/FireBeetle-ESP8266: BRANCHES:[master:e1bf2427a0bb7c6d0ab52294b3a7a005e05e7b0d;]|RELEASE:[none|none]
 DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8;]|RELEASE:[none|none]
 DFRobot/watermonitor: BRANCHES:[master:ccdce7c735dace2d05a97f3abadb24b8cd794a05;]|RELEASE:[none|none]
+DFRobot/uPyCraft: BRANCHES:[master:41936c881a6d0c07d221615642bfd548e3191e05;]|RELEASE:[none|none]
