@@ -5375,3 +5375,4 @@ DFRobot/CO2_Concentration_Alert_Keychain: BRANCHES:[master:84bfa7fdcd705c37e6d96
 DFRobot/DFRobot_RP2040_SCI: BRANCHES:[master:1dae093ad015185e1209531fa279636205100d83;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_IR: BRANCHES:[master:b4dbadf6cc9b86f9817146cacff5f9b85484b171;]|RELEASE:[v1.0.5|b4dbadf6cc9b86f9817146cacff5f9b85484b171]
 DFRobot/DFRobot_LPUPS: BRANCHES:[master:587c090322cf4cc289cf4f79876dafbc00aa6954;]|RELEASE:[none|none]
+DFRobot/DFRobot_RPi_Eink_Display: BRANCHES:[main:c7b2022acd8a3aaf565be7adf2ef8ff53baa7a30;]|RELEASE:[none|none]
