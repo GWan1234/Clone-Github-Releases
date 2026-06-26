@@ -5447,3 +5447,4 @@ DFRobot/DFRobot_AI10: BRANCHES:[master:4f4f5b566bed09d418dd8efb01a22e5f1bed2f94;
 DFRobot/framework-arduinounihiker: BRANCHES:[master:9fabfd6d6324dbb304ad47947675baf7cf1ab29e;]|RELEASE:[none|none]
 DFRobot/platform-unihiker: BRANCHES:[master:508e31875ad92205bf946e28570fb78fc01ceb2e;]|RELEASE:[none|none]
 DFRobot/ext-matrixLidarDistanceSensor: BRANCHES:[master:739dec5cc307e1076f9955c18f173405d8f3d031;]|RELEASE:[none|none]
+DFRobot/K10_Micropython: BRANCHES:[main:394674d7d14c178455276fea6fdf99e5cb8e450c;]|RELEASE:[none|none]
