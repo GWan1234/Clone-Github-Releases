@@ -5293,3 +5293,4 @@ DFRobot/DFRobot_ICM42688: BRANCHES:[main:e2c9a0ebe983cb7aa218c1ba19c48c8aac6e8c4
 DFRobot/DFRobot_AirQualitySensor: BRANCHES:[master:be5351c0c37e5c5f6fa7b026e202556f07f7fd0f;]|RELEASE:[none|none]
 DFRobot/DFRobot_Trafficlight: BRANCHES:[master:9441c627b62bd9a11b7f77c09f9898cd91c3a31f;]|RELEASE:[none|none]
 DFRobot/DFRobot_SCW8916B: BRANCHES:[master:f05e67037eee5775b3a9db77a8d998122363984c;]|RELEASE:[none|none]
+DFRobot/DFRobot_DHT20: BRANCHES:[master:af63fb5ccb0f25dee4fc33739d0c236a70547444;]|RELEASE:[none|none]
