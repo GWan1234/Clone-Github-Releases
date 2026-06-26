@@ -5392,3 +5392,4 @@ DFRobot/DFRobot_FermionBLE: BRANCHES:[master:03b858f898a562b57e1a2dccb9bf63aad6a
 DFRobot/pxt-DFRobot_lark: BRANCHES:[master:58fe8cd091209aba3b86ae88cf94db2484e81dd3;]|RELEASE:[v0.0.3|none]
 DFRobot/Node-RED-dfrobot-lorawan-nodes: BRANCHES:[master:9ddbdcf5387e681cdae50daca05ea31cd397dea3;]|RELEASE:[none|none]
 DFRobot/ext-maqueenPlusMotorMap: BRANCHES:[master:fa89fe652188746147da73d759c760a282fd5aa3;]|RELEASE:[none|none]
+DFRobot/Node-RED-dfrobot_NodeREDComputer: BRANCHES:[master:11efa9a3f4d1e482dfec400a021e55fa48f37a33;]|RELEASE:[none|none]
