@@ -5026,3 +5026,4 @@ DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f;]|RE
 DFRobot/Visual-Servo-Controller: BRANCHES:[master:0e44dd0b4ac52504f7187f2bf39d364b304f2a41;]|RELEASE:[none|none]
 DFRobot/BlunoBasicDemo: BRANCHES:[master:e3b9481780e31dd443c29a4d198bf5dc3111c450;Addcrlf:2dc972bda727ae39228f7c0a903ff8d9afc5ea48;]|RELEASE:[none|none]
 DFRobot/BlunoAccessoryShieldDemo: BRANCHES:[master:19d641f8f0acf2cf65ae70dc238654f03a418537;]|RELEASE:[none|none]
+DFRobot/PulseGlassDemo: BRANCHES:[master:dc7d350e22dcafb6a416d2bffb1f4601e827fc0d;]|RELEASE:[none|none]
