@@ -5076,3 +5076,4 @@ DFRobot/DFRobot_SIM808: BRANCHES:[master:a1e5d362b2de32f9db6c360e14ec1866c6fe813
 DFRobot/AndroidWhenDo: BRANCHES:[master:9010cef5f032927b534c312566fd0f3a0fce8d92;]|RELEASE:[none|none]
 DFRobot/DFRNFC: BRANCHES:[master:a5a95872d435ef05255029debfce3b113b8c5d4f;]|RELEASE:[none|none]
 DFRobot/Bluno_Accessory: BRANCHES:[master:b0c6cc461e0a4cf5113d6bccd3a285c88596e186;]|RELEASE:[none|none]
+DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28;]|RELEASE:[none|none]
