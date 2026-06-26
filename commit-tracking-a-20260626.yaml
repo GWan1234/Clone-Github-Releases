@@ -5442,3 +5442,4 @@ DFRobot/DFRobot_MatrixLidar: BRANCHES:[master:058db6ca7447ffc79ea3d31245e9057ccc
 DFRobot/DFRobot_AS6221: BRANCHES:[master:580302ebf8daddbdb54e2bf9c14ac83d277b1295;]|RELEASE:[none|none]
 DFRobot/DFRobot_SFA40: BRANCHES:[master:694753b8405f9e3830b940650571371919021707;]|RELEASE:[none|none]
 DFRobot/DFRobot_TM6605: BRANCHES:[master:6c39093c59d3c518f6b377cad4fd5d9a8fafde75;]|RELEASE:[none|none]
+DFRobot/DFR1172_Examples: BRANCHES:[master:f5fc1ebeab16d5b7b5a95bbb7777e5a368fc1153;]|RELEASE:[none|none]
