@@ -5396,3 +5396,4 @@ DFRobot/Node-RED-dfrobot_NodeREDComputer: BRANCHES:[master:11efa9a3f4d1e482dfec4
 DFRobot/DFRobot_ISRModule_ESP32S3: BRANCHES:[master:fc3d41222d8ab1c32726d1f7d96b312c16ab7827;]|RELEASE:[none|none]
 DFRobot/DFRobot_LEDMatrix: BRANCHES:[master:3c9d844079889dbaeb48ba47f073f5470acdf620;]|RELEASE:[none|none]
 DFRobot/DFRobot_GNSSAndRTC: BRANCHES:[master:e739e8cdba7998ecf3af9ea3db80b676a0c43d25;]|RELEASE:[none|none]
+DFRobot/DFRobot_LarkWeatherStation: BRANCHES:[master:da4f0bc35f4a51b3c7201b0998f879278aaf110e;]|RELEASE:[none|none]
