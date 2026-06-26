@@ -5028,3 +5028,4 @@ DFRobot/BlunoBasicDemo: BRANCHES:[master:e3b9481780e31dd443c29a4d198bf5dc3111c45
 DFRobot/BlunoAccessoryShieldDemo: BRANCHES:[master:19d641f8f0acf2cf65ae70dc238654f03a418537;]|RELEASE:[none|none]
 DFRobot/PulseGlassDemo: BRANCHES:[master:dc7d350e22dcafb6a416d2bffb1f4601e827fc0d;]|RELEASE:[none|none]
 DFRobot/wido_ddns: BRANCHES:[master:7c4f5d172eeb0cc78006ec46fe97aef66ab2ea75;v0.1:32da2d4d8330279917960c33872541e0358a1e2b;]|RELEASE:[none|none]
+DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d;]|RELEASE:[none|none]
