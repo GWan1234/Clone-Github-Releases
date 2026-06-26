@@ -5275,3 +5275,4 @@ DFRobot/FastLED: BRANCHES:[master:29654e66d00b24df50ca526e7032c7a01d7ac934;RGBWe
 DFRobot/DFRobot_B_LUX_V30B: BRANCHES:[master:bbdeaf2b6f3884b88818168fdba721d929cb5c19;]|RELEASE:[none|none]
 DFRobot/DFRobot_DF1101S: BRANCHES:[master:3fa432fa5618776c606b7868dc02b88d1083498f;]|RELEASE:[none|none]
 DFRobot/DFRobot_BT401: BRANCHES:[master:239aca7b14b887ddb7272c63f0e20e670b5db913;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_Environment_Science: BRANCHES:[master:c22979559666356ba6d948df1babd94af62f56db;]|RELEASE:[v0.7.2|none]
