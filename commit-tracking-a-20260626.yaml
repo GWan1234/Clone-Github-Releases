@@ -5464,3 +5464,4 @@ DFRobot/DFRobot_HuskylensV2: BRANCHES:[dev:3753d9747e384783d739ccf1f198a73c07c49
 DFRobot/DFRobot_EasyFlash: BRANCHES:[master:0a594adc2d77de3a6b89deaa5382653658dc6817;]|RELEASE:[none|none]
 DFRobot/arduino-cli-custom: BRANCHES:[master:84c17331cf3a452aeb06906e0ca71ac8e65f0bfe;]|RELEASE:[git-snapshot-8f81c72a|none]
 DFRobot/DFRobot_C4002: BRANCHES:[main:269334c2227572333bb0907e71c1ba0e2c1f2c85;]|RELEASE:[none|none]
+DFRobot/DFRobot_TactileSensor: BRANCHES:[master:962a7b32ac8ea32ae2a395dc33402b4e835fe445;]|RELEASE:[none|none]
