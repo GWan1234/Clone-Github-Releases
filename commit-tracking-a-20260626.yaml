@@ -5161,3 +5161,4 @@ DFRobot/Wiki: BRANCHES:[master:eec9b91e73b23b36062fcfaba7fac8df01164072;SEN0290:
 DFRobot/mpy-gravity: BRANCHES:[master:3b6161616587d44befc1da99c871c049dfd21e87;]|RELEASE:[none|none]
 DFRobot/DFR0492: BRANCHES:[master:85ef96f447cc5b7549bb74d862fad9ca4740298d;]|RELEASE:[none|none]
 DFRobot/DFR0368: BRANCHES:[master:49c173d658f106207d3d4dddde22eb84fce6d25e;]|RELEASE:[none|none]
+DFRobot/pxt-maqueen: BRANCHES:[master:a1fbb5e88ef4d53b814138d5a5ed73ab08465deb;]|RELEASE:[v1.7.17|none]
