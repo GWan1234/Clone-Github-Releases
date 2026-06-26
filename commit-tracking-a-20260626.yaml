@@ -5323,3 +5323,4 @@ DFRobot/pxt-DFRobot_liquid_level: BRANCHES:[master:b69e1f9b61ea17dcca96b79ab4084
 DFRobot/pxt-DFRobot_speech_synthesis: BRANCHES:[master:1496f334ce87a5a5d3173e0022fd2e6a9c83fa2c;]|RELEASE:[none|none]
 DFRobot/DFRobot_ICP10111: BRANCHES:[master:4f74e5dffd81b7d9fac657a8feb0182799a0d651;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMM150: BRANCHES:[master:c03768d7a09fee36c3c7cbc851941adef590f010;]|RELEASE:[none|none]
+DFRobot/DFRobot_BloodOxygen_S: BRANCHES:[master:0823f4297439ba53e2c690264d3989cf14564511;]|RELEASE:[none|none]
