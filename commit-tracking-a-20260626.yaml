@@ -5144,3 +5144,4 @@ DFRobot/pxt-motor: BRANCHES:[master:2cdf17586556c5a532782aa436c516ae50f5f316;]|R
 DFRobot/Button: BRANCHES:[master:03d6f7bc1573bb17bd5c34a860d4c21db7f03833;]|RELEASE:[none|none]
 DFRobot/DFRobot_IMU_Show: BRANCHES:[master:6c87ce471cee154d21378a9749b94aa8aecd9ec8;]|RELEASE:[V1.5|none]
 DFRobot/DFRobot_MAX31855_old: BRANCHES:[master:68a10c0274b69df87aa5da9d3467fdfa428c076c;]|RELEASE:[none|none]
+DFRobot/GravityPump: BRANCHES:[master:ec5dfd6ee4f6815dd6357a43a24080351b4f0393;]|RELEASE:[none|none]
