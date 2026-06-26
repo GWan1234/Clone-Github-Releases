@@ -5281,3 +5281,4 @@ DFRobot/DFRobot_TCS3430: BRANCHES:[master:34ddde97dd9e9e636db2f9c15356c07a822dd8
 DFRobot/DFRobot_SpeechSynthesis: BRANCHES:[master:ed6dba1b157c0db40ef30a93afff8e60cffc2251;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_IoT_Cloud_Kit: BRANCHES:[master:34976c0f57ae50c625c9a19d4c9fd46683577890;]|RELEASE:[v0.8.3|none]
 DFRobot/DFRobot_SGP40: BRANCHES:[master:7fa498fa24bacee8b284c17057811ea210060c2c;]|RELEASE:[none|none]
+DFRobot/DFRobot_DF1201S: BRANCHES:[master:9c756dc62a95807c20897020c3c7fe5fa6fec440;]|RELEASE:[none|none]
