@@ -5150,3 +5150,4 @@ DFRobot/pxt-joystick: BRANCHES:[master:4a423fc1fe3621737db2aed29fd05ed8ec5c47bb;
 DFRobot/DFRobot_EC: BRANCHES:[master:ed563497d22936d306a58d03d288846d08cac3ef;]|RELEASE:[none|none]
 DFRobot/pxt-compass: BRANCHES:[master:5a354054f39c68cbf61834dc71dbe1fb377a0050;]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd;]|RELEASE:[none|none]
+DFRobot/DFRobot_MAX17043: BRANCHES:[master:14d60b9f8fa2a65937b202eb5abba6e9880328a2;]|RELEASE:[none|none]
