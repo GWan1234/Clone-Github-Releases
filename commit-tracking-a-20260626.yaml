@@ -5356,3 +5356,4 @@ DFRobot/arduino-esp32: BRANCHES:[gh-pages:d2a43d3ac2b8594d9fe00337543797042a63fe
 DFRobot/DFRobot_SCD4X: BRANCHES:[main:1ac57135d78e2e48289d7f4787f4468b607dd04b;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_RGB_Button_Kit: BRANCHES:[master:24bf2697368638c4dbf0e3cd15a028bc628d7d2f;]|RELEASE:[none|none]
 DFRobot/I2C_Addresses: BRANCHES:[master:2bcc431bf326166af2857ce528c79e2b48d6ceb9;]|RELEASE:[none|none]
+DFRobot/Silly-Maqueen-Tutorial-Makecode: BRANCHES:[master:23167927f15afc2dd129fecdffb6d143211cb263;]|RELEASE:[none|none]
