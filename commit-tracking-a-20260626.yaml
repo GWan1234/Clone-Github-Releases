@@ -5094,3 +5094,4 @@ DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6;
 DFRobot/DFRobot_RGBMatrix: BRANCHES:[master:0f53ab4de70949dfba64324b663100498e5f2a15;]|RELEASE:[none|none]
 DFRobot/Gravity-I2C-SD2405-RTC-Module: BRANCHES:[master:322bf7ce9e1c53f4b62a4517a7c37a7b0a6e55a6;]|RELEASE:[none|none]
 DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868a79f91;]|RELEASE:[none|none]
+DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4cef8;]|RELEASE:[none|none]
