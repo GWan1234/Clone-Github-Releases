@@ -5286,3 +5286,4 @@ DFRobot/pxt-DFRobot_xia_mi_Board: BRANCHES:[master:4d09444f8093d197254ab9b1f8438
 DFRobot/pxt-DFRobot_URM09_Trig: BRANCHES:[master:b3898b289ffdc27adb5ce5b70297382ec9efc02f;]|RELEASE:[v0.0.4|none]
 DFRobot/DFRobot_VL6180X: BRANCHES:[master:02c0dd4527d6aa7826cdfdafcf022a598ed78aa3;]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS: BRANCHES:[master:e5972df740e6305a97515f7d99f5fb6ec7823530;]|RELEASE:[none|none]
+DFRobot/DFRobot_DS323X: BRANCHES:[master:bb0229d2d62fd578dfb9f009dea59d3102669bc5;]|RELEASE:[none|none]
