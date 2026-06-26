@@ -5403,3 +5403,4 @@ DFRobot/pxt-DFRobot_IoT_Ubidots: BRANCHES:[master:223090410b6d88ac31bb9ff3c3020f
 DFRobot/DFRobot_TCS: BRANCHES:[master:e13408d31ebba81acfbc6b0afedd621ba5840dfb;]|RELEASE:[none|none]
 DFRobot/DFRobot_BME68x: BRANCHES:[master:4f5459dca1f61c1a3aac9a354dfa5d6034260422;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_lcdDisplay: BRANCHES:[master:f52af6d96dbc9e45eddd067e3f8a20c29626c4f5;merge-1:ac3efa4e4d64608067698ba8781a942fd11a3aed;]|RELEASE:[v0.0.7|none]
+DFRobot/DFRobot_PN7150: BRANCHES:[master:ec8940eafbb784566e3b72d8b23a731cfdb2f866;]|RELEASE:[none|none]
