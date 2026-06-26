@@ -5185,3 +5185,4 @@ DFRobot/DFRobot_VEML6075: BRANCHES:[master:e0a208416288694a88538eca9c7de16ce2713
 DFRobot/SEN0259: BRANCHES:[master:0b1ed1dd3a589e8f72a8a5173ee96cb89c23104e;]|RELEASE:[none|none]
 DFRobot/DFRobot_PCA: BRANCHES:[master:b2248dfb946218beacfa2c1d6657ad5ea535ba19;]|RELEASE:[none|none]
 DFRobot/DFRobot_INA219: BRANCHES:[master:804e82702ff852bb549e88178f8c0ae76bfe2739;]|RELEASE:[none|none]
+DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b57325129b6d5;revert-4-lib_support_ubuntu_20-04:7cf3bc880d7afc75a87633d4a06a348179d1b73b;]|RELEASE:[none|none]
