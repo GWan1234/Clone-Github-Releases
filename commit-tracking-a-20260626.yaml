@@ -5458,3 +5458,4 @@ DFRobot/mindplus2-docs-en: BRANCHES:[dev-xy:4d381b776cc8ed6f937c963887d9ce1effcd
 DFRobot/pxt-DFRobot_HuskyLensV2: BRANCHES:[master:5d141b65f5452618345aa101ec20cf334aa610e5;]|RELEASE:[v1.1.7|none]
 DFRobot/DFRobot_RTK_4G: BRANCHES:[master:defbb6fba420dd68fd70b7ff9ba917dd9d8a6e3d;]|RELEASE:[none|none]
 DFRobot/DFRobot_HuskylensV2_MQTT: BRANCHES:[dev:73e97049dc950669fb4c47d5892b41e0eaf48741;master:c9aa35e31906c20a45c168b88d1813a29b9fdec6;]|RELEASE:[v1.2.1|none]
+DFRobot/DFRobot_SD3031: BRANCHES:[master:ebe92d4fa6ae5cf8b969d89d71dbcc4423e5a656;]|RELEASE:[none|none]
