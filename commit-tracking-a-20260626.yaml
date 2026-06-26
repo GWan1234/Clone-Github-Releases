@@ -5401,3 +5401,4 @@ DFRobot/pxt-DFRobot_MaqueenPlus_v20_Simple: BRANCHES:[master:92f04f7ead4fef409df
 DFRobot/DFRobot_ColorTemperature: BRANCHES:[master:7e00d4e456db0636a15647760dde3367158eca7e;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_IoT_Ubidots: BRANCHES:[master:223090410b6d88ac31bb9ff3c3020fe1bcce91d6;]|RELEASE:[v0.0.1|none]
 DFRobot/DFRobot_TCS: BRANCHES:[master:e13408d31ebba81acfbc6b0afedd621ba5840dfb;]|RELEASE:[none|none]
+DFRobot/DFRobot_BME68x: BRANCHES:[master:4f5459dca1f61c1a3aac9a354dfa5d6034260422;]|RELEASE:[none|none]
