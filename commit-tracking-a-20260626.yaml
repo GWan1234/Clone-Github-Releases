@@ -5367,3 +5367,4 @@ DFRobot/SmartWateringDevice: BRANCHES:[master:96374946429272ba33925b4e13a76790de
 DFRobot/ThreeAxisAccelerationRecorder: BRANCHES:[master:a3d69f6ca303909b83c0098de9a178fb8fc15f78;]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd;]|RELEASE:[none|none]
 DFRobot/test_video: BRANCHES:[master:0bff1838278fcdf87bc8bba1d062eb47d47c7e45;]|RELEASE:[none|none]
+DFRobot/DFRobot_RainfallSensor: BRANCHES:[master:38fea5e02b40a5430be6dab39a99a6f6347d667e;]|RELEASE:[none|none]
