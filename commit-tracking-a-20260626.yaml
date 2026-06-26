@@ -5050,3 +5050,4 @@ DFRobot/DFRobotRomeoBLEMini: BRANCHES:[master:7ebbcb7db105d917c544f607f8bc8c9f63
 DFRobot/DFRobotIRPosition: BRANCHES:[master:8edc82b74f39abde636f83226a9c12f629ee9eda;]|RELEASE:[1.0.2|none]
 DFRobot/Intermediate-Kit: BRANCHES:[master:4f2ff21830cbc1c8563f92c58f03688ffc15692d;]|RELEASE:[none|none]
 DFRobot/DFSerialChart: BRANCHES:[master:fac822b834c6cfdc3c69e643a55b33fa6cf46551;]|RELEASE:[none|none]
+DFRobot/DFRobot_MCP2515: BRANCHES:[master:6de2da97719fd9c55d0b30eb95aff84a8f7a9205;]|RELEASE:[none|none]
