@@ -5114,3 +5114,4 @@ DFRobot/DFRobot_EINK: BRANCHES:[master:5ee751e1ea38cde74b0cff1c508341012d1bf1d6;
 DFRobot/Gravity_Analog_Dissolved_Oxygen_Sensor: BRANCHES:[master:7f26f056884757a3dcff91d2fff4e7110f197d27;]|RELEASE:[none|none]
 DFRobot/GoBle: BRANCHES:[master:4f3087b697754cd8036eacd0a08abaa096e96ffb;]|RELEASE:[none|none]
 DFRobot/binaryfiles: BRANCHES:[master:ba4c3afebb503a2c6ac6e4c7689ab2ea93d72e45;]|RELEASE:[none|none]
+DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3;]|RELEASE:[none|none]
