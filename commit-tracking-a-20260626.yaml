@@ -5072,3 +5072,4 @@ DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552d
 DFRobot/WikiResource: BRANCHES:[master:69a71c9b57abc4e053c59ac0e94bb52ecd2a9d24;]|RELEASE:[none|none]
 DFRobot/DFRobot_Heartrate: BRANCHES:[master:3ec109db93f526e1797e36f6e9ce4bf85672459c;]|RELEASE:[none|none]
 DFRobot/Analog-Electrical-Conductivity-Sensor: BRANCHES:[master:7743b11d83651cdbe5045cecc2e600011816be4e;]|RELEASE:[none|none]
+DFRobot/DFRobot_SIM808: BRANCHES:[master:a1e5d362b2de32f9db6c360e14ec1866c6fe8130;]|RELEASE:[none|none]
