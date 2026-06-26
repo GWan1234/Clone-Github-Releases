@@ -5370,3 +5370,4 @@ DFRobot/test_video: BRANCHES:[master:0bff1838278fcdf87bc8bba1d062eb47d47c7e45;]|
 DFRobot/DFRobot_RainfallSensor: BRANCHES:[master:38fea5e02b40a5430be6dab39a99a6f6347d667e;]|RELEASE:[none|none]
 DFRobot/DFRobot_GNSS: BRANCHES:[master:d4861cefa434e15a235459184bd27f81d8781416;]|RELEASE:[none|none]
 DFRobot/DFRobot_DF2301Q: BRANCHES:[master:f6b0551cd1ed21ff35acb253d89180a6e3c55c4b;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_SCI_DAQ_Module: BRANCHES:[master:2ab35f171dea550d69ce19f96f03c0b37a2a274c;]|RELEASE:[v1.1.0|none]
