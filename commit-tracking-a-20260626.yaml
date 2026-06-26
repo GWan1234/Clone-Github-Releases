@@ -5444,3 +5444,4 @@ DFRobot/DFRobot_SFA40: BRANCHES:[master:694753b8405f9e3830b940650571371919021707
 DFRobot/DFRobot_TM6605: BRANCHES:[master:6c39093c59d3c518f6b377cad4fd5d9a8fafde75;]|RELEASE:[none|none]
 DFRobot/DFR1172_Examples: BRANCHES:[master:f5fc1ebeab16d5b7b5a95bbb7777e5a368fc1153;]|RELEASE:[none|none]
 DFRobot/DFRobot_AI10: BRANCHES:[master:4f4f5b566bed09d418dd8efb01a22e5f1bed2f94;]|RELEASE:[none|none]
+DFRobot/framework-arduinounihiker: BRANCHES:[master:9fabfd6d6324dbb304ad47947675baf7cf1ab29e;]|RELEASE:[none|none]
