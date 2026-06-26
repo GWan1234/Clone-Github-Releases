@@ -5419,3 +5419,4 @@ DFRobot/DFRobot_matrixLidarDistanceSensor: BRANCHES:[master:7050679198ef496cf7da
 DFRobot/DFRobot_Cosmo: BRANCHES:[master:7a5075cedae000e5e6ba0adea53be186449dfc2f;]|RELEASE:[V1.0.3|none]
 DFRobot/pxt-DFRobot_newIR: BRANCHES:[master:ba4279c5903c408d53ebcda64d06f820510dc16f;]|RELEASE:[v0.0.4|none]
 DFRobot/DFRobot_SCIWifiIotModule: BRANCHES:[master:89210f1b806b4ac4fafaee4ccd103071aaf353d1;]|RELEASE:[none|none]
+DFRobot/DFRobot_MSM261: BRANCHES:[master:79ef278d21e59e31774718be5ae228ace6c5e176;]|RELEASE:[none|none]
