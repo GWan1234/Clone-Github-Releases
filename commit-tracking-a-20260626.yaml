@@ -5466,3 +5466,4 @@ DFRobot/arduino-cli-custom: BRANCHES:[master:84c17331cf3a452aeb06906e0ca71ac8e65
 DFRobot/DFRobot_C4002: BRANCHES:[main:269334c2227572333bb0907e71c1ba0e2c1f2c85;]|RELEASE:[none|none]
 DFRobot/DFRobot_TactileSensor: BRANCHES:[master:962a7b32ac8ea32ae2a395dc33402b4e835fe445;]|RELEASE:[none|none]
 DFRobot/DFRobot_LWNode: BRANCHES:[main:540cee94e65a58a5f5964a996f69dc70f42f0ad3;]|RELEASE:[none|none]
+DFRobot/DFRobot_FRN20: BRANCHES:[main:f4f01c311c6c50214e9f7efd2d6e73ef867bd012;]|RELEASE:[none|none]
