@@ -5067,3 +5067,4 @@ DFRobot/MagneticSensorLsm303: BRANCHES:[master:0be050aa699554711f44619edff96d728
 DFRobot/Arduino-HMC5883L: BRANCHES:[master:8b27c96370296eb067457980e0c81d1184f2d24f;]|RELEASE:[none|none]
 DFRobot/DFRobotDuinoBoard: BRANCHES:[master:3055558310798f11a5984dc240be96d6e54b0f6d;]|RELEASE:[none|none]
 DFRobot/Mezzano: BRANCHES:[master:4fbdc7be629eb1da1411b74893cc53c9447cb15f;]|RELEASE:[none|none]
+DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449;]|RELEASE:[none|none]
