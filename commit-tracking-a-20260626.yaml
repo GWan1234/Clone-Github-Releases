@@ -5422,3 +5422,4 @@ DFRobot/DFRobot_SCIWifiIotModule: BRANCHES:[master:89210f1b806b4ac4fafaee4ccd103
 DFRobot/DFRobot_MSM261: BRANCHES:[master:79ef278d21e59e31774718be5ae228ace6c5e176;]|RELEASE:[none|none]
 DFRobot/pxt-dfrobot_maqueenplus_v20_tw: BRANCHES:[master:566fb9322b69433c59736dd2188fdb8953a333e0;]|RELEASE:[v0.0.2|none]
 DFRobot/DFRobot_GestureFaceDetection: BRANCHES:[master:c23832f835a3bb02e2262fdd8811a4221cd5de3f;]|RELEASE:[none|none]
+DFRobot/pxt-DFRobotGestureFaceDetection: BRANCHES:[master:6b0becf33c4617ecc511c6ddb6d67aad285dace0;]|RELEASE:[none|none]
