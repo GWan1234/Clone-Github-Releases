@@ -5032,3 +5032,4 @@ DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f8
 DFRobot/preferences.txt-for-adruino-ide: BRANCHES:[master:dfd2bb39c4188540fcd55f23b0f38836a637a2e8;]|RELEASE:[none|none]
 DFRobot/DFRobotVeyronBrushed: BRANCHES:[master:ead629b3116a30456f16b71a2841111cbc211894;]|RELEASE:[none|none]
 DFRobot/BlunoTest: BRANCHES:[master:ad05191379d70950ab367e70b298f64d265e8238;]|RELEASE:[none|none]
+DFRobot/BLE_firmware_V1.9: BRANCHES:[master:15285113de3e12cbe482325563d1aac30b472c81;]|RELEASE:[none|none]
