@@ -5366,3 +5366,4 @@ DFRobot/SportsButtonESP32C3: BRANCHES:[master:650172c4e0a12cbd08da56e6d04adcc9d1
 DFRobot/SmartWateringDevice: BRANCHES:[master:96374946429272ba33925b4e13a76790deb11d08;]|RELEASE:[none|none]
 DFRobot/ThreeAxisAccelerationRecorder: BRANCHES:[master:a3d69f6ca303909b83c0098de9a178fb8fc15f78;]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd;]|RELEASE:[none|none]
+DFRobot/test_video: BRANCHES:[master:0bff1838278fcdf87bc8bba1d062eb47d47c7e45;]|RELEASE:[none|none]
