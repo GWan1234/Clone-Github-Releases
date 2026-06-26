@@ -5457,3 +5457,4 @@ DFRobot/DFRobot_BMP58X: BRANCHES:[master:ba0d247fffd64ec8d82b689ccf881f8c73f5420
 DFRobot/mindplus2-docs-en: BRANCHES:[dev-xy:4d381b776cc8ed6f937c963887d9ce1effcdbc8b;master:d6781367f671d378491aa7482a86d2c8b4a3dcb0;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_HuskyLensV2: BRANCHES:[master:5d141b65f5452618345aa101ec20cf334aa610e5;]|RELEASE:[v1.1.7|none]
 DFRobot/DFRobot_RTK_4G: BRANCHES:[master:defbb6fba420dd68fd70b7ff9ba917dd9d8a6e3d;]|RELEASE:[none|none]
+DFRobot/DFRobot_HuskylensV2_MQTT: BRANCHES:[dev:73e97049dc950669fb4c47d5892b41e0eaf48741;master:c9aa35e31906c20a45c168b88d1813a29b9fdec6;]|RELEASE:[v1.2.1|none]
