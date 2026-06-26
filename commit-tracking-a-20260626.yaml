@@ -5337,3 +5337,4 @@ DFRobot/DFRobot_CanBusHAT: BRANCHES:[master:80eceb02dd511741c4f8749603fa77dff01b
 DFRobot/FireBeetle: BRANCHES:[master:e38fcdaf5d82944fee8bf46a540ac041e46c67fd;]|RELEASE:[V0.2.0|none]
 DFRobot/pxt-DFRobot_bosonKit: BRANCHES:[master:ea4ce99a673f4a211429e5090302a5868257b480;]|RELEASE:[v4.4.0|none]
 DFRobot/DFRobot_GP8302: BRANCHES:[master:b579f827e4b9efcf7616ea8e479ccc41582b3999;]|RELEASE:[none|none]
+DFRobot/DFRobot_MAX98357A: BRANCHES:[main:0401ffc21e12945ff4c6c575790d88878e719688;]|RELEASE:[none|none]
