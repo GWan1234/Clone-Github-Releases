@@ -5128,3 +5128,4 @@ DFRobot/DFRobot_BMI160: BRANCHES:[master:c80b77eaccb3787f4e76a6e4774f65e034444eb
 DFRobot/DFRobot_ST7687S: BRANCHES:[master:c2df5a56fa7bdea4b8c30c6471e47882396828ae;]|RELEASE:[none|none]
 DFRobot/DFRobot_SSD1306: BRANCHES:[master:7712f48c2921f466fa90d711df9374c04cbd3518;]|RELEASE:[none|none]
 DFRobot/DFRobot_ePaper: BRANCHES:[master:d136eae55f2458666e9f05f92ef0cd221e62ae0c;]|RELEASE:[none|none]
+DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3edee;]|RELEASE:[none|none]
