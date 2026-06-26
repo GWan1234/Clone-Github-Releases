@@ -5262,3 +5262,4 @@ DFRobot/DFRobot_WiFi_IoT_Module: BRANCHES:[master:d8808ad2c4b40a6658029e9f8c2b9b
 DFRobot/pxt-DFRobot_WIFI_IoT_I2C: BRANCHES:[master:d1d8d4fd9837805192059b22c14475d8cada5594;]|RELEASE:[v1.2.3|none]
 DFRobot/DFRobot_AS7341: BRANCHES:[master:3980054604ce92209a4dfd157be872ec85cc813a;]|RELEASE:[none|none]
 DFRobot/DFRobot_Maqueenplus: BRANCHES:[master:c5846a62f7ae62bbc98ee5f25a597e3069e47df5;]|RELEASE:[none|none]
+DFRobot/Tutorial_of_Maqueen_Mechanic_Beetle_EN: BRANCHES:[master:ad356f22012d9e4b5b2233cd414363101e7767ad;]|RELEASE:[none|none]
