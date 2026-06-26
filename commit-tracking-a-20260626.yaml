@@ -5436,3 +5436,4 @@ DFRobot/rtc-aigc-embedded-demo: BRANCHES:[master:9224e493e054b51fb607e3ed84473b6
 DFRobot/DFRobot_UnihikerExpansion: BRANCHES:[master:02bc4a6cbed9e85bb4b778c9daca3aba41a9ef91;]|RELEASE:[none|none]
 DFRobot/DFRobot_LoRaWAN_ESP32S3: BRANCHES:[master:922dcea5e4dc2b73f91d2c88ba9a983421b47d5b;]|RELEASE:[none|none]
 DFRobot/DFRobot_MHZ9041A: BRANCHES:[master:dc218fe07accabcb23faead70b2cb3b4066a6406;]|RELEASE:[none|none]
+DFRobot/esp-adf: BRANCHES:[master:4c29b5578e9739cbc3b6f5258380115b79cedc16;]|RELEASE:[none|none]
