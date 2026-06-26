@@ -5063,3 +5063,4 @@ DFRobot/MagneticSencor: BRANCHES:[master:4dabf609cbd35baac27b25b520a723954b7f63f
 DFRobot/DFRobot_MLX90614: BRANCHES:[master:79fa9c03e3d6ea02d8ef7ae0dc9589f7d1dcf508;]|RELEASE:[none|none]
 DFRobot/Starter-Kit-for-Genuino-101: BRANCHES:[master:34e172acb5d34e3f86c220d0dfae0c9e4bc40c7d;]|RELEASE:[none|none]
 DFRobot/DFRobotBLEGamepad: BRANCHES:[master:5a376fcbd5a0ad27f6ab7f42b15583d560d5c011;]|RELEASE:[none|none]
+DFRobot/MagneticSensorLsm303: BRANCHES:[master:0be050aa699554711f44619edff96d7280fa5c9c;]|RELEASE:[none|none]
