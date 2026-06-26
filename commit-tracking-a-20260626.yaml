@@ -5111,3 +5111,4 @@ DFRobot/DFRobot_NRF24L01: BRANCHES:[master:6301382d381d19de2627b6f14c39d3f083de4
 DFRobot/DFRobot_SIM7000: BRANCHES:[master:e7e36eb504c1c092716f90b0591163e42b29ed09;]|RELEASE:[none|none]
 DFRobot/DFRobot_BME680: BRANCHES:[master:fcd2a6496ba574e053e03cfe15f320e7ca2fe6fb;]|RELEASE:[none|none]
 DFRobot/DFRobot_EINK: BRANCHES:[master:5ee751e1ea38cde74b0cff1c508341012d1bf1d6;]|RELEASE:[none|none]
+DFRobot/Gravity_Analog_Dissolved_Oxygen_Sensor: BRANCHES:[master:7f26f056884757a3dcff91d2fff4e7110f197d27;]|RELEASE:[none|none]
