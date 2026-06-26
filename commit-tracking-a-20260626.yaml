@@ -5473,3 +5473,4 @@ DFRobot/M10MeetsFirebeetle: BRANCHES:[master:92269c2a4a2cc73631db74acdf7315e6116
 DFRobot/DFRobot_Multi_DOF_IMU: BRANCHES:[master:288d922c119432135621c3a3e0d89b8706e24ef5;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMI323: BRANCHES:[master:46f8913034a594aa5fe2988ce2d049eb8bb9bde5;]|RELEASE:[none|none]
 DFRobot/DFRobot_STCC4: BRANCHES:[master:f67b120704c2b011686185dc3725e01ad1e232bc;]|RELEASE:[none|none]
+DFRobot/mimiclaw: BRANCHES:[main:fd5898b2fefacba504fc276bfa023b663082b12e;]|RELEASE:[none|none]
