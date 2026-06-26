@@ -5311,3 +5311,4 @@ DFRobot/DFRobot_URM13: BRANCHES:[master:eacd43ed96551c80c6186bbdd9b8145d013d7430
 DFRobot/pxt-DFRobot_ASR: BRANCHES:[master:1e178467fd6944149b685fdcbb77868685c29c99;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_AirQualitySensor: BRANCHES:[master:5ff3f27e63da4ec1b6aa732807f065b7907f15f9;]|RELEASE:[v0.1.0|none]
 DFRobot/DFRobot_BosonADCModule: BRANCHES:[main:6b681e416486446c821bf69a88dea0a255236a01;]|RELEASE:[none|none]
+DFRobot/DFRobot_VisualRotaryEncoder: BRANCHES:[main:9fde2687fd36c06e02be3c37a36a00888218b0bb;]|RELEASE:[none|none]
