@@ -5140,3 +5140,4 @@ DFRobot/uPyCraft_src: BRANCHES:[master:68dfc449ee1af7f4bdb0ba8a9a127ec890935d3b;
 DFRobot/DFRobot_BNO055: BRANCHES:[master:f0912c8a47df097c3baa739178cd3f286ace6fe3;]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP4725: BRANCHES:[master:befc5b19f58364e270b4c0a3a7d50620edbfd27b;]|RELEASE:[none|none]
 DFRobot/pxt-gamePad: BRANCHES:[master:b509667f2d9acf19327c1c50e89b2c764d0dbb78;]|RELEASE:[v1.1.0|none]
+DFRobot/pxt-motor: BRANCHES:[master:2cdf17586556c5a532782aa436c516ae50f5f316;]|RELEASE:[none|none]
