@@ -5424,3 +5424,4 @@ DFRobot/pxt-dfrobot_maqueenplus_v20_tw: BRANCHES:[master:566fb9322b69433c59736dd
 DFRobot/DFRobot_GestureFaceDetection: BRANCHES:[master:c23832f835a3bb02e2262fdd8811a4221cd5de3f;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobotGestureFaceDetection: BRANCHES:[master:6b0becf33c4617ecc511c6ddb6d67aad285dace0;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_creative-robotics-kit: BRANCHES:[master:dc22c7bcf18274a2cc7c6ecaf4e83f43dea9c153;]|RELEASE:[v1.0.6|none]
+DFRobot/openai-realtime-embedded-sdk: BRANCHES:[main:14f11f9b4ecbb351bd78e72a7fcbb1ff3bc8d7c6;]|RELEASE:[none|none]
