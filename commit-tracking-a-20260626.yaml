@@ -5258,3 +5258,4 @@ DFRobot/DFR0536_GamePad_V3.0_WIKI_EN: BRANCHES:[master:3b250f10565b0c2b1135925e1
 DFRobot/DFRobot_LWLP: BRANCHES:[master:e3752c82df605320c52d524e850edb44f5c4f02b;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_WIFI_IoT_UART: BRANCHES:[master:2bf61caa03f50ae36e24dadad8774ac29b0d3ffb;]|RELEASE:[v1.1.2|none]
 DFRobot/DFRobot_Alcohol: BRANCHES:[master:3ec93350ad3035439272680917a0f15ee4ce4519;]|RELEASE:[none|none]
+DFRobot/DFRobot_WiFi_IoT_Module: BRANCHES:[master:d8808ad2c4b40a6658029e9f8c2b9b81c0980092;]|RELEASE:[none|none]
