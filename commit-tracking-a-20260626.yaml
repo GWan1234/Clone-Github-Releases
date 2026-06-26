@@ -5132,3 +5132,4 @@ DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3e
 DFRobot/DFRobot_SIM: BRANCHES:[master:1a0f585f2e8f86cfb1d9e833174e72ad0759aaf5;]|RELEASE:[none|none]
 DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588;]|RELEASE:[none|none]
 DFRobot/DFRobot_DS1307: BRANCHES:[master:38a0d9388f91380efc2a84af49873ebc86a31922;]|RELEASE:[none|none]
+DFRobot/FreeSixIMU: BRANCHES:[master:89e8fa3c4b8028aeb1188b6e5468f3f51b5b2312;]|RELEASE:[none|none]
