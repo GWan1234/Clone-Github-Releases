@@ -5007,3 +5007,4 @@ DFRobot/RGB-LED: BRANCHES:[master:28698f2f86d8132437d8364e8e9021616e776858;]|REL
 DFRobot/PlainProtocol: BRANCHES:[master:648ca89119a502b09cf504b8ffd6e274370efb39;]|RELEASE:[none|none]
 DFRobot/liteide: BRANCHES:[master:a48431c0e87ac7824507d6d6f4c446447667ab52;]|RELEASE:[none|none]
 DFRobot/GPS-GPRS-GSM-Shield-V3.0: BRANCHES:[master:44be21db88644eff13244f32cc2a25bc8344d214;]|RELEASE:[none|none]
+DFRobot/Cheapduino: BRANCHES:[master:fa6815a41b3dee17aea64c916df9a4a85d0e1eb7;]|RELEASE:[none|none]
