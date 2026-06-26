@@ -5078,3 +5078,4 @@ DFRobot/DFRNFC: BRANCHES:[master:a5a95872d435ef05255029debfce3b113b8c5d4f;]|RELE
 DFRobot/Bluno_Accessory: BRANCHES:[master:b0c6cc461e0a4cf5113d6bccd3a285c88596e186;]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28;]|RELEASE:[none|none]
 DFRobot/DFRobotURM07: BRANCHES:[master:41959bf3ffc72d3818897d6ec83f791a495b0bb1;]|RELEASE:[none|none]
+DFRobot/DFRobotDFPlayerMini: BRANCHES:[master:47c014938318f99f5b48194b329ef48931d1d175;]|RELEASE:[1.0.5|none]
