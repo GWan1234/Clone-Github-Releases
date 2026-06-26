@@ -5137,3 +5137,4 @@ DFRobot/OBLOQExamples: BRANCHES:[master:6308d98366cc0bf9d24d0cb219eb3e9afb6361ab
 DFRobot/GravityTDS: BRANCHES:[master:e711cd1ea5f410b257cf8a59cd548d7c8b131428;]|RELEASE:[none|none]
 DFRobot/DFRobot_RGB1602_RaspberryPi: BRANCHES:[master:3279af8e72e6d6401a2a3d981d5390c18d770073;]|RELEASE:[none|none]
 DFRobot/uPyCraft_src: BRANCHES:[master:68dfc449ee1af7f4bdb0ba8a9a127ec890935d3b;]|RELEASE:[none|none]
+DFRobot/DFRobot_BNO055: BRANCHES:[master:f0912c8a47df097c3baa739178cd3f286ace6fe3;]|RELEASE:[none|none]
