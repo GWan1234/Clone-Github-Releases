@@ -5036,3 +5036,4 @@ DFRobot/BLE_firmware_V1.9: BRANCHES:[master:15285113de3e12cbe482325563d1aac30b47
 DFRobot/Grey-GitHub-test: BRANCHES:[master:5207e8ed81f8999e1e9c8ae2d883ebc58765d0b0;]|RELEASE:[none|none]
 DFRobot/MecanumRobot: BRANCHES:[master:eee7f91eb5cb5d1e2858c6ed86516d7295cf6521;]|RELEASE:[none|none]
 DFRobot/DFRobot-SVGs: BRANCHES:[master:4160457c930023f9bfb0bc0d26dbc022c3e1bc96;DFR0319:8f884e7868c88e7d9dff10c5ade06bcc121924cf;]|RELEASE:[none|none]
+DFRobot/EdisonCloudSoil: BRANCHES:[master:f1ccb78475f93e8f0404eb527067edf9c527f06a;]|RELEASE:[none|none]
