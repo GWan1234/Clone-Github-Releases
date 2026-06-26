@@ -5291,3 +5291,4 @@ DFRobot/Maqueen-Plus-Advanced-Tutorial-MakeCode: BRANCHES:[master:8c97fde1e9f8cf
 DFRobot/pxt-DFRobot_mini_control_module: BRANCHES:[master:ea870be4357347a4785dac5178a9acbe2ed986c1;]|RELEASE:[v0.0.6|none]
 DFRobot/DFRobot_ICM42688: BRANCHES:[main:e2c9a0ebe983cb7aa218c1ba19c48c8aac6e8c4d;]|RELEASE:[none|none]
 DFRobot/DFRobot_AirQualitySensor: BRANCHES:[master:be5351c0c37e5c5f6fa7b026e202556f07f7fd0f;]|RELEASE:[none|none]
+DFRobot/DFRobot_Trafficlight: BRANCHES:[master:9441c627b62bd9a11b7f77c09f9898cd91c3a31f;]|RELEASE:[none|none]
