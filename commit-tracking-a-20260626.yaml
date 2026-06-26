@@ -5434,3 +5434,4 @@ DFRobot/DFRobot_C4001: BRANCHES:[master:d96504653cb07678e57aa7181e98faa329a3161e
 DFRobot/library-registry: BRANCHES:[main:239975a00b0a829e0c9b12b04ce66267980d3eba;]|RELEASE:[none|none]
 DFRobot/rtc-aigc-embedded-demo: BRANCHES:[master:9224e493e054b51fb607e3ed84473b6faa6d72b6;]|RELEASE:[none|none]
 DFRobot/DFRobot_UnihikerExpansion: BRANCHES:[master:02bc4a6cbed9e85bb4b778c9daca3aba41a9ef91;]|RELEASE:[none|none]
+DFRobot/DFRobot_LoRaWAN_ESP32S3: BRANCHES:[master:922dcea5e4dc2b73f91d2c88ba9a983421b47d5b;]|RELEASE:[none|none]
