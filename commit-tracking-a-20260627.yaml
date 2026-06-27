@@ -5486,3 +5486,4 @@ OLIMEX/archlinuxarm-olinuxino: BRANCHES:[master:c1da50703674de27697436d4dc9d19ca
 OLIMEX/raspberrypi: BRANCHES:[master:f3786316292a870051134469bdb4ffba4a0cebcf;]|RELEASE:[none|none]
 OLIMEX/WPC: BRANCHES:[master:21614bb7dae6c60e8c14cd9c2ab1ccc32d458d55;]|RELEASE:[none|none]
 OLIMEX/SOM: BRANCHES:[master:6a2798c6f8c015fb360993eb86d6c965d028b0c1;]|RELEASE:[none|none]
+OLIMEX/ESP8266: BRANCHES:[master:02d9c1ef525b9dc7b952d500dbc367b56137ce0e;]|RELEASE:[none|none]
