@@ -5481,3 +5481,4 @@ DFRobot/DFRobot_Biometric: BRANCHES:[main:f7f9c7a2c9c46111b1fef6bf30adf6a36307a3
 OLIMEX/OLINUXINO: BRANCHES:[master:a8672538a650d3a1eb23c11fe9ef594229333232;]|RELEASE:[none|none]
 OLIMEX/DuinoMite: BRANCHES:[master:e06ca806e31253cb89f21cc075ef793b72ed3d65;]|RELEASE:[none|none]
 OLIMEX/STM32F4: BRANCHES:[master:47e87bc826042b833a0f38d230af9ac55e701d73;]|RELEASE:[none|none]
+OLIMEX/olinuxino-web-io: BRANCHES:[master:61a90b87bbbfe5aa1b8bc8c9d4cea0a4ba2be2df;]|RELEASE:[none|none]
