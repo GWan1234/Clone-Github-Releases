@@ -5551,3 +5551,4 @@ OLIMEX/ESP32-ADF: BRANCHES:[master:0c8be17c9b54dd790953d77f1a5ded12204756dc;]|RE
 OLIMEX/sip_phone_example: BRANCHES:[master:a71bb4182538e5258e22b00916e620d538eff39d;]|RELEASE:[none|none]
 OLIMEX/dance_radio: BRANCHES:[master:4ab39ee686b2f936c8e39238dba6bf21d4081f92;]|RELEASE:[none|none]
 OLIMEX/NB-IoT: BRANCHES:[master:42c151f31289b13ae7a3770da1739adfad525beb;]|RELEASE:[none|none]
+OLIMEX/Bike-TSL-Kit: BRANCHES:[master:ded0eb0c5d88d2f24523251f84b0597884b0db3c;]|RELEASE:[none|none]
