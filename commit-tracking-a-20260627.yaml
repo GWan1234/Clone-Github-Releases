@@ -5511,3 +5511,4 @@ OLIMEX/iCE40HX1K-EVB: BRANCHES:[master:91f3b5aff50258ddb40c021a21d4fd871633fc80;
 OLIMEX/A20-CAN: BRANCHES:[master:814c949ccf66dcef14b31112e0f52c8be825a527;]|RELEASE:[none|none]
 OLIMEX/KiCAD: BRANCHES:[master:ad6e0bc4697a69d5819708bccb03a7c8d90fd1bc;]|RELEASE:[none|none]
 OLIMEX/olimex-iot-server: BRANCHES:[master:a3979c5434ca34ea7e9a41cd10cf18c110dfa548;]|RELEASE:[none|none]
+OLIMEX/olimex-iot-firmware-esp8266: BRANCHES:[master:3e53a47edb4d209cdfc88c6624fcbe0d4920bec8;]|RELEASE:[none|none]
