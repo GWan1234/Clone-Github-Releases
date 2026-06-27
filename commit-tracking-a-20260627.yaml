@@ -5484,3 +5484,4 @@ OLIMEX/STM32F4: BRANCHES:[master:47e87bc826042b833a0f38d230af9ac55e701d73;]|RELE
 OLIMEX/olinuxino-web-io: BRANCHES:[master:61a90b87bbbfe5aa1b8bc8c9d4cea0a4ba2be2df;]|RELEASE:[none|none]
 OLIMEX/archlinuxarm-olinuxino: BRANCHES:[master:c1da50703674de27697436d4dc9d19cace681fd1;]|RELEASE:[none|none]
 OLIMEX/raspberrypi: BRANCHES:[master:f3786316292a870051134469bdb4ffba4a0cebcf;]|RELEASE:[none|none]
+OLIMEX/WPC: BRANCHES:[master:21614bb7dae6c60e8c14cd9c2ab1ccc32d458d55;]|RELEASE:[none|none]
