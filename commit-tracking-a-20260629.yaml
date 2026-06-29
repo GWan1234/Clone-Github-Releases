@@ -5783,3 +5783,4 @@ sparkfun/SI4735_AM_FM_Shield: BRANCHES:[master:10e153f9238eda586dfef122093b295b9
 sparkfun/SI4735_Breakout: BRANCHES:[master:3e7a821ad41f3319da72491d1e887c099c428376;]|RELEASE:[none|none]
 sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d;]|RELEASE:[none|none]
 sparkfun/GraphicLCD_Nokia_5110: BRANCHES:[master:383aefcbdbceda3c2ca0156a65acc3dea3c152d5;]|RELEASE:[none|none]
+sparkfun/RHT03: BRANCHES:[master:d026dd4c932ab27b6abb6d9a172421399594148a;]|RELEASE:[none|none]
