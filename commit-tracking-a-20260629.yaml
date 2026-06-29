@@ -5849,3 +5849,4 @@ sparkfun/DS1077_Breakout: BRANCHES:[master:aba5eb65f3f6f1eac8cb696c6a763ea10c792
 sparkfun/NCP1402-5V_Breakout: BRANCHES:[master:00ff66e2fff0e07a9204559cc5cd3b0d5799028f;]|RELEASE:[none|none]
 sparkfun/Arduino_Pro_Mini_328: BRANCHES:[master:bcf8de441f8ebe9e21377c4a0d12794670dc2551;Silk_Revision:03d2a8092338be0f1650cb76065ea4321f429223;]|RELEASE:[none|none]
 sparkfun/LED_Tactile_Button_Breakout: BRANCHES:[master:02b0b40cbba51f19f55cb83376255949a5bb73fb;]|RELEASE:[none|none]
+sparkfun/RedBoard: BRANCHES:[vQwiic_v20:9ec0da2623e0971f2f295664f2bfb487cc318ba5;master:498b7cf536c74f1a9a3a2315bf9f8feb0d7169c9;vQwiic:cd976e17ddd90bb459acb8ac84c1dc72910b9d5c;]|RELEASE:[V_22|none]
