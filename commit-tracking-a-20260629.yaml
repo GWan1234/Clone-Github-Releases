@@ -5567,3 +5567,4 @@ OLIMEX/u-boot-olinuxino: BRANCHES:[release-20250305:23d8f769a94ae230b7a68fa812cc
 OLIMEX/teres1-ledctrl: BRANCHES:[master:4323fb5959aa38ed87e204685faddba296b35893;]|RELEASE:[none|none]
 OLIMEX/arm-trusted-firmware-olinuxino: BRANCHES:[master:5ea94b8354d1c32a88a8bfa2eb8037568c711531;]|RELEASE:[none|none]
 OLIMEX/olinuxino-rtk-hciattach: BRANCHES:[master:8b17a90d6f8092bbf6a59180ece0d9600a4d1204;]|RELEASE:[none|none]
+OLIMEX/USB-gLINK: BRANCHES:[master:fea5397ca506f007c1af7848cc082733c2438ece;]|RELEASE:[none|none]
