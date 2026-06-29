@@ -5792,3 +5792,4 @@ sparkfun/CC3000_WiFi_Shield: BRANCHES:[master:59a530fbfed9989e41d6febbc20d4d1115
 sparkfun/SD-MMC_Breakout: BRANCHES:[master:d472cfaa8c39cf9efc94f010e50b85bc87eefc7b;]|RELEASE:[none|none]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41;]|RELEASE:[none|none]
 sparkfun/HTU21D_Breakout: BRANCHES:[master:3bc9c7be3cb5416a954aef5434316ab8740b9872;]|RELEASE:[V_H1.2_L1.1.1|263c6ee6bc80a3aa51c0466a3357e3b347927f5c]
+sparkfun/CC3000_WiFi_Breakout: BRANCHES:[master:eb0e211b622dc2ae720daf087e3863146a3e3e17;]|RELEASE:[none|none]
