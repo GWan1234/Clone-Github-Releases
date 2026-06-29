@@ -5569,3 +5569,4 @@ OLIMEX/arm-trusted-firmware-olinuxino: BRANCHES:[master:5ea94b8354d1c32a88a8bfa2
 OLIMEX/olinuxino-rtk-hciattach: BRANCHES:[master:8b17a90d6f8092bbf6a59180ece0d9600a4d1204;]|RELEASE:[none|none]
 OLIMEX/USB-gLINK: BRANCHES:[master:fea5397ca506f007c1af7848cc082733c2438ece;]|RELEASE:[none|none]
 OLIMEX/BB-ADS1262: BRANCHES:[master:9f6355028bd39f561dc8089305e6606508a35c3a;]|RELEASE:[none|none]
+OLIMEX/BB-TB6612: BRANCHES:[master:018a51afa028ac9c84e7d508d57182d041238c0e;]|RELEASE:[none|none]
