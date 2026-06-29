@@ -5854,3 +5854,4 @@ sparkfun/Tomatoless_Boots: BRANCHES:[master:2d5b88014a0d647c443909ca47dbe41caa7e
 sparkfun/Beefcake_Relay_Control_Kit: BRANCHES:[master:7d54739ed93566b63e2caecabdd65577c932c0df;]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_Simple: BRANCHES:[master:d5d61fea9830db56d8cd3254306adcc86d66e064;v26:d1f912eb7c8374e159d9d917523104662614a25e;]|RELEASE:[none|none]
 sparkfun/RF_Links: BRANCHES:[main:1b2f68585281418a1cb2661713ab41a19623bc92;]|RELEASE:[none|none]
+sparkfun/Bus_Pirate: BRANCHES:[master:f72dd29315f981bdb2202d67e157903043b255da;]|RELEASE:[v3.6|none]
