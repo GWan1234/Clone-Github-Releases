@@ -6103,3 +6103,4 @@ sparkfun/SparkFun_TLC5940_Arduino_Library: BRANCHES:[master:df219716b7b08d252ada
 sparkfun/SparkFun_LSM9DS1_Arduino_Library: BRANCHES:[master:18d3181c2bf2826c85b819079e3e626d12ab763b;]|RELEASE:[v2.0.0|none]
 sparkfun/PWM_Shield: BRANCHES:[master:688037990a074bd6695ee797fa7c779ba39ef2f1;]|RELEASE:[none|none]
 sparkfun/LilyPad_Slide_Switch: BRANCHES:[master:200c196a481a4ad5b8502a35fea67e333a3b7124;]|RELEASE:[none|none]
+sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1: BRANCHES:[master:6940d8885472e2e106bd6d25cc586e51ed969df5;]|RELEASE:[none|none]
