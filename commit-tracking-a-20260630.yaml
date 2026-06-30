@@ -6096,3 +6096,4 @@ sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42
 sparkfun/SparkFun_Graphic_LCD_Serial_Backpack_Arduino_Library: BRANCHES:[master:09afa53cf63a86b650b66b378f74d2b0b1bc62af;]|RELEASE:[none|none]
 sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a0226990979aaed408f587db4;]|RELEASE:[v3.0.6|none]
 sparkfun/BMP180_Breakout_Arduino_Library: BRANCHES:[master:2ec6b6c35d18cddc6e46ae39d4829ca12d747763;lib-change:ae0f3dd2a2072dfa27cf4142df3b27c0e19f3c65;]|RELEASE:[none|none]
+sparkfun/DeadOn_RTC_Arduino_Library: BRANCHES:[master:9565a5d4fac26c46ac6ab17c55154e7c2898096c;]|RELEASE:[none|none]
