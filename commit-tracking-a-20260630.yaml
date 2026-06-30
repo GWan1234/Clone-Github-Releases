@@ -5933,3 +5933,4 @@ sparkfun/Spectrum_Shield: BRANCHES:[master:192ccfc26bfb4e811f4de1cfec2601975889c
 sparkfun/phant-stream-mongodb: BRANCHES:[master:7b714cd44a642d7cd3aa9909864ad401ab6dde35;]|RELEASE:[none|none]
 sparkfun/Servo_Trigger: BRANCHES:[master:92e979266c02ae5d4a299a0ea645edb494bfdf73;Revision1.1-continuous:c569f66fe0dbcba4dab848bb0190aa40b159f797;]|RELEASE:[none|none]
 sparkfun/Voice_Recorder_Breakout-ISD1932: BRANCHES:[master:e6a5079f9f77e1330785821369ea7ca83b45624a;]|RELEASE:[none|none]
+sparkfun/phant-input-udp: BRANCHES:[master:5b34b646a13059d31226c172f3389638c87a99ef;]|RELEASE:[none|none]
