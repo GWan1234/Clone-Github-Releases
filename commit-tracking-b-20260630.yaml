@@ -4538,4 +4538,4 @@ Xinyuan-LilyGO/T-Display-CM0: BRANCHES:[main:cdf098077b22b59cc8cdd09f1029afc9b4d
 adafruit/Adafruit-ADS7128-8-Channel-ADC-and-GPIO-Expander-PCB: BRANCHES:[main:ecc6fd2b2e97ae7e0e1799c3c15e738a79b1287c;]|RELEASE:[none|none]
 philippe44/esphome-gaitek: BRANCHES:[master:50e29830e14ac759fe92be4b53efdff1c8ad8ef8;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_ADS7128: BRANCHES:[main:212c8d74eb608b3beb7172ecfd8598c3e783be66;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library: BRANCHES:[master:1e10aa6d2ce9ec81aee200af72f5b3931afb525c;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library: BRANCHES:[master:a536442dbd1c10d2c12cb6364f8c1745f7843589;]|RELEASE:[none|none]
