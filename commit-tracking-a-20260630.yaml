@@ -6091,3 +6091,4 @@ sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library: BRANCHES:[master:3886ebd95291
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3;]|RELEASE:[none|none]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9;]|RELEASE:[none|none]
 sparkfun/SparkFun_Micro_OLED_Arduino_Library: BRANCHES:[main:1ff68715f5456423599bc35c3c01b82127b5d7a1;ExposeInit:226d70a67a35a2340b2cd1162b328b5e3457a235;release_candidate:acbf9a676915fe4c2a30b0ed5f60537838b71852;]|RELEASE:[v1.3.4|none]
+sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae12f7f5d69e7af03b88efd7b85f3984d8848a3;]|RELEASE:[none|none]
