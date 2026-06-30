@@ -6095,3 +6095,4 @@ sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae
 sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42c76a2034017df432fe883b6022c01bc;]|RELEASE:[v1.2.4|none]
 sparkfun/SparkFun_Graphic_LCD_Serial_Backpack_Arduino_Library: BRANCHES:[master:09afa53cf63a86b650b66b378f74d2b0b1bc62af;]|RELEASE:[none|none]
 sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a0226990979aaed408f587db4;]|RELEASE:[v3.0.6|none]
+sparkfun/BMP180_Breakout_Arduino_Library: BRANCHES:[master:2ec6b6c35d18cddc6e46ae39d4829ca12d747763;lib-change:ae0f3dd2a2072dfa27cf4142df3b27c0e19f3c65;]|RELEASE:[none|none]
