@@ -6082,3 +6082,4 @@ sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library: BRANCHES:[master:e0818e38
 sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2db219f3095f89b75131de;]|RELEASE:[none|none]
 sparkfun/SparkFun_AD5330_Breakout_Arduino_Library: BRANCHES:[master:21aa99546be079bc995c9084e1b8947276985397;]|RELEASE:[none|none]
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243;]|RELEASE:[none|none]
+sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library: BRANCHES:[main:c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0;testing:63f4fd699484deeaa91fb70ed3d26d9970c6d8b9;]|RELEASE:[v1.1.4|none]
