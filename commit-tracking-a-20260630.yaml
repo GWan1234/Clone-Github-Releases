@@ -6093,3 +6093,4 @@ sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35
 sparkfun/SparkFun_Micro_OLED_Arduino_Library: BRANCHES:[main:1ff68715f5456423599bc35c3c01b82127b5d7a1;ExposeInit:226d70a67a35a2340b2cd1162b328b5e3457a235;release_candidate:acbf9a676915fe4c2a30b0ed5f60537838b71852;]|RELEASE:[v1.3.4|none]
 sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae12f7f5d69e7af03b88efd7b85f3984d8848a3;]|RELEASE:[none|none]
 sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42c76a2034017df432fe883b6022c01bc;]|RELEASE:[v1.2.4|none]
+sparkfun/SparkFun_Graphic_LCD_Serial_Backpack_Arduino_Library: BRANCHES:[master:09afa53cf63a86b650b66b378f74d2b0b1bc62af;]|RELEASE:[none|none]
