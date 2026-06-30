@@ -6016,3 +6016,4 @@ sparkfun/Polar_Heart_Rate_Monitor_Interface: BRANCHES:[master:ca41acd0e0e383fd85
 sparkfun/Teensy_Arduino_Shield_Adapter: BRANCHES:[master:e212be53df5819eebdd7ea3526dbba6363ea026f;]|RELEASE:[none|none]
 sparkfun/GPS_Shield: BRANCHES:[master:ff44181b3a1808e407d16150212badaf3a707132;]|RELEASE:[none|none]
 sparkfun/LSM9DS1_Breakout: BRANCHES:[master:3ee0de320d57b116cb784dbdd477e11ae75f9b32;]|RELEASE:[none|none]
+sparkfun/Triple_Axis_Magnetometer-HMC5883L: BRANCHES:[master:017b6877bc974430ce42026c212656198e2dae38;]|RELEASE:[none|none]
