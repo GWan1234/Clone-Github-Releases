@@ -1427,7 +1427,7 @@ adafruit/adafruit-pi-cam: BRANCHES:[master:d3ff22672785de876a74a4c873104dde3b118
 adafruit/NeoPixel-Sticks: BRANCHES:[master:e505da1f3e2f702076bb7845865026569e0b103c;]|RELEASE:[none|none]
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: BRANCHES:[master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3;]|RELEASE:[none|none]
 adafruit/Adafruit_FRAM_I2C: BRANCHES:[master:cb13d177db301d11469f3e52f7154c4aeac36f3f;gh-pages:7fc1e7081b6d5f27794367a89a4b9cd2cce5be08;busio:37310b12133ef8b830f65ca57386a5af2dab973a;actionci:a62bb175d768b709e32fd3007381c9d079d61426;docs_badge:28e3f1767a5c39a64cccb0868a8ecea5d052f784;]|RELEASE:[2.0.3|none]
-adafruit/Adafruit_FRAM_SPI: BRANCHES:[gh-pages:fc70c902f48fbc7f4d527ca5dc1f0f5a988604b5;master:ed5461afe552a88606dd0327995fdde13057a23b;add-mb85rq8m:5c0b0d918bc84d1906e32dcaa5be5dd843a71aec;actions_spi:ece1e7378aaa8c66d81f04690464e34edb94c570;]|RELEASE:[2.6.2|none]
+adafruit/Adafruit_FRAM_SPI: BRANCHES:[master:7ab1d651bc6c5c92afade75a97e1e08bf543722c;gh-pages:fc70c902f48fbc7f4d527ca5dc1f0f5a988604b5;add-mb85rq8m:5c0b0d918bc84d1906e32dcaa5be5dd843a71aec;actions_spi:ece1e7378aaa8c66d81f04690464e34edb94c570;]|RELEASE:[2.6.3|none]
 adafruit/Kegomatic: BRANCHES:[master:7b37465d7b0e417b37a5906838f315936828fa66;olgas-pi:0fa36b903ca22654ea0ed50336a1caded1aa9753;]|RELEASE:[none|none]
 adafruit/Adafruit_TinyRGBLCDShield: BRANCHES:[master:48555cf6a86ba5e1851552bfcdf3ad29068cc627;gh-pages:ff36c27a57ef707301a35b8d07622bbd3c72fe43;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1ddfbf0;gh-pages:c2be5823adea3fe9ead6b783363f09ad6b6c6136;master:5b331b370a980e90c0983a685da74996fe61dab1;arm_sdk:3dc7e7b0afde394b9b1328be060fb61221dae73d;]|RELEASE:[1.1.1|none]
