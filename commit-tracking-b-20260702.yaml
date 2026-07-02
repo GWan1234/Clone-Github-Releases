@@ -4537,7 +4537,7 @@ natecarlson/vyatta-wanloadbalance: BRANCHES:[current:9e7b420d744b64eee3aead21d8e
 Xinyuan-LilyGO/T-Display-CM0: BRANCHES:[main:cdf098077b22b59cc8cdd09f1029afc9b4dc0d9a;]|RELEASE:[none|none]
 adafruit/Adafruit-ADS7128-8-Channel-ADC-and-GPIO-Expander-PCB: BRANCHES:[main:ecc6fd2b2e97ae7e0e1799c3c15e738a79b1287c;]|RELEASE:[none|none]
 philippe44/esphome-gaitek: BRANCHES:[master:50e29830e14ac759fe92be4b53efdff1c8ad8ef8;]|RELEASE:[none|none]
-adafruit/Adafruit_CircuitPython_ADS7128: BRANCHES:[main:03bf7f705e03d75fb147955c7a30998111bdd03a;]|RELEASE:[1.0.0|none]
+adafruit/Adafruit_CircuitPython_ADS7128: BRANCHES:[main:03bf7f705e03d75fb147955c7a30998111bdd03a;]|RELEASE:[1.0.1|none]
 Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library: BRANCHES:[master:a536442dbd1c10d2c12cb6364f8c1745f7843589;]|RELEASE:[none|none]
 adafruit/Adafruit_lgpio: BRANCHES:[main:fc9c79dbac6607133e579ad8ae6d6eac7aea9c83;]|RELEASE:[0.2.2.0|none]
 FUjr/tc1_a1_firmware: BRANCHES:[main:6ab242e3696a02eb63e45eadf158cb1d0309b163;]|RELEASE:[v2.3.1|none]
