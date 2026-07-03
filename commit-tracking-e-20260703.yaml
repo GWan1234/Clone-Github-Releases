@@ -86,3 +86,4 @@ ophub/delete-releases-workflows: BRANCHES:[main:9c4138644d440d66f145e5ab03a98f03
 ophub/firmware: BRANCHES:[main:58af09122f8b5d60c4ad32ae562dfa42f6e7e401;]|RELEASE:[v2026.05.20|none]
 ophub/flippy-openwrt-actions: BRANCHES:[main:d4b448e4bf0527bf17f41a4ba3ffc9a7156d2454;]|RELEASE:[OpenWrt_armv8_save_2026.06|none]
 ophub/flippy-ubuntu-actions: BRANCHES:[main:8c0a5e2b4cb4aebb2c1eea850834034f3d53d282;]|RELEASE:[ubuntu_noble-rk-media_save_2026.05|none]
+ophub/fnnas: BRANCHES:[main:53a14da4c3331304645e5f44e556f7389d958469;]|RELEASE:[fnnas_rockchip_1253|none]
