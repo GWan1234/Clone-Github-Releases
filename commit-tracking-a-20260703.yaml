@@ -6451,3 +6451,4 @@ sparkfun/Current_Sensor_Breakout-ACS723-Low_Current: BRANCHES:[master:c62d3ea9b7
 sparkfun/Current_Sensor_Breakout-ACS723: BRANCHES:[master:3778a458eb5a48f8fab10be27c9621891a34d2aa;]|RELEASE:[none|none]
 sparkfun/RedBoard_Turbo: BRANCHES:[master:5dfe5c56b2d9400931264a1e5947249898173f7e;]|RELEASE:[none|none]
 sparkfun/SparkFun_SGP30_Arduino_Library: BRANCHES:[main:33c7030330aff16372b9411493ab3bd4a8a72dd3;]|RELEASE:[v1.0.5|none]
+sparkfun/ATX_Power_Connector_Breakout: BRANCHES:[master:4cc10be391aa08952174be5d3543c9d3877e084c;]|RELEASE:[none|none]
