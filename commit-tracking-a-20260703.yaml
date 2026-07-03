@@ -6409,3 +6409,4 @@ sparkfun/SparkFun_GridEYE_Arduino_Library: BRANCHES:[master:61eeee316db6f1ad283d
 sparkfun/SparkFun_BNO080_Arduino_Library: BRANCHES:[release-candidate:e60fb3b0c76eaf4fb091a622aeadcc7ba6ba4f45;main:b9b359fad57cef71ea41a83556ed9221e785f6ed;Debugging_Portenta_and_Artemis_I2C_Issues__STALE:3fe8afdb2c1e340414f8a07e5090acc7e53ac117;]|RELEASE:[v1.1.12|none]
 sparkfun/Flexible_Grayscale_OLED: BRANCHES:[master:71633ad011b0bc9513b308cfea5ba657b4da26f7;]|RELEASE:[none|none]
 sparkfun/Qwiic_GRIDEye: BRANCHES:[master:465f70b1e79fbb3b3d0d95e501549b212098c5de;]|RELEASE:[none|none]
+sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a;]|RELEASE:[v1.1.0|none]
