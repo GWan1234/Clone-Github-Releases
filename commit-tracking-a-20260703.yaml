@@ -6318,3 +6318,4 @@ sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library: BRANCHES:[master:ea89f
 sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library: BRANCHES:[master:d52c969817d5d552348662b9454347e2348e63f1;]|RELEASE:[v1.2.0|none]
 sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library: BRANCHES:[master:2fc3acb208b8530e489be425e19da2c347c77662;]|RELEASE:[v1.0.4|none]
 sparkfun/Vox_Imperium: BRANCHES:[master:863d1c68c67958c133433e10509325c3f2af296b;]|RELEASE:[none|none]
+sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f;]|RELEASE:[v1.0.0|none]
