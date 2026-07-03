@@ -6434,3 +6434,4 @@ sparkfun/Single_Supply_Logic_Level_Converter: BRANCHES:[master:5f675f2d775cb42f4
 sparkfun/Qwiic_Distance_VL53L1X: BRANCHES:[master:543b1e2d80325a39c2585882808757361f86cc66;]|RELEASE:[none|none]
 sparkfun/SparkFun_PCA9536_Arduino_Library: BRANCHES:[master:b7366c6377c8d536a8aedac1a13c74209523eca5;]|RELEASE:[v1.2.2|none]
 sparkfun/SparkFun_BH1749NUC_Arduino_Library: BRANCHES:[master:1d15ea3ade064f7ba6d98b7226ce350d03e52fdf;]|RELEASE:[V_1.0.0|none]
+sparkfun/IoT_Power_Relay: BRANCHES:[master:a976c32691697ff796a95948b3747fd606e105f1;]|RELEASE:[none|none]
