@@ -6165,3 +6165,4 @@ Push3AX/USBKeylogger: BRANCHES:[main:80b078740e3b90720cc40d9bb0831cebc7fb48ef;]|
 Push3AX/vul: BRANCHES:[main:26333ed74e1e200607b3dbc60a90f8bfa219cb8c;]|RELEASE:[none|none]
 syb999/sanguo_mud_android: BRANCHES:[master:08bf0e6a5f09b03e4ba02a2052d6ffa263e09981;]|RELEASE:[release-0.1|none]
 sparkfun/Wireless_Motor_Driver_Shield: BRANCHES:[master:82ad2f51072d498ba004632e0bb4475f91d6948e;v12:82ad2f51072d498ba004632e0bb4475f91d6948e;]|RELEASE:[none|none]
+sparkfun/Mini_FET_Shield: BRANCHES:[master:8db660faa2060384e0238b99a3d83a0fd08956a5;]|RELEASE:[none|none]
