@@ -6466,3 +6466,4 @@ sparkfun/Qwiic_GPS-RTK: BRANCHES:[master:d4f7a0d1130eb3352325d8a333c648e706525aa
 sparkfun/LTE_Cat_M1_Shield: BRANCHES:[main:a93f13a4d570e2aaf096f8b204fe59c4134b65db;v11:2ead6090083a798b6b8e435e93371159f1900575;]|RELEASE:[v10|none]
 sparkfun/pxt-gator-light: BRANCHES:[master:e31cd4a8048c4d7944a3c22ecb4a60748d708710;]|RELEASE:[none|none]
 sparkfun/SparkFun_HyperDisplay: BRANCHES:[master:69e47017322f3d8ef5e93e1a9be73a4472d34a6c;]|RELEASE:[v2.0.1|none]
+sparkfun/nRF52840_Breakout_MDBT50Q: BRANCHES:[master:46f154b42a57c1eed5dd1d212e41cef3c25b264b;PaulZC_MicroMod_Prep:b7a8a0553efecbebd0191cd90f119f286746e81d;]|RELEASE:[x04|none]
