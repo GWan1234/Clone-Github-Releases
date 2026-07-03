@@ -6480,3 +6480,4 @@ sparkfun/LuMini_3_Inch: BRANCHES:[Cush_Lights:0b710e47ecffac9cfc8d69380eb3c198dc
 sparkfun/SparkFun_LTE_Shield_Arduino_Library: BRANCHES:[master:a7bbb24789011ad46080e06dce9ed81c69049f7d;addDebug:ae6068baa3f6395158b3c68c21bc4f4ef1c9a9ce;]|RELEASE:[v1.3.0|none]
 sparkfun/Qwiic_Quad_Relay: BRANCHES:[v21:c364c537a9986307d574b4c3d4daca39bdd59e62;master:ccca82550404b2fb089228c52bb5467fae676fd2;]|RELEASE:[v1.0|none]
 sparkfun/SparkFun_SHTC3_Arduino_Library: BRANCHES:[master:671ef7e7c3570b2082a4ebbb8a63ea37cc13d171;]|RELEASE:[v1.1.4|none]
+sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield: BRANCHES:[master:ea55d9d5a0a1d7c638f598915d8ebc329b2e8753;]|RELEASE:[none|none]
