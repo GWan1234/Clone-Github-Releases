@@ -6226,3 +6226,4 @@ sparkfun/IoT_Weight_for_Treats: BRANCHES:[master:c0eded5e69ea5a8b37d2bcf70f41d73
 sparkfun/GitHub_API_Scripts: BRANCHES:[master:cbf87e3e2ab2aac882af6cebc802a6beee7a962d;]|RELEASE:[none|none]
 sparkfun/Qduino_Mini_SFE: BRANCHES:[master:db25c1f3a3a832e915dea8485503c066b3c79dfa;]|RELEASE:[none|none]
 sparkfun/SparkFun_RHT03_Particle_Library: BRANCHES:[master:f03156d061a32dff31b52a58dc7020bc9768c075;]|RELEASE:[none|none]
+sparkfun/SparkFun_MMA8452Q_Particle_Library: BRANCHES:[master:8deb02b50afc0d099c877ffcda1827cf09c6a4d1;]|RELEASE:[none|none]
