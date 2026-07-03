@@ -6426,3 +6426,4 @@ sparkfun/BlackBoard: BRANCHES:[master:d61d4c672e95452646537f1bbb89ff0908d212bb;v
 sparkfun/Addressable-LED-Neon-Flex-Rope: BRANCHES:[master:a7c0937ed4010ee3052211e411a385453a813fe6;]|RELEASE:[none|none]
 sparkfun/Lumini_8x8: BRANCHES:[master:5316d4b1ee78ac3a0364e977a90faf2a1bb33a8b;]|RELEASE:[none|none]
 sparkfun/SparkFun_VL53L1X_Arduino_Library: BRANCHES:[master:e88f55d6d82a4a8c519ec90a2660e6ec799b4579;]|RELEASE:[v1.2.12|none]
+sparkfun/SparkFun_MS5637_Arduino_Library: BRANCHES:[main:4db0334c3004a34ff143aac73292ab6db33a1a08;]|RELEASE:[v1.0.2|none]
