@@ -6446,3 +6446,4 @@ sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badff
 sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f3418ae340f63b05;]|RELEASE:[V_1.0.0|none]
 sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5;]|RELEASE:[1.0.0|none]
 sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library: BRANCHES:[master:8ecc42a49543a2731358c05ae743a2dafa661d2a;]|RELEASE:[v1.0.3|none]
+sparkfun/I2S_Audio_Breakout: BRANCHES:[master:4b6487e40ee022b4924a7f498bb211c3212f24e1;]|RELEASE:[none|none]
