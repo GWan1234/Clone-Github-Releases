@@ -6475,3 +6475,4 @@ sparkfun/ESP8266_WiFi_IR_Blaster: BRANCHES:[master:c83f311c1ac7a4ad0063cb75b9e53
 sparkfun/Sparkfun_SAMD21_Pro_RF_Arduino_Examples: BRANCHES:[master:0ae451cfb1e8c61f3ac6e184345e85fbe1151b08;]|RELEASE:[none|none]
 sparkfun/RPi_PanTilt_Camera_Kit: BRANCHES:[master:ccacbccb351ca3f85e01e5faa47f81971fec41f1;]|RELEASE:[none|none]
 sparkfun/SparkFun_AS7265x_Arduino_Library: BRANCHES:[main:db403230d072b21e656617a0f003f02cfa690129;bugfix/integration_time:a9e6520790129160e5288b7c542603da6fbd9353;]|RELEASE:[v1.0.5|none]
+sparkfun/LuMini_2_Inch: BRANCHES:[master:e5762eddab12f12b73c3b0370be73e9e47d2391b;Cush_Lights:11f3ffae6dca4684e3d665037b9aeeddebc4f774;]|RELEASE:[none|none]
