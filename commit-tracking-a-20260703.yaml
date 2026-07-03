@@ -6313,3 +6313,4 @@ sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246
 sparkfun/Simultaneous_RFID_Tag_Reader: BRANCHES:[master:93ac887e7790460f16ef5f317c8f8a51189f9026;v1.1:743c93fad29a3ec0a92e32b1dbe643aa600862bc;]|RELEASE:[none|none]
 sparkfun/TweetCam: BRANCHES:[master:f83ee1a306d98355af8dbaee0b2d91c64c0d893a;]|RELEASE:[none|none]
 sparkfun/SparkFun_LP55231_Arduino_Library: BRANCHES:[master:51b51eed8dcd986bd11603c4799e0549c6b9f037;]|RELEASE:[V_1.1.0|none]
+sparkfun/SparkFun_MAX3010x_Sensor_Library: BRANCHES:[master:72d5308df500ae1a64cc9d63e950c68c96dc78d5;]|RELEASE:[v1.1.2|none]
