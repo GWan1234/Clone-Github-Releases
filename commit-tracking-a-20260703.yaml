@@ -6423,3 +6423,4 @@ sparkfun/ESP32_Thing_Plus: BRANCHES:[master:ed6d941070fa7756af6d2e24bdcfed8e27b2
 sparkfun/Qwiic_Mux_TCA9548A: BRANCHES:[master:9548c6af9c1a74b11904dc5b28cc3f25f7cf2ecd;v1.1:56dd001df74e9eb9a9dd2ba8cd68dbdd1274345b;v1.0:572cb352dea46289121ed5c92ab57f6019adf7bd;]|RELEASE:[v10|none]
 sparkfun/Qwiic_IMU_BNO080: BRANCHES:[master:b821d9c1c76c2700fa70ade7783cc522cd3cc683;]|RELEASE:[none|none]
 sparkfun/BlackBoard: BRANCHES:[master:d61d4c672e95452646537f1bbb89ff0908d212bb;v4:1f212a70724126a828d31e6b96060c2e3ef207bc;]|RELEASE:[v3|none]
+sparkfun/Addressable-LED-Neon-Flex-Rope: BRANCHES:[master:a7c0937ed4010ee3052211e411a385453a813fe6;]|RELEASE:[none|none]
