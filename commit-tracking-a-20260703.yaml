@@ -6384,3 +6384,4 @@ sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout: BRANCHES:[master:c05b1adf
 sparkfun/gator_bit: BRANCHES:[master:301d58877bb213064f1f0844298729e8a024c850;v20:01a89f1d0f25dafdd61a7c0b667c0f0389bbe530;v10:91baa54b2f3a31531461b881dd502c5b69ed6cab;]|RELEASE:[archive/v10|none]
 sparkfun/SparkFun_LIS331_Arduino_Library: BRANCHES:[master:fe80a5d5934a417b423c8477991d72708e01ac14;]|RELEASE:[v1.0.1|none]
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a;]|RELEASE:[none|none]
+sparkfun/SparkFun_Lumenati_Code: BRANCHES:[master:35bb92baf6d8b0380b72859136fbbee597fe937c;]|RELEASE:[none|none]
