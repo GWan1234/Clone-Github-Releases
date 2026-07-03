@@ -1,12 +1,11 @@
 name: Clone Backup Repositories C
 
 on:
-  workflow_run:
-    workflows:
-      - "Clone Backup Repositories B"
-    types:
-      - completed
-
+  #workflow_run:
+   # workflows:
+   #   - "Clone Backup Repositories B"
+   # types:
+   #   - completed
   workflow_dispatch:
 
 jobs:
@@ -50,10 +49,10 @@ jobs:
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
-          TRACKING_FILE="commit-tracking-c-${NOW_DATE}.yaml"
+          TRACKING_FILE="commit-tracking-e-${NOW_DATE}.yaml"
 
           # 永远使用上一个历史文件做对比
-          LAST_TRACKING_FILE=$(ls -1 commit-tracking-c-*.yaml 2>/dev/null | sort -r | head -n1 || true)
+          LAST_TRACKING_FILE=$(ls -1 commit-tracking-e-*.yaml 2>/dev/null | sort -r | head -n1 || true)
 
           # ============== 🔥 新增：复制最近跟踪文件作为当天初始基线 ==============
           # 目的：即使当天工作流中途失败，也能保留之前所有仓库的已知状态，
@@ -127,6 +126,17 @@ jobs:
               fi
             fi
             return 0
+          }
+
+          upload_background() {
+              local file="$1"
+              local tag="$2"
+          
+              (
+                  if ! safe_upload "$file" "$tag"; then
+                      echo "UPLOAD_FAILED:$file" >> /tmp/upload_failed
+                  fi
+              ) &
           }
 
           set_tracking() {
@@ -458,24 +468,60 @@ jobs:
               fi
             done
 
+            # ===== 初始化后台上传 =====
+            UPLOAD_PIDS=()
+            rm -f /tmp/upload_failed
+
             # 下载上游 Release 资产（若存在）
             echo "🔗 Syncing upstream assets..."
+            
+            rm -f /tmp/upload_failed
+            UPLOAD_PIDS=()
+            
             ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
+            
             if [[ -n "$ASSETS_DATA" ]]; then
-              while read -r asset; do
-                [[ -z "$asset" ]] && continue
-                ASSET_NAME=$(echo "$asset" | jq -r '.name' 2>/dev/null || continue)
-                ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url' 2>/dev/null || continue)
-
-                echo "--> Asset: $ASSET_NAME"
-                curl -LSs --retry 1 --max-time 30 -o "up-$ASSET_NAME" "$ASSET_URL" 2>/dev/null || continue
-                if [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]]; then
-                  if ! safe_upload "up-$ASSET_NAME" "$TAG"; then
-                    error_occurred=1
-                  fi
-                fi
-                rm -f "up-$ASSET_NAME"
-              done <<< "$ASSETS_DATA"
+                while read -r asset; do
+                    [[ -z "$asset" ]] && continue
+            
+                    ASSET_NAME=$(echo "$asset" | jq -r '.name')
+                    ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url')
+            
+                    echo "⬇ Download $ASSET_NAME"
+            
+                    curl -LSs \
+                         --retry 1 \
+                         --max-time 30 \
+                         -o "up-$ASSET_NAME" \
+                         "$ASSET_URL" || continue
+            
+                    if [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]]; then
+            
+                        echo "⬆ Start upload $ASSET_NAME"
+            
+                        (
+                            if ! safe_upload "up-$ASSET_NAME" "$TAG"; then
+                                echo "UPLOAD_FAILED:$ASSET_NAME" >> /tmp/upload_failed
+                            fi
+            
+                            rm -f "up-$ASSET_NAME"
+                        ) &
+            
+                        UPLOAD_PIDS+=($!)
+                    fi
+            
+                done <<< "$ASSETS_DATA"
+            fi
+            
+            echo "⏳ Waiting uploads..."
+            
+            for pid in "${UPLOAD_PIDS[@]}"; do
+                wait "$pid"
+            done
+            
+            if [[ -f /tmp/upload_failed ]]; then
+                error_occurred=1
+                cat /tmp/upload_failed
             fi
 
             rm -f "$NOTES_FILE"
@@ -499,7 +545,7 @@ jobs:
               # ====== 新增：加载排除列表 ======
               local excluded_repos=()
               mapfile -t excluded_repos < <(
-                  yq -r '.exclude[]?' repositoriesc.yaml 2>/dev/null |
+                  yq -r '.exclude[]?' repositoriese.yaml 2>/dev/null |
                   grep -v '^[[:space:]]*#' |
                   sed '/^[[:space:]]*$/d' || true
               )
@@ -518,7 +564,7 @@ jobs:
           
               # 1) 按组织/用户列表扫描
               mapfile -t OWNERS < <(
-                  yq -r '.allrepositories[]?' repositoriesc.yaml 2>/dev/null \
+                  yq -r '.allrepositories[]?' repositoriese.yaml 2>/dev/null \
                   | grep -v '^[[:space:]]*#' \
                   | sed '/^[[:space:]]*$/d' || true
               )
@@ -548,7 +594,7 @@ jobs:
               echo "====================================="
           
               mapfile -t ALL_KEYS < <(
-                  yq -r '.repositories | keys[]' repositoriesc.yaml 2>/dev/null \
+                  yq -r '.repositories | keys[]' repositoriese.yaml 2>/dev/null \
                   | grep -v '^[[:space:]]*#' \
                   | sed '/^[[:space:]]*$/d' || true
               )
@@ -556,7 +602,7 @@ jobs:
               for KEY in "${ALL_KEYS[@]}"; do
                   echo "➡️ Group: $KEY"
                   mapfile -t REPOS < <(
-                      yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositoriesc.yaml 2>/dev/null \
+                      yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositoriese.yaml 2>/dev/null \
                       | grep -v '^[[:space:]]*#' \
                       | sed '/^[[:space:]]*$/d' || true
                   )
