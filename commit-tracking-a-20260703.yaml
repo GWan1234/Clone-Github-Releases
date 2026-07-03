@@ -6338,3 +6338,4 @@ sparkfun/Arduino-IRremote: BRANCHES:[master:048efb23a22d3670d32af3c4a0226d4aefe2
 sparkfun/Micro_Bit_Controller_Bit: BRANCHES:[master:0e8a1d9b82942bcf10b9ec4fde3e242e3356fb82;]|RELEASE:[v21|none]
 sparkfun/SparkFun_CCS811_Arduino_Library: BRANCHES:[master:287aa5c6120ea3227f7fa6fdef4f2253888ea2f2;]|RELEASE:[v2.0.3|none]
 sparkfun/Micro_Bit_Weather_Bit: BRANCHES:[master:7c11fc6f1685c92a7b45d4cf2ae8ae3dfafb80d1;]|RELEASE:[v12|none]
+sparkfun/spectacleapp: BRANCHES:[master:b4be5ca392a42ad6f5fa5b13934703db9f1d8a98;]|RELEASE:[none|none]
