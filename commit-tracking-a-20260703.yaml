@@ -6376,3 +6376,4 @@ sparkfun/Digital_Load: BRANCHES:[master:087005447889529a44c1487b79c4d8498423ca34
 sparkfun/SparkFun_AS726X_Arduino_Library: BRANCHES:[master:31b2c22e04b7226a75fb25c3f9e2f6a57b4ea44a;]|RELEASE:[v2.0.1|none]
 sparkfun/SparkFun_Si7021_Arduino_Library: BRANCHES:[main:cf83c35c759dfac6c8471cf5bd77f7e515929960;Cleanup23:55aae1c6e7cab4765f56a27165f6b85e5f07956b;]|RELEASE:[v2.0.0|none]
 sparkfun/ESP32_Motion_Shield: BRANCHES:[master:e3af2a1d5dc81b891d677c65142892e82ab1cbbc;]|RELEASE:[v1.0.0a|none]
+sparkfun/Variable_Load: BRANCHES:[master:71ae9ecd46493cfdd94b00d553651951da92e3f5;]|RELEASE:[none|none]
