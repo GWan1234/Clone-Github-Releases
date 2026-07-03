@@ -6224,3 +6224,4 @@ sparkfun/SparkFun_9DOF_Block_for_Edison_CPP_Library: BRANCHES:[master:8c7b62446d
 sparkfun/SparkFun_BME280_Arduino_Library: BRANCHES:[master:870c17da1f4c76561e14b8ffcc7cdffd63136e10;revert-12-master:55035e3a04f5623fcdce9e37f664914e845f724b;]|RELEASE:[v2.0.11|none]
 sparkfun/IoT_Weight_for_Treats: BRANCHES:[master:c0eded5e69ea5a8b37d2bcf70f41d73203786aca;]|RELEASE:[none|none]
 sparkfun/GitHub_API_Scripts: BRANCHES:[master:cbf87e3e2ab2aac882af6cebc802a6beee7a962d;]|RELEASE:[none|none]
+sparkfun/Qduino_Mini_SFE: BRANCHES:[master:db25c1f3a3a832e915dea8485503c066b3c79dfa;]|RELEASE:[none|none]
