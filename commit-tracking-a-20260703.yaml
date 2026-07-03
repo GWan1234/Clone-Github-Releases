@@ -6241,3 +6241,4 @@ sparkfun/Beefy_3: BRANCHES:[master:1a71bb997699b4622a6928de9686144e5ce14850;]|RE
 sparkfun/Si7021_Breakout: BRANCHES:[master:600270f12184879795f2988bb0deacb69ff727e7;]|RELEASE:[none|none]
 sparkfun/Inventors_Kit_For_Edison_Experiments: BRANCHES:[master:5ac30df53a94fa7531a8805ae3294e229b3673b7;]|RELEASE:[none|none]
 sparkfun/SparkFun_MLX90614_Arduino_Library: BRANCHES:[master:a2fb7586eefcb98425f9767c484ba200bfe8e574;]|RELEASE:[v1.1.5|none]
+sparkfun/MPU-9250_Breakout: BRANCHES:[master:5aa492079056d0eaf508b00d8fcd5f491e7d8d2c;v11:0071741ce39ab1ed2bfb075e692ab0be62aedef1;silk_revision:3688ebc7dade3cd7ab0d15fae77883489f3f2661;]|RELEASE:[none|none]
