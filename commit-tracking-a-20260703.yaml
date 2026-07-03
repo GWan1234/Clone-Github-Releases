@@ -6310,3 +6310,4 @@ sparkfun/Serial_Basic_Breakout-CH340G: BRANCHES:[master:19004d8256151ac61e5502ee
 sparkfun/Genericized_Library_Examples: BRANCHES:[master:dc42e166ae5d408b03ae6903609a531e5c475e1e;]|RELEASE:[none|none]
 sparkfun/SparkFun_DS1307_RTC_Arduino_Library: BRANCHES:[master:68f64b103d014f448c280bb24385430e1011feec;]|RELEASE:[none|none]
 sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246552364fe1d94a46c6b464b6;]|RELEASE:[v1.2.1|none]
+sparkfun/Simultaneous_RFID_Tag_Reader: BRANCHES:[master:93ac887e7790460f16ef5f317c8f8a51189f9026;v1.1:743c93fad29a3ec0a92e32b1dbe643aa600862bc;]|RELEASE:[none|none]
