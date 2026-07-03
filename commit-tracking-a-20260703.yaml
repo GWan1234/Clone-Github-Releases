@@ -6508,3 +6508,4 @@ sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library: BRANCHES:[master:39
 sparkfun/SparkFun_u-blox_ZOE-M8Q: BRANCHES:[master:bf58e3f337237006bffb924f88ee2facc8c8e1a1;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library: BRANCHES:[master:3492f4017a8798cf96d5ef3673f0751b9a878a7f;]|RELEASE:[v1.0.4|none]
 sparkfun/SparkFun_Edge_BSP: BRANCHES:[master:6ea7ef137132bb0cb4b27abe837c913c7643f11e;]|RELEASE:[none|none]
+sparkfun/HyperDisplay_SSD1309_ArduinoLibrary: BRANCHES:[master:e18e603800bc80b67d285eda7a416567da11f9ae;]|RELEASE:[v1.1.1|none]
