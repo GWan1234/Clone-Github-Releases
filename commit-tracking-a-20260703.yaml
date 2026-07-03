@@ -6295,3 +6295,4 @@ sparkfun/IoT_Connected_Chess_Boards: BRANCHES:[master:96b3eadae1ba135b27ba41f686
 sparkfun/SparkFun_ADXL345_Arduino_Library: BRANCHES:[master:6d795cce285d94014c294d297573e33266a4c7d5;]|RELEASE:[v1.0.0|none]
 sparkfun/Wireless_Joystick: BRANCHES:[master:aaafe18e2fd21098b576121405320827130dc504;]|RELEASE:[none|none]
 sparkfun/Scratchr: BRANCHES:[master:af1a104c9eb3d68af5d249ee2f6455f8fc2b30b8;]|RELEASE:[none|none]
+sparkfun/SparkFun_TMP102_Arduino_Library: BRANCHES:[master:1260e0a9388918534504753323ae1df5a2ed1b3c;]|RELEASE:[v1.1.2|none]
