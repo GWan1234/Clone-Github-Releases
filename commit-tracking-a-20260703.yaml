@@ -6459,3 +6459,4 @@ sparkfun/LuMini_1_Inch: BRANCHES:[master:a9f94e3dd22e99e382a9002c1f0aa2694c91f47
 sparkfun/gator_color: BRANCHES:[master:96664cc9a2115d9be42cf786412e6fc97a4c0dac;]|RELEASE:[none|none]
 sparkfun/gator_starter: BRANCHES:[master:c1a92d4fe3b1a7b029928e6a1587b316a36a6657;]|RELEASE:[none|none]
 sparkfun/gator_control: BRANCHES:[master:35ac4ebdee4532a95218e3788cb6b28eebfdd878;]|RELEASE:[none|none]
+sparkfun/SparkFun_ePaper_Arduino_Library: BRANCHES:[master:287b221cd0e513ae8b19706f076f319ab22d548d;]|RELEASE:[v2.1.3|none]
