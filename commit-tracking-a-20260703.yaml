@@ -6438,3 +6438,4 @@ sparkfun/IoT_Power_Relay: BRANCHES:[master:a976c32691697ff796a95948b3747fd606e10
 sparkfun/SparkFun_VEML6075_Arduino_Library: BRANCHES:[master:c2e178994b69ca984e3161e42fe9fcbb028baf26;]|RELEASE:[v1.1.5|none]
 sparkfun/SparkFun_SCD30_Arduino_Library: BRANCHES:[main:10468a13e023df6ec434bd6d319da80efbc0b317;]|RELEASE:[v1.0.20|none]
 sparkfun/SparkFun_Trackuino: BRANCHES:[1.52:825c5724dd842e6334b1c7b1c6c4f7dd53a7b896;master:d5cd513147e43b865ff378e7cb1f4367fa31e0ac;1.51:0b97df1dd1ae1c5de13f6849a64392860547096b;1.5:22aef4e9cada04ff87beca629df3f506df1c4658;1.4:0a0c06b2f40a75dcd35ed8930839a6281231a2be;]|RELEASE:[none|none]
+sparkfun/SparkFun_LPS25HB_Arduino_Library: BRANCHES:[master:8bff45572c9251413bd854a44ba75aa2f33a9fff;]|RELEASE:[v1.1.1|none]
