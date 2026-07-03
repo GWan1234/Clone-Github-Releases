@@ -6280,3 +6280,4 @@ sparkfun/SparkFun_BQ27441_Arduino_Library: BRANCHES:[master:65fcd5553b3087d17c83
 sparkfun/Motor_Driver-Dual_TB6612FNG: BRANCHES:[master:76bbcba16c4510c8bd9ab6b4622172a7d70bfd22;]|RELEASE:[V_11|none]
 sparkfun/Beehive_WiFi: BRANCHES:[master:c917e62cefe14c87ec274e21a570b7b13e399e7b;]|RELEASE:[none|none]
 sparkfun/Wireless_Kill_Switch: BRANCHES:[master:3f462a2b510c69a3ef80ee0db5a303a30482b958;]|RELEASE:[none|none]
+sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library: BRANCHES:[master:ea379ce8c930ef90f4ebc37799544d68108e3126;]|RELEASE:[v1.0.2|none]
