@@ -6416,3 +6416,4 @@ sparkfun/LilyPad_USB_Plus_Standalone: BRANCHES:[master:9c99aa852badf7ce4c059c6bb
 sparkfun/SparkFun_Tinker_Kit_Code: BRANCHES:[master:0d1c1e73e0b0842a70b16af1bcb12b60e755cc3d;]|RELEASE:[vF2.0|none]
 sparkfun/Qwiic_OpenLog: BRANCHES:[master:f3f6a3ec3f70fe4c14612b38fac360f26ee79a4c;]|RELEASE:[v3.0|none]
 sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library: BRANCHES:[main:6feda012dc8f8b9f811e73b6e95553579e0d0a75;]|RELEASE:[v3.0.2|none]
+sparkfun/SparkFun_ADS1015_Arduino_Library: BRANCHES:[master:d777dd3083447b3da41d429cffdc90d3cd1109ca;release_candidate:f5f9fb7d8a852433500dfb26ef42d7bb2b00d0fc;voidFunctionReturn:bab4ae6c28511b98debf87fce2500fd747820b53;]|RELEASE:[v2.3.2|none]
