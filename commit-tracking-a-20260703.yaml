@@ -6311,3 +6311,4 @@ sparkfun/Genericized_Library_Examples: BRANCHES:[master:dc42e166ae5d408b03ae6903
 sparkfun/SparkFun_DS1307_RTC_Arduino_Library: BRANCHES:[master:68f64b103d014f448c280bb24385430e1011feec;]|RELEASE:[none|none]
 sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246552364fe1d94a46c6b464b6;]|RELEASE:[v1.2.1|none]
 sparkfun/Simultaneous_RFID_Tag_Reader: BRANCHES:[master:93ac887e7790460f16ef5f317c8f8a51189f9026;v1.1:743c93fad29a3ec0a92e32b1dbe643aa600862bc;]|RELEASE:[none|none]
+sparkfun/TweetCam: BRANCHES:[master:f83ee1a306d98355af8dbaee0b2d91c64c0d893a;]|RELEASE:[none|none]
