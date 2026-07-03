@@ -6339,3 +6339,4 @@ sparkfun/Micro_Bit_Controller_Bit: BRANCHES:[master:0e8a1d9b82942bcf10b9ec4fde3e
 sparkfun/SparkFun_CCS811_Arduino_Library: BRANCHES:[master:287aa5c6120ea3227f7fa6fdef4f2253888ea2f2;]|RELEASE:[v2.0.3|none]
 sparkfun/Micro_Bit_Weather_Bit: BRANCHES:[master:7c11fc6f1685c92a7b45d4cf2ae8ae3dfafb80d1;]|RELEASE:[v12|none]
 sparkfun/spectacleapp: BRANCHES:[master:b4be5ca392a42ad6f5fa5b13934703db9f1d8a98;]|RELEASE:[none|none]
+sparkfun/Micro_Bit_Moto_Bit: BRANCHES:[master:f14cd3a1d9eeb3a06cc89ea6326e031a7a247cff;v21:aee8d884c81a97887b65a1f48c1ce26dc31f8690;v20:f33985588c996c06ca879ff7e746a7a1fb7d9fe2;]|RELEASE:[v10|none]
