@@ -6476,3 +6476,4 @@ sparkfun/Sparkfun_SAMD21_Pro_RF_Arduino_Examples: BRANCHES:[master:0ae451cfb1e8c
 sparkfun/RPi_PanTilt_Camera_Kit: BRANCHES:[master:ccacbccb351ca3f85e01e5faa47f81971fec41f1;]|RELEASE:[none|none]
 sparkfun/SparkFun_AS7265x_Arduino_Library: BRANCHES:[main:db403230d072b21e656617a0f003f02cfa690129;bugfix/integration_time:a9e6520790129160e5288b7c542603da6fbd9353;]|RELEASE:[v1.0.5|none]
 sparkfun/LuMini_2_Inch: BRANCHES:[master:e5762eddab12f12b73c3b0370be73e9e47d2391b;Cush_Lights:11f3ffae6dca4684e3d665037b9aeeddebc4f774;]|RELEASE:[none|none]
+sparkfun/LuMini_3_Inch: BRANCHES:[Cush_Lights:0b710e47ecffac9cfc8d69380eb3c198dcc0d1f7;master:0b710e47ecffac9cfc8d69380eb3c198dcc0d1f7;]|RELEASE:[none|none]
