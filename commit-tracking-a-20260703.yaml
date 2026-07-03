@@ -6412,3 +6412,4 @@ sparkfun/Qwiic_GRIDEye: BRANCHES:[master:465f70b1e79fbb3b3d0d95e501549b212098c5d
 sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a;]|RELEASE:[v1.1.0|none]
 sparkfun/SparkBowl_9DOF_RazorIMU: BRANCHES:[master:a47410f6282bd6afe806039041cf7a4f79a1440a;]|RELEASE:[none|none]
 sparkfun/MIDI-BLE-Adapter: BRANCHES:[master:eadcc30132b2f58532b5c2f24138491a75bc0b61;]|RELEASE:[none|none]
+sparkfun/LilyPad_USB_Plus_Standalone: BRANCHES:[master:9c99aa852badf7ce4c059c6bbcd5f786e49774ed;]|RELEASE:[none|none]
