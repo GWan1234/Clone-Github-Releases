@@ -6529,3 +6529,4 @@ sparkfun/SparkFun_AS3935_Lightning_Detector: BRANCHES:[master:e5c68988694d06dc4b
 sparkfun/SparkFun_Displacement_Sensor_Arduino_Library: BRANCHES:[main:1d7535a6c5432694b108a0e2af2b9ba37e183023;]|RELEASE:[v1.3.3|none]
 sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library: BRANCHES:[main:e15210f5b58f4c013239c65430dec74395961691;release_candidate:e15210f5b58f4c013239c65430dec74395961691;]|RELEASE:[v1.0.6|none]
 sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library: BRANCHES:[master:555e4a61b7a6d6081226c843531133087a898c32;]|RELEASE:[v1.2.0|none]
+sparkfun/Wireless-RC-Robot-with-Arduino-and-XBee: BRANCHES:[master:4efed24cd1b4a3fd21c636823447c70b0c669c5d;]|RELEASE:[none|none]
