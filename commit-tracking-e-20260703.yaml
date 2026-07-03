@@ -84,3 +84,4 @@ ophub/amlogic-s9xxx-armbian: BRANCHES:[main:87c6e6f170a3098b514c9a141db11e43caa0
 ophub/amlogic-s9xxx-openwrt: BRANCHES:[main:55df72083e5dce7937b2465974f7d28c3500ae1d;]|RELEASE:[OpenWrt_openwrt_main_save_2026.07|none]
 ophub/delete-releases-workflows: BRANCHES:[main:9c4138644d440d66f145e5ab03a98f03b5cbf2b0;]|RELEASE:[v0.1.0|none]
 ophub/firmware: BRANCHES:[main:58af09122f8b5d60c4ad32ae562dfa42f6e7e401;]|RELEASE:[v2026.05.20|none]
+ophub/flippy-openwrt-actions: BRANCHES:[main:d4b448e4bf0527bf17f41a4ba3ffc9a7156d2454;]|RELEASE:[OpenWrt_armv8_save_2026.06|none]
