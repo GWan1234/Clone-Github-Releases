@@ -121,3 +121,4 @@ azukaar/Cosmos-Server: BRANCHES:[master:865eccc2d808a01aab6bf7107fcc36114ae45318
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095;]|RELEASE:[none|none]
 xfangfang/Macast: BRANCHES:[dev:881c6e6bc0006e85b152d2c70caad5807c029173;dev_test:ee58f4ec497704536461749c3afa659caccc34e0;pypi:0b138bd083d0609be2ae5973ff4510dbeef25cb2;main:121add3a8a70edb77e33aeab1ec88aeff27f49fc;add-license:7d56cce3f3110fd62df9fdcdd116f48e8fe2cea4;]|RELEASE:[v0.7|none]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:a12370610e4406677dea8da6432f1d45c1ac2418;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36;]|RELEASE:[2026.06.05-0921-all|none]
+fatedier/frp: BRANCHES:[dev:7fe152e3aa6861225d0bd99b4d77ad640fbc0bc1;master:8dd26c6961f2f4ca657dcd7fbfb3a4e8c3d48fbb;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c;]|RELEASE:[v0.69.1|8dd26c6961f2f4ca657dcd7fbfb3a4e8c3d48fbb]
