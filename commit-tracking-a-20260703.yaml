@@ -6500,3 +6500,4 @@ sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c44
 sparkfun/Qwiic_Joystick: BRANCHES:[master:872ce30c7db70375220e67d78398a19f7c60b9ab;]|RELEASE:[none|none]
 sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888;]|RELEASE:[v1.0.2|none]
 sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052;]|RELEASE:[v1.0.2|none]
+sparkfun/Qwiic_Proximity_Sensor: BRANCHES:[master:af01991774b84238a18030e7f02f67c530ec456c;]|RELEASE:[none|none]
