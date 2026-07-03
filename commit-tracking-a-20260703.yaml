@@ -6188,3 +6188,4 @@ sparkfun/Serial_USB_Adapter-Nike_iPod: BRANCHES:[master:ce1af54ab930902a1e1a923a
 sparkfun/RFM22_Shield-434MHz: BRANCHES:[master:f4e95a5e7b5c34b09b5c5589f7d5ba267ecc39a3;]|RELEASE:[none|none]
 sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c;]|RELEASE:[v1.4.2|none]
 sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library: BRANCHES:[master:a70a355406dbaf694c3858c27028fcae99191519;]|RELEASE:[v_1.0.2|none]
+sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68585ff3756b16c80ef0a;Interrupt:3349aeccbfb462a12c0f8e0c8531fcc59d4e168e;]|RELEASE:[V_1.4.0|none]
