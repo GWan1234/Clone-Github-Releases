@@ -6495,3 +6495,4 @@ sparkfun/circuitpython: BRANCHES:[master:254f8effb17f04f3e7dbcd836e0e9394b1662a9
 sparkfun/SparkFun_Qwiic_Twist_Arduino_Library: BRANCHES:[master:4feea8a4a11549f910dd84d261c9928e612bc8f2;]|RELEASE:[v1.0.4|none]
 sparkfun/Qwiic_GPS-RTK2: BRANCHES:[master:898a676f3136b68118331e3683299951df3e7133;Add-SMA:21acf219f9a81c40b94d8627a493b92540b964c3;]|RELEASE:[v1.1|none]
 sparkfun/SparkFun_Edge: BRANCHES:[v2LP-fix-camera-data-pins:01be747e08aa468c16e8fb35cc6e65c93736b0ba;v2LP:f6d2c700e915df29f858d5fed748a4fb129b6948;master:9efcf61f287932238491e4a1fd18f7a280a244c0;fix-v1-camera-net-labels:dbcdc67424bdec42d6221d12a485124846e7cef6;]|RELEASE:[v2.0.0|none]
+sparkfun/LCD_TFT_Breakout_1in8_128x160: BRANCHES:[master:6ffe4b4305b53075ec46721a54f54bda2be3df53;]|RELEASE:[none|none]
