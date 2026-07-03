@@ -6506,3 +6506,4 @@ sparkfun/SparkFun_LumiDrive_Example_Code: BRANCHES:[master:6d111d75e2b671ddd8ef1
 sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c089130660f485c3af065fbbc1ef9;]|RELEASE:[none|none]
 sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library: BRANCHES:[master:39ce19008cf3bc31c9974d68f9d4ac16f4cdc926;]|RELEASE:[v1.4.9|none]
 sparkfun/SparkFun_u-blox_ZOE-M8Q: BRANCHES:[master:bf58e3f337237006bffb924f88ee2facc8c8e1a1;]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library: BRANCHES:[master:3492f4017a8798cf96d5ef3673f0751b9a878a7f;]|RELEASE:[v1.0.4|none]
