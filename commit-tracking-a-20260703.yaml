@@ -6410,3 +6410,4 @@ sparkfun/SparkFun_BNO080_Arduino_Library: BRANCHES:[release-candidate:e60fb3b0c7
 sparkfun/Flexible_Grayscale_OLED: BRANCHES:[master:71633ad011b0bc9513b308cfea5ba657b4da26f7;]|RELEASE:[none|none]
 sparkfun/Qwiic_GRIDEye: BRANCHES:[master:465f70b1e79fbb3b3d0d95e501549b212098c5de;]|RELEASE:[none|none]
 sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a;]|RELEASE:[v1.1.0|none]
+sparkfun/SparkBowl_9DOF_RazorIMU: BRANCHES:[master:a47410f6282bd6afe806039041cf7a4f79a1440a;]|RELEASE:[none|none]
