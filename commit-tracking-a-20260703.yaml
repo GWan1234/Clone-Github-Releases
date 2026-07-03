@@ -6452,3 +6452,4 @@ sparkfun/Current_Sensor_Breakout-ACS723: BRANCHES:[master:3778a458eb5a48f8fab10b
 sparkfun/RedBoard_Turbo: BRANCHES:[master:5dfe5c56b2d9400931264a1e5947249898173f7e;]|RELEASE:[none|none]
 sparkfun/SparkFun_SGP30_Arduino_Library: BRANCHES:[main:33c7030330aff16372b9411493ab3bd4a8a72dd3;]|RELEASE:[v1.0.5|none]
 sparkfun/ATX_Power_Connector_Breakout: BRANCHES:[master:4cc10be391aa08952174be5d3543c9d3877e084c;]|RELEASE:[none|none]
+sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library: BRANCHES:[master:ef72c30803a2c5152beb42924775d69f40c17c8d;]|RELEASE:[V_1.0.2|none]
