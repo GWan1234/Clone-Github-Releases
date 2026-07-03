@@ -6418,3 +6418,4 @@ sparkfun/Qwiic_OpenLog: BRANCHES:[master:f3f6a3ec3f70fe4c14612b38fac360f26ee79a4
 sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library: BRANCHES:[main:6feda012dc8f8b9f811e73b6e95553579e0d0a75;]|RELEASE:[v3.0.2|none]
 sparkfun/SparkFun_ADS1015_Arduino_Library: BRANCHES:[master:d777dd3083447b3da41d429cffdc90d3cd1109ca;release_candidate:f5f9fb7d8a852433500dfb26ef42d7bb2b00d0fc;voidFunctionReturn:bab4ae6c28511b98debf87fce2500fd747820b53;]|RELEASE:[v2.3.2|none]
 sparkfun/IoT_Weight_Logging_Scale: BRANCHES:[master:8ca3b20a7780ccdae75b638e43176f518a4fa47a;]|RELEASE:[none|none]
+sparkfun/Qwiic_Flex_Glove_Controller: BRANCHES:[master:98ef9c0e35209480c9cf1f5288c5c7142c99c8d5;]|RELEASE:[none|none]
