@@ -90,3 +90,4 @@ ophub/fnnas: BRANCHES:[main:53a14da4c3331304645e5f44e556f7389d958469;]|RELEASE:[
 ophub/kernel: BRANCHES:[main:bdf030c7f5d0110a162f0078cd339876c4fa09b3;]|RELEASE:[kernel_stable|none]
 ophub/linux-5.10.y: BRANCHES:[main:f1042adb4a426df32be99e64e44c0b39dbd5d030;]|RELEASE:[none|none]
 ophub/linux-5.10.y-rk35xx: BRANCHES:[main:6c6e1238ebb1f17a0daebc5d4f16ba4cae7ef5e4;]|RELEASE:[none|none]
+ophub/linux-5.15.y: BRANCHES:[main:32dae29a640afe0a665006b2504dafcc612def6b;]|RELEASE:[none|none]
