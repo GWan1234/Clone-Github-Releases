@@ -6432,3 +6432,4 @@ sparkfun/SparkFun_WiseChip_HUD_Library: BRANCHES:[master:d5d1f573031735927536911
 sparkfun/SparkFun_VCNL4040_Arduino_Library: BRANCHES:[master:ecaf451941a15ab1665f6e5efb4c8753b92e6627;]|RELEASE:[v1.0.4|none]
 sparkfun/Single_Supply_Logic_Level_Converter: BRANCHES:[master:5f675f2d775cb42f4a4552231788bdc252794832;]|RELEASE:[none|none]
 sparkfun/Qwiic_Distance_VL53L1X: BRANCHES:[master:543b1e2d80325a39c2585882808757361f86cc66;]|RELEASE:[none|none]
+sparkfun/SparkFun_PCA9536_Arduino_Library: BRANCHES:[master:b7366c6377c8d536a8aedac1a13c74209523eca5;]|RELEASE:[v1.2.2|none]
