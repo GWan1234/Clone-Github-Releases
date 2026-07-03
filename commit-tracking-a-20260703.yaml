@@ -6531,3 +6531,4 @@ sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library: BRANCHES:[main:e15210f5b5
 sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library: BRANCHES:[master:555e4a61b7a6d6081226c843531133087a898c32;]|RELEASE:[v1.2.0|none]
 sparkfun/Wireless-RC-Robot-with-Arduino-and-XBee: BRANCHES:[master:4efed24cd1b4a3fd21c636823447c70b0c669c5d;]|RELEASE:[none|none]
 sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203: BRANCHES:[master:a78a8703b50e08f269f0508067d410e7a0a8674c;]|RELEASE:[none|none]
+sparkfun/SparkFunDMX: BRANCHES:[master:df287d9ff83fc5ac5819e79a09a54274d4649784;]|RELEASE:[v2.0.1|none]
