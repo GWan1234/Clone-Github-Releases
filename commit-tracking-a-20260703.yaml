@@ -6167,3 +6167,4 @@ syb999/sanguo_mud_android: BRANCHES:[master:08bf0e6a5f09b03e4ba02a2052d6ffa263e0
 sparkfun/Wireless_Motor_Driver_Shield: BRANCHES:[master:82ad2f51072d498ba004632e0bb4475f91d6948e;v12:82ad2f51072d498ba004632e0bb4475f91d6948e;]|RELEASE:[none|none]
 sparkfun/Mini_FET_Shield: BRANCHES:[master:8db660faa2060384e0238b99a3d83a0fd08956a5;]|RELEASE:[none|none]
 sparkfun/Window_Comparator: BRANCHES:[master:d3a96d447cd46350b90d792c9e6eb56116bc95c1;]|RELEASE:[none|none]
+sparkfun/IR_Thermometer_Evaluation_Board-MLX90614: BRANCHES:[master:afc54826e0842d36211a28420ee916cf09fba23b;]|RELEASE:[none|none]
