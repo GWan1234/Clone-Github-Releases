@@ -6575,3 +6575,4 @@ sparkfun/RedBoard_Artemis_Nano: BRANCHES:[master:2e62061e8ccc0fd7359bf5a990b46df
 sparkfun/RedBoard_Artemis_ATP: BRANCHES:[master:3490ebb1f6841a20e3cfba503f3beb3c6d6553ad;]|RELEASE:[none|none]
 sparkfun/RedBoard_Artemis: BRANCHES:[master:355f65af4583694bf7c2f49c74a0c9f74d5974dd;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_RFID_Arduino_Library: BRANCHES:[master:a4ae662d3908ce33fe2592a99b02ec147f977411;v1.2.0_Adress_Change:2d25ffb4472cebc66760b6a53f6837422a443a93;ReduceExampleDirectory:5e88041910344acaa9de78deecce5b5616581110;]|RELEASE:[v1.1.6|none]
+sparkfun/SparkFun_MCP9600_Arduino_Library: BRANCHES:[master:399d721629fc5f10fc8a02883ba9206c3a46a584;]|RELEASE:[v1.0.6|none]
