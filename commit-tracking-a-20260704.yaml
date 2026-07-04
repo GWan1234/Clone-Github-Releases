@@ -6607,3 +6607,4 @@ sparkfun/ArtemisDevKit: BRANCHES:[master:4d5afc951a0887709fc2ba3bf365e2c71c42151
 sparkfun/SparkFun_PL-N823_Arduino_Library: BRANCHES:[master:b284ba1e5f44627e327fb3acd8a869cb67a90b6a;will2055-patch-1:805badad142c0a91711a93e64bb82b926dcc606d;will2055-examples-1:8664e71fc3555989151724a614232b600ff336eb;]|RELEASE:[none|none]
 sparkfun/SparkFun_Clock_5P49V60_Arduino_Library: BRANCHES:[master:8ac79043e37acea37d2586ebc856e552b38b6def;]|RELEASE:[v1.0.2|none]
 sparkfun/qwiic_pca9685_py: BRANCHES:[main:923942cd9898c39ec78a37557049ffd51081d7ab;bugfix/error_messages:15767f99523e4f4093692db0f9650a5f8a3d3122;examples:5211074ccc27acf9808fb80e6d11758168332816;]|RELEASE:[2.0.0|none]
+sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0;]|RELEASE:[none|none]
