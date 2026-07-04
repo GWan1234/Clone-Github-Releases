@@ -6695,3 +6695,4 @@ sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library: BRANCHES:[release_candidate:6e
 sparkfun/Qwiic_Shield_for_Teensy: BRANCHES:[master:a15d80b1ad051e0e96849727f491e0ada6166392;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_GPIO_Library: BRANCHES:[master:c9a3a49768e5d4b9b33f8731fb8675f460b1d799;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_RTK_Firmware: BRANCHES:[gh-pages:efa8a8e4be124fb8f28952f6c39cff9d6c0ceb97;main:65a503a8e852241e7d8695c1e1dcfd0489d0d516;pcUpdates:15af491333f0eac513aa3f1bc7cb5a1744800030;release_candidate:15af491333f0eac513aa3f1bc7cb5a1744800030;Multiple_NTRIP:e0785769c256d7b23fa2017a7b3fca4735990c72;]|RELEASE:[v4.4|none]
+sparkfun/Qwiic_Shield_for_Teensy_Extended: BRANCHES:[master:a14fda0aeb97974484f4fbfe8c1f3c68610a145e;]|RELEASE:[none|none]
