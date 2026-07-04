@@ -6675,3 +6675,4 @@ sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library: BRANCHES:[main:549d7d50ff038af
 sparkfun/MicroMod_ESP32_Processor: BRANCHES:[master:0faa0480023b6428aa1653dea9e5e82c78e1e742;]|RELEASE:[none|none]
 sparkfun/SparkFun_I2C_Mux_Arduino_Library: BRANCHES:[master:9f4b4000171c90d892fc74ddd7e9dda8cf2b8148;]|RELEASE:[v1.0.3|none]
 sparkfun/Qwiic_Dual_Solid_State_Relay: BRANCHES:[master:f9fa87f14ecabf325691b4dac59270415eae224c;]|RELEASE:[none|none]
+sparkfun/OpenLog_Artemis_GNSS_Logger: BRANCHES:[main:eb07a285443c74bfb7e7bbe090d0e37670ce668c;release_candidate:eb07a285443c74bfb7e7bbe090d0e37670ce668c;v2_2:ae79f33bf56e04eea7698f4173e4aa23e5a47b09;]|RELEASE:[v3.2|none]
