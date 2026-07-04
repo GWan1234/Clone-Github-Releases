@@ -12,3 +12,4 @@ ophub/flippy-openwrt-actions: BRANCHES:[main:d4b448e4bf0527bf17f41a4ba3ffc9a7156
 ophub/flippy-ubuntu-actions: BRANCHES:[main:8c0a5e2b4cb4aebb2c1eea850834034f3d53d282;]|RELEASE:[ubuntu_noble-rk-media_save_2026.05|none]
 ophub/fnnas: BRANCHES:[main:53a14da4c3331304645e5f44e556f7389d958469;]|RELEASE:[fnnas_rockchip_1253|none]
 ophub/kernel: BRANCHES:[main:bdf030c7f5d0110a162f0078cd339876c4fa09b3;]|RELEASE:[kernel_stable|none]
+ophub/linux-5.10.y: BRANCHES:[main:f1042adb4a426df32be99e64e44c0b39dbd5d030;]|RELEASE:[none|none]
