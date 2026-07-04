@@ -6741,3 +6741,4 @@ sparkfun/qwiic_button_py: BRANCHES:[main:ae48379fb895bf857b6cf24a08714d09c7aef9f
 sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library: BRANCHES:[main:5a33b0e7354682fef033322047d0963957273127;release_candidate:5a33b0e7354682fef033322047d0963957273127;]|RELEASE:[v1.0.6|none]
 sparkfun/Zio-Qwiic-Soil-Moisture-Sensor: BRANCHES:[master:0c6e9cdf7d3563f78d8fc841741ff25588b43321;]|RELEASE:[none|none]
 sparkfun/Qwiic_MultiPort: BRANCHES:[main:1642f0465f6c0009816cd416eacbf85d05a7cb45;]|RELEASE:[v10|none]
+sparkfun/qwiic_soil_moisture_sensor_py: BRANCHES:[main:8d67a0eb7f2beb7cd4057dd4041e5ab2afb8e15a;feature/packaging:319826806f9c0162054e31344418f9b80d57ef84;examples:287589e4229d353a31f5d0d321ac227513def34b;]|RELEASE:[v0.1.0_test1|none]
