@@ -6780,3 +6780,4 @@ sparkfun/SparkFun_STC3x_Arduino_Library: BRANCHES:[main:9d6b09dec3379b3a2ae0b9f5
 sparkfun/qwiic_sgp40_py: BRANCHES:[main:70074011bcf0f966ba680d8cc21bd70bf8293158;feature/packaging:a83ac051a784d27fd442de522305a4ba4843dd60;examples:133c865472bc0f15340200074597f5c801c6eecc;]|RELEASE:[2.0.0|none]
 sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library: BRANCHES:[main:93d54ff136fcca8e3c2cbf66df7f396d8fe41159;]|RELEASE:[1.0.1|none]
 sparkfun/SparkFun_Air_Velocity_Sensor_FS3000_Qwiic: BRANCHES:[main:a79ea391757d5452738816461a08b6070625e795;]|RELEASE:[none|none]
+sparkfun/Qwiic_EEPROM_Py: BRANCHES:[main:b688f6f318d3dd7fd5b39d4dfbcb1ec64c3a8d4c;]|RELEASE:[v0.0.1_test|none]
