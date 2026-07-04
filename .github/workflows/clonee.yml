@@ -99,11 +99,24 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
-          fetch_latest_release() {
-            curl -fsSL --retry 2 --max-time 15 \
-              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              "https://api.github.com/repos/$1/releases/latest" \
-              2>/dev/null || echo '{}'
+          fetch_all_releases() {
+              local repo="$1"
+              local page=1
+          
+              while true; do
+                  data=$(curl -fsSL \
+                      -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                      "https://api.github.com/repos/${repo}/releases?per_page=100&page=${page}" \
+                      2>/dev/null || echo "[]")
+          
+                  count=$(echo "$data" | jq length)
+          
+                  [[ "$count" == "0" ]] && break
+          
+                  echo "$data"
+          
+                  page=$((page+1))
+              done
           }
 
           release_exists() {
@@ -359,7 +372,7 @@ jobs:
 
             local REPO_JSON UPSTREAM_JSON
             REPO_JSON=$(fetch_repo_info "$REPO")
-            UPSTREAM_JSON=$(fetch_latest_release "$REPO")
+            ALL_RELEASES=$(fetch_all_releases "$REPO")
 
             local MIRROR EXPORT
             MIRROR="tmp/${REPO_SLUG}.git"
@@ -478,40 +491,54 @@ jobs:
             rm -f /tmp/upload_failed
             UPLOAD_PIDS=()
             
-            ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
+            echo "$ALL_RELEASES" |
+            jq -c '.[]' |
+            while read -r release; do
             
-            if [[ -n "$ASSETS_DATA" ]]; then
+                RELEASE_TAG=$(echo "$release" | jq -r '.tag_name // "no-tag"')
+            
+                echo "========== Release: $RELEASE_TAG =========="
+            
+                ASSETS_DATA=$(echo "$release" |
+                    jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
+            
+                [[ -z "$ASSETS_DATA" ]] && continue
+            
                 while read -r asset; do
                     [[ -z "$asset" ]] && continue
             
                     ASSET_NAME=$(echo "$asset" | jq -r '.name')
                     ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url')
             
-                    echo "⬇ Download $ASSET_NAME"
+                    # 防止不同 Release 有同名文件
+                    LOCAL_FILE="up-${RELEASE_TAG}-${ASSET_NAME}"
+            
+                    echo "⬇ Download ${RELEASE_TAG}/${ASSET_NAME}"
             
                     curl -LSs \
                          --retry 1 \
                          --max-time 30 \
-                         -o "up-$ASSET_NAME" \
+                         -o "$LOCAL_FILE" \
                          "$ASSET_URL" || continue
             
-                    if [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]]; then
+                    if [[ -f "$LOCAL_FILE" && -s "$LOCAL_FILE" ]]; then
             
-                        echo "⬆ Start upload $ASSET_NAME"
+                        echo "⬆ Start upload ${RELEASE_TAG}/${ASSET_NAME}"
             
                         (
-                            if ! safe_upload "up-$ASSET_NAME" "$TAG"; then
-                                echo "UPLOAD_FAILED:$ASSET_NAME" >> /tmp/upload_failed
+                            if ! safe_upload "$LOCAL_FILE" "$TAG"; then
+                                echo "UPLOAD_FAILED:${RELEASE_TAG}/${ASSET_NAME}" >> /tmp/upload_failed
                             fi
             
-                            rm -f "up-$ASSET_NAME"
+                            rm -f "$LOCAL_FILE"
                         ) &
             
                         UPLOAD_PIDS+=($!)
                     fi
             
                 done <<< "$ASSETS_DATA"
-            fi
+            
+            done
             
             echo "⏳ Waiting uploads..."
             
