@@ -6717,3 +6717,4 @@ sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[main:c9cb44d27401b96
 sparkfun/SparkFun_MicroMod_Button_Arduino_Library: BRANCHES:[master:18aa1f6d1aa6368209039d151a2dcaaf428c4525;]|RELEASE:[V1.0.0|none]
 sparkfun/Qwiic_PIR_Py: BRANCHES:[main:2a827618efee6cc0d7342718afe2cb623d686d21;]|RELEASE:[v0.0.4_test|none]
 sparkfun/SparkFun_Qwiic_PIR_Arduino_Library: BRANCHES:[master:3dde29c1c62579f5a174c351ae3b080a234e6cc5;]|RELEASE:[v1.0.0|none]
+sparkfun/SparkFun_Qwiic_pHAT_Extension: BRANCHES:[master:571793c5ad78317e58c8af851ab91404821a02da;]|RELEASE:[v1.0|none]
