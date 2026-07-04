@@ -6693,3 +6693,4 @@ sparkfun/Apollo3_Uploader_SVL: BRANCHES:[main:fc89de7f8163fe755021ca88e779e29632
 sparkfun/Apollo3_Uploader_ASB: BRANCHES:[master:454fc619ce9371016f7bbdbb875aed2e197ea1ce;add-executable-permissions:8f933a2616b9e9e8101c017bded3f1fcbe997eb5;]|RELEASE:[none|none]
 sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library: BRANCHES:[release_candidate:6ef69e5f01bf550204e2637535ec2d67f9d963ce;main:aa4e6e1cc4451099558720d0fa44bc7ae6dab082;]|RELEASE:[v1.1.2|none]
 sparkfun/Qwiic_Shield_for_Teensy: BRANCHES:[master:a15d80b1ad051e0e96849727f491e0ada6166392;]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_GPIO_Library: BRANCHES:[master:c9a3a49768e5d4b9b33f8731fb8675f460b1d799;]|RELEASE:[v1.0.0|none]
