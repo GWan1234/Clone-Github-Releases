@@ -6542,3 +6542,4 @@ sparkfun/LED_Gumball_Machine: BRANCHES:[master:b2e49d969b59bb9c244a66bc39ca57f32
 sparkfun/SparkFun_ICM-20948_ArduinoLibrary: BRANCHES:[main:32cf0614bccf0d8cff32fbc4260097ac10e5b714;release_candidate:32cf0614bccf0d8cff32fbc4260097ac10e5b714;]|RELEASE:[v1.3.2|none]
 sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015: BRANCHES:[master:55cca07b538b2c613d5f3e2119e8593b06a65cd0;]|RELEASE:[none|none]
 sparkfun/pxt-gator-environment: BRANCHES:[master:99cca7ae490f18df311281757fd65b8bc93e93df;]|RELEASE:[v1.1.1|none]
+sparkfun/pxt-gator-particle: BRANCHES:[master:2668b8dc0d69d7de43df384e633e13ae340bbca1;]|RELEASE:[v1.1.6|none]
