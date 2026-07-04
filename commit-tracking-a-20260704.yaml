@@ -6568,3 +6568,4 @@ sparkfun/Qwiic_Micro_OLED_Py: BRANCHES:[main:c8e28313e50278649ba308fe26abd6c1834
 sparkfun/Qwiic_CCS811_Py: BRANCHES:[main:927f7ab7356b5e53977adcee644527462cfd4280;]|RELEASE:[v0.9.4_test|none]
 sparkfun/qwiic_bme280_py: BRANCHES:[main:c4576cc1450ffecff64535b7948d509ac690127d;feature/packaging:2e084bc19c90b4f04ba9b58a8ac617b324684453;examples:d64cb87f76f4f08d020fd15186b355ea886ab5b5;]|RELEASE:[2.0.0|none]
 sparkfun/qwiic_scmd_py: BRANCHES:[main:000a59be0386a3edec5a7e62233d72239415a67c;documentation/doxygen:78e5b2bbdb8856cf0ca6854e11bedd7b67d0e330;examples:5c7572175d459eead19013cacbbbf2a3036b4e7a;]|RELEASE:[2.0.0|none]
+sparkfun/Qwiic_Py: BRANCHES:[main:4f9c155be5faed1ccf639a88547de6661780751e;feature/circup:9bd30b8e5427721e6c0082a76de1b0ab58cf5f9b;master:89f6b738e7ef32269968f4ac167a1cf8f58a0ecd;]|RELEASE:[20260227|none]
