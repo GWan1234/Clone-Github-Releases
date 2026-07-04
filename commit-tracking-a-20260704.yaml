@@ -6583,3 +6583,4 @@ sparkfun/qwiic_joystick_py: BRANCHES:[main:e0c0750c74889fecc59b3dd3114560409cd66
 sparkfun/qwiic_twist_py: BRANCHES:[main:2264fa3da11af4abb6a8a69ae969e4a57630e7cd;feature/packaging:466caf96f9baaedc7d3c10f386eb18de825e0e3c;examples:a8bf15efbef5ba1c30e726ea4712c613d890f824;]|RELEASE:[2.0.0|none]
 sparkfun/Resistance_Combinator_Calculator: BRANCHES:[master:978a57c5279fc296f5107eb17bb22f73ad60ebcd;]|RELEASE:[none|none]
 sparkfun/gator_rtc: BRANCHES:[master:9c38f83285469dc08de33d3cf699717f76fd073c;]|RELEASE:[none|none]
+sparkfun/pxt-gator-rtc: BRANCHES:[master:8671a2182e1c1788ef19732ffcd193a6699e9ea3;]|RELEASE:[v1.1.2|none]
