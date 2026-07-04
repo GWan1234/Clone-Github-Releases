@@ -6633,3 +6633,4 @@ sparkfun/SparkFun_Qwiic_Step_Arduino_Library: BRANCHES:[master:e23010718d2479dde
 sparkfun/Qwiic_Shield_for_Thing_Plus: BRANCHES:[master:26523aafaf95794cf9267ab92b335a4eb9c39a33;]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Arduino_Nano: BRANCHES:[master:bd9cd174a271141502910d72a820f872c3cf77d8;]|RELEASE:[none|none]
 sparkfun/SparkFun_External_EEPROM_Arduino_Library: BRANCHES:[main:1e8054fc461842f72f794ce46df44a62a103bb65;v3RollBack:6fc4ff089d2caa4458a74e3fb5114b4ac1494e24;AutoDetect:a7bef83d61d1863190d0512faed1e67112ef6a86;]|RELEASE:[v3.2.13|none]
+sparkfun/Secure-DIY-garage-door-opener: BRANCHES:[master:fa6d13834882612e31b69d008f4f7e0e5686260f;]|RELEASE:[none|none]
