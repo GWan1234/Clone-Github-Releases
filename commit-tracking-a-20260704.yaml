@@ -6794,3 +6794,4 @@ sparkfun/SparkFun_FS3000_Arduino_Library: BRANCHES:[main:bd09c1659140b2dc00e42ed
 sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library: BRANCHES:[main:0647c2ba1d2e570afe753e9cd126dc130c244721;]|RELEASE:[v2.0.5|none]
 sparkfun/SparkFun_MicroMod_Main_Board_Single: BRANCHES:[main:37b0a2d5c3d4cd9e55b0dee6b308041d89bfa151;]|RELEASE:[v1.1|none]
 sparkfun/SparkFun_MicroMod_Main_Board_Double: BRANCHES:[main:78a13d44dbfcab0c000adbd0bd60dc79cd5eecfb;]|RELEASE:[v1.1|none]
+sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882;]|RELEASE:[none|none]
