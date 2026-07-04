@@ -106,6 +106,27 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
+          fetch_all_releases() {
+              local repo="$1"
+              local page=1
+              local all="[]"
+
+              while true; do
+                  data=$(curl -fsSL \
+                      -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                      "https://api.github.com/repos/${repo}/releases?per_page=100&page=${page}" \
+                      2>/dev/null || echo "[]")
+
+                  local count
+                  count=$(echo "$data" | jq 'length')
+                  [[ "$count" == "0" ]] && break
+
+                  all=$(echo "$all" | jq --argjson page "$data" '. + $page')
+                  page=$((page + 1))
+              done
+              echo "$all"
+          }
+
           release_exists() {
             gh release view "$1" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1
           }
@@ -357,9 +378,10 @@ jobs:
               gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
             fi
 
-            local REPO_JSON UPSTREAM_JSON
+            local REPO_JSON UPSTREAM_JSON ALL_RELEASES
             REPO_JSON=$(fetch_repo_info "$REPO")
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
+            ALL_RELEASES=$(fetch_all_releases "$REPO")
 
             local MIRROR EXPORT
             MIRROR="tmp/${REPO_SLUG}.git"
@@ -468,59 +490,50 @@ jobs:
               fi
             done
 
-            # ===== 初始化后台上传 =====
+            # ===== 备份所有 Release 资产 =====
+            echo "🔗 Syncing ALL upstream releases..."
             UPLOAD_PIDS=()
             rm -f /tmp/upload_failed
 
-            # 下载上游 Release 资产（若存在）
-            echo "🔗 Syncing upstream assets..."
-            
-            rm -f /tmp/upload_failed
-            UPLOAD_PIDS=()
-            
-            ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
-            
-            if [[ -n "$ASSETS_DATA" ]]; then
+            echo "$ALL_RELEASES" | jq -c '.[]' 2>/dev/null | while read -r release; do
+                RELEASE_TAG=$(echo "$release" | jq -r '.tag_name // "unknown"')
+                echo "-------- Processing release: $RELEASE_TAG --------"
+
+                ASSETS_DATA=$(echo "$release" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
+                [[ -z "$ASSETS_DATA" ]] && continue
+
                 while read -r asset; do
                     [[ -z "$asset" ]] && continue
-            
+
                     ASSET_NAME=$(echo "$asset" | jq -r '.name')
                     ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url')
-            
-                    echo "⬇ Download $ASSET_NAME"
-            
-                    curl -LSs \
-                         --retry 1 \
-                         --max-time 30 \
-                         -o "up-$ASSET_NAME" \
-                         "$ASSET_URL" || continue
-            
-                    if [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]]; then
-            
-                        echo "⬆ Start upload $ASSET_NAME"
-            
+
+                    LOCAL_FILE="up-${RELEASE_TAG}-${ASSET_NAME}"
+
+                    echo "⬇ Download: ${RELEASE_TAG}/${ASSET_NAME}"
+                    curl -LSs --retry 1 --max-time 30 -o "$LOCAL_FILE" "$ASSET_URL" || continue
+
+                    if [[ -f "$LOCAL_FILE" && -s "$LOCAL_FILE" ]]; then
+                        echo "⬆ Upload: $LOCAL_FILE → release $TAG"
                         (
-                            if ! safe_upload "up-$ASSET_NAME" "$TAG"; then
-                                echo "UPLOAD_FAILED:$ASSET_NAME" >> /tmp/upload_failed
+                            if ! safe_upload "$LOCAL_FILE" "$TAG"; then
+                                echo "UPLOAD_FAILED:${RELEASE_TAG}/${ASSET_NAME}" >> /tmp/upload_failed
                             fi
-            
-                            rm -f "up-$ASSET_NAME"
+                            rm -f "$LOCAL_FILE"
                         ) &
-            
                         UPLOAD_PIDS+=($!)
                     fi
-            
                 done <<< "$ASSETS_DATA"
-            fi
-            
-            echo "⏳ Waiting uploads..."
-            
+            done
+
+            echo "⏳ Waiting for all uploads..."
             for pid in "${UPLOAD_PIDS[@]}"; do
                 wait "$pid"
             done
-            
+
             if [[ -f /tmp/upload_failed ]]; then
                 error_occurred=1
+                echo "❌ Some uploads failed:"
                 cat /tmp/upload_failed
             fi
 
