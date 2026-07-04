@@ -6790,3 +6790,4 @@ sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic: BRANCHES:[v23:8f9522802bf6c51
 sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic: BRANCHES:[main:31cb105d70fa07023cc52af5751763bbcf8a5098;]|RELEASE:[none|none]
 sparkfun/SparkFun_smol_Power_Board_Arduino_Library: BRANCHES:[main:612682c89f1367c385f8294ba36b32396cf0cc00;]|RELEASE:[v1.0.0|none]
 sparkfun/WiFi_Shield-DA16200: BRANCHES:[main:666bf4fa6d174fb9174f67ab90e258321f6d84b6;]|RELEASE:[none|none]
+sparkfun/SparkFun_FS3000_Arduino_Library: BRANCHES:[main:bd09c1659140b2dc00e42edd693e7a8007bea176;]|RELEASE:[v1.0.5|none]
