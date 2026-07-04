@@ -6648,3 +6648,4 @@ sparkfun/Qwiic_Dual_Encoder_Reader: BRANCHES:[master:35ee9986eb7ca87046124adcf04
 sparkfun/Temperature_Sensor_TMP102_Qwiic: BRANCHES:[master:24c9eabdab49e98ae49cbbc4b0808b097c4f4112;]|RELEASE:[none|none]
 sparkfun/SparkFun_RV-8803_Arduino_Library: BRANCHES:[main:f0edcf87963e08126aeca20a36db9a5c845cfa5b;release_candidate:6ae28e3221e90334a2fa5f84d7f00fb470573abc;get_epoch_fix:daa80375f705b6882d4bba54455d3909e9bd0465;]|RELEASE:[v1.2.10|none]
 sparkfun/SparkFun_STUSB4500_Arduino_Library: BRANCHES:[master:7f76188b7900d930aeb7908319d463b6446257c6;]|RELEASE:[V1.1.5|none]
+sparkfun/qwiic_9dof_imu_icm20948_py: BRANCHES:[main:d37eebca6a4e0d9dc973fb3efc83bb2e24a72762;feature/packaging:d37f1c504971654c4eea51a0a0e3fa2c1f62811b;examples:b2f668a02c55d4a4fccf2014a4badc05c997e20e;]|RELEASE:[2.0.1|none]
