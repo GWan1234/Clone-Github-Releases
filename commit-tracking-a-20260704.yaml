@@ -6715,3 +6715,4 @@ sparkfun/Qwiic_ADXL313_Py: BRANCHES:[main:06ea84251145c54cfa0fb05f876b6cd840bf44
 sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c91f639babe04baff3c45;]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[main:c9cb44d27401b968b1ef7cf6f63e487447b3155a;release_candidate:81d88f248aaa9c4bb92ae3a3a2b05a86cecb42fb;]|RELEASE:[v1.1.13|none]
 sparkfun/SparkFun_MicroMod_Button_Arduino_Library: BRANCHES:[master:18aa1f6d1aa6368209039d151a2dcaaf428c4525;]|RELEASE:[V1.0.0|none]
+sparkfun/Qwiic_PIR_Py: BRANCHES:[main:2a827618efee6cc0d7342718afe2cb623d686d21;]|RELEASE:[v0.0.4_test|none]
