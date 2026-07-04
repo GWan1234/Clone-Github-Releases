@@ -6678,3 +6678,4 @@ sparkfun/Qwiic_Dual_Solid_State_Relay: BRANCHES:[master:f9fa87f14ecabf325691b4da
 sparkfun/OpenLog_Artemis_GNSS_Logger: BRANCHES:[main:eb07a285443c74bfb7e7bbe090d0e37670ce668c;release_candidate:eb07a285443c74bfb7e7bbe090d0e37670ce668c;v2_2:ae79f33bf56e04eea7698f4173e4aa23e5a47b09;]|RELEASE:[v3.2|none]
 sparkfun/MicroMod_Processor_Board-nRF52840: BRANCHES:[master:7a1c2d0b182387b921881dc82a0847555e982bbf;]|RELEASE:[none|none]
 sparkfun/MicroMod_ATP_Carrier_Board: BRANCHES:[master:9750d65ca0fdd4164fbac93a9b1ebcec7b615f11;]|RELEASE:[v1.1|none]
+sparkfun/SparkFun_ProDriver_TC78H670FTG: BRANCHES:[master:fdb838258660af9c383c6d4891626c59fbfcd573;]|RELEASE:[none|none]
