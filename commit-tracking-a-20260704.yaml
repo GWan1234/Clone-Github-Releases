@@ -6752,3 +6752,4 @@ sparkfun/SparkFun_u-blox_MAX-M10S: BRANCHES:[gh-pages:27cbc24150a830726ba5862219
 sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library: BRANCHES:[main:4addc5ffd7cb71a0481aee259ab85c232aa92afe;future_examples:ba6e4f656a69ef2773727047cbad91050589c255;]|RELEASE:[v1.0.4|none]
 sparkfun/QuickLogic_Thing_Plus: BRANCHES:[main:07d226cfc7c69327714011948f35a965764fa982;]|RELEASE:[none|none]
 sparkfun/QwiicBus_MidPoint: BRANCHES:[main:4a813ba1ff6069cf9f8473cf5f2bc29935edf28c;master:8b8e9763f2b60376332f38a8365a87f4c9d9278b;]|RELEASE:[none|none]
+sparkfun/SparkFun_QwiicNES_Arduino_Library: BRANCHES:[main:2a938dbcc7e4bedcf2b933e4c9b54996df7b2070;]|RELEASE:[V_1.0.0|none]
