@@ -6673,3 +6673,4 @@ sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library: BRANCHES:[main:318c61d70f97471f
 sparkfun/SparkFun_PHT_MS8607_Arduino_Library: BRANCHES:[main:ff730a72e3126df5ff3838b9ff3f9ee4a0e96741;]|RELEASE:[v1.0.5|none]
 sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library: BRANCHES:[main:549d7d50ff038afb110b776264080c3a2875e770;release_candidate:9fd48f03bb08a1589a96b6189b6715986a714489;]|RELEASE:[v3.1.0|none]
 sparkfun/MicroMod_ESP32_Processor: BRANCHES:[master:0faa0480023b6428aa1653dea9e5e82c78e1e742;]|RELEASE:[none|none]
+sparkfun/SparkFun_I2C_Mux_Arduino_Library: BRANCHES:[master:9f4b4000171c90d892fc74ddd7e9dda8cf2b8148;]|RELEASE:[v1.0.3|none]
