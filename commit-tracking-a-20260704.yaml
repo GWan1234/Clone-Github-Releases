@@ -6572,3 +6572,4 @@ sparkfun/Qwiic_Py: BRANCHES:[main:4f9c155be5faed1ccf639a88547de6661780751e;featu
 sparkfun/jetbot: BRANCHES:[update-SparkFun_hardware:13ea551e9733bca763e68e2f90dc7bdbc7411886;update-Docker:2c60c8365ebfe6ba9e07f33ad98aa3b81cc222ca;Nvidia-Upstream:a6de6e92d2e13962347e9b338f43534fac634f57;main:607eb2378d32dc7ffa3ee1408501d12d73310d47;]|RELEASE:[v0.0.3|none]
 sparkfun/SparkFun_Qwiic_Relay_Arduino_Library: BRANCHES:[master:b2e617e907f89cb23115a0aeec848dd5406c953f;]|RELEASE:[v1.3.1|none]
 sparkfun/RedBoard_Artemis_Nano: BRANCHES:[master:2e62061e8ccc0fd7359bf5a990b46df76c59b5bc;]|RELEASE:[none|none]
+sparkfun/RedBoard_Artemis_ATP: BRANCHES:[master:3490ebb1f6841a20e3cfba503f3beb3c6d6553ad;]|RELEASE:[none|none]
