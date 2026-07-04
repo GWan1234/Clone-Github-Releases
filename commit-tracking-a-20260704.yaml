@@ -6713,3 +6713,4 @@ sparkfun/ESP32_Thing_Plus_U.FL: BRANCHES:[SkeleBoard:bf424a7f526a9265d2bdca4d91b
 sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa;]|RELEASE:[v1.0.0|none]
 sparkfun/Qwiic_ADXL313_Py: BRANCHES:[main:06ea84251145c54cfa0fb05f876b6cd840bf4404;example4:ee7c7ddeaddcbbb9915d65cb905373635e099e37;]|RELEASE:[v0.0.6_test|none]
 sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c91f639babe04baff3c45;]|RELEASE:[none|none]
+sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[main:c9cb44d27401b968b1ef7cf6f63e487447b3155a;release_candidate:81d88f248aaa9c4bb92ae3a3a2b05a86cecb42fb;]|RELEASE:[v1.1.13|none]
