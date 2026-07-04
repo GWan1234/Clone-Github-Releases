@@ -6585,3 +6585,4 @@ sparkfun/Resistance_Combinator_Calculator: BRANCHES:[master:978a57c5279fc296f510
 sparkfun/gator_rtc: BRANCHES:[master:9c38f83285469dc08de33d3cf699717f76fd073c;]|RELEASE:[none|none]
 sparkfun/pxt-gator-rtc: BRANCHES:[master:8671a2182e1c1788ef19732ffcd193a6699e9ea3;]|RELEASE:[v1.1.2|none]
 sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c204fd86e037201;]|RELEASE:[none|none]
+sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC508A_Qwiic: BRANCHES:[master:da869f8ba6f81d4b27afae658ca783c68a12dfaa;]|RELEASE:[none|none]
