@@ -19,3 +19,4 @@ ophub/linux-6.1.y: BRANCHES:[main:8e1e1c38bf640c9d64ad37cd6d27a389cc5c86be;]|REL
 ophub/linux-6.1.y-rockchip: BRANCHES:[main:5957105d65aaf261cebbdef7f42027719892482c;]|RELEASE:[none|none]
 ophub/linux-6.12.y: BRANCHES:[main:8015eed87df0f085f7ad14a71dfbbcf140a20c08;]|RELEASE:[none|none]
 ophub/linux-6.18.y: BRANCHES:[main:f28008e7468a79e0159895eb409840673563ac2c;]|RELEASE:[none|none]
+ophub/linux-6.6.y: BRANCHES:[main:19bdc70bb47b7524dcb91d01d9f07c6905dce70e;]|RELEASE:[none|none]
