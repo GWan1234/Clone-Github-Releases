@@ -6733,3 +6733,4 @@ sparkfun/MicroMod_Qwiic_Carrier: BRANCHES:[main:78179683f97ab28fa30ae4ef2dbc2a3c
 sparkfun/SparkFun_Pro_Micro-RP2040: BRANCHES:[main:6d461a6c0654f616d3c3a9033668a68160f70fcb;]|RELEASE:[none|none]
 sparkfun/SparkFun_SGP40_Arduino_Library: BRANCHES:[main:91cb5514368d8cfc0f18f25c55a33a6ca971fac9;release_candidate:e338867a0cbae89eef0944e989ac45a804176f0a;]|RELEASE:[v1.0.4|none]
 sparkfun/qwiic_rfid_py: BRANCHES:[main:8a751d8087120ba643944f51de7b6a77ac35e41f;feature/packaging:7f5e79bf4d2f4dc0ffd13b322ff693ff9a9d5e64;examples:9d467a34d11b55cc4373e08ac7a535eb73201f64;]|RELEASE:[2.1.1|none]
+sparkfun/SparkFun_RTK_Facet: BRANCHES:[main:47aa0abf364b5d41a1568778cb3abd4f2d598c22;]|RELEASE:[none|none]
