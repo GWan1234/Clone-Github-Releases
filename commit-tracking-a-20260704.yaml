@@ -6720,3 +6720,4 @@ sparkfun/SparkFun_Qwiic_PIR_Arduino_Library: BRANCHES:[master:3dde29c1c62579f5a1
 sparkfun/SparkFun_Qwiic_pHAT_Extension: BRANCHES:[master:571793c5ad78317e58c8af851ab91404821a02da;]|RELEASE:[v1.0|none]
 sparkfun/SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library: BRANCHES:[main:6ea1765a513dde65e433dde12a70fced73b65fed;release_candidate:636247facd653c533f8ac6b85e4d261d323d2409;]|RELEASE:[v1.0.4|none]
 sparkfun/MicroMod_GNSS_F9P_Carrier_Board: BRANCHES:[master:2b6502c6f013c03bbc9fe09d61b52ae71362f4d5;]|RELEASE:[none|none]
+sparkfun/Qwiic_KX13X: BRANCHES:[main:ba21595631d4ae07b4a7ffea6b1e4826ace2783b;]|RELEASE:[none|none]
