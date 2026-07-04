@@ -6671,3 +6671,4 @@ sparkfun/qwiic_max3010x_py: BRANCHES:[main:f948e6ec9238cc0ac803acc32b009c8fcd669
 sparkfun/MicroMod_Data_Logging_Carrier: BRANCHES:[master:6fe06a666a75f88c87da4ac8711085090e21e1c0;]|RELEASE:[none|none]
 sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library: BRANCHES:[main:318c61d70f97471fc6129a13d476147aa6f9acb3;release_candidate:a50b31d8689bb6760aff29079a8e042c53f56488;]|RELEASE:[v1.0.4|none]
 sparkfun/SparkFun_PHT_MS8607_Arduino_Library: BRANCHES:[main:ff730a72e3126df5ff3838b9ff3f9ee4a0e96741;]|RELEASE:[v1.0.5|none]
+sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library: BRANCHES:[main:549d7d50ff038afb110b776264080c3a2875e770;release_candidate:9fd48f03bb08a1589a96b6189b6715986a714489;]|RELEASE:[v3.1.0|none]
