@@ -6757,3 +6757,4 @@ sparkfun/Zio-Qwiic-Ultrasonic-Distance-Sensor: BRANCHES:[master:83b7207c626b1ece
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:b6f08e5355aa6a39e03698d2b18f341e36a3aaf8;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e;]|RELEASE:[v20|none]
 sparkfun/Raspberry-Pi-Safe-Reboot-and-Shutdown-Button: BRANCHES:[main:604bbf82005c364f98848b41c4c28e21e1ef162d;]|RELEASE:[none|none]
 sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC608A_Qwiic: BRANCHES:[main:a9a339c4b7ac3794252c8a24e5d9b2c1dacdae88;]|RELEASE:[none|none]
+sparkfun/SparkFun_TMF8801_Arduino_Library: BRANCHES:[main:3e6a951dd96db48784c1c19b520ebaa1ada273ef;]|RELEASE:[1.0.0|none]
