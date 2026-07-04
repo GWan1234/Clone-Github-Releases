@@ -6651,3 +6651,4 @@ sparkfun/SparkFun_STUSB4500_Arduino_Library: BRANCHES:[master:7f76188b7900d930ae
 sparkfun/qwiic_9dof_imu_icm20948_py: BRANCHES:[main:d37eebca6a4e0d9dc973fb3efc83bb2e24a72762;feature/packaging:d37f1c504971654c4eea51a0a0e3fa2c1f62811b;examples:b2f668a02c55d4a4fccf2014a4badc05c997e20e;]|RELEASE:[2.0.1|none]
 sparkfun/Artemis-Firmware-Upload-GUI: BRANCHES:[master:876d7decda7099ace3c12750203a90af5e6bc56f;develop:8dc04839cd6e4f6d4c9861ed6f5f06c9d90d6952;]|RELEASE:[v3.1.0|none]
 sparkfun/Qwiic_Dual_Encoder_Reader_Py: BRANCHES:[main:f0f323f74181500f10a3e18c59b0c089803e119a;]|RELEASE:[v0.0.2_test|none]
+sparkfun/Top_pHAT_Button_Py: BRANCHES:[main:da24cc9e6c2a49b00d7d4a8831086aebc81791de;]|RELEASE:[v0.0.2_test|none]
