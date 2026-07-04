@@ -49,12 +49,15 @@ exclude:
 repositories:
   name0:
     - sing-box
+    - project-cpe
 
   repo0:
     - SagerNet/sing-box
+    - 1orz/project-cpe
 
   source0:
     - https://github.com/SagerNet/sing-box
+    - https://github.com/1orz/project-cpe
 
   name1:
     - mihomo
