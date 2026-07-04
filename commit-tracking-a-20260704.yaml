@@ -6623,3 +6623,4 @@ sparkfun/qwiic_vl53l1x_py: BRANCHES:[master:58ae3bae3489bfeb0ec26e69e6b44ed03b6d
 sparkfun/OpenLog_Artemis: BRANCHES:[GNSS_v3:d51e7052e1ba037ed20c877dbf0620d9ff7e8851;main:f9c8e66b7da6f27a4bf9be55016c5b9231b9fb22;release_candidate:f9c8e66b7da6f27a4bf9be55016c5b9231b9fb22;Initial_BLE_Support:f777b22d115c64cc2e288f6d03b26d32b83f7446;Adding_BNO080:7a781859a13e9317dd2cc6110e5cc79d8f11aecb;]|RELEASE:[v2.11|none]
 sparkfun/artemis_dev_platform: BRANCHES:[master:f2836b9d17fff9874828460ba668077e1afa3fda;]|RELEASE:[none|none]
 sparkfun/Tensorflow_AIOT2019: BRANCHES:[master:9f63021b093c43259278f662b7fab0de2a7c1ffc;add-getting-started:06cbadf2d04ecf00287abe5fc90471c69249fa08;]|RELEASE:[none|none]
+sparkfun/SparkFun_HM01B0_Camera_ArduinoLibrary: BRANCHES:[master:b5bc984206977631646a18ba9d652aece1c7d518;AddMicroMod:bf261d2e37a7d48b0328b7a43f2d62449ac0f12c;]|RELEASE:[none|none]
