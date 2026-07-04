@@ -6766,3 +6766,4 @@ sparkfun/RedBoard_Plus: BRANCHES:[main:74fe1f86ad605d7921c7d4fddd09638d498ec48d;
 sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library: BRANCHES:[main:205a12b342be4e9e59dd8e8c27de1ad8d20ecf51;]|RELEASE:[v1.0.4|none]
 sparkfun/SparkFun_USB251x_Arduino_Library: BRANCHES:[main:0845f4710e2df6b0894d84300c8f99d782d46ba7;]|RELEASE:[v1.0.0|none]
 sparkfun/DE2120_Py: BRANCHES:[main:abcdae7e6cbbdbe1112eb843b4a39140c17ac1b9;]|RELEASE:[none|none]
+sparkfun/qwiic_oled_base_py: BRANCHES:[feature/add_1in5_display:d94774c1c4a97af38cd4651ff767267951e8f425;main:bc1cda28377f2503fe26a1f1e3000abdd4800f5f;refactor/micropython:ca464172248c24e157e451cd6e4f4ab08b22cbe6;examples:3c0619e677e45062759c46cc19cb819017e83701;setcontrast-value:f349c7223974e50bb6c80791fc4f3ea16d8a23a2;]|RELEASE:[2.0.1|none]
