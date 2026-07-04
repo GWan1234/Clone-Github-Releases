@@ -6561,3 +6561,4 @@ sparkfun/SFE_LFS: BRANCHES:[master:973aee45e27b2585aab88ce176bdd48b8094151f;]|RE
 sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280: BRANCHES:[master:14709d3629313938035690e38a8976b03e06c1bb;]|RELEASE:[none|none]
 sparkfun/SparkFun-Fuse-Breakout-Board: BRANCHES:[master:526d33c8303134d5639abc017108f413ee883dc2;]|RELEASE:[none|none]
 sparkfun/Qwiic-Kit-for-Pi: BRANCHES:[main:f89c21117f9cc7dbc44df1f4d4a68bcb09ed2217;]|RELEASE:[v1|none]
+sparkfun/Qwiic_Motor_Driver: BRANCHES:[master:4ee98aac48f8d30d6c53dfdcd220d1536cd5a5a3;]|RELEASE:[none|none]
