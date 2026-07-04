@@ -6622,3 +6622,4 @@ sparkfun/Non-Addressable_RGB_LED_Strip_Code: BRANCHES:[master:fb341603878651b33c
 sparkfun/qwiic_vl53l1x_py: BRANCHES:[master:58ae3bae3489bfeb0ec26e69e6b44ed03b6d37c7;documentation/doxygen:080ef03f27b0b2d23f34c576f915df72789dcc73;examples:a70f281cc64dcbefe6cb5a0e027eaafd60595e6f;]|RELEASE:[2.0.0|none]
 sparkfun/OpenLog_Artemis: BRANCHES:[GNSS_v3:d51e7052e1ba037ed20c877dbf0620d9ff7e8851;main:f9c8e66b7da6f27a4bf9be55016c5b9231b9fb22;release_candidate:f9c8e66b7da6f27a4bf9be55016c5b9231b9fb22;Initial_BLE_Support:f777b22d115c64cc2e288f6d03b26d32b83f7446;Adding_BNO080:7a781859a13e9317dd2cc6110e5cc79d8f11aecb;]|RELEASE:[v2.11|none]
 sparkfun/artemis_dev_platform: BRANCHES:[master:f2836b9d17fff9874828460ba668077e1afa3fda;]|RELEASE:[none|none]
+sparkfun/Tensorflow_AIOT2019: BRANCHES:[master:9f63021b093c43259278f662b7fab0de2a7c1ffc;add-getting-started:06cbadf2d04ecf00287abe5fc90471c69249fa08;]|RELEASE:[none|none]
