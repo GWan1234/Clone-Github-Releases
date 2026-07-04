@@ -6614,3 +6614,4 @@ sparkfun/Qwiic_FM_Transceiver_Si4721: BRANCHES:[master:2b7bdbd08b28164e3bf4c4021
 sparkfun/Qwiic_Ublox_Gps_Py: BRANCHES:[master:bab7abe93c5a1f1904f761e87ee276d1ab9a153f;update_lib_v1.2.0:d7c054520982bf3571359157ed916d2ff1cc8eb3;]|RELEASE:[v1.1.4_test|none]
 sparkfun/Qwiic_Pi_SHIM: BRANCHES:[master:b1803830bd5c8b9f264a86ea724303ac92b6563b;]|RELEASE:[none|none]
 sparkfun/SparkFun_LIDARLitev4_Arduino_Library: BRANCHES:[main:c14a89e95be39626671b1934e53eb35694835c8e;]|RELEASE:[v1.2.4|none]
+sparkfun/SparkFun_GPS_Dead_Reckoning_PHat_ZED-F9R: BRANCHES:[master:f906b7abcc22a6d168fd2b3d6677733136ddade9;]|RELEASE:[v1.1|none]
