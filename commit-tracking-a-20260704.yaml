@@ -6590,3 +6590,4 @@ sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc
 sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library: BRANCHES:[main:871796a88897811227261d5cb3cd0baf0c2fe70d;master:993c9b70994bf95e8a060b3ca32ab3fc11a93927;]|RELEASE:[v2.2.11|none]
 sparkfun/SparkFun_Pulsed_Radar_Breakout_A111: BRANCHES:[master:5f4d608a017d88721af725bd75d14d3e65de6438;]|RELEASE:[v1.1|none]
 sparkfun/Red_V: BRANCHES:[master:5a6ec4cebf5964b0f90b9e00a935603ce863242e;]|RELEASE:[none|none]
+sparkfun/Artemis_Thing_Plus: BRANCHES:[master:fc9612da34b751c9c8a5c7f041443c914a42a65d;]|RELEASE:[none|none]
