@@ -6587,3 +6587,4 @@ sparkfun/pxt-gator-rtc: BRANCHES:[master:8671a2182e1c1788ef19732ffcd193a6699e9ea
 sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c204fd86e037201;]|RELEASE:[none|none]
 sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC508A_Qwiic: BRANCHES:[master:da869f8ba6f81d4b27afae658ca783c68a12dfaa;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc7ded513bf42aef665627858d1;]|RELEASE:[v2.0.6|none]
+sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library: BRANCHES:[main:871796a88897811227261d5cb3cd0baf0c2fe70d;master:993c9b70994bf95e8a060b3ca32ab3fc11a93927;]|RELEASE:[v2.2.11|none]
