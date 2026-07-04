@@ -23,3 +23,4 @@ ophub/linux-6.6.y: BRANCHES:[main:19bdc70bb47b7524dcb91d01d9f07c6905dce70e;]|REL
 ophub/linux-h6-6.6.y: BRANCHES:[main:3876438db7086039438e321419a360a9462098ab;]|RELEASE:[none|none]
 ophub/luci-app-amlogic: BRANCHES:[lua:f15dbc8ba3c5fbe5e2d472a8ad2fecc4a2b556c8;main:de4f7b1f16be1ce031c5eb0452ab7dcafd7a1dbb;]|RELEASE:[3.1.319-js|none]
 ophub/u-boot: BRANCHES:[main:762a52a0fd97ce029f4af298bf4c5333a7526313;]|RELEASE:[v2026.05.20|none]
+ophub/upload-to-releases: BRANCHES:[main:6c2b2b563a1bcc80f61b97dacc16781eb40475dd;]|RELEASE:[v0.1.0|none]
