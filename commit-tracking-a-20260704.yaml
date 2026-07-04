@@ -6580,3 +6580,4 @@ sparkfun/Qwiic_Template_Py: BRANCHES:[refactor/new_style:9c10bb8742eead36627e86c
 sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library: BRANCHES:[master:efde0817bd6857863067bd1653a2cfafe6c68732;]|RELEASE:[1.0.4|none]
 sparkfun/qwiic_keypad_py: BRANCHES:[main:90d17678b61c815fe1a522985dc9f0bb95482f8d;feature/packaging:03d99d404d3e4c26752a39198c7d05565177eae8;examples:a40cff87a0d5bb9c6a1a51507a82bc29955bddfa;]|RELEASE:[2.0.0|none]
 sparkfun/qwiic_joystick_py: BRANCHES:[main:e0c0750c74889fecc59b3dd3114560409cd665e1;feature/packaging:9a98907885e1ae6a15e864c858bbba19fbfef607;examples:8430253909bf8cac4a9eaf31711af3a02aa234a9;]|RELEASE:[2.0.0|none]
+sparkfun/qwiic_twist_py: BRANCHES:[main:2264fa3da11af4abb6a8a69ae969e4a57630e7cd;feature/packaging:466caf96f9baaedc7d3c10f386eb18de825e0e3c;examples:a8bf15efbef5ba1c30e726ea4712c613d890f824;]|RELEASE:[2.0.0|none]
