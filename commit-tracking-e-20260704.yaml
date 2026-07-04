@@ -5,3 +5,4 @@ exclude:
   - armbian/cache
   - armbian/community
 ophub/amlogic-s9xxx-armbian: BRANCHES:[main:87c6e6f170a3098b514c9a141db11e43caa060e8;]|RELEASE:[Armbian_resolute_arm64_server_2026.07|none]
+ophub/amlogic-s9xxx-openwrt: BRANCHES:[main:55df72083e5dce7937b2465974f7d28c3500ae1d;]|RELEASE:[OpenWrt_openwrt_main_save_2026.07|none]
