@@ -6763,3 +6763,4 @@ sparkfun/qwiic_kx13x_py: BRANCHES:[main:46fd4c4d1dc6b002da46eeb231b8581b1f62b689
 sparkfun/QwiicBus_EndPoint: BRANCHES:[main:4e79187c4bd47fad1128c5e7f99eec37661c2d2f;]|RELEASE:[none|none]
 sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library: BRANCHES:[main:fd4374a6b1ee9ab38c4041f2044c05afb15affe9;release_candidate:cc285f0d59ef9b44cedf825b26a5752974b7408c;]|RELEASE:[v1.0.3|none]
 sparkfun/RedBoard_Plus: BRANCHES:[main:74fe1f86ad605d7921c7d4fddd09638d498ec48d;]|RELEASE:[none|none]
+sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library: BRANCHES:[main:205a12b342be4e9e59dd8e8c27de1ad8d20ecf51;]|RELEASE:[v1.0.4|none]
