@@ -6579,3 +6579,4 @@ sparkfun/SparkFun_MCP9600_Arduino_Library: BRANCHES:[master:399d721629fc5f10fc8a
 sparkfun/Qwiic_Template_Py: BRANCHES:[refactor/new_style:9c10bb8742eead36627e86cfbd66e12bec5dc6eb;master:e0003d2e3ac8662f48aaa90afa60888bba3560e2;generic_template_refactor:51bae3d3ff30bb85052085a1897e623345349154;]|RELEASE:[none|none]
 sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library: BRANCHES:[master:efde0817bd6857863067bd1653a2cfafe6c68732;]|RELEASE:[1.0.4|none]
 sparkfun/qwiic_keypad_py: BRANCHES:[main:90d17678b61c815fe1a522985dc9f0bb95482f8d;feature/packaging:03d99d404d3e4c26752a39198c7d05565177eae8;examples:a40cff87a0d5bb9c6a1a51507a82bc29955bddfa;]|RELEASE:[2.0.0|none]
+sparkfun/qwiic_joystick_py: BRANCHES:[main:e0c0750c74889fecc59b3dd3114560409cd665e1;feature/packaging:9a98907885e1ae6a15e864c858bbba19fbfef607;examples:8430253909bf8cac4a9eaf31711af3a02aa234a9;]|RELEASE:[2.0.0|none]
