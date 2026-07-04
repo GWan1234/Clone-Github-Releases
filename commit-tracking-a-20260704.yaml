@@ -6760,3 +6760,4 @@ sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC608A_Qwiic: BRANCHES:
 sparkfun/SparkFun_TMF8801_Arduino_Library: BRANCHES:[main:3e6a951dd96db48784c1c19b520ebaa1ada273ef;]|RELEASE:[1.0.0|none]
 sparkfun/SparkFun_AS7341X_Arduino_Library: BRANCHES:[main:2ab473d8fa2e12d3cef85eb53f9c98fc16e4b0d7;]|RELEASE:[1.0.0|none]
 sparkfun/qwiic_kx13x_py: BRANCHES:[main:46fd4c4d1dc6b002da46eeb231b8581b1f62b689;refactor/match_arduino:78d04bb264e7912b9bfda83726e0075875b73054;examples:5b60a40a9c69bbfb883deca006f6a9bdaa28aa79;]|RELEASE:[2.0.0|none]
+sparkfun/QwiicBus_EndPoint: BRANCHES:[main:4e79187c4bd47fad1128c5e7f99eec37661c2d2f;]|RELEASE:[none|none]
