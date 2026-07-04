@@ -6749,3 +6749,4 @@ sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S: BRANCHES:[main:1332f29e4153abb
 sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO: BRANCHES:[main:fef35123412fc2935d342e2837b1f5b8fdf1caf0;]|RELEASE:[none|none]
 sparkfun/MicroMod_Sno_Processor_Board: BRANCHES:[main:23703439faf33492c482908494c0df1fb727838e;]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_MAX-M10S: BRANCHES:[gh-pages:27cbc24150a830726ba58622199a5e2f0976d074;main:48faa7a1fa792576929a56a323324d562448b7f1;]|RELEASE:[v1.0|none]
+sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library: BRANCHES:[main:4addc5ffd7cb71a0481aee259ab85c232aa92afe;future_examples:ba6e4f656a69ef2773727047cbad91050589c255;]|RELEASE:[v1.0.4|none]
