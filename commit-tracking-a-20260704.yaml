@@ -6698,3 +6698,4 @@ sparkfun/SparkFun_RTK_Firmware: BRANCHES:[gh-pages:efa8a8e4be124fb8f28952f6c39cf
 sparkfun/Qwiic_Shield_for_Teensy_Extended: BRANCHES:[master:a14fda0aeb97974484f4fbfe8c1f3c68610a145e;]|RELEASE:[none|none]
 sparkfun/qwiic_gpio_py: BRANCHES:[main:264227f302e349de7a8339b51764acc09c17a8e3;refactor/gpio_lists:7814a26755039b25525e94ccbf9331cce9acaf9e;examples:bf3c2553a23ec653af912ae17016c2bd56158b48;]|RELEASE:[2.0.0|none]
 sparkfun/ArduinoBLE: BRANCHES:[apollo3-dev:67396b0245db9ec92d429dbe95c258f560329504;master:524b3a6666c253842ee46cfdf317327e2bb51179;multi-connection:89fd740aca3c95434215f45b9aa661c86c43493b;]|RELEASE:[none|none]
+sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library: BRANCHES:[master:2dc1c458b7f26bae6dc59c65c4b209cb804b54a0;]|RELEASE:[v1.0.1|none]
