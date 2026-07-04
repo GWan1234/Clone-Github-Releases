@@ -1,0 +1,7 @@
+allrepositories:
+  - ophub
+exclude:
+  - armbian/cache-next
+  - armbian/cache
+  - armbian/community
+ophub/amlogic-s9xxx-armbian: BRANCHES:[main:87c6e6f170a3098b514c9a141db11e43caa060e8;]|RELEASE:[Armbian_resolute_arm64_server_2026.07|none]
