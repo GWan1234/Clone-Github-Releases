@@ -137,16 +137,6 @@ jobs:
             return 0
           }
 
-          upload_background() {
-              local file="$1"
-              local tag="$2"
-              (
-                  if ! safe_upload "$file" "$tag"; then
-                      echo "UPLOAD_FAILED:$file" >> /tmp/upload_failed
-                  fi
-              ) &
-          }
-
           set_tracking() {
             local repo="$1"
             local state="$2"
@@ -233,7 +223,7 @@ jobs:
             return 1
           }
 
-          build_notes() {
+          build_branch_notes() {
             REPO="$1"
             REPO_JSON="$2"
             BRANCH_COUNT="$3"
@@ -241,49 +231,56 @@ jobs:
             RELEASE_TIME="$5"
             UPSTREAM_JSON="$6"
 
-            REPO_URL=$(safe "$(echo "$REPO_JSON" | jq -r '.html_url // "unknown"' 2>/dev/null)")
-            DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"' 2>/dev/null)")
-            DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
-            LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
-            STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0' 2>/dev/null)")
-            FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0' 2>/dev/null)")
+            REPO_URL=$(safe "$(echo "$REPO_JSON" | jq -r '.html_url // "unknown"')")
+            DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"')")
+            DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"')")
+            LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"')")
+            STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0')")
+            FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0')")
 
-            CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
-            UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
-            PUSHED=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"' 2>/dev/null)")
+            CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"')")
+            UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"')")
+            PUSHED=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"')")
 
-            UP_TAG=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.tag_name // "none"' 2>/dev/null)")
-            UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"' 2>/dev/null)")
-            UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"' 2>/dev/null)")
+            UP_TAG=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.tag_name // "none"')")
+            UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"')")
+            UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"')")
 
-            printf -- "## 📦 Repository Info\n"
-            printf -- "- URL: %s\n" "$REPO_URL"
-            printf -- "- Description: %s\n" "$DESC"
-            printf -- "- Default branch: %s\n" "$DEF_BRANCH"
-            printf -- "- Language: %s\n" "$LANG"
-            printf -- "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
-            printf -- "\n"
+            printf "## 📦 Branch Backup\n"
+            printf "- URL: %s\n" "$REPO_URL"
+            printf "- Description: %s\n" "$DESC"
+            printf "- Default branch: %s\n" "$DEF_BRANCH"
+            printf "- Language: %s\n" "$LANG"
+            printf "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
+            printf "\n## 🕒 Source Timeline\n"
+            printf "- Created: %s\n" "$CREATED"
+            printf "- Updated: %s\n" "$UPDATED"
+            printf "- Pushed: %s\n" "$PUSHED"
+            printf "\n## 🏷 Latest Release\n"
+            printf "- Tag: %s\n" "$UP_TAG"
+            printf "- Name: %s\n" "$UP_NAME"
+            printf "- Published: %s\n" "$UP_TIME"
+            printf "\n## 📊 Backup Info\n"
+            printf "- Branches backed up: %s\n" "$BRANCH_COUNT"
+            printf "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
+            printf "- Backup time: %s\n" "$RELEASE_TIME"
+          }
 
-            printf -- "## 🕒 Source Timeline\n"
-            printf -- "- Created: %s\n" "$CREATED"
-            printf -- "- Updated: %s\n" "$UPDATED"
-            printf -- "- Pushed: %s\n" "$PUSHED"
-            printf -- "\n"
+          build_release_notes() {
+            RELEASE_JSON="$1"
+            TAG_NAME=$(safe "$(echo "$RELEASE_JSON" | jq -r '.tag_name // "unknown"')")
+            NAME=$(safe "$(echo "$RELEASE_JSON" | jq -r '.name // "none"')")
+            PUBLISHED=$(safe "$(echo "$RELEASE_JSON" | jq -r '.published_at // "unknown"')")
+            BODY=$(echo "$RELEASE_JSON" | jq -r '.body // "No description."' | head -c 4000)
+            ASSETS_COUNT=$(echo "$RELEASE_JSON" | jq '.assets | length // 0')
 
-            printf -- "## 🏷 Upstream Release\n"
-            printf -- "- Tag: %s\n" "$UP_TAG"
-            printf -- "- Name: %s\n" "$UP_NAME"
-            printf -- "- Published: %s\n" "$UP_TIME"
-            printf -- "\n"
-
-            printf -- "## 📊 Backup Info\n"
-            printf -- "- Branch count: %s\n" "$BRANCH_COUNT"
-            printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
-            printf -- "- Backup time: %s\n" "$RELEASE_TIME"
-            printf -- "\n## 🔍 Incremental Backup\n"
-            printf -- "- Track 10 latest branches commits (sorted by commit time)\n"
-            printf -- "- Track all releases tags, commits & asset updates\n"
-            printf -- "- Backup triggered by any change in branches or releases"
+            printf "## 🏷 Upstream Release\n"
+            printf "- Tag: %s\n" "$TAG_NAME"
+            printf "- Name: %s\n" "$NAME"
+            printf "- Published: %s\n" "$PUBLISHED"
+            printf "- Assets: %s\n" "$ASSETS_COUNT"
+            printf "\n## 📝 Original Body\n%s\n" "$BODY"
+            printf "\n## ⏱ Backup Time\n%s\n" "$NOW_HUMAN"
           }
 
           get_all_repos() {
@@ -330,15 +327,8 @@ jobs:
             mkdir -p tmp
             local error_occurred=0
 
-            local REPO_SLUG TAG
+            local REPO_SLUG
             REPO_SLUG=$(sanitize "$REPO")
-            TAG="${REPO_SLUG}-${NOW_DATE}-${NOW_TIME}"
-            TAG=$(sanitize "$TAG")
-
-            if release_exists "$TAG"; then
-              echo "⚠️ Release $TAG already exists, removing incomplete version and recreating..."
-              gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
-            fi
 
             local REPO_JSON UPSTREAM_JSON ALL_RELEASES
             REPO_JSON=$(fetch_repo_info "$REPO")
@@ -371,6 +361,7 @@ jobs:
               echo "🔴 Changes detected → backup"
             fi
 
+            # ----- 1. 分支打包（独立 Release）-----
             mapfile -t BRANCHES < <(
               git -C "$MIRROR" for-each-ref \
                 --sort=-committerdate \
@@ -379,114 +370,145 @@ jobs:
             )
             BRANCHES=("${BRANCHES[@]:0:10}")
 
-            if [[ ${#BRANCHES[@]} -eq 0 ]]; then
-              echo "❌ No branches found, skip"
-              cleanup
-              return 0
-            fi
+            local BRANCH_TAG="${REPO_SLUG}-branches-${NOW_DATE}-${NOW_TIME}"
+            BRANCH_TAG=$(sanitize "$BRANCH_TAG")
 
-            echo "📦 Packaging ${#BRANCHES[@]} branches (TOP10 latest)..."
-            FILES=()
-            IDX=0
-
-            for B in "${BRANCHES[@]}"; do
-              B_SLUG=$(sanitize "$B")
-              DIR="${EXPORT}/${B_SLUG}"
-              mkdir -p "$DIR"
-              git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
-              ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
-              7z a -t7z -mx5 -mmt2 -v1500m "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
-              for f in "${ARCHIVE}"*; do
-                if [[ -f "$f" && -s "$f" && "$f" != *.sha256 ]]; then
-                  sha256sum "$f" > "${f}.sha256" 2>/dev/null || true
-                  FILES+=("$f" "${f}.sha256")
-                fi
+            if [[ ${#BRANCHES[@]} -gt 0 ]]; then
+              echo "📦 Packaging ${#BRANCHES[@]} branches..."
+              FILES=()
+              IDX=0
+              for B in "${BRANCHES[@]}"; do
+                B_SLUG=$(sanitize "$B")
+                DIR="${EXPORT}/${B_SLUG}"
+                mkdir -p "$DIR"
+                git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
+                ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
+                7z a -t7z -mx5 -mmt2 -v1500m "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
+                for f in "${ARCHIVE}"*; do
+                  if [[ -f "$f" && -s "$f" && "$f" != *.sha256 ]]; then
+                    sha256sum "$f" > "${f}.sha256" 2>/dev/null || true
+                    FILES+=("$f" "${f}.sha256")
+                  fi
+                done
+                IDX=$((IDX + 1))
               done
-              IDX=$((IDX + 1))
-            done
 
-            if [[ ${#FILES[@]} -eq 0 ]]; then
-              echo "❌ No packages generated, skip release"
-              cleanup
-              return 0
+              if [[ ${#FILES[@]} -gt 0 ]]; then
+                local TOTAL_SIZE=0
+                for f in *.7z*; do
+                  if [[ -f "$f" && "$f" != *.sha256 ]]; then
+                    TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
+                  fi
+                done
+
+                echo "🚀 Creating branch backup release: $BRANCH_TAG"
+                if release_exists "$BRANCH_TAG"; then
+                  echo "⚠️ Deleting existing branch release $BRANCH_TAG"
+                  gh release delete "$BRANCH_TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
+                fi
+
+                NOTES_FILE=$(mktemp)
+                build_branch_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
+
+                FIRST_FILE="${FILES[0]}"
+                if gh release create "$BRANCH_TAG" "$FIRST_FILE" \
+                  --repo "$GITHUB_REPOSITORY" \
+                  --title "📦 Branches of $REPO_SLUG ($NOW_HUMAN)" \
+                  --notes-file "$NOTES_FILE" 2>/dev/null; then
+                  echo "✅ Branch release created"
+                  for ((i=1; i<${#FILES[@]}; i++)); do
+                    safe_upload "${FILES[$i]}" "$BRANCH_TAG" || error_occurred=1
+                  done
+                else
+                  echo "❌ Branch release creation failed"
+                  error_occurred=1
+                fi
+                rm -f "$NOTES_FILE"
+              else
+                echo "ℹ️ No branch packages generated"
+              fi
+            else
+              echo "ℹ️ No branches to package"
             fi
 
-            local TOTAL_SIZE=0
-            for f in *.7z*; do
-              if [[ -f "$f" && "$f" != *.sha256 ]]; then
-                TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
-              fi
-            done
-
-            echo "🚀 Creating release: $TAG"
-            NOTES_FILE=$(mktemp)
-            build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
-
-            FIRST_FILE="${FILES[0]}"
-            if ! gh release create "$TAG" "$FIRST_FILE" \
-              --repo "$GITHUB_REPOSITORY" \
-              --title "$REPO_SLUG ($NOW_HUMAN)" \
-              --notes-file "$NOTES_FILE" 2>/dev/null; then
-              echo "❌ Release create failed → Cleaning up orphaned draft..."
-              gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
-              error_occurred=1
-              rm -f "$NOTES_FILE"
-              cleanup
-              return 0
-            fi
-            echo "✅ Release created successfully"
-
-            echo "📤 Uploading ${#FILES[@]} files..."
-            for ((i=1; i<${#FILES[@]}; i++)); do
-              if ! safe_upload "${FILES[$i]}" "$TAG"; then
-                error_occurred=1
-              fi
-            done
-
-            echo "🔗 Syncing ALL upstream releases..."
-            UPLOAD_PIDS=()
-            rm -f /tmp/upload_failed
-
+            # ----- 2. 每个上游 Release 独立备份 -----
+            echo "🔗 Processing each upstream release separately..."
             echo "$ALL_RELEASES" | jq -c '.[]' 2>/dev/null | while read -r release; do
                 RELEASE_TAG=$(echo "$release" | jq -r '.tag_name // "unknown"')
-                echo "-------- Processing release: $RELEASE_TAG --------"
+                RELEASE_SLUG=$(sanitize "$RELEASE_TAG")
+                PER_RELEASE_TAG="${REPO_SLUG}-${RELEASE_SLUG}"
+
+                echo "-------- Release: $RELEASE_TAG → Backup tag: $PER_RELEASE_TAG --------"
+
+                # 如果已存在同名 release，先删除再重建
+                if release_exists "$PER_RELEASE_TAG"; then
+                  echo "⚠️ Tag $PER_RELEASE_TAG exists, recreating..."
+                  gh release delete "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
+                fi
 
                 ASSETS_DATA=$(echo "$release" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
-                [[ -z "$ASSETS_DATA" ]] && continue
+                local ASSET_FILES=()
+                local DOWNLOAD_PIDS=()
 
-                while read -r asset; do
+                # 下载所有资产
+                if [[ -n "$ASSETS_DATA" ]]; then
+                  while read -r asset; do
                     [[ -z "$asset" ]] && continue
                     ASSET_NAME=$(echo "$asset" | jq -r '.name')
                     ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url')
-                    LOCAL_FILE="up-${RELEASE_TAG}-${ASSET_NAME}"
-                    echo "⬇ Download: ${RELEASE_TAG}/${ASSET_NAME}"
-                    curl -LSs --retry 1 --max-time 30 -o "$LOCAL_FILE" "$ASSET_URL" || continue
-                    if [[ -f "$LOCAL_FILE" && -s "$LOCAL_FILE" ]]; then
-                        echo "⬆ Upload: $LOCAL_FILE → release $TAG"
-                        (
-                            if ! safe_upload "$LOCAL_FILE" "$TAG"; then
-                                echo "UPLOAD_FAILED:${RELEASE_TAG}/${ASSET_NAME}" >> /tmp/upload_failed
-                            fi
-                            rm -f "$LOCAL_FILE"
-                        ) &
-                        UPLOAD_PIDS+=($!)
-                    fi
-                done <<< "$ASSETS_DATA"
+                    LOCAL_FILE="up-${ASSET_NAME}"
+                    echo "⬇ Download: $ASSET_NAME"
+                    curl -LSs --retry 1 --max-time 30 -o "$LOCAL_FILE" "$ASSET_URL" &
+                    DOWNLOAD_PIDS+=($!)
+                    ASSET_FILES+=("$LOCAL_FILE")
+                  done <<< "$ASSETS_DATA"
+
+                  # 等待所有下载完成
+                  for pid in "${DOWNLOAD_PIDS[@]}"; do
+                    wait "$pid"
+                  done
+                fi
+
+                # 创建 release（以第一个资产作为初始文件）
+                NOTES_FILE=$(mktemp)
+                build_release_notes "$release" > "$NOTES_FILE"
+
+                if [[ ${#ASSET_FILES[@]} -gt 0 ]]; then
+                  FIRST_ASSET="${ASSET_FILES[0]}"
+                  if gh release create "$PER_RELEASE_TAG" "$FIRST_ASSET" \
+                    --repo "$GITHUB_REPOSITORY" \
+                    --title "🔖 $REPO_SLUG - $RELEASE_TAG" \
+                    --notes-file "$NOTES_FILE" 2>/dev/null; then
+                    echo "✅ Release $PER_RELEASE_TAG created"
+                    # 上传剩余资产
+                    for ((i=1; i<${#ASSET_FILES[@]}; i++)); do
+                      safe_upload "${ASSET_FILES[$i]}" "$PER_RELEASE_TAG" || error_occurred=1
+                    done
+                  else
+                    echo "❌ Failed to create release $PER_RELEASE_TAG"
+                    error_occurred=1
+                  fi
+                else
+                  # 无资产的 release 也创建（空 release 仅记录 notes）
+                  if gh release create "$PER_RELEASE_TAG" \
+                    --repo "$GITHUB_REPOSITORY" \
+                    --title "🔖 $REPO_SLUG - $RELEASE_TAG (no assets)" \
+                    --notes-file "$NOTES_FILE" 2>/dev/null; then
+                    echo "✅ Empty release $PER_RELEASE_TAG created"
+                  else
+                    echo "❌ Failed to create empty release $PER_RELEASE_TAG"
+                    error_occurred=1
+                  fi
+                fi
+
+                # 清理下载的文件
+                for f in "${ASSET_FILES[@]}"; do
+                  rm -f "$f"
+                done
+                rm -f "$NOTES_FILE"
             done
 
-            echo "⏳ Waiting for all uploads..."
-            for pid in "${UPLOAD_PIDS[@]}"; do
-                wait "$pid"
-            done
-
-            if [[ -f /tmp/upload_failed ]]; then
-                error_occurred=1
-                echo "❌ Some uploads failed:"
-                cat /tmp/upload_failed
-            fi
-
-            rm -f "$NOTES_FILE"
-
+            # 更新 tracking
             if [[ $error_occurred -eq 0 ]]; then
               echo "✅ Backup 100% SUCCESS → writing tracking"
               set_tracking "$REPO" "$CURRENT_STATE"
