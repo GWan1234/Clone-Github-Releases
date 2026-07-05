@@ -195,12 +195,12 @@ jobs:
           }
 
           # =========================
-          # 核心：获取 TOP10 最新分支的 commit + 最新 release 信息
+          # 核心：获取 TOP10 最新分支的 commit + 所有 release 的完整状态
           # =========================
           get_repo_current_state() {
             local repo="$1"
             local mirror="$2"
-            local release_json="$3"
+            local all_releases="$3"
 
             local branch_states=""
             local count=0
@@ -219,17 +219,33 @@ jobs:
                 refs/heads
             )
 
-            local rel_tag rel_commit
-            rel_tag=$(echo "$release_json" | jq -r '.tag_name // "none"' 2>/dev/null || echo "none")
+            # 构建所有 tag -> commit 的映射 (基于 mirror 本地数据)
+            declare -A tag_commit_map
+            while read -r sha ref; do
+                ref=${ref#refs/tags/}
+                tag_commit_map["$ref"]="$sha"
+            done < <(git -C "$mirror" for-each-ref --format='%(objectname) %(refname)' refs/tags)
 
-            if [[ "$rel_tag" != "none" ]]; then
-              rel_commit=$(git ls-remote "$(auth_url "$repo")" "refs/tags/$rel_tag^{}" 2>/dev/null | awk '{print $1}' | head -n1)
-              rel_commit=${rel_commit:-none}
-            else
-              rel_commit="none"
-            fi
+            # 遍历所有 release，生成排序后的状态字符串（包含 tag/commit/资产最后更新时间）
+            local release_states=""
+            while read -r release; do
+                local tag_name
+                tag_name=$(echo "$release" | jq -r '.tag_name // empty')
+                [[ -z "$tag_name" ]] && continue
 
-            echo "BRANCHES:[${branch_states}]|RELEASE:[${rel_tag}|${rel_commit}]"
+                local commit="${tag_commit_map[$tag_name]:-unknown}"
+
+                local max_updated="none"
+                local assets_updated
+                assets_updated=$(echo "$release" | jq -r '[.assets[]?.updated_at] | max // "none"')
+                if [[ "$assets_updated" != "null" && "$assets_updated" != "none" ]]; then
+                    max_updated="$assets_updated"
+                fi
+
+                release_states+="${tag_name}:${commit}:${max_updated};"
+            done < <(echo "$all_releases" | jq -c 'sort_by(.tag_name)[]' 2>/dev/null || true)
+
+            echo "BRANCHES:[${branch_states}]|RELEASES:[${release_states}]"
           }
 
           # =========================
@@ -306,8 +322,8 @@ jobs:
             printf -- "- Backup time: %s\n" "$RELEASE_TIME"
             printf -- "\n## 🔍 Incremental Backup\n"
             printf -- "- Track 10 latest branches commits (sorted by commit time)\n"
-            printf -- "- Track latest release commit & tag\n"
-            printf -- "- Backup triggered by any change"
+            printf -- "- Track all releases tags, commits & asset updates\n"
+            printf -- "- Backup triggered by any change in branches or releases"
           }
 
           # =========================
@@ -395,9 +411,9 @@ jobs:
               return 0
             }
 
-            # 获取当前状态
+            # 获取当前状态（基于所有 releases）
             local CURRENT_STATE
-            CURRENT_STATE=$(get_repo_current_state "$REPO" "$MIRROR" "$UPSTREAM_JSON")
+            CURRENT_STATE=$(get_repo_current_state "$REPO" "$MIRROR" "$ALL_RELEASES")
 
             # 增量判断：无历史文件则强制备份，否则按状态对比
             if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
