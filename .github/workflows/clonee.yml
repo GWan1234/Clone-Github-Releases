@@ -89,7 +89,6 @@ jobs:
               2>/dev/null || echo '{}'
           }
 
-          # ✅ 修复：使用文件合并，避免命令行参数过长
           fetch_all_releases() {
               local repo="$1"
               local page=1
@@ -246,24 +245,24 @@ jobs:
             UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"')")
             UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"')")
 
-            printf "## 📦 Branch Backup\n"
-            printf "- URL: %s\n" "$REPO_URL"
-            printf "- Description: %s\n" "$DESC"
-            printf "- Default branch: %s\n" "$DEF_BRANCH"
-            printf "- Language: %s\n" "$LANG"
-            printf "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
-            printf "\n## 🕒 Source Timeline\n"
-            printf "- Created: %s\n" "$CREATED"
-            printf "- Updated: %s\n" "$UPDATED"
-            printf "- Pushed: %s\n" "$PUSHED"
-            printf "\n## 🏷 Latest Release\n"
-            printf "- Tag: %s\n" "$UP_TAG"
-            printf "- Name: %s\n" "$UP_NAME"
-            printf "- Published: %s\n" "$UP_TIME"
-            printf "\n## 📊 Backup Info\n"
-            printf "- Branches backed up: %s\n" "$BRANCH_COUNT"
-            printf "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
-            printf "- Backup time: %s\n" "$RELEASE_TIME"
+            printf -- "## 📦 Branch Backup\n"
+            printf -- "- URL: %s\n" "$REPO_URL"
+            printf -- "- Description: %s\n" "$DESC"
+            printf -- "- Default branch: %s\n" "$DEF_BRANCH"
+            printf -- "- Language: %s\n" "$LANG"
+            printf -- "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
+            printf -- "\n## 🕒 Source Timeline\n"
+            printf -- "- Created: %s\n" "$CREATED"
+            printf -- "- Updated: %s\n" "$UPDATED"
+            printf -- "- Pushed: %s\n" "$PUSHED"
+            printf -- "\n## 🏷 Latest Release\n"
+            printf -- "- Tag: %s\n" "$UP_TAG"
+            printf -- "- Name: %s\n" "$UP_NAME"
+            printf -- "- Published: %s\n" "$UP_TIME"
+            printf -- "\n## 📊 Backup Info\n"
+            printf -- "- Branches backed up: %s\n" "$BRANCH_COUNT"
+            printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
+            printf -- "- Backup time: %s\n" "$RELEASE_TIME"
           }
 
           build_release_notes() {
@@ -274,13 +273,13 @@ jobs:
             BODY=$(echo "$RELEASE_JSON" | jq -r '.body // "No description."' | head -c 4000)
             ASSETS_COUNT=$(echo "$RELEASE_JSON" | jq '.assets | length // 0')
 
-            printf "## 🏷 Upstream Release\n"
-            printf "- Tag: %s\n" "$TAG_NAME"
-            printf "- Name: %s\n" "$NAME"
-            printf "- Published: %s\n" "$PUBLISHED"
-            printf "- Assets: %s\n" "$ASSETS_COUNT"
-            printf "\n## 📝 Original Body\n%s\n" "$BODY"
-            printf "\n## ⏱ Backup Time\n%s\n" "$NOW_HUMAN"
+            printf -- "## 🏷 Upstream Release\n"
+            printf -- "- Tag: %s\n" "$TAG_NAME"
+            printf -- "- Name: %s\n" "$NAME"
+            printf -- "- Published: %s\n" "$PUBLISHED"
+            printf -- "- Assets: %s\n" "$ASSETS_COUNT"
+            printf -- "\n## 📝 Original Body\n%s\n" "$BODY"
+            printf -- "\n## ⏱ Backup Time\n%s\n" "$NOW_HUMAN"
           }
 
           get_all_repos() {
@@ -440,7 +439,6 @@ jobs:
 
                 echo "-------- Release: $RELEASE_TAG → Backup tag: $PER_RELEASE_TAG --------"
 
-                # 如果已存在同名 release，先删除再重建
                 if release_exists "$PER_RELEASE_TAG"; then
                   echo "⚠️ Tag $PER_RELEASE_TAG exists, recreating..."
                   gh release delete "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
@@ -450,7 +448,6 @@ jobs:
                 local ASSET_FILES=()
                 local DOWNLOAD_PIDS=()
 
-                # 下载所有资产
                 if [[ -n "$ASSETS_DATA" ]]; then
                   while read -r asset; do
                     [[ -z "$asset" ]] && continue
@@ -463,13 +460,11 @@ jobs:
                     ASSET_FILES+=("$LOCAL_FILE")
                   done <<< "$ASSETS_DATA"
 
-                  # 等待所有下载完成
                   for pid in "${DOWNLOAD_PIDS[@]}"; do
                     wait "$pid"
                   done
                 fi
 
-                # 创建 release（以第一个资产作为初始文件）
                 NOTES_FILE=$(mktemp)
                 build_release_notes "$release" > "$NOTES_FILE"
 
@@ -480,7 +475,6 @@ jobs:
                     --title "🔖 $REPO_SLUG - $RELEASE_TAG" \
                     --notes-file "$NOTES_FILE" 2>/dev/null; then
                     echo "✅ Release $PER_RELEASE_TAG created"
-                    # 上传剩余资产
                     for ((i=1; i<${#ASSET_FILES[@]}; i++)); do
                       safe_upload "${ASSET_FILES[$i]}" "$PER_RELEASE_TAG" || error_occurred=1
                     done
@@ -489,7 +483,6 @@ jobs:
                     error_occurred=1
                   fi
                 else
-                  # 无资产的 release 也创建（空 release 仅记录 notes）
                   if gh release create "$PER_RELEASE_TAG" \
                     --repo "$GITHUB_REPOSITORY" \
                     --title "🔖 $REPO_SLUG - $RELEASE_TAG (no assets)" \
@@ -501,14 +494,12 @@ jobs:
                   fi
                 fi
 
-                # 清理下载的文件
                 for f in "${ASSET_FILES[@]}"; do
                   rm -f "$f"
                 done
                 rm -f "$NOTES_FILE"
             done
 
-            # 更新 tracking
             if [[ $error_occurred -eq 0 ]]; then
               echo "✅ Backup 100% SUCCESS → writing tracking"
               set_tracking "$REPO" "$CURRENT_STATE"
