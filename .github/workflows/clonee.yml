@@ -430,8 +430,11 @@ jobs:
               echo "ℹ️ No branches to package"
             fi
 
-            # ----- 2. 每个上游 Release 独立备份 -----
+            # ----- 2. 每个上游 Release 独立备份（流水线：下载-上传 同时下载下一个）-----
             echo "🔗 Processing each upstream release separately..."
+            local DISK_LIMIT_GB=5
+            local MAX_UPLOAD_JOBS=2
+
             echo "$ALL_RELEASES" | jq -c '.[]' 2>/dev/null | while read -r release; do
                 RELEASE_TAG=$(echo "$release" | jq -r '.tag_name // "unknown"')
                 RELEASE_SLUG=$(sanitize "$RELEASE_TAG")
@@ -444,59 +447,107 @@ jobs:
                   gh release delete "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
                 fi
 
+                NOTES_FILE=$(mktemp)
+                build_release_notes "$release" > "$NOTES_FILE"
+
                 ASSETS_DATA=$(echo "$release" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
-                local ASSET_FILES=()
-                local DOWNLOAD_PIDS=()
+
+                local FIRST_ASSET_CREATED=false
+                local UPLOAD_PIDS=()
+                local UPLOAD_FILES=()
 
                 if [[ -n "$ASSETS_DATA" ]]; then
                   while read -r asset; do
                     [[ -z "$asset" ]] && continue
+
+                    # 磁盘空间检查
+                    AVAIL_GB=$(df -BG . | tail -1 | awk '{print $4}' | sed 's/G//')
+                    if [[ $AVAIL_GB -lt $DISK_LIMIT_GB ]]; then
+                      echo "⚠️ Low disk space (${AVAIL_GB}G < ${DISK_LIMIT_GB}G), stopping downloads for safety"
+                      break
+                    fi
+
                     ASSET_NAME=$(echo "$asset" | jq -r '.name')
                     ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url')
+                    ASSET_SIZE=$(echo "$asset" | jq -r '.size // 0')
                     LOCAL_FILE="up-${ASSET_NAME}"
-                    echo "⬇ Download: $ASSET_NAME"
-                    curl -LSs --retry 1 --max-time 30 -o "$LOCAL_FILE" "$ASSET_URL" &
-                    DOWNLOAD_PIDS+=($!)
-                    ASSET_FILES+=("$LOCAL_FILE")
+
+                    echo "⬇ Downloading: $ASSET_NAME ($(human_size "$ASSET_SIZE"))"
+                    if ! curl -LSs --connect-timeout 30 --retry 3 --retry-delay 15 -o "$LOCAL_FILE" "$ASSET_URL"; then
+                      echo "❌ Download failed for $ASSET_NAME"
+                      error_occurred=1
+                      continue
+                    fi
+
+                    if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
+                      echo "🚀 Creating release $PER_RELEASE_TAG with first asset"
+                      if gh release create "$PER_RELEASE_TAG" "$LOCAL_FILE" \
+                        --repo "$GITHUB_REPOSITORY" \
+                        --title "🔖 $REPO_SLUG - $RELEASE_TAG" \
+                        --notes-file "$NOTES_FILE" 2>/dev/null; then
+                        echo "✅ Release $PER_RELEASE_TAG created"
+                        FIRST_ASSET_CREATED=true
+                        rm -f "$LOCAL_FILE"
+                      else
+                        echo "❌ Failed to create release $PER_RELEASE_TAG"
+                        error_occurred=1
+                        rm -f "$LOCAL_FILE"
+                        break
+                      fi
+                    else
+                      # 控制并发上传：如果上传队列已满，等待最早的任务完成（自动删除）
+                      while [[ ${#UPLOAD_PIDS[@]} -ge $MAX_UPLOAD_JOBS ]]; do
+                        wait "${UPLOAD_PIDS[0]}" 2>/dev/null || true
+                        rm -f "${UPLOAD_FILES[0]}"
+                        UPLOAD_PIDS=("${UPLOAD_PIDS[@]:1}")
+                        UPLOAD_FILES=("${UPLOAD_FILES[@]:1}")
+                      done
+
+                      # 后台上传当前文件，上传完成后自动删除
+                      (
+                        if safe_upload "$LOCAL_FILE" "$PER_RELEASE_TAG"; then
+                          echo "✅ Uploaded $ASSET_NAME"
+                        else
+                          echo "❌ Upload failed for $ASSET_NAME"
+                          echo "UPLOAD_FAILED:${PER_RELEASE_TAG}/${ASSET_NAME}" >> /tmp/upload_failed
+                        fi
+                        rm -f "$LOCAL_FILE"
+                      ) &
+                      UPLOAD_PIDS+=($!)
+                      UPLOAD_FILES+=("$LOCAL_FILE")
+                    fi
                   done <<< "$ASSETS_DATA"
 
-                  for pid in "${DOWNLOAD_PIDS[@]}"; do
-                    wait "$pid"
+                  # 等待剩余上传全部完成
+                  for pid in "${UPLOAD_PIDS[@]}"; do
+                    wait "$pid" 2>/dev/null || true
                   done
-                fi
+                  for f in "${UPLOAD_FILES[@]}"; do
+                    rm -f "$f"
+                  done
 
-                NOTES_FILE=$(mktemp)
-                build_release_notes "$release" > "$NOTES_FILE"
-
-                if [[ ${#ASSET_FILES[@]} -gt 0 ]]; then
-                  FIRST_ASSET="${ASSET_FILES[0]}"
-                  if gh release create "$PER_RELEASE_TAG" "$FIRST_ASSET" \
-                    --repo "$GITHUB_REPOSITORY" \
-                    --title "🔖 $REPO_SLUG - $RELEASE_TAG" \
-                    --notes-file "$NOTES_FILE" 2>/dev/null; then
-                    echo "✅ Release $PER_RELEASE_TAG created"
-                    for ((i=1; i<${#ASSET_FILES[@]}; i++)); do
-                      safe_upload "${ASSET_FILES[$i]}" "$PER_RELEASE_TAG" || error_occurred=1
-                    done
-                  else
-                    echo "❌ Failed to create release $PER_RELEASE_TAG"
+                  if [[ -f /tmp/upload_failed ]]; then
                     error_occurred=1
+                    echo "⚠️ Some uploads failed for $PER_RELEASE_TAG"
+                    cat /tmp/upload_failed
+                    rm -f /tmp/upload_failed
+                  fi
+
+                  if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
+                    echo "⚠️ No asset was successfully downloaded, creating empty release"
+                    gh release create "$PER_RELEASE_TAG" \
+                      --repo "$GITHUB_REPOSITORY" \
+                      --title "🔖 $REPO_SLUG - $RELEASE_TAG (empty)" \
+                      --notes-file "$NOTES_FILE" 2>/dev/null || true
                   fi
                 else
-                  if gh release create "$PER_RELEASE_TAG" \
+                  echo "ℹ️ No assets for $RELEASE_TAG, creating empty release"
+                  gh release create "$PER_RELEASE_TAG" \
                     --repo "$GITHUB_REPOSITORY" \
                     --title "🔖 $REPO_SLUG - $RELEASE_TAG (no assets)" \
-                    --notes-file "$NOTES_FILE" 2>/dev/null; then
-                    echo "✅ Empty release $PER_RELEASE_TAG created"
-                  else
-                    echo "❌ Failed to create empty release $PER_RELEASE_TAG"
-                    error_occurred=1
-                  fi
+                    --notes-file "$NOTES_FILE" 2>/dev/null || true
                 fi
 
-                for f in "${ASSET_FILES[@]}"; do
-                  rm -f "$f"
-                done
                 rm -f "$NOTES_FILE"
             done
 
