@@ -10,7 +10,7 @@ ophub/delete-releases-workflows: BRANCHES:[main:9c4138644d440d66f145e5ab03a98f03
 ophub/firmware: BRANCHES:[main:58af09122f8b5d60c4ad32ae562dfa42f6e7e401;]|RELEASES:[v2025.11.22:281460355589a3b0583c17982ecf1693d0866a78:none;v2026.05.20:3434f0ba9abcc29860858a36bd44a2736197ff76:none;]
 ophub/flippy-openwrt-actions: BRANCHES:[main:d4b448e4bf0527bf17f41a4ba3ffc9a7156d2454;]|RELEASES:[]
 ophub/flippy-ubuntu-actions: BRANCHES:[main:8c0a5e2b4cb4aebb2c1eea850834034f3d53d282;]|RELEASES:[]
-ophub/fnnas: BRANCHES:[main:53a14da4c3331304645e5f44e556f7389d958469;]|RELEASE:[fnnas_rockchip_1253|none]
+ophub/fnnas: BRANCHES:[main:53a14da4c3331304645e5f44e556f7389d958469;]|RELEASES:[]
 ophub/kernel: BRANCHES:[main:bdf030c7f5d0110a162f0078cd339876c4fa09b3;]|RELEASE:[kernel_stable|none]
 ophub/linux-5.10.y: BRANCHES:[main:f1042adb4a426df32be99e64e44c0b39dbd5d030;]|RELEASE:[none|none]
 ophub/linux-5.10.y-rk35xx: BRANCHES:[main:6c6e1238ebb1f17a0daebc5d4f16ba4cae7ef5e4;]|RELEASE:[none|none]
