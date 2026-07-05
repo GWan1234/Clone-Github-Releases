@@ -28,12 +28,24 @@ exclude:
 repositories:
   name0:
     - sing-box
+    - asterisk-chan-modemmanager
+    - luci-app-vohive
+    - SimAdmin
+    - vohive
 
   repo0:
     - SagerNet/sing-box
+    - koreapyj/asterisk-chan-modemmanager
+    - Demogorgon314/luci-app-vohive
+    - 3899/SimAdmin
+    - giszh86/vohive
 
   source0:
     - https://github.com/SagerNet/sing-box
+    - https://github.com/koreapyj/asterisk-chan-modemmanager.git
+    - https://github.com/Demogorgon314/luci-app-vohive.git
+    - https://github.com/3899/SimAdmin.git
+    - https://github.com/giszh86/vohive.git
 
   name1:
     - mihomo
