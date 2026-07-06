@@ -6869,3 +6869,4 @@ sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160: BRANCHES:[main:6e53479ba84b3
 sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library: BRANCHES:[main:a1b756e5417343bb8156e9047c451ff41f6d2c90;]|RELEASE:[v1.1.0|none]
 sparkfun/SparkFun_USB-C_Host_Shield: BRANCHES:[gh-pages:bce49e5a5853f219c5aa28a64fd31c7a68c3fa84;main:90f57c16beecc43d798cd6d3bb706b5d1f3fd19e;]|RELEASE:[v10|none]
 sparkfun/SparkFun_DataLogger_IoT_9DoF: BRANCHES:[main:d42f0b33a959f723029f568c73ae9f4e2e3d3e38;]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_Accelerometer_BMA400: BRANCHES:[main:2751c15eec8f50759e3414337c0133b55b9c19d1;]|RELEASE:[none|none]
