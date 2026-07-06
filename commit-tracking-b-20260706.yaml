@@ -4543,3 +4543,4 @@ adafruit/Adafruit_lgpio: BRANCHES:[main:fc9c79dbac6607133e579ad8ae6d6eac7aea9c83
 FUjr/tc1_a1_firmware: BRANCHES:[main:6ab242e3696a02eb63e45eadf158cb1d0309b163;]|RELEASE:[v2.3.1|none]
 Xinyuan-LilyGO/lilygo-skills: BRANCHES:[main:4a048b9d2f18e4a797e823818570c1328917af6e;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo-doc-mcp: BRANCHES:[master:859556831b90f22efa8d11b555ad998a020c8b53;]|RELEASE:[none|none]
+koreapyj/asterisk-chan-modemmanager: BRANCHES:[main:8be6e7ab7510536a649378b7c64b39f566ffab09;refactor-260702:194d87639f1af375f0e1881b14874e6c4ba9c601;]|RELEASE:[v1.0|none]
