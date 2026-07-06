@@ -4448,3 +4448,4 @@ home-assistant/installer: BRANCHES:[dependabot/npm_and_yarn/npm_and_yarn-6023a3e
 Xinyuan-LilyGO/T-Keyboard-S3-Library: BRANCHES:[master:01fe10143af60ee91d6cba12491725a8f756fce9;]|RELEASE:[none|none]
 emqx/emqx-streams-demo: BRANCHES:[master:afe13c99a7ad61812d7e5aa75ce2e82023cf78b8;]|RELEASE:[none|none]
 martin-ger/adafruit_guide_fft: BRANCHES:[master:b8dd0cf7e3a2946ae3c605c0440032115b221228;serial_close:a34b9dbec1182f303c3020262b880432210f14e0;]|RELEASE:[none|none]
+martin-ger/esp-idf-nat-example: BRANCHES:[master:0a0d11fc80e1243b2cf6b465d956f8c2ad1481ae;]|RELEASE:[none|none]
