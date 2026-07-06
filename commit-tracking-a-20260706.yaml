@@ -7077,3 +7077,4 @@ sparkfun/SparkFun_GNSS_ZED-X20P: BRANCHES:[main:6c5981932f54ef800376940acbde877b
 sparkfun/SparkFun_GNSS_Flex_System: BRANCHES:[main:aea7919f1c6cdc5377260f126c0caddda1e57801;gh-pages:c2581c321a27e4a7f23fd919ff2ab329c21744dc;add-hardware_dir:ae197c59271133ddd4a432ac81ade921d47a429b;]|RELEASE:[r2025-10b|none]
 sparkfun/SparkFun_GNSS_mosaic-G5_P3: BRANCHES:[gh-pages:5ee44ab57eb485ddf6c602bf9ccf0d73c7f6d19a;main:4d60c7ae70692899464791cbb9cccdb13ad4219c;docs:4f0700b0c8b9efda2ca79c538de99a567def7d0e;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_Ambient_Light_Sensor-VEML7700: BRANCHES:[gh-pages:719f364311d51e9aa9a10f83c67e8de99fa12f60;main:fcb1508b899984c2c4a1f3df43377ab22e32229c;]|RELEASE:[none|none]
+sparkfun/SparkFun_Roller_Encoder_Breakout: BRANCHES:[main:9aeb5e878ea6ae5c3becabfbdb2607528404c4b3;]|RELEASE:[none|none]
