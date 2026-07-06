@@ -7058,3 +7058,4 @@ sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S: BRANCHES:[gh-pages:41ec4e7e
 sparkfun/SparkFun_GNSS_LG580P: BRANCHES:[main:0854f32d5280f7cde448ad15c994f6937f3fe73d;gh-pages:c8e930b3f32a65b7b3741cc2aad359162a2598b9;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_5V_Boost_AP3012K: BRANCHES:[gh-pages:b8190549cb07cf76158936a616703516bca63168;main:2150213414cbaf2031fed3081900049d023473f1;]|RELEASE:[v10|none]
 sparkfun/SparkFun_Soil_Moisture_Arduino_Library: BRANCHES:[main:695795368cf7d340bbbe5aa9977f918368c0d147;develop:86dfcd4b1fa9c53d12ab6a6598fe0b37323be5b2;]|RELEASE:[v1.0.2|none]
+sparkfun/SparkFun_Pico_Add_On_Flipper: BRANCHES:[gh-pages:f5096fb6e74c7cff16bef960c9ebac0dee6377af;main:50f29ca0f4a3703f07c40d846c40da844663a85c;]|RELEASE:[v10|none]
