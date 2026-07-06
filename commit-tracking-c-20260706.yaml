@@ -4454,3 +4454,4 @@ martin-ger/esp-open-lwip: BRANCHES:[enc_polling:5157a11da89c2ae8aeca0653c5a44fed
 martin-ger/esp-open-sdk: BRANCHES:[master:569bf295f9525c1543322769ce82e248f4cc0b43;gcc-4.8.5:ba8e728dee6df4aac265ebae198868bec4695b9b;lwip-headers:e579d284afc43b66f43ef3d3b9fbe02642f736b0;sdk-0.9.3:8560544ed7ce9ba6f9d3c0532717a534214c3a40;]|RELEASE:[none|none]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe;]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c;]|RELEASE:[none|none]
+martin-ger/esp32_ethernet_router: BRANCHES:[main:2daddb1853368ccd0b510f190b3231935b80b872;]|RELEASE:[none|none]
