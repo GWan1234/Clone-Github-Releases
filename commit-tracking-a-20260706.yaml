@@ -6942,3 +6942,4 @@ sparkfun/SparkFun_KiCad_Panelizer: BRANCHES:[main:62d57803c8a416c268b3339ff55a99
 sparkfun/SparkFun_KiCad_BOM_Generator: BRANCHES:[release_candidate:1e1a6f804073feef1afb74d2992b2e0f3f8a9992;main:6b715f89dd7095971ef81677bd49861bb4424401;kicad_10_fixes:1f96bfa5961c2c1e9efadf0ef7c26988ff804870;add-BOM-exclude:e82e1eb3967fb1b6132000c9aaf4efb293aff64d;fix-init:0cd059fb4c591bb1dab17c5e3b1db2d7d916f3ed;]|RELEASE:[v1.3.0|none]
 sparkfun/SparkFun_KiCad_CAMmer: BRANCHES:[main:8a4e3cb8509870be8056bf61430bf9ba21c68ef0;release_candidate:7c17474e1bc2079782c23675ae63f75099e6031d;]|RELEASE:[v1.2.2|none]
 sparkfun/SparkFun_STHS34PF80_Arduino_Library: BRANCHES:[main:551587b0452ee1ee74419d99ce7b8796f85cc89e;bug_fixes:fa3facb4044e3d232828ad079d04aeed6b126f53;]|RELEASE:[v1.0.5|none]
+sparkfun/SparkFun_ESP32_Qwiic_Pro_Mini: BRANCHES:[gh-pages:4a0f8db678fab67f88431ec11a4057401fd305f1;main:096c783fe9ea9842083e910e3605da65074924de;]|RELEASE:[none|none]
