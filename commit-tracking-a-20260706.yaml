@@ -6973,3 +6973,4 @@ sparkfun/SparkFun_ADS1219_Arduino_Library: BRANCHES:[develop:70ae202fe8df94cb03c
 sparkfun/SparkFun_Thing_Plus_ESP32-S3: BRANCHES:[gh-pages:236559bfaad292b98c0943460cf215f87f1a8a82;main:c9fc69fc1d79e1f3e45f7f2e50d5e357b4dd9242;]|RELEASE:[none|none]
 sparkfun/qwiic_cap1203_py: BRANCHES:[master:d5e4b3e1bece748ddf2477bc864d26f5b516e0d5;feature/packaging:4ef384ec9cb22addf34c1a0a913e0a4ebb376a79;examples:3532895024c7bd38e63d558f0962c9cadf7872fe;]|RELEASE:[2.0.0|none]
 sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library: BRANCHES:[main:b7173282af4f18bf3c052f5f619cd80953d913fe;develop:993b9f297fc2c81cb3211dd13de23cd1c850d851;]|RELEASE:[v1.1.0|none]
+sparkfun/SparkFun_u-blox_PointPerfect_Library: BRANCHES:[main:5ba9c6b7a5ffa52f7d298c8961a8de94d1650109;release_candidate:5b89a86310c8369caf636873d9d453c4e08a93fe;]|RELEASE:[v1.11.4|none]
