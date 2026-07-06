@@ -6826,3 +6826,4 @@ ioBroker/ioBroker.assistant-satellite: BRANCHES:[main:1b13a705ab8f0594965c5273e2
 ioBroker/assistant-satellite: BRANCHES:[main:a1749227f4002ac73d5a8f25b39fc9cba72b11ca;]|RELEASE:[v0.1.4|a1749227f4002ac73d5a8f25b39fc9cba72b11ca]
 sparkfun/SparkFun_Swarm_Satellite_Arduino_Library: BRANCHES:[main:5d07a8c6d7c1528c131767228cb0bf180716904c;release_candidate:9dfdc8edb8a366a4abfa17880278baba97db2302;]|RELEASE:[v1.1.10|none]
 sparkfun/SparkFun_MMC5983MA_Magnetometer_Arduino_Library: BRANCHES:[main:6e5c914bf3c38c336b68456450b3e065d22e5ac4;release_candidate:6e5c914bf3c38c336b68456450b3e065d22e5ac4;]|RELEASE:[v1.1.5|none]
+sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1: BRANCHES:[main:4d01f22a9be9f5e66b14664ec486083617988b34;]|RELEASE:[none|none]
