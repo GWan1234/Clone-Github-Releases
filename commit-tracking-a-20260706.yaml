@@ -7119,3 +7119,4 @@ HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d
 HelTecAutomation/Heltec-E-Ink: BRANCHES:[master:d0c2bcfe32b48bc6b37622e4e3473c5746a357eb;]|RELEASE:[none|none]
 HelTecAutomation/Heltec_ESP32: BRANCHES:[master:b88d350d2c3fea4b24d8d4f2dbd24c033246fdfd;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf;]|RELEASE:[2.1.6|none]
 HelTecAutomation/HelTecAutomation.github.io: BRANCHES:[master:e3a6a6353511d63d1cf55ab05de930d6ee8c8247;]|RELEASE:[none|none]
+HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9;]|RELEASE:[1.0.3|none]
