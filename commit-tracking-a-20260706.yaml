@@ -7027,3 +7027,4 @@ sparkfun/arduino-pico: BRANCHES:[master:304e9ce2d1290da214ab34601a593dc6e7de1ab0
 sparkfun/qwiic_ads1015_py: BRANCHES:[master:291ac829a93e949a7a97ee2634bee1925f424a9f;v1.0:ed4b196f8ceda4cec1b85621c951bcb986da5f8e;examples:1627059c335a97ac1b59d2a625f737aed6ca6212;]|RELEASE:[2.0.0|none]
 sparkfun/qwiic_vl53l5cx_py: BRANCHES:[master:47b183947ad3a7160a16f60df451cc575c45ae37;v1.0:fe85c0e6bc79edf9d4a007745818bf0b95578431;examples:bd3ae77d6fc7a774bfd0acca911b44670d0a4dbc;]|RELEASE:[2.0.0|none]
 sparkfun/qwiic_max1704x_py: BRANCHES:[master:99d01a0958797f2bfffaff12dfdbbacfbfc0625d;v1.0:370b2ff214ca811c671c3fad16e2926e1bd07bf0;examples:58f5768159b3252d603ce158d29398bab5a15116;]|RELEASE:[2.0.0|none]
+sparkfun/qwiic_micropressure_py: BRANCHES:[master:b362b6e9d3ee07c332594dad5b8cc6795a8af77e;v1.0:0cb38314708761b05e49a1375398b3954aad0dfa;examples:545166ac2c37128ff5bcc4d825bc2e3507929528;]|RELEASE:[2.0.0|none]
