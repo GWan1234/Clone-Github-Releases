@@ -6889,3 +6889,4 @@ sparkfun/SparkFun_6DoF_LSM6DSV16X: BRANCHES:[gh-pages:f65ad575295327979942bf7e13
 sparkfun/SparkFun_LSM6DSV16X_Arduino_Library: BRANCHES:[main:2989647add0287287e1bd50b0be90596fb672ff1;]|RELEASE:[v1.0.2|none]
 sparkfun/MicroMod_Processor_STM32WB5MMG: BRANCHES:[master:d5b3c4ae02d90b3beeb1fac365cd3d210db37ee2;]|RELEASE:[none|none]
 sparkfun/SparkFun_Watershed_Monitor: BRANCHES:[main:79d97c762b5be17ce208ddf6b47b07eb01d58655;]|RELEASE:[none|none]
+sparkfun/SparkFun_u-blox_GNSS_v3: BRANCHES:[release_candidate:0c0adbc5ac3ebcf5af793632226d7960f6d0b347;main:76106347a670229e4e72497db3e1ea3fd16397c8;]|RELEASE:[v3.1.14|none]
