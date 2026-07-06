@@ -6992,3 +6992,4 @@ sparkfun/SparkFun_Thing_Plus_RP2350: BRANCHES:[gh-pages:47e4bd8a5626628b24a9d368
 sparkfun/SparkFun_IM19_IMU_Arduino_Library: BRANCHES:[main:0ccea08c7f3283332cf9dd0603a603a21b6014ec;]|RELEASE:[v1.1.1|none]
 sparkfun/SparkFun_Stepper_Motor_Breakout_TC78H670FTG: BRANCHES:[main:587d14fab8a6ee2b3d85b6370ba245532eacd424;]|RELEASE:[none|none]
 sparkfun/SparkFun_BREAD: BRANCHES:[main:ee61694536e280eaeba004feb06179aef68bad4b;]|RELEASE:[none|none]
+sparkfun/SparkFun_SAMD_WDT_Arduino_Library: BRANCHES:[master:3b7228d5d86dac84cf8c7446bcec3402e459b3c7;]|RELEASE:[none|none]
