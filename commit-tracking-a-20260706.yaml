@@ -6952,3 +6952,4 @@ sparkfun/SparkFun_Qwiic_Hall_Effect_Sensor_TMAG5273: BRANCHES:[gh-pages:f695874f
 sparkfun/SparkFun_AS7331_Arduino_Library: BRANCHES:[develop:f066be9f3b56380222f7183bd9f5c7c8807c7112;main:3e22fb45ef63a5d3166f0e3cde726fc838883325;]|RELEASE:[v2.2.0|none]
 sparkfun/SparkFun_Unicore_GNSS_Arduino_Library: BRANCHES:[main:6a2198a44b57cebe4f7792648be860b89da54997;release_candidate:34606a843728c72fbde34e9f5afec79592748c78;]|RELEASE:[v2.0.1|none]
 sparkfun/KiBuzzardInternal: BRANCHES:[main:58779fd0fc1264120b09e40f2a88e518a5dda3e6;]|RELEASE:[v1.0.0|none]
+sparkfun/SparkFun_RTK_Everywhere_Firmware_Binaries: BRANCHES:[main:7a7e12a0cd625cb1f1be662425ff2c25b82b9144;]|RELEASE:[none|none]
