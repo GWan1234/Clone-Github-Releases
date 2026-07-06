@@ -6938,3 +6938,4 @@ sparkfun/SparkFun_Qwiic_Human_Presence_Sensor-STHS34PF80: BRANCHES:[gh-pages:701
 sparkfun/SparkFun_Default_KiCad_Setup: BRANCHES:[main:8c5e9cf973a822bfc29c88972633ea8e4f34b4fe;page-settings:fa7f8ee0f866802c05027aabbaba1436219abf8d;]|RELEASE:[none|none]
 sparkfun/SparkFun_Pro_Micro-ESP32C3: BRANCHES:[gh-pages:15673d57bdfa75c73596fc4cc5875adc92075b21;main:b302fbc429a90b87865145877b96f189ad4d5460;]|RELEASE:[none|none]
 sparkfun/FreddySpark-Regular: BRANCHES:[main:6da8f0b84394c2e5ca9aa728e7e152d0d6766743;]|RELEASE:[none|none]
+sparkfun/SparkFun_KiCad_Panelizer: BRANCHES:[main:62d57803c8a416c268b3339ff55a9972b639f35a;release_candidate:0ce604d5eba7e28993b474692c0774d6f951b10b;kicad_10_fix:ab915b221291b20cbbcfe8c8e3f36e4dacef6705;]|RELEASE:[v1.4.2|none]
