@@ -7098,3 +7098,4 @@ sparkfun/SparkFun_FPC2534_Arduino_Library: BRANCHES:[main:5d0d1727ea05e79ad3c2e3
 sparkfun/SparkFun_IM19_IMU_Breakout: BRANCHES:[main:737e839d56eea008e9384671d627ffc37a429b53;docs:c06e1b78727282b4248d15bb277ba248cfdb258c;]|RELEASE:[v1.0|none]
 sparkfun/SparkFun_Capacitive_Soil_Moisture_Sensor_CY8CMBR3102: BRANCHES:[gh-pages:cf4620e30d9711c8406ee8cc750611bf0bd8bc32;main:5b595af90de3e2fe626c1ebf6cfe8189d108db36;refactor/12_5_mil_grid:7a5375675aa4a54c4fb583bee1ca8070b386b450;refactor/cy8cmbr3:f65e4b7efd4f6bddd66c728f6fa0f2c035ed2911;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_Qwiic_Relay_Line: BRANCHES:[main:d3f71c35d21678aefd6a2488bb588ae2cd5c2009;add_prodid:f4b83c9c12022df6e1e9c8399e667a69d2a2b53e;]|RELEASE:[v1.0.0|none]
+sparkfun/SparkFun_Red_Vision_Kit_for_RedBoard: BRANCHES:[gh-pages:44c933e8a3def934f45769e00f48953e53254456;main:6c86b9eb2ebfea38bdfdea1b9eca599980aadb75;]|RELEASE:[v1.0.0|none]
