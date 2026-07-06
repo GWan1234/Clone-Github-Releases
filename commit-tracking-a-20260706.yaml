@@ -7110,3 +7110,4 @@ sparkfun/SparkFun_LG290P_Flash_Tool: BRANCHES:[main:400248795f912675a5ea7cd40aaa
 sparkfun/SparkFun_GNSS_HLA: BRANCHES:[main:beceac86165bc674edeca322b25fa05af056e867;release_candidate:beceac86165bc674edeca322b25fa05af056e867;]|RELEASE:[v1.0.0|none]
 sparkfun/arduino-esp32: BRANCHES:[master:2a569868e88d1cb133ed32f0ea731deedc723abc;]|RELEASE:[none|none]
 sparkfun/SparkFun_SSD168x_I2C_Interface_Library: BRANCHES:[Facet_FP:14c2c55a5acb5bc9dbbfb071becddb759f34c6e4;main:3cf7d5d2b5a3910257444a81c8ace26e7be2e1c4;]|RELEASE:[none|none]
+sparkfun/SparkFun_STM32CubeCLT: BRANCHES:[main:7548c21494412e63b8283270b8831d7ff34fcc09;]|RELEASE:[none|none]
