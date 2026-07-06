@@ -7060,3 +7060,4 @@ sparkfun/SparkFun_Qwiic_5V_Boost_AP3012K: BRANCHES:[gh-pages:b8190549cb07cf76158
 sparkfun/SparkFun_Soil_Moisture_Arduino_Library: BRANCHES:[main:695795368cf7d340bbbe5aa9977f918368c0d147;develop:86dfcd4b1fa9c53d12ab6a6598fe0b37323be5b2;]|RELEASE:[v1.0.2|none]
 sparkfun/SparkFun_Pico_Add_On_Flipper: BRANCHES:[gh-pages:f5096fb6e74c7cff16bef960c9ebac0dee6377af;main:50f29ca0f4a3703f07c40d846c40da844663a85c;]|RELEASE:[v10|none]
 sparkfun/qwiic_huskylens_py: BRANCHES:[examples:94612e88d65f90356124185b9b0964a1e90754b7;master:4df5cdb6beab8aa850fd97778910fda6abe97d82;]|RELEASE:[2.0.0|none]
+sparkfun/SparkFun_Qwiic_Power_Meter_ACS37800: BRANCHES:[gh-pages:361b9f1cd9a8593682d2526f7026717f281f4572;main:083435b6da0c05f839de9ff5063514ee2d6ad0d2;]|RELEASE:[v1.0.0|none]
