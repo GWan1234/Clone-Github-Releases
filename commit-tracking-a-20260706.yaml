@@ -7102,3 +7102,4 @@ sparkfun/SparkFun_Red_Vision_Kit_for_RedBoard: BRANCHES:[gh-pages:44c933e8a3def9
 sparkfun/SparkFun_CY8CMBR3_Arduino_Library: BRANCHES:[main:5d40d362ba548adc59e620d1c231bac575a1695c;]|RELEASE:[v1.0.0|none]
 sparkfun/qwiic_cy8cmbr3_py: BRANCHES:[master:033724af332ab26bef40ac966608563194644c83;examples:b4f2eef2e80f60cda801a5fa206934cdccdc9c09;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_RTK_Arduino_Lib_Builder: BRANCHES:[extra_debug:d05397316174f979bde8683c7e2b950785bbf742;main:1c2a78e4198c22a4830c8f5c4f162f8960aefee0;]|RELEASE:[none|none]
+sparkfun/SparkFun_Thing_Plus_ESP32-C5: BRANCHES:[main:54d6828b4ddf66997be65d3cfeeec9deda37174d;]|RELEASE:[v1.0.0|none]
