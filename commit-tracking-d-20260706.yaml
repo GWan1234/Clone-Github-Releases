@@ -4277,7 +4277,7 @@ armbian/imager: BRANCHES:[feat/qdl-api-registry:b489a11c3f5388e893b015a0d16b1beb
 armbian/mtkbin: BRANCHES:[main:ac66548f1c619813aa561d56d998206d3caaffba;]|RELEASE:[none|none]
 armbian/status: BRANCHES:[main:6afa5b5197b81022cfc6662c240f6400dac15c32;]|RELEASE:[none|none]
 armbian/qcombin: BRANCHES:[main:bd1c03d8d47644d98c35cfcc09f3daca65782f70;]|RELEASE:[none|none]
-armbian/website: BRANCHES:[main:5da9f1d86f7b849accd2a4f7390b16eade459459;copilot/check-current-vulnerabilities:3c0cacb356fc84d8b117ef798a72f6b6fbaa9bc4;]|RELEASE:[v0.4.13|5b44c6b1c0238e2ffa07ab80cd106b273076665c]
+armbian/website: BRANCHES:[main:b7baa6b534d4215a800e7a14f789e9692b0a1162;copilot/check-current-vulnerabilities:3c0cacb356fc84d8b117ef798a72f6b6fbaa9bc4;]|RELEASE:[v0.4.16|b7baa6b534d4215a800e7a14f789e9692b0a1162]
 armbian/MorseMicro-DKMS: BRANCHES:[main:10e7996b61a2f9bc07bc27574c642a465d0085c4;dont-debugsym:d796411416b1f341449e5f8bc64430d43ed76476;]|RELEASE:[none|none]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:4037aa2c8abbccd7f78c04eea5f138bb0feecf3c;airoha:9dec1130a14a47bee092342bc99c29577c9aeccb;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36;]|RELEASE:[2026.06.05-0921-all|none]
 syb999/-composer: BRANCHES:[master:4df7294d5a0e0ee725dab9f62141cf287b5c8d6d;]|RELEASE:[none|none]
