@@ -7116,3 +7116,4 @@ sparkfun/SparkFun_Arduino_Library_HowTo: BRANCHES:[main:4b1f615c405689f7507bd707
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee;]|RELEASE:[none|none]
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2;]|RELEASE:[none|none]
 HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d2d7e12b54;]|RELEASE:[V2.1.1|none]
+HelTecAutomation/Heltec-E-Ink: BRANCHES:[master:d0c2bcfe32b48bc6b37622e4e3473c5746a357eb;]|RELEASE:[none|none]
