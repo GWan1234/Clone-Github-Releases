@@ -4462,3 +4462,4 @@ martin-ger/esp32_PPPoE_router: BRANCHES:[main:d7c0ffd3f7dde4cfc2d267b886168798ee
 martin-ger/ESP8266-WiFi-Socket: BRANCHES:[master:e7ada41d24abc8e71c9c1dea887c69cd2a886197;]|RELEASE:[none|none]
 martin-ger/ESP_E58-Drone: BRANCHES:[main:44cab7a38aa492dc8194e210d695851f840f73b6;]|RELEASE:[none|none]
 martin-ger/esp_google_locator: BRANCHES:[master:f3968d7e89917ba8733d48233f71393babda77a5;]|RELEASE:[none|none]
+martin-ger/esp_mqtt: BRANCHES:[master:7d9409284916c8f20b8433c3e9efafa9c5ceea17;develop:5162b941a8714952bbfb7340311e8b4c21197e63;]|RELEASE:[none|none]
