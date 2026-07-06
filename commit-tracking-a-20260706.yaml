@@ -7104,3 +7104,4 @@ sparkfun/qwiic_cy8cmbr3_py: BRANCHES:[master:033724af332ab26bef40ac9666085631946
 sparkfun/SparkFun_RTK_Arduino_Lib_Builder: BRANCHES:[extra_debug:d05397316174f979bde8683c7e2b950785bbf742;main:1c2a78e4198c22a4830c8f5c4f162f8960aefee0;]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_ESP32-C5: BRANCHES:[main:54d6828b4ddf66997be65d3cfeeec9deda37174d;]|RELEASE:[v1.0.0|none]
 sparkfun/ESP32_BleSerial: BRANCHES:[master:70895fb8974d71765d9837f7af082783a8917f92;]|RELEASE:[none|none]
+sparkfun/SparkFun_RTK_LoRa_Firmware: BRANCHES:[main:890aaaf3af90bc2b9656267751810b1109386d51;]|RELEASE:[v3.0.1|none]
