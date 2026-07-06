@@ -4455,3 +4455,4 @@ martin-ger/esp-open-sdk: BRANCHES:[master:569bf295f9525c1543322769ce82e248f4cc0b
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe;]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c;]|RELEASE:[none|none]
 martin-ger/esp32_ethernet_router: BRANCHES:[main:2daddb1853368ccd0b510f190b3231935b80b872;]|RELEASE:[none|none]
+martin-ger/esp32_eth_wifi_bridge: BRANCHES:[master:cb80f02df5bed267e3a4a273eb9b5db56001395e;]|RELEASE:[none|none]
