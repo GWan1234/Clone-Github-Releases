@@ -6985,3 +6985,4 @@ sparkfun/SparkFun_Optical_Tracking_Odometry_Sensor: BRANCHES:[gh-pages:053727f83
 sparkfun/SparkFun_Pro_Micro_RP2350: BRANCHES:[gh-pages:55bf776a929b1de6bcd68b7bb1fb8d28f9056dfe;main:8d3bbac8c3b9e6e75fa5fe34d8421efa4c211f1f;]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Facet_mosaic: BRANCHES:[gh-pages:7f1c00301e2c439d48e3d52852d48393d18b622a;main:841defd5311f493d5990eab093591dda3f9d4c3c;3dModels:81fcd21f20fa6d7c007cc137e33fd011b245473e;]|RELEASE:[none|none]
 sparkfun/SparkFun_Extensible_Message_Parser: BRANCHES:[main:27f22352a7409ee7e49392af768c7ce389ad6ff5;release_candidate:5aadac61e9d32eff12353247f4126df10f360373;adjustChecksum:420d713f49265b19ce994a42bca7683e02a53aa1;]|RELEASE:[v2.0.2|none]
+sparkfun/Qwiic_Buzzer_Py: BRANCHES:[main:09248dcfb81ee6ed241ffa9d6cb2a6793885dbf3;]|RELEASE:[none|none]
