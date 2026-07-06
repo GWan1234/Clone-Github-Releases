@@ -7019,3 +7019,4 @@ sparkfun/SparkFun_Qwiic_Power_Switch: BRANCHES:[gh-pages:add4db6077b203fdfbad779
 sparkfun/SparkFun_Soft_Power_Switch_Mk2: BRANCHES:[gh-pages:5ace18e9f103db2185b55ac3e8080dd4bde390bd;main:137e85cd49428727dc839a2050e442ce9ad49f77;]|RELEASE:[none|none]
 sparkfun/SparkFun_Soft_Power_Switch_USB-C: BRANCHES:[gh-pages:f0c2a55088d52b0778dd791487ab1dcf2617430d;main:488c64fd7a1ff7941e6fd3f5927d3fcf70d21a1e;]|RELEASE:[none|none]
 sparkfun/SparkFun_LG290P_GNSS_Arduino_Library: BRANCHES:[main:1e5db69c9f763e22f0edaa11fd739098713a46eb;release_candidate:3b6390b2ae0f707983be8b91c6fc01ddb34940de;addFirmwareUpdate:970f16107cb8087d2b602791b671e6627305c641;pcUpdates:0486ec4c56d23ae4591eab98b4525ca2aa835b04;]|RELEASE:[v3.0.4|none]
+sparkfun/SparkFun_I2C_Expander_Arduino_Library: BRANCHES:[main:cc4ebc19191c32ee1d7c4c5e2a4c332db2f0cff5;]|RELEASE:[v1.0.2|none]
