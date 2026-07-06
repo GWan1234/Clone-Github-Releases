@@ -7113,3 +7113,4 @@ sparkfun/SparkFun_SSD168x_I2C_Interface_Library: BRANCHES:[Facet_FP:14c2c55a5acb
 sparkfun/SparkFun_STM32CubeCLT: BRANCHES:[main:7548c21494412e63b8283270b8831d7ff34fcc09;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_DAC_MCP4725: BRANCHES:[main:c30a43e73336937f9e71cb3a0a6a7e099a615832;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_Arduino_Library_HowTo: BRANCHES:[main:4b1f615c405689f7507bd7075efbf27ed1cec302;]|RELEASE:[v0.0.1|none]
+HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee;]|RELEASE:[none|none]
