@@ -7105,3 +7105,4 @@ sparkfun/SparkFun_RTK_Arduino_Lib_Builder: BRANCHES:[extra_debug:d05397316174f97
 sparkfun/SparkFun_Thing_Plus_ESP32-C5: BRANCHES:[main:54d6828b4ddf66997be65d3cfeeec9deda37174d;]|RELEASE:[v1.0.0|none]
 sparkfun/ESP32_BleSerial: BRANCHES:[master:70895fb8974d71765d9837f7af082783a8917f92;]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_LoRa_Firmware: BRANCHES:[main:890aaaf3af90bc2b9656267751810b1109386d51;]|RELEASE:[v3.0.1|none]
+sparkfun/SparkFun_OpenScale_IoT_Binaries: BRANCHES:[main:b126a5ec9f530f7983fdb7a888fb5a55f12d0af7;]|RELEASE:[none|none]
