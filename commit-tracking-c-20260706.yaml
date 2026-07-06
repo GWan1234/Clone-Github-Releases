@@ -4464,3 +4464,4 @@ martin-ger/ESP_E58-Drone: BRANCHES:[main:44cab7a38aa492dc8194e210d695851f840f73b
 martin-ger/esp_google_locator: BRANCHES:[master:f3968d7e89917ba8733d48233f71393babda77a5;]|RELEASE:[none|none]
 martin-ger/esp_mqtt: BRANCHES:[master:7d9409284916c8f20b8433c3e9efafa9c5ceea17;develop:5162b941a8714952bbfb7340311e8b4c21197e63;]|RELEASE:[none|none]
 martin-ger/esp_nacl: BRANCHES:[master:fcb13c26b7117104d2923177b6c9cda683b68254;]|RELEASE:[none|none]
+martin-ger/esp_peap_psk: BRANCHES:[master:9e4cc25a3796ce0e099d6bf19033969ffc1f80f9;]|RELEASE:[none|none]
