@@ -7052,3 +7052,4 @@ sparkfun/qwiic_bmp581_py: BRANCHES:[master:2801732c30575671ff182ee24ebcc111b759a
 sparkfun/SparkFun_Ideal_Diode_Breakout: BRANCHES:[gh-pages:775fa0600770921a5ac5d3038092e8cbaf5943e0;main:c950f439b55c08009e14fecc60f0fecd5832a42e;]|RELEASE:[none|none]
 sparkfun/qwiic_ism330dhcx_py: BRANCHES:[master:53b69403f478f9aa49fe963b3d919e052f16e4aa;v1.0:eaf9759c677d6f8695c73b4595b5bb3a8b63a3b7;examples:a9d77b81f299ed247c73f1a805eeef47c585c700;]|RELEASE:[2.0.0|none]
 sparkfun/JST_Connector_Removal_Tool: BRANCHES:[main:c335489f6235bf754d7062424aaa388694e7af6d;]|RELEASE:[none|none]
+sparkfun/SparkFun_GNSS_Flex_pHAT: BRANCHES:[main:20a5cb72ce28d5cd9bfebe683dcd425cadb658f9;pcUpdates:54fea69566f77a529a086adb9b3f589246fda0fe;]|RELEASE:[v10|none]
