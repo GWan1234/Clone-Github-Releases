@@ -6918,3 +6918,4 @@ sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library: BRANCHES:[main:ed0488bd4a5b
 sparkfun/SparkFun_OPT4048_Arduino_Library: BRANCHES:[main:ee45b59791b55ffa6f93f30303275d097179a4d1;]|RELEASE:[v1.2.1|none]
 sparkfun/SparkFun_PCA9846_Mux_Arduino_Library: BRANCHES:[main:224080c9d4849df533bb5f87423f45079c402378;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_Thing_Plus_ESP32_C6: BRANCHES:[gh-pages:5f005f25140aac4e48e1864733fa2d6042b39ed8;main:fb7352f770b885fa9d5767bd25a168b90a11d4e5;]|RELEASE:[none|none]
+sparkfun/SparkFun_Arduino_UNO_R4_Qwiic_Kit: BRANCHES:[main:9653086864a105a59a86de0f66f9e276cd9577c4;]|RELEASE:[none|none]
