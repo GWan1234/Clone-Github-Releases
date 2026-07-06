@@ -6902,3 +6902,4 @@ sparkfun/SparkFun_u-blox_SAM-M10Q: BRANCHES:[gh-pages:a306737e3863597fefcfe0c315
 sparkfun/SparkFun_Three_Phase_Motor_Driver-TMC6300: BRANCHES:[gh-pages:8676dc18c470af3c312e830d3fc6b4bd42b8f455;main:f433cc1b029a5708e7543077d739bb578b183f4b;]|RELEASE:[v01|none]
 sparkfun/SparkFun_IoT_Brushless_Motor_Driver: BRANCHES:[gh-pages:0b3866d397d223800d267ec3f1edbc05f5af9eb0;main:dc769199c2106d3e00daf72636e0bca1ebe4baf3;]|RELEASE:[v10|none]
 sparkfun/SparkFun_Swarm_M138_GUI: BRANCHES:[main:0cc9bd6c049e4234703f965f731cdfea87fab732;]|RELEASE:[v2.0.1|none]
+sparkfun/sfe-datalogger: BRANCHES:[release/v01.05.1:ded01d4305cbde657fb558ae6cc118dcffc0ba0f;develop:c8c147cb51f98e333bbfcd26e61428b68346fe82;main:d7c29bf2b4bf8b61b868c5dc278f2746f005e87c;feature/int32-updates:a68919f51d7f67a6cea6c202e119a34828ab0e8c;stash-old-things:a1db6f9ff56022b58354e778282b8994dd9dcd7b;ble_device:74d505771aa9c597ec4405a31aba82d037821148;]|RELEASE:[v01.05.00|none]
