@@ -4466,3 +4466,4 @@ martin-ger/esp_mqtt: BRANCHES:[master:7d9409284916c8f20b8433c3e9efafa9c5ceea17;d
 martin-ger/esp_nacl: BRANCHES:[master:fcb13c26b7117104d2923177b6c9cda683b68254;]|RELEASE:[none|none]
 martin-ger/esp_peap_psk: BRANCHES:[master:9e4cc25a3796ce0e099d6bf19033969ffc1f80f9;]|RELEASE:[none|none]
 martin-ger/esp_slip_router: BRANCHES:[master:f0c441cc941d97e06a887c71f40534ad4bddf562;]|RELEASE:[none|none]
+martin-ger/esp_wifi_repeater: BRANCHES:[master:03536034e2b8f91e69b1afc8d2f161e779b802ad;puya:f66c83fafe98be1ff4d2719fc4e68bf100a45805;mqtt_tun:d3ffca4f32b04f7313fdcbba29d726abae8cb7f2;enc_polling:998b50a5ab02cfd00e6a44768ebca077e86c1a20;]|RELEASE:[none|none]
