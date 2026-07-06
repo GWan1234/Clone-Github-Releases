@@ -7108,3 +7108,4 @@ sparkfun/SparkFun_RTK_LoRa_Firmware: BRANCHES:[main:890aaaf3af90bc2b965626775181
 sparkfun/SparkFun_OpenScale_IoT_Binaries: BRANCHES:[main:b126a5ec9f530f7983fdb7a888fb5a55f12d0af7;]|RELEASE:[none|none]
 sparkfun/SparkFun_LG290P_Flash_Tool: BRANCHES:[main:400248795f912675a5ea7cd40aaa95f71518232e;]|RELEASE:[v0.0.1|none]
 sparkfun/SparkFun_GNSS_HLA: BRANCHES:[main:beceac86165bc674edeca322b25fa05af056e867;release_candidate:beceac86165bc674edeca322b25fa05af056e867;]|RELEASE:[v1.0.0|none]
+sparkfun/arduino-esp32: BRANCHES:[master:2a569868e88d1cb133ed32f0ea731deedc723abc;]|RELEASE:[none|none]
