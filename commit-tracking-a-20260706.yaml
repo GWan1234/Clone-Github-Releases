@@ -7100,3 +7100,4 @@ sparkfun/SparkFun_Capacitive_Soil_Moisture_Sensor_CY8CMBR3102: BRANCHES:[gh-page
 sparkfun/SparkFun_Qwiic_Relay_Line: BRANCHES:[main:d3f71c35d21678aefd6a2488bb588ae2cd5c2009;add_prodid:f4b83c9c12022df6e1e9c8399e667a69d2a2b53e;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_Red_Vision_Kit_for_RedBoard: BRANCHES:[gh-pages:44c933e8a3def934f45769e00f48953e53254456;main:6c86b9eb2ebfea38bdfdea1b9eca599980aadb75;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_CY8CMBR3_Arduino_Library: BRANCHES:[main:5d40d362ba548adc59e620d1c231bac575a1695c;]|RELEASE:[v1.0.0|none]
+sparkfun/qwiic_cy8cmbr3_py: BRANCHES:[master:033724af332ab26bef40ac966608563194644c83;examples:b4f2eef2e80f60cda801a5fa206934cdccdc9c09;]|RELEASE:[v1.0.0|none]
