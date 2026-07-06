@@ -6891,3 +6891,4 @@ sparkfun/MicroMod_Processor_STM32WB5MMG: BRANCHES:[master:d5b3c4ae02d90b3beeb1fa
 sparkfun/SparkFun_Watershed_Monitor: BRANCHES:[main:79d97c762b5be17ce208ddf6b47b07eb01d58655;]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_GNSS_v3: BRANCHES:[release_candidate:0c0adbc5ac3ebcf5af793632226d7960f6d0b347;main:76106347a670229e4e72497db3e1ea3fd16397c8;]|RELEASE:[v3.1.14|none]
 sparkfun/SparkFun_Digi_XBee_Development_Board: BRANCHES:[gh-pages:a36e73676115d097fdfd9559266aa668721b8760;main:ac9f1e4c992212b61bb03b0742a201c91d6d31fd;v13:6f9ea16ac20d8b996e778e48bffba9e5640dcd40;docs:d7c1333500c82b1c32a977f191999922c74dcc52;]|RELEASE:[none|none]
+sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_VM2020: BRANCHES:[main:6e1a3c4411be6ae6e8a66e95802ea737a7c0f78f;]|RELEASE:[none|none]
