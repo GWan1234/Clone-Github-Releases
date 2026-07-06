@@ -7117,3 +7117,4 @@ HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2;]|RELEASE:[none|none]
 HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d2d7e12b54;]|RELEASE:[V2.1.1|none]
 HelTecAutomation/Heltec-E-Ink: BRANCHES:[master:d0c2bcfe32b48bc6b37622e4e3473c5746a357eb;]|RELEASE:[none|none]
+HelTecAutomation/Heltec_ESP32: BRANCHES:[master:b88d350d2c3fea4b24d8d4f2dbd24c033246fdfd;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf;]|RELEASE:[2.1.6|none]
