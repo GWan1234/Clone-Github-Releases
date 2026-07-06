@@ -6888,3 +6888,4 @@ sparkfun/SparkFun_Buck_Regulator_AP3429A: BRANCHES:[gh-pages:9c0267065b82b01561d
 sparkfun/SparkFun_6DoF_LSM6DSV16X: BRANCHES:[gh-pages:f65ad575295327979942bf7e1348ce9aa0aabb04;main:81f28abb82c4edfa63f5bcc623be1ea7ef1c1ce5;]|RELEASE:[none|none]
 sparkfun/SparkFun_LSM6DSV16X_Arduino_Library: BRANCHES:[main:2989647add0287287e1bd50b0be90596fb672ff1;]|RELEASE:[v1.0.2|none]
 sparkfun/MicroMod_Processor_STM32WB5MMG: BRANCHES:[master:d5b3c4ae02d90b3beeb1fac365cd3d210db37ee2;]|RELEASE:[none|none]
+sparkfun/SparkFun_Watershed_Monitor: BRANCHES:[main:79d97c762b5be17ce208ddf6b47b07eb01d58655;]|RELEASE:[none|none]
