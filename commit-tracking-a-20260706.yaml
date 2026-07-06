@@ -7071,3 +7071,4 @@ sparkfun/SparkFun_GNSS_DAN-F10N: BRANCHES:[gh-pages:8bbe13ea8f51cb806b1a8ea435cc
 sparkfun/sparkfun-python: BRANCHES:[main:41919b275b9ba7df1f675242270134e40479357d;documentation/pycharm:41c07c98e52c36dfee4060444afc71624e4f454c;documentation/tmp117_server:845f5dedf07c8aa16ed56ca0ee76a88ad46cf8a9;]|RELEASE:[none|none]
 sparkfun/SparkFun_RFID_USB-C_Reader: BRANCHES:[gh-pages:0a7909086f6d064cfb86cab6dd6e1238d0818127;main:63c7a5d71cbd1df8f9b420ec320d239ea6a86d33;]|RELEASE:[v10|none]
 sparkfun/SparkFun_GNSS_Flex_Breakout: BRANCHES:[main:fb7d096b7e268481e1224d4a5ba1048cee8e2522;]|RELEASE:[v11|none]
+sparkfun/SparkFun_PicoDVI_Arduino_Library: BRANCHES:[main:b70ee128c70bb9c3a77b2ac31795c482f2e56538;]|RELEASE:[v1.3.0|none]
