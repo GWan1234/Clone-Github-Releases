@@ -6846,3 +6846,4 @@ sparkfun/SparkFun_u-blox_UBX_HLA: BRANCHES:[main:4e211102620d0fa1ed76544bdf0d031
 sparkfun/.github: BRANCHES:[main:a333439a0699336da2f4a7814ec654be54f19931;]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_9DoF-ISM330DHCX-MMC5983MA: BRANCHES:[main:9c8121b2a3b32cf7ad2fb8e96421352465194578;]|RELEASE:[none|none]
 sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library: BRANCHES:[main:31c9ca39069ed3c039b4258146fc406e068eff6f;]|RELEASE:[v1.0.6|none]
+sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA: BRANCHES:[main:a6d2ec7928ca7a622ed40d157ed361ef2d9f5c07;remove-sd-socket:1d5ee6878a6a6f81f23f6a07f32eae24d7d405f3;]|RELEASE:[none|none]
