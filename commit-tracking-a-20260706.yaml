@@ -6917,3 +6917,4 @@ sparkfun/SparkFun_Tristimulus_Color_Sensor-OPT4048: BRANCHES:[gh-pages:f237acc62
 sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library: BRANCHES:[main:ed0488bd4a5bcd666c0af17d8a7d4592b221434d;]|RELEASE:[v1.1.2|none]
 sparkfun/SparkFun_OPT4048_Arduino_Library: BRANCHES:[main:ee45b59791b55ffa6f93f30303275d097179a4d1;]|RELEASE:[v1.2.1|none]
 sparkfun/SparkFun_PCA9846_Mux_Arduino_Library: BRANCHES:[main:224080c9d4849df533bb5f87423f45079c402378;]|RELEASE:[v1.0.0|none]
+sparkfun/SparkFun_Thing_Plus_ESP32_C6: BRANCHES:[gh-pages:5f005f25140aac4e48e1864733fa2d6042b39ed8;main:fb7352f770b885fa9d5767bd25a168b90a11d4e5;]|RELEASE:[none|none]
