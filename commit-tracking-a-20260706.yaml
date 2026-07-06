@@ -6883,3 +6883,4 @@ sparkfun/SparkFun_STTS22H_Arduino_Library: BRANCHES:[refactor/toolkit:5ddc2e2802
 sparkfun/SparkFun_Qwiic_RFID_Tag_ST25DV64KC: BRANCHES:[main:3769d5a44c71c0aa3b8b94126b3d8e426dc7eeb4;docs:d8418bf8f6af6fbd758b479a745f793772e28e5a;]|RELEASE:[none|none]
 sparkfun/SparkFun_NanoBeacon_Board_-_IN100: BRANCHES:[main:40189116319f1d307b77d1bb22f2947e2948fd24;]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Firmware_Uploader: BRANCHES:[main:a0944549a6b93203050f35b1de00d62a1297f2d2;]|RELEASE:[v1.7.0|none]
+sparkfun/SparkFun_RTK_Reference_Station: BRANCHES:[main:330216b1e20cdd2d8fc8a60b611488d7b6bebb51;]|RELEASE:[none|none]
