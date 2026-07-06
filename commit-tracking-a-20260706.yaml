@@ -6971,3 +6971,4 @@ sparkfun/SparkFun_Ultrasonic_Distance_Sensor-Qwiic: BRANCHES:[gh-pages:3ea374c23
 sparkfun/SparkFun_Qwiic_OLED-0.91: BRANCHES:[main:270ccc6685ca933dee99031f7079327c7b601f08;]|RELEASE:[none|none]
 sparkfun/SparkFun_ADS1219_Arduino_Library: BRANCHES:[develop:70ae202fe8df94cb03c9def21f082ce4853d53e5;main:a9fba0cb1b6ab5f1cf4a697c82524420ec8806c4;release_candidate:0af3758b9f45e147a8705cc053975499fef8111e;]|RELEASE:[v1.0.3|none]
 sparkfun/SparkFun_Thing_Plus_ESP32-S3: BRANCHES:[gh-pages:236559bfaad292b98c0943460cf215f87f1a8a82;main:c9fc69fc1d79e1f3e45f7f2e50d5e357b4dd9242;]|RELEASE:[none|none]
+sparkfun/qwiic_cap1203_py: BRANCHES:[master:d5e4b3e1bece748ddf2477bc864d26f5b516e0d5;feature/packaging:4ef384ec9cb22addf34c1a0a913e0a4ebb376a79;examples:3532895024c7bd38e63d558f0962c9cadf7872fe;]|RELEASE:[2.0.0|none]
