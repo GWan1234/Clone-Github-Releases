@@ -6842,3 +6842,4 @@ sparkfun/library-registry: BRANCHES:[add_sparkfun_mcp4725:587ee7506c88bfb1bf2fbb
 sparkfun/8_channel_level_shifter_TXS0108E: BRANCHES:[main:872df217dacca7579f99bbce2fc3ce568ef8cd6f;]|RELEASE:[none|none]
 sparkfun/SparkFun_BMP384_Arduino_Library: BRANCHES:[main:bf75c521b371c7ff3bdabf90e04d99341d663113;]|RELEASE:[v1.0.1|none]
 sparkfun/SparkFun_ADIN1110_Arduino_Library: BRANCHES:[main:67222a42d87cf5ec33ec9a959f06a4fc987bc69a;]|RELEASE:[v1.0.0|none]
+sparkfun/SparkFun_u-blox_UBX_HLA: BRANCHES:[main:4e211102620d0fa1ed76544bdf0d0318b1446d0f;release_candidate:4e211102620d0fa1ed76544bdf0d0318b1446d0f;]|RELEASE:[v1.0.6|none]
