@@ -6912,3 +6912,4 @@ sparkfun/SparkFun_DataLogger_IoT: BRANCHES:[main:7e94fd8695ee1242a29af141a6351d7
 sparkfun/SparkFun_TMAG5273_Arduino_Library: BRANCHES:[main:48e0e80ecaee071614b2fb501c6dce17605e660a;develop:9a0a7e2cc1f41946a050320e5a94a8f58747941d;math_operation_fixes:c05877f97aaea6ee45383d3a330abd2101ffd581;Flux_Drivers_Fix:c67b187a3559c9c9241b1887ef9ced9ed5ee3069;IoT_WiFi_Access:b8a2969d26e7630820126c503594656c0c43aee3;]|RELEASE:[v2.0.0|none]
 sparkfun/SparkFun_BMI270_Arduino_Library: BRANCHES:[main:21ea234de321da07c552f7a43cb36f7df4f73a27;]|RELEASE:[v1.0.3|none]
 sparkfun/SparkFun_LoRaSerial_Arduino_Library: BRANCHES:[main:ab415cee2a636a4f2d5ee3912daa0ee81580cf1a;]|RELEASE:[none|none]
+sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616ab21558a737bf6982bd3db2ca2df7456a2;main:8d96103b46d6ba1201502a1fd092317fbe27c5ea;]|RELEASE:[none|none]
