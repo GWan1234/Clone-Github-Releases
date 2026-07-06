@@ -6916,3 +6916,4 @@ sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616
 sparkfun/SparkFun_Tristimulus_Color_Sensor-OPT4048: BRANCHES:[gh-pages:f237acc62465b2b1e8e6ec1a53f48120c9a2664d;main:e9f300b54d0f1a3485fb81930411f79493a0acc3;]|RELEASE:[none|none]
 sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library: BRANCHES:[main:ed0488bd4a5bcd666c0af17d8a7d4592b221434d;]|RELEASE:[v1.1.2|none]
 sparkfun/SparkFun_OPT4048_Arduino_Library: BRANCHES:[main:ee45b59791b55ffa6f93f30303275d097179a4d1;]|RELEASE:[v1.2.1|none]
+sparkfun/SparkFun_PCA9846_Mux_Arduino_Library: BRANCHES:[main:224080c9d4849df533bb5f87423f45079c402378;]|RELEASE:[v1.0.0|none]
