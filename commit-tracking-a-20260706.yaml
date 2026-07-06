@@ -6925,3 +6925,4 @@ sparkfun/SparkFun_VR_IMU_Breakout_BNO086_QWIIC: BRANCHES:[gh-pages:3da7ecf4be26d
 sparkfun/SparkFun_Environmental_Combo_Breakout_ENS160_BME280_QWIIC: BRANCHES:[gh-pages:e245bf9cdc6e51901454aa6bc2b6b7227ec8f615;main:f268b703dbc4f751e621dbbfca2c8875c3241058;]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_EVK: BRANCHES:[gh-pages:a82ee4b34f0e3ae1165ff39f6beab0c3bf596240;main:5704e26d9ca373bed4e0504b0571e29be5153b1c;]|RELEASE:[none|none]
 sparkfun/SparkFun_BNO08x_Arduino_Library: BRANCHES:[main:fd0149c280b4c7420e2dea4d034587373a8ca8b9;SPI_pinchoice_micromod:743ea61156bc60152e9f6b1274abb63603438859;ceva-dsp-sh2-v1.4.0:0c788ff0d2e1422c0e612494a8de12218115fdb7;dev:704b7417cc883fc2288e57fe30e0684ddb2add92;]|RELEASE:[v1.0.6|none]
+sparkfun/SparkFun_Enclosure_Panel_Library_for_Eagle: BRANCHES:[main:02d0437c903293b22ac1bf3e29999d91dd1ee94b;]|RELEASE:[none|none]
