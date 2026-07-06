@@ -6940,3 +6940,4 @@ sparkfun/SparkFun_Pro_Micro-ESP32C3: BRANCHES:[gh-pages:15673d57bdfa75c73596fc4c
 sparkfun/FreddySpark-Regular: BRANCHES:[main:6da8f0b84394c2e5ca9aa728e7e152d0d6766743;]|RELEASE:[none|none]
 sparkfun/SparkFun_KiCad_Panelizer: BRANCHES:[main:62d57803c8a416c268b3339ff55a9972b639f35a;release_candidate:0ce604d5eba7e28993b474692c0774d6f951b10b;kicad_10_fix:ab915b221291b20cbbcfe8c8e3f36e4dacef6705;]|RELEASE:[v1.4.2|none]
 sparkfun/SparkFun_KiCad_BOM_Generator: BRANCHES:[release_candidate:1e1a6f804073feef1afb74d2992b2e0f3f8a9992;main:6b715f89dd7095971ef81677bd49861bb4424401;kicad_10_fixes:1f96bfa5961c2c1e9efadf0ef7c26988ff804870;add-BOM-exclude:e82e1eb3967fb1b6132000c9aaf4efb293aff64d;fix-init:0cd059fb4c591bb1dab17c5e3b1db2d7d916f3ed;]|RELEASE:[v1.3.0|none]
+sparkfun/SparkFun_KiCad_CAMmer: BRANCHES:[main:8a4e3cb8509870be8056bf61430bf9ba21c68ef0;release_candidate:7c17474e1bc2079782c23675ae63f75099e6031d;]|RELEASE:[v1.2.2|none]
