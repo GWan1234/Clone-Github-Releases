@@ -6977,3 +6977,4 @@ sparkfun/SparkFun_u-blox_PointPerfect_Library: BRANCHES:[main:5ba9c6b7a5ffa52f7d
 sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library: BRANCHES:[main:e9b8e357914c5de1815c46056218c11ffa2670d6;develop:89dea8a27ef3430a34b865206159f9151f711890;]|RELEASE:[v1.2.0|none]
 sparkfun/qwiic_ultrasonic_py: BRANCHES:[master:b6a5fc1bab2a925a323de0ec91eb7955a9ab233f;feature/packaging:382e07ad4d512130be40f21bed843523057d401c;examples:48234ae28ee5da87f796d20f4b01390dda4e664a;]|RELEASE:[2.0.0|none]
 sparkfun/SparkFun_Qwiic_XM125_Arduino_Library: BRANCHES:[main:4d2d89c55cdbcbdecc7fd0a37edfe9161113a6ab;release/v02.00.00:d41a87940eaa6bce177d3e7640ce978d119d36bf;develop:1588781d236d73fe575460ef7d0161bb91f1d6e2;]|RELEASE:[v1.0.4|none]
+sparkfun/qwiic_lsm6dso_py: BRANCHES:[master:aa07cfa170b847d8123ed2701f3988636865b8f0;feature/packaging:55d6ccc0050e78268f67a0215ada7ebbd4b1145b;examples:4dcfb7e5dada910cad42628561421d8e5038f107;]|RELEASE:[2.0.0|none]
