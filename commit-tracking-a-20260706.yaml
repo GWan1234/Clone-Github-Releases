@@ -6844,3 +6844,4 @@ sparkfun/SparkFun_BMP384_Arduino_Library: BRANCHES:[main:bf75c521b371c7ff3bdabf9
 sparkfun/SparkFun_ADIN1110_Arduino_Library: BRANCHES:[main:67222a42d87cf5ec33ec9a959f06a4fc987bc69a;]|RELEASE:[v1.0.0|none]
 sparkfun/SparkFun_u-blox_UBX_HLA: BRANCHES:[main:4e211102620d0fa1ed76544bdf0d0318b1446d0f;release_candidate:4e211102620d0fa1ed76544bdf0d0318b1446d0f;]|RELEASE:[v1.0.6|none]
 sparkfun/.github: BRANCHES:[main:a333439a0699336da2f4a7814ec654be54f19931;]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_9DoF-ISM330DHCX-MMC5983MA: BRANCHES:[main:9c8121b2a3b32cf7ad2fb8e96421352465194578;]|RELEASE:[none|none]
