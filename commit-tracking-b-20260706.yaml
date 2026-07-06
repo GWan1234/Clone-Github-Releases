@@ -3697,7 +3697,7 @@ Xinyuan-LilyGO/T-Connect: BRANCHES:[main:b0e7c4803a19fadaabf93890704a65193afcd18
 Xinyuan-LilyGO/T3-STM32: BRANCHES:[master:1d3f64d1d5e59e941ba899e7cd58e7a9a75f57ad;debug:e080330dd33029eb776de27d79827d60b3bfb082;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Circle: BRANCHES:[master:e152c0823a0a697570bcb72fcec8f45c0ca6ae93;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Circle-S3: BRANCHES:[arduino-esp32-libs_V2.0.14:0a1d29bf6f8a8143a81e07fa36ffda678239ec02;esp-idf-V4.4.8:d0642b9e4bb8650bee6f4b0ede625c58e1eeef68;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Deck-Pro: BRANCHES:[master:1ad686e53d0ccf3d30607e1a932bd036cae1488a;HD-V2-250915:992f87b782a25cb2f41a587847262387164fc278;HD-V1-250326:e3246046972716edd5f264a6047ba3572a851b23;HD-V3-250911:08563a9494f7b78ba96a033e2af478efeac776ad;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Deck-Pro: BRANCHES:[master:084f1d42ed6580f6c5022bc87e8aac72c22ec1eb;HD-V2-250915:992f87b782a25cb2f41a587847262387164fc278;HD-V1-250326:e3246046972716edd5f264a6047ba3572a851b23;HD-V3-250911:08563a9494f7b78ba96a033e2af478efeac776ad;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Keyboard-S3-Pro: BRANCHES:[arduino-esp32-libs_V2.0.14:3f97d398e67424db0a9ac366db47aae63488a99f;main:3347b02e986c8221ae5b33645a9bae1b2c4bd2f0;stm32cubeg0-firmware-package_V1.6.2:e35ec481e5136707293ef92e35f3540534095dc4;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGO-Mini-E-paper-S3: BRANCHES:[main:018c1fcde0a8dd95bbaf29d49780059fb36d1e3f;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Echo-Lite: BRANCHES:[main:211a4ec862e39fb767ff6565c5c43c219d39b26d;]|RELEASE:[none|none]
