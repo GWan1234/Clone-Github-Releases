@@ -6951,3 +6951,4 @@ sparkfun/SparkFun_ESLOV_to_Qwiic_Bridge: BRANCHES:[main:a666bf9ff5f64aa4173cf14a
 sparkfun/SparkFun_Qwiic_Hall_Effect_Sensor_TMAG5273: BRANCHES:[gh-pages:f695874f967a7e6d7c3af0098d9b0a9028cd4fbe;main:d07050cddc7b813a3a273d384f90ada5aa5a642f;]|RELEASE:[v10|none]
 sparkfun/SparkFun_AS7331_Arduino_Library: BRANCHES:[develop:f066be9f3b56380222f7183bd9f5c7c8807c7112;main:3e22fb45ef63a5d3166f0e3cde726fc838883325;]|RELEASE:[v2.2.0|none]
 sparkfun/SparkFun_Unicore_GNSS_Arduino_Library: BRANCHES:[main:6a2198a44b57cebe4f7792648be860b89da54997;release_candidate:34606a843728c72fbde34e9f5afec79592748c78;]|RELEASE:[v2.0.1|none]
+sparkfun/KiBuzzardInternal: BRANCHES:[main:58779fd0fc1264120b09e40f2a88e518a5dda3e6;]|RELEASE:[v1.0.0|none]
