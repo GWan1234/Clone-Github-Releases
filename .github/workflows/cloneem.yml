@@ -79,16 +79,22 @@ jobs:
             done
           done
 
+          # ==================== 修改这一段 ====================
           # 5. 限制矩阵大小为 250 (GitHub Actions 硬性限制为 256)
-          # 如果任务很多，多触发几次 Workflow 即可
-          FINAL_ARRAY=$(echo "$JOBS_ARRAY" | jq '.[0:250]')
+          # 使用 -c 确保 JSON 被压缩为单行，没有任何换行符
+          FINAL_ARRAY=$(echo "$JOBS_ARRAY" | jq -c '.[0:250]')
           
           if [[ "$FINAL_ARRAY" == "[]" || -z "$FINAL_ARRAY" ]]; then
             FINAL_ARRAY='[{"repo": "empty", "task": "empty", "tag": "empty"}]'
           fi
           
-          echo "matrix_jobs=$FINAL_ARRAY" >> $GITHUB_OUTPUT
+          # 使用 EOF 模式安全写入，防止大字符串溢出或解析错误
+          echo "matrix_jobs<<EOF" >> $GITHUB_OUTPUT
+          echo "$FINAL_ARRAY" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          
           echo "Total jobs scheduled for this run: $(echo "$FINAL_ARRAY" | jq 'length')"
+          # ====================================================
 
   # ==========================================
   # 第二阶段：并发执行 (1个Runner只干1个特定任务)
