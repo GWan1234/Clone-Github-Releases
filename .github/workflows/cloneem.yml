@@ -1,11 +1,11 @@
-name: Clone Backup Matrix (Full Overwrite with Timestamp)
+name: Clone Backup Matrix (Full Overwrite - No Draft)
 
 on:
   workflow_dispatch:
 
 jobs:
   # ==========================================
-  # 第一阶段：准备工作（全量拉取 upstream 数据）
+  # 第一阶段：准备工作（严格过滤掉所有 Draft）
   # ==========================================
   prepare:
     runs-on: ubuntu-latest
@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq yq gh
 
-      - name: Generate Granular Matrix (Full Mode)
+      - name: Generate Granular Matrix (Filter Drafts)
         id: generate-matrix
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
@@ -34,7 +34,7 @@ jobs:
 
           declare -A TARGET_REPOS
 
-          # 2. 获取目标仓库 (Owners + Manual)
+          # 2. 获取目标仓库
           mapfile -t OWNERS < <(yq -r '.allrepositories[]?' repositoriese.yaml 2>/dev/null | grep -v '^[[:space:]]*#' | sed '/^[[:space:]]*$/d' || true)
           for owner in "${OWNERS[@]}"; do
             [[ -z "$owner" ]] && continue
@@ -59,19 +59,19 @@ jobs:
             item=$(jq -n --arg r "$repo" --arg task "branch" '{repo: $r, task: $task, tag: "none"}')
             JOBS_ARRAY=$(echo "$JOBS_ARRAY" | jq --argjson item "$item" '. + [$item]')
             
-            # 全量获取上游所有 Releases
-            mapfile -t tags < <(gh release list --repo "$repo" --limit 1000 --json tagName -q '.[].tagName' 2>/dev/null || true)
-            echo "  -> Found Upstream Total Releases: ${#tags[@]}"
+            # 【核心修改点】使用 jq 显式过滤掉 isDraft == true 的 Release，确保源头干净
+            mapfile -t tags < <(gh release list --repo "$repo" --limit 1000 --json tagName,isDraft -q '.[] | select(.isDraft == false) | .tagName' 2>/dev/null || true)
+            echo "  -> Found Upstream Total Published Releases: ${#tags[@]}"
             
             for tag in "${tags[@]}"; do
               [[ -z "$tag" || "$tag" == "null" ]] && continue
-              echo "  + [SCHEDULED FULL] -> $tag"
+              echo "  + [SCHEDULED] -> $tag"
               item=$(jq -n --arg r "$repo" --arg t "$tag" --arg task "release" '{repo: $r, task: $task, tag: $t}')
               JOBS_ARRAY=$(echo "$JOBS_ARRAY" | jq --argjson item "$item" '. + [$item]')
             done
           done
 
-          # 4. 切片限制与单行打包输出 (GitHub 限制单次 Matrix 最大 256)
+          # 4. 切片限制与单行打包输出
           FINAL_ARRAY=$(echo "$JOBS_ARRAY" | jq -c '.[0:250]')
           if [[ "$FINAL_ARRAY" == "[]" || -z "$FINAL_ARRAY" ]]; then
             FINAL_ARRAY='[{"repo": "empty", "task": "empty", "tag": "empty"}]'
@@ -80,12 +80,9 @@ jobs:
           echo "matrix_jobs<<EOF" >> $GITHUB_OUTPUT
           echo "$FINAL_ARRAY" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-          
-          echo "========================================"
-          echo "Total Matrix Jobs Scheduled (Max 250): $(echo "$FINAL_ARRAY" | jq 'length')"
 
-  # ==========================================
-  # 第二阶段：并发执行 (带时间戳后缀覆盖模式)
+# ==========================================
+  # 第二阶段：并发执行 (强制发布模式)
   # ==========================================
   backup_worker:
     needs: prepare
@@ -145,23 +142,11 @@ jobs:
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
           mkdir -p tmp
 
-          echo "========================================="
-          echo "Processing FULL OVERWRITE [$TASK] for [$REPO]"
-          if [[ "$TASK" == "release" ]]; then echo "Target Tag: [$TAG]"; fi
-          echo "========================================="
-
-          # ============================================
-          # 任务分支A：备份源码分支 (带时间戳)
-          # ============================================
           if [[ "$TASK" == "branch" ]]; then
             MIRROR="tmp/${REPO_SLUG}.git"
-            echo "🔽 Forced Cloning repository branches..."
             git clone --mirror "https://github.com/${REPO}.git" "$MIRROR"
-            
-            # 分支备份的 Tag 加上时间戳
             BRANCH_TAG="${REPO_SLUG}-branches-${NOW_DATE}"
             
-            echo "♻️ Cleaning branch release for today: $BRANCH_TAG"
             gh release delete "$BRANCH_TAG" --repo "$GITHUB_REPOSITORY" -y 2>/dev/null || true
             
             mapfile -t BRANCHES < <(git -C "$MIRROR" for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads 2>/dev/null || true)
@@ -189,17 +174,25 @@ jobs:
               for ((i=1; i<${#FILES[@]}; i++)); do safe_upload "${FILES[$i]}" "$BRANCH_TAG"; done
             fi
 
-          # ============================================
-          # 任务分支B：备份指定的 Release (核心修改：添加时间戳后缀)
-          # ============================================
           elif [[ "$TASK" == "release" ]]; then
             RELEASE_JSON=$(curl -fsSL -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/$REPO/releases/tags/$TAG" 2>/dev/null || echo "{}")
-            TAG_SLUG=$(sanitize "$TAG")
             
-            # 【关键行】将备份生成的 Release Tag 加上当前日期后缀
+            # 【防御性机制】如果 API 返回的对象明确是草稿，直接退出不执行
+            if [[ "$(echo "$RELEASE_JSON" | jq -r '.draft // false')" == "true" ]]; then
+              echo "⚠️ Upstream release is a Draft! Skipping to prevent draft creation in backup repo."
+              exit 0
+            fi
+
+            # 检测上游是否为 Pre-release 状态
+            IS_PRE=$(echo "$RELEASE_JSON" | jq -r '.prerelease // false')
+            EXTRA_FLAG=""
+            if [[ "$IS_PRE" == "true" ]]; then
+              EXTRA_FLAG="--prerelease"
+            fi
+
+            TAG_SLUG=$(sanitize "$TAG")
             PER_RELEASE_TAG="${REPO_SLUG}-${TAG_SLUG}-${NOW_DATE}"
             
-            echo "♻️ Cleaning existing backup release for today: $PER_RELEASE_TAG"
             gh release delete "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" -y 2>/dev/null || true
 
             NOTES_FILE=$(mktemp)
@@ -223,7 +216,8 @@ jobs:
               fi
               
               if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
-                if gh release create "$PER_RELEASE_TAG" "$LOCAL_FILE" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG ($NOW_DATE)" --notes-file "$NOTES_FILE" 2>/dev/null; then
+                # 显式加入状态继承标志 ($EXTRA_FLAG)，如果是预发布则是预发布，默认直接进入正式发布（Published），绝不传递 Draft 状态
+                if gh release create "$PER_RELEASE_TAG" "$LOCAL_FILE" $EXTRA_FLAG --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG ($NOW_DATE)" --notes-file "$NOTES_FILE" 2>/dev/null; then
                   FIRST_ASSET_CREATED=true
                 else
                   error_occurred=1
@@ -231,12 +225,11 @@ jobs:
               else
                 safe_upload "$LOCAL_FILE" "$PER_RELEASE_TAG" || error_occurred=1
               fi
-              
               rm -f "$LOCAL_FILE"
             done
             
             if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
-               gh release create "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG ($NOW_DATE) (empty)" --notes-file "$NOTES_FILE" 2>/dev/null || true
+               gh release create "$PER_RELEASE_TAG" $EXTRA_FLAG --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG ($NOW_DATE) (empty)" --notes-file "$NOTES_FILE" 2>/dev/null || true
             fi
             rm -f "$NOTES_FILE"
             
