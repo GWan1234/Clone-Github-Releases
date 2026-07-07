@@ -505,7 +505,7 @@ obsproject/obs-websocket: BRANCHES:[master:1ef34bf48110c2a18184e50e41cd0b1a855e2
 obsproject/obs-vst: BRANCHES:[master:b28cdef1fb06ece14d6be023b0f08ec28bca972e;process:935a4e3d311526f9ba5a58fc73b073d792d283bc;linux:c41c682b72202041f1c86a68efd07734e438c5f5;formatci:1a5e8e8a9b8c454994997e56b7cb9af2fe8ed8e9;noclose:7119699c70e86c97c446adc401aa7104008678c5;shell:2fd38a9db10e4cf7c5d6ab118c10cbaba604d10e;settings:825cbe1474561ec2dc28d9ca7905367e08823b90;]|RELEASE:[none|none]
 obsproject/loganalyzer: BRANCHES:[master:f806b0bb7b8b4658c1eb6f12231c59c365494d18;]|RELEASE:[none|none]
 obsproject/obs-plugintemplate: BRANCHES:[master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc;]|RELEASE:[none|none]
-obsproject/.github: BRANCHES:[master:f4354273a0bcde258de6732a1d40f52fbf5ecb51;]|RELEASE:[none|none]
+obsproject/.github: BRANCHES:[master:e5214d71ae2a7f3b026dd25444214599ac0b72f3;]|RELEASE:[none|none]
 obsproject/obs-deps: BRANCHES:[master:804078b70cdc50f0b350dd75c3c5ab710dcfcd7c;]|RELEASE:[2026-06-25|804078b70cdc50f0b350dd75c3c5ab710dcfcd7c]
 obsproject/rfcs: BRANCHES:[master:da063de64d0fe8ed009128d896197bc918fb41e0;decklink_device_management:5cc6d50dd63215f41caf60ce10f2a94f329ce73b;]|RELEASE:[none|none]
 obsproject/obs-bot: BRANCHES:[master:42e6cdaffc5242cb32a66c89872a0e058a267c0d;self-service:e11aa4050c5a8aacd965fea79cdcc263daa32d64;disnake:24b0e3c0dc7d92296482492a23fef248c05eaaad;]|RELEASE:[none|none]
