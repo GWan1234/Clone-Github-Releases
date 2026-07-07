@@ -1,6 +1,12 @@
 name: Clone Backup Repositories E
 
 on:
+  workflow_run:
+    workflows:
+      - "Clone Backup Repositories D"
+    types:
+      - completed
+
   workflow_dispatch:
 
 jobs:
