@@ -1,11 +1,11 @@
-name: Clone Backup Matrix (Full Overwrite Level)
+name: Clone Backup Matrix (Full Overwrite with Timestamp)
 
 on:
   workflow_dispatch:
 
 jobs:
   # ==========================================
-  # 第一阶段：准备工作（全量拉取，不做任何去重）
+  # 第一阶段：准备工作（全量拉取 upstream 数据）
   # ==========================================
   prepare:
     runs-on: ubuntu-latest
@@ -55,11 +55,11 @@ jobs:
             echo "🔍 Sweeping Repository: $repo"
             repo_slug=$(sanitize "$repo")
             
-            # 始终添加分支全量备份任务
+            # 分支备份任务
             item=$(jq -n --arg r "$repo" --arg task "branch" '{repo: $r, task: $task, tag: "none"}')
             JOBS_ARRAY=$(echo "$JOBS_ARRAY" | jq --argjson item "$item" '. + [$item]')
             
-            # 全量获取上游所有 Releases (包含 Pre-release)
+            # 全量获取上游所有 Releases
             mapfile -t tags < <(gh release list --repo "$repo" --limit 1000 --json tagName -q '.[].tagName' 2>/dev/null || true)
             echo "  -> Found Upstream Total Releases: ${#tags[@]}"
             
@@ -85,7 +85,7 @@ jobs:
           echo "Total Matrix Jobs Scheduled (Max 250): $(echo "$FINAL_ARRAY" | jq 'length')"
 
   # ==========================================
-  # 第二阶段：并发执行 (全量覆盖模式)
+  # 第二阶段：并发执行 (带时间戳后缀覆盖模式)
   # ==========================================
   backup_worker:
     needs: prepare
@@ -151,17 +151,17 @@ jobs:
           echo "========================================="
 
           # ============================================
-          # 任务分支A：全量备份源码分支 (Branch)
+          # 任务分支A：备份源码分支 (带时间戳)
           # ============================================
           if [[ "$TASK" == "branch" ]]; then
             MIRROR="tmp/${REPO_SLUG}.git"
             echo "🔽 Forced Cloning repository branches..."
             git clone --mirror "https://github.com/${REPO}.git" "$MIRROR"
             
-            BRANCH_TAG="${REPO_SLUG}-branches-full"
+            # 分支备份的 Tag 加上时间戳
+            BRANCH_TAG="${REPO_SLUG}-branches-${NOW_DATE}"
             
-            # 强制清空旧的旧分支 Release 重新创建
-            echo "♻️ Recreating branch release: $BRANCH_TAG"
+            echo "♻️ Cleaning branch release for today: $BRANCH_TAG"
             gh release delete "$BRANCH_TAG" --repo "$GITHUB_REPOSITORY" -y 2>/dev/null || true
             
             mapfile -t BRANCHES < <(git -C "$MIRROR" for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads 2>/dev/null || true)
@@ -185,24 +185,25 @@ jobs:
             
             if [[ ${#FILES[@]} -gt 0 ]]; then
               NOTES="## 📦 Full Branch Backup\n- Repo: $REPO\n- Refreshed: $NOW_HUMAN"
-              gh release create "$BRANCH_TAG" "${FILES[0]}" --repo "$GITHUB_REPOSITORY" --title "📦 Branches of $REPO_SLUG (Full)" --notes "$NOTES"
+              gh release create "$BRANCH_TAG" "${FILES[0]}" --repo "$GITHUB_REPOSITORY" --title "📦 Branches of $REPO_SLUG ($NOW_DATE)" --notes "$NOTES"
               for ((i=1; i<${#FILES[@]}; i++)); do safe_upload "${FILES[$i]}" "$BRANCH_TAG"; done
             fi
 
           # ============================================
-          # 任务分支B：全量覆盖备份指定的 Release 及其所有大附件
+          # 任务分支B：备份指定的 Release (核心修改：添加时间戳后缀)
           # ============================================
           elif [[ "$TASK" == "release" ]]; then
             RELEASE_JSON=$(curl -fsSL -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/$REPO/releases/tags/$TAG" 2>/dev/null || echo "{}")
             TAG_SLUG=$(sanitize "$TAG")
-            PER_RELEASE_TAG="${REPO_SLUG}-${TAG_SLUG}"
             
-            # 【核心修改】全量强制模式：不管存不存在，先给它扬了
-            echo "♻️ Cleaning existing backup release: $PER_RELEASE_TAG"
+            # 【关键行】将备份生成的 Release Tag 加上当前日期后缀
+            PER_RELEASE_TAG="${REPO_SLUG}-${TAG_SLUG}-${NOW_DATE}"
+            
+            echo "♻️ Cleaning existing backup release for today: $PER_RELEASE_TAG"
             gh release delete "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" -y 2>/dev/null || true
 
             NOTES_FILE=$(mktemp)
-            echo -e "## 🏷 Upstream Release: $TAG\n- Repo: $REPO\n- Full Sync Time: $NOW_HUMAN\n\n## 📝 Body\n$(echo "$RELEASE_JSON" | jq -r '.body // "No description"')" > "$NOTES_FILE"
+            echo -e "## 🏷 Upstream Release: $TAG\n- Repo: $REPO\n- Backup Time: $NOW_HUMAN\n\n## 📝 Body\n$(echo "$RELEASE_JSON" | jq -r '.body // "No description"')" > "$NOTES_FILE"
             
             FIRST_ASSET_CREATED=false
             error_occurred=0
@@ -222,7 +223,7 @@ jobs:
               fi
               
               if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
-                if gh release create "$PER_RELEASE_TAG" "$LOCAL_FILE" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG" --notes-file "$NOTES_FILE" 2>/dev/null; then
+                if gh release create "$PER_RELEASE_TAG" "$LOCAL_FILE" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG ($NOW_DATE)" --notes-file "$NOTES_FILE" 2>/dev/null; then
                   FIRST_ASSET_CREATED=true
                 else
                   error_occurred=1
@@ -235,7 +236,7 @@ jobs:
             done
             
             if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
-               gh release create "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG (empty/no assets)" --notes-file "$NOTES_FILE" 2>/dev/null || true
+               gh release create "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG ($NOW_DATE) (empty)" --notes-file "$NOTES_FILE" 2>/dev/null || true
             fi
             rm -f "$NOTES_FILE"
             
