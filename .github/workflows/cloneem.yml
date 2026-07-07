@@ -1,0 +1,268 @@
+name: Clone Backup Matrix (Release Level)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  # ==========================================
+  # 第一阶段：准备工作（拆分到每一个具体的 Tag）
+  # ==========================================
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix_jobs: ${{ steps.generate-matrix.outputs.matrix_jobs }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq yq gh
+
+      - name: Generate Granular Matrix
+        id: generate-matrix
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+        run: |
+          set -euo pipefail
+          
+          sanitize() { echo "$1" | tr '/' '-' | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9._-]/-/g' | sed 's/-\+/-/g' | sed 's/^-//;s/-$//'; }
+
+          # 1. 获取黑名单
+          mapfile -t EXCLUDES < <(yq -r '.exclude[]?' repositoriese.yaml 2>/dev/null | grep -v '^[[:space:]]*#' | sed '/^[[:space:]]*$/d' || true)
+          declare -A EXCLUDE_MAP
+          for ex in "${EXCLUDES[@]}"; do EXCLUDE_MAP["$ex"]=1; done
+
+          declare -A TARGET_REPOS
+
+          # 2. 获取目标仓库 (Owners + Manual)
+          mapfile -t OWNERS < <(yq -r '.allrepositories[]?' repositoriese.yaml 2>/dev/null | grep -v '^[[:space:]]*#' | sed '/^[[:space:]]*$/d' || true)
+          for owner in "${OWNERS[@]}"; do
+            [[ -z "$owner" ]] && continue
+            mapfile -t repos < <(gh repo list "$owner" --public -L 1000 --json nameWithOwner -q '.[].nameWithOwner' 2>/dev/null || true)
+            for r in "${repos[@]}"; do [[ -z "${EXCLUDE_MAP[$r]:-}" ]] && TARGET_REPOS["$r"]=1; done
+          done
+          mapfile -t MANUAL_REPOS < <(yq -r '.repositories | [.*[]] | flatten | .[]' repositoriese.yaml 2>/dev/null | grep -v '^[[:space:]]*#' | sed '/^[[:space:]]*$/d' || true)
+          for r in "${MANUAL_REPOS[@]}"; do
+            [[ -z "$r" ]] && continue
+            [[ -z "${EXCLUDE_MAP[$r]:-}" ]] && TARGET_REPOS["$r"]=1
+          done
+
+          # 3. 获取当前仓库已经备份的 Release 列表 (避免重复创建)
+          echo "🔍 Fetching existing backups..."
+          gh release list --repo "$GITHUB_REPOSITORY" --limit 4000 --json tagName -q '.[].tagName' > existing.txt || echo "" > existing.txt
+          declare -A BACKUP_MAP
+          while read -r line; do BACKUP_MAP["$line"]=1; done < existing.txt
+
+          JOBS_ARRAY="[]"
+          
+          # 4. 生成微观任务矩阵 (Branch 任务 + 每个独立的 Tag 任务)
+          for repo in "${!TARGET_REPOS[@]}"; do
+            echo "Processing repository: $repo"
+            repo_slug=$(sanitize "$repo")
+            
+            # 添加分支备份任务
+            item=$(jq -n --arg r "$repo" --arg task "branch" '{repo: $r, task: $task, tag: "none"}')
+            JOBS_ARRAY=$(echo "$JOBS_ARRAY" | jq --argjson item "$item" '. + [$item]')
+            
+            # 获取该仓库的所有上游 Release Tags
+            mapfile -t tags < <(gh api repos/"$repo"/releases --paginate -q '.[].tag_name' 2>/dev/null || true)
+            for tag in "${tags[@]}"; do
+              [[ -z "$tag" ]] && continue
+              tag_slug=$(sanitize "$tag")
+              expected_tag="${repo_slug}-${tag_slug}"
+              
+              # 如果该 Tag 还没有被备份过，加入矩阵
+              if [[ -z "${BACKUP_MAP[$expected_tag]:-}" ]]; then
+                item=$(jq -n --arg r "$repo" --arg t "$tag" --arg task "release" '{repo: $r, task: $task, tag: $t}')
+                JOBS_ARRAY=$(echo "$JOBS_ARRAY" | jq --argjson item "$item" '. + [$item]')
+              fi
+            done
+          done
+
+          # 5. 限制矩阵大小为 250 (GitHub Actions 硬性限制为 256)
+          # 如果任务很多，多触发几次 Workflow 即可
+          FINAL_ARRAY=$(echo "$JOBS_ARRAY" | jq '.[0:250]')
+          
+          if [[ "$FINAL_ARRAY" == "[]" || -z "$FINAL_ARRAY" ]]; then
+            FINAL_ARRAY='[{"repo": "empty", "task": "empty", "tag": "empty"}]'
+          fi
+          
+          echo "matrix_jobs=$FINAL_ARRAY" >> $GITHUB_OUTPUT
+          echo "Total jobs scheduled for this run: $(echo "$FINAL_ARRAY" | jq 'length')"
+
+  # ==========================================
+  # 第二阶段：并发执行 (1个Runner只干1个特定任务)
+  # ==========================================
+  backup_worker:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false      
+      max-parallel: 10      # 可以适度调大，因为 API 请求分散了
+      matrix:
+        job: ${{ fromJson(needs.prepare.outputs.matrix_jobs) }}
+        
+    steps:
+      - name: Skip if empty
+        if: matrix.job.task == 'empty'
+        run: echo "No pending tasks." && exit 0
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.MY_TOKEN }}
+
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: true
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
+
+      - name: Install deps
+        run: sudo apt-get update && sudo apt-get install -y jq gh git curl p7zip-full
+
+      - name: Execute Granular Backup Task
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          REPO: ${{ matrix.job.repo }}
+          TASK: ${{ matrix.job.task }}
+          TAG: ${{ matrix.job.tag }}
+        run: |
+          set -euo pipefail
+          sanitize() { echo "$1" | tr '/' '-' | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9._-]/-/g' | sed 's/-\+/-/g' | sed 's/^-//;s/-$//'; }
+          safe_upload() {
+            local file="$1" tag="$2" retries=3
+            while [ $retries -gt 0 ]; do
+              echo "Uploading: $file (Retries left: $retries)"
+              if gh release upload "$tag" "$file" --repo "$GITHUB_REPOSITORY" --clobber 2>/dev/null; then return 0; fi
+              retries=$((retries - 1)); sleep 5
+            done
+            echo "❌ UPLOAD FAILED: $file" && return 1
+          }
+
+          REPO_SLUG=$(sanitize "$REPO")
+          NOW_DATE=$(date +"%Y%m%d")
+          NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
+          mkdir -p tmp
+
+          echo "========================================="
+          echo "Processing [$TASK] for [$REPO]"
+          if [[ "$TASK" == "release" ]]; then echo "Target Tag: [$TAG]"; fi
+          echo "========================================="
+
+          # ============================================
+          # 任务分支A：备份源码分支 (Branch)
+          # ============================================
+          if [[ "$TASK" == "branch" ]]; then
+            TRACKING_FILE="commit-tracking-e.yaml"
+            MIRROR="tmp/${REPO_SLUG}.git"
+            
+            # 获取远端最新的 commit hash 判断是否需要备份
+            UPSTREAM_HASH=$(git ls-remote "https://github.com/${REPO}.git" HEAD 2>/dev/null | awk '{print $1}')
+            [[ -z "$UPSTREAM_HASH" ]] && echo "Cannot fetch upstream hash." && exit 0
+            
+            LAST_HASH=$(yq -r --arg r "$REPO" '.[$r] // "none"' "$TRACKING_FILE" 2>/dev/null || echo "none")
+            
+            if [[ "$LAST_HASH" == "$UPSTREAM_HASH" ]]; then
+              echo "✅ Branches up to date. Hash: $UPSTREAM_HASH"
+              exit 0
+            fi
+            
+            echo "🔽 Cloning repository branches..."
+            git clone --mirror "https://github.com/${REPO}.git" "$MIRROR"
+            
+            BRANCH_TAG="${REPO_SLUG}-branches-${NOW_DATE}-$(date +%H%M)"
+            mapfile -t BRANCHES < <(git -C "$MIRROR" for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads 2>/dev/null || true)
+            BRANCHES=("${BRANCHES[@]:0:10}") # 仅保留最新10个分支防止过大
+            
+            FILES=()
+            for B in "${BRANCHES[@]}"; do
+              B_SLUG=$(sanitize "$B")
+              DIR="tmp/export/${B_SLUG}"
+              mkdir -p "$DIR"
+              git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
+              ARCHIVE="${REPO_SLUG}-${B_SLUG}.7z"
+              7z a -t7z -mx5 -mmt2 -v1500m "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
+              for f in "${ARCHIVE}"*; do
+                if [[ -f "$f" ]]; then
+                  sha256sum "$f" > "${f}.sha256" 2>/dev/null || true
+                  FILES+=("$f" "${f}.sha256")
+                fi
+              done
+            done
+            
+            if [[ ${#FILES[@]} -gt 0 ]]; then
+              NOTES="## 📦 Branch Backup\n- Repo: $REPO\n- Sync Time: $NOW_HUMAN"
+              gh release create "$BRANCH_TAG" "${FILES[0]}" --repo "$GITHUB_REPOSITORY" --title "📦 Branches of $REPO_SLUG" --notes "$NOTES"
+              for ((i=1; i<${#FILES[@]}; i++)); do safe_upload "${FILES[$i]}" "$BRANCH_TAG"; done
+              
+              # 同步状态避免重复运行
+              git config --global user.name "Matrix-Worker"
+              git config --global user.email "worker@github.com"
+              yq -y -i --arg r "$REPO" --arg h "$UPSTREAM_HASH" '.[$r] = $h' "$TRACKING_FILE" || true
+              git add "$TRACKING_FILE" && git commit -m "Update tracking for $REPO" || true
+              git pull --rebase origin main || true
+              git push origin HEAD || true
+            fi
+
+          # ============================================
+          # 任务分支B：备份单一指定的 Release 及其所有大附件
+          # ============================================
+          elif [[ "$TASK" == "release" ]]; then
+            RELEASE_JSON=$(curl -fsSL -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/repos/$REPO/releases/tags/$TAG" 2>/dev/null || echo "{}")
+            TAG_SLUG=$(sanitize "$TAG")
+            PER_RELEASE_TAG="${REPO_SLUG}-${TAG_SLUG}"
+            
+            # 二次确认该 Release 是否已在其他并发中被创建
+            if gh release view "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+              echo "✅ Tag $PER_RELEASE_TAG already backed up."
+              exit 0
+            fi
+
+            NOTES_FILE=$(mktemp)
+            echo -e "## 🏷 Upstream Release: $TAG\n- Repo: $REPO\n- Sync Time: $NOW_HUMAN\n\n## 📝 Body\n$(echo "$RELEASE_JSON" | jq -r '.body // "No description"')" > "$NOTES_FILE"
+            
+            FIRST_ASSET_CREATED=false
+            error_occurred=0
+
+            echo "$RELEASE_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null | while read -r asset; do
+              [[ -z "$asset" ]] && continue
+              
+              ASSET_NAME=$(echo "$asset" | jq -r '.name')
+              ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url')
+              LOCAL_FILE="tmp/up-${ASSET_NAME}"
+              
+              echo "⬇️ Downloading massive asset: $ASSET_NAME"
+              if ! curl -L --fail --silent --show-error --connect-timeout 30 --retry 5 --retry-delay 10 -o "$LOCAL_FILE" "$ASSET_URL"; then
+                echo "❌ Download failed for $ASSET_NAME"
+                error_occurred=1
+                continue
+              fi
+              
+              if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
+                if gh release create "$PER_RELEASE_TAG" "$LOCAL_FILE" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG" --notes-file "$NOTES_FILE" 2>/dev/null; then
+                  FIRST_ASSET_CREATED=true
+                else
+                  error_occurred=1
+                fi
+              else
+                safe_upload "$LOCAL_FILE" "$PER_RELEASE_TAG" || error_occurred=1
+              fi
+              
+              # 下载完一个附件并上传后，立即删除本地文件，释放空间给下一个大附件
+              rm -f "$LOCAL_FILE"
+            done
+            
+            if [[ "$FIRST_ASSET_CREATED" == "false" ]]; then
+               gh release create "$PER_RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --title "🔖 $REPO_SLUG - $TAG (empty/no assets)" --notes-file "$NOTES_FILE" 2>/dev/null || true
+            fi
+            rm -f "$NOTES_FILE"
+            
+            if [[ $error_occurred -ne 0 ]]; then exit 1; fi
+          fi
