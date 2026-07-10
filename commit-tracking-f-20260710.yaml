@@ -1229,3 +1229,4 @@ sparkfun/IoT_Airlock: BRANCHES:[master:d1a8fe8ceb7fd7e94d4245cbccc33263fc9a2d10;
 sparkfun/SparkFun_Line_Follower_Array_Arduino_Library: BRANCHES:[master:29146627b9eda56a58f48e0abae9e124bb2415a8;]|RELEASES:[]
 sparkfun/SAMD21_Mini_Breakout: BRANCHES:[master:314ca1b375e24c2cebe20db55d8bfab2d6736247;]|RELEASES:[]
 sparkfun/The_Flying_Jalapeno: BRANCHES:[v12:23ffe9393c814d1b69a0686aa9ec9c011eff3c44;master:86f31df7475e3bc90537740c57023a57d37ec81a;]|RELEASES:[]
+sparkfun/SparkFun_PWM_Block_for_Edison_CPP_Library: BRANCHES:[master:ba72fa7c1605d71fb98cdd8f15f51cb81fcc9652;]|RELEASES:[]
