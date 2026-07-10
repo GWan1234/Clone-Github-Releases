@@ -1263,3 +1263,4 @@ sparkfun/SparkFun_MMA8452Q_Particle_Library: BRANCHES:[master:8deb02b50afc0d099c
 sparkfun/Inventors_Kit_For_Photon_Experiments: BRANCHES:[master:c5356a7c228c067042fc339556e232fe259ced25;]|RELEASES:[]
 sparkfun/BAC_Lager: BRANCHES:[master:105617bf7da24f9790540381e3de1b5d53ef76ba;]|RELEASES:[]
 sparkfun/Big_GPS_Clock: BRANCHES:[master:1c30491823d4b860d2753a20b06d125c1a250369;venus_port:1c30491823d4b860d2753a20b06d125c1a250369;]|RELEASES:[]
+sparkfun/IoT_CloudCloud: BRANCHES:[master:ef85e8d9b63e5d9b71dbe0b71f9ccfa44d5c2037;]|RELEASES:[]
