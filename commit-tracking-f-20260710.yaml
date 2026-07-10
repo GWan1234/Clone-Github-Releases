@@ -1198,3 +1198,4 @@ sparkfun/FM_Tuner_Basic_Breakout-Si4703: BRANCHES:[master:bd5b348b039c89b253dc2b
 sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d5d7283dc99060ae606d;]|RELEASES:[V_1.3.0:596d9c042aff8debcebaf86cf1414bf35ef9fd44:none;]
 sparkfun/RF_Transceiver_Breakout-RFM22B: BRANCHES:[master:47f1c1e3d3036f3c603fbbc8e735248a733c89ab;]|RELEASES:[]
 sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D: BRANCHES:[master:598f72b5c790b4d1eb4139ae4ead6bc8a1221619;]|RELEASES:[]
+sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331: BRANCHES:[master:9f94d42719b5c597c6faf039b30d8ded9644d6db;]|RELEASES:[]
