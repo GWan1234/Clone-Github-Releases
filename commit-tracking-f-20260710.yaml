@@ -493,3 +493,4 @@ sparkfun/Qwiic_Mux_TCA9548A: BRANCHES:[master:9548c6af9c1a74b11904dc5b28cc3f25f7
 sparkfun/Qwiic_IMU_BNO080: BRANCHES:[master:b821d9c1c76c2700fa70ade7783cc522cd3cc683;]|RELEASES:[]
 sparkfun/BlackBoard: BRANCHES:[master:d61d4c672e95452646537f1bbb89ff0908d212bb;v4:1f212a70724126a828d31e6b96060c2e3ef207bc;]|RELEASES:[X01:c9888f9804b520c6c0d3521643a792707e259be5:none;v2:af5f890eb47b67a41b9c3e769abb0851a292fab9:none;v3:f82445aa87c18d60f0d5dc2bfad1b8eeb927e973:none;]
 sparkfun/Addressable-LED-Neon-Flex-Rope: BRANCHES:[master:a7c0937ed4010ee3052211e411a385453a813fe6;]|RELEASES:[]
+sparkfun/Lumini_8x8: BRANCHES:[master:5316d4b1ee78ac3a0364e977a90faf2a1bb33a8b;]|RELEASES:[]
