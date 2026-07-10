@@ -1278,3 +1278,4 @@ sparkfun/MPU-9250_Breakout: BRANCHES:[master:5aa492079056d0eaf508b00d8fcd5f491e7
 sparkfun/eng_application: BRANCHES:[master:0eb3c64a5e52a53c1989a5b751635ffc31f988dc;]|RELEASES:[]
 sparkfun/crowdsourcing_control_esp8266_thing: BRANCHES:[master:7b52d9ee4a4ff28c9bc9c1ef415355a786776ae8;]|RELEASES:[]
 sparkfun/Arduino_Pro_328: BRANCHES:[Silk_Revision:aaa5efbec6bd0047f5e52d84fa8e2b1c69b66879;master:73c405bd2ffd6a7555eb8d9ec4da8db3f904febc;]|RELEASES:[]
+sparkfun/Graphical_Datasheets: BRANCHES:[main:736369896be44fae46b1e04bd370dd88ef73a227;]|RELEASES:[]
