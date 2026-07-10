@@ -1248,3 +1248,4 @@ sparkfun/SparkFun_H-Bridge_Block_for_Edison_CPP_Library: BRANCHES:[master:e05744
 sparkfun/SparkFun_GPIO_Block_for_Edison_CPP_Examples: BRANCHES:[master:286dceb2738fdbfd3e499f5c7ff7a9db2c4be2c5;]|RELEASES:[]
 sparkfun/MyoWare_Cable_Shield: BRANCHES:[V11:14d3958e2afd36be670266a4669084b12828aaf6;master:b7dbd9f0928e253a6f31e007a79a6d93192b116f;revert-7-V11:dbb5a58bd498e1b060e0ad4759d7dd5c289c8580;]|RELEASES:[]
 sparkfun/MyoWare_LED_Shield: BRANCHES:[master:194f10ea212c86cd8dd219f6075dac6ca8d2b60d;]|RELEASES:[]
+sparkfun/SparkFun-Live-Analog-Audio: BRANCHES:[master:d0a09ec3911a96ee79e2ae4074cf84989fd338f9;]|RELEASES:[]
