@@ -417,3 +417,4 @@ sparkfun/spectacleapp_livetest: BRANCHES:[master:95fb05bbd24bc95ff3a3f68f51f67e4
 sparkfun/SparkFun_I2C_GPS_Arduino_Library: BRANCHES:[master:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc;]|RELEASES:[V_1.0.1:e100860b7506f9f675493c9eaf4e2a7e45332f31:none;v1.0.2:ab91a5d21ba4ff68a13858e5d9ea5cbe94da0e74:none;v1.0.3:6e1a0f0d503f0699982857a22e869614e1b39a4b:none;v1.0.4:5de230a4bbcb6a856dd086637500d82807dafc21:none;v1.0.5:3c5b8c9d8cc241093ce8ac869e33d2a82de77214:none;v1.0.6:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc:none;]
 sparkfun/FutabaSBUS_SAMD21: BRANCHES:[master:8638fd77802250ec26469df8e215e8d519629de3;]|RELEASES:[]
 sparkfun/LiPo_Charger_Booster_5V_1A: BRANCHES:[master:ac9126ec7ab5c16ddf297028a06d62e27141451e;]|RELEASES:[HW-V1.0:355a26574a8c3e18fc3676ab073ee6694a13e905:none;]
+sparkfun/Lumenati_4-pack: BRANCHES:[master:20f09e72a070a05e63a345e0f908985e3df78dd2;]|RELEASES:[V_H1.0:501bcf92e53916a6d2a8f6f6f275c77d92fd85e3:none;]
