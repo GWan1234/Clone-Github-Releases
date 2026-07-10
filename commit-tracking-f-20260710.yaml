@@ -243,3 +243,4 @@ sparkfun/NCP1402-3.3V: BRANCHES:[master:81400e56ee5dcba7f63dd2cc849feddaccdc35b3
 sparkfun/SM5100B_Cellular_Shield: BRANCHES:[master:d57e083b4f32b2cad5a5390613b8470a186e2338;v13:bb54af6d4c1048028edce0455ad9dc5c2a647658;]|RELEASES:[]
 sparkfun/ZX_Distance_and_Gesture_Sensor: BRANCHES:[master:df12a480115d1e27e945c36678f566f7ee4e67d0;]|RELEASES:[]
 sparkfun/ToF_Range_Finder_Breakout-VL6180: BRANCHES:[master:2faa308fd111d75ad37b4861f93b4bca551254aa;]|RELEASES:[]
+sparkfun/Serial_Enabled_LCD_Backpack: BRANCHES:[master:22d86fdb29bde1ceabccfe6204d0b6c37d89cc18;V_2.9:9c2e03d083ca6dba4fa9fb631d6185a5fc82931f;]|RELEASES:[]
