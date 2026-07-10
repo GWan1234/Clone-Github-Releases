@@ -96,3 +96,4 @@ sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b584
 sparkfun/LilyPad_Simple_Power: BRANCHES:[master:c18e03df42092d8ff437a62149fa94b33d80927f;]|RELEASES:[]
 sparkfun/TMP006-Temp_Sensor_Breakout: BRANCHES:[master:d9404e52b2aca0167a5b08b2ba3ddecd239aacb3;]|RELEASES:[]
 sparkfun/USB_microB_Breakout_Board: BRANCHES:[master:9d1460eb6ad7acf2a49fa730fcb1bb1ad26e4256;]|RELEASES:[]
+sparkfun/Pro_Micro: BRANCHES:[RED_LED_EOL:785cb819e0a6f76404c4e4d9b0194fbb5c9e2c88;main:df836f3bf2955c4f1199a852f618d2ac80866d47;Boogie_Board:15dbf1af386d02f33664141b5b747bee6a0dcd13;]|RELEASES:[v2.0:df836f3bf2955c4f1199a852f618d2ac80866d47:none;]
