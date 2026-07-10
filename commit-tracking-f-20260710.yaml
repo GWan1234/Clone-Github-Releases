@@ -1625,3 +1625,4 @@ waveshareteam/DA7212-Audio-Board-A: BRANCHES:[master:e8a74b351e9bdf813fedaffbac8
 waveshareteam/CM5-ETH-RS485-4G-BASE: BRANCHES:[master:5efdd2f4fadba85434f2f00cf461b63584dcd23f;]|RELEASES:[]
 waveshareteam/ESP32-S3-ePaper-13.3E6: BRANCHES:[main:f8e9456bd1ca520f638786142fc17a74154f4e05;]|RELEASES:[]
 waveshareteam/4.26inch_e-Paper_G: BRANCHES:[main:0f0bc77494d768b1ee3a7aaa16cc4068681b0c56;]|RELEASES:[]
+waveshareteam/5inch_e-Paper: BRANCHES:[main:40e88e349afb5a222449279a5a4653494d9ee3a1;]|RELEASES:[]
