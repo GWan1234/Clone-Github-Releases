@@ -1658,3 +1658,4 @@ m5stack/M5Stack: BRANCHES:[master:c49c8935189674317163c31ef6399a38769282e0;m5sta
 m5stack/M5Stack-platformio: BRANCHES:[master:bbbb7888507733f60a382ef6c8f3d4e154601a0c;]|RELEASES:[]
 m5stack/M5Stack-nesemu: BRANCHES:[master:16bc0da953bcfbb4fc4d0ebe8be84d5a9e3cf5fe;]|RELEASES:[]
 m5stack/M5Cloud: BRANCHES:[master:d6afd906d5bad43541d7e6c3608bbde3abe02167;v0.5.0:da9010299b15c9515a4650b91639f6bd2afe9268;]|RELEASES:[]
+m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6;]|RELEASES:[]
