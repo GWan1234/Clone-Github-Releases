@@ -572,3 +572,4 @@ sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3dd
 sparkfun/Qwiic_Proximity_Sensor: BRANCHES:[master:af01991774b84238a18030e7f02f67c530ec456c;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_RFID_ID-XXLA: BRANCHES:[master:78989e5954a674eb3848a7ec43b353622003aab9;]|RELEASES:[]
 sparkfun/SparkFun_LumiDrive_Example_Code: BRANCHES:[master:6d111d75e2b671ddd8ef19870f17dc023d62e7bf;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c089130660f485c3af065fbbc1ef9;]|RELEASES:[]
