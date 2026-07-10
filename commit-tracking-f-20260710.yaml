@@ -401,3 +401,4 @@ sparkfun/ESP32_Environment_Sensor_Shield: BRANCHES:[master:a6e70df1ae08da98b5321
 sparkfun/ESP8266_Thing_Dev_4H: BRANCHES:[master:99864ff90c9da31473bb45bb3f503a77d10d6575;]|RELEASES:[]
 sparkfun/ESP32_Power_Control_Shield: BRANCHES:[master:b033add600594921b53d28caea93388d72203d67;]|RELEASES:[]
 sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library: BRANCHES:[master:1b55bec89f0d8f990ad36e88acb5fcb5710d371c;]|RELEASES:[v1.1.1:bfe82abed6dc39762d532e7b4373f241088b6d01:none;]
+sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1;]|RELEASES:[v1.0.0:0c9ccd16a7ac357a3c13eb4ebd5475487536262d:none;v1.0.1:4acac9784b34cbcbb12ed936b79de07c416a2a68:none;]
