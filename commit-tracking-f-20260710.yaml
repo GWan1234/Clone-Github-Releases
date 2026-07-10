@@ -462,3 +462,4 @@ sparkfun/HC-SR04_UltrasonicSensor: BRANCHES:[master:546d01c07ed2047f20b9835cb505
 sparkfun/Papa_Soundie_Audio_Player: BRANCHES:[master:4e9ec89fd3c340a151444ce6ca96b06bffa25a2e;fix:ce120317f7617df5268e705aff4fd722ef65c7d6;reformat:ca1d88207e2078bd502303eaa1d23139a6444991;updates:037707c440d0555593b81e1f5a46ca056f0d0885;]|RELEASES:[]
 sparkfun/SIK_Case_Inserts: BRANCHES:[master:33ffefbba9155603f6c9efab0200b3219ab83c34;]|RELEASES:[]
 sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0cf99b0a71cd;]|RELEASES:[]
+sparkfun/LilyPad_ProtoSnap_Plus_Activity_Guide: BRANCHES:[master:58e8fa2d7b3fb724b15ba98bd5453c01c52ec4bd;]|RELEASES:[]
