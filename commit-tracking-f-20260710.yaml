@@ -427,3 +427,4 @@ sparkfun/pxt-gamer-bit_OLD: BRANCHES:[master:d2c7abda1b3cbe2d44853f6685cb8ceb7e8
 sparkfun/Lumenati_8-Stick: BRANCHES:[master:8c03af864436f72b5dc840d408fc9ade7fc2567c;]|RELEASES:[V_H1.0:f89529cd499c53058ff8f13d66898e7617ff50a4:none;]
 sparkfun/Lumenati_3x3: BRANCHES:[master:a4dad3a09722d4af382b026b97553f3148f3ce49;]|RELEASES:[V_H1.0:9c9d742f37e795a3040bfbd0a9b00ea813f5f747:none;]
 sparkfun/pxt-moto-bit: BRANCHES:[master:a7151bd5491db792afc4dab141a30d357086d816;tweaks:3cccc10b03bf656fc6e75255ad6f426512843a5d;]|RELEASES:[]
+sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4;]|RELEASES:[]
