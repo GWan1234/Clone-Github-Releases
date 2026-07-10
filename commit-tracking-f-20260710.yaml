@@ -1644,3 +1644,4 @@ waveshareteam/PCIE-TO-M.2-E-KEY-HAT-Plus-D: BRANCHES:[master:bf8d00a52539bf38bfb
 waveshareteam/RP2350-USB-C: BRANCHES:[main:545de1e209ef8d8ef7e1777c7863ba59b622a71e;]|RELEASES:[]
 waveshareteam/PoE-HAT-J: BRANCHES:[master:877d7104fa8d641dacb6f2f15fc477c513d57739;]|RELEASES:[]
 waveshareteam/ESP32-C3-LCD-1.47: BRANCHES:[main:6e16df57c20b3b1651c1b6150a1c5b3c418a87f6;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-3.5: BRANCHES:[main:283ec84c566c096f8c30493b93dcd4b0bb608de7;]|RELEASES:[]
