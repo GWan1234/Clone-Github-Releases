@@ -1234,3 +1234,4 @@ sparkfun/SAMD21_Dev_Breakout: BRANCHES:[master:862b35cc1abcdfbde8416d9ef31178513
 sparkfun/Speed_Trap: BRANCHES:[master:5b5479ac940183309d3369464be7430a10adbcd0;]|RELEASES:[]
 sparkfun/SparkFun_Micro_OLED_Particle_Library: BRANCHES:[master:d269eda0555ec2803775d52cd5543ca2e5b708f1;]|RELEASES:[]
 sparkfun/SparkFun_LSM9DS1_Particle_Library: BRANCHES:[master:0ffca1a8a74fb9bc7e7ff0a3cef9ac9348563bc3;]|RELEASES:[]
+sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5d9341ca1b85079c2063340;]|RELEASES:[]
