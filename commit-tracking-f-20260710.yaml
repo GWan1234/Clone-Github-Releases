@@ -1252,3 +1252,4 @@ sparkfun/SparkFun-Live-Analog-Audio: BRANCHES:[master:d0a09ec3911a96ee79e2ae4074
 sparkfun/Pi_Wedge_40-Pin_PreAssembled: BRANCHES:[master:6d93ad550771dc4c304dc220aea1f0c69fdad907;]|RELEASES:[]
 sparkfun/ESP8266_Thing_Dev: BRANCHES:[master:e2f5277a9f49694436a95733a86f40216b845bbd;]|RELEASES:[]
 sparkfun/FreeSoC2_Keysynth: BRANCHES:[master:66fae29fb0bef05b9b5db65dd9630196e7a24667;]|RELEASES:[]
+sparkfun/SparkFun_Photon_Weather_Shield_Particle_Library: BRANCHES:[master:9940434f66c71ced4538b2882ffd3c2beac5a847;]|RELEASES:[]
