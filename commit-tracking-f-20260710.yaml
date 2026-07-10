@@ -356,3 +356,4 @@ sparkfun/RS232_Shifter: BRANCHES:[master:bdd3ede6083f00aee6b5b1c1bc472e146b545ba
 sparkfun/XBee_Explorer_Serial: BRANCHES:[master:aa0a1ae5ca83d2024b15da35c1f46d06214be0c1;]|RELEASES:[]
 sparkfun/HX711-Load-Cell-Amplifier: BRANCHES:[master:38228f8f6602e1349d7130c7a382a436ceaca26e;]|RELEASES:[]
 sparkfun/ESP8266_Thing: BRANCHES:[master:9f412e78a48587f9689b4d6eafaf941f308822ea;]|RELEASES:[]
+sparkfun/BadgerArray: BRANCHES:[master:b4f7d71c2f54b84703f9b98c9acad8d709c038a9;]|RELEASES:[]
