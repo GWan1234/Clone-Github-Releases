@@ -22,7 +22,7 @@ jobs:
       matrix_jobs: ${{ steps.generate-matrix.outputs.matrix_jobs }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq yq gh
@@ -106,7 +106,7 @@ jobs:
         run: echo "No tasks." && exit 0
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }} # 使用自带 Token 签出
