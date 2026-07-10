@@ -567,3 +567,4 @@ sparkfun/SparkFun_Edge: BRANCHES:[v2LP-fix-camera-data-pins:01be747e08aa468c16e8
 sparkfun/LCD_TFT_Breakout_1in8_128x160: BRANCHES:[master:6ffe4b4305b53075ec46721a54f54bda2be3df53;]|RELEASES:[]
 sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c442cdbed2abbb434173052;]|RELEASES:[]
 sparkfun/Qwiic_Joystick: BRANCHES:[master:872ce30c7db70375220e67d78398a19f7c60b9ab;]|RELEASES:[]
+sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888;]|RELEASES:[v1.0.0:6d278bd85e1b0e1075863b83b56863fca9683f6a:none;v1.0.1:4918f7eba2beb9c71048c132c7cee31e5350d391:none;v1.0.2:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888:none;]
