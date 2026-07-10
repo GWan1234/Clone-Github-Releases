@@ -1020,3 +1020,4 @@ sparkfun/SparkFun_GNSS_mosaic-G5_P3: BRANCHES:[gh-pages:5ee44ab57eb485ddf6c602bf
 sparkfun/SparkFun_Ambient_Light_Sensor-VEML7700: BRANCHES:[gh-pages:719f364311d51e9aa9a10f83c67e8de99fa12f60;main:fcb1508b899984c2c4a1f3df43377ab22e32229c;]|RELEASES:[]
 sparkfun/SparkFun_Roller_Encoder_Breakout: BRANCHES:[main:9aeb5e878ea6ae5c3becabfbdb2607528404c4b3;]|RELEASES:[]
 sparkfun/SparkFun_OpenScale_IoT: BRANCHES:[gh-pages:0906bb269ce6cc28a6c87659919c52cf7f828e28;main:291b0caf62d066276d4d462e53c16f7ce82b064f;addOTA:3f640b015c6b1a1185f0a2757fa24e809a3451bf;addPSRAM:5edc065c93b788223056cff245c5ac095116459e;addBLE:3a26cd20f40fef8a9af160d173b20a209abac81a;addButton:c73419f2f2d03cab00d2bbb78996950c954d8e87;addTCP:cf8c2c6db6e33d9cdce339c2b5f50fbcd4a403b9;]|RELEASES:[v1.0.0:631c5d24f1fef2b58e0f3ddbafc8c2578728e76d:none;]
+sparkfun/SparkFun_CO2_Sensor-STC31: BRANCHES:[gh-pages:e512528890447654ee0a86d0249006eb5a74ac60;main:8bda1b1db261c9b8a353dc2212e80b93e4b3bbed;]|RELEASES:[]
