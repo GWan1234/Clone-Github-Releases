@@ -1642,3 +1642,4 @@ waveshareteam/ESP32-S3-Touch-LCD-1.69: BRANCHES:[main:9f4c6b2cc88c914b5a37559da7
 waveshareteam/ESP32-S3-ePaper-1.54G: BRANCHES:[main:0b20ab888b996f3993f31078b779a70745a3afeb;]|RELEASES:[]
 waveshareteam/PCIE-TO-M.2-E-KEY-HAT-Plus-D: BRANCHES:[master:bf8d00a52539bf38bfb94f0420002acda07b2acd;]|RELEASES:[]
 waveshareteam/RP2350-USB-C: BRANCHES:[main:545de1e209ef8d8ef7e1777c7863ba59b622a71e;]|RELEASES:[]
+waveshareteam/PoE-HAT-J: BRANCHES:[master:877d7104fa8d641dacb6f2f15fc477c513d57739;]|RELEASES:[]
