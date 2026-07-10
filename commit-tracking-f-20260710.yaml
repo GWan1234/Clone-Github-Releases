@@ -1176,3 +1176,4 @@ sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N: BRANCHES:[master:8b81b873540e5
 sparkfun/Lipo_Fuel_Gauge: BRANCHES:[master:e3e707c39049de7c6ebeac7bd36e45bb6d1290e3;]|RELEASES:[]
 sparkfun/USB_RS-485_Converter: BRANCHES:[master:e3bfcce6f1337815f9c0c660933a33232da7d610;]|RELEASES:[]
 sparkfun/LilyPad_Protoboard_Small: BRANCHES:[master:24782f048a7a7b2bca25f557da86fbf45c940d5d;]|RELEASES:[]
+sparkfun/SparkFun_ATSHA204_Arduino_Library: BRANCHES:[master:2bab4159308224a504e9bc05303b2fdc9d7f42c3;]|RELEASES:[]
