@@ -1733,3 +1733,4 @@ m5stack/M5PoECAM: BRANCHES:[master:7e47b7cbaef108e3fbc76299ef32b15fd06a66f2;]|RE
 m5stack/M5-FPC1020A: BRANCHES:[master:0ecd2862f6f30fb7d2a5608c614a0f7e4a17d9a2;]|RELEASES:[0.0.1:f2d868a2fb545b6f5d5d1fd53828b03b038c436c:none;0.0.2:51618406add9b464b18da2d182cb5683d8363cd3:none;1.0.0:0ecd2862f6f30fb7d2a5608c614a0f7e4a17d9a2:none;]
 m5stack/esp32-camera: BRANCHES:[master:4467667b71f22a4c7db226f24105a9350abe7a05;bugfix/update_lcd_cam_reg_for_s3:1eb90a8849496e5d4c9b1ee10ab9e60ca756dca0;feat/add_libjpeg:6e28fec389ff9eeb11028a3588c375782485b19f;feature/lcd_cam_hw:caf2efb650abd5d5b5f60df6a56d747614e8c468;]|RELEASES:[]
 m5stack/M5Tools: BRANCHES:[master:098b31d8db2fb2bedb923c7a1b3c7f0c5d281525;]|RELEASES:[]
+m5stack/IoT_BASE_NB_FactoryTest: BRANCHES:[master:3b8d8ff221ff3f25a298cfc4abd1ccd4244df12a;]|RELEASES:[]
