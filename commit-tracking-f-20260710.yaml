@@ -1075,3 +1075,4 @@ sparkfun/ToF_Range_Finder_Sensor-VL6180: BRANCHES:[master:6df9637f3e0700be49c3cc
 sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library: BRANCHES:[master:a4e4def9dfd2fdac56a58b41d8a690d475377760;]|RELEASES:[v1.1.1:1e22b5f1f383842054e8454ebb2c25046c8efe4c:none;v1.1.2:a763d8b7e5325395fcba79b23e69503b51cd0c8b:none;v1.1.3:fbddc0e68616d7b4ca14d2c1654c0b0fcc2d41bb:none;]
 sparkfun/OpenLCD: BRANCHES:[master:88bf6f642840a2ecda856b10a05429f2f27a7c7d;]|RELEASES:[v1.1:e0229bf4139f49c6bf83f6e3f93691b298cbb956:none;v1.2:36a8698729b755d6c1afe46c8807bc6fa0bfbf0a:none;v1.3:d4ad618f0ac1380f466c37bab6b003d0e2666a0b:none;]
 sparkfun/MIDI_Breakout: BRANCHES:[master:457a8b03226aaa9eb35fecf5e766f15bc9055bee;V_1.2:354bcbed8eeedadcfb5098d4c969bddc63ee3144;]|RELEASES:[]
+sparkfun/Soil_Moisture_Sensor: BRANCHES:[master:f4d72d965d0a72b6b031ec2d08d87dd4d307cd76;]|RELEASES:[]
