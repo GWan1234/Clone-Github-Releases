@@ -728,3 +728,7 @@ sparkfun/SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library: BRANCHES:[main:6ea1765a51
 sparkfun/MicroMod_GNSS_F9P_Carrier_Board: BRANCHES:[master:2b6502c6f013c03bbc9fe09d61b52ae71362f4d5;]|RELEASES:[]
 sparkfun/Qwiic_KX13X: BRANCHES:[main:ba21595631d4ae07b4a7ffea6b1e4826ace2783b;]|RELEASES:[]
 sparkfun/qwiic_nau7802_py: BRANCHES:[main:08eb9660f09dc6c7707fd7f62493cb933012e14f;feature/packaging:3af459f1e967613bf53b95aafcdd9e16e19b2741;examples:a27aa8bacae5b18c99f513348625c3980b6e013c;]|RELEASES:[2.0.0:1c97222f1b4ebc31486e9027d3436acbf9b7b56d:none;v0.0.1_test:172e7d0da4e64e1982a0493cffbf26c9891a7c85:none;]
+sparkfun/Qwiic_Haptic_Driver_DA7280: BRANCHES:[main:f80f04f1061224f3cf482133ea2c13ca03d3e08d;]|RELEASES:[]
+sparkfun/MicroMod_Processor-RP2040: BRANCHES:[main:831f73dc24991160939aa9fe14742cbc79e35e5a;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library: BRANCHES:[main:90ae6f050ff050e49dfbf56ad88a5e0cb2a4f71c;]|RELEASES:[v1.0.0:e78f927ec8c5209e218833ea8fff14359fdfde84:none;v1.0.1:af5dd98a32a1b937ab2f92040d811b4825b0a3ff:none;v1.0.2:dbc04559235a21e447676c4c8bb78636353928c7:none;v1.0.3:af7d5e2b623370a460981eabe181d3716a2afd64:none;v1.1.3:3a8fb37d3265f2aff6ecc4619fb74aff2dfb7426:none;v1.1.4:90ae6f050ff050e49dfbf56ad88a5e0cb2a4f71c:none;]
+sparkfun/SparkFun_Thing_Plus-RP2040: BRANCHES:[ARM_DevSummit:4bf503e659213b5ed9b3b1e16726de0b4467564f;main:38fd2d27eaa2e6e9c16e8496f7d1777f83df842a;]|RELEASES:[]
