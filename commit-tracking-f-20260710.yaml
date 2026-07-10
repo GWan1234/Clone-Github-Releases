@@ -795,3 +795,4 @@ sparkfun/SparkFun_BMP581_Arduino_Library: BRANCHES:[main:073ce7c3ddc197f4a8ae406
 sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384: BRANCHES:[main:1c8760b268bb4a6e29c42cfcd8dbe696ea46ce3a;]|RELEASES:[]
 sparkfun/SparkFun_Thing_Plus_MGM240P: BRANCHES:[main:cf4772115b2ef522ed8f8be4b9ea5bc7179654a9;]|RELEASES:[]
 sparkfun/SparkFun_Cellular_Function_Board_Blues_Wireless_Notecarrier: BRANCHES:[main:84d2f0ccf72ddc1ba9a89bfb4c95df8efd73631c;]|RELEASES:[]
+sparkfun/ambd_arduino: BRANCHES:[dev:0a78de9499c82253620ae631171bae0143cc44ae;master:c5c52a33276229f626fb81ebfafbcde3fc9c9abb;]|RELEASES:[]
