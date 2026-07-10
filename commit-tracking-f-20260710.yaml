@@ -348,3 +348,4 @@ sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library: BRANCHES:[mast
 sparkfun/Blackberry_Trackballer_Breakout: BRANCHES:[master:2f2441482524621ecdaea6463d2b9ba7249c2770;]|RELEASES:[]
 sparkfun/FreeSoc2: BRANCHES:[master:7a7a325278c0fb96ba51e05cd0fb847a73feb79f;]|RELEASES:[v01.1:fb5e161f32bdb89b47ac1b63ce6ad157fc75a3b1:none;v14:7a7a325278c0fb96ba51e05cd0fb847a73feb79f:none;]
 sparkfun/Lipo_Charger_Basic-microUSB: BRANCHES:[master:73710c1269a31963b9878e43a2877c6df5e5454a;]|RELEASES:[]
+sparkfun/GlitchBooth: BRANCHES:[master:225d54ede9570e090363a8ec88a6815e68536534;]|RELEASES:[]
