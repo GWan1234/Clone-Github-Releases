@@ -1311,3 +1311,4 @@ sparkfun/CherryMX-Chord-Keyer: BRANCHES:[master:3243f6c3525daa7f4acc8c799ab4412e
 sparkfun/Electrocute_ETextile_Projects: BRANCHES:[master:5f531c04c5f4cf12e2f0e8c0cade637fe23c591b;]|RELEASES:[]
 sparkfun/SparkFun_BQ27441_Arduino_Library: BRANCHES:[master:65fcd5553b3087d17c838cbb682121b61fe6881c;]|RELEASES:[v1.0.1:5ca0dbe80c15e1a5ecf66d45d26d601e7befeac1:none;v1.1.0:65fcd5553b3087d17c838cbb682121b61fe6881c:none;]
 sparkfun/Motor_Driver-Dual_TB6612FNG: BRANCHES:[master:76bbcba16c4510c8bd9ab6b4622172a7d70bfd22;]|RELEASES:[V_1.1b:7aed0b084e64e60f28eb798cf4114d5503495181:none;V_11:d1ca8a7fbc652e3e7974faed9f29002cfed27880:none;]
+sparkfun/Beehive_WiFi: BRANCHES:[master:c917e62cefe14c87ec274e21a570b7b13e399e7b;]|RELEASES:[]
