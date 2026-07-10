@@ -1438,3 +1438,4 @@ sparkfun/qwiic_oled_base_py: BRANCHES:[feature/add_1in5_display:d94774c1c4a97af3
 sparkfun/Qwiic_OLED_Display_Py: BRANCHES:[main:0864759bd947b841d805d05aa314b70dbb3bc4d4;]|RELEASES:[v0.0.2_test:0864759bd947b841d805d05aa314b70dbb3bc4d4:none;]
 sparkfun/Qwiic_Air_Quality_Sensor_SGP40: BRANCHES:[main:c405a84aeb072193aa568cc4ae3a939b994d3244;]|RELEASES:[]
 sparkfun/Qwiic_Large_OLED_Py: BRANCHES:[main:74542b77f8921596c8fedde3231d63b5eb37db38;]|RELEASES:[v0.0.1_test:74542b77f8921596c8fedde3231d63b5eb37db38:none;]
+sparkfun/Buck_Regulator_AP63203: BRANCHES:[main:63cdc8eadd1258e32630f4e8ce2c1978d6ed62a5;]|RELEASES:[]
