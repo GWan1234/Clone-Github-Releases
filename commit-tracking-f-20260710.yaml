@@ -1119,3 +1119,4 @@ sparkfun/Sound_Page_Kit: BRANCHES:[master:d4c91fb9554a8fe93fc7b70ecfbc8769538718
 sparkfun/BadgerStick: BRANCHES:[master:20dc66aae38480764036bda764d3752306cb3d83;]|RELEASES:[]
 sparkfun/PSoC_Arduino_Support: BRANCHES:[master:857718cf63ddfee09217269843adb31675f87304;]|RELEASES:[]
 sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library: BRANCHES:[master:f76cabfc458f883d6bca05aef13c6a1cbe98279d;]|RELEASES:[]
+sparkfun/SparkFun_WiFly_Shield_Arduino_Library: BRANCHES:[master:34bf7e633051d848fb2b97cc523f5191e2cf1c89;]|RELEASES:[]
