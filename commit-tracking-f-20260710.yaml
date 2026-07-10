@@ -442,3 +442,4 @@ sparkfun/Lumenati_90L: BRANCHES:[master:ef5dddc4e1c84b8cc1fac6350173901c796a175a
 sparkfun/SparkFun_Pi_AVR_Programmer_HAT: BRANCHES:[master:67af8c8c3f3e89e2f32d41f2ba2b919f76a34282;]|RELEASES:[]
 sparkfun/micropython_for_microbit: BRANCHES:[main:cfe58ac34d279edf3c60815f621ab196181ee603;]|RELEASES:[]
 sparkfun/Digital_Load: BRANCHES:[master:087005447889529a44c1487b79c4d8498423ca34;]|RELEASES:[]
+sparkfun/SparkFun_AS726X_Arduino_Library: BRANCHES:[master:31b2c22e04b7226a75fb25c3f9e2f6a57b4ea44a;]|RELEASES:[V1.0.2:a12f0cc96a8eeea50a715c816f0d2ec8d1baf8ed:none;v1.0.3:f722e3127d2b0a17cefbb4cd6b44a015c462fb17:none;v1.0.4:63e75a0c676ab6a9f6aea8fb085095bc575fd7ed:none;v1.0.5:8d0a0fbe2b2d97e5ed94c9177219144c439addab:none;v2.0.0:61a2648cb44b742db53079f69a9a9a514f2fcc60:none;v2.0.1:55ecffb8dbcadac8b3d2cb2376eb4cc1c6f33fd7:none;]
