@@ -1632,3 +1632,4 @@ waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c
 waveshareteam/ESP32-S3-RGB-Matrix: BRANCHES:[main:316517a0d3e087d38cb67db45e6f210442be1005;]|RELEASES:[]
 waveshareteam/RGB-Matrix-Px-xx: BRANCHES:[main:91821b55ed7ac049fa5ba3ab7513a96ec0739226;]|RELEASES:[]
 waveshareteam/RP2350-LCD-0.85: BRANCHES:[main:d124edf6a1a0343f2e2e1bbf6bc5018369aae2d8;]|RELEASES:[]
+waveshareteam/RP2350-Touch-ePaper-1.54: BRANCHES:[main:da8d0084225ea8bbc33e87313aafe3d75d407850;]|RELEASES:[]
