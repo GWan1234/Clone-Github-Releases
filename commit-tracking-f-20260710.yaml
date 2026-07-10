@@ -1687,3 +1687,4 @@ m5stack/M5StickC: BRANCHES:[master:0490c6a925cfc71f89f2f780d7fc65f060634ee4;]|RE
 m5stack/GoPlus: BRANCHES:[master:efba31c93426f1573066dda56d157e73d4bab864;]|RELEASES:[]
 m5stack/StickWatch: BRANCHES:[master:243f4d6767914e12741b78a876f3d6dfa7b7bdeb;]|RELEASES:[]
 m5stack/M5Stack-Firmware: BRANCHES:[master:5e71c3eefedbeaf9d99557fdb3e2fb0468f8582d;]|RELEASES:[]
+m5stack/MakerFaire-Robort: BRANCHES:[master:191cdebb09a81adfd05d252a2cf0dd2c8b53e5f7;]|RELEASES:[]
