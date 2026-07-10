@@ -888,3 +888,4 @@ sparkfun/SparkFun_Toolkit: BRANCHES:[main:cf794e0cce19e6bfac2a923d9eec13f82255df
 sparkfun/SparkFun_Qwiic_OLED_1.3in: BRANCHES:[gh-pages:b8f1c1b0730482ff739c1a386c726cacf21d5fdc;main:fe1cef157c993c8265288fbccf211043df3708be;]|RELEASES:[]
 sparkfun/SparkFun_Spectral_UV_Sensor_AS7331: BRANCHES:[gh-pages:c76777d1398d3d9342033ad89bee7f574b7c9b4c;main:b1354e6939ff35adc6eac51b0e038a8428328bf9;]|RELEASES:[]
 sparkfun/SparkFun_LTE_Stick_LARA_R6: BRANCHES:[gh-pages:b7c476b9731b882573a095ea9c2b51a8eb76e0f7;main:37618ae62bce8bc04d645585f28c873d6217f62b;]|RELEASES:[]
+sparkfun/SparkFun_ESLOV_to_Qwiic_Bridge: BRANCHES:[main:a666bf9ff5f64aa4173cf14a91c46ec30a275723;]|RELEASES:[]
