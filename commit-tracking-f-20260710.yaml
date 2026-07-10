@@ -658,3 +658,4 @@ sparkfun/qwiic_9dof_imu_icm20948_py: BRANCHES:[main:d37eebca6a4e0d9dc973fb3efc83
 sparkfun/Artemis-Firmware-Upload-GUI: BRANCHES:[master:876d7decda7099ace3c12750203a90af5e6bc56f;develop:8dc04839cd6e4f6d4c9861ed6f5f06c9d90d6952;]|RELEASES:[v1.0:b5b969d93a2fe6009952a77f2a01c97ef4b95359:none;v1.1:bdc3a9a0a01aef39a39d33e38292350f9e277200:none;v3.0.0:9417303aaafb777e9a830ebd4686e76f069f1dac:2023-03-05T12:55:54Z;v3.1.0:876d7decda7099ace3c12750203a90af5e6bc56f:2025-03-03T09:18:23Z;]
 sparkfun/Qwiic_Dual_Encoder_Reader_Py: BRANCHES:[main:f0f323f74181500f10a3e18c59b0c089803e119a;]|RELEASES:[v0.0.2_test:f0f323f74181500f10a3e18c59b0c089803e119a:none;]
 sparkfun/Top_pHAT_Button_Py: BRANCHES:[main:da24cc9e6c2a49b00d7d4a8831086aebc81791de;]|RELEASES:[v0.0.2_test:da24cc9e6c2a49b00d7d4a8831086aebc81791de:none;]
+sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0;]|RELEASES:[]
