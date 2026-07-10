@@ -1098,3 +1098,4 @@ sparkfun/Photon_RedBoard: BRANCHES:[v11:f086a24e44bbb0a6370695b38019d679af11c34f
 sparkfun/AVR_ISP_Shield: BRANCHES:[master:dcd712d266486559c8a6ddf7f8025caf97afaf2e;]|RELEASES:[]
 sparkfun/PoEthernet_Shield: BRANCHES:[master:5be941ad7820de89eaad4fb2780ee7332f4fb909;]|RELEASES:[]
 sparkfun/Serial_Controlled_Motor_Driver: BRANCHES:[master:7fd71f82ea8329199dde4b64aae1c48212c2e3bd;FW_V_07:9401eab49b306d6c6507cd965208ace68898347a;]|RELEASES:[]
+sparkfun/AD_Stereo_Converter-PCM1803A: BRANCHES:[master:8551f232cb40e3b6de7c3fc9bc9b32ef18cb5a4c;]|RELEASES:[]
