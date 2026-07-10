@@ -651,3 +651,4 @@ sparkfun/CapacitiveSensor: BRANCHES:[Apollo3:b970c734354ffd4cf6fb06d38fe16e1a668
 sparkfun/Qwiic_Thermocouple_Amplifer: BRANCHES:[master:17363932880175787ef9ed4d1c1540a5647180c7;]|RELEASES:[]
 sparkfun/SparkFun_u-blox_NEO-M8U: BRANCHES:[master:b9d3add051b54ebaf859d102cf718ee90924bbf7;]|RELEASES:[]
 sparkfun/Qwiic_Dual_Encoder_Reader: BRANCHES:[master:35ee9986eb7ca87046124adcf04db22925d41fe3;]|RELEASES:[]
+sparkfun/Temperature_Sensor_TMP102_Qwiic: BRANCHES:[master:24c9eabdab49e98ae49cbbc4b0808b097c4f4112;]|RELEASES:[]
