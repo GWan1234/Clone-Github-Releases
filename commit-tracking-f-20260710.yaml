@@ -943,3 +943,4 @@ sparkfun/SparkFun_UM980_Galileo_HAS_E6_Convergence_Test: BRANCHES:[main:11ff74a0
 sparkfun/qwiic_otos_py: BRANCHES:[master:dcd21356f0e130a23c3444ba924900aa494c31a2;feature/packaging:a882610248cac3b3002f483f7b8573496b36dd74;examples:e487ddcd182b2f2bf819265e41252b28654b55f8;]|RELEASES:[2.0.0:2a26ada89ec03b15bb15b70223db47c4cb9e8ef6:none;v0.0.1_test:09deb521e7cf743dc834b34eb6e9d9db5490770c:none;]
 sparkfun/SparkFun_Qwiic_OTOS_FTC_Java_Library: BRANCHES:[set_pose_workaround_v9.2:e87b15e73486335cfbf42f774bbeb9952d19c335;fix_set_pose_angle_wrapping:7fc79005a062e71505b561f2e2391cb446e43a16;main:a04b4f559613226e656fffafd47c0bcd8404b8d4;]|RELEASES:[]
 sparkfun/Update_Firmware_Unicore_GNSS_Receiver: BRANCHES:[gh-pages:c2d760d7a315cc58403d1265dbd6c0a69703a7cd;main:6f2ef4555ea4e3d86c05b66bb045dd5b1284dede;]|RELEASES:[]
+sparkfun/SparkFun_IoT_Node_LoRaWAN: BRANCHES:[gh-pages:dc1f7a87f3a1448d6b727baf713e9713be5c4822;main:6a37f1db38eb141d6bb07c0275b36acf0f8edae2;]|RELEASES:[]
