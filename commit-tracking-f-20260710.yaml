@@ -665,3 +665,4 @@ sparkfun/SparkFun_Humidity_Sensor_SHTC3: BRANCHES:[master:89ecc1a11c2d0c3bbd8bc6
 sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library: BRANCHES:[main:8b247948e139e97001117efdc26f6aceceda0e4c;release_candidate:57d9fab6517f296e4d567524a4d434857f3d6360;]|RELEASES:[v1.0.0:fefa337d1790e2e8bdc31321675b17a1ebb96950:none;v1.0.1:57d9fab6517f296e4d567524a4d434857f3d6360:none;v1.0.2:d7902d194b7856cd1abf5456ac9d0a3ac24ba710:none;v1.0.3:8b247948e139e97001117efdc26f6aceceda0e4c:none;]
 sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic: BRANCHES:[master:854e0efe4b5f3f37585929201035b5f90c2cb1bc;]|RELEASES:[]
 sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4;]|RELEASES:[]
+sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R: BRANCHES:[master:5f9ddc4a2083e7c8417bacd10507f2a6bb518ed1;v12_uFL:144505496129bb01f6c81f675963bb9e0e870a19;]|RELEASES:[v1.0:dd1fe5e279ce59b8fab0c545a6abe737425a05ff:none;]
