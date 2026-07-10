@@ -593,3 +593,4 @@ sparkfun/gator_particle: BRANCHES:[master:87c032da2dbf014200a70f7aa7501fbecdf4b4
 sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary: BRANCHES:[master:bfa948e8164470177800cf07fffba67d9376427c;]|RELEASES:[v1.0.0:331203d11fd00631ecb555cc570fecd90cd9b34e:none;v1.0.1:c24b83b84c368c401eebd2efe1d215f770d8b333:none;v1.0.2:8c16d42b044b07f7efe6e165d79cb1dff831eeff:none;v1.1.0:f1e3a5a69795eb89b6c9f8ce167e76195de29b8f:none;]
 sparkfun/gator_soil: BRANCHES:[master:318951ce4718d819b8f0ac6048b86e80543f80da;]|RELEASES:[]
 sparkfun/gator_microphone: BRANCHES:[master:1ed9d5d6f62dccd1b06fb29b8494f272b08f3d13;]|RELEASES:[]
+sparkfun/Qwiic_Keypad: BRANCHES:[Check_for_valid_numberOfBytesReceived:2efbd98b825be0280e4b57465d10a4caf8cbae84;master:3c219d96fedc362823868bff1757e3e6ec07d017;]|RELEASES:[]
