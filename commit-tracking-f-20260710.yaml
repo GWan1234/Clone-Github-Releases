@@ -762,3 +762,4 @@ sparkfun/SparkFun_QwiicNES_Arduino_Library: BRANCHES:[main:2a938dbcc7e4bedcf2b93
 sparkfun/Zio-Qwiic-Ultrasonic-Distance-Sensor: BRANCHES:[master:83b7207c626b1ecefc22fb962090fa9d18e7df4f;]|RELEASES:[]
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:b6f08e5355aa6a39e03698d2b18f341e36a3aaf8;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e;]|RELEASES:[v10:c13ae55b3cbdfa42cb71c6eb7b5ba7ff81aadb9a:none;v20:cdb0509af470a417b8c043ec759b6bb4fa8d1110:none;]
 sparkfun/Raspberry-Pi-Safe-Reboot-and-Shutdown-Button: BRANCHES:[main:604bbf82005c364f98848b41c4c28e21e1ef162d;]|RELEASES:[]
+sparkfun/SparkFun_IoT_RedBoard-ESP32: BRANCHES:[main:72e78f98fb28f84d8589f292696660ac3f8c1259;]|RELEASES:[]
