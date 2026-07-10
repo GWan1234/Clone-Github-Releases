@@ -1,6 +1,11 @@
 name: Clone Backup Matrix (Read-Write Separation Mode)
 
 on:
+  workflow_run:
+    workflows:
+      - "Clone Backup Repositories F"
+    types:
+      - completed
   workflow_dispatch:
 
 # 核心安全声明：授予 Actions 自带 Token 写入当前仓 Release 的权限
