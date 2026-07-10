@@ -1572,3 +1572,4 @@ waveshareteam/ESP32-C6-Touch-AMOLED-2.06: BRANCHES:[chore/esp-idf-ci:99579e8f295
 waveshareteam/ESP32-S3-Touch-AMOLED-1.32: BRANCHES:[main:b3d6546e39db6287bc643eb0b0ad796e0ff61315;]|RELEASES:[]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:b794ebccc8cb295bbd352926762f3c4f7370630a;]|RELEASES:[]
 waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:deaf773feb2dd18a2a55b8156240547184f54d11;]|RELEASES:[]
+waveshareteam/ESP32-Touch-LCD-3.5: BRANCHES:[main:19f266e8c257f3ed5519e2e4cc062d9e5a64fde4;]|RELEASES:[]
