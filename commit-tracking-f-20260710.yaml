@@ -1610,3 +1610,4 @@ waveshareteam/ESP32-S3-Touch-LCD-1.54: BRANCHES:[main:5157db7c888e476fd57f8a9502
 waveshareteam/Environment-X6-Sensor: BRANCHES:[main:d36b005e5df0c5b7564f94d025daebbfe490ac7d;]|RELEASES:[]
 waveshareteam/ESP32-C6-LCD-1.9: BRANCHES:[main:1fed15e32977de11afe1f710a0f5e915bfcc35a5;]|RELEASES:[]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[main:df6e57614db4ce23f36a83593e18cd629398b68a;]|RELEASES:[]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-5: BRANCHES:[chore/esp-idf-ci:602d7acbffba95cc28cba43fb2ba9fd20701d3a7;main:5905c4156f250c61d05c4c48b34d83d367b0ae7d;]|RELEASES:[]
