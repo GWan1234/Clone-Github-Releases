@@ -1341,3 +1341,4 @@ sparkfun/SparkFun_TB6612FNG_Arduino_Library: BRANCHES:[master:e34f9ec060e6092172
 sparkfun/MAX30105_Particle_Sensor_Breakout: BRANCHES:[master:1c5c88c8b99ae6edd1ba226c16e37b433641d56e;]|RELEASES:[]
 sparkfun/Serial_Basic_Breakout-CH340G: BRANCHES:[master:19004d8256151ac61e5502eeaa41979b48e95c62;]|RELEASES:[]
 sparkfun/Genericized_Library_Examples: BRANCHES:[master:dc42e166ae5d408b03ae6903609a531e5c475e1e;]|RELEASES:[]
+sparkfun/SparkFun_DS1307_RTC_Arduino_Library: BRANCHES:[master:68f64b103d014f448c280bb24385430e1011feec;]|RELEASES:[]
