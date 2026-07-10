@@ -262,3 +262,4 @@ sparkfun/phant-meta-mongodb: BRANCHES:[master:4a3e87647fddbdc355baf341991acab3ca
 sparkfun/Alphanumeric_GPS_Clock: BRANCHES:[master:22bd28305bafd2a9852ab7d77e8e1ee990e521dd;]|RELEASES:[]
 sparkfun/Wimp_Weather_Station: BRANCHES:[master:8fb4f8052ee94b945a8d5a44dab230c936724fdf;]|RELEASES:[]
 sparkfun/phant-output-udp: BRANCHES:[master:070b29b1e4c070d48e7e332922496fe818a61a8c;]|RELEASES:[]
+sparkfun/phant-output-websocket: BRANCHES:[master:0ec22af5e6d57da4e48f394c8a145685ccf9e6ad;]|RELEASES:[]
