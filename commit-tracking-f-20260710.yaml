@@ -1333,3 +1333,4 @@ sparkfun/SparkFun_LIS3DH_Arduino_Library: BRANCHES:[master:2705a8a28addc0f50b3c3
 sparkfun/RJ11_Breakout: BRANCHES:[master:7c90872919efd286cd33f39a07a80a4a463bb1ac;]|RELEASES:[]
 sparkfun/TeensyView: BRANCHES:[master:554030f362fefbcea2b13a9b1d0f41d9dc946607;add_multi_spi:d03fd07110841235233458e0ac9514a61ce590a1;]|RELEASES:[]
 sparkfun/Mini_GPS_Shield: BRANCHES:[master:b456c6ce528dbc440b4ea35525d995482f28429c;]|RELEASES:[]
+sparkfun/Spectacle_Audio_Output_Board: BRANCHES:[master:f2aa9f375dde69a05c8d48ce1ed324dc3ddb7100;]|RELEASES:[]
