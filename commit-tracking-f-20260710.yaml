@@ -922,3 +922,4 @@ sparkfun/qwiic_lsm6dso_py: BRANCHES:[master:aa07cfa170b847d8123ed2701f3988636865
 sparkfun/SparkFun_BlueSMiRF-v2_Binaries: BRANCHES:[main:ac97743dce7da76848001abb2ba2e1e06debd296;]|RELEASES:[]
 sparkfun/SparkFun_RGB_CBI: BRANCHES:[main:7e411ad9eca17adf1e508975a7ccc37e640fc150;]|RELEASES:[]
 sparkfun/SparkFun_Simultaneous_RFID_Reader_M7E: BRANCHES:[gh-pages:8710a8d4cb325bbfa6596f4e606a1dadb66cfcdd;main:750cbcb7d56fcd81a3403ac8aab84d4c991278b2;]|RELEASES:[]
+sparkfun/SparkFun_Optical_Tracking_Odometry_Sensor: BRANCHES:[gh-pages:053727f83f9bdbfb84a91e141af18cbf02995607;main:5925ace0724377fe3d582b5f83ca31c820eff32d;]|RELEASES:[v1.0:62785dc34f3df5a0880f9bed4c2ad7e9608d0e97:2024-05-30T19:53:03Z;]
