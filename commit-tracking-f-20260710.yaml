@@ -1189,3 +1189,4 @@ sparkfun/I2C_Expander_Breakout-PCF8575: BRANCHES:[master:f3af77911bc016317e4b9f8
 sparkfun/Gyro_Breakout-LPY503AL: BRANCHES:[master:6293e034e962cd9ccbc718bb12b840d01dd280fa;]|RELEASES:[]
 sparkfun/Energy_Harvester_Breakout-LTC3588: BRANCHES:[master:bc2d0ff7491171c5d922b5caa85ce6d91347c837;]|RELEASES:[]
 sparkfun/EL_Escudo_Dos: BRANCHES:[master:840dd9a8fd8b55499abd1aee8c2c1400536fc49d;]|RELEASES:[]
+sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library: BRANCHES:[master:a459ffb6d972717fa7fb553f109bac99042eca86;]|RELEASES:[]
