@@ -1044,3 +1044,4 @@ sparkfun/SparkFun_CY8CMBR3_Arduino_Library: BRANCHES:[main:5d40d362ba548adc59e62
 sparkfun/qwiic_cy8cmbr3_py: BRANCHES:[master:033724af332ab26bef40ac966608563194644c83;examples:b4f2eef2e80f60cda801a5fa206934cdccdc9c09;]|RELEASES:[v1.0.0:e4fa952336dd07b782a7126bfcdd19b9cd3d91f3:none;]
 sparkfun/SparkFun_RTK_Arduino_Lib_Builder: BRANCHES:[extra_debug:d05397316174f979bde8683c7e2b950785bbf742;main:1c2a78e4198c22a4830c8f5c4f162f8960aefee0;]|RELEASES:[]
 sparkfun/SparkFun_Thing_Plus_ESP32-C5: BRANCHES:[main:54d6828b4ddf66997be65d3cfeeec9deda37174d;]|RELEASES:[v1.0.0:54d6828b4ddf66997be65d3cfeeec9deda37174d:none;]
+sparkfun/ESP32_BleSerial: BRANCHES:[master:70895fb8974d71765d9837f7af082783a8917f92;]|RELEASES:[]
