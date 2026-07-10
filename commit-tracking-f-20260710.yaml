@@ -1163,3 +1163,4 @@ sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e
 sparkfun/OpAmp_Breakout-LMV358: BRANCHES:[master:0a805d06e228d5c3a6631d51dfaceebe121e18a8;]|RELEASES:[]
 sparkfun/LilyPad_Buzzer: BRANCHES:[master:820d0404b5aca845f227a99fea8d648246d053ae;]|RELEASES:[]
 sparkfun/Shift_Register_Breakout-74HC595: BRANCHES:[master:f4b8fcbc33bc4909edb6585cc242096297a6a2ce;]|RELEASES:[]
+sparkfun/SparkFun_74HC595_Arduino_Library: BRANCHES:[master:59968e70f8e5d27bcf976a87cc8d145b51313e5b;]|RELEASES:[]
