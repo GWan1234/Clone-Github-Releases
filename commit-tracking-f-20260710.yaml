@@ -661,3 +661,4 @@ sparkfun/Top_pHAT_Button_Py: BRANCHES:[main:da24cc9e6c2a49b00d7d4a8831086aebc817
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0;]|RELEASES:[]
 sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680: BRANCHES:[master:ff6f1f269c195a209b036d0325c8b94deaeae1ab;]|RELEASES:[]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8;]|RELEASES:[]
+sparkfun/SparkFun_Humidity_Sensor_SHTC3: BRANCHES:[master:89ecc1a11c2d0c3bbd8bc6224095ddf24aff0d09;]|RELEASES:[]
