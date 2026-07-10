@@ -1034,3 +1034,4 @@ sparkfun/SparkPNT_FP: BRANCHES:[main:73fbaf1a5d2066620ec14a7c671690d9aef97f9a;]|
 sparkfun/SparkFun_Qwiic_Fingerprint_Sensor_FPC2534: BRANCHES:[gh-pages:e838ef2c4b36f483bfb2b79f92571e66b183105d;main:7282e3e797618b7e06538f21cef90265abf48596;]|RELEASES:[v1.0.0:c2f112e690ea7949a1aa9053aa5f08a6f42a503b:none;]
 sparkfun/SparkFun_Teensy_Ethernet_Adapter: BRANCHES:[gh-pages:0d47aa5258a3ba69c09af47879f11964456d9034;main:5cfca1f4c286c33a236d1e1ab1c125c45e6b0728;v11:5ab4eb7b360922015638c6fd1e95d55294a49e02;]|RELEASES:[v1.0.0:3bf4ffa68e47b6413ac2addac97998facbab4d57:none;]
 sparkfun/SparkFun_Red_Vision_Touch_Display_for_RedBoard: BRANCHES:[main:55d207429ee28a6960ceab4883a13edf81adeecc;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_GNSS_SAM-M8Q: BRANCHES:[main:4c45d55c12864c7c771554039bac3d1ebb3cde6d;]|RELEASES:[v01:4c45d55c12864c7c771554039bac3d1ebb3cde6d:none;]
