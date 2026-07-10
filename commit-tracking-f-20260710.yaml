@@ -934,3 +934,4 @@ sparkfun/SparkFun_IM19_IMU_Arduino_Library: BRANCHES:[main:0ccea08c7f3283332cf9d
 sparkfun/SparkFun_Stepper_Motor_Breakout_TC78H670FTG: BRANCHES:[main:587d14fab8a6ee2b3d85b6370ba245532eacd424;]|RELEASES:[]
 sparkfun/SparkFun_BREAD: BRANCHES:[main:ee61694536e280eaeba004feb06179aef68bad4b;]|RELEASES:[]
 sparkfun/SparkFun_SAMD_WDT_Arduino_Library: BRANCHES:[master:3b7228d5d86dac84cf8c7446bcec3402e459b3c7;]|RELEASES:[]
+sparkfun/SparkFun_SAMD_Register_Debug_Tools: BRANCHES:[main:2231c1c4be98e1c288b473670fbc630efc894318;]|RELEASES:[]
