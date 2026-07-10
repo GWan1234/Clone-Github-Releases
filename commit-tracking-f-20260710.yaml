@@ -57,3 +57,4 @@ sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa1
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794;]|RELEASES:[]
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6;]|RELEASES:[]
 sparkfun/according-to-pete: BRANCHES:[master:17ed6dfd4e9c24b41b6d4b3e4243b5ac17396ce0;]|RELEASES:[]
+sparkfun/RaspiRobot: BRANCHES:[master:0f42b3c1cadf59943eb3cd9217b978da90cc6aea;readme_cleanup:fa43f922f3e9c89e2dd23eb1e13632889c890005;]|RELEASES:[]
