@@ -543,3 +543,4 @@ sparkfun/ESP32_LoRa_1Ch_Gateway: BRANCHES:[main:7877033edce123da7e5aaa5d715a9e90
 sparkfun/ESP8266_WiFi_IR_Blaster: BRANCHES:[master:c83f311c1ac7a4ad0063cb75b9e53b5a586efaec;]|RELEASES:[]
 sparkfun/Sparkfun_SAMD21_Pro_RF_Arduino_Examples: BRANCHES:[master:0ae451cfb1e8c61f3ac6e184345e85fbe1151b08;]|RELEASES:[]
 sparkfun/RPi_PanTilt_Camera_Kit: BRANCHES:[master:ccacbccb351ca3f85e01e5faa47f81971fec41f1;]|RELEASES:[]
+sparkfun/SparkFun_AS7265x_Arduino_Library: BRANCHES:[main:db403230d072b21e656617a0f003f02cfa690129;bugfix/integration_time:a9e6520790129160e5288b7c542603da6fbd9353;]|RELEASES:[v1.0.0:093c54a73ad31d1a98d3343c56266b9534c6ec6a:none;v1.0.1:31c824af36ebae57e03b8bc13cc4e6e20d2fe635:none;v1.0.2:eac5a8984724d09d12a06484fa012e410de91785:none;v1.0.3:035c182c140916b5d1351f9d0138374eee323465:none;v1.0.4:a841f38518b4c46947b31181aae2ab33752a9d41:none;v1.0.5:db403230d072b21e656617a0f003f02cfa690129:none;]
