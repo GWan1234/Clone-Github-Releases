@@ -1464,3 +1464,4 @@ sparkfun/SparkFun_MicroMod_Main_Board_Single: BRANCHES:[main:37b0a2d5c3d4cd9e55b
 sparkfun/SparkFun_MicroMod_Main_Board_Double: BRANCHES:[main:78a13d44dbfcab0c000adbd0bd60dc79cd5eecfb;]|RELEASES:[v1.1:a3884762d3428613daf072aa4c6460d548b45e02:none;]
 sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882;]|RELEASES:[]
 sparkfun/SparkFun_WiFi_Function_Board_ESP32: BRANCHES:[main:a92944749d9c83d3ad965ad901ade45793c8e970;v11:8b019c3b57909a74dca4f43ed4c1bae490ea403c;]|RELEASES:[]
+sparkfun/MicroMod_DA16200_Function: BRANCHES:[main:32c1eef54e9f28ddad6e60a04e238d7b3aca8912;]|RELEASES:[]
