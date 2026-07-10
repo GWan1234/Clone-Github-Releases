@@ -611,3 +611,4 @@ sparkfun/pyOCD: BRANCHES:[ambiq-apollo3-rebase:2eefa75f2333753b2ecff971977969547
 sparkfun/FlashAlgo: BRANCHES:[ambiq-apollo3:2ae1bae37e6829f7c7f520fb14c12ed4f549d208;master:d9ae7d5b1556cd150f66e71072b8689e93c6c9ac;]|RELEASES:[]
 sparkfun/ArtemisDevKit: BRANCHES:[master:4d5afc951a0887709fc2ba3bf365e2c71c42151a;v10:a521e97151631f369c35d7f555d28412aab055d6;]|RELEASES:[]
 sparkfun/SparkFun_PL-N823_Arduino_Library: BRANCHES:[master:b284ba1e5f44627e327fb3acd8a869cb67a90b6a;will2055-patch-1:805badad142c0a91711a93e64bb82b926dcc606d;will2055-examples-1:8664e71fc3555989151724a614232b600ff336eb;]|RELEASES:[]
+sparkfun/SparkFun_Clock_5P49V60_Arduino_Library: BRANCHES:[master:8ac79043e37acea37d2586ebc856e552b38b6def;]|RELEASES:[v1.0:5e9ba22fa285ddd5b3ba9467dfa005907a257e48:none;v1.0.2:8ac79043e37acea37d2586ebc856e552b38b6def:none;v1.01:e016a5034748667d8d35c56cf7704ca128c53a7c:none;]
