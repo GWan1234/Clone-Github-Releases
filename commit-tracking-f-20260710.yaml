@@ -1453,3 +1453,4 @@ sparkfun/qwiic_led_stick_py: BRANCHES:[main:966430595547752b5cd0f51dac87fc97337e
 sparkfun/SparkFun_RTK_Express_Plus: BRANCHES:[main:1bffa4b6a035cf0f61e334fe3dde4d06c67a6733;]|RELEASES:[]
 sparkfun/MicroMod_Function_LoRa_1W: BRANCHES:[main:fb2274d8bc2ca06e6c730d7efaf8bbe07b7a18f2;]|RELEASES:[]
 sparkfun/Qwiic_Alphanumeric_Display_Breakout: BRANCHES:[main:93e6d110892d22604cbe8f278291b2ed05fefd52;]|RELEASES:[]
+sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library: BRANCHES:[main:98324f16c96112eadca095a32ae5f029da5e0d6c;]|RELEASES:[v1.0.0:e66aaaf000dd3c1ab519a0224e97ff56c8f0afaf:none;]
