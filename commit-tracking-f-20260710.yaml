@@ -1224,3 +1224,4 @@ sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c
 sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library: BRANCHES:[master:a70a355406dbaf694c3858c27028fcae99191519;]|RELEASES:[V_1.0.1:c6f465ab23455aa8e830d7be836f0ef5353b152c:none;v_1.0.2:a70a355406dbaf694c3858c27028fcae99191519:none;]
 sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68585ff3756b16c80ef0a;Interrupt:3349aeccbfb462a12c0f8e0c8531fcc59d4e168e;]|RELEASES:[V_1.3.0:b5f5595f32c039a414e26bad450d25bb55faac0e:none;V_1.4.0:4ad518cf599bd1daff78d10bae46a606547fb73b:none;]
 sparkfun/SparkFun_MiniGen_Arduino_Library: BRANCHES:[master:8173dec8c7e147e08352cf9ad389f206a379b304;]|RELEASES:[]
+sparkfun/SparkFun_MiniMoto_Arduino_Library: BRANCHES:[master:1b42fbbbe25c134150f8e9cb268108fa5aeeab93;]|RELEASES:[]
