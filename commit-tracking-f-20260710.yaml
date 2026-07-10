@@ -291,3 +291,4 @@ sparkfun/Interactive_Badges: BRANCHES:[sxsw2015:f0a672d1287653343ef8efeac901bb4b
 sparkfun/Touch_Potentiometer: BRANCHES:[master:c10aedca16c7a781e12ac266ee421bb1562972fe;]|RELEASES:[]
 sparkfun/phant-reaper: BRANCHES:[master:426cda359cdf6d9ff20103072d28da9921aa1dc8;]|RELEASES:[]
 sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9c359df9a1;]|RELEASES:[]
+sparkfun/phant-docs: BRANCHES:[gh-pages:d73c49cd151113d59f115efdc840315e3c49329b;]|RELEASES:[]
