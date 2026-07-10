@@ -235,3 +235,4 @@ sparkfun/RF_Links: BRANCHES:[main:1b2f68585281418a1cb2661713ab41a19623bc92;]|REL
 sparkfun/Bus_Pirate: BRANCHES:[master:f72dd29315f981bdb2202d67e157903043b255da;]|RELEASES:[v3.6:18082e148f059382fff5b21640022dc8e7f8a64f:none;]
 sparkfun/Electret_Microphone_Breakout: BRANCHES:[Revision:f39d4ec66b6b152b3a87481116fd0ec8f1fbe7fa;master:e60a3bcef2c3a6afa8ca664a03987d22bbe3a23a;]|RELEASES:[]
 sparkfun/CP2102_Breakout: BRANCHES:[master:b0629d7e3b6004c158f858be66a4a197fcc62491;]|RELEASES:[]
+sparkfun/Qtechknow_ArduSensor_Learning_Kit: BRANCHES:[master:6f79ab1d7baa8e5bd22bc39dd48368bf94ab0f19;Shield_V_1.2:ba192062c09d838056ce9cd28ac1a5b97e8279b4;]|RELEASES:[]
