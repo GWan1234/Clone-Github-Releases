@@ -1183,3 +1183,4 @@ sparkfun/LilyPad_Arduino_SimpleSnap: BRANCHES:[master:26dbd1ba8948641aa5f27afcb0
 sparkfun/Transceiver_Breakout-nRF24L01_RP-SMA: BRANCHES:[master:7ea6ecc46f438929c2e8800ec35fe250c6015ec1;]|RELEASES:[]
 sparkfun/Barometric_Pressure_Sensor_Breakout-MPL115A1: BRANCHES:[master:bf7c232fac2dfdbb9290400fb61d2fb61fb8bf97;]|RELEASES:[]
 sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm: BRANCHES:[master:e25855155c02dc167d3a846cf419b79bf3ffcc19;]|RELEASES:[]
+sparkfun/LilyPad_LiPower: BRANCHES:[master:14cfd35a6b819c9086de281a5e192ec9e44aaef2;]|RELEASES:[]
