@@ -523,3 +523,4 @@ sparkfun/SparkFun_SGP30_Arduino_Library: BRANCHES:[main:33c7030330aff16372b94114
 sparkfun/ATX_Power_Connector_Breakout: BRANCHES:[master:4cc10be391aa08952174be5d3543c9d3877e084c;]|RELEASES:[]
 sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library: BRANCHES:[master:ef72c30803a2c5152beb42924775d69f40c17c8d;]|RELEASES:[V_1.0.0:69832c96812c7463663386b0f782a69c2194f068:none;V_1.0.1:7e0f5fd217aa36ff8846d0b150f19aa00565dc1a:none;V_1.0.2:ef72c30803a2c5152beb42924775d69f40c17c8d:none;]
 sparkfun/Qwiic_IR_Array_MLX90640: BRANCHES:[master:035dccca8460e6320ef446646534df33f39546f3;]|RELEASES:[]
+sparkfun/Flashlight: BRANCHES:[master:46556b2d6d6a7b6c1566dc6dee126c7ca12eb58d;]|RELEASES:[]
