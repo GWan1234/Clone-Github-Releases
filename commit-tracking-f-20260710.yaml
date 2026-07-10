@@ -1713,3 +1713,4 @@ m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[BSP-dev:bc2caabce412f5711b268a33f5ee456
 m5stack/M5Tough: BRANCHES:[master:fda04c38004817bfff095e172ff1d03d8a74c15c;]|RELEASES:[]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:541cb817c5d78e7e010f67b60e9774de2092b0ed;]|RELEASES:[]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd;]|RELEASES:[]
+m5stack/UnitV2Framework: BRANCHES:[main:68506ea70b3a00ecc1719cb36c2a607c6a7b3062;]|RELEASES:[]
