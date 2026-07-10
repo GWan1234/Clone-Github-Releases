@@ -430,3 +430,4 @@ sparkfun/pxt-moto-bit: BRANCHES:[master:a7151bd5491db792afc4dab141a30d357086d816
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4;]|RELEASES:[]
 sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ffa;]|RELEASES:[v0.0.9:a26130e30d50d7599f7ebe032d427afab426aeaf:none;]
 sparkfun/Qwiic_Spectral_Sensor_AS726X: BRANCHES:[master:4a5ba39e5a32962e019a8dc454d0946af5c83de7;]|RELEASES:[]
+sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575;]|RELEASES:[]
