@@ -517,3 +517,4 @@ sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc96
 sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library: BRANCHES:[master:8ecc42a49543a2731358c05ae743a2dafa661d2a;]|RELEASES:[1.0.1:212c6c43a0a6c33699ff2a9e15d571afa4c51247:none;v1.0.2:3feee9f68079594b0400820abd1da4f1769700f6:none;v1.0.3:8ecc42a49543a2731358c05ae743a2dafa661d2a:none;]
 sparkfun/I2S_Audio_Breakout: BRANCHES:[master:4b6487e40ee022b4924a7f498bb211c3212f24e1;]|RELEASES:[]
 sparkfun/Current_Sensor_Breakout-ACS723-Low_Current: BRANCHES:[master:c62d3ea9b7b65640b8cddc8e674154a8a5e71b63;]|RELEASES:[]
+sparkfun/Current_Sensor_Breakout-ACS723: BRANCHES:[master:3778a458eb5a48f8fab10be27c9621891a34d2aa;]|RELEASES:[]
