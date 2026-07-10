@@ -566,3 +566,4 @@ sparkfun/Qwiic_GPS-RTK2: BRANCHES:[master:898a676f3136b68118331e3683299951df3e71
 sparkfun/SparkFun_Edge: BRANCHES:[v2LP-fix-camera-data-pins:01be747e08aa468c16e8fb35cc6e65c93736b0ba;v2LP:f6d2c700e915df29f858d5fed748a4fb129b6948;master:9efcf61f287932238491e4a1fd18f7a280a244c0;fix-v1-camera-net-labels:dbcdc67424bdec42d6221d12a485124846e7cef6;]|RELEASES:[v10:23db9c1be3c016b1c3919403dce7b6ecc73c6754:none;v2.0.0:cb867d2f2cc84c7fcb2fdf0f46ce7ef281175711:none;]
 sparkfun/LCD_TFT_Breakout_1in8_128x160: BRANCHES:[master:6ffe4b4305b53075ec46721a54f54bda2be3df53;]|RELEASES:[]
 sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c442cdbed2abbb434173052;]|RELEASES:[]
+sparkfun/Qwiic_Joystick: BRANCHES:[master:872ce30c7db70375220e67d78398a19f7c60b9ab;]|RELEASES:[]
