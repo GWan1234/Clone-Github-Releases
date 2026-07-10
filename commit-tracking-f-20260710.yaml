@@ -1440,3 +1440,4 @@ sparkfun/Qwiic_Air_Quality_Sensor_SGP40: BRANCHES:[main:c405a84aeb072193aa568cc4
 sparkfun/Qwiic_Large_OLED_Py: BRANCHES:[main:74542b77f8921596c8fedde3231d63b5eb37db38;]|RELEASES:[v0.0.1_test:74542b77f8921596c8fedde3231d63b5eb37db38:none;]
 sparkfun/Buck_Regulator_AP63203: BRANCHES:[main:63cdc8eadd1258e32630f4e8ce2c1978d6ed62a5;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_LED_Stick: BRANCHES:[main:50bdbbc7337922b885718b4de083cadc6d7c15e6;]|RELEASES:[]
+sparkfun/qwiic_tmp102_py: BRANCHES:[main:df33bb058298f6ef48a7dc5336bb48206bc2334d;feature/micropython:3b35b9cdb842d22de3f206d64e83b8a44d7d1196;examples:f7dc8bae13aa21a18f5bd7bfa1631a5bae2a396a;code_review:3ea5b0e2dc67a57184b336d4e09deae16f7c5b74;]|RELEASES:[2.0.0:fbefd4e8c68142ad2209a61dc61ab3efba08b03b:none;v0.0.4_test:328634425cb578747fc45c0f9622c6e6f52a21de:none;]
