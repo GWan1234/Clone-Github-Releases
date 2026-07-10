@@ -1504,3 +1504,4 @@ HelTecAutomation/hotspot-manufacturers: BRANCHES:[main:8556dcb4f2cf7f1e5b2865ab6
 HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0d55700aa329af3c7500c0;master:c05b0d3b45a736f98a3a1d4ca105edfba11c2c63;]|RELEASES:[v1.0.0:3309f2f3bb948f07e7cfa4cbcad8683665c485b4:none;v1.1.0:b0448a932780293d3020e735a4193e4fb473c7ab:none;]
 HelTecAutomation/Sufficient-IoT-Application: BRANCHES:[main:5b06e791d3c3e8938881e24153407b37f24fe6ad;]|RELEASES:[]
 HelTecAutomation/Sufficient-IoT-Joy: BRANCHES:[main:7c6d488cf104bc955d30bd901ad882fec2c01b40;]|RELEASES:[]
+HelTecAutomation/heltec_pika_python_example: BRANCHES:[main:49717b7b726d7380edd8d585297f04cd5075df63;]|RELEASES:[]
