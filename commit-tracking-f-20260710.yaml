@@ -1416,3 +1416,4 @@ sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library: BRANCHES:[main:871796a88
 sparkfun/SparkFun_Pulsed_Radar_Breakout_A111: BRANCHES:[master:5f4d608a017d88721af725bd75d14d3e65de6438;]|RELEASES:[v1.0:0c9d18cfcc9e5cad65bd9ef6082912c0a184644a:none;v1.1:5f4d608a017d88721af725bd75d14d3e65de6438:none;]
 sparkfun/Red_V: BRANCHES:[master:5a6ec4cebf5964b0f90b9e00a935603ce863242e;]|RELEASES:[]
 sparkfun/Artemis_Thing_Plus: BRANCHES:[master:fc9612da34b751c9c8a5c7f041443c914a42a65d;]|RELEASES:[]
+sparkfun/Arduino_Apollo3_wiki: BRANCHES:[master:04979c18eb0a12fae91b42f9b71264abe9a3abc5;]|RELEASES:[]
