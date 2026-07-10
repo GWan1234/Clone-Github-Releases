@@ -1141,3 +1141,4 @@ sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a02269
 sparkfun/BMP180_Breakout_Arduino_Library: BRANCHES:[master:2ec6b6c35d18cddc6e46ae39d4829ca12d747763;lib-change:ae0f3dd2a2072dfa27cf4142df3b27c0e19f3c65;]|RELEASES:[]
 sparkfun/DeadOn_RTC_Arduino_Library: BRANCHES:[master:9565a5d4fac26c46ac6ab17c55154e7c2898096c;]|RELEASES:[]
 sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea27c64164d3405b936caa287b7c83f;]|RELEASES:[]
+sparkfun/LED_Driver_Breakout-TLC5940: BRANCHES:[master:52c035a3753d4f301d2620337d949fd105a381ee;]|RELEASES:[]
