@@ -773,3 +773,4 @@ sparkfun/Bosch-BME68x-Library: BRANCHES:[master:907c26b98e0c550e7922a8c4be2a0116
 sparkfun/SparkFun_SGP4_Arduino_Library: BRANCHES:[release_candidate:9762e0951aa0a2dfa78ea32524889fe1285959eb;main:d42e2a355b6142579030fb73367329b927b21a67;]|RELEASES:[v1.0.3:0ab07985a6f52e9bffc6bfb1f4fb432402a0492d:none;v1.0.4:d42e2a355b6142579030fb73367329b927b21a67:none;]
 sparkfun/SparkFun_ST25DV64KC_Arduino_Library: BRANCHES:[gh-pages:911fd26b8b57083c3d89302ee1ef2941362f989b;main:f8dbf83b38a65a32c3c4528f3b38cf709a9ad7c2;release_candidate:967c75504c8a890a4dacc990a1a9879a9a1e1724;]|RELEASES:[v1.0.0:31410d8bac77a769517cab0e4e216af225c905e1:none;]
 sparkfun/SparkFun_Thing_Plus_AW-CU488: BRANCHES:[main:8c0d87623aece93f37177357bd14fd34159ea21b;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX: BRANCHES:[main:f848874e34e034c00f4e4b8a50d073738f87817b;]|RELEASES:[]
