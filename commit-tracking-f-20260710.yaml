@@ -319,3 +319,4 @@ sparkfun/Edison_ADC_Block: BRANCHES:[master:2ff2ae361431d845ffb789b75f7db6487891
 sparkfun/Edison_9DOF_Block: BRANCHES:[master:b90f8ad45691ceff9fc1e30a1689f87de48f6d63;]|RELEASES:[]
 sparkfun/phant-input-mqtt: BRANCHES:[master:cb823ffefb7d1487be2d41859c63e0313a4a1220;]|RELEASES:[]
 sparkfun/Edison_OLED_Block: BRANCHES:[master:5491d5a190750d4ebae4b6f5b79faff9a4ab0354;]|RELEASES:[]
+sparkfun/phant-output-mqtt: BRANCHES:[master:e1c353d609aac27b6913d87935b864d00220e3ff;]|RELEASES:[]
