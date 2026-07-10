@@ -413,3 +413,4 @@ sparkfun/pxt-weather-bit: BRANCHES:[master:119ab5b4f21717e3a86cd3d8f928ea585d008
 sparkfun/SparkFun_AK975x_Arduino_Library: BRANCHES:[master:3557088994aca1ce142f6ab84e650e66ab903b08;]|RELEASES:[V1.0.3:6904655ea1fef98f781613ea7df62c1860bd930b:none;V_1.0.1:98e13797db51981ff9c65d56567cb9f89393c7a1:none;V_1.0.2:42657ae806cad976848dac40e51d34b11d691510:none;v1.0.4:6ae0fd0cd9475e0c750b7de5c6c3f53357f15622:none;v1.0.5:fc3778303fd66676e69d8f5090ce6abafee95099:none;v1.0.6:3557088994aca1ce142f6ab84e650e66ab903b08:none;]
 sparkfun/SparkFun_APDS9301_Library: BRANCHES:[master:acba4c9b68f33921f7c9ed7ba7836998e4481e7d;]|RELEASES:[v1.0.0:cb3e1ba4b14ebfb5962de3f23dc9c55bc20d8ad8:none;]
 sparkfun/AVC2017_images: BRANCHES:[master:c40edb28d95cf8c5275d5815a1a5fd5dbaff7f64;]|RELEASES:[]
+sparkfun/spectacleapp_livetest: BRANCHES:[master:95fb05bbd24bc95ff3a3f68f51f67e4a72fbd351;]|RELEASES:[]
