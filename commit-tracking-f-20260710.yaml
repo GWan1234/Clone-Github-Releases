@@ -98,3 +98,4 @@ sparkfun/TMP006-Temp_Sensor_Breakout: BRANCHES:[master:d9404e52b2aca0167a5b08b2b
 sparkfun/USB_microB_Breakout_Board: BRANCHES:[master:9d1460eb6ad7acf2a49fa730fcb1bb1ad26e4256;]|RELEASES:[]
 sparkfun/Pro_Micro: BRANCHES:[RED_LED_EOL:785cb819e0a6f76404c4e4d9b0194fbb5c9e2c88;main:df836f3bf2955c4f1199a852f618d2ac80866d47;Boogie_Board:15dbf1af386d02f33664141b5b747bee6a0dcd13;]|RELEASES:[v2.0:df836f3bf2955c4f1199a852f618d2ac80866d47:none;]
 sparkfun/LilyPixel: BRANCHES:[master:c29d59c8c31cc6130489b7043b1abc5ac510a9c6;]|RELEASES:[]
+sparkfun/MiniMoto: BRANCHES:[master:37b98086d9e06e1f498409373ef970d830e45ba4;EdWilson-library_modifications:0a721831f158504bd7483dcad240564563100e2d;library_change:7ba29ed4335221f78ef38713a1e7652d62abedfc;]|RELEASES:[]
