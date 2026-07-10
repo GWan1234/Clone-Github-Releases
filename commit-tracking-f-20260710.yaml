@@ -637,3 +637,4 @@ sparkfun/qwiic_tca9548a_py: BRANCHES:[main:2a0157b459a5df77a40597fab069c7bfa48cb
 sparkfun/sparkfun_autonomous_kit: BRANCHES:[master:2d3339167240ff061c50b79215e555aa96dd7170;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Step_Arduino_Library: BRANCHES:[master:e23010718d2479ddea76d63d9aaed154590c92af;hold/run-current-implementation:a4b0dc9d2d16fdffd96c0a3bc0d1107c71e95048;Motor-run-option-implementation:c40688149634b91680f8caa5366898a752c7c085;]|RELEASES:[v1.0.0:31124ed58fa4ad082d17b7785b1081820996a4fd:none;v2.0.0:27f84db1d232f33d807035cca34ab5e393c6d0de:none;v2.0.1:3a95366e274da65eec39327ab8f4057445e32062:none;]
 sparkfun/Qwiic_Shield_for_Thing_Plus: BRANCHES:[master:26523aafaf95794cf9267ab92b335a4eb9c39a33;]|RELEASES:[]
+sparkfun/Qwiic_Shield_for_Arduino_Nano: BRANCHES:[master:bd9cd174a271141502910d72a820f872c3cf77d8;]|RELEASES:[]
