@@ -1150,3 +1150,4 @@ sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1: BRANCHES:[master:6940d8885472e2e106b
 sparkfun/Audio_Jack_Breakout: BRANCHES:[master:f0329895d5650231a612e34d667e27eaddbd1ccb;]|RELEASES:[]
 sparkfun/SparkFun_LSM6DS3_Arduino_Library: BRANCHES:[master:fa686db5006826a84e5d930bb83838406905b571;]|RELEASES:[V_1.0.1:daf70570e26578dcbe2dba1827690d7110c09f7a:none;v1.0.2:d838d4eb36593b7f26d65850052c66a681937531:none;v1.0.3:fa686db5006826a84e5d930bb83838406905b571:none;]
 sparkfun/Venus_GPS_SMA_Connector: BRANCHES:[master:73fda311542b6cdfa592c9072dd4245efad3d7af;]|RELEASES:[]
+sparkfun/Arduino_ProtoShield_Bare_PCB: BRANCHES:[master:09d0df3651ad0fe5bbf2458bfcf8f9e934eb5d80;]|RELEASES:[V_2.5F1.0:e43b8824a0af05ebcdbc1ab3a9b0188fb37d85ba:none;V_4.0F2.0:09d0df3651ad0fe5bbf2458bfcf8f9e934eb5d80:none;]
