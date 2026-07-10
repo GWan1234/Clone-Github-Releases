@@ -1186,3 +1186,4 @@ sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm: BRANCHES:[master:e25855155c02
 sparkfun/LilyPad_LiPower: BRANCHES:[master:14cfd35a6b819c9086de281a5e192ec9e44aaef2;]|RELEASES:[]
 sparkfun/LilyPad_SimpleSnap_Protoboard: BRANCHES:[master:b03428e54fb2371298a60b13d67d4d246a7af099;]|RELEASES:[]
 sparkfun/I2C_Expander_Breakout-PCF8575: BRANCHES:[master:f3af77911bc016317e4b9f82f7f76edc45b399c5;]|RELEASES:[]
+sparkfun/Gyro_Breakout-LPY503AL: BRANCHES:[master:6293e034e962cd9ccbc718bb12b840d01dd280fa;]|RELEASES:[]
