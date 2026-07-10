@@ -1065,3 +1065,4 @@ sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cf
 sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched: BRANCHES:[master:2eb96459db5d7af141e6b869d2ec3626e7bd617e;]|RELEASES:[]
 sparkfun/XBee_Module_Breakout_Board: BRANCHES:[master:5fea5904f06a562172f03b6a42cb37f4769b4e84;]|RELEASES:[]
 sparkfun/FTDI_Basic_Breakout-3.3V: BRANCHES:[master:7f19f16b62e3f3e857c6f2e4e682809e38ac6ba8;]|RELEASES:[]
+sparkfun/LilyPad_Button_Board: BRANCHES:[master:7108ef23887e3ac677720aa37b0ad82e38acc886;v13:814051bafc4075f1f518f5c95b22eb8d5bcedb62;]|RELEASES:[]
