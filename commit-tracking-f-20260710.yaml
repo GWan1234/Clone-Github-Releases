@@ -423,3 +423,4 @@ sparkfun/Pi_Servo_Hat: BRANCHES:[master:612f2398355650d2f3a6270dcfd83d8760738eac
 sparkfun/ArduinoInventorsGuideResources: BRANCHES:[master:402905bb67dbc39dbfd0b9015e53d01240ed4dc5;]|RELEASES:[]
 sparkfun/LilyPad_ProtoSnap_Plus: BRANCHES:[master:ff39a1d13a5c4cbcdf37a7034ed86c8452ca2286;]|RELEASES:[]
 sparkfun/Fidget_Spinners: BRANCHES:[master:99d73b1b0443ae2071463c8ad48a79ebe53fa739;]|RELEASES:[]
+sparkfun/pxt-gamer-bit_OLD: BRANCHES:[master:d2c7abda1b3cbe2d44853f6685cb8ceb7e89d547;simplify:2e2e9bb90c4cc86d32596a04dfbadc4998d8a52a;btns:13dce6b70c1d89efb1a6035686775fcdf63ebfb0;]|RELEASES:[]
