@@ -667,3 +667,4 @@ sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic: BRANCHES:[master:854e0e
 sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4;]|RELEASES:[]
 sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R: BRANCHES:[master:5f9ddc4a2083e7c8417bacd10507f2a6bb518ed1;v12_uFL:144505496129bb01f6c81f675963bb9e0e870a19;]|RELEASES:[v1.0:dd1fe5e279ce59b8fab0c545a6abe737425a05ff:none;]
 sparkfun/MicroMod_Machine_Learning_Carrier: BRANCHES:[master:9ccae940e9965de17ece010394c4597f40244c07;]|RELEASES:[]
+sparkfun/SparkFun_Air_Quality_Sensor-SGP30: BRANCHES:[master:8a0942c84583c4f852ccc8ed0fdee70b2b17d927;]|RELEASES:[]
