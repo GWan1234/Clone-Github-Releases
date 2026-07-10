@@ -483,3 +483,4 @@ sparkfun/SparkBowl_9DOF_RazorIMU: BRANCHES:[master:a47410f6282bd6afe806039041cf7
 sparkfun/MIDI-BLE-Adapter: BRANCHES:[master:eadcc30132b2f58532b5c2f24138491a75bc0b61;]|RELEASES:[]
 sparkfun/LilyPad_USB_Plus_Standalone: BRANCHES:[master:9c99aa852badf7ce4c059c6bbcd5f786e49774ed;]|RELEASES:[]
 sparkfun/SparkFun_Tinker_Kit_Code: BRANCHES:[master:0d1c1e73e0b0842a70b16af1bcb12b60e755cc3d;]|RELEASES:[vF1.0:c9f9a6932d2c53013225c81f5641b049ed2cf93f:none;vF2.0:6e47904e806df5042b3a11a964d5a4c5dd3b2a64:none;]
+sparkfun/Qwiic_OpenLog: BRANCHES:[master:f3f6a3ec3f70fe4c14612b38fac360f26ee79a4c;]|RELEASES:[3.01:4ad46f22de5928e600c73eadc97cb77bcad5d950:none;v2.0:ee3b01a0e552e3051b669c870acfad3c35894410:none;v3.0:995ece5de00661b23e20ab84e70f8724daa444f1:none;]
