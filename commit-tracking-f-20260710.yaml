@@ -878,3 +878,4 @@ sparkfun/SparkFun_AS7343_Arduino_Library: BRANCHES:[main:d4185477539efce74c94531
 sparkfun/SparkFun_Qwiic_Human_Presence_Sensor-STHS34PF80: BRANCHES:[gh-pages:7011209045517bf52a92f1357698cee5973b1951;main:44ec023fd380eabd9e093a2e3a7bcab193ad5a97;]|RELEASES:[]
 sparkfun/SparkFun_Default_KiCad_Setup: BRANCHES:[main:8c5e9cf973a822bfc29c88972633ea8e4f34b4fe;page-settings:fa7f8ee0f866802c05027aabbaba1436219abf8d;]|RELEASES:[]
 sparkfun/SparkFun_Pro_Micro-ESP32C3: BRANCHES:[gh-pages:15673d57bdfa75c73596fc4cc5875adc92075b21;main:b302fbc429a90b87865145877b96f189ad4d5460;]|RELEASES:[]
+sparkfun/FreddySpark-Regular: BRANCHES:[main:6da8f0b84394c2e5ca9aa728e7e152d0d6766743;]|RELEASES:[]
