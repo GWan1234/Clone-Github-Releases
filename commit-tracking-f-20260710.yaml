@@ -1200,3 +1200,4 @@ sparkfun/RF_Transceiver_Breakout-RFM22B: BRANCHES:[master:47f1c1e3d3036f3c603fbb
 sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D: BRANCHES:[master:598f72b5c790b4d1eb4139ae4ead6bc8a1221619;]|RELEASES:[]
 sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331: BRANCHES:[master:9f94d42719b5c597c6faf039b30d8ded9644d6db;]|RELEASES:[]
 sparkfun/Mini_FET_Shield: BRANCHES:[master:8db660faa2060384e0238b99a3d83a0fd08956a5;]|RELEASES:[]
+sparkfun/Window_Comparator: BRANCHES:[master:d3a96d447cd46350b90d792c9e6eb56116bc95c1;]|RELEASES:[]
