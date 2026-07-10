@@ -817,3 +817,4 @@ sparkfun/SparkFun_Satellite_Transceiver-Swarm_M138: BRANCHES:[main:89fb891565471
 sparkfun/SparkFun_BMA400_Arduino_Library: BRANCHES:[main:85e644b5868c807b1df6ff8f1a125708e0eb947e;]|RELEASES:[v1.0.0:bc5bbae97ec70d9cad0f3cc4e7b13289eb5b0072:none;]
 sparkfun/SparkFun_OWire_Arduino_Library: BRANCHES:[main:428ddcb6a790cfefa071f44b884425383349685d;add-license-1:7bd382c98ca2206978f01c60a144f4fc630661ba;]|RELEASES:[v1.0.0:ffaa9ad50813febc66485986c317ff8d627a6322:none;v1.0.1:428ddcb6a790cfefa071f44b884425383349685d:none;]
 sparkfun/SparkFun_Buck_Regulator_AP63357DV-7: BRANCHES:[gh-pages:5795e67cfab908f19b66f2d91f15e9d02cfdb566;main:2daeae4799b416ed27fc1dfa3123d6cc68747f38;]|RELEASES:[v01:594df65fa9c6e8d6f3556a467e1f328de9b7524c:none;]
+sparkfun/SparkFun_LPS28DFW_Arduino_Library: BRANCHES:[main:8aa5e0f0558ffb7ea3c90ab5dc3ba56b618d4dd5;]|RELEASES:[v1.0.0:e7cb55d52ffda42dfc9a8138037ebe7fae8f9c7b:none;]
