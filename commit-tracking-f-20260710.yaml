@@ -900,3 +900,4 @@ sparkfun/Home_Air_Quality_Monitor: BRANCHES:[gh-pages:3f5e8cd6335a5dbe0b7daf02d3
 sparkfun/SparkFun_External_EEPROM_Arduino_Library_Docs: BRANCHES:[main:8116a3edbf87ee33ad2a101998fe6b0e7e033d4b;]|RELEASES:[]
 sparkfun/pdp-qwiic-micro-python: BRANCHES:[main:480a4a66bc7f3da8aa6b09e75db759df3da99fb6;]|RELEASES:[]
 sparkfun/SparkFun_Thing_Plus_RA6M5: BRANCHES:[gh-pages:f0f95d06393987488788289fe499ec29faf2a4db;main:b655d23b286b797c6edc95dcd18786b6abdef8cd;work:64d02187d19a0bfbaffb172139735c340a3f8f62;add-binary-mode:b97edf46887ac36664d0b8830ba33294403bd951;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Pulsed_Radar_Sensor_XM125: BRANCHES:[gh-pages:8024a52de88ff024d61f18a3e4de2e141e7d2d9f;main:a049212e3c587162418e354e34a03f33e962be72;]|RELEASES:[]
