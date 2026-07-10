@@ -1468,3 +1468,4 @@ sparkfun/MicroMod_DA16200_Function: BRANCHES:[main:32c1eef54e9f28ddad6e60a04e238
 sparkfun/Qwiic_AS6212_Py: BRANCHES:[main:87e19908e66b7f014efb87947a133bedcaf17e1c;]|RELEASES:[v0.0.2_test:87e19908e66b7f014efb87947a133bedcaf17e1c:none;]
 sparkfun/MicroMod_Environmental_Sensor_Function_Board: BRANCHES:[main:c6f51f267769d986756010689eedf3f9f950f0a3;v11:b500e62a18146ab6ad6f33de8b23c6d72ca3f51a;]|RELEASES:[]
 sparkfun/qwiic_alphanumeric_py: BRANCHES:[main:f58e2e0eb9e5880952ebccb9efe8dccd2dd8e8dd;feature/packaging:b8653899678e6eacfe40542f2161ef9a258ccf0a;examples:298a3c41e0eb76e34fa5e42ef91a878bbb633e66;]|RELEASES:[2.0.0:936b232949519a1cb069dccb3b859d79db596146:none;v0.0.4_test:d76efeff49048c2446d82f3165981a7fe7abe9d2:none;]
+sparkfun/MicroMod_Function_Ethernet-W5500: BRANCHES:[main:6b66bf3d9790e4a96c8c1b94a1cd176725633be2;]|RELEASES:[]
