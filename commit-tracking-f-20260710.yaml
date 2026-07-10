@@ -737,3 +737,4 @@ sparkfun/STM32_Thing_Plus: BRANCHES:[main:07b3b438afea2aadb61be81ec4679285956442
 sparkfun/MicroMod_STM32_Processor: BRANCHES:[main:419f9807fba00844d928c920a6be062b85855e37;v20-shuffle-UARTs-for-DFU:0506c759de1f370766364b2bb9c7ad79f96e74d2;]|RELEASES:[]
 sparkfun/MicroMod_Qwiic_Carrier: BRANCHES:[main:78179683f97ab28fa30ae4ef2dbc2a3c1b22291b;]|RELEASES:[]
 sparkfun/SparkFun_Pro_Micro-RP2040: BRANCHES:[main:6d461a6c0654f616d3c3a9033668a68160f70fcb;]|RELEASES:[]
+sparkfun/SparkFun_SGP40_Arduino_Library: BRANCHES:[main:91cb5514368d8cfc0f18f25c55a33a6ca971fac9;release_candidate:e338867a0cbae89eef0944e989ac45a804176f0a;]|RELEASES:[v1.0.0:36994a0b9ab8f45bc889fd9ce0c4aec2effd2eab:none;v1.0.1:8c798812e2461f395a131bb969abf43f4e886d3b:none;v1.0.2:a03ba99ec54b1d1dc9808b0d5373362f1b714413:none;v1.0.3:ed2e2bce15bf552fb28ef655ca8bedc93245fdcc:none;v1.0.4:720f341aeaed5935a6acaafc7680d6c5cdb2c02e:none;]
