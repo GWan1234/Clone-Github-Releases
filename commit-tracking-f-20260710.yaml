@@ -1170,3 +1170,4 @@ sparkfun/LilyPad_Light_Sensor: BRANCHES:[v14:55c170bab4d3d2ed7c2fea3c63f85d6d05e
 sparkfun/LilyPad_Power_Supply: BRANCHES:[master:8229561355fba68cc2524950453c7e5dedb31304;]|RELEASES:[]
 sparkfun/Transceiver_Breakout-nRF24L01: BRANCHES:[master:0c6c96582be98cf78d87e75cad7a73154ec408ce;]|RELEASES:[]
 sparkfun/Infrared_Proximity_Breakout-VCNL4000: BRANCHES:[master:2b7efe3d6b5471b647aab0c5e617a2f1e484f903;]|RELEASES:[]
+sparkfun/Joystick_Shield_Kit: BRANCHES:[master:555ec84cdf0a0e3b65267ceb36333250b2c5bc4c;]|RELEASES:[]
