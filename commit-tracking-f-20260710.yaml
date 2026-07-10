@@ -526,3 +526,4 @@ sparkfun/Qwiic_IR_Array_MLX90640: BRANCHES:[master:035dccca8460e6320ef446646534d
 sparkfun/Flashlight: BRANCHES:[master:46556b2d6d6a7b6c1566dc6dee126c7ca12eb58d;]|RELEASES:[]
 sparkfun/LuMini_1_Inch: BRANCHES:[master:a9f94e3dd22e99e382a9002c1f0aa2694c91f47c;]|RELEASES:[]
 sparkfun/gator_color: BRANCHES:[master:96664cc9a2115d9be42cf786412e6fc97a4c0dac;]|RELEASES:[]
+sparkfun/gator_starter: BRANCHES:[master:c1a92d4fe3b1a7b029928e6a1587b316a36a6657;]|RELEASES:[]
