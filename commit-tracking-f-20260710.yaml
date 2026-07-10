@@ -1028,3 +1028,4 @@ sparkfun/micropython-opencv: BRANCHES:[main:d1aa2401ff9561cf9564be3edc18ceabf56f
 sparkfun/SparkFun_Qwiic_OLED_1.5in: BRANCHES:[gh-pages:b4e3bddf74e9aa508511c8f98726273247134e69;main:1e33162afee6ee5b86302ff0d46e9f6d2e8131ba;v10:81501519f65589a5458ccafc7ee163a4cce4764a;]|RELEASES:[v1.0.0:d569666b7b0129a5a153fb58780f0ae3dd26a798:none;]
 sparkfun/SparkFun_Triple_Axis_Acclerometer-LIS3DH: BRANCHES:[main:7d6bde80688871b4ce9355815a1cfc40219b901d;]|RELEASES:[]
 sparkfun/qwiic_veml_py: BRANCHES:[master:8862be48425aacaee8c4e2ef146f037c6dc34e6e;examples:55f43b6a6f397dc33f30b5fb7611fcb22f29fd84;refactor/veml7700:fbcf15e700b0d7903470cef5817094eb1b30868e;]|RELEASES:[]
+sparkfun/SparkFun_Red_Vision_Kit_for_XRP: BRANCHES:[gh-pages:0c412ec11d63829f5753926cedd31a549183793f;main:31d1a20ecb4b9a756fe49bec1b251fb390b9d3ab;]|RELEASES:[]
