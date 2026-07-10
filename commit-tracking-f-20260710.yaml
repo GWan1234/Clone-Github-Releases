@@ -1072,3 +1072,4 @@ sparkfun/Audio_Amplifier_Kit-STA540: BRANCHES:[master:7afc80331002c5f58d240f6a51
 sparkfun/ESP8266_WiFi_Shield: BRANCHES:[master:749e0c4b562e96147a4b3361443263421a739eb5;]|RELEASES:[]
 sparkfun/LSM303C_6_DOF_IMU_Breakout: BRANCHES:[master:5ab799b4d7e741a6ab517371b4636cf3197bda8c;]|RELEASES:[v1.0:45814e74b4b5c8299fd661d38a28a93a7de154eb:none;v1.0_H1.0:67a93fb7715d5feb0482349b4861e0035bbbd690:none;]
 sparkfun/ToF_Range_Finder_Sensor-VL6180: BRANCHES:[master:6df9637f3e0700be49c3cc0022caf16341af2d0b;]|RELEASES:[]
+sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library: BRANCHES:[master:a4e4def9dfd2fdac56a58b41d8a690d475377760;]|RELEASES:[v1.1.1:1e22b5f1f383842054e8454ebb2c25046c8efe4c:none;v1.1.2:a763d8b7e5325395fcba79b23e69503b51cd0c8b:none;v1.1.3:fbddc0e68616d7b4ca14d2c1654c0b0fcc2d41bb:none;]
