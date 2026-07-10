@@ -529,3 +529,4 @@ sparkfun/gator_color: BRANCHES:[master:96664cc9a2115d9be42cf786412e6fc97a4c0dac;
 sparkfun/gator_starter: BRANCHES:[master:c1a92d4fe3b1a7b029928e6a1587b316a36a6657;]|RELEASES:[]
 sparkfun/gator_control: BRANCHES:[master:35ac4ebdee4532a95218e3788cb6b28eebfdd878;]|RELEASES:[]
 sparkfun/SparkFun_ePaper_Arduino_Library: BRANCHES:[master:287b221cd0e513ae8b19706f076f319ab22d548d;]|RELEASES:[v1.0.0:992ada265b04ff0a588e68cae1f842f983e004c4:none;v2.0.0:23a45c090900710cbd54f15db817ed0df3eee5e7:none;v2.1.1:20b450159fd17ce763ab5f70bdb3c2e026edd1d2:none;v2.1.2:22af47193d6ecaede85cb241ac1dcf6fb75e5b33:none;v2.1.3:287b221cd0e513ae8b19706f076f319ab22d548d:none;]
+sparkfun/SAMD21_Pro_RF: BRANCHES:[master:4d1cfcd83d3b3f5626493ca8165d668130ef8da6;v11:569b7ceddacc52d3e40f4210e38e1ed3c19f6681;]|RELEASES:[]
