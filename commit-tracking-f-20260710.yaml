@@ -1241,3 +1241,4 @@ sparkfun/SparkFun_LilyPad_Simblee: BRANCHES:[master:91246f96067686128fa44e82f8ec
 sparkfun/SparkFun_Simblee_Breakout_Board: BRANCHES:[master:3d7daac6ded81690ea06c26f1b1424fbb52256d5;]|RELEASES:[]
 sparkfun/SparkFun_Phant_Particle_Library: BRANCHES:[master:7ffa389e608f93796a8a739681e8773541c335ab;]|RELEASES:[]
 sparkfun/SparkFun_MPL3115A2_Particle_Library: BRANCHES:[master:4675e7b0e59d2cfe16f23d8dac479e7bda842058;]|RELEASES:[]
+sparkfun/SparkFun_Serial_Graphic_LCD_Particle_Library: BRANCHES:[master:b7be4abded92a76fa55d5f860f45b6737cd68384;]|RELEASES:[]
