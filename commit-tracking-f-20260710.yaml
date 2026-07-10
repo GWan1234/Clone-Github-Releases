@@ -1529,3 +1529,4 @@ waveshareteam/waveshare_fbcp: BRANCHES:[main:b4603507ca20ad4307fb0fe4b2949740b7c
 waveshareteam/High-Pricision_AD_HAT: BRANCHES:[master:e8001efc40b998fefb0e06385e526fed9bf6bf37;add-license-1:909c15d104765728b5eb76968e048966d69d4ec0;]|RELEASES:[]
 waveshareteam/Pico_MircoPython_Examples: BRANCHES:[main:be781912874381175753128423dd5b4b3d501d13;]|RELEASES:[]
 waveshareteam/Pico_ePaper_Code: BRANCHES:[main:c9bcd84db5adf5f085353649a8a5c31492bc5fb8;]|RELEASES:[]
+waveshareteam/Pico_CapTouch_ePaper: BRANCHES:[main:da6878258c0504d8ae1cb8c896a11dacbda29642;]|RELEASES:[]
