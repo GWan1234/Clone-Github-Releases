@@ -822,3 +822,4 @@ sparkfun/SparkFun_WM8960_Arduino_Library: BRANCHES:[main:92b61c555152dafa370a78b
 sparkfun/SparkFun_Temperature_Sensor-STTS22H: BRANCHES:[main:9d0e0f48df40bdf507b0101b32ba3f23b96b763a;gh-pages:6cc3c84a159a49634ccae38d04c68a30effa8c3b;docs:f3d33ddfcc7153c7e21d98a20451f554f106030b;]|RELEASES:[]
 sparkfun/SparkFun_STTS22H_Arduino_Library: BRANCHES:[refactor/toolkit:5ddc2e280292ba6fd1335d29792686f8af663070;main:9d66d9a3ada9278620e89b6e70b1afae03f23218;]|RELEASES:[v1.0.0:7ae12ce39073fe31340dd34e100fed8a28c6d847:none;v1.0.1:ce320c9d08904e5ccd61b76b46c0ec4be38ee6ef:none;]
 sparkfun/SparkFun_Qwiic_RFID_Tag_ST25DV64KC: BRANCHES:[main:3769d5a44c71c0aa3b8b94126b3d8e426dc7eeb4;docs:d8418bf8f6af6fbd758b479a745f793772e28e5a;]|RELEASES:[]
+sparkfun/SparkFun_NanoBeacon_Board_-_IN100: BRANCHES:[main:40189116319f1d307b77d1bb22f2947e2948fd24;]|RELEASES:[]
