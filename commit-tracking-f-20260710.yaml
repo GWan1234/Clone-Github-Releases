@@ -363,3 +363,4 @@ sparkfun/MAX3232_Breakout: BRANCHES:[master:a622b6bf9c8cedb17b93a7e8bec73c2f4ea1
 sparkfun/vexMotor: BRANCHES:[master:40450f03f17cd4eaf1d7ce9eaa2cdd8ee923abc3;]|RELEASES:[]
 sparkfun/tetrixMotor: BRANCHES:[master:29e43b944ee301bb40fc6b1186318d224451363f;]|RELEASES:[]
 sparkfun/SOIC8-DIP_Adapter: BRANCHES:[master:d66a7341f08b11a1671031dfddfaf9ac607b7688;]|RELEASES:[]
+sparkfun/RJ45_Breakout: BRANCHES:[master:ae2272a308042c9ecfb817ddc7dbb75d14479425;]|RELEASES:[]
