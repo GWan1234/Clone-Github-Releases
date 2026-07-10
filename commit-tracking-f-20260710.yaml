@@ -1585,3 +1585,4 @@ waveshareteam/ESP32-S3-Touch-AMOLED-1.8: BRANCHES:[chore/esp-idf-ci:e7ca2f06e838
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[chore/esp-idf-ci:397f9fa4c1fdffc50737b6e3f9f71586428fc6dd;main:6ec9ff5c8a96357f2fcac24b4fc311a3018cb878;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.75C: BRANCHES:[chore/esp-idf-ci:d38b05508eed4e7ab2c9d93a057c69b8ba72cb92;main:498436f70dba481e799489785d2beecf81211a2d;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-4.3C: BRANCHES:[main:2abc815238a779a89095d043c4ceb365a3b3c11c;update-readme:9cb0058af562e5c4efc1b89481784382ebfaf9a0;dev:c7954909c8e3f5ab58af377d0a70d68781495656;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-AMOLED-1.75: BRANCHES:[chore/repository-modernization:021fc0d1458523dd4b2edca9a9da75eee6501876;chore/esp-idf-ci:de02568d0498775bdae8fd7665f990b98d03c6b7;main:d02d52d2c9c55ec0a5ca359ce5a7412913fd250e;]|RELEASES:[]
