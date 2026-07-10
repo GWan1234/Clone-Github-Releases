@@ -568,3 +568,4 @@ sparkfun/LCD_TFT_Breakout_1in8_128x160: BRANCHES:[master:6ffe4b4305b53075ec46721
 sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c442cdbed2abbb434173052;]|RELEASES:[]
 sparkfun/Qwiic_Joystick: BRANCHES:[master:872ce30c7db70375220e67d78398a19f7c60b9ab;]|RELEASES:[]
 sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888;]|RELEASES:[v1.0.0:6d278bd85e1b0e1075863b83b56863fca9683f6a:none;v1.0.1:4918f7eba2beb9c71048c132c7cee31e5350d391:none;v1.0.2:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888:none;]
+sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052;]|RELEASES:[v1.0.0:460ca4d3a3ac9660cab9d34af65df049b5db1633:none;v1.0.1:f3d12ae7d5ac572804a3bdcbc93078218b60bf25:none;v1.0.2:6087a3ddaf7f74cfd970503c2d896788fde1f052:none;]
