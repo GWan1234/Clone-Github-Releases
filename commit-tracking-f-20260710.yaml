@@ -1381,3 +1381,4 @@ sparkfun/SparkFun_TMP117_Arduino_Library: BRANCHES:[master:c8f9b0e453ac628c013ce
 sparkfun/samd_windows7_installer: BRANCHES:[master:184c2e8b81603e902c35e28d6c4cabe901428553;]|RELEASES:[1.0.5.1:d0f9fab6d6f23c67fae024a5ea64c5f3c739b962:2019-06-03T19:03:24Z;1.0.5.3:50fc5283c87a1a3a5e5b23aaaca06389ec5d4bfc:2019-10-26T00:55:54Z;]
 sparkfun/eagle2fritzing: BRANCHES:[master:325ee6021a97e267031f63c802047b215d389b0c;bug003-Silk_not_being_placed_correctly:4cddda4ede571f43d378458c9c09d7e761d75f65;develop:30a6b0dbe1a9d5cf95f04a5f570824471ffc6615;feat001-Make_default_board_color_SparkFun_red:ec34399319adbde816c56d397ccaaef75bc5b526;]|RELEASES:[]
 sparkfun/SparkFun_Ambient_Sensor_VEML6030: BRANCHES:[master:3bd26752ab454b0edc459a4ec24953aff38f9807;]|RELEASES:[]
+sparkfun/XBee3_Thing_Plus: BRANCHES:[master:624c5b54180645034c3d2f315639a831f0518abc;]|RELEASES:[]
