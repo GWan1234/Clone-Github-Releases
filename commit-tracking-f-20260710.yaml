@@ -1009,3 +1009,4 @@ sparkfun/SparkFun_GNSS_mosaic-T: BRANCHES:[gh-pages:aa18d6a1e33da57f12c32a58265e
 sparkfun/SparkFun_DE9_Breakout: BRANCHES:[main:c1dd205b828cdde6ce5d60d66228101ebb838e18;pinout_fix:21c593d8f5d012cc436383929ee71de7c4fcdd05;]|RELEASES:[]
 sparkfun/SparkFun_Red_Vision_Camera_Board_HM01B0: BRANCHES:[main:8aaf35d75f856d1722d795cc57673f4490c52867;]|RELEASES:[]
 sparkfun/SparkFun_GNSS_DAN-F10N: BRANCHES:[gh-pages:8bbe13ea8f51cb806b1a8ea435cc6852a3122523;main:ab62904c31d858d433d3143909b9ae247ff00497;]|RELEASES:[]
+sparkfun/sparkfun-python: BRANCHES:[main:41919b275b9ba7df1f675242270134e40479357d;documentation/pycharm:41c07c98e52c36dfee4060444afc71624e4f454c;documentation/tmp117_server:845f5dedf07c8aa16ed56ca0ee76a88ad46cf8a9;]|RELEASES:[v0.5.0:26eea4e60905b64f9fa1c2a1efa80d9a98eea1d2:none;]
