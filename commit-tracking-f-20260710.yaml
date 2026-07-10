@@ -52,3 +52,4 @@ sparkfun/MPL3115A2_Breakout: BRANCHES:[master:d80362a56081f9dc7d808d2cca5a535589
 sparkfun/P8X32A_Breakout: BRANCHES:[master:a3602444ee2935ca3be44557122a7fb7a705106d;readme_cleanup:6354c73419b01cb24270c1ca3941c6c2bf8175b3;]|RELEASES:[]
 sparkfun/Si4707_Breakout: BRANCHES:[master:220ec557257443ec4e37b06531a7ebb33cd3d97b;]|RELEASES:[]
 sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba9435f;master:ad25133c696fdb6c294ec22c15e958ab25152759;]|RELEASES:[]
+sparkfun/MOSFET_Power_Controller: BRANCHES:[master:d20f59094c1d7a4e9a1747663bc88a6df2e4bed8;]|RELEASES:[]
