@@ -1314,3 +1314,4 @@ sparkfun/Motor_Driver-Dual_TB6612FNG: BRANCHES:[master:76bbcba16c4510c8bd9ab6b46
 sparkfun/Beehive_WiFi: BRANCHES:[master:c917e62cefe14c87ec274e21a570b7b13e399e7b;]|RELEASES:[]
 sparkfun/Wireless_Kill_Switch: BRANCHES:[master:3f462a2b510c69a3ef80ee0db5a303a30482b958;]|RELEASES:[]
 sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library: BRANCHES:[master:ea379ce8c930ef90f4ebc37799544d68108e3126;]|RELEASES:[v1.0.1:bfb5b96e1461262f95e7ed7718462b3b9c1c36f1:none;v1.0.2:ea379ce8c930ef90f4ebc37799544d68108e3126:none;]
+sparkfun/LIS3DH_Breakout: BRANCHES:[master:a57ba3b3d98e85724a43635a34a181869db26e82;]|RELEASES:[]
