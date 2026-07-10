@@ -437,3 +437,4 @@ sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753: BRANCHES:[master:bba6d9cf4
 sparkfun/APDS-9301_Breakout: BRANCHES:[master:85e94b144292f45bab9c10303d6ae2b2451c04df;]|RELEASES:[]
 sparkfun/Adjustable_Lipo_Charger: BRANCHES:[master:868eacc48301330d7427ae267d21163763f37c5c;]|RELEASES:[]
 sparkfun/pxt-gator-temp: BRANCHES:[master:f3bfdeeae2f5d27df6bd22550256a9f3381993dc;bears_and_bears:272d4c1c6838a45fb9dec58f39c9849adcb41c74;test:8ec2c6aae0dc9ea1f52275d7f54abbde568038ec;Working_Copy:995b4a92627458794992fb008e0f0e92750bd596;]|RELEASES:[]
+sparkfun/Lumenati_90R: BRANCHES:[master:a6feea0020a168ff8686f5dd5cdf0f7a252b982b;]|RELEASES:[V_H1.0:1539b5912e74dfd3cf0bf93a7ddc7ca2f3fb03ed:none;]
