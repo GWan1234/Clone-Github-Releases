@@ -898,3 +898,4 @@ sparkfun/SparkFun_RTK_Everywhere_Firmware: BRANCHES:[otaSubsystem1:76d6793ae7cf7
 sparkfun/SparkFun_MOSFET_Power_Switch_and_Buck_Regulator_Low-Side: BRANCHES:[gh-pages:f1c328e82dca0a85d682a621764d106a374d4234;main:667aa8e33875d053f18dd420d01669afdfa07208;]|RELEASES:[]
 sparkfun/Home_Air_Quality_Monitor: BRANCHES:[gh-pages:3f5e8cd6335a5dbe0b7daf02d37bbe3352a831c9;main:73d794fa71c36cf6ee3892f159c489f3c8bf9803;]|RELEASES:[]
 sparkfun/SparkFun_External_EEPROM_Arduino_Library_Docs: BRANCHES:[main:8116a3edbf87ee33ad2a101998fe6b0e7e033d4b;]|RELEASES:[]
+sparkfun/pdp-qwiic-micro-python: BRANCHES:[main:480a4a66bc7f3da8aa6b09e75db759df3da99fb6;]|RELEASES:[]
