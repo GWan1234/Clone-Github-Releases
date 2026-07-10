@@ -1206,3 +1206,4 @@ sparkfun/IMU_Fusion_Board: BRANCHES:[master:40a5edd5f54b453b5bb5cf76718ff5fd7801
 sparkfun/AVR_Stick: BRANCHES:[master:5f0a0920c481ede91f8a67329802e4de57344b51;]|RELEASES:[]
 sparkfun/Mega_Pro_Mini: BRANCHES:[master:e0129e49cc1674f2dc3c5a4eb9696f60a4580510;]|RELEASES:[]
 sparkfun/VoiceBox_Shield: BRANCHES:[master:a9183fb559ca0e6c206a2d637711314363d49c09;]|RELEASES:[]
+sparkfun/USB_Serial_GPIO_Breakout-CP2103: BRANCHES:[master:7d5eab7139307d97b44e78ea268feb1c159ceacc;]|RELEASES:[]
