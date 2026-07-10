@@ -1602,3 +1602,4 @@ waveshareteam/ESP32-S3-Touch-LCD-1.85C: BRANCHES:[main:1a5454cd8baf0c97f00595b9a
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:028473b3bac120d38589e1c18f8ea90daccc090c;]|RELEASES:[]
 waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda;]|RELEASES:[]
 waveshareteam/1.83inch-Touch-LCD: BRANCHES:[main:9435e3fae0b7ef13b312a2ebecdb05b6a54abc7c;]|RELEASES:[]
+waveshareteam/IPCBOX-CM5-A: BRANCHES:[master:3a35ce02e96d067ffcb73ccb6ba1ee67be907e06;]|RELEASES:[]
