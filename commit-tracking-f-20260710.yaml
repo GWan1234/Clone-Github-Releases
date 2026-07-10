@@ -733,3 +733,4 @@ sparkfun/MicroMod_Processor-RP2040: BRANCHES:[main:831f73dc24991160939aa9fe14742
 sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library: BRANCHES:[main:90ae6f050ff050e49dfbf56ad88a5e0cb2a4f71c;]|RELEASES:[v1.0.0:e78f927ec8c5209e218833ea8fff14359fdfde84:none;v1.0.1:af5dd98a32a1b937ab2f92040d811b4825b0a3ff:none;v1.0.2:dbc04559235a21e447676c4c8bb78636353928c7:none;v1.0.3:af7d5e2b623370a460981eabe181d3716a2afd64:none;v1.1.3:3a8fb37d3265f2aff6ecc4619fb74aff2dfb7426:none;v1.1.4:90ae6f050ff050e49dfbf56ad88a5e0cb2a4f71c:none;]
 sparkfun/SparkFun_Thing_Plus-RP2040: BRANCHES:[ARM_DevSummit:4bf503e659213b5ed9b3b1e16726de0b4467564f;main:38fd2d27eaa2e6e9c16e8496f7d1777f83df842a;]|RELEASES:[]
 sparkfun/ESP32-S2_Thing_Plus: BRANCHES:[main:49a7c05da8a254010d7022d4b9586dff2c6bbb9a;]|RELEASES:[]
+sparkfun/STM32_Thing_Plus: BRANCHES:[main:07b3b438afea2aadb61be81ec46792859564429e;]|RELEASES:[]
