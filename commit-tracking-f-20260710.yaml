@@ -932,3 +932,4 @@ sparkfun/SparkFun_BQ40Z50_Battery_Manager_Arduino_Library: BRANCHES:[main:5aeb6d
 sparkfun/SparkFun_Thing_Plus_RP2350: BRANCHES:[gh-pages:47e4bd8a5626628b24a9d3688eaa3a18d8b12f78;main:217177752865e4ca4ac7de52cd034eae7ec47443;]|RELEASES:[]
 sparkfun/SparkFun_IM19_IMU_Arduino_Library: BRANCHES:[main:0ccea08c7f3283332cf9dd0603a603a21b6014ec;]|RELEASES:[v1.0.0:9b88cb411f981a75622a84f8a1b31d712b2f47a8:none;v1.0.1:29c09c6d8060ac7ea2e55de3aa1a4d3d9cb32383:none;v1.0.2:5e50177c1cc59dbb13d1cc75a25a002c58dbff3e:none;v1.1.0:96b2edcdfb6bc0c3a44898d78fda6188bdb5bad1:none;v1.1.1:0ccea08c7f3283332cf9dd0603a603a21b6014ec:none;]
 sparkfun/SparkFun_Stepper_Motor_Breakout_TC78H670FTG: BRANCHES:[main:587d14fab8a6ee2b3d85b6370ba245532eacd424;]|RELEASES:[]
+sparkfun/SparkFun_BREAD: BRANCHES:[main:ee61694536e280eaeba004feb06179aef68bad4b;]|RELEASES:[]
