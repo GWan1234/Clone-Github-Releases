@@ -1253,3 +1253,4 @@ sparkfun/Pi_Wedge_40-Pin_PreAssembled: BRANCHES:[master:6d93ad550771dc4c304dc220
 sparkfun/ESP8266_Thing_Dev: BRANCHES:[master:e2f5277a9f49694436a95733a86f40216b845bbd;]|RELEASES:[]
 sparkfun/FreeSoC2_Keysynth: BRANCHES:[master:66fae29fb0bef05b9b5db65dd9630196e7a24667;]|RELEASES:[]
 sparkfun/SparkFun_Photon_Weather_Shield_Particle_Library: BRANCHES:[master:9940434f66c71ced4538b2882ffd3c2beac5a847;]|RELEASES:[]
+sparkfun/SparkFun_9DOF_Block_for_Edison_CPP_Library: BRANCHES:[master:8c7b62446d02f045ff7aa4d95f90fe51724f5d7c;]|RELEASES:[]
