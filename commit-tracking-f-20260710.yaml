@@ -1007,3 +1007,4 @@ sparkfun/SparkFun_HSTX_to_DVI_Breakout: BRANCHES:[main:817bf5a05a6e77e48831d0f24
 sparkfun/SparkFun_Red_Vision_Touch_Display_for_Pico: BRANCHES:[main:00066e6757895a66544c5c06ea17ca2a6486e0c5;]|RELEASES:[]
 sparkfun/SparkFun_GNSS_mosaic-T: BRANCHES:[gh-pages:aa18d6a1e33da57f12c32a58265ec6e8de72e0d0;main:f5ecb1da0209e2afae488d3a35d193b483208932;]|RELEASES:[]
 sparkfun/SparkFun_DE9_Breakout: BRANCHES:[main:c1dd205b828cdde6ce5d60d66228101ebb838e18;pinout_fix:21c593d8f5d012cc436383929ee71de7c4fcdd05;]|RELEASES:[]
+sparkfun/SparkFun_Red_Vision_Camera_Board_HM01B0: BRANCHES:[main:8aaf35d75f856d1722d795cc57673f4490c52867;]|RELEASES:[]
