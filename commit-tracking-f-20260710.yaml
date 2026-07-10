@@ -646,3 +646,4 @@ sparkfun/mbed-os-example-blinky-baremetal: BRANCHES:[master:3f1ee69152694fbbddb7
 sparkfun/Top_pHat: BRANCHES:[v11:506881fec049b6d213c22474d8bddb9fa8f3e473;master:7440165185b2f49ad5e44e9d5c7bfd2126410dc7;]|RELEASES:[]
 sparkfun/SparkFun_DE2120_Arduino_Library: BRANCHES:[main:4db7605d733623a1632e094d4b4e7f2723c7b5c2;SoftwareSerial_WithBegin:9d069c79a6383070a2f68214107170372233cb0f;]|RELEASES:[v0.1.0:0962781a6d900c9f244a61825f240b4bb655c00d:2020-03-21T08:42:00Z;v1.1.0:b43d79ad3851f71ce681c50f5dfea1be486fd8f4:none;v1.2.0:e65a3a32459cc6c12a31cc5dbbf4359a9bebbb02:none;v1.2.1:c560d9d7ef48fe91637e19ee71a3226f3c136f1f:none;]
 sparkfun/SparkFun_Auto_pHAT: BRANCHES:[master:c1ff5cc6baa25284b2eac7947c9e6012afbcf08a;]|RELEASES:[]
+sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc18804519abb0774bacf88edacfb60f;]|RELEASES:[]
