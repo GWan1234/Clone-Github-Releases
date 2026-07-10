@@ -62,3 +62,4 @@ sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567
 sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10;]|RELEASES:[]
 sparkfun/TXB0104_breakout: BRANCHES:[master:c8bf609f801a894d4af649a7134cd0ecddab8fa3;]|RELEASES:[]
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717;]|RELEASES:[]
+sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405;]|RELEASES:[V_1.4:f167f662a94bcf88d410205e1a95908bd3df5227:none;]
