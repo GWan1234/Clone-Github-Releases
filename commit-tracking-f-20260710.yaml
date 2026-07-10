@@ -1288,3 +1288,4 @@ sparkfun/Rogue_Router: BRANCHES:[master:1c07fa04e1f1f9bc5f6657e20d4dfa4ae67e6d32
 sparkfun/Blynk_Board_ESP8266: BRANCHES:[master:5e2e1e1be77f8019862451008581cd586367b83b;]|RELEASES:[HW_V1.0-FW_V1.0.2:0ef53232776ffc0c51fdecb933709c1ed0da173f:2016-03-25T14:56:22Z;HW_v1.0-FW_v1.0.3:5e2e1e1be77f8019862451008581cd586367b83b:none;]
 sparkfun/ESP32_Miscellany: BRANCHES:[master:a854269104a25ddc7c1e1849b14892d56f250e37;]|RELEASES:[]
 sparkfun/IoT_SmartMirror: BRANCHES:[master:cc65e68a3f40c5518e2bd4dd0804222ca609123f;]|RELEASES:[]
+sparkfun/LilyPad_LilyMini_ProtoSnap: BRANCHES:[master:d58a1454d6ec1be27ce5fefaf011278843393fc9;]|RELEASES:[]
