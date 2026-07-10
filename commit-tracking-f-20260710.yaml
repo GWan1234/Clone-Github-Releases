@@ -1556,3 +1556,4 @@ waveshareteam/PhotoPainter: BRANCHES:[master:aaa5498d07f76fe4351225a64ff6254c78c
 waveshareteam/PhotoPainter_B: BRANCHES:[master:fc2b261e985934bf67d99aa26358e463deb0aa65;]|RELEASES:[]
 waveshareteam/waveshare_roarm_sdk: BRANCHES:[main:7b8fa6c62de7b72263836fc8a03500605dd0d4d9;]|RELEASES:[]
 waveshareteam/roarm_ws: BRANCHES:[ros2-humble-develop-251125:653610c32461e202993d621a7e0cee8f76c88570;ros2-humble:40dbd84b553695212fab713e8465f817ba95454d;]|RELEASES:[]
+waveshareteam/lerobot: BRANCHES:[main:39be85cdae8652aff83336e45f18e65693721f92;]|RELEASES:[]
