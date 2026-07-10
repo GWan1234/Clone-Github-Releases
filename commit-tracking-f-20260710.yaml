@@ -1316,3 +1316,4 @@ sparkfun/Wireless_Kill_Switch: BRANCHES:[master:3f462a2b510c69a3ef80ee0db5a303a3
 sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library: BRANCHES:[master:ea379ce8c930ef90f4ebc37799544d68108e3126;]|RELEASES:[v1.0.1:bfb5b96e1461262f95e7ed7718462b3b9c1c36f1:none;v1.0.2:ea379ce8c930ef90f4ebc37799544d68108e3126:none;]
 sparkfun/LIS3DH_Breakout: BRANCHES:[master:a57ba3b3d98e85724a43635a34a181869db26e82;]|RELEASES:[]
 sparkfun/OpenPIR: BRANCHES:[new_pir_detector_controller:7faca446284af6e25256222ac8e5930142ca3314;master:41862c355b6d1bd3bc0f65fd0f7e4933e05276d7;]|RELEASES:[]
+sparkfun/THAT_1206_Breakout: BRANCHES:[master:893444584e87029ffe3cbcda66454c870ab8d048;]|RELEASES:[V1.0:8fa3e24b62fe93f8f912508c355df1751a37f655:none;]
