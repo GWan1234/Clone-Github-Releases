@@ -510,3 +510,4 @@ sparkfun/SparkFun_Trackuino: BRANCHES:[1.52:825c5724dd842e6334b1c7b1c6c4f7dd53a7
 sparkfun/SparkFun_LPS25HB_Arduino_Library: BRANCHES:[master:8bff45572c9251413bd854a44ba75aa2f33a9fff;]|RELEASES:[v1.0.0:6976a0d7565257e6d188d4a2bbf62d42b72eb38a:none;v1.0.2:26c1b5eb0d468494a082acef9009a88017813417:none;v1.0.3:d2e3fb9588c8723fb222836625b19cd6d4c8d5d2:none;v1.0.4:a5aee6495d78243e33de27ba997f12110c817b1a:none;v1.1.0:4dbda6dff6874e48c8fa8bf8fa165998c6256759:none;v1.1.1:8bff45572c9251413bd854a44ba75aa2f33a9fff:none;]
 sparkfun/SparkFun_MLX90640_Arduino_Example: BRANCHES:[master:29260f68a86e6b920cd6ec8a7e724e74c9ad8647;release_candidate:d2db2408349377e92d8ca47d5410819376ac4bdc;]|RELEASES:[]
 sparkfun/SAMD51_Thing_Plus: BRANCHES:[master:ab67e74cc7acbfd325e5a7e1409f5fb7a99d9869;]|RELEASES:[v1.0.0:61b182b13ed6b236c90d3d9002c00f9b927f2eab:none;]
+sparkfun/TSH82_Configurable_Op_Amp_Board: BRANCHES:[master:140869e3373096efd444a4886dbbbb3ac305d367;]|RELEASES:[]
