@@ -1121,3 +1121,4 @@ sparkfun/PSoC_Arduino_Support: BRANCHES:[master:857718cf63ddfee09217269843adb316
 sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library: BRANCHES:[master:f76cabfc458f883d6bca05aef13c6a1cbe98279d;]|RELEASES:[]
 sparkfun/SparkFun_WiFly_Shield_Arduino_Library: BRANCHES:[master:34bf7e633051d848fb2b97cc523f5191e2cf1c89;]|RELEASES:[]
 sparkfun/SparkFun_BC127_Bluetooth_Module_Arduino_Library: BRANCHES:[master:cd836547687ecc9c915ed0727fb12471e35cdfd4;]|RELEASES:[]
+sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library: BRANCHES:[master:e0818e3815f10d919bc2f78f6810ce480177aff3;]|RELEASES:[V_1.0.3:6d03f33a7be8ebebe3647c902796699413ab7841:none;]
