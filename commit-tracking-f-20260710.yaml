@@ -219,3 +219,4 @@ sparkfun/BeagleBone_Black_Proto_Cape: BRANCHES:[master:871ed79f65a153803e854631c
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52;]|RELEASES:[]
 sparkfun/RS232_Shifter_SMD: BRANCHES:[master:1ffd9ab0958647a191cd9c134b5008753b02ec4c;]|RELEASES:[]
 sparkfun/LSM303_Breakout: BRANCHES:[master:1175ad5cbb5fd221f295f9503a112befbde60392;]|RELEASES:[]
+sparkfun/SIM_Card_Breakout: BRANCHES:[master:9a9e1751c6ae69d9c76797d829cb1a3879996651;]|RELEASES:[]
