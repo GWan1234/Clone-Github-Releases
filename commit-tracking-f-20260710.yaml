@@ -1323,3 +1323,4 @@ sparkfun/Spectacle_LED_Output_Board: BRANCHES:[master:abb044b2b966994952f280dd1d
 sparkfun/Spectacle_Motion_Board: BRANCHES:[master:7f440f31f34d1a5276297e4d6c9a606be63007f1;]|RELEASES:[]
 sparkfun/Spectacle_Accelerometer_Input_Board: BRANCHES:[master:020c9efacd633baf436d19e3f1c54adbf391720c;]|RELEASES:[]
 sparkfun/nRF52832_Breakout: BRANCHES:[main:5ec26d8fab88fd07b2bd83e1ec6898b84da76ae5;]|RELEASES:[]
+sparkfun/THAT_1646_Breakout: BRANCHES:[master:e2cfcdaf1dcda7ae9d8f163449030f277c5d98a2;]|RELEASES:[V1.0:2f91aec23e70d395754cfb3aa0515f236956341f:none;]
