@@ -182,3 +182,4 @@ sparkfun/USB_LiPolyCharger_SingleCell: BRANCHES:[master:e5664fa9629993abbe3d522a
 sparkfun/AD5330_Breakout: BRANCHES:[master:e5b0f031b098ac7fdc023499a85d83a08b941e79;]|RELEASES:[]
 sparkfun/VKey_Voltage_Keypad: BRANCHES:[master:b0409586571a6afea594d66e71946f5614db6370;]|RELEASES:[]
 sparkfun/Navigation_Switch_Breakout: BRANCHES:[master:03e99797a9c20dcefb126ef5c168b99b7d0c5044;]|RELEASES:[]
+sparkfun/Rover5_Motor_Driver_Board: BRANCHES:[master:2823c4add50001f6ef44b9ea968aaec238a3f6a2;]|RELEASES:[]
