@@ -1515,3 +1515,4 @@ HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb81
 HelTecAutomation/ESP_HaLow: BRANCHES:[main:ac427d9f0ee0e290e04c5e2939e1c5c5dbf865e6;]|RELEASES:[]
 HelTecAutomation/SnapEmu-Device: BRANCHES:[main:0432cffa3b50157f165962b8dfd6f1c017353f19;]|RELEASES:[]
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd;]|RELEASES:[]
+HelTecAutomation/firmware: BRANCHES:[master:6bbdfe1797eb72e0bf4d98c8a78cc16de042754c;]|RELEASES:[]
