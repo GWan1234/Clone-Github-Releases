@@ -1417,3 +1417,4 @@ sparkfun/SparkFun_Pulsed_Radar_Breakout_A111: BRANCHES:[master:5f4d608a017d88721
 sparkfun/Red_V: BRANCHES:[master:5a6ec4cebf5964b0f90b9e00a935603ce863242e;]|RELEASES:[]
 sparkfun/Artemis_Thing_Plus: BRANCHES:[master:fc9612da34b751c9c8a5c7f041443c914a42a65d;]|RELEASES:[]
 sparkfun/Arduino_Apollo3_wiki: BRANCHES:[master:04979c18eb0a12fae91b42f9b71264abe9a3abc5;]|RELEASES:[]
+sparkfun/jetbot_ros: BRANCHES:[update-motor_driver_only:dc782f62c3c97a194a6284e1a9a188f38c65bf1e;update-hardware_code:c11ef3af51cd5205ab779a11a30b05c669c47589;master:1b9db5680a200cb9aff9b2c354d340386a3dc6ec;]|RELEASES:[]
