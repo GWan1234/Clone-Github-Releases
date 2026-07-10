@@ -938,3 +938,4 @@ sparkfun/SparkFun_SAMD_Register_Debug_Tools: BRANCHES:[main:2231c1c4be98e1c288b4
 sparkfun/SparkFun_Qwiic_OTOS_Arduino_Library: BRANCHES:[develop:7b9845bad6875bac82863a51fba70bbfaefaa701;main:b69b32681577c018736863e1d7acbf77a3748454;add_Toolkit_Dependency:62b43ebbc1aec07d43f64ae49313a1ecbdf5be2d;]|RELEASES:[v1.0.0:5c77a9bf7bb57cd7339c87d5f3cd2f1ed19f17ef:none;v1.0.1:82b59589724107e0d21d2632ff2c60ee0fa35ccf:none;v1.0.2:420c15321fbbe64e1aee10f42572378309f22e95:none;v1.1.0:b69b32681577c018736863e1d7acbf77a3748454:none;]
 sparkfun/arduino-library-registry: BRANCHES:[main:e957d802bdaac0b14f7d38002cbec5a5a8650980;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_WAV_Trigger_Pro: BRANCHES:[gh-pages:f822ee9988454c83a778822ddc92b2f0b9ce3d03;main:ce8ef7b833609faf070197b642c5425d435c425f;]|RELEASES:[]
+sparkfun/SparkFun_RTK_Torch: BRANCHES:[gh-pages:3e89553b014bb933e1d22d15e51388a5d47e5fa5;main:3f475f9c623070e50b42ccf72f277536fabf8ee1;]|RELEASES:[]
