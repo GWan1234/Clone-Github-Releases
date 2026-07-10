@@ -834,3 +834,4 @@ sparkfun/SparkFun_u-blox_GNSS_v3: BRANCHES:[release_candidate:0c0adbc5ac3ebcf5af
 sparkfun/SparkFun_Digi_XBee_Development_Board: BRANCHES:[gh-pages:a36e73676115d097fdfd9559266aa668721b8760;main:ac9f1e4c992212b61bb03b0742a201c91d6d31fd;v13:6f9ea16ac20d8b996e778e48bffba9e5640dcd40;docs:d7c1333500c82b1c32a977f191999922c74dcc52;]|RELEASES:[]
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_VM2020: BRANCHES:[main:6e1a3c4411be6ae6e8a66e95802ea737a7c0f78f;]|RELEASES:[]
 sparkfun/SparkFun_Thing_Plus_NORA-W306: BRANCHES:[gh-pages:249a62365f2abb5fbb64ed1ea76bc4e8149ac45e;main:24c70e910118c9b052cc2f6e273e8e091190d3d5;v10.1_Vreg_Change:da42f99de5ca753e6a9916013812d84b3d30c9b4;]|RELEASES:[]
+sparkfun/SparkFun-RGB-LED-Music-Sound-Visualizer-Arduino-Code: BRANCHES:[master:aef1076c87c23ff313de42e398b3835aaeef1bc7;]|RELEASES:[]
