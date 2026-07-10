@@ -47,3 +47,4 @@ sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109
 sparkfun/ISP_Pogo_Board: BRANCHES:[master:ee9cca8d6ec18dd05d77343160bfa45dd271ec17;]|RELEASES:[]
 sparkfun/GraphicLCD_Serial_Backpack: BRANCHES:[master:f41e4db7f4e8a4f3f234828f05c8eb336d4986d7;]|RELEASES:[]
 sparkfun/Github_Tutorial: BRANCHES:[main:5b21f89c2fecd8e31f9544f487feb3798b6d4757;]|RELEASES:[]
+sparkfun/MPU-9150_Breakout: BRANCHES:[master:250e1be403af5271d08a2ba83a52755dba8836c1;]|RELEASES:[]
