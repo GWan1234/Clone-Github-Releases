@@ -331,3 +331,4 @@ sparkfun/Edison_Pi_Block: BRANCHES:[master:ff682d3ec628a3553b9e54831d7d3ba879f8f
 sparkfun/Edison_Arduino_Block: BRANCHES:[master:267f42c4b2452155ca24f66a2d3da049321a3a5b;]|RELEASES:[]
 sparkfun/Edison_H-Bridge_Block: BRANCHES:[master:062cc0b9b808077e5d288a3305ed7ce851286bdc;]|RELEASES:[]
 sparkfun/phant-server-mqtt: BRANCHES:[master:0aed6ab20605ca94cc898ceb280bf25124aad369;]|RELEASES:[]
+sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd372611038b;]|RELEASES:[]
