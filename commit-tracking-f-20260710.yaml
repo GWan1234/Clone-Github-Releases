@@ -1142,3 +1142,4 @@ sparkfun/BMP180_Breakout_Arduino_Library: BRANCHES:[master:2ec6b6c35d18cddc6e46a
 sparkfun/DeadOn_RTC_Arduino_Library: BRANCHES:[master:9565a5d4fac26c46ac6ab17c55154e7c2898096c;]|RELEASES:[]
 sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea27c64164d3405b936caa287b7c83f;]|RELEASES:[]
 sparkfun/LED_Driver_Breakout-TLC5940: BRANCHES:[master:52c035a3753d4f301d2620337d949fd105a381ee;]|RELEASES:[]
+sparkfun/SparkFun_TLC5940_Arduino_Library: BRANCHES:[master:df219716b7b08d252adabeb9474a56f7421e0ad4;]|RELEASES:[V_1.1.1:df219716b7b08d252adabeb9474a56f7421e0ad4:none;]
