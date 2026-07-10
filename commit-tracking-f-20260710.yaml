@@ -1185,3 +1185,4 @@ sparkfun/Barometric_Pressure_Sensor_Breakout-MPL115A1: BRANCHES:[master:bf7c232f
 sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm: BRANCHES:[master:e25855155c02dc167d3a846cf419b79bf3ffcc19;]|RELEASES:[]
 sparkfun/LilyPad_LiPower: BRANCHES:[master:14cfd35a6b819c9086de281a5e192ec9e44aaef2;]|RELEASES:[]
 sparkfun/LilyPad_SimpleSnap_Protoboard: BRANCHES:[master:b03428e54fb2371298a60b13d67d4d246a7af099;]|RELEASES:[]
+sparkfun/I2C_Expander_Breakout-PCF8575: BRANCHES:[master:f3af77911bc016317e4b9f82f7f76edc45b399c5;]|RELEASES:[]
