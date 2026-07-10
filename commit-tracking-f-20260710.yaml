@@ -980,3 +980,4 @@ sparkfun/SparkFun_STP3593LF_OCXO_Arduino_Library: BRANCHES:[main:6c6b8925408b4fe
 sparkfun/circuitpython-org: BRANCHES:[main:9982cf5bb6ac6b9829371754207630ebc6289888;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Navigation_Switch: BRANCHES:[gh-pages:80e13431555843b9d063d0d03616c37f68c04893;main:b64c0dac2134d69963bf28120305bd79aad3c8ac;]|RELEASES:[]
 sparkfun/qwiic_rv-8803_py: BRANCHES:[master:ad89d9f491907dad5becc2340a5ad02722d76399;v1.0:b2b14a57a60262394897e3d5d2bd4eba739fb2f3;examples:0551ddbcb7632be6057495aee78ddc8f682ec3d1;]|RELEASES:[2.0.0:8686b08deb18897a4c4cf1480039e814bd0aa7e8:none;v1.0.0_test:a500ae6a535b60a146e8b30cb14cbf1a68bfcf31:none;]
+sparkfun/qwiic_scd4x_py: BRANCHES:[master:aedadef89228ffe9478dad7543ed62e314ca25e0;v1.0:3494f9b1c68f47474d8929dfff23237106749343;examples:e6113ac83967a2c5edb77afc7eea55d26b59deb5;]|RELEASES:[2.0.0:6e487e6014ed92eee554538d9ff7ae469abc9c79:none;v1.0.0_test:c16905377b864139802cd23408e9077a0ab3f6a0:none;]
