@@ -420,3 +420,4 @@ sparkfun/LiPo_Charger_Booster_5V_1A: BRANCHES:[master:ac9126ec7ab5c16ddf297028a0
 sparkfun/Lumenati_4-pack: BRANCHES:[master:20f09e72a070a05e63a345e0f908985e3df78dd2;]|RELEASES:[V_H1.0:501bcf92e53916a6d2a8f6f6f275c77d92fd85e3:none;]
 sparkfun/Lumenati_8-pack: BRANCHES:[master:c36a2900370b3197a14fd952f291a7600583cced;]|RELEASES:[V_H1.0:24f57cced6b4000d2886742523fed615c0e1f393:none;]
 sparkfun/Pi_Servo_Hat: BRANCHES:[master:612f2398355650d2f3a6270dcfd83d8760738eac;heads/v10:5ef139c045b1f2e936b421cad6fc6ed58cab8bd2;v20:10c27d3fe001acf866a119dd32cc8cc9cd1d90d8;]|RELEASES:[HW_V1.0_FW_V1.1:51cac1d599e5ae925a1432daa21b67c18cf40f7f:none;v10:5ef139c045b1f2e936b421cad6fc6ed58cab8bd2:none;]
+sparkfun/ArduinoInventorsGuideResources: BRANCHES:[master:402905bb67dbc39dbfd0b9015e53d01240ed4dc5;]|RELEASES:[]
