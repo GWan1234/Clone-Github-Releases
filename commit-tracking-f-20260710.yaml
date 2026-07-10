@@ -1226,3 +1226,4 @@ sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68
 sparkfun/SparkFun_MiniGen_Arduino_Library: BRANCHES:[master:8173dec8c7e147e08352cf9ad389f206a379b304;]|RELEASES:[]
 sparkfun/SparkFun_MiniMoto_Arduino_Library: BRANCHES:[master:1b42fbbbe25c134150f8e9cb268108fa5aeeab93;]|RELEASES:[]
 sparkfun/IoT_Airlock: BRANCHES:[master:d1a8fe8ceb7fd7e94d4245cbccc33263fc9a2d10;]|RELEASES:[]
+sparkfun/SparkFun_Line_Follower_Array_Arduino_Library: BRANCHES:[master:29146627b9eda56a58f48e0abae9e124bb2415a8;]|RELEASES:[]
