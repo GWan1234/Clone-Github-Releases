@@ -1003,3 +1003,4 @@ sparkfun/SparkFun_Pico_Add_On_Flipper: BRANCHES:[gh-pages:f5096fb6e74c7cff16bef9
 sparkfun/qwiic_huskylens_py: BRANCHES:[examples:94612e88d65f90356124185b9b0964a1e90754b7;master:4df5cdb6beab8aa850fd97778910fda6abe97d82;]|RELEASES:[2.0.0:d4076bf032bc1b68e217692511ef22cd0654accf:none;]
 sparkfun/SparkFun_Qwiic_Power_Meter_ACS37800: BRANCHES:[gh-pages:361b9f1cd9a8593682d2526f7026717f281f4572;main:083435b6da0c05f839de9ff5063514ee2d6ad0d2;]|RELEASES:[v1.0.0:486dcf0c327d7cdb8a649d8e3c7870b6d70b9ed0:none;]
 sparkfun/SparkFun_HSTX_PTH_Breakout: BRANCHES:[main:48e2aab291a360cfd6449c322a052e6c15edda3d;]|RELEASES:[]
+sparkfun/SparkFun_HSTX_to_DVI_Breakout: BRANCHES:[main:817bf5a05a6e77e48831d0f24c5156b6fa9f822b;]|RELEASES:[]
