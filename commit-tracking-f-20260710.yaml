@@ -109,3 +109,4 @@ sparkfun/Fio_v3: BRANCHES:[master:da19c4c1443a274b43c9afd1564b661ec90220a0;]|REL
 sparkfun/Vernier_Interface_Shield: BRANCHES:[master:822ee6d91f33a21e1176481afbe21bb95be26a0a;]|RELEASES:[]
 sparkfun/BC127_Breakout_Board: BRANCHES:[master:54439d5d8feb4152aea897af669a206f2c0a2fe1;HW_V11:80aca3bb92b5857b144fc7b2d6786cd0d825a3fd;]|RELEASES:[]
 sparkfun/MPU-6050_Breakout: BRANCHES:[master:969bc827e21e1dafac3bdbef77d19107fbd93bcf;]|RELEASES:[]
+sparkfun/Logic_Level_Converter: BRANCHES:[master:ce154384212c1d125b75f1a50f894a8895a1d81e;]|RELEASES:[]
