@@ -300,3 +300,4 @@ sparkfun/phant-monitor: BRANCHES:[master:9a5b9898f9d200d8a30a45eb38c0ec879dabe95
 sparkfun/Decade_Resistance_Box: BRANCHES:[master:830fc1bb2708a124464ff85549bb774824e311c9;]|RELEASES:[]
 sparkfun/Micro_OLED_Breakout: BRANCHES:[master:c7dd8939c905110a473beadf4ffc893d9c7b9ea2;]|RELEASES:[V_H1.0:c7dd8939c905110a473beadf4ffc893d9c7b9ea2:none;V_H1.0_L1.2.4:0ef7f255c9aa8da27ee7bfc80e0596ef85dc4fc3:none;]
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c;]|RELEASES:[]
+sparkfun/phant-meta-nedb: BRANCHES:[master:3b804873221703bc3dc87a70cec4482eaa15168c;]|RELEASES:[]
