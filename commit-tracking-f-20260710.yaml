@@ -1084,3 +1084,4 @@ sparkfun/Lipo_Charger_Basic-miniUSB: BRANCHES:[master:2337e59b6f3262da4831704031
 sparkfun/Photon_Weather_Shield: BRANCHES:[V11:669629933bf56ce9d92367e4bbb0ca9ef7eeb02a;master:2630fb47acc21064e44887de41cd065ed173d62f;]|RELEASES:[]
 sparkfun/BadgerHack_Demos: BRANCHES:[master:27da2391d32d82a72ab0e46811182fa0ec000821;]|RELEASES:[]
 sparkfun/Photon_IMU_Shield: BRANCHES:[master:9a623ce2fbdea5bf9c5fbfad80330dc77cbac78b;]|RELEASES:[]
+sparkfun/LilyPad_Reed_Switch: BRANCHES:[master:f506571aaca02f01d22a90adcd81710cbc83ed1e;]|RELEASES:[]
