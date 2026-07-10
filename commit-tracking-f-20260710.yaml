@@ -70,3 +70,4 @@ sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51;]|RELE
 sparkfun/WS2812_Breakout: BRANCHES:[master:80e00a06f2763d089633d80b3d5870311750e7d3;]|RELEASES:[]
 sparkfun/Serial_7_Segment_Shield: BRANCHES:[QC-Rev:0ea20bd40050a451a9bcd6c03722b7f7ca27dc74;master:ed313bc0a88e3b244281b9f12d1c544384c98540;]|RELEASES:[]
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6;]|RELEASES:[]
+sparkfun/XBee_Explorer_USB: BRANCHES:[master:1c268163f47bea2f6d020cf3382618237049e284;]|RELEASES:[]
