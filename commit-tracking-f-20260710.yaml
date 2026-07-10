@@ -1332,3 +1332,4 @@ sparkfun/SparkFun_TMP102_Arduino_Library: BRANCHES:[master:1260e0a93889185345047
 sparkfun/SparkFun_LIS3DH_Arduino_Library: BRANCHES:[master:2705a8a28addc0f50b3c36a016eb516b17705fed;]|RELEASES:[V_1.0.2:c04cd63e4284ed37bd9eb419e8e761e1b2543a1d:none;v1.0.3:829c319319edf14e29b8f26a25ae79f48c7e6856:none;]
 sparkfun/RJ11_Breakout: BRANCHES:[master:7c90872919efd286cd33f39a07a80a4a463bb1ac;]|RELEASES:[]
 sparkfun/TeensyView: BRANCHES:[master:554030f362fefbcea2b13a9b1d0f41d9dc946607;add_multi_spi:d03fd07110841235233458e0ac9514a61ce590a1;]|RELEASES:[]
+sparkfun/Mini_GPS_Shield: BRANCHES:[master:b456c6ce528dbc440b4ea35525d995482f28429c;]|RELEASES:[]
