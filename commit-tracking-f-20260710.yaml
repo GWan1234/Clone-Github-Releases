@@ -474,3 +474,4 @@ sparkfun/StupidArduinos: BRANCHES:[master:901e298f2fe3a1247f4fb0c0e9b670276e24b3
 sparkfun/Qwiic_Magnetometer_MLX90393: BRANCHES:[master:9167ef00efc6b20c69a5dd715c359d926beadd56;]|RELEASES:[]
 sparkfun/Qwiic_Accelerometer_MMA8452Q: BRANCHES:[master:06ba5d10b21cc80587420c7c02cbcea12b0caaa2;]|RELEASES:[]
 sparkfun/SparkFun_MLX90632_Arduino_Library: BRANCHES:[master:e8161780e2b3b248760e161b1f10b0c9fcba79be;]|RELEASES:[v1.0.1:e8161780e2b3b248760e161b1f10b0c9fcba79be:none;]
+sparkfun/SparkFun_GridEYE_Arduino_Library: BRANCHES:[master:61eeee316db6f1ad283dd52dd32f48b4bc67b9d2;]|RELEASES:[V_1.0.0:e86ab1976ed11339037346ef299ecc86ef750f6b:none;v1.0.1:0e7dec3a63408616f15c5ffbeca912c9d207f145:none;v1.0.2:61eeee316db6f1ad283dd52dd32f48b4bc67b9d2:none;]
