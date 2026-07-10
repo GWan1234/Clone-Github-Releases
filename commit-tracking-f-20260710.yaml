@@ -1159,3 +1159,4 @@ sparkfun/USB_microB_Plug_Breakout: BRANCHES:[master:e534f0b1974a201bee5ec8626849
 sparkfun/QRE1113_Line_Sensor_Breakout-Digital: BRANCHES:[master:c9880cb4f6baa0265e30cb472d816f04ea348d86;]|RELEASES:[]
 sparkfun/SparkFun_BLE_Mate2_Arduino_Library: BRANCHES:[master:2ead2d9625ff02445bcaa97c111b7e216bf73175;]|RELEASES:[]
 sparkfun/Breadboard_Power_Supply_5V_3.3V: BRANCHES:[master:6e4b69f6b8ca4871a802177e6a615fdfc8e82f1b;]|RELEASES:[]
+sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e773e91c835f36dae7af8f;]|RELEASES:[]
