@@ -1471,3 +1471,4 @@ sparkfun/qwiic_alphanumeric_py: BRANCHES:[main:f58e2e0eb9e5880952ebccb9efe8dccd2
 sparkfun/MicroMod_Function_Ethernet-W5500: BRANCHES:[main:6b66bf3d9790e4a96c8c1b94a1cd176725633be2;]|RELEASES:[]
 sparkfun/SparkFun_Artemis_Global_Tracker: BRANCHES:[main:3212a30d17952d89d7fb301f154e82907fe01a70;]|RELEASES:[]
 sparkfun/MicroMod_mikroBUS_Carrier_Board: BRANCHES:[main:bec0ae0f5fe851c17d7908eec0cb7a815700d743;]|RELEASES:[]
+sparkfun/RP2040_mikroBUS_Dev_Board: BRANCHES:[main:aac2eab129a69427a569ade4f58121cc0bcd321a;]|RELEASES:[]
