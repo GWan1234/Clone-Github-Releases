@@ -1090,3 +1090,4 @@ sparkfun/microSD_Transflash_Breakout: BRANCHES:[master:452f85520c81f96c2dedbddf2
 sparkfun/LilyPad_Arduino_328_Main_Board: BRANCHES:[v_21:1e0f7007cbe7cec48c2dce05f526a61eac19c41a;master:4d5c5faa4f870d2f5e758cc98d93f66e3914abbc;]|RELEASES:[]
 sparkfun/Low_Current_Sensor_Breakout-ACS712: BRANCHES:[master:5b634b3622c3ecf7a5c565624b8401b092ccc3c8;ACS723_v10:fb9f86237ca223f0899bc99f2573176590e0a1cc;]|RELEASES:[]
 sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000: BRANCHES:[master:e330459795e7a05b63107fdf66340e42b33b1c33;]|RELEASES:[]
+sparkfun/Photon_Proto_Shield: BRANCHES:[master:16bd90312c0018aea17482c362fe60a960e98e99;]|RELEASES:[]
