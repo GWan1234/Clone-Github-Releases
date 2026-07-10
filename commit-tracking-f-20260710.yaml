@@ -391,3 +391,4 @@ sparkfun/LilyPad_Tri-Color_LED: BRANCHES:[master:7d99c6ef56f90eda5652b2e4085bcd6
 sparkfun/Gainer_PSoC_Development_Board: BRANCHES:[master:4a255236ea3aa4835d917915a7803e5458967575;]|RELEASES:[]
 sparkfun/IR_Receiver_Breakout: BRANCHES:[master:4022f5f87ad86a3c1615da74fa1df839dba24388;]|RELEASES:[]
 sparkfun/ProtoBoard_Wombat-PTH: BRANCHES:[master:a073c31a93d18efa4350e417ba7ffaaf2ffe0175;]|RELEASES:[]
+sparkfun/Polar_Heart_Rate_Monitor_Interface: BRANCHES:[master:ca41acd0e0e383fd8523fa623438379c5f085907;]|RELEASES:[]
