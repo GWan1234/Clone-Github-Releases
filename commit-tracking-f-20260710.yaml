@@ -1668,3 +1668,4 @@ m5stack/m5stack_devkit: BRANCHES:[master:6230376ca0bdaf725414875a22db6146246f8e1
 m5stack/stepmotor_module: BRANCHES:[master:10cceb97b16a45304b464c9e43501041a66de3a2;]|RELEASES:[]
 m5stack/m5go_wheel: BRANCHES:[master:6f3de2b0ec4c306c594bed99a2758ec8bc06479a;]|RELEASES:[]
 m5stack/m5-docs: BRANCHES:[master:e5354c5dcc61d16fdc1dff9d92c2c760728d0b60;en:0875998a1627bcf5b0fa75f10a0d410a3c513264;dev-watson:f4b5a4bb25367fe930c7ec0afeec12e970845270;pr/43:209ebc9a9b86eab92c6c9063abe8fbd6f5cb91e3;dev-ja:ea184d848febfd36570da9c340b83b09dd061539;dev-readthedocs:150fe33f016c71ae04012f69d095048548db7e14;origin/dev-readthdocs-dimi:64f5a3a22bf1a79b7595b5174c0eeed9a2831763;dev:92c8c5c1997cefaa7dd0ebdbaf27a91452049621;]|RELEASES:[v0.1:21d14bf34521e7c8343ca796ca23f427cce08e8f:none;v0.2:64461356881dd36d66a878e706fcab6edd4d8f3f:none;]
+m5stack/M5Bala: BRANCHES:[master:b3c623160246b98066390e4b11e4c421baaed660;]|RELEASES:[]
