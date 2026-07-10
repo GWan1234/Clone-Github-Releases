@@ -1583,3 +1583,4 @@ waveshareteam/ESP32-C3-Zero-Basic-Kit: BRANCHES:[main:4db4202faa251964321f79b39e
 waveshareteam/ESP32-C6-Touch-AMOLED-1.8: BRANCHES:[chore/esp-idf-ci:4e5101e1143ff7ce9ef66a4a4f1463e950d274d8;main:9430193973d1b4df38677a4c0ee847844ec09ca4;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.8: BRANCHES:[chore/esp-idf-ci:e7ca2f06e838cb619c03441b20ccfc6d194bbde6;main:ef25f0f304a3c53464e7cf6afafacec76811aa80;fix/i2s-codec-init:d9c06b7cb086e8f3aa2c1142ad8fdfae0ffb012b;]|RELEASES:[]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[chore/esp-idf-ci:397f9fa4c1fdffc50737b6e3f9f71586428fc6dd;main:6ec9ff5c8a96357f2fcac24b4fc311a3018cb878;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-AMOLED-1.75C: BRANCHES:[chore/esp-idf-ci:d38b05508eed4e7ab2c9d93a057c69b8ba72cb92;main:498436f70dba481e799489785d2beecf81211a2d;]|RELEASES:[]
