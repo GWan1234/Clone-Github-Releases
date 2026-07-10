@@ -1096,3 +1096,4 @@ sparkfun/ClockIt: BRANCHES:[master:f160ea50b6209bfaf3863ae75f2bdbdb2a44529f;]|RE
 sparkfun/Power_Driver_Shield_Kit: BRANCHES:[master:519bc883f9ed1ac75753944a286a35f4b4254c1b;]|RELEASES:[]
 sparkfun/Photon_RedBoard: BRANCHES:[v11:f086a24e44bbb0a6370695b38019d679af11c34f;master:8e485f0be0293cbc62fda797383e6d976ed5edbf;Revision:801a7cd111fbcf15007c3b24a587b923e1b6ba7e;]|RELEASES:[]
 sparkfun/AVR_ISP_Shield: BRANCHES:[master:dcd712d266486559c8a6ddf7f8025caf97afaf2e;]|RELEASES:[]
+sparkfun/PoEthernet_Shield: BRANCHES:[master:5be941ad7820de89eaad4fb2780ee7332f4fb909;]|RELEASES:[]
