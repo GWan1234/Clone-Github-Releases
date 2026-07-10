@@ -1426,3 +1426,4 @@ sparkfun/SparkFun_ATECCX08a_Arduino_Library: BRANCHES:[master:71c6c3cfdc4f1c8c60
 sparkfun/SparkFun_u-Blox_NEO_M9N: BRANCHES:[master:c38db3261ddbcdcfee0c42a4aebe22bbd574111f;]|RELEASES:[]
 sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC608A_Qwiic: BRANCHES:[main:a9a339c4b7ac3794252c8a24e5d9b2c1dacdae88;]|RELEASES:[]
 sparkfun/SparkFun_TMF8801_Arduino_Library: BRANCHES:[main:3e6a951dd96db48784c1c19b520ebaa1ada273ef;]|RELEASES:[1.0.0:796885888236752de25fdcabc4d4193fd77f8e42:2021-03-31T16:53:06Z;]
+sparkfun/SparkFun_AS7341X_Arduino_Library: BRANCHES:[main:2ab473d8fa2e12d3cef85eb53f9c98fc16e4b0d7;]|RELEASES:[1.0.0:ed2fbec646f820d7a90ec865d29d21db47ea76af:2021-04-17T15:49:57Z;]
