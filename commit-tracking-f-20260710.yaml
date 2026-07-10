@@ -9,3 +9,4 @@ exclude:
   - armbian/cache
   - armbian/community
 sparkfun/ADXL345_Eval: BRANCHES:[master:bd041475c4d0a9ae81a89b8dd498f043467ead22;]|RELEASES:[]
+sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08;]|RELEASES:[v4.3:140fe56ee7d3912b1d35d2c85ed2769f15572a08:none;]
