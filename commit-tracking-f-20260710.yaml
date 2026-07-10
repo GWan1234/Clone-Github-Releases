@@ -1111,3 +1111,4 @@ sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712: BRANCHES:[master:6e53ba8f5c
 sparkfun/Ardumoto-Motor_Driver_Shield: BRANCHES:[master:0b50305e0bec9645f6f2dd603dead7cb72896d73;]|RELEASES:[]
 sparkfun/Line_Follower_Array: BRANCHES:[master:085d5392b6d6eb41aa79620b34c0454d9ededbc9;]|RELEASES:[]
 sparkfun/Photon_OLED_Shield: BRANCHES:[master:43df6c456e3b53d166fa6a86c93984072d38304c;]|RELEASES:[]
+sparkfun/LSM6DS3_Breakout: BRANCHES:[master:df42bfe49b23f38f3d9cb0a94e5d3b37519db31b;]|RELEASES:[]
