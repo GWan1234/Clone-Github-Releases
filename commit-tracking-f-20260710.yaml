@@ -751,3 +751,4 @@ sparkfun/qwiic_soil_moisture_sensor_py: BRANCHES:[main:8d67a0eb7f2beb7cd4057dd40
 sparkfun/SparkFun_RTK_Express: BRANCHES:[main:9a1a2809881a38f75973cf141140e90c2611aff1;release_candidate:e752d84f6098c38462c89c29caf1c6c7547f1867;]|RELEASES:[v1.2:2f2cf5482294cf52162e6e4c3c522946efc56e4f:none;]
 sparkfun/Qwiic_SHIM_Kit: BRANCHES:[main:45127cd6057e02276ac52b30489f9f47080a5058;]|RELEASES:[]
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180: BRANCHES:[main:66112e7410116fd952eeed8603634de32bf437e8;]|RELEASES:[]
+sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S: BRANCHES:[main:1332f29e4153abbb06ccd24e0421253527922ff3;master:f7fc5f35109b4fa6b661afc27043ea6cb8288419;]|RELEASES:[]
