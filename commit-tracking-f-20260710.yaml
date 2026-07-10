@@ -1521,3 +1521,4 @@ waveshareteam/JoyStick: BRANCHES:[master:e090d95944ae0fc614f708461498dbf875ef124
 waveshareteam/pxt-APA102: BRANCHES:[master:c5eaffabf547d6c4d6d48218ec9dbfd99966d1bf;]|RELEASES:[]
 waveshareteam/WM8960-Audio-HAT: BRANCHES:[master:d63599e885121b0a41e7c82c9158b92281e454e8;6.18-x:5ed0966abab91dbbbf07ab8ed26711cb4ca1129c;6.18.x:daa79c4ec1329b18a56cbb91a939ea8fb1a53838;6.12.x:971890c0f31be554647f7591579c43b1bca55b93;rpi-4.9.y:a9aa1d0a10356fbfb56fcd8a63c7435ac80eb173;]|RELEASES:[]
 waveshareteam/LCD-show: BRANCHES:[master:e91282e64dd1c37a009ebbd33967cf0b4ff6dce2;]|RELEASES:[]
+waveshareteam/e-Paper: BRANCHES:[master:86aa9932f471a50157cf02fafadc2c1b4a965449;Development:2ccb7f61c1ea4061863a2e7fbaeeea04ce51de12;]|RELEASES:[]
