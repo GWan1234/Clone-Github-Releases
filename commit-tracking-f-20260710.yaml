@@ -393,3 +393,4 @@ sparkfun/IR_Receiver_Breakout: BRANCHES:[master:4022f5f87ad86a3c1615da74fa1df839
 sparkfun/ProtoBoard_Wombat-PTH: BRANCHES:[master:a073c31a93d18efa4350e417ba7ffaaf2ffe0175;]|RELEASES:[]
 sparkfun/Polar_Heart_Rate_Monitor_Interface: BRANCHES:[master:ca41acd0e0e383fd8523fa623438379c5f085907;]|RELEASES:[]
 sparkfun/Teensy_Arduino_Shield_Adapter: BRANCHES:[master:e212be53df5819eebdd7ea3526dbba6363ea026f;]|RELEASES:[]
+sparkfun/GPS_Shield: BRANCHES:[master:ff44181b3a1808e407d16150212badaf3a707132;]|RELEASES:[]
