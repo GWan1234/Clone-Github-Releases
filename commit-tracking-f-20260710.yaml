@@ -166,3 +166,4 @@ sparkfun/SHT15_Breakout: BRANCHES:[master:e39a3acef12c2493de55797c5a9021b53a6320
 sparkfun/EL_Sequencer: BRANCHES:[master:e62f6e45307829861dc867829b1005f063d0d9ab;V_2.3:cf266f15fe97344d780c01e452f2a7eaeb481889;]|RELEASES:[]
 sparkfun/nRF2401A_Transceiver-Chip_Antenna: BRANCHES:[master:2759a7ae40724f2c3bff0a5f2ffea3a8a22e56be;]|RELEASES:[]
 sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94fa60809b415f70009c8b32;]|RELEASES:[]
+sparkfun/CC3000_WiFi_Shield: BRANCHES:[master:59a530fbfed9989e41d6febbc20d4d1115bbdf3e;]|RELEASES:[]
