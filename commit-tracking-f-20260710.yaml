@@ -55,3 +55,4 @@ sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba
 sparkfun/MOSFET_Power_Controller: BRANCHES:[master:d20f59094c1d7a4e9a1747663bc88a6df2e4bed8;]|RELEASES:[]
 sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa11f94e;]|RELEASES:[pre-Arduino-1.6:adc2926f6c9872b6534079f21ce90784b7433215:none;]
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794;]|RELEASES:[]
+sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6;]|RELEASES:[]
