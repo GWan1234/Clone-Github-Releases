@@ -793,3 +793,4 @@ sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C: BRANCHES:[main:b5be8ef9be3940a1f722f
 sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581: BRANCHES:[main:6930241063938e0c3a6b49960bbec4178cf310d6;]|RELEASES:[]
 sparkfun/SparkFun_BMP581_Arduino_Library: BRANCHES:[main:073ce7c3ddc197f4a8ae406bd1150ff5d61a6af1;]|RELEASES:[v1.0.0:5d430aac1e9a9255b145fb0f156d258f993a5ec5:none;v1.0.1:bebaf231508306ed13bac1de321053d90e55f5f1:none;]
 sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384: BRANCHES:[main:1c8760b268bb4a6e29c42cfcd8dbe696ea46ce3a;]|RELEASES:[]
+sparkfun/SparkFun_Thing_Plus_MGM240P: BRANCHES:[main:cf4772115b2ef522ed8f8be4b9ea5bc7179654a9;]|RELEASES:[]
