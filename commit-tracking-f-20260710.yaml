@@ -1251,3 +1251,4 @@ sparkfun/MyoWare_LED_Shield: BRANCHES:[master:194f10ea212c86cd8dd219f6075dac6ca8
 sparkfun/SparkFun-Live-Analog-Audio: BRANCHES:[master:d0a09ec3911a96ee79e2ae4074cf84989fd338f9;]|RELEASES:[]
 sparkfun/Pi_Wedge_40-Pin_PreAssembled: BRANCHES:[master:6d93ad550771dc4c304dc220aea1f0c69fdad907;]|RELEASES:[]
 sparkfun/ESP8266_Thing_Dev: BRANCHES:[master:e2f5277a9f49694436a95733a86f40216b845bbd;]|RELEASES:[]
+sparkfun/FreeSoC2_Keysynth: BRANCHES:[master:66fae29fb0bef05b9b5db65dd9630196e7a24667;]|RELEASES:[]
