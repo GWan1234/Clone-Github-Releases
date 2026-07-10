@@ -40,3 +40,4 @@ sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c
 sparkfun/SX1509_IO-Expander: BRANCHES:[master:cc235c16a1f2104c928b55bb81e4c9e06d7613f7;]|RELEASES:[]
 sparkfun/Wake_on_shake: BRANCHES:[master:9c799010b82c0b1b83de27bc0d8b451f91ff98d4;]|RELEASES:[]
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f;]|RELEASES:[]
+sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9;]|RELEASES:[]
