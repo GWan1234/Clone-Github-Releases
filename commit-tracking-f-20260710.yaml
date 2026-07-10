@@ -1144,3 +1144,4 @@ sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea
 sparkfun/LED_Driver_Breakout-TLC5940: BRANCHES:[master:52c035a3753d4f301d2620337d949fd105a381ee;]|RELEASES:[]
 sparkfun/SparkFun_TLC5940_Arduino_Library: BRANCHES:[master:df219716b7b08d252adabeb9474a56f7421e0ad4;]|RELEASES:[V_1.1.1:df219716b7b08d252adabeb9474a56f7421e0ad4:none;]
 sparkfun/SparkFun_LSM9DS1_Arduino_Library: BRANCHES:[master:18d3181c2bf2826c85b819079e3e626d12ab763b;]|RELEASES:[v1.2.0:98914281a2608c7fa074c2bab9dd8f5d79750ae7:none;v2.0.0:7269199c7a38a70becf454148474c6f05028e5b7:none;]
+sparkfun/PWM_Shield: BRANCHES:[master:688037990a074bd6695ee797fa7c779ba39ef2f1;]|RELEASES:[]
