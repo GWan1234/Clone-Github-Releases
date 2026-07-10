@@ -162,3 +162,4 @@ sparkfun/SI4735_Breakout: BRANCHES:[master:3e7a821ad41f3319da72491d1e887c099c428
 sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d;]|RELEASES:[]
 sparkfun/GraphicLCD_Nokia_5110: BRANCHES:[master:383aefcbdbceda3c2ca0156a65acc3dea3c152d5;]|RELEASES:[]
 sparkfun/RHT03: BRANCHES:[master:d026dd4c932ab27b6abb6d9a172421399594148a;]|RELEASES:[]
+sparkfun/SHT15_Breakout: BRANCHES:[master:e39a3acef12c2493de55797c5a9021b53a6320e2;]|RELEASES:[]
