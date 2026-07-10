@@ -839,3 +839,4 @@ sparkfun/SparkFun_XRP_Controller: BRANCHES:[gh-pages:fb7680d08221c567bd313f3acbf
 sparkfun/SparkFun_Digi_XBee_Regulated_Qwiic: BRANCHES:[gh-pages:15a4bb58f0a2146f11144fe3b1f3bc9684a40263;main:0e25ebd7364daae9f0bd36c49f88e7d2f2435074;]|RELEASES:[]
 sparkfun/SparkFun_Digi_XBee_Explorer_USB-C: BRANCHES:[gh-pages:34b98d68542d09f1583a8d84ae32ff29849eb04a;main:25cb1524fcd335b0ca113b9ae28be4f7097a0739;]|RELEASES:[]
 sparkfun/SparkFun_Digi_XBee_Arduino_Shield-USB-C: BRANCHES:[gh-pages:6b188ac6004ee5e191cf571661f88a4ea406a6e2;main:a7404bfbea51ba303ddc0a4499f060ef600a6d40;]|RELEASES:[]
+sparkfun/SparkFun_u-blox_SAM-M10Q: BRANCHES:[gh-pages:a306737e3863597fefcfe0c3151c6cf4f71f5c99;main:f13f3d9ddf2b236584ee6bfaa86e8567c713dbcc;]|RELEASES:[]
