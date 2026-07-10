@@ -842,3 +842,4 @@ sparkfun/SparkFun_Digi_XBee_Arduino_Shield-USB-C: BRANCHES:[gh-pages:6b188ac6004
 sparkfun/SparkFun_u-blox_SAM-M10Q: BRANCHES:[gh-pages:a306737e3863597fefcfe0c3151c6cf4f71f5c99;main:f13f3d9ddf2b236584ee6bfaa86e8567c713dbcc;]|RELEASES:[]
 sparkfun/SparkFun_Three_Phase_Motor_Driver-TMC6300: BRANCHES:[gh-pages:8676dc18c470af3c312e830d3fc6b4bd42b8f455;main:f433cc1b029a5708e7543077d739bb578b183f4b;]|RELEASES:[v01:7f8a61b16ded9ed20cab96b328f5102ff778d891:none;]
 sparkfun/SparkFun_IoT_Brushless_Motor_Driver: BRANCHES:[gh-pages:0b3866d397d223800d267ec3f1edbc05f5af9eb0;main:dc769199c2106d3e00daf72636e0bca1ebe4baf3;]|RELEASES:[v10:836a6cbd818d80235609188fcf5350feb4f0ae57:none;]
+sparkfun/SparkFun_Swarm_M138_GUI: BRANCHES:[main:0cc9bd6c049e4234703f965f731cdfea87fab732;]|RELEASES:[v2.0.0:094092f5b55e894a9341c09fe09fbe2a3ce96fc1:2023-03-04T19:13:06Z;v2.0.1:c7139ed44e58a0ace2d2e50ef8acc5d354f6ae13:2023-03-04T19:54:41Z;]
