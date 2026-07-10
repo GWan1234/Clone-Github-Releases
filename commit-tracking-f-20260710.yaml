@@ -871,3 +871,4 @@ sparkfun/SparkFun_GNSS_mosaic-X5: BRANCHES:[main:243d89632511827eee3641ccd765c9c
 sparkfun/SparkFun_RTK_mosaic-X5: BRANCHES:[gh-pages:c22edd9534ee341188db29e077e03ce6f3fa035d;main:0a540586026ea350ad8119c1ddfe15c2ad572a5d;release_candidate:0a540586026ea350ad8119c1ddfe15c2ad572a5d;onocoy-instructions:d17ef79534b810c707427bb203307f61fe593b1f;]|RELEASES:[v1.0.4:b46992202adca2d963d63c812288f86e59ac1071:none;v1.0.5:88e9c5675a95692df6bbb830fd403bbedd3a3cdb:none;v10:770ef27e306b8d63606481f3b7b14fd48d172c72:none;]
 sparkfun/SparkFun_u-blox_NEO-F9P: BRANCHES:[gh-pages:fe959b6abf5738d429326a2af974456f4d6450b6;main:90b8425e15b942d88d00f5ae7f3450f0de818d28;]|RELEASES:[]
 sparkfun/SparkFun_USB-C_Vertical_Breakout: BRANCHES:[main:4c7334fc922f8f0e9de07536f063adfe0231c05f;]|RELEASES:[]
+sparkfun/SparkFun_UM980_Triband_GNSS_RTK_Breakout: BRANCHES:[gh-pages:3535b417bd911a68aa52fd47936e7c79cb3d3636;main:13c0f4501e329558cfd79a09c5c808e27b1ba38b;]|RELEASES:[]
