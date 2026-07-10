@@ -144,3 +144,4 @@ sparkfun/LED_Matrix_Serial_Interface_RedGreen: BRANCHES:[master:3ba07887a3a734b6
 sparkfun/Fingerprint_Scanner-TTL: BRANCHES:[master:0636188ddf8206d166b9859e9f18d2bb62e65999;]|RELEASES:[v1.0.0:f62e0f5aa8bece6369cd77886d2355d899944437:none;v1.1.0:13b8ba468250b982bff12a3c950de913a089e25f:none;v1.1.1:e60554fc3ea36866072cb9026a16788b381f92d6:none;]
 sparkfun/SparkFun_MetaWatch_Library: BRANCHES:[master:ecf820fc546185f2362526b9eb700484a9274518;]|RELEASES:[]
 sparkfun/SunnyBuddy: BRANCHES:[master:3041064d76c5fa103a498e55c80259d8e6d31aa1;]|RELEASES:[]
+sparkfun/SparkFun_T5403_Barometric_Breakout: BRANCHES:[master:a7708c41db39d6bda609f27d21c45ce98ed7664d;]|RELEASES:[]
