@@ -663,3 +663,4 @@ sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680: BRANCHES:[master:ff6f1f2
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8;]|RELEASES:[]
 sparkfun/SparkFun_Humidity_Sensor_SHTC3: BRANCHES:[master:89ecc1a11c2d0c3bbd8bc6224095ddf24aff0d09;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library: BRANCHES:[main:8b247948e139e97001117efdc26f6aceceda0e4c;release_candidate:57d9fab6517f296e4d567524a4d434857f3d6360;]|RELEASES:[v1.0.0:fefa337d1790e2e8bdc31321675b17a1ebb96950:none;v1.0.1:57d9fab6517f296e4d567524a4d434857f3d6360:none;v1.0.2:d7902d194b7856cd1abf5456ac9d0a3ac24ba710:none;v1.0.3:8b247948e139e97001117efdc26f6aceceda0e4c:none;]
+sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic: BRANCHES:[master:854e0efe4b5f3f37585929201035b5f90c2cb1bc;]|RELEASES:[]
