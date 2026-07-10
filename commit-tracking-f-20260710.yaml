@@ -1554,3 +1554,4 @@ waveshareteam/Waveshare-ESP32-components: BRANCHES:[feature/esp32-p4-wifi6-touch
 waveshareteam/WAVEGO_Pro: BRANCHES:[main:3d74e86d7320a892a822739b21a2a1e62822c15a;]|RELEASES:[]
 waveshareteam/PhotoPainter: BRANCHES:[master:aaa5498d07f76fe4351225a64ff6254c78c4e2cb;Suggestions-from-other-developers:78d6db632254984b7311f8d36cc3b10e7b264ca0;]|RELEASES:[]
 waveshareteam/PhotoPainter_B: BRANCHES:[master:fc2b261e985934bf67d99aa26358e463deb0aa65;]|RELEASES:[]
+waveshareteam/waveshare_roarm_sdk: BRANCHES:[main:7b8fa6c62de7b72263836fc8a03500605dd0d4d9;]|RELEASES:[]
