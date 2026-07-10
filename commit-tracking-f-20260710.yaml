@@ -82,3 +82,4 @@ sparkfun/WAV_Trigger: BRANCHES:[master:03150391b21e3de057cc98d092aebfae6bb0e943;
 sparkfun/GPS_Breakout: BRANCHES:[master:b696ced9f8d11529084a9f6b1515888b895d4081;]|RELEASES:[]
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9;]|RELEASES:[]
 sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb25b;V20:1a7dba14bc455018da5a46c2ed8904702eecc99a;]|RELEASES:[]
+sparkfun/LilyPad_MP3_Player: BRANCHES:[master:b48ac4ff34490c0d627419782a6566a18fc58f6e;libupdate:e4f4e0063af875cd879bdf6fb01900ae03e7c520;LibraryUpdate:8e48970fc7431fb6e7d6574265fad96fea42f96a;]|RELEASES:[]
