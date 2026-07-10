@@ -715,3 +715,4 @@ sparkfun/HyperDisplay_ILI9341_ArduinoLibrary: BRANCHES:[master:058358732d9acbf13
 sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE: BRANCHES:[master:f28ea17e638a59ea100a1f8475279cb3386e8fd8;]|RELEASES:[]
 sparkfun/Qwiic_PIR: BRANCHES:[master:17b39a30d9ea2ae5aa8e94abd94721c7a31928aa;]|RELEASES:[]
 sparkfun/SparkFun_PIR_Breakout: BRANCHES:[master:e1c86b1847447b501164085ba2aaa37a6c01d97a;]|RELEASES:[]
+sparkfun/ESP32_Thing_Plus_U.FL: BRANCHES:[SkeleBoard:bf424a7f526a9265d2bdca4d91b7b1159baefbb4;main:cc74046280c1cc5f410adf89ca029a7923f55154;]|RELEASES:[]
