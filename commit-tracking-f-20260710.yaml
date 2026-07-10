@@ -64,3 +64,4 @@ sparkfun/TXB0104_breakout: BRANCHES:[master:c8bf609f801a894d4af649a7134cd0ecddab
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717;]|RELEASES:[]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405;]|RELEASES:[V_1.4:f167f662a94bcf88d410205e1a95908bd3df5227:none;]
 sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164b870;hw_dev:be3fc290f78989ad80485bd678f13bf5291f0d06;]|RELEASES:[]
+sparkfun/RedBot_Accelerometer: BRANCHES:[main:dc04b82d3abcb1f428d3d7b37406e565d15d90bc;]|RELEASES:[v14:3f4d0aee8a0f187f03871cf6c903070030d2ca79:none;]
