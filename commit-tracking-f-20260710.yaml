@@ -387,3 +387,4 @@ sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc0
 sparkfun/Load_Sensor_Combinator: BRANCHES:[master:0d4a6e7613700354c3f411075c97f24c24c4080a;]|RELEASES:[]
 sparkfun/Adapter_Board-ICD_ICD2: BRANCHES:[master:fd771b4c17ac38ceecd4d229110e5bf8906d5cc4;]|RELEASES:[]
 sparkfun/FT245RL_Breakout: BRANCHES:[master:c60d22fcea9ab0bd4546568f17f86778c527f78b;]|RELEASES:[]
+sparkfun/LilyPad_Tri-Color_LED: BRANCHES:[master:7d99c6ef56f90eda5652b2e4085bcd60218321a4;]|RELEASES:[v_2.0:fc80e4110e9779f501f50d65f5b0f752e534d29d:none;]
