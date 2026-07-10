@@ -1212,3 +1212,4 @@ sparkfun/MP3_Breakout-VS1063: BRANCHES:[master:b92d9f493ad4e8e46801357139381ce7a
 sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA: BRANCHES:[master:ef7a05fa6bd9c1bdc6ef9befa1c8ac1afaebbe74;]|RELEASES:[]
 sparkfun/XMega100_Breakout: BRANCHES:[master:ac6d36b847c8deccd64395a4eedd6284745f79a2;]|RELEASES:[]
 sparkfun/GPS_Evaluation_Board_GP-2106: BRANCHES:[master:00f4439a3be09704f679522e87fbbeb080e3b33b;]|RELEASES:[]
+sparkfun/TransmogriShield: BRANCHES:[master:805b76a23c9bb9e3529cefc15eeeb090fbddf933;]|RELEASES:[]
