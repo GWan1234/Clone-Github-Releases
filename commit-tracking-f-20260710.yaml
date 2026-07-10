@@ -35,3 +35,4 @@ sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8f
 sparkfun/KickScraper: BRANCHES:[master:5e9a560e6d5ca1e5745014fcbc0f15e8dd0220b6;]|RELEASES:[]
 sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3;]|RELEASES:[]
 sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;library-updates:b1065f7739bc44fea03a1f870ceaece5c2079d78;]|RELEASES:[]
+sparkfun/L6470-AutoDriver: BRANCHES:[master:6e71cacf06aa1cfe9e1be81cd59270bbe5a98a66;]|RELEASES:[]
