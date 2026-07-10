@@ -1653,3 +1653,4 @@ waveshareteam/ESP32-S3-Touch-LCD-7C: BRANCHES:[main:98618ce7e3154cd2f77051288e14
 waveshareteam/RP2350-Zero-CM: BRANCHES:[main:fd66fd7e9106a4de42d5f1a4dc42938b4aa9ac59;]|RELEASES:[]
 waveshareteam/esp32-c5-lcd-1.47: BRANCHES:[main:37ea7a7d6cf86fd82ea98304660ccf33c087a158;]|RELEASES:[]
 waveshareteam/ESP32-C5-Touch-LCD-2.8: BRANCHES:[main:74c2e8a3f3ca6d8c71bc8f6b9b8ff4e9b1a997ff;]|RELEASES:[]
+m5stack/azure_iothub_arduino_lib_esp32: BRANCHES:[master:baf0e17605a5a3d7856ba4ded32e4edc7deb9095;]|RELEASES:[]
