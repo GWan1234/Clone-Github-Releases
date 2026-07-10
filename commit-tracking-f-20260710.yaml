@@ -1309,3 +1309,4 @@ sparkfun/LilyPad_LED_5pcs: BRANCHES:[master:5eaf87daa95ed151774027371fe393a3ec79
 sparkfun/Spectacle_Director_Board: BRANCHES:[master:34ab748e968cc0cec4bd4b4dc0ccf6d8d91e9f73;]|RELEASES:[]
 sparkfun/CherryMX-Chord-Keyer: BRANCHES:[master:3243f6c3525daa7f4acc8c799ab4412e8a534dcf;]|RELEASES:[]
 sparkfun/Electrocute_ETextile_Projects: BRANCHES:[master:5f531c04c5f4cf12e2f0e8c0cade637fe23c591b;]|RELEASES:[]
+sparkfun/SparkFun_BQ27441_Arduino_Library: BRANCHES:[master:65fcd5553b3087d17c838cbb682121b61fe6881c;]|RELEASES:[v1.0.1:5ca0dbe80c15e1a5ecf66d45d26d601e7befeac1:none;v1.1.0:65fcd5553b3087d17c838cbb682121b61fe6881c:none;]
