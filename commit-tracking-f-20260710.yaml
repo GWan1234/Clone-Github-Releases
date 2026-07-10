@@ -995,3 +995,4 @@ sparkfun/qwiic_ism330dhcx_py: BRANCHES:[master:53b69403f478f9aa49fe963b3d919e052
 sparkfun/JST_Connector_Removal_Tool: BRANCHES:[main:c335489f6235bf754d7062424aaa388694e7af6d;]|RELEASES:[]
 sparkfun/SparkFun_GNSS_Flex_pHAT: BRANCHES:[main:20a5cb72ce28d5cd9bfebe683dcd425cadb658f9;pcUpdates:54fea69566f77a529a086adb9b3f589246fda0fe;]|RELEASES:[v01:23392e8372d41f770dca6a30f642a500df39ed02:none;v02:c922a5fbde608b53e08a5e049a4d968f593eff54:none;v03:2aa444cc9d2f86e305d28505e956046b143624bf:none;v04:5d86964954e29aebc96b449f2fd3c97bdd2a6710:none;v10:d302da426c70b9f78a2a01d0e27b5426d043fbe9:none;]
 sparkfun/SparkFun_Serial_MP3_Player_Shield-MY1690X: BRANCHES:[gh-pages:4f8bb992a518936856fd7606732df199a42c41de;main:07ee9a7c96ce67d4a7f7b3508b7c5f626591dfe0;]|RELEASES:[]
+sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S: BRANCHES:[gh-pages:41ec4e7e0db90218ed71ed0302547c5dd917cae0;main:49d66d63eb43105b7dbe437cc9299c637c69c61d;]|RELEASES:[]
