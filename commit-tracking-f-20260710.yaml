@@ -1752,3 +1752,4 @@ m5stack/M5Hat-JoyC: BRANCHES:[master:c656bff6ca651c33d3330ceb89e0cc851dd8e48a;]|
 m5stack/M5Unit-UHF-RFID: BRANCHES:[master:6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2;]|RELEASES:[0.0.1:e470ceac58884e0209408ace5db16750c7190db4:none;0.0.2:8888cdceeec723af50e03ea5d733ee5a07e08d3e:none;0.0.3:a47503693cc72adda618fb7cafdcba28a73a243f:none;0.0.4:7e715abd3f5ceb705eb2654e6a1939cfab38c0cf:none;]
 m5stack/M5-DLight: BRANCHES:[master:1b45195bab7242ec00af1b8fa45654338697ad27;]|RELEASES:[0.0.1:925a9aecac95ae6982c06b392c4d9fbac9fdd99c:none;0.0.2:01fb53bdabc3266d31cfee84eaa0d9d2dbfa82f2:none;0.0.3:15bfe51e6a887d70ea79286753732bd2f824f8e4:none;]
 m5stack/toit-m5stack-core2: BRANCHES:[main:7de6c6b0aeb34c6b2ccc3ff06e9348ae18760b2b;]|RELEASES:[]
+m5stack/ArduinoRS485: BRANCHES:[master:2dd70d2c3fc16626c38c1598244daab2ba508d35;]|RELEASES:[]
