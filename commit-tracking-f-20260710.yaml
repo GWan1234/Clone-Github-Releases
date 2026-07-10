@@ -472,3 +472,4 @@ sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic: BRANCHES:[master:4960
 sparkfun/LilyPad_ProtoSnap_Development_Board_Activity_Guide: BRANCHES:[master:934bb8cbd24fcd6cae9007551ed99136d8a63d68;]|RELEASES:[]
 sparkfun/StupidArduinos: BRANCHES:[master:901e298f2fe3a1247f4fb0c0e9b670276e24b3ae;]|RELEASES:[]
 sparkfun/Qwiic_Magnetometer_MLX90393: BRANCHES:[master:9167ef00efc6b20c69a5dd715c359d926beadd56;]|RELEASES:[]
+sparkfun/Qwiic_Accelerometer_MMA8452Q: BRANCHES:[master:06ba5d10b21cc80587420c7c02cbcea12b0caaa2;]|RELEASES:[]
