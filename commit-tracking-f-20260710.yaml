@@ -1679,3 +1679,4 @@ m5stack/esp8266_mesh_project: BRANCHES:[master:84b5bdde453ea43d56bfe8a0948c33fe5
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb;]|RELEASES:[]
 m5stack/M5-espnow: BRANCHES:[master:bbd52ef0c64af7484ff4ca57a014067fc58ec30a;]|RELEASES:[]
 m5stack/m5-hzk16: BRANCHES:[master:386e2ff3b9cd14208900081c44f17ec9a0053ffe;]|RELEASES:[]
+m5stack/Applications-M5PIANO: BRANCHES:[master:f1d7bb59eeb08d6a4dab07fe42c05ad74cb5d7ac;]|RELEASES:[]
