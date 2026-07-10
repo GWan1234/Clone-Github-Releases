@@ -279,3 +279,4 @@ sparkfun/phant-throttler-memcache: BRANCHES:[master:5b365a7dbebabccea3a6bc138761
 sparkfun/HMC6343_Breakout: BRANCHES:[master:fbf992ea2d4b75a3d542096c5980e1a0421aec73;]|RELEASES:[]
 sparkfun/MCP4725_Breakout: BRANCHES:[kicad_export:4c21acfc30262d56e12c3a3cc1713a1fe37a4bba;master:669e8aeca5987b5b91f3b7a623907a0f53e6e9fd;]|RELEASES:[]
 sparkfun/Monster_Moto_Shield: BRANCHES:[master:0cc320981caf554b5b359a62a0d8ff98512941fe;v_10:e8f9011e8735c3574a46e8030cf4480b3b85ccd0;]|RELEASES:[]
+sparkfun/phant-notify-email: BRANCHES:[master:6ab770c25d58c6ce608c6f7d1d25a16d0564e1ea;]|RELEASES:[]
