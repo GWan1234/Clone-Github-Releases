@@ -1450,3 +1450,4 @@ sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library: BRANCHES:[main:93d
 sparkfun/SparkFun_Air_Velocity_Sensor_FS3000_Qwiic: BRANCHES:[main:a79ea391757d5452738816461a08b6070625e795;]|RELEASES:[]
 sparkfun/Qwiic_EEPROM_Py: BRANCHES:[main:b688f6f318d3dd7fd5b39d4dfbcb1ec64c3a8d4c;]|RELEASES:[v0.0.1_test:b688f6f318d3dd7fd5b39d4dfbcb1ec64c3a8d4c:none;]
 sparkfun/qwiic_led_stick_py: BRANCHES:[main:966430595547752b5cd0f51dac87fc97337e55ab;feature/packaging:e630cb0f64076e2092e0358912aaae472c3d8362;examples:c0d76f4a0288a859dce431f41e07db94512b9f7e;]|RELEASES:[2.0.0:c83abd64a67debce0a9273ed7fd84a025b27ae0a:none;v0.0.1_test:27a7dae4b6be9c1cc4f6e98a898795ec0a46d769:none;]
+sparkfun/SparkFun_RTK_Express_Plus: BRANCHES:[main:1bffa4b6a035cf0f61e334fe3dde4d06c67a6733;]|RELEASES:[]
