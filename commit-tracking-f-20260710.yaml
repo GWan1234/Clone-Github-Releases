@@ -1580,3 +1580,4 @@ waveshareteam/ESP32-S3-AMOLED-1.91: BRANCHES:[main:1986f380a4e668da5f4e2b93de9bd
 waveshareteam/ESP32-S3-Zero-Basic-Kit: BRANCHES:[main:17304b9271a7ae91e5d8f37de09c18796f6f4b91;]|RELEASES:[]
 waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c046ba36a12886974;]|RELEASES:[]
 waveshareteam/ESP32-C3-Zero-Basic-Kit: BRANCHES:[main:4db4202faa251964321f79b39efb232d6ca7bef5;]|RELEASES:[]
+waveshareteam/ESP32-C6-Touch-AMOLED-1.8: BRANCHES:[chore/esp-idf-ci:4e5101e1143ff7ce9ef66a4a4f1463e950d274d8;main:9430193973d1b4df38677a4c0ee847844ec09ca4;]|RELEASES:[]
