@@ -634,3 +634,4 @@ sparkfun/freedom-e-sdk: BRANCHES:[v201908-branch:1c068cad40cf44ec673a210b42686c3
 sparkfun/qwiic_titan_gps_py: BRANCHES:[main:86f2d1a0310c55e1bec17cdf3f12e288605f0337;refactor/micropython:d69b077733462c66207a705bb1b557f4b4c62724;examples:c5d193af34cc18738f85587b2d6c09c08ee46b75;]|RELEASES:[2.0.1:65417809d43fdab65655a53044235edbdb55aefa:none;v0.1.2_test:9141e57b13f8af80c48012a36dc68b6bf260ad2a:none;]
 sparkfun/Qwiic_Button: BRANCHES:[master:e89a82fe2ddb293bfe0d6d9f63ccf4782a77c359;]|RELEASES:[]
 sparkfun/qwiic_tca9548a_py: BRANCHES:[main:2a0157b459a5df77a40597fab069c7bfa48cbb10;micropython_fixes:08d78c5212a27bbb40120cc86e00d7728d82e5d5;examples:94fda266decd769039cd6234873cd327639bfbd4;]|RELEASES:[2.0.0:d0254c474f7f84c26f063ec79196d983b4d279d2:none;v0.9.0_test:7536711d4409fb715152e2dc1e87af3b9561560e:none;]
+sparkfun/sparkfun_autonomous_kit: BRANCHES:[master:2d3339167240ff061c50b79215e555aa96dd7170;]|RELEASES:[]
