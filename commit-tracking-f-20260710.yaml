@@ -1391,3 +1391,4 @@ sparkfun/Qwiic_I2C_Py: BRANCHES:[master:670c3c02b8fb1357918bc5a9d7b25805b1ad29e8
 sparkfun/Qwiic_Proximity_Py: BRANCHES:[main:7f73cc351d0abd3303d2a7588070df9d0e70d9a3;]|RELEASES:[v0.9.0_test:7f73cc351d0abd3303d2a7588070df9d0e70d9a3:none;]
 sparkfun/Qwiic_Micro_OLED_Py: BRANCHES:[main:c8e28313e50278649ba308fe26abd6c183416fc1;]|RELEASES:[v0.10.0_test:c8e28313e50278649ba308fe26abd6c183416fc1:none;]
 sparkfun/Qwiic_CCS811_Py: BRANCHES:[main:927f7ab7356b5e53977adcee644527462cfd4280;]|RELEASES:[v0.9.4_test:927f7ab7356b5e53977adcee644527462cfd4280:none;]
+sparkfun/qwiic_bme280_py: BRANCHES:[main:c4576cc1450ffecff64535b7948d509ac690127d;feature/packaging:2e084bc19c90b4f04ba9b58a8ac617b324684453;examples:d64cb87f76f4f08d020fd15186b355ea886ab5b5;]|RELEASES:[2.0.0:0470a1cd221bd35efca27cec30892a21b5abc1aa:none;v0.9.1_test:af7b6a64895facc93f85a4b57ec5bb465985fa37:none;v0.9.1_test1:b5ee5ad7b3a28310534c77007a34c52b813bbe84:none;]
