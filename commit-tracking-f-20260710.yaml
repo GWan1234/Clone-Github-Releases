@@ -1744,3 +1744,4 @@ m5stack/M5Unified: BRANCHES:[master:b1ffcc677014ed8bd01e5a1f240736ae654bfe12;dev
 m5stack/M5_EzData: BRANCHES:[master:5fca3d204694c607cb483528266605250446bf78;]|RELEASES:[0.0.1:9b41de8b55df178a67353e931560ab70e235eb05:none;0.0.2:1a78fb987ab102be70bc2a2ce9a66f55560fac36:none;]
 m5stack/M5_Hardware: BRANCHES:[master:12a018da7e52ae1a77b2be951189e2b0bf8edd76;]|RELEASES:[]
 m5stack/M5Core2_Weather_Dashboard: BRANCHES:[main:35cd9654216ee94ab70bb4c12fa4f64fa59df075;]|RELEASES:[]
+m5stack/STAMP-C3: BRANCHES:[master:ee5f574e0ee2a85e696f7ab7cb8779d8646fbcf1;]|RELEASES:[]
