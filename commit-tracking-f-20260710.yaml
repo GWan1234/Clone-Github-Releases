@@ -929,3 +929,4 @@ sparkfun/SparkFun_Extensible_Message_Parser: BRANCHES:[main:27f22352a7409ee7e493
 sparkfun/Qwiic_Buzzer_Py: BRANCHES:[main:09248dcfb81ee6ed241ffa9d6cb2a6793885dbf3;]|RELEASES:[]
 sparkfun/SparkFun_Indoor_Air_Quality_Sensor-SCD41-SEN55: BRANCHES:[main:2ec7cb64fdfee0efc97fcb05337cf0b5836ce06d;gh-pages:bf854ec13214f78ab5477840092f11c3e2af181c;]|RELEASES:[]
 sparkfun/SparkFun_BQ40Z50_Battery_Manager_Arduino_Library: BRANCHES:[main:5aeb6d6af37e175ac4205199d24a6d85adc40223;]|RELEASES:[v1.0.0:5aeb6d6af37e175ac4205199d24a6d85adc40223:none;]
+sparkfun/SparkFun_Thing_Plus_RP2350: BRANCHES:[gh-pages:47e4bd8a5626628b24a9d3688eaa3a18d8b12f78;main:217177752865e4ca4ac7de52cd034eae7ec47443;]|RELEASES:[]
