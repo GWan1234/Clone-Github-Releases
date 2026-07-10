@@ -115,3 +115,4 @@ sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102: BRANCHES:[master:36ba5a6a
 sparkfun/QRE1113_Line_Sensor-Analog: BRANCHES:[master:1671498b31a63009afdcaf7832a2de51793f45f2;]|RELEASES:[]
 sparkfun/USB_Weather_Board: BRANCHES:[master:88fa8bcc4e652d7f34292be6b1da49784c6cb657;V40:2c6bccfd8ce75860f2d7a69a6a3f87a3f70045b2;]|RELEASES:[]
 sparkfun/Si4703_FM_Tuner_Evaluation_Board: BRANCHES:[master:d808bf51aa02e704b42cf8146d7121a2414fdada;]|RELEASES:[V_H1.4_L1.2.0:d808bf51aa02e704b42cf8146d7121a2414fdada:none;]
+sparkfun/ITG-3200_Breakout: BRANCHES:[master:486408ce63aec8529b3976e670cb3ef6f00e2d41;]|RELEASES:[]
