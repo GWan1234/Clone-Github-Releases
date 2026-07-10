@@ -41,3 +41,4 @@ sparkfun/SX1509_IO-Expander: BRANCHES:[master:cc235c16a1f2104c928b55bb81e4c9e06d
 sparkfun/Wake_on_shake: BRANCHES:[master:9c799010b82c0b1b83de27bc0d8b451f91ff98d4;]|RELEASES:[]
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f;]|RELEASES:[]
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9;]|RELEASES:[]
+sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131fd;edu_rework:994ec7f28b94d5a0c370906ea51cfda8d21f525a;SIK_Arduino_Book:54e38a9631199403dc2b8c465e687b41e651f98e;]|RELEASES:[v41:2b12597f2ea010b1e738aae8457ea9353db28b78:none;]
