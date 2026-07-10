@@ -415,3 +415,4 @@ sparkfun/SparkFun_APDS9301_Library: BRANCHES:[master:acba4c9b68f33921f7c9ed7ba78
 sparkfun/AVC2017_images: BRANCHES:[master:c40edb28d95cf8c5275d5815a1a5fd5dbaff7f64;]|RELEASES:[]
 sparkfun/spectacleapp_livetest: BRANCHES:[master:95fb05bbd24bc95ff3a3f68f51f67e4a72fbd351;]|RELEASES:[]
 sparkfun/SparkFun_I2C_GPS_Arduino_Library: BRANCHES:[master:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc;]|RELEASES:[V_1.0.1:e100860b7506f9f675493c9eaf4e2a7e45332f31:none;v1.0.2:ab91a5d21ba4ff68a13858e5d9ea5cbe94da0e74:none;v1.0.3:6e1a0f0d503f0699982857a22e869614e1b39a4b:none;v1.0.4:5de230a4bbcb6a856dd086637500d82807dafc21:none;v1.0.5:3c5b8c9d8cc241093ce8ac869e33d2a82de77214:none;v1.0.6:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc:none;]
+sparkfun/FutabaSBUS_SAMD21: BRANCHES:[master:8638fd77802250ec26469df8e215e8d519629de3;]|RELEASES:[]
