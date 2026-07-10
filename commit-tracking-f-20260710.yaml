@@ -854,3 +854,4 @@ sparkfun/SparkFun_TMAG5273_Arduino_Library: BRANCHES:[main:48e0e80ecaee071614b2f
 sparkfun/SparkFun_BMI270_Arduino_Library: BRANCHES:[main:21ea234de321da07c552f7a43cb36f7df4f73a27;]|RELEASES:[v1.0.0:5b2291b2610bef761a0f30a6271c4a021a4b4164:none;v1.0.1:7a1e3eb2441525abf43292b7e6048a4724348893:none;v1.0.2:997d2b82602d600433e924b6e065e6f572f7a2c2:none;v1.0.3:21ea234de321da07c552f7a43cb36f7df4f73a27:none;]
 sparkfun/SparkFun_LoRaSerial_Arduino_Library: BRANCHES:[main:ab415cee2a636a4f2d5ee3912daa0ee81580cf1a;]|RELEASES:[]
 sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616ab21558a737bf6982bd3db2ca2df7456a2;main:8d96103b46d6ba1201502a1fd092317fbe27c5ea;]|RELEASES:[]
+sparkfun/SparkFun_Tristimulus_Color_Sensor-OPT4048: BRANCHES:[gh-pages:f237acc62465b2b1e8e6ec1a53f48120c9a2664d;main:e9f300b54d0f1a3485fb81930411f79493a0acc3;]|RELEASES:[]
