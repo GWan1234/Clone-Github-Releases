@@ -1325,3 +1325,4 @@ sparkfun/Spectacle_Accelerometer_Input_Board: BRANCHES:[master:020c9efacd633baf4
 sparkfun/nRF52832_Breakout: BRANCHES:[main:5ec26d8fab88fd07b2bd83e1ec6898b84da76ae5;]|RELEASES:[]
 sparkfun/THAT_1646_Breakout: BRANCHES:[master:e2cfcdaf1dcda7ae9d8f163449030f277c5d98a2;]|RELEASES:[V1.0:2f91aec23e70d395754cfb3aa0515f236956341f:none;]
 sparkfun/IoT_Connected_Chess_Boards: BRANCHES:[master:96b3eadae1ba135b27ba41f686f7e187cf4d6add;]|RELEASES:[]
+sparkfun/SparkFun_ADXL345_Arduino_Library: BRANCHES:[master:6d795cce285d94014c294d297573e33266a4c7d5;]|RELEASES:[v1.0.0:2cf01ae30f93452a8d8633423dbfe9e0ae894216:none;]
