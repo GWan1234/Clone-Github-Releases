@@ -669,3 +669,4 @@ sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R: BRANCHES:[master:5f9ddc4a2083e7c84
 sparkfun/MicroMod_Machine_Learning_Carrier: BRANCHES:[master:9ccae940e9965de17ece010394c4597f40244c07;]|RELEASES:[]
 sparkfun/SparkFun_Air_Quality_Sensor-SGP30: BRANCHES:[master:8a0942c84583c4f852ccc8ed0fdee70b2b17d927;]|RELEASES:[]
 sparkfun/MicroMod_Weather_Carrier_Board: BRANCHES:[master:783ea26e825d8d55e11cf3bcc9c7440dcd065f48;newMicroMod-Pinout:51aefca8f451dc9e3151a9b4c551504e4ac5b26b;]|RELEASES:[]
+sparkfun/MicroMod_Processor_Board-SAMD51: BRANCHES:[master:7c85c41de81b93d6da49c199ea8284b18e1392d6;FLASH_NET_CORRECTION:abe1946998a6e56bd5fc40b75b74e100b26bd206;]|RELEASES:[v1.2:acd61f500bbd74bcf05c4084bba7b30c445b3561:none;v1.3:2355eab7571233264603431d547c1348de2ea07b:none;]
