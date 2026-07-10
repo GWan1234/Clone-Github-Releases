@@ -1164,3 +1164,4 @@ sparkfun/OpAmp_Breakout-LMV358: BRANCHES:[master:0a805d06e228d5c3a6631d51dfaceeb
 sparkfun/LilyPad_Buzzer: BRANCHES:[master:820d0404b5aca845f227a99fea8d648246d053ae;]|RELEASES:[]
 sparkfun/Shift_Register_Breakout-74HC595: BRANCHES:[master:f4b8fcbc33bc4909edb6585cc242096297a6a2ce;]|RELEASES:[]
 sparkfun/SparkFun_74HC595_Arduino_Library: BRANCHES:[master:59968e70f8e5d27bcf976a87cc8d145b51313e5b;]|RELEASES:[]
+sparkfun/ProtoScrewShield: BRANCHES:[master:605852df4a83c70640097327dbb5bf9aff870a09;]|RELEASES:[]
