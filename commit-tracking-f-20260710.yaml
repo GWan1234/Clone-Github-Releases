@@ -862,3 +862,4 @@ sparkfun/SparkFun_Thing_Plus_ESP32_C6: BRANCHES:[gh-pages:5f005f25140aac4e48e186
 sparkfun/SparkFun_Arduino_UNO_R4_Qwiic_Kit: BRANCHES:[main:9653086864a105a59a86de0f66f9e276cd9577c4;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6: BRANCHES:[gh-pages:8cfff44544cd71c7be42420a070ad6561703c107;main:242b9740cadc2667aff62b3298838541b47ff371;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_CO2_Sensor_XENSIV_PAS: BRANCHES:[gh-pages:27bdc4fd058d8b4771179a9a4f74be319250737a;main:08a65f08c40e3a63d90a3495de2a7a21fed05588;loricrotser-patch-1:a6a2535058a8acedc83557a9dc30e17a73a7f0f9;SFEMark-patch-1:963d17dd6bc35352c3e3c54659112e57c543da59;]|RELEASES:[]
+sparkfun/SparkFun_VR_IMU_Breakout_BNO086_QWIIC: BRANCHES:[gh-pages:3da7ecf4be26d7ee18af68b796e79b5b27fa59af;main:fc8ed693a5193c8faec3098f29d206dea171958e;]|RELEASES:[]
