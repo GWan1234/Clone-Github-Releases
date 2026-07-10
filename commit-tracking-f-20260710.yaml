@@ -267,3 +267,4 @@ sparkfun/phant-meta-test: BRANCHES:[master:b43a8f259cbd46832e1badbeebede9572cb22
 sparkfun/phant-meta-json: BRANCHES:[master:507e51887977b0103d80457203e3dd564bba5897;]|RELEASES:[]
 sparkfun/phant-stream-json: BRANCHES:[master:b6de7cac6bf7af426561e973c7fc7aa6f6b4e7ad;]|RELEASES:[]
 sparkfun/phant-stream-csv: BRANCHES:[master:448aeb5ef103152ecf51653118dfed1bf147386a;]|RELEASES:[]
+sparkfun/Benchtop_Power_Board_Kit: BRANCHES:[master:f38ca3b82429907dff7f212c6ffd9a9f3620a80e;]|RELEASES:[]
