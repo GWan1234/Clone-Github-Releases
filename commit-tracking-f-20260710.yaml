@@ -446,3 +446,4 @@ sparkfun/SparkFun_AS726X_Arduino_Library: BRANCHES:[master:31b2c22e04b7226a75fb2
 sparkfun/SparkFun_Si7021_Arduino_Library: BRANCHES:[main:cf83c35c759dfac6c8471cf5bd77f7e515929960;Cleanup23:55aae1c6e7cab4765f56a27165f6b85e5f07956b;]|RELEASES:[v1.0.2:eb2fcbec3dedfef450ce8093cbc317ed66dec65f:none;v1.0.3:40e224a9832c3e186983916874d063f9a197d46c:none;v1.0.4:cbc0c5a625d09dfd3c891fa799c8fbc6cb61776f:none;v1.0.5:ea75cf95031f656577459c2f9ec2fa378e07ddb4:none;v2.0.0:cf83c35c759dfac6c8471cf5bd77f7e515929960:none;]
 sparkfun/ESP32_Motion_Shield: BRANCHES:[master:e3af2a1d5dc81b891d677c65142892e82ab1cbbc;]|RELEASES:[v1.0.0a:6ba2ad3b8046fc753e67877fe5ee9a09bb941a81:none;]
 sparkfun/Variable_Load: BRANCHES:[master:71ae9ecd46493cfdd94b00d553651951da92e3f5;]|RELEASES:[]
+sparkfun/Triple_Axis_Accelerometer_Breakout-H3LIS331DL: BRANCHES:[master:590c1f0456ccbf6477d14c1ba242aed148eae6fb;]|RELEASES:[]
