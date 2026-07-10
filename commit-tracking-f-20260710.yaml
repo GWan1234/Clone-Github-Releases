@@ -716,3 +716,4 @@ sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE: BRANCHES:[master:f28ea17e638a59ea1
 sparkfun/Qwiic_PIR: BRANCHES:[master:17b39a30d9ea2ae5aa8e94abd94721c7a31928aa;]|RELEASES:[]
 sparkfun/SparkFun_PIR_Breakout: BRANCHES:[master:e1c86b1847447b501164085ba2aaa37a6c01d97a;]|RELEASES:[]
 sparkfun/ESP32_Thing_Plus_U.FL: BRANCHES:[SkeleBoard:bf424a7f526a9265d2bdca4d91b7b1159baefbb4;main:cc74046280c1cc5f410adf89ca029a7923f55154;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa;]|RELEASES:[v1.0.0:7096084d57a43cf8c038ed6b9087a4903b64469c:none;]
