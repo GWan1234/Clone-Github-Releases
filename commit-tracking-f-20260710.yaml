@@ -1499,3 +1499,4 @@ HelTecAutomation/hotspot-app: BRANCHES:[main:e821b9cb2632162584e59982f7fd3ef01d7
 HelTecAutomation/Heltec-Hotspot-Docs: BRANCHES:[main:d649bc232274c0578dd9ab8bc77990f15d002a04;]|RELEASES:[]
 HelTecAutomation/lora_gateway: BRANCHES:[main:106157512cd28eb21115442be0b1645dd546d248;]|RELEASES:[]
 HelTecAutomation/packet_forwarder: BRANCHES:[main:f8113f597bc8e54fe2a55ebfda72bf35c6dbc6cb;]|RELEASES:[]
+HelTecAutomation/LoRaEinkBoard: BRANCHES:[main:39f0e14e1ce418eabcf0885017263a7cf7992df4;]|RELEASES:[]
