@@ -588,3 +588,4 @@ sparkfun/SparkFun_Bio_Sensor_Hub_Library: BRANCHES:[master:91575258e5e2c47f0f4b8
 sparkfun/Qwiic_Scale: BRANCHES:[master:ab136d756a781f9ff104c225318d1604af385aac;]|RELEASES:[]
 sparkfun/gator_log: BRANCHES:[master:5e6d7913638bfa4cbe17080481c820457ab3bfba;]|RELEASES:[]
 sparkfun/gator_environment: BRANCHES:[master:45a72f95c5a61c0071dc3e4b4b0352f73ae93114;]|RELEASES:[]
+sparkfun/gator_UV: BRANCHES:[master:b2a66cdca87a57e2a0abaceec7f283d5027b2993;]|RELEASES:[]
