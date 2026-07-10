@@ -379,3 +379,4 @@ sparkfun/LS20126_GPS_Breakout: BRANCHES:[master:7d9158c4c07b4d11d7ae7d85ccdbe5ac
 sparkfun/AT407_Tilt_Sensor: BRANCHES:[master:6f73658e943d54147d389247bafdd23984e77a25;]|RELEASES:[]
 sparkfun/Wireless_Motor_Driver_Shield: BRANCHES:[master:82ad2f51072d498ba004632e0bb4475f91d6948e;v12:82ad2f51072d498ba004632e0bb4475f91d6948e;]|RELEASES:[]
 sparkfun/MicroView_USB_Programmer: BRANCHES:[master:7057bea2c0b54db610f1ea53f22856b7026088ea;]|RELEASES:[]
+sparkfun/MicroSD_Sniffer: BRANCHES:[master:cb837970e6bd69acb9d3e0466fef1f0d04ab7078;]|RELEASES:[]
