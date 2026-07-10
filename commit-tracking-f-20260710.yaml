@@ -614,3 +614,4 @@ sparkfun/SparkFun_PL-N823_Arduino_Library: BRANCHES:[master:b284ba1e5f44627e327f
 sparkfun/SparkFun_Clock_5P49V60_Arduino_Library: BRANCHES:[master:8ac79043e37acea37d2586ebc856e552b38b6def;]|RELEASES:[v1.0:5e9ba22fa285ddd5b3ba9467dfa005907a257e48:none;v1.0.2:8ac79043e37acea37d2586ebc856e552b38b6def:none;v1.01:e016a5034748667d8d35c56cf7704ca128c53a7c:none;]
 sparkfun/qwiic_pca9685_py: BRANCHES:[main:923942cd9898c39ec78a37557049ffd51081d7ab;bugfix/error_messages:15767f99523e4f4093692db0f9650a5f8a3d3122;examples:5211074ccc27acf9808fb80e6d11758168332816;]|RELEASES:[2.0.0:310a8474948f4bb796f6bc2f35a7c974793c9c75:none;v0.9.1_test:9cfea343df58922a17f04c4df227437df83a882e:none;]
 sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0;]|RELEASES:[]
+sparkfun/SparkFun_Pulsed_Radar_A111_Example_Code: BRANCHES:[master:a08abb7fbe4c4945bcc95b83f2001f16779a0d34;]|RELEASES:[]
