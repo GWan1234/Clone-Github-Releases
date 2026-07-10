@@ -958,3 +958,4 @@ sparkfun/SparkFun_Qwiic_Directional_Pad: BRANCHES:[gh-pages:deb4c28cb96abdbd217b
 sparkfun/SparkFun_Portability_Shield: BRANCHES:[gh-pages:a6c3d0dcfcec49c89ac4f8f377c7859a1f5bcf78;main:83a5d89a236ececc067e87161313ffb67c47e3cf;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Power_Switch: BRANCHES:[gh-pages:add4db6077b203fdfbad7792e6c0eb3771a9d23c;main:53923a22dddca15f32a1b240cad53cb96e67f99f;]|RELEASES:[]
 sparkfun/SparkFun_Soft_Power_Switch_Mk2: BRANCHES:[gh-pages:5ace18e9f103db2185b55ac3e8080dd4bde390bd;main:137e85cd49428727dc839a2050e442ce9ad49f77;]|RELEASES:[]
+sparkfun/SparkFun_Soft_Power_Switch_USB-C: BRANCHES:[gh-pages:f0c2a55088d52b0778dd791487ab1dcf2617430d;main:488c64fd7a1ff7941e6fd3f5927d3fcf70d21a1e;]|RELEASES:[]
