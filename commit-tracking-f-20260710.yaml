@@ -14,3 +14,4 @@ sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2;]|RELEASES:[]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100;]|RELEASES:[]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6;]|RELEASES:[]
+sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f;]|RELEASES:[]
