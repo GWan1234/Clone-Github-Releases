@@ -1011,3 +1011,4 @@ sparkfun/SparkFun_Red_Vision_Camera_Board_HM01B0: BRANCHES:[main:8aaf35d75f856d1
 sparkfun/SparkFun_GNSS_DAN-F10N: BRANCHES:[gh-pages:8bbe13ea8f51cb806b1a8ea435cc6852a3122523;main:ab62904c31d858d433d3143909b9ae247ff00497;]|RELEASES:[]
 sparkfun/sparkfun-python: BRANCHES:[main:41919b275b9ba7df1f675242270134e40479357d;documentation/pycharm:41c07c98e52c36dfee4060444afc71624e4f454c;documentation/tmp117_server:845f5dedf07c8aa16ed56ca0ee76a88ad46cf8a9;]|RELEASES:[v0.5.0:26eea4e60905b64f9fa1c2a1efa80d9a98eea1d2:none;]
 sparkfun/SparkFun_RFID_USB-C_Reader: BRANCHES:[gh-pages:0a7909086f6d064cfb86cab6dd6e1238d0818127;main:63c7a5d71cbd1df8f9b420ec320d239ea6a86d33;]|RELEASES:[v10:42822a2a45416801c53c0341c36e8a2358feb599:none;]
+sparkfun/SparkFun_GNSS_Flex_Breakout: BRANCHES:[main:fb7d096b7e268481e1224d4a5ba1048cee8e2522;]|RELEASES:[v10:0d954bd928f4c40270928d47c96a53fa7af1911b:none;v11:a79d1f9965ca11f4a090274ef1bb0416cf26bf61:none;]
