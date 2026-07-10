@@ -1307,3 +1307,4 @@ sparkfun/ESP32_Thing: BRANCHES:[master:fb2dac4c1c493854c3db8a74acc9377a38db2b4a;
 sparkfun/74HC4051_8-Channel_Mux_Breakout: BRANCHES:[master:937d5446a825fcf739dcea2c65fb4e66cd9fd62f;]|RELEASES:[]
 sparkfun/LilyPad_LED_5pcs: BRANCHES:[master:5eaf87daa95ed151774027371fe393a3ec79ccf4;]|RELEASES:[]
 sparkfun/Spectacle_Director_Board: BRANCHES:[master:34ab748e968cc0cec4bd4b4dc0ccf6d8d91e9f73;]|RELEASES:[]
+sparkfun/CherryMX-Chord-Keyer: BRANCHES:[master:3243f6c3525daa7f4acc8c799ab4412e8a534dcf;]|RELEASES:[]
