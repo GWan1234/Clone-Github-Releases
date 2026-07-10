@@ -503,3 +503,4 @@ sparkfun/Single_Supply_Logic_Level_Converter: BRANCHES:[master:5f675f2d775cb42f4
 sparkfun/Qwiic_Distance_VL53L1X: BRANCHES:[master:543b1e2d80325a39c2585882808757361f86cc66;]|RELEASES:[]
 sparkfun/SparkFun_PCA9536_Arduino_Library: BRANCHES:[master:b7366c6377c8d536a8aedac1a13c74209523eca5;]|RELEASES:[V_0.1.0:d5418a2aa5d0e4ef45a1ae177be1a1ef240dbd82:none;V_1.0.0:19b8ae871d93f32363ffdcd7f5fc77746a4596fb:none;V_1.1.0:f2fee854802b34483c9bf91d866bfb86d6b61870:none;v1.2.0:91c89ef676d4b3a60457cf1fbc53fd873e21dd2e:none;v1.2.1:a06020e1f0aaef0989619cc5a08f1086a5db2771:none;v1.2.2:b7366c6377c8d536a8aedac1a13c74209523eca5:none;]
 sparkfun/SparkFun_BH1749NUC_Arduino_Library: BRANCHES:[master:1d15ea3ade064f7ba6d98b7226ce350d03e52fdf;]|RELEASES:[V_0.1.0:9719d2528ce80683cd805ea949aaee1c15063362:none;V_1.0.0:1d15ea3ade064f7ba6d98b7226ce350d03e52fdf:none;]
+sparkfun/IoT_Power_Relay: BRANCHES:[master:a976c32691697ff796a95948b3747fd606e105f1;]|RELEASES:[]
