@@ -1030,3 +1030,4 @@ sparkfun/SparkFun_Triple_Axis_Acclerometer-LIS3DH: BRANCHES:[main:7d6bde80688871
 sparkfun/qwiic_veml_py: BRANCHES:[master:8862be48425aacaee8c4e2ef146f037c6dc34e6e;examples:55f43b6a6f397dc33f30b5fb7611fcb22f29fd84;refactor/veml7700:fbcf15e700b0d7903470cef5817094eb1b30868e;]|RELEASES:[]
 sparkfun/SparkFun_Red_Vision_Kit_for_XRP: BRANCHES:[gh-pages:0c412ec11d63829f5753926cedd31a549183793f;main:31d1a20ecb4b9a756fe49bec1b251fb390b9d3ab;]|RELEASES:[]
 sparkfun/red_vision: BRANCHES:[main:2823b914889d1f2674053be2199fc6eda5f93d17;develop:7605aa55ba606e9b8cc717114df05756ed0cee0d;mimxrt:cd6f9e19080f4f4825f5b8ee1690b4169d736080;]|RELEASES:[v1.0.0:5afed1419dabf2f730abee3df226273fac0a720e:none;v1.1.0:2823b914889d1f2674053be2199fc6eda5f93d17:none;]
+sparkfun/SparkPNT_FP: BRANCHES:[main:73fbaf1a5d2066620ec14a7c671690d9aef97f9a;]|RELEASES:[]
