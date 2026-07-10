@@ -1246,3 +1246,4 @@ sparkfun/MyoWare_Power_Shield: BRANCHES:[master:42924ddb957ec48b65454b0b3e863fa7
 sparkfun/MyoWare_Proto_Shield: BRANCHES:[master:b21fb892f80cf272fd7e13570f228cfde7985bb4;]|RELEASES:[]
 sparkfun/SparkFun_H-Bridge_Block_for_Edison_CPP_Library: BRANCHES:[master:e05744fcdc647582f1d6545215f106144219f3e1;]|RELEASES:[]
 sparkfun/SparkFun_GPIO_Block_for_Edison_CPP_Examples: BRANCHES:[master:286dceb2738fdbfd3e499f5c7ff7a9db2c4be2c5;]|RELEASES:[]
+sparkfun/MyoWare_Cable_Shield: BRANCHES:[V11:14d3958e2afd36be670266a4669084b12828aaf6;master:b7dbd9f0928e253a6f31e007a79a6d93192b116f;revert-7-V11:dbb5a58bd498e1b060e0ad4759d7dd5c289c8580;]|RELEASES:[]
