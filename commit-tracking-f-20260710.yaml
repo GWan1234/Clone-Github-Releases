@@ -1306,3 +1306,4 @@ sparkfun/iot-hub-c-thingdev-getstartedkit: BRANCHES:[master:d48e6bf2a4f1f7504661
 sparkfun/ESP32_Thing: BRANCHES:[master:fb2dac4c1c493854c3db8a74acc9377a38db2b4a;ESP31b_Advanced:da78bd988c1359571d35b94d8e3e4566fa636243;]|RELEASES:[]
 sparkfun/74HC4051_8-Channel_Mux_Breakout: BRANCHES:[master:937d5446a825fcf739dcea2c65fb4e66cd9fd62f;]|RELEASES:[]
 sparkfun/LilyPad_LED_5pcs: BRANCHES:[master:5eaf87daa95ed151774027371fe393a3ec79ccf4;]|RELEASES:[]
+sparkfun/Spectacle_Director_Board: BRANCHES:[master:34ab748e968cc0cec4bd4b4dc0ccf6d8d91e9f73;]|RELEASES:[]
