@@ -253,3 +253,4 @@ sparkfun/ADXL377_Breakout: BRANCHES:[master:413630bb6ecc897e58fd5c60a93d403bf603
 sparkfun/Electric_Imp_Breakout: BRANCHES:[master:034f73aab36e63f81ea8029bc3cdfb0df274e38a;]|RELEASES:[]
 sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8;]|RELEASES:[]
 sparkfun/ISL29125_Breakout: BRANCHES:[master:97a4a9128a247f3f6526d20b2deab9c502e6d48e;]|RELEASES:[]
+sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-vagrantfile:ddefedf49e415f246de6137b796ab036808fcaf6;7.0:206640c0c94ae34b25c20d6d04ec8481590ffbd4;6.4:30b1b6102663893ba1b9cf891b69d7e6ce53bf0c;]|RELEASES:[]
