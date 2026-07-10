@@ -1086,3 +1086,4 @@ sparkfun/BadgerHack_Demos: BRANCHES:[master:27da2391d32d82a72ab0e46811182fa0ec00
 sparkfun/Photon_IMU_Shield: BRANCHES:[master:9a623ce2fbdea5bf9c5fbfad80330dc77cbac78b;]|RELEASES:[]
 sparkfun/LilyPad_Reed_Switch: BRANCHES:[master:f506571aaca02f01d22a90adcd81710cbc83ed1e;]|RELEASES:[]
 sparkfun/Thumb_Joystick_Breakout: BRANCHES:[master:66a9750b64dfd827c984df69e46c133945a06fed;]|RELEASES:[]
+sparkfun/microSD_Transflash_Breakout: BRANCHES:[master:452f85520c81f96c2dedbddf25c896412a55390d;QC-Rev:ea8f9ab176bfed74bf6cda1be8a3e28eb67f6cd7;]|RELEASES:[]
