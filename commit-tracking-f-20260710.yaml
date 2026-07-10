@@ -159,3 +159,4 @@ sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b
 sparkfun/TSL2561_Luminosity_Sensor_BOB: BRANCHES:[master:e2fbe173be2ccb2f266d7aa7585b99362578fbc6;]|RELEASES:[]
 sparkfun/SI4735_AM_FM_Shield: BRANCHES:[master:10e153f9238eda586dfef122093b295b96425564;]|RELEASES:[]
 sparkfun/SI4735_Breakout: BRANCHES:[master:3e7a821ad41f3319da72491d1e887c099c428376;]|RELEASES:[]
+sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d;]|RELEASES:[]
