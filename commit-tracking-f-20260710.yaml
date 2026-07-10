@@ -447,3 +447,4 @@ sparkfun/SparkFun_Si7021_Arduino_Library: BRANCHES:[main:cf83c35c759dfac6c8471cf
 sparkfun/ESP32_Motion_Shield: BRANCHES:[master:e3af2a1d5dc81b891d677c65142892e82ab1cbbc;]|RELEASES:[v1.0.0a:6ba2ad3b8046fc753e67877fe5ee9a09bb941a81:none;]
 sparkfun/Variable_Load: BRANCHES:[master:71ae9ecd46493cfdd94b00d553651951da92e3f5;]|RELEASES:[]
 sparkfun/Triple_Axis_Accelerometer_Breakout-H3LIS331DL: BRANCHES:[master:590c1f0456ccbf6477d14c1ba242aed148eae6fb;]|RELEASES:[]
+sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda9f521c05822;v20:243a88ed965572e367cc6b87e3cfa9501d8f9426;master:398c9a96426808707a5230f6aac4adc2eb47b9eb;]|RELEASES:[v1.0:398c9a96426808707a5230f6aac4adc2eb47b9eb:none;]
