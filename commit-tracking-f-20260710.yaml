@@ -1110,3 +1110,4 @@ sparkfun/Arduino_Boards: BRANCHES:[main:b2ccf64208ea990ce764fd60b109931296ad1350
 sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712: BRANCHES:[master:6e53ba8f5c9fb8d6d81a56ff6fd30e93c28245b6;Hall-Effect_Current_Sensor_Breakout-ACS723:332bba49b1037b1ef870a19c0c5bcf1de8561172;QC-Rev:03614d5468029a4ed4462f07d8cadd6784b9e61c;]|RELEASES:[]
 sparkfun/Ardumoto-Motor_Driver_Shield: BRANCHES:[master:0b50305e0bec9645f6f2dd603dead7cb72896d73;]|RELEASES:[]
 sparkfun/Line_Follower_Array: BRANCHES:[master:085d5392b6d6eb41aa79620b34c0454d9ededbc9;]|RELEASES:[]
+sparkfun/Photon_OLED_Shield: BRANCHES:[master:43df6c456e3b53d166fa6a86c93984072d38304c;]|RELEASES:[]
