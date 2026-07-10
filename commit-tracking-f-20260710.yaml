@@ -500,3 +500,4 @@ sparkfun/Qwiic_MP3_Trigger: BRANCHES:[v20:79ae24febdc21adf431d0906d25c3312d69ee4
 sparkfun/SparkFun_WiseChip_HUD_Library: BRANCHES:[master:d5d1f57303173592753691135f41b0cdce16d26a;]|RELEASES:[v1.0.0:cebbfa545ebd0371106af89321492e2f75457f45:none;v1.0.1:0c5369f1ea07bfef7ee2c71ae8ba2d1bb026e26b:none;v1.0.2:d5d1f57303173592753691135f41b0cdce16d26a:none;]
 sparkfun/SparkFun_VCNL4040_Arduino_Library: BRANCHES:[master:ecaf451941a15ab1665f6e5efb4c8753b92e6627;]|RELEASES:[v1.0.0:021f0fa55401be43c4bda1baca3b0bfbd85418ec:none;v1.0.1:b8fab2707b0071ef808fefd29310cd5030ee5702:none;v1.0.2:cd5c1c0180533412fe88a1b6a7ea45015878ec4c:none;v1.0.3:af045cc6fbf20617663b0083255c1ceb3c3fdc47:none;v1.0.4:ecaf451941a15ab1665f6e5efb4c8753b92e6627:none;]
 sparkfun/Single_Supply_Logic_Level_Converter: BRANCHES:[master:5f675f2d775cb42f4a4552231788bdc252794832;]|RELEASES:[]
+sparkfun/Qwiic_Distance_VL53L1X: BRANCHES:[master:543b1e2d80325a39c2585882808757361f86cc66;]|RELEASES:[]
