@@ -554,3 +554,4 @@ sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5
 sparkfun/LumiDrive: BRANCHES:[master:d5c3298491ebe1eed3a400d41316dbb4f61b5e61;]|RELEASES:[]
 sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd95d3548f7dadf5ad;]|RELEASES:[]
 sparkfun/Qwiic_Relay: BRANCHES:[master:68fed0ebfe4ea963a69497c696047c61dd3f1b70;]|RELEASES:[]
+sparkfun/SparkFun_UV_Sensor: BRANCHES:[master:e06622c2ed8da69be8a0b48764931f8f7e43670a;]|RELEASES:[]
