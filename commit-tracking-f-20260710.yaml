@@ -1749,3 +1749,4 @@ m5stack/M5Unit-Sonic: BRANCHES:[master:7e0007bbc58ffafa8e8eb6d778c8051dd0b56c78;
 m5stack/M5_CH55x: BRANCHES:[master:5eec408e2da41772afcbe718dc489974f9691adc;]|RELEASES:[]
 m5stack/M5-RoverC: BRANCHES:[master:cdf487a9110583bd3ccfe8f3f095e3707b40a820;]|RELEASES:[0.0.1:a36d92013405b289a9fc6ca7b48a631362bd7bf5:none;]
 m5stack/M5Hat-JoyC: BRANCHES:[master:c656bff6ca651c33d3330ceb89e0cc851dd8e48a;]|RELEASES:[0.0.1:3eccb38006add7dd9f45aff0e85292c46ce535f2:none;]
+m5stack/M5Unit-UHF-RFID: BRANCHES:[master:6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2;]|RELEASES:[0.0.1:e470ceac58884e0209408ace5db16750c7190db4:none;0.0.2:8888cdceeec723af50e03ea5d733ee5a07e08d3e:none;0.0.3:a47503693cc72adda618fb7cafdcba28a73a243f:none;0.0.4:7e715abd3f5ceb705eb2654e6a1939cfab38c0cf:none;]
