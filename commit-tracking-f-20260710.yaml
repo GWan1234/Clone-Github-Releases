@@ -302,3 +302,4 @@ sparkfun/Micro_OLED_Breakout: BRANCHES:[master:c7dd8939c905110a473beadf4ffc893d9
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c;]|RELEASES:[]
 sparkfun/phant-meta-nedb: BRANCHES:[master:3b804873221703bc3dc87a70cec4482eaa15168c;]|RELEASES:[]
 sparkfun/Electric_Imp_Shield: BRANCHES:[master:ec361a2a134e55198f7123b7b662c375d4c1b41d;]|RELEASES:[]
+sparkfun/phant-output-thermalprinter: BRANCHES:[master:ddda1cb4924c3db1ed1c694c34fb5b21bfa30548;]|RELEASES:[]
