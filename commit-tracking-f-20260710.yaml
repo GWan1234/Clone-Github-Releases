@@ -304,3 +304,4 @@ sparkfun/phant-meta-nedb: BRANCHES:[master:3b804873221703bc3dc87a70cec4482eaa151
 sparkfun/Electric_Imp_Shield: BRANCHES:[master:ec361a2a134e55198f7123b7b662c375d4c1b41d;]|RELEASES:[]
 sparkfun/phant-output-thermalprinter: BRANCHES:[master:ddda1cb4924c3db1ed1c694c34fb5b21bfa30548;]|RELEASES:[]
 sparkfun/BLE_Mate2: BRANCHES:[master:e3e69ded94b6a887e2ac5441627ae324a3e148bd;]|RELEASES:[]
+sparkfun/MOSFET_Power_Control_Kit: BRANCHES:[master:a299921f38e068ea66bd29bedf1bdf65fc806cbc;]|RELEASES:[]
