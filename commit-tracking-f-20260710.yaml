@@ -237,3 +237,4 @@ sparkfun/Electret_Microphone_Breakout: BRANCHES:[Revision:f39d4ec66b6b152b3a8748
 sparkfun/CP2102_Breakout: BRANCHES:[master:b0629d7e3b6004c158f858be66a4a197fcc62491;]|RELEASES:[]
 sparkfun/Qtechknow_ArduSensor_Learning_Kit: BRANCHES:[master:6f79ab1d7baa8e5bd22bc39dd48368bf94ab0f19;Shield_V_1.2:ba192062c09d838056ce9cd28ac1a5b97e8279b4;]|RELEASES:[]
 sparkfun/microSD_Shield: BRANCHES:[master:993693390e5300f1dc514fdfb9424026b4f4ad7f;]|RELEASES:[]
+sparkfun/RFM69HCW_Breakout: BRANCHES:[master:bbdeb90abd7d484141efe302b7735fe7d42c3550;]|RELEASES:[]
