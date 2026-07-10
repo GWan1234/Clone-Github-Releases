@@ -1238,3 +1238,4 @@ sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5
 sparkfun/SparkFun_ADC_Block_for_Edison_CPP_Library: BRANCHES:[master:b037feb0db10467eaaad2b4ba226c2376370bd99;]|RELEASES:[]
 sparkfun/SparkFun_BME280_Breakout_Board: BRANCHES:[master:91f0c754a30c304afdd3717e64423aaae459d84a;]|RELEASES:[]
 sparkfun/SparkFun_LilyPad_Simblee: BRANCHES:[master:91246f96067686128fa44e82f8ec823abce7b774;]|RELEASES:[]
+sparkfun/SparkFun_Simblee_Breakout_Board: BRANCHES:[master:3d7daac6ded81690ea06c26f1b1424fbb52256d5;]|RELEASES:[]
