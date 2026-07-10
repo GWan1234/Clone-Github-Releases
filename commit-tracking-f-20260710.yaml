@@ -451,3 +451,4 @@ sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda
 sparkfun/Qwiic_Shield_for_Photon: BRANCHES:[master:a9c7f9f2f8fd4b58a994f84d0dae2df63390fa6d;]|RELEASES:[]
 sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout: BRANCHES:[master:c05b1adf3482b8451d1671fbe98b7dc2108ef066;]|RELEASES:[]
 sparkfun/gator_bit: BRANCHES:[master:301d58877bb213064f1f0844298729e8a024c850;v20:01a89f1d0f25dafdd61a7c0b667c0f0389bbe530;v10:91baa54b2f3a31531461b881dd502c5b69ed6cab;]|RELEASES:[archive/v10:e6ed30bc809f3726794ab00081d721a00e1f4c2d:none;v1.0:1946f18c255ed24e2dfae9c41c10e22ecbaa3b44:none;]
+sparkfun/SparkFun_LIS331_Arduino_Library: BRANCHES:[master:fe80a5d5934a417b423c8477991d72708e01ac14;]|RELEASES:[v1.0.1:2cc765d2367221538f9993a6fdd4aa5fe1d26fb0:none;]
