@@ -1112,3 +1112,4 @@ sparkfun/Ardumoto-Motor_Driver_Shield: BRANCHES:[master:0b50305e0bec9645f6f2dd60
 sparkfun/Line_Follower_Array: BRANCHES:[master:085d5392b6d6eb41aa79620b34c0454d9ededbc9;]|RELEASES:[]
 sparkfun/Photon_OLED_Shield: BRANCHES:[master:43df6c456e3b53d166fa6a86c93984072d38304c;]|RELEASES:[]
 sparkfun/LSM6DS3_Breakout: BRANCHES:[master:df42bfe49b23f38f3d9cb0a94e5d3b37519db31b;]|RELEASES:[]
+sparkfun/MAX31855K_Thermocouple_Breakout: BRANCHES:[master:f8cb936036c24fd260d5842e5c0a71281a92879e;]|RELEASES:[]
