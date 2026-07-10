@@ -1530,3 +1530,4 @@ waveshareteam/High-Pricision_AD_HAT: BRANCHES:[master:e8001efc40b998fefb0e06385e
 waveshareteam/Pico_MircoPython_Examples: BRANCHES:[main:be781912874381175753128423dd5b4b3d501d13;]|RELEASES:[]
 waveshareteam/Pico_ePaper_Code: BRANCHES:[main:c9bcd84db5adf5f085353649a8a5c31492bc5fb8;]|RELEASES:[]
 waveshareteam/Pico_CapTouch_ePaper: BRANCHES:[main:da6878258c0504d8ae1cb8c896a11dacbda29642;]|RELEASES:[]
+waveshareteam/Touch_e-Paper_HAT: BRANCHES:[main:00b67c802b2e3ce5579236d3ad5e9e8b7c197be1;revert-4-main:bc009b5ad2cf42eca4f196c3e2d50be7ccebfb0a;]|RELEASES:[]
