@@ -1498,3 +1498,4 @@ HelTecAutomation/HIP: BRANCHES:[master:68879c16c1ea1f3ea29f8662ceab70023859ea20;
 HelTecAutomation/hotspot-app: BRANCHES:[main:e821b9cb2632162584e59982f7fd3ef01d77fa91;bugfix/796_follow-shortcut-offsets:a9a23782e3fe49c7cbe2715d342210ebd3af03bd;feature/606_secure-mode:0000eed1aa82dc166047f597c79a67c52765d73a;]|RELEASES:[]
 HelTecAutomation/Heltec-Hotspot-Docs: BRANCHES:[main:d649bc232274c0578dd9ab8bc77990f15d002a04;]|RELEASES:[]
 HelTecAutomation/lora_gateway: BRANCHES:[main:106157512cd28eb21115442be0b1645dd546d248;]|RELEASES:[]
+HelTecAutomation/packet_forwarder: BRANCHES:[main:f8113f597bc8e54fe2a55ebfda72bf35c6dbc6cb;]|RELEASES:[]
