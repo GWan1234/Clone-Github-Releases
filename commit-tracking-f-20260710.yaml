@@ -782,3 +782,4 @@ sparkfun/SparkFun_MyoWare_Code_Examples: BRANCHES:[main:2493e6331e28fde530fc6eb2
 sparkfun/library-registry: BRANCHES:[add_sparkfun_mcp4725:587ee7506c88bfb1bf2fbb5b7487bdfc6bf1840e;main:4ce8e27232d6c138c559bd0c170244877501dd1e;production:873f47f888e5fb4af9aa353d4baff91179fb884d;]|RELEASES:[]
 sparkfun/8_channel_level_shifter_TXS0108E: BRANCHES:[main:872df217dacca7579f99bbce2fc3ce568ef8cd6f;]|RELEASES:[]
 sparkfun/SparkFun_BMP384_Arduino_Library: BRANCHES:[main:bf75c521b371c7ff3bdabf90e04d99341d663113;]|RELEASES:[v1.0.0:c4f6451238744fdeedc14d56f3c073c43f99edf5:none;v1.0.1:80ddc706bbfaf111d4a984874e5736463c3e97ad:none;]
+sparkfun/SparkFun_ADIN1110_Arduino_Library: BRANCHES:[main:67222a42d87cf5ec33ec9a959f06a4fc987bc69a;]|RELEASES:[v1.0.0:a0e510485bf0e481c81350eea66f7f94d7cdcde5:none;]
