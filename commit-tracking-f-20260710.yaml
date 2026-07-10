@@ -1105,3 +1105,4 @@ sparkfun/MegaShield_Kit: BRANCHES:[Revision:6900f1868df9775f2ef42626e15dc4b682db
 sparkfun/USB_Host_Shield: BRANCHES:[master:ce2e7366d21c9cc57ebf09ca1d1851c2f6b5f05b;]|RELEASES:[]
 sparkfun/MP3_Trigger: BRANCHES:[master:70269588b7f73f5346ff6d2a3f9d176977c28482;]|RELEASES:[]
 sparkfun/EiBotBoard: BRANCHES:[V_2.4-Prototype:174af5816ff4ad8cf082c4035e6b5a73908bdea4;master:5634f095a19d343cd917d203350731da6121af2e;]|RELEASES:[]
+sparkfun/LilyPad_Accelerometer-ADXL335: BRANCHES:[master:bf5839c34a0a270612137c7029ebeb232741155f;]|RELEASES:[]
