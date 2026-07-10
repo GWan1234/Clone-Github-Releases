@@ -1635,3 +1635,4 @@ waveshareteam/RP2350-LCD-0.85: BRANCHES:[main:d124edf6a1a0343f2e2e1bbf6bc5018369
 waveshareteam/RP2350-Touch-ePaper-1.54: BRANCHES:[main:da8d0084225ea8bbc33e87313aafe3d75d407850;]|RELEASES:[]
 waveshareteam/ESP32-C6-Touch-LCD-1.69: BRANCHES:[main:5e84533557d749b4cc7a4f74069a60187b62c99f;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-1.46: BRANCHES:[main:fda89ff2ff32eb1bce561901225c6a36fa684237;]|RELEASES:[]
+waveshareteam/ESP32-C5-Zero: BRANCHES:[main:0dc2567a87741639be311ff0d4a60f588f63b58f;]|RELEASES:[]
