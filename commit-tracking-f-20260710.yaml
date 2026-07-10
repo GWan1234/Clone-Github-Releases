@@ -1398,3 +1398,4 @@ sparkfun/jetbot: BRANCHES:[update-SparkFun_hardware:13ea551e9733bca763e68e2f90dc
 sparkfun/SparkFun_Qwiic_Relay_Arduino_Library: BRANCHES:[master:b2e617e907f89cb23115a0aeec848dd5406c953f;]|RELEASES:[v1.0.0:d346150ec7213a2515906d5d6f9caf34f549dd21:none;v1.0.1:aceb3f980754604d41f13906cf97b7a94f8644cf:none;v1.1.1:e8075bec3d7fa8190d8078cd1e58d5325266a953:none;v1.2.0:f9f7177ac742c5d575f957282706fe08aee7c609:none;v1.3.0:ec5e190e6eb3ef08192d24e0b4ef971087e55b73:none;v1.3.1:b2e617e907f89cb23115a0aeec848dd5406c953f:none;]
 sparkfun/RedBoard_Artemis_Nano: BRANCHES:[master:2e62061e8ccc0fd7359bf5a990b46df76c59b5bc;]|RELEASES:[]
 sparkfun/RedBoard_Artemis_ATP: BRANCHES:[master:3490ebb1f6841a20e3cfba503f3beb3c6d6553ad;]|RELEASES:[]
+sparkfun/RedBoard_Artemis: BRANCHES:[master:355f65af4583694bf7c2f49c74a0c9f74d5974dd;]|RELEASES:[]
