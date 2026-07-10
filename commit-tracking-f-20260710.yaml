@@ -490,3 +490,4 @@ sparkfun/IoT_Weight_Logging_Scale: BRANCHES:[master:8ca3b20a7780ccdae75b638e4317
 sparkfun/Qwiic_Flex_Glove_Controller: BRANCHES:[master:98ef9c0e35209480c9cf1f5288c5c7142c99c8d5;]|RELEASES:[]
 sparkfun/ESP32_Thing_Plus: BRANCHES:[master:ed6d941070fa7756af6d2e24bdcfed8e27b2734a;]|RELEASES:[v1.0:0e1bb64d6130d0e94ebd215d27b29afa1bfbe037:none;v2.0:f788279e10caeafca165876d3b879107229857df:none;]
 sparkfun/Qwiic_Mux_TCA9548A: BRANCHES:[master:9548c6af9c1a74b11904dc5b28cc3f25f7cf2ecd;v1.1:56dd001df74e9eb9a9dd2ba8cd68dbdd1274345b;v1.0:572cb352dea46289121ed5c92ab57f6019adf7bd;]|RELEASES:[v10:572cb352dea46289121ed5c92ab57f6019adf7bd:none;]
+sparkfun/Qwiic_IMU_BNO080: BRANCHES:[master:b821d9c1c76c2700fa70ade7783cc522cd3cc683;]|RELEASES:[]
