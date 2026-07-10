@@ -1682,3 +1682,4 @@ m5stack/m5-hzk16: BRANCHES:[master:386e2ff3b9cd14208900081c44f17ec9a0053ffe;]|RE
 m5stack/Applications-M5PIANO: BRANCHES:[master:f1d7bb59eeb08d6a4dab07fe42c05ad74cb5d7ac;]|RELEASES:[]
 m5stack/Neopixel_board: BRANCHES:[master:4d4cb5dc746de7f7a64ec8e8d1200e94b239fead;]|RELEASES:[]
 m5stack/Applications-cam: BRANCHES:[master:61f65179939a2850d54fc7b31ffa12466059b261;]|RELEASES:[]
+m5stack/esp-adf: BRANCHES:[master:9d48930deccd86e26252721583d8f4dd525de445;sdcard:7b7e29cba9988282af315a5b15ea295023a2b405;dev-core2:59b16c7630defa18896f1cd0ca1da47dccbd7ee1;]|RELEASES:[]
