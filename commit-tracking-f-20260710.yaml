@@ -1100,3 +1100,4 @@ sparkfun/PoEthernet_Shield: BRANCHES:[master:5be941ad7820de89eaad4fb2780ee7332f4
 sparkfun/Serial_Controlled_Motor_Driver: BRANCHES:[master:7fd71f82ea8329199dde4b64aae1c48212c2e3bd;FW_V_07:9401eab49b306d6c6507cd965208ace68898347a;]|RELEASES:[]
 sparkfun/AD_Stereo_Converter-PCM1803A: BRANCHES:[master:8551f232cb40e3b6de7c3fc9bc9b32ef18cb5a4c;]|RELEASES:[]
 sparkfun/ProtoSnap-LilyPad_Dev_Simple: BRANCHES:[master:0e2dbdce40ab3acda0616fb00ab9a5aa8d59b57a;]|RELEASES:[]
+sparkfun/RFID_USB_Reader: BRANCHES:[master:10b5ce56eadbe69ca935a5e70271084da820ecab;v20:335159a0fe5063f0c996dbcfa4ad40bfaf41d575;]|RELEASES:[v10:4f1b3b3a2ca954e227055a93826480999dd949f1:none;]
