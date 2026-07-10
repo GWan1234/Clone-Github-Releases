@@ -1565,3 +1565,4 @@ waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de
 waveshareteam/Finger_Vein_Demo_Code: BRANCHES:[main:03f67c0a33c1953e5303307abc3008043c6276ea;]|RELEASES:[]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[feature/platform-bsp-ci-docs:e6b6e3cac76a62ca612ec70aded486e66cc95c0c;main:c39554b3299f86403cd36820f6fa4767c84ef5f1;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-2.06: BRANCHES:[main:a413497a9b7bf2ffb90753d2863a465a0b847481;chore/esp-idf-ci:baef3634859d7f6a0b719dc2a13540c6bf51e823;]|RELEASES:[v1.0.1:a413497a9b7bf2ffb90753d2863a465a0b847481:2026-07-08T02:35:27Z;]
+waveshareteam/WS_FingerprintF_Examples: BRANCHES:[main:66458220af3a68b6d6ece0063203829e84802f44;]|RELEASES:[]
