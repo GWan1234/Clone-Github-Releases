@@ -376,3 +376,4 @@ sparkfun/AVR_Programming_Adapter: BRANCHES:[master:949672fb47daea71f3f5592fe6b32
 sparkfun/Serial_DB9_Breakout: BRANCHES:[master:7c932f7aa8d811c91aa9eed6534348b2c6d273a9;]|RELEASES:[]
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2;]|RELEASES:[]
 sparkfun/LS20126_GPS_Breakout: BRANCHES:[master:7d9158c4c07b4d11d7ae7d85ccdbe5ac2e10c391;]|RELEASES:[]
+sparkfun/AT407_Tilt_Sensor: BRANCHES:[master:6f73658e943d54147d389247bafdd23984e77a25;]|RELEASES:[]
