@@ -153,3 +153,4 @@ sparkfun/Papilio_VGA_Wing: BRANCHES:[master:4f3bed04cba74876a11008f6cfc140fad2bf
 sparkfun/Papilio_Button_LED_Wing: BRANCHES:[master:4e5b3fefc6f0bcef773c9275237c8910655cf252;]|RELEASES:[]
 sparkfun/ADXL335_Breakout: BRANCHES:[master:a6bd15dc1c323079e7c0a6c2453a8c9bb4c61abb;]|RELEASES:[]
 sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73a9b3299e;]|RELEASES:[]
+sparkfun/SPI_Shortcut: BRANCHES:[master:5f7b38c394fce858102454b0229c626adcd4bccc;]|RELEASES:[]
