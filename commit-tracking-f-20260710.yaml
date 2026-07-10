@@ -1091,3 +1091,4 @@ sparkfun/LilyPad_Arduino_328_Main_Board: BRANCHES:[v_21:1e0f7007cbe7cec48c2dce05
 sparkfun/Low_Current_Sensor_Breakout-ACS712: BRANCHES:[master:5b634b3622c3ecf7a5c565624b8401b092ccc3c8;ACS723_v10:fb9f86237ca223f0899bc99f2573176590e0a1cc;]|RELEASES:[]
 sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000: BRANCHES:[master:e330459795e7a05b63107fdf66340e42b33b1c33;]|RELEASES:[]
 sparkfun/Photon_Proto_Shield: BRANCHES:[master:16bd90312c0018aea17482c362fe60a960e98e99;]|RELEASES:[]
+sparkfun/Sparkfun_Big_Red_Box_Proto_Board: BRANCHES:[master:e40b5c361770dddfb4438c081b69cdaf12924fa6;]|RELEASES:[]
