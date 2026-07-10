@@ -583,3 +583,4 @@ sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor: BRANCHES:[master:eadf4873d66
 sparkfun/GNSS_Chip_Antenna_Evaluation_Board: BRANCHES:[master:1e599553da466fe9c77e4b0bb4ef19a21092f4aa;]|RELEASES:[]
 sparkfun/SparkFun_u-blox_SAM-M8Q: BRANCHES:[main:5ee7b9c309cabd6f88e2d8c3587cb4244a5ce656;]|RELEASES:[]
 sparkfun/LiPo_Charger_Plus: BRANCHES:[master:9d7e84882af0dbf906813329b7b90db39ca04635;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library: BRANCHES:[master:b4abbd9eded6a82b0ad3f91c94109848b47bc6a9;]|RELEASES:[v1.0.0:2e8ea5c5d6ef0cf73986541b0877561e5233382b:none;v1.0.1:12f4841250c18c800a9ef1e3ecb1a54bf5b57d1e:none;v1.0.2:f11d892abe57f72f5e3070567792e5781dcd4dfd:none;v1.0.4:217cc82967a45d510f9e39c1f0426bc773a313e4:none;v1.1.0:b9ff83732154843ed1311bbf82e509921b7d2440:none;v1.1.1:b4abbd9eded6a82b0ad3f91c94109848b47bc6a9:none;]
