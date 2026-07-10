@@ -1296,3 +1296,4 @@ sparkfun/SparkFun_HMC6343_Arduino_Library: BRANCHES:[master:032f111dfbc4d08353f7
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0;]|RELEASES:[v2.1.1:53cab79cd61857a127450cde8ef14b3384430bf1:none;]
 sparkfun/SparkFun_Logic_Level_Shield: BRANCHES:[master:f3c47d21c0d626079eaf0d2e3bca601db9a7eb59;]|RELEASES:[]
 sparkfun/author_application: BRANCHES:[master:a6fd6571e2b2e369c09d09684e76d13113633360;]|RELEASES:[]
+sparkfun/LP55231_Breakout: BRANCHES:[master:22344d31a03233e4ea5ad2a805c65f5a140c4dda;]|RELEASES:[]
