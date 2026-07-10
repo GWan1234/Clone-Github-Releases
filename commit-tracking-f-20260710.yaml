@@ -1013,3 +1013,4 @@ sparkfun/sparkfun-python: BRANCHES:[main:41919b275b9ba7df1f675242270134e40479357
 sparkfun/SparkFun_RFID_USB-C_Reader: BRANCHES:[gh-pages:0a7909086f6d064cfb86cab6dd6e1238d0818127;main:63c7a5d71cbd1df8f9b420ec320d239ea6a86d33;]|RELEASES:[v10:42822a2a45416801c53c0341c36e8a2358feb599:none;]
 sparkfun/SparkFun_GNSS_Flex_Breakout: BRANCHES:[main:fb7d096b7e268481e1224d4a5ba1048cee8e2522;]|RELEASES:[v10:0d954bd928f4c40270928d47c96a53fa7af1911b:none;v11:a79d1f9965ca11f4a090274ef1bb0416cf26bf61:none;]
 sparkfun/SparkFun_PicoDVI_Arduino_Library: BRANCHES:[main:b70ee128c70bb9c3a77b2ac31795c482f2e56538;]|RELEASES:[v1.3.0:b70ee128c70bb9c3a77b2ac31795c482f2e56538:none;]
+sparkfun/SparkFun_Spectral_Sensor_Breakout_AS7343_Qwiic: BRANCHES:[gh-pages:b2a4667b830fedbd00a5a25d7c442dec0be668e9;main:1fe67f31c12f14d0bf9ee33aa69fab26585cef6b;]|RELEASES:[]
