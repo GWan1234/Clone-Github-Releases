@@ -1274,3 +1274,4 @@ sparkfun/Beefy_3: BRANCHES:[master:1a71bb997699b4622a6928de9686144e5ce14850;]|RE
 sparkfun/Si7021_Breakout: BRANCHES:[master:600270f12184879795f2988bb0deacb69ff727e7;]|RELEASES:[]
 sparkfun/Inventors_Kit_For_Edison_Experiments: BRANCHES:[master:5ac30df53a94fa7531a8805ae3294e229b3673b7;]|RELEASES:[]
 sparkfun/SparkFun_MLX90614_Arduino_Library: BRANCHES:[master:a2fb7586eefcb98425f9767c484ba200bfe8e574;]|RELEASES:[v1.0.1:4f7ac4a82dfc01d7321d4d585bb55f8b923f7f88:none;v1.0.2:ebee935cc0679385d5bb73e1677d8e55c817f347:none;v1.0.3:5d03e7d83b8378576280fa8825e7e74cd2662751:none;v1.1.3:9dba549951001c3f5994b75c4ea327c4b560bff3:none;v1.1.4:17be963ebc3fe25a0398cfc380139786e4a434c6:none;v1.1.5:a2fb7586eefcb98425f9767c484ba200bfe8e574:none;]
+sparkfun/MPU-9250_Breakout: BRANCHES:[master:5aa492079056d0eaf508b00d8fcd5f491e7d8d2c;v11:0071741ce39ab1ed2bfb075e692ab0be62aedef1;silk_revision:3688ebc7dade3cd7ab0d15fae77883489f3f2661;]|RELEASES:[]
