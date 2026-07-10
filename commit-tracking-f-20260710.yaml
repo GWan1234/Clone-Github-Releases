@@ -957,3 +957,4 @@ sparkfun/SparkFun_RTK_Postcard: BRANCHES:[gh-pages:e39ca190150d9ca498d161e98cfd2
 sparkfun/SparkFun_Qwiic_Directional_Pad: BRANCHES:[gh-pages:deb4c28cb96abdbd217bd62f8547274fa2062902;main:97943e7af32b431a7294c276c6518cfa115ab99d;]|RELEASES:[]
 sparkfun/SparkFun_Portability_Shield: BRANCHES:[gh-pages:a6c3d0dcfcec49c89ac4f8f377c7859a1f5bcf78;main:83a5d89a236ececc067e87161313ffb67c47e3cf;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Power_Switch: BRANCHES:[gh-pages:add4db6077b203fdfbad7792e6c0eb3771a9d23c;main:53923a22dddca15f32a1b240cad53cb96e67f99f;]|RELEASES:[]
+sparkfun/SparkFun_Soft_Power_Switch_Mk2: BRANCHES:[gh-pages:5ace18e9f103db2185b55ac3e8080dd4bde390bd;main:137e85cd49428727dc839a2050e442ce9ad49f77;]|RELEASES:[]
