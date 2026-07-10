@@ -693,3 +693,4 @@ sparkfun/OpenLog_Artemis_Geophone_Logger: BRANCHES:[main:fa40b55ad9ce827080d69ae
 sparkfun/arduino-mbed-bridge: BRANCHES:[remove-api-submodule:b239f175e5fa3c5855f685be4690d93e694abf5a;master:63a8d6b3d8f57999b7af867ceb93a6f7367ca12a;Fix-HardwareSerial-warning:471cc5124a6f4efe591ec7adc6301991d46dfa10;]|RELEASES:[]
 sparkfun/SparkFun_MicroPressure_Arduino_Library: BRANCHES:[main:a8b0e0c00829908b8be38d60c0f2da74f66281e6;release_candidate:596e297687f44ca376151a93f0e2a8539513ec53;]|RELEASES:[V1.0.0:a66647cae80f90db0824cef0707a76d3cc6acc8c:none;v1.0.1:a8b0e0c00829908b8be38d60c0f2da74f66281e6:none;]
 sparkfun/MicroMod_Input_and_Display_Carrier: BRANCHES:[master:584dcf56417b0107d3fab93dfbe4c9b66cd8819a;]|RELEASES:[]
+sparkfun/Qwiic_GPIO: BRANCHES:[master:d3fc4672ccd731266f01de194a290f7923f77d8a;]|RELEASES:[]
