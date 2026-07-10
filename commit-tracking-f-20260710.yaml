@@ -1221,3 +1221,4 @@ sparkfun/MP3_Breakout-VS1033D: BRANCHES:[master:e3918fc6009971fbd5a586d0f3cc652f
 sparkfun/Serial_USB_Adapter-Nike_iPod: BRANCHES:[master:ce1af54ab930902a1e1a923ab740f4521640a796;]|RELEASES:[]
 sparkfun/RFM22_Shield-434MHz: BRANCHES:[master:f4e95a5e7b5c34b09b5c5589f7d5ba267ecc39a3;]|RELEASES:[]
 sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c;]|RELEASES:[v1.4.2:4f40f72bcff65eaac37b7f88af941c0f5805d544:none;]
+sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library: BRANCHES:[master:a70a355406dbaf694c3858c27028fcae99191519;]|RELEASES:[V_1.0.1:c6f465ab23455aa8e830d7be836f0ef5353b152c:none;v_1.0.2:a70a355406dbaf694c3858c27028fcae99191519:none;]
