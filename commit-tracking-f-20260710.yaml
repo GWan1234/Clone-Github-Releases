@@ -735,3 +735,4 @@ sparkfun/SparkFun_Thing_Plus-RP2040: BRANCHES:[ARM_DevSummit:4bf503e659213b5ed9b
 sparkfun/ESP32-S2_Thing_Plus: BRANCHES:[main:49a7c05da8a254010d7022d4b9586dff2c6bbb9a;]|RELEASES:[]
 sparkfun/STM32_Thing_Plus: BRANCHES:[main:07b3b438afea2aadb61be81ec46792859564429e;]|RELEASES:[]
 sparkfun/MicroMod_STM32_Processor: BRANCHES:[main:419f9807fba00844d928c920a6be062b85855e37;v20-shuffle-UARTs-for-DFU:0506c759de1f370766364b2bb9c7ad79f96e74d2;]|RELEASES:[]
+sparkfun/MicroMod_Qwiic_Carrier: BRANCHES:[main:78179683f97ab28fa30ae4ef2dbc2a3c1b22291b;]|RELEASES:[]
