@@ -1629,3 +1629,4 @@ waveshareteam/5inch_e-Paper: BRANCHES:[main:40e88e349afb5a222449279a5a4653494d9e
 waveshareteam/ESP32-S3-Touch-AMOLED-1.43C: BRANCHES:[main:3ac3f7f5a4f1bf7db35d85bed2bd553cd89d2a16;]|RELEASES:[]
 waveshareteam/1.54inch-Touch-LCD-Module: BRANCHES:[main:f3a58436b584baf71f8c4bac80f604582a66132f;]|RELEASES:[]
 waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c158371e03be;]|RELEASES:[]
+waveshareteam/ESP32-S3-RGB-Matrix: BRANCHES:[main:316517a0d3e087d38cb67db45e6f210442be1005;]|RELEASES:[]
