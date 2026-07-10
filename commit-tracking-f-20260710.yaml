@@ -1052,3 +1052,4 @@ sparkfun/SparkFun_GNSS_HLA: BRANCHES:[main:beceac86165bc674edeca322b25fa05af056e
 sparkfun/arduino-esp32: BRANCHES:[master:2a569868e88d1cb133ed32f0ea731deedc723abc;]|RELEASES:[]
 sparkfun/SparkFun_SSD168x_I2C_Interface_Library: BRANCHES:[Facet_FP:14c2c55a5acb5bc9dbbfb071becddb759f34c6e4;main:3cf7d5d2b5a3910257444a81c8ace26e7be2e1c4;]|RELEASES:[]
 sparkfun/SparkFun_STM32CubeCLT: BRANCHES:[main:7548c21494412e63b8283270b8831d7ff34fcc09;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_DAC_MCP4725: BRANCHES:[main:c30a43e73336937f9e71cb3a0a6a7e099a615832;]|RELEASES:[v1.0.0:c30a43e73336937f9e71cb3a0a6a7e099a615832:none;]
