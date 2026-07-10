@@ -708,3 +708,4 @@ sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library: BRANCHES:[master:2dc
 sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c261e82f5de;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_ADXL313: BRANCHES:[master:5f15aca1894d33566769ece01f224c04295b9f75;]|RELEASES:[]
 sparkfun/Qwiic_GPS_Clock_Project: BRANCHES:[master:bfb9b468e3c88eb5258ca3257ebae2b8113cebef;]|RELEASES:[]
+sparkfun/nRF9160_Thing_Plus: BRANCHES:[dev:1641ed6710b3c453dff46d2d2d7df33f9643b884;main:d4f0351b7630d64f2dfbd20d3225293e31c97f5c;]|RELEASES:[]
