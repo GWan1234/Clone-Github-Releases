@@ -541,3 +541,4 @@ sparkfun/SparkFun_SerLCD_Arduino_Library: BRANCHES:[master:4b1fd6b97f1f21731f4e3
 sparkfun/Qwiic_Spectral_Sensor_AS7265x: BRANCHES:[master:947b94fb5407f9b6affda4a59a732ce9a1e6d140;]|RELEASES:[]
 sparkfun/ESP32_LoRa_1Ch_Gateway: BRANCHES:[main:7877033edce123da7e5aaa5d715a9e906f44a343;]|RELEASES:[]
 sparkfun/ESP8266_WiFi_IR_Blaster: BRANCHES:[master:c83f311c1ac7a4ad0063cb75b9e53b5a586efaec;]|RELEASES:[]
+sparkfun/Sparkfun_SAMD21_Pro_RF_Arduino_Examples: BRANCHES:[master:0ae451cfb1e8c61f3ac6e184345e85fbe1151b08;]|RELEASES:[]
