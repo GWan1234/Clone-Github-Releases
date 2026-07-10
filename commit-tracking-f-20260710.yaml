@@ -326,3 +326,4 @@ sparkfun/Mega_Pro: BRANCHES:[master:a5c9e6562c612b6e23a4c90998fd0b48711d0904;v_1
 sparkfun/Edison_Battery_Block: BRANCHES:[master:7f123c3883c4510620ad29da9a627db0399efa7c;]|RELEASES:[]
 sparkfun/Edison_Micro_SD_Block: BRANCHES:[master:d03e0de437046e3637e94fecb9454dd63d959f00;]|RELEASES:[]
 sparkfun/Edison_GPIO_Block: BRANCHES:[master:9227b280c031cd8f25467adebc820bf22b5fd24c;]|RELEASES:[]
+sparkfun/Edison_I2C_Breakout_Block: BRANCHES:[master:35d92c41a4a84ffa396a8ea101f6de0adf0ba0af;]|RELEASES:[]
