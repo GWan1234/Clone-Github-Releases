@@ -559,3 +559,4 @@ sparkfun/Serial_Basic_Breakout-CH340C: BRANCHES:[master:64dd9928e713b7d1cf92457a
 sparkfun/USB-C-Breakout: BRANCHES:[master:c37b0849e0db8a6f9a3df06f9301f303fe85cd8f;]|RELEASES:[]
 sparkfun/Qwiic_Twist: BRANCHES:[master:f9bbde3fad9b549a7cbdb31b192a003f8ffae182;]|RELEASES:[v1.1:539b84d2812506dc7f47034069b4e6450392da66:none;]
 sparkfun/SparkFun_TouchInput_Arduino_Library: BRANCHES:[master:89031a406c1f65415f945b8e6401fa514b69ab0c;]|RELEASES:[v1.0.0:89031a406c1f65415f945b8e6401fa514b69ab0c:none;]
+sparkfun/SparkFun_TouchInput_Driver_FT5xx6: BRANCHES:[master:4ee2b3bfbd70a2ef8e904fcbf9cb1aae062b21bb;]|RELEASES:[v1.0.0:4ee2b3bfbd70a2ef8e904fcbf9cb1aae062b21bb:none;]
