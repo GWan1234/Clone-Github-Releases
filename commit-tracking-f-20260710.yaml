@@ -463,3 +463,4 @@ sparkfun/Papa_Soundie_Audio_Player: BRANCHES:[master:4e9ec89fd3c340a151444ce6ca9
 sparkfun/SIK_Case_Inserts: BRANCHES:[master:33ffefbba9155603f6c9efab0200b3219ab83c34;]|RELEASES:[]
 sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0cf99b0a71cd;]|RELEASES:[]
 sparkfun/LilyPad_ProtoSnap_Plus_Activity_Guide: BRANCHES:[master:58e8fa2d7b3fb724b15ba98bd5453c01c52ec4bd;]|RELEASES:[]
+sparkfun/SparkFun_SSD1320_OLED_Arduino_Library: BRANCHES:[master:cbfcaae428b470f72525c24e944d2e5ed9f87a94;]|RELEASES:[v1.0.3:e8fd575f03b0f2379d1970d7c69bb93580d12a75:none;v1.0.4:cbfcaae428b470f72525c24e944d2e5ed9f87a94:none;]
