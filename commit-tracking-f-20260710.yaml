@@ -169,3 +169,4 @@ sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94
 sparkfun/CC3000_WiFi_Shield: BRANCHES:[master:59a530fbfed9989e41d6febbc20d4d1115bbdf3e;]|RELEASES:[]
 sparkfun/SD-MMC_Breakout: BRANCHES:[master:d472cfaa8c39cf9efc94f010e50b85bc87eefc7b;]|RELEASES:[]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41;]|RELEASES:[]
+sparkfun/HTU21D_Breakout: BRANCHES:[master:3bc9c7be3cb5416a954aef5434316ab8740b9872;]|RELEASES:[V_H1.2_L1.1.1:c26f2ea1982414874fbcd585a18ecaec58de300b:none;v10:0ca35ce00d67e33ddb57bae1b20c05bcb0d0f6f8:none;]
