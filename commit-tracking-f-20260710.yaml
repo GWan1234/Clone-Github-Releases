@@ -1056,3 +1056,4 @@ sparkfun/SparkFun_Qwiic_DAC_MCP4725: BRANCHES:[main:c30a43e73336937f9e71cb3a0a6a
 sparkfun/SparkFun_Arduino_Library_HowTo: BRANCHES:[main:4b1f615c405689f7507bd7075efbf27ed1cec302;]|RELEASES:[v0.0.1:814d0bae8dbc66b0a95f7491c4f4c1ff133eb4d9:none;]
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee;]|RELEASES:[]
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2;]|RELEASES:[]
+HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d2d7e12b54;]|RELEASES:[V2.1:2bb4ee540445951fe5314687110a839716160115:none;V2.1.1:daa2a295f3a9272a219d904d8bda3b290112277d:none;]
