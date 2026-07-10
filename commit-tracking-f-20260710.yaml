@@ -1475,3 +1475,4 @@ sparkfun/RP2040_mikroBUS_Dev_Board: BRANCHES:[main:aac2eab129a69427a569ade4f5812
 sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX: BRANCHES:[main:19e97f0da7e9000c6e4a611269aca6bcc13f093f;]|RELEASES:[]
 sparkfun/SparkFun_AVR_ISP_Programming_Library: BRANCHES:[main:1cabbffb5f026c1bf153bf622de276be8d6da6de;]|RELEASES:[v1.0.0:1ae4afe9d6db2b1341d21e4703d7df594ba9b584:none;]
 sparkfun/OpenLog_Artemis_Serial_Logger: BRANCHES:[main:cf97459e2a6a1b040f48ed9d23c3703e25aa8528;release_candidate:bd08d824f433de2afb7ad4343d18fa2dc72e70d9;]|RELEASES:[v1.0:bd08d824f433de2afb7ad4343d18fa2dc72e70d9:none;]
+sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K: BRANCHES:[main:94fa41377b57bcb29b226d363950e9be80011ef2;fix-panel:b91dc186917e48bdeeb3b1c65f35d2a712a863d8;]|RELEASES:[]
