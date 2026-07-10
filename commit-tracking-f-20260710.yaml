@@ -1596,3 +1596,4 @@ waveshareteam/RP2350-Touch-LCD-3.5: BRANCHES:[main:c82c14715b03e32ed1ccc57703ce0
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[chore/esp-idf-ci:d8d39c157d9324bab335ece1379d4fcc930920ac;main:74d1a8117ea1be5b3edd0e03999d750fb59a2a4f;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-4.3: BRANCHES:[master:316013ce20c0148c1233d7ccfa1b7c8e286a8400;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-4.3B: BRANCHES:[master:334dc256caa647fec910bd6bc0fc7051e18f9270;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:cb7b7723e5407d4239479b59801f9c3649542945;]|RELEASES:[]
