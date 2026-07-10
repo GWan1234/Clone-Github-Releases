@@ -861,3 +861,4 @@ sparkfun/SparkFun_PCA9846_Mux_Arduino_Library: BRANCHES:[main:224080c9d4849df533
 sparkfun/SparkFun_Thing_Plus_ESP32_C6: BRANCHES:[gh-pages:5f005f25140aac4e48e1864733fa2d6042b39ed8;main:fb7352f770b885fa9d5767bd25a168b90a11d4e5;]|RELEASES:[]
 sparkfun/SparkFun_Arduino_UNO_R4_Qwiic_Kit: BRANCHES:[main:9653086864a105a59a86de0f66f9e276cd9577c4;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6: BRANCHES:[gh-pages:8cfff44544cd71c7be42420a070ad6561703c107;main:242b9740cadc2667aff62b3298838541b47ff371;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_CO2_Sensor_XENSIV_PAS: BRANCHES:[gh-pages:27bdc4fd058d8b4771179a9a4f74be319250737a;main:08a65f08c40e3a63d90a3495de2a7a21fed05588;loricrotser-patch-1:a6a2535058a8acedc83557a9dc30e17a73a7f0f9;SFEMark-patch-1:963d17dd6bc35352c3e3c54659112e57c543da59;]|RELEASES:[]
