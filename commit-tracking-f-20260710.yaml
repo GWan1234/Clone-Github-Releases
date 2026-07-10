@@ -571,3 +571,4 @@ sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f
 sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052;]|RELEASES:[v1.0.0:460ca4d3a3ac9660cab9d34af65df049b5db1633:none;v1.0.1:f3d12ae7d5ac572804a3bdcbc93078218b60bf25:none;v1.0.2:6087a3ddaf7f74cfd970503c2d896788fde1f052:none;]
 sparkfun/Qwiic_Proximity_Sensor: BRANCHES:[master:af01991774b84238a18030e7f02f67c530ec456c;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_RFID_ID-XXLA: BRANCHES:[master:78989e5954a674eb3848a7ec43b353622003aab9;]|RELEASES:[]
+sparkfun/SparkFun_LumiDrive_Example_Code: BRANCHES:[master:6d111d75e2b671ddd8ef19870f17dc023d62e7bf;]|RELEASES:[]
