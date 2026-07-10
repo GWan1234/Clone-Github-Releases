@@ -1754,3 +1754,4 @@ m5stack/M5-DLight: BRANCHES:[master:1b45195bab7242ec00af1b8fa45654338697ad27;]|R
 m5stack/toit-m5stack-core2: BRANCHES:[main:7de6c6b0aeb34c6b2ccc3ff06e9348ae18760b2b;]|RELEASES:[]
 m5stack/ArduinoRS485: BRANCHES:[master:2dd70d2c3fc16626c38c1598244daab2ba508d35;]|RELEASES:[]
 m5stack/ArduinoModbus: BRANCHES:[master:f903d0acb782fee791f70f21ab96d1fc9e580d34;]|RELEASES:[]
+m5stack/IoT_BASE_SIM7020: BRANCHES:[master:63d00db80af37feec3da0a58d8bebfada71e684f;]|RELEASES:[]
