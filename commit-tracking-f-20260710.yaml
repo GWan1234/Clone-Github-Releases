@@ -1466,3 +1466,4 @@ sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d195
 sparkfun/SparkFun_WiFi_Function_Board_ESP32: BRANCHES:[main:a92944749d9c83d3ad965ad901ade45793c8e970;v11:8b019c3b57909a74dca4f43ed4c1bae490ea403c;]|RELEASES:[]
 sparkfun/MicroMod_DA16200_Function: BRANCHES:[main:32c1eef54e9f28ddad6e60a04e238d7b3aca8912;]|RELEASES:[]
 sparkfun/Qwiic_AS6212_Py: BRANCHES:[main:87e19908e66b7f014efb87947a133bedcaf17e1c;]|RELEASES:[v0.0.2_test:87e19908e66b7f014efb87947a133bedcaf17e1c:none;]
+sparkfun/MicroMod_Environmental_Sensor_Function_Board: BRANCHES:[main:c6f51f267769d986756010689eedf3f9f950f0a3;v11:b500e62a18146ab6ad6f33de8b23c6d72ca3f51a;]|RELEASES:[]
