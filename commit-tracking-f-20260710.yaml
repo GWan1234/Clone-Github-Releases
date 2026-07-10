@@ -1102,3 +1102,4 @@ sparkfun/AD_Stereo_Converter-PCM1803A: BRANCHES:[master:8551f232cb40e3b6de7c3fc9
 sparkfun/ProtoSnap-LilyPad_Dev_Simple: BRANCHES:[master:0e2dbdce40ab3acda0616fb00ab9a5aa8d59b57a;]|RELEASES:[]
 sparkfun/RFID_USB_Reader: BRANCHES:[master:10b5ce56eadbe69ca935a5e70271084da820ecab;v20:335159a0fe5063f0c996dbcfa4ad40bfaf41d575;]|RELEASES:[v10:4f1b3b3a2ca954e227055a93826480999dd949f1:none;]
 sparkfun/MegaShield_Kit: BRANCHES:[Revision:6900f1868df9775f2ef42626e15dc4b682db101c;master:6a8d8c5b322ff01a5e9da841db1263416c2afada;]|RELEASES:[]
+sparkfun/USB_Host_Shield: BRANCHES:[master:ce2e7366d21c9cc57ebf09ca1d1851c2f6b5f05b;]|RELEASES:[]
