@@ -790,3 +790,4 @@ sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library: BRANCHES:[main:31c9ca39069ed3
 sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA: BRANCHES:[main:a6d2ec7928ca7a622ed40d157ed361ef2d9f5c07;remove-sd-socket:1d5ee6878a6a6f81f23f6a07f32eae24d7d405f3;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Universal_Auto-Detect: BRANCHES:[main:39b20cc3a9a1b1163f14fdfb8812c754926734c8;gh-pages:77c27c6c2e5da76f8eb45a7884410364b99cae94;release_candidate:69861b149464cf5f26c8ac228676f2bd65fcb98f;]|RELEASES:[v1.0.1:411fb63116d9a793d75f0dbbddb5740efc5ce9d0:none;]
 sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C: BRANCHES:[main:b5be8ef9be3940a1f722ff05084ec9b136def615;gh-pages:f66b8cdf0bacdf7ef6b8cc66b78db358af86c5c0;docs_test:5dcb612ebad7b803f385f8bce32eeeab3e21dfab;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581: BRANCHES:[main:6930241063938e0c3a6b49960bbec4178cf310d6;]|RELEASES:[]
