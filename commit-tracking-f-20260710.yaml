@@ -141,3 +141,4 @@ sparkfun/MPR121_Capacitive_Touch_Breakout: BRANCHES:[master:5d6699bb80b02e3dfca9
 sparkfun/9DOF_Razor_IMU: BRANCHES:[master:51dbea98591c547e73c2511f2339e35e4bd7ad48;v30:2865253ffa7e31ac77c2e741931da7af4e8779a4;]|RELEASES:[]
 sparkfun/LED_RingCoder_Breakout: BRANCHES:[master:2dcdf34a54d8dc723a9fcfe8e54a5f421dd4aebc;]|RELEASES:[]
 sparkfun/LED_Matrix_Serial_Interface_RedGreen: BRANCHES:[master:3ba07887a3a734b63a47c7d26bb575b1f3a72947;V_1.2:b08431c0070515ce04a68af1967263a81dc966d3;]|RELEASES:[]
+sparkfun/Fingerprint_Scanner-TTL: BRANCHES:[master:0636188ddf8206d166b9859e9f18d2bb62e65999;]|RELEASES:[v1.0.0:f62e0f5aa8bece6369cd77886d2355d899944437:none;v1.1.0:13b8ba468250b982bff12a3c950de913a089e25f:none;v1.1.1:e60554fc3ea36866072cb9026a16788b381f92d6:none;]
