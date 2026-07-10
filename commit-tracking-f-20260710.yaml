@@ -1637,3 +1637,4 @@ waveshareteam/ESP32-C6-Touch-LCD-1.69: BRANCHES:[main:5e84533557d749b4cc7a4f7406
 waveshareteam/ESP32-S3-Touch-LCD-1.46: BRANCHES:[main:fda89ff2ff32eb1bce561901225c6a36fa684237;]|RELEASES:[]
 waveshareteam/ESP32-C5-Zero: BRANCHES:[main:0dc2567a87741639be311ff0d4a60f588f63b58f;]|RELEASES:[]
 waveshareteam/core2021-xf: BRANCHES:[main:b59fb142dfdbf33b6f0f513499df7945f29a60ff;]|RELEASES:[]
+waveshareteam/ESP32-C6-LCD-0.85: BRANCHES:[main:03a98f7087eba38860512746ce893830c40e5bad;]|RELEASES:[]
