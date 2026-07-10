@@ -1747,3 +1747,4 @@ m5stack/M5Core2_Weather_Dashboard: BRANCHES:[main:35cd9654216ee94ab70bb4c12fa4f6
 m5stack/STAMP-C3: BRANCHES:[master:ee5f574e0ee2a85e696f7ab7cb8779d8646fbcf1;]|RELEASES:[]
 m5stack/M5Unit-Sonic: BRANCHES:[master:7e0007bbc58ffafa8e8eb6d778c8051dd0b56c78;]|RELEASES:[0.0.1:0e824c3715bc98ef5b1592a44d56413394feb436:none;0.0.2:0fc7fffed7d0c07e77d682e8757440510a5cbebf:none;]
 m5stack/M5_CH55x: BRANCHES:[master:5eec408e2da41772afcbe718dc489974f9691adc;]|RELEASES:[]
+m5stack/M5-RoverC: BRANCHES:[master:cdf487a9110583bd3ccfe8f3f095e3707b40a820;]|RELEASES:[0.0.1:a36d92013405b289a9fc6ca7b48a631362bd7bf5:none;]
