@@ -1067,3 +1067,4 @@ sparkfun/XBee_Module_Breakout_Board: BRANCHES:[master:5fea5904f06a562172f03b6a42
 sparkfun/FTDI_Basic_Breakout-3.3V: BRANCHES:[master:7f19f16b62e3f3e857c6f2e4e682809e38ac6ba8;]|RELEASES:[]
 sparkfun/LilyPad_Button_Board: BRANCHES:[master:7108ef23887e3ac677720aa37b0ad82e38acc886;v13:814051bafc4075f1f518f5c95b22eb8d5bcedb62;]|RELEASES:[]
 sparkfun/Qduino_Mini: BRANCHES:[master:5be21fcba848106b850f8892a76df2b9d286eeb8;original_design_based:c376e095928537378fd7f1e0499dd14ffc873b27;Qduino_Mini_Pad:f444bbbf61577e59228b70749bbfa5e9971bcdcc;]|RELEASES:[]
+sparkfun/Serial-LCD-Kit: BRANCHES:[master:79690d6e7762cb65db5b553c718d285b6d83bfab;]|RELEASES:[]
