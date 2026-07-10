@@ -313,3 +313,4 @@ sparkfun/Servo_Trigger: BRANCHES:[master:92e979266c02ae5d4a299a0ea645edb494bfdf7
 sparkfun/Voice_Recorder_Breakout-ISD1932: BRANCHES:[master:e6a5079f9f77e1330785821369ea7ca83b45624a;]|RELEASES:[]
 sparkfun/phant-input-udp: BRANCHES:[master:5b34b646a13059d31226c172f3389638c87a99ef;]|RELEASES:[]
 sparkfun/Sparkfun_Blocks_Template: BRANCHES:[master:2624d22e74e68588d33d3a39d715e043feb3de5d;]|RELEASES:[]
+sparkfun/m2x-arduino: BRANCHES:[master:cfa63b945a5bc531ef1c65451dee11133f88d722;]|RELEASES:[]
