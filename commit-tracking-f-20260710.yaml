@@ -553,3 +553,4 @@ sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield: BRANCHES:[master:ea55d9d5a
 sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5fa88ad5ff9b6e7;]|RELEASES:[]
 sparkfun/LumiDrive: BRANCHES:[master:d5c3298491ebe1eed3a400d41316dbb4f61b5e61;]|RELEASES:[]
 sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd95d3548f7dadf5ad;]|RELEASES:[]
+sparkfun/Qwiic_Relay: BRANCHES:[master:68fed0ebfe4ea963a69497c696047c61dd3f1b70;]|RELEASES:[]
