@@ -1552,3 +1552,4 @@ waveshareteam/ESP32-AIChats: BRANCHES:[master:743792ab32250a61014533a2d05a9a8962
 waveshareteam/ESP32-display-support: BRANCHES:[master:c784f6cc45b7fa446cef759ff862586e5665d786;]|RELEASES:[]
 waveshareteam/Waveshare-ESP32-components: BRANCHES:[feature/esp32-p4-wifi6-touch-lcd-3-5-bsp:f3bf5ab03368c53f31ea8991d462e886f1731baa;master:bfeb6e6d5737178cdde78b630c8118074da0a657;fix/esp-lvgl-adapter-0-6:63ac675334db62509082e182ff900bf60f21f009;fix/esp32-s3-amoled-1-8-cst-offset-0x10:241f74ab98aab76eb4cea92ca47d42395b5c57a3;fix/esp32-s3-amoled-1-8-cst-offset:9faa3d1bd3f022b60c7864bcc314110b4aee95de;]|RELEASES:[]
 waveshareteam/WAVEGO_Pro: BRANCHES:[main:3d74e86d7320a892a822739b21a2a1e62822c15a;]|RELEASES:[]
+waveshareteam/PhotoPainter: BRANCHES:[master:aaa5498d07f76fe4351225a64ff6254c78c4e2cb;Suggestions-from-other-developers:78d6db632254984b7311f8d36cc3b10e7b264ca0;]|RELEASES:[]
