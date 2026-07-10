@@ -155,3 +155,4 @@ sparkfun/ADXL335_Breakout: BRANCHES:[master:a6bd15dc1c323079e7c0a6c2453a8c9bb4c6
 sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73a9b3299e;]|RELEASES:[]
 sparkfun/SPI_Shortcut: BRANCHES:[master:5f7b38c394fce858102454b0229c626adcd4bccc;]|RELEASES:[]
 sparkfun/Logomatic: BRANCHES:[master:680561ab695e5f9b4936ecb8b619478654814bd6;v2.8:4f328c1f5bec1cfd434115f1c1592389dac22a33;]|RELEASES:[]
+sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b0e9b28c46165f292fdfa80b6;]|RELEASES:[HW_v1.0_FW_v1.0:a1d09227f57d31b224ee6de3195bcf5f69d8f535:none;]
