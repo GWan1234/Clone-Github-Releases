@@ -276,3 +276,4 @@ sparkfun/FTDI_SmartBasic: BRANCHES:[master:184af79f42584e430efd2c4980002d0b40b2a
 sparkfun/MS5803-14BA_Breakout: BRANCHES:[master:06fa9f23e3c6b21b5588d30fa55342043b2a4e08;]|RELEASES:[V_H1.0:48ae7bd6e93f9fd4b4186732e4125b8cd212db70:none;]
 sparkfun/MIDI_Shield: BRANCHES:[master:66a5664d53bd1324653deffb7326d3812cee663b;]|RELEASES:[]
 sparkfun/phant-throttler-memcache: BRANCHES:[master:5b365a7dbebabccea3a6bc138761fce40981c812;]|RELEASES:[]
+sparkfun/HMC6343_Breakout: BRANCHES:[master:fbf992ea2d4b75a3d542096c5980e1a0421aec73;]|RELEASES:[]
