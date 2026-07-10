@@ -1587,3 +1587,4 @@ waveshareteam/ESP32-S3-Touch-AMOLED-1.75C: BRANCHES:[chore/esp-idf-ci:d38b05508e
 waveshareteam/ESP32-S3-Touch-LCD-4.3C: BRANCHES:[main:2abc815238a779a89095d043c4ceb365a3b3c11c;update-readme:9cb0058af562e5c4efc1b89481784382ebfaf9a0;dev:c7954909c8e3f5ab58af377d0a70d68781495656;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.75: BRANCHES:[chore/repository-modernization:021fc0d1458523dd4b2edca9a9da75eee6501876;chore/esp-idf-ci:de02568d0498775bdae8fd7665f990b98d03c6b7;main:d02d52d2c9c55ec0a5ca359ce5a7412913fd250e;]|RELEASES:[]
 waveshareteam/Git-Tutorial: BRANCHES:[main:584b967d8a42f02de209fb8e087e50da80e79831;]|RELEASES:[]
+waveshareteam/javen-waveshare-code: BRANCHES:[javen:c09d5f6eb6ef055094ad9ba9c3b3240bf9223529;master:e81486c57b63352692382053496ee24a9ab74574;]|RELEASES:[]
