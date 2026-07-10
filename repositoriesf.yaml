@@ -3,7 +3,7 @@ allrepositories:
   - HelTecAutomation
   - waveshareteam
   - m5stack
-  - Seeed-Studio
+#  - Seeed-Studio
 
 
 exclude:

@@ -34,7 +34,7 @@ allrepositories:
   - Push3AX
   - DFRobot
   - OLIMEX
-
+  - Seeed-Studio
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
