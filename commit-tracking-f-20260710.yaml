@@ -67,3 +67,4 @@ sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164
 sparkfun/RedBot_Accelerometer: BRANCHES:[main:dc04b82d3abcb1f428d3d7b37406e565d15d90bc;]|RELEASES:[v14:3f4d0aee8a0f187f03871cf6c903070030d2ca79:none;]
 sparkfun/RedBot_Line_Sensor: BRANCHES:[master:81f44b0843601dd5127585ba34b0852fb47d67b0;]|RELEASES:[]
 sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51;]|RELEASES:[]
+sparkfun/WS2812_Breakout: BRANCHES:[master:80e00a06f2763d089633d80b3d5870311750e7d3;]|RELEASES:[]
