@@ -133,3 +133,4 @@ sparkfun/ADXL345_Breakout: BRANCHES:[master:8e83a624bcaea0a3071885c58634b56fbefa
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17;]|RELEASES:[v1.0:4646af3c08884bc62905b49d4bd7e6d80f458d17:none;]
 sparkfun/Touch_Shield: BRANCHES:[master:548577f29128ed19a0737ad8bb805cc0b4550519;]|RELEASES:[]
 sparkfun/MPR121_Capacitive_Touch_Keypad: BRANCHES:[master:9fce051696a88f07de22763c3a8a5505bdc5f5ad;]|RELEASES:[]
+sparkfun/IOIO-OTG: BRANCHES:[master:efb0569aef5cddbd42c02594cb7cba287000b2ee;]|RELEASES:[]
