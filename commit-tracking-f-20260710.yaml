@@ -1621,3 +1621,4 @@ waveshareteam/ESP32-S3-Touch-LCD-1.85B: BRANCHES:[main:139e6db584f3737fcfc6a958e
 waveshareteam/RP2350-Touch-LCD-1.54: BRANCHES:[main:51a7fe28c1e5dd19a089a062980a275709e94df6;]|RELEASES:[]
 waveshareteam/M.2-PCM5122-AUDIO-HAT: BRANCHES:[master:6e50d8f47a5be5f3117c8aecab8e48f66dab1bf1;]|RELEASES:[]
 waveshareteam/0.85inch-ScreenKey-Module: BRANCHES:[main:7d5f0c54384edeffe4ae17e35e8573eff8551e4b;]|RELEASES:[]
+waveshareteam/DA7212-Audio-Board-A: BRANCHES:[master:e8a74b351e9bdf813fedaffbac84aed7b9c0b368;]|RELEASES:[]
