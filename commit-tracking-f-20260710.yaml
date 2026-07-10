@@ -458,3 +458,4 @@ sparkfun/Pioneer_IoT_Kit_Shield: BRANCHES:[master:aa1541190420f0d7e0191ce20fe955
 sparkfun/RedBoard_Edge: BRANCHES:[master:186dc531b1e939833299b7234856fb3991a4389b;]|RELEASES:[]
 sparkfun/Flask_Tutorial: BRANCHES:[master:657b4d13dcba038bdccadd1d6a9108fdb8d5ae6b;]|RELEASES:[]
 sparkfun/Qwiic_Micro_OLED: BRANCHES:[master:c3ee0d437bd69ed8c1e5bce32e425c81365d2e21;]|RELEASES:[v1.0:2d9c62497590fa458a4e15f8baf91f81ced34926:none;]
+sparkfun/HC-SR04_UltrasonicSensor: BRANCHES:[master:546d01c07ed2047f20b9835cb505dd3b37467bfa;]|RELEASES:[]
