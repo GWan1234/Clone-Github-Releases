@@ -1409,3 +1409,4 @@ sparkfun/qwiic_twist_py: BRANCHES:[main:2264fa3da11af4abb6a8a69ae969e4a57630e7cd
 sparkfun/Resistance_Combinator_Calculator: BRANCHES:[master:978a57c5279fc296f5107eb17bb22f73ad60ebcd;]|RELEASES:[]
 sparkfun/gator_rtc: BRANCHES:[master:9c38f83285469dc08de33d3cf699717f76fd073c;]|RELEASES:[]
 sparkfun/pxt-gator-rtc: BRANCHES:[master:8671a2182e1c1788ef19732ffcd193a6699e9ea3;]|RELEASES:[v0.0.47:997aedc130a34c26e2c5e8a061a6de75dc993348:none;v1.1.0:17e0106649f829fe18c57de8bf14cc1cee391525:none;v1.1.1:fa90146eddf499052a84102a7d5e99cdb95aa4b3:none;v1.1.2:8671a2182e1c1788ef19732ffcd193a6699e9ea3:none;]
+sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c204fd86e037201;]|RELEASES:[]
