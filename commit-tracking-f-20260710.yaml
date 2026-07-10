@@ -29,3 +29,4 @@ sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c
 sparkfun/SevSeg: BRANCHES:[master:aeb5fcd281cbf81d700f4232cc060736e6137b6a;]|RELEASES:[V_1.0.2:9d7a9b724bc4294a0296a4304aacb79e237ae70d:none;pre_1.5:79ad3b3098577192d5cf5f56a4f2646076beeb1d:none;]
 sparkfun/SIKIO: BRANCHES:[master:643d791d741be9f33ffa67aea17a87f011f2eded;]|RELEASES:[]
 sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;QC-REV:d4529cc4fb4bf141d9ee47adcac8f184c66e1329;]|RELEASES:[]
+sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf;readme_cleanup:da949361f9a4a3e0e3a11e2271037c0231e1c785;]|RELEASES:[]
