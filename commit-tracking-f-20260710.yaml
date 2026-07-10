@@ -1542,3 +1542,4 @@ waveshareteam/linux_6.1: BRANCHES:[rpi-6.1.y:c0169f2c197d005aff8acfbc618de6e7f6b
 waveshareteam/ugv_rpi: BRANCHES:[refactor/debian12-2025.10.01-py3.11:2c9815296388576cb6f0645ffdc629d996699b78;HexArth/debian12-2025.10.01-py3.11:974b4234d66e178475611fdf7919397cf793251a;support/debian12-2025.10.1-py3.11:1054a5c13bee43daefc16d4329cfdd9f61460b53;main:3ae9f203f61bfaaf123ee376f78247d007880b0c;]|RELEASES:[]
 waveshareteam/ugv_base_ros: BRANCHES:[main:2e7df97c331ff63e1481afb34feec52014a3632a;]|RELEASES:[]
 waveshareteam/ugv_base_general: BRANCHES:[main:d308df91b333a513f45a238bef9ba9a0a5edf64c;]|RELEASES:[]
+waveshareteam/ugv_jetson: BRANCHES:[refactor/JP6.2.1-R36.4.7-U22.04-py3.10:f670c382fe9c3fcaa444d60db5061f6036ff5625;main:18e9a24590e1bfdb39a1bc24aaf8a6af820805d3;]|RELEASES:[]
