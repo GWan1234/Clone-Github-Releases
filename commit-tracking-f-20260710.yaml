@@ -1154,3 +1154,4 @@ sparkfun/Arduino_ProtoShield_Bare_PCB: BRANCHES:[master:09d0df3651ad0fe5bbf2458b
 sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0;]|RELEASES:[v1.0.1:0f8cd331ec91ff0cc04dcf98402d0729dd8790ca:none;]
 sparkfun/Sparkfun_GPS_Speedometer: BRANCHES:[master:115a8a34b04c063b056c84417eb21e7f85502317;]|RELEASES:[]
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7;]|RELEASES:[V_1.3.3:f9306a3284aff540ef1b4bc220947ff8519fa493:none;]
+sparkfun/Rotary_Encoder_Breakout-Illuminated: BRANCHES:[main:340b6eaf4db65f28a62819535cf20a27ea37afab;]|RELEASES:[]
