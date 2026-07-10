@@ -1544,3 +1544,4 @@ waveshareteam/ugv_base_ros: BRANCHES:[main:2e7df97c331ff63e1481afb34feec52014a36
 waveshareteam/ugv_base_general: BRANCHES:[main:d308df91b333a513f45a238bef9ba9a0a5edf64c;]|RELEASES:[]
 waveshareteam/ugv_jetson: BRANCHES:[refactor/JP6.2.1-R36.4.7-U22.04-py3.10:f670c382fe9c3fcaa444d60db5061f6036ff5625;main:18e9a24590e1bfdb39a1bc24aaf8a6af820805d3;]|RELEASES:[]
 waveshareteam/roarm_m2: BRANCHES:[main:c6ccc5bda2eb92df2f0850d3e63cc42b81557f4f;]|RELEASES:[]
+waveshareteam/ddsm_example: BRANCHES:[main:79bfd6f21f9f8f15c231797184a3a93bf881c8a7;]|RELEASES:[]
