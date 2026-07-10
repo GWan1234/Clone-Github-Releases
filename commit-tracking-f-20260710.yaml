@@ -1168,3 +1168,4 @@ sparkfun/ProtoScrewShield: BRANCHES:[master:605852df4a83c70640097327dbb5bf9aff87
 sparkfun/TRRS_3.5mm_Jack_Breakout: BRANCHES:[master:1e6fa3677d11380108fc276f8680482839ed4603;]|RELEASES:[]
 sparkfun/LilyPad_Light_Sensor: BRANCHES:[v14:55c170bab4d3d2ed7c2fea3c63f85d6d05e38602;master:9f8b86e4a21cf8d2e07b4cf6bd16962ed412e3e4;]|RELEASES:[]
 sparkfun/LilyPad_Power_Supply: BRANCHES:[master:8229561355fba68cc2524950453c7e5dedb31304;]|RELEASES:[]
+sparkfun/Transceiver_Breakout-nRF24L01: BRANCHES:[master:0c6c96582be98cf78d87e75cad7a73154ec408ce;]|RELEASES:[]
