@@ -454,3 +454,4 @@ sparkfun/gator_bit: BRANCHES:[master:301d58877bb213064f1f0844298729e8a024c850;v2
 sparkfun/SparkFun_LIS331_Arduino_Library: BRANCHES:[master:fe80a5d5934a417b423c8477991d72708e01ac14;]|RELEASES:[v1.0.1:2cc765d2367221538f9993a6fdd4aa5fe1d26fb0:none;]
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a;]|RELEASES:[]
 sparkfun/SparkFun_Lumenati_Code: BRANCHES:[master:35bb92baf6d8b0380b72859136fbbee597fe937c;]|RELEASES:[]
+sparkfun/Pioneer_IoT_Kit_Shield: BRANCHES:[master:aa1541190420f0d7e0191ce20fe955390f78e23d;]|RELEASES:[]
