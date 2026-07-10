@@ -1155,3 +1155,4 @@ sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[mas
 sparkfun/Sparkfun_GPS_Speedometer: BRANCHES:[master:115a8a34b04c063b056c84417eb21e7f85502317;]|RELEASES:[]
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7;]|RELEASES:[V_1.3.3:f9306a3284aff540ef1b4bc220947ff8519fa493:none;]
 sparkfun/Rotary_Encoder_Breakout-Illuminated: BRANCHES:[main:340b6eaf4db65f28a62819535cf20a27ea37afab;]|RELEASES:[]
+sparkfun/USB_microB_Plug_Breakout: BRANCHES:[master:e534f0b1974a201bee5ec862684938f72fef7685;]|RELEASES:[]
