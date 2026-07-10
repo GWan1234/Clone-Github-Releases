@@ -759,3 +759,4 @@ sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library: BRANCHES:[main:4addc5ffd7c
 sparkfun/QuickLogic_Thing_Plus: BRANCHES:[main:07d226cfc7c69327714011948f35a965764fa982;]|RELEASES:[]
 sparkfun/QwiicBus_MidPoint: BRANCHES:[main:4a813ba1ff6069cf9f8473cf5f2bc29935edf28c;master:8b8e9763f2b60376332f38a8365a87f4c9d9278b;]|RELEASES:[]
 sparkfun/SparkFun_QwiicNES_Arduino_Library: BRANCHES:[main:2a938dbcc7e4bedcf2b933e4c9b54996df7b2070;]|RELEASES:[V_1.0.0:5aa4aa994f9e0a63b71a49db88e3fa6f87657ceb:none;]
+sparkfun/Zio-Qwiic-Ultrasonic-Distance-Sensor: BRANCHES:[master:83b7207c626b1ecefc22fb962090fa9d18e7df4f;]|RELEASES:[]
