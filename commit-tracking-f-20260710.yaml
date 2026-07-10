@@ -946,3 +946,4 @@ sparkfun/Update_Firmware_Unicore_GNSS_Receiver: BRANCHES:[gh-pages:c2d760d7a315c
 sparkfun/SparkFun_IoT_Node_LoRaWAN: BRANCHES:[gh-pages:dc1f7a87f3a1448d6b727baf713e9713be5c4822;main:6a37f1db38eb141d6bb07c0275b36acf0f8edae2;]|RELEASES:[]
 sparkfun/SparkFun_SMD_LED_Light_Pipe: BRANCHES:[main:ba9a58ae0f4c132c9c9b7c4b20135b6009b66536;]|RELEASES:[]
 sparkfun/SparkFun_Magnetic_Imaging_Tile: BRANCHES:[gh-pages:23e86e1a5348549d83d6e46ffebb1857ac33e3c0;main:68fdbfbe34912c31871314c636e9bb3f5ee6eb61;]|RELEASES:[]
+sparkfun/SparkFun_GNSSDO: BRANCHES:[gh-pages:b91983d6d553d8d018bf97b0a14c5e22867abe75;main:99276ef8aa384fdf4c2efbeebd13f50c5fdc5b2a;release_candidate:2e7493c258762455490a65088b2a971c0c095ed3;]|RELEASES:[]
