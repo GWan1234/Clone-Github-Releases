@@ -1673,3 +1673,4 @@ m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254;]|
 m5stack/Applications-LidarBot: BRANCHES:[master:9a6fa899248b0ebc5f73a9e5d140b57298918ca7;]|RELEASES:[0.0.2:0aa1b47f9d8e89ede6baf97a23e45a6b7596239a:none;]
 m5stack/esp-who: BRANCHES:[master:102fca12a7349bbac25b09f0919ba3d8dba4e470;]|RELEASES:[]
 m5stack/M5-Schematic: BRANCHES:[master:686d1ec36a89046f79b57d8e9611b3868efc4868;]|RELEASES:[]
+m5stack/M5-ProductExampleCodes: BRANCHES:[master:1bc38736e61a362080d1dffc4020b3a2a1dff6ae;]|RELEASES:[]
