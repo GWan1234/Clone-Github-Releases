@@ -1354,3 +1354,4 @@ sparkfun/Vox_Imperium: BRANCHES:[master:863d1c68c67958c133433e10509325c3f2af296b
 sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f;]|RELEASES:[v1.0.0:03c1988fe9d1a4201da06b86781a7ef994b093b4:none;]
 sparkfun/Digital_Handpan: BRANCHES:[master:66779e3345e2e0624457ffb967e86e7af898af6a;]|RELEASES:[]
 sparkfun/SparkFun_HIH4030_Arduino_Library: BRANCHES:[master:ccbcdff2ab1d0c9ff3297dba97e3ebe38c497b28;]|RELEASES:[V_1.0.0:15f3446bf4bde938118941a3f59328ad8291f753:none;v1.0.1:ccbcdff2ab1d0c9ff3297dba97e3ebe38c497b28:none;]
+sparkfun/nRF52832_Breakout_Demo: BRANCHES:[master:362a06108e00fc542424c39a92246f30d3598fbc;]|RELEASES:[]
