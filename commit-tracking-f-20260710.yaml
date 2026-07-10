@@ -1087,3 +1087,4 @@ sparkfun/Photon_IMU_Shield: BRANCHES:[master:9a623ce2fbdea5bf9c5fbfad80330dc77cb
 sparkfun/LilyPad_Reed_Switch: BRANCHES:[master:f506571aaca02f01d22a90adcd81710cbc83ed1e;]|RELEASES:[]
 sparkfun/Thumb_Joystick_Breakout: BRANCHES:[master:66a9750b64dfd827c984df69e46c133945a06fed;]|RELEASES:[]
 sparkfun/microSD_Transflash_Breakout: BRANCHES:[master:452f85520c81f96c2dedbddf25c896412a55390d;QC-Rev:ea8f9ab176bfed74bf6cda1be8a3e28eb67f6cd7;]|RELEASES:[]
+sparkfun/LilyPad_Arduino_328_Main_Board: BRANCHES:[v_21:1e0f7007cbe7cec48c2dce05f526a61eac19c41a;master:4d5c5faa4f870d2f5e758cc98d93f66e3914abbc;]|RELEASES:[]
