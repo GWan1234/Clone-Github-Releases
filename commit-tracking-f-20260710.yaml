@@ -1243,3 +1243,4 @@ sparkfun/SparkFun_Phant_Particle_Library: BRANCHES:[master:7ffa389e608f93796a8a7
 sparkfun/SparkFun_MPL3115A2_Particle_Library: BRANCHES:[master:4675e7b0e59d2cfe16f23d8dac479e7bda842058;]|RELEASES:[]
 sparkfun/SparkFun_Serial_Graphic_LCD_Particle_Library: BRANCHES:[master:b7be4abded92a76fa55d5f860f45b6737cd68384;]|RELEASES:[]
 sparkfun/MyoWare_Power_Shield: BRANCHES:[master:42924ddb957ec48b65454b0b3e863fa7c76f5ff7;]|RELEASES:[]
+sparkfun/MyoWare_Proto_Shield: BRANCHES:[master:b21fb892f80cf272fd7e13570f228cfde7985bb4;]|RELEASES:[]
