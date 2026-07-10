@@ -1482,3 +1482,4 @@ sparkfun/SparkFun_Qwiic_Fan_Arduino_Library: BRANCHES:[main:f3eed9fc159f0d555669
 sparkfun/SparkFun_VEML7700_Arduino_Library: BRANCHES:[main:16936136f72ba14dc72dad936cc50d384dfc28db;develop:aee83ceb128e4cfad03293fb69ec2ecb78ac417f;]|RELEASES:[v1.0.0:580c996aa8ad721fddc0a9de9b4efcd03557201b:none;v2.0.0:d596964382f7e7c90f71cb027021a25f71963047:none;v2.0.1:16936136f72ba14dc72dad936cc50d384dfc28db:none;]
 sparkfun/SparkFun_Qwiic_Distance_Sensor-VL53L4CD: BRANCHES:[main:ce6e486fc6c8711b7bd5d1111597bd7c8a209409;]|RELEASES:[]
 sparkfun/SparkFun_MicroMod_Single_Pair_Ethernet_Function_Board_ADIN1110: BRANCHES:[main:6ea9191b95b5100c3836d1a5e6079cef426b37b6;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini: BRANCHES:[main:7fd65da847985be293768e66cb0edd819f6d763c;]|RELEASES:[]
