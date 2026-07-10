@@ -774,3 +774,4 @@ sparkfun/SparkFun_SGP4_Arduino_Library: BRANCHES:[release_candidate:9762e0951aa0
 sparkfun/SparkFun_ST25DV64KC_Arduino_Library: BRANCHES:[gh-pages:911fd26b8b57083c3d89302ee1ef2941362f989b;main:f8dbf83b38a65a32c3c4528f3b38cf709a9ad7c2;release_candidate:967c75504c8a890a4dacc990a1a9879a9a1e1724;]|RELEASES:[v1.0.0:31410d8bac77a769517cab0e4e216af225c905e1:none;]
 sparkfun/SparkFun_Thing_Plus_AW-CU488: BRANCHES:[main:8c0d87623aece93f37177357bd14fd34159ea21b;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX: BRANCHES:[main:f848874e34e034c00f4e4b8a50d073738f87817b;]|RELEASES:[]
+sparkfun/SparkFun_Thing_Plus_DA16200: BRANCHES:[main:4fff2eb159a56401665f554be41fecab7cd39b15;]|RELEASES:[]
