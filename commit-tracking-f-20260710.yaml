@@ -293,3 +293,4 @@ sparkfun/phant-reaper: BRANCHES:[master:426cda359cdf6d9ff20103072d28da9921aa1dc8
 sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9c359df9a1;]|RELEASES:[]
 sparkfun/phant-docs: BRANCHES:[gh-pages:d73c49cd151113d59f115efdc840315e3c49329b;]|RELEASES:[]
 sparkfun/Edison_Base_Block: BRANCHES:[master:44ed5369b4c45c394212bd857d462be58aafb9a0;]|RELEASES:[]
+sparkfun/RS-485_Breakout: BRANCHES:[master:08f1d60e6739cf89f001febbcf19147ea7988cf7;]|RELEASES:[]
