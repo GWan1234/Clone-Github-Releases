@@ -594,3 +594,4 @@ sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary: BRANCHES:[master:bfa948e8164
 sparkfun/gator_soil: BRANCHES:[master:318951ce4718d819b8f0ac6048b86e80543f80da;]|RELEASES:[]
 sparkfun/gator_microphone: BRANCHES:[master:1ed9d5d6f62dccd1b06fb29b8494f272b08f3d13;]|RELEASES:[]
 sparkfun/Qwiic_Keypad: BRANCHES:[Check_for_valid_numberOfBytesReceived:2efbd98b825be0280e4b57465d10a4caf8cbae84;master:3c219d96fedc362823868bff1757e3e6ec07d017;]|RELEASES:[]
+sparkfun/SparkFun_AS3935_Lightning_Detector: BRANCHES:[master:e5c68988694d06dc4b19c65a573f02f4260eb706;v1.1:49f9d2971a3b3be9db163690d52df0ebeaad1b54;]|RELEASES:[v10:8dfd21b91aa390959ea5cb8eed5894978d57bec0:none;v20:1773b52d9dd6fa30ce7277759020ed50f23c7d3d:none;]
