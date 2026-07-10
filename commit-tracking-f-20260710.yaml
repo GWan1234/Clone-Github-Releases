@@ -85,3 +85,4 @@ sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb
 sparkfun/LilyPad_MP3_Player: BRANCHES:[master:b48ac4ff34490c0d627419782a6566a18fc58f6e;libupdate:e4f4e0063af875cd879bdf6fb01900ae03e7c520;LibraryUpdate:8e48970fc7431fb6e7d6574265fad96fea42f96a;]|RELEASES:[]
 sparkfun/Audio-Sound_Breakout-WTV020SD: BRANCHES:[master:0a167ac8c499cfeb0fd5de0bce803c971a1cc8a9;v02:8adb57e1d8db2354bb1962b3f447d26584a64c76;]|RELEASES:[]
 sparkfun/Pocket_AVR_Programmer: BRANCHES:[master:c51d6f0254f8f7d08831ed9fc40d86c64035276d;]|RELEASES:[]
+sparkfun/OBD-II_UART: BRANCHES:[master:c35ae778350c3c9f5c8568319e0dbf106518fd76;]|RELEASES:[]
