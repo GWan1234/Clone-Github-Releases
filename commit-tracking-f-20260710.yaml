@@ -603,3 +603,4 @@ sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203: BRANCHES:[master:a78a8703b50e08f
 sparkfun/SparkFunDMX: BRANCHES:[master:df287d9ff83fc5ac5819e79a09a54274d4649784;]|RELEASES:[v1.0.0:acd7dc972d1bef92665611879d152e10fc79b4c2:none;v1.0.1:d23ddd9d29b373ad4a0fccb3c6e267ee51041a66:none;v1.0.2:b5402eba925563df8d5619a7a71066b3f94aba6c:none;v1.0.3:896a0847839a6b69f7562eb719678c6caf04733e:none;v1.0.4:af6c8755f5b3e7ea2bb46923048c27ba64b722e5:none;v1.0.5:f8d1fddbcf18bb37149819de9e88e224624fdf31:none;v2.0.0:17d517cd1bf88de4c8fa5aa9e2714e84a6544e8c:none;v2.0.1:df287d9ff83fc5ac5819e79a09a54274d4649784:none;]
 sparkfun/SparkFun_Artemis: BRANCHES:[master:e1d026549109ea02264e977fc1f7b8d49bcfdfe9;]|RELEASES:[]
 sparkfun/Digital_Flex_Sensor_Python_Example: BRANCHES:[master:d873842e6a9d35b0765d3bed56dc82b78b0f6479;]|RELEASES:[]
+sparkfun/BlackBoard_Artemis: BRANCHES:[master:f95261d20a6ceb144cebb26f339f782a7d12c843;]|RELEASES:[]
