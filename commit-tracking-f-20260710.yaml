@@ -1303,3 +1303,4 @@ sparkfun/Simblee-LilyPad-Fitness-Bracer: BRANCHES:[master:4165037d91f10c2d52d562
 sparkfun/SillyString_Shooter: BRANCHES:[master:28a4ecf636c2f2f387c87e998de91d7659df3b5b;]|RELEASES:[]
 sparkfun/SIK_Projects: BRANCHES:[master:402b17139da4c5e3deb3798019e2605ae2bca9cb;]|RELEASES:[]
 sparkfun/iot-hub-c-thingdev-getstartedkit: BRANCHES:[master:d48e6bf2a4f1f75046615c4770831c6400c297dd;]|RELEASES:[]
+sparkfun/ESP32_Thing: BRANCHES:[master:fb2dac4c1c493854c3db8a74acc9377a38db2b4a;ESP31b_Advanced:da78bd988c1359571d35b94d8e3e4566fa636243;]|RELEASES:[]
