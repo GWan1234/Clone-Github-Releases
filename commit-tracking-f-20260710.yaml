@@ -469,3 +469,4 @@ sparkfun/Conference_Room_Signs: BRANCHES:[master:6a9e09668601d131a099245ab1620a2
 sparkfun/Lil_Soundie_Audio_Player: BRANCHES:[master:437114696f40f7e2bba5c254e0b63266d3dc6b3b;fix_flash:88955e98cb59311f681da4d2a2bb6bba6d088989;hang_fix:2998545ed76f022eb6d23f3654553717d7a0b94c;reformat:234f819dda7878154f7f4da92c4f0f52ea2768cc;test:9fd89b2e642003703682949027a777da3ba10e01;]|RELEASES:[]
 sparkfun/Qwiic_RTC_Module: BRANCHES:[master:7a591ec26134ed17d743fb25d70210e18e025673;]|RELEASES:[]
 sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic: BRANCHES:[master:49600312278fdb7ca43ea27716a2875781affc55;]|RELEASES:[]
+sparkfun/LilyPad_ProtoSnap_Development_Board_Activity_Guide: BRANCHES:[master:934bb8cbd24fcd6cae9007551ed99136d8a63d68;]|RELEASES:[]
