@@ -748,3 +748,4 @@ sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library: BRANCHES:[main:5a33b0e
 sparkfun/Zio-Qwiic-Soil-Moisture-Sensor: BRANCHES:[master:0c6e9cdf7d3563f78d8fc841741ff25588b43321;]|RELEASES:[]
 sparkfun/Qwiic_MultiPort: BRANCHES:[main:1642f0465f6c0009816cd416eacbf85d05a7cb45;]|RELEASES:[v10:1642f0465f6c0009816cd416eacbf85d05a7cb45:none;]
 sparkfun/qwiic_soil_moisture_sensor_py: BRANCHES:[main:8d67a0eb7f2beb7cd4057dd4041e5ab2afb8e15a;feature/packaging:319826806f9c0162054e31344418f9b80d57ef84;examples:287589e4229d353a31f5d0d321ac227513def34b;]|RELEASES:[v0.1.0_test:4ab2eaba867050e97e46f0e1dfaf00b898d4f304:none;v0.1.0_test1:f78dbbd86ddf495783ba2f4cb9b3deb759b788da:none;]
+sparkfun/SparkFun_RTK_Express: BRANCHES:[main:9a1a2809881a38f75973cf141140e90c2611aff1;release_candidate:e752d84f6098c38462c89c29caf1c6c7547f1867;]|RELEASES:[v1.2:2f2cf5482294cf52162e6e4c3c522946efc56e4f:none;]
