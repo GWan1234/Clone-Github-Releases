@@ -281,3 +281,4 @@ sparkfun/MCP4725_Breakout: BRANCHES:[kicad_export:4c21acfc30262d56e12c3a3cc1713a
 sparkfun/Monster_Moto_Shield: BRANCHES:[master:0cc320981caf554b5b359a62a0d8ff98512941fe;v_10:e8f9011e8735c3574a46e8030cf4480b3b85ccd0;]|RELEASES:[]
 sparkfun/phant-notify-email: BRANCHES:[master:6ab770c25d58c6ce608c6f7d1d25a16d0564e1ea;]|RELEASES:[]
 sparkfun/Elevator_TARDIS: BRANCHES:[master:f8545d8ad3dc95a8261700fdb55f16639ba39fb0;]|RELEASES:[]
+sparkfun/FemtoBuck: BRANCHES:[master:a8c1d405c867f411621c6bb665164cd317c4679b;]|RELEASES:[v_10:7cf4cff0905765cd885f5db1726c47f5c64e1d93:none;]
