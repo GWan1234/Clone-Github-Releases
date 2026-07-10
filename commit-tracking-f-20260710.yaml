@@ -308,3 +308,4 @@ sparkfun/MOSFET_Power_Control_Kit: BRANCHES:[master:a299921f38e068ea66bd29bedf1b
 sparkfun/phant-output-statsd: BRANCHES:[master:fa63f1924ef2a67311b08c4535a35580888e1e64;]|RELEASES:[]
 sparkfun/Photo_Interrupter_Breakout: BRANCHES:[master:a2d2437948c43567ae02486b14bb44938b972bb2;]|RELEASES:[]
 sparkfun/Spectrum_Shield: BRANCHES:[master:192ccfc26bfb4e811f4de1cfec2601975889c7cb;]|RELEASES:[]
+sparkfun/phant-stream-mongodb: BRANCHES:[master:7b714cd44a642d7cd3aa9909864ad401ab6dde35;]|RELEASES:[]
