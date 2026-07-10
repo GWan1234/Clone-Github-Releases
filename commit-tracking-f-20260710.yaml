@@ -230,3 +230,4 @@ sparkfun/LED_Tactile_Button_Breakout: BRANCHES:[master:02b0b40cbba51f19f55cb8337
 sparkfun/RedBoard: BRANCHES:[vQwiic_v20:9ec0da2623e0971f2f295664f2bfb487cc318ba5;master:498b7cf536c74f1a9a3a2315bf9f8feb0d7169c9;vQwiic:cd976e17ddd90bb459acb8ac84c1dc72910b9d5c;]|RELEASES:[V_21:3687453d761c3fc161a47c36c00c5981bf949452:none;V_22:91837ef1aca56cf2db151981e9831f0b690b2d2c:none;]
 sparkfun/Tomatoless_Boots: BRANCHES:[master:2d5b88014a0d647c443909ca47dbe41caa7e8dc0;]|RELEASES:[]
 sparkfun/Beefcake_Relay_Control_Kit: BRANCHES:[master:7d54739ed93566b63e2caecabdd65577c932c0df;]|RELEASES:[]
+sparkfun/LilyPad_Arduino_Simple: BRANCHES:[master:d5d61fea9830db56d8cd3254306adcc86d66e064;v26:d1f912eb7c8374e159d9d917523104662614a25e;]|RELEASES:[]
