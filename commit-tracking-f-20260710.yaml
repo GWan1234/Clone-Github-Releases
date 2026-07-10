@@ -1462,3 +1462,4 @@ sparkfun/SparkFun_FS3000_Arduino_Library: BRANCHES:[main:bd09c1659140b2dc00e42ed
 sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library: BRANCHES:[main:0647c2ba1d2e570afe753e9cd126dc130c244721;]|RELEASES:[v2.0.0:8e97f5fcb7bdf723472f672bee51488ff86885ad:none;v2.0.1:c8dbf4a25ce7a8f098cd2a9d5bbf2e37442c526e:none;v2.0.2:37349e0e8d733646d7e62ebd9a99e326c439f2f0:none;v2.0.3:3a4b7bd90ce119ee364c863a3298312e2dedd7bb:none;v2.0.4:26ef33a9b2f4a22986d8e5ac5c055c6ba4659b5c:none;v2.0.5:669dbe2dedcb896ab2e2b5911804dd62c93eb12c:none;]
 sparkfun/SparkFun_MicroMod_Main_Board_Single: BRANCHES:[main:37b0a2d5c3d4cd9e55b0dee6b308041d89bfa151;]|RELEASES:[v1.1:68016a97e94636345488f97e3d10905c2f4e8f65:none;]
 sparkfun/SparkFun_MicroMod_Main_Board_Double: BRANCHES:[main:78a13d44dbfcab0c000adbd0bd60dc79cd5eecfb;]|RELEASES:[v1.1:a3884762d3428613daf072aa4c6460d548b45e02:none;]
+sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882;]|RELEASES:[]
