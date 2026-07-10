@@ -1335,3 +1335,4 @@ sparkfun/TeensyView: BRANCHES:[master:554030f362fefbcea2b13a9b1d0f41d9dc946607;a
 sparkfun/Mini_GPS_Shield: BRANCHES:[master:b456c6ce528dbc440b4ea35525d995482f28429c;]|RELEASES:[]
 sparkfun/Spectacle_Audio_Output_Board: BRANCHES:[master:f2aa9f375dde69a05c8d48ce1ed324dc3ddb7100;]|RELEASES:[]
 sparkfun/VReg_Temp_Mobile_App: BRANCHES:[master:00896893372e621f4ce52256b34a883979fbdaed;]|RELEASES:[]
+sparkfun/Haptic_Motor_Driver: BRANCHES:[master:a300e3885810ff5475729ed6713678cf1b613451;]|RELEASES:[v10:36dbf3b79775c89e393411a3baed5e2c745e50cb:none;v20:a300e3885810ff5475729ed6713678cf1b613451:none;]
