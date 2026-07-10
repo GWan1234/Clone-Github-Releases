@@ -1258,3 +1258,4 @@ sparkfun/SparkFun_BME280_Arduino_Library: BRANCHES:[master:870c17da1f4c76561e14b
 sparkfun/IoT_Weight_for_Treats: BRANCHES:[master:c0eded5e69ea5a8b37d2bcf70f41d73203786aca;]|RELEASES:[]
 sparkfun/GitHub_API_Scripts: BRANCHES:[master:cbf87e3e2ab2aac882af6cebc802a6beee7a962d;]|RELEASES:[]
 sparkfun/Qduino_Mini_SFE: BRANCHES:[master:db25c1f3a3a832e915dea8485503c066b3c79dfa;]|RELEASES:[]
+sparkfun/SparkFun_RHT03_Particle_Library: BRANCHES:[master:f03156d061a32dff31b52a58dc7020bc9768c075;]|RELEASES:[]
