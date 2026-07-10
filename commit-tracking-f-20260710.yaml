@@ -1608,3 +1608,4 @@ waveshareteam/ESP32-S3-LCD-0.85: BRANCHES:[main:b61ab4c443c0277843b79aaecfc916d1
 waveshareteam/ESP32-S3-LR1121-XF: BRANCHES:[main:52a2daa97a9eef3f9cdb33ec32b5f89421e36542;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-1.54: BRANCHES:[main:5157db7c888e476fd57f8a95020800377447478f;]|RELEASES:[]
 waveshareteam/Environment-X6-Sensor: BRANCHES:[main:d36b005e5df0c5b7564f94d025daebbfe490ac7d;]|RELEASES:[]
+waveshareteam/ESP32-C6-LCD-1.9: BRANCHES:[main:1fed15e32977de11afe1f710a0f5e915bfcc35a5;]|RELEASES:[]
