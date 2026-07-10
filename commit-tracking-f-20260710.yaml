@@ -117,3 +117,4 @@ sparkfun/USB_Weather_Board: BRANCHES:[master:88fa8bcc4e652d7f34292be6b1da49784c6
 sparkfun/Si4703_FM_Tuner_Evaluation_Board: BRANCHES:[master:d808bf51aa02e704b42cf8146d7121a2414fdada;]|RELEASES:[V_H1.4_L1.2.0:d808bf51aa02e704b42cf8146d7121a2414fdada:none;]
 sparkfun/ITG-3200_Breakout: BRANCHES:[master:486408ce63aec8529b3976e670cb3ef6f00e2d41;]|RELEASES:[]
 sparkfun/Analog_Digital_MUX_Breakout: BRANCHES:[master:f7f2eeb117617e67ab8442edc7ba767d19f0fd75;]|RELEASES:[]
+sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e5b00d5ee;]|RELEASES:[]
