@@ -827,3 +827,4 @@ sparkfun/SparkFun_RTK_Firmware_Uploader: BRANCHES:[main:a0944549a6b93203050f35b1
 sparkfun/SparkFun_RTK_Reference_Station: BRANCHES:[main:330216b1e20cdd2d8fc8a60b611488d7b6bebb51;]|RELEASES:[]
 sparkfun/SparkFun_Buck_Regulator_AP3429A: BRANCHES:[gh-pages:9c0267065b82b01561d94daaefabac4decb24d44;main:a125e8949eff047fc3e1804eeb9400aac1561eab;dev-backup:720b145cae9b51009ee1f4af62c0df8f892c25aa;]|RELEASES:[v01:fa93761342254e413ebdc57d8def1774b66adad6:none;]
 sparkfun/SparkFun_6DoF_LSM6DSV16X: BRANCHES:[gh-pages:f65ad575295327979942bf7e1348ce9aa0aabb04;main:81f28abb82c4edfa63f5bcc623be1ea7ef1c1ce5;]|RELEASES:[]
+sparkfun/SparkFun_LSM6DSV16X_Arduino_Library: BRANCHES:[main:2989647add0287287e1bd50b0be90596fb672ff1;]|RELEASES:[v1.0:9a93c1c830f09244307663d6738dc32d975a623c:none;v1.0.1:a69bb310de206ce442ccc2dd1eb8d5c1013f895a:none;v1.0.2:55a0aa1c9f121fe112e74a474f91f8075f209e74:none;]
