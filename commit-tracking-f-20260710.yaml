@@ -389,3 +389,4 @@ sparkfun/Adapter_Board-ICD_ICD2: BRANCHES:[master:fd771b4c17ac38ceecd4d229110e5b
 sparkfun/FT245RL_Breakout: BRANCHES:[master:c60d22fcea9ab0bd4546568f17f86778c527f78b;]|RELEASES:[]
 sparkfun/LilyPad_Tri-Color_LED: BRANCHES:[master:7d99c6ef56f90eda5652b2e4085bcd60218321a4;]|RELEASES:[v_2.0:fc80e4110e9779f501f50d65f5b0f752e534d29d:none;]
 sparkfun/Gainer_PSoC_Development_Board: BRANCHES:[master:4a255236ea3aa4835d917915a7803e5458967575;]|RELEASES:[]
+sparkfun/IR_Receiver_Breakout: BRANCHES:[master:4022f5f87ad86a3c1615da74fa1df839dba24388;]|RELEASES:[]
