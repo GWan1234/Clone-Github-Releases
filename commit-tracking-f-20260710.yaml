@@ -17,3 +17,4 @@ sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03c
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f;]|RELEASES:[]
 sparkfun/WiFly-Shield: BRANCHES:[master:1726169e58b31fa4ad44b62154ea5cbe93de8af6;]|RELEASES:[]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc;]|RELEASES:[]
+sparkfun/Simon-Says: BRANCHES:[master:32c7ea04ac092437789a491e4db02f834e090411;Trampolines:e6c5d050e62b349b4a0e230f2eaf0490ec630b8c;]|RELEASES:[]
