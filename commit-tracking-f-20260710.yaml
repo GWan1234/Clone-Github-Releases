@@ -1664,3 +1664,4 @@ m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4;]|RELEASES:[]
 m5stack/M5Stack-IDF: BRANCHES:[master:9b803b4adede63f70722a42b1b6297b2bc63ae60;]|RELEASES:[]
 m5stack/esp32-cam-demo: BRANCHES:[m5cam-psram:0f8a432364d144f91099e2298e79c8a7fc332ada;m5cam:51dd0c79916e4b1b597545d2574b8c52395ebb24;mpu6050:1b7abfdbe0fc8946a5c8efd7ecc934c12c53a00a;master:34a354663d5c15ff2501c12659ff23486c31ea6f;hw_i2c:2e01a859776deda7361c8cc463325e86c1a39a91;]|RELEASES:[]
+m5stack/m5stack_devkit: BRANCHES:[master:6230376ca0bdaf725414875a22db6146246f8e13;]|RELEASES:[]
