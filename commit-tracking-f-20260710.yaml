@@ -1359,3 +1359,4 @@ sparkfun/Roshamglo: BRANCHES:[master:a9c2cd27a19135edef5d649f66a671a1e12d1515;]|
 sparkfun/Cyber_Monday_IoT_Hobby_Kit: BRANCHES:[master:4eca2064b59130c0c33a087367f5e5f76cf318c3;]|RELEASES:[]
 sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library: BRANCHES:[master:f46b97c4dff33c83eebc775a7fce5b70df071984;]|RELEASES:[]
 sparkfun/SparkFun_TeensyView_Arduino_Library: BRANCHES:[Multi-platform:46d8735770416d46db4a3e64cd85e6867522ee65;master:d7aee96b7740f7ef59f60194572efedbb3fe0347;]|RELEASES:[]
+sparkfun/micronucleus: BRANCHES:[master:c6a337503c5144c277088d1c0a7ae3ae32546110;revert-79-libusb-1.0.20:96f59349f7136121e1ea52799ef1377d86b0dc2f;]|RELEASES:[]
