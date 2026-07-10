@@ -1082,3 +1082,4 @@ sparkfun/ProtoShield_Kit: BRANCHES:[master:c82c5b5c7a984d4d9df35782e7f86788f3085
 sparkfun/Teensy_3_1_XBee_Adapter: BRANCHES:[master:a3a78504780ae9dec4596f87e519a06a8837155f;]|RELEASES:[]
 sparkfun/Lipo_Charger_Basic-miniUSB: BRANCHES:[master:2337e59b6f3262da4831704031a2917ebb83dce3;]|RELEASES:[]
 sparkfun/Photon_Weather_Shield: BRANCHES:[V11:669629933bf56ce9d92367e4bbb0ca9ef7eeb02a;master:2630fb47acc21064e44887de41cd065ed173d62f;]|RELEASES:[]
+sparkfun/BadgerHack_Demos: BRANCHES:[master:27da2391d32d82a72ab0e46811182fa0ec000821;]|RELEASES:[]
