@@ -1195,3 +1195,4 @@ sparkfun/5-Way_Tactile_Switch_Breakout: BRANCHES:[master:ba558422b3eddeba99230d5
 sparkfun/LilyPad_Protoboard_Large: BRANCHES:[master:c28a63a0ea526e857aea5e4e3e1889ede669275d;]|RELEASES:[]
 sparkfun/On_Screen_Display_Breakout-MAX7456: BRANCHES:[master:fcb49d25b47091dc3de87961217bb567073ed8b1;]|RELEASES:[]
 sparkfun/FM_Tuner_Basic_Breakout-Si4703: BRANCHES:[master:bd5b348b039c89b253dc2b6c1805658ba16a4a94;]|RELEASES:[]
+sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d5d7283dc99060ae606d;]|RELEASES:[V_1.3.0:596d9c042aff8debcebaf86cf1414bf35ef9fd44:none;]
