@@ -1035,3 +1035,4 @@ sparkfun/SparkFun_Qwiic_Fingerprint_Sensor_FPC2534: BRANCHES:[gh-pages:e838ef2c4
 sparkfun/SparkFun_Teensy_Ethernet_Adapter: BRANCHES:[gh-pages:0d47aa5258a3ba69c09af47879f11964456d9034;main:5cfca1f4c286c33a236d1e1ab1c125c45e6b0728;v11:5ab4eb7b360922015638c6fd1e95d55294a49e02;]|RELEASES:[v1.0.0:3bf4ffa68e47b6413ac2addac97998facbab4d57:none;]
 sparkfun/SparkFun_Red_Vision_Touch_Display_for_RedBoard: BRANCHES:[main:55d207429ee28a6960ceab4883a13edf81adeecc;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_GNSS_SAM-M8Q: BRANCHES:[main:4c45d55c12864c7c771554039bac3d1ebb3cde6d;]|RELEASES:[v01:4c45d55c12864c7c771554039bac3d1ebb3cde6d:none;]
+sparkfun/SparkFun_FPC2534_Arduino_Library: BRANCHES:[main:5d0d1727ea05e79ad3c2e3c84fb933dba37f2723;develop:76fac4c7eb654387e48dbf47a5b56e9ae4b63c93;]|RELEASES:[v0.9.9:2c9ea0f209c5003ab03037b1b05082f0f38d0689:none;v1.0.0:5d0d1727ea05e79ad3c2e3c84fb933dba37f2723:none;]
