@@ -1538,3 +1538,4 @@ waveshareteam/Power-Management-HAT-B: BRANCHES:[main:5a0187336d11e2fb77e854619a1
 waveshareteam/RoArm-M1: BRANCHES:[main:03c8c4797b01eef0df1c6cde37c97ceb6cbe3bba;]|RELEASES:[]
 waveshareteam/RP2040-Touch-LCD-1.28: BRANCHES:[main:5f28bf9d543f040f8cff6cce9229cabf0e08bcf5;]|RELEASES:[]
 waveshareteam/linux: BRANCHES:[rpi-6.1.y:c0169f2c197d005aff8acfbc618de6e7f6b1ab94;]|RELEASES:[]
+waveshareteam/linux_6.1: BRANCHES:[rpi-6.1.y:c0169f2c197d005aff8acfbc618de6e7f6b1ab94;]|RELEASES:[]
