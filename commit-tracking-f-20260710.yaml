@@ -1533,3 +1533,4 @@ waveshareteam/Pico_CapTouch_ePaper: BRANCHES:[main:da6878258c0504d8ae1cb8c896a11
 waveshareteam/Touch_e-Paper_HAT: BRANCHES:[main:00b67c802b2e3ce5579236d3ad5e9e8b7c197be1;revert-4-main:bc009b5ad2cf42eca4f196c3e2d50be7ccebfb0a;]|RELEASES:[]
 waveshareteam/pico-lorawan: BRANCHES:[flash-backed-eeprom-board:4c54ffc1c385e51585f5b16569bcb8b582d3c957;main:d2d09822c292dfe3404b25006af9cda8066e47a2;]|RELEASES:[]
 waveshareteam/.github: BRANCHES:[main:dba92f42a4b18e6711c43c9c99b141bbf9bf797f;]|RELEASES:[]
+waveshareteam/Waveshare-DSI-LCD: BRANCHES:[main:0d3dcd2aa4eb65a46c98240baf326641a4c3884e;]|RELEASES:[]
