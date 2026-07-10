@@ -1600,3 +1600,4 @@ waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:cb7b7723e5407d4239479b59801
 waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:d1120ae7753acfd4ad1aa1ded73144a30dc3ec6a;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-1.85C: BRANCHES:[main:1a5454cd8baf0c97f00595b9abedb9a582aa4980;]|RELEASES:[]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:028473b3bac120d38589e1c18f8ea90daccc090c;]|RELEASES:[]
+waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda;]|RELEASES:[]
