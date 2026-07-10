@@ -1294,3 +1294,4 @@ sparkfun/USB_UART_Serial_Breakout-CY7C65213: BRANCHES:[master:b262a247b37b25de59
 sparkfun/SWE_iCON: BRANCHES:[master:7d405c3d844c0e0cada7bd15d30f6e8fa7ae2f1a;]|RELEASES:[]
 sparkfun/SparkFun_HMC6343_Arduino_Library: BRANCHES:[master:032f111dfbc4d08353f7219cfa2102b778570337;]|RELEASES:[v1.1.1:5659622d30f7697072b423163f94a7995fc511f7:none;v1.1.2:032f111dfbc4d08353f7219cfa2102b778570337:none;]
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0;]|RELEASES:[v2.1.1:53cab79cd61857a127450cde8ef14b3384430bf1:none;]
+sparkfun/SparkFun_Logic_Level_Shield: BRANCHES:[master:f3c47d21c0d626079eaf0d2e3bca601db9a7eb59;]|RELEASES:[]
