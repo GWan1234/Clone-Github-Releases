@@ -328,3 +328,4 @@ sparkfun/Edison_Micro_SD_Block: BRANCHES:[master:d03e0de437046e3637e94fecb9454dd
 sparkfun/Edison_GPIO_Block: BRANCHES:[master:9227b280c031cd8f25467adebc820bf22b5fd24c;]|RELEASES:[]
 sparkfun/Edison_I2C_Breakout_Block: BRANCHES:[master:35d92c41a4a84ffa396a8ea101f6de0adf0ba0af;]|RELEASES:[]
 sparkfun/Edison_Pi_Block: BRANCHES:[master:ff682d3ec628a3553b9e54831d7d3ba879f8f8e5;]|RELEASES:[]
+sparkfun/Edison_Arduino_Block: BRANCHES:[master:267f42c4b2452155ca24f66a2d3da049321a3a5b;]|RELEASES:[]
