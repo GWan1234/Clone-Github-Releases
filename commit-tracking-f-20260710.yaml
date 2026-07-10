@@ -714,3 +714,4 @@ sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary: BRANCHES:[master:969668b8ecb6
 sparkfun/HyperDisplay_ILI9341_ArduinoLibrary: BRANCHES:[master:058358732d9acbf13bbb02a4b11db38844fa4f90;]|RELEASES:[V1.0.0:058358732d9acbf13bbb02a4b11db38844fa4f90:none;]
 sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE: BRANCHES:[master:f28ea17e638a59ea100a1f8475279cb3386e8fd8;]|RELEASES:[]
 sparkfun/Qwiic_PIR: BRANCHES:[master:17b39a30d9ea2ae5aa8e94abd94721c7a31928aa;]|RELEASES:[]
+sparkfun/SparkFun_PIR_Breakout: BRANCHES:[master:e1c86b1847447b501164085ba2aaa37a6c01d97a;]|RELEASES:[]
