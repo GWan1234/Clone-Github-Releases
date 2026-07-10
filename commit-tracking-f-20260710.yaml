@@ -1128,3 +1128,4 @@ sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1d
 sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library: BRANCHES:[main:c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0;testing:63f4fd699484deeaa91fb70ed3d26d9970c6d8b9;]|RELEASES:[V_1.1.1:d5c5c9f44fd23db86df1f56954f548324cc2ff2a:none;V_1.1.2:fb6d08d44ba2315309895d7eef9a2eca37903248:none;v1.1.1:f133ac516346b41c370df74ef1a4e6efb06ff5c5:none;v1.1.3:00d5b8244e75600eaa5ba3574e4b543f7ecdb7f5:none;v1.1.4:c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0:none;]
 sparkfun/SparkFun_TSL2561_Arduino_Library: BRANCHES:[master:af36505969e42be712b5de45a6969016b03e9754;]|RELEASES:[]
 sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0e1d1e8a9416fa557dd299f53b521a8d81c37;]|RELEASES:[]
+sparkfun/SparkFun_MicroView_Arduino_Library: BRANCHES:[master:f5528bd78d016f62f39be00cd3b5ef8b6c120485;]|RELEASES:[]
