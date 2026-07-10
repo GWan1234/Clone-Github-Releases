@@ -271,3 +271,4 @@ sparkfun/Benchtop_Power_Board_Kit: BRANCHES:[master:f38ca3b82429907dff7f212c6ffd
 sparkfun/phant-manager-sparkfun: BRANCHES:[master:b565d3e630a780e95483d085f794054d47aa7232;remove_piwik:2ed58ce7045499e38c499e4e9e5c25a1bf756ce2;config:84407e0ed69eb5e76da0d8f9c2efddd462d46a3a;]|RELEASES:[]
 sparkfun/phant-arduino: BRANCHES:[master:be0b9a9de0f34d9fec64dc97754ae60a3ba303f8;]|RELEASES:[v1.0.0:9c7a69c46dfe7d3712fc9e89a388ab46753e1df4:none;]
 sparkfun/data.sparkfun.com: BRANCHES:[master:90110d030e91c7bec24a49ee1072ab93469a1df0;phant_schwifty:7638581f64917ac4610e76b149ec8688070c727b;stream-to-mongo:1d50531634757df1929a7a5e48f6037f4bca09b3;]|RELEASES:[]
+sparkfun/SD_Sniffer: BRANCHES:[master:5f08751556b7f49f61d63a87b705286d28fd291d;]|RELEASES:[]
