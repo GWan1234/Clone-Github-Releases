@@ -1539,3 +1539,4 @@ waveshareteam/RoArm-M1: BRANCHES:[main:03c8c4797b01eef0df1c6cde37c97ceb6cbe3bba;
 waveshareteam/RP2040-Touch-LCD-1.28: BRANCHES:[main:5f28bf9d543f040f8cff6cce9229cabf0e08bcf5;]|RELEASES:[]
 waveshareteam/linux: BRANCHES:[rpi-6.1.y:c0169f2c197d005aff8acfbc618de6e7f6b1ab94;]|RELEASES:[]
 waveshareteam/linux_6.1: BRANCHES:[rpi-6.1.y:c0169f2c197d005aff8acfbc618de6e7f6b1ab94;]|RELEASES:[]
+waveshareteam/ugv_rpi: BRANCHES:[refactor/debian12-2025.10.01-py3.11:2c9815296388576cb6f0645ffdc629d996699b78;HexArth/debian12-2025.10.01-py3.11:974b4234d66e178475611fdf7919397cf793251a;support/debian12-2025.10.1-py3.11:1054a5c13bee43daefc16d4329cfdd9f61460b53;main:3ae9f203f61bfaaf123ee376f78247d007880b0c;]|RELEASES:[]
