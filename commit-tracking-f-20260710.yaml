@@ -921,3 +921,4 @@ sparkfun/SparkFun_Qwiic_XM125_Arduino_Library: BRANCHES:[main:4d2d89c55cdbcbdecc
 sparkfun/qwiic_lsm6dso_py: BRANCHES:[master:aa07cfa170b847d8123ed2701f3988636865b8f0;feature/packaging:55d6ccc0050e78268f67a0215ada7ebbd4b1145b;examples:4dcfb7e5dada910cad42628561421d8e5038f107;]|RELEASES:[2.0.0:77d8b15f4f625264040f13d6af3fc09c13aab044:none;v0.0.1_test:faa495eca108e472801e29f33c7b0ebf9fda37cf:none;v0.0.1_test1:0b0ef3c2f226691248a8f36b97099416b2429602:none;]
 sparkfun/SparkFun_BlueSMiRF-v2_Binaries: BRANCHES:[main:ac97743dce7da76848001abb2ba2e1e06debd296;]|RELEASES:[]
 sparkfun/SparkFun_RGB_CBI: BRANCHES:[main:7e411ad9eca17adf1e508975a7ccc37e640fc150;]|RELEASES:[]
+sparkfun/SparkFun_Simultaneous_RFID_Reader_M7E: BRANCHES:[gh-pages:8710a8d4cb325bbfa6596f4e606a1dadb66cfcdd;main:750cbcb7d56fcd81a3403ac8aab84d4c991278b2;]|RELEASES:[]
