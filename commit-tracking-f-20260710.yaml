@@ -1756,3 +1756,4 @@ m5stack/ArduinoRS485: BRANCHES:[master:2dd70d2c3fc16626c38c1598244daab2ba508d35;
 m5stack/ArduinoModbus: BRANCHES:[master:f903d0acb782fee791f70f21ab96d1fc9e580d34;]|RELEASES:[]
 m5stack/IoT_BASE_SIM7020: BRANCHES:[master:63d00db80af37feec3da0a58d8bebfada71e684f;]|RELEASES:[]
 m5stack/M5Unit-KMeter: BRANCHES:[master:c4217fc8e069c6decdbf806f4fee4913249942f6;develop:d764ef6a356bdb68cfd998745fc1f90a54d0bdad;]|RELEASES:[0.0.1:fd66715bf9129b0248ccfe18a48aff34eef4ece2:none;0.0.2:72950b14900a6c90625d6bb8cccb21e612fe12ac:none;0.0.3:05af76e51c8ee10406b30237b6a2bf927ee51921:none;0.1.1:c4217fc8e069c6decdbf806f4fee4913249942f6:none;]
+m5stack/MPU6886-idf: BRANCHES:[main:636fb7e6c40796222e765b09e298d7f27ed0f4ad;]|RELEASES:[]
