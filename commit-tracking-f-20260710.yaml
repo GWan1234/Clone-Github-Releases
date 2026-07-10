@@ -315,3 +315,4 @@ sparkfun/phant-input-udp: BRANCHES:[master:5b34b646a13059d31226c172f3389638c87a9
 sparkfun/Sparkfun_Blocks_Template: BRANCHES:[master:2624d22e74e68588d33d3a39d715e043feb3de5d;]|RELEASES:[]
 sparkfun/m2x-arduino: BRANCHES:[master:cfa63b945a5bc531ef1c65451dee11133f88d722;]|RELEASES:[]
 sparkfun/Edison_PWM_Block: BRANCHES:[master:944a0e9369a9f3e0a617156ac0c0905018b991e0;]|RELEASES:[]
+sparkfun/Edison_ADC_Block: BRANCHES:[master:2ff2ae361431d845ffb789b75f7db6487891174c;]|RELEASES:[]
