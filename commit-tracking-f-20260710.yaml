@@ -432,3 +432,4 @@ sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ff
 sparkfun/Qwiic_Spectral_Sensor_AS726X: BRANCHES:[master:4a5ba39e5a32962e019a8dc454d0946af5c83de7;]|RELEASES:[]
 sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575;]|RELEASES:[]
 sparkfun/Qwiic_Shield_for_Arduino: BRANCHES:[master:6b0caeb5bf695d0aafa4904d23b4a3ab86315871;v11:6b0caeb5bf695d0aafa4904d23b4a3ab86315871;]|RELEASES:[]
+sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic: BRANCHES:[master:7087523171f5af561265c4c265e2ac88ed164452;]|RELEASES:[]
