@@ -20,3 +20,4 @@ sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0f
 sparkfun/Simon-Says: BRANCHES:[master:32c7ea04ac092437789a491e4db02f834e090411;Trampolines:e6c5d050e62b349b4a0e230f2eaf0490ec630b8c;]|RELEASES:[]
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab;]|RELEASES:[]
 sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;changes_Feb13:32ea01950876c3cdbe96bc23e5c2b2bd53921e84;]|RELEASES:[]
+sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac;]|RELEASES:[1.1.14:6019e589518335edd39cf0fa5c89933e71470c99:none;]
