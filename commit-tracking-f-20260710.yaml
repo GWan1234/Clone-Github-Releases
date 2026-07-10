@@ -997,3 +997,4 @@ sparkfun/SparkFun_GNSS_Flex_pHAT: BRANCHES:[main:20a5cb72ce28d5cd9bfebe683dcd425
 sparkfun/SparkFun_Serial_MP3_Player_Shield-MY1690X: BRANCHES:[gh-pages:4f8bb992a518936856fd7606732df199a42c41de;main:07ee9a7c96ce67d4a7f7b3508b7c5f626591dfe0;]|RELEASES:[]
 sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S: BRANCHES:[gh-pages:41ec4e7e0db90218ed71ed0302547c5dd917cae0;main:49d66d63eb43105b7dbe437cc9299c637c69c61d;]|RELEASES:[]
 sparkfun/SparkFun_GNSS_LG580P: BRANCHES:[main:0854f32d5280f7cde448ad15c994f6937f3fe73d;gh-pages:c8e930b3f32a65b7b3741cc2aad359162a2598b9;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_5V_Boost_AP3012K: BRANCHES:[gh-pages:b8190549cb07cf76158936a616703516bca63168;main:2150213414cbaf2031fed3081900049d023473f1;]|RELEASES:[v10:9ff356e569e014f23ce7c786e232c7f2df020050:none;]
