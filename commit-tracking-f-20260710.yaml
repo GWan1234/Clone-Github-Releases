@@ -1525,3 +1525,4 @@ waveshareteam/e-Paper: BRANCHES:[master:86aa9932f471a50157cf02fafadc2c1b4a965449
 waveshareteam/High-Precision-AD-DA-Board: BRANCHES:[master:bebb048a3163b4a34260afd5993ed19f28c41c18;]|RELEASES:[]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3;]|RELEASES:[]
 waveshareteam/IT8951-ePaper: BRANCHES:[master:86406933d8f22af9fd3f2152b4958610c054b9a8;]|RELEASES:[]
+waveshareteam/waveshare_fbcp: BRANCHES:[main:b4603507ca20ad4307fb0fe4b2949740b7c43c94;master:4769b39cecb6f144cd198aae4ca6f4d67964e1bf;kedei_v6_3_mpi3501:4c9229037e923e8f1b866afbcb79b556bf808c4f;non_intermediate_memcpy_for_dma:0dd661a0f74c3631c6136aabf24b0e36039eed20;gpio_input_latency_test:7bd69c45b1d7bad9a670b543bef1f120f9b7ef68;monochrome:3bb5af9d39c4607e0e54761ec3db6b8e0a02f919;dma_hacks_4:b5c261f5edf3da40fc904b535a9c87cf01c5685d;dma_hacks_2:234aa53193c637ae37e06e743245ec86bc52f66f;]|RELEASES:[]
