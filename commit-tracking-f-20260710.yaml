@@ -1337,3 +1337,4 @@ sparkfun/Spectacle_Audio_Output_Board: BRANCHES:[master:f2aa9f375dde69a05c8d48ce
 sparkfun/VReg_Temp_Mobile_App: BRANCHES:[master:00896893372e621f4ce52256b34a883979fbdaed;]|RELEASES:[]
 sparkfun/Haptic_Motor_Driver: BRANCHES:[master:a300e3885810ff5475729ed6713678cf1b613451;]|RELEASES:[v10:36dbf3b79775c89e393411a3baed5e2c745e50cb:none;v20:a300e3885810ff5475729ed6713678cf1b613451:none;]
 sparkfun/Stranger_Things_Wall: BRANCHES:[master:5db0954f0d66c4023611a031ae22ac4bfe751def;]|RELEASES:[]
+sparkfun/SparkFun_TB6612FNG_Arduino_Library: BRANCHES:[master:e34f9ec060e609217257771eb4b5ba93d5867ba8;]|RELEASES:[]
