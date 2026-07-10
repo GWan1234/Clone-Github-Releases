@@ -196,3 +196,4 @@ sparkfun/LSM9DS0_Breakout: BRANCHES:[master:eb90307372db802a90a6669f1279db45e105
 sparkfun/Sound_Detector: BRANCHES:[master:5ab91c0ff1096f7e9ddcd28940336250b9781375;Revision-Fix-silkscreen:24f650290b47d1f869d84fa6a1d6ac6da470cc5f;]|RELEASES:[]
 sparkfun/AD8232_Heart_Rate_Monitor: BRANCHES:[master:ab0cd10c3778c69e92ea8688af58af6d9db29e8a;]|RELEASES:[]
 sparkfun/Pi_Wedge: BRANCHES:[master:395f7fbb4a4c582cbe680d0d6c85ef040384e151;]|RELEASES:[]
+sparkfun/CAN-Bus_Shield: BRANCHES:[v20:79b393c52e0f178bd8e5a1f90e1918d74c9076dd;master:2e152297bd82162a0aa01cae8f074c9ae953bbcb;]|RELEASES:[]
