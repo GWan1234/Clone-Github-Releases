@@ -1501,3 +1501,4 @@ HelTecAutomation/lora_gateway: BRANCHES:[main:106157512cd28eb21115442be0b1645dd5
 HelTecAutomation/packet_forwarder: BRANCHES:[main:f8113f597bc8e54fe2a55ebfda72bf35c6dbc6cb;]|RELEASES:[]
 HelTecAutomation/LoRaEinkBoard: BRANCHES:[main:39f0e14e1ce418eabcf0885017263a7cf7992df4;]|RELEASES:[]
 HelTecAutomation/hotspot-manufacturers: BRANCHES:[main:8556dcb4f2cf7f1e5b2865ab6d94227195ab08cb;revert-244-patch-1:fdf2017eef503c895eac164e4dc8a51d41aa4d7a;revert-93-main:bbe6f01b038edf82d992986492d76f0ed82491d9;revert-82-patch-2:affdab8d62e1f58b37cbe9890a36a5f89b97705a;]|RELEASES:[]
+HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0d55700aa329af3c7500c0;master:c05b0d3b45a736f98a3a1d4ca105edfba11c2c63;]|RELEASES:[v1.0.0:3309f2f3bb948f07e7cfa4cbcad8683665c485b4:none;v1.1.0:b0448a932780293d3020e735a4193e4fb473c7ab:none;]
