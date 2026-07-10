@@ -617,3 +617,4 @@ sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f
 sparkfun/SparkFun_Pulsed_Radar_A111_Example_Code: BRANCHES:[master:a08abb7fbe4c4945bcc95b83f2001f16779a0d34;]|RELEASES:[]
 sparkfun/SparkFun_LIS2DH12_Arduino_Library: BRANCHES:[master:38926073cd8580509ecbf1f923af073960767a25;]|RELEASES:[v1.0.0:8c2b2583bbd8f3807a98771d57bc02ae05f846d9:none;v1.0.1:d5e5e690ca8c37b487bb2edc23f12610da185af7:none;v1.0.2:465430c3de9adc4362fb8e0089d9b37c862925ab:none;v1.0.3:38926073cd8580509ecbf1f923af073960767a25:none;]
 sparkfun/Qwiic_FM_Transceiver_Si4721: BRANCHES:[master:2b7bdbd08b28164e3bf4c40216db85fcfae36f89;]|RELEASES:[]
+sparkfun/Qwiic_Ublox_Gps_Py: BRANCHES:[master:bab7abe93c5a1f1904f761e87ee276d1ab9a153f;update_lib_v1.2.0:d7c054520982bf3571359157ed916d2ff1cc8eb3;]|RELEASES:[v1.1.4_test:bab7abe93c5a1f1904f761e87ee276d1ab9a153f:none;]
