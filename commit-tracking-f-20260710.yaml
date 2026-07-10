@@ -659,3 +659,4 @@ sparkfun/Artemis-Firmware-Upload-GUI: BRANCHES:[master:876d7decda7099ace3c127502
 sparkfun/Qwiic_Dual_Encoder_Reader_Py: BRANCHES:[main:f0f323f74181500f10a3e18c59b0c089803e119a;]|RELEASES:[v0.0.2_test:f0f323f74181500f10a3e18c59b0c089803e119a:none;]
 sparkfun/Top_pHAT_Button_Py: BRANCHES:[main:da24cc9e6c2a49b00d7d4a8831086aebc81791de;]|RELEASES:[v0.0.2_test:da24cc9e6c2a49b00d7d4a8831086aebc81791de:none;]
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0;]|RELEASES:[]
+sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680: BRANCHES:[master:ff6f1f269c195a209b036d0325c8b94deaeae1ab;]|RELEASES:[]
