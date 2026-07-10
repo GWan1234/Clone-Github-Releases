@@ -206,3 +206,4 @@ sparkfun/USB_Type_A_Female_Breakout: BRANCHES:[master:afd8433bcd2237e66a1b518ff0
 sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V: BRANCHES:[master:e20de092731a95e48035bd819808cd0199bded37;]|RELEASES:[]
 sparkfun/RTC-Module: BRANCHES:[master:7de6956e0ed24ea4eaa02b05e6d552378c5bd8bd;]|RELEASES:[]
 sparkfun/Thermal_Printer: BRANCHES:[v1.1:1a8bc5d8c3a812fc3959f550cd92223baac01905;master:d1bfbb0db0d250a893ec595f0732dacabed94446;]|RELEASES:[v1.0:d1bfbb0db0d250a893ec595f0732dacabed94446:none;]
+sparkfun/Uh-Oh_Battery_Indicator: BRANCHES:[master:ecafdda48ae8fff8eabf3bee9479293c327bafb3;]|RELEASES:[]
