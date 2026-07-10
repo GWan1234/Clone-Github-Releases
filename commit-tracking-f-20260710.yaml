@@ -947,3 +947,4 @@ sparkfun/SparkFun_IoT_Node_LoRaWAN: BRANCHES:[gh-pages:dc1f7a87f3a1448d6b727baf7
 sparkfun/SparkFun_SMD_LED_Light_Pipe: BRANCHES:[main:ba9a58ae0f4c132c9c9b7c4b20135b6009b66536;]|RELEASES:[]
 sparkfun/SparkFun_Magnetic_Imaging_Tile: BRANCHES:[gh-pages:23e86e1a5348549d83d6e46ffebb1857ac33e3c0;main:68fdbfbe34912c31871314c636e9bb3f5ee6eb61;]|RELEASES:[]
 sparkfun/SparkFun_GNSSDO: BRANCHES:[gh-pages:b91983d6d553d8d018bf97b0a14c5e22867abe75;main:99276ef8aa384fdf4c2efbeebd13f50c5fdc5b2a;release_candidate:2e7493c258762455490a65088b2a971c0c095ed3;]|RELEASES:[]
+sparkfun/SparkFun_SiT5358_DCTCXO_Arduino_Library: BRANCHES:[feature/sf-toolkit-v1:a99a27f4e0a896eb833bf1c2c6b700dc80a9ff9b;main:4419bea258c1277ba21b1573281e6f285eb25c77;develop:9cc669982f153311a84ea1a789575123fe294d02;]|RELEASES:[v1.0.0:4419bea258c1277ba21b1573281e6f285eb25c77:none;v1.0.1:4419bea258c1277ba21b1573281e6f285eb25c77:none;]
