@@ -81,3 +81,4 @@ sparkfun/Tiny-AVR-Programmer: BRANCHES:[master:8169e041d0f3bd5092280e82d616e418f
 sparkfun/WAV_Trigger: BRANCHES:[master:03150391b21e3de057cc98d092aebfae6bb0e943;H_v11:0f8687be314075cb998293bece1062834513efbe;]|RELEASES:[]
 sparkfun/GPS_Breakout: BRANCHES:[master:b696ced9f8d11529084a9f6b1515888b895d4081;]|RELEASES:[]
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9;]|RELEASES:[]
+sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb25b;V20:1a7dba14bc455018da5a46c2ed8904702eecc99a;]|RELEASES:[]
