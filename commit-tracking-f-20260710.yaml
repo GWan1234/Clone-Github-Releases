@@ -1456,3 +1456,4 @@ sparkfun/Qwiic_Alphanumeric_Display_Breakout: BRANCHES:[main:93e6d110892d22604cb
 sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library: BRANCHES:[main:98324f16c96112eadca095a32ae5f029da5e0d6c;]|RELEASES:[v1.0.0:e66aaaf000dd3c1ab519a0224e97ff56c8f0afaf:none;]
 sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic: BRANCHES:[v23:8f9522802bf6c5175128cabdaadb0da11ae23c34;main:336eb78afcebdcea91bf6caa554670940aae7bd5;v22:d10494d7211b472e06a01ed49d1e988f12007047;]|RELEASES:[V21:37f72380bd46caa9ab75d793154c6e9f378153a6:none;]
 sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic: BRANCHES:[main:31cb105d70fa07023cc52af5751763bbcf8a5098;]|RELEASES:[]
+sparkfun/SparkFun_smol_Power_Board_Arduino_Library: BRANCHES:[main:612682c89f1367c385f8294ba36b32396cf0cc00;]|RELEASES:[v1.0.0:dafb85cfe61d47df06d2cf13ad6bbbb753459436:none;]
