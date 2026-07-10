@@ -939,3 +939,4 @@ sparkfun/SparkFun_Qwiic_OTOS_Arduino_Library: BRANCHES:[develop:7b9845bad6875bac
 sparkfun/arduino-library-registry: BRANCHES:[main:e957d802bdaac0b14f7d38002cbec5a5a8650980;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_WAV_Trigger_Pro: BRANCHES:[gh-pages:f822ee9988454c83a778822ddc92b2f0b9ce3d03;main:ce8ef7b833609faf070197b642c5425d435c425f;]|RELEASES:[]
 sparkfun/SparkFun_RTK_Torch: BRANCHES:[gh-pages:3e89553b014bb933e1d22d15e51388a5d47e5fa5;main:3f475f9c623070e50b42ccf72f277536fabf8ee1;]|RELEASES:[]
+sparkfun/SparkFun_UM980_Galileo_HAS_E6_Convergence_Test: BRANCHES:[main:11ff74a0b36c2465d04570cb0bdc16356c3f8093;]|RELEASES:[]
