@@ -321,3 +321,4 @@ sparkfun/phant-input-mqtt: BRANCHES:[master:cb823ffefb7d1487be2d41859c63e0313a4a
 sparkfun/Edison_OLED_Block: BRANCHES:[master:5491d5a190750d4ebae4b6f5b79faff9a4ab0354;]|RELEASES:[]
 sparkfun/phant-output-mqtt: BRANCHES:[master:e1c353d609aac27b6913d87935b864d00220e3ff;]|RELEASES:[]
 sparkfun/Edison_Console_Block: BRANCHES:[master:8177870db7980d8354841b9477fb4cbee2c5d630;]|RELEASES:[]
+sparkfun/Edison_UART_Block: BRANCHES:[master:1ccd50c0ecbe2c3ab83c7970174aadbecdbcbe8d;]|RELEASES:[]
