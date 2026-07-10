@@ -450,3 +450,4 @@ sparkfun/Triple_Axis_Accelerometer_Breakout-H3LIS331DL: BRANCHES:[master:590c1f0
 sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda9f521c05822;v20:243a88ed965572e367cc6b87e3cfa9501d8f9426;master:398c9a96426808707a5230f6aac4adc2eb47b9eb;]|RELEASES:[v1.0:398c9a96426808707a5230f6aac4adc2eb47b9eb:none;]
 sparkfun/Qwiic_Shield_for_Photon: BRANCHES:[master:a9c7f9f2f8fd4b58a994f84d0dae2df63390fa6d;]|RELEASES:[]
 sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout: BRANCHES:[master:c05b1adf3482b8451d1671fbe98b7dc2108ef066;]|RELEASES:[]
+sparkfun/gator_bit: BRANCHES:[master:301d58877bb213064f1f0844298729e8a024c850;v20:01a89f1d0f25dafdd61a7c0b667c0f0389bbe530;v10:91baa54b2f3a31531461b881dd502c5b69ed6cab;]|RELEASES:[archive/v10:e6ed30bc809f3726794ab00081d721a00e1f4c2d:none;v1.0:1946f18c255ed24e2dfae9c41c10e22ecbaa3b44:none;]
