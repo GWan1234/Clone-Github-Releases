@@ -815,3 +815,4 @@ sparkfun/flux-sdk: BRANCHES:[release/v01.05.1:0889796556a7bd3cb53bb53fa385661d8a
 sparkfun/SparkFun_Qwiic_Barometer_LPS28DFW: BRANCHES:[main:b012d97cd56bf5a8a2a540c1f81aa75693716141;]|RELEASES:[]
 sparkfun/SparkFun_Satellite_Transceiver-Swarm_M138: BRANCHES:[main:89fb89156547127c3dc262fd7d005e53817f617a;]|RELEASES:[]
 sparkfun/SparkFun_BMA400_Arduino_Library: BRANCHES:[main:85e644b5868c807b1df6ff8f1a125708e0eb947e;]|RELEASES:[v1.0.0:bc5bbae97ec70d9cad0f3cc4e7b13289eb5b0072:none;]
+sparkfun/SparkFun_OWire_Arduino_Library: BRANCHES:[main:428ddcb6a790cfefa071f44b884425383349685d;add-license-1:7bd382c98ca2206978f01c60a144f4fc630661ba;]|RELEASES:[v1.0.0:ffaa9ad50813febc66485986c317ff8d627a6322:none;v1.0.1:428ddcb6a790cfefa071f44b884425383349685d:none;]
