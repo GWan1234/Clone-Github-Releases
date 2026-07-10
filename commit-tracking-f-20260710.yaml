@@ -648,3 +648,4 @@ sparkfun/SparkFun_DE2120_Arduino_Library: BRANCHES:[main:4db7605d733623a1632e094
 sparkfun/SparkFun_Auto_pHAT: BRANCHES:[master:c1ff5cc6baa25284b2eac7947c9e6012afbcf08a;]|RELEASES:[]
 sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc18804519abb0774bacf88edacfb60f;]|RELEASES:[]
 sparkfun/CapacitiveSensor: BRANCHES:[Apollo3:b970c734354ffd4cf6fb06d38fe16e1a6688818b;master:23144bfccf029fb2cdcec4e724971db8c465ed92;]|RELEASES:[]
+sparkfun/Qwiic_Thermocouple_Amplifer: BRANCHES:[master:17363932880175787ef9ed4d1c1540a5647180c7;]|RELEASES:[]
