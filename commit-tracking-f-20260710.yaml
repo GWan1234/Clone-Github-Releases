@@ -1692,3 +1692,4 @@ m5stack/DEMO-BOARD: BRANCHES:[master:a60a67db429375cef3f93bb5d054bd10deb796c1;]|
 m5stack/MagicWand: BRANCHES:[master:3e1f4b62a41e8f9bdbacd68627cabc6780f4093c;]|RELEASES:[]
 m5stack/m5-network: BRANCHES:[master:fd65f588abb234ced8a0eba65995ca80f780dd08;]|RELEASES:[]
 m5stack/M5StickC-IDF: BRANCHES:[master:8d34a2ff711ef06ce663929511d4157ec8ae4b85;]|RELEASES:[]
+m5stack/FontCreator: BRANCHES:[master:bcd095f769dbd3f3c42f6e3ca3b95aee2cc66ca4;]|RELEASES:[0.1.0:caa64c57838c2304caddf7bab959b75408b71311:2019-11-21T09:41:22Z;]
