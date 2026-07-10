@@ -753,3 +753,4 @@ sparkfun/Qwiic_SHIM_Kit: BRANCHES:[main:45127cd6057e02276ac52b30489f9f47080a5058
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180: BRANCHES:[main:66112e7410116fd952eeed8603634de32bf437e8;]|RELEASES:[]
 sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S: BRANCHES:[main:1332f29e4153abbb06ccd24e0421253527922ff3;master:f7fc5f35109b4fa6b661afc27043ea6cb8288419;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO: BRANCHES:[main:fef35123412fc2935d342e2837b1f5b8fdf1caf0;]|RELEASES:[]
+sparkfun/MicroMod_Sno_Processor_Board: BRANCHES:[main:23703439faf33492c482908494c0df1fb727838e;]|RELEASES:[]
