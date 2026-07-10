@@ -265,3 +265,4 @@ sparkfun/phant-output-udp: BRANCHES:[master:070b29b1e4c070d48e7e332922496fe818a6
 sparkfun/phant-output-websocket: BRANCHES:[master:0ec22af5e6d57da4e48f394c8a145685ccf9e6ad;]|RELEASES:[]
 sparkfun/phant-meta-test: BRANCHES:[master:b43a8f259cbd46832e1badbeebede9572cb22bb0;]|RELEASES:[]
 sparkfun/phant-meta-json: BRANCHES:[master:507e51887977b0103d80457203e3dd564bba5897;]|RELEASES:[]
+sparkfun/phant-stream-json: BRANCHES:[master:b6de7cac6bf7af426561e973c7fc7aa6f6b4e7ad;]|RELEASES:[]
