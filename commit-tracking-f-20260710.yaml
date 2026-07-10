@@ -877,3 +877,4 @@ sparkfun/SuperHeadphones: BRANCHES:[gh-pages:e0b1c69d35371aeaa247a990fa45c3f9be9
 sparkfun/SparkFun_AS7343_Arduino_Library: BRANCHES:[main:d4185477539efce74c9453117443b75811f00eee;license_shield:a511e3a0d1e916d85080097b0b7560bd5b3681d0;flicker_detection_simplify:2ae0ddd28b09f08186d6b952ce915036204b3c45;readme:3efdda57ff48b8ca0414ad5f8416d750c9da7ab1;]|RELEASES:[v1.0.0:dc50735cc38ead3a93f5bd4041bd632f88341cdd:none;]
 sparkfun/SparkFun_Qwiic_Human_Presence_Sensor-STHS34PF80: BRANCHES:[gh-pages:7011209045517bf52a92f1357698cee5973b1951;main:44ec023fd380eabd9e093a2e3a7bcab193ad5a97;]|RELEASES:[]
 sparkfun/SparkFun_Default_KiCad_Setup: BRANCHES:[main:8c5e9cf973a822bfc29c88972633ea8e4f34b4fe;page-settings:fa7f8ee0f866802c05027aabbaba1436219abf8d;]|RELEASES:[]
+sparkfun/SparkFun_Pro_Micro-ESP32C3: BRANCHES:[gh-pages:15673d57bdfa75c73596fc4cc5875adc92075b21;main:b302fbc429a90b87865145877b96f189ad4d5460;]|RELEASES:[]
