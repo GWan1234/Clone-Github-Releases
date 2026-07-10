@@ -672,3 +672,4 @@ sparkfun/MicroMod_Weather_Carrier_Board: BRANCHES:[master:783ea26e825d8d55e11cf3
 sparkfun/MicroMod_Processor_Board-SAMD51: BRANCHES:[master:7c85c41de81b93d6da49c199ea8284b18e1392d6;FLASH_NET_CORRECTION:abe1946998a6e56bd5fc40b75b74e100b26bd206;]|RELEASES:[v1.2:acd61f500bbd74bcf05c4084bba7b30c445b3561:none;v1.3:2355eab7571233264603431d547c1348de2ea07b:none;]
 sparkfun/SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic: BRANCHES:[master:265d15c7acec81ca38a64c36feb75c299d38801f;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library: BRANCHES:[main:43c3b7a63318e14834533c0b089be079290990ba;release_candidate:e2d4c7680ada5837d9a20be3c827085a49aa0b6d;]|RELEASES:[v1.0.0:774fee626286724338e20e723f075ec7fbc1e5ae:none;v1.0.1:bf9cf34274fbde3ac9e27ccbb8db10eaf3d624f2:none;v1.0.2:e2d4c7680ada5837d9a20be3c827085a49aa0b6d:none;]
+sparkfun/Qwiic_Quad_Solid_State_Relay: BRANCHES:[master:539c8268b0c5813d5f32cc3e4a8f4f7e78355bd0;]|RELEASES:[]
