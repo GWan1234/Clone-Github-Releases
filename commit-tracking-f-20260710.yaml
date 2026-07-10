@@ -686,3 +686,4 @@ sparkfun/MicroMod_Processor_Board-nRF52840: BRANCHES:[master:7a1c2d0b182387b9218
 sparkfun/MicroMod_ATP_Carrier_Board: BRANCHES:[master:9750d65ca0fdd4164fbac93a9b1ebcec7b615f11;]|RELEASES:[v1.1:9750d65ca0fdd4164fbac93a9b1ebcec7b615f11:none;]
 sparkfun/SparkFun_ProDriver_TC78H670FTG: BRANCHES:[master:fdb838258660af9c383c6d4891626c59fbfcd573;]|RELEASES:[]
 sparkfun/qwiic_relay_py: BRANCHES:[main:89157e13d0a9021590cee2f5544a4187d7c8f51b;feature/change_address:b1a83729c1d502c05eac4debbb60ba2e7234551c;examples:77c0932056333d2925c09a97c6a53c0b3d6431ee;]|RELEASES:[v0.1.0_test:4b827414aed686ee72df9fb0aba7b20dc9d00322:none;]
+sparkfun/Toaster_Oven_Reflow_Hack: BRANCHES:[master:22579a4a984222ddc7798c5903c615e2fe1fe8be;]|RELEASES:[]
