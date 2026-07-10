@@ -72,3 +72,4 @@ sparkfun/Serial_7_Segment_Shield: BRANCHES:[QC-Rev:0ea20bd40050a451a9bcd6c03722b
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6;]|RELEASES:[]
 sparkfun/XBee_Explorer_USB: BRANCHES:[master:1c268163f47bea2f6d020cf3382618237049e284;]|RELEASES:[]
 sparkfun/ProtoSnap-Pro_Mini: BRANCHES:[master:efd48af73e96a7703a92fa465742754407c44196;v_15:5cd462edd48c86d80bd721d5d29ebcbf46c529ef;]|RELEASES:[]
+sparkfun/ProtoSnap-LilyPad_Development_Board: BRANCHES:[master:db42ac18f7eb621b26489e87df1fe4d1dfa47f86;Revision_35:c049e94f37eba64eac0377a12026fd80c77994cc;TMP_3D:53bcbfa5299d4bdde4109c9b37e7b5b32cb8d15d;]|RELEASES:[]
