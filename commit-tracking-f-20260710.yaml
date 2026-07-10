@@ -1342,3 +1342,4 @@ sparkfun/MAX30105_Particle_Sensor_Breakout: BRANCHES:[master:1c5c88c8b99ae6edd1b
 sparkfun/Serial_Basic_Breakout-CH340G: BRANCHES:[master:19004d8256151ac61e5502eeaa41979b48e95c62;]|RELEASES:[]
 sparkfun/Genericized_Library_Examples: BRANCHES:[master:dc42e166ae5d408b03ae6903609a531e5c475e1e;]|RELEASES:[]
 sparkfun/SparkFun_DS1307_RTC_Arduino_Library: BRANCHES:[master:68f64b103d014f448c280bb24385430e1011feec;]|RELEASES:[]
+sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246552364fe1d94a46c6b464b6;]|RELEASES:[v1.1.1:122559fc4e28b3142d6b6c85d770c35937740317:none;v1.1.2:6f1ad7dc1e5142669ea7528e0f6d0d68c0918a35:none;v1.1.3:8f85816b84cd4c9cb27bdf3992587ef05cb5af47:none;v1.1.4:a270c5cb836fb11820625cf19f8ad621b875d365:none;v1.2.0:a147fd4eccaad7fa25db793789157c128e978874:none;v1.2.1:e4482168501163bffb675db7b4cd5ae0f1b1568e:none;]
