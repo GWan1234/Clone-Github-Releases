@@ -1375,3 +1375,4 @@ sparkfun/pxt-gator-soil: BRANCHES:[master:aeb51e930c56da6a2c97ec26b10b8f50ac6638
 sparkfun/SparkFun_TPL5110_Nano_Power_Timer: BRANCHES:[master:2d8d2cce78c7de05692d414d517ff05b5ec02b5c;]|RELEASES:[v1.0:1e5f1316375bd72f4e3e03db97ef3220700d09f4:none;]
 sparkfun/Arudino_Release_Form.io: BRANCHES:[master:e25a319561469a65c7fb6b9a02658dbe76796a4a;]|RELEASES:[]
 sparkfun/BlackBoard_Artemis_Nano: BRANCHES:[master:6d2cf108da37383c66a1eba381db8054a6ae3e91;]|RELEASES:[]
+sparkfun/Qwiic-Pro-Kit-Code: BRANCHES:[master:d88f04a52393917612093c0c5b5ac821b631e49a;]|RELEASES:[v1.0:f88fe799b4320d4b1c33a8086cb9374eb0b87705:none;]
