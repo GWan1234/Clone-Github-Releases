@@ -269,3 +269,4 @@ sparkfun/phant-stream-json: BRANCHES:[master:b6de7cac6bf7af426561e973c7fc7aa6f6b
 sparkfun/phant-stream-csv: BRANCHES:[master:448aeb5ef103152ecf51653118dfed1bf147386a;]|RELEASES:[]
 sparkfun/Benchtop_Power_Board_Kit: BRANCHES:[master:f38ca3b82429907dff7f212c6ffd9a9f3620a80e;]|RELEASES:[]
 sparkfun/phant-manager-sparkfun: BRANCHES:[master:b565d3e630a780e95483d085f794054d47aa7232;remove_piwik:2ed58ce7045499e38c499e4e9e5c25a1bf756ce2;config:84407e0ed69eb5e76da0d8f9c2efddd462d46a3a;]|RELEASES:[]
+sparkfun/phant-arduino: BRANCHES:[master:be0b9a9de0f34d9fec64dc97754ae60a3ba303f8;]|RELEASES:[v1.0.0:9c7a69c46dfe7d3712fc9e89a388ab46753e1df4:none;]
