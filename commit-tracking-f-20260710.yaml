@@ -175,3 +175,4 @@ sparkfun/Fabrickit_LED_Brick: BRANCHES:[master:0a6406fcf469ee935eb90a83bb3dbbddd
 sparkfun/Solder-able_Breadboard: BRANCHES:[master:d2f918f4d67f5cb8e67c62c3cb7ca51790675b15;]|RELEASES:[]
 sparkfun/Weather_Shield: BRANCHES:[master:77a360d0d9738a20ad49a2e2dd14cfd86bb9a7ed;]|RELEASES:[v1.1:5ac3f3906e120684b66d7c2adcef71a8c95e8241:none;v1.2:f5a2f909cbe777edf649981e6c51f1d241786810:none;]
 sparkfun/XBee_Shield: BRANCHES:[master:e2cc07635cc640283d013f155deb81f7c7402cde;]|RELEASES:[]
+sparkfun/ADXL362_Breakout: BRANCHES:[master:59a85587537e4fc45d4ad3c78782bf165ba9caac;]|RELEASES:[]
