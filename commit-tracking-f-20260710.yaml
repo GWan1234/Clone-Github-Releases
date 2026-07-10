@@ -705,3 +705,4 @@ sparkfun/Qwiic_Shield_for_Teensy_Extended: BRANCHES:[master:a14fda0aeb97974484f4
 sparkfun/qwiic_gpio_py: BRANCHES:[main:264227f302e349de7a8339b51764acc09c17a8e3;refactor/gpio_lists:7814a26755039b25525e94ccbf9331cce9acaf9e;examples:bf3c2553a23ec653af912ae17016c2bd56158b48;]|RELEASES:[2.0.0:94d320341bb76370915d11187555546a753e1c58:none;v0.0.2_test:7981e74ce2c3d3cff3c172681d4d0877d8b02fc0:none;]
 sparkfun/ArduinoBLE: BRANCHES:[apollo3-dev:67396b0245db9ec92d429dbe95c258f560329504;master:524b3a6666c253842ee46cfdf317327e2bb51179;multi-connection:89fd740aca3c95434215f45b9aa661c86c43493b;]|RELEASES:[]
 sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library: BRANCHES:[master:2dc1c458b7f26bae6dc59c65c4b209cb804b54a0;]|RELEASES:[v1.0.0:f4d6e9a0af22957722b032d5fa851f8ce7500d3f:none;v1.0.1:2dc1c458b7f26bae6dc59c65c4b209cb804b54a0:none;]
+sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c261e82f5de;]|RELEASES:[]
