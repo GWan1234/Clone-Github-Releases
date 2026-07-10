@@ -1661,3 +1661,4 @@ m5stack/M5Cloud: BRANCHES:[master:d6afd906d5bad43541d7e6c3608bbde3abe02167;v0.5.
 m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6;]|RELEASES:[]
 m5stack/M5Stack_TFT_ILI9341: BRANCHES:[m5stack-default:bcfc56a65ae060b76aa4b53038fa1825f0d475b3;m5stack:f7147ec9c9f9a5be24f3a1e0b4235f99301fe3cc;master:46dad5a0329de501e792a27a789597d445ffde9b;]|RELEASES:[]
 m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45e09e4e;StickC:3b99bc8d619c3ae278f2828d2510ef4bf82dd203;m5stack:2fa5830dd6cecdf027b54c5928f59973230bccfd;]|RELEASES:[]
+m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4;]|RELEASES:[]
