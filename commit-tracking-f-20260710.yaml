@@ -43,3 +43,4 @@ sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ec
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9;]|RELEASES:[]
 sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131fd;edu_rework:994ec7f28b94d5a0c370906ea51cfda8d21f525a;SIK_Arduino_Book:54e38a9631199403dc2b8c465e687b41e651f98e;]|RELEASES:[v41:2b12597f2ea010b1e738aae8457ea9353db28b78:none;]
 sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00;]|RELEASES:[]
+sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109d56ed40;HW_V12:882261bf42eeba874e2966af87a214e06d4f7698;]|RELEASES:[]
