@@ -102,3 +102,4 @@ sparkfun/MiniMoto: BRANCHES:[master:37b98086d9e06e1f498409373ef970d830e45ba4;EdW
 sparkfun/FTDI_Basic_Breakout-5V: BRANCHES:[master:8bbbb934962da976e7aa975f44845be3722a65d7;]|RELEASES:[]
 sparkfun/PCA9306_Level_Translator_Breakout: BRANCHES:[master:900d87cd963127ef8dbb335c340fc24a5815aa8b;heads/v20:17f102a17d88bba8f1bf7d0d5554ead7e857668b;]|RELEASES:[v10:1506ebe1eb8fcd5008291be70d01bf60c1462408:none;v20:900d87cd963127ef8dbb335c340fc24a5815aa8b:none;]
 sparkfun/BlueSMiRF: BRANCHES:[master:c2c5533f4da312db30b65d03edacca65380036f0;]|RELEASES:[]
+sparkfun/Bluetooth_Mate: BRANCHES:[master:dd06faa22554e0b6483e261b29d2deafe047c2dc;]|RELEASES:[]
