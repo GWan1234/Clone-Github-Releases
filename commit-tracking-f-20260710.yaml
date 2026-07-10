@@ -33,3 +33,4 @@ sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e;]|RELEASES:[]
 sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263;]|RELEASES:[]
 sparkfun/KickScraper: BRANCHES:[master:5e9a560e6d5ca1e5745014fcbc0f15e8dd0220b6;]|RELEASES:[]
+sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3;]|RELEASES:[]
