@@ -551,3 +551,4 @@ sparkfun/Qwiic_Quad_Relay: BRANCHES:[v21:c364c537a9986307d574b4c3d4daca39bdd59e6
 sparkfun/SparkFun_SHTC3_Arduino_Library: BRANCHES:[master:671ef7e7c3570b2082a4ebbb8a63ea37cc13d171;]|RELEASES:[v1.0.0:d92157d6883143561531ac1cc3d4b39dc693fbb5:none;v1.0.1:4a2178314868c879b49a27a2a9484697189ecec7:none;v1.0.2:81e4af96b7d1140a37c5c90c9e6cf9c0cebce50b:none;v1.1.0:1a0ce219bfbb46cfde63a14b9c829570e114d71a:none;v1.1.1:c0b4571b86c6eac57713b5d3456442b4ad8962b5:none;v1.1.2:d7d6cda82bb3157d103b9e84db25ee54b2a8cd19:none;v1.1.3:2e271ddd597965527e9c53f2878d846c4ced3c66:none;v1.1.4:8b22619cb24c10b3365ea015d3efc73f5db2f84c:none;]
 sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield: BRANCHES:[master:ea55d9d5a0a1d7c638f598915d8ebc329b2e8753;]|RELEASES:[]
 sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5fa88ad5ff9b6e7;]|RELEASES:[]
+sparkfun/LumiDrive: BRANCHES:[master:d5c3298491ebe1eed3a400d41316dbb4f61b5e61;]|RELEASES:[]
