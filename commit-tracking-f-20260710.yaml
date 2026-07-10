@@ -257,3 +257,4 @@ sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-va
 sparkfun/phant-manager-http: BRANCHES:[master:98359e976651b3def960ecde1d1fdab32575b23e;http_basic:1c2b65771b4f342c99a651d8e5122cbd9ff546da;]|RELEASES:[]
 sparkfun/LilyPad_XBee: BRANCHES:[master:d39ccc048cc7f3c6b9f1faae1b7d5af2d1dca5e1;]|RELEASES:[]
 sparkfun/SFE-Lunchbox: BRANCHES:[master:3c88f6254194e62cf051334e5193cc3c1fab9d4a;]|RELEASES:[]
+sparkfun/phant-keychain-hex: BRANCHES:[master:78aad4f1b99baee35a7d83bf0972fabe60a5a0bc;]|RELEASES:[]
