@@ -45,3 +45,4 @@ sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131
 sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00;]|RELEASES:[]
 sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109d56ed40;HW_V12:882261bf42eeba874e2966af87a214e06d4f7698;]|RELEASES:[]
 sparkfun/ISP_Pogo_Board: BRANCHES:[master:ee9cca8d6ec18dd05d77343160bfa45dd271ec17;]|RELEASES:[]
+sparkfun/GraphicLCD_Serial_Backpack: BRANCHES:[master:f41e4db7f4e8a4f3f234828f05c8eb336d4986d7;]|RELEASES:[]
