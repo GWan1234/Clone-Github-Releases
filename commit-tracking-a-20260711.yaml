@@ -7452,3 +7452,4 @@ Seeed-Studio/Seeed_Arduino_DPS310: BRANCHES:[dps310:fb1c492269837f555ccf77a0392e
 Seeed-Studio/Seeed_Arduino_atWebServer: BRANCHES:[master:7f6d52b3fa92f020b3d992e6fb1f439889ea4e83;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_Arduino_atmDNS: BRANCHES:[master:48d65fc7fe4e1baee149cb2bf3dd6f6d8fe4a44a;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_atDNSServer: BRANCHES:[master:a60fab51d1b3b1ac0ebd0a00d22613679271a99d;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Seeed_Arduino_atWiFiClientSecure: BRANCHES:[master:924ceeee87514c059b2d7e9a11b0aa8b3f441116;]|RELEASE:[v1.0.0|none]
