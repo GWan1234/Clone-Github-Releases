@@ -7289,3 +7289,4 @@ Seeed-Studio/Arch_BLE: BRANCHES:[master:9b2295ccf40939ceb5eeadc7a963c2769319800d
 Seeed-Studio/Arch_Max: BRANCHES:[master:2a9a36ce91a0e00b747313c8a8f47332446d63a4;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Guesture: BRANCHES:[master:9878d132eccc66c44e383f2b7290b6f90c9c11ee;]|RELEASE:[none|none]
 Seeed-Studio/HDC1000: BRANCHES:[master:bf52fadb7c8b9691abf415fc341122352cdaab73;HDC1000_energia:85858ab8fadb196b3722ff1cdf6ed365c0d11f93;HDC1000_arduino:453c6b516d7a5801ca8a665824e3682e8bdde2b3;]|RELEASE:[1.0.0|none]
+Seeed-Studio/GPRS_SIM900: BRANCHES:[master:4e57e654735c6fe54fefe623854e99dc771fe96f;]|RELEASE:[1.0.3|none]
