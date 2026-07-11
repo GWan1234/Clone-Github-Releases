@@ -7145,3 +7145,4 @@ Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4
 Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167da0ed1295267726;]|RELEASE:[v2.1.0|none]
 Seeed-Studio/Grove_Gas_Sensor: BRANCHES:[master:fdd39507a7869351f9ff5a6f26e94d0ca389fbcb;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Air_quality_Sensor: BRANCHES:[master:be207e017b5ad89647a8cf991b70b0f1e5a5d96e;]|RELEASE:[v1.0.2|none]
+Seeed-Studio/Grove_Dust_Sensor: BRANCHES:[master:d76ebfd07ce8cc75f3078681a75243a34770d641;]|RELEASE:[none|none]
