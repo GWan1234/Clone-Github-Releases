@@ -7398,3 +7398,4 @@ Seeed-Studio/MT3620_Grove_Shield: BRANCHES:[master:f9a3c2b51a14c4e2b8f87ded51ce3
 Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb9075a00a7e67c58;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Alphanumeric_Display_HT16K33: BRANCHES:[master:d0f57f74ccc5bd18759c4785be408709b506044c;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Linux_Elink: BRANCHES:[master:f72658c5cfc6892ac852d5bd5aaa339cdb257a7b;]|RELEASE:[1.0.0|none]
+Seeed-Studio/Accelerometer_ADXL372: BRANCHES:[master:3e012530040a60433431a83b71f40a9ca20fb42c;]|RELEASE:[none|none]
