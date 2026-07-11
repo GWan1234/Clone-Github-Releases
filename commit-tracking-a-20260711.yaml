@@ -7260,3 +7260,4 @@ Seeed-Studio/LinkIt_ONE_IoT_Demo: BRANCHES:[master:8d9cc390e9c3ed1849ba12ec4fe47
 Seeed-Studio/nrf51_dfu_bootloader: BRANCHES:[master:ce0123644578bc0c99596f841f2a917a705a8d1c;]|RELEASE:[v0.1|43deb420fc0d275047841c76fd6586714ddab181]
 Seeed-Studio/Colorful_Clock: BRANCHES:[master:50690ee797506949a1a7838d1e4fd1d7e8a35468;]|RELEASE:[none|none]
 Seeed-Studio/LaunchPad_Kit: BRANCHES:[master:ddaaac23b52bfcaa250c620ec698edc25921896d;]|RELEASE:[none|none]
+Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615: BRANCHES:[master:c18da10a9fd35353db6a3dbd41802642adeeacca;]|RELEASE:[v1.0.0|none]
