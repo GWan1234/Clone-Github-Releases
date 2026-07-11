@@ -7226,3 +7226,4 @@ Seeed-Studio/Grove_Barometer_HP20x: BRANCHES:[master:6215e2416a8afb26cdd62f0beb2
 Seeed-Studio/Accelerometer_H3LIS331DL: BRANCHES:[master:208d907c2b3cec4ae5eeba7512c30ac1001aa9a0;]|RELEASE:[v1.0.2|none]
 Seeed-Studio/Four_Digit_Display_Suli: BRANCHES:[master:edfc53122844f9c84fdfd6dac9283462035a9369;]|RELEASE:[none|none]
 Seeed-Studio/Rfid_Reader_Suli: BRANCHES:[master:39a193db21821dc384e0a751884270348a9e151d;]|RELEASE:[none|none]
+Seeed-Studio/Temperature_Suli: BRANCHES:[master:dda836bc12847667afcb2eaa9878bfcb7af3eba3;]|RELEASE:[none|none]
