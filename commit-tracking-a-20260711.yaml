@@ -7186,3 +7186,4 @@ Seeed-Studio/PN532: BRANCHES:[arduino:2c47f5c836af53158c4e29685551612181fd8f9b;m
 Seeed-Studio/Grove_Serial_Camera_Kit: BRANCHES:[master:cc91b82c5ffd6c599da58170ee9427984f31fcfb;]|RELEASE:[none|none]
 Seeed-Studio/Grove_LCD_RGB_Backlight: BRANCHES:[master:dbd5674f5d0f8453595484711a144f16248c2d1c;]|RELEASE:[1.0.1|none]
 Seeed-Studio/Artwork: BRANCHES:[master:bd7854c038edb89130769146912269b878a30eb4;gh-pages:c6fd9fd31148356d02901a55c9334b72f991400b;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8;]|RELEASE:[v1.0|none]
