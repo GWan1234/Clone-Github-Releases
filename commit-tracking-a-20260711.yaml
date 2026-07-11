@@ -7192,3 +7192,4 @@ Seeed-Studio/Xadow_IMU_6DOF: BRANCHES:[master:1b816f1f96142d70f4da443369fb287c7b
 Seeed-Studio/Bluetooth_Shield_Demo_Code: BRANCHES:[master:a20a782dd0fb9809764a63603db9cf742e285500;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/Starter_Shield: BRANCHES:[master:68ebac97ac39c961cf3cb7410f16e577f2456b2c;]|RELEASE:[none|none]
+Seeed-Studio/RFBee: BRANCHES:[master:f631640e363a71198419a5e3555492829a9cae4c;]|RELEASE:[1.0.0|none]
