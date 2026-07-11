@@ -7187,3 +7187,4 @@ Seeed-Studio/Grove_Serial_Camera_Kit: BRANCHES:[master:cc91b82c5ffd6c599da58170e
 Seeed-Studio/Grove_LCD_RGB_Backlight: BRANCHES:[master:dbd5674f5d0f8453595484711a144f16248c2d1c;]|RELEASE:[1.0.1|none]
 Seeed-Studio/Artwork: BRANCHES:[master:bd7854c038edb89130769146912269b878a30eb4;gh-pages:c6fd9fd31148356d02901a55c9334b72f991400b;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8;]|RELEASE:[v1.0|none]
+Seeed-Studio/Grove_3_Axis_Digital_Gyro: BRANCHES:[master:77861f69df5c5aa58d88349aa86496f21df7097c;]|RELEASE:[v1.0.0|none]
