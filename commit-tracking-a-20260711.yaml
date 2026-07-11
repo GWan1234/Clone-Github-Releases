@@ -7389,3 +7389,4 @@ Seeed-Studio/Seeed_ACS70331: BRANCHES:[master:3a7cf31098c35a19cbb0189501117ae2a4
 Seeed-Studio/Seeed_PM2_5_sensor_HM3301: BRANCHES:[master:e3ffb82374c874f216c0fabd699b8f065e0cdc0c;]|RELEASE:[v1.0.2|none]
 Seeed-Studio/Azure_Sphere_Sample_Smart_Fan: BRANCHES:[master:ace0b72da9fcd69a0b3ef3d1a99139d7391481df;]|RELEASE:[none|none]
 Seeed-Studio/micropython-microbit-grove: BRANCHES:[master:e3766e9d6763866ac93878cdf9a007d578f4a6e8;]|RELEASE:[none|none]
+Seeed-Studio/Grove_4Digit_Display: BRANCHES:[master:4ef5c260facf3a076db52d0f2955dba447ff9c63;]|RELEASE:[none|none]
