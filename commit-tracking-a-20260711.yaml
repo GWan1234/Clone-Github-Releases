@@ -7310,3 +7310,4 @@ Seeed-Studio/Seeed_Grove_Speaker_g: BRANCHES:[master:61af43cea228256113683c59e67
 Seeed-Studio/AWS_SDK_for_BBG: BRANCHES:[master:53a470c1b5d8313f6d1a04b8fba50af307b585fc;]|RELEASE:[none|none]
 Seeed-Studio/AWS_Arduino_SDK: BRANCHES:[master:b4eef4abb7f59a1b74945354fa87c6a68f2502da;]|RELEASE:[none|none]
 Seeed-Studio/Lua_for_RePhone: BRANCHES:[master:4a8948c64c577c94192f302699297da7afb7980c;]|RELEASE:[v0.2|none]
+Seeed-Studio/Seeed_Arduino_LSM6DS3: BRANCHES:[master:093df9626b4fe7bcda1c7abef2fea91f1786631d;]|RELEASE:[v2.0.6|none]
