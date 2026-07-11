@@ -7297,3 +7297,4 @@ Seeed-Studio/Wio_Link_Android_App: BRANCHES:[master:e7c4b6fd1110a835f0312c28ae9f
 Seeed-Studio/Lua_for_LinkIt_One: BRANCHES:[dev:40f099ee7812fe3f66e881abdd22ccfa0a06b830;master:37b15429f9829d90b4cadc0f96bb77391902f5ec;]|RELEASE:[none|none]
 Seeed-Studio/Gardening_demo_Arduino: BRANCHES:[master:b25b3ae272ad757bf453f7e7c23063f6e3d4707b;]|RELEASE:[none|none]
 Seeed-Studio/Signed_USB_Serial_Driver: BRANCHES:[master:2c18d05dc7efd71cc8a2229abf8bb1da3e6acd82;]|RELEASE:[1.0.3|none]
+Seeed-Studio/Grove_Sunlight_Sensor: BRANCHES:[master:c386ae876e0c2d663aabc18ccd47000ea8279d39;Si1151:ac38792058ea6149d47531056df6bc9e7f6ce4ee;]|RELEASE:[1.1.1|none]
