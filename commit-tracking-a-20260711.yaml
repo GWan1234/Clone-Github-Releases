@@ -7443,3 +7443,4 @@ Seeed-Studio/platform-nxpimxrt: BRANCHES:[master:db56118ebb433509d2719ad95f5505f
 Seeed-Studio/Seeed_Arduino_Terminal: BRANCHES:[master:7a8f9db62dc733f11430a42182c9db7436cb9bdc;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_Arduino_RotaryEncoder: BRANCHES:[master:804feef98350bfcbcfd3844d239f5b6eb43d1dd5;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/Seeed_Arduino_KCT202: BRANCHES:[master:fb054574259d36c649c7175b5ddce6686336ce30;]|RELEASE:[v1.0.2|none]
+Seeed-Studio/Seeed_Arduino_MLX9064x: BRANCHES:[master:17db92f15877fbcbf073c42dacbf437b2ad9e205;add-license-1:c6317161be8b19b59ae72e95b5e60e23c0f512aa;]|RELEASE:[v1.0.1|none]
