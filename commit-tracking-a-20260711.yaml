@@ -7179,3 +7179,4 @@ Seeed-Studio/Grove_I2C_Touch_Sensor: BRANCHES:[master:fb28f8282acefba43812c38528
 Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass: BRANCHES:[master:88a382f7d956c0e7c06f51e3742302f5504c37fe;6-Axis-Accelerometer&Compass-v2.0:f6bbfa4ab58fa433e98f0649ac22e24859782687;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Single_Axis_Analog_Gyro: BRANCHES:[master:91f44d98fef7a3ce5b13fcd529f90632b1bef429;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Flame_Sensor: BRANCHES:[master:f78973d6c43b42dd3cd156b2684b1184da134c23;]|RELEASE:[0.1|none]
+Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524;]|RELEASE:[none|none]
