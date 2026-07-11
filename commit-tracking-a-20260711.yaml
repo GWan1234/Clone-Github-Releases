@@ -7349,3 +7349,4 @@ Seeed-Studio/SD: BRANCHES:[master:10464b7fe64291dcf6e89ff623e4d80f31a203a4;]|REL
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316;]|RELEASE:[none|none]
 Seeed-Studio/Arch_Pro: BRANCHES:[master:aff0107e9a07b2d820755e2ceee9b99540e56854;]|RELEASE:[none|none]
 Seeed-Studio/Grove_3_Axis_Compass_V2.0_BMM150: BRANCHES:[master:179a2bff4e7b7861bac9a55cafe0f999f38cf065;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/BME680_4_In_1_Sensor_Drv: BRANCHES:[master:3317d32eb0c1763974c847ebf0afd0d078bff029;]|RELEASE:[none|none]
