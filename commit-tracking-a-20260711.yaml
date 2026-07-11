@@ -7154,3 +7154,4 @@ Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822
 Seeed-Studio/Accelerometer_MMA7660: BRANCHES:[master:173f0fc5612777ca62fd7f37283b72fcc46a049f;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Grove_Alcohol_Sensor: BRANCHES:[master:dcc8fcc75adab8fa5f802a759cffe7cf6410c55b;]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7;]|RELEASE:[1.0.0|none]
+Seeed-Studio/Grove_Infrared_Temperature_Sensor: BRANCHES:[master:f81cebb69ed20c8ba2c7c74df902584269bd37dd;]|RELEASE:[none|none]
