@@ -7344,3 +7344,4 @@ Seeed-Studio/Seeed_Wio_GPS_Board: BRANCHES:[master:33c2f46235bf58b4b8ead978894a1
 Seeed-Studio/AzureGroveKit: BRANCHES:[master:b57b6e723296984b235505ba3704a3984b6c60ff;]|RELEASE:[none|none]
 Seeed-Studio/Wio_LTE_Arduino_Library: BRANCHES:[master:91c9b85d476ad61a340f036b26201d6ad055243d;HW_Test:2b2cbdb24b3a3474ddd35804be4830f049a0fcef;]|RELEASE:[1.0.0|none]
 Seeed-Studio/Arduino_Software_I2C: BRANCHES:[master:aa1fb1c20e0910a63d9aa728bb0259999300acc8;k1100:11433be12eac8913829b0283d410a3b1a3f11909;]|RELEASE:[none|none]
+Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d0403;]|RELEASE:[v0.7.5|none]
