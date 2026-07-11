@@ -7413,3 +7413,4 @@ Seeed-Studio/Grove_Triple_Color_E-lnk_1.54: BRANCHES:[master:559b12ba0550c137fcf
 Seeed-Studio/Seeed_ADIS16470: BRANCHES:[master:24125236016eef638ebc6696e47a42013182f204;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_Linux_mgc3x30: BRANCHES:[master:cd568da32defcdfaf369ac0eb45cf2da1f7314b8;]|RELEASE:[1.0.0|none]
 Seeed-Studio/Seeed_SCD30: BRANCHES:[master:77b91b79d50f03e68aa10a951128a13ecbdcbf85;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/ArduinoCore-k210: BRANCHES:[kendryte-standalone-sdk:2ea3c001557c7f70fad560a7a38c57b36b76f321;dev:eef0a6c7afc7b602c7473781fb023cb22933a60d;master:69b516f8defa4e97af0b98148bae4e2ff5cd1df4;kendryte-freertos-sdk:9693b063ea055e62dc130d6cbd6d317a9ecf7e36;]|RELEASE:[v1.3|none]
