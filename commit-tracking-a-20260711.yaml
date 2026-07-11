@@ -7380,3 +7380,4 @@ Seeed-Studio/grove.py: BRANCHES:[master:15505cb15014a19c30a02ddbef239eaa0a784ee3
 Seeed-Studio/Seeed_AMG8833_Raspberry_Python: BRANCHES:[master:249fd64e07712b7300de459bfc3afedf2d074c6a;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_PCA9685: BRANCHES:[master:2e1c22d329f3c8250a5bcf28de4a241920ad51d3;]|RELEASE:[v0.0.1|none]
 Seeed-Studio/Seeed_ICM20600_AK09918: BRANCHES:[master:8aed079a70cf3fc4032588a85b39368f5cfda147;]|RELEASE:[none|none]
+Seeed-Studio/Grove_Motor_Driver_TB6612FNG: BRANCHES:[master:98736fe031a6975688c9585443c41c2b5cad95a8;]|RELEASE:[v0.0.2|none]
