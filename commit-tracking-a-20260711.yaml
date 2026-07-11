@@ -7194,3 +7194,4 @@ Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbde
 Seeed-Studio/Starter_Shield: BRANCHES:[master:68ebac97ac39c961cf3cb7410f16e577f2456b2c;]|RELEASE:[none|none]
 Seeed-Studio/RFBee: BRANCHES:[master:f631640e363a71198419a5e3555492829a9cae4c;]|RELEASE:[1.0.0|none]
 Seeed-Studio/NFC_Resource: BRANCHES:[master:6c8db9cf5884ca52d5e80bfb101d67576125ef90;]|RELEASE:[none|none]
+Seeed-Studio/Mesh_Bee: BRANCHES:[master:f472184977a696abee1c31b515c46d418633aa68;dev:e9fb212623b2a927666ef0b53ea6b24151f792e4;gh-pages:5d5f863cbd9589a0374b5926dffee1ddde21108a;]|RELEASE:[v1.0.4|364a02e9df3d86ddfc278ca1f843ffcaef60e274]
