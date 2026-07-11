@@ -7456,3 +7456,4 @@ Seeed-Studio/Seeed_Arduino_atWiFiClientSecure: BRANCHES:[master:924ceeee87514c05
 Seeed-Studio/Seeed_Arduino_mbedtls: BRANCHES:[master:59fc9f8ff70d9b772f66923040de79e7c3740f14;backup:2037a3cd3aeac08f60a4d46cba7f23b035d48258;dev:d1ca0175e24768120781bf4a43a1fb2c39fce85f;edge-impulse:526568d1b5d391416888f0f79b8dda962da9142d;]|RELEASE:[v3.0.2|none]
 Seeed-Studio/Seeed_Arduino_atHTTPClient: BRANCHES:[master:6a0f3133b0dde65d24892e19e936feac8982afe3;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/esp-at-lib: BRANCHES:[develop:2f081fa061cc5217c7de79961f1be2ac65a35163;uart-at:734cbc1a1357efcb62df1e4f770240b8b8917300;master:4ed93be0ddf54024ad075d0d5842cdf080739819;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_atUnified: BRANCHES:[master:531f5ac2022e6e2aa15c05c8e39bf19009107ae9;PowerfulCat:4f5db91382d75c54684c566f04a495b88fcfed27;]|RELEASE:[v1.0.0|none]
