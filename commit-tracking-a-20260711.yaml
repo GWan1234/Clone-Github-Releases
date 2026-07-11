@@ -6823,7 +6823,7 @@ sparkfun/SparkFun_IoT_RedBoard-ESP32: BRANCHES:[main:72e78f98fb28f84d8589f292696
 sparkfun/Thing_Plus_Dual-Port_Logging_Shield: BRANCHES:[main:6fb3ef9397b597fd6922dfc8210143360dc153cf;]|RELEASE:[none|none]
 sparkfun/SparkFun_LoRaSerial: BRANCHES:[release_candidate:c039c706869424b8ee23811520a33e789ae4f8b9;gh-pages:f39ab98974d88d8c1275be00977434188a52a999;main:62aa9cc391a47dd5f0f9b08da599cfd0d7820ac1;ToolCrossCompile:0c7a065392252571926835f08e6ba6d39f6cb3a0;]|RELEASE:[v2.0|none]
 ioBroker/ioBroker.assistant-satellite: BRANCHES:[main:54c085bfdac1dbec6b7a45fda9b8b2c3051ef5cb;]|RELEASE:[none|none]
-ioBroker/assistant-satellite: BRANCHES:[main:ff22cbbc1f4001f023fce5cd79186d5eaf3e19e3;]|RELEASE:[v0.1.5|ff22cbbc1f4001f023fce5cd79186d5eaf3e19e3]
+ioBroker/assistant-satellite: BRANCHES:[main:88445e2c742458244bb30464d35310fab6e1f662;]|RELEASE:[v0.1.7|88445e2c742458244bb30464d35310fab6e1f662]
 sparkfun/SparkFun_Swarm_Satellite_Arduino_Library: BRANCHES:[main:5d07a8c6d7c1528c131767228cb0bf180716904c;release_candidate:9dfdc8edb8a366a4abfa17880278baba97db2302;]|RELEASE:[v1.1.10|none]
 sparkfun/SparkFun_MMC5983MA_Magnetometer_Arduino_Library: BRANCHES:[main:6e5c914bf3c38c336b68456450b3e065d22e5ac4;release_candidate:6e5c914bf3c38c336b68456450b3e065d22e5ac4;]|RELEASE:[v1.1.5|none]
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1: BRANCHES:[main:4d01f22a9be9f5e66b14664ec486083617988b34;]|RELEASE:[none|none]
