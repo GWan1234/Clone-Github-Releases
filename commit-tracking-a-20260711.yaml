@@ -7175,3 +7175,4 @@ Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L: BRANCHES:[master:748d32112e91
 Seeed-Studio/SmartMeterWithUI: BRANCHES:[master:d57996688d5707a3d594fe7414ad38325cd91e7e;]|RELEASE:[none|none]
 Seeed-Studio/Small_ePaper_Shield: BRANCHES:[master:0eb0911532a38777faf8cda7e815df49e64696bc;]|RELEASE:[1.0.1|none]
 Seeed-Studio/Air_Quality_Test_Box: BRANCHES:[master:b714ff3c6c1240016d5b295ff244c2b1ed484c2a;]|RELEASE:[none|none]
+Seeed-Studio/Grove_I2C_Touch_Sensor: BRANCHES:[master:fb28f8282acefba43812c3852846fad803f046a2;]|RELEASE:[none|none]
