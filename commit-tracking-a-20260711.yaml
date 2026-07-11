@@ -7306,3 +7306,4 @@ Seeed-Studio/Seeed_Arduino_ADXL345: BRANCHES:[master:2872e236ede75827b8f8b086a5d
 Seeed-Studio/Seeed_Grove_4Digital_Display_g: BRANCHES:[master:d99fefadb66fafd95b5b76a23491614192863316;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Chainable_RGB_LED_g: BRANCHES:[master:51c5981fca4af65295cd84ff7a3cc426d0a6d277;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Temperature_And_Humidity_Sensor_g: BRANCHES:[master:f1699f6c28b026ea2e2fd7b9f2da1fdd15cb190e;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Grove_Speaker_g: BRANCHES:[master:61af43cea228256113683c59e67d33cb88709e28;]|RELEASE:[none|none]
