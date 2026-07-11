@@ -7210,3 +7210,4 @@ Seeed-Studio/NFC_ePaper: BRANCHES:[master:adf59db0fd88a3d7556b66d944aa21e340ce59
 Seeed-Studio/TFT_Touch_Shield_V1: BRANCHES:[master:3286b8d1bd344510200ed04c8563c53e3f950116;]|RELEASE:[1.0.2|none]
 Seeed-Studio/Grove_EMG_detector_demo_code: BRANCHES:[master:5e945981ce9aa4b48ceb95a45e828543108d19d2;]|RELEASE:[none|none]
 Seeed-Studio/RFID_Library: BRANCHES:[master:feeff47c4938e6baaad21f620c72e2ca9d9c4119;]|RELEASE:[1.0.0|none]
+Seeed-Studio/GPRSInterface: BRANCHES:[master:364c4468b998429d67537ddc292ea86303f9db1c;]|RELEASE:[none|none]
