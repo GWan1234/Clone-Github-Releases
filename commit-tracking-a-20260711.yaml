@@ -7197,3 +7197,4 @@ Seeed-Studio/NFC_Resource: BRANCHES:[master:6c8db9cf5884ca52d5e80bfb101d67576125
 Seeed-Studio/Mesh_Bee: BRANCHES:[master:f472184977a696abee1c31b515c46d418633aa68;dev:e9fb212623b2a927666ef0b53ea6b24151f792e4;gh-pages:5d5f863cbd9589a0374b5926dffee1ddde21108a;]|RELEASE:[v1.0.4|364a02e9df3d86ddfc278ca1f843ffcaef60e274]
 Seeed-Studio/Seeeduino_GPRS: BRANCHES:[master:dd5abd935a62632960749e9027fa4e53c0a9b117;]|RELEASE:[1.0.0|none]
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08;]|RELEASE:[none|none]
+Seeed-Studio/Gesture_Recognition: BRANCHES:[master:af78813e8d87d574e9689453dbbd3491bba0a14c;]|RELEASE:[none|none]
