@@ -4541,7 +4541,7 @@ adafruit/Adafruit_CircuitPython_ADS7128: BRANCHES:[main:03bf7f705e03d75fb147955c
 Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library: BRANCHES:[master:a536442dbd1c10d2c12cb6364f8c1745f7843589;]|RELEASE:[none|none]
 adafruit/Adafruit_lgpio: BRANCHES:[main:fc9c79dbac6607133e579ad8ae6d6eac7aea9c83;]|RELEASE:[0.2.2.0|none]
 FUjr/tc1_a1_firmware: BRANCHES:[main:6ab242e3696a02eb63e45eadf158cb1d0309b163;]|RELEASE:[v2.3.1|none]
-Xinyuan-LilyGO/lilygo-skills: BRANCHES:[m25-local-integration:6f004dcb3c2096dcb61a806ec271e1c6b8100c36;task/compact-critical-fallback:dfe8282037a56c1d9a44c41ef28e643b42b4ace2;main:b0c601e2ff9a02f5864cc641d587ddfb097a1854;task/m21-ai-native-routing:317157daab0f70a22daf0e041c483c4ed39bf364;]|RELEASE:[none|none]
+Xinyuan-LilyGO/lilygo-skills: BRANCHES:[m25-local-integration:7249d5b89bdbf4b747a64665450df963bad419cd;task/compact-critical-fallback:dfe8282037a56c1d9a44c41ef28e643b42b4ace2;main:b0c601e2ff9a02f5864cc641d587ddfb097a1854;task/m21-ai-native-routing:317157daab0f70a22daf0e041c483c4ed39bf364;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo-doc-mcp: BRANCHES:[master:59479c4ce00c11e4b420bd805b82c071437c4f57;]|RELEASE:[none|none]
 koreapyj/asterisk-chan-modemmanager: BRANCHES:[main:8be6e7ab7510536a649378b7c64b39f566ffab09;refactor-260702:194d87639f1af375f0e1881b14874e6c4ba9c601;]|RELEASE:[v1.0|none]
 Demogorgon314/luci-app-vohive: BRANCHES:[main:7b83b4a9e023b5a879ca5cc59dd2c286b277d7e7;]|RELEASE:[v0.1.18|none]
