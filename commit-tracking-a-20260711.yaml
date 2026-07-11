@@ -7230,3 +7230,4 @@ Seeed-Studio/Temperature_Suli: BRANCHES:[master:dda836bc12847667afcb2eaa9878bfcb
 Seeed-Studio/Grove_HighTemp_Sensor: BRANCHES:[master:869e295cf1a8630026395b2b91e6ef962f2dadd2;]|RELEASE:[1.0.1|none]
 Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37;]|RELEASE:[none|none]
 Seeed-Studio/Digital_Compass_Suli: BRANCHES:[master:89724b4126d4d0c07653df3dcedfddeabef1b64a;]|RELEASE:[none|none]
+Seeed-Studio/RTC_DS1307_Suli: BRANCHES:[master:5508500e7105fd9a1eabce5f4dee3f8f0e741598;]|RELEASE:[none|none]
