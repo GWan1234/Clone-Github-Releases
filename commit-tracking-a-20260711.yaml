@@ -7423,3 +7423,4 @@ Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04
 Seeed-Studio/Seeed_Serial_MP3_Player: BRANCHES:[master:e10cf51d6a56d764278d4983d6ce859cca226927;old:24c27b14297e63ecd9e3e0bf7722b230f9bf85c9;]|RELEASE:[v2.0.2|none]
 Seeed-Studio/Seeed_Arduino_AS5600: BRANCHES:[master:40f439143fe280143c553ca913cae1230406ab51;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/BLDC_Motor_Shield_TB6605: BRANCHES:[master:8421f43e438030095fad7d6862aa96992ddbafe1;]|RELEASE:[none|none]
+Seeed-Studio/grove_stm32f030: BRANCHES:[master:3f363b15ef93782e3ee0c80698753e6d931d91bd;]|RELEASE:[v1.0.5|none]
