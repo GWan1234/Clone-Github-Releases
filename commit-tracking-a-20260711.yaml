@@ -7308,3 +7308,4 @@ Seeed-Studio/Seeed_Grove_Chainable_RGB_LED_g: BRANCHES:[master:51c5981fca4af6529
 Seeed-Studio/Seeed_Grove_Temperature_And_Humidity_Sensor_g: BRANCHES:[master:f1699f6c28b026ea2e2fd7b9f2da1fdd15cb190e;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Speaker_g: BRANCHES:[master:61af43cea228256113683c59e67d33cb88709e28;]|RELEASE:[none|none]
 Seeed-Studio/AWS_SDK_for_BBG: BRANCHES:[master:53a470c1b5d8313f6d1a04b8fba50af307b585fc;]|RELEASE:[none|none]
+Seeed-Studio/AWS_Arduino_SDK: BRANCHES:[master:b4eef4abb7f59a1b74945354fa87c6a68f2502da;]|RELEASE:[none|none]
