@@ -7161,3 +7161,4 @@ Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1
 Seeed-Studio/Moisture_Sensor: BRANCHES:[master:9b328f4185364916389d01198d6745d9724fd952;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor: BRANCHES:[master:3aef26f550248167403409eb542b89f4a9e9c83e;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Chest_Strap_Heart_Rate_Sensor: BRANCHES:[master:004e48aac52cb263f55cebeb3f7126530a1d67ec;]|RELEASE:[none|none]
+Seeed-Studio/Grove_IR_Distance_Sensor: BRANCHES:[master:a718128b5d549927a40b877edcef76f5f86f695e;]|RELEASE:[none|none]
