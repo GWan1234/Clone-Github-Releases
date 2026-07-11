@@ -7426,3 +7426,4 @@ Seeed-Studio/BLDC_Motor_Shield_TB6605: BRANCHES:[master:8421f43e438030095fad7d68
 Seeed-Studio/grove_stm32f030: BRANCHES:[master:3f363b15ef93782e3ee0c80698753e6d931d91bd;]|RELEASE:[v1.0.5|none]
 Seeed-Studio/Seeed_Sketch_12ChKeypad: BRANCHES:[master:4a6b26ced245ef0b9068bd1d7f9b991b922bbfb4;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_MultiGas: BRANCHES:[master:864730f97cfa57e170580f3148c8ea3fff1f3ee8;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/ArduPy: BRANCHES:[master:1267e875b6c82b9ecf7ac021f979e85d035f7164;new-architecture:f9eab88d7cb2d34ce46245af294f720b22f1f826;dev:85ad56cff40de1959acdb181dcaac5a83dcc32b0;bak:61a072fea3265a6aab7a2a59e9aeb1b8aabdeb8b;v1.12:ce3a8663552ea9fd8e7189b7cae91955aa0d5ec3;]|RELEASE:[1.3.0|none]
