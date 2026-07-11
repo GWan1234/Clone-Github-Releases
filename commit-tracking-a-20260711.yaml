@@ -7138,3 +7138,4 @@ Seeed-Studio/Music_Shield: BRANCHES:[master:195430b7c84a348780a1ced49ebd5ba475e6
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Atom_Node: BRANCHES:[master:7e0e0dce4b3287ddcb2cd2111705b14f27c5bcdb;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49;]|RELEASE:[v2.6.1|none]
+Seeed-Studio/ArduinoPhone: BRANCHES:[master:783f45cf09461840eb0728144bf98124aa40df36;]|RELEASE:[none|none]
