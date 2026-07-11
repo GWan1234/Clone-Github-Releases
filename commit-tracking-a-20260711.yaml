@@ -7375,3 +7375,4 @@ Seeed-Studio/Grove_Multi_Switch: BRANCHES:[master:5624f33aa3e8e01381ed37bf68a785
 Seeed-Studio/Seeed_LTC2941: BRANCHES:[master:5a1a1d98ad67f09f6ce0e1586fa3698f0243cfa6;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_BMA456: BRANCHES:[master:59fbc1b0ad9ce22131ad904c3aebd79fc7483068;rpi:7c8243eda12985e0dc16af6d7e4ff4f9e1801a81;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_BME68x: BRANCHES:[master:cce596a29d83c021e20fc976d82be36645c348e1;]|RELEASE:[none|none]
+Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0;]|RELEASE:[none|none]
