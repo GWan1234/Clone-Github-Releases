@@ -7382,3 +7382,4 @@ Seeed-Studio/Seeed_PCA9685: BRANCHES:[master:2e1c22d329f3c8250a5bcf28de4a241920a
 Seeed-Studio/Seeed_ICM20600_AK09918: BRANCHES:[master:8aed079a70cf3fc4032588a85b39368f5cfda147;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Motor_Driver_TB6612FNG: BRANCHES:[master:98736fe031a6975688c9585443c41c2b5cad95a8;]|RELEASE:[v0.0.2|none]
 Seeed-Studio/Seeed_MCP9600: BRANCHES:[master:1933cddba8df0d194b756dd2daff7ebe24d6cce2;]|RELEASE:[v1.0.3|none]
+Seeed-Studio/Seeed_SHT35: BRANCHES:[master:0abb003e939153b4c19f127d84d48c938c15f746;]|RELEASE:[v1.0.2|none]
