@@ -7478,3 +7478,4 @@ Seeed-Studio/Seeed_Arduino_MG126: BRANCHES:[master:1a55f09c3c7e0a9d03436f0b1d1d4
 Seeed-Studio/seeed-ardupy-lcd1602: BRANCHES:[master:3b297dade7040e158074d31f2c02754f6926ef43;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_TFlidar: BRANCHES:[master:438ebb357941dd5fc862d31f333c64f6072c52d6;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_CMSISAtmel: BRANCHES:[master:cb0c38bee8b9eff747ff73c912e59f69a47d905b;]|RELEASE:[v1.2.2|none]
+Seeed-Studio/seeed-ardupy-TFLidar: BRANCHES:[master:ea396f046483f933172df246919f3ea6a9e0a7b2;]|RELEASE:[none|none]
