@@ -7157,3 +7157,4 @@ Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d53
 Seeed-Studio/Grove_Infrared_Temperature_Sensor: BRANCHES:[master:f81cebb69ed20c8ba2c7c74df902584269bd37dd;]|RELEASE:[none|none]
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0;]|RELEASE:[none|none]
 Seeed-Studio/RTC_DS1307: BRANCHES:[master:084446186849a33631dba21d4e94fa5d3ee77e77;]|RELEASE:[1.0.0|none]
+Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db;]|RELEASE:[v1.0.3|none]
