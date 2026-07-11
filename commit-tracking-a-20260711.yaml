@@ -7324,3 +7324,4 @@ Seeed-Studio/Facebook_Likes_Box_with_lks7688Duo: BRANCHES:[master:d29e07d7bb5d85
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f;]|RELEASE:[v0.2.1|none]
 Seeed-Studio/Grove_Drivers_for_Wio: BRANCHES:[master:812caa468608555d2d558c2b31e419f61ece04fd;static:6fe7ab4e1509b385316121946c13b19d33511ec7;feature/grove_SI114X:6dcf11c42577bc35a5a798ac575a496511b04d0a;]|RELEASE:[none|none]
 Seeed-Studio/Grove_BMP280: BRANCHES:[master:211ba9ea259e9a96cba26408840b4c73549d5cb7;]|RELEASE:[1.0.1|none]
+Seeed-Studio/Grove_BME280: BRANCHES:[master:ecb5b55bf96cb93c823e14c52f22437d26a370af;]|RELEASE:[1.0.2|none]
