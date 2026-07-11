@@ -7150,3 +7150,4 @@ Seeed-Studio/Grove_Temperature_And_Humidity_Sensor: BRANCHES:[master:7d973d0d331
 Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6fd4c4;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a006725f1b78fdae2fc49;]|RELEASE:[none|none]
 Seeed-Studio/Accelerometer_ADXL335: BRANCHES:[master:3b4a9b141bbf3595b70288e5deaee5c4c30868c8;]|RELEASE:[v1.0.1|none]
+Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822f546a1cedd7c1;]|RELEASE:[v1.0.0|none]
