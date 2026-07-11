@@ -7487,3 +7487,4 @@ Seeed-Studio/seeed-ardupy-ads1115: BRANCHES:[master:8f8fdb791082eac4d6cbdba0e87c
 Seeed-Studio/seeed-ardupy-si114x: BRANCHES:[master:898fcd790368717b440b822cac01e7d61036f931;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Python_SI114X: BRANCHES:[master:b2cb4051d2e404da2cdd443c7e633c936885fc9a;Si115x:b7fc51556035bfe57afd66fd263f2be790451a08;]|RELEASE:[v1.1.0|none]
 Seeed-Studio/Seeed_Python_DS18B20: BRANCHES:[master:2a937ca761138aa13d8e2e0ed42ba159aca24723;]|RELEASE:[1.0.0|none]
+Seeed-Studio/seeed-ardupy-mlx9064x: BRANCHES:[master:846f24651b6b0aa8762d906a91741119297b2e91;]|RELEASE:[none|none]
