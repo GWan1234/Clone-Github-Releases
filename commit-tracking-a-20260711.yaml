@@ -7466,3 +7466,4 @@ Seeed-Studio/Seeed_Arduino_IR: BRANCHES:[master:edbe301e8271382b09a170f7c83f5a91
 Seeed-Studio/Seeed_Arduino_ADS1115: BRANCHES:[master:00beed48708bae7cce1f78ad05448e1af132e0a3;]|RELEASE:[none|none]
 Seeed-Studio/ardupy-aip: BRANCHES:[master:1c0d143dc811f1be1bd7260100985db9a317e2f7;dev:3faa9f728a57a37aa325410e1fd49125c2d90a53;support-xiao:93ddcf285bcd90484ea41a018be0ff00f4c88f70;v0.6.0:326037fb47af5aa524a4e04f9f9d99b83ce3f293;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/seeed-ardupy-mma7660: BRANCHES:[master:a3bad4848d5e77ef33290bf6e0fcdbcaf9800413;]|RELEASE:[v1.0|none]
+Seeed-Studio/seeed-ardupy-my9221: BRANCHES:[master:951964d212a23fcccde7718f16caf09836a3f758;]|RELEASE:[v1.0|none]
