@@ -7418,3 +7418,4 @@ Seeed-Studio/Grove_Current_Sensor: BRANCHES:[master:c2139cf9058bf03dc151f8f4eccb
 Seeed-Studio/pxt-BitMaker: BRANCHES:[master:b46e4b66e1e8a8f12764b3aed78b692dd3e685ff;]|RELEASE:[none|none]
 Seeed-Studio/Wio_Extension_RTC: BRANCHES:[master:371594659fe5f58e03aa94f07bb36c8b3fd7059f;]|RELEASE:[none|none]
 Seeed-Studio/Azure_Sphere_Demo: BRANCHES:[master:49564bd5cac925cfb15626e991b189789712d740;]|RELEASE:[none|none]
+Seeed-Studio/linux: BRANCHES:[imx-4.19.y:720ba9f1900032c80e2bdbad74206e27abd84e72;stm32-4.19.y:2b64641b1ef2fbbf48be4b15ef84c60b9f776158;master:e53f31bffe1d552f496b674cd1733658a268e177;stm32mp1-v4.19.9:0d6c2e1f6a4a46f8ce35c4c0df474dac7c41832e;]|RELEASE:[none|none]
