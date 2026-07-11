@@ -7141,3 +7141,4 @@ Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246a
 Seeed-Studio/ArduinoPhone: BRANCHES:[master:783f45cf09461840eb0728144bf98124aa40df36;]|RELEASE:[none|none]
 Seeed-Studio/CANBUS_SHIELD_OBD_RECIPLE: BRANCHES:[master:690fbb1ebb24991e2f90d77673d8ed9054c47cb6;]|RELEASE:[none|none]
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70;]|RELEASE:[none|none]
+Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7;]|RELEASE:[2.0.0|none]
