@@ -7182,3 +7182,4 @@ Seeed-Studio/Grove_Flame_Sensor: BRANCHES:[master:f78973d6c43b42dd3cd156b2684b11
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524;]|RELEASE:[none|none]
 Seeed-Studio/Motor_Shield: BRANCHES:[master:cf79d2ebf996ecea323c6183a8f7f58399b8ffb6;]|RELEASE:[none|none]
 Seeed-Studio/Rainbowduino_Snake_Game: BRANCHES:[master:b69bdc8f9dab96db2ad28226921f159f8a85c7ff;gh-pages:ad72c3293847e2d326cc50ff9d18671032264a55;]|RELEASE:[none|none]
+Seeed-Studio/PN532: BRANCHES:[arduino:2c47f5c836af53158c4e29685551612181fd8f9b;master:88c358ca389665dcc661ff2f31fa83bf031b0e0d;mbed:8d17d6ab3ee7ee081126581e77e0e6114f298941;]|RELEASE:[v1.0|none]
