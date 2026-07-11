@@ -7445,3 +7445,4 @@ Seeed-Studio/Seeed_Arduino_RotaryEncoder: BRANCHES:[master:804feef98350bfcbcfd38
 Seeed-Studio/Seeed_Arduino_KCT202: BRANCHES:[master:fb054574259d36c649c7175b5ddce6686336ce30;]|RELEASE:[v1.0.2|none]
 Seeed-Studio/Seeed_Arduino_MLX9064x: BRANCHES:[master:17db92f15877fbcbf073c42dacbf437b2ad9e205;add-license-1:c6317161be8b19b59ae72e95b5e60e23c0f512aa;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/Seeed_Python_MLX9064x: BRANCHES:[master:fd9645919bbce69ee9c08774273128fb9c5e1241;]|RELEASE:[1.1.2|none]
+Seeed-Studio/seeed-linux-bootbinary: BRANCHES:[master:d152b2cf54332b5994795cc4ab0bc8e5d7c4d37d;stm32mp135:e16a4b27a4ccf1c74d4941ba5f72b8f9ab6fe66a;]|RELEASE:[none|none]
