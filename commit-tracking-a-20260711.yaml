@@ -4961,7 +4961,7 @@ yifengyou/zinx: BRANCHES:[zinx_v0.10:737b1b786e2521e81cf6e2da78948f045ae6f434;zi
 ioBroker/socketio-package: BRANCHES:[main:3939bb08ced11dd3fd580b3c6a0a2617d8e863f0;]|RELEASE:[v8.0.5|1704022e1933655aa5e756d2189aa235657bd4b1]
 ioBroker/ws-server-package: BRANCHES:[dependabot/npm_and_yarn/types/node-25.9.3:ecdbbe752b8517a0ade03f97b32844ccb131bba6;main:2171b98780278e21566781fa09560bb3dc91d633;]|RELEASE:[v5.0.2|2171b98780278e21566781fa09560bb3dc91d633]
 algerkong/iptv-api: BRANCHES:[master:cdac565047646f87effc88e9d13bd1743d412027;]|RELEASE:[none|none]
-thelastoutpostworkshop/ESPVault: BRANCHES:[main:082960737cbc1fb9c8b3013da15e7355f94cc9d3;]|RELEASE:[v1.0.30|none]
+thelastoutpostworkshop/ESPVault: BRANCHES:[main:0f5efbcc32cca27728229d9597f1875ca11ead31;]|RELEASE:[1.0.31|none]
 dr-dolomite/SJA-Library-Management-System: BRANCHES:[feat/circulation-and-venue:a60b5247fb5bed6aae7b053275e311bafd6c067c;main:6e61035deb25b4405e1f5e0f811cbc4ac4fea480;]|RELEASE:[none|none]
 yifengyou/p330: BRANCHES:[master:820e6892b4248e98664624e7b57fec03d48a67e4;]|RELEASE:[none|none]
 dailook/arm-trusted-firmware: BRANCHES:[mtksoc:e06f258664198a901ff1c7c0c87802a115179451;]|RELEASE:[none|none]
