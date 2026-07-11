@@ -7293,3 +7293,4 @@ Seeed-Studio/GPRS_SIM900: BRANCHES:[master:4e57e654735c6fe54fefe623854e99dc771fe
 Seeed-Studio/Grove_Node: BRANCHES:[master:4eb263b319dc5a09410a34140380aed63688ae2e;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Drivers_for_mbed: BRANCHES:[master:c3da26128679b72ed660b09ff7d95cc7887e7ee0;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Gesture: BRANCHES:[master:e7deef131e4083a382b2adfab379ec5b88c887db;]|RELEASE:[v2.0.1|none]
+Seeed-Studio/Wio_Link_Android_App: BRANCHES:[master:e7c4b6fd1110a835f0312c28ae9f83856f3c8dd6;feature/door:c2760106a39a2360ce23230c40f5041a9552cf7e;feature/dev_6.0_config_failure:b34745e766ee749bbbe8557835fe874d84263778;]|RELEASE:[v2.5.3|none]
