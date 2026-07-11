@@ -7461,3 +7461,4 @@ Seeed-Studio/Seeed_Arduino_atWiFi: BRANCHES:[master:d2f358c6abdc54b9863fc0fa3285
 Seeed-Studio/Seeed_Arduino_LvGL: BRANCHES:[master:ca14fa691a7c0b556d1117caf0c4d82ac646c78b;add-license-1:381963c70d28ee51a18e43403a812839f9a6dee6;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_Ardupy_LvGL: BRANCHES:[master:21f983c734589a47637fbfdce34b28534d80dfc7;dev-6.1:d693e9af06cd0044b376f036b6cac6b56dd46ef0;merge_fix:60b0bbcd2b00c0293c33388878d9bc1512205d27;dev-6.0:e5c6219ecc89c1585fb92072a0256f9ed9d8e47c;emscripten:5142311cc74a25109a4876ca541e291f0955d313;dev-5.3:c0d7b649146aa127320a9656bbebb8d0b3421a6c;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_Histogram: BRANCHES:[master:60daeafec02f7bab3080fe5ad2694c7ef3c3331a;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Seeed_Arduino_Linechart: BRANCHES:[master:53cebccb5cc8a6625b4d69bce12a426a862e5d1d;dev:2fb2891de772290c1d37bcbef9be301c99ba0bc3;]|RELEASE:[v1.1.0|none]
