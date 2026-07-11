@@ -7223,3 +7223,4 @@ Seeed-Studio/LED_Bar_Suli: BRANCHES:[master:b765f38ede6fa780bbdcb924933fe0f1d43b
 Seeed-Studio/Temp_Hmi_Suli: BRANCHES:[master:b07ab2c7783bdde4bc88d6fbb125dbb4eea69327;]|RELEASE:[none|none]
 Seeed-Studio/ACC_Adxl345_Suli: BRANCHES:[master:edd1f2024adff6a413a2fda774e882c11046b408;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Barometer_HP20x: BRANCHES:[master:6215e2416a8afb26cdd62f0beb222d3ab0240f43;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Accelerometer_H3LIS331DL: BRANCHES:[master:208d907c2b3cec4ae5eeba7512c30ac1001aa9a0;]|RELEASE:[v1.0.2|none]
