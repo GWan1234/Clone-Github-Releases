@@ -7200,3 +7200,4 @@ Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f
 Seeed-Studio/Gesture_Recognition: BRANCHES:[master:af78813e8d87d574e9689453dbbd3491bba0a14c;]|RELEASE:[none|none]
 Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_CAN: BRANCHES:[master:cb607da7da84d3ebf375948b70e5a909b80f2f8f;fix/spi-begin-esp32-compat:34c1d6ff911bb2766e8d6d1573ef26ba985b3d5e;can-serial:ac504106e49cf79769d17d8191187c4463d01589;old:dc2fb92dad4ac537d3eff4d8f3d354a4b1a17e03;coolc:6bdd376f34817a70baef1d4b4f9daa39aa3e1a04;arduino-canbus-monitor:942138d09f73051439cf657aa8e4a201187dd83b;]|RELEASE:[V2.3.4|none]
+Seeed-Studio/Xadow_MainBoard: BRANCHES:[master:4cb5aff0f0af8098119ef601a62d58595968c9da;]|RELEASE:[none|none]
