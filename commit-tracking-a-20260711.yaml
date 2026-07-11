@@ -7363,3 +7363,4 @@ Seeed-Studio/WioLTE_Cat_NB1_Arduino_Library: BRANCHES:[master:b4461741382aaaff39
 Seeed-Studio/Seeed_MAX31850K: BRANCHES:[master:fd928e673d38b8870e4981809bdf6207ed2cb24e;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Temperature_sensor_MCP9808: BRANCHES:[master:9c4ad6eede42fb2f65baa16d5ec1decd28e9ca17;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Human_Presence_Sensor: BRANCHES:[master:79c1dc7f0e131811dd05744487ba3034294197d4;]|RELEASE:[none|none]
+Seeed-Studio/Multi_Channel_Relay_Arduino_Library: BRANCHES:[master:4947c1c18842a6bcda3d827b1027360e131619f1;]|RELEASE:[v1.1.0|none]
