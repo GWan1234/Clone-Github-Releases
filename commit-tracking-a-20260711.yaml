@@ -7474,3 +7474,4 @@ Seeed-Studio/seeed-ambd-sdk: BRANCHES:[AT:d953d6473f1d7612d88b0aaeefadb48ee2e72e
 Seeed-Studio/seeed-ardupy-amg8833: BRANCHES:[master:76a351da3513c3836a4448b59e1e8d893e211f5e;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_SFUD: BRANCHES:[master:ab3117e3baf36f8c0790f4b989c6e83ec1e5b7e5;new-arch:7d910c9845198f0bbe1d85762a94f64018d89337;]|RELEASE:[v2.0.2|none]
 Seeed-Studio/Seeed_Arduino_Sketchbook: BRANCHES:[master:4f39ac4578267b5eeb1b6093f38b4efd02128c83;web-bluetooth:a322eaf1f51e9f19f55caf9c2faf6b7c8c87c593;]|RELEASE:[v1.0.2|none]
+Seeed-Studio/Seeed_Arduino_MG126: BRANCHES:[master:1a55f09c3c7e0a9d03436f0b1d1d4b7fc4c4c91a;]|RELEASE:[none|none]
