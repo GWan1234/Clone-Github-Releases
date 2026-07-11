@@ -7234,3 +7234,4 @@ Seeed-Studio/RTC_DS1307_Suli: BRANCHES:[master:5508500e7105fd9a1eabce5f4dee3f8f0
 Seeed-Studio/Grove_Temper_Humidity: BRANCHES:[master:14b3d39b9738d33ec27005ee3a10e9bed583502e;]|RELEASE:[1.0.1|none]
 Seeed-Studio/LCD_RGB_Backlight_Suli: BRANCHES:[master:190f5717f5fa412c514c740c055e184f839bb2b6;]|RELEASE:[none|none]
 Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e65de405;]|RELEASE:[none|none]
+Seeed-Studio/OLED_128x64_Suli: BRANCHES:[master:b0f74ad110deb1f97f2cc792c1a6dbc1067da88f;]|RELEASE:[none|none]
