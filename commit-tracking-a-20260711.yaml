@@ -7262,3 +7262,4 @@ Seeed-Studio/Colorful_Clock: BRANCHES:[master:50690ee797506949a1a7838d1e4fd1d7e8
 Seeed-Studio/LaunchPad_Kit: BRANCHES:[master:ddaaac23b52bfcaa250c620ec698edc25921896d;]|RELEASE:[none|none]
 Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615: BRANCHES:[master:c18da10a9fd35353db6a3dbd41802642adeeacca;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/BLE_Example: BRANCHES:[master:c69e13f9d01cf79079627562f6d748c32e9c1198;]|RELEASE:[none|none]
+Seeed-Studio/IR_Recv_LinkIt_ONE: BRANCHES:[master:2c04b0196fa985833f8babc308514640fc63bf56;]|RELEASE:[none|none]
