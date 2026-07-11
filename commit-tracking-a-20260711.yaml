@@ -7269,3 +7269,4 @@ Seeed-Studio/Files_For_Seeed_Main_Board: BRANCHES:[master:7d22396b7303f388a6277f
 Seeed-Studio/BLE_Color_Pixels: BRANCHES:[master:1d8bc731f8a48d3b1aa42329de0bde0030cf56ab;]|RELEASE:[none|none]
 Seeed-Studio/RPi_GrovePi: BRANCHES:[master:d58bd5744b69e188fcb42a65671b846b21e3b3f2;]|RELEASE:[none|none]
 Seeed-Studio/Tiny_BLE: BRANCHES:[master:a0c4545ae6ca579d31eb2ea71257fb10c6b5e072;]|RELEASE:[none|none]
+Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass_v2: BRANCHES:[master:92be39e3935b10f3ad7131ff717e7ee6e3599988;]|RELEASE:[v1.0.1|none]
