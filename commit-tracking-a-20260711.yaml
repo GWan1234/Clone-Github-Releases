@@ -7152,3 +7152,4 @@ Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a0067
 Seeed-Studio/Accelerometer_ADXL335: BRANCHES:[master:3b4a9b141bbf3595b70288e5deaee5c4c30868c8;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822f546a1cedd7c1;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Accelerometer_MMA7660: BRANCHES:[master:173f0fc5612777ca62fd7f37283b72fcc46a049f;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Grove_Alcohol_Sensor: BRANCHES:[master:dcc8fcc75adab8fa5f802a759cffe7cf6410c55b;]|RELEASE:[none|none]
