@@ -7358,3 +7358,4 @@ Seeed-Studio/grove-zero-scratch-helperAPP: BRANCHES:[master:35f4c85006ce58000e77
 Seeed-Studio/EMSTS: BRANCHES:[master:0c69690124ace07a5e49015ad91e98663c13d86d;]|RELEASE:[none|none]
 Seeed-Studio/Grove-Ranging-sensor-VL53L0X: BRANCHES:[master:05498ad8a8647e5b6bc0c919d76409dc7557756a;K1101:5c4be60a1823b780161672f8b79537dab6062e2c;]|RELEASE:[v1.1.1|none]
 Seeed-Studio/Seeed_BME680_V1: BRANCHES:[master:56b514c40f239f37ea9b52161adb3b56500cd7d2;]|RELEASE:[none|none]
+Seeed-Studio/Grove_detect_sensor_GP2Y0D805Z0F: BRANCHES:[master:a989d5f40373d20f148b245b790fa60f4f62d472;]|RELEASE:[none|none]
