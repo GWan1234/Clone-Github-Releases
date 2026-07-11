@@ -7361,3 +7361,4 @@ Seeed-Studio/Seeed_BME680_V1: BRANCHES:[master:56b514c40f239f37ea9b52161adb3b565
 Seeed-Studio/Grove_detect_sensor_GP2Y0D805Z0F: BRANCHES:[master:a989d5f40373d20f148b245b790fa60f4f62d472;]|RELEASE:[none|none]
 Seeed-Studio/WioLTE_Cat_NB1_Arduino_Library: BRANCHES:[master:b4461741382aaaff3926fdb6b4f542241142a99a;test:aef32f5253f5c23eef778e92d3a995c64e9a599b;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_MAX31850K: BRANCHES:[master:fd928e673d38b8870e4981809bdf6207ed2cb24e;]|RELEASE:[none|none]
+Seeed-Studio/Grove_Temperature_sensor_MCP9808: BRANCHES:[master:9c4ad6eede42fb2f65baa16d5ec1decd28e9ca17;]|RELEASE:[none|none]
