@@ -7392,3 +7392,4 @@ Seeed-Studio/micropython-microbit-grove: BRANCHES:[master:e3766e9d6763866ac93878
 Seeed-Studio/Grove_4Digit_Display: BRANCHES:[master:4ef5c260facf3a076db52d0f2955dba447ff9c63;]|RELEASE:[none|none]
 Seeed-Studio/Grove_ChainableLED: BRANCHES:[master:9c3f4fefc70aca267fff90c93f33a65910e244f3;]|RELEASE:[none|none]
 Seeed-Studio/Grove_2SMPB_02E: BRANCHES:[master:9e7d2f8dfea514440fe07d4e5ee1eb16172ef1d0;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Seeed_AMG8833: BRANCHES:[master:cdd14d6a83d5b9dfb3445239ded2c43f9df7f2d2;lcd:461eac1d5e4e8a588c7516a57567abff773c30af;]|RELEASE:[none|none]
