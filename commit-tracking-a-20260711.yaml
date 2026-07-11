@@ -7476,3 +7476,4 @@ Seeed-Studio/Seeed_Arduino_SFUD: BRANCHES:[master:ab3117e3baf36f8c0790f4b989c6e8
 Seeed-Studio/Seeed_Arduino_Sketchbook: BRANCHES:[master:4f39ac4578267b5eeb1b6093f38b4efd02128c83;web-bluetooth:a322eaf1f51e9f19f55caf9c2faf6b7c8c87c593;]|RELEASE:[v1.0.2|none]
 Seeed-Studio/Seeed_Arduino_MG126: BRANCHES:[master:1a55f09c3c7e0a9d03436f0b1d1d4b7fc4c4c91a;]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-lcd1602: BRANCHES:[master:3b297dade7040e158074d31f2c02754f6926ef43;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_TFlidar: BRANCHES:[master:438ebb357941dd5fc862d31f333c64f6072c52d6;]|RELEASE:[none|none]
