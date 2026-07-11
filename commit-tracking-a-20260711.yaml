@@ -7330,3 +7330,4 @@ Seeed-Studio/beaglebone-getting-started: BRANCHES:[BBGW:198402eb50fba9cc6489f268
 Seeed-Studio/Grove_LED_Matrix_Driver: BRANCHES:[master:3d0c150a837dc4191520ab09b964c21895aae523;]|RELEASE:[1.0.0|none]
 Seeed-Studio/MotorBridgeCapeFirmwareSourceCode: BRANCHES:[master:9f3eead0cc4a3007fb6bb8c4bab1038ff4178429;]|RELEASE:[none|none]
 Seeed-Studio/MotorBridgeCapeFirmware: BRANCHES:[master:4f6aca9c447a06c55a2a7fd90dc250426d572629;]|RELEASE:[none|none]
+Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor: BRANCHES:[master:7fde3a43a7c2d8bfda036fdbd22577ae596d30e8;]|RELEASE:[v1.0.1|none]
