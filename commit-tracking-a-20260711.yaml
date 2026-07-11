@@ -7340,3 +7340,4 @@ Seeed-Studio/Grove_I2C_Motor_Driver_v1_3: BRANCHES:[master:8da2815d52f26783470f6
 Seeed-Studio/OPL_Kicad_Library: BRANCHES:[master:b0035c51eb0348bb3e165fdb2f2765fa3d1d17bd;]|RELEASE:[none|none]
 Seeed-Studio/Grove_IMU_10DOF_v2.0: BRANCHES:[master:be7967bb9f135fce77704489d2cb543d202797cd;]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Color_Sensor_TCS3472: BRANCHES:[master:4afb01a8be0c7be1bdcfdb2bdb3c6e160fb5a2d6;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Wio_GPS_Board: BRANCHES:[master:33c2f46235bf58b4b8ead978894a15edcf1a6cdb;Test:fa5b6b14a74d9a7fd053cc40f7bf2ebf14dbdc2f;]|RELEASE:[v1.0.3|none]
