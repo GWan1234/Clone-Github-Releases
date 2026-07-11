@@ -7327,3 +7327,4 @@ Seeed-Studio/Grove_BMP280: BRANCHES:[master:211ba9ea259e9a96cba26408840b4c73549d
 Seeed-Studio/Grove_BME280: BRANCHES:[master:ecb5b55bf96cb93c823e14c52f22437d26a370af;]|RELEASE:[1.0.2|none]
 Seeed-Studio/SeeedMotorShieldV2: BRANCHES:[master:e1a106360fd59c85f56f2f0d9599a309cbb287a3;]|RELEASE:[1.0.1|none]
 Seeed-Studio/beaglebone-getting-started: BRANCHES:[BBGW:198402eb50fba9cc6489f2689ec85315641c3d06;BBG:a1a54a0e978e4d8298895801746e2bb7248a6071;master:267ccde4d2f35b3fb5fd5f2f36750cf2867fd0cc;a3:594f61883c53754520efedc6ba33d9bc487d77ce;windows-ftdi-feedback:790d0a1ad3ae528e0e20650cacc8c98aa95df2bf;]|RELEASE:[none|none]
+Seeed-Studio/Grove_LED_Matrix_Driver: BRANCHES:[master:3d0c150a837dc4191520ab09b964c21895aae523;]|RELEASE:[1.0.0|none]
