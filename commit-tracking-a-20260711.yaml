@@ -7184,3 +7184,4 @@ Seeed-Studio/Motor_Shield: BRANCHES:[master:cf79d2ebf996ecea323c6183a8f7f58399b8
 Seeed-Studio/Rainbowduino_Snake_Game: BRANCHES:[master:b69bdc8f9dab96db2ad28226921f159f8a85c7ff;gh-pages:ad72c3293847e2d326cc50ff9d18671032264a55;]|RELEASE:[none|none]
 Seeed-Studio/PN532: BRANCHES:[arduino:2c47f5c836af53158c4e29685551612181fd8f9b;master:88c358ca389665dcc661ff2f31fa83bf031b0e0d;mbed:8d17d6ab3ee7ee081126581e77e0e6114f298941;]|RELEASE:[v1.0|none]
 Seeed-Studio/Grove_Serial_Camera_Kit: BRANCHES:[master:cc91b82c5ffd6c599da58170ee9427984f31fcfb;]|RELEASE:[none|none]
+Seeed-Studio/Grove_LCD_RGB_Backlight: BRANCHES:[master:dbd5674f5d0f8453595484711a144f16248c2d1c;]|RELEASE:[1.0.1|none]
