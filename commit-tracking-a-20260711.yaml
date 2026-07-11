@@ -7440,3 +7440,4 @@ Seeed-Studio/image-builder: BRANCHES:[master:81ea4a0114c52546aea612df91c25b9c5ce
 Seeed-Studio/Seeed_ArduPy_MagicStick: BRANCHES:[master:533239aaff61f40d2721532a948664ef03555a2d;]|RELEASE:[none|none]
 Seeed-Studio/ArduinoCore-samd: BRANCHES:[master:2e6b174f81b988964ce3811f5b5e39297c2c9c3f;k1100:7134bad7383affc1feb2ccea0c259a79964be7c1;k1100-dev:caf13f0eedd6985b710415e963c6f4d082fa8e77;Wio_LTE_Cat.1:25a7c6aa6582e75aba778e0c566c0a5594c8d6b2;i2c-slave:da78173bfe6fb2b92d4786fdc6b1782c7a15de5d;ArduPy:cad8f6bbeae034ec9dc22808cd75fb99165503f9;CI:ef2609a2c53bd071a63e4bc9bbd713fd4a721afa;lanselambor:72e8d62afdd419825e7c3bc7cc90d78660d1f8f5;]|RELEASE:[v1.8.6|none]
 Seeed-Studio/platform-nxpimxrt: BRANCHES:[master:db56118ebb433509d2719ad95f5505f058287209;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_Terminal: BRANCHES:[master:7a8f9db62dc733f11430a42182c9db7436cb9bdc;]|RELEASE:[v1.0.0|none]
