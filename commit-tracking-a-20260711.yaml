@@ -7352,3 +7352,4 @@ Seeed-Studio/Grove_3_Axis_Compass_V2.0_BMM150: BRANCHES:[master:179a2bff4e7b7861
 Seeed-Studio/BME680_4_In_1_Sensor_Drv: BRANCHES:[master:3317d32eb0c1763974c847ebf0afd0d078bff029;]|RELEASE:[none|none]
 Seeed-Studio/Wio_LTE_JavaScript_Demo: BRANCHES:[master:85e28c5509044521527856e8f62ca786e0e6fc5d;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_SGP30: BRANCHES:[master:a7451a81f8f7f0de05102c205c02c4a6219ad9a1;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef0990407fadaa6218;]|RELEASE:[none|none]
