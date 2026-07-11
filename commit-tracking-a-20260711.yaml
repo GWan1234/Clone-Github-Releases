@@ -7257,3 +7257,4 @@ Seeed-Studio/mbed_ble: BRANCHES:[master:a1c565695018add27ce1210273b86e1692d5acce
 Seeed-Studio/Sketch_Grove_LinkIt: BRANCHES:[master:9a22838340b6fe1f8f9f9cbed960f0eb385d9b75;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Robot: BRANCHES:[master:8ce4cafcfe4d4c87b5bf4f16df92f4effb1f346f;]|RELEASE:[none|none]
 Seeed-Studio/LinkIt_ONE_IoT_Demo: BRANCHES:[master:8d9cc390e9c3ed1849ba12ec4fe47bbc70a78621;]|RELEASE:[none|none]
+Seeed-Studio/nrf51_dfu_bootloader: BRANCHES:[master:ce0123644578bc0c99596f841f2a917a705a8d1c;]|RELEASE:[v0.1|43deb420fc0d275047841c76fd6586714ddab181]
