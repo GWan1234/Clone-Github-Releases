@@ -7356,3 +7356,4 @@ Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef099040
 Seeed-Studio/pxt-grove-zero-for-microbit: BRANCHES:[master:5e2b521509cafe7a0521775fc7e9ab9bd9d681b4;]|RELEASE:[1.0.4|none]
 Seeed-Studio/grove-zero-scratch-helperAPP: BRANCHES:[master:35f4c85006ce58000e7726a599cd3d6b43f6b110;]|RELEASE:[none|none]
 Seeed-Studio/EMSTS: BRANCHES:[master:0c69690124ace07a5e49015ad91e98663c13d86d;]|RELEASE:[none|none]
+Seeed-Studio/Grove-Ranging-sensor-VL53L0X: BRANCHES:[master:05498ad8a8647e5b6bc0c919d76409dc7557756a;K1101:5c4be60a1823b780161672f8b79537dab6062e2c;]|RELEASE:[v1.1.1|none]
