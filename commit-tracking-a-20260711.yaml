@@ -7416,3 +7416,4 @@ Seeed-Studio/Seeed_SCD30: BRANCHES:[master:77b91b79d50f03e68aa10a951128a13ecbdcb
 Seeed-Studio/ArduinoCore-k210: BRANCHES:[kendryte-standalone-sdk:2ea3c001557c7f70fad560a7a38c57b36b76f321;dev:eef0a6c7afc7b602c7473781fb023cb22933a60d;master:69b516f8defa4e97af0b98148bae4e2ff5cd1df4;kendryte-freertos-sdk:9693b063ea055e62dc130d6cbd6d317a9ecf7e36;]|RELEASE:[v1.3|none]
 Seeed-Studio/Grove_Current_Sensor: BRANCHES:[master:c2139cf9058bf03dc151f8f4eccb260b9566961a;]|RELEASE:[none|none]
 Seeed-Studio/pxt-BitMaker: BRANCHES:[master:b46e4b66e1e8a8f12764b3aed78b692dd3e685ff;]|RELEASE:[none|none]
+Seeed-Studio/Wio_Extension_RTC: BRANCHES:[master:371594659fe5f58e03aa94f07bb36c8b3fd7059f;]|RELEASE:[none|none]
