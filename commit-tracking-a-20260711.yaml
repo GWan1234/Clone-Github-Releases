@@ -7366,3 +7366,4 @@ Seeed-Studio/Grove_Human_Presence_Sensor: BRANCHES:[master:79c1dc7f0e131811dd057
 Seeed-Studio/Multi_Channel_Relay_Arduino_Library: BRANCHES:[master:4947c1c18842a6bcda3d827b1027360e131619f1;]|RELEASE:[v1.1.0|none]
 Seeed-Studio/Grove_3Axis_Digital_Accelerometer_BMA400: BRANCHES:[master:34aacf648bf40ed16f00424a7be99fb25aff1bb4;]|RELEASE:[none|none]
 Seeed-Studio/Grove_6Axis_Accelerometer_And_Gyroscope_BMI088: BRANCHES:[master:1f7ccbc8a0b6b7c0b9a6b275d036a0f281df6634;]|RELEASE:[none|none]
+Seeed-Studio/Grove_LED_Matrix_Driver_HT16K33: BRANCHES:[master:f2d11f3602738f559cc2b3ab1b4606f0a7163266;]|RELEASE:[none|none]
