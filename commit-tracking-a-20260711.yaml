@@ -7419,3 +7419,4 @@ Seeed-Studio/pxt-BitMaker: BRANCHES:[master:b46e4b66e1e8a8f12764b3aed78b692dd3e6
 Seeed-Studio/Wio_Extension_RTC: BRANCHES:[master:371594659fe5f58e03aa94f07bb36c8b3fd7059f;]|RELEASE:[none|none]
 Seeed-Studio/Azure_Sphere_Demo: BRANCHES:[master:49564bd5cac925cfb15626e991b189789712d740;]|RELEASE:[none|none]
 Seeed-Studio/linux: BRANCHES:[imx-4.19.y:720ba9f1900032c80e2bdbad74206e27abd84e72;stm32-4.19.y:2b64641b1ef2fbbf48be4b15ef84c60b9f776158;master:e53f31bffe1d552f496b674cd1733658a268e177;stm32mp1-v4.19.9:0d6c2e1f6a4a46f8ce35c4c0df474dac7c41832e;]|RELEASE:[none|none]
+Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04fcfbe5c09e;v2019.04-imx6ull-npi:d447c4866200ae5fd069313d92e2308ff01af021;master:3c99166441bf3ea325af2da83cfe65430b49c066;v2018.11-stm32mp:f55001ad5e8bca2d474f3bcf696a15bc4ea1f78e;]|RELEASE:[none|none]
