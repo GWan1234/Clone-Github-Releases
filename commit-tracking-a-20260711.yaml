@@ -7463,3 +7463,4 @@ Seeed-Studio/Seeed_Ardupy_LvGL: BRANCHES:[master:21f983c734589a47637fbfdce34b285
 Seeed-Studio/Seeed_Arduino_Histogram: BRANCHES:[master:60daeafec02f7bab3080fe5ad2694c7ef3c3331a;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_Arduino_Linechart: BRANCHES:[master:53cebccb5cc8a6625b4d69bce12a426a862e5d1d;dev:2fb2891de772290c1d37bcbef9be301c99ba0bc3;]|RELEASE:[v1.1.0|none]
 Seeed-Studio/Seeed_Arduino_IR: BRANCHES:[master:edbe301e8271382b09a170f7c83f5a91cdf74502;]|RELEASE:[v1.0.2|none]
+Seeed-Studio/Seeed_Arduino_ADS1115: BRANCHES:[master:00beed48708bae7cce1f78ad05448e1af132e0a3;]|RELEASE:[none|none]
