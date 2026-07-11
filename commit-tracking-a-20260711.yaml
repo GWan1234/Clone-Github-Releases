@@ -7292,3 +7292,4 @@ Seeed-Studio/HDC1000: BRANCHES:[master:bf52fadb7c8b9691abf415fc341122352cdaab73;
 Seeed-Studio/GPRS_SIM900: BRANCHES:[master:4e57e654735c6fe54fefe623854e99dc771fe96f;]|RELEASE:[1.0.3|none]
 Seeed-Studio/Grove_Node: BRANCHES:[master:4eb263b319dc5a09410a34140380aed63688ae2e;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Drivers_for_mbed: BRANCHES:[master:c3da26128679b72ed660b09ff7d95cc7887e7ee0;]|RELEASE:[none|none]
+Seeed-Studio/Grove_Gesture: BRANCHES:[master:e7deef131e4083a382b2adfab379ec5b88c887db;]|RELEASE:[v2.0.1|none]
