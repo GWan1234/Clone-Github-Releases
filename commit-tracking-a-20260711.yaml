@@ -7403,3 +7403,4 @@ Seeed-Studio/Seeed_LED_Ring: BRANCHES:[master:259aa5ff17a8019f9a95586f35d7d04220
 Seeed-Studio/Seeed_Led_Strip: BRANCHES:[master:ed458cf9a1ecd5bb2dc3ef1763b326a93503ad6b;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Elink_Shield: BRANCHES:[master:80aed5cc3b6b79c8824f43244b3939e2bf13cf3a;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Sketch_ADXL356X: BRANCHES:[master:bb367df25ed41bfae378647c8a8db3cf65de1d7a;]|RELEASE:[none|none]
+Seeed-Studio/grove-linux-driver: BRANCHES:[master:4277564188ca965beb0c2e4b51c352fae77e3dd0;dev:9bae4c9c15cf44035ef43968e15d8141d20571dc;]|RELEASE:[none|none]
