@@ -7212,3 +7212,4 @@ Seeed-Studio/Grove_EMG_detector_demo_code: BRANCHES:[master:5e945981ce9aa4b48ceb
 Seeed-Studio/RFID_Library: BRANCHES:[master:feeff47c4938e6baaad21f620c72e2ca9d9c4119;]|RELEASE:[1.0.0|none]
 Seeed-Studio/GPRSInterface: BRANCHES:[master:364c4468b998429d67537ddc292ea86303f9db1c;]|RELEASE:[none|none]
 Seeed-Studio/Grove_IMU_9DOF: BRANCHES:[master:0635b3f25b9fb390f50043df43736e760f80b93f;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1;]|RELEASE:[none|none]
