@@ -7228,3 +7228,4 @@ Seeed-Studio/Four_Digit_Display_Suli: BRANCHES:[master:edfc53122844f9c84fdfd6dac
 Seeed-Studio/Rfid_Reader_Suli: BRANCHES:[master:39a193db21821dc384e0a751884270348a9e151d;]|RELEASE:[none|none]
 Seeed-Studio/Temperature_Suli: BRANCHES:[master:dda836bc12847667afcb2eaa9878bfcb7af3eba3;]|RELEASE:[none|none]
 Seeed-Studio/Grove_HighTemp_Sensor: BRANCHES:[master:869e295cf1a8630026395b2b91e6ef962f2dadd2;]|RELEASE:[1.0.1|none]
+Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37;]|RELEASE:[none|none]
