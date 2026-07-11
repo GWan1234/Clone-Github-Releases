@@ -7481,3 +7481,4 @@ Seeed-Studio/Seeed_Arduino_CMSISAtmel: BRANCHES:[master:cb0c38bee8b9eff747ff73c9
 Seeed-Studio/seeed-ardupy-TFLidar: BRANCHES:[master:ea396f046483f933172df246919f3ea6a9e0a7b2;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_ooFreeRTOS: BRANCHES:[master:1f8a2a484525c2b28c5c57bffae8d871a3aa6f22;add-code-of-conduct-1:8ec3f695ab2cd6eeeaf147d90bf264e00e2c7d13;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_WikiWeekly: BRANCHES:[master:1e35266fab1d4c66aa2ce6780997b56db05109e2;]|RELEASE:[none|none]
+Seeed-Studio/seeed-ardupy-lis3dhtr: BRANCHES:[master:2e2ef3683912181909b3b3bdde8d174939b1a48e;]|RELEASE:[none|none]
