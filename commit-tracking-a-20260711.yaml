@@ -7370,3 +7370,4 @@ Seeed-Studio/Grove_LED_Matrix_Driver_HT16K33: BRANCHES:[master:f2d11f3602738f559
 Seeed-Studio/pi_repo: BRANCHES:[master:762450965d1e154589ab4069e344fca0283e6896;]|RELEASE:[none|none]
 Seeed-Studio/Grove_touch_sensor_CY8C40XX: BRANCHES:[master:8b4e60dc933595d1dc14b6d6bae38a678d7f6884;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e2b037;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_LDC1612: BRANCHES:[master:34a10004e1cd95a762e6f56b201fe3c0dccc6eea;]|RELEASE:[v1.0.0|none]
