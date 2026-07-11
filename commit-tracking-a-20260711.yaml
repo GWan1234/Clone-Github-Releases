@@ -7399,3 +7399,4 @@ Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb907
 Seeed-Studio/Seeed_Alphanumeric_Display_HT16K33: BRANCHES:[master:d0f57f74ccc5bd18759c4785be408709b506044c;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Linux_Elink: BRANCHES:[master:f72658c5cfc6892ac852d5bd5aaa339cdb257a7b;]|RELEASE:[1.0.0|none]
 Seeed-Studio/Accelerometer_ADXL372: BRANCHES:[master:3e012530040a60433431a83b71f40a9ca20fb42c;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_LED_Ring: BRANCHES:[master:259aa5ff17a8019f9a95586f35d7d042205abf51;]|RELEASE:[none|none]
