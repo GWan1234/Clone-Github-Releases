@@ -4439,7 +4439,7 @@ Xinyuan-LilyGO/T-Bao: BRANCHES:[main:0e31cbfac6ef9a7040fdf4fc5884d68a5059db29;]|
 Xinyuan-LilyGO/T-Halow-RJ45: BRANCHES:[main:492a3792f569f9a431f0b789945f67da8c617716;]|RELEASE:[none|none]
 anzhiyu-c/only-overseas-access: BRANCHES:[main:f87f39bf4ca480c4f4806ac4fd34d50aaaab4970;]|RELEASE:[none|none]
 emqx/classy: BRANCHES:[dev/prep-stop:7368be874e5d11beb4748156d4cf8aaa05631fab;master:e4561fbc8dd75029326b70d3925a72bb0a6948a8;dev/liveness:63c95659309c723831ab7acf32235ac6be884a95;dev/clarify-hooks:91ee5c0ffcf87a380ae92422f3edf680229f6df7;dev/bidi-link:961d610510f136002ce4cabde5920b3c599e0802;dev/improve-autocluster:da293a2b2d9d3c60a96d9755a3268c58b89da0d1;reserve-space:242e8919c16f9747422eb47bc44774c65421480e;autocluster:40c8b246c2d8b91a6f7364951844953cc1937aaa;]|RELEASE:[none|none]
-adafruit/protomq: BRANCHES:[docs/http-control-api:0c5eddf42c66cbf0897602121bbea9a4b7a106cd;example/aio-canvas-bridge:4cbd0c6a979fb48f190c4a950e194e06596df012;displays-v2-testing:efe71a72af8252eff5d4ad183af062d43d607914;main:a99355e39b3fa24c60d57c57ee5da2e6062e54c5;]|RELEASE:[none|none]
+adafruit/protomq: BRANCHES:[displays-v2-testing:6ccd0167d6ffdbb32f4254d446eb118de38158fb;magtag-test-marquee:f61b3fba36b41794ca4cd8a9d351b6144d8ba8a1;docs/http-control-api:606e2c695d6b56f25e4d45c4e717505603edd238;example/aio-canvas-bridge:4cbd0c6a979fb48f190c4a950e194e06596df012;main:a99355e39b3fa24c60d57c57ee5da2e6062e54c5;]|RELEASE:[none|none]
 adafruit/Ubuntu_Core_Blinka_Sensor_Snap: BRANCHES:[main:a499186c48e21516527efc2fdc1ec467126c283f;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AY8912: BRANCHES:[main:160a766b65465d6a5de239213ca06b7d18b9146f;]|RELEASE:[1.0.0|none]
 iamromulan/qttyforge: BRANCHES:[main:1aafe04b2a4daa717c1d6533a7c7b17a2926ea2c;]|RELEASE:[none|none]
