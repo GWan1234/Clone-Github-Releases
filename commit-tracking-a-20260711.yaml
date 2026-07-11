@@ -7483,3 +7483,4 @@ Seeed-Studio/Seeed_Arduino_ooFreeRTOS: BRANCHES:[master:1f8a2a484525c2b28c5c57bf
 Seeed-Studio/Seeed_WikiWeekly: BRANCHES:[master:1e35266fab1d4c66aa2ce6780997b56db05109e2;]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-lis3dhtr: BRANCHES:[master:2e2ef3683912181909b3b3bdde8d174939b1a48e;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_edgeimpulse: BRANCHES:[master:5eaac74fc3f110ab1523c3a5bf53cf2dae9b341a;mic:f2ef29662c1fde1c1a411f2611dacb319fe649cc;sensors:c7b2652f0c1c0423ce647d817a63ebce7a2f089f;debug:e9309a0dedffe20d8d36611ac227a2e358924d0d;]|RELEASE:[1.4.0|none]
+Seeed-Studio/seeed-ardupy-ads1115: BRANCHES:[master:8f8fdb791082eac4d6cbdba0e87c3638f4e6bee8;]|RELEASE:[none|none]
