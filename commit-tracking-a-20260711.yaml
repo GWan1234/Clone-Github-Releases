@@ -7166,3 +7166,4 @@ Seeed-Studio/Magnetic_Switch: BRANCHES:[master:496d7e034db2e3f7d118014134ddbd560
 Seeed-Studio/PIR_Motion_Sensor: BRANCHES:[master:95a8137f258d5dcf335bcddd96b02f8e561bf126;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f973031831b9ea6e18;]|RELEASE:[1.0.0|none]
 Seeed-Studio/Grove_Chainable_RGB_LED: BRANCHES:[master:e4cd2e58527792db23701d39e028ab32148107ea;]|RELEASE:[1.0.0|none]
+Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af75701261857783031f38;]|RELEASE:[v1.0.0|none]
