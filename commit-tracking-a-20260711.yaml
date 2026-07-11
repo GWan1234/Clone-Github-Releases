@@ -7346,3 +7346,4 @@ Seeed-Studio/Wio_LTE_Arduino_Library: BRANCHES:[master:91c9b85d476ad61a340f036b2
 Seeed-Studio/Arduino_Software_I2C: BRANCHES:[master:aa1fb1c20e0910a63d9aa728bb0259999300acc8;k1100:11433be12eac8913829b0283d410a3b1a3f11909;]|RELEASE:[none|none]
 Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d0403;]|RELEASE:[v0.7.5|none]
 Seeed-Studio/SD: BRANCHES:[master:10464b7fe64291dcf6e89ff623e4d80f31a203a4;]|RELEASE:[none|none]
+Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316;]|RELEASE:[none|none]
