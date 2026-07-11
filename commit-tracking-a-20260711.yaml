@@ -7243,3 +7243,4 @@ Seeed-Studio/Xadow_Watch_Recipe: BRANCHES:[master:fc3b63231af233ec75efc030530faa
 Seeed-Studio/Starter_Shield_Libraries: BRANCHES:[master:9993adc6ddc418d23d5b813f1568fafc46aff5cb;]|RELEASE:[none|none]
 Seeed-Studio/Recipe_Magic_Feather_Fan: BRANCHES:[master:68a30cd23dc31f977ec55ba940148bcfa58b3070;]|RELEASE:[none|none]
 Seeed-Studio/SGL: BRANCHES:[master:41f6cbc3e253f720a1885dd50ce58c02f6e2c407;]|RELEASE:[none|none]
+Seeed-Studio/Hercules_Motor_Driver: BRANCHES:[master:a49b8400d35153546d3acd8a58603e2459e1dc6a;]|RELEASE:[1.0.1|none]
