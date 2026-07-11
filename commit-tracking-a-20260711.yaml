@@ -7215,3 +7215,4 @@ Seeed-Studio/Grove_IMU_9DOF: BRANCHES:[master:0635b3f25b9fb390f50043df43736e760f
 Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1;]|RELEASE:[none|none]
 Seeed-Studio/Sketchbook_Starter_Kit_V2.0: BRANCHES:[master:c3280fa760dcf6f2af5535ec4cd2264d86f30de1;]|RELEASE:[none|none]
 Seeed-Studio/Suli: BRANCHES:[master:e7671c55fe23f9285451dbd0916237ab6618bb70;suli2:5e55881c1c5e90574d014f3a3f4182af3d760d52;gh-pages:c9ef6d6c65c34512a1c874bd1379d7fbbd2154f3;Suli_Mbed:8c1e6fe0d72a968ce0062eb3673d73c5293f2a9a;Suli_Arduino:3e615b7f380bc7c07506e293bfcbbf8fa44ce009;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_Pedometer: BRANCHES:[master:4c88ddb46ede9e5cb62396b1692d0d2f8d3b601a;]|RELEASE:[v1.0.0|none]
