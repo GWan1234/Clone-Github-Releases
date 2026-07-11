@@ -7173,3 +7173,4 @@ Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334c
 Seeed-Studio/Grove_LED_Bar: BRANCHES:[master:4c7f5c48aafb18f7a0a18902a7714f245f3564f6;make-better:2935875f93492b92b1a2df4e2fe4a0f2715d0fd1;fix-all:786511c0b100e53744b15ce6d65f03ce4904f8fa;]|RELEASE:[1.0.1|none]
 Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L: BRANCHES:[master:748d32112e91e94923d9019ded908606a31fb6aa;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/SmartMeterWithUI: BRANCHES:[master:d57996688d5707a3d594fe7414ad38325cd91e7e;]|RELEASE:[none|none]
+Seeed-Studio/Small_ePaper_Shield: BRANCHES:[master:0eb0911532a38777faf8cda7e815df49e64696bc;]|RELEASE:[1.0.1|none]
