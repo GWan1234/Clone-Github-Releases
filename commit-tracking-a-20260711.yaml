@@ -7385,3 +7385,4 @@ Seeed-Studio/Seeed_MCP9600: BRANCHES:[master:1933cddba8df0d194b756dd2daff7ebe24d
 Seeed-Studio/Seeed_SHT35: BRANCHES:[master:0abb003e939153b4c19f127d84d48c938c15f746;]|RELEASE:[v1.0.2|none]
 Seeed-Studio/Seeed_VEML6070: BRANCHES:[master:b10decbd8501010ca8b1f7e6dfce59bd5cefbf9a;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/pi-hats: BRANCHES:[master:95e388a446bf2a83b030be30df32828e7650f79c;revert-12-master:7660f1ace46ccaa403c5aa5a12dc8f4cbd460893;dev:1b58735a9eb3b713c0a0c782a50499b26abf4ffe;turmary-patch-1:dbf65e3a74e02ea022383856349f3f66b5ad6bcd;]|RELEASE:[v1.0|none]
+Seeed-Studio/Seeed_ACS70331: BRANCHES:[master:3a7cf31098c35a19cbb0189501117ae2a4ef3092;]|RELEASE:[none|none]
