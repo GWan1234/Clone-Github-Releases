@@ -7453,3 +7453,4 @@ Seeed-Studio/Seeed_Arduino_atWebServer: BRANCHES:[master:7f6d52b3fa92f020b3d992e
 Seeed-Studio/Seeed_Arduino_atmDNS: BRANCHES:[master:48d65fc7fe4e1baee149cb2bf3dd6f6d8fe4a44a;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_atDNSServer: BRANCHES:[master:a60fab51d1b3b1ac0ebd0a00d22613679271a99d;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Seeed_Arduino_atWiFiClientSecure: BRANCHES:[master:924ceeee87514c059b2d7e9a11b0aa8b3f441116;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/Seeed_Arduino_mbedtls: BRANCHES:[master:59fc9f8ff70d9b772f66923040de79e7c3740f14;backup:2037a3cd3aeac08f60a4d46cba7f23b035d48258;dev:d1ca0175e24768120781bf4a43a1fb2c39fce85f;edge-impulse:526568d1b5d391416888f0f79b8dda962da9142d;]|RELEASE:[v3.0.2|none]
