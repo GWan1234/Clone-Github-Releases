@@ -4859,7 +4859,7 @@ yifengyou/rk3588-owl-ai-box-plus-kernel: BRANCHES:[master:94dc62def22c7611af120c
 yifengyou/rk3588-owl-ai-box-plus-uboot: BRANCHES:[master:d339d958abb8fd705ab149b4fadd4a176e402efc;]|RELEASE:[none|none]
 yifengyou/rkbin: BRANCHES:[master:b0c100f1a260d807df450019774993c761beb79d;]|RELEASE:[none|none]
 yifengyou/rock5b: BRANCHES:[master:0065df130ad10964b229c508e8cb3ae342f1964f;]|RELEASE:[workflow_envinfo|none]
-yifengyou/rockchip-tools: BRANCHES:[master:daee2d2b80a1e41309fed859b8d73d265ac0d105;]|RELEASE:[none|none]
+yifengyou/rockchip-tools: BRANCHES:[master:ac7e49f06f15355f9b67e8b0acbfac883d8c4c3d;]|RELEASE:[none|none]
 ioBroker/mcp-package: BRANCHES:[main:5d5246ed6c4e889e673e99a2cdcf9afbce668565;dependabot/github_actions/actions/checkout-7:34321127d10897f5fc896b8587006d67d49082de;dependabot/github_actions/github/codeql-action-4:2bc01245215bf8f798c965aeabd57ee3843f6904;]|RELEASE:[v0.1.6|5d5246ed6c4e889e673e99a2cdcf9afbce668565]
 yifengyou/rockchip-toybrick-kernel: BRANCHES:[stable:663e851d80f83be6624fab08f19bab4918a92ec9;develop-5.10-a12:d5a5108cdb76b8a2339cdae4bb4d1779dae50116;develop-5.10-ASB-12.01:449dc588626a7136672cfd8b4768c7eaaab542f9;develop-4.19:904197c908a52cac22e648f6f78cfd2f334f9e99;develop-4.19-test:2461c8a5b4b26abd2c4084658cbbc6111d830448;develop-5.10-rt53:f0f27c5023ff28ba779e48044dec9895014a652f;develop-4.19-rt87:980a5393a0bc0b17ac1666e0bf4c9984eaf656e9;rv1126-develop-4.19:f7a8a841c1e6d17dfa23fc95840568d546723028;ruihe:e1021a2cf3208346168c2e222e79a02e828e5ba5;96ai:b7df136629e1da814df593e50ddec0e3f810e837;]|RELEASE:[none|none]
 yifengyou/rockchip-toybrick-linux-x86: BRANCHES:[master:32505a8032d04e9320dbdb817b08bf67bdfb5a0c;]|RELEASE:[none|none]
