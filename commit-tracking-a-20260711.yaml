@@ -7396,3 +7396,4 @@ Seeed-Studio/Seeed_AMG8833: BRANCHES:[master:cdd14d6a83d5b9dfb3445239ded2c43f9df
 Seeed-Studio/Seeed_MRP121: BRANCHES:[master:452b1a5b653279e0954484ac8e886bf67ca1ac97;]|RELEASE:[none|none]
 Seeed-Studio/MT3620_Grove_Shield: BRANCHES:[master:f9a3c2b51a14c4e2b8f87ded51ce305f6ab017e6;revert-15-dev-sdk2101:bd40a43c11595720df51b8b9b245d7054a1c3c9f;takashi-patch-2:6179a3fc54aed090d1c93883bd5b7e0cb80f180d;takashi-patch-1:2137d1a6530284c1725a0d8ead758ff184595bd2;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb9075a00a7e67c58;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Alphanumeric_Display_HT16K33: BRANCHES:[master:d0f57f74ccc5bd18759c4785be408709b506044c;]|RELEASE:[none|none]
