@@ -35,7 +35,7 @@ allrepositories:
   - DFRobot
   - OLIMEX
   - Seeed-Studio
-
+  - Joetooley28
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
