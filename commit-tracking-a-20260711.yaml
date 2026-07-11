@@ -7300,3 +7300,4 @@ Seeed-Studio/Signed_USB_Serial_Driver: BRANCHES:[master:2c18d05dc7efd71cc8a2229a
 Seeed-Studio/Grove_Sunlight_Sensor: BRANCHES:[master:c386ae876e0c2d663aabc18ccd47000ea8279d39;Si1151:ac38792058ea6149d47531056df6bc9e7f6ce4ee;]|RELEASE:[1.1.1|none]
 Seeed-Studio/Drv8830_Motor_Driver: BRANCHES:[master:713be154879ef1638e4066ac8af2db0910c11260;]|RELEASE:[none|none]
 Seeed-Studio/Grove_Haptic_Motor: BRANCHES:[master:e6c538b9e9f528de621399994b3fa2a3b35fa0da;]|RELEASE:[1.0.0|none]
+Seeed-Studio/Grove_Starter_Kit_for_BBG: BRANCHES:[master:235943683071bdc0ee88835985aee8aeff2901b4;]|RELEASE:[none|none]
