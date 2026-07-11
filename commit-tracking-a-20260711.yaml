@@ -7449,3 +7449,4 @@ Seeed-Studio/seeed-linux-bootbinary: BRANCHES:[master:d152b2cf54332b5994795cc4ab
 Seeed-Studio/seeed-linux-bootscripts: BRANCHES:[master:092666ddcb0749e8e98f18e485143f75a6abc659;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_DopplerRadar: BRANCHES:[master:0f1156797c7ea4d7794ae98a5208a9e0e0117b84;]|RELEASE:[v1.1.1|none]
 Seeed-Studio/Seeed_Arduino_DPS310: BRANCHES:[dps310:fb1c492269837f555ccf77a0392e516ee7cfd5c7;test:5a1b08c3eab3a9515cc4eecafd1a0f591b120a55;exampleUpdate:da80b4ec9a642a12892f499c63fae2fb46bb88f7;master:91945972dcd38ead48e15b2e336c4f79648bc026;develop:b92e7b394b7097ad06a5ba9c6722e294e1a32d47;dps422:3edb0e58dfd7691491ae8d7f6a86277b001ad93f;]|RELEASE:[v1.0.8|none]
+Seeed-Studio/Seeed_Arduino_atWebServer: BRANCHES:[master:7f6d52b3fa92f020b3d992e6fb1f439889ea4e83;]|RELEASE:[v1.0.0|none]
