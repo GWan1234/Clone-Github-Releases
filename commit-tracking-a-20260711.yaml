@@ -7417,3 +7417,4 @@ Seeed-Studio/ArduinoCore-k210: BRANCHES:[kendryte-standalone-sdk:2ea3c001557c7f7
 Seeed-Studio/Grove_Current_Sensor: BRANCHES:[master:c2139cf9058bf03dc151f8f4eccb260b9566961a;]|RELEASE:[none|none]
 Seeed-Studio/pxt-BitMaker: BRANCHES:[master:b46e4b66e1e8a8f12764b3aed78b692dd3e685ff;]|RELEASE:[none|none]
 Seeed-Studio/Wio_Extension_RTC: BRANCHES:[master:371594659fe5f58e03aa94f07bb36c8b3fd7059f;]|RELEASE:[none|none]
+Seeed-Studio/Azure_Sphere_Demo: BRANCHES:[master:49564bd5cac925cfb15626e991b189789712d740;]|RELEASE:[none|none]
