@@ -7378,3 +7378,4 @@ Seeed-Studio/Seeed_Arduino_BME68x: BRANCHES:[master:cce596a29d83c021e20fc976d82b
 Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0;]|RELEASE:[none|none]
 Seeed-Studio/grove.py: BRANCHES:[master:15505cb15014a19c30a02ddbef239eaa0a784ee3;gh-pages:700aa41e61cca23001e1b9c3fcc4d5c7061e3916;delete-mraa:3de678678b06031b5d4aa25df1d207625c71f38b;beta:f4a1d6c9803a6d1b05b68a6bc376583c6a69a6cf;grove.py-compatibility-feature:a338e06bfec476e057894d9b8dbee8a0bdcb5bc8;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_AMG8833_Raspberry_Python: BRANCHES:[master:249fd64e07712b7300de459bfc3afedf2d074c6a;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_PCA9685: BRANCHES:[master:2e1c22d329f3c8250a5bcf28de4a241920ad51d3;]|RELEASE:[v0.0.1|none]
