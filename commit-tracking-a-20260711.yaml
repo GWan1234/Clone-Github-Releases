@@ -7295,3 +7295,4 @@ Seeed-Studio/Grove_Drivers_for_mbed: BRANCHES:[master:c3da26128679b72ed660b09ff7
 Seeed-Studio/Grove_Gesture: BRANCHES:[master:e7deef131e4083a382b2adfab379ec5b88c887db;]|RELEASE:[v2.0.1|none]
 Seeed-Studio/Wio_Link_Android_App: BRANCHES:[master:e7c4b6fd1110a835f0312c28ae9f83856f3c8dd6;feature/door:c2760106a39a2360ce23230c40f5041a9552cf7e;feature/dev_6.0_config_failure:b34745e766ee749bbbe8557835fe874d84263778;]|RELEASE:[v2.5.3|none]
 Seeed-Studio/Lua_for_LinkIt_One: BRANCHES:[dev:40f099ee7812fe3f66e881abdd22ccfa0a06b830;master:37b15429f9829d90b4cadc0f96bb77391902f5ec;]|RELEASE:[none|none]
+Seeed-Studio/Gardening_demo_Arduino: BRANCHES:[master:b25b3ae272ad757bf453f7e7c23063f6e3d4707b;]|RELEASE:[none|none]
