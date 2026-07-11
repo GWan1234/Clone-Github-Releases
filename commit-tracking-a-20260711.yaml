@@ -7169,3 +7169,4 @@ Seeed-Studio/Grove_Chainable_RGB_LED: BRANCHES:[master:e4cd2e58527792db23701d39e
 Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af75701261857783031f38;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/Grove_4Digital_Display: BRANCHES:[master:909294b7423787a5dc520e0e4bd688d000f95977;]|RELEASE:[v2.0.0|none]
 Seeed-Studio/OLED_Display_128X64: BRANCHES:[master:59bbbfb50107683b2ee82d1141e70a8923bb6e2f;]|RELEASE:[1.0.0|none]
+Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8;]|RELEASE:[none|none]
