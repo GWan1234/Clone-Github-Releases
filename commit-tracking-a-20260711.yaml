@@ -7434,3 +7434,4 @@ Seeed-Studio/ArduinoCore-imxrt: BRANCHES:[master:deb8a9ad2dc19914c89423a4eab0986
 Seeed-Studio/Seeed_Arduino_LIS3DHTR: BRANCHES:[master:fea80127de9610b16ecb14174c1ec912b12feb64;beta:6ecd6b24dc3ea9ca40944a45e127fa954df41b65;]|RELEASE:[v1.2.4|none]
 Seeed-Studio/Seeed_Python_SGP30: BRANCHES:[master:3886526b07436e2182c747169657a45db47adcbb;]|RELEASE:[0.0.1|none]
 Seeed-Studio/Seeed_Python_DHT: BRANCHES:[master:8fde52cd758e57ca718361f5cf355a515ed3a6c1;]|RELEASE:[0.0.1|none]
+Seeed-Studio/BOSSA: BRANCHES:[master:849bc2f47a50a484efde831fc5d6aa9797ab0b15;arduino:5cae9fee241bd3c95c197b2464e9b83240994c43;]|RELEASE:[1.9.1-seeeduino|none]
