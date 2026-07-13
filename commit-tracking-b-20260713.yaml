@@ -4644,3 +4644,4 @@ MetaCubeX/qjs: BRANCHES:[master:c53bac5e9fa1737a43a34694f09747b563a56bd8;]|RELEA
 MetaCubeX/pion-transport: BRANCHES:[main:30cc4696d6eee7ed1356f0eaf5739a6ca689d2e2;]|RELEASE:[none|none]
 MetaCubeX/pion-dtls: BRANCHES:[main:42277f00defbddd4b89613b9351449ec61da2f94;]|RELEASE:[none|none]
 MetaCubeX/ssh: BRANCHES:[master:cea6b9c5cef6bb619c72813bd58691157e111107;]|RELEASE:[none|none]
+MetaCubeX/pion-stun: BRANCHES:[main:023c66f2fc9672364d3f1e7ff1bf39ba748856b8;]|RELEASE:[none|none]
