@@ -4635,3 +4635,4 @@ MetaCubeX/http: BRANCHES:[main:cd9fa7e650c59d6d84ade14b87e402f33eb8c06e;]|RELEAS
 MetaCubeX/chi: BRANCHES:[master:4e4cd2017621a4c21274c311e11c8762c1cc5dd6;master-5.3.x:4e4cd2017621a4c21274c311e11c8762c1cc5dd6;master-5.2.x:a377ec0b9c5e12585ad83dd3a14762321575b6bf;]|RELEASE:[none|none]
 MetaCubeX/connect-ip-go: BRANCHES:[master:e1625567920a495754d762e58eb3ed418ef5f43c;]|RELEASE:[none|none]
 MetaCubeX/edwards25519: BRANCHES:[main:d97fba73d90717ddb72bdada4a03c4575b1a74cd;]|RELEASE:[none|none]
+MetaCubeX/nistec: BRANCHES:[main:c3a1968da1f948f98fac0a70af841ade579f98bc;]|RELEASE:[none|none]
