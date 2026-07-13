@@ -4625,3 +4625,4 @@ MetaCubeX/kcp-go: BRANCHES:[master:550693377604d7e25898a80a180b4c79cd452c24;meta
 MetaCubeX/yq: BRANCHES:[master:7a29da06366b7cc6da9ba12d1a33d01afb722e5d;]|RELEASE:[none|none]
 MetaCubeX/miekg-dns: BRANCHES:[master:fdd01a247110935b60c13cf0a6e555a33e64cec5;]|RELEASE:[none|none]
 MetaCubeX/mldsa: BRANCHES:[main:c50847f8a589e1c4b956d73eabf997ccc8d393f2;]|RELEASE:[none|none]
+MetaCubeX/qpack: BRANCHES:[master:941f36ab116d737da43f01fe7331603ffa13b539;]|RELEASE:[none|none]
