@@ -4584,3 +4584,4 @@ MetaCubeX/uber-atomic: BRANCHES:[master:0c8ebe545868acde841cab8b325192f933e85df7
 MetaCubeX/GitBook: BRANCHES:[main:a3d20aca0570b0fbb973883351b72da45ad28b01;]|RELEASE:[none|none]
 MetaCubeX/meta-rules-dat: BRANCHES:[meta:1667a23b147c921539d96108c6c328eb096a91d6;sing:25cb4df2d58f37fb1b32bbe6f5a611ec5737a501;release:fb07be78bfcedb85e27e4e4b67103e653846e503;master:4178770badecb1b349fbcd62c737e0d7a2079729;]|RELEASE:[latest|none]
 MetaCubeX/Meta-Docs: BRANCHES:[gh-pages:a8de27179e30782d1fcc596b8e71d3ba44d07902;main:824be43699b2b6dcb0c0bf4d7a0412884c7b17c7;docs/api-proxies-group-fields:b8e611efdd0ffa91868e98c15b46ebf759109535;docs/api-response-fields:007358e276c9c6ccd410066bb52a7cb1e4940417;bak:ea8bdd83afb6fed81fe10d140a1deedb27c84ea3;test:c8ca49188cda85768e1e15f5aa24096b47f93d8d;]|RELEASE:[none|none]
+MetaCubeX/sing-shadowsocks2: BRANCHES:[dev:7f844b0df8db54b1658884fb8c15cb7da5778f18;fix-udp:779360bd37159b81de08da13cca4f4c97a99e647;]|RELEASE:[none|none]
