@@ -4628,3 +4628,4 @@ MetaCubeX/mldsa: BRANCHES:[main:c50847f8a589e1c4b956d73eabf997ccc8d393f2;]|RELEA
 MetaCubeX/qpack: BRANCHES:[master:941f36ab116d737da43f01fe7331603ffa13b539;]|RELEASE:[none|none]
 MetaCubeX/mlkem: BRANCHES:[main:d04222f054d18340238828f06f2c9c4ace16076d;]|RELEASE:[none|none]
 MetaCubeX/hkdf: BRANCHES:[main:af2b817d57f5f4d437b8d05335a5fe4acb74b939;]|RELEASE:[none|none]
+MetaCubeX/hpke: BRANCHES:[main:c223966eec3d029b91b8ccd163e9999c452b35b3;]|RELEASE:[none|none]
