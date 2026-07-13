@@ -4632,3 +4632,4 @@ MetaCubeX/hpke: BRANCHES:[main:c223966eec3d029b91b8ccd163e9999c452b35b3;]|RELEAS
 MetaCubeX/cpu: BRANCHES:[main:03391275e0ee62532c6251f176fab2b36b3eeafc;]|RELEASE:[none|none]
 MetaCubeX/tls: BRANCHES:[main:7bebb98ea9df70133223a463a1a031d51f916886;]|RELEASE:[none|none]
 MetaCubeX/http: BRANCHES:[main:cd9fa7e650c59d6d84ade14b87e402f33eb8c06e;]|RELEASE:[none|none]
+MetaCubeX/chi: BRANCHES:[master:4e4cd2017621a4c21274c311e11c8762c1cc5dd6;master-5.3.x:4e4cd2017621a4c21274c311e11c8762c1cc5dd6;master-5.2.x:a377ec0b9c5e12585ad83dd3a14762321575b6bf;]|RELEASE:[none|none]
