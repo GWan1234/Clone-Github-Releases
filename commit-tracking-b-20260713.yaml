@@ -4620,3 +4620,4 @@ MetaCubeX/nftables: BRANCHES:[v0.3.0-dev-meta:208c2c1ba2cb877a1d191e65e3f85b6c54
 MetaCubeX/ascon: BRANCHES:[main:f6b41fd072b48802f28ff722caa0b39aabcc28ea;]|RELEASE:[none|none]
 MetaCubeX/blake3: BRANCHES:[master:37064aecb22c068e34a16248c952726e1660a4a2;]|RELEASE:[none|none]
 MetaCubeX/restls-client-go: BRANCHES:[restls-utls:a8fa52c83df7e4feec0d94998fb2729f91b2a34a;protable-change:aa5eac69cdac19ba301b0997301b12967761d326;main:1c9bee0769deb1c9d4079911d09780634ae6c911;impl-restls-client:fdd67518f38a283b1107418722523e90a204a93e;latest-fork:f735d91c0a785b2f2686e4d99a713ced98584e76;]|RELEASE:[none|none]
+MetaCubeX/yamux: BRANCHES:[master:dd5f17c0be4982ec3da70ef7bce61c4641bf7665;]|RELEASE:[none|none]
