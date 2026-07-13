@@ -757,7 +757,7 @@ HomeSpan/SomfyRTS: BRANCHES:[main:0e6892e642344570fcc124fe49276aa10f5a8231;devel
 HomeSpan/SpanPointLightSwitch: BRANCHES:[main:42518a04f4c97675d3d5bc94dc7299e2b1ed75df;]|RELEASE:[none|none]
 HomeSpan/TempSensorI2C: BRANCHES:[main:9ac6ae43197250ab61dde8ad97723c39298c6a91;]|RELEASE:[none|none]
 HomeSpan/ZephyrVentHood: BRANCHES:[master:c3b38c79202300561a88210bd6b55e9fb21d2213;]|RELEASE:[1.0.1|none]
-Andryushik/air_hood: BRANCHES:[main:f52edca8539faf5bef88fbe9b052a75e9cad1691;]|RELEASE:[none|none]
+Andryushik/air_hood: BRANCHES:[main:c58d93805b9b1e7341bec94b4601a898abc8c506;]|RELEASE:[none|none]
 Andryushik/andryushik: BRANCHES:[main:0ebec574df75851c94453fef63a8a2a123828cc0;]|RELEASE:[none|none]
 Andryushik/blinds_homekit_esp32: BRANCHES:[main:0462374e2f1dfdaf3dcbcbf7b203eaa31f382266;]|RELEASE:[none|none]
 Andryushik/browser-quiz-project: BRANCHES:[master:dd2fa93a490c36317dd7da30c7b8bce7aaf64b89;]|RELEASE:[none|none]
