@@ -4612,3 +4612,4 @@ MetaCubeX/amneziawg-go: BRANCHES:[master:19b4f1cdd5ec0b49e994cd74f3c6ce58816b9f2
 MetaCubeX/reality: BRANCHES:[main:74e8d78506293e398bcf0e627e998091aaba1bb2;]|RELEASE:[none|none]
 MetaCubeX/bart: BRANCHES:[main:f42c938db63a965ac55aef17e8ca9fb8eb4a970e;0.24.0:66b5906772a73101520ee9366f6c7eb71609d1af;0.20.4:095d6ae380c8fe6cc201b79bfc38f0703f9648f3;0.19.0:2c5b713a014c7c0dd1839989326d1aea2844e9bb;]|RELEASE:[none|none]
 MetaCubeX/backport-std: BRANCHES:[main:917f7ce124e5a198cc4d8405b639093e4a0a01c5;]|RELEASE:[none|none]
+MetaCubeX/sing-shadowtls: BRANCHES:[meta:c11c36474edc7af3b3a83eed8ac98f202e9a0a7c;dev:6f9e732e50560be973c0a8305f93fa7f44d9faee;main:2d5886b68fad10d098af94a6814479c81a0e4129;]|RELEASE:[none|none]
