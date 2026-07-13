@@ -4615,3 +4615,4 @@ MetaCubeX/backport-std: BRANCHES:[main:917f7ce124e5a198cc4d8405b639093e4a0a01c5;
 MetaCubeX/sing-shadowtls: BRANCHES:[meta:c11c36474edc7af3b3a83eed8ac98f202e9a0a7c;dev:6f9e732e50560be973c0a8305f93fa7f44d9faee;main:2d5886b68fad10d098af94a6814479c81a0e4129;]|RELEASE:[none|none]
 MetaCubeX/smux: BRANCHES:[meta:d0c8756d3141ce2c9aa1046df6a93985441c6033;meta-v1.5.50:d0c8756d3141ce2c9aa1046df6a93985441c6033;meta-v1.5.35:03f8d12dafc19f65ce602f93b7ec962405682564;master:e6b0586a4539b2fa60cf4c5bd3e4883c83ce4f9f;]|RELEASE:[none|none]
 MetaCubeX/fswatch: BRANCHES:[main:6aacc3bbe574cb676e7e1348cc7722da3420bfe1;]|RELEASE:[none|none]
+MetaCubeX/sing-mux: BRANCHES:[main:131bc64b19554bd785fc24faf639a5d4e6f922d3;]|RELEASE:[none|none]
