@@ -4622,3 +4622,4 @@ MetaCubeX/blake3: BRANCHES:[master:37064aecb22c068e34a16248c952726e1660a4a2;]|RE
 MetaCubeX/restls-client-go: BRANCHES:[restls-utls:a8fa52c83df7e4feec0d94998fb2729f91b2a34a;protable-change:aa5eac69cdac19ba301b0997301b12967761d326;main:1c9bee0769deb1c9d4079911d09780634ae6c911;impl-restls-client:fdd67518f38a283b1107418722523e90a204a93e;latest-fork:f735d91c0a785b2f2686e4d99a713ced98584e76;]|RELEASE:[none|none]
 MetaCubeX/yamux: BRANCHES:[master:dd5f17c0be4982ec3da70ef7bce61c4641bf7665;]|RELEASE:[none|none]
 MetaCubeX/kcp-go: BRANCHES:[master:550693377604d7e25898a80a180b4c79cd452c24;meta-v5.6.61:550693377604d7e25898a80a180b4c79cd452c24;meta-v5.6.26:7455698490e9ddef28e874d43b13d6fd027a1628;]|RELEASE:[none|none]
+MetaCubeX/yq: BRANCHES:[master:7a29da06366b7cc6da9ba12d1a33d01afb722e5d;]|RELEASE:[none|none]
