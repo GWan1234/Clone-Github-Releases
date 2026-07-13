@@ -4591,3 +4591,4 @@ MetaCubeX/metacubexd: BRANCHES:[main:8a939b7f83f1da9e20582ef95e2b0a7e10ef5c38;gh
 MetaCubeX/geo: BRANCHES:[master:a4db326ccfd7e21276d5d05f4f7e512d14415553;dev:d76155814f3ad4668dce36cabfb536f373683262;]|RELEASE:[v1.1|none]
 MetaCubeX/websocket: BRANCHES:[main:d9c0f95c20332118493adf65eba1d5ae8d16d9e4;]|RELEASE:[none|none]
 MetaCubeX/sing-quic: BRANCHES:[main:68e10a6afdc3f42c9377d0ca0f7259c2b85a9a43;]|RELEASE:[none|none]
+MetaCubeX/clash-verge: BRANCHES:[main-rev:88b9d85e9c0d9e255d035d9bd35db23b481194be;main:8c097358e123d5ab8755f6ed538b14760ddbac19;rm:0cf40f6bdf9d61c96fdf3c3a2cf8b718aa32945d;test:40b0d29997e44ec53adbd383576e196b546ee16a;]|RELEASE:[v1.4.8|none]
