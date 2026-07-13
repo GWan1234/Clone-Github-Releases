@@ -4590,3 +4590,4 @@ MetaCubeX/gopacket: BRANCHES:[master:7e2f98a3e7591b5982c5815920177ac7b9bbe25d;de
 MetaCubeX/metacubexd: BRANCHES:[main:8a939b7f83f1da9e20582ef95e2b0a7e10ef5c38;gh-pages:f3c33d758743610237cea7531ef7cfc7d8198d99;codex/code-quality-cleanup:f125088e6e8d4a743da92fa50950c32e20a4f4a6;feat/optional-backend:22eaebccd38845b205cb1810c468204f5f648a54;rm:4450ac5aae88a5884850a742fe1aedc22f4f568c;]|RELEASE:[v1.267.3|none]
 MetaCubeX/geo: BRANCHES:[master:a4db326ccfd7e21276d5d05f4f7e512d14415553;dev:d76155814f3ad4668dce36cabfb536f373683262;]|RELEASE:[v1.1|none]
 MetaCubeX/websocket: BRANCHES:[main:d9c0f95c20332118493adf65eba1d5ae8d16d9e4;]|RELEASE:[none|none]
+MetaCubeX/sing-quic: BRANCHES:[main:68e10a6afdc3f42c9377d0ca0f7259c2b85a9a43;]|RELEASE:[none|none]
