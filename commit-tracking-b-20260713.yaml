@@ -4594,3 +4594,4 @@ MetaCubeX/sing-quic: BRANCHES:[main:68e10a6afdc3f42c9377d0ca0f7259c2b85a9a43;]|R
 MetaCubeX/clash-verge: BRANCHES:[main-rev:88b9d85e9c0d9e255d035d9bd35db23b481194be;main:8c097358e123d5ab8755f6ed538b14760ddbac19;rm:0cf40f6bdf9d61c96fdf3c3a2cf8b718aa32945d;test:40b0d29997e44ec53adbd383576e196b546ee16a;]|RELEASE:[v1.4.8|none]
 MetaCubeX/clash-verge-service: BRANCHES:[main:f485f87fdc1f1c35f3725d4e378715aa6692a11c;]|RELEASE:[latest|none]
 MetaCubeX/tun2socket: BRANCHES:[main:dddbfaa28112d4eb1ab6a9ce0435d7f602da20d8;]|RELEASE:[none|none]
+MetaCubeX/maven-backup: BRANCHES:[main:8202d0a976661c611b13584d176b38f8821f1fa6;golang-gradle-plugin:1b03b18a641eaf1e7e0047a6559f3f0c92a0ec86;kaidl:7710f4347c6d41fcbd721f0b9ae50e65d6f88907;]|RELEASE:[none|none]
