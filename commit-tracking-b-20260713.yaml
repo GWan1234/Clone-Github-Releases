@@ -4643,3 +4643,4 @@ MetaCubeX/wazero: BRANCHES:[meta-v1.12.0:9ae6bdcf2a7d2b14f9fb49b5e01c3aed4960a8c
 MetaCubeX/qjs: BRANCHES:[master:c53bac5e9fa1737a43a34694f09747b563a56bd8;]|RELEASE:[none|none]
 MetaCubeX/pion-transport: BRANCHES:[main:30cc4696d6eee7ed1356f0eaf5739a6ca689d2e2;]|RELEASE:[none|none]
 MetaCubeX/pion-dtls: BRANCHES:[main:42277f00defbddd4b89613b9351449ec61da2f94;]|RELEASE:[none|none]
+MetaCubeX/ssh: BRANCHES:[master:cea6b9c5cef6bb619c72813bd58691157e111107;]|RELEASE:[none|none]
