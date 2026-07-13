@@ -4597,3 +4597,4 @@ MetaCubeX/tun2socket: BRANCHES:[main:dddbfaa28112d4eb1ab6a9ce0435d7f602da20d8;]|
 MetaCubeX/maven-backup: BRANCHES:[main:8202d0a976661c611b13584d176b38f8821f1fa6;golang-gradle-plugin:1b03b18a641eaf1e7e0047a6559f3f0c92a0ec86;kaidl:7710f4347c6d41fcbd721f0b9ae50e65d6f88907;]|RELEASE:[none|none]
 MetaCubeX/tuic: BRANCHES:[dev:673364835b8ddbabe0cc17ccf968cc5bc49a37b4;main:9ef1fa872a39b407748ea280661cc12b0ac4c412;old:f5834b47c496fc7d014d029ae8c24cc688917747;]|RELEASE:[none|none]
 MetaCubeX/loongarch64-golang: BRANCHES:[main:d5a8e5e535339a640486bf69ce49f8e3b3e00f27;]|RELEASE:[1.26.0|none]
+MetaCubeX/tfo-go: BRANCHES:[main:376a77860b8c456d4b95c2b15297cfbf8dec63c8;]|RELEASE:[none|none]
