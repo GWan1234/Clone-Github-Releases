@@ -4610,3 +4610,4 @@ MetaCubeX/golang-gradle-plugin: BRANCHES:[main:4dc29670163f74c89cb867d8b0da9ea41
 MetaCubeX/wireguard-go: BRANCHES:[master:a6cecdd7f57f01c6b90b9f113a692b767bca64cf;20231110:c182e74711814358810ad35c7707dfbe313d0d74;]|RELEASE:[none|none]
 MetaCubeX/amneziawg-go: BRANCHES:[master:19b4f1cdd5ec0b49e994cd74f3c6ce58816b9f24;awg-1.5:732c0c9d418a2bf517eeb297f55c5d5c335a5c33;awg-1.0:fdf3a4d5a4abcf8e9482b52563c9b6bdd77125d8;]|RELEASE:[none|none]
 MetaCubeX/reality: BRANCHES:[main:74e8d78506293e398bcf0e627e998091aaba1bb2;]|RELEASE:[none|none]
+MetaCubeX/bart: BRANCHES:[main:f42c938db63a965ac55aef17e8ca9fb8eb4a970e;0.24.0:66b5906772a73101520ee9366f6c7eb71609d1af;0.20.4:095d6ae380c8fe6cc201b79bfc38f0703f9648f3;0.19.0:2c5b713a014c7c0dd1839989326d1aea2844e9bb;]|RELEASE:[none|none]
