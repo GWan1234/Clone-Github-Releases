@@ -4617,3 +4617,4 @@ MetaCubeX/smux: BRANCHES:[meta:d0c8756d3141ce2c9aa1046df6a93985441c6033;meta-v1.
 MetaCubeX/fswatch: BRANCHES:[main:6aacc3bbe574cb676e7e1348cc7722da3420bfe1;]|RELEASE:[none|none]
 MetaCubeX/sing-mux: BRANCHES:[main:131bc64b19554bd785fc24faf639a5d4e6f922d3;]|RELEASE:[none|none]
 MetaCubeX/nftables: BRANCHES:[v0.3.0-dev-meta:208c2c1ba2cb877a1d191e65e3f85b6c54540951;main:30a69ab877931453f89f2d97f5e050d8a6efeeed;]|RELEASE:[none|none]
+MetaCubeX/ascon: BRANCHES:[main:f6b41fd072b48802f28ff722caa0b39aabcc28ea;]|RELEASE:[none|none]
