@@ -1,86 +1,110 @@
 # -*- coding: UTF-8 -*-
-import requests
-import re
-from http.server import BaseHTTPRequestHandler
+
+import os
 import json
+import requests
+
 
 def list_split(items, n):
+    """每7天分成一组，与原项目保持一致"""
     return [items[i:i + n] for i in range(0, len(items), n)]
-def getdata(name):
 
-    # 2024-03-29 定义 headers 请求头
-    # 请见 https://github.com/yuhengwei2001/python_github_calendar_api/commit/0f37cfc003f09e99a1892602d8bc2b38137899d2#diff-b014e93fcab9bae29f453d7a616da5eac2f02947f32d02a1a1bf200eeaab5a39L11
+
+def getdata(username, token):
+    url = "https://api.github.com/graphql"
+
     headers = {
-        'Referer': 'https://github.com/'+ name,
-        'Sec-Ch-Ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"',
-        'Sec-Ch-Ua-Mobile': '?0',
-        'Sec-Ch-Ua-Platform': '"Windows"',
-        'Sec-Fetch-Dest': 'empty',
-        'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Site': 'same-origin',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0',
-        'X-Requested-With': 'XMLHttpRequest'
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "User-Agent": "github-calendar-api"
     }
-    # 发送请求时添加 headers 请求头
-    # gitpage = requests.get("https://github.com/" + name)
-    gitpage = requests.get("https://github.com/users/" + name + "/contributions",headers=headers)
-    data = gitpage.text
-    
-    # 2023-11-22 更新正则 https://github.com/Zfour/python_github_calendar_api/issues/18
-    datadatereg = re.compile(r'data-date="(.*?)" id="contribution-day-component')
-    datacountreg = re.compile(r'<tool-tip .*?class="sr-only position-absolute">(.*?) contribution')
-    
-    datadate = datadatereg.findall(data)
-    datacount = datacountreg.findall(data)
-    datacount = list(map(int, [0 if i == "No" else i for i in datacount]))
 
-    # 检查datadate和datacount是否为空
-    if not datadate or not datacount:
-        # 处理空数据情况
-        return {"total": 0, "contributions": []}
-        
-    # 将datadate和datacount按照字典序排序
-    sorted_data = sorted(zip(datadate, datacount))
-    datadate, datacount = zip(*sorted_data)
-    
-    contributions = sum(datacount)
-    datalist = []
-    for index, item in enumerate(datadate):
-        itemlist = {"date": item, "count": datacount[index]}
-        datalist.append(itemlist)
-    datalistsplit = list_split(datalist, 7)
-    returndata = {
-        "total": contributions,
-        "contributions": datalistsplit
+    query = """
+    query($login: String!) {
+      user(login: $login) {
+        contributionsCollection {
+          contributionCalendar {
+            totalContributions
+            weeks {
+              contributionDays {
+                date
+                contributionCount
+              }
+            }
+          }
+        }
+      }
     }
+    """
+
+    payload = {
+        "query": query,
+        "variables": {
+            "login": username
+        }
+    }
+
+    response = requests.post(
+        url,
+        json=payload,
+        headers=headers,
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    result = response.json()
+
+    if "errors" in result:
+        raise RuntimeError(result["errors"])
+
+    calendar = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+
+    total = calendar["totalContributions"]
+
+    datalist = []
+
+    for week in calendar["weeks"]:
+        for day in week["contributionDays"]:
+            datalist.append({
+                "date": day["date"],
+                "count": day["contributionCount"]
+            })
+
+    # 保证日期升序
+    datalist.sort(key=lambda x: x["date"])
+
+    returndata = {
+        "total": total,
+        "contributions": list_split(datalist, 7)
+    }
+
     return returndata
-class handler(BaseHTTPRequestHandler):
-    def do_GET(self):
-        # 2024-03-15 规范接口的传参方式 https://github.com/Zfour/python_github_calendar_api/issues/20#issuecomment-1999115747
-        path = self.path
-        spl=path.split('?')[1:]
-        for kv in spl:
-            key,user=kv.split("=")
-            if key=="user": break
-        data = getdata(user)
-        self.send_response(200)
-        self.send_header('Access-Control-Allow-Origin', '*')
-        self.send_header('Content-type', 'application/json')
-        self.end_headers()
-        self.wfile.write(json.dumps(data).encode('utf-8'))
-        return
+
+
 if __name__ == "__main__":
-    # 方式1：直接指定用户名 !!!!!!!!!!!!!!!!Custom here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    username = "GWan1234"  # 替换为实际的GitHub用户名
-    #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Custom here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    
+
+    # ===== 修改这里 =====
+    username = "GWan1234"
+    # ===================
+
+    token = os.getenv("GITHUB_TOKEN")
+
+    if not token:
+        raise RuntimeError(
+            "未找到环境变量 GITHUB_TOKEN，请在 GitHub Actions 中设置：\n"
+            "env:\n"
+            "  GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}"
+        )
+
     print(f"正在获取 {username} 的贡献数据...")
-    data = getdata(username)
-    
-    # 保存到JSON文件
+
+    data = getdata(username, token)
+
     filename = f"github_contributions_{username}.json"
-    with open(filename, 'w', encoding='utf-8') as f:
+
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    
+
     print(f"数据已保存到 {filename}")
     print(f"总贡献数: {data['total']}")
