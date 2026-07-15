@@ -4787,7 +4787,7 @@ yifengyou/manifest: BRANCHES:[master:a6102ca16b83495a259ef93319ffae16763181b1;]|
 yifengyou/markdown-image-paste-delete: BRANCHES:[master:da6d17a22b1ea7d137146cb2f9b8e7625a2be442;]|RELEASE:[none|none]
 yifengyou/markdown-preview-auto-open-close: BRANCHES:[master:b8b94619ecb1d851c775d3b5bdc909fbb4429b34;]|RELEASE:[none|none]
 yifengyou/matrix: BRANCHES:[master:42281f70ac0d5483b94fa19d82289bdb4c2637ef;b_neo:00f479d75bdee2a4036b7f07b4a609fef29f3d0e;b_morpheus:be02dbc09e57d914645e5f6ac1732bdf7109e7ba;b_trinity:8d53ecb3660c3c94161e9957f81022202ec63612;b_tank:be7562a928a11b5a220750ffa1d1efff6f9f638a;b_switch:d79cf85c409ec4db80fe487762252ae6436b9ac4;b_cypher:7014ede721b0286c17cbca093ea25785058b477c;branch-shell:d98c6535291efae2537438000c67c116251787a0;]|RELEASE:[none|none]
-yifengyou/MAXHUB-VX60: BRANCHES:[master:d446b17eb6f0d228b1e793cdfa1e419d72236816;]|RELEASE:[official_5.10.209_kernel|none]
+yifengyou/MAXHUB-VX60: BRANCHES:[master:184027571c0b139712a8920c4c3bdf3906c15d08;]|RELEASE:[official_5.10.209_kernel|none]
 yifengyou/mbuild: BRANCHES:[master:2d4812f39444d554337a6221ad0c624a217f8408;docs:3938e50a61cf79abad9f831eda022ec4a7031f00;]|RELEASE:[none|none]
 yifengyou/mc-rk3588: BRANCHES:[master:42d3e61156ee542fd9e282aeb44ed1079ca5969e;]|RELEASE:[none|none]
 yifengyou/Metasploit: BRANCHES:[master:a83f0e76bf0d0302e86cc4164b8246bd6d304f36;]|RELEASE:[none|none]
