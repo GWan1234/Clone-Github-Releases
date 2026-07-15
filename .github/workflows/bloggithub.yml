@@ -2,8 +2,13 @@ name: Update GitHub Contributions
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
+  workflow_run:
+    workflows:
+      - "Discussions Backup Repositories"
+    types:
+      - completed
+  # schedule:
+    # - cron: '0 */6 * * *'
 permissions:
   contents: write  # 确保有写入权限
   

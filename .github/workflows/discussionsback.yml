@@ -3,7 +3,7 @@ name: Discussions Backup Repositories
 on:
   workflow_run:
     workflows:
-      - "Clone Backup Matrix (Read-Write Separation Mode)"
+      - "Clone Backup Repositories F"
     types:
       - completed
   workflow_dispatch:
