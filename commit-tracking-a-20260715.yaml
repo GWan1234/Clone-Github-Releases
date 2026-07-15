@@ -560,7 +560,7 @@ AlistGo/desktop-release: BRANCHES:[main:5a94469dd79dc8df981a299d0037aae12ede7dc1
 AlistGo/auth: BRANCHES:[main:891d373ead44787faf8c234dfd9c8d8510a72c20;]|RELEASE:[none|none]
 AlistGo/old-docs: BRANCHES:[gh-pages:eb631057c30b8d27aa3aa65813bb4e2486688041;main:8f4992bd31acb779e4a6cb433a7750f953d3cd32;]|RELEASE:[none|none]
 AlistGo/times: BRANCHES:[master:efa0c7d3ad9298803e95106774bd367ada3b81d5;]|RELEASE:[none|none]
-AlistGo/Alist-ikuai: BRANCHES:[main:95518eaee6ae824320046dd158d136a9d3c47942;]|RELEASE:[null|none]
+AlistGo/Alist-ikuai: BRANCHES:[main:6faf448061859bd9dc3f0d50544d07100cc401eb;]|RELEASE:[null|none]
 AlistGo/luci-app-alist: BRANCHES:[main:a6679cd433061b75897c7a64222ff84fb4c35ba6;]|RELEASE:[v3.61.0|none]
 localsend/localsend: BRANCHES:[dependabot/github_actions/actions/checkout-7:3945da0775492ded5314a27472fbf9658fac70a7;weblate:52fb6dfebb6a268fbba0f1339244705c97fb731b;main:747837ea9dfcae2a66f147663d0a24e24e494ea5;dependabot/github_actions/Mattraks/delete-workflow-runs-0cf693bc9909e5e867ee8f27b813224ba862939c:f81564208686c995aec580869db3dca0100c89e0;dependabot/github_actions/actions/download-artifact-8:dcba104fdc4916593f7ed43436f33b3218a301c3;dependabot/github_actions/release-drafter/release-drafter-7:5649d7ac064e2c3604a133e766dff946c034ebd8;dependabot/github_actions/actions/upload-artifact-7:cd74d643e9da9c6a6791df5cccca61a759199a7f;sponsor-warp:fd27037cac058e5724320c92b28a01935db9713a;feature/webrtc:963aa41a1a46f594fc660567e023f6d45ce1103b;feature/highlight-file:e1aa806fab2c62ff7967b451b7ff33b986b7ad5b;]|RELEASE:[v1.17.0|none]
 localsend/website: BRANCHES:[main:8cc48bd5b6dbafbd0ceaf9040df82cafa0039725;redesign:b02f189d1ff2b56eede91ce6a300c7471caaee68;sponsor-test:c4565172310de7865bac7f25d8e3116b91477249;]|RELEASE:[none|none]
