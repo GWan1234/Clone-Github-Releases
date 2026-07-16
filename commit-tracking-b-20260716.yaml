@@ -3069,7 +3069,7 @@ adafruit/Adafruit_CircuitPython_FruitJam: BRANCHES:[main:cf918720af053135ff3475e
 adafruit/Adafruit_CircuitPython_Argv_File: BRANCHES:[main:29f88bd12dabb5f939240060a6915851cb616565;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit_CircuitPython_USB_Host_Mouse: BRANCHES:[main:c6cfff952d5a1c01e95e4d015c81151083c1a5e6;docs_improvements:00629c3f5980fb3a13d04e300704cc0cc7706156;]|RELEASE:[1.6.4|none]
 adafruit/Adafruit_OPT4048: BRANCHES:[main:113c191ffb7c899a0921179579046e994948e452;gh-pages:649eeb7d84900369987cf17a60a404bd792300dd;oembed:97ad03a64633a6b27d001949810cb44f4748f9b6;]|RELEASE:[1.0.2|none]
-adafruit/Adafruit_CircuitPython_MIDI_Parser: BRANCHES:[main:901b2cb5e108e43159b2694852430109a98ee84b;]|RELEASE:[1.2.3|none]
+adafruit/Adafruit_CircuitPython_MIDI_Parser: BRANCHES:[main:a983285df0d36b0d46f0700bd97fecb6c6d74b50;]|RELEASE:[1.3.0|none]
 adafruit/Adafruit_INA237_INA238: BRANCHES:[main:b02845ec43143c4c601e98879721dc48725fb3cc;gh-pages:f71907bb2f785905f4a6d9c4e3cf60d2a5c9bf9a;]|RELEASE:[1.0.3|none]
 adafruit/Adafruit-Sparkle-Motion-Stick-PCB: BRANCHES:[main:5a2fd7a7e1ae0e15677335af38f3ba7fcb5a308f;]|RELEASE:[none|none]
 adafruit/Adafruit-OPT4048-XYZ-Color-Sensor-PCB: BRANCHES:[main:a9569a56fbfb380a23adae0f867d1da971801185;]|RELEASE:[none|none]
