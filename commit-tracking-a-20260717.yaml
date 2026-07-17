@@ -7532,3 +7532,4 @@ Seeed-Studio/Seeed_Arduino_Mic: BRANCHES:[master:d4e5f92a80629308ccfb35caed09092
 Seeed-Studio/seeed-linux-a-tf: BRANCHES:[v2.4-stm32mp:14d0fe57d8435f5aef214428baa339ee530f9263;master:c161772f40b8dd9ad184e7bfa9f9fb371873fefd;]|RELEASE:[none|none]
 Seeed-Studio/meta-odyssey-x86: BRANCHES:[main:b61479a4be063d072593a76f5597900f7794a75d;kirkstone:080104d91c7fd229f653796f20d89e5cbd363736;dunfell:006d63b7e682c244aba09e9b606ffdd7030d993a;balena:a57f16e86b346c579d1b5ecd7f6a38759f615d45;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Python_reTerminal_QT5_Facerec: BRANCHES:[master:3956e00df53fbaadd48af574bf471307f44fd282;postgres:d4dbe761ca3f289677f968c8f5cf918884fb2930;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_atLoRaWan: BRANCHES:[master:916df9c04938e3ff575502242bc7f908d53a379a;]|RELEASE:[none|none]
