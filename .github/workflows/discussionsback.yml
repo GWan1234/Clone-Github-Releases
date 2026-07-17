@@ -2,8 +2,7 @@ name: Discussions Backup Repositories
 
 on:
   workflow_run:
-    workflows:
-      - "Clone Backup Repositories F"
+    workflows: [Delete Workflow Runs]
     types:
       - completed
   workflow_dispatch:

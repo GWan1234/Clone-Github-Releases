@@ -2,8 +2,7 @@ name: Delete Workflow Runs
 
 on:
   workflow_run:
-    workflows:
-      - "Discussions Backup Repositories"
+    workflows: [Clone Backup Matrix (Read-Write Separation Mode)]
     types:
       - completed
   workflow_dispatch:
