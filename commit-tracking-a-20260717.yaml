@@ -7603,3 +7603,4 @@ Seeed-Studio/SenseCAP-A1102: BRANCHES:[main:486385c5450c3e13a422b6a1cde079e90db7
 Seeed-Studio/SWSD006: BRANCHES:[heads/v2.6.1:920a4735de3322abfcd96ba075abf8d440307e6f;master:0bc54ec69d89ae8178320728902c87426399759a;Wenzy/dev:3b006634790deef733ed63eda5bcd296d8f3e670;lbm_v431:71e890e51438433ed39640c55888fd704465ad34;lbm_v450:fbcfc34ece0bbe69e6c071f70efbc88150167a43;]|RELEASE:[none|none]
 Seeed-Studio/sync-github-all-issues: BRANCHES:[main:79cd9224964eadf68a2ed197aec29b1fc0d91306;]|RELEASE:[none|none]
 Seeed-Studio/one_channel_hub: BRANCHES:[master:735bb8e9efca9092c9580eeaff2d8678c509e5d5;xiao-esp32s3-sx1262-bt-config:311b9645b0f0b196bbd40a0fee0e5e10f414dc5e;xiao-esp32s3-sx1262:4cc771ac02da1bd18be67509f6b52d21bb0feabd;]|RELEASE:[none|none]
+Seeed-Studio/OSHW-SenseCAP-Watcher: BRANCHES:[main:3ca69aefa8441f57d38993a39df714048633d032;]|RELEASE:[none|none]
