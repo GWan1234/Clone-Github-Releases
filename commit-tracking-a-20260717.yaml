@@ -7619,3 +7619,4 @@ Seeed-Studio/Seeed_Arduino_SPA06: BRANCHES:[master:8fb5cdf260605ef5f7c064c9a46d2
 Seeed-Studio/AcousticsLab: BRANCHES:[main-next:d1e690c592fec2eb6657ad7487a6c016335ce260;main:2cfcd1a676f83c04a778ff442cd87294b8441ef1;]|RELEASE:[none|none]
 Seeed-Studio/micropython-seeed-boards: BRANCHES:[master:aa0d5438c48916e10df533298943b1d0accf3485;nrf54lm20a:89095e8de2a13a9a80c198a815fd144d52062d3b;nrf54l15_test:442e7ccfa7201d44d305dbbee6d3bab5acd7147a;]|RELEASE:[v1.3|none]
 Seeed-Studio/balena-seeed-cm4: BRANCHES:[fix/seeed-boards-workflow:1122e742471b3b379adc725cf530668330a4bf2f;master:1897107c9b9ad5a789824cc75c8c4de8778ff085;balenaos-v6.5.47:7bf196ad2f81c2284af4e805ccb90079d74428fd;]|RELEASE:[v1.0.0|none]
+Seeed-Studio/frigate-on-jetson: BRANCHES:[main:25920f4b2188e92d2c54c1b76dc150f9bef83c50;]|RELEASE:[none|none]
