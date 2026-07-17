@@ -7624,3 +7624,4 @@ Seeed-Studio/armbian-build: BRANCHES:[main:70c5d74581dbb16b780e9e0860d8179d0400c
 Seeed-Studio/SenseCAP-Gateway-OS: BRANCHES:[master:16e8ffe5b0c48bb06d78391de3dac5d779321875;]|RELEASE:[v1.2.7|none]
 Seeed-Studio/reTerminal-D1001: BRANCHES:[main:5074d3b2f45626b261298e305aaf792036febc5a;]|RELEASE:[none|none]
 Seeed-Studio/Seeed-Tracker-T2000-For-LoRaWAN-Dev-Kit: BRANCHES:[main:fe022811d4825ffe8b45383b5203254e65b29aba;]|RELEASE:[none|none]
+Seeed-Studio/tracker_sx1262_t2000_bootloader: BRANCHES:[main:d51e7c248c489eab7f4a5202af01651a24e19589;]|RELEASE:[none|none]
