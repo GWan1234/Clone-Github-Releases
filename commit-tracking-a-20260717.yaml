@@ -7518,3 +7518,4 @@ Seeed-Studio/Seeed_Arduino_rpcmDNS: BRANCHES:[main:64a207f9b201c19c72b2d99d13b98
 Seeed-Studio/ArduinoCore-stm32: BRANCHES:[master:d6f93de5fa9b4d29789db2d5e7833295a058eb64;revert-3-main:cb7b7506c378c87182cf10999ec36594d60a747e;dev:367d27bad2433a6c0fee9a4449b8734cca132073;sdmmc:004f843bd762860664d4153824760f80772c0fb3;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_CAM: BRANCHES:[main:09a229e74c60430174bca2d473945cf55ab49589;dev:44857f05cd9020d67ef58d3a655cdcbfce71a548;ov2640:30210f6e84f148cdecf15db7ed2a4f1f05db1e1f;old:3c07a7331f8043c32624b6e90d76bbba46c5e84d;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_rpcAsyncTCP: BRANCHES:[master:fe95c74f91447eb7a8eed3b189786fe304a02f65;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_rpcAsyncWebServer: BRANCHES:[master:d2c0977a556224f13aec1d491846614bbc02be74;gh-pages:7100994fc95e4b20132399e5b886645fa98152c3;]|RELEASE:[none|none]
