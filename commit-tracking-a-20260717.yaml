@@ -7601,3 +7601,4 @@ Seeed-Studio/ArduinoCore-renesas: BRANCHES:[main:75a2f26f88c814b583031996de24703
 Seeed-Studio/node-red-contrib-nodes: BRANCHES:[main:1815fd4670fed811a0a07abf55727f43983d827f;dev:deff5d43b9576767a573e4d0f7ed5fce181459c1;]|RELEASE:[v0.2.7|none]
 Seeed-Studio/SenseCAP-A1102: BRANCHES:[main:486385c5450c3e13a422b6a1cde079e90db759f9;new_a1102_test:dcbffe7fbea237f47797ae2fd6ff08f99025b106;test:1be1de3e6192250d0f2d1997b48c5cea2ec43de3;feat/ota:e43ab4097e3081107166e414966ff76eda1317d6;]|RELEASE:[none|none]
 Seeed-Studio/SWSD006: BRANCHES:[heads/v2.6.1:920a4735de3322abfcd96ba075abf8d440307e6f;master:0bc54ec69d89ae8178320728902c87426399759a;Wenzy/dev:3b006634790deef733ed63eda5bcd296d8f3e670;lbm_v431:71e890e51438433ed39640c55888fd704465ad34;lbm_v450:fbcfc34ece0bbe69e6c071f70efbc88150167a43;]|RELEASE:[none|none]
+Seeed-Studio/sync-github-all-issues: BRANCHES:[main:79cd9224964eadf68a2ed197aec29b1fc0d91306;]|RELEASE:[none|none]
