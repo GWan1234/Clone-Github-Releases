@@ -7599,3 +7599,4 @@ Seeed-Studio/OSHW-Jetson-Series: BRANCHES:[main:44b9259f1c8769dadcaef576c8dec5e8
 Seeed-Studio/OSHW-reCamera-Series: BRANCHES:[main:55b56e2c0b0ee89e68fceb9b5e8fd70c3af42701;]|RELEASE:[none|none]
 Seeed-Studio/ArduinoCore-renesas: BRANCHES:[main:75a2f26f88c814b583031996de2470354440e815;]|RELEASE:[none|none]
 Seeed-Studio/node-red-contrib-nodes: BRANCHES:[main:1815fd4670fed811a0a07abf55727f43983d827f;dev:deff5d43b9576767a573e4d0f7ed5fce181459c1;]|RELEASE:[v0.2.7|none]
+Seeed-Studio/SenseCAP-A1102: BRANCHES:[main:486385c5450c3e13a422b6a1cde079e90db759f9;new_a1102_test:dcbffe7fbea237f47797ae2fd6ff08f99025b106;test:1be1de3e6192250d0f2d1997b48c5cea2ec43de3;feat/ota:e43ab4097e3081107166e414966ff76eda1317d6;]|RELEASE:[none|none]
