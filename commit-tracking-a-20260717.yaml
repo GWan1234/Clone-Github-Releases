@@ -7523,3 +7523,4 @@ Seeed-Studio/seeed-linux-openwrt: BRANCHES:[main:f8a381d50efbadfeab1e7624311fb1c
 Seeed-Studio/Seeed_Arduino_rpcAWS: BRANCHES:[master:0c644bd3ced8d20d51fa801e8970751a08f9858f;use_github_actions:09984498f81e86e6174dd135c0b4bc9b502b4591;stick_to_platformio_version:905ae39500c8d2570ce8b497d060ce2a6fe71834;fix_create_thing_script:8cfec85a302889962d84aec15a6eadee6d27cc7e;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Studio_Courses: BRANCHES:[Edge-AI-101-with-Nvidia-Jetson-Course:0c3c40bfcd18dd2a6e91af3dbeb704547ea10e9d;main:e07138e1e6305348922b02e28b663a13db09a351;Seeed-Arduino-WioTerminal-TinyML-Course:716cff1030b83232fe67d0bbbc18f9356a29ed94;]|RELEASE:[1.0|none]
 Seeed-Studio/Seeed_Python_ReTerminalQt5Examples: BRANCHES:[main:19fba8a2728d729543e68803cb3956da1cfe5a9a;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Python_RPi: BRANCHES:[main:8c0903efe3f3a27477e4e39f958dee93e4323578;seeed_python_rpi:7b4e58ea62583506b8608e67c0fdf42d54084fc5;]|RELEASE:[none|none]
