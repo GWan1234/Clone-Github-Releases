@@ -2,6 +2,7 @@ allrepositories:
  # - ophub
   - unifreq
   - martin-ger
+  - playbridgeapp
 
 
 exclude:
