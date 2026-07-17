@@ -7494,3 +7494,4 @@ esphome/ready-made-project-template: BRANCHES:[jesserockz-2026-477:3989bb4d88514
 esphome/serial-proxies: BRANCHES:[main:a045cbe24d8d5621040d86890e8bac8e9e549766;]|RELEASE:[26.7.1|none]
 yifengyou/MAXHUB-VX60-RK3588: BRANCHES:[master:25f4f6eef208db9701d94c57181f89f44b605fda;]|RELEASE:[official_android13_with_magisk|none]
 OLIMEX/PICO-EVB: BRANCHES:[main:c86f5fe065ecffda1fc7ad5b183bddb6ed0e6d2c;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_AHT20: BRANCHES:[master:f0742f8265b1d51788891506fabf63a73139f9e2;]|RELEASE:[v1.0.1|none]
