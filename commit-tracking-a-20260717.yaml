@@ -7559,3 +7559,4 @@ Seeed-Studio/sscma-example-esp32: BRANCHES:[main:9eba82d307c9139eaf4f6b526a27d9e
 Seeed-Studio/edgelab-ei-ml-blocks: BRANCHES:[master:5dfc3c3308d7627d3f374c88167b78f9e7ec5a35;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_RoundDisplay: BRANCHES:[main:e811877f5b150981a481c39abd9c7ee0a029cd1c;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Wio_WM1110_Dev_Board: BRANCHES:[master:e34742993932c97731f513ffa3028d284b163d31;]|RELEASE:[none|none]
+Seeed-Studio/OSHW-WioTerminal: BRANCHES:[main:c9192a3c7aeb40c7d3c09e5397f0a531f2847d0c;]|RELEASE:[none|none]
