@@ -7588,3 +7588,4 @@ Seeed-Studio/Wio_Tracker_Board_Peripheral: BRANCHES:[main:5f83ddb7b1fe1d22f7aa0b
 Seeed-Studio/LBM_Modem_Common: BRANCHES:[main:9f70a8606fb814498ee4d39129da716bc089a736;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_SSCMA: BRANCHES:[main:65a1b2061e80f1bd3814f688451a66646782fe1f;feat/wifi-version:ef094de2368f1b36ea8e2cb2b16610f86f860ca5;]|RELEASE:[v1.0.3|none]
 Seeed-Studio/MakerCamp: BRANCHES:[main:b148828b2a4618cd04259cfdfe7c64a37414e428;Ran-Zhou-R@S-documentation:8654af65026014a5fcbebec526ff65b2cc3eda54;updating:71f14db256768ad74f07c583031bf16b6ca734ea;]|RELEASE:[none|none]
+Seeed-Studio/SenseCAP-Watcher-Firmware: BRANCHES:[main:8e37f7ccd3d836bb99f483e0f6e74e8252406644;factory_fw:dfdd0eff349957febff1c0145a4e5d8dc0ddb07f;]|RELEASE:[fw-v1.1.7|a7c0dfb3c9ed1d74addec41c9fae1a52e0c57dd7]
