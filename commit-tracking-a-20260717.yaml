@@ -7596,3 +7596,4 @@ Seeed-Studio/OSHW-XIAO-Series: BRANCHES:[main:f07e6ff72e79623f341f80595d03224489
 Seeed-Studio/sscma-example-sg200x: BRANCHES:[main:c705d180571e11ff41cd56098c0d95734daff521;feature/halow:468a82de4227c6771166ef37ee84d4bf459856fb;feature/sensecraft-classify-dashboard:8e3e86e294c847ecd76c2764f0fff2dccb4fe9a5;yolo26:5f4f5eded9aefabb34304d5dc3f8ded5cd8fff3c;dev:f163bfb9140b1d45f1ee6aea0cfebb843d7d92ad;supervisor:ef854ff5253d917c9d1864e8dc0f1c38a086b2bd;feat/multi-model:c524bf5172ee4dafc27266917e3f586a59daefc3;]|RELEASE:[0.2.3|none]
 Seeed-Studio/OSHW-RPi-Series: BRANCHES:[main:d34f1e251d5a9f5fb5422dbc9cb491f1a544bdac;revert-19-main:e44aa1242c2f4a3e58cf7e573aeff3c3ec87fc7e;]|RELEASE:[none|none]
 Seeed-Studio/OSHW-Jetson-Series: BRANCHES:[main:44b9259f1c8769dadcaef576c8dec5e8310ae876;]|RELEASE:[none|none]
+Seeed-Studio/OSHW-reCamera-Series: BRANCHES:[main:55b56e2c0b0ee89e68fceb9b5e8fd70c3af42701;]|RELEASE:[none|none]
