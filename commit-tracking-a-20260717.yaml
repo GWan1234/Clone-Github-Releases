@@ -7525,3 +7525,4 @@ Seeed-Studio/Seeed_Studio_Courses: BRANCHES:[Edge-AI-101-with-Nvidia-Jetson-Cour
 Seeed-Studio/Seeed_Python_ReTerminalQt5Examples: BRANCHES:[main:19fba8a2728d729543e68803cb3956da1cfe5a9a;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Python_RPi: BRANCHES:[main:8c0903efe3f3a27477e4e39f958dee93e4323578;seeed_python_rpi:7b4e58ea62583506b8608e67c0fdf42d54084fc5;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Python_MachineLearning: BRANCHES:[main:1fc0bf6d24d778c4fe501541966857b6fd50c146;]|RELEASE:[none|none]
+Seeed-Studio/seeed-linux-buildroot: BRANCHES:[master:876640247cb16c9b4d1727046ed9686ca0ada3c0;new_CI:5fd9be1866b57c3134750f6136d5bc96067906cd;]|RELEASE:[2024-11-26-11-34|none]
