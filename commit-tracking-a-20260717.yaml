@@ -7552,3 +7552,4 @@ Seeed-Studio/Seeed_Arduino_GroveAI: BRANCHES:[master:b4ef904dea4bcaf9ac55672a213
 Seeed-Studio/Seeed_Arduino_LoRaE5: BRANCHES:[master:20ebdd05f34e314b43c0574ada6bb8ca0c3367b4;]|RELEASE:[none|none]
 Seeed-Studio/Adafruit_nRF52_Arduino: BRANCHES:[master:667f05fdaafd01a05d8027d7dbbf1f4e0b137047;]|RELEASE:[1.1.13|none]
 Seeed-Studio/ModelAssistant: BRANCHES:[dev:1b84d5a6d90e42b2a8c299de0d840d7b92276a6c;fix/smoke-test-python-311:c410aae5331f07b60a9e183098051dac008b3fd2;copilot/fix-b3937989-1d1c-4038-9f9b-9056fc66af1a:649064603f852c20f4ac78b0681ea4a9f93b5bf1;main:dea366bea7db68c9224b6eef6bb40f2ce8ab8515;2.0.0:b56ea62271ae9a397bc88d5e3c29d1ad7e0786ec;Anomaly_detection/model_v1:20d37301d7838b1c66ffe9736503a524f275d9bd;1.0.x:0b90352ca2f23995e46b878088f348f5dac55ab2;]|RELEASE:[2.0.0rc3|none]
+Seeed-Studio/Seeed_Arduino_S2110: BRANCHES:[main:9dfa65862655c20dec623ad6ef91d984036a89b5;master:0d379537ed0b52de164039cc32534510019ecec7;]|RELEASE:[v1.0.1|none]
