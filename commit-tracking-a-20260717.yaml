@@ -7499,3 +7499,4 @@ Seeed-Studio/Seeed_GFX: BRANCHES:[master:a2de1abca0597c202193f22d01e9fa35d1ff613
 Seeed-Studio/Seeed_Arduino_USBDISP: BRANCHES:[master:f13ab007afb3d0a9872d2fddb8be6eab6f427825;add-license-1-1:50160b39045994234ec74f65d6280ea0231e763c;add-license-1:e2118f92b78698d2859338f26cd65cabb09cfaef;]|RELEASE:[v1.0.0|none]
 Seeed-Studio/ArduinoCore-ambd: BRANCHES:[master:f81bca75e433e35b2d27cadd178596888940fb5a;]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-usbdisp: BRANCHES:[master:c0fcedaafcd49fb31bbd522bca89a8288bafefc2;]|RELEASE:[1.0.0|none]
+Seeed-Studio/Seeed_Arduino_RTC: BRANCHES:[master:4b4a919c77fb627be8e4906374607dbfc3636ec4;]|RELEASE:[v2.0.0|none]
