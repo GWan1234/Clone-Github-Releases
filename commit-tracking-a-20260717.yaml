@@ -7586,3 +7586,4 @@ Seeed-Studio/WM1110_At_Config: BRANCHES:[main:4d35e4582a2d25e63a4bef31080cb6e89d
 Seeed-Studio/WM1110_Almanac_Update: BRANCHES:[main:1f8160eb5b986d5e4e4fc77363997c401e754d56;]|RELEASE:[none|none]
 Seeed-Studio/Wio_Tracker_Board_Peripheral: BRANCHES:[main:5f83ddb7b1fe1d22f7aa0bcad0b4160f4328a7e0;]|RELEASE:[none|none]
 Seeed-Studio/LBM_Modem_Common: BRANCHES:[main:9f70a8606fb814498ee4d39129da716bc089a736;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_SSCMA: BRANCHES:[main:65a1b2061e80f1bd3814f688451a66646782fe1f;feat/wifi-version:ef094de2368f1b36ea8e2cb2b16610f86f860ca5;]|RELEASE:[v1.0.3|none]
