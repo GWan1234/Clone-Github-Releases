@@ -7597,3 +7597,4 @@ Seeed-Studio/sscma-example-sg200x: BRANCHES:[main:c705d180571e11ff41cd56098c0d95
 Seeed-Studio/OSHW-RPi-Series: BRANCHES:[main:d34f1e251d5a9f5fb5422dbc9cb491f1a544bdac;revert-19-main:e44aa1242c2f4a3e58cf7e573aeff3c3ec87fc7e;]|RELEASE:[none|none]
 Seeed-Studio/OSHW-Jetson-Series: BRANCHES:[main:44b9259f1c8769dadcaef576c8dec5e8310ae876;]|RELEASE:[none|none]
 Seeed-Studio/OSHW-reCamera-Series: BRANCHES:[main:55b56e2c0b0ee89e68fceb9b5e8fd70c3af42701;]|RELEASE:[none|none]
+Seeed-Studio/ArduinoCore-renesas: BRANCHES:[main:75a2f26f88c814b583031996de2470354440e815;]|RELEASE:[none|none]
