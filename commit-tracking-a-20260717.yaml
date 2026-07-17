@@ -7538,3 +7538,4 @@ Seeed-Studio/LoRaWan-E5-Node: BRANCHES:[main:163c05379b1805dd8f2c061d4557a69985a
 Seeed-Studio/.github: BRANCHES:[master:504a7a7dbf9154690d2b9144945b6d065d35fb50;]|RELEASE:[none|none]
 Seeed-Studio/balena-seeed-x86: BRANCHES:[master:334ece2bc4dadc6813bcc946422d7389c948dcda;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor: BRANCHES:[master:1956883cc742020098aac87fe11450a7235759ef;]|RELEASE:[v1.0.1|none]
+Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub: BRANCHES:[master:90c9bad79ce3d61bcc1b452476902e722a131838;]|RELEASE:[v1.0.1|none]
