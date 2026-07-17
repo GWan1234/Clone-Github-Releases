@@ -17,7 +17,6 @@ allrepositories:
   - thelastoutpostworkshop
   - dr-dolomite
   - sonocotta
-#  - rednblkx
   - HomeSpan
   - Andryushik
   - syb999
@@ -36,6 +35,8 @@ allrepositories:
   - OLIMEX
   - Seeed-Studio
   - Joetooley28
+  - rednblkx
+  
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
