@@ -7530,3 +7530,4 @@ Seeed-Studio/meta-seeed-cm4: BRANCHES:[main:a2f9438ee3d2e16b17d40476de344889e4a9
 Seeed-Studio/meta-st-odyssey: BRANCHES:[openstlinux-6.1-yocto-mickledore:4c07884b30bc6d9e2b07af647502efd5f8f58c05;master:2c7b20cc2e6bae0e8b397f4f5d29ffba283b940d;develop:0b93e8b7688125f3ac96103001721c5bdcf98e79;]|RELEASE:[openstlinux-6.1-yocto-mickledore-mpu-v24.06.26|none]
 Seeed-Studio/Seeed_Arduino_Mic: BRANCHES:[master:d4e5f92a80629308ccfb35caed090920da052618;]|RELEASE:[1.0|none]
 Seeed-Studio/seeed-linux-a-tf: BRANCHES:[v2.4-stm32mp:14d0fe57d8435f5aef214428baa339ee530f9263;master:c161772f40b8dd9ad184e7bfa9f9fb371873fefd;]|RELEASE:[none|none]
+Seeed-Studio/meta-odyssey-x86: BRANCHES:[main:b61479a4be063d072593a76f5597900f7794a75d;kirkstone:080104d91c7fd229f653796f20d89e5cbd363736;dunfell:006d63b7e682c244aba09e9b606ffdd7030d993a;balena:a57f16e86b346c579d1b5ecd7f6a38759f615d45;]|RELEASE:[none|none]
