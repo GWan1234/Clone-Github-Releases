@@ -7583,3 +7583,4 @@ Seeed-Studio/WM1110_Storage: BRANCHES:[main:8d972760deac5bb8487ea03761c632889991
 Seeed-Studio/WM1110_Geolocation: BRANCHES:[main:d1b8579559afd58eb51026a85578017c59799e00;]|RELEASE:[none|none]
 Seeed-Studio/WM1110_BLE: BRANCHES:[main:fab6e3556c51956412905b4c78dc187916c660a5;]|RELEASE:[none|none]
 Seeed-Studio/WM1110_At_Config: BRANCHES:[main:4d35e4582a2d25e63a4bef31080cb6e89d093168;]|RELEASE:[none|none]
+Seeed-Studio/WM1110_Almanac_Update: BRANCHES:[main:1f8160eb5b986d5e4e4fc77363997c401e754d56;]|RELEASE:[none|none]
