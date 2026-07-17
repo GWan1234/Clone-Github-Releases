@@ -4652,3 +4652,4 @@ MetaCubeX/sevenzip: BRANCHES:[main:6254d13bfaae05146dc2087d350500f5cb389d73;main
 MetaCubeX/jls-quic-go: BRANCHES:[v0.59.0-mod-meta:12287ee553d3b68962cc8cfb52172d2d223e4c5a;]|RELEASE:[none|none]
 MetaCubeX/jls-tls: BRANCHES:[main:e13c4e54a728cb283594b163a3a501c14adf47a6;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo_device_driver_example: BRANCHES:[main:676a37efdc3243d808c7c198b645f459502acdcf;]|RELEASE:[none|none]
+Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:52804e175c52a5fb1b4bcef6f325948ec05395b3;]|RELEASE:[none|none]
