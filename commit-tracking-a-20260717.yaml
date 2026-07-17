@@ -7580,3 +7580,4 @@ Seeed-Studio/LBM_WM1110: BRANCHES:[main:b7c3be40b643e4ef535d88b8d59f1dba625f31fa
 Seeed-Studio/python-sscma: BRANCHES:[homeassistant:19f9f144a120fc1d8a198db8d0eca7aa3712b2b7;main:c48838f605d7a62c4f4e1537915d997f6166ca93;feat/supervision:d0d501b5015e58da90c6bfd829ac9434a8c8bec1;feat/ha-addon:70df415471c54bdbc6296e9d4e42819aa5467005;]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-deb: BRANCHES:[main:bca6d20c99303a0b8f5b39a94d1efaa99be14d49;]|RELEASE:[none|none]
 Seeed-Studio/WM1110_Storage: BRANCHES:[main:8d972760deac5bb8487ea03761c6328899915811;]|RELEASE:[none|none]
+Seeed-Studio/WM1110_Geolocation: BRANCHES:[main:d1b8579559afd58eb51026a85578017c59799e00;]|RELEASE:[none|none]
