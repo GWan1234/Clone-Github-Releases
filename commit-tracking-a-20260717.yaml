@@ -7539,3 +7539,4 @@ Seeed-Studio/.github: BRANCHES:[master:504a7a7dbf9154690d2b9144945b6d065d35fb50;
 Seeed-Studio/balena-seeed-x86: BRANCHES:[master:334ece2bc4dadc6813bcc946422d7389c948dcda;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor: BRANCHES:[master:1956883cc742020098aac87fe11450a7235759ef;]|RELEASE:[v1.0.1|none]
 Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub: BRANCHES:[master:90c9bad79ce3d61bcc1b452476902e722a131838;]|RELEASE:[v1.0.1|none]
+Seeed-Studio/Jetson_RP2040: BRANCHES:[master:41533f49051bb3edfbf46a64c5d79333b6cc0474;reServer_V1:a1abcfa92e03957e3090017288868a6c3ca75615;]|RELEASE:[V1.4|none]
