@@ -7542,3 +7542,4 @@ Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub: BRANCHES:[master:90c9bad79ce3d61bcc
 Seeed-Studio/Jetson_RP2040: BRANCHES:[master:41533f49051bb3edfbf46a64c5d79333b6cc0474;reServer_V1:a1abcfa92e03957e3090017288868a6c3ca75615;]|RELEASE:[V1.4|none]
 Seeed-Studio/pru-software-support-package: BRANCHES:[master:5301458c7b8020f906cafe9aabd6a28eec16de25;j721e:56a3cc30797c139830d9b01e9dcfa3a22cc76e01;]|RELEASE:[none|none]
 Seeed-Studio/cloud9-examples: BRANCHES:[master:02cda99905a6adef67ac7a842e23be1b3de4919d;bbai64-cape:3a8d1e65cb60e587f2da8f3111ece919584bb5f2;bbai64:7f7698f4b175b9204a2f1a12e02eea0a4fa44120;v2020.08:563c9976645a7834737a6d9ec4076eb5188efea0;v2020.01:acf48804871084c1ecdc892a5476cad561ae7cf8;]|RELEASE:[none|none]
+Seeed-Studio/robotic_demo: BRANCHES:[main:e52ed12f820e57815d9dfd9281bc08d9c37fbdd3;main-dev:5a3e593b3b52ab6873ecd35707947bdd9afb9a17;]|RELEASE:[none|none]
