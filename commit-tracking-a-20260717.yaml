@@ -7493,3 +7493,4 @@ SmartRouterZone/openwrt-official: BRANCHES:[openwrt-25.12:299a20fe7fe75a0d248f56
 esphome/ready-made-project-template: BRANCHES:[jesserockz-2026-477:3989bb4d885148fae5b48db0a80aee7e8f025afc;main:348f1f95e9b37f310213036491168a236f358af9;]|RELEASE:[none|none]
 esphome/serial-proxies: BRANCHES:[main:a045cbe24d8d5621040d86890e8bac8e9e549766;]|RELEASE:[26.7.1|none]
 yifengyou/MAXHUB-VX60-RK3588: BRANCHES:[master:25f4f6eef208db9701d94c57181f89f44b605fda;]|RELEASE:[official_android13_with_magisk|none]
+OLIMEX/PICO-EVB: BRANCHES:[main:c86f5fe065ecffda1fc7ad5b183bddb6ed0e6d2c;]|RELEASE:[none|none]
