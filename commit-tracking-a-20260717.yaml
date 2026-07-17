@@ -7534,3 +7534,4 @@ Seeed-Studio/meta-odyssey-x86: BRANCHES:[main:b61479a4be063d072593a76f5597900f77
 Seeed-Studio/Seeed_Python_reTerminal_QT5_Facerec: BRANCHES:[master:3956e00df53fbaadd48af574bf471307f44fd282;postgres:d4dbe761ca3f289677f968c8f5cf918884fb2930;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_atLoRaWan: BRANCHES:[master:916df9c04938e3ff575502242bc7f908d53a379a;]|RELEASE:[none|none]
 Seeed-Studio/ArduinoCore-mbed: BRANCHES:[master:f874a2ac953bf0fa0c9515606c70692d4a9beea6;plus:143b36bfbda5f95de9196a4eeace40de102366fc;nrf52840_nfc:7984ab3c65a26bbe2ed17ce22604de310f5ad3b8;]|RELEASE:[v2.9.3|none]
+Seeed-Studio/LoRaWan-E5-Node: BRANCHES:[main:163c05379b1805dd8f2c061d4557a69985acc953;qian:2cfbed04998d5b744f8f94d9759054e6fbfc7bb1;]|RELEASE:[none|none]
