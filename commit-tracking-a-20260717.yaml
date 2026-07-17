@@ -7572,3 +7572,4 @@ Seeed-Studio/SenseCraft-AI_Client: BRANCHES:[main:7dbeacebe802d4212210fb5e6a6a77
 Seeed-Studio/SenseCraft-AI_Server: BRANCHES:[multi-stream:58398876a608f41f5ebc53dd7b7852967d8c28d8;jetson:9b994907b6b5d8725022889e0ffb8165ce8aba5c;main:0562e6c91b572989385aab3b88dfcf9472078201;]|RELEASE:[none|none]
 Seeed-Studio/SenseCraft-AI: BRANCHES:[main:dfa4ad2986b7c8781a84c0d31c7773c125e2203e;]|RELEASE:[none|none]
 Seeed-Studio/Wio_Tracker_1110_Examples: BRANCHES:[main:27f1b227112d5c3c38044f725669d5905a3e6a16;]|RELEASE:[none|none]
+Seeed-Studio/SSCMA-Micro: BRANCHES:[feat/bisenetv2-support:e830d545200ef28406bb765483909928ec2e1baa;main:e830d545200ef28406bb765483909928ec2e1baa;yolo26:0742f653eca7a83743ddbdd583f756184212254e;1.0.x:ff48a1c028b650842549b0c00b6fe4903d8a05fc;refactor/sscma-deploy-esp32:3f8a7f780897b731a7116f7324223554282cc0b7;bak:9bcf02f83f9d836957102ff22f67dae58eb818e5;]|RELEASE:[none|none]
