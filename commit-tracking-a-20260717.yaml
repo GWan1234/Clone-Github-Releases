@@ -7502,3 +7502,4 @@ Seeed-Studio/seeed-linux-usbdisp: BRANCHES:[master:c0fcedaafcd49fb31bbd522bca89a
 Seeed-Studio/Seeed_Arduino_RTC: BRANCHES:[master:4b4a919c77fb627be8e4906374607dbfc3636ec4;]|RELEASE:[v2.0.0|none]
 Seeed-Studio/seeed-ardupy-bme280: BRANCHES:[master:4a486fb9a48677f491d404f5234b40a970b68392;]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-scd30: BRANCHES:[master:22e8230a80b3c6330dc50d354c892fbbb49c1039;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_rpcUnified: BRANCHES:[master:f0570f481d6f65c2e86c147f36d2b994d7bea645;new-arch:642ce32eb61e03fdb58c5262c3b8d78a61b1a570;qian:e66b61c93f2633552c06e2a17b53df741e061148;dev-st:d22d7570684d095ad411c398e454d34784237f2d;dev-xiao-rtl872x:d9fd5fd02faa5565ef077d3fd7924108ca531ec1;]|RELEASE:[v2.1.4|none]
