@@ -7536,3 +7536,4 @@ Seeed-Studio/Seeed_Arduino_atLoRaWan: BRANCHES:[master:916df9c04938e3ff575502242
 Seeed-Studio/ArduinoCore-mbed: BRANCHES:[master:f874a2ac953bf0fa0c9515606c70692d4a9beea6;plus:143b36bfbda5f95de9196a4eeace40de102366fc;nrf52840_nfc:7984ab3c65a26bbe2ed17ce22604de310f5ad3b8;]|RELEASE:[v2.9.3|none]
 Seeed-Studio/LoRaWan-E5-Node: BRANCHES:[main:163c05379b1805dd8f2c061d4557a69985acc953;qian:2cfbed04998d5b744f8f94d9759054e6fbfc7bb1;]|RELEASE:[none|none]
 Seeed-Studio/.github: BRANCHES:[master:504a7a7dbf9154690d2b9144945b6d065d35fb50;]|RELEASE:[none|none]
+Seeed-Studio/balena-seeed-x86: BRANCHES:[master:334ece2bc4dadc6813bcc946422d7389c948dcda;]|RELEASE:[none|none]
