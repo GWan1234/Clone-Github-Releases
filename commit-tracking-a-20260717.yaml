@@ -7604,3 +7604,4 @@ Seeed-Studio/SWSD006: BRANCHES:[heads/v2.6.1:920a4735de3322abfcd96ba075abf8d4403
 Seeed-Studio/sync-github-all-issues: BRANCHES:[main:79cd9224964eadf68a2ed197aec29b1fc0d91306;]|RELEASE:[none|none]
 Seeed-Studio/one_channel_hub: BRANCHES:[master:735bb8e9efca9092c9580eeaff2d8678c509e5d5;xiao-esp32s3-sx1262-bt-config:311b9645b0f0b196bbd40a0fee0e5e10f414dc5e;xiao-esp32s3-sx1262:4cc771ac02da1bd18be67509f6b52d21bb0feabd;]|RELEASE:[none|none]
 Seeed-Studio/OSHW-SenseCAP-Watcher: BRANCHES:[main:3ca69aefa8441f57d38993a39df714048633d032;]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_SSCMACore: BRANCHES:[update-branch:f2caf0e8289be3fb90c516647b5b1e659d17d914;main:4e8e2a5f452cd095aa2d1aef8d812de4f42e528b;]|RELEASE:[none|none]
