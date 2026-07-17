@@ -7515,3 +7515,4 @@ Seeed-Studio/seeed-ardupy-WTbacklight: BRANCHES:[main:f27924fe4fc9c2dce00709bf08
 Seeed-Studio/seeed-ardupy-sdcard: BRANCHES:[master:e5d36c1f439b9b9c846022267a85d11ce8826a3b;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_rpcWiFiManager: BRANCHES:[master:03dd8c79ed487fe04aabe8710821b0e00d02df36;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_rpcmDNS: BRANCHES:[main:64a207f9b201c19c72b2d99d13b982f47fd0c5a9;]|RELEASE:[none|none]
+Seeed-Studio/ArduinoCore-stm32: BRANCHES:[master:d6f93de5fa9b4d29789db2d5e7833295a058eb64;revert-3-main:cb7b7506c378c87182cf10999ec36594d60a747e;dev:367d27bad2433a6c0fee9a4449b8734cca132073;sdmmc:004f843bd762860664d4153824760f80772c0fb3;]|RELEASE:[none|none]
