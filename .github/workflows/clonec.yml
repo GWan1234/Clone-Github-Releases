@@ -2,8 +2,7 @@ name: Clone Backup Repositories C
 
 on:
   workflow_run:
-    workflows:
-      - "Clone Backup Repositories B"
+    workflows:workflows: [Clone Backup Repositories B]
     types:
       - completed
 
