@@ -3,6 +3,7 @@ allrepositories:
   - unifreq
   - martin-ger
   - playbridgeapp
+  - home-assistant
 
 
 exclude:

@@ -42,6 +42,7 @@ exclude:
   - armbian/cache
   - armbian/community
   - SmartRouterZone/swrt-gpl
+  - Seeed-Studio/OSHW-WioTerminal
 
 
 repositories:

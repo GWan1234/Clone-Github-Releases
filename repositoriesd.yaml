@@ -1,6 +1,6 @@
 allrepositories:
   - armbian
-  - home-assistant
+
   
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
