@@ -4590,7 +4590,7 @@ MetaCubeX/gopacket: BRANCHES:[master:7e2f98a3e7591b5982c5815920177ac7b9bbe25d;de
 MetaCubeX/metacubexd: BRANCHES:[gh-pages:253c6cfa3d8be2d94222c751644920fd599d6108;main:6802999f204fdb7a97b41ade2f49693ed5eab8c9;codex/code-quality-cleanup:f125088e6e8d4a743da92fa50950c32e20a4f4a6;feat/optional-backend:22eaebccd38845b205cb1810c468204f5f648a54;rm:4450ac5aae88a5884850a742fe1aedc22f4f568c;]|RELEASE:[v1.269.0|none]
 MetaCubeX/geo: BRANCHES:[master:a4db326ccfd7e21276d5d05f4f7e512d14415553;dev:d76155814f3ad4668dce36cabfb536f373683262;]|RELEASE:[v1.1|none]
 MetaCubeX/websocket: BRANCHES:[main:d9c0f95c20332118493adf65eba1d5ae8d16d9e4;]|RELEASE:[none|none]
-MetaCubeX/sing-quic: BRANCHES:[main:68e10a6afdc3f42c9377d0ca0f7259c2b85a9a43;]|RELEASE:[none|none]
+MetaCubeX/sing-quic: BRANCHES:[main:6c62e17225e8eebcdc868671e62b3109f532b8dd;]|RELEASE:[none|none]
 MetaCubeX/clash-verge: BRANCHES:[main-rev:88b9d85e9c0d9e255d035d9bd35db23b481194be;main:8c097358e123d5ab8755f6ed538b14760ddbac19;rm:0cf40f6bdf9d61c96fdf3c3a2cf8b718aa32945d;test:40b0d29997e44ec53adbd383576e196b546ee16a;]|RELEASE:[v1.4.8|none]
 MetaCubeX/clash-verge-service: BRANCHES:[main:f485f87fdc1f1c35f3725d4e378715aa6692a11c;]|RELEASE:[latest|none]
 MetaCubeX/tun2socket: BRANCHES:[main:dddbfaa28112d4eb1ab6a9ce0435d7f602da20d8;]|RELEASE:[none|none]
