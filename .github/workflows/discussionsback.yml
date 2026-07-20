@@ -2,7 +2,7 @@ name: Discussions Backup Repositories
 
 on:
   workflow_run:
-    workflows: [Delete Workflow Runs]
+    workflows: [Update GitHub Contributions]
     types:
       - completed
   workflow_dispatch:
