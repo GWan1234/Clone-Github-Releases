@@ -1158,7 +1158,7 @@ openwrt/qca-ssdk: BRANCHES:[openwrt:bb4f3f0b947ebfce51c78a8d39f57c7c758521c9;]|R
 openwrt/qca-nss-dp: BRANCHES:[openwrt:6a5c4716ca258d67202fc7964c9294dfefa3ccfa;]|RELEASE:[none|none]
 openwrt/keyring: BRANCHES:[master:fbae29d730f81c892f52e0ff00fe867444aeeae6;]|RELEASE:[none|none]
 openwrt/maintainer-tools: BRANCHES:[changelog:7f1a3d674b9c3ee08a21337e7269ee832dbc2330;master:e0f0ae0a8e44e802319a987f615caf3a5a51a3ff;]|RELEASE:[none|none]
-openwrt/backports: BRANCHES:[main:6ecbb441fa5f01a88b163e00a0d74ba43386bc42;]|RELEASE:[backports-v6.19|none]
+openwrt/backports: BRANCHES:[openwrt-24.10:bef6d58004d3dc30235d89e395f0106d41277982;main:6ecbb441fa5f01a88b163e00a0d74ba43386bc42;]|RELEASE:[backports-v6.19|none]
 openwrt/downloads-openwrt-org: BRANCHES:[staging:2f67686b059d32cb21c0f933e661abfeb3be9dd4;main:a220f6f26f5ef3fb2d068d4fc0ffb03ae544f40c;]|RELEASE:[none|none]
 openwrt/qca-ppe: BRANCHES:[main:3041090e0aa1a4d77c7e8c61aba99e5ead7b3b37;pcs-alloc-mem:3041090e0aa1a4d77c7e8c61aba99e5ead7b3b37;mtu:fff0bf97d4b4f8425da09caa6ff4370bf51ed759;]|RELEASE:[none|none]
 openwrt/qca-uniphy: BRANCHES:[main:5e2e0757b5a952349a197863b8efbb3e5e374c78;cleanup-ipq5018:a3b25d23885ec801df8b5eefa9b7c63eb56b82d0;]|RELEASE:[none|none]
