@@ -4619,7 +4619,7 @@ MetaCubeX/sing-mux: BRANCHES:[main:131bc64b19554bd785fc24faf639a5d4e6f922d3;]|RE
 MetaCubeX/nftables: BRANCHES:[v0.3.0-dev-meta:208c2c1ba2cb877a1d191e65e3f85b6c54540951;main:30a69ab877931453f89f2d97f5e050d8a6efeeed;]|RELEASE:[none|none]
 MetaCubeX/ascon: BRANCHES:[main:f6b41fd072b48802f28ff722caa0b39aabcc28ea;]|RELEASE:[none|none]
 MetaCubeX/blake3: BRANCHES:[master:37064aecb22c068e34a16248c952726e1660a4a2;]|RELEASE:[none|none]
-MetaCubeX/restls-client-go: BRANCHES:[restls-utls:a8fa52c83df7e4feec0d94998fb2729f91b2a34a;protable-change:aa5eac69cdac19ba301b0997301b12967761d326;main:1c9bee0769deb1c9d4079911d09780634ae6c911;impl-restls-client:fdd67518f38a283b1107418722523e90a204a93e;latest-fork:f735d91c0a785b2f2686e4d99a713ced98584e76;]|RELEASE:[none|none]
+MetaCubeX/restls-client-go: BRANCHES:[restls-utls:6566c5f8a24420fbaeb27bc74deea2597a30f4a7;protable-change:aa5eac69cdac19ba301b0997301b12967761d326;main:1c9bee0769deb1c9d4079911d09780634ae6c911;impl-restls-client:fdd67518f38a283b1107418722523e90a204a93e;latest-fork:f735d91c0a785b2f2686e4d99a713ced98584e76;]|RELEASE:[none|none]
 MetaCubeX/yamux: BRANCHES:[master:dd5f17c0be4982ec3da70ef7bce61c4641bf7665;]|RELEASE:[none|none]
 MetaCubeX/kcp-go: BRANCHES:[master:550693377604d7e25898a80a180b4c79cd452c24;meta-v5.6.61:550693377604d7e25898a80a180b4c79cd452c24;meta-v5.6.26:7455698490e9ddef28e874d43b13d6fd027a1628;]|RELEASE:[none|none]
 MetaCubeX/yq: BRANCHES:[master:7a29da06366b7cc6da9ba12d1a33d01afb722e5d;]|RELEASE:[none|none]
