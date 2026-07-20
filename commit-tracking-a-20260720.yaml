@@ -7634,3 +7634,4 @@ Seeed-Studio/linux-rockchip: BRANCHES:[rk-6.1-rkr5.1:e9dd0ea128a43ecf2c347a1e609
 Seeed-Studio/OSHW-reComputer-Qcom: BRANCHES:[main:642369a2a138fca124acaf7c0b2b997859e07941;]|RELEASE:[none|none]
 Seeed-Studio/how-to-vend-almost-anything: BRANCHES:[main:c674cec5f413b551baa5a154a6252a2467cc99f7;main-with-cursoragent-backup:e21887f7e06b153dafedd6789c2f268f9c24c27f;]|RELEASE:[none|none]
 yifengyou/p330tiny: BRANCHES:[master:820e6892b4248e98664624e7b57fec03d48a67e4;]|RELEASE:[none|none]
+SmartRouterZone/bl-mt798x: BRANCHES:[dhcp:f50f9785ea8c9d7789f7a1958935238213297450;x60:487a0bed4fa3129c36259144449f3fe5ecaf2266;mt7621:f4a7c8ddfb8f6efe36ec12b9ddf469e0e163f4b2;master:abe158087c80ed1896f2c281e2dae5e43ffbee41;fit-example:0939b7677140994739c6de3a1e8fc727f6aef3f8;bpi-r3-mini:2617b571618163a06d919de9d2bde63766c6eaa8;tl-xdr3230-v1:e1166b679217424d040b0874de1d42dd1eeb1f02;huasifei-wh3000:19da4c7343175a982cd2100718b7f4544bc34938;]|RELEASE:[none|none]
