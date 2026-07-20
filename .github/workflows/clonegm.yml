@@ -1,4 +1,4 @@
-name: Clone Backup Matrix (Read-Write Separation Mode)
+name: Clone Backup Repositories G
 
 on:
   workflow_run:
