@@ -2,7 +2,7 @@ name: Clone Backup Repositories E
 
 on:
   schedule:
-    - cron: "59 23 * * 2,4,6"
+    - cron: "0 0 * * 2,4,6"
   workflow_dispatch:
 
 jobs:

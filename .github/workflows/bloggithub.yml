@@ -2,7 +2,7 @@ name: Update GitHub Contributions
 
 on:
   schedule:
-    - cron: "0 10 * * 0"
+    - cron: "0 10 * * 7"
   workflow_dispatch:
   # schedule:
     # - cron: '0 */6 * * *'
