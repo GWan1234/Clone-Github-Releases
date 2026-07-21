@@ -3229,7 +3229,7 @@ home-assistant/developers.home-assistant: BRANCHES:[blog_single_config_entry_dev
 home-assistant/ui-schema: BRANCHES:[master:3a52416fb5fc92a976be1100232de395d263eeaa;iantrich-patch-1:53b50e953ed44dc5919b2305f33b5f7ef1275266;]|RELEASE:[none|none]
 home-assistant/custom-panel-starter-kit-react: BRANCHES:[master:66f76559c69dc312df4ca0eafdaed1c0bb98311e;]|RELEASE:[none|none]
 home-assistant/docker-base: BRANCHES:[master:aa518eb5ed1ff1f89c39f8f4efb4f1783f02517c;python-3.14-sysconfig-gcc-default-sysconfig-cleanup:aa8ff6bab13c62770938ca0e0194f4b6ad14e2b0;python-3.14-clang-tail-call:997c5354374476a3e5dff71ce0683d12753b7cbe;update-python-versions-3.13.4:b72ddf1b4ed2b08397c368d33802d1a4739e9f31;python313:c005fb923022a1792a323e5489718dd20492545e;]|RELEASE:[2026.06.1|none]
-home-assistant/docker: BRANCHES:[master:7fe1f49ed8c0a265c115c61890952ba784eb78f0;]|RELEASE:[2026.05.0|none]
+home-assistant/docker: BRANCHES:[master:464036359547c7336ed8d0222bcc51af208e39ec;frenck/add-ai-policy:5bb1471966e4210f2d266a459bef4d1fc04fab1f;]|RELEASE:[2026.07.0|none]
 home-assistant/hbmqtt-auth-home-assistant: BRANCHES:[master:c2f37cfa711e299eb59028e9818050038b563aea;]|RELEASE:[1.0.2|none]
 home-assistant/addons-development: BRANCHES:[master:1af6d3f032c1f64edf188792ca4f73e1073d1265;]|RELEASE:[none|none]
 home-assistant/open-zwave: BRANCHES:[hass:94267fa298c1882f0dc73c0fd08f1f755ba83e83;master:c701f5f78fbb9949a88800e34fdcd8e59b637bf4;Dev:9efb10103c7ca9bbe509443b4a0750dfae77a5bf;]|RELEASE:[none|none]
