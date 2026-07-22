@@ -4735,3 +4735,4 @@ pvvx/ADV_BLE2UART: BRANCHES:[sdk-v4023:9bd11febc9b07f81f4c76c3ba144a34bbae9ce84;
 pvvx/ATC_MiThermometer: BRANCHES:[master:2cd23c5c5996b51fe6e07776f9eea9e7c8a5d212;]|RELEASE:[v5.7|none]
 pvvx/B80_key: BRANCHES:[main:0558237b8b05f4a486f62e6e521666ae4cddd69e;]|RELEASE:[none|none]
 pvvx/bl702_adc_test: BRANCHES:[main:fdff82ad9b19e8eed90199f2ca2067f93dd0d903;]|RELEASE:[none|none]
+pvvx/BLETHR: BRANCHES:[master:1728e15e07e062ef8378a7bb1eb7fa05b4eee520;main:ece944528ca80e1f3904e009f7109771d0c1262b;]|RELEASE:[v1.1|none]
