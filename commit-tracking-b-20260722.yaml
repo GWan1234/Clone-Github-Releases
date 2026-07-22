@@ -4734,3 +4734,4 @@ pvvx/AdScanerTrg: BRANCHES:[master:5fdadca1cd6e2fccc8f8f4224acee03821091dbc;]|RE
 pvvx/ADV_BLE2UART: BRANCHES:[sdk-v4023:9bd11febc9b07f81f4c76c3ba144a34bbae9ce84;esp32-c3:64e32f581c7bd064de61cc45c6234cc190b0418f;CH582M:3e6bf42deda22f64e6782e71f1a584df6864ecf8;master:bb753197ec63949f8e714a6e0680eee260b2158a;]|RELEASE:[v1.0.1|none]
 pvvx/ATC_MiThermometer: BRANCHES:[master:2cd23c5c5996b51fe6e07776f9eea9e7c8a5d212;]|RELEASE:[v5.7|none]
 pvvx/B80_key: BRANCHES:[main:0558237b8b05f4a486f62e6e521666ae4cddd69e;]|RELEASE:[none|none]
+pvvx/bl702_adc_test: BRANCHES:[main:fdff82ad9b19e8eed90199f2ca2067f93dd0d903;]|RELEASE:[none|none]
