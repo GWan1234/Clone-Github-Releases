@@ -4670,3 +4670,4 @@ atc1441/ATCmiBand8fw: BRANCHES:[main:931216a15337fa371f3a7d2de6dfb216a90093a4;]|
 atc1441/ATCwatch: BRANCHES:[master:c03d7856e27884e257ae006f832aea2ac9509a13;]|RELEASE:[none|none]
 atc1441/ATC_BLE_OEPL_CH573: BRANCHES:[main:f0bfb3ed21b2abc3a13b52b26581e79c5ddbdb51;]|RELEASE:[none|none]
 atc1441/ATC_GICISKY_ESL: BRANCHES:[main:e54fcc94969ac786c92e6a0e7562a3d744e15fb6;]|RELEASE:[none|none]
+atc1441/ATC_MiThermometer: BRANCHES:[master:c59a6c1dc48873f3c311618603c20d1306dea176;revert-93-utilize_enum_for_smiley_type:f3a21b7b7edfa871f8a40a7257b9b5d1436ae011;]|RELEASE:[none|none]
