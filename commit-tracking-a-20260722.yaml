@@ -99,7 +99,7 @@ hacs/ND-NotifyUpdates: BRANCHES:[master:1af01e57d0336e64426e75297a5841bbac6c778e
 hacs/development: BRANCHES:[master:c241ba81939c911b8d498e213476ea625cc669a1;]|RELEASE:[none|none]
 hacs/container: BRANCHES:[main:a5c0d78eea823480b011170d89086f866ba0ba3a;]|RELEASE:[none|none]
 hacs/action: BRANCHES:[dependabot/github_actions/actions/checkout-7.0.1:f5f17dd177ded59f5d734dc80a5eb74db03bf324;main:1ebf01c408f29afcb6406bd431bc98fd8cbb15aa;]|RELEASE:[22.5.0|none]
-hacs/get: BRANCHES:[dependabot/github_actions/actions/setup-python-6.3.0:862ab157ea8e6e6a3e73ede3e7c907e43117ce7b;dependabot/github_actions/actions/checkout-7.0.0:0402e941cb53f7a9961254e0c3f78a1f72a7545f;main:ebc9d977c15af7af881eb0e04a928bb7d726fa98;]|RELEASE:[none|none]
+hacs/get: BRANCHES:[dependabot/github_actions/actions/setup-python-7.0.0:8d4802201e26ba02253e39edf609a825addb8301;dependabot/github_actions/actions/checkout-7.0.0:0402e941cb53f7a9961254e0c3f78a1f72a7545f;main:ebc9d977c15af7af881eb0e04a928bb7d726fa98;]|RELEASE:[none|none]
 hacs/collector: BRANCHES:[main:551fdb8f5d1c193af1402dd225f47d129205364d;]|RELEASE:[none|none]
 hacs/addons: BRANCHES:[dependabot/github_actions/docker/login-action-4.4.0:55febc852b21f16c3e993eb3b25134f6c78bec84;main:faf7da9bc371313699e2bb091fe4bbc0f2899d46;dependabot/github_actions/home-assistant/builder-2026.06.0:052bb60b486cfa14ae69d3bdf25401887bf0ecf6;]|RELEASE:[none|none]
 hacs/metrics: BRANCHES:[main:13c960b46d086b2aa85a8f07a7a5f69047973e35;]|RELEASE:[none|none]
