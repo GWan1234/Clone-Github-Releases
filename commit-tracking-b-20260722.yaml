@@ -4685,3 +4685,4 @@ atc1441/CC.Flash: BRANCHES:[master:dfc8a7edaf9823618a17fb3629c79b951dfde992;]|RE
 atc1441/CH559sdccUSBHost: BRANCHES:[master:6b132f0543bd4027b3c65af046157bcb7704fbeb;]|RELEASE:[none|none]
 atc1441/CH55xDuino: BRANCHES:[master:479a1ba363a7d15f8fa0d5628edcdfd3daedf769;]|RELEASE:[none|none]
 atc1441/ch55xduino-1: BRANCHES:[ch55xduino:d463db044cfaf16bbc0e4d2ef054af92b015d3a3;playground:c6576e4106915cca4210f768ab0dad7cad1093d0;development:b811a59ebd538c1d4bb1e02c1551d3b77e101293;gh-pages:6c8f938576394c3e6e25187d5c2d7c3e65d12ce4;]|RELEASE:[none|none]
+atc1441/CH55xOneClickCompiler: BRANCHES:[master:47de8f3317414886c7e6d31c9fc408d44c58d698;]|RELEASE:[none|none]
