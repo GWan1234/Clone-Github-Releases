@@ -4697,3 +4697,4 @@ atc1441/DaFlasherFiles: BRANCHES:[master:df2a5e2d99fe3dbf4c4ebff4414e0c0189f3855
 atc1441/Disno_band_NRF31512: BRANCHES:[main:6797a0d4456dd6ec45e220039143b6138ede9688;]|RELEASE:[none|none]
 atc1441/DiyArduinoESP232AlarmSystem: BRANCHES:[master:64df16e8e55275f29a3dffeca83bbc3a3b34e145;]|RELEASE:[none|none]
 atc1441/E-Paper_Pricetags: BRANCHES:[main:5ac32ec28b03c9265a9b34ad54de8daa79a5f21b;]|RELEASE:[none|none]
+atc1441/epaper-station: BRANCHES:[master:9ef742739afe266ca845e5a87300af8dc64edaad;]|RELEASE:[none|none]
