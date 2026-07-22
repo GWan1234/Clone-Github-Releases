@@ -4545,7 +4545,7 @@ Xinyuan-LilyGO/lilygo-skills: BRANCHES:[main:9a5e87d2443d26a3af828c4f10e2d52267d
 Xinyuan-LilyGO/lilygo-doc-mcp: BRANCHES:[master:78fae5183a3bbfb02b2017025b77533133a93538;]|RELEASE:[none|none]
 koreapyj/asterisk-chan-modemmanager: BRANCHES:[main:8be6e7ab7510536a649378b7c64b39f566ffab09;refactor-260702:194d87639f1af375f0e1881b14874e6c4ba9c601;]|RELEASE:[v1.0|none]
 Demogorgon314/luci-app-vohive: BRANCHES:[main:7b83b4a9e023b5a879ca5cc59dd2c286b277d7e7;]|RELEASE:[v0.1.18|none]
-3899/SimAdmin: BRANCHES:[dev:8a32bc932c831205b3ca375e6d5e1ed371942f0a;main:8a32bc932c831205b3ca375e6d5e1ed371942f0a;]|RELEASE:[v1.1.6|none]
+3899/SimAdmin: BRANCHES:[dev:4d1942c847e29addb87879bc3c6a4151e7c6aa84;main:8a32bc932c831205b3ca375e6d5e1ed371942f0a;]|RELEASE:[v1.1.6|none]
 giszh86/vohive: BRANCHES:[main:f240894e763cf7f0cf74c88562bb9b55f0d573b1;]|RELEASE:[none|none]
 openwrt/openwrt-bot-worker: BRANCHES:[main:f3161d5e65ad990064da2dc29bc73065060cd8b5;webhook/graphql-batching:f3161d5e65ad990064da2dc29bc73065060cd8b5;validators/friendlier-error-messages:892012dd27879cc89e4a9715b306b58a956009fa;feature/require-linked-github-warning:184cf71e47eab40782fe07222b592537c7d42024;feature/pkg-release-subpackage-exemption:48f07604bb5b152cd6ccdc4ba8d69e24482fa541;feature/flag-buildbot-default-in-feeds:424da2a8d48b3bdc1dadcc084aad91ea7c0ef02f;fix/indentation-hunk-state-leak:4ca9b59aa8ca9b66e493d13f105018a749b50f5d;feature/allow-branch-bypass:3f3eb8e7a348cfee0dc877b3711b58ee4bee10b9;fix-http-responses:80f4cc5053ea1b5de7479957e34338c630a90776;validators/uboot-pkg-release-exemption:23b5d399fda61e7198d54d6cddbdfe76ad9b8044;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo-assistant-skill: BRANCHES:[master:22f527b6c071dcc17d1d13079ab68ed48c2a11cf;]|RELEASE:[none|none]
