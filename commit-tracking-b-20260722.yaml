@@ -4722,3 +4722,4 @@ atc1441/smart-watch-socs: BRANCHES:[master:2913c65fa94d47dadc098e324408fd88634a3
 atc1441/Tag_FW_nRF52811: BRANCHES:[main:6beb233e0167c1f008bc4b464f59064569a15117;]|RELEASE:[none|none]
 atc1441/TCSintercomArduino: BRANCHES:[master:ad4a4ec08f92a2b3a649017f4316702953adcfbb;]|RELEASE:[none|none]
 atc1441/TI_CC_Ghidra_CPU: BRANCHES:[main:38826167ca326139c6eef761aee7e7b7e7b80bb1;]|RELEASE:[none|none]
+atc1441/TXW818_WalkieTalkie_Doom: BRANCHES:[main:3df4ed9938379f5cd633dc2ec46dff9146b0d54c;]|RELEASE:[none|none]
