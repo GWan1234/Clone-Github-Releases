@@ -4779,3 +4779,4 @@ pvvx/TlsrRepeater: BRANCHES:[master:7f94155d1e87f9bfc74544df7137b7b8ca0c6726;mai
 pvvx/TlsrSmartSwitch: BRANCHES:[master:1efc4d381bff13d1770a46b5075a369493d99a14;main:8dee362652c78ad53800a805b4b90404cdc8cfbb;]|RELEASE:[v0.1.0.0|none]
 pvvx/TlsrTools: BRANCHES:[master:9431d3323d37c42782d597426bad4b6d85f587fc;]|RELEASE:[none|none]
 pvvx/TlsrTools825x: BRANCHES:[master:3749af2811bd316e510753919ffde4634020126c;]|RELEASE:[none|none]
+pvvx/UBIA: BRANCHES:[master:d47c4290733db78be2b6ee8f12f92d052677e5e8;]|RELEASE:[none|none]
