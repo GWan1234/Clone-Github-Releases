@@ -3926,7 +3926,7 @@ emqx/upload-assets: BRANCHES:[master:974befcf0e72a1811360a81c798855efb66b0551;03
 emqx/gke-load-test: BRANCHES:[20241218-operator-private-namespace:223df098d2515aafc6cf948bb70360dbed7541fe;master:a0af769e1d6046b1039305515ab2bc1baae1f1fc;]|RELEASE:[none|none]
 emqx/lhttpc: BRANCHES:[master:df503b630c1fc7f81a636373f2d9daefdbde6b16;]|RELEASE:[none|none]
 emqx/jesse: BRANCHES:[260719-json-draft2019-2020:dc791aa809fdc64bd2aa277abcb248824970076c;master:4c636440ac27d0a357286ed2822d1dfca60c2424;]|RELEASE:[none|none]
-emqx/erlavro: BRANCHES:[master:f6a5d301d50974a5677af1a6f95932765c324b35;20260715-materialize-defaults-hook:530ed951630cf5814ad1a539bf2da158f7a2fa38;sync-upstream-2.11.2:accb19362c0535cae6f67c709afad8f138f942fd;]|RELEASE:[none|none]
+emqx/erlavro: BRANCHES:[materialize-defaults-hook:3e6ef0be9d0220660e1aeb70e4b7479b32a7fab9;master:9d1142f33f23c35921fb9b75a1ad55607eda0ac6;20260715-materialize-defaults-hook:530ed951630cf5814ad1a539bf2da158f7a2fa38;sync-upstream-2.11.2:accb19362c0535cae6f67c709afad8f138f942fd;]|RELEASE:[none|none]
 emqx/neuronex-helm-charts: BRANCHES:[gh-pages:66778b43311b3340757264fb0342f1361f61f06a;main:e8e4f15b859dc2af8f7fab3ef7e4ccd4f9714eec;]|RELEASE:[neuronex-operator-0.1.11|none]
 emqx/emqx-serverless-docs: BRANCHES:[main:a3c0a0192bc9bd1ba96b3cb242f7ab8d69ac4897;]|RELEASE:[none|none]
 emqx/emqx-dedicated-docs: BRANCHES:[main:b5db964565d5d1001f116bb58879e6070780292f;]|RELEASE:[none|none]
