@@ -4762,3 +4762,4 @@ pvvx/RTL0B_SDK: BRANCHES:[master:da1deaab5fec3bb582ab23e38c0110a332ffce03;]|RELE
 pvvx/RTL0B_WEB: BRANCHES:[master:6e0b409d21aea7a6b81fffd6950f3befeaa9669e;]|RELEASE:[none|none]
 pvvx/RTL871x_Info: BRANCHES:[master:8b63491ad0718d6b67cad71113db5501c59d5e5f;]|RELEASE:[none|none]
 pvvx/RtlDuino: BRANCHES:[master:73e823abea05f3cdcafd04dfa5bd390f241778f9;]|RELEASE:[none|none]
+pvvx/RTLHTTPD: BRANCHES:[master:2973a9254a59325060aa188389117d1fae8fc16c;]|RELEASE:[none|none]
