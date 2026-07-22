@@ -4650,7 +4650,7 @@ MetaCubeX/tailscale-wireguard-go: BRANCHES:[for-meta-v1.19.28:06ea214022e47c5199
 MetaCubeX/tailscale: BRANCHES:[for-meta-v1.19.29:e2257fe61058658917ca97067a4f7724b31f74c8;main:e2257fe61058658917ca97067a4f7724b31f74c8;for-meta-v1.19.26:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.27:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.25:a21c2c99dcbe247782d05b72dece4811bddc3d79;]|RELEASE:[none|none]
 MetaCubeX/sevenzip: BRANCHES:[main:6254d13bfaae05146dc2087d350500f5cb389d73;main-1.6.0:e321d6c5683d7a8e1555f013b23ac34256fcbcff;]|RELEASE:[none|none]
 MetaCubeX/jls-quic-go: BRANCHES:[v0.59.0-mod-meta:2d506f2b0d240b87915e4ab9168c533147effa39;]|RELEASE:[none|none]
-MetaCubeX/jls-tls: BRANCHES:[main:4bf88db633e23220f35fecc6676ffc8cd6b8318f;]|RELEASE:[none|none]
+MetaCubeX/jls-tls: BRANCHES:[main:048cc206000261943fdf93f5b3bbe2b81524be77;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo_device_driver_example: BRANCHES:[main:a24b55845cc28586a23b96c44a6c856b0c68dc2e;]|RELEASE:[none|none]
 Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836fcd71ca84f982;]|RELEASE:[none|none]
 kanoqwq/DirScope: BRANCHES:[main:2e0c8f75a53be6218eaeee0e06598e18c7771ece;]|RELEASE:[none|none]
