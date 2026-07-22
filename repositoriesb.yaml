@@ -20,6 +20,8 @@ allrepositories:
   - iamromulan
   - chen08209
   - MetaCubeX
+  - atc1441
+  - pvvx
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
