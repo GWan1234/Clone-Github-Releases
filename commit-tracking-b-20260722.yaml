@@ -4738,3 +4738,4 @@ pvvx/bl702_adc_test: BRANCHES:[main:fdff82ad9b19e8eed90199f2ca2067f93dd0d903;]|R
 pvvx/BLETHR: BRANCHES:[master:1728e15e07e062ef8378a7bb1eb7fa05b4eee520;main:ece944528ca80e1f3904e009f7109771d0c1262b;]|RELEASE:[v1.1|none]
 pvvx/ble_monitor: BRANCHES:[master:44e5a903d2825618e0d794d5ecdbc2f081c5e9b6;magalex_experiments:38c47d395aff699371ba9a9d21ae1c5bb90d17df;legacy_tracker:e61d2b4885d45b36ab4fa35bcf38171a2c55b045;async_experiment:d0d0efef6858723a6afbcd2f4385bb3a8c6aa243;]|RELEASE:[none|none]
 pvvx/BLE_THSensor: BRANCHES:[master:ea2bf9b649cfa07266a81484808c06d6bd9df280;]|RELEASE:[none|none]
+pvvx/BZdevice: BRANCHES:[master:84a647097665af04e3e846c516664804b81b440b;]|RELEASE:[v0.2.0.9|none]
