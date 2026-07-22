@@ -4782,3 +4782,4 @@ pvvx/TlsrTools825x: BRANCHES:[master:3749af2811bd316e510753919ffde4634020126c;]|
 pvvx/UBIA: BRANCHES:[master:d47c4290733db78be2b6ee8f12f92d052677e5e8;]|RELEASE:[none|none]
 pvvx/WCHADCUSB: BRANCHES:[master:c3a0a9dfa64fe4bfdaa733eadd5cbe2c4ecca36f;]|RELEASE:[none|none]
 pvvx/WCHBLE2ETH: BRANCHES:[master:7911dc50fdcf87b72ac3b88befceb7f8330d7693;]|RELEASE:[none|none]
+pvvx/ZBdevices: BRANCHES:[main:6de8078408c53af22eea5ccc243c25466dde4509;master:fd8a437aada14b2a6639baeab62d25b2a0fa681f;]|RELEASE:[none|none]
