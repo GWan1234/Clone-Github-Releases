@@ -4699,3 +4699,4 @@ atc1441/DiyArduinoESP232AlarmSystem: BRANCHES:[master:64df16e8e55275f29a3dffeca8
 atc1441/E-Paper_Pricetags: BRANCHES:[main:5ac32ec28b03c9265a9b34ad54de8daa79a5f21b;]|RELEASE:[none|none]
 atc1441/epaper-station: BRANCHES:[master:9ef742739afe266ca845e5a87300af8dc64edaad;]|RELEASE:[none|none]
 atc1441/ESP32-I2S-RGB-Matrix-Clock: BRANCHES:[master:6652e3345303e64b0074ecbf863c80bab5c2bebf;]|RELEASE:[none|none]
+atc1441/ESP32-RGB64x32MatrixPanel-I2S-DMA: BRANCHES:[master:32d8c2e26dcca5111cc32a540c906c50ec67110e;]|RELEASE:[none|none]
