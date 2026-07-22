@@ -4767,3 +4767,4 @@ pvvx/SDKnoWiFi: BRANCHES:[master:7f9375fd809f2c075b16e6796bf6be75b89ac538;]|RELE
 pvvx/SimplePowerProfiler: BRANCHES:[main:08b40548832573a52b3637d3fad2f6fbb051cd03;]|RELEASE:[none|none]
 pvvx/STM32INA2xxPowerProfiler: BRANCHES:[master:480d36e5d6bd52b439f4077bf425c16bee61b146;]|RELEASE:[none|none]
 pvvx/TestADC_CH58x_CH59x: BRANCHES:[master:5f10826fbfa0051d092ac42988f5bb73d175debf;main:8b5c686578e428ccad879a0e07ca1911c05730cf;]|RELEASE:[none|none]
+pvvx/THB2: BRANCHES:[master:48db5245d235aef57cfdf5fcc58ec74fa753d89c;]|RELEASE:[v2.1|none]
