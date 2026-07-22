@@ -4774,3 +4774,4 @@ pvvx/TLSR8269-EVK: BRANCHES:[master:d56cc8f546a5204e728591b1afd5262010201ece;]|R
 pvvx/TlsrComProg: BRANCHES:[master:46b1fdde600496d8fd4b6bee4131823c92aa08dd;]|RELEASE:[none|none]
 pvvx/TlsrComProg825x: BRANCHES:[main:2de91fe32d6a81786eabbef2ff5f82116d02176e;]|RELEASE:[none|none]
 pvvx/TlsrComSwireWriter: BRANCHES:[master:6455f50f25dd264ac6820ecacfd64b90c6c80f3e;]|RELEASE:[none|none]
+pvvx/TLSRPGM: BRANCHES:[main:ea07617742db07ce2a048132a5e36039f8307dd5;]|RELEASE:[v0.0.0.8|none]
