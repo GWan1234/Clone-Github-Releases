@@ -413,7 +413,7 @@ OpenListTeam/Logo: BRANCHES:[main:8d6008e89d005fd70a510c274b6dee3209f51de2;color
 OpenListTeam/solid-router: BRANCHES:[main:d960ff250025329e0a0394568dd336dc27070d8b;]|RELEASE:[none|none]
 OpenListTeam/115-sdk-go: BRANCHES:[main:7799bb98e73949fc902c93c689677b1e640c365c;]|RELEASE:[v0.2.6|none]
 OpenListTeam/cgo-actions: BRANCHES:[v1:f9fbdbbdee83bf095b31f15fdbe56025978630e2;]|RELEASE:[v1.2.5|none]
-OpenListTeam/sftpd-openlist: BRANCHES:[master:0b84c6926ebf0e5813831f053890aeb964aa6c7d;]|RELEASE:[v1.0.1|none]
+OpenListTeam/sftpd-openlist: BRANCHES:[master:0afe6778bd1505b3ff97078879b7e4596895d046;]|RELEASE:[v1.0.1|none]
 OpenListTeam/ocr_api_server: BRANCHES:[main:57d660df5a717b3eb30d03bc54e36ab1dceecc1e;]|RELEASE:[none|none]
 OpenListTeam/OpenList-Proxy: BRANCHES:[feat/pages:61847608f3ab4ec84cff9098f78a148b5d9e6a11;main:649207eb45906693cfe1571d72f0bb2ad1a03acf;]|RELEASE:[v0.0.7|none]
 OpenListTeam/times: BRANCHES:[master:cf4314f6c16c535f9433fe400b78dba76234c808;]|RELEASE:[v0.1.0|none]
