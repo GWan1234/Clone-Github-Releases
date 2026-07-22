@@ -4683,3 +4683,4 @@ atc1441/Bluetrum_AB5682_Hacking: BRANCHES:[main:bfbd24b744a7ed0cf76836e3593fca8b
 atc1441/bl_iot_sdk: BRANCHES:[master:61d60a3dc0e067ea4637a6d1aaf61b86f004c233;]|RELEASE:[none|none]
 atc1441/CC.Flash: BRANCHES:[master:dfc8a7edaf9823618a17fb3629c79b951dfde992;]|RELEASE:[none|none]
 atc1441/CH559sdccUSBHost: BRANCHES:[master:6b132f0543bd4027b3c65af046157bcb7704fbeb;]|RELEASE:[none|none]
+atc1441/CH55xDuino: BRANCHES:[master:479a1ba363a7d15f8fa0d5628edcdfd3daedf769;]|RELEASE:[none|none]
