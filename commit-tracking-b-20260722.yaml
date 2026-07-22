@@ -4540,7 +4540,7 @@ philippe44/esphome-gaitek: BRANCHES:[master:50e29830e14ac759fe92be4b53efdff1c8ad
 adafruit/Adafruit_CircuitPython_ADS7128: BRANCHES:[main:03bf7f705e03d75fb147955c7a30998111bdd03a;]|RELEASE:[1.0.1|none]
 Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library: BRANCHES:[master:a536442dbd1c10d2c12cb6364f8c1745f7843589;]|RELEASE:[none|none]
 adafruit/Adafruit_lgpio: BRANCHES:[main:fc9c79dbac6607133e579ad8ae6d6eac7aea9c83;]|RELEASE:[0.2.2.0|none]
-FUjr/tc1_a1_firmware: BRANCHES:[main:d2dfa4aa58509e64857403340dbfd1f9876c04d9;fix/wifi-mqtt-reconnect-safety:e275cdd35b5a1714b37a069600f145a5e194931a;]|RELEASE:[v2.3.2|cd80b3ac7f6a0be5043a428ad576eb42bebe17ae]
+FUjr/tc1_a1_firmware: BRANCHES:[main:3ddb3b495a992a18d1fc8eeec429d47bfc917f03;feature/configurable-power-coefficient:491fa1adb9831d71092e4f4f6cc61054a920d26a;fix/default-socket-name-encoding:5c374c7ed57237d2a3066006380454127cd016b6;fix/wifi-mqtt-reconnect-safety:e275cdd35b5a1714b37a069600f145a5e194931a;]|RELEASE:[v2.3.4|3ddb3b495a992a18d1fc8eeec429d47bfc917f03]
 Xinyuan-LilyGO/lilygo-skills: BRANCHES:[main:9a5e87d2443d26a3af828c4f10e2d52267dd3184;m35-js-rewrite:7b15298ded9e84bf2187a0e5ebdebb201dc19b7f;m25-local-integration:8cc3307e921cacc93f65747d7b98f54794c6cd4e;task/compact-critical-fallback:dfe8282037a56c1d9a44c41ef28e643b42b4ace2;task/m21-ai-native-routing:317157daab0f70a22daf0e041c483c4ed39bf364;]|RELEASE:[v0.2.0|none]
 Xinyuan-LilyGO/lilygo-doc-mcp: BRANCHES:[master:78fae5183a3bbfb02b2017025b77533133a93538;]|RELEASE:[none|none]
 koreapyj/asterisk-chan-modemmanager: BRANCHES:[main:8be6e7ab7510536a649378b7c64b39f566ffab09;refactor-260702:194d87639f1af375f0e1881b14874e6c4ba9c601;]|RELEASE:[v1.0|none]
