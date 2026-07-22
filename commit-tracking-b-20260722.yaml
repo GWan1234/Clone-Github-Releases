@@ -4688,3 +4688,4 @@ atc1441/ch55xduino-1: BRANCHES:[ch55xduino:d463db044cfaf16bbc0e4d2ef054af92b015d
 atc1441/CH55xOneClickCompiler: BRANCHES:[master:47de8f3317414886c7e6d31c9fc408d44c58d698;]|RELEASE:[none|none]
 atc1441/chflasher: BRANCHES:[master:e9021204c97a7a74d30004d8673369bc17a02a99;]|RELEASE:[none|none]
 atc1441/CH_HID_Arduino: BRANCHES:[master:00040d8b108167bf604da322850b32fe67d176e4;]|RELEASE:[none|none]
+atc1441/CustomCanDecoderBox: BRANCHES:[master:9ffd2776808ac24b97bcdf40394cb28746dd5ae6;]|RELEASE:[none|none]
