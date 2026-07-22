@@ -4741,3 +4741,4 @@ pvvx/BLE_THSensor: BRANCHES:[master:ea2bf9b649cfa07266a81484808c06d6bd9df280;]|R
 pvvx/BZdevice: BRANCHES:[master:84a647097665af04e3e846c516664804b81b440b;]|RELEASE:[v0.2.0.9|none]
 pvvx/DSRemote: BRANCHES:[master:f3b8f623ca3ad987d8f659f7ebb029c466b4f44b;]|RELEASE:[none|none]
 pvvx/ESP8266: BRANCHES:[master:2a7a3f00f4103c4859b3262fc255c03e47a13134;]|RELEASE:[none|none]
+pvvx/esp8266web: BRANCHES:[master:0de8a993c04ea6c8dfdef391dd1a1e7fec6466da;]|RELEASE:[0.6.1|none]
