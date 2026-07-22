@@ -4673,3 +4673,4 @@ atc1441/ATC_GICISKY_ESL: BRANCHES:[main:e54fcc94969ac786c92e6a0e7562a3d744e15fb6
 atc1441/ATC_MiThermometer: BRANCHES:[master:c59a6c1dc48873f3c311618603c20d1306dea176;revert-93-utilize_enum_for_smiley_type:f3a21b7b7edfa871f8a40a7257b9b5d1436ae011;]|RELEASE:[none|none]
 atc1441/ATC_RF03_Ring: BRANCHES:[main:7b2e78e0e9f42b7cec95dd1e733670f533089bbb;revert-31-revert-29-patch-1:802e229e5b36f16a776ab0c3cba2e9fc87da4ed9;revert-29-patch-1:658401ac3d6f94ba5e444b4aa8f93a79725b2aca;]|RELEASE:[none|none]
 atc1441/ATC_RTL_BLE_OEPL: BRANCHES:[main:49301d9b75816ccde1cc9657b827fdadf5736937;]|RELEASE:[none|none]
+atc1441/ATC_SR08_Ring: BRANCHES:[main:180b1d0ae37f246ef4df0f675c9cf097ca9a3566;]|RELEASE:[none|none]
