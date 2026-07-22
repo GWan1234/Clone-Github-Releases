@@ -4751,3 +4751,4 @@ pvvx/mp3_decode: BRANCHES:[master:c62af5da583660c94b55257855dbd0ccb1617be2;]|REL
 pvvx/PHY62x2: BRANCHES:[master:cb04fe3c0b8f34865acd65184686c38361f6bab8;]|RELEASE:[none|none]
 pvvx/PowerProfiler_pcm1802: BRANCHES:[master:210bf151668f2a68d150be60f9de016526f66f8a;]|RELEASE:[none|none]
 pvvx/pvvx.github.io: BRANCHES:[master:8bc1e86c1956b79e55fd1d96385eb86b2d49d287;]|RELEASE:[none|none]
+pvvx/Rapid_Loader: BRANCHES:[master:ca6342b2486c994e3f942327beff08b183fa3bdd;]|RELEASE:[none|none]
