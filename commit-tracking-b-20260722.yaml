@@ -4716,3 +4716,4 @@ atc1441/OpenEPaperLink: BRANCHES:[patch-1:9898d526ad96ecc9c9e801b2b4c84ce629a322
 atc1441/Pinetime: BRANCHES:[master:adc7909c9823c5cd9fc9888a84e84f9182b9088f;develop:fab220d0b9c6868b4fa96ce5f3e3f41b5454a0c7;nimble:d6c6ac4cf5801e17caf7bfc0878423703ed0413b;ble-notifications:d5c2a58914fdeac4ef69382269b81d529e6d7c90;scroll:0aa636834c5f3fecfb7712d61a0bda25641c3fbc;]|RELEASE:[none|none]
 atc1441/pixlAnalyzer: BRANCHES:[main:6416f761f4d42b6d390e3670d57059cbb93e15ef;]|RELEASE:[none|none]
 atc1441/QRcode_clock: BRANCHES:[master:0c92ac25442f723e9a37045a528e5ea096051aa3;]|RELEASE:[none|none]
+atc1441/Simple-Xiaomi-cloud-tokens-extractor: BRANCHES:[master:5e5d5fd6cd6c1e91a1670fcb21a1ad4ca6dd0c7a;]|RELEASE:[none|none]
