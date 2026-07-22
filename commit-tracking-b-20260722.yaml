@@ -4664,3 +4664,4 @@ atc1441/Anker_Prime_BLE_hacking: BRANCHES:[main:7d0d5a0cb2ae37f66d0be2f4af4ff53d
 atc1441/AOHi_280W_Charger_Hacking: BRANCHES:[main:f46bece70cb9e9b99ec8491edfef24043476a308;]|RELEASE:[none|none]
 atc1441/arduino-mcp2515: BRANCHES:[master:f61fd64a039f74f3a6b02700b7db562566619172;]|RELEASE:[none|none]
 atc1441/ArduinoHoverboardAPI: BRANCHES:[master:2364941c733ed57e1bef2f6daf51e6aac9633ab4;]|RELEASE:[none|none]
+atc1441/ArduinoINA219: BRANCHES:[patch-1:7262a95632881008dbc5fba8425967ff60bc046d;master:5194f33ae9edc0e99e0cb1a6ed62e41818886fa9;]|RELEASE:[none|none]
