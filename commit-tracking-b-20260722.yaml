@@ -3555,7 +3555,7 @@ Xinyuan-LilyGO/LilyGO-T-HiGrow-LoRaWLAN: BRANCHES:[master:9b95c85a51aff8fd3e45f2
 Xinyuan-LilyGO/LilyGO-T-Motion: BRANCHES:[master:df43b537b453441e3d68071aebcd4928436562dd;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne: BRANCHES:[master:1ac91b5360b696cf57e65440afb372dbaf588e1b;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Ka-Radio32: BRANCHES:[master:09a8339cafe0953a6276bc1958293cfd5008b144;revert-158-revert-157-nvs_generator:2db4f3f1f3d4647fb74e7630211c277d10396913;revert-157-nvs_generator:3e9c3ec1e992a92dec7dd5142ea73cbeda72a88f;]|RELEASE:[none|none]
-Xinyuan-LilyGO/LilyGo-T5-Epaper-Series: BRANCHES:[master:4f64f96ec696e7a9ed027d662d1b91a58b9e9e99;]|RELEASE:[v1.0.0|none]
+Xinyuan-LilyGO/LilyGo-T5-Epaper-Series: BRANCHES:[master:01189653fdc6efbf9737ed52ce6c830c2e5198cf;]|RELEASE:[v1.0.0|none]
 Xinyuan-LilyGO/bbq10kbd_i2c_sw: BRANCHES:[master:3bb6ab46ce07bc7b36d572bb43220292f8648041;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Maixduino: BRANCHES:[master:bb42e208a77de209c8620ae41053198698c756f1;]|RELEASE:[none|none]
 Xinyuan-LilyGO/MAX7219LedMatrix: BRANCHES:[master:f2cdb924ba5f78c735eb71293278690967332716;]|RELEASE:[none|none]
