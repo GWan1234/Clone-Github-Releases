@@ -4649,7 +4649,7 @@ MetaCubeX/jsonv2: BRANCHES:[master:f4597c22f1df52bcbb4c12f430dd2d0cad9140c7;]|RE
 MetaCubeX/tailscale-wireguard-go: BRANCHES:[for-meta-v1.19.28:06ea214022e47c51998270a88761c64f7f53ba49;for-meta-v1.19.29:06ea214022e47c51998270a88761c64f7f53ba49;tailscale:06ea214022e47c51998270a88761c64f7f53ba49;for-meta-v1.19.26:e1bf77ef79af1fee7d2fda15e465dd7b80fd1226;for-meta-v1.19.27:e1bf77ef79af1fee7d2fda15e465dd7b80fd1226;for-meta-v1.19.25:8bc7ee255d04d098623106aa5ce8da22c1eba98e;]|RELEASE:[none|none]
 MetaCubeX/tailscale: BRANCHES:[for-meta-v1.19.29:e2257fe61058658917ca97067a4f7724b31f74c8;main:e2257fe61058658917ca97067a4f7724b31f74c8;for-meta-v1.19.26:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.27:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.25:a21c2c99dcbe247782d05b72dece4811bddc3d79;]|RELEASE:[none|none]
 MetaCubeX/sevenzip: BRANCHES:[main:6254d13bfaae05146dc2087d350500f5cb389d73;main-1.6.0:e321d6c5683d7a8e1555f013b23ac34256fcbcff;]|RELEASE:[none|none]
-MetaCubeX/jls-quic-go: BRANCHES:[v0.59.0-mod-meta:85a8decdd355d80701957d5c3a65ca665bfc0af1;]|RELEASE:[none|none]
+MetaCubeX/jls-quic-go: BRANCHES:[v0.59.0-mod-meta:2d506f2b0d240b87915e4ab9168c533147effa39;]|RELEASE:[none|none]
 MetaCubeX/jls-tls: BRANCHES:[main:4bf88db633e23220f35fecc6676ffc8cd6b8318f;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo_device_driver_example: BRANCHES:[main:a24b55845cc28586a23b96c44a6c856b0c68dc2e;]|RELEASE:[none|none]
 Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836fcd71ca84f982;]|RELEASE:[none|none]
