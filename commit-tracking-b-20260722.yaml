@@ -3689,7 +3689,7 @@ Xinyuan-LilyGO/T-Embed-CC1101: BRANCHES:[master:d33afd9c045cd25d15fb204c42064a0d
 Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO: BRANCHES:[H752-01:5067e1fd6a66cf8b06e0b484070dc1b405eac1aa;H752:1ea4589a036a7e0ad87e4cd5ffd25bb0037897da;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T7-C6: BRANCHES:[main:e67375ab9533d9c91162968f27168c48ab3797c7;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Energy-S3: BRANCHES:[main:68a74854ce0443377d186786bf3478484a0813e0;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Display-S3-AMOLED-1.64: BRANCHES:[arduino-esp32-libs_V2.0.14:372dc11b2d7254fe8684d9390fc2ea161e53dc5b;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Display-S3-AMOLED-1.64: BRANCHES:[arduino-esp32-libs_V2.0.14:e236a4dfb3295c473d8ac7c240cbea93313707c0;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-S3-AMOLED-1.43-1.75: BRANCHES:[custom_board_1:07bf8549dd02ef6af8bb2b91a6b1c9071f3fcecf;main:87aabe888eea6a7c0f95ce1991ca75fa98c2a172;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Halow: BRANCHES:[master:d90005a3acbe40c4b4528972e691bcd57a9fc0cd;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGO-ETH-Gateway: BRANCHES:[master:861dcdb2b3af9a9bd7eeb742e84cdde5a0d78b8e;]|RELEASE:[none|none]
