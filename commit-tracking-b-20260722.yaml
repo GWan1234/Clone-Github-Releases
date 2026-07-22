@@ -4706,3 +4706,4 @@ atc1441/ESP_CC_Flasher: BRANCHES:[main:c61a4183aaf99ece83ad208a0ab90dfe46fdd24a;
 atc1441/GxEPD: BRANCHES:[master:68bbf5ad75b908a1f8ee279390f646d675b23218;]|RELEASE:[none|none]
 atc1441/Hanshow-Auto-Updater: BRANCHES:[main:69306b53088f38eb913f933f63fce38946124457;]|RELEASE:[none|none]
 atc1441/HINKeinkDisplayLibrary: BRANCHES:[master:8f31a902c55f5178e88c03b9f27299b5c735567d;]|RELEASE:[none|none]
+atc1441/HRS3300-Arduino-Library: BRANCHES:[master:68551a476b85a9696751b982655f5d3322113da6;]|RELEASE:[none|none]
