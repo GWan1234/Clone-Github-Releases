@@ -7491,7 +7491,7 @@ Seeed-Studio/seeed-ardupy-mlx9064x: BRANCHES:[master:846f24651b6b0aa8762d906a917
 thelastoutpostworkshop/esp-pinout-explorer: BRANCHES:[main:7fba3f9d392e08bf48a4ce25fd62b5f009957c7b;]|RELEASE:[none|none]
 SmartRouterZone/openwrt-official: BRANCHES:[openwrt-25.12:5ae47b4993824f28d1fc3b599ab38d494239f513;main:d47ce71a89d6b88a9e1358ffccaeffc7f3f2498f;master:d47ce71a89d6b88a9e1358ffccaeffc7f3f2498f;openwrt-24.10:95d0ca014c4ce5e225579f859c066dc74a20763b;pcs-standalone-back:d2ed40e3d8ad9cda5f9c64029039caca7aee29fc;openwrt-23.05:7f61f9625550a6214e5cc53424e105bcbcff8c7a;openwrt-21.02:78e4cffcd882389cb8f0bf818303f85f8d1e9c8e;openwrt-22.03:4e1d1b7df0ce6fa96d7462dc883917682f428046;openwrt-19.07:1da2e82c1182a3fd681da5760be96821213afadd;openwrt-18.06:9f2a40c72fdb0b9b077bf5b4b01aa17eac4bfb45;]|RELEASE:[none|none]
 esphome/ready-made-project-template: BRANCHES:[main:9800a6e7c7b56819ac579d71bcdd3aec7c15e1dc;]|RELEASE:[none|none]
-esphome/serial-proxies: BRANCHES:[main:a745ddb671409628b1ccc532687b8b8f467856b1;]|RELEASE:[26.7.2|none]
+esphome/serial-proxies: BRANCHES:[esphome-version-update:abaf6abb94b387ac98cf2ec119d671e10dceb1d2;main:a745ddb671409628b1ccc532687b8b8f467856b1;]|RELEASE:[26.7.2|none]
 yifengyou/MAXHUB-VX60-RK3588: BRANCHES:[master:249eb2b548b6fb675d0f6c1ccd729e5056f4be7e;]|RELEASE:[official_android13_with_magisk|none]
 OLIMEX/PICO-EVB: BRANCHES:[main:c86f5fe065ecffda1fc7ad5b183bddb6ed0e6d2c;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_AHT20: BRANCHES:[master:f0742f8265b1d51788891506fabf63a73139f9e2;]|RELEASE:[v1.0.1|none]
