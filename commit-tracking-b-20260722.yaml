@@ -4690,3 +4690,4 @@ atc1441/chflasher: BRANCHES:[master:e9021204c97a7a74d30004d8673369bc17a02a99;]|R
 atc1441/CH_HID_Arduino: BRANCHES:[master:00040d8b108167bf604da322850b32fe67d176e4;]|RELEASE:[none|none]
 atc1441/CustomCanDecoderBox: BRANCHES:[master:9ffd2776808ac24b97bcdf40394cb28746dd5ae6;]|RELEASE:[none|none]
 atc1441/D6-arduino-nRF5: BRANCHES:[master:6149095d7bd69f7b66d7808dfc62d49a65067e8c;dummy:e882a6c71ad4735fb01f11e91828bac853d5a777;]|RELEASE:[0.7.5|none]
+atc1441/D6Emulator: BRANCHES:[master:94c2660fc92a093f97c1d5b6289c4cc68bf60430;]|RELEASE:[none|none]
