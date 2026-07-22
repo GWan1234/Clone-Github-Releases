@@ -4743,3 +4743,4 @@ pvvx/DSRemote: BRANCHES:[master:f3b8f623ca3ad987d8f659f7ebb029c466b4f44b;]|RELEA
 pvvx/ESP8266: BRANCHES:[master:2a7a3f00f4103c4859b3262fc255c03e47a13134;]|RELEASE:[none|none]
 pvvx/esp8266web: BRANCHES:[master:0de8a993c04ea6c8dfdef391dd1a1e7fec6466da;]|RELEASE:[0.6.1|none]
 pvvx/EspLua: BRANCHES:[master:00727b48be50ca9e7cb1879f37be0b3b7b625653;]|RELEASE:[1.3.0|none]
+pvvx/hcitooladv: BRANCHES:[master:fc89fc2bca4741cda59eb9939a79540a57859b85;]|RELEASE:[none|none]
