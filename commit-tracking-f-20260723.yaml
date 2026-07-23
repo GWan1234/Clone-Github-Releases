@@ -1874,3 +1874,4 @@ m5stack/M5Unit-FINGER: BRANCHES:[gh-pages:5aa176f2edf077f628dfd2f2f97790bb90f697
 m5stack/meshtastic-pure-m5stack: BRANCHES:[develop:0952007805e447a185ead329aceb88eb21f39d3d;]|RELEASES:[]
 m5stack/xiaoling-esp32: BRANCHES:[m5-board-fix:e327fd776777a4155b425af7f2966ba1faa259e1;main:abb6467ad2b4e1a80c9e430e030ca3bd90725697;]|RELEASES:[]
 m5stack/XiaoZhi-Card: BRANCHES:[main:bd914262222250ea0dce212331a16958fe0bbf1e;]|RELEASES:[]
+m5stack/M5Unit-Fingerprint2: BRANCHES:[main:e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1;]|RELEASES:[1.3.0:e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1:none;]
