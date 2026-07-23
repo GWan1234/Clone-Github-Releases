@@ -1894,3 +1894,4 @@ m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:eaa615dca3054829aec58e5fe596d5872404
 m5stack/meshtastic-device-ui: BRANCHES:[feat-m5tab5-support:91ebfb21939fa81cdcdc9e3ee556306ba4591424;master:63967a4a557d33d56fc5746f9128200dde2d88c5;]|RELEASES:[]
 m5stack/M5Unit-CardKB2-UserDemo: BRANCHES:[main:3f58674ccc70ee09ca969de563bdbc4efb0c6316;]|RELEASES:[]
 m5stack/M5Echo-Pyramid: BRANCHES:[main:216795fc9ef0f60aa716bf00bb6b3ef9be67f5f5;]|RELEASES:[M5Echo-Pyramid:c2db2bbe2d319edcdf5290361093856b0c3bf913:none;]
+m5stack/MicroPythonOS: BRANCHES:[main:7499ba87dc4858650247ac784e0904805b3777a2;]|RELEASES:[]
