@@ -1812,3 +1812,4 @@ m5stack/M5Unit-Scroll-Internal-FW: BRANCHES:[main:ae60717a4b9315cd12ac56389992fc
 m5stack/M5Unit-ByteSwitch-Internal-FW: BRANCHES:[main:f87a07820be55a838bfaa08b7ad426901b83516d;]|RELEASES:[]
 m5stack/M5Unit-ByteButton-Internal-FW: BRANCHES:[main:3f96f642d8d740e1ad63f15adfe92de7d2a49164;]|RELEASES:[]
 m5stack/M5Unit-DMX512: BRANCHES:[main:37bf84817240af9efdd4ebebcf38109bbba04c12;]|RELEASES:[]
+m5stack/M5Unit-MQ: BRANCHES:[main:1d961cb120deb6342df9d643c62e45d969ffcf93;]|RELEASES:[1.0.0:1d961cb120deb6342df9d643c62e45d969ffcf93:none;]
