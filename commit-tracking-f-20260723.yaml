@@ -1818,3 +1818,4 @@ m5stack/M5Unit-Joystick2: BRANCHES:[main:97b622b0f3155d1c720b5df6e60e0c41bab2050
 m5stack/developer-portal: BRANCHES:[main:a4965b29d0c058f41b96d288831ba7b0e2f903a4;]|RELEASES:[]
 m5stack/M5Unit-Roller: BRANCHES:[main:3cdc5949c0c2587a43cda9fb9fa9f22bce58983a;]|RELEASES:[]
 m5stack/M5Unit-Roller485-Internal-FW: BRANCHES:[main:30898bd531b47197960f01e505270756a2461eac;]|RELEASES:[]
+m5stack/ax520tool: BRANCHES:[main:ab72ce09748f638a79eee0bf4be98273b25fb298;]|RELEASES:[]
