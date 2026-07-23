@@ -1585,7 +1585,7 @@ waveshareteam/ESP32-S3-Touch-AMOLED-1.8: BRANCHES:[chore/esp-idf-ci:716e3046e657
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[chore/esp-idf-ci:397f9fa4c1fdffc50737b6e3f9f71586428fc6dd;main:6ec9ff5c8a96357f2fcac24b4fc311a3018cb878;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.75C: BRANCHES:[main:0349e331567b3fb33752abc70c9d1ce12f7418e5;docs/improve-readme:beacd7cafa4597c0443f5f37ba6914e8c846a600;]|RELEASES:[v1.0.1:4e8e1bef0fd1c606b38268f44f90fbaf8b720420:2026-07-13T09:59:26Z;]
 waveshareteam/ESP32-S3-Touch-LCD-4.3C: BRANCHES:[main:2abc815238a779a89095d043c4ceb365a3b3c11c;update-readme:9cb0058af562e5c4efc1b89481784382ebfaf9a0;dev:c7954909c8e3f5ab58af377d0a70d68781495656;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-AMOLED-1.75: BRANCHES:[chore/repository-modernization:021fc0d1458523dd4b2edca9a9da75eee6501876;chore/esp-idf-ci:de02568d0498775bdae8fd7665f990b98d03c6b7;main:d02d52d2c9c55ec0a5ca359ce5a7412913fd250e;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-AMOLED-1.75: BRANCHES:[main:f04e4bdaf81e34d64d075f67e9e25be6326c3295;docs/readme-refresh:b0c06d33e2729377bc7dd7753d08659b99b45dc4;chore/repository-modernization:d691ad3577b1dcbb600f2b59657a182533f8384c;chore/esp-idf-ci:de02568d0498775bdae8fd7665f990b98d03c6b7;]|RELEASES:[v1.0.1:a5bc4daf5c95e8719932eb0a44b0a2b7f6a74d96:2026-07-13T04:23:44Z;]
 waveshareteam/Git-Tutorial: BRANCHES:[main:584b967d8a42f02de209fb8e087e50da80e79831;]|RELEASES:[]
 waveshareteam/javen-waveshare-code: BRANCHES:[javen:c09d5f6eb6ef055094ad9ba9c3b3240bf9223529;master:e81486c57b63352692382053496ee24a9ab74574;]|RELEASES:[]
 waveshareteam/ESP32-S3-ePaper-3.97: BRANCHES:[main:9b12d40731a80213b927ee8a421cae4082952819;]|RELEASES:[]
