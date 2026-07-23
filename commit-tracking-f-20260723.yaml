@@ -1773,3 +1773,4 @@ m5stack/arduino-esp32: BRANCHES:[master:e1bd05c5fb468709506801cc6de996717d593414
 m5stack/M5Module-4EncoderMotor: BRANCHES:[main:9721dad321238e2ddef533faa55db8f3d2de66c3;]|RELEASES:[1.0.0:89ee0591b4725777ceb1d934c6676274075af971:none;]
 m5stack/M5Unit-Synth: BRANCHES:[main:15187335a36987a5d33486a8330f16aac4cba2d8;]|RELEASES:[1.0.0:1ba4db65ee73b8d3ee48954b21cd20d3785ed3fa:none;1.0.1:892c3b7b45e8540e2696fff009faf7eb14e6a856:none;]
 m5stack/M5Atomic-Motion: BRANCHES:[master:6a6e95013e2aaf93c468cc60879ed81cb9006503;]|RELEASES:[1.0.0:f05fdf8a74c27e45ff9fa05aa930b7536a7c80b6:none;]
+m5stack/library-registry: BRANCHES:[main:5696b2ab310b861423d6a97c138cef0c1fd84f20;]|RELEASES:[]
