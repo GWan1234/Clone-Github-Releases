@@ -85,7 +85,7 @@ jobs:
 
           cleanup() {
             rm -rf tmp *.7z* *.sha256 up-* core.* .gitignore .DS_Store 2>/dev/null || true
-            df -h
+
           }
 
           auth_url() {
