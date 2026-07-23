@@ -1516,7 +1516,7 @@ HelTecAutomation/ESP_HaLow: BRANCHES:[main:ac427d9f0ee0e290e04c5e2939e1c5c5dbf86
 HelTecAutomation/SnapEmu-Device: BRANCHES:[main:0432cffa3b50157f165962b8dfd6f1c017353f19;]|RELEASES:[]
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd;]|RELEASES:[]
 HelTecAutomation/firmware: BRANCHES:[master:6bbdfe1797eb72e0bf4d98c8a78cc16de042754c;]|RELEASES:[]
-HelTecAutomation/HeltecWiKi: BRANCHES:[main:69fb5f8caaf46da2dbc6c958e3f39f17a2f37d81;feat/lotousnine:072fc160beb39a15cebd5b79f246ac07fb074764;]|RELEASES:[]
+HelTecAutomation/HeltecWiKi: BRANCHES:[main:3932f30f5e707e939b65221a9776baadc9fb7763;feat/lotousnine:072fc160beb39a15cebd5b79f246ac07fb074764;]|RELEASES:[]
 waveshareteam/JoyStick: BRANCHES:[master:e090d95944ae0fc614f708461498dbf875ef1243;]|RELEASES:[]
 waveshareteam/pxt-APA102: BRANCHES:[master:c5eaffabf547d6c4d6d48218ec9dbfd99966d1bf;]|RELEASES:[]
 waveshareteam/WM8960-Audio-HAT: BRANCHES:[master:d63599e885121b0a41e7c82c9158b92281e454e8;6.18-x:5ed0966abab91dbbbf07ab8ed26711cb4ca1129c;6.18.x:daa79c4ec1329b18a56cbb91a939ea8fb1a53838;6.12.x:971890c0f31be554647f7591579c43b1bca55b93;rpi-4.9.y:a9aa1d0a10356fbfb56fcd8a63c7435ac80eb173;]|RELEASES:[]
