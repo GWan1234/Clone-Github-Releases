@@ -1784,3 +1784,4 @@ m5stack/operating-system: BRANCHES:[dev:332c93b9e69b49fb97a613ebfc6ed512d26efbf4
 m5stack/M5Module-PPS: BRANCHES:[main:fcb36ae4059a2c1a010e172a4cf205cb7f48dc0c;]|RELEASES:[1.0.0:fcb36ae4059a2c1a010e172a4cf205cb7f48dc0c:none;]
 m5stack/M5Module-PPS-UserDemo: BRANCHES:[main:6a3e83d0db9d7ed832627930c79ec45153b39f6c;]|RELEASES:[]
 m5stack/M5NanoC6: BRANCHES:[main:7cf509694316c9acb41e98658fb0ddb8ab6db790;]|RELEASES:[1.0.0:7cf509694316c9acb41e98658fb0ddb8ab6db790:none;]
+m5stack/M5Hat-BugC: BRANCHES:[main:c054b6ed777eeb56b0880eeb830b91aec3ba8307;gh-pages:c30db70f5529ed15e15fbdd718f9c2e6cae8de51;]|RELEASES:[]
