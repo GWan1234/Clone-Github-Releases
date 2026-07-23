@@ -1787,3 +1787,4 @@ m5stack/M5NanoC6: BRANCHES:[main:7cf509694316c9acb41e98658fb0ddb8ab6db790;]|RELE
 m5stack/M5Hat-BugC: BRANCHES:[main:c054b6ed777eeb56b0880eeb830b91aec3ba8307;gh-pages:c30db70f5529ed15e15fbdd718f9c2e6cae8de51;]|RELEASES:[]
 m5stack/M5Unit-PbHub-Internal-FW: BRANCHES:[main:6de9c0a9f2a3bffdbf17313d3a5aa933228ee772;]|RELEASES:[]
 m5stack/M5Unit-BLDC-Driver-Internal-FW: BRANCHES:[main:1747cb75ad963f5f2b9a3c7d043257e6ad2ad52e;]|RELEASES:[]
+m5stack/TinyGSM: BRANCHES:[master:d4f843c4490a40a810c5cd58325f239b5f3220b1;]|RELEASES:[v0.12.0-patch-1:13378a60ad0fa8924639364452bb2c7278306ac1:none;]
