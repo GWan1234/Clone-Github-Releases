@@ -1901,3 +1901,4 @@ m5stack/CardputerZeroRepository: BRANCHES:[gh-pages-preview:f6d53db63a025313fdee
 m5stack/esphome: BRANCHES:[dev:e9f7579910386c07065a6184bb0245d4fd6170d9;]|RELEASES:[]
 m5stack/M5PaperColor-UserDemo: BRANCHES:[main:1ff998e0cf3b9ce916f2e0319561d043db21cc4a;]|RELEASES:[]
 m5stack/M5Echo-Pyramid-Internal-FW: BRANCHES:[main:4f837a55dfc014cf8ea9b630660841dbc619aea5;]|RELEASES:[]
+m5stack/M5StopWatch-UserDemo: BRANCHES:[main:6b4aa125288b6fe9dca661f10159f6e1e5ee785c;]|RELEASES:[V0.4:7dc64bc100057f21a6b1ad2cc66cb6cf9466ba9c:2026-05-28T09:25:22Z;V0.5:6b4aa125288b6fe9dca661f10159f6e1e5ee785c:2026-05-28T09:29:07Z;]
