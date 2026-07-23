@@ -1889,3 +1889,4 @@ m5stack/StackChan: BRANCHES:[firmware-dev:b72b3ede38b32d54f0b6ba51c62cfcef2ec3ae
 m5stack/M5Chain-Series-Internal-FW: BRANCHES:[main:6a16f6cd6badca2cc34686cc07c9fafa93a99800;]|RELEASES:[]
 m5stack/M5Bala2: BRANCHES:[main:076b64387384e73bd5824e52ff0f4c8fb7ede5f9;]|RELEASES:[]
 m5stack/M5Unit-PoE-P4-UserDemo: BRANCHES:[main:5bae1b3e1367c59a018624f593eb3ab997e4476b;]|RELEASES:[]
+m5stack/quirc: BRANCHES:[master:31e982fa89fc14568d3de6ed0d1965bd40043901;]|RELEASES:[]
