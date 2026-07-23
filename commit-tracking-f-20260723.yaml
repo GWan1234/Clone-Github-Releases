@@ -1786,3 +1786,4 @@ m5stack/M5Module-PPS-UserDemo: BRANCHES:[main:6a3e83d0db9d7ed832627930c79ec45153
 m5stack/M5NanoC6: BRANCHES:[main:7cf509694316c9acb41e98658fb0ddb8ab6db790;]|RELEASES:[1.0.0:7cf509694316c9acb41e98658fb0ddb8ab6db790:none;]
 m5stack/M5Hat-BugC: BRANCHES:[main:c054b6ed777eeb56b0880eeb830b91aec3ba8307;gh-pages:c30db70f5529ed15e15fbdd718f9c2e6cae8de51;]|RELEASES:[]
 m5stack/M5Unit-PbHub-Internal-FW: BRANCHES:[main:6de9c0a9f2a3bffdbf17313d3a5aa933228ee772;]|RELEASES:[]
+m5stack/M5Unit-BLDC-Driver-Internal-FW: BRANCHES:[main:1747cb75ad963f5f2b9a3c7d043257e6ad2ad52e;]|RELEASES:[]
