@@ -1900,3 +1900,4 @@ m5stack/ESP-Claw: BRANCHES:[master:3c97c2e48f9e86d74e9b01f849b04b8cd9ea0a7d;boar
 m5stack/CardputerZeroRepository: BRANCHES:[gh-pages-preview:f6d53db63a025313fdee34c0a9308bdf190e0809;ci/bootstrap:05ac0eb812a508ecdf3fb3eff0329db0d6e429f6;main:774d9a86fa722c92075c3d351285d0c9bad63f0d;]|RELEASES:[apt-pool:70414d854dd360307360673217bf09423c547e04:2026-05-06T07:10:21Z;]
 m5stack/esphome: BRANCHES:[dev:e9f7579910386c07065a6184bb0245d4fd6170d9;]|RELEASES:[]
 m5stack/M5PaperColor-UserDemo: BRANCHES:[main:1ff998e0cf3b9ce916f2e0319561d043db21cc4a;]|RELEASES:[]
+m5stack/M5Echo-Pyramid-Internal-FW: BRANCHES:[main:4f837a55dfc014cf8ea9b630660841dbc619aea5;]|RELEASES:[]
