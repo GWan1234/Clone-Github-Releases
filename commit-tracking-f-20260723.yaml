@@ -1868,3 +1868,4 @@ m5stack/esp-webrtc-solution: BRANCHES:[main:377991b5b329c37b2d8a652c1a924da7f539
 m5stack/M5Unit-Step16-Internal-FW: BRANCHES:[main:3d83d1a48d39cf19621a3425009c9da219e2b14d;]|RELEASES:[]
 m5stack/M5Module-QRCode: BRANCHES:[main:373a8168acf4122a1eb2dc2162250fed0bfcf0fd;]|RELEASES:[1.0.0:b1c9ada382164a7382b1a0c353d80a01c8d66bf8:none;1.0.1:373a8168acf4122a1eb2dc2162250fed0bfcf0fd:none;]
 m5stack/i2c_manager: BRANCHES:[master:fcdabe70391d0fafc4bbfda7b1f388eb84ccc828;]|RELEASES:[]
+m5stack/libsmb2: BRANCHES:[master:68fd08bb9e3f89bd7d30e975fde45fee3ee01d76;]|RELEASES:[]
