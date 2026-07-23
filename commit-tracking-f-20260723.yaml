@@ -1762,3 +1762,4 @@ m5stack/IoT_BASE_SIM7080: BRANCHES:[master:4a5e5485368ed67ca242dd9214f555b98e30e
 m5stack/M5Unit-Encoder: BRANCHES:[master:8f4508003ebe1f4f0ec3da0187a51c3feb56dd33;]|RELEASES:[0.0.1:bdcf975fd33a9ad68931a21ba25832086d9b3ca8:none;0.0.2:4a9d8484a0b551f4cb618e290bba0ef6e4ab59dc:none;]
 sparkfun/SparkFun_ESP8266_AT_Arduino_Library: BRANCHES:[master:f52ddca7b6a75eccdebb2851c033485ffe414864;]|RELEASES:[V_1.0.0:44bcb9294f2e51342983402ebb3a2b0065472555:none;]
 waveshareteam/ESP32-C6-Touch-LCD-2.8: BRANCHES:[main:c2a1cf84d6213597d47720a51b3e60cc7f1d5257;]|RELEASES:[]
+waveshareteam/ESP32-C5-Touch-LCD-1.69: BRANCHES:[main:12c90a19e3d9ce6a35d932b6c4f7abe56ef4da47;]|RELEASES:[]
