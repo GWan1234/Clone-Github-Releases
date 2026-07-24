@@ -4964,7 +4964,7 @@ algerkong/iptv-api: BRANCHES:[master:cdac565047646f87effc88e9d13bd1743d412027;]|
 thelastoutpostworkshop/ESPVault: BRANCHES:[main:ad282f5e350e74d6971b5a9ab10f8fd9f66a5345;]|RELEASE:[v1.0.32|none]
 dr-dolomite/SJA-Library-Management-System: BRANCHES:[feat/circulation-and-venue:a60b5247fb5bed6aae7b053275e311bafd6c067c;main:6e61035deb25b4405e1f5e0f811cbc4ac4fea480;]|RELEASE:[none|none]
 yifengyou/p330: BRANCHES:[master:820e6892b4248e98664624e7b57fec03d48a67e4;]|RELEASE:[none|none]
-dailook/arm-trusted-firmware: BRANCHES:[mtksoc:e06f258664198a901ff1c7c0c87802a115179451;]|RELEASE:[none|none]
+dailook/arm-trusted-firmware: BRANCHES:[mtksoc:476cf6629f7675c9857b59458851dda64de88343;]|RELEASE:[none|none]
 dailook/bl-mt798x-dhcp: BRANCHES:[2025-meteor:47c16e6d2add6e5d180322e5f9e70e25691a1b2c;2025:0dd806d47043536116147a2a44b9dc3b0f2a8211;fit-example:44c14a4f5acd1952dba221f076a3921a30354825;]|RELEASE:[none|none]
 dailook/COMFAST_CF-WR632AX_en: BRANCHES:[master:8b4fd18769eec9df5339048dbf77f624d9e6c468;]|RELEASE:[none|none]
 dailook/extract-dtb: BRANCHES:[master:ab824ac0993efc03a3a9201c5c03f54fda4bcfd0;]|RELEASE:[none|none]
