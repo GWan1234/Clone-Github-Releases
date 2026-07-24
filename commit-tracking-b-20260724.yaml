@@ -3655,7 +3655,7 @@ Xinyuan-LilyGO/VGA32: BRANCHES:[master:4edd0d5fcb83b7e454c78ccb69ada1d18582f1e9;
 Xinyuan-LilyGO/LilyGo-T-RGB: BRANCHES:[main:359c03f7cd8e9aaadd4bf0f3fbf790844fd95f98;]|RELEASE:[v1.0.5|none]
 Xinyuan-LilyGO/T7-S3: BRANCHES:[main:6da73f50a73dcb9cc86283cce1bf64d1c0d03620;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-Cam-ESP32S3: BRANCHES:[master:af0b94d6e79280bb6e8938ce3383ac19687957ca;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Dongle-S3: BRANCHES:[main:edb9e5a1ebe8229df10d2535c779e3d2fe2a11cc;]|RELEASE:[v0.1|none]
+Xinyuan-LilyGO/T-Dongle-S3: BRANCHES:[main:f279831ee660346f29afd5c9a589394c1758a843;]|RELEASE:[v0.1|none]
 Xinyuan-LilyGO/T-TWR: BRANCHES:[master:080bf10217f70690d78ed982ae344a5e059f13fc;]|RELEASE:[V1.0|none]
 Xinyuan-LilyGO/T-Micro32-Series: BRANCHES:[main:91c6cd541e52216faecba886691e2c447ecd27c6;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-T-SIM7080G: BRANCHES:[master:fa09a85aa02acb617d2cca154a979d9a4be021f0;]|RELEASE:[none|none]
