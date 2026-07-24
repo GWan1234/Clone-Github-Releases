@@ -2921,7 +2921,7 @@ adafruit/Adafruit-Infineon-Trust-M-PCB: BRANCHES:[main:be8bbc2b780c9807f57df6a79
 adafruit/Adafruit_CircuitPython_MMC56x3: BRANCHES:[main:3ba876a95009896c39970ba4a012f723000380de;]|RELEASE:[1.0.16|none]
 adafruit/Adafruit_MMC56x3: BRANCHES:[main:1ebfd46b75a37cf9b414067ca8cffbb6ef27c339;gh-pages:d071af011f5481b1bfa2b4e0d4afffb281a8fcbb;]|RELEASE:[1.0.2|none]
 adafruit/Adafruit-LSM6DS3TR-C-PCB: BRANCHES:[main:9bf02b7214d35f2699bfd24737865511e4f9f114;]|RELEASE:[none|none]
-adafruit/Adafruit_CircuitPython_MAX1704x: BRANCHES:[main:612570dc9ab7fb845a22865f4312f7bd54fd42aa;regfix:5148c6bd4e831028af24be8eeae71d53dc168692;]|RELEASE:[1.0.17|none]
+adafruit/Adafruit_CircuitPython_MAX1704x: BRANCHES:[main:ad881ac7f2adc0ba06f1a153e91658ebcbbacf18;regfix:5148c6bd4e831028af24be8eeae71d53dc168692;]|RELEASE:[1.1.0|none]
 adafruit/Adafruit_CircuitPython_SI1145: BRANCHES:[main:ebd81cc042b96711d7f8a88d7e3f4e4b6076aa59;]|RELEASE:[1.2.8|none]
 adafruit/Adafruit-LSM6DS3TR-C-LIS3MDL-PCB: BRANCHES:[main:bc2d3ee876a254d5ebc669bc4d0df78b11602a64;]|RELEASE:[none|none]
 adafruit/esp32-camera: BRANCHES:[circuitpython:303985ab678391b78ebe0baff98edcc863f296c2;circuitpython-9.2.0:243560e94997c262565ed537154b0578b8ce2197;master:4f577672515090da05a9761408d3270df13ab956;solarize:2758089a06ccae79d8fcab6c93e2ca3761646f9f;faster-probe:2cd2a6d69faaba9ebb6105814a50039d82e2f899;deinit-check:846554ecb44b23347a3cf239d77662ae3832f956;feat/add_libjpeg:6e28fec389ff9eeb11028a3588c375782485b19f;feature/lcd_cam_hw:caf2efb650abd5d5b5f60df6a56d747614e8c468;]|RELEASE:[none|none]
