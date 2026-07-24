@@ -594,7 +594,7 @@ thelastoutpostworkshop/ESP32LCDRound240x240Eyes: BRANCHES:[main:cf4b8c28d294738e
 thelastoutpostworkshop/ESP32ManyRoundScreenTest: BRANCHES:[main:41a33d4db991c1ca73b3374e62a75b9548a040e3;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32PartitionBuilder: BRANCHES:[gh-pages:cfa3e687923aaf4233736f544f29312ec39be40c;main:f505b7fc5df73915832f60e0fdc2899786a207ea;]|RELEASE:[v1.2.4|none]
 thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:49955e0c268cbb7de47d9f968cead72c3ee3986a;]|RELEASE:[none|none]
-thelastoutpostworkshop/ESPConnect: BRANCHES:[main:6f4521f6f6f87931d6aeb029ee8dc869987e4cab;gh-pages:358d67a87cba14569dd1a37ff2a8ee90ad5ccdac;runningFirwmare:d7f3d207eafb9c16bfe1b670d14e5b2d278130e4;feature:e3e41b45df0c1f5bf776456ca2e24c7b27cd4e64;]|RELEASE:[v1.1.17|none]
+thelastoutpostworkshop/ESPConnect: BRANCHES:[main:622f4a8de9d5cf3c0b96a0946be08dbf9bda5751;gh-pages:358d67a87cba14569dd1a37ff2a8ee90ad5ccdac;runningFirwmare:d7f3d207eafb9c16bfe1b670d14e5b2d278130e4;feature:e3e41b45df0c1f5bf776456ca2e24c7b27cd4e64;]|RELEASE:[v1.1.17|none]
 thelastoutpostworkshop/FastDisplayPrototyping: BRANCHES:[main:e4ae407c3aec9dfbf0f484c4df831818d622b054;]|RELEASE:[v1.3.1|none]
 thelastoutpostworkshop/firmware-releases: BRANCHES:[main:f05bd562020121900acc75e6f41339e9d51835bb;]|RELEASE:[v1.0.0|none]
 thelastoutpostworkshop/gif_image_processing: BRANCHES:[main:512a57feebe0647963f4ca002bf5d71f82739bbd;]|RELEASE:[none|none]
