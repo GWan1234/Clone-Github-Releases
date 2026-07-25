@@ -1953,3 +1953,4 @@ m5stack/m5stack-linux-dtoverlays: BRANCHES:[main:226a75240349c637f464094fe5669fb
 m5stack/M5Core2-TouchPanel-Recovery: BRANCHES:[main:2370d64ed478a3cbcf76eab89c8f0c1513fa6fc4;]|RELEASES:[]
 m5stack/M5Unit-8Angle: BRANCHES:[main:8811e4898fdd5988a74fb93b1d6ddc4be264973a;]|RELEASES:[]
 m5stack/M5Unit-8Encoder: BRANCHES:[main:a75ab1a0975f034cca4588b2c539d9dbb669cc2d;]|RELEASES:[0.0.1:2cec67233b2d4cf66cf3e6d7b156d48c35256a16:none;]
+m5stack/M5Unit-8Angle-Internal-FW: BRANCHES:[main:34b031c420eb4359f28833dfed9de187de7a69a9;]|RELEASES:[]
