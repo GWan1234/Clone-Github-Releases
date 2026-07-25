@@ -2001,3 +2001,4 @@ m5stack/CoreS3-Box: BRANCHES:[master:405c5438b399a27459fb45c097fcca19c295e029;de
 m5stack/ATOM-and-Module-Display-FPGA-Source: BRANCHES:[main:12c837ef304bca3e0e65496b584e6251184e4a25;]|RELEASES:[]
 m5stack/Atom-JoyStick-Internal-FW: BRANCHES:[main:225ad8f22c843a827318e5aeb0771d4dad8b0a07;]|RELEASES:[]
 m5stack/Atom-JoyStick: BRANCHES:[main:e9f53fbd8a2edd25aedf987aac2ae40a52e6bea0;]|RELEASES:[V0.0.1:a0ff778ddec4034a2bb8210f3ad7a2ed077f4568:none;]
+m5stack/Unit8Servo-Internal-FW: BRANCHES:[main:5dc9413015a999be76e4b8aff8544fd4f1ec3d5c;]|RELEASES:[]
