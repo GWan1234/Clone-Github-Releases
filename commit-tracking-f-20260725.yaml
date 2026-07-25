@@ -1964,3 +1964,4 @@ m5stack/M5Hat-Mini-JoyC: BRANCHES:[main:302a29f0a23a54dff054ee2ba0ca9c3ebb7c3ce9
 m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c3b4b95c4841d;]|RELEASES:[]
 m5stack/M5Stamp-TimerPower: BRANCHES:[main:3f9e8f6cb7da9a8c8b5fa02570a45113ec54bddd;]|RELEASES:[]
 m5stack/STAMP-S3: BRANCHES:[main:6b64d431f930ff5e2bd770a07003ac983c24bc3f;]|RELEASES:[]
+m5stack/M5Module-Display-13.2: BRANCHES:[main:e1c8f3269a88424507c8f016ba5645c3831283de;]|RELEASES:[]
