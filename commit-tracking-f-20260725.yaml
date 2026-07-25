@@ -1962,3 +1962,4 @@ m5stack/M5Module-4IN8OUT: BRANCHES:[main:f50345ae91af25ad53a5259284486ea38f2df39
 m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:7daf764fd845d35692cb4748cca33cdbdccefe83;]|RELEASES:[]
 m5stack/M5Hat-Mini-JoyC: BRANCHES:[main:302a29f0a23a54dff054ee2ba0ca9c3ebb7c3ce9;]|RELEASES:[0.0.1:302a29f0a23a54dff054ee2ba0ca9c3ebb7c3ce9:none;]
 m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c3b4b95c4841d;]|RELEASES:[]
+m5stack/M5Stamp-TimerPower: BRANCHES:[main:3f9e8f6cb7da9a8c8b5fa02570a45113ec54bddd;]|RELEASES:[]
