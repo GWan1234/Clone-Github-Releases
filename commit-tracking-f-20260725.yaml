@@ -2008,3 +2008,4 @@ m5stack/M5-LoRa-E220: BRANCHES:[main:897a55c3ea291d80f7c56b595d84d965f9cccac9;]|
 m5stack/M5Unit-8Servo: BRANCHES:[main:933bcbb8556a37e62a61890211f1da229ee8055f;]|RELEASES:[]
 m5stack/CoreS3-UserDemo: BRANCHES:[main:90cbcc6ca40c2404de05d3f9fdb01223ae19d3f0;]|RELEASES:[]
 m5stack/M5Stack_Linux_Libs: BRANCHES:[UserDemo:730634b0fec605c2087836fd35b37d3cf21b1a4c;stackflow:4f67cfac9aacffcbe9d93923e3a552e094cbbed4;master:8c412407623badbc24ed710b55f7a80b6a8d2fb3;tool-env:2e0d470861b29964bd8c5d818aae2f4acdc26563;dev:b26110f90e50d97c176321c0c817e1956edd4c2b;]|RELEASES:[]
+m5stack/m5stack-board-id: BRANCHES:[main:a921c48914c8fac1a214b8ffadb3060bdd0b598e;feature/stamp-c5/c6/s3-mini:b1beb5aaa0a405680d075e2f9c9037fe01bc8342;]|RELEASES:[]
