@@ -1973,3 +1973,4 @@ m5stack/aws-iot-kit-tutorials: BRANCHES:[main:f017250e8178c69ee0a0040b9a1fa6beb6
 m5stack/esp-cryptoauthlib: BRANCHES:[main:2a0fe282b4705737dff539af908d4e3cbf7d2900;]|RELEASES:[]
 m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1869b0c07d7af5;]|RELEASES:[]
 m5stack/AWS_IoT_Connect--Arduino--Core2_for_AWS: BRANCHES:[main:8042e064bbeec38b762f13cc34c01860f50467b6;]|RELEASES:[]
+m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:19a86a1d6b1d7c52a6899691e23fdba609362bda;]|RELEASES:[]
