@@ -1925,3 +1925,4 @@ m5stack/M5Hat-8Servos: BRANCHES:[master:b8ebe97e89cb57f7e92a82449d8f0a104d8821d8
 m5stack/M5Unit-PoESP32: BRANCHES:[master:808c4dbc558f04a62af9a72ea8da6fb313b5891c;]|RELEASES:[0.0.1:9b48c525129820e5395cbab1bbb64280b1d3fd59:none;]
 m5stack/HAT_8Servos_v1.1_Firmware: BRANCHES:[master:4c5dc449493276c44e6881947abdff47813f0ae5;]|RELEASES:[]
 m5stack/M5Template-C-CPP: BRANCHES:[main:510e9dc93a32260ac6a742f7c5f6d10d1a3d60c9;]|RELEASES:[]
+m5stack/M5Module-4Relay: BRANCHES:[main:bb8021a8353bdd896dbf7dc6055afdec55d501f2;]|RELEASES:[0.0.1:a20cf8b9e2390da3e85252bf4cce904e1a047008:none;]
