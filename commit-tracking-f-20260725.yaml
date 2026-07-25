@@ -1912,3 +1912,4 @@ m5stack/M5StickC-Plus-SE-Factory: BRANCHES:[main:1b24c43905c0c74b5f83b9668117a01
 sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX: BRANCHES:[main:313d3e2c03218f00eb5fb051d5594f05c95abecf;]|RELEASES:[]
 waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:bf1c51a12a6d819b7d27ab42c12c62d4be176b04;]|RELEASES:[]
 waveshareteam/ESP32-C6-LCD-2.73: BRANCHES:[main:eaa9da9501c3c94841b2aeffb0c9e4619fc43199;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-7: BRANCHES:[main:bc51a84b30c0cea018fee6e0d7427ec10102060e;]|RELEASES:[]
