@@ -1975,3 +1975,4 @@ m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1
 m5stack/AWS_IoT_Connect--Arduino--Core2_for_AWS: BRANCHES:[main:8042e064bbeec38b762f13cc34c01860f50467b6;]|RELEASES:[]
 m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:19a86a1d6b1d7c52a6899691e23fdba609362bda;]|RELEASES:[]
 m5stack/Factory_Firmware-Core2_for_AWS: BRANCHES:[main:af5ac499c7eae158656e0971e3e3a880e7a9886f;]|RELEASES:[]
+m5stack/M5Module-StepMotor-Driver-V1.1-Internal-FW: BRANCHES:[main:57b69924a18515026f3ed1154e214c92ddf2e534;]|RELEASES:[]
