@@ -1917,3 +1917,4 @@ m5stack/esp-idf: BRANCHES:[uiflow/v2.0-idf5.0.4:8fbf4ba6058bcf736317d8a7aa75d057
 m5stack/ATOM_DTU_CAT1: BRANCHES:[master:c32c54f15df819213532ae00ad2e96d5b8c5abf8;]|RELEASES:[0.0.1:96a4ce33b023df329c7c4a7394aa11f13d4e47b7:none;]
 m5stack/M5Unit-KMeter-Internal-FW: BRANCHES:[main:6aab5d69ba3c316a6d9b1715363a3d41a4a12b57;develop:b85bd7f40f48584dfdc80c961d752900819b96eb;]|RELEASES:[]
 m5stack/M5Hat-PowerC: BRANCHES:[master:2cd83d770f93dd05c6f41f6029255b934fc4a194;]|RELEASES:[]
+m5stack/M5UnitEncoder_Firmware: BRANCHES:[main:4b68d8bb56f147d37d341cfd5916ab20909a2cfc;]|RELEASES:[]
