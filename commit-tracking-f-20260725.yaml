@@ -1943,3 +1943,4 @@ m5stack/M5Module-DMX512: BRANCHES:[master:8a3c0bcc7d83eceebe7acff932871444313207
 m5stack/M5Unit-DigiClock: BRANCHES:[master:a1306af167eef6e0a60332baccd226ba914aadbd;]|RELEASES:[0.0.1:7d98b5ef515196ce64ab6a0e549335eabd0bc029:none;]
 m5stack/M5Station: BRANCHES:[main:7389bffe828b1d4e2688e8acf8cb4c4baaf68d5f;]|RELEASES:[0.0.1:91099928af94868515ffa33a07ab26183f909d07:none;]
 m5stack/usb-pids: BRANCHES:[main:08c2f615d9d6468159d9bde324bbf839d3e11aa9;m5stack:f4da5a5cd9ada5ea7d3d5f1b1ac753d191f33071;]|RELEASES:[]
+m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf;]|RELEASES:[0.0.1:03421ca217ce9677d204a5d61e488729316061cf:none;]
