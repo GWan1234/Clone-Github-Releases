@@ -1978,3 +1978,4 @@ m5stack/Factory_Firmware-Core2_for_AWS: BRANCHES:[main:af5ac499c7eae158656e0971e
 m5stack/M5Module-StepMotor-Driver-V1.1-Internal-FW: BRANCHES:[main:57b69924a18515026f3ed1154e214c92ddf2e534;]|RELEASES:[]
 m5stack/M5Unit-GLASS-Internal-FW: BRANCHES:[main:6d78b8d45b938d5d302d8e55012606e0eefa6b33;]|RELEASES:[]
 m5stack/M5Unit-GLASS: BRANCHES:[main:4ef5cde4e0ca1cc164521682b12252cfc7e02a74;]|RELEASES:[0.0.1:79e755f18ec885b7ef73c17b926646b05030bbad:none;]
+m5stack/M5Unit-KMeterISO-Internal-FW: BRANCHES:[main:44e3fa130728c865e670389658b4f55ac753049e;]|RELEASES:[]
