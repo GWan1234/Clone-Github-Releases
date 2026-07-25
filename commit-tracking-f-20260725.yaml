@@ -1597,7 +1597,7 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[chore/esp-idf-ci:d8d39c157
 waveshareteam/ESP32-S3-Touch-LCD-4.3: BRANCHES:[master:fd5eebed4aac3946a276fe4507e4d9988bb1f6aa;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-4.3B: BRANCHES:[master:04cc7ee4a85d796491084fc3baae3589b4f812cf;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:a7b179dbfccea8121c88770d8a3c53e5a84b1024;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:d1120ae7753acfd4ad1aa1ded73144a30dc3ec6a;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:c652c902db607f7ffb376257393cfd7657aa6428;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-1.85C: BRANCHES:[main:1a5454cd8baf0c97f00595b9abedb9a582aa4980;]|RELEASES:[]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:028473b3bac120d38589e1c18f8ea90daccc090c;]|RELEASES:[]
 waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda;]|RELEASES:[]
