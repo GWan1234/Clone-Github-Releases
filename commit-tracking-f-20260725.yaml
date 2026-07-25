@@ -1968,3 +1968,4 @@ m5stack/M5Module-Display-13.2: BRANCHES:[main:e1c8f3269a88424507c8f016ba5645c383
 m5stack/M5Module-4-20mA-Internal-FW: BRANCHES:[main:259242af5816b08724454a2afdb053007d04c267;]|RELEASES:[]
 m5stack/M5Unit-ExtEncoder-Internal-FW: BRANCHES:[main:0502021429c816f43de43d1b3be1355725ed66ab;]|RELEASES:[]
 m5stack/M5Module-4-20mA: BRANCHES:[main:4781fcb5fb525edc53c4f833c9ccab434b9e3e3c;]|RELEASES:[]
+m5stack/M5Unit-ExtEncoder: BRANCHES:[main:690c72b35a172ae97d05025343c360cea1392a24;]|RELEASES:[]
