@@ -1922,3 +1922,4 @@ m5stack/iot-plugandplay-models: BRANCHES:[main:c25bd16e26fa695bb20b64098fda9f980
 m5stack/M5-iot-plugandplay-models: BRANCHES:[main:efe821e1e9fefbd848d1193feaeade2292fb4e1f;]|RELEASES:[]
 m5stack/M5-LoRaWAN: BRANCHES:[master:3a6d86b04041822d7961dbc6e0b5c2d551ea9897;]|RELEASES:[0.0.1:9d2c91b0cbcfc80a87c22ba60b6220ee35bdc901:none;0.0.2:3a6d86b04041822d7961dbc6e0b5c2d551ea9897:none;]
 m5stack/M5Hat-8Servos: BRANCHES:[master:b8ebe97e89cb57f7e92a82449d8f0a104d8821d8;]|RELEASES:[0.0.1:49204df85faa7a91027c17eee2feb9edfc66d6ba:none;0.0.2:fafbe703e065f5527c2da5f71727d03a9d584104:none;]
+m5stack/M5Unit-PoESP32: BRANCHES:[master:808c4dbc558f04a62af9a72ea8da6fb313b5891c;]|RELEASES:[0.0.1:9b48c525129820e5395cbab1bbb64280b1d3fd59:none;]
