@@ -1911,3 +1911,4 @@ m5stack/M5StamPLC-IO-Internal-FW: BRANCHES:[main:6b6044120fe89a07e2b6f4c8b7bb086
 m5stack/M5StickC-Plus-SE-Factory: BRANCHES:[main:1b24c43905c0c74b5f83b9668117a01ffdd7fee6;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX: BRANCHES:[main:313d3e2c03218f00eb5fb051d5594f05c95abecf;]|RELEASES:[]
 waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:bf1c51a12a6d819b7d27ab42c12c62d4be176b04;]|RELEASES:[]
+waveshareteam/ESP32-C6-LCD-2.73: BRANCHES:[main:eaa9da9501c3c94841b2aeffb0c9e4619fc43199;]|RELEASES:[]
