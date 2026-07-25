@@ -1993,3 +1993,4 @@ m5stack/uiflow-i18n: BRANCHES:[main:716abac8e426721bf55537e69695d150cfe1e2b3;]|R
 m5stack/zephyr: BRANCHES:[main:c764c3423231ad42ec19e07f654517044a40ebfd;pmic-axp192:ef8c6e01124f73ff565bccd55028ce7d077681fb;]|RELEASES:[]
 m5stack/M5Unit-QRCode-Internal-FW: BRANCHES:[main:2c44fe0fd85d3346bd6484fcd59e5cb333dd7937;]|RELEASES:[]
 m5stack/M5Unit-QRCode: BRANCHES:[main:3c3d871bee312de7867e2b3004dd2878c6fc8523;]|RELEASES:[1.0.0:82a407c3d447a1c7de3711b38c033ac528a24f44:none;]
+m5stack/M5Unit-KMeterISO: BRANCHES:[main:c51aa180b4cf45b21a2ab94df2cb099646f61edf;develop:3d5d033dbd5f7dbad6d67013eedc402ccb892faa;]|RELEASES:[1.0.0:735623e01ebd2a795d11fc1d5120befb60a03188:none;1.0.1:c51aa180b4cf45b21a2ab94df2cb099646f61edf:none;]
