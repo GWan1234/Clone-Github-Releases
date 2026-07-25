@@ -1944,3 +1944,4 @@ m5stack/M5Unit-DigiClock: BRANCHES:[master:a1306af167eef6e0a60332baccd226ba914aa
 m5stack/M5Station: BRANCHES:[main:7389bffe828b1d4e2688e8acf8cb4c4baaf68d5f;]|RELEASES:[0.0.1:91099928af94868515ffa33a07ab26183f909d07:none;]
 m5stack/usb-pids: BRANCHES:[main:08c2f615d9d6468159d9bde324bbf839d3e11aa9;m5stack:f4da5a5cd9ada5ea7d3d5f1b1ac753d191f33071;]|RELEASES:[]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf;]|RELEASES:[0.0.1:03421ca217ce9677d204a5d61e488729316061cf:none;]
+m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7;]|RELEASES:[]
