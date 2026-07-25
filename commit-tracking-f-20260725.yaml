@@ -1971,3 +1971,4 @@ m5stack/M5Module-4-20mA: BRANCHES:[main:4781fcb5fb525edc53c4f833c9ccab434b9e3e3c
 m5stack/M5Unit-ExtEncoder: BRANCHES:[main:690c72b35a172ae97d05025343c360cea1392a24;]|RELEASES:[]
 m5stack/aws-iot-kit-tutorials: BRANCHES:[main:f017250e8178c69ee0a0040b9a1fa6beb6c0039a;traditional_chinese:61fdff2973c85cf4002c1b0f537be4469fc9bc14;]|RELEASES:[]
 m5stack/esp-cryptoauthlib: BRANCHES:[main:2a0fe282b4705737dff539af908d4e3cbf7d2900;]|RELEASES:[]
+m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1869b0c07d7af5;]|RELEASES:[]
