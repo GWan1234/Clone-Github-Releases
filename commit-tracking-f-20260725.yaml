@@ -1918,3 +1918,4 @@ m5stack/ATOM_DTU_CAT1: BRANCHES:[master:c32c54f15df819213532ae00ad2e96d5b8c5abf8
 m5stack/M5Unit-KMeter-Internal-FW: BRANCHES:[main:6aab5d69ba3c316a6d9b1715363a3d41a4a12b57;develop:b85bd7f40f48584dfdc80c961d752900819b96eb;]|RELEASES:[]
 m5stack/M5Hat-PowerC: BRANCHES:[master:2cd83d770f93dd05c6f41f6029255b934fc4a194;]|RELEASES:[]
 m5stack/M5UnitEncoder_Firmware: BRANCHES:[main:4b68d8bb56f147d37d341cfd5916ab20909a2cfc;]|RELEASES:[]
+m5stack/iot-plugandplay-models: BRANCHES:[main:c25bd16e26fa695bb20b64098fda9f980908c075;digimaun-patch-1:2b76c5cac218b3ccd922da7aa302075160522c8c;]|RELEASES:[]
