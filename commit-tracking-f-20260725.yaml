@@ -1986,3 +1986,4 @@ m5stack/M5Unit-Hbridge-Internal-FW: BRANCHES:[main:e07325d7ed5c10dde8e7aa8500594
 m5stack/M5Module-HMI: BRANCHES:[main:bdb66bcffdb4d3683c97c6be99c2f5f1e66abc85;]|RELEASES:[]
 m5stack/CM4Stack_lvgl: BRANCHES:[SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;Basic:d7abcd9c619f88d9d1ccea0dc80ba4065d3c2766;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b;]|RELEASES:[]
 m5stack/M5Unit-ACMeasure-Internal-FW: BRANCHES:[main:e7df767e2df85aeb0554f6432e19915614f4034f;]|RELEASES:[]
+m5stack/M5Unit-ACMeasure: BRANCHES:[main:821882d4a7a040509e62010f33d36e927079c3b2;]|RELEASES:[]
