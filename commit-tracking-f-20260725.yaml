@@ -1951,3 +1951,4 @@ m5stack/M5Unit-FLASHLIGHT: BRANCHES:[main:377f244a459988ba6971fb0554bee6c50629c2
 m5stack/M5-StickV-UnitV: BRANCHES:[main:a1f1ecb80f8572c7b2ab9d15a59ab99823afa4b3;]|RELEASES:[]
 m5stack/m5stack-linux-dtoverlays: BRANCHES:[main:226a75240349c637f464094fe5669fb197a1e7aa;test:de8608eebf1bd8e9226ddaf5e4947cb69d0fd80d;imu-test:201f7a05a6430b4c65846055a8a582e96a981eab;dev-test:41ff7f40b738d58d58a504edeed729e41241cfa4;example_dev:3c004d4edbdfff784ab1d56f9aec12fad4c7ba9e;]|RELEASES:[]
 m5stack/M5Core2-TouchPanel-Recovery: BRANCHES:[main:2370d64ed478a3cbcf76eab89c8f0c1513fa6fc4;]|RELEASES:[]
+m5stack/M5Unit-8Angle: BRANCHES:[main:8811e4898fdd5988a74fb93b1d6ddc4be264973a;]|RELEASES:[]
