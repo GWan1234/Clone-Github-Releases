@@ -1984,3 +1984,4 @@ m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:61c2e34fa3cd86f40b2d1f05cd00e18
 m5stack/M5Module-HMI-Internal-FW: BRANCHES:[main:6d55c14f9ac9a8b47f3f63bbdce86aa96f497956;]|RELEASES:[]
 m5stack/M5Unit-Hbridge-Internal-FW: BRANCHES:[main:e07325d7ed5c10dde8e7aa8500594c40cd23ddbf;]|RELEASES:[]
 m5stack/M5Module-HMI: BRANCHES:[main:bdb66bcffdb4d3683c97c6be99c2f5f1e66abc85;]|RELEASES:[]
+m5stack/CM4Stack_lvgl: BRANCHES:[SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;Basic:d7abcd9c619f88d9d1ccea0dc80ba4065d3c2766;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b;]|RELEASES:[]
