@@ -2010,3 +2010,4 @@ m5stack/CoreS3-UserDemo: BRANCHES:[main:90cbcc6ca40c2404de05d3f9fdb01223ae19d3f0
 m5stack/M5Stack_Linux_Libs: BRANCHES:[UserDemo:730634b0fec605c2087836fd35b37d3cf21b1a4c;stackflow:4f67cfac9aacffcbe9d93923e3a552e094cbbed4;master:8c412407623badbc24ed710b55f7a80b6a8d2fb3;tool-env:2e0d470861b29964bd8c5d818aae2f4acdc26563;dev:b26110f90e50d97c176321c0c817e1956edd4c2b;]|RELEASES:[]
 m5stack/m5stack-board-id: BRANCHES:[main:a921c48914c8fac1a214b8ffadb3060bdd0b598e;feature/stamp-c5/c6/s3-mini:b1beb5aaa0a405680d075e2f9c9037fe01bc8342;]|RELEASES:[]
 m5stack/M5Unit-Miniscale-Internal-FW: BRANCHES:[main:9d1644fc23ac2d73284bfd62983bbbd14f1999bc;]|RELEASES:[]
+m5stack/M5Unit-Miniscale: BRANCHES:[main:3e92369d61f346ed42f38a8c3155773a2685735a;]|RELEASES:[0.0.1:3e92369d61f346ed42f38a8c3155773a2685735a:none;]
