@@ -1595,7 +1595,7 @@ waveshareteam/RP2350-Touch-AMOLED-1.75: BRANCHES:[main:0196d2444815fb4828c4c0f3e
 waveshareteam/RP2350-Touch-LCD-3.5: BRANCHES:[main:c82c14715b03e32ed1ccc57703ce079ba88e9b59;]|RELEASES:[]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[chore/esp-idf-ci:d8d39c157d9324bab335ece1379d4fcc930920ac;main:74d1a8117ea1be5b3edd0e03999d750fb59a2a4f;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-4.3: BRANCHES:[master:fd5eebed4aac3946a276fe4507e4d9988bb1f6aa;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-LCD-4.3B: BRANCHES:[master:334dc256caa647fec910bd6bc0fc7051e18f9270;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-4.3B: BRANCHES:[master:04cc7ee4a85d796491084fc3baae3589b4f812cf;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:cb7b7723e5407d4239479b59801f9c3649542945;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:d1120ae7753acfd4ad1aa1ded73144a30dc3ec6a;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-1.85C: BRANCHES:[main:1a5454cd8baf0c97f00595b9abedb9a582aa4980;]|RELEASES:[]
