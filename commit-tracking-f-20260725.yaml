@@ -2031,3 +2031,4 @@ m5stack/UnitCamS3-UserDemo: BRANCHES:[unitcams3-5mp:50410249ece3f92f414a222c859d
 m5stack/M5Unit-CAN: BRANCHES:[main:4656a2adc0d586f3904a96b34334ce6fd5b0b0ad;]|RELEASES:[1.0.0:4656a2adc0d586f3904a96b34334ce6fd5b0b0ad:none;]
 m5stack/M5StickCPlus2: BRANCHES:[master:5e103b43ed4ae000fe079c6c928e71a2eadf797c;]|RELEASES:[1.0.0:d20955f927d5b0f1e32077a4910031bc947a6f2a:none;1.0.1:fa8e107d72a0e31eaaad0132893280f0f971c60b:none;]
 m5stack/ThermalOnline-CatM-UserDemo: BRANCHES:[main:b52d83551c47752fe3cb519eaec299eb91d3077f;]|RELEASES:[]
+m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:3d3d9dafc0835d620e3d87962269bddd8fe8accc;]|RELEASES:[V0.1:3d3d9dafc0835d620e3d87962269bddd8fe8accc:2023-12-13T03:56:47Z;]
