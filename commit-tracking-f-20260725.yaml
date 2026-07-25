@@ -1981,3 +1981,4 @@ m5stack/M5Unit-GLASS: BRANCHES:[main:4ef5cde4e0ca1cc164521682b12252cfc7e02a74;]|
 m5stack/M5Unit-KMeterISO-Internal-FW: BRANCHES:[main:44e3fa130728c865e670389658b4f55ac753049e;]|RELEASES:[]
 m5stack/M5Module-DualKmeter-13.2-Internal-FW: BRANCHES:[main:b8144b0c86ab6f9d3808693c2eac8598376bea4c;]|RELEASES:[]
 m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:61c2e34fa3cd86f40b2d1f05cd00e1857869f8bf;]|RELEASES:[]
+m5stack/M5Module-HMI-Internal-FW: BRANCHES:[main:6d55c14f9ac9a8b47f3f63bbdce86aa96f497956;]|RELEASES:[]
