@@ -7643,3 +7643,4 @@ AlistGo/alist-agent: BRANCHES:[main:a1f6a8c7f44d272a31c7821ec0a165095790a13f;]|R
 Seeed-Studio/rockchip_sdk_tools: BRANCHES:[main:198a4ef7fb5a0026f11a65d893b00749e536b57b;]|RELEASE:[none|none]
 Joetooley28/atcli-rs-aarch64: BRANCHES:[main:fcb1e08647d8f7470e012445a4dddc086dfc7414;]|RELEASE:[none|none]
 Joetooley28/atcli_rust: BRANCHES:[main:3711676de41d362ce8b52c0cef2324f5752f8c4f;]|RELEASE:[none|none]
+Joetooley28/cfw3212-qtooley-overlay: BRANCHES:[main:507487065f15b5a66ad4818d623f194b5f769bf8;working-branch:eaaf9cf38cf4a1279844b70d9494887c43b72624;standalone-at-terminal-old:3669082a848b709f1c73f4a34a760efb51d3849a;]|RELEASE:[v0.3.11-qtooley-2026-04-11|none]
