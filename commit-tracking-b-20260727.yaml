@@ -3302,7 +3302,7 @@ rustdesk/engine: BRANCHES:[heads/main:9176a596b1f82625dfe8831edbcc4f2c9dc22da9;f
 rustdesk/hbb_common: BRANCHES:[webrtc:e30543f1f318c3dd981ab96af3c5726a51eb42a9;main:69cea8dafee147848ae88702029f4bf7df7224c3;]|RELEASE:[driver|none]
 rustdesk/muxnet: BRANCHES:[main:303f2af95db99f297e5897e80b651a6d07a8fb8f;]|RELEASE:[none|none]
 rustdesk/rustdesk: BRANCHES:[fix-windows-tray-ghost-icons:96d2bb61189fad88a57cfa36bbbed1b00fafc331;id-whitelist:6692bfeefc04b476cd89e876b785cd12a0731d98;dependabot/submodules/master/libs/hbb_common-69cea8d:944dff4114612aad0fb1f4573192c47f909becbf;webrtc:daa5d55a4ce72b17bb520f6ffd22d8c6122cc05e;master:eefd22b2057ba057305b10a6b5bf93c79b686eb9;svt-av1:8eda19247c54b5af597ee659c529a8d796b1fc80;switch_code_hbbs:af096f800d570eeadb39a0a04ebabafdd547e301;fuse-file-umount:0a0625126e40b1be532084c4f803ced771762475;screenlock-os-password:f3bd9fa933c03a960ebf3a10c94fa749e8918eca;keyboard-shortcuts:fe93cbe570c022893ed03ab5343af8537647ef40;]|RELEASE:[1.4.9|none]
-rustdesk/rustdesk-server: BRANCHES:[master:538aef71d1265ecb91990434927c745faa766cd8;]|RELEASE:[1.1.16|none]
+rustdesk/rustdesk-server: BRANCHES:[master:6e7de5b1d648e64e5d7930eea2239f58721420b9;]|RELEASE:[1.1.16|none]
 rustdesk/rustdesk-server-demo: BRANCHES:[main:4165a07271700356822ae5ad94696033e882d718;add-license-1:b4c4edbb6f5ab560c925b0304f6394793b3d8ed0;]|RELEASE:[none|none]
 rustdesk/rustdesk-server-pro: BRANCHES:[main:2494b75b802d6008b6d7c877acf8b39a84a9fb8c;]|RELEASE:[1.8.5|none]
 rustdesk/uptime: BRANCHES:[master:c9af5fd178214fa93309e396aff805ef119aa0bb;gh-pages:19f53b788f8afcb5740ef384aea0ce7fc8d658a7;]|RELEASE:[none|none]
