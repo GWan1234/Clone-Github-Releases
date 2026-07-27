@@ -7641,3 +7641,4 @@ DFRobot/DFRobot_IntelligentGasSensor: BRANCHES:[official-main:153721a87b49939ac2
 AlistGo/alist-ext: BRANCHES:[main:6cdd12c82450d7dcaae867701e6eb83a1261a430;]|RELEASE:[none|none]
 AlistGo/alist-agent: BRANCHES:[main:a1f6a8c7f44d272a31c7821ec0a165095790a13f;]|RELEASE:[none|none]
 Seeed-Studio/rockchip_sdk_tools: BRANCHES:[main:198a4ef7fb5a0026f11a65d893b00749e536b57b;]|RELEASE:[none|none]
+Joetooley28/atcli-rs-aarch64: BRANCHES:[main:fcb1e08647d8f7470e012445a4dddc086dfc7414;]|RELEASE:[none|none]
