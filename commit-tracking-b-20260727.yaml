@@ -4608,7 +4608,7 @@ MetaCubeX/go: BRANCHES:[readme:0edd79ec5ed70089d28a525bcb6839b4cf2f0822;release-
 MetaCubeX/bbolt: BRANCHES:[release-1.5:d4ec34ad7c483e57d2686b1f1ccbc0ef92fc40ea;release-1.4:010dbbbb7a5b1384a5ffd21b18e615243357ec7e;release-1.3:aed6d4850399b2a53df6b3c8eff69f8ff33bc634;main:6e354be1be92024ca4de0050093dffe4516be21f;]|RELEASE:[none|none]
 MetaCubeX/golang-gradle-plugin: BRANCHES:[main:4dc29670163f74c89cb867d8b0da9ea4144e3169;]|RELEASE:[none|none]
 MetaCubeX/wireguard-go: BRANCHES:[master:a6cecdd7f57f01c6b90b9f113a692b767bca64cf;20231110:c182e74711814358810ad35c7707dfbe313d0d74;]|RELEASE:[none|none]
-MetaCubeX/amneziawg-go: BRANCHES:[master:19b4f1cdd5ec0b49e994cd74f3c6ce58816b9f24;awg-1.5:732c0c9d418a2bf517eeb297f55c5d5c335a5c33;awg-1.0:fdf3a4d5a4abcf8e9482b52563c9b6bdd77125d8;]|RELEASE:[none|none]
+MetaCubeX/amneziawg-go: BRANCHES:[master:16af3a7a9a2999b21dc73e4d9e0b70ac33b08c75;awg-2.0:19b4f1cdd5ec0b49e994cd74f3c6ce58816b9f24;awg-1.5:732c0c9d418a2bf517eeb297f55c5d5c335a5c33;awg-1.0:fdf3a4d5a4abcf8e9482b52563c9b6bdd77125d8;]|RELEASE:[none|none]
 MetaCubeX/reality: BRANCHES:[main:74e8d78506293e398bcf0e627e998091aaba1bb2;]|RELEASE:[none|none]
 MetaCubeX/bart: BRANCHES:[main:b8a009393b938730c298318a45487de1e3a4806e;0.28.2:d9472ec707d7184f97ec88ffac6c3d6d9b816d2c;0.26.0:f42c938db63a965ac55aef17e8ca9fb8eb4a970e;0.24.0:66b5906772a73101520ee9366f6c7eb71609d1af;0.20.4:095d6ae380c8fe6cc201b79bfc38f0703f9648f3;0.19.0:2c5b713a014c7c0dd1839989326d1aea2844e9bb;]|RELEASE:[none|none]
 MetaCubeX/backport-std: BRANCHES:[main:917f7ce124e5a198cc4d8405b639093e4a0a01c5;]|RELEASE:[none|none]
