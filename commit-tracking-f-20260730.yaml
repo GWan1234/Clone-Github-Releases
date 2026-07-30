@@ -2035,4 +2035,4 @@ m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:3d3d9dafc0835d620e3d87962269bddd8
 m5stack/M5AtomS3-UserDemo: BRANCHES:[atoms3r:d8ea2d3d4fa8eec2ec1647fe8604d92b23f4104f;main:a73ef8a863913a973262a91a60e207dad7b61181;]|RELEASES:[]
 m5stack/PoE-CAM-UserDemo: BRANCHES:[master:42b6c13cfe6bd7109d52b4d410bd5da247e1e9e0;]|RELEASES:[]
 m5stack/M5CoreS3-Esphome: BRANCHES:[main:18e27ff4bb2d26a48a29207240c06cc0b7487c7d;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-LCD-4B: BRANCHES:[chore/initial-resource-import:5bf2264e6dfaf6ea89780717ec35ed2274d16946;main:8e734b0ab31bce7ff434eb9202f20416c7c8e4f2;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-4B: BRANCHES:[chore/initial-resource-import:00364e3a0a8fdf776a2b6712b8b7bf1cfc7b0306;main:8e734b0ab31bce7ff434eb9202f20416c7c8e4f2;]|RELEASES:[]
