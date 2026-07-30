@@ -1512,7 +1512,7 @@ HelTecAutomation/GxEPD2: BRANCHES:[master:ea9ec7087a2046c277e5975aedbde3cf023ba3
 HelTecAutomation/ht-1303: BRANCHES:[master:f7976bceb060a9445d1f842c9c0b05aeb6b48c8f;]|RELEASES:[]
 HelTecAutomation/Heltec_nRF52: BRANCHES:[main:53b3d4a126bd144f94642203605031dd0aa93354;]|RELEASES:[1.7.0:d45d40df192eb155df3c1f809387591d515383ab:2024-12-20T07:28:42Z;]
 HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb811;]|RELEASES:[]
-HelTecAutomation/ESP_HaLow: BRANCHES:[main:ac427d9f0ee0e290e04c5e2939e1c5c5dbf865e6;]|RELEASES:[]
+HelTecAutomation/ESP_HaLow: BRANCHES:[main:f3cedf7415089d4ea80c9cbd23d672e1a88ef788;]|RELEASES:[]
 HelTecAutomation/SnapEmu-Device: BRANCHES:[main:0432cffa3b50157f165962b8dfd6f1c017353f19;]|RELEASES:[]
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd;]|RELEASES:[]
 HelTecAutomation/firmware: BRANCHES:[master:6bbdfe1797eb72e0bf4d98c8a78cc16de042754c;]|RELEASES:[]
