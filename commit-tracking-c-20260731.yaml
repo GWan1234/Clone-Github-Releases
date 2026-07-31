@@ -40,7 +40,7 @@ kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de076
 LeoChen-CoreMind/UDX710-TOOLS: BRANCHES:[main:5d706ae9fcd7b9a1a9e7156ec64aba4bbd13507f;SZ50:ce5ff9585bd868f2023a8605e74beb8f51713cd5;]|RELEASE:[V2.3.4|none]
 vernesong/OpenClash: BRANCHES:[package:b65ffc9b7a89d94f27c6f6ff0cd305498b76bd87;dev:986209ca57be74d214c63bb3c4c5017cb4646b8a;core:e28b384986a96271562c5c05436597316ac2d9e1;master:a9e5d98cd664917724dbfb0a31440e512ab45a1b;]|RELEASE:[v0.47.133|none]
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338;]|RELEASE:[none|none]
-fatedier/frp: BRANCHES:[research/udp-proxy-work-conn-optimization:a284a33fd6f2b5a9a478e4a975c94527d9edb966;dev:5c6d761c1287e6153f07b824fb6d71b96ee598fe;master:fa3bcca2b0c4753cd4f0e2ab189dd6a5a6a15708;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c;]|RELEASE:[v0.70.1|fa3bcca2b0c4753cd4f0e2ab189dd6a5a6a15708]
+fatedier/frp: BRANCHES:[dev:2291e8835f941ff73903ac22efe48035e3e0882d;master:fa3bcca2b0c4753cd4f0e2ab189dd6a5a6a15708;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c;]|RELEASE:[v0.70.1|fa3bcca2b0c4753cd4f0e2ab189dd6a5a6a15708]
 anzhiyu-c/air-conditioner-vue: BRANCHES:[main:3d651398697b2be54ab733310327df54f4e89e96;]|RELEASE:[none|none]
 anzhiyu-c/an-music-web: BRANCHES:[main:579d1b38dd0335264678125f3ae97998e2ba4935;]|RELEASE:[none|none]
 anzhiyu-c/anheyu-app: BRANCHES:[main:c6f18b611bfa42ed8fa4509e5c2b0490844ce458;claude/analyze-optimization-opportunities-1xAoM:d742f425db1fba745b11110222844fe430ae1995;dev:d7fb03694af5d06090519b955de8437f83f6def9;]|RELEASE:[v1.8.16|none]
