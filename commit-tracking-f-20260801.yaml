@@ -2035,7 +2035,7 @@ m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:3d3d9dafc0835d620e3d87962269bddd8
 m5stack/M5AtomS3-UserDemo: BRANCHES:[atoms3r:d8ea2d3d4fa8eec2ec1647fe8604d92b23f4104f;main:a73ef8a863913a973262a91a60e207dad7b61181;]|RELEASES:[]
 m5stack/PoE-CAM-UserDemo: BRANCHES:[master:42b6c13cfe6bd7109d52b4d410bd5da247e1e9e0;]|RELEASES:[]
 m5stack/M5CoreS3-Esphome: BRANCHES:[main:18e27ff4bb2d26a48a29207240c06cc0b7487c7d;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-LCD-4B: BRANCHES:[chore/initial-resource-import:00364e3a0a8fdf776a2b6712b8b7bf1cfc7b0306;main:8e734b0ab31bce7ff434eb9202f20416c7c8e4f2;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-4B: BRANCHES:[chore/initial-resource-import:e3865787a857008483ab43e7b1f9e64d70c1e484;main:8e734b0ab31bce7ff434eb9202f20416c7c8e4f2;]|RELEASES:[]
 m5stack/M5Unit-RGB: BRANCHES:[gh-pages:a35ae16157eac9bfb2794344df467f36a88d3692;main:55cb205ab64606946fd567e39b5be1b5c60662ea;develop:118a83542eaf75734f1f2675e4c0838a856f8643;]|RELEASES:[0.0.1:55cb205ab64606946fd567e39b5be1b5c60662ea:none;]
 m5stack/M5Unit-RS485: BRANCHES:[gh-pages:1adadcc5f1d54c77a1678f8835c2ea8237d32216;main:d5ba21221ca19ff1224212d74d34d778c7d8f897;develop:93aed92f8f8fe25d220af3cf6582b5bb5d0da2b5;]|RELEASES:[0.0.1:d5ba21221ca19ff1224212d74d34d778c7d8f897:none;]
 m5stack/M5Unit-LIGHT: BRANCHES:[gh-pages:e807eccee25daa3cb954eee7eb6b3a1a4cda47da;main:9bf6d9978812a5f50896cfdca2fe71d8077075c5;develop:1096d9baa641f4f6d159e1b623418058f0b1208e;]|RELEASES:[0.0.1:9bf6d9978812a5f50896cfdca2fe71d8077075c5:none;]
