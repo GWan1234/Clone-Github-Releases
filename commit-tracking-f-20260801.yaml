@@ -1590,7 +1590,7 @@ waveshareteam/Git-Tutorial: BRANCHES:[main:584b967d8a42f02de209fb8e087e50da80e79
 waveshareteam/javen-waveshare-code: BRANCHES:[javen:c09d5f6eb6ef055094ad9ba9c3b3240bf9223529;master:e81486c57b63352692382053496ee24a9ab74574;]|RELEASES:[]
 waveshareteam/ESP32-S3-ePaper-3.97: BRANCHES:[main:9b12d40731a80213b927ee8a421cae4082952819;]|RELEASES:[]
 waveshareteam/ESP32-S3-Pico: BRANCHES:[main:f0d0562a53e2087eb14d646ff1daa791e47e0aa0;]|RELEASES:[]
-waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[chore/esp-idf-ci:7683397218dc68ffa84b2def115c6f73dc38f214;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;main:d5ff91f6edb5c6e6f54753b5c00b349d90c6da28;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff;]|RELEASES:[]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[chore/esp-idf-ci:2cfb45d7f5c097900cdbbd32b6c887b47a5794e2;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;main:d5ff91f6edb5c6e6f54753b5c00b349d90c6da28;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff;]|RELEASES:[]
 waveshareteam/RP2350-Touch-AMOLED-1.75: BRANCHES:[main:0196d2444815fb4828c4c0f3ea6b0fad271e523a;]|RELEASES:[]
 waveshareteam/RP2350-Touch-LCD-3.5: BRANCHES:[main:c82c14715b03e32ed1ccc57703ce079ba88e9b59;]|RELEASES:[]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[chore/esp-idf-ci:b99a8ae14f9d77ed1a814283e6affc053c99211a;main:74d1a8117ea1be5b3edd0e03999d750fb59a2a4f;]|RELEASES:[]
