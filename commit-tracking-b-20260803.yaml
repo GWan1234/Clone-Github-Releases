@@ -4796,3 +4796,4 @@ Xinyuan-LilyGO/lilygo-linux-dtoverlays: BRANCHES:[master:538f239cda6f6e92a2b4d9c
 adafruit/TE_EP2350_Config_Tool: BRANCHES:[main:128c4031ddeb1936674fa6ece91d9374ce3f65c6;]|RELEASE:[none|none]
 FUjr/MoviePilot: BRANCHES:[v2:80e16cbbfa986ab1402cf6bbf04044424998b0ee;]|RELEASE:[none|none]
 FUjr/tvpn: BRANCHES:[main:9b23656d708ade5212b78c88e388e0089927a4dd;]|RELEASE:[none|none]
+Xinyuan-LilyGO/esp-claw: BRANCHES:[lilygo_t_connect_pro_s3:9ba07d013329df480e34a1a59d1513ab783d8a52;master:9ba07d013329df480e34a1a59d1513ab783d8a52;]|RELEASE:[none|none]
