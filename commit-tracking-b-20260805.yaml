@@ -4768,7 +4768,7 @@ pvvx/SimplePowerProfiler: BRANCHES:[main:08b40548832573a52b3637d3fad2f6fbb051cd0
 pvvx/STM32INA2xxPowerProfiler: BRANCHES:[master:480d36e5d6bd52b439f4077bf425c16bee61b146;]|RELEASE:[none|none]
 pvvx/TestADC_CH58x_CH59x: BRANCHES:[master:5f10826fbfa0051d092ac42988f5bb73d175debf;main:8b5c686578e428ccad879a0e07ca1911c05730cf;]|RELEASE:[none|none]
 pvvx/THB2: BRANCHES:[master:48db5245d235aef57cfdf5fcc58ec74fa753d89c;]|RELEASE:[v2.1|none]
-pvvx/TLB2Z: BRANCHES:[master:a370b9856f4d5ba06762ff7a4a352002c867f83c;]|RELEASE:[v0.1.1.4|none]
+pvvx/TLB2Z: BRANCHES:[master:40bf6306f34b4343d3dc124d7475697150ea64bb;]|RELEASE:[v0.1.1.5|none]
 pvvx/TLSR825x_OTA_Flash_Hacker: BRANCHES:[main:37c772f0e91c50ecaf2c6aa8b84f23aa393d63a4;]|RELEASE:[none|none]
 pvvx/TLSR8269-EVK: BRANCHES:[master:d56cc8f546a5204e728591b1afd5262010201ece;]|RELEASE:[none|none]
 pvvx/TlsrComProg: BRANCHES:[master:46b1fdde600496d8fd4b6bee4131823c92aa08dd;]|RELEASE:[none|none]
