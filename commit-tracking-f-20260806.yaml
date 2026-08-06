@@ -1629,7 +1629,7 @@ waveshareteam/5inch_e-Paper: BRANCHES:[main:40e88e349afb5a222449279a5a4653494d9e
 waveshareteam/ESP32-S3-Touch-AMOLED-1.43C: BRANCHES:[main:3ac3f7f5a4f1bf7db35d85bed2bd553cd89d2a16;]|RELEASES:[]
 waveshareteam/1.54inch-Touch-LCD-Module: BRANCHES:[main:f3a58436b584baf71f8c4bac80f604582a66132f;]|RELEASES:[]
 waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c158371e03be;]|RELEASES:[]
-waveshareteam/ESP32-S3-RGB-Matrix: BRANCHES:[main:316517a0d3e087d38cb67db45e6f210442be1005;]|RELEASES:[]
+waveshareteam/ESP32-S3-RGB-Matrix: BRANCHES:[main:4047e4e7e13b043ae9ddd4daaeff5582de044c80;]|RELEASES:[]
 waveshareteam/RGB-Matrix-Px-xx: BRANCHES:[main:765f3fa7d49c308e488da5cfdaa6006bbc65dc29;]|RELEASES:[]
 waveshareteam/RP2350-LCD-0.85: BRANCHES:[main:d124edf6a1a0343f2e2e1bbf6bc5018369aae2d8;]|RELEASES:[]
 waveshareteam/RP2350-Touch-ePaper-1.54: BRANCHES:[main:da8d0084225ea8bbc33e87313aafe3d75d407850;]|RELEASES:[]
