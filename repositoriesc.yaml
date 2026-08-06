@@ -4,13 +4,18 @@ allrepositories:
   - martin-ger
   - playbridgeapp
   - home-assistant
-
+  - DFRobot
+  - OLIMEX
+  - Seeed-Studio
+  - Joetooley28
+  - rednblkx
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
   - armbian/community
-
+  - SmartRouterZone/swrt-gpl
+  - Seeed-Studio/OSHW-WioTerminal
 
 repositories:
   name0:

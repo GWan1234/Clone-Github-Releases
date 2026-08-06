@@ -31,11 +31,7 @@ allrepositories:
   - dailook
   - SmartRouterZone
   - Push3AX
-  - DFRobot
-  - OLIMEX
-  - Seeed-Studio
-  - Joetooley28
-  - rednblkx
+
   
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
