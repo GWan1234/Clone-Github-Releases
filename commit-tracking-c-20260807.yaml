@@ -4478,3 +4478,4 @@ playbridgeapp/playbridge-privacy: BRANCHES:[main:f7bfddeff934bd8ee34b5df9aa0e473
 playbridgeapp/stream-addons-resolver: BRANCHES:[main:9fae858e970ab59ef7a5cf16b85ea30e3e2cea5f;]|RELEASE:[none|none]
 home-assistant/early-device-db-prototype: BRANCHES:[frenck/add-ai-policy:2918c95a1beee0f7e2cb65b8bdda6f92edd06b67;main:ca2f4c46a64f3f0eda0cebe97d3911e6cef18c7f;add-via-device:b19dce9a595061925af80f584eb87f63423cfaf9;motionblinds-commission:785d53542a3a7e8a1f5702fa91baeb6dcd8cf504;]|RELEASE:[none|none]
 DFRobot/Fritzing-library: BRANCHES:[master:2ccdf815b9f27a18691d0466167e074001b76391;gh-pages:1153c46d21c85c8e99c123336c3abd49b164d75d;]|RELEASE:[none|none]
+DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2;]|RELEASE:[none|none]
