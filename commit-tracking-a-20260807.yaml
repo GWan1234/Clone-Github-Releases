@@ -7653,3 +7653,4 @@ yifengyou/BDY_G98_RK3588-uboot: BRANCHES:[kdev:24eb7ecbe7b009f4e623911eadf31d5fa
 ioBroker/ioBroker.assistant: BRANCHES:[main:748c049147f156eacb379be728cf37621be9144d;]|RELEASE:[none|none]
 dailook/luci-app-glfancontrol: BRANCHES:[main:b9d5d608752e5925be5f62e9156a97d1f5ffac32;]|RELEASE:[none|none]
 AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd;]|RELEASE:[alist-v3.63.0|none]
+syb999/openwrt-24.10.8: BRANCHES:[master:9fecf2d2709321ecad558de9e696b68222c383fe;]|RELEASE:[none|none]
