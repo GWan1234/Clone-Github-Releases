@@ -592,7 +592,7 @@ thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player: BRANCHES:[main:406a03e
 thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386322fe7c6823f06e26bc49a9585354df1c715;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32LCDRound240x240Eyes: BRANCHES:[main:cf4b8c28d294738e15ec559587854c378b632cfe;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32ManyRoundScreenTest: BRANCHES:[main:41a33d4db991c1ca73b3374e62a75b9548a040e3;]|RELEASE:[none|none]
-thelastoutpostworkshop/ESP32PartitionBuilder: BRANCHES:[gh-pages:6202a706d2c98c2b404eac1277f3c05a5568bee1;main:e306af298ce5bc7f1a2c7459b596727f098dec13;]|RELEASE:[v1.2.5|none]
+thelastoutpostworkshop/ESP32PartitionBuilder: BRANCHES:[gh-pages:39e29919231b9c54556c2f65920fd2c4a840665a;main:0342a963de0299e720bfa5caf8177363f698f0be;]|RELEASE:[v1.2.6|none]
 thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:49955e0c268cbb7de47d9f968cead72c3ee3986a;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESPConnect: BRANCHES:[main:77c79a01786881206ad9b3ccbe3db2ddb08f2989;gh-pages:358d67a87cba14569dd1a37ff2a8ee90ad5ccdac;runningFirwmare:d7f3d207eafb9c16bfe1b670d14e5b2d278130e4;feature:e3e41b45df0c1f5bf776456ca2e24c7b27cd4e64;]|RELEASE:[v1.1.18|none]
 thelastoutpostworkshop/FastDisplayPrototyping: BRANCHES:[main:e4ae407c3aec9dfbf0f484c4df831818d622b054;]|RELEASE:[v1.3.1|none]
