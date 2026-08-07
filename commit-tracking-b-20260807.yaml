@@ -3302,7 +3302,7 @@ rustdesk/engine: BRANCHES:[heads/main:9176a596b1f82625dfe8831edbcc4f2c9dc22da9;f
 rustdesk/hbb_common: BRANCHES:[webrtc:24c1fb6d9ee340864ba020c15c0382c6a2958a02;main:69cea8dafee147848ae88702029f4bf7df7224c3;]|RELEASE:[driver|none]
 rustdesk/muxnet: BRANCHES:[main:303f2af95db99f297e5897e80b651a6d07a8fb8f;]|RELEASE:[none|none]
 rustdesk/rustdesk: BRANCHES:[webrtc:3070a7c0ebd6c34b3e9ff4c4504c2de2453caa7d;master:4234b99029bf32c23098b4eaeec8efc135c8e80a;web-3.44-webcodecs-offline:83192b6efd03d95e6a4394efaae270fb4fd9bc1d;rdp-tunnel-window-title:47b228c8ad723359ec127f543c72febdf7878da2;fix-switch-sides-incoming-only:61272189b10cd914734b5de7eb76f8afd865c75a;drm-deb-in-release-workflow:102b2a58d3e255c1b3cd1f235f80d5e5192621b8;custom-client-no-rebuild:9dae15e523dce67f6f835ad85e6400947636111f;svt-av1:e17efa947477f9eaf0fcb9d1cb013732fb38811a;audit_retry_nonce:653ecc662ac208bed0c432bf3663e8fd56ce2ae7;keyboard-shortcuts:fe93cbe570c022893ed03ab5343af8537647ef40;]|RELEASE:[1.4.9|none]
-rustdesk/rustdesk-server: BRANCHES:[master:6e7de5b1d648e64e5d7930eea2239f58721420b9;]|RELEASE:[1.1.16|none]
+rustdesk/rustdesk-server: BRANCHES:[master:a7736be5e40f85bfc141120dce587e836e5d4b80;]|RELEASE:[1.1.16|none]
 rustdesk/rustdesk-server-demo: BRANCHES:[main:4165a07271700356822ae5ad94696033e882d718;add-license-1:b4c4edbb6f5ab560c925b0304f6394793b3d8ed0;]|RELEASE:[none|none]
 rustdesk/rustdesk-server-pro: BRANCHES:[main:2494b75b802d6008b6d7c877acf8b39a84a9fb8c;]|RELEASE:[1.8.5|none]
 rustdesk/uptime: BRANCHES:[master:d6883bb62d3b5c0dd06be3e9dc6ba6c958ed7576;gh-pages:19f53b788f8afcb5740ef384aea0ce7fc8d658a7;]|RELEASE:[none|none]
