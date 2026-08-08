@@ -2042,3 +2042,4 @@ m5stack/M5Unit-LIGHT: BRANCHES:[gh-pages:e807eccee25daa3cb954eee7eb6b3a1a4cda47d
 HelTecAutomation/RadioCore_Library: BRANCHES:[main:cff5d89e9e78ec506334bc0512fee4140ee627d8;]|RELEASES:[v1.0.0:00f85a428053aaf862b5ae029db59c598208df3e:none;]
 waveshareteam/codex-meter: BRANCHES:[main:7c6db73b923ce842ca4746ca735220ed9794d5e7;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.64-v2: BRANCHES:[main:21b952243d306692774f3b5bfeb3eb5cff10f851;]|RELEASES:[]
+waveshareteam/RP2350-Touch-LCD-2.8C: BRANCHES:[main:8ddda1991d0841b2ad83d89826bc6cba51e8ab49;]|RELEASES:[]
