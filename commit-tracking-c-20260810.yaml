@@ -5114,3 +5114,4 @@ OLIMEX/USB-LTE4G-EU: BRANCHES:[main:0a0eec233f680d475f9290d51d3c78d0e5f41ce6;]|R
 OLIMEX/ESP32-CAM: BRANCHES:[main:64bb7ee00120b1517d68a79317fc2b7b9d030963;]|RELEASE:[none|none]
 OLIMEX/PICO-EVB: BRANCHES:[main:5a4360986a678dc177df4ea6674fc5769e91e64d;]|RELEASE:[none|none]
 Seeed-Studio/DSO_Nano: BRANCHES:[master:e90a8cf1cdb0e34073ccf95e274b16e44728188f;]|RELEASE:[none|none]
+Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1;]|RELEASE:[none|none]
