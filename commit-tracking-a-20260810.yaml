@@ -7656,3 +7656,4 @@ AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd;]|RELE
 syb999/openwrt-24.10.8: BRANCHES:[master:e59441ea5d45a30cf565e917e1a9b34588131446;]|RELEASE:[none|none]
 syb999/luci-24.10.8: BRANCHES:[master:d9c6b181183ec8d422fb8b6755b550c94ac05a48;]|RELEASE:[none|none]
 syb999/packages-24.10.8: BRANCHES:[master:9be256ab7fc3f462b6ba0531b4b1d08412e57bab;]|RELEASE:[none|none]
+yifengyou/MAXVISION_RK3568: BRANCHES:[master:6dc959bc29dc2eb584a97018a7326ce926758c96;]|RELEASE:[none|none]
