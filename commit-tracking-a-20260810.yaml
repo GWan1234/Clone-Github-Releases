@@ -7655,3 +7655,4 @@ dailook/luci-app-glfancontrol: BRANCHES:[main:4a1ff6c940df896e5fc42c6590d5f92d3c
 AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd;]|RELEASE:[alist-v3.63.0|none]
 syb999/openwrt-24.10.8: BRANCHES:[master:e59441ea5d45a30cf565e917e1a9b34588131446;]|RELEASE:[none|none]
 syb999/luci-24.10.8: BRANCHES:[master:d9c6b181183ec8d422fb8b6755b550c94ac05a48;]|RELEASE:[none|none]
+syb999/packages-24.10.8: BRANCHES:[master:9be256ab7fc3f462b6ba0531b4b1d08412e57bab;]|RELEASE:[none|none]
