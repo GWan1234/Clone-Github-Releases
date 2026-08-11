@@ -1613,7 +1613,7 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[docs/readme-product-overvi
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-5: BRANCHES:[chore/esp-idf-ci:64da1468a74dbddb41997f8111f594061d00e6cd;main:5905c4156f250c61d05c4c48b34d83d367b0ae7d;]|RELEASES:[]
 waveshareteam/ESP32-C6-Touch-AMOLED-2.16: BRANCHES:[chore/repository-modernization:5a03b90a93246783c0346244cb4352ed4ff96a3c;main:294543798f1a44e2f2c4d2976522323f2beee11d;]|RELEASES:[]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.64: BRANCHES:[main:b90e28c953c1fc882258fa8dbd56b7706bc888b7;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-AMOLED-2.16: BRANCHES:[main:713f8bdcc0fc2356ac22335ed4f381096e45ceea;chore/repository-modernization:90ec83cae13a8136c0f7088c70f0bb8d52eba2d1;chore/esp-idf-ci:dfe311b77885c436d3f68a0b22ba463b1906266f;]|RELEASES:[v1.0.1:8ce37500e8393e5d112dde5c005a210f14b50f69:2026-07-15T02:13:08Z;]
+waveshareteam/ESP32-S3-Touch-AMOLED-2.16: BRANCHES:[main:46c20bfbfd24581ff6b9fe9f257e5c9db593a384;chore/ci-documentation-modernization:7a394bf09eecb03ff6cc7da270b7300288684dda;chore/repository-modernization:90ec83cae13a8136c0f7088c70f0bb8d52eba2d1;chore/esp-idf-ci:dfe311b77885c436d3f68a0b22ba463b1906266f;]|RELEASES:[v1.0.1:8ce37500e8393e5d112dde5c005a210f14b50f69:2026-07-15T02:13:08Z;]
 waveshareteam/ESP32-C6-GEEK: BRANCHES:[main:e9ea5866ff87bef10fd2bcac07dc57a1004264d0;]|RELEASES:[]
 waveshareteam/ESP32-S3-LCD-Driver-Board: BRANCHES:[main:e6713765bdb003ce2fc310b90626cab95d6dc2bc;]|RELEASES:[]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5-update: BRANCHES:[main:737cb6a83992565dce4791b38f300882f0cf5e69;]|RELEASES:[]
