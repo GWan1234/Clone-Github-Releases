@@ -4655,7 +4655,7 @@ Xinyuan-LilyGO/lilygo_device_driver_example: BRANCHES:[main:f553f7b00eaa435a73ed
 Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836fcd71ca84f982;]|RELEASE:[none|none]
 kanoqwq/DirScope: BRANCHES:[main:2e0c8f75a53be6218eaeee0e06598e18c7771ece;]|RELEASE:[none|none]
 adafruit/Adafruit_GP8403: BRANCHES:[main:2bc2e85ffd832b092371733485b444be4c4b7bdc;gh-pages:5ce7d76c4821958fceceba5de18939e76dd465a2;]|RELEASE:[none|none]
-Xinyuan-LilyGO/lilygobox-espidf: BRANCHES:[main:56df54476cd8cef3aa041ffde80427bc599a3885;feature/t-display-p4-air-integration:42f4356e07edbdc4e451f3d9fcf0f4cb4c27f838;]|RELEASE:[v1.0.5|none]
+Xinyuan-LilyGO/lilygobox-espidf: BRANCHES:[main:56d657d2ef9494f4b97bdac35065c44d4bdb564e;feature/t-display-p4-air-integration:42f4356e07edbdc4e451f3d9fcf0f4cb4c27f838;]|RELEASE:[v1.0.5|none]
 adafruit/Adafruit_CH224: BRANCHES:[main:73d1014929236810fe943ff16a82397fd8cde931;]|RELEASE:[none|none]
 wslinnn/OPAssistant: BRANCHES:[main:71cc8d0ff1653f7bd6d8e0e7fc6600e956756a0e;]|RELEASE:[none|none]
 atc1441/88MZ100: BRANCHES:[master:6fc0c91c176b4f0661563679835e0b416b088951;]|RELEASE:[none|none]
