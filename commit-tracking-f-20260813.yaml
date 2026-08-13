@@ -2043,4 +2043,4 @@ HelTecAutomation/RadioCore_Library: BRANCHES:[main:cff5d89e9e78ec506334bc0512fee
 waveshareteam/codex-meter: BRANCHES:[main:7c6db73b923ce842ca4746ca735220ed9794d5e7;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.64-v2: BRANCHES:[main:21b952243d306692774f3b5bfeb3eb5cff10f851;]|RELEASES:[]
 waveshareteam/RP2350-Touch-LCD-2.8C: BRANCHES:[main:8ddda1991d0841b2ad83d89826bc6cba51e8ab49;]|RELEASES:[]
-waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[chore/repository-modernization:3c8b4a93ed7454067924f2b89d03d0bd0d29371b;main:b880b472421413f19520a6dbea9e8288ff9a5f62;]|RELEASES:[]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[chore/repository-modernization:1803d9d00e580ac271095508c615728ac1c72b93;main:b880b472421413f19520a6dbea9e8288ff9a5f62;]|RELEASES:[]
