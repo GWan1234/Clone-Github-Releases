@@ -5592,3 +5592,4 @@ Seeed-Studio/platform-seeedboards: BRANCHES:[main:dd790080f5847f04680b079b3a7f24
 Seeed-Studio/Seeed-Tracker-T1000-E-for-LoRaWAN-dev-board: BRANCHES:[main:03147a91c5fae19218da96dcdbb53dabb7cd5495;]|RELEASE:[none|none]
 Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:079dba60418e4aab922aa6ce062b946bec662eaf;dev:4ea399123e4343d9d24a1e98c671e412bc8ae2bd;BT_proxy:9ac8cbe339516e2c20fd72c62eb64106e6eaa6c6;]|RELEASE:[V4.3.1|none]
 Seeed-Studio/OSHW-XIAO-Debug-Mate: BRANCHES:[main:51769f4dcb8829d95728eb34c37da2b4a58948bc;no_animimg:f4e2c3b84a65578cbe5a6fa03a2b1ebef87f4da2;arduino:2c33c6d594eccb80a3abd91a3169cb5468ebe435;platformio:9e6c19bd21393dd474288db8815280f9e0f35149;md:431d3aa63f17837f9350b4155724fded98d9f352;]|RELEASE:[v1.2|none]
+Seeed-Studio/Seeed_Arduino_MIDIMaster: BRANCHES:[main:05cda71ced617f371c3baab872adf196d9fc82e5;readme:2c29840fd17dec1f6dfccdc17295abe6af9d4584;]|RELEASE:[none|none]
