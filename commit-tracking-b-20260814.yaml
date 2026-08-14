@@ -4665,7 +4665,7 @@ atc1441/AOHi_280W_Charger_Hacking: BRANCHES:[main:f46bece70cb9e9b99ec8491edfef24
 atc1441/arduino-mcp2515: BRANCHES:[master:f61fd64a039f74f3a6b02700b7db562566619172;]|RELEASE:[none|none]
 atc1441/ArduinoHoverboardAPI: BRANCHES:[master:2364941c733ed57e1bef2f6daf51e6aac9633ab4;]|RELEASE:[none|none]
 atc1441/ArduinoINA219: BRANCHES:[patch-1:7262a95632881008dbc5fba8425967ff60bc046d;master:5194f33ae9edc0e99e0cb1a6ed62e41818886fa9;]|RELEASE:[none|none]
-atc1441/atc1441.github.io: BRANCHES:[main:ddca68b8afa66f5d6896fc1944e4361b6cfd4c43;]|RELEASE:[none|none]
+atc1441/atc1441.github.io: BRANCHES:[main:b09ca148a41d3a619c01838d4ac8fa7497801791;]|RELEASE:[none|none]
 atc1441/ATCmiBand8fw: BRANCHES:[main:931216a15337fa371f3a7d2de6dfb216a90093a4;]|RELEASE:[none|none]
 atc1441/ATCwatch: BRANCHES:[master:c03d7856e27884e257ae006f832aea2ac9509a13;]|RELEASE:[none|none]
 atc1441/ATC_BLE_OEPL_CH573: BRANCHES:[main:f0bfb3ed21b2abc3a13b52b26581e79c5ddbdb51;]|RELEASE:[none|none]
