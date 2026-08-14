@@ -4807,3 +4807,4 @@ atc1441/Action_104_Games_and_Pacman_DOOM: BRANCHES:[main:1e918f5ef0b1cba61c4c922
 kanoqwq/unisoc-android-openwrt-kvm: BRANCHES:[main:56aa92222ca3616eb03f508c7abef3570182b4ca;mu300-direct-br0:964938605b9553d807390960ca66b0f15614bf49;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panle-P4: BRANCHES:[master:b93e7e450bf8655f1b8692cab8fa35b7453488c7;]|RELEASE:[none|none]
 emqx/terraform-provider-emqxcloud: BRANCHES:[master:20b67e250a6f8047d68e5e8547da66185170ced0;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:9c33f4748f05760d916a8b7c76b898167c8b4345;]|RELEASE:[v0.1|none]
