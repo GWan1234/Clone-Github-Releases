@@ -4809,3 +4809,4 @@ Xinyuan-LilyGO/T-Panle-P4: BRANCHES:[master:b93e7e450bf8655f1b8692cab8fa35b74534
 emqx/terraform-provider-emqxcloud: BRANCHES:[master:20b67e250a6f8047d68e5e8547da66185170ced0;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:9c33f4748f05760d916a8b7c76b898167c8b4345;]|RELEASE:[v0.1|none]
 Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a0696800bbedd9d3d58596;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:d189abea99ee93234cf58a7c494c022c3d2a6d3e;]|RELEASE:[none|none]
