@@ -5614,3 +5614,4 @@ Seeed-Studio/linux-rockchip: BRANCHES:[rk-6.1-rkr5.1:e9dd0ea128a43ecf2c347a1e609
 Seeed-Studio/OSHW-reComputer-Qcom: BRANCHES:[main:642369a2a138fca124acaf7c0b2b997859e07941;]|RELEASE:[none|none]
 Seeed-Studio/how-to-vend-almost-anything: BRANCHES:[main:c674cec5f413b551baa5a154a6252a2467cc99f7;main-with-cursoragent-backup:e21887f7e06b153dafedd6789c2f268f9c24c27f;]|RELEASE:[none|none]
 Seeed-Studio/rockchip_sdk_tools: BRANCHES:[main:198a4ef7fb5a0026f11a65d893b00749e536b57b;]|RELEASE:[none|none]
+Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294b0e3c;]|RELEASE:[none|none]
