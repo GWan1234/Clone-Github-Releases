@@ -5605,3 +5605,4 @@ Seeed-Studio/reTerminal-D1001: BRANCHES:[main:5074d3b2f45626b261298e305aaf792036
 Seeed-Studio/Seeed-Tracker-T2000-For-LoRaWAN-Dev-Kit: BRANCHES:[main:fe022811d4825ffe8b45383b5203254e65b29aba;]|RELEASE:[none|none]
 Seeed-Studio/tracker_sx1262_t2000_bootloader: BRANCHES:[main:d51e7c248c489eab7f4a5202af01651a24e19589;]|RELEASE:[none|none]
 Seeed-Studio/kicad-mcp-server: BRANCHES:[feat/visualization:25dad7f8364645f7a526de1412a9fa9ee4a3da70;main:25dad7f8364645f7a526de1412a9fa9ee4a3da70;fix/audit-48bugs:7250a76d55f78584dab5cb11d8d77b0856238693;fix/issue-17-pcb-layout:a673678b666fe876ba27ea542bc212173056f277;]|RELEASE:[none|none]
+Seeed-Studio/reSpeaker_Clip: BRANCHES:[main:59011855042cc7877e877587ec6ee04165bd8ce7;feat/mobile-sensecraft-voice:5309c09a11fe77960e377681c334d0058fb7a402;throughput-test:27fb380df9e405bdd8cd2bfc05f1915ace8fada8;re-discharge:dd6f344041ed8630b7c77161667eb33294093196;]|RELEASE:[none|none]
