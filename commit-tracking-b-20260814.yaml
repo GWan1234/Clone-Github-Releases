@@ -4798,7 +4798,7 @@ FUjr/MoviePilot: BRANCHES:[v2:80e16cbbfa986ab1402cf6bbf04044424998b0ee;]|RELEASE
 FUjr/tvpn: BRANCHES:[main:9b23656d708ade5212b78c88e388e0089927a4dd;]|RELEASE:[none|none]
 Xinyuan-LilyGO/esp-claw: BRANCHES:[lilygo_t_connect_pro_s3:c5cafcc7dae85a934bb69db431c5bee8ea42bac8;master:9ba07d013329df480e34a1a59d1513ab783d8a52;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_NAU88L21: BRANCHES:[main:a7201d486249f9e7362f36a9c58c296a2d0a6f84;]|RELEASE:[1.0.0|none]
-MetaCubeX/zerotier-go: BRANCHES:[main:4216d2c19212ce888343b04792d8feaf82bf4676;]|RELEASE:[none|none]
+MetaCubeX/zerotier-go: BRANCHES:[main:13fa6f45da5f3a3753e93bebd6b32583f1b3f59d;]|RELEASE:[none|none]
 MetaCubeX/mipstack: BRANCHES:[master:189aceb10c32682a451e56bb84f7dab5697b09fb;]|RELEASE:[none|none]
 FUjr/matter-vacuum-bridge: BRANCHES:[main:01589288005477cfeef91f1b4ae7057786f0804c;]|RELEASE:[v0.2.0|01589288005477cfeef91f1b4ae7057786f0804c]
 Xinyuan-LilyGO/T-Glass-V3: BRANCHES:[master:31858fcb1d98cf547738d232c1039cfce90641c7;]|RELEASE:[none|none]
