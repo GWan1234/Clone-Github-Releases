@@ -2047,3 +2047,4 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[chore/repository-modernizat
 m5stack/M5PaperMono-UserDemo: BRANCHES:[main:c1099107271d31a0678d661a896e2b04dbb331ea;]|RELEASES:[]
 m5stack/M5PaperDIY-UserDemo: BRANCHES:[main:60a26f0ebccc656027bde413a0e9356aae5bb6e7;]|RELEASES:[]
 m5stack/M5Stamp-UWB: BRANCHES:[main:71d35e524a6f3e4a8874e498993166a01cc89244;dev-setup:a7c20534eebe9ebb60429cfe5080a3cc82fc84cc;]|RELEASES:[v0.1:71d35e524a6f3e4a8874e498993166a01cc89244:none;]
+m5stack/M5Unit-8Servos2-I2C: BRANCHES:[main:03646d5fea236d366893836c947491ed46c486ef;]|RELEASES:[v1.0.0:c80d3da0df42d964335735de0fcb13423a959e3b:none;v1.0.1:40c9ce7b88e98c4a60421425dfc1a9319dda7d9a:none;]
