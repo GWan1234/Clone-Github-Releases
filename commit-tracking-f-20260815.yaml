@@ -2046,3 +2046,4 @@ waveshareteam/RP2350-Touch-LCD-2.8C: BRANCHES:[main:8ddda1991d0841b2ad83d89826bc
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[chore/repository-modernization:84b01e23fb1827a562ced7b84b22a20ec5ed5300;main:b880b472421413f19520a6dbea9e8288ff9a5f62;]|RELEASES:[]
 m5stack/M5PaperMono-UserDemo: BRANCHES:[main:c1099107271d31a0678d661a896e2b04dbb331ea;]|RELEASES:[]
 m5stack/M5PaperDIY-UserDemo: BRANCHES:[main:60a26f0ebccc656027bde413a0e9356aae5bb6e7;]|RELEASES:[]
+m5stack/M5Stamp-UWB: BRANCHES:[main:71d35e524a6f3e4a8874e498993166a01cc89244;dev-setup:a7c20534eebe9ebb60429cfe5080a3cc82fc84cc;]|RELEASES:[v0.1:71d35e524a6f3e4a8874e498993166a01cc89244:none;]
