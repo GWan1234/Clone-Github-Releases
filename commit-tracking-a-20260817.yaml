@@ -579,7 +579,7 @@ thelastoutpostworkshop/arduino-maker-workshop: BRANCHES:[main:e3200321650ade9d8b
 thelastoutpostworkshop/arduino_wsl: BRANCHES:[main:f90627fcade9fbd9fd28fd1dfdc4c74be227600f;]|RELEASE:[none|none]
 thelastoutpostworkshop/ATXPowerSupply: BRANCHES:[main:5414efe252159810e670fbba949b570813dbfc20;]|RELEASE:[none|none]
 thelastoutpostworkshop/chatGPT_DALLE: BRANCHES:[main:6addce0496aa42c784b084581eb88bb875ada6e9;]|RELEASE:[none|none]
-thelastoutpostworkshop/curved_screen: BRANCHES:[main:2542df25f71920ec9130a9eff8c3daf71a790fec;]|RELEASE:[none|none]
+thelastoutpostworkshop/curved_screen: BRANCHES:[main:dd195e88bb6351d68c60f885a4f1f77a78a301ba;]|RELEASE:[none|none]
 thelastoutpostworkshop/curved_screen_ressources: BRANCHES:[main:710dd94c7f48305f087c2d52b767b3c94fc20e1e;]|RELEASE:[none|none]
 thelastoutpostworkshop/devops-directive-github-actions-course: BRANCHES:[main:246fa14788e28cc503441223030582c3ce477471;]|RELEASE:[none|none]
 thelastoutpostworkshop/DualEye_display: BRANCHES:[main:37b768bf8c4bfe4d76447519f566f3e1373241e0;]|RELEASE:[none|none]
