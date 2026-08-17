@@ -588,7 +588,7 @@ thelastoutpostworkshop/ESP32-C6-1_3_240x240_video_player: BRANCHES:[main:1eaea90
 thelastoutpostworkshop/ESP32-C6-LCD-1.47_LVGL9_Crypto_Monitor: BRANCHES:[main:c819ede369c6f8bcb019a7b3bf69f8dfd87c5478;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32-C6-LCD-1.47_video_player: BRANCHES:[main:26ededff8197e4ea816f91b09706cf099e823041;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32-S3_2_inch_240x320_video_player: BRANCHES:[main:6094be3e4f1ba62ebf846089e2426ed6b070e250;]|RELEASE:[none|none]
-thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player: BRANCHES:[main:406a03eb546e7579f2a447a7cd1093be73acb2bf;]|RELEASE:[none|none]
+thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player: BRANCHES:[main:d7d48415da0a9b71495090b52f1cc74804b8ab4e;]|RELEASE:[none|none]
 thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386322fe7c6823f06e26bc49a9585354df1c715;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32LCDRound240x240Eyes: BRANCHES:[main:cf4b8c28d294738e15ec559587854c378b632cfe;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32ManyRoundScreenTest: BRANCHES:[main:41a33d4db991c1ca73b3374e62a75b9548a040e3;]|RELEASE:[none|none]
