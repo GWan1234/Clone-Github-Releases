@@ -573,7 +573,7 @@ localsend/snap: BRANCHES:[main:8bb8f77a836df9d363eb37cd177e1d82d7944a5e;]|RELEAS
 localsend/web: BRANCHES:[main:ea5d55d34db2f21b84bf0ffe39d6342013b4ecd8;]|RELEASE:[none|none]
 thelastoutpostworkshop/AnimatedGIF340_240: BRANCHES:[main:959198e809226c05c0691d896332e89951eb20e5;]|RELEASE:[none|none]
 thelastoutpostworkshop/AnimatedGIF340_240_Push_Button: BRANCHES:[main:198e6ad5324a014c65e98d0c232189baf6618e03;]|RELEASE:[none|none]
-thelastoutpostworkshop/animated_gif_memory: BRANCHES:[main:10af69270a4d04dfc43341ea9266191673ea0ee0;]|RELEASE:[none|none]
+thelastoutpostworkshop/animated_gif_memory: BRANCHES:[main:fd94498cd7dce1e28c43a7abebc9f64854266a32;]|RELEASE:[none|none]
 thelastoutpostworkshop/animated_gif_sdcard_spiffs: BRANCHES:[main:c8b55475a8012305c762cbc36cdac5049a8e3836;]|RELEASE:[none|none]
 thelastoutpostworkshop/arduino-maker-workshop: BRANCHES:[main:5eb8871de2bd36ed4af73d0f3421d28bbf96b0c4;multiroot:e93d30db6cf716a2b5e6dc41ac25714d3402cfa4;]|RELEASE:[v1.1.9|none]
 thelastoutpostworkshop/arduino_wsl: BRANCHES:[main:f90627fcade9fbd9fd28fd1dfdc4c74be227600f;]|RELEASE:[none|none]
