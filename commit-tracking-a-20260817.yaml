@@ -593,7 +593,7 @@ thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386
 thelastoutpostworkshop/ESP32LCDRound240x240Eyes: BRANCHES:[main:0d987ac201cca626899565d2369dba2ce5fee24d;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32ManyRoundScreenTest: BRANCHES:[main:0dbb3db9049517a8d5885d00cab5acb3bee149c0;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESP32PartitionBuilder: BRANCHES:[main:0357172061ceed8e40a24056efccc3adefd7826a;gh-pages:f5e6477c34b7f5c459de2add01df5738240148a5;]|RELEASE:[v1.2.7|none]
-thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:49955e0c268cbb7de47d9f968cead72c3ee3986a;]|RELEASE:[none|none]
+thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:51c6a757a8d456d96146f4910b7464e95009e05c;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESPConnect: BRANCHES:[main:34d616eb0f0ba696a7dccc24f4a4e2376c9fbe97;gh-pages:358d67a87cba14569dd1a37ff2a8ee90ad5ccdac;runningFirwmare:d7f3d207eafb9c16bfe1b670d14e5b2d278130e4;feature:e3e41b45df0c1f5bf776456ca2e24c7b27cd4e64;]|RELEASE:[v1.1.19|none]
 thelastoutpostworkshop/FastDisplayPrototyping: BRANCHES:[main:e4ae407c3aec9dfbf0f484c4df831818d622b054;]|RELEASE:[v1.3.1|none]
 thelastoutpostworkshop/firmware-releases: BRANCHES:[main:f05bd562020121900acc75e6f41339e9d51835bb;]|RELEASE:[v1.0.0|none]
