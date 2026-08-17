@@ -604,7 +604,7 @@ thelastoutpostworkshop/images: BRANCHES:[main:2db3a5bc11654ffe3f74d93427e6e7071b
 thelastoutpostworkshop/JC4827W543_AnimatedGIF: BRANCHES:[main:912eff240878d29fc10696cc8cc7c511acf0f288;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_AnimatedGIF_pins_driven: BRANCHES:[main:1acd83845c68b27d8ea139158ab4e43b33259f5d;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_avi_player: BRANCHES:[main:40b01e7076e9e8bfecfa0cf835d47830b498e43d;]|RELEASE:[none|none]
-thelastoutpostworkshop/JC4827W543_LVGLv9: BRANCHES:[main:c2447f725f3b17060dc15d3c69b1d269272fd280;]|RELEASE:[none|none]
+thelastoutpostworkshop/JC4827W543_LVGLv9: BRANCHES:[main:3b5c9381fa603465d0d1145b70a8a24f9b53273a;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_radio_lvgl: BRANCHES:[main:b6fe1c50a8925e235ec9e0ce8af691539ba5d0d1;]|RELEASE:[none|none]
 thelastoutpostworkshop/JC4827W543_WifiAnalyzer: BRANCHES:[main:1ee6731191921a3048f023677b642e5e684d4a5f;]|RELEASE:[none|none]
 thelastoutpostworkshop/led_task: BRANCHES:[main:223dcca2cb7470a0763dda2126a21b43e104a894;]|RELEASE:[none|none]
