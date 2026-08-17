@@ -611,7 +611,7 @@ thelastoutpostworkshop/led_task: BRANCHES:[main:b81da717ece1206d5aa58efa27322b6b
 thelastoutpostworkshop/library-registry: BRANCHES:[patch-3:f1082562a1ce2947461f040d5b738adf6a2d6719;main:dcd1051d24ef36a7d06fbbc30b9c8983a43e2ae0;patch-2:f49bd57f7d6b35b4bde27b71e11542c8a6b16680;patch-1:a4aae801850ffb9b50765a3fbc8852805019ba7d;production:d5be92acaef48b840573acc5d5ca10fac1f8f4c7;]|RELEASE:[none|none]
 thelastoutpostworkshop/littlefs-fatfs-wasm: BRANCHES:[main:9e2edbbb2646c85144b369ed12f948315b9beacc;]|RELEASE:[none|none]
 thelastoutpostworkshop/microcontroller_devkit: BRANCHES:[main:5dec1e5b99cee547c9d06de694c7ee60c417c9e0;]|RELEASE:[none|none]
-thelastoutpostworkshop/mp3_busy_pin: BRANCHES:[main:5d00e8a4889ece33319eb19b2e8436d05d12f468;]|RELEASE:[none|none]
+thelastoutpostworkshop/mp3_busy_pin: BRANCHES:[main:379a25254d941664f0cdd135e7f7d3f56420d53f;]|RELEASE:[none|none]
 thelastoutpostworkshop/Mp3_Rotary: BRANCHES:[main:8c64654cbc02ce2033b201be7631f653ad71d0ce;]|RELEASE:[none|none]
 thelastoutpostworkshop/optical_illusions: BRANCHES:[main:fdc02545b4e659b0a4d44f7ebdc9b8c34b237f3f;]|RELEASE:[none|none]
 thelastoutpostworkshop/screenFrame: BRANCHES:[main:85b8434c6d9617953cdc7897956f56e852c55fe6;]|RELEASE:[none|none]
