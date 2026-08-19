@@ -4959,7 +4959,7 @@ DFRobot/WIAnode-examples: BRANCHES:[master:688c851a5dc3f976ed113e40ea3602e8abd70
 DFRobot/DFRobot_HumanPose: BRANCHES:[master:38fd279ef39b3a059dad8135c36ae626530284e2;]|RELEASE:[none|none]
 DFRobot/DFRobot_Biometric: BRANCHES:[main:f7f9c7a2c9c46111b1fef6bf30adf6a36307a3bf;]|RELEASE:[none|none]
 DFRobot/DFRobot_IntelligentGasSensor: BRANCHES:[official-main:153721a87b49939ac2a53249bcb96b1ccde33555;]|RELEASE:[none|none]
-DFRobot/seeMoteCube: BRANCHES:[master:6580f37d425dabf595a11ca4343955fc47c0eea0;]|RELEASE:[none|none]
+DFRobot/seeMoteCube: BRANCHES:[master:83f5b9d17503ac5d7dbcc3c911126de697b152b0;]|RELEASE:[none|none]
 OLIMEX/OLINUXINO: BRANCHES:[master:a8672538a650d3a1eb23c11fe9ef594229333232;]|RELEASE:[none|none]
 OLIMEX/DuinoMite: BRANCHES:[master:e06ca806e31253cb89f21cc075ef793b72ed3d65;]|RELEASE:[none|none]
 OLIMEX/STM32F4: BRANCHES:[master:47e87bc826042b833a0f38d230af9ac55e701d73;]|RELEASE:[none|none]
