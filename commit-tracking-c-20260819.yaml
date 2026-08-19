@@ -5623,3 +5623,4 @@ Joetooley28/tiny-tailscale: BRANCHES:[main:c974f809e90804a469d845b4296d4282ea3d9
 DFRobot/DFRobot_RK182x_Examples: BRANCHES:[master:6505906543f9cb261e2bd391e0c4cddf8744879a;]|RELEASE:[none|none]
 playbridgeapp/bridged-apps: BRANCHES:[main:dd07ea5ac223dc18472339387620a5116df2f5ec;]|RELEASE:[none|none]
 DFRobot/DFRobot_N20Motor: BRANCHES:[main:89376fe1411c03c8cc7e92c7a97919f08f3e3547;]|RELEASE:[none|none]
+DFRobot/DFRobot_N20SerialMotor: BRANCHES:[main:0fb44aca215ad82576dca4fa10c775fec94eb97e;]|RELEASE:[none|none]
