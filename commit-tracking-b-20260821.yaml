@@ -4812,3 +4812,4 @@ Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a069
 Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:d189abea99ee93234cf58a7c494c022c3d2a6d3e;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF9151: BRANCHES:[main:ed4ecbe34162dec9b81213a400198125bbd6e36f;]|RELEASE:[none|none]
 adafruit/invaders_pico: BRANCHES:[main:d7627067c039687051e24044757f898772ec676c;]|RELEASE:[v0.1.0|8add3f3ffc68f365e24bea24ddb17bdb452b6110]
+adafruit/Adafruit_Monster_Eyes: BRANCHES:[main:a17e14788090f80df68ce4db976bb23c3489e9e8;]|RELEASE:[none|none]
