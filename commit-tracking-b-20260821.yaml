@@ -4624,7 +4624,7 @@ MetaCubeX/yamux: BRANCHES:[master:dd5f17c0be4982ec3da70ef7bce61c4641bf7665;]|REL
 MetaCubeX/kcp-go: BRANCHES:[master:550693377604d7e25898a80a180b4c79cd452c24;meta-v5.6.61:550693377604d7e25898a80a180b4c79cd452c24;meta-v5.6.26:7455698490e9ddef28e874d43b13d6fd027a1628;]|RELEASE:[none|none]
 MetaCubeX/yq: BRANCHES:[master:7a29da06366b7cc6da9ba12d1a33d01afb722e5d;]|RELEASE:[none|none]
 MetaCubeX/miekg-dns: BRANCHES:[master:fdd01a247110935b60c13cf0a6e555a33e64cec5;]|RELEASE:[none|none]
-MetaCubeX/mldsa: BRANCHES:[main:c50847f8a589e1c4b956d73eabf997ccc8d393f2;]|RELEASE:[none|none]
+MetaCubeX/mldsa: BRANCHES:[main:a004d9de4b0d165d652db67916fc8aeb9b9ffe48;]|RELEASE:[none|none]
 MetaCubeX/qpack: BRANCHES:[master:941f36ab116d737da43f01fe7331603ffa13b539;]|RELEASE:[none|none]
 MetaCubeX/mlkem: BRANCHES:[main:d04222f054d18340238828f06f2c9c4ace16076d;]|RELEASE:[none|none]
 MetaCubeX/hkdf: BRANCHES:[main:af2b817d57f5f4d437b8d05335a5fe4acb74b939;]|RELEASE:[none|none]
