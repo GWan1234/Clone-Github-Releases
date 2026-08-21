@@ -3678,7 +3678,7 @@ Xinyuan-LilyGO/T8-S3: BRANCHES:[main:57486e1e09ba74802aaeff86bd89f1ffec37b79e;]|
 Xinyuan-LilyGO/T-Display-S3-Long: BRANCHES:[master:8e9d2623b3f6562972799e58f3a14b7ed99d80d8;T-Display-S3-Long-cst3530:37a7e83af79a98bb395012200f811777e52b9cfc;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Keyboard-S3: BRANCHES:[main:1caabdee628a270b9d34514200615ee513da5940;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-T-PicoPro: BRANCHES:[master:740bf4878e74e289641c46bb0fd6c1d256c5805d;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Panel: BRANCHES:[main:d01108b4b3a37598089c518157432a8dcc258dc8;arduino-esp32-libs_V2.0.14:46ec02ca7121dbcb83f22b41c50cbfecfc204de6;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Panel: BRANCHES:[main:80b6ce5eecd2c4cb3aaeac3408225c97a13b9b67;arduino-esp32-libs_V2.0.14:46ec02ca7121dbcb83f22b41c50cbfecfc204de6;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panel-Lite: BRANCHES:[main:0c8ee90d59f95b91b8e878646cf604dcd29cd0f6;arduino-esp32-libs_V2.0.14:232e21b8f205e5358e3f92b09d27f620039bc674;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-CameraPlus-S3: BRANCHES:[arduino-esp32-libs_V2.0.14:55764fa22a0dd2ea66715b2b5dc403a34569ba42;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-QT-C6: BRANCHES:[arduino-esp32-libs_V3.0.2:8a9776fe08f42450fee0fcb51efc721f69334601;]|RELEASE:[none|none]
