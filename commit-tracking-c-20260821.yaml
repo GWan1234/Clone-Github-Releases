@@ -5575,7 +5575,7 @@ DFRobot/ServoCds55: BRANCHES:[master:1c62b2e26747390f7ebf382ec531f944b1d0998a;]|
 Seeed-Studio/sscma-example-sg200x: BRANCHES:[main:c705d180571e11ff41cd56098c0d95734daff521;feature/halow:468a82de4227c6771166ef37ee84d4bf459856fb;feature/sensecraft-classify-dashboard:8e3e86e294c847ecd76c2764f0fff2dccb4fe9a5;yolo26:5f4f5eded9aefabb34304d5dc3f8ded5cd8fff3c;dev:f163bfb9140b1d45f1ee6aea0cfebb843d7d92ad;supervisor:ef854ff5253d917c9d1864e8dc0f1c38a086b2bd;feat/multi-model:c524bf5172ee4dafc27266917e3f586a59daefc3;]|RELEASE:[0.2.3|none]
 Seeed-Studio/OSHW-RPi-Series: BRANCHES:[main:d34f1e251d5a9f5fb5422dbc9cb491f1a544bdac;revert-19-main:e44aa1242c2f4a3e58cf7e573aeff3c3ec87fc7e;]|RELEASE:[none|none]
 Seeed-Studio/OSHW-Jetson-Series: BRANCHES:[main:44b9259f1c8769dadcaef576c8dec5e8310ae876;]|RELEASE:[none|none]
-Seeed-Studio/OSHW-reCamera-Series: BRANCHES:[main:55b56e2c0b0ee89e68fceb9b5e8fd70c3af42701;]|RELEASE:[none|none]
+Seeed-Studio/OSHW-reCamera-Series: BRANCHES:[main:b2de0db0f342badfb59d672750a9d7ab21450d81;]|RELEASE:[none|none]
 Seeed-Studio/ArduinoCore-renesas: BRANCHES:[main:75a2f26f88c814b583031996de2470354440e815;]|RELEASE:[none|none]
 Seeed-Studio/node-red-contrib-nodes: BRANCHES:[main:1815fd4670fed811a0a07abf55727f43983d827f;dev:deff5d43b9576767a573e4d0f7ed5fce181459c1;]|RELEASE:[v0.2.7|none]
 Seeed-Studio/SenseCAP-A1102: BRANCHES:[main:486385c5450c3e13a422b6a1cde079e90db759f9;new_a1102_test:dcbffe7fbea237f47797ae2fd6ff08f99025b106;test:1be1de3e6192250d0f2d1997b48c5cea2ec43de3;feat/ota:e43ab4097e3081107166e414966ff76eda1317d6;]|RELEASE:[none|none]
