@@ -2660,7 +2660,7 @@ adafruit/Adafruit_IS31FL3741: BRANCHES:[main:43fbdcf44e754df9ff432bfbbecc2dd65f6
 adafruit/Adafruit-NeoKey-1x4-PCB: BRANCHES:[main:54262bcfc402392ed569482824f7cf7e87473f18;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Ducky: BRANCHES:[main:e7eb69c069fc9d95fca2326b9691d87b7932cbed;docs_req_fixes:236ca0a6cc0aa90bd2e0227b99597420f0d18dc6;fix_rtd_theme:092f17f6a033c8aaef37a7d218f582e0149330a8;fix-example:dd0f94bcf005520b4c24ffbc8d466ad4cf62ad0f;]|RELEASE:[1.5.6|none]
 adafruit/Adafruit_CircuitPython_MacroPad: BRANCHES:[main:c3b6a690fa71af3bd39cfd157ea812e6e5d950ea;patch-fix:60f89abc185b6283fd2f507e57a417ac70c69cdc;linting:9a423cf45ac76ee730dfc88eea6eb223cff0ff96;]|RELEASE:[2.4.7|none]
-adafruit/ble-file-transfer-js: BRANCHES:[main:00ba77f602ee1c9888efaf0818c60591c57b7b95;]|RELEASE:[1.0.6|none]
+adafruit/ble-file-transfer-js: BRANCHES:[main:9f3cd08b370ca3407d25b1ff87d811fab1383701;]|RELEASE:[1.1.0|none]
 adafruit/Adafruit-MacroPad-RP2040-PCB: BRANCHES:[main:fdd7f2cb3bc2b3c7a9c0765780387647ea872141;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_Ticks: BRANCHES:[main:0b27bc3dad368b2cd6f18cb4faba3fcb41d54477;patch:4c5f81d4b1570a33bf7018e6610c64333e522d6f;fix-no-monotonic-ns:3fa7f7e6986e237ec75265fd3e0350eb2ab2f2a9;]|RELEASE:[1.1.7|none]
 adafruit/Adafruit-TCA4307-PCB: BRANCHES:[main:5b71f3b8aa3b892fa96e2a7e8e102f69f4f75ee1;]|RELEASE:[none|none]
