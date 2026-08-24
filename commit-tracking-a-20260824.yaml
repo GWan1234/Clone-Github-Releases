@@ -7659,4 +7659,4 @@ syb999/packages-24.10.8: BRANCHES:[master:9be256ab7fc3f462b6ba0531b4b1d08412e57b
 yifengyou/MAXVISION_RK3568: BRANCHES:[master:6dc959bc29dc2eb584a97018a7326ce926758c96;]|RELEASE:[none|none]
 yifengyou/MAXVISION_RK3568-uboot: BRANCHES:[maxvision-rk3568:2b80dc6141481dcff048e7c78212c41eaa647e87;next-dev:bcca2e78e2a9c9cc7e635222fab3ee585f33599a;]|RELEASE:[MAXVISION_RK3588_UBOOT|none]
 anzhiyu-c/xiaoyu-dao: BRANCHES:[main:389622c1e882046cdca1c8a12b371209ae067ada;]|RELEASE:[none|none]
-syb999/TVBox: BRANCHES:[heads/main:65dc4e3b6cf13d8714290873187ae492d71c7881;]|RELEASE:[main|none]
+syb999/TVBox: BRANCHES:[heads/main:fda1cc04977c3ae70b6ebae1fa6bdadf9fa1ec3d;]|RELEASE:[TVBox|none]
