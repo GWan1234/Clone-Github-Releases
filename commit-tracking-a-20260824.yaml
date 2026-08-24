@@ -569,7 +569,7 @@ localsend/winget-pkgs: BRANCHES:[master:087b8520cdbffe717d64f9a73d5344b0b93d5f80
 localsend/homebrew-localsend: BRANCHES:[main:4c2534b9c3632f3e270fb8de2f963ab95649dd30;]|RELEASE:[none|none]
 localsend/mtls-example: BRANCHES:[main:ea33543da83b0c2722e56e97e428674a77c77820;]|RELEASE:[none|none]
 localsend/permission_handler_windows_noop: BRANCHES:[main:2dadd8afbf81e0e3e4791d7144e689555e58f649;]|RELEASE:[none|none]
-localsend/snap: BRANCHES:[main:8bb8f77a836df9d363eb37cd177e1d82d7944a5e;]|RELEASE:[none|none]
+localsend/snap: BRANCHES:[main:77fe5f9c9ea4e0caf9d46773f72d3cbf40edd032;]|RELEASE:[none|none]
 localsend/web: BRANCHES:[main:4c48233f14f4918ef9129f27098640af25598986;]|RELEASE:[none|none]
 thelastoutpostworkshop/AnimatedGIF340_240: BRANCHES:[main:959198e809226c05c0691d896332e89951eb20e5;]|RELEASE:[none|none]
 thelastoutpostworkshop/AnimatedGIF340_240_Push_Button: BRANCHES:[main:198e6ad5324a014c65e98d0c232189baf6618e03;]|RELEASE:[none|none]
