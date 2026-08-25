@@ -2054,3 +2054,4 @@ waveshareteam/ESP32-C6-LCD-1.28: BRANCHES:[main:6859f1967c8b35dec39521ac37ba605d
 waveshareteam/ESP32-C6-Touch-LCD-1.28: BRANCHES:[main:d73e23c8c85663e7eefb758ded50967c8ebfaee5;]|RELEASES:[]
 m5stack/M5Faces: BRANCHES:[main:28188e1820113a2caf1c21b3a948f574f3e535fe;]|RELEASES:[M5Faces:28188e1820113a2caf1c21b3a948f574f3e535fe:none;]
 m5stack/M5PaperMono-OTP-Demo: BRANCHES:[main:c7c02554f89fd06f80d988b805b2a59050c78a46;]|RELEASES:[]
+waveshareteam/1.54inch_e-Paper_E: BRANCHES:[main:829a7afd0c251e3b9f86211b05b32885c9e11de4;]|RELEASES:[]
