@@ -7661,3 +7661,4 @@ yifengyou/MAXVISION_RK3568-uboot: BRANCHES:[maxvision-rk3568:2b80dc6141481dcff04
 anzhiyu-c/xiaoyu-dao: BRANCHES:[main:389622c1e882046cdca1c8a12b371209ae067ada;]|RELEASE:[none|none]
 syb999/TVBox: BRANCHES:[heads/main:fda1cc04977c3ae70b6ebae1fa6bdadf9fa1ec3d;]|RELEASE:[TVBox|none]
 yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[bdy-g98-emmc:b287ad633b8454752bf792381f1d849bd3fe58e3;bdy-g98-spi:b287ad633b8454752bf792381f1d849bd3fe58e3;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[none|none]
+ioBroker/aggregate: BRANCHES:[main:e99ac916fff4f7e1192111745799e75bea45f2b2;]|RELEASE:[none|none]
