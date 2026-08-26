@@ -5628,3 +5628,4 @@ playbridgeapp/libmpv-darwin-build: BRANCHES:[bump-modern-mpv:247c4b273342458e5b7
 playbridgeapp/libmpv-win32-video-build: BRANCHES:[master:e8ba31e925b697da4e15cb9ba18713724098a287;version:1bcaec8512fde263befaf47432ac59302b56a66d;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMV080_Gravity: BRANCHES:[master:2cc4409fe4d1c7c349f24c9e9265b7d3b4ae1673;]|RELEASE:[none|none]
 Seeed-Studio/balena-seeed-rockchip: BRANCHES:[master:d575cfbf777a49bdf60906766ccdad66d7c18707;migration/scarthgap-v8:d575cfbf777a49bdf60906766ccdad66d7c18707;legacy/v6.0.33:6c86515011a8c26700b5ad0a00f2ef4c9ea8db41;]|RELEASE:[none|none]
+playbridgeapp/libmpv-win32-video-cmake: BRANCHES:[master:86206615393f0c10c1fc7e65c895cd44ceacece9;]|RELEASE:[none|none]
