@@ -3722,7 +3722,7 @@ Xinyuan-LilyGO/LilyGoLib-PlatformIO: BRANCHES:[master:df59195707a9684d829a41d665
 Xinyuan-LilyGO/LilyGoLib-ThirdParty: BRANCHES:[master:c8e6de3b4684df60101569cfe8ead8adbbb79643;]|RELEASE:[V0.2.0|none]
 Xinyuan-LilyGO/T-Display-P4: BRANCHES:[main:91e84b9489e9f67b215a4ace0817e0c7c74a0c7f;v1:8702aebac18829bc9189f3c78f73576b80f78c77;v1-debug-lr2021:b86d7bc69d9730fbed700af69a38f941ea153aaf;debug2:99513ec57cb96b464eab14f3972aa3948d2beeac;debug:0f743d618f61421f67e0fa55507f0b9d2d50fca6;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-Modem-Series-MicroPython: BRANCHES:[main:72a9cc294953369329c87a7be941e87fbed75f44;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-2Can: BRANCHES:[main:92cfed8a91f984733acd07b503b2ef3736af3452;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-2Can: BRANCHES:[main:c7191c6fa8c3d422d5adc25afbe64dc868be2dfc;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-Bar: BRANCHES:[master:74d042e1a10ac685ade1f16f522e2a5e7bd5af6e;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGO-Mini-Epaper-S3: BRANCHES:[main:a2a3d1ed4a89e07fef0da4b6454289c0775fd4bf;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Impulse-Plus: BRANCHES:[main:1f4062cb310f07482c81c3bf816e119fd54a94f1;]|RELEASE:[none|none]
