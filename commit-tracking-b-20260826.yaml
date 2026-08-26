@@ -1185,7 +1185,7 @@ unifreq/linux-5.18.y: BRANCHES:[main:2b7e24a04044b1fb0df8d864a88db76047bd038b;]|
 unifreq/linux-5.19.y: BRANCHES:[main:570e2eacd87876ebaab125f5d3c082f49e9fca9f;]|RELEASE:[none|none]
 unifreq/linux-5.4.y: BRANCHES:[main:a108d794f70c376534eaaf1264881d6989a27785;]|RELEASE:[none|none]
 unifreq/linux-6.0.y: BRANCHES:[main:1f09a2f946f1c195d11ae4442cd97e1885460aa3;]|RELEASE:[none|none]
-unifreq/linux-6.1.y: BRANCHES:[main:e2b5ad19ebe5756fd3447f45dbc71b8d87e4a30d;]|RELEASE:[none|none]
+unifreq/linux-6.1.y: BRANCHES:[main:c564f3b271f68d2742003bad944d9b8b417a81cf;]|RELEASE:[none|none]
 unifreq/linux-6.1.y-rockchip: BRANCHES:[main:d23a73288291970bb74fb51b24df05b68a4ccdba;]|RELEASE:[v2608a|none]
 unifreq/linux-6.12.y: BRANCHES:[main:95bf2bb7871b877d7aee84314dea31f0159b100b;]|RELEASE:[none|none]
 unifreq/linux-6.18.y: BRANCHES:[main:48c936da47ed5bac86505c0c3eb5cd5651dbbe61;]|RELEASE:[none|none]
