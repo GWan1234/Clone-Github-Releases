@@ -1649,7 +1649,7 @@ waveshareteam/ESP32-S3-Touch-LCD-3.5B: BRANCHES:[main:840daf2df7cb6b1f023fafc435
 waveshareteam/ESP32-C6-Touch-LCD-1.54: BRANCHES:[main:a4f92a91d0c94100a2bd16ce36d5f83652ad1f3b;]|RELEASES:[]
 waveshareteam/CM5-IO-WIRELESS-BASE: BRANCHES:[master:b6fd62ef0e5e90d97024fc1a6f1fb8539cf12fa5;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-3.49-V2: BRANCHES:[main:1c157e6e8e68b89fd4dc400f46bf1724cb64a57e;]|RELEASES:[]
-waveshareteam/ESP32-S3-Touch-LCD-7C: BRANCHES:[main:98618ce7e3154cd2f77051288e144008632bbd85;]|RELEASES:[]
+waveshareteam/ESP32-S3-Touch-LCD-7C: BRANCHES:[main:73f8b90df1c684858e0c351afca3a09f5b96bdac;]|RELEASES:[]
 waveshareteam/RP2350-Zero-CM: BRANCHES:[main:fd66fd7e9106a4de42d5f1a4dc42938b4aa9ac59;]|RELEASES:[]
 waveshareteam/esp32-c5-lcd-1.47: BRANCHES:[main:7436758a7ea0c2cd9aa9f6db4e1d96ce8c4bc951;codex/fix-artifact-repo-detection:fd6994477193a5645e31c7a3abad9a77b0915cbd;codex/optimize-arduino-firmware-size:03f6d6694de99dbe45bd1bdc5b81c9b7fdb7205c;dev:62e3795a4f28a047a48d87379219c95cea705127;dependabot/github_actions/actions/checkout-7.0.1:3434afe66d3285ba0963aef967700c400227e6fd;dependabot/github_actions/actions/download-artifact-8.0.1:802819f39cb4b4ec9468b998e42e3a3b695eaef6;dependabot/github_actions/actions/upload-artifact-7.0.1:5fd2ca986cc735b6b3bfd5a14662a4b0994ff3ee;]|RELEASES:[v1.0.0:abce6b3dc4a72b1277714a3709b2f9ca15518234:2026-08-14T09:23:57Z;v1.0.1:6e955df5db41277f74a2f01b39d8e18e670c7cd6:2026-08-15T02:38:57Z;v1.0.2:5067f45611bfca92ae50a1d090fee65d7efd6cf5:2026-08-15T08:23:35Z;]
 waveshareteam/ESP32-C5-Touch-LCD-2.8: BRANCHES:[main:0492053fe91b486886f1c04d90f5dd4f1de030b1;]|RELEASES:[]
