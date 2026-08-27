@@ -2058,3 +2058,4 @@ waveshareteam/1.54inch_e-Paper_E: BRANCHES:[main:829a7afd0c251e3b9f86211b05b3288
 waveshareteam/ESP32-C5-MINI-KIT: BRANCHES:[main:9eb18f4282e2e464b34b911ed6ba63cf28f22c9f;]|RELEASES:[]
 m5stack/AtomS3R-CAM-UserDemo: BRANCHES:[AtomS3R-CAM:cb37528514bc0ee5617e8f095f72a166fa0ac11d;AtomS3R-M12:78fa44f4ac67aadab41cc89ce05914b0b5924c24;]|RELEASES:[]
 waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30;]|RELEASES:[]
+waveshareteam/board-atlas: BRANCHES:[main:ae6649b63f185c201e2ef51afee10dbfbb0487e1;]|RELEASES:[]
