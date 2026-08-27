@@ -2043,7 +2043,7 @@ HelTecAutomation/RadioCore_Library: BRANCHES:[main:cff5d89e9e78ec506334bc0512fee
 waveshareteam/codex-meter: BRANCHES:[main:7c6db73b923ce842ca4746ca735220ed9794d5e7;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.64-v2: BRANCHES:[main:21b952243d306692774f3b5bfeb3eb5cff10f851;]|RELEASES:[]
 waveshareteam/RP2350-Touch-LCD-2.8C: BRANCHES:[main:8ddda1991d0841b2ad83d89826bc6cba51e8ab49;]|RELEASES:[]
-waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[main:5a7a9a2823d77983c15b44a72934a7699e5d2d8b;chore/repository-modernization:23e4256ddac6d394a1c694bc3e5a18fb9f91c8ee;]|RELEASES:[]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[fix/mipi-dsi-revision-clock:99916fa46e3f0c4113ebfd9400230bf91bc727fb;main:5a7a9a2823d77983c15b44a72934a7699e5d2d8b;chore/repository-modernization:23e4256ddac6d394a1c694bc3e5a18fb9f91c8ee;]|RELEASES:[]
 m5stack/M5PaperMono-UserDemo: BRANCHES:[main:c1099107271d31a0678d661a896e2b04dbb331ea;]|RELEASES:[]
 m5stack/M5PaperDIY-UserDemo: BRANCHES:[main:60a26f0ebccc656027bde413a0e9356aae5bb6e7;]|RELEASES:[]
 m5stack/M5Stamp-UWB: BRANCHES:[main:9110fb29e37fbb97e01e540fc7b5d10ba6edee1c;dev-setup:59f0826414899140a19e23c387e2f40cde800b24;]|RELEASES:[v0.1:71d35e524a6f3e4a8874e498993166a01cc89244:none;v0.1.1:9110fb29e37fbb97e01e540fc7b5d10ba6edee1c:none;]
