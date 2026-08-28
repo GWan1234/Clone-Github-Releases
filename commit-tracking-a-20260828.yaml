@@ -352,7 +352,7 @@ ioBroker/ioBroker.vis-2-widgets-gauges: BRANCHES:[dependabot/github_actions/acti
 ioBroker/ioBroker.vis-2-widgets-energy: BRANCHES:[main:0d783cba8a54febcd6d28a4055c1524eede8aa4b;]|RELEASE:[v2.0.1|5ad4f21749a5c1d475eb17c27e9851f9e974189a]
 ioBroker/jsonltool: BRANCHES:[main:f989e7909df5272fc5490879243cb3082c0415df;]|RELEASE:[none|none]
 ioBroker/legacy-testing: BRANCHES:[main:d0b26fd8c85403c98d0650fc548daf0d26155260;]|RELEASE:[v3.0.1|c7e388bdbf0ceb7a58246dd784b1ba680ffcbf23]
-ioBroker/modbus-templates: BRANCHES:[main:6b2b3355a82a77d7a0f4712f1a16620b2da80e38;]|RELEASE:[none|none]
+ioBroker/modbus-templates: BRANCHES:[main:e8bb4505449732630280e634e4d9554a6c260569;]|RELEASE:[none|none]
 ioBroker/ioBroker.vis-2-widgets-jaeger-design: BRANCHES:[main:9238bd62585db0a810517e3848ae8fa70de51435;update-readme-video-links:ed3f4546bf1211062cbbc4590afb04bd75aec2e7;]|RELEASE:[none|none]
 ioBroker/.github: BRANCHES:[main:17482f27b3ef04286bd436a07fd4558ddce8df94;]|RELEASE:[none|none]
 ioBroker/dm-utils: BRANCHES:[main:e777c78ba68fc4c877976dc12f0ea05db9bca78e;incremental-loading:ae5b5a51ac897b900dd912602ef9fc81104f6511;generate-common:882d8ceac0bf7dd5af030afa8d001835efe18478;add-controls:c5b5517fb896132777d698eafd68e631c6b24229;extend-device-info:79d958a4be9c569000eb0aed37ee9ce7b7d2a8b2;]|RELEASE:[v3.2.0|e0dc05d2fa6e4f525f60dd18453d743ef4e9e103]
