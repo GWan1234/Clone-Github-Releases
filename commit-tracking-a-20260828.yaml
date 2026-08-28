@@ -7650,7 +7650,7 @@ Joetooley28/tiny-tailscale: BRANCHES:[main:c974f809e90804a469d845b4296d4282ea3d9
 DFRobot/seeMoteCube: BRANCHES:[master:6580f37d425dabf595a11ca4343955fc47c0eea0;]|RELEASE:[none|none]
 AlistGo/alist-registry: BRANCHES:[main:fc55ae3e51655801d262935d6eebf1eeaf3b59e9;]|RELEASE:[demo-plugin-v1|none]
 yifengyou/BDY_G98_RK3588-uboot: BRANCHES:[kdev-g98-spi:c34a188ada7eaeb5dd8096a19e53b5a8a162e223;kdev-g98-emmc:88a0b9d5b21fad64f1e4b896bead215cd857facb;kdev:4723b3afecf63d1f8c0ac0566359ece62e0a8236;master:c95ecb1990068c2a41887eb3aaa6338d24e33887;]|RELEASE:[bdy-g98-uboot|none]
-ioBroker/ioBroker.assistant: BRANCHES:[main:1e34208c8fcaaf12c8e4d66deb66f591c9642f69;]|RELEASE:[v0.1.5|1e34208c8fcaaf12c8e4d66deb66f591c9642f69]
+ioBroker/ioBroker.assistant: BRANCHES:[main:6d79b6d64c928022f9a14576c2675d9ea1c57c2a;]|RELEASE:[v0.1.6|6d79b6d64c928022f9a14576c2675d9ea1c57c2a]
 dailook/luci-app-glfancontrol: BRANCHES:[main:4a1ff6c940df896e5fc42c6590d5f92d3c9fc192;]|RELEASE:[none|none]
 AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd;]|RELEASE:[alist-v3.63.0|none]
 syb999/openwrt-24.10.8: BRANCHES:[master:e59441ea5d45a30cf565e917e1a9b34588131446;]|RELEASE:[none|none]
