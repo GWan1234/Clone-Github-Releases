@@ -4819,3 +4819,4 @@ openwrt/rebuilder: BRANCHES:[dependabot/uv/mypy-gte-2.3.0:53b655f579d3ac34ad755b
 emqx/enats_client: BRANCHES:[fix/nats-protocol-reliability:675cc9162dc2032284cf54749191c495c479ab52;fix/concurrent-flush-waiters:245720f7f8373ce10b9d8d3a7e4621b8bd3f9ad9;feat/tls-handshake-modes:ad819ae0957ca5422b8d0b6a383d6fd3842f75b8;fix/infinity-request-timeout:529bfc31db763cf0471f997dee82661548d1598a;main:340fe12343e65570db504fb3138af2bba9a737b3;]|RELEASE:[none|none]
 emqx/ThingLoom: BRANCHES:[main:ce6d024295ff281551afbfa0031fc661afeec835;]|RELEASE:[none|none]
 xyzroe/filebrowser: BRANCHES:[master:976b1f4492f7dc2f8193c942d652f5aa74cfef41;]|RELEASE:[none|none]
+emqx/thing-loom: BRANCHES:[main:31820dbf8c9a9c6adf8292e687f814e5dd94ff39;]|RELEASE:[none|none]
