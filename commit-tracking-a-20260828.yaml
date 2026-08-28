@@ -7664,3 +7664,4 @@ yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[bdy-g98-emmc-recovery:b89306611e5ac88
 ioBroker/aggregate: BRANCHES:[main:f891d66e4d3066ed2585ea26a70da7784d13d32b;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
 ioBroker/iobroker-python: BRANCHES:[main:53323e96271a29214eaeafe141df4145ff7e22e9;]|RELEASE:[v0.1.1|none]
 ioBroker/ioBroker.py-controller: BRANCHES:[main:4d75ae32d0d076041487058986b1bf2a6a118aec;]|RELEASE:[none|none]
+algerkong/dsh-image-preview: BRANCHES:[main:2dcc8c86bb43b8512c8a41e8615eccb3b02a175c;]|RELEASE:[v0.3.1|none]
