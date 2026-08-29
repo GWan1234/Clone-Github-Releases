@@ -4934,7 +4934,7 @@ DFRobot/DFRobot_SerialMP3: BRANCHES:[master:223d380c63fa8f3a7cc60b27b29d7f9be36e
 DFRobot/onnx2kmodel: BRANCHES:[master:c65fff701058ca8db3e0ac9e94b0568edb1e184e;dev:a7f326b8112da0c5ea7e07d21d5b68f2c2084669;]|RELEASE:[v1.0|none]
 DFRobot/LoRaWAN_Tool: BRANCHES:[master:145cb3f38907af3490445567e00805da1d57eb81;]|RELEASE:[v1.0.1|145cb3f38907af3490445567e00805da1d57eb81]
 DFRobot/DFRobot_BMP58X: BRANCHES:[master:b83afc1a647fa0b2295008f82a013720ada4b999;]|RELEASE:[none|none]
-DFRobot/mindplus2-docs-en: BRANCHES:[dev-xy:995ccb68faec4c924700004fb104a756ce1e66a0;master:102c433b4d111acad9e5a14c68af873d7eeb94bd;dev:3bf166dc707965f67d11d1f026dc5da8f127aaf3;]|RELEASE:[none|none]
+DFRobot/mindplus2-docs-en: BRANCHES:[dev-xy:ae93f7fc21ba706585866a29ab238b43fad13650;master:102c433b4d111acad9e5a14c68af873d7eeb94bd;dev:3bf166dc707965f67d11d1f026dc5da8f127aaf3;]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_HuskyLensV2: BRANCHES:[master:5d141b65f5452618345aa101ec20cf334aa610e5;]|RELEASE:[v1.1.7|none]
 DFRobot/DFRobot_RTK_4G: BRANCHES:[master:defbb6fba420dd68fd70b7ff9ba917dd9d8a6e3d;]|RELEASE:[none|none]
 DFRobot/DFRobot_HuskylensV2_MQTT: BRANCHES:[dev:73e97049dc950669fb4c47d5892b41e0eaf48741;master:c9aa35e31906c20a45c168b88d1813a29b9fdec6;]|RELEASE:[v1.2.1|none]
