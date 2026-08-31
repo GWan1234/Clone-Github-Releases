@@ -7663,5 +7663,5 @@ syb999/TVBox: BRANCHES:[heads/main:fda1cc04977c3ae70b6ebae1fa6bdadf9fa1ec3d;]|RE
 yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:c5c5fd632e7df2629d0630d95a41b3ddc6389351;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[bdy-g98-recovery|none]
 ioBroker/aggregate: BRANCHES:[main:f891d66e4d3066ed2585ea26a70da7784d13d32b;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
 ioBroker/iobroker-python: BRANCHES:[main:0c1a72b51890a16a774a83fdf8bda1b5a1d03e97;]|RELEASE:[v0.5.0|none]
-ioBroker/ioBroker.py-controller: BRANCHES:[main:4d75ae32d0d076041487058986b1bf2a6a118aec;]|RELEASE:[none|none]
+ioBroker/ioBroker.py-controller: BRANCHES:[main:edc60362908334239b54f3dc33f1ff0089a99c21;]|RELEASE:[none|none]
 algerkong/dsh-image-preview: BRANCHES:[main:2dcc8c86bb43b8512c8a41e8615eccb3b02a175c;]|RELEASE:[v0.3.1|none]
