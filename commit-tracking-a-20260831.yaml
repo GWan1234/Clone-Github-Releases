@@ -4995,7 +4995,7 @@ SmartRouterZone/WAX206: BRANCHES:[v24.10.0:9cfe00f3854c21f5b5cafefc4cc2ea5ff884f
 SmartRouterZone/CLX-S20P: BRANCHES:[merge-24.10:ffa376d5ad1c0c1cb2e56a68c8e9ebe5cd0734cd;24.10-mtk-k6.6:83b799ddbde7d3a10145a09f17b4267e65e97236;master:c29153b8b3b0ef4fc4a3a59fcbb81338ae524db4;21.02-mtk-k5.4:88bc0c5273af70159e6d25981c0a5c6dced201ea;]|RELEASE:[20260801|none]
 SmartRouterZone/.github: BRANCHES:[main:c06f575a892d38b2c847048eca8ef82ab39c88c2;]|RELEASE:[none|none]
 SmartRouterZone/bl-mt798x-dhcpd: BRANCHES:[master:7492a8c81769b4143ab7f0eae736248b3c1fb06b;]|RELEASE:[none|none]
-SmartRouterZone/luci-app-tproxy: BRANCHES:[main:eb485ca8d3a5816538e54023ca7da21845edc32f;]|RELEASE:[none|none]
+SmartRouterZone/luci-app-tproxy: BRANCHES:[main:38bd758383021e78ae19d186f2c8da4f3e7a16bd;]|RELEASE:[none|none]
 algerkong/EPD-nRF5_DYC: BRANCHES:[Tmp:6878f56528150a79118407c286a4ff8e800047f0;]|RELEASE:[none|none]
 DFRobot/Fritzing-library: BRANCHES:[master:2ccdf815b9f27a18691d0466167e074001b76391;gh-pages:1153c46d21c85c8e99c123336c3abd49b164d75d;]|RELEASE:[none|none]
 DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2;]|RELEASE:[none|none]
