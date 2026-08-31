@@ -5623,7 +5623,7 @@ Joetooley28/tiny-tailscale: BRANCHES:[main:c974f809e90804a469d845b4296d4282ea3d9
 DFRobot/DFRobot_RK182x_Examples: BRANCHES:[master:6505906543f9cb261e2bd391e0c4cddf8744879a;]|RELEASE:[none|none]
 playbridgeapp/bridged-apps: BRANCHES:[feat/jellyfin-skip-preplay:19323e8396b3f39c798a5468e725e693ce5d7421;main:dd07ea5ac223dc18472339387620a5116df2f5ec;]|RELEASE:[none|none]
 DFRobot/DFRobot_N20Motor: BRANCHES:[main:89376fe1411c03c8cc7e92c7a97919f08f3e3547;]|RELEASE:[none|none]
-DFRobot/DFRobot_N20SerialMotor: BRANCHES:[main:0fb44aca215ad82576dca4fa10c775fec94eb97e;]|RELEASE:[none|none]
+DFRobot/DFRobot_N20SerialMotor: BRANCHES:[main:34ae522f1051de5f5711b7cea6152c4537897c0b;]|RELEASE:[none|none]
 playbridgeapp/libmpv-darwin-build: BRANCHES:[bump-modern-mpv:247c4b273342458e5b7271361380730035ca6949;main:b4e3ce98826cd4a28f6121b29f56ea203346e6e3;doc-nix-install:1a7833f8e34cdc528c3c8021bb09e65be53bb0a8;version-via-make-var:374b23bf4ed8586be0cefca5ec4c7b2b7429fccf;update-ci:9e3e18ea82dc0c5158280a00f2f6fc231534acbc;improve-xcode-overlay:44f2a58b24aabb89c2b55d63544894cc7817c1cb;feat/add-xcframework:92d0215a45a5b8e31e67a45a29da179933293f8c;fix/darwin-libs:dbe9bdd1f24ab05f738360333f8144b3454113f6;]|RELEASE:[libmpv-libs-v0.7.1-playbridge.1|none]
 playbridgeapp/libmpv-win32-video-build: BRANCHES:[master:e8ba31e925b697da4e15cb9ba18713724098a287;version:1bcaec8512fde263befaf47432ac59302b56a66d;]|RELEASE:[none|none]
 DFRobot/DFRobot_BMV080_Gravity: BRANCHES:[master:2cc4409fe4d1c7c349f24c9e9265b7d3b4ae1673;]|RELEASE:[none|none]
