@@ -1537,7 +1537,7 @@ waveshareteam/Waveshare-DSI-LCD: BRANCHES:[main:0d3dcd2aa4eb65a46c98240baf326641
 waveshareteam/Power-Management-HAT-B: BRANCHES:[main:5a0187336d11e2fb77e854619a1319b63c68e47e;]|RELEASES:[]
 waveshareteam/RoArm-M1: BRANCHES:[main:03c8c4797b01eef0df1c6cde37c97ceb6cbe3bba;]|RELEASES:[]
 waveshareteam/RP2040-Touch-LCD-1.28: BRANCHES:[main:5f28bf9d543f040f8cff6cce9229cabf0e08bcf5;]|RELEASES:[]
-waveshareteam/linux: BRANCHES:[revert-3-waveshare-dsi:c126911bdc4f1a9963c2cfab36a2500e2c58b562;waveshare-dsi:63338cb9fd5a66e00cc7f49e66b7fedd666db262;rpi-6.18.y:825dba6c63eeb40a62699d1f8a4aa3f02b0eaf49;]|RELEASES:[]
+waveshareteam/linux: BRANCHES:[waveshare-dsi:d6d4ebeb0d730e7dc5316a79e901fe3495ad8726;revert-3-waveshare-dsi:c126911bdc4f1a9963c2cfab36a2500e2c58b562;rpi-6.18.y:825dba6c63eeb40a62699d1f8a4aa3f02b0eaf49;]|RELEASES:[]
 waveshareteam/linux_6.1: BRANCHES:[rpi-6.1.y:c0169f2c197d005aff8acfbc618de6e7f6b1ab94;]|RELEASES:[]
 waveshareteam/ugv_rpi: BRANCHES:[refactor/debian12-2025.10.01-py3.11:ddde8bfa48fe7e2d06e70b2930b1ed6179ab9640;HexArth/debian12-2025.10.01-py3.11:974b4234d66e178475611fdf7919397cf793251a;support/debian12-2025.10.1-py3.11:1054a5c13bee43daefc16d4329cfdd9f61460b53;main:3ae9f203f61bfaaf123ee376f78247d007880b0c;]|RELEASES:[]
 waveshareteam/ugv_base_ros: BRANCHES:[main:2e7df97c331ff63e1481afb34feec52014a3632a;]|RELEASES:[]
