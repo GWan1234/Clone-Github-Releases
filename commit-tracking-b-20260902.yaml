@@ -4806,7 +4806,7 @@ emqx/fdbexporter: BRANCHES:[main:1c4b1413eca7e67de8687dfd5a00baa0c9de51a2;]|RELE
 atc1441/Action_104_Games_and_Pacman_DOOM: BRANCHES:[main:7c4d5a95364888753fba4409065816408015d537;]|RELEASE:[v1.0.2|none]
 kanoqwq/unisoc-android-openwrt-kvm: BRANCHES:[main:56aa92222ca3616eb03f508c7abef3570182b4ca;mu300-direct-br0:964938605b9553d807390960ca66b0f15614bf49;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panle-P4: BRANCHES:[master:b93e7e450bf8655f1b8692cab8fa35b7453488c7;]|RELEASE:[none|none]
-emqx/terraform-provider-emqxcloud: BRANCHES:[dependabot/github_actions/codeql-action-a10aefb1c3:4fb1790911fc1a9859f1aa6bce2ebaa3958130bc;master:0335b04f137ad0aba8ee1019ce4d7a91da0aa281;]|RELEASE:[v0.1.0|0335b04f137ad0aba8ee1019ce4d7a91da0aa281]
+emqx/terraform-provider-emqxcloud: BRANCHES:[dependabot/go_modules/google.golang.org/grpc-1.83.1:3604fd574528cbcdb07256c1c85630b90a7d79de;dependabot/github_actions/codeql-action-f1ba23a83b:c97e18b8ea4dabdf37e6e78022d29af19ef4b9f5;t/source:d676421d6f9402a88a2370244cc5b89e3ed38615;master:0335b04f137ad0aba8ee1019ce4d7a91da0aa281;]|RELEASE:[v0.1.0|0335b04f137ad0aba8ee1019ce4d7a91da0aa281]
 Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:d03068ed3b71dde2789b283a0df2c00500bfc0b4;]|RELEASE:[v0.2.2|d03068ed3b71dde2789b283a0df2c00500bfc0b4]
 Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a0696800bbedd9d3d58596;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:4646a728580739d487126f47a521e9b8032b3c2c;]|RELEASE:[none|none]
