@@ -7669,3 +7669,4 @@ ioBroker/ioBroker.pyexample: BRANCHES:[main:2e54c14e67d3d649ac426c1da44cd203d4cb
 OpenListTeam/tg_bot: BRANCHES:[main:82ca1ea2fe08ebceaff90229061ca4b6bc7a903f;]|RELEASE:[none|none]
 OpenListTeam/verification_go: BRANCHES:[main:0f8c4ea2ea9e40085497e0588091ac69d5162bef;]|RELEASE:[none|none]
 dailook/luci-app-mtk-easymesh: BRANCHES:[main:233a6abadd4208852a15184516ce245fddb0584b;]|RELEASE:[none|none]
+OpenListTeam/OpenList-Worker-Next: BRANCHES:[main:f71bbfe1ba57973e89c3523f51222643e3be72ce;1223:3cb1c40676d4b5ac56ace26446ffb5fdfa71ec9a;]|RELEASE:[none|none]
