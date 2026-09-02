@@ -3978,7 +3978,7 @@ emqx/mcp-typescript-sdk: BRANCHES:[main:d76783839383b2dab035406440644c8e2df66f7b
 emqx/flink-emqx-connector: BRANCHES:[main:285d52056f7d0ec8083852fa81fd92bd403c412e;]|RELEASE:[none|none]
 emqx/emqx-on-gke: BRANCHES:[master:fdf66a44c65948a271ac1d3610d92e67b57301c2;]|RELEASE:[none|none]
 emqx/ecp-builder: BRANCHES:[fix/tags:b202b673cb2f8a4bd09e7d221d5b6359f2972e4a;2.7.1/aliyun:3e231fa7033bab01674ee33905325e26bbeadf4b;main:8e19ae71ea23c040095547aa6c255486d90246d1;develop:a445a2c5b5d7250c220d270232df44d818695c49;]|RELEASE:[none|none]
-emqx/neuronex-builder: BRANCHES:[main:d64fc3ee0f2baec2b954feb3bb41660e60cb6c32;3.9-custom:b79c116a3ffb24d99836f918448f7a6735ab45ba;3.7-custom:316a99f869ac674f124d6174b1f30cae11ba1baa;3.9:fe5881897ce7308133118ff5432cc02bf968f14a;develop:f63db7cf1d49b85e82d1147b47080f1087749d08;3.6-custom:4fc15061bc487a4d1b359ed9f2e3a00c5f90639a;]|RELEASE:[3.9.3|none]
+emqx/neuronex-builder: BRANCHES:[main:97a4bcb963fddd747b91d8c308530b2ff36414ac;3.9-custom:b79c116a3ffb24d99836f918448f7a6735ab45ba;3.7-custom:316a99f869ac674f124d6174b1f30cae11ba1baa;3.9:fe5881897ce7308133118ff5432cc02bf968f14a;develop:f63db7cf1d49b85e82d1147b47080f1087749d08;3.6-custom:4fc15061bc487a4d1b359ed9f2e3a00c5f90639a;]|RELEASE:[3.9.3|none]
 emqx/emqx_mcp_bridge: BRANCHES:[main:0badb2097337b8687c373b2fb6464aaf9d81d2ab;session-life-time:94561d1f8126b87ac933d0e80b34f547f94f9caa;]|RELEASE:[1.0.15|0badb2097337b8687c373b2fb6464aaf9d81d2ab]
 emqx/emqx-on-k8s-argocd: BRANCHES:[master:bd6375e051c52285a376bb507c1961a9fe586a0a;]|RELEASE:[none|none]
 emqx/greptimedb-ingester-erlnif: BRANCHES:[main:7db8f428856d726c55420886930fb9e96da75820;]|RELEASE:[0.1.12|none]
