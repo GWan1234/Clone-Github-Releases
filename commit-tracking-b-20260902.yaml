@@ -4796,7 +4796,7 @@ Xinyuan-LilyGO/lilygo-linux-dtoverlays: BRANCHES:[master:6f293e88735a7625f1a6677
 adafruit/TE_EP2350_Config_Tool: BRANCHES:[main:1a1d3dedc07bd533bce4615661c088f8305ecff1;]|RELEASE:[none|none]
 FUjr/MoviePilot: BRANCHES:[v2:80e16cbbfa986ab1402cf6bbf04044424998b0ee;]|RELEASE:[none|none]
 FUjr/tvpn: BRANCHES:[main:9b23656d708ade5212b78c88e388e0089927a4dd;]|RELEASE:[none|none]
-Xinyuan-LilyGO/esp-claw: BRANCHES:[lilygo_t_connect_pro_s3:c5cafcc7dae85a934bb69db431c5bee8ea42bac8;master:9ba07d013329df480e34a1a59d1513ab783d8a52;]|RELEASE:[none|none]
+Xinyuan-LilyGO/esp-claw: BRANCHES:[lilygo_t_connect_pro_s3:20acd05d755918dea8cf1ac98222e71e6324748d;master:9ba07d013329df480e34a1a59d1513ab783d8a52;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_NAU88L21: BRANCHES:[main:a7201d486249f9e7362f36a9c58c296a2d0a6f84;]|RELEASE:[1.0.1|none]
 MetaCubeX/zerotier-go: BRANCHES:[main:13fa6f45da5f3a3753e93bebd6b32583f1b3f59d;]|RELEASE:[none|none]
 MetaCubeX/mipstack: BRANCHES:[master:dc187ebcbdc79efba1985524f332c3c286392cb5;]|RELEASE:[none|none]
