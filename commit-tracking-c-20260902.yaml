@@ -4444,7 +4444,7 @@ emqx/classy: BRANCHES:[dev/nonblocking-run-levels:75538e1de137a81fb06ad9cca63091
 adafruit/Adafruit_CircuitPython_AY8912_Emulator: BRANCHES:[main:2aaa89a13cf7ada8313d6e65c51f877cc5a9468c;]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_AY8912: BRANCHES:[main:160a766b65465d6a5de239213ca06b7d18b9146f;]|RELEASE:[1.0.0|none]
 iamromulan/qttyforge: BRANCHES:[main:1aafe04b2a4daa717c1d6533a7c7b17a2926ea2c;]|RELEASE:[none|none]
-home-assistant/installer: BRANCHES:[main:be765092eac47357252a4f9beb9ae945df338f49;renovate/typescript-7.x:bb319dbd2a55cb23be568682a9a8aff132421f40;justanotherariel-udisks2:1843fb3d4f6a8d943d710a1132d03623e29bd451;]|RELEASE:[none|none]
+home-assistant/installer: BRANCHES:[justanotherariel-udisks2:a589d2f68b701203acb8e3cc6196c842d97dc970;main:ea1e02a22786b01a09c5fa4508c58a824d01dabe;justanotherariel-playwright-ci:44d0587aba4a574f4c41c32ca7e91083b97d045a;renovate/typescript-7.x:bb319dbd2a55cb23be568682a9a8aff132421f40;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Keyboard-S3-Library: BRANCHES:[master:01fe10143af60ee91d6cba12491725a8f756fce9;]|RELEASE:[none|none]
 emqx/emqx-streams-demo: BRANCHES:[master:afe13c99a7ad61812d7e5aa75ce2e82023cf78b8;]|RELEASE:[none|none]
 martin-ger/adafruit_guide_fft: BRANCHES:[master:b8dd0cf7e3a2946ae3c605c0440032115b221228;serial_close:a34b9dbec1182f303c3020262b880432210f14e0;]|RELEASE:[none|none]
