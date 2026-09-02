@@ -7660,7 +7660,7 @@ yifengyou/MAXVISION_RK3568: BRANCHES:[master:6dc959bc29dc2eb584a97018a7326ce9267
 yifengyou/MAXVISION_RK3568-uboot: BRANCHES:[maxvision-rk3568:2b80dc6141481dcff048e7c78212c41eaa647e87;next-dev:bcca2e78e2a9c9cc7e635222fab3ee585f33599a;]|RELEASE:[MAXVISION_RK3588_UBOOT|none]
 anzhiyu-c/xiaoyu-dao: BRANCHES:[main:389622c1e882046cdca1c8a12b371209ae067ada;]|RELEASE:[none|none]
 syb999/TVBox: BRANCHES:[heads/main:fda1cc04977c3ae70b6ebae1fa6bdadf9fa1ec3d;]|RELEASE:[TVBox|none]
-yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:c8b23df9baa193decac649a1de6e499191e952cb;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[bdy-g98-recovery|none]
+yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:50f73bdfa5d764634a56e07e3a55fff77d89d13e;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[bdy-g98-recovery_20260824|none]
 ioBroker/aggregate: BRANCHES:[main:f891d66e4d3066ed2585ea26a70da7784d13d32b;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
 ioBroker/iobroker-python: BRANCHES:[main:0c1a72b51890a16a774a83fdf8bda1b5a1d03e97;]|RELEASE:[v0.5.0|none]
 ioBroker/ioBroker.py-controller: BRANCHES:[main:edc60362908334239b54f3dc33f1ff0089a99c21;]|RELEASE:[none|none]
