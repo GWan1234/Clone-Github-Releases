@@ -4750,7 +4750,7 @@ pvvx/MinEspSDKLib: BRANCHES:[master:6e88ca8008d01fc66a9b4e71a2b5302c6241c577;]|R
 pvvx/mp3_decode: BRANCHES:[master:c62af5da583660c94b55257855dbd0ccb1617be2;]|RELEASE:[none|none]
 pvvx/PHY62x2: BRANCHES:[master:cb04fe3c0b8f34865acd65184686c38361f6bab8;]|RELEASE:[none|none]
 pvvx/PowerProfiler_pcm1802: BRANCHES:[master:210bf151668f2a68d150be60f9de016526f66f8a;]|RELEASE:[none|none]
-pvvx/pvvx.github.io: BRANCHES:[master:d03eb4c895dfcf5a268afaacd3ccc9c60c40f80a;]|RELEASE:[none|none]
+pvvx/pvvx.github.io: BRANCHES:[master:70a32e97b3dfc9b231438a4bfe514eaea72888d7;]|RELEASE:[none|none]
 pvvx/Rapid_Loader: BRANCHES:[master:ca6342b2486c994e3f942327beff08b183fa3bdd;]|RELEASE:[none|none]
 pvvx/RTL00ConsoleROM: BRANCHES:[master:de0aeef96397faf2200c0c31d4465dbc0e4c79db;]|RELEASE:[none|none]
 pvvx/RTL00MP3: BRANCHES:[master:6c9b7e160816e1d330bef177aef281224ff66e5b;]|RELEASE:[none|none]
