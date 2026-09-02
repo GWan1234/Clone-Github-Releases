@@ -134,7 +134,7 @@ esphome/deployments: BRANCHES:[dependabot/github_actions/actions/checkout-7.0.0:
 esphome/dashboard-api: BRANCHES:[dependabot/github_actions/github-actions-199a73fd86:60e674c06ff63b6b709122e840370af5d2f2de74;main:dc3a53cb70768e2699555e25761e9ebe5f908f62;]|RELEASE:[1.4.0|none]
 esphome/ESPAsyncTCP: BRANCHES:[main:27d5661e6877699de21e256262e537475170a9ba;pin-action-shas:7c48dbc52618fce3a3022eb136a739c0a512c585;]|RELEASE:[none|none]
 esphome/component-image-generator: BRANCHES:[main:a5a3be12459d71094d703d038db9efc489bd7753;]|RELEASE:[v1.0.0|none]
-esphome/developers.esphome.io: BRANCHES:[main:cb07fba01b58b2664b139cb1aacf57feb84af392;jesserockz-2026-520:ce3434f164a61e10bfe9986e24fe5d59f01ee664;external-docs:58276b198dc7f7540f83819f8f8e0d3b32394c7a;image-defaults:78216f9f35639c99611de5cec8f02479faab71b9;glmnet-doc-components:e405cf06f9d00dbab069d80e300f68c12bf4d849;20250401-copy-fixes:26c848d68273387dc9f014958c89734818d4a122;]|RELEASE:[none|none]
+esphome/developers.esphome.io: BRANCHES:[main:8fb6f9af95a6579e4aff163afcbe4048df748ee2;external-docs:58276b198dc7f7540f83819f8f8e0d3b32394c7a;image-defaults:78216f9f35639c99611de5cec8f02479faab71b9;glmnet-doc-components:e405cf06f9d00dbab069d80e300f68c12bf4d849;20250401-copy-fixes:26c848d68273387dc9f014958c89734818d4a122;]|RELEASE:[none|none]
 esphome/micro-wake-word-models: BRANCHES:[main:05b65922cc433c9df13e98e32a7fe520758c837e;]|RELEASE:[none|none]
 esphome/data.esphome.io: BRANCHES:[main:b6845fccb6b5c92b839ef12409f486af59cfc99d;]|RELEASE:[none|none]
 esphome/.github: BRANCHES:[main:c556d00629569f29fa2b9293a2ee3b2ec9c8df1f;]|RELEASE:[none|none]
