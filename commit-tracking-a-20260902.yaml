@@ -4974,7 +4974,7 @@ dailook/immortalwrt-24.10: BRANCHES:[openwrt-24.10:b2a878c411084917b42800525ed2b
 dailook/immortalwrt-mt798x: BRANCHES:[openwrt-21.02:3a35815705448b4dd8e56507ee6009d0a7dd4af6;]|RELEASE:[none|none]
 dailook/immortalwrt-mt798x-6.6: BRANCHES:[2410:d39cdc44de0a906b6eed4472bdd273dbd5a26f24;mt798x-mt799x-6.6-mtwifi:30fbc1d6deba23c0e850185021e9ee42214925eb;sync-237-6.6:ec9ef10efc65da1e6d1de4e2c043c0e13d08eed8;openwrt-24.10-6.6:a320a353413d2040c510f244aaca0cffbaf9a695;24.10.6:4d3d25baa06dc5a24703fcfda57aa340ae3eaed0;24.10-5.4-high_kernel:4b75bfd812343ef88549bee5ffa440988b242dc1;openwrt-23.05:ec388f343491085cdf32da506da071cf022fb7d7;]|RELEASE:[none|none]
 dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12-dev-wifi7:1b6fa75ca02aa7a7dd6d0b6c68865f16eef5ae0f;25.12:3fdf8c56c66874558f3efad6a8efb8c040442eb6;rework-24.10:36086c1fd1dab71c19dc1409ca632f3d5c18f4fc;rework-21.02:4f07b582334bc7dcbf8e396087c949b155ce4582;]|RELEASE:[none|none]
-dailook/lede: BRANCHES:[master:d45599b9a9f46b7e4a1791ffbf007b8c9ad2448f;]|RELEASE:[none|none]
+dailook/lede: BRANCHES:[master:63fe018ab0e16a003382b684ea6ffb8445b351b5;]|RELEASE:[none|none]
 dailook/luci-app-adguardhome: BRANCHES:[main:36108202f326f65ab6f5a85d15adcba6538f8e8b;]|RELEASE:[none|none]
 dailook/luci-app-airoha-npu: BRANCHES:[main:0dacf6afd1cdfe9e36047886d87d0d48d6dfd331;]|RELEASE:[none|none]
 dailook/luci-app-easytier: BRANCHES:[main:bfaeeac084b3e48a5e6c5bb72b711f631e70cc0a;]|RELEASE:[none|none]
