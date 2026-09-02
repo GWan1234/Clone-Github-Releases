@@ -7666,6 +7666,6 @@ ioBroker/iobroker-python: BRANCHES:[main:0c1a72b51890a16a774a83fdf8bda1b5a1d03e9
 ioBroker/ioBroker.py-controller: BRANCHES:[main:edc60362908334239b54f3dc33f1ff0089a99c21;]|RELEASE:[none|none]
 algerkong/dsh-image-preview: BRANCHES:[main:2dcc8c86bb43b8512c8a41e8615eccb3b02a175c;]|RELEASE:[v0.3.1|none]
 ioBroker/ioBroker.pyexample: BRANCHES:[main:2e54c14e67d3d649ac426c1da44cd203d4cb8a01;]|RELEASE:[none|none]
-OpenListTeam/tg_bot: BRANCHES:[main:297289edddee02e15032e4024274865757d3d968;]|RELEASE:[none|none]
+OpenListTeam/tg_bot: BRANCHES:[main:82ca1ea2fe08ebceaff90229061ca4b6bc7a903f;]|RELEASE:[none|none]
 OpenListTeam/verification_go: BRANCHES:[main:ca206a5b18e871cfd93d33b91bd5c4e9f0e15e30;]|RELEASE:[none|none]
 dailook/luci-app-mtk-easymesh: BRANCHES:[main:233a6abadd4208852a15184516ce245fddb0584b;]|RELEASE:[none|none]
