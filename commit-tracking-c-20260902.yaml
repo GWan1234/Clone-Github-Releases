@@ -3260,7 +3260,7 @@ home-assistant/github-issue-maker: BRANCHES:[master:4a8756cacd2bb979b44bf52404de
 home-assistant/ada: BRANCHES:[master:72dbf9fdd0006149ab8f247780375d03dd71e5b5;]|RELEASE:[0.8.1|none]
 home-assistant/operating-system-blobs: BRANCHES:[frenck/add-ai-policy:21791164450218b592e2ef9d1ade3ad16bd6711c;master:f17a8e81e0b7e1bd2475441465cc737c0891edfa;]|RELEASE:[none|none]
 home-assistant/plugin-audio: BRANCHES:[master:6ac971fa452f353bfde8c897d6862ba5eb74c0b4;]|RELEASE:[2026.08.0|none]
-home-assistant/brands: BRANCHES:[master:670c1e006b959dbf0c8ae9ceb219c241990358e1;map_tiles:3515680f2546eeb9d352594ad0f21481ad6bfbe4;add-marantz-rs232-brand:52bd8469bbe927f6e26b8649be120f3d50facec7;claude/add-task-workflow-form-n96IV:bb2ee7bd523a271301c22afa70ec8b1886171453;add-task-workflow-and-issue-form:1c7aa6752749b6f86801fc583ed760d0b0a5313d;input_weekday:0cc44c2dc46424ac6f8e62c54710f7d90f1ec227;]|RELEASE:[none|none]
+home-assistant/brands: BRANCHES:[master:2751989265f1e13fa596dbdec9363b7bed0f0f48;add-marantz-rs232-brand:52bd8469bbe927f6e26b8649be120f3d50facec7;claude/add-task-workflow-form-n96IV:bb2ee7bd523a271301c22afa70ec8b1886171453;add-task-workflow-and-issue-form:1c7aa6752749b6f86801fc583ed760d0b0a5313d;input_weekday:0cc44c2dc46424ac6f8e62c54710f7d90f1ec227;]|RELEASE:[none|none]
 home-assistant/plugin-multicast: BRANCHES:[master:b3a00d947f22bb6e21b38f1c0a327c742b24d0fc;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01;]|RELEASE:[2026.08.0|none]
 home-assistant/wheels-scipy: BRANCHES:[master:46ff221a202dc970e11eff7ae3781b9ea71dcbe1;]|RELEASE:[0.1.0|none]
 home-assistant/plugin-observer: BRANCHES:[master:aadd23ef7b298af366123e1830261ad3994a1ca2;]|RELEASE:[2026.08.0|none]
