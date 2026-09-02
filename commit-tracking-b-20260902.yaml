@@ -1197,7 +1197,7 @@ unifreq/luci: BRANCHES:[master:a817b8800dba5712a4d201a2d1ec9080e947be83;]|RELEAS
 unifreq/luci-app-oled: BRANCHES:[master:55912e415ee4ee6a82e65ccfe189894165991758;]|RELEASE:[none|none]
 unifreq/luci-app-sms-tool: BRANCHES:[master:04971d67c8fd05febd87a89b3a064db020c0e413;]|RELEASE:[none|none]
 unifreq/mpp: BRANCHES:[develop:37145900a208d5ca6eb2adbb0f9bab5d52f38270;]|RELEASE:[none|none]
-unifreq/openwrt_packit: BRANCHES:[master:e88d776ced23ff1c36a193aa4bf80011ec29aeea;]|RELEASE:[none|none]
+unifreq/openwrt_packit: BRANCHES:[master:a46b4f5d201ab99eba0ddc7c2e7cd67412fc3d5c;]|RELEASE:[none|none]
 unifreq/packages: BRANCHES:[master:da8a3b6feda61cf2421ead9481666004d8e32b90;]|RELEASE:[none|none]
 unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|RELEASE:[none|none]
 unifreq/rk-ubuntu-build: BRANCHES:[main:0686927b0255fa8c9530fd7ac92ba3749ff81499;]|RELEASE:[radxa-rock-4d-spi-release|none]
