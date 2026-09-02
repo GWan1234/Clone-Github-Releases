@@ -7649,7 +7649,7 @@ Joetooley28/qmanager-casa-cfw3212-package: BRANCHES:[main:9dbff377b4fc5c6f1404fb
 Joetooley28/tiny-tailscale: BRANCHES:[main:c974f809e90804a469d845b4296d4282ea3d9b84;]|RELEASE:[v1.98.10|none]
 DFRobot/seeMoteCube: BRANCHES:[master:6580f37d425dabf595a11ca4343955fc47c0eea0;]|RELEASE:[none|none]
 AlistGo/alist-registry: BRANCHES:[main:fc55ae3e51655801d262935d6eebf1eeaf3b59e9;]|RELEASE:[demo-plugin-v1|none]
-yifengyou/BDY_G98_RK3588-uboot: BRANCHES:[kdev:887613b547d94dea97b89b59d01eba53a08fb118;master:c95ecb1990068c2a41887eb3aaa6338d24e33887;]|RELEASE:[bdy-g98-uboot|none]
+yifengyou/BDY_G98_RK3588-uboot: BRANCHES:[kdev:69214b12cf164b7b31310b22962bb49de31cff68;master:c95ecb1990068c2a41887eb3aaa6338d24e33887;]|RELEASE:[bdy-g98-uboot|none]
 ioBroker/ioBroker.assistant: BRANCHES:[main:6d79b6d64c928022f9a14576c2675d9ea1c57c2a;]|RELEASE:[v0.1.6|6d79b6d64c928022f9a14576c2675d9ea1c57c2a]
 dailook/luci-app-glfancontrol: BRANCHES:[main:4a1ff6c940df896e5fc42c6590d5f92d3c9fc192;]|RELEASE:[none|none]
 AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd;]|RELEASE:[alist-v3.63.0|none]
