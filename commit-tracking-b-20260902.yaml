@@ -4811,7 +4811,7 @@ Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:d03068ed3b71dde2789b283a0df2c00500
 Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a0696800bbedd9d3d58596;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:4646a728580739d487126f47a521e9b8032b3c2c;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF9151: BRANCHES:[main:ed4ecbe34162dec9b81213a400198125bbd6e36f;]|RELEASE:[none|none]
-adafruit/invaders_pico: BRANCHES:[main:d7627067c039687051e24044757f898772ec676c;]|RELEASE:[v0.1.0|8add3f3ffc68f365e24bea24ddb17bdb452b6110]
+adafruit/invaders_pico: BRANCHES:[main:2bf61ec4fd1e5254aeda9595fb273f89587a2290;]|RELEASE:[v0.1.0|8add3f3ffc68f365e24bea24ddb17bdb452b6110]
 adafruit/Adafruit_Monster_Eyes: BRANCHES:[gh-pages:29a5396beee110e48e2475b411148acc4762322c;main:2fff95f99d5159818258adbd9dde590fb9b10ac7;]|RELEASE:[1.1.0|none]
 adafruit/Adafruit-GP8403-Breakout-Board-PCB: BRANCHES:[main:e1326df4fb03b1c9efe779644eaa711c6aadbcd8;]|RELEASE:[none|none]
 MetaCubeX/x509: BRANCHES:[master:dcfc83d21b62e433bb756f90c08119f9742b19ec;]|RELEASE:[none|none]
