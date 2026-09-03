@@ -1909,7 +1909,7 @@ m5stack/M5Tab5-Keyboard-Internal-FW: BRANCHES:[main:bbfd579182563e63acd867333e61
 m5stack/M5Unit-Fingerprint2-Internal-FW: BRANCHES:[main:6723eb45095497163465fe5f9ce87fc5950e711a;]|RELEASES:[]
 m5stack/M5StamPLC-IO-Internal-FW: BRANCHES:[main:6b6044120fe89a07e2b6f4c8b7bb0861b63ddde0;]|RELEASES:[]
 m5stack/M5StickC-Plus-SE-Factory: BRANCHES:[main:1b24c43905c0c74b5f83b9668117a01ffdd7fee6;]|RELEASES:[]
-sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX: BRANCHES:[main:313d3e2c03218f00eb5fb051d5594f05c95abecf;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX: BRANCHES:[main:313d3e2c03218f00eb5fb051d5594f05c95abecf;]|RELEASES:[v1.0.0:313d3e2c03218f00eb5fb051d5594f05c95abecf:none;]
 waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:bf1c51a12a6d819b7d27ab42c12c62d4be176b04;]|RELEASES:[]
 waveshareteam/ESP32-C6-LCD-2.73: BRANCHES:[main:37ce1624301b200fb0e7027a752aa7ddb10a1515;]|RELEASES:[]
 waveshareteam/ESP32-S3-Touch-LCD-7: BRANCHES:[main:bc51a84b30c0cea018fee6e0d7427ec10102060e;]|RELEASES:[]
