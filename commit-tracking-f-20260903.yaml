@@ -2062,3 +2062,4 @@ waveshareteam/board-atlas: BRANCHES:[main:ae6649b63f185c201e2ef51afee10dbfbb0487
 sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953: BRANCHES:[main:c6da41abbbce7757ce15fb2b6ec921475de1214d;]|RELEASES:[v1.0.0:c6da41abbbce7757ce15fb2b6ec921475de1214d:none;]
 waveshareteam/Thermal-ESP32-Demo: BRANCHES:[main:607901ca53d3d05131894f8d0a9e853db4c27bc1;]|RELEASES:[]
 sparkfun/SparkFun_ADE7953_Arduino_Library: BRANCHES:[main:9a026847a51c16580a48a3c3ee0ac72d01bc61c6;development:9eecf564b42bebe8a2e5e66478a281c8275ca333;]|RELEASES:[v1.0.0:cec41f24b9bdab6effe671812f567a52c06ce7c7:none;]
+sparkfun/SparkFun_INA2XX_Arduino_Library: BRANCHES:[main:c9007d6f5232ff4cedc5b39144ee429c99cf4901;development:fc4c01982feb88f6e6aaa34fe05704ec5e9de25f;]|RELEASES:[v1.0.0:e0489238e82041b51b53fb5f573ee7b0b5916866:none;]
