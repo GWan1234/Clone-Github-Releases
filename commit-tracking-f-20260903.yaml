@@ -1050,7 +1050,7 @@ sparkfun/SparkFun_OpenScale_IoT_Binaries: BRANCHES:[main:b126a5ec9f530f7983fdb7a
 sparkfun/SparkFun_LG290P_Flash_Tool: BRANCHES:[main:400248795f912675a5ea7cd40aaa95f71518232e;]|RELEASES:[v0.0.1:400248795f912675a5ea7cd40aaa95f71518232e:2026-02-24T23:30:44Z;]
 sparkfun/SparkFun_GNSS_HLA: BRANCHES:[main:beceac86165bc674edeca322b25fa05af056e867;release_candidate:beceac86165bc674edeca322b25fa05af056e867;]|RELEASES:[v1.0.0:beceac86165bc674edeca322b25fa05af056e867:none;]
 sparkfun/arduino-esp32: BRANCHES:[master:2a569868e88d1cb133ed32f0ea731deedc723abc;]|RELEASES:[]
-sparkfun/SparkFun_SSD168x_I2C_Interface_Library: BRANCHES:[release_candidate:9e901a018859a815f32486f3f6d2bcd7dd6b8b64;main:0e3c1a66aa9d1097e2d14e74ee4d6bb65cfff6eb;]|RELEASES:[v1.0.0:0e3c1a66aa9d1097e2d14e74ee4d6bb65cfff6eb:none;]
+sparkfun/SparkFun_SSD168x_I2C_Interface_Library: BRANCHES:[main:6ad9f38ecd58ba31a9e1e96ed630e527e89162a3;release_candidate:53d7b579b7c7b99b1695eda2ce13036e5e3e2ed1;]|RELEASES:[v1.0.0:0e3c1a66aa9d1097e2d14e74ee4d6bb65cfff6eb:none;v1.0.1:6ad9f38ecd58ba31a9e1e96ed630e527e89162a3:none;]
 sparkfun/SparkFun_STM32CubeCLT: BRANCHES:[main:7548c21494412e63b8283270b8831d7ff34fcc09;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_DAC_MCP4725: BRANCHES:[main:c30a43e73336937f9e71cb3a0a6a7e099a615832;]|RELEASES:[v1.0.0:c30a43e73336937f9e71cb3a0a6a7e099a615832:none;]
 sparkfun/SparkFun_Arduino_Library_HowTo: BRANCHES:[main:4b1f615c405689f7507bd7075efbf27ed1cec302;]|RELEASES:[v0.0.1:814d0bae8dbc66b0a95f7491c4f4c1ff133eb4d9:none;]
