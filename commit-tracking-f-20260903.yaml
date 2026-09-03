@@ -2059,5 +2059,5 @@ waveshareteam/ESP32-C5-MINI-KIT: BRANCHES:[main:9eb18f4282e2e464b34b911ed6ba63cf
 m5stack/AtomS3R-CAM-UserDemo: BRANCHES:[AtomS3R-CAM:8effad452356b276d9732ead4740c38df1d2af2e;AtomS3R-M12:78fa44f4ac67aadab41cc89ce05914b0b5924c24;]|RELEASES:[]
 waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30;]|RELEASES:[]
 waveshareteam/board-atlas: BRANCHES:[main:ae6649b63f185c201e2ef51afee10dbfbb0487e1;]|RELEASES:[]
-sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953: BRANCHES:[main:913d973e984bab95d25ddb221fe9491cd01ebd39;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953: BRANCHES:[main:c6da41abbbce7757ce15fb2b6ec921475de1214d;]|RELEASES:[v1.0.0:c6da41abbbce7757ce15fb2b6ec921475de1214d:none;]
 waveshareteam/Thermal-ESP32-Demo: BRANCHES:[main:607901ca53d3d05131894f8d0a9e853db4c27bc1;]|RELEASES:[]
