@@ -5631,3 +5631,4 @@ Seeed-Studio/balena-seeed-rockchip: BRANCHES:[migration/wrynose:b2c28a65b722d3e1
 playbridgeapp/libmpv-win32-video-cmake: BRANCHES:[master:86206615393f0c10c1fc7e65c895cd44ceacece9;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_GFX2: BRANCHES:[main:77fc09bee45362e1bdf204c43d618aa525c3470b;]|RELEASE:[none|none]
 rednblkx/aliro_ccc_core: BRANCHES:[main:e1a11ccf3c15b967dbe52d2f575d32279af99b92;]|RELEASE:[none|none]
+rednblkx/aliro_ccc_esp: BRANCHES:[main:5def2cc44caed2f0ebc67012f0f9d22c1a1e36d5;]|RELEASE:[none|none]
