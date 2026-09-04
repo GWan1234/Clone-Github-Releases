@@ -4812,7 +4812,7 @@ Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a069
 Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:4646a728580739d487126f47a521e9b8032b3c2c;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF9151: BRANCHES:[main:ed4ecbe34162dec9b81213a400198125bbd6e36f;]|RELEASE:[none|none]
 adafruit/invaders_pico: BRANCHES:[main:2bf61ec4fd1e5254aeda9595fb273f89587a2290;]|RELEASE:[v0.1.0|8add3f3ffc68f365e24bea24ddb17bdb452b6110]
-adafruit/Adafruit_Monster_Eyes: BRANCHES:[gh-pages:29a5396beee110e48e2475b411148acc4762322c;main:2fff95f99d5159818258adbd9dde590fb9b10ac7;]|RELEASE:[1.1.0|none]
+adafruit/Adafruit_Monster_Eyes: BRANCHES:[main:5bca84f8ba7a6057e398c3294dcbf492f5db32ce;gh-pages:29a5396beee110e48e2475b411148acc4762322c;]|RELEASE:[1.1.1|none]
 adafruit/Adafruit-GP8403-Breakout-Board-PCB: BRANCHES:[main:e1326df4fb03b1c9efe779644eaa711c6aadbcd8;]|RELEASE:[none|none]
 MetaCubeX/x509: BRANCHES:[master:dcfc83d21b62e433bb756f90c08119f9742b19ec;]|RELEASE:[none|none]
 openwrt/rebuilder: BRANCHES:[dependabot/uv/mypy-gte-2.3.0:53b655f579d3ac34ad755b44e0bb2be29d29e04f;dependabot/uv/ruff-gte-0.16.1:0df1989ccc7b634721c59332e66fa4d05a3819c3;dependabot/uv/pytest-mock-gte-3.15.1:a8bd6b0b64d347e8249bcf91126a99573a29800f;dependabot/uv/pytest-cov-gte-7.1.0:0131c95da1364fa8cf61a04d4d8f1d7fa61f6ec3;dependabot/github_actions/actions/cache-6:411fe80b25e3cd12e642c001a2df97db770f12e5;dependabot/uv/pytest-gte-9.1.1:10cde0e0addd198a33558b26072014e603cdffe3;dependabot/github_actions/actions/checkout-7:48bcc92832922ea964a3e206b3eb65aa7c466bd7;main:9ad4c30354ed8efb277b1570c31e0e3dc3b99ab2;gh-pages:6b48190ac7bf251f904d57ce301dceb4710bda3c;merge-fix:c7422eb152369066eef13a3cd12e1592042d6c2c;]|RELEASE:[none|none]
