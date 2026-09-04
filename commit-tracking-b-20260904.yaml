@@ -4651,7 +4651,7 @@ MetaCubeX/tailscale: BRANCHES:[main:ff0ecd81818198276db45f60d6912b4ef518fac4;for
 MetaCubeX/sevenzip: BRANCHES:[main:6254d13bfaae05146dc2087d350500f5cb389d73;main-1.6.0:e321d6c5683d7a8e1555f013b23ac34256fcbcff;]|RELEASE:[none|none]
 MetaCubeX/jls-quic-go: BRANCHES:[v0.61.0-mod-meta:732f2fc9a34de12a58020a0ca75bf336095aed93;v0.59.0-mod-meta:1cc413101174aa6eee6dfc77b9b7e758fee6bc42;]|RELEASE:[none|none]
 MetaCubeX/jls-tls: BRANCHES:[main:67adc0e2f79630fcf80f0b65278d4d1a094b812b;]|RELEASE:[none|none]
-Xinyuan-LilyGO/lilygo_device_driver_example: BRANCHES:[main:ba6559b844c51a74214fb03bc90fa9f5f33b2ee6;]|RELEASE:[none|none]
+Xinyuan-LilyGO/lilygo_device_driver_example: BRANCHES:[main:1f749f541faecfee40a31a68b8b0486ab3f7153f;]|RELEASE:[none|none]
 Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836fcd71ca84f982;]|RELEASE:[none|none]
 kanoqwq/DirScope: BRANCHES:[main:2e0c8f75a53be6218eaeee0e06598e18c7771ece;]|RELEASE:[none|none]
 adafruit/Adafruit_GP8403: BRANCHES:[gh-pages:f3eef012373fdcda0e06da2d6b6c3be271e39cac;main:5069f106c37b54e91e1e15ba7693c7ed9eff7a43;]|RELEASE:[1.0.1|none]
