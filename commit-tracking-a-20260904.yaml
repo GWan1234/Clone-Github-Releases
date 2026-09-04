@@ -431,7 +431,7 @@ OpenListTeam/OpenList-Mobile: BRANCHES:[main:a48cd9bd5a15175c6b81dd214fe2b56d881
 OpenListTeam/hope-ui: BRANCHES:[dist:264b7511e37dc6e5a5fb8f67f8801d94a058a700;main:2f9096bd2d3cb588ac8d3d3379830675b3114aa7;npm-pub-bak:dad0cb4dee84616420194944ad7aba4c16458700;]|RELEASE:[none|none]
 OpenListTeam/metaflow: BRANCHES:[main:1d192da160b1020840b8d98b4b84709e80e30d54;]|RELEASE:[none|none]
 OpenListTeam/docker-library: BRANCHES:[main:32e0054024810e631690dbd721410dad983cfa99;]|RELEASE:[none|none]
-OpenListTeam/cloud-mail: BRANCHES:[main:7d0405afefd231e929b637aa4b19cac28450eb41;]|RELEASE:[none|none]
+OpenListTeam/cloud-mail: BRANCHES:[main:57a4b1fa8445ac4929fea184bea78a539c315465;]|RELEASE:[none|none]
 OpenListTeam/eo-pages-proxy: BRANCHES:[main:a7a875add7220a10eb089041257aac496085471f;]|RELEASE:[none|none]
 OpenListTeam/OpenList-Worker: BRANCHES:[main:022b219be5ff3f7b4f69c08c624a97f2ace31ee8;old-route:1e70ce2dfe90c84986ca5596d54dbb19d54b726d;feat/driver/baidu_netdisk:9807400b88f963463349c7cb5c2fe692b49eb7dc;]|RELEASE:[none|none]
 OpenListTeam/OpenList-FLATPAK: BRANCHES:[main:eeeb030e160c84838db95d94e41867915924e6f1;]|RELEASE:[v4.1.10|none]
