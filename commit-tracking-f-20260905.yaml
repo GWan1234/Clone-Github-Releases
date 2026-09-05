@@ -2067,3 +2067,4 @@ waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:dc273c5501d7b43cf9d41e5f422
 waveshareteam/DA7212-Audio-HAT-B: BRANCHES:[master:c5c5bd53ea519fb471fef150766e66fc8dcfe9c2;]|RELEASES:[]
 m5stack/M5Faces-Calculator3-Internal-FW: BRANCHES:[main:05d5b07c900134c3c14eac3c1469bee3778f961a;]|RELEASES:[]
 m5stack/M5Faces-Gamepad3-Internal-FW: BRANCHES:[main:afe28ea234277be8becf4fc096c5e2e5d6d7fb81;]|RELEASES:[]
+m5stack/M5Faces-Keyboard3-Internal-FW: BRANCHES:[main:cdb3c5f8268cd0b320d243877c0580b7758c1f1a;]|RELEASES:[]
