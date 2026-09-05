@@ -2066,3 +2066,4 @@ sparkfun/SparkFun_INA2XX_Arduino_Library: BRANCHES:[main:c9007d6f5232ff4cedc5b39
 waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:dc273c5501d7b43cf9d41e5f422a5881272cf3af;]|RELEASES:[]
 waveshareteam/DA7212-Audio-HAT-B: BRANCHES:[master:c5c5bd53ea519fb471fef150766e66fc8dcfe9c2;]|RELEASES:[]
 m5stack/M5Faces-Calculator3-Internal-FW: BRANCHES:[main:05d5b07c900134c3c14eac3c1469bee3778f961a;]|RELEASES:[]
+m5stack/M5Faces-Gamepad3-Internal-FW: BRANCHES:[main:afe28ea234277be8becf4fc096c5e2e5d6d7fb81;]|RELEASES:[]
