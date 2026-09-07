@@ -655,7 +655,7 @@ sonocotta/esp-tunein-player: BRANCHES:[master:3a891ec6a1a374507e89510c52a69b75e3
 sonocotta/esp32-audio-dock: BRANCHES:[main:1a7fc41c5bb8cf02fcc44f16e13a6ffd2ed9c6c4;]|RELEASE:[none|none]
 sonocotta/esp32-esp8266-screensavers: BRANCHES:[master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc;]|RELEASE:[none|none]
 sonocotta/esp32-gameboy: BRANCHES:[main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7;]|RELEASE:[none|none]
-sonocotta/esp32-tas5805m-dac: BRANCHES:[main:c5d70d6ad765a58d798e887c62c3e9cdf49982a0;]|RELEASE:[none|none]
+sonocotta/esp32-tas5805m-dac: BRANCHES:[main:6ba7abc1156a1be5154b01c6d6d8b2b755b690a3;]|RELEASE:[none|none]
 sonocotta/esp32c3-dev-board: BRANCHES:[main:a6194a7d33debfb0ff611d6e8bc8954459285bdd;]|RELEASE:[none|none]
 sonocotta/esparagus-echo: BRANCHES:[main:544e768d1d74767f1a2dff9a49c52b0fa0f5ea3d;]|RELEASE:[none|none]
 sonocotta/esparagus-media-center: BRANCHES:[main:f2a43993cdecbed11f810e3e3d22762e4f9242a1;features/sendspin-configs-update:6fcf9b7b496f853ae9594b104124d6bebb2eb3f6;features/updated-sendspin-config:04712fe0328082612e0e7f72a1c8fbd9d90c0963;features/esphome-configs-refactoring-and-snapclient-new-component:032564d35426d1b08779097a08a917075c8f1861;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462;]|RELEASE:[none|none]
