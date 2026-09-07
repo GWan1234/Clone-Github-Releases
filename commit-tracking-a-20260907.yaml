@@ -7673,3 +7673,4 @@ OpenListTeam/OpenList-Worker-Next: BRANCHES:[main:f71bbfe1ba57973e89c3523f512226
 yifengyou/BDY_G98_RK3588-uboot-mainline: BRANCHES:[bdy-g98:3cbdc864d9923fb269ede1dc27969f73d93a28cc;main:cc557af4553382f6f50e3ed62b9577054e7bc54f;]|RELEASE:[bdy-g98-uboot|none]
 yifengyou/yt921x_switch: BRANCHES:[main:271573a8a1a2b187481286367362cb6bb3270673;]|RELEASE:[none|none]
 ioBroker/ioBroker.python: BRANCHES:[main:405781781c7aa6651dfef47eeed482126337007f;]|RELEASE:[none|none]
+flameshot-org/homebrew-flameshot: BRANCHES:[main:682ec397a7f48d8c69f410a5e0cc40ac16531f19;]|RELEASE:[none|none]
