@@ -16,7 +16,7 @@ cockpit-project/cockpit-ostree-weblate: BRANCHES:[main:c772bdc3dc2c3ffb5e82e06d0
 cockpit-project/cockpit-certificates: BRANCHES:[master:e62b39af5efa09ea1fc1f24be30c076622f172f8;]|RELEASE:[none|none]
 cockpit-project/presentations: BRANCHES:[main:ea28a183510394cf43194cac689a4984df23c8d9;]|RELEASE:[none|none]
 cockpit-project/cockpit-machines: BRANCHES:[dependabot/npm_and_yarn/types-df1f5e9a5f:caaf4122f87b03614032409e345d2673e0a28c60;rhel-8:954ee1962aec0104f1baff4f3b876526a4456246;main:9fef38f6387322456ecee93d298b566a7638b8f1;dependabot/github_actions/github/codeql-action-4.37.9:9f011c29a0543b4eb9cf399600f4db3e9070e4fc;cockpit-lib-20260903-063711:90621208e5371116b56960402949517b88c19fd9;cockpit-lib-20260723-051307:e9e369d0f16246ce0a1486f54cf586acbe02725c;cockpit-lib-20260718-131051:1642c7f38e700a58aa598bd71ac250d7e7dcc93b;copilot/sub-pr-2439:a3dd9a8dbafc2dcf4e3a125b4e53ade7f031c6bc;]|RELEASE:[356|035d6751c8c9f784d1d9fe354622bdacd59e2d17]
-cockpit-project/cockpit-machines-weblate: BRANCHES:[main:b9a8288c385eb5d74b133e9841cba45c5fe07170;]|RELEASE:[none|none]
+cockpit-project/cockpit-machines-weblate: BRANCHES:[main:3bc1ace97395c04811c615cba6b341f8200fdea8;]|RELEASE:[none|none]
 cockpit-project/node-cache: BRANCHES:[main:e1604333f331ab4fb01dcfa7192ee339d9a5c17f;]|RELEASE:[none|none]
 cockpit-project/pixel-test-reference: BRANCHES:[empty:3962e009896cfdf5607d5a5153c6bd5c33a1e891;master:0641c3384d020d8b3a1eb2604c67ea6e9e0d6465;]|RELEASE:[none|none]
 cockpit-project/cockpit-cloud: BRANCHES:[main:c2896dc1654fd92f9d3f0dd790fa340e30d8accf;builder-container:f6ead712496f6d619e132f0b647e56eb83bbff1f;]|RELEASE:[none|none]
