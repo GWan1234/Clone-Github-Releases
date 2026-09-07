@@ -7670,7 +7670,7 @@ OpenListTeam/tg_bot: BRANCHES:[main:82ca1ea2fe08ebceaff90229061ca4b6bc7a903f;]|R
 OpenListTeam/verification_go: BRANCHES:[main:3219b75c6dddce759cb99714830f3bff2a8b526e;]|RELEASE:[none|none]
 dailook/luci-app-mtk-easymesh: BRANCHES:[main:6fb4e3247c5c79be78edf72bf73376a293035475;]|RELEASE:[none|none]
 OpenListTeam/OpenList-Worker-Next: BRANCHES:[main:f71bbfe1ba57973e89c3523f51222643e3be72ce;1223:3cb1c40676d4b5ac56ace26446ffb5fdfa71ec9a;]|RELEASE:[none|none]
-yifengyou/BDY_G98_RK3588-uboot-mainline: BRANCHES:[bdy-g98:3cbdc864d9923fb269ede1dc27969f73d93a28cc;main:cc557af4553382f6f50e3ed62b9577054e7bc54f;]|RELEASE:[bdy-g98-uboot|none]
+yifengyou/BDY_G98_RK3588-uboot-mainline: BRANCHES:[bdy-g98:16af604af8be6ac865b7f25572b535bc1b7a7df7;main:cc557af4553382f6f50e3ed62b9577054e7bc54f;]|RELEASE:[bdy-g98-uboot|none]
 yifengyou/yt921x_switch: BRANCHES:[main:271573a8a1a2b187481286367362cb6bb3270673;]|RELEASE:[none|none]
 ioBroker/ioBroker.python: BRANCHES:[main:405781781c7aa6651dfef47eeed482126337007f;]|RELEASE:[none|none]
 flameshot-org/homebrew-flameshot: BRANCHES:[main:682ec397a7f48d8c69f410a5e0cc40ac16531f19;]|RELEASE:[none|none]
