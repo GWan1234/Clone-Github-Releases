@@ -2068,3 +2068,4 @@ waveshareteam/DA7212-Audio-HAT-B: BRANCHES:[master:c5c5bd53ea519fb471fef150766e6
 m5stack/M5Faces-Calculator3-Internal-FW: BRANCHES:[main:05d5b07c900134c3c14eac3c1469bee3778f961a;]|RELEASES:[]
 m5stack/M5Faces-Gamepad3-Internal-FW: BRANCHES:[main:afe28ea234277be8becf4fc096c5e2e5d6d7fb81;]|RELEASES:[]
 m5stack/M5Faces-Keyboard3-Internal-FW: BRANCHES:[main:cdb3c5f8268cd0b320d243877c0580b7758c1f1a;]|RELEASES:[]
+waveshareteam/waveshare_boards: BRANCHES:[main:37f2df77734b2f894c0935d9d2cf57ddf23e1079;docs/board-product-gallery:cd09c94ebb0e649de9913655af367ebe2c2a07f1;]|RELEASES:[v0.1.0:db28937ca7564e952fad144c86fed93e93b49b6a:none;v0.1.1:fad91a7fec8ec44bfaec495b461ffa638ff86e1f:none;]
