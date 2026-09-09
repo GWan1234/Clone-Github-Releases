@@ -7672,6 +7672,6 @@ dailook/luci-app-mtk-easymesh: BRANCHES:[main:6fb4e3247c5c79be78edf72bf73376a293
 OpenListTeam/OpenList-Worker-Next: BRANCHES:[main:f71bbfe1ba57973e89c3523f51222643e3be72ce;1223:3cb1c40676d4b5ac56ace26446ffb5fdfa71ec9a;]|RELEASE:[none|none]
 yifengyou/BDY_G98_RK3588-uboot-mainline: BRANCHES:[bdy-g98:16af604af8be6ac865b7f25572b535bc1b7a7df7;main:cc557af4553382f6f50e3ed62b9577054e7bc54f;]|RELEASE:[bdy-g98-uboot|none]
 yifengyou/yt921x_switch: BRANCHES:[main:271573a8a1a2b187481286367362cb6bb3270673;]|RELEASE:[none|none]
-ioBroker/ioBroker.python: BRANCHES:[main:405781781c7aa6651dfef47eeed482126337007f;]|RELEASE:[none|none]
+ioBroker/ioBroker.python: BRANCHES:[main:0902a5a71a288649c19c76f499d49362b5bf34f3;]|RELEASE:[v0.0.3|0902a5a71a288649c19c76f499d49362b5bf34f3]
 flameshot-org/homebrew-flameshot: BRANCHES:[main:682ec397a7f48d8c69f410a5e0cc40ac16531f19;]|RELEASE:[none|none]
 yifengyou/fnos-drivers_for_BDY-G98: BRANCHES:[main:c47a5e314fa2a1d8783091c909ddb9b82145ec14;]|RELEASE:[none|none]
