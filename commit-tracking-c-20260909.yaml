@@ -1187,7 +1187,7 @@ unifreq/linux-5.4.y: BRANCHES:[main:a108d794f70c376534eaaf1264881d6989a27785;]|R
 unifreq/linux-6.0.y: BRANCHES:[main:1f09a2f946f1c195d11ae4442cd97e1885460aa3;]|RELEASE:[none|none]
 unifreq/linux-6.1.y: BRANCHES:[main:b88fdce147a5aa8bcb0700a80b665f0117aeaebc;]|RELEASE:[none|none]
 unifreq/linux-6.1.y-rockchip: BRANCHES:[main:91c7b6c36bb4511c4fb7c05c68ffa24c016df98f;]|RELEASE:[v2609a|none]
-unifreq/linux-6.12.y: BRANCHES:[main:3604c5925c063106a3fd10a64f955a6eb291aea9;]|RELEASE:[none|none]
+unifreq/linux-6.12.y: BRANCHES:[main:fbc8987f6a826037472b31e089dee3a58009201b;]|RELEASE:[none|none]
 unifreq/linux-6.18.y: BRANCHES:[main:4e58a57ad1228215fbe59180a6296579cf1767c7;]|RELEASE:[none|none]
 unifreq/linux-6.6.y: BRANCHES:[main:be261e5e4ffd5e8d4595be6a6608b93ae0d5058a;]|RELEASE:[none|none]
 arendst/platformio-core: BRANCHES:[develop:e030e1294466743004157f65827b72c8e4752d5d;master:a76e445ed98a7badf23c52de5ad649797044ccdb;feature/issue-2972-ino2cpp:4ee4315c048d129b0fc2407f38a731cf60cb9287;feature/issue-446-projecttpls:b5bc5712b115b24822b32ff8bd6000434ca6213a;]|RELEASE:[none|none]
