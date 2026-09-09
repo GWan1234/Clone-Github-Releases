@@ -4773,7 +4773,7 @@ pvvx/TLSR825x_OTA_Flash_Hacker: BRANCHES:[main:37c772f0e91c50ecaf2c6aa8b84f23aa3
 pvvx/TLSR8269-EVK: BRANCHES:[master:d56cc8f546a5204e728591b1afd5262010201ece;]|RELEASE:[none|none]
 pvvx/TlsrComProg: BRANCHES:[master:46b1fdde600496d8fd4b6bee4131823c92aa08dd;]|RELEASE:[none|none]
 pvvx/TlsrComProg825x: BRANCHES:[main:2de91fe32d6a81786eabbef2ff5f82116d02176e;]|RELEASE:[none|none]
-pvvx/TlsrComSwireWriter: BRANCHES:[master:6455f50f25dd264ac6820ecacfd64b90c6c80f3e;]|RELEASE:[none|none]
+pvvx/TlsrComSwireWriter: BRANCHES:[master:042613b1b47a1598856b0ff3e8a133f2918798a5;]|RELEASE:[none|none]
 pvvx/TLSRPGM: BRANCHES:[main:ea07617742db07ce2a048132a5e36039f8307dd5;]|RELEASE:[v0.0.0.8|none]
 pvvx/TlsrRepeater: BRANCHES:[master:7f94155d1e87f9bfc74544df7137b7b8ca0c6726;main:0db0ffaffc1b727de6420df06b01ea8b982b414b;]|RELEASE:[v0.1.0.0|none]
 pvvx/TlsrSmartSwitch: BRANCHES:[master:d09838b0a7a92e60f9f91883839a95df331d915f;main:8dee362652c78ad53800a805b4b90404cdc8cfbb;]|RELEASE:[v0.1.0.0|none]
