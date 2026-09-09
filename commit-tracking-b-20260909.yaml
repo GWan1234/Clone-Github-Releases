@@ -3738,7 +3738,7 @@ Xinyuan-LilyGO/T-Lora-Dual: BRANCHES:[master:bd603e651172b7c850f76dedca4cbac8d91
 Xinyuan-LilyGO/LilyGoLib-MicroPython: BRANCHES:[main:6dcc0178d9bdfbde2895c44392d8757441862c72;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-S3-MicroPython: BRANCHES:[main:e223898f12c4308b3c21d580edcef4850ba8ebb3;]|RELEASE:[none|none]
 Xinyuan-LilyGO/lilygo_device_driver: BRANCHES:[main:af1bc6e80318998637e3372fcaa255d997ff4558;feature/camera-power-sequence:6fa8deae39c01503ceb7ec3f68721081ff0c79c8;v1:59deff8349d8e21a2d712cd7b5593541567b7f03;]|RELEASE:[v2.2.0|none]
-Xinyuan-LilyGO/T7-C5: BRANCHES:[master:046d624904d1b84d9c718614cad797123c60df84;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T7-C5: BRANCHES:[master:165fb25a9dbf320f563c8a673eff105be3181c22;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Spe: BRANCHES:[main:bc6b86e347a990e47ec362337e8e5dd56fccf592;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LILYGO-Spark: BRANCHES:[main:0fd728e800d9ebaa5a15515b49aa6244f3453340;feat/v2-manifest-themes-search:8d36b4d88accb12ca9583a84a386ffcc2e9f70f6;]|RELEASE:[none|none]
 Xinyuan-LilyGO/Launchpad: BRANCHES:[main:aabbc5460dea00078cd5dbda9a85627eae6a3c93;]|RELEASE:[none|none]
