@@ -5631,7 +5631,7 @@ Seeed-Studio/balena-seeed-rockchip: BRANCHES:[migration/wrynose:96f994c7ef26309e
 playbridgeapp/libmpv-win32-video-cmake: BRANCHES:[master:86206615393f0c10c1fc7e65c895cd44ceacece9;]|RELEASE:[none|none]
 Seeed-Studio/Seeed_GFX2: BRANCHES:[main:d0968f8162c394f5acd96d92a0f621bac805e0d7;]|RELEASE:[v1.0.0|none]
 rednblkx/aliro_ccc_core: BRANCHES:[main:f10c8283e152682bbe7034d095e7f4cf3e3001bb;]|RELEASE:[none|none]
-rednblkx/aliro_ccc_esp: BRANCHES:[main:982b2c293691cf3197186cb5e757e4fb067a11ef;]|RELEASE:[none|none]
+rednblkx/aliro_ccc_esp: BRANCHES:[main:7a3be07e2ef7dbbaea395ca572bc750e5c9bdd27;]|RELEASE:[none|none]
 Seeed-Studio/recamera-pro-ext-api: BRANCHES:[main:b061f6e58e778d7105abe75e39173a7e99331db7;codex/firmware-compat-ui-20260907:e130f1813810a7fbb6d51af4974435bfed339e79;feature/app-platform-v2-20260824:ef11a85cb0f2fa5f011b49877a0be5e5780c38f0;]|RELEASE:[none|none]
 rednblkx/aliro_uwb_wip: BRANCHES:[main:a73efde57ea194f73f12ab0062dbbc89342bdbd2;]|RELEASE:[none|none]
 home-assistant/apps-development: BRANCHES:[master:d658cd0787f09f68ff29b8797948d2a039eada7d;]|RELEASE:[none|none]
