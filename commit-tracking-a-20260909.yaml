@@ -7675,3 +7675,4 @@ yifengyou/yt921x_switch: BRANCHES:[main:271573a8a1a2b187481286367362cb6bb3270673
 ioBroker/ioBroker.python: BRANCHES:[main:0902a5a71a288649c19c76f499d49362b5bf34f3;]|RELEASE:[v0.0.3|0902a5a71a288649c19c76f499d49362b5bf34f3]
 flameshot-org/homebrew-flameshot: BRANCHES:[main:682ec397a7f48d8c69f410a5e0cc40ac16531f19;]|RELEASE:[none|none]
 yifengyou/fnos-drivers_for_BDY-G98: BRANCHES:[main:c47a5e314fa2a1d8783091c909ddb9b82145ec14;]|RELEASE:[none|none]
+yifengyou/edk2-rk3588: BRANCHES:[kdev:09b086ad1e49006d05cc617fb95dc5fe9b8229db;master:824e6c12168a51cf72470fb43da60642e835198f;]|RELEASE:[edk2-uefi-rk3588|none]
