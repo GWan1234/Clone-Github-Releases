@@ -5635,3 +5635,4 @@ rednblkx/aliro_ccc_esp: BRANCHES:[main:982b2c293691cf3197186cb5e757e4fb067a11ef;
 Seeed-Studio/recamera-pro-ext-api: BRANCHES:[codex/firmware-compat-ui-20260907:e130f1813810a7fbb6d51af4974435bfed339e79;main:e130f1813810a7fbb6d51af4974435bfed339e79;feature/app-platform-v2-20260824:ef11a85cb0f2fa5f011b49877a0be5e5780c38f0;]|RELEASE:[none|none]
 rednblkx/aliro_uwb_wip: BRANCHES:[main:a73efde57ea194f73f12ab0062dbbc89342bdbd2;]|RELEASE:[none|none]
 home-assistant/apps-development: BRANCHES:[master:d658cd0787f09f68ff29b8797948d2a039eada7d;]|RELEASE:[none|none]
+DFRobot/pxt-Buliding-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:180a61c221b4a4ed59ccb1ccea02f5207ce868d9;]|RELEASE:[none|none]
