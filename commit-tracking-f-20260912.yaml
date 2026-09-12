@@ -2074,3 +2074,4 @@ m5stack/M5PaperMono-PowerDemo: BRANCHES:[main:cf4f57c638aa3ad0168bf90beebdaa3599
 m5stack/M5Stamp-AddOn-Camera-UserDemo: BRANCHES:[main:c4dab47b9f40a5bc8eb1073f2be334f4a63e7ff7;]|RELEASES:[]
 sparkfun/SparkFun_DE2290D_Arduino_Library: BRANCHES:[main:7e9a5e72b8ac1d76434a71ce73b8005848743934;]|RELEASES:[]
 sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:0d8717baec632d2fec448fb014dab51bced822df;]|RELEASES:[v1.0.0:293b68e8218181e07e68f8674add146cf7bc8028:none;]
+sparkfun/SparkFun_STCC4_Arduino_Library: BRANCHES:[main:ff82802396b52557de1722766878fb747e0b5a61;]|RELEASES:[v1.0.0:ff82802396b52557de1722766878fb747e0b5a61:none;]
