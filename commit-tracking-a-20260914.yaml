@@ -7685,3 +7685,4 @@ leapbtw/AppleIGC: BRANCHES:[dev-i225v:63087819d333a95de54830c36e2ea3ee75cab4af;m
 thelastoutpostworkshop/ESPImageFirmware: BRANCHES:[main:932ea01bb5d727824fd9339e53c9d4ccbeb96d2f;]|RELEASE:[v1.1.4|none]
 sonocotta/esphome-husb238a: BRANCHES:[main:0a36e5a742e3d3b4322e13940dfe330bf44aed53;]|RELEASE:[none|none]
 Koenkk/bindings-cpp: BRANCHES:[main:19820c39fbbedc1b5f09d6508b5ef1268df3d455;]|RELEASE:[none|none]
+yifengyou/qnap-rk3588-build: BRANCHES:[main:d8e1071216d5af3437d77c01f4573004f580e5a7;rk3568:1718206d1dcbf2de101d186a9fc54420625df184;v1.1:402dceb4fdb39f962a66071608ae8bbd1e36f698;]|RELEASE:[none|none]
