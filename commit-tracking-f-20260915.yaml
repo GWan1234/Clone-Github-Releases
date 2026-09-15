@@ -2076,3 +2076,4 @@ sparkfun/SparkFun_DE2290D_Arduino_Library: BRANCHES:[main:7e9a5e72b8ac1d76434a71
 sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:0d8717baec632d2fec448fb014dab51bced822df;]|RELEASES:[v1.0.0:293b68e8218181e07e68f8674add146cf7bc8028:none;]
 sparkfun/SparkFun_STCC4_Arduino_Library: BRANCHES:[main:ff82802396b52557de1722766878fb747e0b5a61;]|RELEASES:[v1.0.0:ff82802396b52557de1722766878fb747e0b5a61:none;]
 waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:da3e785f57ff6991cfb677f36e31f1e75b129cb0;]|RELEASES:[]
+m5stack/esphome.io: BRANCHES:[current:d4e36c13bef655c12130cd08f2392f7595bc6e16;]|RELEASES:[]
