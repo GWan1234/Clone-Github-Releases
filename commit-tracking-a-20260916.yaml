@@ -7679,7 +7679,7 @@ yifengyou/edk2-rk3588: BRANCHES:[kdev:09b086ad1e49006d05cc617fb95dc5fe9b8229db;m
 AlistGo/Alist-CoreELEC: BRANCHES:[main:a46aedca9f659cd83bfaf7ce32d42cd6db442b54;]|RELEASE:[alist-v3.64.0|none]
 HomeSpan/SpanCast: BRANCHES:[main:a1dfc95f22e89970ab4bdeb76b5b8f46d9b901b5;]|RELEASE:[none|none]
 yifengyou/android: BRANCHES:[master:d41670d703eb859911e883a0dc8eb8fd9951c413;]|RELEASE:[khadas-android14|none]
-yifengyou/BDY_G98_RK3588-khadas-android14: BRANCHES:[master:738ab61ecc5838dc74fe8ae11dc3f11616f72564;]|RELEASE:[g98_android14_uboot|none]
+yifengyou/BDY_G98_RK3588-khadas-android14: BRANCHES:[master:2721913749a5769d6979011536d10a392d464853;]|RELEASE:[g98_android14_uboot|none]
 algerkong/pebrel: BRANCHES:[feat/high-contrast-and-drawer-resize:c45c439140229fd3f65f8ad1c8732683db2d8a42;main:546daac927e5f6e1c28abadaf5a7064ab58d7878;]|RELEASE:[none|none]
 leapbtw/AppleIGC: BRANCHES:[dev-i225v:d7df401f5815b94ff5e04909ca9d7b48dce9badc;main:0a98017ca17b5935da5616c5747813a6e579b449;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESPImageFirmware: BRANCHES:[main:932ea01bb5d727824fd9339e53c9d4ccbeb96d2f;]|RELEASE:[v1.1.4|none]
