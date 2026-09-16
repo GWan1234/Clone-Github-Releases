@@ -5632,7 +5632,7 @@ playbridgeapp/libmpv-win32-video-cmake: BRANCHES:[master:86206615393f0c10c1fc7e6
 Seeed-Studio/Seeed_GFX2: BRANCHES:[main:8d7d14d4e2899a9451fef319035bad8eba1d3213;]|RELEASE:[v1.0.0|none]
 rednblkx/aliro_ccc_core: BRANCHES:[main:f10c8283e152682bbe7034d095e7f4cf3e3001bb;]|RELEASE:[none|none]
 rednblkx/aliro_ccc_esp: BRANCHES:[main:7a3be07e2ef7dbbaea395ca572bc750e5c9bdd27;]|RELEASE:[none|none]
-Seeed-Studio/recamera-pro-ext-api: BRANCHES:[main:b32397266011b8a0edf46d222ead3d8c12a0cc42;codex/firmware-compat-ui-20260907:e130f1813810a7fbb6d51af4974435bfed339e79;feature/app-platform-v2-20260824:ef11a85cb0f2fa5f011b49877a0be5e5780c38f0;]|RELEASE:[none|none]
+Seeed-Studio/recamera-pro-ext-api: BRANCHES:[main:3561606b70bbe8d3359c583a00716051746c5654;codex/firmware-compat-ui-20260907:e130f1813810a7fbb6d51af4974435bfed339e79;feature/app-platform-v2-20260824:ef11a85cb0f2fa5f011b49877a0be5e5780c38f0;]|RELEASE:[none|none]
 rednblkx/aliro_uwb_wip: BRANCHES:[main:808f2b7a27dc98166fdf88ef67c11a3f7cb189ff;]|RELEASE:[none|none]
 home-assistant/apps-development: BRANCHES:[master:fd0e84622a3159b1518badf4342e0a4ab4d55ad1;]|RELEASE:[none|none]
 DFRobot/pxt-Buliding-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:180a61c221b4a4ed59ccb1ccea02f5207ce868d9;]|RELEASE:[none|none]
