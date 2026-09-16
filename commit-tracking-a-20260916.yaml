@@ -7681,7 +7681,7 @@ HomeSpan/SpanCast: BRANCHES:[main:a1dfc95f22e89970ab4bdeb76b5b8f46d9b901b5;]|REL
 yifengyou/android: BRANCHES:[master:d41670d703eb859911e883a0dc8eb8fd9951c413;]|RELEASE:[khadas-android14|none]
 yifengyou/BDY_G98_RK3588-khadas-android14: BRANCHES:[master:738ab61ecc5838dc74fe8ae11dc3f11616f72564;]|RELEASE:[g98_android14_uboot|none]
 algerkong/pebrel: BRANCHES:[feat/high-contrast-and-drawer-resize:c45c439140229fd3f65f8ad1c8732683db2d8a42;main:546daac927e5f6e1c28abadaf5a7064ab58d7878;]|RELEASE:[none|none]
-leapbtw/AppleIGC: BRANCHES:[dev-i225v:63087819d333a95de54830c36e2ea3ee75cab4af;main:0a98017ca17b5935da5616c5747813a6e579b449;]|RELEASE:[none|none]
+leapbtw/AppleIGC: BRANCHES:[dev-i225v:d7df401f5815b94ff5e04909ca9d7b48dce9badc;main:0a98017ca17b5935da5616c5747813a6e579b449;]|RELEASE:[none|none]
 thelastoutpostworkshop/ESPImageFirmware: BRANCHES:[main:932ea01bb5d727824fd9339e53c9d4ccbeb96d2f;]|RELEASE:[v1.1.4|none]
 sonocotta/esphome-husb238a: BRANCHES:[main:0a36e5a742e3d3b4322e13940dfe330bf44aed53;]|RELEASE:[none|none]
 Koenkk/bindings-cpp: BRANCHES:[main:19820c39fbbedc1b5f09d6508b5ef1268df3d455;]|RELEASE:[none|none]
