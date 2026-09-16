@@ -7661,7 +7661,7 @@ yifengyou/MAXVISION_RK3568-uboot: BRANCHES:[maxvision-rk3568:2b80dc6141481dcff04
 anzhiyu-c/xiaoyu-dao: BRANCHES:[main:389622c1e882046cdca1c8a12b371209ae067ada;]|RELEASE:[none|none]
 syb999/TVBox: BRANCHES:[heads/main:fda1cc04977c3ae70b6ebae1fa6bdadf9fa1ec3d;]|RELEASE:[TVBox|none]
 yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:e8d62e64b2da31f55e236f6d931335d5659b9161;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[bdy-g98-recovery_20260824|none]
-ioBroker/aggregate: BRANCHES:[main:f891d66e4d3066ed2585ea26a70da7784d13d32b;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
+ioBroker/aggregate: BRANCHES:[dependabot/npm_and_yarn/tsx-4.23.13:f01fbe58a78a3b1041c5e43637765ac412a18356;dependabot/npm_and_yarn/typescript-7.0.2:fe9f3a7e81c2f35430faf2cc513aa6312f0567bd;dependabot/npm_and_yarn/mocha-12.0.0:d22d1bca489d5db7fcd8d9032f1bad5548902f62;main:f891d66e4d3066ed2585ea26a70da7784d13d32b;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
 ioBroker/iobroker-python: BRANCHES:[main:d15d64b04c14e0fdb648d5d6c8676f9085026d0d;]|RELEASE:[v0.9.0|none]
 ioBroker/ioBroker.py-controller: BRANCHES:[dependabot/npm_and_yarn/src-admin/module-federation/vite-1.21.3:0e4f4b7c9051589928d2b6d9ed1704cb462dff3a;dependabot/npm_and_yarn/iobroker/testing-6.0.0:0ea3c0b6eb06fcbc9ed7a0cf9e99a7f75e964162;main:ce737d6bce39a0c9cbde7207e83de5e53c45fbec;]|RELEASE:[v0.1.2|ce737d6bce39a0c9cbde7207e83de5e53c45fbec]
 algerkong/dsh-image-preview: BRANCHES:[main:2dcc8c86bb43b8512c8a41e8615eccb3b02a175c;]|RELEASE:[v0.3.1|none]
