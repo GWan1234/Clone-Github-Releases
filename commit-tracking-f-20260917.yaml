@@ -2075,6 +2075,6 @@ m5stack/M5Stamp-AddOn-Camera-UserDemo: BRANCHES:[main:6e7b82a587667b7d071e3695ae
 sparkfun/SparkFun_DE2290D_Arduino_Library: BRANCHES:[main:7e9a5e72b8ac1d76434a71ce73b8005848743934;]|RELEASES:[]
 sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:0d8717baec632d2fec448fb014dab51bced822df;]|RELEASES:[v1.0.0:293b68e8218181e07e68f8674add146cf7bc8028:none;]
 sparkfun/SparkFun_STCC4_Arduino_Library: BRANCHES:[main:ff82802396b52557de1722766878fb747e0b5a61;]|RELEASES:[v1.0.0:ff82802396b52557de1722766878fb747e0b5a61:none;]
-waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:da3e785f57ff6991cfb677f36e31f1e75b129cb0;]|RELEASES:[]
+waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:c5543ec47ef3ea5812a1ec0a4b6ade1c27e9d3fc;]|RELEASES:[]
 m5stack/esphome.io: BRANCHES:[current:d4e36c13bef655c12130cd08f2392f7595bc6e16;]|RELEASES:[]
 sparkfun/btstack: BRANCHES:[teensy-wireless-shield:1b571792c2fc7917bdf0661f7172d0523516474e;master:e38553977a25fb0b55b383c72c289be0975f422c;]|RELEASES:[]
