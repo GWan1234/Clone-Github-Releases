@@ -7677,7 +7677,7 @@ flameshot-org/homebrew-flameshot: BRANCHES:[main:682ec397a7f48d8c69f410a5e0cc40a
 yifengyou/fnos-drivers_for_BDY-G98: BRANCHES:[main:c47a5e314fa2a1d8783091c909ddb9b82145ec14;]|RELEASE:[none|none]
 yifengyou/edk2-rk3588: BRANCHES:[kdev:09b086ad1e49006d05cc617fb95dc5fe9b8229db;master:824e6c12168a51cf72470fb43da60642e835198f;]|RELEASE:[edk2-uefi-rk3588|none]
 AlistGo/Alist-CoreELEC: BRANCHES:[main:a46aedca9f659cd83bfaf7ce32d42cd6db442b54;]|RELEASE:[alist-v3.64.0|none]
-HomeSpan/SpanCast: BRANCHES:[main:a1dfc95f22e89970ab4bdeb76b5b8f46d9b901b5;]|RELEASE:[none|none]
+HomeSpan/SpanCast: BRANCHES:[main:b536c162158b549d5bf90311b1a16d6ce28254bc;]|RELEASE:[none|none]
 yifengyou/android: BRANCHES:[master:d41670d703eb859911e883a0dc8eb8fd9951c413;]|RELEASE:[khadas-android14|none]
 yifengyou/BDY_G98_RK3588-khadas-android14: BRANCHES:[master:2721913749a5769d6979011536d10a392d464853;]|RELEASE:[g98_android14_uboot|none]
 algerkong/pebrel: BRANCHES:[feat/high-contrast-and-drawer-resize:c45c439140229fd3f65f8ad1c8732683db2d8a42;main:546daac927e5f6e1c28abadaf5a7064ab58d7878;]|RELEASE:[none|none]
