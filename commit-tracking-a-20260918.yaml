@@ -7659,7 +7659,7 @@ syb999/packages-24.10.8: BRANCHES:[master:9be256ab7fc3f462b6ba0531b4b1d08412e57b
 yifengyou/MAXVISION_RK3568: BRANCHES:[master:6dc959bc29dc2eb584a97018a7326ce926758c96;]|RELEASE:[none|none]
 yifengyou/MAXVISION_RK3568-uboot: BRANCHES:[maxvision-rk3568:2b80dc6141481dcff048e7c78212c41eaa647e87;next-dev:bcca2e78e2a9c9cc7e635222fab3ee585f33599a;]|RELEASE:[MAXVISION_RK3588_UBOOT|none]
 anzhiyu-c/xiaoyu-dao: BRANCHES:[main:389622c1e882046cdca1c8a12b371209ae067ada;]|RELEASE:[none|none]
-syb999/TVBox: BRANCHES:[heads/main:fda1cc04977c3ae70b6ebae1fa6bdadf9fa1ec3d;]|RELEASE:[TVBox|none]
+syb999/TVBox: BRANCHES:[heads/main:cdd480a23c4d98cfe2d66580c00bf40dd6daacc8;]|RELEASE:[TVBox|none]
 yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:e8d62e64b2da31f55e236f6d931335d5659b9161;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[bdy-g98-recovery_20260824|none]
 ioBroker/aggregate: BRANCHES:[dependabot/npm_and_yarn/tsx-4.23.13:f01fbe58a78a3b1041c5e43637765ac412a18356;dependabot/npm_and_yarn/typescript-7.0.2:fe9f3a7e81c2f35430faf2cc513aa6312f0567bd;dependabot/npm_and_yarn/mocha-12.0.0:d22d1bca489d5db7fcd8d9032f1bad5548902f62;main:f891d66e4d3066ed2585ea26a70da7784d13d32b;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
 ioBroker/iobroker-python: BRANCHES:[main:c4cadd7d0aefd03c1b1538253a11539972c9e39d;]|RELEASE:[v0.10.0|c4cadd7d0aefd03c1b1538253a11539972c9e39d]
