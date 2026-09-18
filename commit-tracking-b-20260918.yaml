@@ -3675,7 +3675,7 @@ Xinyuan-LilyGO/LILYGO-T-TWR-Plus-case: BRANCHES:[main:03d275d66c84c72a0a16549550
 Xinyuan-LilyGO/LilyGo-AMOLED-Series: BRANCHES:[master:6d1dc008b94578cc34ba4a0f3b223dd808ca963f;]|RELEASE:[v1.2.4|none]
 Xinyuan-LilyGO/T-Display-S3-Pro: BRANCHES:[master:bef8db74e847f1e89a10cb3877f3b3a8544857d6;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T8-S3: BRANCHES:[main:57486e1e09ba74802aaeff86bd89f1ffec37b79e;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Display-S3-Long: BRANCHES:[master:8e9d2623b3f6562972799e58f3a14b7ed99d80d8;T-Display-S3-Long-cst3530:37a7e83af79a98bb395012200f811777e52b9cfc;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Display-S3-Long: BRANCHES:[T-Display-S3-Long-cst3530:3deece89098f25e7d155e41e4e0f5dd8b368ab02;master:8e9d2623b3f6562972799e58f3a14b7ed99d80d8;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Keyboard-S3: BRANCHES:[main:1caabdee628a270b9d34514200615ee513da5940;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-T-PicoPro: BRANCHES:[master:740bf4878e74e289641c46bb0fd6c1d256c5805d;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panel: BRANCHES:[main:80b6ce5eecd2c4cb3aaeac3408225c97a13b9b67;arduino-esp32-libs_V2.0.14:46ec02ca7121dbcb83f22b41c50cbfecfc204de6;]|RELEASE:[none|none]
