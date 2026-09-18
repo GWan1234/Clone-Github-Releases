@@ -7689,3 +7689,4 @@ yifengyou/qnap-rk3588-build: BRANCHES:[main:d8e1071216d5af3437d77c01f4573004f580
 yifengyou/BDY_G98_RK3588-khadas-android12: BRANCHES:[master:68cad642fcb0d686cb8a21b8ee3d2b53104ea373;]|RELEASE:[g98_android12|none]
 yifengyou/BDY_G98_RK3588-khadas-android13: BRANCHES:[master:53e5341524e3c7a6f6333879293a19e9fbd54b59;]|RELEASE:[g98_android13|none]
 yifengyou/LZ_D3588-kernel-5.10.198: BRANCHES:[master:e772f59f490fd3d1d31062fb5317a9f1a3d1ec58;]|RELEASE:[none|none]
+yifengyou/LZ_D3588-kernel-5.10.226: BRANCHES:[master:6a390361ee68f11ef72e2a577b4a6a54490c4db8;]|RELEASE:[none|none]
