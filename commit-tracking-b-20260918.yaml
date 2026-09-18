@@ -4205,7 +4205,7 @@ openwrt/dwmac-ipq5018: BRANCHES:[main:a8b2e0e7883812c0959bd7ac45193c9d53d9b7a6;n
 OpenListTeam/reflink: BRANCHES:[master:ed3c0dbe80094a1a23baa31441be26027f648378;]|RELEASE:[none|none]
 Xinyuan-LilyGO/documentation: BRANCHES:[master:f660c0b15d68a7453ba89e52c2325289493ad4a8;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Connection-P4-Pro: BRANCHES:[main:bb3912510f9ec7622e951b5786763613bdfc6fdf;]|RELEASE:[none|none]
-emqx/emqx-neuron-demo: BRANCHES:[master:a95a42c93c5466f149218fe89d66c279ef409f4f;]|RELEASE:[none|none]
+emqx/emqx-neuron-demo: BRANCHES:[master:a76ed35f4ec6938f712b1da74105d42cf810e422;]|RELEASE:[none|none]
 anzhiyu-c/yuyu-cursor-transit: BRANCHES:[main:3018af41ec48ec9f8ca27377c49fffdab720bdac;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Deck-MAX: BRANCHES:[master:e737aa7db24869deae43a32bef677cefb9663d62;]|RELEASE:[none|none]
 xiaoshi930/browser-mod: BRANCHES:[main:6c7251495c176c31a4d11308b83e81986c0abc6d;]|RELEASE:[v2.13.4-beta.1|none]
