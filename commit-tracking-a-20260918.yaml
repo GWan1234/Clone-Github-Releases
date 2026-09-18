@@ -7691,3 +7691,4 @@ yifengyou/BDY_G98_RK3588-khadas-android13: BRANCHES:[master:53e5341524e3c7a6f633
 yifengyou/LZ_D3588-kernel-5.10.198: BRANCHES:[master:e772f59f490fd3d1d31062fb5317a9f1a3d1ec58;]|RELEASE:[none|none]
 yifengyou/LZ_D3588-kernel-5.10.226: BRANCHES:[master:6a390361ee68f11ef72e2a577b4a6a54490c4db8;]|RELEASE:[none|none]
 yifengyou/LZ_D3588-kernel-rockchip-develop-6.1: BRANCHES:[lz-d3588:5634866cc1749443716363e4ea4440dd34b76f6a;]|RELEASE:[lz-d3588-kernel|none]
+yifengyou/LZ_D3588-kernel-rockchip-develop-6.6: BRANCHES:[lz-d3588:b482c951687ba0ac80d1e1ef019889898b850ae5;]|RELEASE:[none|none]
