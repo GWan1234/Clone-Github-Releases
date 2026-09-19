@@ -2081,3 +2081,4 @@ sparkfun/btstack: BRANCHES:[teensy-wireless-shield:1b571792c2fc7917bdf0661f7172d
 waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40: BRANCHES:[main:88c3f7a306864d57710c86d3de54d5a73a11923d;]|RELEASES:[]
 waveshareteam/CM5-HMI-BOX-A: BRANCHES:[master:1c6dc95ee9bce507dcd6c83929811350e4ebe544;]|RELEASES:[]
+waveshareteam/CM5-HMI-7A-ACCE: BRANCHES:[master:1192274112389b03fdc41b435228744bd3608d0c;]|RELEASES:[]
