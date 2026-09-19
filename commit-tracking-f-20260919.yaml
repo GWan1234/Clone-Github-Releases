@@ -1008,7 +1008,7 @@ sparkfun/SparkFun_Red_Vision_Touch_Display_for_Pico: BRANCHES:[main:00066e675789
 sparkfun/SparkFun_GNSS_mosaic-T: BRANCHES:[gh-pages:385bec22c1522f23fef897aeffa473ac62a74842;main:2be585792dd81428484c216f82b7eecdaf3c31b4;]|RELEASES:[]
 sparkfun/SparkFun_DE9_Breakout: BRANCHES:[main:c1dd205b828cdde6ce5d60d66228101ebb838e18;pinout_fix:21c593d8f5d012cc436383929ee71de7c4fcdd05;]|RELEASES:[]
 sparkfun/SparkFun_Red_Vision_Camera_Board_HM01B0: BRANCHES:[main:8aaf35d75f856d1722d795cc57673f4490c52867;]|RELEASES:[]
-sparkfun/SparkFun_GNSS_DAN-F10N: BRANCHES:[gh-pages:8bbe13ea8f51cb806b1a8ea435cc6852a3122523;main:ab62904c31d858d433d3143909b9ae247ff00497;]|RELEASES:[]
+sparkfun/SparkFun_GNSS_DAN-F10N: BRANCHES:[gh-pages:90f40a9ebcae1f5854f59767384c6c30908ee4cc;main:850ae4e4f6d49cda84fd2505fa41cba8318b526f;]|RELEASES:[]
 sparkfun/sparkfun-python: BRANCHES:[main:41919b275b9ba7df1f675242270134e40479357d;documentation/pycharm:41c07c98e52c36dfee4060444afc71624e4f454c;documentation/tmp117_server:845f5dedf07c8aa16ed56ca0ee76a88ad46cf8a9;]|RELEASES:[v0.5.0:26eea4e60905b64f9fa1c2a1efa80d9a98eea1d2:none;]
 sparkfun/SparkFun_RFID_USB-C_Reader: BRANCHES:[gh-pages:0a7909086f6d064cfb86cab6dd6e1238d0818127;main:63c7a5d71cbd1df8f9b420ec320d239ea6a86d33;]|RELEASES:[v10:42822a2a45416801c53c0341c36e8a2358feb599:none;]
 sparkfun/SparkFun_GNSS_Flex_Breakout: BRANCHES:[main:fb7d096b7e268481e1224d4a5ba1048cee8e2522;]|RELEASES:[v10:0d954bd928f4c40270928d47c96a53fa7af1911b:none;v11:a79d1f9965ca11f4a090274ef1bb0416cf26bf61:none;]
