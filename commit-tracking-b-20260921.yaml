@@ -4825,3 +4825,4 @@ Xinyuan-LilyGO/T-Echo-Lite-MicroPython: BRANCHES:[main:261b5418e00b87c93ec9110f9
 adafruit/LLM-Recipes: BRANCHES:[main:15a25f4bf40fc852c4382bac6bbf9e2264061492;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Impulse-Plus_V2.0: BRANCHES:[main:5b2412b187ba89bf0a330d6fe55b8d79ad60f238;]|RELEASE:[none|none]
 chen08209/code_forge: BRANCHES:[main:86413012d3cd6cecbe00ced8fa7c9029427feb43;]|RELEASE:[none|none]
+philippe44/tuya-local: BRANCHES:[accumulate:1db4aae0089f5f997d4cdbfa415316a3c9da505c;main:098a7bdae96503fd3285f0b8847dbd880611cfba;async_tinytuya:063a049302cb413c186bae1805a7bd93329938a8;]|RELEASE:[none|none]
