@@ -1202,7 +1202,7 @@ unifreq/packages: BRANCHES:[master:da8a3b6feda61cf2421ead9481666004d8e32b90;]|RE
 unifreq/realtek-doc: BRANCHES:[main:69d2890a2e2d7a03df6e40e2cd2c32ff5b074dcf;]|RELEASE:[none|none]
 unifreq/rk-ubuntu-build: BRANCHES:[main:22ebd5809feb82f16947cf639c74005ea7832dc2;]|RELEASE:[radxa-rock-4d-spi-release|none]
 unifreq/rk3588-kernel-libre: BRANCHES:[master:25d6616e204713dd9aa15651178d64ff4d9ebd26;]|RELEASE:[none|none]
-unifreq/rkbin: BRANCHES:[master:83a608401a5f530ad600d2175cd0eeb7598bfb22;]|RELEASE:[none|none]
+unifreq/rkbin: BRANCHES:[master:6cd2d8457b53667ed1144f31b6a68b4f800dd12e;]|RELEASE:[none|none]
 unifreq/rockchip-rk3588-mainline-patches: BRANCHES:[main:9aa81c5a516dd66aeac24b9d4d50d73ee6f63304;]|RELEASE:[none|none]
 unifreq/RuView: BRANCHES:[main:c45690ed4eb0c078ee39543d12869b645087c4e2;]|RELEASE:[none|none]
 unifreq/statistic: BRANCHES:[master:427d5f2d69e46e1cd54ed2be74bff35f4e8c31ab;]|RELEASE:[none|none]
