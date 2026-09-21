@@ -4961,7 +4961,7 @@ yifengyou/zinx: BRANCHES:[zinx_v0.10:737b1b786e2521e81cf6e2da78948f045ae6f434;zi
 ioBroker/socketio-package: BRANCHES:[main:afef73367dae01281cb47ce7c4b5ca6377405d53;dependabot/npm_and_yarn/types/node-26.5.0:9e71e57111c2bf432302011a2ca3b702d4a10a07;dependabot/npm_and_yarn/typescript-7.0.2:7d50a8c69621c799fbb4ae45f5b09d41e1c42b53;]|RELEASE:[v8.1.0|31eac73445a898606a794551f3fc77fae4a916d7]
 ioBroker/ws-server-package: BRANCHES:[main:e1a4e89c23eda4052646203eea9eef106e56cc5c;]|RELEASE:[v5.0.4|e1a4e89c23eda4052646203eea9eef106e56cc5c]
 algerkong/iptv-api: BRANCHES:[master:cdac565047646f87effc88e9d13bd1743d412027;]|RELEASE:[none|none]
-thelastoutpostworkshop/ESPVault: BRANCHES:[main:a50b6ac26052334e4d03e5ce2bae64f68eaab9e8;]|RELEASE:[v1.0.32|none]
+thelastoutpostworkshop/ESPVault: BRANCHES:[main:87355121d474070927f3476991c9cc3360a68e3f;]|RELEASE:[v1.0.34|none]
 dr-dolomite/SJA-Library-Management-System: BRANCHES:[feat/circulation-and-venue:a60b5247fb5bed6aae7b053275e311bafd6c067c;main:6e61035deb25b4405e1f5e0f811cbc4ac4fea480;]|RELEASE:[none|none]
 yifengyou/p330: BRANCHES:[master:820e6892b4248e98664624e7b57fec03d48a67e4;]|RELEASE:[none|none]
 dailook/arm-trusted-firmware: BRANCHES:[mtksoc:476cf6629f7675c9857b59458851dda64de88343;mtksoc-20260123:476cf6629f7675c9857b59458851dda64de88343;mtksoc-20250711:78a0dfd927bb00ce973a1f8eb4079df0f755887a;]|RELEASE:[none|none]
