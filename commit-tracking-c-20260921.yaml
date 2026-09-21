@@ -5642,3 +5642,4 @@ Seeed-Studio/armbian.github.io: BRANCHES:[add-seeed-extension-targets:36a6936a18
 DFRobot/k230_linux_sdk: BRANCHES:[dev:f2ac83ec6f98104ef2015f12487c15a174bf15fe;]|RELEASE:[none|none]
 DFRobot/seeMoteCap: BRANCHES:[master:e52013341a552d430b0b7612423ea2e4f9cada66;]|RELEASE:[none|none]
 Seeed-Studio/meta-seeed-rockchip: BRANCHES:[main:6b9fa82fd5ae078308a70c47e03bc4995c45dadb;meta-balena:6344ac5d4937c976c772b4744b6471456ba93279;]|RELEASE:[none|none]
+DFRobot/mmware_map_card: BRANCHES:[main:e1d515ab73262229c19de74f70fd680777fe5cd0;]|RELEASE:[none|none]
