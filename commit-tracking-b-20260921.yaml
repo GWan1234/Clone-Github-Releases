@@ -1045,7 +1045,7 @@ rime/home: BRANCHES:[master:1ea8e1c1284cfb9c1976b2a89ed47c510b0db1f0;f5j:0066b93
 rime/rime-prelude: BRANCHES:[master:082425ea0684bca36474415d4a0e8db9b016487e;]|RELEASE:[none|none]
 rime/rime-essay: BRANCHES:[master:e2652ea18609a879eae3e87db5d25b7fbc1a4f93;mine:65ea5c3707817f1c96e81a9f8d153c9c1f5408ca;]|RELEASE:[none|none]
 rime/rime-luna-pinyin: BRANCHES:[master:56b934b099dfbeab842320f13aa8b461a6ab3e42;fixes:0e1fd5f4aad2ffce6444bc35ca05f57f14fde67b;pr/68:87df157bc0f190f37def7c692072896f464fbad4;]|RELEASE:[none|none]
-rime/rime-terra-pinyin: BRANCHES:[master:8a2c895ad7ee8e2b137d91be77f18f86b04d7fc9;]|RELEASE:[none|none]
+rime/rime-terra-pinyin: BRANCHES:[master:723e51bc266cf9464530c1ddedb856aa18e3da34;]|RELEASE:[none|none]
 rime/rime-bopomofo: BRANCHES:[master:6085c9a38a4a728047862b33d67eee18aa86f3b9;]|RELEASE:[none|none]
 rime/rime-pinyin-simp: BRANCHES:[master:0c6861ef7420ee780270ca6d993d18d4101049d0;]|RELEASE:[none|none]
 rime/rime-double-pinyin: BRANCHES:[master:01a13287cbd27819be1c34fa1ddc1b3643d5001b;]|RELEASE:[none|none]
