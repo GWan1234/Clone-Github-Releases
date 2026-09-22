@@ -2073,7 +2073,7 @@ waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:2362b097b37f6825834911c2f72b4c7d
 m5stack/M5PaperMono-PowerDemo: BRANCHES:[main:cf4f57c638aa3ad0168bf90beebdaa3599203bb2;]|RELEASES:[]
 m5stack/M5Stamp-AddOn-Camera-UserDemo: BRANCHES:[main:6e7b82a587667b7d071e3695aebd6d055fb00067;]|RELEASES:[]
 sparkfun/SparkFun_DE2290D_Arduino_Library: BRANCHES:[main:7e9a5e72b8ac1d76434a71ce73b8005848743934;]|RELEASES:[]
-sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:0d8717baec632d2fec448fb014dab51bced822df;]|RELEASES:[v1.0.0:293b68e8218181e07e68f8674add146cf7bc8028:none;]
+sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:77dcdea7592b3944518ff1d0e73ac464ba42eab0;]|RELEASES:[v1.0.0:293b68e8218181e07e68f8674add146cf7bc8028:none;]
 sparkfun/SparkFun_STCC4_Arduino_Library: BRANCHES:[main:ff82802396b52557de1722766878fb747e0b5a61;]|RELEASES:[v1.0.0:ff82802396b52557de1722766878fb747e0b5a61:none;]
 waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[feat/factory-test:ed3631d4681b35c66a8c955d3e2b21ab52d66fdd;main:c5543ec47ef3ea5812a1ec0a4b6ade1c27e9d3fc;]|RELEASES:[]
 m5stack/esphome.io: BRANCHES:[current:d4e36c13bef655c12130cd08f2392f7595bc6e16;]|RELEASES:[]
