@@ -2082,3 +2082,4 @@ waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515
 sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40: BRANCHES:[main:630f95c88aad26455d0d7741dc1d5a8b7604abec;]|RELEASES:[]
 waveshareteam/CM5-HMI-BOX-A: BRANCHES:[master:1c6dc95ee9bce507dcd6c83929811350e4ebe544;]|RELEASES:[]
 waveshareteam/CM5-HMI-7A-ACCE: BRANCHES:[master:1192274112389b03fdc41b435228744bd3608d0c;]|RELEASES:[]
+m5stack/M5Unit-8Servos2-I2C-Internal-FW: BRANCHES:[main:071b207dd5c770e6b37f43924818bc867949d28b;]|RELEASES:[]
