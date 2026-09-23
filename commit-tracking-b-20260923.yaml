@@ -4810,7 +4810,7 @@ emqx/terraform-provider-emqxcloud: BRANCHES:[dependabot/github_actions/codeql-ac
 Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:bb831ab358b66f5bd9a87ecd7c580fee4537492e;]|RELEASE:[v0.2.4|bb831ab358b66f5bd9a87ecd7c580fee4537492e]
 Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a0696800bbedd9d3d58596;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:4646a728580739d487126f47a521e9b8032b3c2c;]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-Display-K230-nRF9151: BRANCHES:[main:ed4ecbe34162dec9b81213a400198125bbd6e36f;]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-Display-K230-nRF9151: BRANCHES:[main:6b19c08f7699512a01c693d637cca1a0ba407a24;]|RELEASE:[none|none]
 adafruit/invaders_pico: BRANCHES:[main:2bf61ec4fd1e5254aeda9595fb273f89587a2290;]|RELEASE:[v0.1.0|8add3f3ffc68f365e24bea24ddb17bdb452b6110]
 adafruit/Adafruit_Monster_Eyes: BRANCHES:[main:adc06f7b78214bbfac58422e419800358dbbe568;gh-pages:52548329289d88d17e66edb26a36ad8af871fbf5;]|RELEASE:[1.1.2|none]
 adafruit/Adafruit-GP8403-Breakout-Board-PCB: BRANCHES:[main:e1326df4fb03b1c9efe779644eaa711c6aadbcd8;]|RELEASE:[none|none]
