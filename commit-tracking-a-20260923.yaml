@@ -353,7 +353,7 @@ ioBroker/ioBroker.vis-2-widgets-energy: BRANCHES:[dependabot/npm_and_yarn/src-wi
 ioBroker/jsonltool: BRANCHES:[main:f989e7909df5272fc5490879243cb3082c0415df;]|RELEASE:[none|none]
 ioBroker/legacy-testing: BRANCHES:[dependabot/npm_and_yarn/types/node-26.4.0:ee5c9d344cf072a9163f572f20d9980557e4c9d0;main:6c865c447a4d61981eb59e06ca878452767ede4c;dependabot/github_actions/actions/checkout-7:1cb8dbaab29501157e2d769ea3c61e27d9324e10;]|RELEASE:[v3.0.1|c7e388bdbf0ceb7a58246dd784b1ba680ffcbf23]
 ioBroker/modbus-templates: BRANCHES:[main:e8bb4505449732630280e634e4d9554a6c260569;]|RELEASE:[none|none]
-ioBroker/ioBroker.vis-2-widgets-jaeger-design: BRANCHES:[main:0df39e06f3c387612766260a123db1fbb534a7e1;update-readme-video-links:ed3f4546bf1211062cbbc4590afb04bd75aec2e7;]|RELEASE:[none|none]
+ioBroker/ioBroker.vis-2-widgets-jaeger-design: BRANCHES:[main:3bfc3eeb97826b18493e0d95da74dd20db4fc0dc;update-readme-video-links:ed3f4546bf1211062cbbc4590afb04bd75aec2e7;]|RELEASE:[none|none]
 ioBroker/.github: BRANCHES:[main:17482f27b3ef04286bd436a07fd4558ddce8df94;]|RELEASE:[none|none]
 ioBroker/dm-utils: BRANCHES:[main:cbed6db890df46cf441a3795b84f575d58408d20;incremental-loading:ae5b5a51ac897b900dd912602ef9fc81104f6511;generate-common:882d8ceac0bf7dd5af030afa8d001835efe18478;add-controls:c5b5517fb896132777d698eafd68e631c6b24229;extend-device-info:79d958a4be9c569000eb0aed37ee9ce7b7d2a8b2;]|RELEASE:[v3.2.1|cbed6db890df46cf441a3795b84f575d58408d20]
 ioBroker/webserver: BRANCHES:[main:9e752dff37b685514c54b079004c7dca5e7492da;small-adaption:38ac4ea605fe0aa52a9104f41fbfd40575436d28;]|RELEASE:[v3.1.2|9e752dff37b685514c54b079004c7dca5e7492da]
