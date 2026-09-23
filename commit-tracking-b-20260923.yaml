@@ -4803,7 +4803,7 @@ MetaCubeX/mipstack: BRANCHES:[master:dbef50b1df45ead2c85d1a71e07c7a1b029b1f20;]|
 FUjr/matter-vacuum-bridge: BRANCHES:[main:01589288005477cfeef91f1b4ae7057786f0804c;]|RELEASE:[v0.2.0|01589288005477cfeef91f1b4ae7057786f0804c]
 Xinyuan-LilyGO/T-Glass-V3: BRANCHES:[master:ea3930b93c79d9f4dae9a8e54a7e3fb8b72a9e71;]|RELEASE:[none|none]
 emqx/fdbexporter: BRANCHES:[main:1c4b1413eca7e67de8687dfd5a00baa0c9de51a2;]|RELEASE:[none|none]
-atc1441/Action_104_Games_and_Pacman_DOOM: BRANCHES:[main:7c4d5a95364888753fba4409065816408015d537;]|RELEASE:[v1.0.2|none]
+atc1441/Action_104_Games_and_Pacman_DOOM: BRANCHES:[main:476ed808fe10db93f2db4ae23ba45a2e69a7284f;]|RELEASE:[v1.0.3|none]
 kanoqwq/unisoc-android-openwrt-kvm: BRANCHES:[main:56aa92222ca3616eb03f508c7abef3570182b4ca;mu300-direct-br0:964938605b9553d807390960ca66b0f15614bf49;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panle-P4: BRANCHES:[master:b93e7e450bf8655f1b8692cab8fa35b7453488c7;]|RELEASE:[none|none]
 emqx/terraform-provider-emqxcloud: BRANCHES:[dependabot/github_actions/codeql-action-f1ba23a83b:cfc967b17dc57b0e529fb6a46bbee9878df5d558;master:f9470152617d9e58f3c2714c3e95489b541331ef;]|RELEASE:[v0.2.0|none]
