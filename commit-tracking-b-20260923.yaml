@@ -4551,7 +4551,7 @@ openwrt/openwrt-bot-worker: BRANCHES:[main:26ec62143705655b3819cb121bf0880caca22
 Xinyuan-LilyGO/lilygo-assistant-skill: BRANCHES:[master:22f527b6c071dcc17d1d13079ab68ed48c2a11cf;]|RELEASE:[none|none]
 adafruit/kicad2fritzing: BRANCHES:[main:8ff3dd90cbf07af4aba5524f5d3b4f6608b302ff;]|RELEASE:[none|none]
 chen08209/Clash.Meta: BRANCHES:[FlClash:d0c8d443298ce26e292a63f0f1016313dda599ac;main:53b2dbba62d298a6abbec23821f26eb538c50c91;]|RELEASE:[none|none]
-chen08209/FlClash: BRANCHES:[main:c7be7023d33615cb624148d41414f80a7d96cede;dev:421559431e6c294eb3686b28c07b5383058aa328;]|RELEASE:[v0.8.98|none]
+chen08209/FlClash: BRANCHES:[dev:b8452db24f1a86615bae0270d6c9e0d3def395cf;main:c7be7023d33615cb624148d41414f80a7d96cede;]|RELEASE:[v0.8.98|none]
 chen08209/FlClash-fdroid-repo: BRANCHES:[gh-pages:2e3ed7ca4f38d5266cd8dff0632b9b25b34243da;main:cb9695879fc12d4fc514bcc121db4349790ab2ba;]|RELEASE:[none|none]
 chen08209/flutter: BRANCHES:[stable:9759d271becb619b936c992bb3b9aa27799c1e2c;master:013390eab8071fab6fe822c97d68f38ee02a3763;main:13b74844bd47270ab5e09ba04552fd792abcb5ad;loic-sharma-patch-1:806c9c083df89360578ed048798b2bd815f55ef2;jmagman-patch-1:6e119fecbe8b123c96f38bd4d581fd0ac2c51962;drop_js_util:3fc517dfcaf8da800eabae04842d0c204413a75f;flutter-3.29-candidate.0:e272b5cde025a2e0c5367e61443fa144b9f338ae;matanlurey-patch-3:c2810cf444a365cd8d50cc6231347df783adad98;matanlurey-patch-2:e6ecedc4d58f733291c6ce186382ebf3eaf866a8;flutter-0.42-candidate.0:97f703e466f15c222c1c887bbef83a2d0e171112;]|RELEASE:[none|none]
 chen08209/flutter_cache_manager: BRANCHES:[develop:54904e499a06d0364a2b3f4ca9789e5f829f1879;]|RELEASE:[none|none]
