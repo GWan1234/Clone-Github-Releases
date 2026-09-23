@@ -7702,3 +7702,4 @@ yifengyou/aigo-s60-rk3588: BRANCHES:[master:34adc383c8aa0da3b4c18a56316cd7894898
 yifengyou/BDY_G98_RK3588_edk2-uefi: BRANCHES:[bdy-g98:09b086ad1e49006d05cc617fb95dc5fe9b8229db;master:824e6c12168a51cf72470fb43da60642e835198f;]|RELEASE:[edk2-uefi-rk3588|none]
 yifengyou/LZ_D3588-kernel-ophub_linux-6.18.y: BRANCHES:[lz-d3588:678021a1cf6c2b8e7c91b53de4250e6f40a9114c;]|RELEASE:[lz-d3588-kernel|none]
 ioBroker/ioBroker.energyflow: BRANCHES:[main:6efa9c3a7fbd4bd972f4d7ef836b368743474a4c;]|RELEASE:[none|none]
+OpenListTeam/DSH-Docker: BRANCHES:[main:18b1f1ed10998710ac6622c4d50ffa1fa091e06a;]|RELEASE:[none|none]
