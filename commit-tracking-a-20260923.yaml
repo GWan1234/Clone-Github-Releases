@@ -7663,7 +7663,7 @@ syb999/TVBox: BRANCHES:[heads/main:cdd480a23c4d98cfe2d66580c00bf40dd6daacc8;]|RE
 yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:e8d62e64b2da31f55e236f6d931335d5659b9161;main:b287ad633b8454752bf792381f1d849bd3fe58e3;]|RELEASE:[bdy-g98-recovery_20260824|none]
 ioBroker/aggregate: BRANCHES:[dependabot/npm_and_yarn/tsx-4.23.13:69278cc1028140392ea605a841f6582e46826559;main:3cdc00a410419fe652b962bb64542513154d5546;]|RELEASE:[v1.0.1|f891d66e4d3066ed2585ea26a70da7784d13d32b]
 ioBroker/iobroker-python: BRANCHES:[main:e53982f22347623be58220ce64bb87e7ee18cf1f;]|RELEASE:[v0.11.0|none]
-ioBroker/ioBroker.py-controller: BRANCHES:[main:9b34a0fca313f267e8e7d5ec06d5408d8811ded5;dependabot/npm_and_yarn/src-admin/module-federation/vite-1.21.3:0e4f4b7c9051589928d2b6d9ed1704cb462dff3a;dependabot/npm_and_yarn/iobroker/testing-6.0.0:0ea3c0b6eb06fcbc9ed7a0cf9e99a7f75e964162;]|RELEASE:[v0.1.2|ce737d6bce39a0c9cbde7207e83de5e53c45fbec]
+ioBroker/ioBroker.py-controller: BRANCHES:[main:ba7f352e1b02a92b75ce31bd7af759a1f5b6b7cf;dependabot/npm_and_yarn/src-admin/module-federation/vite-1.21.3:0e4f4b7c9051589928d2b6d9ed1704cb462dff3a;]|RELEASE:[v0.1.2|ce737d6bce39a0c9cbde7207e83de5e53c45fbec]
 algerkong/dsh-image-preview: BRANCHES:[main:cc7996a7d1044e75545cb2ddea29ed5519bb333d;]|RELEASE:[v0.5.0|cc7996a7d1044e75545cb2ddea29ed5519bb333d]
 ioBroker/ioBroker.pyexample: BRANCHES:[main:3754ff30e5f7e41d942e941b64c3c74cc6d1e3d8;]|RELEASE:[none|none]
 OpenListTeam/tg_bot: BRANCHES:[main:82ca1ea2fe08ebceaff90229061ca4b6bc7a903f;]|RELEASE:[none|none]
