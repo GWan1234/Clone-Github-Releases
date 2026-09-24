@@ -2076,7 +2076,7 @@ sparkfun/SparkFun_DE2290D_Arduino_Library: BRANCHES:[main:7e9a5e72b8ac1d76434a71
 sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:77dcdea7592b3944518ff1d0e73ac464ba42eab0;]|RELEASES:[v1.0.0:293b68e8218181e07e68f8674add146cf7bc8028:none;]
 sparkfun/SparkFun_STCC4_Arduino_Library: BRANCHES:[main:726c6bd2ed86b7ff8eb808e29d190582ac1b9017;]|RELEASES:[v1.0.0:ff82802396b52557de1722766878fb747e0b5a61:none;]
 waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:0c20e1e99ac6f137c8b8f10e93e3682e255f7469;feat/factory-test:ed3631d4681b35c66a8c955d3e2b21ab52d66fdd;]|RELEASES:[]
-m5stack/esphome.io: BRANCHES:[current:d4e36c13bef655c12130cd08f2392f7595bc6e16;]|RELEASES:[]
+m5stack/esphome.io: BRANCHES:[current:e1ed1dfb80e4e53fb1c40a4a120837bbee251cc5;]|RELEASES:[]
 sparkfun/btstack: BRANCHES:[teensy-wireless-shield:1b571792c2fc7917bdf0661f7172d0523516474e;master:e38553977a25fb0b55b383c72c289be0975f422c;]|RELEASES:[]
 waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5;]|RELEASES:[]
 sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40: BRANCHES:[main:181b793d68d798a2aa499e57ded48b7b656681bc;]|RELEASES:[]
