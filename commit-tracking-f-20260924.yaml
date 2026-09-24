@@ -2085,3 +2085,4 @@ waveshareteam/CM5-HMI-7A-ACCE: BRANCHES:[master:1192274112389b03fdc41b435228744b
 m5stack/M5Unit-8Servos2-I2C-Internal-FW: BRANCHES:[main:071b207dd5c770e6b37f43924818bc867949d28b;]|RELEASES:[]
 sparkfun/SparkFun_u-blox_GNSS_v4: BRANCHES:[develop:478b3b42ccaa2942b9e847d7bf62d718ccfc7eff;main:08943c2ba8b34ea21fd5e6174c056c8d60de2e6c;]|RELEASES:[v4.0.0:11e3423622a4a353666fb0be75c0111170e2c90a:none;]
 sparkfun/SparkFun_Hubble_Network: BRANCHES:[main:c089df8f7022913ee42d62801d545fc984c9c3fc;]|RELEASES:[v1.0.0:c089df8f7022913ee42d62801d545fc984c9c3fc:none;]
+waveshareteam/9.7inch_e-Paper_E: BRANCHES:[main:342301a3d12e55bc8de237b5416e1e53800d321a;]|RELEASES:[]
