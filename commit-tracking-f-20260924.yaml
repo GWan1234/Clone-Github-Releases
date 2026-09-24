@@ -2079,7 +2079,7 @@ waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:0c20e1e99ac6f137c8b8f10e
 m5stack/esphome.io: BRANCHES:[current:d4e36c13bef655c12130cd08f2392f7595bc6e16;]|RELEASES:[]
 sparkfun/btstack: BRANCHES:[teensy-wireless-shield:1b571792c2fc7917bdf0661f7172d0523516474e;master:e38553977a25fb0b55b383c72c289be0975f422c;]|RELEASES:[]
 waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5;]|RELEASES:[]
-sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40: BRANCHES:[main:630f95c88aad26455d0d7741dc1d5a8b7604abec;]|RELEASES:[]
+sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40: BRANCHES:[main:181b793d68d798a2aa499e57ded48b7b656681bc;]|RELEASES:[]
 waveshareteam/CM5-HMI-BOX-A: BRANCHES:[master:1c6dc95ee9bce507dcd6c83929811350e4ebe544;]|RELEASES:[]
 waveshareteam/CM5-HMI-7A-ACCE: BRANCHES:[master:1192274112389b03fdc41b435228744bd3608d0c;]|RELEASES:[]
 m5stack/M5Unit-8Servos2-I2C-Internal-FW: BRANCHES:[main:071b207dd5c770e6b37f43924818bc867949d28b;]|RELEASES:[]
