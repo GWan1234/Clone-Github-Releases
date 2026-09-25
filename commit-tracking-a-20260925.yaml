@@ -412,7 +412,7 @@ OpenListTeam/OpenList-Frontend: BRANCHES:[renovate/vite-plugin-static-copy-4.x:9
 OpenListTeam/Logo: BRANCHES:[main:a0393230a7cdba2d530f611d32755f7e40543ab5;variants:60f28aa4a1a9a18648dad61db20a012913913d58;color-tuned:524180bb3505624546e414f1a8891b23c11c7df2;]|RELEASE:[none|none]
 OpenListTeam/solid-router: BRANCHES:[main:d960ff250025329e0a0394568dd336dc27070d8b;]|RELEASE:[none|none]
 OpenListTeam/115-sdk-go: BRANCHES:[main:788107ec0545cf126ee9b22329678679cc6b3b2a;]|RELEASE:[v0.2.6|none]
-OpenListTeam/cgo-actions: BRANCHES:[v1:f9fbdbbdee83bf095b31f15fdbe56025978630e2;]|RELEASE:[v1.2.5|none]
+OpenListTeam/cgo-actions: BRANCHES:[v1:d760a8ec1a6be1f8ec181229e11cb2671797f9e0;]|RELEASE:[v1.3.0|none]
 OpenListTeam/sftpd-openlist: BRANCHES:[master:0afe6778bd1505b3ff97078879b7e4596895d046;]|RELEASE:[v1.0.1|none]
 OpenListTeam/ocr_api_server: BRANCHES:[main:57d660df5a717b3eb30d03bc54e36ab1dceecc1e;]|RELEASE:[none|none]
 OpenListTeam/OpenList-Proxy: BRANCHES:[feat/pages:61847608f3ab4ec84cff9098f78a148b5d9e6a11;main:649207eb45906693cfe1571d72f0bb2ad1a03acf;]|RELEASE:[v0.0.7|none]
