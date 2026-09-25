@@ -7704,3 +7704,4 @@ yifengyou/LZ_D3588-kernel-ophub_linux-6.18.y: BRANCHES:[lz-d3588:678021a1cf6c2b8
 ioBroker/ioBroker.energyflow: BRANCHES:[main:6efa9c3a7fbd4bd972f4d7ef836b368743474a4c;]|RELEASE:[none|none]
 OpenListTeam/DSH-Docker: BRANCHES:[main:18b1f1ed10998710ac6622c4d50ffa1fa091e06a;]|RELEASE:[none|none]
 ioBroker/ioBroker.flow: BRANCHES:[main:c8760f1364fe07262c0c238aae38f2c495904e4f;]|RELEASE:[none|none]
+yifengyou/BDY_G98_RK3588-linux-stable: BRANCHES:[master:d71ba70e38a46b4b51eaa75e0a04d3267b14e780;]|RELEASE:[linux_stable_kernel|none]
