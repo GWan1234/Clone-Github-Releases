@@ -3715,7 +3715,7 @@ Xinyuan-LilyGO/T-Display-S3-Pro-MVSRBoard: BRANCHES:[main:c9c1a76b263ee1696c9aef
 Xinyuan-LilyGO/T-Display-S3-Pro-MVSRLora: BRANCHES:[main:3457ffc0f9569858891d3692ce52f800947bd0c4;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T3-S3-MVSRBoard: BRANCHES:[main:840a2e788b3192c4e9bddf0640c1ecaf703c2598;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230_canmv_rt: BRANCHES:[main:abb07090ad8a666ed7a5e097b3c714b918731645;]|RELEASE:[none|none]
-Xinyuan-LilyGO/LilyGoLib: BRANCHES:[master:20ef8fda32d2e42eca5a1b2e817025df0739ce88;]|RELEASE:[V0.2.1|none]
+Xinyuan-LilyGO/LilyGoLib: BRANCHES:[master:ace739d670b25b095732de7e786c398de1b63d85;]|RELEASE:[V0.2.1|none]
 Xinyuan-LilyGO/T-Halow-P4: BRANCHES:[master:2bb0d61a91ef288ac237afa481d6dabf11087031;debug:b182bbe7a4539b39f35d424126c22737c8df44be;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Connect-Pro-MicroPython: BRANCHES:[main:455cffb6995a4b0798dd98511405f2427aca5953;]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGoLib-PlatformIO: BRANCHES:[master:097c1bda9c6a2a847efd27ee4b3dbda3dc70a1b1;]|RELEASE:[none|none]
