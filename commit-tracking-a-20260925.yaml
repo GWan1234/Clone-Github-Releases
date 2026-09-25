@@ -25,7 +25,7 @@ cockpit-project/subscription-manager-cockpit: BRANCHES:[cockpit-lib-20260924-065
 cockpit-project/action-release: BRANCHES:[main:7d2e2657382e8d34f88a24b5987f2b81ea165785;]|RELEASE:[none|none]
 cockpit-project/console.dot: BRANCHES:[playbook-demo:b3189db6b2523fbb84810e1affc316e5901f39bd;playbook:1c9937ece160503a8aeb3527946579fabdfad3a9;main:c63402b8d26eb15cd030e75a1f9cf4ece934b09b;diagram:4ff85591c1b4b52cdfbcd0cb75c1b3e567863e53;]|RELEASE:[none|none]
 cockpit-project/cockpit-files: BRANCHES:[cockpit-lib-20260924-070826:610d0c90d6244e87cf0627b1441985711c68ddc0;main:2ded201fe082a1e2dad9879db19cb764a37117c6;rhel-9.9:5ca6a3c3d2048f52d694d75a408d8f10cbe02d63;rhel-9.8:4cc4c9929c30d1e28492bd2ba713ebaad092b1e8;dependabot/github_actions/actions-71fcf20ecc:5ceb801f6b856e77dfcbfe6a64bae47bbea1ecb2;dnm:0a63a276580c5e6ac49ea8046c8c5168d66ec42d;]|RELEASE:[45|2ded201fe082a1e2dad9879db19cb764a37117c6]
-cockpit-project/cockpit-files-weblate: BRANCHES:[main:e83e1622d4a2737dfcb41e89b3884e6cd1cd5b12;]|RELEASE:[none|none]
+cockpit-project/cockpit-files-weblate: BRANCHES:[main:17c3c25d506640f695b19882cc9505f4396fc7c2;]|RELEASE:[none|none]
 cockpit-project/.github: BRANCHES:[main:cb3d4ab7ecc57c1ad8c5d27e1bf89ed64fc10738;ai/add-llm-policy:531aeba8b307185f2957def8b6c5a816a7212bb8;]|RELEASE:[none|none]
 cockpit-project/cockpit-docs: BRANCHES:[main:2b4892a0d6b3bfc38a2ddf557ab4ba6ad3a7951b;workflows/rework-deploy:2c75ff5bb2bd5179fa65b729d182fe130040d044;]|RELEASE:[none|none]
 cockpit-project/subscription-manager-cockpit-weblate: BRANCHES:[main:c2336d5391d5524594d5d23f82dc424767b50f1f;]|RELEASE:[none|none]
