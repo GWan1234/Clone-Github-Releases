@@ -2788,7 +2788,7 @@ adafruit/Adafruit-Metro-RP2040-PCB: BRANCHES:[main:9fe571ea428c5c2bc1b7593dadf61
 adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: BRANCHES:[main:f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435;]|RELEASE:[0.5.3|none]
 adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage: BRANCHES:[main:d3977af72ac362eedaa225327eae6146c25a392b;]|RELEASE:[0.8.6|none]
 adafruit/Adafruit-PC-Joystick-to-seesaw-PCB: BRANCHES:[main:890610a1efbc5e3b9c7dca5b28a125e36333b3f6;]|RELEASE:[none|none]
-adafruit/Adafruit_CircuitPython_USB_Host_MIDI: BRANCHES:[main:303cec18bd2232285922134ac1914684a7b47aeb;tannewt-patch-1:db1f5fe9febfb4678fa9595acee2b899afeb266c;]|RELEASE:[0.8.7|none]
+adafruit/Adafruit_CircuitPython_USB_Host_MIDI: BRANCHES:[main:ca68c3d4b229803f2c424e1562f25b6ed4efb971;tannewt-patch-1:db1f5fe9febfb4678fa9595acee2b899afeb266c;]|RELEASE:[0.8.8|none]
 adafruit/Adafruit_CircuitPython_WM8960: BRANCHES:[main:644d8dcd14a5d6324453a40243be95a4e5d4d04a;]|RELEASE:[1.0.7|none]
 adafruit/Adafruit_FT5336: BRANCHES:[gh-pages:0ae6fccf963d4b2eabbfaafeeec05d342c9814f3;main:7b8949ec03b8f6a03a6cff7c1eb7d46ac145a1f6;]|RELEASE:[1.0.0|none]
 adafruit/Adafruit-Metro-ESP32-S3-PCB: BRANCHES:[main:4ae86649879d3e6c4b93b258ce9f9d0889f40ad2;]|RELEASE:[none|none]
