@@ -5618,7 +5618,7 @@ Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294
 Joetooley28/atcli_rust: BRANCHES:[main:3711676de41d362ce8b52c0cef2324f5752f8c4f;]|RELEASE:[none|none]
 Joetooley28/cfw3212-qtooley-overlay: BRANCHES:[main:507487065f15b5a66ad4818d623f194b5f769bf8;working-branch:eaaf9cf38cf4a1279844b70d9494887c43b72624;standalone-at-terminal-old:3669082a848b709f1c73f4a34a760efb51d3849a;]|RELEASE:[v0.3.11-qtooley-2026-04-11|none]
 Joetooley28/qmanager-casa-cfw3212-builder: BRANCHES:[port-upstream-v0.1.16:a4cf85b52ab5fdf78a486ce0b689dbba6e54c074;cursor/fix-v013-tier4-sidebar-9a25:3d14d5134f1a376cdb7d0428dbf027f181b2dddd;main:3370c3615072fc19b15015adec3975187cab9b64;dev:5373e8cc4fe68bde8460b76f7f4a3c495099505c;]|RELEASE:[none|none]
-Joetooley28/qmanager-casa-cfw3212-package: BRANCHES:[main:9dbff377b4fc5c6f1404fbd9e2ec93cb805929a6;]|RELEASE:[none|none]
+Joetooley28/qmanager-casa-cfw3212-package: BRANCHES:[main:c0ebab3fb0418194b27c042c68415b6281403056;]|RELEASE:[none|none]
 Joetooley28/tiny-tailscale: BRANCHES:[main:c974f809e90804a469d845b4296d4282ea3d9b84;]|RELEASE:[v1.102.4|none]
 DFRobot/DFRobot_RK182x_Examples: BRANCHES:[master:6505906543f9cb261e2bd391e0c4cddf8744879a;]|RELEASE:[none|none]
 playbridgeapp/bridged-apps: BRANCHES:[main:b10e85fcad4e86ab60a69b82d6650d4c47f6c700;feat/jellyfin-refresh-and-tests:bb4c095d94f671bb7b8e216479f0a9892fa95a6c;feat/bridged-streams:9672c6c032707a4b32e4ba208f77230fdf5418e8;feat/jellyfin-skip-preplay:19323e8396b3f39c798a5468e725e693ce5d7421;]|RELEASE:[none|none]
