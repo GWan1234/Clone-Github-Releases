@@ -5634,7 +5634,7 @@ rednblkx/aliro_ccc_core: BRANCHES:[main:f10c8283e152682bbe7034d095e7f4cf3e3001bb
 rednblkx/aliro_ccc_esp: BRANCHES:[main:7a3be07e2ef7dbbaea395ca572bc750e5c9bdd27;]|RELEASE:[none|none]
 Seeed-Studio/recamera-pro-ext-api: BRANCHES:[main:f90a2219ac513ede94b30af3b1d9d195e765eba0;codex/firmware-compat-ui-20260907:e130f1813810a7fbb6d51af4974435bfed339e79;feature/app-platform-v2-20260824:ef11a85cb0f2fa5f011b49877a0be5e5780c38f0;]|RELEASE:[none|none]
 rednblkx/aliro_uwb_wip: BRANCHES:[main:808f2b7a27dc98166fdf88ef67c11a3f7cb189ff;]|RELEASE:[none|none]
-home-assistant/apps-development: BRANCHES:[master:fd0e84622a3159b1518badf4342e0a4ab4d55ad1;]|RELEASE:[none|none]
+home-assistant/apps-development: BRANCHES:[frenck/renovate:6da43f391721963ef7ff35c44c5e8b3ecd5abdb6;master:fd0e84622a3159b1518badf4342e0a4ab4d55ad1;]|RELEASE:[none|none]
 DFRobot/pxt-Buliding-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:180a61c221b4a4ed59ccb1ccea02f5207ce868d9;]|RELEASE:[none|none]
 DFRobot/pxt-Building-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:b25d4340c0f7a2e8c227e76761bc700684227a8c;]|RELEASE:[none|none]
 OLIMEX/Neo6502kbd: BRANCHES:[main:9beb9861eab3543a1962f41e82d8c35c8571509f;]|RELEASE:[none|none]
