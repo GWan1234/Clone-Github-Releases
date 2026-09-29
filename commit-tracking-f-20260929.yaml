@@ -2087,3 +2087,4 @@ sparkfun/SparkFun_u-blox_GNSS_v4: BRANCHES:[esp-idf-component:55e5030ffbd9ab85d3
 sparkfun/SparkFun_Hubble_Network: BRANCHES:[main:c089df8f7022913ee42d62801d545fc984c9c3fc;]|RELEASES:[v1.0.0:c089df8f7022913ee42d62801d545fc984c9c3fc:none;]
 waveshareteam/9.7inch_e-Paper_E: BRANCHES:[main:342301a3d12e55bc8de237b5416e1e53800d321a;]|RELEASES:[]
 sparkfun/SparkFun_CO2_Sensor_STCC4_SHT40_Qwiic: BRANCHES:[main:836b63c8f684d57779cf0e699144ac056e0808ba;]|RELEASES:[]
+waveshareteam/ESP32-S3-RS485-WLED: BRANCHES:[main:4e6116bb7fc212280d878c3ff679ad1032ba7fc7;]|RELEASES:[]
