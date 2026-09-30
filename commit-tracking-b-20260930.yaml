@@ -4807,7 +4807,7 @@ atc1441/Action_104_Games_and_Pacman_DOOM: BRANCHES:[main:476ed808fe10db93f2db4ae
 kanoqwq/unisoc-android-openwrt-kvm: BRANCHES:[main:56aa92222ca3616eb03f508c7abef3570182b4ca;mu300-direct-br0:964938605b9553d807390960ca66b0f15614bf49;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panle-P4: BRANCHES:[master:a1ff4a98ee5c2ea1ca20ce11c9794a3672acca22;]|RELEASE:[none|none]
 emqx/terraform-provider-emqxcloud: BRANCHES:[dependabot/github_actions/codeql-action-f1ba23a83b:cfc967b17dc57b0e529fb6a46bbee9878df5d558;master:f9470152617d9e58f3c2714c3e95489b541331ef;]|RELEASE:[v0.2.0|none]
-Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:bb831ab358b66f5bd9a87ecd7c580fee4537492e;]|RELEASE:[v0.2.4|bb831ab358b66f5bd9a87ecd7c580fee4537492e]
+Xinyuan-LilyGO/T-Display-K230: BRANCHES:[main:25567fa810057d99aab08cd6daa98daaf02aa52f;]|RELEASE:[v0.2.5|25567fa810057d99aab08cd6daa98daaf02aa52f]
 Xinyuan-LilyGO/LilyGo-T-Pico2-MicroPython: BRANCHES:[main:db827d447e0b99fa15a0696800bbedd9d3d58596;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF52840: BRANCHES:[master:4646a728580739d487126f47a521e9b8032b3c2c;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Display-K230-nRF9151: BRANCHES:[main:6b19c08f7699512a01c693d637cca1a0ba407a24;]|RELEASE:[none|none]
