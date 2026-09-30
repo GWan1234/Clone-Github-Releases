@@ -3965,7 +3965,7 @@ emqx/parquer: BRANCHES:[main:94049e6e26846d1ef420500f04f7b1d9a851bd73;]|RELEASE:
 emqx/ESP32-QUIC: BRANCHES:[main:3c8c7a30b7b32ae3feaa07788b74eec637be37fc;]|RELEASE:[none|none]
 emqx/flowsdk: BRANCHES:[gh-pages:a4b1b17d4a7d8ee4c947dfe86ce99e7d7f30ba26;main:472902e97098ae84ec16d62481fb7e3a0411882c;automated/dependency-updates:c2d20cea81991b23d227cb994168089176e0cb45;dev/paho-c-api:4d9fb843255c0f6efaef5ed91264740acc349c20;emqxmain:8bcec0fd39cfa607b0a59b82e293cc63d658d062;]|RELEASE:[v0.6.2|none]
 emqx/esp32-mcp-mqtt-tutorial: BRANCHES:[main:ec121cd0ae2592b4b5a3fb7e7e6d8b1316dba13f;]|RELEASE:[none|none]
-emqx/macos-erlang: BRANCHES:[master:1e65a0125f99969fd5623999fe52e49f4fa542d5;]|RELEASE:[none|none]
+emqx/macos-erlang: BRANCHES:[master:10f04f0f2883d502946c32c643d57c84392c98d6;]|RELEASE:[none|none]
 emqx/esp-mcp-over-mqtt: BRANCHES:[main:67a3a0500a0f8d79ee8aaaf183ee06697a9c40ca;]|RELEASE:[none|none]
 emqx/paho-mcp-over-mqtt: BRANCHES:[main:2c71eeef716d60c52b8d46dd2d8e5355b3be83aa;]|RELEASE:[none|none]
 emqx/emqx-multimedia-proxy: BRANCHES:[main:f4eae7673f9d8cb0d5be0638190f0a1d19e2f318;asr_by_audio_file:c6a68a389eed6a0456a160135050c2dae4a88a50;]|RELEASE:[none|none]
