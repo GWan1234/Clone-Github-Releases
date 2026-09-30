@@ -7706,3 +7706,4 @@ OpenListTeam/DSH-Docker: BRANCHES:[main:18b1f1ed10998710ac6622c4d50ffa1fa091e06a
 ioBroker/ioBroker.flow: BRANCHES:[main:b348f5619d107dbf0aae4b82e73a41e35d5260aa;]|RELEASE:[none|none]
 yifengyou/BDY_G98_RK3588-linux-stable: BRANCHES:[master:d71ba70e38a46b4b51eaa75e0a04d3267b14e780;]|RELEASE:[linux_stable_kernel|none]
 syb999/openwrt-chrome: BRANCHES:[master:7716804d1115d968f315ee0e653a8ca35652238d;]|RELEASE:[aarch64|none]
+yifengyou/DECENTA_S21-RK3588-BOX18: BRANCHES:[master:7ffb48cc56eadf416b369f57c6bf34209e4c4a08;]|RELEASE:[official_5.10.66_kernel|none]
