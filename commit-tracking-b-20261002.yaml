@@ -4827,7 +4827,7 @@ Xinyuan-LilyGO/T-Impulse-Plus_V2.0: BRANCHES:[main:5b2412b187ba89bf0a330d6fe55b8
 chen08209/code_forge: BRANCHES:[main:0556586fa13d8c182ca49a96afa5143df276a2ec;]|RELEASE:[none|none]
 philippe44/tuya-local: BRANCHES:[accumulate-9.2:986d71e76d43715ebccbe7da5a5c0bb80b89f884;main:986d71e76d43715ebccbe7da5a5c0bb80b89f884;accumulate:1db4aae0089f5f997d4cdbfa415316a3c9da505c;async_tinytuya:063a049302cb413c186bae1805a7bd93329938a8;]|RELEASE:[none|none]
 atc1441/saphe-t_DOOM: BRANCHES:[main:351baefc2e5c12d4307f44e95046071a04cceeef;]|RELEASE:[none|none]
-kanoqwq/mu300-linux: BRANCHES:[main:46b3b55fc4bf364d38ba29dad12abd62fba3ffef;]|RELEASE:[none|none]
+kanoqwq/mu300-linux: BRANCHES:[clean-tf-7.2:5e301d4f6721b7da681f9afb3415e5b3b03937ae;luci-app-mu300-standalone:7cc55ae545d2a8fbcf221237866a195e255772c4;luci-app-mu300:372553c4d8b24651d218eabff4b02a037f30c57a;main:1a69a41ea9d20fadd575e9b082364d61ce5fcf9a;]|RELEASE:[none|none]
 kanoqwq/e5-linux: BRANCHES:[main:530e318a453f0d9b0b3bd1d11cad5b51bf8661d2;]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Panel-P4: BRANCHES:[master:a1ff4a98ee5c2ea1ca20ce11c9794a3672acca22;]|RELEASE:[none|none]
 emqx/emqx-package-manifests: BRANCHES:[master:623a3a9095e0724f003145bfeb4fef24ba09c7e2;]|RELEASE:[none|none]
