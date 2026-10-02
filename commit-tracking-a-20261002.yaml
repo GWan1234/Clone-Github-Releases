@@ -7707,3 +7707,4 @@ ioBroker/ioBroker.flow: BRANCHES:[main:b348f5619d107dbf0aae4b82e73a41e35d5260aa;
 yifengyou/BDY_G98_RK3588-linux-stable: BRANCHES:[master:b49c908d34c086c2b22a0ce5ede838e7c1541aa0;]|RELEASE:[linux_stable_kernel|none]
 syb999/openwrt-chrome: BRANCHES:[master:7716804d1115d968f315ee0e653a8ca35652238d;]|RELEASE:[aarch64|none]
 yifengyou/DECENTA_S21-RK3588-BOX18: BRANCHES:[master:7ffb48cc56eadf416b369f57c6bf34209e4c4a08;]|RELEASE:[official_5.10.66_kernel|none]
+yifengyou/BDY_G98_RK3588-openeuler: BRANCHES:[master:e22f5a1dc5af12ff0c66664a8e1a56cee78f9a80;]|RELEASE:[none|none]
