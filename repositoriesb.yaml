@@ -12,16 +12,16 @@ allrepositories:
   - iamromulan
   - FUjr
   - LilyGO
-  - Xinyuan-LilyGO
-  - emqx
-  - philippe44
-  - adafruit
-  - natecarlson
-  - iamromulan
-  - chen08209
-  - MetaCubeX
-  - atc1441
-  - pvvx
+#  - Xinyuan-LilyGO
+#  - emqx
+#  - philippe44
+#  - adafruit
+#  - natecarlson
+#  - iamromulan
+#  - chen08209
+#  - MetaCubeX
+#  - atc1441
+#  - pvvx
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库

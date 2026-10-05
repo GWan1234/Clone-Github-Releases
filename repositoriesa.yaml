@@ -1,22 +1,22 @@
 allrepositories:
-  - anzhiyu-c
-  - cockpit-project
-  - hacs
-  - esphome
-  - domoticz
-  - ioBroker
-  - OpenListTeam
-  - Finb
-  - algerkong
-  - ScottSloan
-  - obsproject
-  - antimof
-  - leapbtw
-  - AlistGo
-  - localsend
-  - thelastoutpostworkshop
-  - dr-dolomite
-  - sonocotta
+#  - anzhiyu-c
+#  - cockpit-project
+#  - hacs
+#  - esphome
+#  - domoticz
+#  - ioBroker
+#  - OpenListTeam
+#  - Finb
+#  - algerkong
+#  - ScottSloan
+#  - obsproject
+#  - antimof
+#  - leapbtw
+#  - AlistGo
+#  - localsend
+#  - thelastoutpostworkshop
+#  - dr-dolomite
+#  - sonocotta
   - HomeSpan
   - Andryushik
   - syb999
