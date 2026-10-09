@@ -1,6 +1,5 @@
 allrepositories:
-  - ophub
-
+  - ophub   #19
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库

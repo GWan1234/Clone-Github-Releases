@@ -1,10 +1,9 @@
 allrepositories:
-  - sparkfun
-  - HelTecAutomation
-  - waveshareteam
-#  - m5stack
-#  - Seeed-Studio
-
+  - sparkfun    #1486
+  - HelTecAutomation    #37
+  - waveshareteam    #168
+  - m5stack    #387
+  - Seeed-Studio    #506
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
