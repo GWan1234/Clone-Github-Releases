@@ -1,14 +1,16 @@
 allrepositories:
- # - ophub
+  - ophub
   - unifreq
   - martin-ger
   - playbridgeapp
-  - home-assistant
-  - DFRobot
-  - OLIMEX
-#  - Seeed-Studio
-#  - Joetooley28
-#  - rednblkx
+  - Joetooley28
+  - rednblkx
+
+#  - home-assistant 106
+#  - DFRobot 497
+#  - OLIMEX 154
+#  - Seeed-Studio 506
+
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库

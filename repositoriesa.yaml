@@ -29,9 +29,9 @@ allrepositories:
   - SmartRouterZone
   - Push3AX
 
-#  - yifengyou
-#  - syb999
-#  - ioBroker
+#  - yifengyou 556
+#  - syb999  160
+#  - ioBroker 241
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
