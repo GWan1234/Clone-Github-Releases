@@ -1,25 +1,23 @@
 allrepositories:
-#  - anzhiyu-c
-#  - cockpit-project
-#  - hacs
-#  - esphome
-#  - domoticz
-#  - ioBroker
-#  - OpenListTeam
-#  - Finb
-#  - algerkong
-#  - ScottSloan
-#  - obsproject
-#  - antimof
-#  - leapbtw
-#  - AlistGo
-#  - localsend
-#  - thelastoutpostworkshop
-#  - dr-dolomite
-#  - sonocotta
+  - anzhiyu-c
+  - cockpit-project
+  - hacs
+  - esphome
+  - domoticz
+  - OpenListTeam
+  - Finb
+  - algerkong
+  - ScottSloan
+  - obsproject
+  - antimof
+  - leapbtw
+  - AlistGo
+  - localsend
+  - thelastoutpostworkshop
+  - dr-dolomite
+  - sonocotta
   - HomeSpan
   - Andryushik
-  - syb999
   - arendst
   - Koenkk
   - qlwz
@@ -27,12 +25,14 @@ allrepositories:
   - lambilly
   - a2633063
   - flameshot-org
-  - yifengyou
   - dailook
   - SmartRouterZone
   - Push3AX
 
-  
+#  - yifengyou
+#  - syb999
+#  - ioBroker
+
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
