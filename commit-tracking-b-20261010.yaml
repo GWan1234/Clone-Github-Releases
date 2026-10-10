@@ -4563,3 +4563,4 @@ FUjr/sub2api: BRANCHES:[feat/qoder-provider:941991a577c4473401c2b267441a04224a41
 FUjr/tconnect-n2n: BRANCHES:[tconnect:8551c3f3266b7249e2b1a52eca175bb7f82d6767;]|RELEASE:[none|none]
 FUjr/tconnect-site: BRANCHES:[main:6f296e741ae6889d70fef4b01578e57e140e45cc;]|RELEASE:[v0.5.1|none]
 FUjr/tvpn: BRANCHES:[main:9b23656d708ade5212b78c88e388e0089927a4dd;]|RELEASE:[none|none]
+philippe44/tuya-local: BRANCHES:[accumulate-9.2:986d71e76d43715ebccbe7da5a5c0bb80b89f884;main:986d71e76d43715ebccbe7da5a5c0bb80b89f884;accumulate:1db4aae0089f5f997d4cdbfa415316a3c9da505c;async_tinytuya:063a049302cb413c186bae1805a7bd93329938a8;]|RELEASE:[none|none]
