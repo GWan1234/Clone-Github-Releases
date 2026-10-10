@@ -4554,3 +4554,4 @@ openwrt/rebuilder: BRANCHES:[dependabot/uv/mypy-gte-2.3.0:53b655f579d3ac34ad755b
 kanoqwq/DirScope: BRANCHES:[main:2e0c8f75a53be6218eaeee0e06598e18c7771ece;]|RELEASE:[none|none]
 kanoqwq/e5-linux: BRANCHES:[feat/fm-u20-openwrt:437cebc11fdfe586864dca41e1f2d9a263a1c351;feat/t551m-openwrt:7d7df8ea901748f22611ab69eb04fa87f1b8cff3;main:fd89c05eff02df823ee73384ae706196cd7e91a3;]|RELEASE:[none|none]
 kanoqwq/mu300-linux: BRANCHES:[clean-tf-7.2:23361cea515950e19abd02f1816142c324d3e03d;luci-app-mu300-standalone:7cc55ae545d2a8fbcf221237866a195e255772c4;luci-app-mu300:372553c4d8b24651d218eabff4b02a037f30c57a;main:1a69a41ea9d20fadd575e9b082364d61ce5fcf9a;]|RELEASE:[none|none]
+kanoqwq/unisoc-android-openwrt-kvm: BRANCHES:[main:56aa92222ca3616eb03f508c7abef3570182b4ca;mu300-direct-br0:964938605b9553d807390960ca66b0f15614bf49;]|RELEASE:[none|none]
