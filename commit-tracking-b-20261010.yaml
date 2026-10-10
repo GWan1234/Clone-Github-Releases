@@ -4618,3 +4618,4 @@ MetaCubeX/utls: BRANCHES:[v1.7.0-mod-meta:449a38f8780006758205a60661a0bc374a182c
 MetaCubeX/update-go-mod-replace: BRANCHES:[main:f782cd79bccfb8582e01d40fe9e9726d5ec0237a;]|RELEASE:[none|none]
 MetaCubeX/randv2: BRANCHES:[main:81aa96a9b1a5e71d88acec7fd9c8a435e5bd290c;]|RELEASE:[none|none]
 MetaCubeX/chacha: BRANCHES:[master:7b981d42c3baca5a004e7b0ecfb9b67ee20e583a;]|RELEASE:[none|none]
+MetaCubeX/meta-rules-converter: BRANCHES:[main:7dea27841a3579a633189830c98c08a0434e8b79;]|RELEASE:[none|none]
