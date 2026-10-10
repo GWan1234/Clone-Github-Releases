@@ -4660,3 +4660,4 @@ MetaCubeX/pion-transport: BRANCHES:[main:30cc4696d6eee7ed1356f0eaf5739a6ca689d2e
 MetaCubeX/pion-dtls: BRANCHES:[main:42277f00defbddd4b89613b9351449ec61da2f94;]|RELEASE:[none|none]
 MetaCubeX/ssh: BRANCHES:[master:3b5e14baba09f468ae60963b0863edb523899fe5;]|RELEASE:[none|none]
 MetaCubeX/pion-stun: BRANCHES:[main:023c66f2fc9672364d3f1e7ff1bf39ba748856b8;]|RELEASE:[none|none]
+MetaCubeX/jsonv2: BRANCHES:[master:16b4998c8f89a5b9e10a87afe86b3319d2f6cff2;for-meta-v1.19.25:f4597c22f1df52bcbb4c12f430dd2d0cad9140c7;]|RELEASE:[none|none]
