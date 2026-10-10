@@ -5,22 +5,13 @@ on:
     - cron: "0 0 * * 1,3,5"
   workflow_dispatch:
 
-# 避免同一工作流并发修改同一份跟踪文件。
-concurrency:
-  group: clone-backup-repositories-a
-  cancel-in-progress: false
-
-permissions:
-  contents: write
-
 jobs:
   backup:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.MY_TOKEN }}
@@ -39,56 +30,48 @@ jobs:
       - name: Install deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq yq gh git curl p7zip-full coreutils bc
+          sudo apt-get install -y jq p7zip-full coreutils bc || \
+          sudo apt-get install -y jq 7zip coreutils bc
+          # yq / gh / git / curl 已预装在 runner 镜像中
 
       - name: Run backup
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-          GH_TOKEN: ${{ secrets.MY_TOKEN }}
-        shell: bash
         run: |
-          set -Eeuo pipefail
+          set -uo pipefail
           export GIT_TERMINAL_PROMPT=0
           shopt -s nullglob globstar
 
           # =========================
-          # 时间配置与增量基线
+          # 时间配置
           # =========================
           NOW_DATE=$(date +"%Y%m%d")
           NOW_TIME=$(date +"%H%M")
           NOW_HUMAN=$(date +"%Y-%m-%d %H:%M")
           TRACKING_FILE="commit-tracking-a-${NOW_DATE}.yaml"
 
-          # 优先使用已经存在的当天文件；否则使用最近的历史文件。
-          if [[ -f "$TRACKING_FILE" ]]; then
-            LAST_TRACKING_FILE="$TRACKING_FILE"
-          else
-            LAST_TRACKING_FILE=$(
-              find . -maxdepth 1 -type f \
-                -name 'commit-tracking-a-*.yaml' \
-                ! -name "$TRACKING_FILE" \
-                -printf '%f\n' |
-              sort -r |
-              head -n 1 || true
-            )
-            LAST_TRACKING_FILE="${LAST_TRACKING_FILE:-}"
+          # =========================
+          # 历史基线选择：严格排除「当天」文件
+          # =========================
+          LAST_TRACKING_FILE=$(ls -1 commit-tracking-a-*.yaml 2>/dev/null \
+            | grep -v -- "commit-tracking-a-${NOW_DATE}.yaml" \
+            | sort -r | head -n1 || true)
 
-            if [[ -n "$LAST_TRACKING_FILE" && -f "$LAST_TRACKING_FILE" ]]; then
-              echo "📋 Initializing today's tracking file from: $LAST_TRACKING_FILE"
-              cp "$LAST_TRACKING_FILE" "$TRACKING_FILE"
-            else
-              echo "📋 No historical tracking file found; first run will back up repositories"
-              printf '{}\n' > "$TRACKING_FILE"
-            fi
+          # 若今天的文件不存在，从历史基线复制作为初始状态
+          # 目的：即使当天工作流中途失败，也不会让后续运行误判「从未备份」→ 强制全量
+          if [[ ! -f "$TRACKING_FILE" && -n "$LAST_TRACKING_FILE" && -f "$LAST_TRACKING_FILE" ]]; then
+            echo "📋 Initializing today's tracking from: $LAST_TRACKING_FILE"
+            cp "$LAST_TRACKING_FILE" "$TRACKING_FILE"
           fi
 
-          # 固定本次运行的比较基线。
-          # 当天文件是工作目标，也是当天后续运行的增量基线。
-          echo "📌 Tracking file: $TRACKING_FILE"
-          echo "📌 Baseline file: $LAST_TRACKING_FILE"
+          # =========================
+          # 全局统计
+          # =========================
+          TOTAL_SUCCESS=0
+          TOTAL_FAILED=0
 
           # =========================
-          # 安全函数
+          # 工具函数
           # =========================
           safe() {
             local v="${1:-unknown}"
@@ -100,60 +83,35 @@ jobs:
           }
 
           sanitize() {
-            printf '%s' "${1:-unknown}" |
-              tr '/' '-' |
-              tr '[:upper:]' '[:lower:]' |
-              sed 's/[^a-z0-9._-]/-/g' |
-              sed 's/-\+/-/g' |
-              sed 's/^-//;s/-$//'
+            echo "$1" \
+              | tr '/' '-' \
+              | tr '[:upper:]' '[:lower:]' \
+              | sed 's/[^a-z0-9._-]/-/g' \
+              | sed 's/-\+/-/g' \
+              | sed 's/^-//;s/-$//'
           }
 
           cleanup() {
-            rm -rf -- tmp 2>/dev/null || true
-            rm -f -- ./*.7z ./*.7z.* ./*.sha256 ./up-* ./core.* 2>/dev/null || true
+            rm -rf tmp *.7z* *.sha256 up-* core.* .DS_Store 2>/dev/null || true
           }
 
           auth_url() {
-            printf 'https://x-access-token:%s@github.com/%s.git' "$GITHUB_TOKEN" "$1"
+            echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
+          # 每个仓库只调用一次（结果复用）
           fetch_repo_info() {
-            local result
-            result=$(curl -fsSL --retry 2 --retry-delay 1 --max-time 20 \
+            curl -fsSL --retry 2 --max-time 15 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/$1") || {
-                echo "⚠️ Failed to fetch repository metadata: $1" >&2
-                return 1
-              }
-            printf '%s\n' "$result"
+              "https://api.github.com/repos/$1" \
+              2>/dev/null || echo '{}'
           }
 
           fetch_latest_release() {
-            local repo="$1"
-            local result
-            # 没有发布过 Release 时，404 是正常情况。
-            result=$(curl -sSL --retry 2 --retry-delay 1 --max-time 20 \
+            curl -fsSL --retry 2 --max-time 15 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              -H "Accept: application/vnd.github+json" \
-              -w '\n%{http_code}' \
-              "https://api.github.com/repos/${repo}/releases/latest") || {
-                echo "⚠️ Failed to query latest release: $repo" >&2
-                return 1
-              }
-
-            local status body
-            status="${result##*$'\n'}"
-            body="${result%$'\n'*}"
-
-            if [[ "$status" == "404" ]]; then
-              printf '{}\n'
-            elif [[ "$status" == "200" ]] && jq -e 'type == "object"' <<< "$body" >/dev/null; then
-              printf '%s\n' "$body"
-            else
-              echo "⚠️ Unexpected release API response for $repo (HTTP $status)" >&2
-              return 1
-            fi
+              "https://api.github.com/repos/$1/releases/latest" \
+              2>/dev/null || echo '{}'
           }
 
           release_exists() {
@@ -161,23 +119,18 @@ jobs:
           }
 
           human_size() {
-            numfmt --to=iec --suffix=B "${1:-0}" 2>/dev/null || echo "0B"
+            numfmt --to=iec --suffix=B "$1" 2>/dev/null || echo "0B"
           }
 
           safe_upload() {
             local file="$1"
             local tag="$2"
-
-            if [[ ! -f "$file" || ! -s "$file" ]]; then
-              echo "❌ Missing or empty upload file: $file"
-              return 1
-            fi
-
-            echo "Uploading: $file"
-            if ! gh release upload "$tag" "$file" \
-              --repo "$GITHUB_REPOSITORY" --clobber; then
-              echo "❌ UPLOAD FAILED: $file"
-              return 1
+            if [[ -f "$file" && -s "$file" ]]; then
+              echo "Uploading: $file"
+              if ! gh release upload "$tag" "$file" --repo "$GITHUB_REPOSITORY" --clobber; then
+                echo "❌ UPLOAD FAILED: $file"
+                return 1
+              fi
             fi
             return 0
           }
@@ -185,233 +138,195 @@ jobs:
           set_tracking() {
             local repo="$1"
             local state="$2"
-            local tmp_file
-
-            [[ -n "$repo" && -n "$state" ]] || {
-              echo "❌ Invalid tracking arguments"
-              return 1
-            }
-
-            tmp_file=$(mktemp "${TRACKING_FILE}.XXXXXX")
-            if ! yq -y --arg repo "$repo" --arg state "$state" \
-              '.[$repo] = $state' "$TRACKING_FILE" > "$tmp_file"; then
-              echo "❌ Failed to update tracking data: $repo"
-              rm -f "$tmp_file"
-              return 1
-            fi
-
-            if ! yq -e 'type == "object"' "$tmp_file" >/dev/null; then
-              echo "❌ Invalid tracking YAML after updating $repo"
-              rm -f "$tmp_file"
-              return 1
-            fi
-
-            if ! mv "$tmp_file" "$TRACKING_FILE"; then
-              echo "❌ Failed to save tracking file"
-              rm -f "$tmp_file"
-              return 1
-            fi
+            yq -i --arg repo "$repo" --arg state "$state" '.[$repo] = $state' "$TRACKING_FILE" 2>/dev/null || true
           }
 
+          # =========================================================
+          # 同步 tracking 文件：
+          #   - 先 diff，无变化跳过
+          #   - 只 add/commit TRACKING_FILE，不污染工作区其它文件
+          #   - 只有确有本地未推送的提交才 push
+          # =========================================================
           sync_tracking() {
-            echo -e "\n💾 Syncing tracking file to GitHub..."
-            git config user.name "Action"
-            git config user.email "action@github.com"
+            echo -e "\n💾 Syncing tracking file..."
+            git config --global user.name "Action"
+            git config --global user.email "action@github.com"
 
-            local branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME:-main}}"
-            if [[ "$GITHUB_REF" == refs/pull/* ]]; then
-              echo "❌ Refusing to push tracking file from a pull request"
-              return 1
-            fi
+            local branch="${GITHUB_REF_NAME:-main}"
+            git checkout "$branch" 2>/dev/null || git checkout main 2>/dev/null || true
 
-            # 获取远端最新状态并将本地跟踪文件变更放在其之上。
-            if ! git fetch origin "$branch"; then
-              echo "❌ Tracking fetch failed for branch: $branch"
-              return 1
-            fi
-
-            if ! git checkout -B "$branch" "origin/$branch"; then
-              echo "❌ Tracking checkout failed for branch: $branch"
-              return 1
-            fi
-
+            # 只暂存 tracking 文件
             git add -- "$TRACKING_FILE"
 
-            if ! git diff --cached --quiet; then
-              if ! git commit -m "track sync: $NOW_HUMAN"; then
-                echo "❌ Tracking commit failed"
-                return 1
-              fi
+            # 有 diff 才 commit
+            if ! git diff --cached --quiet -- "$TRACKING_FILE"; then
+              git commit -m "track sync: $NOW_HUMAN" -- "$TRACKING_FILE" >/dev/null
             else
               echo "ℹ️ No tracking changes to commit"
             fi
 
-            if ! git push origin "HEAD:$branch"; then
+            # 是否还有未推送的提交？
+            git fetch origin "$branch" >/dev/null 2>&1 || true
+            local ahead
+            ahead=$(git rev-list --count "origin/$branch..HEAD" 2>/dev/null || echo 0)
+            if [[ "$ahead" == "0" ]]; then
+              echo "ℹ️ Tracking already up-to-date"
+              return 0
+            fi
+
+            if ! git pull --rebase origin "$branch" >/dev/null 2>&1; then
+              echo "❌ Tracking pull/rebase failed"
+              return 1
+            fi
+            if ! git push origin HEAD >/dev/null 2>&1; then
               echo "❌ Tracking push failed"
               return 1
             fi
-
             echo "✅ Tracking file synced"
+            return 0
           }
 
-          # =========================
-          # 获取仓库状态：
-          # 所有本地分支的名称与 HEAD SHA + 最新上游 Release tag/commit
-          # 实际打包仍然只打包按提交时间排序的 TOP10 分支。
-          # =========================
+          # =========================================================
+          # 状态快照：完全基于本地 mirror，不再调用 git ls-remote
+          # =========================================================
           get_repo_current_state() {
-            local repo="$1"
-            local mirror="$2"
-            local release_json="$3"
+            local mirror="$1"
+            local release_json="$2"
 
-            local branch_states
-            branch_states=$(
+            local branch_states=""
+            local count=0
+
+            while read -r name sha; do
+              [[ $count -ge 10 ]] && break
+              branch_states+="${name}:${sha};"
+              count=$((count + 1))
+            done < <(
               git -C "$mirror" for-each-ref \
-                --sort=refname \
-                --format='%(refname:short):%(objectname)' \
-                refs/heads
+                --sort=-committerdate \
+                --format='%(refname:short) %(objectname)' \
+                refs/heads 2>/dev/null || true
             )
 
             local rel_tag rel_commit
-            rel_tag=$(jq -r '.tag_name // "none"' <<< "$release_json" 2>/dev/null || echo "none")
-            rel_commit="none"
+            rel_tag=$(echo "$release_json" | jq -r '.tag_name // "none"' 2>/dev/null || echo "none")
 
             if [[ "$rel_tag" != "none" ]]; then
-              rel_commit=$(
-                git -C "$mirror" rev-parse --verify \
-                  "refs/tags/${rel_tag}^{}" 2>/dev/null ||
-                git -C "$mirror" rev-parse --verify \
-                  "refs/tags/${rel_tag}" 2>/dev/null ||
-                true
-              )
-              rel_commit="${rel_commit:-none}"
+              # 直接用本地镜像的 tag（annotated tag 用 ^{commit} 解引用）
+              rel_commit=$(git -C "$mirror" rev-parse "refs/tags/${rel_tag}^{commit}" 2>/dev/null \
+                        || git -C "$mirror" rev-parse "refs/tags/${rel_tag}" 2>/dev/null \
+                        || echo "none")
+            else
+              rel_commit="none"
             fi
 
-            # 使用固定排序和明确分隔符，避免分支遍历顺序改变引起误判。
-            printf 'BRANCHES:[%s]|RELEASE:[%s|%s]' \
-              "$branch_states" "$rel_tag" "$rel_commit"
+            echo "BRANCHES:[${branch_states}]|RELEASE:[${rel_tag}|${rel_commit}]"
           }
 
+          # =========================================================
+          # 是否需要备份：对比今天的 tracking 文件（已含今日进度）
+          # - 没文件 → 首次全量
+          # - 有文件 → 严格按 state 比较
+          # =========================================================
           need_backup() {
             local repo="$1"
             local current_state="$2"
 
-            if [[ -z "$LAST_TRACKING_FILE" || ! -f "$LAST_TRACKING_FILE" ]]; then
+            if [[ ! -f "$TRACKING_FILE" ]]; then
+              echo "🔴 No baseline file → force backup"
               return 0
             fi
 
             local last_state
-            last_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' \
-              "$LAST_TRACKING_FILE" 2>/dev/null) || {
-                echo "⚠️ Could not read tracking state for $repo; forcing backup"
-                return 0
-              }
+            last_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$TRACKING_FILE" 2>/dev/null || true)
 
-            [[ "$last_state" != "$current_state" ]]
+            if [[ "$last_state" != "$current_state" ]]; then
+              return 0
+            fi
+            return 1
           }
 
           build_notes() {
-            local REPO="$1"
-            local REPO_JSON="$2"
-            local BRANCH_COUNT="$3"
-            local ARCHIVE_SIZE="$4"
-            local RELEASE_TIME="$5"
-            local UPSTREAM_JSON="$6"
+            REPO="$1"; REPO_JSON="$2"; BRANCH_COUNT="$3"
+            ARCHIVE_SIZE="$4"; RELEASE_TIME="$5"; UPSTREAM_JSON="$6"
 
-            local REPO_URL DESC DEF_BRANCH LANG STARS FORKS
-            local CREATED UPDATED PUSHED UP_TAG UP_NAME UP_TIME
-
-            REPO_URL=$(safe "$(jq -r '.html_url // "unknown"' <<< "$REPO_JSON")")
-            DESC=$(safe "$(jq -r '.description // "none"' <<< "$REPO_JSON")")
-            DEF_BRANCH=$(safe "$(jq -r '.default_branch // "unknown"' <<< "$REPO_JSON")")
-            LANG=$(safe "$(jq -r '.language // "unknown"' <<< "$REPO_JSON")")
-            STARS=$(safe "$(jq -r '.stargazers_count // 0' <<< "$REPO_JSON")")
-            FORKS=$(safe "$(jq -r '.forks_count // 0' <<< "$REPO_JSON")")
-            CREATED=$(safe "$(jq -r '.created_at // "unknown"' <<< "$REPO_JSON")")
-            UPDATED=$(safe "$(jq -r '.updated_at // "unknown"' <<< "$REPO_JSON")")
-            PUSHED=$(safe "$(jq -r '.pushed_at // "unknown"' <<< "$REPO_JSON")")
-            UP_TAG=$(safe "$(jq -r '.tag_name // "none"' <<< "$UPSTREAM_JSON")")
-            UP_NAME=$(safe "$(jq -r '.name // "none"' <<< "$UPSTREAM_JSON")")
-            UP_TIME=$(safe "$(jq -r '.published_at // "none"' <<< "$UPSTREAM_JSON")")
+            REPO_URL=$(safe "$(echo "$REPO_JSON" | jq -r '.html_url // "unknown"' 2>/dev/null)")
+            DESC=$(safe "$(echo "$REPO_JSON" | jq -r '.description // "none"' 2>/dev/null)")
+            DEF_BRANCH=$(safe "$(echo "$REPO_JSON" | jq -r '.default_branch // "unknown"' 2>/dev/null)")
+            LANG=$(safe "$(echo "$REPO_JSON" | jq -r '.language // "unknown"' 2>/dev/null)")
+            STARS=$(safe "$(echo "$REPO_JSON" | jq -r '.stargazers_count // 0' 2>/dev/null)")
+            FORKS=$(safe "$(echo "$REPO_JSON" | jq -r '.forks_count // 0' 2>/dev/null)")
+            CREATED=$(safe "$(echo "$REPO_JSON" | jq -r '.created_at // "unknown"' 2>/dev/null)")
+            UPDATED=$(safe "$(echo "$REPO_JSON" | jq -r '.updated_at // "unknown"' 2>/dev/null)")
+            PUSHED=$(safe "$(echo "$REPO_JSON" | jq -r '.pushed_at // "unknown"' 2>/dev/null)")
+            UP_TAG=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.tag_name // "none"' 2>/dev/null)")
+            UP_NAME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.name // "none"' 2>/dev/null)")
+            UP_TIME=$(safe "$(echo "$UPSTREAM_JSON" | jq -r '.published_at // "none"' 2>/dev/null)")
 
             printf -- "## 📦 Repository Info\n"
             printf -- "- URL: %s\n" "$REPO_URL"
             printf -- "- Description: %s\n" "$DESC"
             printf -- "- Default branch: %s\n" "$DEF_BRANCH"
             printf -- "- Language: %s\n" "$LANG"
-            printf -- "- Stars: %s | Forks: %s\n\n" "$STARS" "$FORKS"
-
-            printf -- "## 🕒 Source Timeline\n"
+            printf -- "- Stars: %s | Forks: %s\n" "$STARS" "$FORKS"
+            printf -- "\n## 🕒 Source Timeline\n"
             printf -- "- Created: %s\n" "$CREATED"
             printf -- "- Updated: %s\n" "$UPDATED"
-            printf -- "- Pushed: %s\n\n" "$PUSHED"
-
-            printf -- "## 🏷 Upstream Release\n"
+            printf -- "- Pushed: %s\n" "$PUSHED"
+            printf -- "\n## 🏷 Upstream Release\n"
             printf -- "- Tag: %s\n" "$UP_TAG"
             printf -- "- Name: %s\n" "$UP_NAME"
-            printf -- "- Published: %s\n\n" "$UP_TIME"
-
-            printf -- "## 📊 Backup Info\n"
+            printf -- "- Published: %s\n" "$UP_TIME"
+            printf -- "\n## 📊 Backup Info\n"
             printf -- "- Branch count: %s\n" "$BRANCH_COUNT"
             printf -- "- Archive size: %s\n" "$(human_size "$ARCHIVE_SIZE")"
-            printf -- "- Backup time: %s\n\n" "$RELEASE_TIME"
-            printf -- "## 🔍 Incremental Backup\n"
-            printf -- "- Track all branch HEAD commits and latest release tag/commit\n"
-            printf -- "- Package up to 10 branches sorted by commit time\n"
-            printf -- "- Backup triggered by tracked state changes\n"
+            printf -- "- Backup time: %s\n" "$RELEASE_TIME"
+            printf -- "\n## 🔍 Incremental Backup\n"
+            printf -- "- Track 10 latest branches commits (sorted by commit time)\n"
+            printf -- "- Track latest release commit & tag\n"
+            printf -- "- Backup triggered by any change"
           }
 
-          # =========================
+          # =========================================================
           # 获取用户/组织全部 public repo
-          # =========================
+          # =========================================================
           get_all_repos() {
             local owner="$1"
-            local user_info type api_endpoint page data count
+            local user_info type
+            user_info=$(curl -sSL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              "https://api.github.com/users/$owner")
+            type=$(echo "$user_info" | jq -r '.type // empty')
 
-            if ! user_info=$(curl -fsSL --retry 2 --retry-delay 1 --max-time 20 \
-              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-              -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/users/$owner"); then
-              echo "❌ Error: Could not resolve owner $owner" >&2
-              return 1
-            fi
-
-            type=$(jq -r '.type // empty' <<< "$user_info")
             if [[ -z "$type" ]]; then
-              echo "❌ Error: Could not resolve owner type for $owner" >&2
-              return 1
+              echo "❌ Could not resolve owner type: $owner" >&2
+              return 0
             fi
 
+            local api_endpoint
             if [[ "$type" == "Organization" ]]; then
               api_endpoint="orgs/$owner/repos"
             else
               api_endpoint="users/$owner/repos"
             fi
 
-            page=1
-            while :; do
-              if ! data=$(curl -fsSL --retry 2 --retry-delay 1 --max-time 30 \
-                -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-                -H "Accept: application/vnd.github+json" \
-                "https://api.github.com/${api_endpoint}?type=public&per_page=100&page=$page"); then
-                echo "❌ API request failed for $owner (page $page)" >&2
-                return 1
+            local page=1 max_pages=20
+            while [[ $page -le $max_pages ]]; do
+              local data count
+              data=$(curl -sSL -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+                "https://api.github.com/${api_endpoint}?per_page=100&page=$page")
+              if [[ "$(echo "$data" | jq 'type')" != '"array"' ]]; then
+                echo "❌ API Error for $owner page $page" >&2
+                break
               fi
-
-              if ! jq -e 'type == "array"' <<< "$data" >/dev/null; then
-                echo "❌ Invalid API response for $owner (page $page)" >&2
-                return 1
-              fi
-
-              count=$(jq 'length' <<< "$data")
-              [[ "$count" -eq 0 ]] && break
-
-              jq -r '.[] | select(.private == false) | .full_name // empty' <<< "$data"
-              [[ "$count" -lt 100 ]] && break
+              count=$(echo "$data" | jq 'length')
+              [[ "$count" == "0" ]] && break
+              echo "$data" | jq -r '.[] | select(.private==false) | .full_name'
               page=$((page + 1))
             done
           }
 
+          # =========================================================
+          # 备份单个仓库
+          # =========================================================
           backup_repo() {
             local REPO="$1"
             echo -e "\n====================================="
@@ -420,224 +335,165 @@ jobs:
 
             cleanup
             mkdir -p tmp
-
             local error_occurred=0
+
             local REPO_SLUG TAG
             REPO_SLUG=$(sanitize "$REPO")
-            TAG="${REPO_SLUG}-${NOW_DATE}-${NOW_TIME}"
-            TAG=$(sanitize "$TAG")
+            TAG=$(sanitize "${REPO_SLUG}-${NOW_DATE}-${NOW_TIME}" | cut -c1-120)
 
+            if release_exists "$TAG"; then
+              echo "⚠️ Release $TAG already exists, recreating..."
+              gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
+            fi
+
+            # 每个仓库只取一次 API 信息
             local REPO_JSON UPSTREAM_JSON
-            if ! REPO_JSON=$(fetch_repo_info "$REPO"); then
-              cleanup
-              return 1
-            fi
-            if ! UPSTREAM_JSON=$(fetch_latest_release "$REPO"); then
-              cleanup
-              return 1
-            fi
+            REPO_JSON=$(fetch_repo_info "$REPO")
+            UPSTREAM_JSON=$(fetch_latest_release "$REPO")
 
             local MIRROR EXPORT
             MIRROR="tmp/${REPO_SLUG}.git"
             EXPORT="tmp/export/${REPO_SLUG}"
             mkdir -p "$EXPORT"
 
-            echo "🔽 Cloning repository mirror..."
-            if ! git clone --mirror "$(auth_url "$REPO")" "$MIRROR"; then
-              echo "❌ Clone failed: $REPO"
+            echo "🔽 Cloning repository..."
+            if ! git clone --mirror "$(auth_url "$REPO")" "$MIRROR" >/dev/null 2>&1; then
+              echo "❌ Clone failed, skip repo"
+              TOTAL_FAILED=$((TOTAL_FAILED + 1))
               cleanup
-              return 1
+              return 0
             fi
 
+            # 状态快照：基于本地镜像（无 ls-remote）
             local CURRENT_STATE
-            CURRENT_STATE=$(get_repo_current_state "$REPO" "$MIRROR" "$UPSTREAM_JSON")
+            CURRENT_STATE=$(get_repo_current_state "$MIRROR" "$UPSTREAM_JSON")
 
+            # 只有在需要备份时才走归档流程
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
               echo "✅ Skip: $REPO (no changes)"
               cleanup
               return 0
             fi
-            echo "🔴 Changes detected or no valid baseline → backup"
+            echo "🔴 Changes detected → backup"
 
-            # 仅在确认需要备份后处理同名 Release。
-            if release_exists "$TAG"; then
-              echo "⚠️ Release $TAG already exists; replacing it because this backup is required"
-              if ! gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y; then
-                echo "❌ Failed to remove existing Release: $TAG"
-                cleanup
-                return 1
-              fi
-            fi
-
+            # TOP10 最近提交的分支
+            local BRANCHES=()
             mapfile -t BRANCHES < <(
               git -C "$MIRROR" for-each-ref \
                 --sort=-committerdate \
-                --format='%(refname:short)' refs/heads
+                --format='%(refname:short)' \
+                refs/heads 2>/dev/null || true
             )
             BRANCHES=("${BRANCHES[@]:0:10}")
 
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
-              echo "❌ No branches found, skip: $REPO"
+              echo "❌ No branches found, skip"
               cleanup
-              return 1
+              return 0
             fi
 
             echo "📦 Packaging ${#BRANCHES[@]} branches (TOP10 latest)..."
-            local -a FILES=()
-            local IDX=0 B B_SLUG DIR ARCHIVE f
+            local FILES=() IDX=0
 
             for B in "${BRANCHES[@]}"; do
+              local B_SLUG DIR ARCHIVE
               B_SLUG=$(sanitize "$B")
               DIR="${EXPORT}/${B_SLUG}"
               mkdir -p "$DIR"
 
-              if ! git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR"; then
-                echo "❌ Failed to export branch: $B"
-                error_occurred=1
-                continue
-              fi
+              git -C "$MIRROR" archive "$B" | tar -xf - -C "$DIR" 2>/dev/null || continue
 
               ARCHIVE="${REPO_SLUG}-${B_SLUG}-${IDX}.7z"
-              if ! 7z a -t7z -mx5 -mmt2 -v1500m "$ARCHIVE" "$DIR"; then
-                echo "❌ Compression failed: $ARCHIVE"
-                error_occurred=1
-                IDX=$((IDX + 1))
-                continue
-              fi
+              7z a -t7z -mx5 -mmt2 -v1500m "$ARCHIVE" "$DIR" >/dev/null 2>&1 || true
 
-              local -a generated_parts=()
               for f in "${ARCHIVE}"*; do
-                [[ -f "$f" && -s "$f" && "$f" != *.sha256 ]] || continue
-                generated_parts+=("$f")
+                if [[ -f "$f" && -s "$f" && "$f" != *.sha256 ]]; then
+                  sha256sum "$f" > "${f}.sha256" 2>/dev/null || true
+                  FILES+=("$f" "${f}.sha256")
+                fi
               done
-
-              if [[ ${#generated_parts[@]} -eq 0 ]]; then
-                echo "❌ No archive volumes generated: $ARCHIVE"
-                error_occurred=1
-              else
-                for f in "${generated_parts[@]}"; do
-                  if ! sha256sum "$f" > "${f}.sha256"; then
-                    echo "❌ SHA256 generation failed: $f"
-                    error_occurred=1
-                  else
-                    FILES+=("$f" "${f}.sha256")
-                  fi
-                done
-              fi
-
               IDX=$((IDX + 1))
             done
 
-            if [[ ${#FILES[@]} -eq 0 || $error_occurred -ne 0 ]]; then
-              echo "❌ Archive generation incomplete; refusing to publish"
+            if [[ ${#FILES[@]} -eq 0 ]]; then
+              echo "❌ No packages generated, skip release"
+              TOTAL_FAILED=$((TOTAL_FAILED + 1))
               cleanup
-              return 1
+              return 0
             fi
 
             local TOTAL_SIZE=0
-            for f in "${FILES[@]}"; do
-              [[ "$f" == *.sha256 ]] && continue
-              TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f")))
+            for f in *.7z*; do
+              [[ -f "$f" && "$f" != *.sha256 ]] && \
+                TOTAL_SIZE=$((TOTAL_SIZE + $(stat -c%s "$f" 2>/dev/null || echo 0)))
             done
-
-            local NOTES_FILE
-            NOTES_FILE=$(mktemp)
-            build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" \
-              "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
 
             echo "🚀 Creating release: $TAG"
-            if ! gh release create "$TAG" "${FILES[0]}" \
+            local NOTES_FILE
+            NOTES_FILE=$(mktemp)
+            build_notes "$REPO" "$REPO_JSON" "${#BRANCHES[@]}" "$TOTAL_SIZE" "$NOW_HUMAN" "$UPSTREAM_JSON" > "$NOTES_FILE"
+
+            local FIRST_FILE="${FILES[0]}"
+            if ! gh release create "$TAG" "$FIRST_FILE" \
               --repo "$GITHUB_REPOSITORY" \
               --title "$REPO_SLUG ($NOW_HUMAN)" \
-              --notes-file "$NOTES_FILE"; then
-              echo "❌ Release create failed: $TAG"
+              --notes-file "$NOTES_FILE" 2>/dev/null; then
+              echo "❌ Release create failed → cleaning up..."
+              gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
+              error_occurred=1
               rm -f "$NOTES_FILE"
               cleanup
-              return 1
+              TOTAL_FAILED=$((TOTAL_FAILED + 1))
+              return 0
             fi
+            echo "✅ Release created"
 
-            # 上传剩余归档分卷和校验文件；任何必要文件失败都不更新 tracking。
-            echo "📤 Uploading remaining ${#FILES[@]} files..."
-            local i
+            echo "📤 Uploading ${#FILES[@]} files..."
             for ((i=1; i<${#FILES[@]}; i++)); do
-              if ! safe_upload "${FILES[$i]}" "$TAG"; then
-                error_occurred=1
-              fi
+              safe_upload "${FILES[$i]}" "$TAG" || error_occurred=1
             done
 
-            # 同步上游 Release 资产。
-            # 上游资产同步失败会标记失败，避免把不完整的备份记为成功。
             echo "🔗 Syncing upstream assets..."
-            local ASSETS_DATA ASSET_NAME ASSET_URL
-            ASSETS_DATA=$(jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' \
-              <<< "$UPSTREAM_JSON" 2>/dev/null || true)
-
+            local ASSETS_DATA
+            ASSETS_DATA=$(echo "$UPSTREAM_JSON" | jq -c '.assets[]? | select(.name != null and .browser_download_url != null)' 2>/dev/null || true)
             if [[ -n "$ASSETS_DATA" ]]; then
-              while IFS= read -r asset; do
+              while read -r asset; do
                 [[ -z "$asset" ]] && continue
-                ASSET_NAME=$(jq -r '.name' <<< "$asset")
-                ASSET_URL=$(jq -r '.browser_download_url' <<< "$asset")
-
-                # 防止上游资产文件名包含路径分隔符或覆盖临时目录以外文件。
-                local ASSET_SAFE
-                ASSET_SAFE=$(basename -- "$ASSET_NAME")
+                local ASSET_NAME ASSET_URL
+                ASSET_NAME=$(echo "$asset" | jq -r '.name' 2>/dev/null || continue)
+                ASSET_URL=$(echo "$asset" | jq -r '.browser_download_url' 2>/dev/null || continue)
                 echo "--> Asset: $ASSET_NAME"
-
-                if ! curl -fL --retry 2 --retry-delay 1 --max-time 60 \
-                  -o "up-${ASSET_SAFE}" "$ASSET_URL"; then
-                  echo "❌ Upstream asset download failed: $ASSET_NAME"
-                  error_occurred=1
-                  rm -f -- "up-${ASSET_SAFE}"
-                  continue
+                curl -LSs --retry 1 --max-time 30 -o "up-$ASSET_NAME" "$ASSET_URL" 2>/dev/null || continue
+                if [[ -f "up-$ASSET_NAME" && -s "up-$ASSET_NAME" ]]; then
+                  safe_upload "up-$ASSET_NAME" "$TAG" || error_occurred=1
                 fi
-
-                if [[ -s "up-${ASSET_SAFE}" ]]; then
-                  if ! safe_upload "up-${ASSET_SAFE}" "$TAG"; then
-                    error_occurred=1
-                  fi
-                else
-                  echo "❌ Empty upstream asset: $ASSET_NAME"
-                  error_occurred=1
-                fi
-                rm -f -- "up-${ASSET_SAFE}"
+                rm -f "up-$ASSET_NAME"
               done <<< "$ASSETS_DATA"
             fi
 
             rm -f "$NOTES_FILE"
 
             if [[ $error_occurred -eq 0 ]]; then
-              echo "✅ Backup upload complete → updating tracking"
-              if ! set_tracking "$REPO" "$CURRENT_STATE"; then
-                echo "❌ Tracking update failed: $REPO"
-                error_occurred=1
-              fi
+              echo "✅ Backup 100% SUCCESS → writing tracking"
+              set_tracking "$REPO" "$CURRENT_STATE"
+              TOTAL_SUCCESS=$((TOTAL_SUCCESS + 1))
             else
-              echo "❌ Backup incomplete → tracking state NOT updated"
+              echo "❌ Backup FAILED → NO tracking write"
+              TOTAL_FAILED=$((TOTAL_FAILED + 1))
             fi
 
             cleanup
-            if [[ $error_occurred -eq 0 ]]; then
-              echo "✅ Backup success: $REPO"
-              return 0
-            else
-              echo "⚠️ Backup finished with warnings: $REPO"
-              return 1
-            fi
           }
 
+          # =========================================================
+          # 主流程
+          # =========================================================
           process_all() {
-            local -a excluded_repos=()
-            local -a OWNERS=()
-            local -a ALL_KEYS=()
-            local -a REPOS=()
-            local O R KEY
-            local failures=0
-
-            # 加载排除列表。
+            local excluded_repos=()
             mapfile -t excluded_repos < <(
-              yq -r '.exclude[]?' repositoriesa.yaml 2>/dev/null |
-                grep -v '^[[:space:]]*#' |
-                sed '/^[[:space:]]*$/d' || true
+              yq -r '.exclude[]?' repositoriesa.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
             )
 
             is_excluded() {
@@ -649,92 +505,93 @@ jobs:
               return 1
             }
 
-            # 1) 扫描用户/组织公开仓库。
+            # 1) 按 owner 扫描
+            local OWNERS=()
             mapfile -t OWNERS < <(
-              yq -r '.allrepositories[]?' repositoriesa.yaml 2>/dev/null |
-                grep -v '^[[:space:]]*#' |
-                sed '/^[[:space:]]*$/d' || true
+              yq -r '.allrepositories[]?' repositoriesa.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
             )
 
+            local O
             for O in "${OWNERS[@]}"; do
               [[ -z "$O" ]] && continue
               echo -e "\n====================================="
               echo "==== Scanning owner: $O ===="
               echo "====================================="
 
-              local repo_output
-              if ! repo_output=$(get_all_repos "$O"); then
-                echo "❌ Failed to scan owner: $O"
-                failures=$((failures + 1))
-                continue
-              fi
-
-              mapfile -t REPOS < <(printf '%s\n' "$repo_output" | sed '/^[[:space:]]*$/d')
+              local REPOS=()
+              mapfile -t REPOS < <(get_all_repos "$O" | grep -v '^$' || true)
               if [[ ${#REPOS[@]} -eq 0 ]]; then
-                echo "ℹ️ No public repos found"
-                continue
+                echo "ℹ️ No public repos found"; continue
               fi
 
+              local R
               for R in "${REPOS[@]}"; do
                 if is_excluded "$R"; then
                   echo "⛔ Excluded: $R"
                   continue
                 fi
-                if ! backup_repo "$R"; then
-                  failures=$((failures + 1))
-                fi
+                backup_repo "$R"
               done
+
+              # ✅ 该 owner 处理完毕 → 立即同步 tracking
+              echo -e "\n📤 Sync tracking after owner: $O"
+              sync_tracking || echo "❌ Sync failed after owner: $O"
             done
 
-            # 2) 手动指定仓库组。
+            # 2) 手动指定仓库组
             echo -e "\n====================================="
             echo "==== Processing manual repositories ===="
             echo "====================================="
 
+            local ALL_KEYS=()
             mapfile -t ALL_KEYS < <(
-              yq -r '.repositories | keys[]' repositoriesa.yaml 2>/dev/null |
-                grep -v '^[[:space:]]*#' |
-                sed '/^[[:space:]]*$/d' || true
+              yq -r '.repositories | keys[]' repositoriesa.yaml 2>/dev/null \
+                | grep -v '^[[:space:]]*#' \
+                | sed '/^[[:space:]]*$/d' || true
             )
 
+            local KEY
             for KEY in "${ALL_KEYS[@]}"; do
               echo "➡️ Group: $KEY"
+              local REPOS=()
               mapfile -t REPOS < <(
-                yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' \
-                  repositoriesa.yaml 2>/dev/null |
-                  grep -v '^[[:space:]]*#' |
-                  sed '/^[[:space:]]*$/d' || true
+                yq -r --arg key "$KEY" '.repositories[$key] // [] | .[]' repositoriesa.yaml 2>/dev/null \
+                  | grep -v '^[[:space:]]*#' \
+                  | sed '/^[[:space:]]*$/d' || true
               )
 
+              local R
               for R in "${REPOS[@]}"; do
                 [[ -z "$R" ]] && continue
                 if is_excluded "$R"; then
                   echo "⛔ Excluded: $R"
                   continue
                 fi
-                if ! backup_repo "$R"; then
-                  failures=$((failures + 1))
-                fi
+                backup_repo "$R"
               done
+
+              # ✅ 该组处理完毕 → 立即同步 tracking
+              echo -e "\n📤 Sync tracking after group: $KEY"
+              sync_tracking || echo "❌ Sync failed after group: $KEY"
             done
-
-            # 所有仓库处理完毕后，统一提交并推送 tracking。
-            echo -e "\n====================================="
-            echo "==== Final tracking synchronization ===="
-            echo "====================================="
-
-            if ! sync_tracking; then
-              echo "❌ Tracking synchronization failed"
-              return 1
-            fi
-
-            if [[ $failures -gt 0 ]]; then
-              echo "❌ Completed with $failures repository/scan failures"
-              return 1
-            fi
-
-            echo "✅ All repositories processed successfully"
           }
 
+          # 运行主流程
           process_all
-          echo -e "\n🎉 All done"
+
+          # 最后一次兜底同步（防止循环内同步失败遗漏）
+          echo -e "\n📤 Final sync..."
+          sync_tracking || true
+
+          # 汇总
+          echo -e "\n====================================="
+          echo "📊 Summary: ✅ $TOTAL_SUCCESS succeeded | ❌ $TOTAL_FAILED failed"
+          echo "====================================="
+
+          if [[ $TOTAL_FAILED -gt 0 ]]; then
+            echo "❌ Some repositories failed, exiting non-zero"
+            exit 1
+          fi
+          echo "🎉 All done"
