@@ -4668,3 +4668,4 @@ MetaCubeX/jls-quic-go: BRANCHES:[v0.61.0-mod-meta:732f2fc9a34de12a58020a0ca75bf3
 MetaCubeX/jls-tls: BRANCHES:[main:67adc0e2f79630fcf80f0b65278d4d1a094b812b;]|RELEASE:[none|none]
 MetaCubeX/masque-go: BRANCHES:[master:934a7cf7dfc8fa27de19765e64bd618a33022b03;]|RELEASE:[none|none]
 MetaCubeX/zerotier-go: BRANCHES:[main:13fa6f45da5f3a3753e93bebd6b32583f1b3f59d;]|RELEASE:[none|none]
+MetaCubeX/mipstack: BRANCHES:[master:f63e154680fb8f8cb59361972c1009bd94c728be;]|RELEASE:[none|none]
