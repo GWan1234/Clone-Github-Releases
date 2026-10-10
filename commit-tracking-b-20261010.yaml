@@ -1041,7 +1041,7 @@ rime/weasel: BRANCHES:[master:6f9e0124bd8ad5b7e2af36280f6c5be8220301c6;revert-14
 rime/artworks: BRANCHES:[master:d077b5a8c07c845403de19ce7078064efaf8401c;]|RELEASE:[none|none]
 rime/librime-legacy: BRANCHES:[master:9f04e6f6b645a9b57308928edf1b8487001abcf6;]|RELEASE:[none|none]
 rime/rime.github.io: BRANCHES:[master:ad9796ba14df16172e1f86d24918c1a9ee578429;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf;]|RELEASE:[none|none]
-rime/home: BRANCHES:[master:4789d0dfbbddf19478c0ef6c235809c6332244b7;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5;]|RELEASE:[none|none]
+rime/home: BRANCHES:[master:747f5949f4d9954dfe05d7be50d6558a0cbf882e;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5;]|RELEASE:[none|none]
 rime/rime-prelude: BRANCHES:[master:082425ea0684bca36474415d4a0e8db9b016487e;]|RELEASE:[none|none]
 rime/rime-essay: BRANCHES:[master:0debef3f5ae37f081758dd8bbd1fe79719410f7c;mine:65ea5c3707817f1c96e81a9f8d153c9c1f5408ca;]|RELEASE:[none|none]
 rime/rime-luna-pinyin: BRANCHES:[master:32f4a2cf3a3ab82d2a8a306eb843233de579b5c7;fixes:0e1fd5f4aad2ffce6444bc35ca05f57f14fde67b;pr/68:87df157bc0f190f37def7c692072896f464fbad4;]|RELEASE:[none|none]
