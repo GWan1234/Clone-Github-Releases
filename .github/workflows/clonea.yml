@@ -91,6 +91,30 @@ jobs:
           class ApiError(RuntimeError):
               pass
 
+          class PermanentSkip(RuntimeError):
+              """Repository is permanently unavailable
+              (e.g. disabled by GitHub staff)."""
+              pass
+
+          # Phrases that indicate a permanent, non-retryable condition.
+          PERMANENT_MARKERS = (
+              "disabled by GitHub staff",
+              "has been disabled by GitHub staff",
+              "access to this repository has been disabled",
+              "returned error: 403",
+              "repository access blocked",
+              "This repository has been disabled",
+          )
+
+          def is_permanent_error(text):
+              if not text:
+                  return False
+              low = text.lower()
+              for marker in PERMANENT_MARKERS:
+                  if marker.lower() in low:
+                      return True
+              return False
+
           def run(args, check=True, cwd=None):
               p = subprocess.run(
                   args,
@@ -122,6 +146,14 @@ jobs:
 
               stderr = (p.stderr or "").strip()
               stdout = (p.stdout or "").strip()
+              combined = f"{stderr}\n{stdout}"
+
+              # 403 disabled / banned repositories -> permanent skip.
+              if is_permanent_error(combined):
+                  raise PermanentSkip(
+                      f"gh api {endpoint}: repository disabled "
+                      f"({stderr or stdout or 'no output'})"
+                  )
 
               if allow_404 and (
                   "HTTP 404" in stderr or "Not Found" in stderr
@@ -139,6 +171,9 @@ jobs:
               for attempt in range(1, retries + 1):
                   try:
                       return api(endpoint, allow_404=allow_404)
+                  except PermanentSkip:
+                      # No point retrying a permanently disabled repo.
+                      raise
                   except ApiError as exc:
                       msg = str(exc)
                       last = exc
@@ -197,6 +232,9 @@ jobs:
           def check_rate_limit():
               try:
                   data = api("rate_limit")
+              except PermanentSkip:
+                  # Shouldn't happen, but be safe.
+                  raise
               except ApiError as exc:
                   print(
                       f"WARNING: cannot check rate limit: {exc}",
@@ -249,6 +287,15 @@ jobs:
 
                       try:
                           data = api_with_retry(endpoint)
+                      except PermanentSkip:
+                          # Whole owner disabled; skip the owner
+                          # rather than failing.
+                          print(
+                              f"Owner {owner} appears disabled; "
+                              "skipping remaining pages.",
+                              file=sys.stderr,
+                          )
+                          return result
                       except ApiError as exc:
                           last_error = exc
                           valid = False
@@ -317,12 +364,33 @@ jobs:
               )
 
               if p.returncode:
+                  err = (
+                      (p.stderr or "").strip()
+                      or (p.stdout or "").strip()
+                  )
+                  if is_permanent_error(err):
+                      raise PermanentSkip(
+                          f"graphql branches {repo} disabled: {err}"
+                      )
                   raise ApiError(
-                      f"graphql branches {repo} failed: "
-                      f"{(p.stderr or '').strip() or (p.stdout or '').strip()}"
+                      f"graphql branches {repo} failed: {err}"
                   )
 
               data = json.loads(p.stdout)
+
+              errors = data.get("errors") or []
+              if errors:
+                  joined = "; ".join(
+                      str(e.get("message", e))
+                      if isinstance(e, dict) else str(e)
+                      for e in errors
+                  )
+                  if is_permanent_error(joined):
+                      raise PermanentSkip(
+                          f"graphql branches {repo} disabled: "
+                          f"{joined}"
+                      )
+
               nodes = (
                   data.get("data", {})
                       .get("repository", {})
@@ -346,6 +414,8 @@ jobs:
               """
               List branches via git ls-remote (0 REST calls),
               then enrich with dates via 1 GraphQL call.
+
+              Raises PermanentSkip when GitHub disabled the repo.
               """
               url = (
                   f"https://x-access-token:{TOKEN}"
@@ -363,6 +433,14 @@ jobs:
                       or (p.stdout or "").strip()
                       or "<no output>"
                   ).replace(TOKEN, "***")
+
+                  # GitHub staff disabled / banned repository:
+                  # permanent, non-retryable.
+                  if is_permanent_error(err):
+                      raise PermanentSkip(
+                          f"repository disabled by GitHub: {repo}"
+                      )
+
                   raise RuntimeError(
                       f"git ls-remote failed for {repo}: {err}"
                   )
@@ -388,6 +466,9 @@ jobs:
                   dates = fetch_branch_dates_graphql(repo)
                   for r in refs:
                       r["date"] = dates.get(r["name"], "")
+              except PermanentSkip:
+                  # Repo banned: propagate so caller can skip.
+                  raise
               except Exception as exc:
                   print(
                       f"  (branch date query skipped "
@@ -454,16 +535,36 @@ jobs:
           def download(url, output):
               # Download exactly one file. No other repository's
               # temporary files are retained.
-              run([
-                  "curl",
-                  "-fLsS",
-                  "--retry", "3",
-                  "--retry-delay", "2",
-                  "-H", f"Authorization: Bearer {TOKEN}",
-                  "-H", "Accept: application/vnd.github+json",
-                  url,
-                  "-o", str(output),
-              ])
+              p = run(
+                  [
+                      "curl",
+                      "-fLsS",
+                      "--retry", "3",
+                      "--retry-delay", "2",
+                      "-H", f"Authorization: Bearer {TOKEN}",
+                      "-H", "Accept: application/vnd.github+json",
+                      url,
+                      "-o", str(output),
+                  ],
+                  check=False,
+              )
+
+              if p.returncode:
+                  err = (
+                      (p.stderr or "").strip()
+                      or (p.stdout or "").strip()
+                      or "<no output>"
+                  ).replace(TOKEN, "***")
+
+                  if is_permanent_error(err):
+                      output.unlink(missing_ok=True)
+                      raise PermanentSkip(
+                          f"download disabled for {url}: {err}"
+                      )
+
+                  raise RuntimeError(
+                      f"curl failed for {url}: {err}"
+                  )
 
               size = output.stat().st_size
 
@@ -570,10 +671,16 @@ jobs:
                   print(f"Invalid owner skipped: {owner}")
                   continue
 
-              batches.append((
-                  f"owner:{owner}",
-                  owner_repositories(owner),
-              ))
+              try:
+                  batches.append((
+                      f"owner:{owner}",
+                      owner_repositories(owner),
+                  ))
+              except PermanentSkip as exc:
+                  print(
+                      f"SKIPPED (permanent): owner {owner}: {exc}",
+                      file=sys.stderr,
+                  )
 
           groups = config.get("repositories", {})
 
@@ -673,6 +780,7 @@ jobs:
           check_rate_limit()
 
           failures = []
+          skipped = []
 
           # Every repository gets its own temporary directory.
           # finally always attempts cleanup, including on failure.
@@ -690,6 +798,7 @@ jobs:
 
               batch_completed = 0
               batch_failed = []
+              batch_skipped = []
 
               for repo_index, repo in enumerate(repos, 1):
                   print(
@@ -920,6 +1029,32 @@ jobs:
                               f"Repository completed: {repo}"
                           )
 
+                  except PermanentSkip as exc:
+                      # Repository is permanently unavailable.
+                      # Do NOT count as failure; just note and skip.
+                      print(
+                          f"SKIPPED (permanent): {repo}: {exc}",
+                          file=sys.stderr,
+                      )
+                      skipped.append(repo)
+                      batch_skipped.append(repo)
+
+                      # Cleanup any draft created before we hit
+                      # the permanent block (rare, but possible).
+                      if created_tag:
+                          run(
+                              [
+                                  "gh",
+                                  "release",
+                                  "delete",
+                                  created_tag,
+                                  "--repo", TARGET,
+                                  "--cleanup-tag",
+                                  "--yes",
+                              ],
+                              check=False,
+                          )
+
                   except Exception as exc:
                       print(
                           f"FAILED: {repo}: {exc}",
@@ -983,19 +1118,46 @@ jobs:
                       "tracking not synchronized."
                   )
 
+              if batch_skipped:
+                  print(
+                      f"Batch had permanent skips: "
+                      f"{', '.join(batch_skipped)}"
+                  )
+
               if batch_failed:
                   print(
                       f"Batch had failures: "
                       f"{', '.join(batch_failed)}"
                   )
 
+          # ------------------------------------------------------------
+          # Final summary
+          # ------------------------------------------------------------
+          if skipped:
+              print(
+                  f"\nPermanently skipped "
+                  f"({len(skipped)}): "
+                  + ", ".join(skipped),
+                  file=sys.stderr,
+              )
+
           if failures:
               print(
-                  "\nFailed repositories: "
+                  f"\nFailed repositories "
+                  f"({len(failures)}): "
                   + ", ".join(failures),
                   file=sys.stderr,
               )
+              # Only real (transient/unknown) failures cause a
+              # red workflow.
               sys.exit(1)
 
-          print("\nAll batches completed successfully.")
+          if skipped:
+              print(
+                  "\nAll batches completed; "
+                  f"{len(skipped)} repositories permanently "
+                  "skipped (not counted as failures)."
+              )
+          else:
+              print("\nAll batches completed successfully.")
           PY
