@@ -30,8 +30,8 @@ jobs:
       - name: Install deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq p7zip-full coreutils bc || \
-          sudo apt-get install -y jq 7zip coreutils bc
+          sudo apt-get install -y jq p7zip-full coreutils bc \
+            || sudo apt-get install -y jq 7zip coreutils bc
           # yq / gh / git / curl 已预装在 runner 镜像中
 
       - name: Run backup
@@ -51,17 +51,22 @@ jobs:
           TRACKING_FILE="commit-tracking-a-${NOW_DATE}.yaml"
 
           # =========================
-          # 历史基线选择：严格排除「当天」文件
+          # 历史基线：严格排除「当天」文件
           # =========================
           LAST_TRACKING_FILE=$(ls -1 commit-tracking-a-*.yaml 2>/dev/null \
             | grep -v -- "commit-tracking-a-${NOW_DATE}.yaml" \
             | sort -r | head -n1 || true)
 
           # 若今天的文件不存在，从历史基线复制作为初始状态
-          # 目的：即使当天工作流中途失败，也不会让后续运行误判「从未备份」→ 强制全量
           if [[ ! -f "$TRACKING_FILE" && -n "$LAST_TRACKING_FILE" && -f "$LAST_TRACKING_FILE" ]]; then
             echo "📋 Initializing today's tracking from: $LAST_TRACKING_FILE"
             cp "$LAST_TRACKING_FILE" "$TRACKING_FILE"
+          fi
+
+          # 保证 TRACKING_FILE 一定存在（即使历史也没有），yq -i 需要文件存在
+          if [[ ! -f "$TRACKING_FILE" ]]; then
+            echo "🆕 Creating empty tracking file: $TRACKING_FILE"
+            : > "$TRACKING_FILE"
           fi
 
           # =========================
@@ -69,6 +74,20 @@ jobs:
           # =========================
           TOTAL_SUCCESS=0
           TOTAL_FAILED=0
+          TOTAL_SKIPPED=0
+
+          # =========================
+          # DEBUG 输出
+          # =========================
+          echo "================= DEBUG ================="
+          echo "NOW_DATE            = $NOW_DATE"
+          echo "NOW_TIME            = $NOW_TIME"
+          echo "TRACKING_FILE       = $TRACKING_FILE"
+          echo "TRACKING_FILE bytes = $(wc -c < "$TRACKING_FILE" 2>/dev/null || echo 0)"
+          echo "LAST_TRACKING_FILE  = ${LAST_TRACKING_FILE:-<none>}"
+          echo "Current tracking content:"
+          sed 's/^/   /' "$TRACKING_FILE" | head -20
+          echo "========================================="
 
           # =========================
           # 工具函数
@@ -99,7 +118,6 @@ jobs:
             echo "https://x-access-token:${GITHUB_TOKEN}@github.com/$1.git"
           }
 
-          # 每个仓库只调用一次（结果复用）
           fetch_repo_info() {
             curl -fsSL --retry 2 --max-time 15 \
               -H "Authorization: Bearer ${GITHUB_TOKEN}" \
@@ -135,17 +153,22 @@ jobs:
             return 0
           }
 
+          # =========================================================
+          # 写 tracking 条目（带错误反馈）
+          # =========================================================
           set_tracking() {
             local repo="$1"
             local state="$2"
-            yq -i --arg repo "$repo" --arg state "$state" '.[$repo] = $state' "$TRACKING_FILE" 2>/dev/null || true
+            if ! yq -i --arg repo "$repo" --arg state "$state" \
+                 '.[$repo] = $state' "$TRACKING_FILE"; then
+              echo "❌ set_tracking failed for $repo"
+              return 1
+            fi
+            return 0
           }
 
           # =========================================================
-          # 同步 tracking 文件：
-          #   - 先 diff，无变化跳过
-          #   - 只 add/commit TRACKING_FILE，不污染工作区其它文件
-          #   - 只有确有本地未推送的提交才 push
+          # 同步 tracking 文件
           # =========================================================
           sync_tracking() {
             echo -e "\n💾 Syncing tracking file..."
@@ -153,20 +176,37 @@ jobs:
             git config --global user.email "action@github.com"
 
             local branch="${GITHUB_REF_NAME:-main}"
-            git checkout "$branch" 2>/dev/null || git checkout main 2>/dev/null || true
+
+            # 切分支：先尝试普通 checkout，失败则从远端强制建立
+            if ! git checkout "$branch" 2>/dev/null; then
+              if ! git checkout -B "$branch" "origin/$branch" 2>/dev/null; then
+                echo "❌ Cannot switch to branch: $branch"
+                return 1
+              fi
+            fi
 
             # 只暂存 tracking 文件
             git add -- "$TRACKING_FILE"
 
             # 有 diff 才 commit
             if ! git diff --cached --quiet -- "$TRACKING_FILE"; then
-              git commit -m "track sync: $NOW_HUMAN" -- "$TRACKING_FILE" >/dev/null
+              if ! git commit -m "track sync: $NOW_HUMAN" -- "$TRACKING_FILE" >/dev/null; then
+                echo "❌ Tracking commit failed"
+                return 1
+              fi
             else
               echo "ℹ️ No tracking changes to commit"
             fi
 
-            # 是否还有未推送的提交？
+            # 拉远端（rebase），失败必须 abort 并中止
             git fetch origin "$branch" >/dev/null 2>&1 || true
+            if ! git pull --rebase origin "$branch" >/dev/null 2>&1; then
+              echo "❌ Tracking pull/rebase failed"
+              git rebase --abort 2>/dev/null || true
+              return 1
+            fi
+
+            # 是否还有未推送的提交
             local ahead
             ahead=$(git rev-list --count "origin/$branch..HEAD" 2>/dev/null || echo 0)
             if [[ "$ahead" == "0" ]]; then
@@ -174,20 +214,16 @@ jobs:
               return 0
             fi
 
-            if ! git pull --rebase origin "$branch" >/dev/null 2>&1; then
-              echo "❌ Tracking pull/rebase failed"
-              return 1
-            fi
-            if ! git push origin HEAD >/dev/null 2>&1; then
+            if ! git push origin "HEAD:$branch" >/dev/null 2>&1; then
               echo "❌ Tracking push failed"
               return 1
             fi
-            echo "✅ Tracking file synced"
+            echo "✅ Tracking file synced ($ahead commit(s) pushed)"
             return 0
           }
 
           # =========================================================
-          # 状态快照：完全基于本地 mirror，不再调用 git ls-remote
+          # 状态快照：完全基于本地 mirror
           # =========================================================
           get_repo_current_state() {
             local mirror="$1"
@@ -197,6 +233,7 @@ jobs:
             local count=0
 
             while read -r name sha; do
+              [[ -z "$name" || -z "$sha" ]] && continue
               [[ $count -ge 10 ]] && break
               branch_states+="${name}:${sha};"
               count=$((count + 1))
@@ -211,7 +248,6 @@ jobs:
             rel_tag=$(echo "$release_json" | jq -r '.tag_name // "none"' 2>/dev/null || echo "none")
 
             if [[ "$rel_tag" != "none" ]]; then
-              # 直接用本地镜像的 tag（annotated tag 用 ^{commit} 解引用）
               rel_commit=$(git -C "$mirror" rev-parse "refs/tags/${rel_tag}^{commit}" 2>/dev/null \
                         || git -C "$mirror" rev-parse "refs/tags/${rel_tag}" 2>/dev/null \
                         || echo "none")
@@ -223,25 +259,45 @@ jobs:
           }
 
           # =========================================================
-          # 是否需要备份：对比今天的 tracking 文件（已含今日进度）
-          # - 没文件 → 首次全量
-          # - 有文件 → 严格按 state 比较
+          # 是否需要备份
+          # 返回 0 → 需要备份；返回 1 → 无需备份
           # =========================================================
           need_backup() {
             local repo="$1"
             local current_state="$2"
 
-            if [[ ! -f "$TRACKING_FILE" ]]; then
-              echo "🔴 No baseline file → force backup"
+            if [[ ! -f "$TRACKING_FILE" || ! -s "$TRACKING_FILE" ]]; then
+              echo "🔴 No baseline file/empty → force backup"
               return 0
             fi
 
-            local last_state
-            last_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$TRACKING_FILE" 2>/dev/null || true)
+            local last_state yq_err yq_rc
+            yq_err=$(mktemp)
+            last_state=$(yq -r --arg repo "$repo" '.[$repo] // ""' "$TRACKING_FILE" 2>"$yq_err")
+            yq_rc=$?
+
+            if [[ $yq_rc -ne 0 ]]; then
+              echo "⚠️ yq read failed (rc=$yq_rc) for $repo:"
+              sed 's/^/   /' "$yq_err"
+              rm -f "$yq_err"
+              echo "🔴 Treating as change → backup"
+              return 0
+            fi
+            rm -f "$yq_err"
+
+            if [[ -z "$last_state" ]]; then
+              echo "🆕 No previous state for $repo → backup"
+              return 0
+            fi
 
             if [[ "$last_state" != "$current_state" ]]; then
+              echo "🔍 State changed for $repo:"
+              echo "   old = $last_state"
+              echo "   new = $current_state"
               return 0
             fi
+
+            echo "✅ State unchanged for $repo"
             return 1
           }
 
@@ -346,7 +402,7 @@ jobs:
               gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag -y 2>/dev/null || true
             fi
 
-            # 每个仓库只取一次 API 信息
+            # 每仓库只取一次 API 信息
             local REPO_JSON UPSTREAM_JSON
             REPO_JSON=$(fetch_repo_info "$REPO")
             UPSTREAM_JSON=$(fetch_latest_release "$REPO")
@@ -364,13 +420,15 @@ jobs:
               return 0
             fi
 
-            # 状态快照：基于本地镜像（无 ls-remote）
+            # 状态快照：基于本地镜像
             local CURRENT_STATE
             CURRENT_STATE=$(get_repo_current_state "$MIRROR" "$UPSTREAM_JSON")
+            echo "📸 Current state: $CURRENT_STATE"
 
-            # 只有在需要备份时才走归档流程
+            # 增量判断
             if ! need_backup "$REPO" "$CURRENT_STATE"; then
               echo "✅ Skip: $REPO (no changes)"
+              TOTAL_SKIPPED=$((TOTAL_SKIPPED + 1))
               cleanup
               return 0
             fi
@@ -388,6 +446,7 @@ jobs:
 
             if [[ ${#BRANCHES[@]} -eq 0 ]]; then
               echo "❌ No branches found, skip"
+              TOTAL_FAILED=$((TOTAL_FAILED + 1))
               cleanup
               return 0
             fi
@@ -475,8 +534,12 @@ jobs:
 
             if [[ $error_occurred -eq 0 ]]; then
               echo "✅ Backup 100% SUCCESS → writing tracking"
-              set_tracking "$REPO" "$CURRENT_STATE"
-              TOTAL_SUCCESS=$((TOTAL_SUCCESS + 1))
+              if set_tracking "$REPO" "$CURRENT_STATE"; then
+                TOTAL_SUCCESS=$((TOTAL_SUCCESS + 1))
+              else
+                echo "❌ set_tracking failed"
+                TOTAL_FAILED=$((TOTAL_FAILED + 1))
+              fi
             else
               echo "❌ Backup FAILED → NO tracking write"
               TOTAL_FAILED=$((TOTAL_FAILED + 1))
@@ -581,13 +644,16 @@ jobs:
           # 运行主流程
           process_all
 
-          # 最后一次兜底同步（防止循环内同步失败遗漏）
+          # 最后一次兜底同步
           echo -e "\n📤 Final sync..."
           sync_tracking || true
 
           # 汇总
           echo -e "\n====================================="
-          echo "📊 Summary: ✅ $TOTAL_SUCCESS succeeded | ❌ $TOTAL_FAILED failed"
+          echo "📊 Summary:"
+          echo "   ✅ Backed up : $TOTAL_SUCCESS"
+          echo "   ⏭️  Skipped   : $TOTAL_SKIPPED"
+          echo "   ❌ Failed    : $TOTAL_FAILED"
           echo "====================================="
 
           if [[ $TOTAL_FAILED -gt 0 ]]; then
