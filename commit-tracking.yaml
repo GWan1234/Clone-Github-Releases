@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-11 06:17
+commit-tracking: 2026-10-11 06:19
 AlistGo/Alist-CoreELEC: BRANCHES:[main:a46aedca9f659cd83bfaf7ce32d42cd6db442b54]|RELEASE:[alist-v3.64.0|a46aedca9f659cd83bfaf7ce32d42cd6db442b54]
 AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd]|RELEASE:[alist-v3.64.0|df78adb74c82ee397d32f45ef66faba622b166fd]
 AlistGo/Alist-ikuai: BRANCHES:[main:a2e2728380f40e62779d8d8c3e85c2b4712e9538]|RELEASE:[v3.64.0|a2e2728380f40e62779d8d8c3e85c2b4712e9538]
@@ -338,6 +338,15 @@ leapbtw/pid-to-corruptiontype-gen3: BRANCHES:[master:4ef3666b53bd00ea7e9beb69d89
 leapbtw/space-invaders: BRANCHES:[master:5b79c118732c15969647889f51c3058dce4129cf]|RELEASE:[none|none]
 leapbtw/suicuneFinder: BRANCHES:[main:6c6a166dea5d1d071f489dc961a7828056066ba5]|RELEASE:[1.4.0|6c6a166dea5d1d071f489dc961a7828056066ba5]
 leapbtw/uxplay-windows: BRANCHES:[multi-arch:f76fe48400916449fd601b1c0444021aaf517082;x64:7f9ebd04396ce13941bd4ad40257a72923235e60;arm64:a4decabcc41db1fa2c61e659dbf341a72320ce89;old-uxplay-windows:95ce1a90fd9cdeee5607bcf4d36add934ed85145]|RELEASE:[2.0.0.1736|43cf903e8177a7db37df6bc9cd8a9d1a60dabaaa]
+localsend/homebrew-localsend: BRANCHES:[main:4c2534b9c3632f3e270fb8de2f963ab95649dd30]|RELEASE:[none|none]
+localsend/localsend: BRANCHES:[main:14f3a87426eedffaa9d87d011132eca5501abeb8;feature/cli-send-text:d3972ab8385e441c96e06cdb1aa652328a4f1a21;feat/receive-page-shortcuts:bb8601e426368d671d5ac5339a49fb041549a1ef;fix/android-saf-keep-file-name:2dd6a79cc32bb218c95490731e21e020e3b8fd67;patch-1.18.0:057417869db72d212f2ef677c57a57c1aad46596;patch-1.18.2:497b44886f4b28880cdd3253fb6408350ab80f5b;v1.18.2-unsigned-exe:e9c9600fedb6855844370dc0a62e04b30965f693;weblate:102f9894d72e1c5f825a192255d598dfb9fecbd7;dependabot/github_actions/Mattraks/delete-workflow-runs-0cf693bc9909e5e867ee8f27b813224ba862939c:f81564208686c995aec580869db3dca0100c89e0;dependabot/github_actions/actions/download-artifact-8:dcba104fdc4916593f7ed43436f33b3218a301c3]|RELEASE:[v1.18.2|af0416be50770a97760f7070684bc667b759a15c]
+localsend/mtls-example: BRANCHES:[main:ea33543da83b0c2722e56e97e428674a77c77820]|RELEASE:[none|none]
+localsend/permission_handler_windows_noop: BRANCHES:[main:2dadd8afbf81e0e3e4791d7144e689555e58f649]|RELEASE:[none|none]
+localsend/protocol: BRANCHES:[main:62bd3406ec80d62f2ed46269cdc06c4dcc391083;feature/pin-and-metadata:41c87f562e79f6a055ff2c576371fd8d50928cfd;v2:94f08491cb99675c1edb1d505c6079266b47bd64]|RELEASE:[none|none]
+localsend/snap: BRANCHES:[main:77fe5f9c9ea4e0caf9d46773f72d3cbf40edd032]|RELEASE:[none|none]
+localsend/web: BRANCHES:[main:8fd3e7f6522f2ddc7c4cb0d237bb995ed95313c0]|RELEASE:[none|none]
+localsend/website: BRANCHES:[main:da4b2ab7020743694722b24d66823a399690f633;redesign:b02f189d1ff2b56eede91ce6a300c7471caaee68;sponsor-test:c4565172310de7865bac7f25d8e3116b91477249]|RELEASE:[none|none]
+localsend/winget-pkgs: BRANCHES:[master:e0f60c4bcfb88e60015aed3bfe6dccdbcd2d25d1;LocalSend.LocalSend-1.17.0-4703A8BD68534808BF3612552AB8963B:4bd1393186c722771cc032ec592150707af40462;LocalSend.LocalSend-1.15.0-F6AAA0EBA5887C4D95D85D646AE6D1B826689707:242aa4495feee93525f087a087d513be12e2695f]|RELEASE:[none|none]
 mritd/kmtv: BRANCHES:[main:38d2759d02664bb58ffb3e1761e59d55f90ad049;fix/apple-meta-separator:66666666b3670bb9a5fb52b5b9dfbd0bd143f6bc;feat/unified-sync:6666666675baf0d6fe03b7bb590eab38be66fc75]|RELEASE:[none|none]
 obsproject/.github: BRANCHES:[master:6c5077e38e5fe0bb1566bfb0dc017ecab20c3559]|RELEASE:[none|none]
 obsproject/FFmpeg: BRANCHES:[v4.4.1-plus-extra-fixes:db3f30d5dfac7fdbbf670d9fee5c99151abea22a;master:4ac869ca2a1caaa888ad65ebd9a9b1914bfaf9b8;v4.4-plus-extra-fixes:3ad22f1b3dfdbbd3aaf1d84245dc36c53fea0cb5;release/4.4:79c114e1b247754bface959c34421dd1dd27ff3d;release/4.1:d7490ef341e253294aa0abf1e4ed8381c1b0ea91;release/3.4:1b44a20a19bdefc20b6841f735240e0902b5b2d8;release/4.3:3aba8b176f5dc96b9b91d94ce54c41e1ec34bc9c;release/3.2:cb456b8fb00e04bedf117cb4b72c87a9c3db5145;n4.2.4-plus-srt-and-flv-fixes:40740902913d3b7e0804dcad0fa8032e1198150d;release/4.0:0c7dc6105224cd199b8e966bc76aafaeaacb2061]|RELEASE:[none|none]
