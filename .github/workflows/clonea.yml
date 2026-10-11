@@ -1,4 +1,3 @@
-
 name: Clone Backup Repositories A
 
 on:
@@ -29,8 +28,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
+          set -euo pipefail
           sudo apt-get update
           sudo apt-get install -y python3-yaml
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::error::MY_TOKEN secret is empty"
+            exit 1
+          fi
           gh auth status
           python3 --version
           df -h
@@ -47,6 +51,7 @@ jobs:
           GH_TOKEN: ${{ secrets.MY_TOKEN }}
           GH_REPO: ${{ github.repository }}
           GH_BRANCH: ${{ github.ref_name }}
+          GIT_TERMINAL_PROMPT: "0"
         run: |
           set -Eeuo pipefail
 
@@ -60,19 +65,31 @@ jobs:
           import tempfile
           import shutil
           import re
+          import time
           from pathlib import Path
           from datetime import datetime, timezone
           from urllib.parse import quote
 
-          TOKEN = os.environ["GH_TOKEN"]
+          # Make sure nothing git-related ever blocks on a prompt.
+          os.environ.setdefault("GIT_TERMINAL_PROMPT", "0")
+          os.environ.setdefault("GIT_ASKPASS", "echo")
+
+          TOKEN = os.environ.get("GH_TOKEN", "").strip()
           TARGET = os.environ["GH_REPO"]
           TARGET_BRANCH = os.environ["GH_BRANCH"]
+
+          if not TOKEN:
+              print("ERROR: GH_TOKEN is empty", file=sys.stderr)
+              sys.exit(1)
 
           CONFIG = Path("repositoriesa.yaml")
           TRACKING = Path("commit-tracking.yaml")
 
           # Keep uploaded assets below GitHub's per-file limit.
           MAX_ASSET_SIZE = 1900 * 1024 * 1024
+
+          class ApiError(RuntimeError):
+              pass
 
           def run(args, check=True, cwd=None):
               p = subprocess.run(
@@ -85,20 +102,69 @@ jobs:
               if check and p.returncode:
                   raise RuntimeError(
                       f"Command failed: {' '.join(map(str, args))}\n"
-                      f"{p.stderr}"
+                      f"{(p.stderr or '').strip()}"
                   )
               return p
 
-          def api(endpoint):
+          def api(endpoint, allow_404=False):
               p = run(["gh", "api", endpoint], check=False)
 
-              if p.returncode:
+              if p.returncode == 0:
+                  out = (p.stdout or "").strip()
+                  if not out:
+                      return None
+                  try:
+                      return json.loads(out)
+                  except (ValueError, TypeError) as exc:
+                      raise ApiError(
+                          f"gh api {endpoint}: invalid JSON: {exc}"
+                      )
+
+              stderr = (p.stderr or "").strip()
+              stdout = (p.stdout or "").strip()
+
+              if allow_404 and (
+                  "HTTP 404" in stderr or "Not Found" in stderr
+              ):
                   return None
 
-              try:
-                  return json.loads(p.stdout)
-              except (ValueError, TypeError):
-                  return None
+              raise ApiError(
+                  f"gh api {endpoint} failed "
+                  f"(exit {p.returncode}): "
+                  f"{stderr or stdout or '<no output>'}"
+              )
+
+          def api_with_retry(endpoint, retries=4, allow_404=False):
+              last = None
+              for attempt in range(1, retries + 1):
+                  try:
+                      return api(endpoint, allow_404=allow_404)
+                  except ApiError as exc:
+                      msg = str(exc)
+                      last = exc
+                      transient = (
+                          "HTTP 429" in msg
+                          or "rate limit" in msg.lower()
+                          or "HTTP 500" in msg
+                          or "HTTP 502" in msg
+                          or "HTTP 503" in msg
+                          or "HTTP 504" in msg
+                          or "timeout" in msg.lower()
+                          or "connection" in msg.lower()
+                          or "TLS" in msg
+                      )
+                      if transient and attempt < retries:
+                          wait = 5 * attempt
+                          print(
+                              f"  Transient API error "
+                              f"(attempt {attempt}/{retries}), "
+                              f"retrying in {wait}s: {msg}",
+                              file=sys.stderr,
+                          )
+                          time.sleep(wait)
+                          continue
+                      raise
+              raise last
 
           def valid_repo(value):
               if not isinstance(value, str):
@@ -106,15 +172,12 @@ jobs:
 
               value = value.strip().rstrip("/")
               value = re.sub(
-                  r"^https?://github\.com/",
-                  "",
-                  value,
+                  r"^https?://github\.com/", "", value
               )
               value = re.sub(r"\.git$", "", value)
 
               if re.fullmatch(
-                  r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+",
-                  value,
+                  r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", value
               ):
                   return value
 
@@ -122,9 +185,7 @@ jobs:
 
           def safe_name(value):
               value = re.sub(
-                  r"[^A-Za-z0-9_.-]",
-                  "_",
-                  str(value),
+                  r"[^A-Za-z0-9_.-]", "_", str(value)
               )
               return value[:140] or "unnamed"
 
@@ -133,7 +194,46 @@ jobs:
               run(["df", "-h", "/tmp"])
               run(["df", "-i", "/tmp"])
 
+          def check_rate_limit():
+              try:
+                  data = api("rate_limit")
+              except ApiError as exc:
+                  print(
+                      f"WARNING: cannot check rate limit: {exc}",
+                      file=sys.stderr,
+                  )
+                  return
+
+              core = (data or {}).get("resources", {}).get(
+                  "core", {}
+              )
+              remaining = core.get("remaining")
+              limit = core.get("limit")
+              reset = core.get("reset")
+
+              reset_str = ""
+              if isinstance(reset, (int, float)):
+                  reset_str = datetime.fromtimestamp(
+                      reset, tz=timezone.utc
+                  ).strftime("%Y-%m-%d %H:%M:%S UTC")
+
+              print(
+                  f"GitHub core rate limit: "
+                  f"{remaining}/{limit} "
+                  f"(reset at {reset_str})"
+              )
+
+              if isinstance(remaining, int) and remaining < 100:
+                  raise RuntimeError(
+                      f"Rate limit almost exhausted: "
+                      f"{remaining}/{limit} remaining "
+                      f"(reset at {reset_str}). "
+                      "Try again after reset."
+                  )
+
           def owner_repositories(owner):
+              last_error = None
+
               # Support both organizations and user accounts.
               for prefix in ("orgs", "users"):
                   result = []
@@ -142,13 +242,23 @@ jobs:
 
                   while True:
                       endpoint = (
-                          f"{prefix}/{quote(owner, safe='')}/repos"
-                          f"?type=all&per_page=100&page={page}"
+                          f"{prefix}/{quote(owner, safe='')}"
+                          f"/repos?type=all"
+                          f"&per_page=100&page={page}"
                       )
 
-                      data = api(endpoint)
+                      try:
+                          data = api_with_retry(endpoint)
+                      except ApiError as exc:
+                          last_error = exc
+                          valid = False
+                          break
 
                       if not isinstance(data, list):
+                          last_error = ApiError(
+                              f"Unexpected response listing "
+                              f"{prefix}/{owner}"
+                          )
                           valid = False
                           break
 
@@ -169,9 +279,271 @@ jobs:
                       return result
 
               raise RuntimeError(
-                  f"Unable to list repositories for owner {owner}"
+                  f"Unable to list repositories for owner "
+                  f"{owner}: {last_error}"
               )
 
+          def fetch_branch_dates_graphql(repo):
+              """
+              One GraphQL call, sorted by TAG_COMMIT_DATE desc.
+              Returns {branch_name: iso_date} for top branches.
+              """
+              owner, name = repo.split("/", 1)
+
+              query = (
+                  "query($owner: String!, $name: String!) {"
+                  "  repository(owner: $owner, name: $name) {"
+                  '    refs(refPrefix: "refs/heads/", first: 100, '
+                  "         orderBy: {field: TAG_COMMIT_DATE, "
+                  "                  direction: DESC}) {"
+                  "      nodes {"
+                  "        name"
+                  "        target { ... on Commit "
+                  "                 { committedDate } }"
+                  "      }"
+                  "    }"
+                  "  }"
+                  "}"
+              )
+
+              p = run(
+                  [
+                      "gh", "api", "graphql",
+                      "-f", f"query={query}",
+                      "-F", f"owner={owner}",
+                      "-F", f"name={name}",
+                  ],
+                  check=False,
+              )
+
+              if p.returncode:
+                  raise ApiError(
+                      f"graphql branches {repo} failed: "
+                      f"{(p.stderr or '').strip() or (p.stdout or '').strip()}"
+                  )
+
+              data = json.loads(p.stdout)
+              nodes = (
+                  data.get("data", {})
+                      .get("repository", {})
+                      .get("refs", {})
+                      .get("nodes", [])
+                  or []
+              )
+
+              out = {}
+              for n in nodes:
+                  bn = n.get("name")
+                  if not bn:
+                      continue
+                  d = (n.get("target") or {}).get(
+                      "committedDate"
+                  ) or ""
+                  out[bn] = d
+              return out
+
+          def get_branches(repo, limit=10):
+              """
+              List branches via git ls-remote (0 REST calls),
+              then enrich with dates via 1 GraphQL call.
+              """
+              url = (
+                  f"https://x-access-token:{TOKEN}"
+                  f"@github.com/{repo}.git"
+              )
+
+              p = run(
+                  ["git", "ls-remote", "--heads", url],
+                  check=False,
+              )
+
+              if p.returncode:
+                  err = (
+                      (p.stderr or "").strip()
+                      or (p.stdout or "").strip()
+                      or "<no output>"
+                  ).replace(TOKEN, "***")
+                  raise RuntimeError(
+                      f"git ls-remote failed for {repo}: {err}"
+                  )
+
+              refs = []
+              for line in p.stdout.splitlines():
+                  if "\t" not in line:
+                      continue
+                  sha, ref = line.split("\t", 1)
+                  ref = ref.strip()
+                  if not ref.startswith("refs/heads/"):
+                      continue
+                  refs.append({
+                      "name": ref[len("refs/heads/"):],
+                      "sha": sha.strip(),
+                      "date": "",
+                  })
+
+              if not refs:
+                  return []
+
+              try:
+                  dates = fetch_branch_dates_graphql(repo)
+                  for r in refs:
+                      r["date"] = dates.get(r["name"], "")
+              except Exception as exc:
+                  print(
+                      f"  (branch date query skipped "
+                      f"for {repo}: {exc})",
+                      file=sys.stderr,
+                  )
+
+              refs.sort(
+                  key=lambda b: (
+                      b["date"] or "",
+                      b["name"],
+                  ),
+                  reverse=True,
+              )
+              return refs[:limit]
+
+          def latest_release(repo):
+              data = api_with_retry(
+                  f"repos/{repo}/releases/latest",
+                  allow_404=True,
+              )
+
+              if not isinstance(data, dict):
+                  return {
+                      "tag": "none",
+                      "sha": "none",
+                      "data": None,
+                  }
+
+              tag = data.get("tag_name") or "none"
+              sha = "none"
+
+              if tag != "none":
+                  ref = api_with_retry(
+                      f"repos/{repo}/git/ref/tags/"
+                      f"{quote(tag, safe='')}",
+                      allow_404=True,
+                  )
+
+                  if isinstance(ref, dict):
+                      obj = ref.get("object", {})
+                      sha = obj.get("sha", "none")
+                      kind = obj.get("type")
+
+                      # Dereference annotated tags.
+                      while kind == "tag" and sha != "none":
+                          tag_obj = api_with_retry(
+                              f"repos/{repo}/git/tags/{sha}",
+                              allow_404=True,
+                          )
+                          if not isinstance(tag_obj, dict):
+                              sha = "none"
+                              break
+                          obj = tag_obj.get("object", {})
+                          sha = obj.get("sha", "none")
+                          kind = obj.get("type")
+
+              return {
+                  "tag": tag,
+                  "sha": sha,
+                  "data": data,
+              }
+
+          def download(url, output):
+              # Download exactly one file. No other repository's
+              # temporary files are retained.
+              run([
+                  "curl",
+                  "-fLsS",
+                  "--retry", "3",
+                  "--retry-delay", "2",
+                  "-H", f"Authorization: Bearer {TOKEN}",
+                  "-H", "Accept: application/vnd.github+json",
+                  url,
+                  "-o", str(output),
+              ])
+
+              size = output.stat().st_size
+
+              if size == 0:
+                  output.unlink(missing_ok=True)
+                  raise RuntimeError(
+                      f"Downloaded file is empty: {output.name}"
+                  )
+
+              if size > MAX_ASSET_SIZE:
+                  output.unlink(missing_ok=True)
+                  raise RuntimeError(
+                      f"File exceeds safe upload limit: "
+                      f"{output.name} ({size} bytes)"
+                  )
+
+          def upload_one(tag, file):
+              # Upload immediately, then delete the local file.
+              run([
+                  "gh",
+                  "release",
+                  "upload",
+                  tag,
+                  str(file),
+                  "--repo", TARGET,
+              ])
+              file.unlink(missing_ok=True)
+              print(f"Uploaded and removed: {file.name}")
+
+          def persist_tracking():
+              lines = [
+                  "commit-tracking: "
+                  + datetime.now(timezone.utc).strftime(
+                      "%Y-%m-%d %H:%M"
+                  )
+              ]
+
+              for repo in sorted(records):
+                  item = records[repo]
+                  branches = ";".join(
+                      f"{name}:{sha}"
+                      for name, sha in item["branches"].items()
+                  )
+                  lines.append(
+                      f"{repo}: BRANCHES:[{branches}]"
+                      f"|RELEASE:[{item['release']}"
+                      f"|{item['release_sha']}]"
+                  )
+
+              TRACKING.write_text(
+                  "\n".join(lines) + "\n",
+                  encoding="utf-8",
+              )
+
+              run(["git", "add", "commit-tracking.yaml"])
+
+              diff = run(
+                  ["git", "diff", "--cached", "--quiet"],
+                  check=False,
+              )
+
+              if diff.returncode == 0:
+                  print("Tracking file unchanged.")
+                  return
+
+              run([
+                  "git", "commit", "-m",
+                  "Update commit-tracking.yaml [skip ci]",
+              ])
+
+              run([
+                  "git", "push", "origin",
+                  f"HEAD:refs/heads/{TARGET_BRANCH}",
+              ])
+
+              print("Tracking file synchronized.")
+
+          # ------------------------------------------------------------
+          # Load config
+          # ------------------------------------------------------------
           with CONFIG.open(encoding="utf-8") as f:
               config = yaml.safe_load(f) or {}
 
@@ -193,8 +565,7 @@ jobs:
               owner = owner.strip()
 
               if not re.fullmatch(
-                  r"[A-Za-z0-9_.-]+",
-                  owner,
+                  r"[A-Za-z0-9_.-]+", owner
               ):
                   print(f"Invalid owner skipped: {owner}")
                   continue
@@ -214,7 +585,6 @@ jobs:
                   continue
 
               repos = []
-
               for value in values:
                   repo = valid_repo(value)
                   if repo:
@@ -250,9 +620,11 @@ jobs:
           print(f"Total batches: {len(clean_batches)}")
           print(f"Total repositories: {len(seen)}")
 
+          # ------------------------------------------------------------
           # Read existing commit-tracking.yaml.
           # Legacy format:
           # repo: BRANCHES:[name:sha;...]|RELEASE:[tag|sha]
+          # ------------------------------------------------------------
           records = {}
 
           if TRACKING.exists():
@@ -272,7 +644,9 @@ jobs:
                   if not match:
                       continue
 
-                  repo, branch_text, release_text = match.groups()
+                  repo, branch_text, release_text = (
+                      match.groups()
+                  )
                   branches = {}
 
                   for item in branch_text.split(";"):
@@ -287,221 +661,16 @@ jobs:
                       "branches": branches,
                       "release": parts[0],
                       "release_sha": (
-                          parts[1] if len(parts) > 1 else "none"
+                          parts[1]
+                          if len(parts) > 1
+                          else "none"
                       ),
                   }
 
-          def get_branches(repo):
-              # Retrieve all branches before ranking.
-              result = []
-              page = 1
-
-              while True:
-                  data = api(
-                      f"repos/{repo}/branches"
-                      f"?per_page=100&page={page}"
-                  )
-
-                  if not isinstance(data, list):
-                      raise RuntimeError(
-                          f"Cannot list branches for {repo}"
-                      )
-
-                  result.extend(data)
-
-                  if len(data) < 100:
-                      break
-
-                  page += 1
-
-              ranked = []
-
-              for branch in result:
-                  name = branch.get("name")
-                  sha = branch.get("commit", {}).get("sha")
-
-                  if not name or not sha:
-                      continue
-
-                  commit = api(
-                      f"repos/{repo}/commits/"
-                      f"{quote(sha, safe='')}"
-                  )
-
-                  if not isinstance(commit, dict):
-                      raise RuntimeError(
-                          f"Cannot determine activity for "
-                          f"{repo}/{name}"
-                      )
-
-                  info = commit.get("commit", {})
-                  committer = info.get("committer") or {}
-                  author = info.get("author") or {}
-
-                  date = (
-                      committer.get("date")
-                      or author.get("date")
-                      or ""
-                  )
-
-                  ranked.append({
-                      "name": name,
-                      "sha": sha,
-                      "date": date,
-                  })
-
-              # Most recent commit first.
-              ranked.sort(
-                  key=lambda item: (
-                      item["date"],
-                      item["name"],
-                  ),
-                  reverse=True,
-              )
-
-              return ranked[:10]
-
-          def latest_release(repo):
-              data = api(
-                  f"repos/{repo}/releases/latest"
-              )
-
-              if not isinstance(data, dict):
-                  return {
-                      "tag": "none",
-                      "sha": "none",
-                      "data": None,
-                  }
-
-              tag = data.get("tag_name") or "none"
-              sha = "none"
-
-              if tag != "none":
-                  ref = api(
-                      f"repos/{repo}/git/ref/tags/"
-                      f"{quote(tag, safe='')}"
-                  )
-
-                  if isinstance(ref, dict):
-                      obj = ref.get("object", {})
-                      sha = obj.get("sha", "none")
-                      kind = obj.get("type")
-
-                      # Dereference annotated tags.
-                      while kind == "tag" and sha != "none":
-                          tag_obj = api(
-                              f"repos/{repo}/git/tags/{sha}"
-                          )
-
-                          if not isinstance(tag_obj, dict):
-                              sha = "none"
-                              break
-
-                          obj = tag_obj.get("object", {})
-                          sha = obj.get("sha", "none")
-                          kind = obj.get("type")
-
-              return {
-                  "tag": tag,
-                  "sha": sha,
-                  "data": data,
-              }
-
-          def download(url, output):
-              # Download exactly one file.
-              # No other repository's temporary files are retained.
-              run([
-                  "curl",
-                  "-fLsS",
-                  "--retry", "3",
-                  "--retry-delay", "2",
-                  "-H", f"Authorization: Bearer {TOKEN}",
-                  "-H", "Accept: application/vnd.github+json",
-                  url,
-                  "-o", str(output),
-              ])
-
-              size = output.stat().st_size
-
-              if size == 0:
-                  output.unlink(missing_ok=True)
-                  raise RuntimeError(
-                      f"Downloaded file is empty: {output.name}"
-                  )
-
-              if size > MAX_ASSET_SIZE:
-                  output.unlink(missing_ok=True)
-                  raise RuntimeError(
-                      f"File exceeds safe upload limit: "
-                      f"{output.name} ({size} bytes)"
-                  )
-
-          def upload_one(tag, file):
-              # Upload immediately, then delete the local file.
-              try:
-                  run([
-                      "gh",
-                      "release",
-                      "upload",
-                      tag,
-                      str(file),
-                      "--repo", TARGET,
-                  ])
-              except Exception:
-                  raise
-              else:
-                  file.unlink(missing_ok=True)
-                  print(f"Uploaded and removed: {file.name}")
-
-          def persist_tracking():
-              lines = [
-                  "commit-tracking: "
-                  + datetime.now(timezone.utc).strftime(
-                      "%Y-%m-%d %H:%M"
-                  )
-              ]
-
-              for repo in sorted(records):
-                  item = records[repo]
-
-                  branches = ";".join(
-                      f"{name}:{sha}"
-                      for name, sha in item["branches"].items()
-                  )
-
-                  lines.append(
-                      f"{repo}: BRANCHES:[{branches}]"
-                      f"|RELEASE:[{item['release']}"
-                      f"|{item['release_sha']}]"
-                  )
-
-              TRACKING.write_text(
-                  "\n".join(lines) + "\n",
-                  encoding="utf-8",
-              )
-
-              run(["git", "add", "commit-tracking.yaml"])
-
-              diff = run(
-                  ["git", "diff", "--cached", "--quiet"],
-                  check=False,
-              )
-
-              if diff.returncode == 0:
-                  print("Tracking file unchanged.")
-                  return
-
-              run([
-                  "git", "commit", "-m",
-                  "Update commit-tracking.yaml [skip ci]",
-              ])
-
-              run([
-                  "git", "push", "origin",
-                  f"HEAD:refs/heads/{TARGET_BRANCH}",
-              ])
-
-              print("Tracking file synchronized.")
+          # ------------------------------------------------------------
+          # Rate limit pre-check
+          # ------------------------------------------------------------
+          check_rate_limit()
 
           failures = []
 
@@ -568,200 +737,224 @@ jobs:
                       )
 
                       if not changed and not release_changed:
-                          print("No changes; backup skipped.")
+                          print(
+                              "No changes; backup skipped."
+                          )
+                          records[repo] = {
+                              "branches": current_branches,
+                              "release": release["tag"],
+                              "release_sha": release["sha"],
+                          }
+                          backup_succeeded = True
+                      else:
+                          stamp = datetime.now(
+                              timezone.utc
+                          ).strftime("%Y%m%d-%H%M%S")
+
+                          slug = safe_name(
+                              repo.replace("/", "-")
+                          )
+                          created_tag = (
+                              f"backup-{slug}-{stamp}"
+                          )
+
+                          notes = (
+                              f"Source: "
+                              f"https://github.com/{repo}\n"
+                              f"Changed branches: "
+                              f"{len(changed)}\n"
+                              f"Latest release changed: "
+                              f"{release_changed}\n"
+                              f"Generated at: {stamp} UTC\n"
+                          )
+
+                          has_files = bool(changed) or (
+                              release_changed
+                              and release["data"] is not None
+                          )
+
+                          # Create a draft first. It will not be
+                          # published until every required asset
+                          # has been uploaded.
+                          if has_files:
+                              run([
+                                  "gh",
+                                  "release",
+                                  "create",
+                                  created_tag,
+                                  "--repo", TARGET,
+                                  "--title",
+                                  f"Backup {repo} {stamp}",
+                                  "--notes", notes,
+                                  "--draft",
+                              ])
+
+                          checksum_lines = []
+                          uploaded_count = 0
+
+                          def backup_and_upload(url, filename):
+                              output = work / safe_name(filename)
+                              try:
+                                  download(url, output)
+
+                                  digest = hashlib.sha256()
+                                  with output.open("rb") as stream:
+                                      for chunk in iter(
+                                          lambda: stream.read(
+                                              1024 * 1024
+                                          ),
+                                          b"",
+                                      ):
+                                          digest.update(chunk)
+
+                                  checksum_lines.append(
+                                      f"{digest.hexdigest()}  "
+                                      f"{output.name}"
+                                  )
+
+                                  upload_one(
+                                      created_tag, output
+                                  )
+                              finally:
+                                  # Remove partial downloads if
+                                  # curl or upload fails.
+                                  output.unlink(missing_ok=True)
+
+                          # Branch snapshots, one at a time.
+                          for branch in changed:
+                              name = branch["name"]
+                              sha = branch["sha"]
+
+                              filename = (
+                                  f"branch-{safe_name(name)}-"
+                                  f"{sha[:12]}.tar.gz"
+                              )
+
+                              backup_and_upload(
+                                  f"https://api.github.com/repos/"
+                                  f"{repo}/tarball/{sha}",
+                                  filename,
+                              )
+
+                              uploaded_count += 1
+                              disk_status(
+                                  f"after branch "
+                                  f"{repo}/{name}"
+                              )
+
+                          # Download, upload and delete each
+                          # release asset separately; never keep
+                          # the whole release on disk.
+                          if (
+                              release_changed
+                              and release["data"]
+                          ):
+                              tag_name = release["tag"]
+
+                              if tag_name != "none":
+                                  backup_and_upload(
+                                      f"https://api.github.com/"
+                                      f"repos/{repo}/tarball/"
+                                      f"{quote(tag_name, safe='')}",
+                                      f"release-"
+                                      f"{safe_name(tag_name)}"
+                                      f".tar.gz",
+                                  )
+                                  uploaded_count += 1
+
+                              for asset in release["data"].get(
+                                  "assets", []
+                              ):
+                                  url = asset.get(
+                                      "browser_download_url"
+                                  )
+                                  name = asset.get("name")
+
+                                  if not url or not name:
+                                      continue
+
+                                  backup_and_upload(
+                                      url,
+                                      f"asset-{name}",
+                                  )
+
+                                  uploaded_count += 1
+                                  disk_status(
+                                      f"after release asset "
+                                      f"{repo}/{name}"
+                                  )
+
+                          # Upload manifest after other files.
+                          if has_files and checksum_lines:
+                              manifest = (
+                                  work / "SHA256SUMS.txt"
+                              )
+                              manifest.write_text(
+                                  "\n".join(checksum_lines)
+                                  + "\n",
+                                  encoding="utf-8",
+                              )
+                              upload_one(
+                                  created_tag, manifest
+                              )
+
+                          # Publish only after all required
+                          # uploads succeed.
+                          if has_files:
+                              run([
+                                  "gh",
+                                  "release",
+                                  "edit",
+                                  created_tag,
+                                  "--repo", TARGET,
+                                  "--draft=false",
+                              ])
 
                           records[repo] = {
                               "branches": current_branches,
                               "release": release["tag"],
                               "release_sha": release["sha"],
                           }
-
                           backup_succeeded = True
-                          continue
-
-                      stamp = datetime.now(
-                          timezone.utc
-                      ).strftime("%Y%m%d-%H%M%S")
-
-                      slug = safe_name(
-                          repo.replace("/", "-")
-                      )
-
-                      created_tag = f"backup-{slug}-{stamp}"
-
-                      # Create a draft first. It will not be published
-                      # until every required asset has been uploaded.
-                      notes = (
-                          f"Source: https://github.com/{repo}\n"
-                          f"Changed branches: {len(changed)}\n"
-                          f"Latest release changed: "
-                          f"{release_changed}\n"
-                          f"Generated at: {stamp} UTC\n"
-                      )
-
-                      has_files = bool(changed) or (
-                          release_changed and release["data"] is not None
-                      )
-
-                      if has_files:
-                          run([
-                              "gh",
-                              "release",
-                              "create",
-                              created_tag,
-                              "--repo", TARGET,
-                              "--title", f"Backup {repo} {stamp}",
-                              "--notes", notes,
-                              "--draft",
-                          ])
-
-                      checksum_lines = []
-                      uploaded_count = 0
-
-                      def backup_and_upload(url, filename):
-                          nonlocal_dummy = None
-
-                          output = work / safe_name(filename)
-
-                          try:
-                              download(url, output)
-
-                              digest = hashlib.sha256()
-                              with output.open("rb") as stream:
-                                  for chunk in iter(
-                                      lambda: stream.read(1024 * 1024),
-                                      b"",
-                                  ):
-                                      digest.update(chunk)
-
-                              checksum_lines.append(
-                                  f"{digest.hexdigest()}  {output.name}"
-                              )
-
-                              upload_one(created_tag, output)
-
-                          finally:
-                              # Also remove partial downloads if curl
-                              # or upload fails.
-                              output.unlink(missing_ok=True)
-
-                      # Branch snapshots are processed one at a time.
-                      for branch in changed:
-                          name = branch["name"]
-                          sha = branch["sha"]
-
-                          filename = (
-                              f"branch-{safe_name(name)}-"
-                              f"{sha[:12]}.tar.gz"
+                          print(
+                              f"Repository completed: {repo}"
                           )
-
-                          backup_and_upload(
-                              f"https://api.github.com/repos/{repo}"
-                              f"/tarball/{sha}",
-                              filename,
-                          )
-
-                          uploaded_count += 1
-                          disk_status(f"after branch {repo}/{name}")
-
-                      # Download, upload and delete each release asset
-                      # separately; never retain the complete release.
-                      if release_changed and release["data"]:
-                          tag_name = release["tag"]
-
-                          if tag_name != "none":
-                              backup_and_upload(
-                                  f"https://api.github.com/repos/{repo}"
-                                  f"/tarball/{quote(tag_name, safe='')}",
-                                  f"release-{safe_name(tag_name)}.tar.gz",
-                              )
-
-                              uploaded_count += 1
-
-                          for asset in release["data"].get(
-                              "assets", []
-                          ):
-                              url = asset.get("browser_download_url")
-                              name = asset.get("name")
-
-                              if not url or not name:
-                                  continue
-
-                              backup_and_upload(
-                                  url,
-                                  f"asset-{name}",
-                              )
-
-                              uploaded_count += 1
-                              disk_status(
-                                  f"after release asset {repo}/{name}"
-                              )
-
-                      # Upload a manifest after the other files.
-                      if has_files and checksum_lines:
-                          manifest = work / "SHA256SUMS.txt"
-
-                          manifest.write_text(
-                              "\n".join(checksum_lines) + "\n",
-                              encoding="utf-8",
-                          )
-
-                          upload_one(created_tag, manifest)
-
-                      # Publish only after all required uploads succeed.
-                      if has_files:
-                          run([
-                              "gh",
-                              "release",
-                              "edit",
-                              created_tag,
-                              "--repo", TARGET,
-                              "--draft=false",
-                          ])
-
-                      # Only now mark this repository as backed up.
-                      records[repo] = {
-                          "branches": current_branches,
-                          "release": release["tag"],
-                          "release_sha": release["sha"],
-                      }
-
-                      backup_succeeded = True
-                      print(f"Repository completed: {repo}")
 
                   except Exception as exc:
                       print(
                           f"FAILED: {repo}: {exc}",
                           file=sys.stderr,
                       )
-
                       failures.append(repo)
                       batch_failed.append(repo)
 
-                      # Delete incomplete draft releases so a partial
-                      # upload is not mistaken for a complete backup.
+                      # Delete incomplete draft releases so a
+                      # partial upload is not mistaken for a
+                      # complete backup.
                       if created_tag:
-                          run([
-                              "gh",
-                              "release",
-                              "delete",
-                              created_tag,
-                              "--repo", TARGET,
-                              "--cleanup-tag",
-                              "--yes",
-                          ], check=False)
-
-                  finally:
-                      # Clean this repository immediately, whether
-                      # successful, skipped, or failed.
-                      if work is not None:
-                          shutil.rmtree(
-                              work,
-                              ignore_errors=True,
+                          run(
+                              [
+                                  "gh",
+                                  "release",
+                                  "delete",
+                                  created_tag,
+                                  "--repo", TARGET,
+                                  "--cleanup-tag",
+                                  "--yes",
+                              ],
+                              check=False,
                           )
 
+                  finally:
+                      # Clean this repository immediately,
+                      # whether successful, skipped, or failed.
+                      if work is not None:
+                          shutil.rmtree(
+                              work, ignore_errors=True
+                          )
                           print(
-                              f"Temporary directory cleaned: {repo}"
+                              f"Temporary directory cleaned: "
+                              f"{repo}"
                           )
 
                       disk_status(f"after cleanup {repo}")
@@ -769,12 +962,13 @@ jobs:
                   if backup_succeeded:
                       batch_completed += 1
 
-              # Synchronize once per owner or repoN batch, not per repo.
+              # Synchronize once per owner or repoN batch,
+              # not per repo.
               if batch_completed:
                   print(
-                      f"\nSynchronizing tracking after batch: {label}"
+                      f"\nSynchronizing tracking after "
+                      f"batch: {label}"
                   )
-
                   try:
                       persist_tracking()
                   except Exception as exc:
@@ -783,7 +977,6 @@ jobs:
                           file=sys.stderr,
                       )
                       sys.exit(1)
-
               else:
                   print(
                       f"No successful repositories in {label}; "
