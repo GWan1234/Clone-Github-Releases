@@ -381,7 +381,7 @@ jobs:
 
               run([
                   "git", "commit", "-m",
-                  "Update commit-tracking.yaml after backup batch"
+                  "Update commit-tracking.yaml [skip ci]"
               ])
 
               run([
