@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-11 09:04
+commit-tracking: 2026-10-11 09:13
 AlistGo/Alist-CoreELEC: BRANCHES:[main:a46aedca9f659cd83bfaf7ce32d42cd6db442b54]|RELEASE:[alist-v3.64.0|a46aedca9f659cd83bfaf7ce32d42cd6db442b54]
 AlistGo/Alist-FN: BRANCHES:[main:df78adb74c82ee397d32f45ef66faba622b166fd]|RELEASE:[alist-v3.64.0|df78adb74c82ee397d32f45ef66faba622b166fd]
 AlistGo/Alist-ikuai: BRANCHES:[main:a2e2728380f40e62779d8d8c3e85c2b4712e9538]|RELEASE:[v3.64.0|a2e2728380f40e62779d8d8c3e85c2b4712e9538]
@@ -490,6 +490,7 @@ dr-dolomite/qadbkey-unlock: BRANCHES:[master:2f4d78cbbcbc084f5da73676b57560b673d
 dr-dolomite/simpleadmin-mockup: BRANCHES:[main:296c9bf79f70c009fda0b84b4120b0eff2e4be23]|RELEASE:[none|none]
 dr-dolomite/sja-grading-system: BRANCHES:[master:0bb733802394b4057709816eb64c795ca1f8f6f4]|RELEASE:[none|none]
 dr-dolomite/sja-voting: BRANCHES:[master:cf35479fcff0430ec2421253e50f276c309840a7]|RELEASE:[none|none]
+dr-dolomite/sja-website: BRANCHES:[main:6ddcbebfc671de2d0a403c23289fdc8e78a6517a]|RELEASE:[none|none]
 esphome/.github: BRANCHES:[main:c556d00629569f29fa2b9293a2ee3b2ec9c8df1f]|RELEASE:[none|none]
 esphome/AsyncTCP: BRANCHES:[main:27cb883234bcea25cb952deefc571d97b3c09b0f;bump-version:f770cd11e9120be4a1f5f4bec70b75f4c96fcd64]|RELEASE:[v2.1.4|acdd7cd680ef442abded748a4b8d117eb6f22eb2]
 esphome/ESP32-audioI2S: BRANCHES:[dev:6ca9d7ed73c8c003ffda03cb2f995dad5669ba89;jesserockz-2023-187:e322c42305e5f536bd1303fe0fac8d666d549042;jesserockz-2022-173:fd99179e0ebbb7b893490796beaa7315454273bf;main:c33c4c019a9abc5235a84f0fe7559c6e6ca2e75b;prepare-for-m4a:e58054fc31bcdc32ba86b5112b604a9dd0cb4c25;add-license-2:2e43c4089fd571d776e95d2a9f625eb4d7a80e16]|RELEASE:[none|none]
@@ -584,6 +585,8 @@ hacs/get: BRANCHES:[dependabot/github_actions/actions/checkout-7.0.1:11748647923
 hacs/integration: BRANCHES:[renovate/python-3.14-alpine:fc143c4d1fd9897646c17bf3cab92cab38c061d5;renovate/homeassistant-2026.x:55de92a3b3de9a160f1b8e1a216922c0529981b5;renovate/ruff-0.x:dac5034d61249e5d5fca080e3c4404eef146f7a4;renovate/isort-9.x:840d1bb9616243eb2f46650d1fbef2527ac879c7;renovate/home-assistant-actions-digest:800bf18e797e71ca1c48cf4742b343a4f8efb8d0;renovate/spdx-license-list-data-3.x:44e9b37a10c3b16becd99a675047a94c2116e301;renovate/codecov-codecov-action-7.x:deda28e7be741d23097bcfa9d77097b1b4ecd2d9;dependabot/pip/homeassistant-2026.7.0:e6b948c2e914a7634bff6be4f28f4a041838552d;renovate/docker-build-push-action-7.x:070793c5ab84399e97255012b36cf7f5eb85cca1;ludeeus-patch-1:87d365839f89c2d0b3d82e60846fc2b65b046e0a]|RELEASE:[2.0.5|c0dfd8b44297c3673c21973e2539375a53687a9c]
 hacs/metrics: BRANCHES:[main:13c960b46d086b2aa85a8f07a7a5f69047973e35]|RELEASE:[none|none]
 hacs/org: BRANCHES:[master:ca997bdcd473d0f621a1d8936f6d055b9b6bde94]|RELEASE:[none|none]
+iamromulan/cellular-modem-wiki: BRANCHES:[main:c4f9593252971ded2a25df3ce33b906f78f1b66a]|RELEASE:[none|none]
+iamromulan/quectel-rgmii-toolkit: BRANCHES:[SDXPINN:ded040396333caf7b8c67293d4f05efdecd4b742;development-SDXPINN:afb6b134eec88a73b2888486b100cf7cbdaa5204;development-SDXLEMUR:a6fe65d0150758373b56c13a6826cf693f064cdc;SDXLEMUR:62b8f199aa63e0954b2e434feedf8cf21e78c9fe;overhaul-SDXLEMUR:af7fc536f8a1609258003cab36499730981cd9eb;main:0d962f3130ae901e77790a563359e5a6f80d2651]|RELEASE:[none|none]
 lambilly/ESP32-Squeezelite-Speaker: BRANCHES:[main:2c2d3ac364abe09c7d4d5daf05c3ddb1800975f8]|RELEASE:[none|none]
 lambilly/MQTT-Bridge: BRANCHES:[main:9575cdc6f340de3175ed74bc1b19ca8f3db7bb84]|RELEASE:[none|none]
 lambilly/brands: BRANCHES:[add-daily_fund-icons:4147861d2b79678a7127be187cbe22282652c393;add-hengda_property-icons:6922720ce1e185b1d986a5d2218305479103443d;add-tian_api_icons:d5512e6810fd7ee33163c1d8ef90809395e67fba;master:e9578a138435328dcb49d2909b1c98719ea85d99]|RELEASE:[none|none]
