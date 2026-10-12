@@ -29,11 +29,11 @@ allrepositories:
   - SmartRouterZone
   - Push3AX
 
-  - yifengyou
+  # - yifengyou
   # 556
   - syb999
   #  160
-#  - ioBroker
+  - ioBroker
   # 241
 
 exclude:
