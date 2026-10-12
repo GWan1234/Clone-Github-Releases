@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-12 12:08
+commit-tracking: 2026-10-12 12:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -110,7 +110,7 @@ HomeSpan/ZephyrVentHood: BRANCHES:[master:c3b38c79202300561a88210bd6b55e9fb21d22
 HomeSpan/arduino-esp32: BRANCHES:[master:7cdfb5171e5a22b555f115b807de1039a896e7b4]|RELEASE:[none|none]
 IvanHanloth/23-Downloader-CLI: BRANCHES:[main:9b5b20c8df010f4b9b9aede841cd7bf58839e1aa]|RELEASE:[none|none]
 IvanHanloth/Bili23-Downloader: BRANCHES:[main:42bf2e33fdc22b7abc438fc7fca96f5221b92a12;function/music:2b8b113c307ac68ed7b4c7e79f75ce10d775566d]|RELEASE:[none|none]
-Jason2866/Tasmota-build: BRANCHES:[special_builder:52b628bc4734883759c922a9d91cd1248a75e695;start_build:9500263788e0485a594d391ec5a12dfded11e78c]|RELEASE:[none|none]
+Jason2866/Tasmota-build: BRANCHES:[special_builder:c835e6d084f04db627107037c5b9681d4b82142a;start_build:9500263788e0485a594d391ec5a12dfded11e78c]|RELEASE:[none|none]
 Jason2866/esp32-arduino-lib-builder: BRANCHES:[v55_152_test:4e34693ddd3e9435a15bda2400e165a06b01281f;v61:4a7cbdda004773971cd89714501889eb8a9d41e1;v55_gcc152_pico:69f61662bef34a5c8b12e96e95fa963ff9143da2;v55_gcc161_pico:ac794bb233f0ead436d075afe352f4ef0aaa367d;v55_gcc162_pico:6a34e7a528db2af8512a3a3af75fa6c155b51c4e;v5.5_gcc152:89c611aaee10c678c8e1018d39f0cec959c184f9;v5.3_gcc151:8cebad43de1058f44d89f4c5b7878b6b9b269f89;no_tiny:3661149509fba173a2f26789e210242e99cfd810;v5.5_p4_ext_ram:8313163aa721390c50975ac20e2d11cb0f9a2bd7;p4_no_mbedtls:8e21fce936c23a74ce947def7889bde8428aaa59]|RELEASE:[1807-55-clang|b277799c1fc5c2023824559d156636bf7963a43d]
 Koenkk/Koenkk: BRANCHES:[main:5d8dba789cbf0cb4c4784bbf9d6aad8eed1c0121]|RELEASE:[none|none]
 Koenkk/MINERful: BRANCHES:[master:e3952199a1ffa7b0f92020a2bcb957b5685ddedf;measures-revision:6b7485c1dfd7a3d3e7a755e573ccdf7c57f9d03b;feature/restructure:5d1fe1cafd3653cc3aaf2582ebe7c8ce4d65dcee;parallel:24fd8229b46f672ecde605b4b5bbb17f6737f905]|RELEASE:[none|none]
