@@ -35,7 +35,10 @@ allrepositories:
   #  160
   - ioBroker
   # 241
-
+onebyonerepositories:
+  - yifengyou
+  # 556
+  
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
