@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-13 09:16
+commit-tracking: 2026-10-13 09:17
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1323,7 +1323,7 @@ yifengyou/anaconda: BRANCHES:[master:76818ac07edcf756835994444f06bc57088eb63b;rh
 yifengyou/analysis-cve: BRANCHES:[master:dcdc45eee3022e0cc4efd837dcf9f202a2acc151]|RELEASE:[none|none]
 yifengyou/android: BRANCHES:[master:d41670d703eb859911e883a0dc8eb8fd9951c413]|RELEASE:[khadas-android14|346983715d1de2af32a7b06064eca029e2e76dcc]
 yifengyou/android_firewall: BRANCHES:[donate:6b2078259b85a8a742bd8eed77ebab1b2b15ec20;master:6cf0935c95dae6973e3dcd6e76cb2f4a86f84e6b]|RELEASE:[none|none]
-yifengyou/andshell: BRANCHES:[andshell:4c90c8fdafb0da6be7f8d9567995ed9de1e3db8a;main:925565a3a06db233d3f4c6f8da7f075b93a02575]|RELEASE:[none|none]
+yifengyou/andshell: BRANCHES:[dependabot/gradle/org.connectbot-termlib-0.3.13:ae877f881e01f2b5d7f9943e7acdf9c874720f53;dependabot/gradle/androidx.compose.material3-material3-1.5.0-beta01:f77a7d94f268cb2d9effc039297b587badde290c;dependabot/gradle/io.nlopez.compose.rules-ktlint-0.6.8:bc16a802f186c81771e7064ed56215fad556e43c;dependabot/gradle/kotlin-2.4.21:0497eabf54d96886bd8a8bd4cb5e98f0737c1365;dependabot/gradle/sshd-2.20.0:073fd3fff5b3da92ee84274332dea486fa59566c;dependabot/gradle/gradle-wrapper-9.8.1:8b049fed39ab593b958d0b95b96b2ce0158fb844;dependabot/gradle/com.diffplug.spotless-8.10.4:83eac7f8e44b22e05eb53e5ca1a5113da3346a33;andshell:4c90c8fdafb0da6be7f8d9567995ed9de1e3db8a;main:925565a3a06db233d3f4c6f8da7f075b93a02575]|RELEASE:[none|none]
 yifengyou/ansible: BRANCHES:[devel:6b162142a7e5d911f72f23a21abc0bfd4b946355;stable-2.4:dbf28d7f8f2ccab472e6dc7e3147d9d350d61862;stable-2.6:4b17adaf66bf96884be2e0f7428e804a8ec61211;stable-2.5:b00358e4fbec42d2fdb6c901bea8603437886c4a;stable-2.3:b20520f500ad6878750bd2e2e8be46f756e4eaa5;stable-2.2:611d34acf3ffdf1dd5120155653cad11334dba64;threading_plus_forking:847327eb9a7f489a708f6da11bc505c0343a46df;threading_instead_of_forking:9b6b924e9c28b80b3d8fe154917311a22e3c50db;stable-2.1:7baf994f2c7c9f07adf94ab9fa147cf31cdf738d;stable-1.9:b377301195e7d7720551538a33d2499eee1a1d30]|RELEASE:[none|none]
 yifengyou/ants: BRANCHES:[master:cfb27797a83ff7ea787acf1c6627657ac174dca3]|RELEASE:[none|none]
 yifengyou/apparmor: BRANCHES:[master:e99d64bfb0804382950c60f51bab0ae7110c6925]|RELEASE:[none|none]
