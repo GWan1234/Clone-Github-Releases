@@ -226,14 +226,16 @@ jobs:
 
           def disk_status(label):
               print(f"\n=== Disk usage: {label} ===")
-              run(["df", "-h", "/tmp"])
-              run(["df", "-i", "/tmp"])
+              for cmd in (["df", "-h", "/tmp"], ["df", "-i", "/tmp"]):
+                  p = run(cmd, check=False)
+                  out = (p.stdout or "").rstrip()
+                  if out:
+                      print(out)
 
           def check_rate_limit():
               try:
                   data = api("rate_limit")
               except PermanentSkip:
-                  # Shouldn't happen, but be safe.
                   raise
               except ApiError as exc:
                   print(
@@ -288,14 +290,8 @@ jobs:
                       try:
                           data = api_with_retry(endpoint)
                       except PermanentSkip:
-                          # Whole owner disabled; skip the owner
-                          # rather than failing.
-                          print(
-                              f"Owner {owner} appears disabled; "
-                              "skipping remaining pages.",
-                              file=sys.stderr,
-                          )
-                          return result
+                          # Whole owner disabled: let caller skip.
+                          raise
                       except ApiError as exc:
                           last_error = exc
                           valid = False
@@ -467,7 +463,6 @@ jobs:
                   for r in refs:
                       r["date"] = dates.get(r["name"], "")
               except PermanentSkip:
-                  # Repo banned: propagate so caller can skip.
                   raise
               except Exception as exc:
                   print(
@@ -655,11 +650,16 @@ jobs:
           }
 
           # Each batch:
-          # 1. One owner from allrepositories.
-          # 2. One explicit repositories.repoN group.
+          #   (label, repos, sync_per_repo)
+          #
+          # sync_per_repo=False  -> sync tracking once at end of batch
+          #                         (allrepositories / repositories.repoN)
+          # sync_per_repo=True   -> sync tracking immediately after
+          #                         each repo (onebyonerepositories)
           batches = []
 
-          for owner in config.get("allrepositories", []):
+          # 1. allrepositories: one owner per batch, batch-level sync.
+          for owner in config.get("allrepositories", []) or []:
               if not isinstance(owner, str):
                   continue
 
@@ -675,6 +675,7 @@ jobs:
                   batches.append((
                       f"owner:{owner}",
                       owner_repositories(owner),
+                      False,
                   ))
               except PermanentSkip as exc:
                   print(
@@ -682,6 +683,39 @@ jobs:
                       file=sys.stderr,
                   )
 
+          # 2. onebyonerepositories: expand each owner into one
+          #    batch per repo, with per-repo tracking sync.
+          for owner in config.get("onebyonerepositories", []) or []:
+              if not isinstance(owner, str):
+                  continue
+
+              owner = owner.strip()
+
+              if not re.fullmatch(
+                  r"[A-Za-z0-9_.-]+", owner
+              ):
+                  print(
+                      f"Invalid onebyone owner skipped: {owner}"
+                  )
+                  continue
+
+              try:
+                  owner_repos = owner_repositories(owner)
+              except PermanentSkip as exc:
+                  print(
+                      f"SKIPPED (permanent): owner {owner}: {exc}",
+                      file=sys.stderr,
+                  )
+                  continue
+
+              for repo in owner_repos:
+                  batches.append((
+                      f"onebyone:{repo}",
+                      [repo],
+                      True,
+                  ))
+
+          # 3. repositories.repoN groups, batch-level sync.
           groups = config.get("repositories", {})
 
           for key, values in groups.items():
@@ -700,13 +734,14 @@ jobs:
               batches.append((
                   f"repositories.{key}",
                   repos,
+                  False,
               ))
 
           # Exclude and deduplicate repositories across batches.
           seen = set()
           clean_batches = []
 
-          for label, repos in batches:
+          for label, repos, sync_per_repo in batches:
               clean = []
 
               for repo in repos:
@@ -722,7 +757,9 @@ jobs:
                   clean.append(repo)
 
               if clean:
-                  clean_batches.append((label, clean))
+                  clean_batches.append(
+                      (label, clean, sync_per_repo)
+                  )
 
           print(f"Total batches: {len(clean_batches)}")
           print(f"Total repositories: {len(seen)}")
@@ -784,14 +821,17 @@ jobs:
 
           # Every repository gets its own temporary directory.
           # finally always attempts cleanup, including on failure.
-          for batch_index, (label, repos) in enumerate(
-              clean_batches, 1
-          ):
+          for batch_index, (
+              label,
+              repos,
+              sync_per_repo,
+          ) in enumerate(clean_batches, 1):
 
+              mode = "per-repo-sync" if sync_per_repo else "batch-sync"
               print("\n" + "=" * 70)
               print(
                   f"BATCH {batch_index}/{len(clean_batches)}: "
-                  f"{label}"
+                  f"{label} [{mode}]"
               )
               print(f"Repositories: {len(repos)}")
               print("=" * 70)
@@ -882,9 +922,6 @@ jobs:
                               and release["data"] is not None
                           )
 
-                          # Create a draft first. It will not be
-                          # published until every required asset
-                          # has been uploaded.
                           if has_files:
                               run([
                                   "gh",
@@ -925,11 +962,8 @@ jobs:
                                       created_tag, output
                                   )
                               finally:
-                                  # Remove partial downloads if
-                                  # curl or upload fails.
                                   output.unlink(missing_ok=True)
 
-                          # Branch snapshots, one at a time.
                           for branch in changed:
                               name = branch["name"]
                               sha = branch["sha"]
@@ -951,9 +985,6 @@ jobs:
                                   f"{repo}/{name}"
                               )
 
-                          # Download, upload and delete each
-                          # release asset separately; never keep
-                          # the whole release on disk.
                           if (
                               release_changed
                               and release["data"]
@@ -993,7 +1024,6 @@ jobs:
                                       f"{repo}/{name}"
                                   )
 
-                          # Upload manifest after other files.
                           if has_files and checksum_lines:
                               manifest = (
                                   work / "SHA256SUMS.txt"
@@ -1007,8 +1037,6 @@ jobs:
                                   created_tag, manifest
                               )
 
-                          # Publish only after all required
-                          # uploads succeed.
                           if has_files:
                               run([
                                   "gh",
@@ -1030,8 +1058,6 @@ jobs:
                           )
 
                   except PermanentSkip as exc:
-                      # Repository is permanently unavailable.
-                      # Do NOT count as failure; just note and skip.
                       print(
                           f"SKIPPED (permanent): {repo}: {exc}",
                           file=sys.stderr,
@@ -1039,8 +1065,6 @@ jobs:
                       skipped.append(repo)
                       batch_skipped.append(repo)
 
-                      # Cleanup any draft created before we hit
-                      # the permanent block (rare, but possible).
                       if created_tag:
                           run(
                               [
@@ -1063,9 +1087,6 @@ jobs:
                       failures.append(repo)
                       batch_failed.append(repo)
 
-                      # Delete incomplete draft releases so a
-                      # partial upload is not mistaken for a
-                      # complete backup.
                       if created_tag:
                           run(
                               [
@@ -1081,8 +1102,6 @@ jobs:
                           )
 
                   finally:
-                      # Clean this repository immediately,
-                      # whether successful, skipped, or failed.
                       if work is not None:
                           shutil.rmtree(
                               work, ignore_errors=True
@@ -1094,29 +1113,64 @@ jobs:
 
                       disk_status(f"after cleanup {repo}")
 
+                  # ------------------------------------------------------
+                  # Per-repo tracking sync:
+                  # For onebyonerepositories, push immediately after
+                  # each successful repo (success or no-change skip).
+                  # ------------------------------------------------------
+                  if sync_per_repo and backup_succeeded:
+                      print(
+                          f"\nSynchronizing tracking after "
+                          f"repo: {repo}"
+                      )
+                      try:
+                          persist_tracking()
+                      except Exception as exc:
+                          print(
+                              f"TRACKING PUSH FAILED: {exc}",
+                              file=sys.stderr,
+                          )
+                          sys.exit(1)
+
                   if backup_succeeded:
                       batch_completed += 1
 
-              # Synchronize once per owner or repoN batch,
-              # not per repo.
-              if batch_completed:
-                  print(
-                      f"\nSynchronizing tracking after "
-                      f"batch: {label}"
-                  )
-                  try:
-                      persist_tracking()
-                  except Exception as exc:
+              # ----------------------------------------------------------
+              # Batch-level tracking sync:
+              # Only for non-per-repo batches.
+              # ----------------------------------------------------------
+              if not sync_per_repo:
+                  if batch_completed:
                       print(
-                          f"TRACKING PUSH FAILED: {exc}",
-                          file=sys.stderr,
+                          f"\nSynchronizing tracking after "
+                          f"batch: {label}"
                       )
-                      sys.exit(1)
+                      try:
+                          persist_tracking()
+                      except Exception as exc:
+                          print(
+                              f"TRACKING PUSH FAILED: {exc}",
+                              file=sys.stderr,
+                          )
+                          sys.exit(1)
+                  else:
+                      print(
+                          f"No successful repositories in "
+                          f"{label}; tracking not synchronized."
+                      )
               else:
-                  print(
-                      f"No successful repositories in {label}; "
-                      "tracking not synchronized."
-                  )
+                  # onebyone batch: tracking already synced per repo.
+                  if batch_completed:
+                      print(
+                          f"\nPer-repo tracking synchronized for "
+                          f"{batch_completed} repo(s) in "
+                          f"batch: {label}"
+                      )
+                  else:
+                      print(
+                          f"No successful repositories in "
+                          f"{label}; tracking not synchronized."
+                      )
 
               if batch_skipped:
                   print(
@@ -1148,8 +1202,6 @@ jobs:
                   + ", ".join(failures),
                   file=sys.stderr,
               )
-              # Only real (transient/unknown) failures cause a
-              # red workflow.
               sys.exit(1)
 
           if skipped:
