@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-13 07:25
+commit-tracking: 2026-10-13 07:27
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1300,6 +1300,7 @@ yifengyou/Android-software-security-and-reverse-analysis: BRANCHES:[master:8aba1
 yifengyou/Android-system-source-code-scene-analysis: BRANCHES:[master:bee152ee24ed94d2ed6db06602b247611689918e]|RELEASE:[none|none]
 yifengyou/BDY_G98_RK3588: BRANCHES:[master:3fa740337a2a25ba360575ea0c90dd6893f725a9]|RELEASE:[OpenCloudOS-6.6|fe056497da61be0fbf47c8395e79b87451600e7c]
 yifengyou/BDY_G98_RK3588-kernel: BRANCHES:[kdev-recovery:8ffea1f206d3b86453b1312b46bcc5c29420000c;main:b287ad633b8454752bf792381f1d849bd3fe58e3]|RELEASE:[bdy-g98-recovery_20260824|04e4541b6d0c78037d80cf021e7cf6a925059abc]
+yifengyou/BDY_G98_RK3588-uboot: BRANCHES:[kdev:2d2762387baa291578d2613ca516b00669a26edb;master:c95ecb1990068c2a41887eb3aaa6338d24e33887]|RELEASE:[bdy-g98-uboot|ec620c88b15b6e5f78aa92049b43245d69209dab]
 yifengyou/adv-c-cpp-compiling: BRANCHES:[master:da23e294b612702467056b5841ab61cd4b7ae077]|RELEASE:[none|none]
 yifengyou/ai: BRANCHES:[master:2ae8459f71f3e22315864eb91abcb9066c6a8a39]|RELEASE:[none|none]
 yifengyou/aigo-s60-rk3588: BRANCHES:[master:97bdc7bd7c012ad337aa04f2ea4bd3649998bcdd]|RELEASE:[aigo_s60_image|c72265e393222881bf4cfcfe779cabb2717f8278]
