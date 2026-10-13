@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-13 07:36
+commit-tracking: 2026-10-13 07:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1304,6 +1304,7 @@ yifengyou/BDY_G98_RK3588-uboot: BRANCHES:[kdev:2d2762387baa291578d2613ca516b0066
 yifengyou/BDY_G98_RK3588_edk2-uefi: BRANCHES:[bdy-g98:36aede664aec711c54e08ce458745f30afc353c5;master:824e6c12168a51cf72470fb43da60642e835198f]|RELEASE:[bdy-g98-edk2-uefi|8581f974b2b3ee5e7470d9d474d7665094c5885f]
 yifengyou/Bing-Chat: BRANCHES:[main:6123e0285ebadddf43954eaa9ec50cf6497aca47;huwei901108-docker:71a82af1a205b2da1968a47a187e104b11014dd4]|RELEASE:[none|none]
 yifengyou/C-Coding-Standard: BRANCHES:[master:d68515895aa412912d5a6b3816d86db287fa7f14]|RELEASE:[none|none]
+yifengyou/CTF: BRANCHES:[master:99df7e7fd92c8a33667d24d3215eb5a112cf9324]|RELEASE:[none|none]
 yifengyou/Code-virtualization-and-automation-analysis: BRANCHES:[master:4820df44fbd5b97f4bff5477348b385d34318ef0]|RELEASE:[none|none]
 yifengyou/CodingInterview2: BRANCHES:[master:9c0de20354a9976d1aad24c54d25cb31b585904e]|RELEASE:[none|none]
 yifengyou/adv-c-cpp-compiling: BRANCHES:[master:da23e294b612702467056b5841ab61cd4b7ae077]|RELEASE:[none|none]
