@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-13 04:36
+commit-tracking: 2026-10-13 04:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1304,4 +1304,5 @@ yifengyou/aiot-3588ied: BRANCHES:[master:b389cbebfc998d3bb2cdd1cde67509d3df90fe6
 yifengyou/aiot-3588ied-kernel: BRANCHES:[aiot-3588ied:f7a8e6707c87f4cab181402a41e3be430a92a022;main:315badfd4a9a018e8afb582a889f1c8dbc5c500d]|RELEASE:[aiot-3588ied-recovery|5fc4037d5c827bf1de1d960e86bdcf464202dfb5]
 yifengyou/aiot-3588ied-uboot-mainline: BRANCHES:[aiot-3588ied:3ecbd4c74e2cb6e38c9104fe5c8ae9aa4574a072]|RELEASE:[aiot-3588ied-uboot|6e7e2bc839c46d6a9b507b3ef3680be42c99316a]
 yifengyou/alienspy: BRANCHES:[master:504460e7ca2242d6d58d368882eed582084c0aed]|RELEASE:[none|none]
+yifengyou/am60: BRANCHES:[master:aaba0b876d53db5f2715c996683dafa295fd1c54]|RELEASE:[workflow_envinfo|2c3a3eb351834b57b51e1bda0745c4bd09fce99c]
 yllibed/Zigbee2MqttAssistant: BRANCHES:[dependabot/nuget/MQTTnet-4.1.4.563:93f20e5e7b2ace29095106937906e63e3328fc71;dependabot/nuget/MQTTnet.Extensions.ManagedClient-4.1.4.563:809828f9f35e6fe1c9b8f88ad1ab485a2797b4c5;dependabot/nuget/Microsoft.TypeScript.MSBuild-4.9.4:a814031fa427aceb342f428092bf88b1d8016193;dependabot/nuget/Uno.SourceGenerationTasks-4.2.0:c89bf018a625b573fa1a65e334d96339e1734ccb;dependabot/nuget/Microsoft.VisualStudio.Azure.Containers.Tools.Targets-1.17.0:3d92ed3985242bead88078a34c20f74260e907ab;dependabot/nuget/Scrutor-4.2.0:7e79feaaed6d514643f5264284e08936a4d63c2a;dependabot/nuget/Uno.CodeGen-1.34.0:6e2731b12d0d94475b7b924bee5d295ae2ad0df9;dependabot/nuget/Humanizer.Core-2.14.1:4de1e96a6b38ab5804ee7525eb4ac280fb0a95b0;dependabot/nuget/Cronos-0.7.1:cf6fd8887e94868bd4f3f2d3215a884e78522349;master:a3b38cc0e099098b353aee1c602c385944952ecf]|RELEASE:[none|none]
