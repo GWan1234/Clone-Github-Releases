@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 14:16
+commit-tracking: 2026-10-14 14:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;websocket-proxy-ci:440625d676f12298c4605e89593ba80c2bcfddfd;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;arm32:f13da1759662f3e90e049dd182e3794509919a5a;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -126,7 +126,7 @@ MetaCubeX/metacubexd: BRANCHES:[dependabot/npm_and_yarn/vitest-5.0.4:c1e8776baa0
 MetaCubeX/mhurl: BRANCHES:[main:a81b1fc90f8d02a00c701fe4226a6b636504a409]|RELEASE:[none|none]
 MetaCubeX/miekg-dns: BRANCHES:[master:fdd01a247110935b60c13cf0a6e555a33e64cec5]|RELEASE:[none|none]
 MetaCubeX/mihomo: BRANCHES:[Alpha:94b13aed49b8dc41973e4bb3f721c5fa2c5c5c1f;Meta:88dcbf7f1614a67c3b36b848ee3592dfa92ada36;dev-conn-prepare:58c4110b57d2f94867a352a37bc492f896eda5f5;main:008b91bfe8c0e2daca0ab69061efd9ea1ad71bd2;android-real:807d41f57bdd7a9c74e91c978b9551facb211d16;android-open:80fabce99c5ffd8aaa594a7c43ec10aa139eac83;Mitm:a0fd6cfeeab71eb2861f8e8ea672a3091f3642f3;memory:d4e48d709f7185c0c5b809c702fa53f62944e849;dev-refactor-udp:637a8b6ed5eb1e9b63215f84bf8ff0668a57e823;rm:8ff8ddc88f4ccc5405e06c0c4721cb3060ae5d92]|RELEASE:[v1.19.32|88dcbf7f1614a67c3b36b848ee3592dfa92ada36]
-MetaCubeX/mipstack: BRANCHES:[master:2fd7496b77946a84c04df99c60428ec5b71b6e60]|RELEASE:[none|none]
+MetaCubeX/mipstack: BRANCHES:[master:3f5ce6982decb8bf5d14152cdc52a85e626b954a]|RELEASE:[none|none]
 MetaCubeX/mldsa: BRANCHES:[main:a004d9de4b0d165d652db67916fc8aeb9b9ffe48]|RELEASE:[none|none]
 MetaCubeX/mlkem: BRANCHES:[main:d04222f054d18340238828f06f2c9c4ace16076d]|RELEASE:[none|none]
 MetaCubeX/netlink: BRANCHES:[pr:ff416ec483e8cf8a601d8d233955cf307dace6ae;main:d6853f887820acfe76e79cf4dc2a80e20e6a3ba8;revert-752-hasan.mahmood/netlink-opt-fix:09ef9451e5532cc872c2ce3c0e0671845ced4731;master:e5fd1f8193dee65ec93fafde8faf67e32a34692a;v1.0.0:41009d533ba0788a139b0b6ef38923a23b3766d3]|RELEASE:[none|none]
@@ -159,7 +159,7 @@ MetaCubeX/subconverter: BRANCHES:[master:36573b35baf754afc1ca2b7989ee0f59188ccf7
 MetaCubeX/tailscale: BRANCHES:[main:ff0ecd81818198276db45f60d6912b4ef518fac4;for-meta-v1.19.29:e2257fe61058658917ca97067a4f7724b31f74c8;for-meta-v1.19.28:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.27:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.26:f23132fac4b7863bb33d6dab8a79fc0efd7c350a;for-meta-v1.19.25:a21c2c99dcbe247782d05b72dece4811bddc3d79]|RELEASE:[none|none]
 MetaCubeX/tailscale-wireguard-go: BRANCHES:[tailscale:e61ab99cede29a297d1f7d72ada92e4eddc0e6b5;for-meta-v1.19.29:06ea214022e47c51998270a88761c64f7f53ba49;for-meta-v1.19.28:06ea214022e47c51998270a88761c64f7f53ba49;for-meta-v1.19.27:e1bf77ef79af1fee7d2fda15e465dd7b80fd1226;for-meta-v1.19.26:e1bf77ef79af1fee7d2fda15e465dd7b80fd1226;for-meta-v1.19.25:8bc7ee255d04d098623106aa5ce8da22c1eba98e]|RELEASE:[none|none]
 MetaCubeX/tfo-go: BRANCHES:[main:376a77860b8c456d4b95c2b15297cfbf8dec63c8]|RELEASE:[none|none]
-MetaCubeX/tls: BRANCHES:[go1.27:ba3062170afcb5c99a27e3ebedcd9e1ca5add5d6;main:2db6215c81d22a2e2b0c5bc911e208e5b5412ff8]|RELEASE:[none|none]
+MetaCubeX/tls: BRANCHES:[go1.27-forkx509:cf3902cd4741aa1c384181b7730937e591d92ac1;go1.27-stdx509:a55dab1625b67fa0ccc17671fea489ca69546f0f;main:2db6215c81d22a2e2b0c5bc911e208e5b5412ff8]|RELEASE:[none|none]
 MetaCubeX/tuic: BRANCHES:[dev:673364835b8ddbabe0cc17ccf968cc5bc49a37b4;main:9ef1fa872a39b407748ea280661cc12b0ac4c412;old:f5834b47c496fc7d014d029ae8c24cc688917747]|RELEASE:[none|none]
 MetaCubeX/tun2socket: BRANCHES:[main:dddbfaa28112d4eb1ab6a9ce0435d7f602da20d8]|RELEASE:[none|none]
 MetaCubeX/uber-atomic: BRANCHES:[master:0c8ebe545868acde841cab8b325192f933e85df7]|RELEASE:[none|none]
