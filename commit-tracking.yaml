@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 05:19
+commit-tracking: 2026-10-14 05:20
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -490,8 +490,8 @@ dailook/gl-infra-builder: BRANCHES:[main:bcf28a4224d1f3345e65d22272c8c198b24bb5a
 dailook/immortalwrt-24.10: BRANCHES:[openwrt-24.10:fe93ec43755b15cd257b0934bf45d3da45d6206e;24.10.7:de11b333e0548cc6c201e3fa7add9e0bdbc29756;24.10.6:e7993ec00bbd4ee8f36455278cde728f399a4786;24.10.5:a72a309f177dc41d5a44ab7f364bc5adc5b1ae56;24.10.3:d637ebb4a05ec32b0fed54edf0b9bef8d1025261]|RELEASE:[CLX-S20L-Full-LuCI-NPS-24.10-2026.10.04-21.50.49|fe93ec43755b15cd257b0934bf45d3da45d6206e]
 dailook/immortalwrt-mt798x: BRANCHES:[openwrt-21.02:3a35815705448b4dd8e56507ee6009d0a7dd4af6]|RELEASE:[none|none]
 dailook/immortalwrt-mt798x-6.6: BRANCHES:[2410:d39cdc44de0a906b6eed4472bdd273dbd5a26f24;mt798x-mt799x-6.6-mtwifi:30fbc1d6deba23c0e850185021e9ee42214925eb;sync-237-6.6:ec9ef10efc65da1e6d1de4e2c043c0e13d08eed8;openwrt-24.10-6.6:a320a353413d2040c510f244aaca0cffbaf9a695;24.10.6:4d3d25baa06dc5a24703fcfda57aa340ae3eaed0;24.10-5.4-high_kernel:4b75bfd812343ef88549bee5ffa440988b242dc1;openwrt-23.05:ec388f343491085cdf32da506da071cf022fb7d7]|RELEASE:[none|none]
-dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12:a99b0888b88f134f56bcb2a7d93027b5d20638a9;openwrt-25.12:ce35a9e4ef1b87fbbc2146036ce6693e4242861a;25.12-dev-wifi7:aeffdad3456d2ab592aa9d6ae0ebabe0a0a1830d;rework-24.10:36086c1fd1dab71c19dc1409ca632f3d5c18f4fc;rework-21.02:4f07b582334bc7dcbf8e396087c949b155ce4582]|RELEASE:[none|none]
-dailook/lede: BRANCHES:[master:27d57f45e01459e0d498efbf44532bfe0dfc1d40]|RELEASE:[none|none]
+dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12:468e251661cb46face4ca0c961238282a6eaaa0a;openwrt-25.12:ce35a9e4ef1b87fbbc2146036ce6693e4242861a;25.12-dev-wifi7:aeffdad3456d2ab592aa9d6ae0ebabe0a0a1830d;rework-24.10:36086c1fd1dab71c19dc1409ca632f3d5c18f4fc;rework-21.02:4f07b582334bc7dcbf8e396087c949b155ce4582]|RELEASE:[none|none]
+dailook/lede: BRANCHES:[master:99e3b18b49060f76b7870253378f95a8dd5a6101]|RELEASE:[none|none]
 dailook/luci-app-adguardhome: BRANCHES:[main:36108202f326f65ab6f5a85d15adcba6538f8e8b]|RELEASE:[none|none]
 dailook/luci-app-airoha-npu: BRANCHES:[main:14521b8414da1e98517a295d8ec267087c7dde8e]|RELEASE:[none|none]
 dailook/luci-app-easytier: BRANCHES:[main:bfaeeac084b3e48a5e6c5bb72b711f631e70cc0a]|RELEASE:[none|none]
