@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 20:27
+commit-tracking: 2026-10-14 20:28
 sparkfun/.github: BRANCHES:[main:a333439a0699336da2f4a7814ec654be54f19931]|RELEASE:[none|none]
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:aa67753d752e753bc381e4710055fe9b3e30aaca;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e]|RELEASE:[v20|cdb0509af470a417b8c043ec759b6bb4fa8d1110]
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
@@ -373,6 +373,7 @@ sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd37261103
 sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac76938c]|RELEASE:[none|none]
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroMod_ATP_Carrier_Board: BRANCHES:[master:9750d65ca0fdd4164fbac93a9b1ebcec7b615f11]|RELEASE:[v1.1|9750d65ca0fdd4164fbac93a9b1ebcec7b615f11]
+sparkfun/MicroMod_ATP_Carrier_Board_Promo_Constellation: BRANCHES:[main:1051add80007fcb66cafabd7a748cae69efc4dcb]|RELEASE:[none|none]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
 sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c261e82f5de]|RELEASE:[none|none]
 sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c91f639babe04baff3c45]|RELEASE:[none|none]
