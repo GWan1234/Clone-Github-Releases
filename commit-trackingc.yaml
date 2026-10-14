@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 10:46
+commit-tracking: 2026-10-14 10:51
 Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294b0e3c]|RELEASE:[none|none]
 Joetooley28/atcli_rust: BRANCHES:[main:3711676de41d362ce8b52c0cef2324f5752f8c4f]|RELEASE:[none|none]
 Joetooley28/cfw3212-qtooley-overlay: BRANCHES:[main:507487065f15b5a66ad4818d623f194b5f769bf8;working-branch:eaaf9cf38cf4a1279844b70d9494887c43b72624;standalone-at-terminal-old:3669082a848b709f1c73f4a34a760efb51d3849a]|RELEASE:[v0.3.11-qtooley-2026-04-11|e3cfaf883328fbaa8e9792b6e22288b63fca383a]
@@ -8,6 +8,12 @@ Joetooley28/qmanager-casa-cfw3212-package: BRANCHES:[main:f1bc2c7aba6040c6e002ac
 Joetooley28/qmanager-casa-cfw3212-package-rc: BRANCHES:[main:4d33a1adbb252a1756e78fb5701887bfc6d60e39]|RELEASE:[none|none]
 Joetooley28/tiny-tailscale: BRANCHES:[main:4faed244241b2320983a4c7b15ce13b649dca0c5]|RELEASE:[v1.104.1|4faed244241b2320983a4c7b15ce13b649dca0c5]
 RROrg/qr-build: BRANCHES:[main:91537bf0d435a278484d35ba8c9d1bbcd69ffa28]|RELEASE:[none|none]
+faadd2/AndroidForClaw: BRANCHES:[main:6de6343d11adca575020715d30e6731028fe061c]|RELEASE:[none|none]
+faadd2/SDRSharper: BRANCHES:[master:e190b08a7545d24fe65aadb6d668211f14921947]|RELEASE:[none|none]
+faadd2/SSL-Assistant: BRANCHES:[main:9258f0afe2eb4ca6948475971fdaadbd80a4d15c]|RELEASE:[none|none]
+faadd2/luci-app-onu: BRANCHES:[main:f773eb04329d08d9849adf9e5ff2c974c71087e5]|RELEASE:[none|none]
+faadd2/luci-app-pon: BRANCHES:[main:5fcf6b0eb7752646a3f2132571ae4a5bab8816c6]|RELEASE:[none|none]
+faadd2/zn504xg-onu-build: BRANCHES:[main:a9cc8e869846b028e217bf6d110e99a5adf2c1bf]|RELEASE:[build-14|699e850a8bed5bd1eabe29c02c93117403d4260c]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c]|RELEASE:[none|none]
 martin-ger/ESP32_Locator: BRANCHES:[master:b14acf1935f3e99cee900e4d15a76ff40cc743b3]|RELEASE:[none|none]
