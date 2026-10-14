@@ -83,7 +83,7 @@ jobs:
               sys.exit(1)
 
           CONFIG = Path("repositoriesa.yaml")
-          TRACKING = Path("commit-tracking.yaml")
+          TRACKING = Path("commit-trackinga.yaml")
 
           # Keep uploaded assets below GitHub's per-file limit.
           MAX_ASSET_SIZE = 1900 * 1024 * 1024
@@ -614,7 +614,7 @@ jobs:
                   encoding="utf-8",
               )
 
-              run(["git", "add", "commit-tracking.yaml"])
+              run(["git", "add", "commit-trackinga.yaml"])
 
               diff = run(
                   ["git", "diff", "--cached", "--quiet"],
@@ -627,7 +627,7 @@ jobs:
 
               run([
                   "git", "commit", "-m",
-                  "Update commit-tracking.yaml [skip ci]",
+                  "Update commit-trackinga.yaml [skip ci]",
               ])
 
               run([
@@ -765,7 +765,7 @@ jobs:
           print(f"Total repositories: {len(seen)}")
 
           # ------------------------------------------------------------
-          # Read existing commit-tracking.yaml.
+          # Read existing commit-trackinga.yaml.
           # Legacy format:
           # repo: BRANCHES:[name:sha;...]|RELEASE:[tag|sha]
           # ------------------------------------------------------------
