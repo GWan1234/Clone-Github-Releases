@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 18:29
+commit-tracking: 2026-10-14 18:30
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
 sparkfun/3D_Models: BRANCHES:[master:53d298c3b8202cf8fce9ab61885855720c84c012]|RELEASE:[none|none]
 sparkfun/5-Way_Tactile_Switch_Breakout: BRANCHES:[master:ba558422b3eddeba99230d5ac3602fa488fd3dfd]|RELEASE:[none|none]
@@ -458,6 +458,7 @@ sparkfun/Rover5_Motor_Driver_Board: BRANCHES:[master:2823c4add50001f6ef44b9ea968
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/SAMD21_Dev_Breakout: BRANCHES:[master:862b35cc1abcdfbde8416d9ef31178513cbc61a1]|RELEASE:[none|none]
 sparkfun/SAMD21_Mini_Breakout: BRANCHES:[master:314ca1b375e24c2cebe20db55d8bfab2d6736247]|RELEASE:[none|none]
+sparkfun/SAMD51_Thing_Plus: BRANCHES:[master:ab67e74cc7acbfd325e5a7e1409f5fb7a99d9869]|RELEASE:[v1.0.0|61b182b13ed6b236c90d3d9002c00f9b927f2eab]
 sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
 sparkfun/SD_Sniffer: BRANCHES:[master:5f08751556b7f49f61d63a87b705286d28fd291d]|RELEASE:[none|none]
 sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c4]|RELEASE:[pre-1.6|4c5d9565b4a106118b47046dd6803769a36dc867]
