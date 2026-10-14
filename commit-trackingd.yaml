@@ -28,5 +28,6 @@ sparkfun/SparkFun-Eagle-Libraries: BRANCHES:[main:2354daeed58cd6bcfcb97f2669765d
 sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac]|RELEASE:[1.1.14|6019e589518335edd39cf0fa5c89933e71470c99]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
 sparkfun/Wake_on_shake: BRANCHES:[master:9c799010b82c0b1b83de27bc0d8b451f91ff98d4]|RELEASE:[none|none]
+sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
