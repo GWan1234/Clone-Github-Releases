@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 05:05
+commit-tracking: 2026-10-14 05:07
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1249,7 +1249,7 @@ thelastoutpostworkshop/curved_screen: BRANCHES:[main:dd195e88bb6351d68c60f885a4f
 thelastoutpostworkshop/curved_screen_ressources: BRANCHES:[main:710dd94c7f48305f087c2d52b767b3c94fc20e1e]|RELEASE:[none|none]
 thelastoutpostworkshop/devops-directive-github-actions-course: BRANCHES:[main:246fa14788e28cc503441223030582c3ce477471]|RELEASE:[none|none]
 thelastoutpostworkshop/esp-pinout-explorer: BRANCHES:[main:4dbe0a2f198ceb08a9b29625f86cc9ae7595aeef]|RELEASE:[v0.5.9|4dbe0a2f198ceb08a9b29625f86cc9ae7595aeef]
-thelastoutpostworkshop/esp32-2432S028_video_player: BRANCHES:[main:122cc62f9036d72cd828772f6b143ac702e3aadf]|RELEASE:[none|none]
+thelastoutpostworkshop/esp32-2432S028_video_player: BRANCHES:[main:649de8cc41e31326d324d4b0a09c3a567aabfeb1]|RELEASE:[none|none]
 thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386322fe7c6823f06e26bc49a9585354df1c715]|RELEASE:[none|none]
 thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:51c6a757a8d456d96146f4910b7464e95009e05c]|RELEASE:[none|none]
 thelastoutpostworkshop/firmware-releases: BRANCHES:[main:f05bd562020121900acc75e6f41339e9d51835bb]|RELEASE:[v1.0.0|f05bd562020121900acc75e6f41339e9d51835bb]
