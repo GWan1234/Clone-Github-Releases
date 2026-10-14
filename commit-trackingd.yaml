@@ -340,6 +340,7 @@ sparkfun/Rotary_Switch_Breakout: BRANCHES:[master:038b66e8d98c75b39f0a381d841162
 sparkfun/Rotary_Switch_Potentiometer: BRANCHES:[master:834715375db24d45c88cd4f23ed63f84718f1120]|RELEASE:[none|none]
 sparkfun/Rover5_Motor_Driver_Board: BRANCHES:[master:2823c4add50001f6ef44b9ea968aaec238a3f6a2]|RELEASE:[none|none]
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
+sparkfun/SAMD21_Mini_Breakout: BRANCHES:[master:314ca1b375e24c2cebe20db55d8bfab2d6736247]|RELEASE:[none|none]
 sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
 sparkfun/SD_Sniffer: BRANCHES:[master:5f08751556b7f49f61d63a87b705286d28fd291d]|RELEASE:[none|none]
 sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c4]|RELEASE:[pre-1.6|4c5d9565b4a106118b47046dd6803769a36dc867]
