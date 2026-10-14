@@ -828,6 +828,7 @@ sparkfun/phant-stream-json: BRANCHES:[master:b6de7cac6bf7af426561e973c7fc7aa6f6b
 sparkfun/phant-stream-mongodb: BRANCHES:[master:7b714cd44a642d7cd3aa9909864ad401ab6dde35]|RELEASE:[none|none]
 sparkfun/phant-throttler-memcache: BRANCHES:[master:5b365a7dbebabccea3a6bc138761fce40981c812]|RELEASE:[none|none]
 sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9c359df9a1]|RELEASE:[none|none]
+sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd95d3548f7dadf5ad]|RELEASE:[none|none]
 sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ffa]|RELEASE:[v0.0.9|a26130e30d50d7599f7ebe032d427afab426aeaf]
 sparkfun/pxt-gamer-bit_OLD: BRANCHES:[master:d2c7abda1b3cbe2d44853f6685cb8ceb7e89d547;simplify:2e2e9bb90c4cc86d32596a04dfbadc4998d8a52a;btns:13dce6b70c1d89efb1a6035686775fcdf63ebfb0]|RELEASE:[none|none]
 sparkfun/pxt-gator-light: BRANCHES:[master:e31cd4a8048c4d7944a3c22ecb4a60748d708710]|RELEASE:[none|none]
