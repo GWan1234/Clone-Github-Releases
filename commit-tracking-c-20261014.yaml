@@ -5574,3 +5574,4 @@ Seeed-Studio/OSHW-XIAO-Series: BRANCHES:[main:f07e6ff72e79623f341f80595d03224489
 ophub/delete-releases-workflows: BRANCHES:[main:f5873e66feb0a85460d7fbc073de6c89470e94d3;]|RELEASE:[v0.1.0|none]
 ophub/firmware: BRANCHES:[main:9d4e41c60949e7e7a67f0f8d1b0283a896e07726;]|RELEASE:[v2026.05.20|none]
 ophub/flippy-openwrt-actions: BRANCHES:[main:3606eda43bca087ef1da62b5a78fd535903d7a52;]|RELEASE:[OpenWrt_armv8_save_2026.10|none]
+ophub/flippy-ubuntu-actions: BRANCHES:[main:e97a971450f51e179b0719772c77dda255d7869e;]|RELEASE:[ubuntu_noble-rk-media_save_2026.10|none]
