@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 16:56
+commit-tracking: 2026-10-14 16:57
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
 sparkfun/3D_Models: BRANCHES:[master:53d298c3b8202cf8fce9ab61885855720c84c012]|RELEASE:[none|none]
 sparkfun/9DOF_Razor_IMU: BRANCHES:[master:51dbea98591c547e73c2511f2339e35e4bd7ad48;v30:2865253ffa7e31ac77c2e741931da7af4e8779a4]|RELEASE:[none|none]
@@ -128,6 +128,7 @@ sparkfun/LilyPad_XBee: BRANCHES:[master:d39ccc048cc7f3c6b9f1faae1b7d5af2d1dca5e1
 sparkfun/LilyPixel: BRANCHES:[master:c29d59c8c31cc6130489b7043b1abc5ac510a9c6]|RELEASE:[none|none]
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f]|RELEASE:[none|none]
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9]|RELEASE:[none|none]
+sparkfun/Lipo_Charger_Basic-microUSB: BRANCHES:[master:73710c1269a31963b9878e43a2877c6df5e5454a]|RELEASE:[none|none]
 sparkfun/LogicBlocks: BRANCHES:[master:7688b17e6c9a871178cb5f84763ce505358223c2]|RELEASE:[none|none]
 sparkfun/Logic_Level_Bidirectional: BRANCHES:[master:5abaf6fa3b2a42696c7ace98af2d68c9b5e9780c]|RELEASE:[none|none]
 sparkfun/Logic_Level_Converter: BRANCHES:[master:ce154384212c1d125b75f1a50f894a8895a1d81e]|RELEASE:[none|none]
