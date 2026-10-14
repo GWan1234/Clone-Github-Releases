@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 11:47
+commit-tracking: 2026-10-14 12:00
 Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294b0e3c]|RELEASE:[none|none]
 Joetooley28/atcli_rust: BRANCHES:[main:3711676de41d362ce8b52c0cef2324f5752f8c4f]|RELEASE:[none|none]
 Joetooley28/cfw3212-qtooley-overlay: BRANCHES:[main:507487065f15b5a66ad4818d623f194b5f769bf8;working-branch:eaaf9cf38cf4a1279844b70d9494887c43b72624;standalone-at-terminal-old:3669082a848b709f1c73f4a34a760efb51d3849a]|RELEASE:[v0.3.11-qtooley-2026-04-11|e3cfaf883328fbaa8e9792b6e22288b63fca383a]
@@ -22,6 +22,7 @@ Kasazaki4090/immortalwrt-mt798x: BRANCHES:[openwrt-21.02:2b36a030e83ba40023567aa
 Kasazaki4090/k20produal: BRANCHES:[master:22febb7fb344720398d733b6f3791560bab54e12]|RELEASE:[5.1|7f3f9f108ef8492389ae1c32127b599ccaf653cc]
 Kasazaki4090/mt76: BRANCHES:[openwrt-23.05:ad72fb0f8ca4684b17c2bd58fbbcc7e40ec9d0c7;master:f263831e75e86091b99c010fe5e7116bebfee693;openwrt-22.03:bdf8ea71700746c634c064d6477aa143f821d6f6;dev:dec9b81811784e4cf3c784662359e0307ae49f44;testing:93e3fce916c62d06892d41bf00d0f4c2926c9a0b;wed:260d207aa02a67cadda536d14b27d5457f427570;pending:ed41ed73a495b8745385b6e9ba3034e8d1ef7cf2;openwrt-19.07:5c768dec13389700ff3fa3d25083fb43d8e7adda;next:7a820874944a9b664400b112d4e529a48c1f7a9c;perf:e44b7c91070e993c7163e603ae44f676d94d9ccf]|RELEASE:[none|none]
 RROrg/qr-build: BRANCHES:[main:91537bf0d435a278484d35ba8c9d1bbcd69ffa28]|RELEASE:[none|none]
+SagerNet/sing-box: BRANCHES:[testing:dfb80349bf5779ec0a3f834c9ec2794345bff8f0;docs:898adc512e0fa152bec99675153f65bb716914c4;stable:d630fa94c53b2e2bdf256fad8b9d1cff809146ed;oldstable:78d3eeedacdda487eca7f2793e29973cb2f8a86c;renovate/github-actions:ecf633af50fe41ddf569fa914923863f6a09f840;renovate/dockerfile:90b379966c6c9341b5a583d485839865b54c6427;revert-4376-fix-anytls-urltest-results:1e03aac1ddb3034a62f897b1ca078c6d7e22c6c3;renovate/major-github-actions:e57d165a326278a94e6cb44bfb1f8c8602f3e309;usbip:226c9f22eec4212270f24e3af73de39473bec855;dependabot/go_modules/test/go.opentelemetry.io/otel-1.41.0:010b1e74a3c2c4aa8eeedd1604ec2a04420967e9]|RELEASE:[v1.14.3|7054cac5124465ffdb145870d7c01885566711b1]
 catborise/VManagePlatform: BRANCHES:[master:9d5761f28333bdd80befc23759a276336e2b1ba6]|RELEASE:[none|none]
 catborise/backupvm2: BRANCHES:[master:e502b9f4ec4b6feef4fb0b28f361025930b9fd77]|RELEASE:[none|none]
 catborise/bizcarder: BRANCHES:[main:fc3d2b81e88a3b150e89eff7f8afc6e2aa9aa874]|RELEASE:[v2.0.0|ab8d1a3966abd5b2536ee2bbf1d0c0a851ddf2d8]
