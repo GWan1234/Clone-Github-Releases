@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 20:13
+commit-tracking: 2026-10-14 20:14
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:aa67753d752e753bc381e4710055fe9b3e30aaca;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e]|RELEASE:[v20|cdb0509af470a417b8c043ec759b6bb4fa8d1110]
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
 sparkfun/3D_Models: BRANCHES:[master:53d298c3b8202cf8fce9ab61885855720c84c012]|RELEASE:[none|none]
@@ -867,6 +867,7 @@ sparkfun/SparkFun_Qwiic_Step_Arduino_Library: BRANCHES:[master:e23010718d2479dde
 sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX: BRANCHES:[main:19e97f0da7e9000c6e4a611269aca6bcc13f093f]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini: BRANCHES:[main:7fd65da847985be293768e66cb0edd819f6d763c]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Twist_Arduino_Library: BRANCHES:[master:4feea8a4a11549f910dd84d261c9928e612bc8f2]|RELEASE:[v1.0.4|4feea8a4a11549f910dd84d261c9928e612bc8f2]
+sparkfun/SparkFun_Qwiic_dToF_Imager-TMF882X: BRANCHES:[main:740270a20d78007335bffadc37cc784e1ea64e54]|RELEASE:[v1.0|203821540a2343a68b70819fd75f304656a38689]
 sparkfun/SparkFun_Qwiic_pHAT_Extension: BRANCHES:[master:571793c5ad78317e58c8af851ab91404821a02da]|RELEASE:[v1.0|571793c5ad78317e58c8af851ab91404821a02da]
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
 sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5]|RELEASE:[1.0.0|cde2d2ed820fbf4885912417152cbdff506a2323]
