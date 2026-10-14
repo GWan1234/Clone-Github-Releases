@@ -1,6 +1,4 @@
 allrepositories:
-  - ophub
-  - unifreq
   - martin-ger
   - playbridgeapp
   - Joetooley28
@@ -20,7 +18,8 @@ allrepositories:
 #  - DFRobot 497
 #  - OLIMEX 154
 #  - Seeed-Studio 506
-
+#  - ophub
+#  - unifreq
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
