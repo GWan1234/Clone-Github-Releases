@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-14 17:44
+commit-tracking: 2026-10-14 17:45
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
 sparkfun/3D_Models: BRANCHES:[master:53d298c3b8202cf8fce9ab61885855720c84c012]|RELEASE:[none|none]
 sparkfun/5-Way_Tactile_Switch_Breakout: BRANCHES:[master:ba558422b3eddeba99230d5ac3602fa488fd3dfd]|RELEASE:[none|none]
@@ -49,6 +49,7 @@ sparkfun/Benchtop_Power_Board_Kit: BRANCHES:[master:f38ca3b82429907dff7f212c6ffd
 sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;changes_Feb13:32ea01950876c3cdbe96bc23e5c2b2bd53921e84]|RELEASE:[none|none]
 sparkfun/BigTime_Watch_Kit_Assembly_Guide: BRANCHES:[master:0a57853e7c3e71238b40b4bc192e274688085494]|RELEASE:[none|none]
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717]|RELEASE:[none|none]
+sparkfun/Big_GPS_Clock: BRANCHES:[venus_port:1c30491823d4b860d2753a20b06d125c1a250369;master:1c30491823d4b860d2753a20b06d125c1a250369]|RELEASE:[none|none]
 sparkfun/Binary_Blaster: BRANCHES:[easy_mode_for_learning:50a59460cb302312fcf7f7735aaa604a4184d616;master:23d7ff5ab64d74801fd9966252d231124393bf54]|RELEASE:[none|none]
 sparkfun/Blackberry_Trackballer_Breakout: BRANCHES:[master:2f2441482524621ecdaea6463d2b9ba7249c2770]|RELEASE:[none|none]
 sparkfun/BlueSMiRF: BRANCHES:[master:c2c5533f4da312db30b65d03edacca65380036f0]|RELEASE:[none|none]
