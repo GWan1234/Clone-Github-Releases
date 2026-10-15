@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 07:22
+commit-tracking: 2026-10-15 07:23
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -45,6 +45,7 @@ Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822
 Seeed-Studio/Accelerometer_ADXL372: BRANCHES:[master:3e012530040a60433431a83b71f40a9ca20fb42c]|RELEASE:[none|none]
 Seeed-Studio/Accelerometer_H3LIS331DL: BRANCHES:[master:208d907c2b3cec4ae5eeba7512c30ac1001aa9a0]|RELEASE:[v1.0.2|e82722710d2f90a7e41d01c5333632ae60c8079d]
 Seeed-Studio/Accelerometer_MMA7660: BRANCHES:[master:173f0fc5612777ca62fd7f37283b72fcc46a049f]|RELEASE:[v1.0.0|d7dd72fceccda1ca582a77726e9354dd9d4562de]
+Seeed-Studio/Adafruit_nRF52_Arduino: BRANCHES:[master:667f05fdaafd01a05d8027d7dbbf1f4e0b137047]|RELEASE:[1.1.13|667f05fdaafd01a05d8027d7dbbf1f4e0b137047]
 Seeed-Studio/Air_Quality_Test_Box: BRANCHES:[master:b714ff3c6c1240016d5b295ff244c2b1ed484c2a]|RELEASE:[none|none]
 Seeed-Studio/Arch_BLE: BRANCHES:[master:9b2295ccf40939ceb5eeadc7a963c2769319800d]|RELEASE:[none|none]
 Seeed-Studio/Arch_Max: BRANCHES:[master:2a9a36ce91a0e00b747313c8a8f47332446d63a4]|RELEASE:[none|none]
