@@ -36,6 +36,7 @@ HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507
 HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0d55700aa329af3c7500c0;master:c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]|RELEASE:[v1.1.0|c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd]|RELEASE:[none|none]
 HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb811]|RELEASE:[none|none]
+Seeed-Studio/.github: BRANCHES:[master:504a7a7dbf9154690d2b9144945b6d065d35fb50]|RELEASE:[none|none]
 Seeed-Studio/ACC_Adxl345_Suli: BRANCHES:[master:edd1f2024adff6a413a2fda774e882c11046b408]|RELEASE:[none|none]
 Seeed-Studio/AWS_Arduino_SDK: BRANCHES:[master:b4eef4abb7f59a1b74945354fa87c6a68f2502da]|RELEASE:[none|none]
 Seeed-Studio/AWS_SDK_for_BBG: BRANCHES:[master:53a470c1b5d8313f6d1a04b8fba50af307b585fc]|RELEASE:[none|none]
