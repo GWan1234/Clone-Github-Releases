@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 04:02
+commit-tracking: 2026-10-15 04:03
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -1589,6 +1589,7 @@ waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:a7b179dbfccea8121c88770d8a3
 waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:c652c902db607f7ffb376257393cfd7657aa6428]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Zero-Basic-Kit: BRANCHES:[main:17304b9271a7ae91e5d8f37de09c18796f6f4b91]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f0401241ff5c44956]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-ePaper-1.54G: BRANCHES:[main:55eb1278f482c0cfd1e0cba5611a4132022eea48]|RELEASE:[v1.0.0|55eb1278f482c0cfd1e0cba5611a4132022eea48]
 waveshareteam/ESP32-S3-ePaper-13.3E6: BRANCHES:[main:f8e9456bd1ca520f638786142fc17a74154f4e05]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-3.97: BRANCHES:[main:9b12d40731a80213b927ee8a421cae4082952819]|RELEASE:[none|none]
 waveshareteam/ESP32-Touch-LCD-3.5: BRANCHES:[main:19f266e8c257f3ed5519e2e4cc062d9e5a64fde4]|RELEASE:[none|none]
