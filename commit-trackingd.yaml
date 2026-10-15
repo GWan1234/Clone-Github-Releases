@@ -1523,6 +1523,7 @@ sparkfun/tsunami: BRANCHES:[master:5046609544d4c6328bdb667a31630aa630e5f9e2]|REL
 sparkfun/usb-scale: BRANCHES:[master:102a6d059b0f0f042926d6d74acf37181a02eeb6]|RELEASE:[none|none]
 sparkfun/vexMotor: BRANCHES:[master:40450f03f17cd4eaf1d7ce9eaa2cdd8ee923abc3]|RELEASE:[none|none]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
+waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/High-Precision-AD-DA-Board: BRANCHES:[master:bebb048a3163b4a34260afd5993ed19f28c41c18]|RELEASE:[none|none]
 waveshareteam/JoyStick: BRANCHES:[master:e090d95944ae0fc614f708461498dbf875ef1243]|RELEASE:[none|none]
 waveshareteam/LCD-show: BRANCHES:[master:e91282e64dd1c37a009ebbd33967cf0b4ff6dce2]|RELEASE:[none|none]
