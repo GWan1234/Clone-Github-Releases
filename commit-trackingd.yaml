@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 05:28
+commit-tracking: 2026-10-15 05:29
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -249,6 +249,7 @@ m5stack/M5Unit-Scroll: BRANCHES:[main:77ec3033b94cbd6f9a3fd886b8207d26029082ac]|
 m5stack/M5Unit-Scroll-Internal-FW: BRANCHES:[main:ae60717a4b9315cd12ac56389992fc2b7576d0aa]|RELEASE:[none|none]
 m5stack/M5Unit-Sonic: BRANCHES:[master:7e0007bbc58ffafa8e8eb6d778c8051dd0b56c78]|RELEASE:[0.0.2|0fc7fffed7d0c07e77d682e8757440510a5cbebf]
 m5stack/M5Unit-Synth: BRANCHES:[main:15187335a36987a5d33486a8330f16aac4cba2d8]|RELEASE:[1.0.1|892c3b7b45e8540e2696fff009faf7eb14e6a856]
+m5stack/M5Unit-THERMO: BRANCHES:[gh-pages:42e683368942c2145d43e6258310f2560648ef77;main:c2bfb11ad46dbad3c73b7eb5093420704be348d0;develop:e43a261e55e07c5f56e17567009a2cae213a33f1]|RELEASE:[0.3.1|c2bfb11ad46dbad3c73b7eb5093420704be348d0]
 m5stack/M5Unit-TOF: BRANCHES:[gh-pages:38d8622bfd1279c318fddcfc04b3497c9fdd99be;main:9de70e8e4ed6a24845bb9e5dc99226dc06b80070;develop:d769adff5d10e0df8726a79ae3ff18cc6fd86f35]|RELEASE:[0.3.0|9de70e8e4ed6a24845bb9e5dc99226dc06b80070]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7]|RELEASE:[none|none]
