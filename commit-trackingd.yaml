@@ -179,6 +179,7 @@ Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a0067
 Seeed-Studio/Grove_Temperature_sensor_MCP9808: BRANCHES:[master:9c4ad6eede42fb2f65baa16d5ec1decd28e9ca17]|RELEASE:[none|none]
 Seeed-Studio/Grove_Triple_Color_E-lnk_1.54: BRANCHES:[master:559b12ba0550c137fcf52eb3222cbb6540bdf6ef]|RELEASE:[none|none]
 Seeed-Studio/Grove_Triple_Color_E-lnk_2.13: BRANCHES:[master:25e92353c78eebcad32d783c1a02b38f718e6dc1]|RELEASE:[none|none]
+Seeed-Studio/Grove_Ultrasonic_Ranger_Suli: BRANCHES:[master:abdee250d745ef71277c7686dfee436bfcc24853]|RELEASE:[none|none]
 Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f973031831b9ea6e18]|RELEASE:[1.0.0|6bd34b830f2f1de1a69fa0d22592da5222956aae]
 Seeed-Studio/Grove_detect_sensor_GP2Y0D805Z0F: BRANCHES:[master:a989d5f40373d20f148b245b790fa60f4f62d472]|RELEASE:[none|none]
 Seeed-Studio/Grove_touch_sensor_CY8C40XX: BRANCHES:[master:8b4e60dc933595d1dc14b6d6bae38a678d7f6884]|RELEASE:[v1.0.0|e806fc5766987f4debc5a99efb606a9a2833725e]
