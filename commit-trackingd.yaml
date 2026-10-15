@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 06:07
+commit-tracking: 2026-10-15 06:08
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -93,6 +93,7 @@ Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f9730318
 Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37]|RELEASE:[none|none]
 Seeed-Studio/LCD_RGB_Backlight_Suli: BRANCHES:[master:190f5717f5fa412c514c740c055e184f839bb2b6]|RELEASE:[none|none]
 Seeed-Studio/LED_Bar_Suli: BRANCHES:[master:b765f38ede6fa780bbdcb924933fe0f1d43bdb8c]|RELEASE:[none|none]
+Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e65de405]|RELEASE:[none|none]
 Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6fd4c4]|RELEASE:[none|none]
 Seeed-Studio/MagicBracelet: BRANCHES:[master:9f03f42ba5fc692bf1b53a163347ac49177cd804]|RELEASE:[none|none]
 Seeed-Studio/Magnetic_Switch: BRANCHES:[master:496d7e034db2e3f7d118014134ddbd56095ebd28]|RELEASE:[none|none]
