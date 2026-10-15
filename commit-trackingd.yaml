@@ -86,6 +86,7 @@ m5stack/M5Stack_TFT_ILI9341: BRANCHES:[m5stack-default:bcfc56a65ae060b76aa4b5303
 m5stack/M5StickC: BRANCHES:[master:0490c6a925cfc71f89f2f780d7fc65f060634ee4]|RELEASE:[0.3.0|202fddddf05d878381f3b4d5bfa6b6e70031a290]
 m5stack/M5StickC-IDF: BRANCHES:[master:8d34a2ff711ef06ce663929511d4157ec8ae4b85]|RELEASE:[none|none]
 m5stack/M5StickC-Plus: BRANCHES:[master:4c87db9b3e0e2c6309f6e72c596032084542e7fa]|RELEASE:[0.1.1|90cb1bc192d5a4fb6d801191da56e84e0b2f85ad]
+m5stack/M5Tools: BRANCHES:[master:85113589f6d7c272c1dbc21e99f6f1bc228630cb]|RELEASE:[none|none]
 m5stack/M5Tough: BRANCHES:[master:fda04c38004817bfff095e172ff1d03d8a74c15c]|RELEASE:[none|none]
 m5stack/M5Unit-DDS: BRANCHES:[gh-pages:c969c385d664fb5fda1477055680a6c742c2cddb;master:fcb7ed8583ea02dd540923bb4f183d312861f4e3;develop:34aedca59f091e21717ba38b8eb4bfc774f6bdc0]|RELEASE:[0.1.1|fcb7ed8583ea02dd540923bb4f183d312861f4e3]
 m5stack/M5Unit-ENV: BRANCHES:[gh-pages:b82df24a788994f65a890004909b37235961a23d;master:737e5180ea7b84d8f22fe49ae4fc62cf06cbc3a2;develop:3e101c07e37a924b9c876f1e185e8cc46ef5202d;feature/fix-idf-transitive-dependency:d44ac344df1aa5476edf329b09ff58e5323b922f;fixes/BME688:3aa3af1bf5f85d1c191aca99ba87ce54a0adf2a8]|RELEASE:[1.7.2|737e5180ea7b84d8f22fe49ae4fc62cf06cbc3a2]
