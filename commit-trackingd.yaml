@@ -36,6 +36,7 @@ HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507
 HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0d55700aa329af3c7500c0;master:c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]|RELEASE:[v1.1.0|c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd]|RELEASE:[none|none]
 HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb811]|RELEASE:[none|none]
+m5stack/ATOM-ECHO: BRANCHES:[master:3f645f5ba3dc8ed8e6b348b1a6c63bcdc37d4991]|RELEASE:[none|none]
 m5stack/ATOM-PRINTER: BRANCHES:[master:aa35436b66c42d7091fe3ddfe01572baeb70e7db]|RELEASE:[0.0.1|aa35436b66c42d7091fe3ddfe01572baeb70e7db]
 m5stack/ATOM_DTU_LoRaWAN: BRANCHES:[master:7931009b0bd4d8eae23331d722b7a94b9bd3ea58]|RELEASE:[0.0.2|7931009b0bd4d8eae23331d722b7a94b9bd3ea58]
 m5stack/ATOM_DTU_NB: BRANCHES:[master:d795990024be0138808696001cc7d791c033aa26]|RELEASE:[0.0.2|545338f6427cb0841c3b7c8110fa6ddedf599354]
