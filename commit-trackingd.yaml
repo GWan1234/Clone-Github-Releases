@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 05:03
+commit-tracking: 2026-10-15 05:04
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -169,6 +169,7 @@ m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c
 m5stack/M5Unit-NCIR2: BRANCHES:[main:4ede7a0b1092e7e0c2b64fc64a2708b9ab40e487]|RELEASE:[none|none]
 m5stack/M5Unit-NCIR2-Internal-FW: BRANCHES:[main:8e923d8c0f5f109259568da6fdb6a2444de74f6e]|RELEASE:[none|none]
 m5stack/M5Unit-PoESP32: BRANCHES:[master:e5640a1c8f0c9081d235d540d1473acf5218720c]|RELEASE:[0.0.2|e5640a1c8f0c9081d235d540d1473acf5218720c]
+m5stack/M5Unit-QRCode: BRANCHES:[main:3c3d871bee312de7867e2b3004dd2878c6fc8523]|RELEASE:[1.0.0|82a407c3d447a1c7de3711b38c033ac528a24f44]
 m5stack/M5Unit-QRCode-Internal-FW: BRANCHES:[main:2c44fe0fd85d3346bd6484fcd59e5cb333dd7937]|RELEASE:[none|none]
 m5stack/M5Unit-RELAY: BRANCHES:[master:63fea6153fa6db13aff1c743403b86f09383fc71]|RELEASE:[0.0.2|63fea6153fa6db13aff1c743403b86f09383fc71]
 m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;master:26c1349251052d4ec1a965a6c783b3c765dc8fbb;develop:28e46ddb9ce0a14ef5e90d87f8f949144d1a616c]|RELEASE:[0.1.0|26c1349251052d4ec1a965a6c783b3c765dc8fbb]
