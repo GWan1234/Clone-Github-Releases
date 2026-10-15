@@ -106,6 +106,7 @@ Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
 Seeed-Studio/Xadow_IMU_6DOF: BRANCHES:[master:1b816f1f96142d70f4da443369fb287c7b400b75]|RELEASE:[none|none]
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
+Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5]|RELEASE:[none|none]
 m5stack/.github: BRANCHES:[main:ade7866d4947e4331f51e3d37ce958e823c4993f]|RELEASE:[none|none]
 m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:eaa615dca3054829aec58e5fe596d58724041633]|RELEASE:[none|none]
 m5stack/AIFlow: BRANCHES:[main:930edd59329568bc8c8f5db5d591abc51548afa2;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
