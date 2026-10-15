@@ -221,6 +221,7 @@ m5stack/toit-m5stack-core2: BRANCHES:[main:7de6c6b0aeb34c6b2ccc3ff06e9348ae18760
 m5stack/uiflow-i18n: BRANCHES:[main:636d957de4dbd16309e459cf90dada5318daa59c]|RELEASE:[none|none]
 m5stack/uiflow-micropython: BRANCHES:[master:69846518a8b0893987ba0512558c4b01c9161454;develop:69846518a8b0893987ba0512558c4b01c9161454;fix/action:8922dc07d4e1bb6471e9bd4bdacde640e618ccb9;fix/github/workflows:26628704731eac0d57898719d787210d37045f91;feature/micropython/v1.25.0:082a0e89bec69ac0610db64475375c129322dfcd;fix/github-workflows:fb1faacd7345d103ab1ed4dc2740200586e1a9a0]|RELEASE:[2.5.3|50e440780492aa847378c7d3477ab912f7063bac]
 m5stack/usb-pids: BRANCHES:[main:08c2f615d9d6468159d9bde324bbf839d3e11aa9;m5stack:f4da5a5cd9ada5ea7d3d5f1b1ac753d191f33071]|RELEASE:[none|none]
+m5stack/zephyr: BRANCHES:[main:c764c3423231ad42ec19e07f654517044a40ebfd;pmic-axp192:ef8c6e01124f73ff565bccd55028ce7d077681fb]|RELEASE:[none|none]
 sparkfun/.github: BRANCHES:[main:a333439a0699336da2f4a7814ec654be54f19931]|RELEASE:[none|none]
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:aa67753d752e753bc381e4710055fe9b3e30aaca;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e]|RELEASE:[v20|cdb0509af470a417b8c043ec759b6bb4fa8d1110]
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
