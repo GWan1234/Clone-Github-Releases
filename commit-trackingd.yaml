@@ -1525,6 +1525,7 @@ sparkfun/vexMotor: BRANCHES:[master:40450f03f17cd4eaf1d7ce9eaa2cdd8ee923abc3]|RE
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/High-Precision-AD-DA-Board: BRANCHES:[master:bebb048a3163b4a34260afd5993ed19f28c41c18]|RELEASE:[none|none]
+waveshareteam/IT8951-ePaper: BRANCHES:[master:86406933d8f22af9fd3f2152b4958610c054b9a8]|RELEASE:[none|none]
 waveshareteam/JoyStick: BRANCHES:[master:e090d95944ae0fc614f708461498dbf875ef1243]|RELEASE:[none|none]
 waveshareteam/LCD-show: BRANCHES:[master:e91282e64dd1c37a009ebbd33967cf0b4ff6dce2]|RELEASE:[none|none]
 waveshareteam/WM8960-Audio-HAT: BRANCHES:[master:d63599e885121b0a41e7c82c9158b92281e454e8;6.18-x:5ed0966abab91dbbbf07ab8ed26711cb4ca1129c;6.18.x:daa79c4ec1329b18a56cbb91a939ea8fb1a53838;6.12.x:971890c0f31be554647f7591579c43b1bca55b93;rpi-4.9.y:a9aa1d0a10356fbfb56fcd8a63c7435ac80eb173]|RELEASE:[none|none]
