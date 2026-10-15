@@ -1525,6 +1525,7 @@ sparkfun/vexMotor: BRANCHES:[master:40450f03f17cd4eaf1d7ce9eaa2cdd8ee923abc3]|RE
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
 waveshareteam/.github: BRANCHES:[main:715fab298db64f1b89822a1204d48102d5f91af8;docs/community-health-files:a453d22e04b20565655c3d54262883279a329113]|RELEASE:[none|none]
 waveshareteam/0.85inch-ScreenKey-Module: BRANCHES:[main:7d5f0c54384edeffe4ae17e35e8573eff8551e4b]|RELEASE:[none|none]
+waveshareteam/1.46inch-Touch-LCD-Module: BRANCHES:[main:37f1f8cc184467fcaa6b841c940d5ea4d7f23169]|RELEASE:[none|none]
 waveshareteam/1.54inch-Touch-LCD-Module: BRANCHES:[main:f3a58436b584baf71f8c4bac80f604582a66132f]|RELEASE:[none|none]
 waveshareteam/1.83inch-Touch-LCD: BRANCHES:[main:9435e3fae0b7ef13b312a2ebecdb05b6a54abc7c]|RELEASE:[none|none]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
