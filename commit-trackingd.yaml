@@ -36,6 +36,7 @@ HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507
 HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0d55700aa329af3c7500c0;master:c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]|RELEASE:[v1.1.0|c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd]|RELEASE:[none|none]
 HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb811]|RELEASE:[none|none]
+Seeed-Studio/DSO_Nano: BRANCHES:[master:e90a8cf1cdb0e34073ccf95e274b16e44728188f]|RELEASE:[none|none]
 m5stack/.github: BRANCHES:[main:ade7866d4947e4331f51e3d37ce958e823c4993f]|RELEASE:[none|none]
 m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:eaa615dca3054829aec58e5fe596d58724041633]|RELEASE:[none|none]
 m5stack/AIFlow: BRANCHES:[main:930edd59329568bc8c8f5db5d591abc51548afa2;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
