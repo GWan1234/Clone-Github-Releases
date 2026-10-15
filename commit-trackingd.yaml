@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 04:37
+commit-tracking: 2026-10-15 04:39
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -61,6 +61,7 @@ m5stack/M5EPD_Calculator: BRANCHES:[main:99c3cb72a53de9ca2837a85925d01f28f852b1c
 m5stack/M5EPD_OnlineImage_FixUrl: BRANCHES:[main:3fae072d9799c77f525f6301f8a3ca39884a692c]|RELEASE:[none|none]
 m5stack/M5EPD_TTFExample: BRANCHES:[main:d1fb968cb611087be083bf0c01bc67d34442d3db]|RELEASE:[none|none]
 m5stack/M5EPD_Todo: BRANCHES:[main:008f73dd94adb9d12931b78c4d459da46b770e1e]|RELEASE:[none|none]
+m5stack/M5GFX: BRANCHES:[develop:f89b5652aa39ca3ca6643658f5aed08e7c90bc9b;master:347a23274081a105cb9fc0fc3bbf0e15c78e79c3;copilot/fix-code-for-review-comments:7502f29622dff7e19dd5c24cddbf1d3b58786ff0;feature/lvgl_font_support:62f5ba0747877ad7723d8aca6035bcbf3a9bb85d;fhd60:3c509b7d02c79acfb76879d82016ad6a766ca929]|RELEASE:[0.2.33|347a23274081a105cb9fc0fc3bbf0e15c78e79c3]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
