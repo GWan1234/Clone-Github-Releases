@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 04:57
+commit-tracking: 2026-10-15 04:58
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -73,6 +73,7 @@ m5stack/M5-StickV-UnitV: BRANCHES:[main:a1f1ecb80f8572c7b2ab9d15a59ab99823afa4b3
 m5stack/M5-espnow: BRANCHES:[master:bbd52ef0c64af7484ff4ca57a014067fc58ec30a]|RELEASE:[none|none]
 m5stack/M5-iot-plugandplay-models: BRANCHES:[main:efe821e1e9fefbd848d1193feaeade2292fb4e1f]|RELEASE:[none|none]
 m5stack/M5Atom: BRANCHES:[master:ebbf736396f9459bf1adc7b588a7f1825b366844;revert-44-master:912e3eb208214f6c7766427994259b4ace479889]|RELEASE:[0.1.3|4717fcfff7edd8d638b51fcbd7c3a869c2423990]
+m5stack/M5AtomS3: BRANCHES:[main:440c112f37ac428ef3b0698c61663717fa25736c]|RELEASE:[1.0.2|9f5cfb8a507061e734e314af78e8ee00d62f7da9]
 m5stack/M5AtomU: BRANCHES:[master:e6e2c624af4328fdaa612cb0cf261fff769fa539]|RELEASE:[none|none]
 m5stack/M5Bala: BRANCHES:[master:b3c623160246b98066390e4b11e4c421baaed660]|RELEASE:[none|none]
 m5stack/M5BurnerNVS: BRANCHES:[main:02bf5bacd69c042ff5c66a58e508932d6f28783c]|RELEASE:[0.0.1|02bf5bacd69c042ff5c66a58e508932d6f28783c]
