@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 02:50
+commit-tracking: 2026-10-15 02:51
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
 HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d2d7e12b54]|RELEASE:[V2.1.1|daa2a295f3a9272a219d904d8bda3b290112277d]
 HelTecAutomation/HelTecAutomation.github.io: BRANCHES:[master:e3a6a6353511d63d1cf55ab05de930d6ee8c8247]|RELEASE:[none|none]
@@ -8,6 +8,7 @@ HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f
 HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[1.0.3|bad997384fbaea767443574f35251abd9f0c3ce1]
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee]|RELEASE:[none|none]
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2]|RELEASE:[none|none]
+HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507a5717f10964a2b6e47;master:29225749f54c4ab2849e4c1bded814e9c61a7deb]|RELEASE:[v1.5.1|29225749f54c4ab2849e4c1bded814e9c61a7deb]
 sparkfun/.github: BRANCHES:[main:a333439a0699336da2f4a7814ec654be54f19931]|RELEASE:[none|none]
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:aa67753d752e753bc381e4710055fe9b3e30aaca;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e]|RELEASE:[v20|cdb0509af470a417b8c043ec759b6bb4fa8d1110]
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
