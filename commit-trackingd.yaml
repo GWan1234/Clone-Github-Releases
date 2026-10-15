@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 05:50
+commit-tracking: 2026-10-15 05:51
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -393,6 +393,7 @@ m5stack/esp32-camera: BRANCHES:[master:4467667b71f22a4c7db226f24105a9350abe7a05;
 m5stack/esp8266_mesh_project: BRANCHES:[master:84b5bdde453ea43d56bfe8a0948c33fe50a4c23d]|RELEASE:[none|none]
 m5stack/esphome: BRANCHES:[dev:f9a81869efd3ec43329cf8cd56cf82e0cfc2dfbc;feat-m5ioe1:578ebbc4343ee24b60775584419754a2e23f8862]|RELEASE:[none|none]
 m5stack/esphome-yaml: BRANCHES:[main:cc708ddcc9dea7cfc746b408d2495ce281bbf2d2;revert-82-main:a00c81b7c46ae214450e2c0a71396172c835c9a9;revert-83-main:b1d2edf9230e51fb5952507316f7c6b2ad3ce436]|RELEASE:[2026.3.0|1f94f79cc82ebbeb781b779abcaa6087efd3dbbe]
+m5stack/esphome.io: BRANCHES:[doc-m5pm1:ca6e4fc2b26d96a06f85c80b207409d8c95db964;current:0525ea5715e7a307775a0feda79c83c288ad0c42]|RELEASE:[none|none]
 m5stack/i2c_manager: BRANCHES:[master:fcdabe70391d0fafc4bbfda7b1f388eb84ccc828]|RELEASE:[none|none]
 m5stack/iot-plugandplay-models: BRANCHES:[main:c25bd16e26fa695bb20b64098fda9f980908c075;digimaun-patch-1:2b76c5cac218b3ccd922da7aa302075160522c8c]|RELEASE:[none|none]
 m5stack/library-registry: BRANCHES:[main:5696b2ab310b861423d6a97c138cef0c1fd84f20]|RELEASE:[none|none]
