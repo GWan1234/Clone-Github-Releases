@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 07:46
+commit-tracking: 2026-10-15 07:47
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -382,6 +382,7 @@ Seeed-Studio/Temperature_Suli: BRANCHES:[master:dda836bc12847667afcb2eaa9878bfcb
 Seeed-Studio/Tiny_BLE: BRANCHES:[master:a0c4545ae6ca579d31eb2ea71257fb10c6b5e072]|RELEASE:[none|none]
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08]|RELEASE:[none|none]
 Seeed-Studio/Touch_Screen_Driver: BRANCHES:[master:df4bd6e974dc84a1c16f532ba179cb0231e52007]|RELEASE:[1.0.0|380088b5b770233c8e7d0f61c6098a9295e03806]
+Seeed-Studio/WM1110_BLE: BRANCHES:[main:fab6e3556c51956412905b4c78dc187916c660a5]|RELEASE:[none|none]
 Seeed-Studio/WM1110_Geolocation: BRANCHES:[main:d1b8579559afd58eb51026a85578017c59799e00]|RELEASE:[none|none]
 Seeed-Studio/WM1110_Storage: BRANCHES:[main:8d972760deac5bb8487ea03761c6328899915811]|RELEASE:[none|none]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
