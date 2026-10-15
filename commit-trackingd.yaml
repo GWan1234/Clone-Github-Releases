@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 02:15
+commit-tracking: 2026-10-15 02:16
 sparkfun/.github: BRANCHES:[main:a333439a0699336da2f4a7814ec654be54f19931]|RELEASE:[none|none]
 sparkfun/2D_Barcode_Scanner_Breakout: BRANCHES:[main:aa67753d752e753bc381e4710055fe9b3e30aaca;v2:8b871a0a953c26f9fc03c2e21f4e720144b8fa6e]|RELEASE:[v20|cdb0509af470a417b8c043ec759b6bb4fa8d1110]
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
@@ -618,6 +618,7 @@ sparkfun/SAMD21_Mini_Breakout: BRANCHES:[master:314ca1b375e24c2cebe20db55d8bfab2
 sparkfun/SAMD21_Pro_RF: BRANCHES:[master:4d1cfcd83d3b3f5626493ca8165d668130ef8da6;v11:569b7ceddacc52d3e40f4210e38e1ed3c19f6681]|RELEASE:[none|none]
 sparkfun/SAMD51_Thing_Plus: BRANCHES:[master:ab67e74cc7acbfd325e5a7e1409f5fb7a99d9869]|RELEASE:[v1.0.0|61b182b13ed6b236c90d3d9002c00f9b927f2eab]
 sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
+sparkfun/SD-MMC_Breakout: BRANCHES:[master:d472cfaa8c39cf9efc94f010e50b85bc87eefc7b]|RELEASE:[none|none]
 sparkfun/SD_Sniffer: BRANCHES:[master:5f08751556b7f49f61d63a87b705286d28fd291d]|RELEASE:[none|none]
 sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c4]|RELEASE:[pre-1.6|4c5d9565b4a106118b47046dd6803769a36dc867]
 sparkfun/SFE-Lunchbox: BRANCHES:[master:3c88f6254194e62cf051334e5193cc3c1fab9d4a]|RELEASE:[none|none]
