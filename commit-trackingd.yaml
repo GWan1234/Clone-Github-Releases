@@ -37,6 +37,7 @@ HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0
 HelTecAutomation/protobufs: BRANCHES:[master:54d3d10b4b9513f4c77ca814f9c7adec32acb0bd]|RELEASE:[none|none]
 HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb811]|RELEASE:[none|none]
 Seeed-Studio/ACC_Adxl345_Suli: BRANCHES:[master:edd1f2024adff6a413a2fda774e882c11046b408]|RELEASE:[none|none]
+Seeed-Studio/AWS_Arduino_SDK: BRANCHES:[master:b4eef4abb7f59a1b74945354fa87c6a68f2502da]|RELEASE:[none|none]
 Seeed-Studio/AWS_SDK_for_BBG: BRANCHES:[master:53a470c1b5d8313f6d1a04b8fba50af307b585fc]|RELEASE:[none|none]
 Seeed-Studio/Accelerometer_ADXL335: BRANCHES:[master:3b4a9b141bbf3595b70288e5deaee5c4c30868c8]|RELEASE:[v1.0.1|aa6614a52c7c0054c176378b362224709931c628]
 Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822f546a1cedd7c1]|RELEASE:[v1.0.0|147ec8d9eb83bd22bbf87d81ff5b9dfab44daf05]
