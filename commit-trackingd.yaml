@@ -188,6 +188,7 @@ Seeed-Studio/HM_13_SW: BRANCHES:[master:f4d9c8ab8f1404870051ebb2b29a1b9fee61db68
 Seeed-Studio/Hazard-Response-Mission-Pack: BRANCHES:[main:4a20bba0cb1ae119b77cfc4ef59e51f9b59a0ec1;gh-pages:63a31aec9255a26d5fc57b73a07d39d3f6b2e361;main-01-08:d24e426e7a5dbdcee1e9ef67fe9eeaa59710f100;dev:d80f8ceb3cd7c2ad4c6518268403915f31ba8b6c;v0.2:ef4764a51c02a32f899786a0ed424f99d469f3b2;Love4yzp-patch-1:485938d6c0d7105cbd741e92c4c9357b052cf01c;docs-archive/v1.0:0d61e2c76dc1f87a6fca7eb22df7724e577d02b3]|RELEASE:[none|none]
 Seeed-Studio/Hercules_Motor_Driver: BRANCHES:[master:a49b8400d35153546d3acd8a58603e2459e1dc6a]|RELEASE:[1.0.1|9a16cbbe2a998ed0b39c35c2313c5e2bc69005e3]
 Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37]|RELEASE:[none|none]
+Seeed-Studio/I2C_FM_Receiver: BRANCHES:[master:7cf2366a063a06bb29c1ed0872fe85418cc22a4e]|RELEASE:[none|none]
 Seeed-Studio/IR_Recv_LinkIt_ONE: BRANCHES:[master:2c04b0196fa985833f8babc308514640fc63bf56]|RELEASE:[none|none]
 Seeed-Studio/JavaScript_for_RePhone: BRANCHES:[master:a1ad3af4e9a22511ca36b6c0f4411a1835edd66c]|RELEASE:[v0.2|78bc0df7e4d21a43a2265991e7bc3ff2cb3915c0]
 Seeed-Studio/Jetson_RP2040: BRANCHES:[master:41533f49051bb3edfbf46a64c5d79333b6cc0474;reServer_V1:a1abcfa92e03957e3090017288868a6c3ca75615]|RELEASE:[V1.4|555ecfba3b624c154ab4a5e23407146b7f6539ad]
