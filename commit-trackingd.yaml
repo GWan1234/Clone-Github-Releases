@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 05:42
+commit-tracking: 2026-10-15 05:43
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -225,6 +225,7 @@ m5stack/M5Unit-ByteSwitch-Internal-FW: BRANCHES:[main:f87a07820be55a838bfaa08b7a
 m5stack/M5Unit-CAN: BRANCHES:[main:4656a2adc0d586f3904a96b34334ce6fd5b0b0ad]|RELEASE:[1.0.0|4656a2adc0d586f3904a96b34334ce6fd5b0b0ad]
 m5stack/M5Unit-COLOR: BRANCHES:[gh-pages:2a3c59d7ce739c21b7b85062c0a7f4487ceb3397;main:d6fe6e179ad4266fb603398f4c44927ff4517b0a;develop:22dfbb26dc8cd33596929755041230e049dd34aa]|RELEASE:[0.2.0|d6fe6e179ad4266fb603398f4c44927ff4517b0a]
 m5stack/M5Unit-CRYPTO: BRANCHES:[gh-pages:de59e01cacc8290a6ba278e4dbabac197039c24e;main:caebf23d35e56e1d26505d38f031b33f6ada7efc;develop:e9580441d26d7b763d8ec220dcc49473ea68d504]|RELEASE:[0.2.0|caebf23d35e56e1d26505d38f031b33f6ada7efc]
+m5stack/M5Unit-CardKB2-UserDemo: BRANCHES:[main:3f58674ccc70ee09ca969de563bdbc4efb0c6316]|RELEASE:[none|none]
 m5stack/M5Unit-CatM: BRANCHES:[main:8c95bd37c83a808ddedcc1808b8d6abdb1923087]|RELEASE:[0.0.1|60528f5b02106dd38aac3ddd2be61f8ac081cd31]
 m5stack/M5Unit-DDS: BRANCHES:[gh-pages:c969c385d664fb5fda1477055680a6c742c2cddb;master:fcb7ed8583ea02dd540923bb4f183d312861f4e3;develop:34aedca59f091e21717ba38b8eb4bfc774f6bdc0]|RELEASE:[0.1.1|fcb7ed8583ea02dd540923bb4f183d312861f4e3]
 m5stack/M5Unit-DISTANCE: BRANCHES:[gh-pages:459aae0cbdf7cd8db483d22590d376f1a3f4e194;main:66f796ffeb3c7e94e711f94d47ca9eb1bff0272f;develop:6b04b11e47b21454b02bbc1130702c16c9285268]|RELEASE:[0.2.1|66f796ffeb3c7e94e711f94d47ca9eb1bff0272f]
