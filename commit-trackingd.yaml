@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-15 05:57
+commit-tracking: 2026-10-15 05:58
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -49,6 +49,7 @@ Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
+Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L: BRANCHES:[master:748d32112e91e94923d9019ded908606a31fb6aa]|RELEASE:[v1.0.1|c7cec2f9123633825a759aee6c20313c074f7089]
 Seeed-Studio/Grove_4Digital_Display: BRANCHES:[master:909294b7423787a5dc520e0e4bd688d000f95977]|RELEASE:[v2.0.0|3bcfc25f52fad18bc7223a711cacbd38b8436208]
 Seeed-Studio/Grove_Air_quality_Sensor: BRANCHES:[master:be207e017b5ad89647a8cf991b70b0f1e5a5d96e]|RELEASE:[v1.0.2|078384ffdcf855a2d0840e5368a66b9c01249f18]
 Seeed-Studio/Grove_Alcohol_Sensor: BRANCHES:[master:dcc8fcc75adab8fa5f802a759cffe7cf6410c55b]|RELEASE:[none|none]
