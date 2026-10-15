@@ -181,6 +181,7 @@ Seeed-Studio/Grove_touch_sensor_CY8C40XX: BRANCHES:[master:8b4e60dc933595d1dc14b
 Seeed-Studio/HDC1000: BRANCHES:[master:bf52fadb7c8b9691abf415fc341122352cdaab73;HDC1000_energia:85858ab8fadb196b3722ff1cdf6ed365c0d11f93;HDC1000_arduino:453c6b516d7a5801ca8a665824e3682e8bdde2b3]|RELEASE:[1.0.0|8436a44ca6bb35d1c7911bec723557907dee76f4]
 Seeed-Studio/HM_01_SW: BRANCHES:[master:630a38206df233ef7f0e0bb4eec2c64581ec68d7]|RELEASE:[none|none]
 Seeed-Studio/HM_13_SW: BRANCHES:[master:f4d9c8ab8f1404870051ebb2b29a1b9fee61db68]|RELEASE:[none|none]
+Seeed-Studio/Hazard-Response-Mission-Pack: BRANCHES:[main:4a20bba0cb1ae119b77cfc4ef59e51f9b59a0ec1;gh-pages:63a31aec9255a26d5fc57b73a07d39d3f6b2e361;main-01-08:d24e426e7a5dbdcee1e9ef67fe9eeaa59710f100;dev:d80f8ceb3cd7c2ad4c6518268403915f31ba8b6c;v0.2:ef4764a51c02a32f899786a0ed424f99d469f3b2;Love4yzp-patch-1:485938d6c0d7105cbd741e92c4c9357b052cf01c;docs-archive/v1.0:0d61e2c76dc1f87a6fca7eb22df7724e577d02b3]|RELEASE:[none|none]
 Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37]|RELEASE:[none|none]
 Seeed-Studio/IR_Recv_LinkIt_ONE: BRANCHES:[master:2c04b0196fa985833f8babc308514640fc63bf56]|RELEASE:[none|none]
 Seeed-Studio/JavaScript_for_RePhone: BRANCHES:[master:a1ad3af4e9a22511ca36b6c0f4411a1835edd66c]|RELEASE:[v0.2|78bc0df7e4d21a43a2265991e7bc3ff2cb3915c0]
