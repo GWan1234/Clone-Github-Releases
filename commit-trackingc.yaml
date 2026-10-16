@@ -367,6 +367,7 @@ DFRobot/esp-adf: BRANCHES:[master:4c29b5578e9739cbc3b6f5258380115b79cedc16]|RELE
 DFRobot/ext-maqueenPlusMotorMap: BRANCHES:[master:fa89fe652188746147da73d759c760a282fd5aa3]|RELEASE:[none|none]
 DFRobot/ext-oled12864: BRANCHES:[master:0feb58145ba2143d2874640e7097af591618dbf5]|RELEASE:[none|none]
 DFRobot/ext-test: BRANCHES:[master:3783868d38291ceecf52d39f3a865398632a5609]|RELEASE:[none|none]
+DFRobot/framework-arduinounihiker: BRANCHES:[master:9fabfd6d6324dbb304ad47947675baf7cf1ab29e]|RELEASE:[none|none]
 DFRobot/k10_base64: BRANCHES:[master:142d504af29a7b4f31bce5d24ee248b8f3ded5c4]|RELEASE:[none|none]
 DFRobot/library-registry: BRANCHES:[main:239975a00b0a829e0c9b12b04ce66267980d3eba]|RELEASE:[none|none]
 DFRobot/liteide: BRANCHES:[master:a48431c0e87ac7824507d6d6f4c446447667ab52]|RELEASE:[none|none]
