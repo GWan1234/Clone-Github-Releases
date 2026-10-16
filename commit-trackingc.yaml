@@ -238,6 +238,7 @@ DFRobot/DFRobot_ST7687S: BRANCHES:[master:c2df5a56fa7bdea4b8c30c6471e47882396828
 DFRobot/DFRobot_STS3X: BRANCHES:[main:881afd6f9198caa873b1095d19afcc3c744cd323]|RELEASE:[none|none]
 DFRobot/DFRobot_SU03T: BRANCHES:[master:4551c1ee51a4419f1556457484916542aaaa9aba]|RELEASE:[none|none]
 DFRobot/DFRobot_SX1278: BRANCHES:[master:438e344c9e67694c77303803e149430174631139]|RELEASE:[none|none]
+DFRobot/DFRobot_SerialMP3: BRANCHES:[master:223d380c63fa8f3a7cc60b27b29d7f9be36eb5f0]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen1248: BRANCHES:[master:c497ecb79a173bdbda1df86aaa281cc597ceb777]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen771: BRANCHES:[master:d0248460344e1a7b355a7c81adbee0b82949cab5]|RELEASE:[none|none]
 DFRobot/DFRobot_SpeechSynthesis: BRANCHES:[master:ed6dba1b157c0db40ef30a93afff8e60cffc2251]|RELEASE:[none|none]
