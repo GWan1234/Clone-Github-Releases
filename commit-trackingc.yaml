@@ -240,6 +240,7 @@ DFRobot/DFRobot_URM07: BRANCHES:[main:2df3f202376cdc196181fa8fb84585ed53a46891]|
 DFRobot/DFRobot_URM09: BRANCHES:[master:508097340abd521d31e57e9a5bdf31b626f9f033]|RELEASE:[none|none]
 DFRobot/DFRobot_URM13: BRANCHES:[master:eacd43ed96551c80c6186bbdd9b8145d013d7430]|RELEASE:[none|none]
 DFRobot/DFRobot_UVIndex240370Sensor: BRANCHES:[master:e09bca3465a45c4523512b3ab4995fb13e3dc4ca]|RELEASE:[none|none]
+DFRobot/DFRobot_UnihikerExpansion: BRANCHES:[master:02bc4a6cbed9e85bb4b778c9daca3aba41a9ef91]|RELEASE:[none|none]
 DFRobot/DFRobot_VEML6075: BRANCHES:[master:e0a208416288694a88538eca9c7de16ce2713318]|RELEASE:[none|none]
 DFRobot/DFRobot_VEML7700: BRANCHES:[master:2626122eaac19e861048e9644be6814e653eae6a]|RELEASE:[none|none]
 DFRobot/DFRobot_VL53L0X: BRANCHES:[master:5e9c0168d32465b0637e3f9c1295bebad40b6383]|RELEASE:[none|none]
