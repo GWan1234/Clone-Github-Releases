@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:02
+commit-tracking: 2026-10-16 14:03
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -167,6 +167,7 @@ DFRobot/Maqueen4.1-MakeCode-Tutorial: BRANCHES:[master:a2496e9858d53fca1085e16e5
 DFRobot/MaqueenPlus_tutorial_and_software: BRANCHES:[master:11a6111e8f446786f13d04584df5471ac0d3662c]|RELEASE:[none|none]
 DFRobot/Maqueen_Mechanic_instructions: BRANCHES:[master:e14ef7a6381516d48cfd09eb56111c9ef2a58c80]|RELEASE:[none|none]
 DFRobot/Maqueen_MicroPython_MU: BRANCHES:[master:c0b0677e9aef2858c0da79b3d5b30a03565dedf3]|RELEASE:[none|none]
+DFRobot/Maqueen_Plus_Basic_Tutorial: BRANCHES:[master:5fe3ca00df91549f8b6e6fecbb9613962a2f602e]|RELEASE:[none|none]
 DFRobot/Maqueen_Plus_Getting_Started_Tutorial_MakeCode: BRANCHES:[master:8a8c5045bc16e9cd74c3daf47ffd3025ede82949]|RELEASE:[none|none]
 DFRobot/Maqueen_Plus_HuskyLens_TutorialMindplus_version_EN: BRANCHES:[master:19feaaddaaaa6a32c4dea10d0e3404e2242794f4]|RELEASE:[none|none]
 DFRobot/Maqueen_tutorial_ENG: BRANCHES:[]|RELEASE:[none|none]
