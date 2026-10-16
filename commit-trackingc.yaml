@@ -18,6 +18,7 @@ DFRobot/Button: BRANCHES:[master:03d6f7bc1573bb17bd5c34a860d4c21db7f03833]|RELEA
 DFRobot/Cheapduino: BRANCHES:[master:fa6815a41b3dee17aea64c916df9a4a85d0e1eb7]|RELEASE:[none|none]
 DFRobot/DFI2C: BRANCHES:[master:e2ddebf4a5b12fa74b9343389efd14450bbede78]|RELEASE:[none|none]
 DFRobot/DFPlayer-Mini-mp3: BRANCHES:[master:c0bc05509c8a11f3b68b9b6758cb0508a365e7c9]|RELEASE:[none|none]
+DFRobot/DFR0492: BRANCHES:[master:85ef96f447cc5b7549bb74d862fad9ca4740298d]|RELEASE:[none|none]
 DFRobot/DFRNFC: BRANCHES:[master:a5a95872d435ef05255029debfce3b113b8c5d4f]|RELEASE:[none|none]
 DFRobot/DFResources: BRANCHES:[master:6d2bc31d9d94dcd2c706da463ad192ef8a57a479]|RELEASE:[none|none]
 DFRobot/DFRobot-SVGs: BRANCHES:[master:4160457c930023f9bfb0bc0d26dbc022c3e1bc96;DFR0319:8f884e7868c88e7d9dff10c5ade06bcc121924cf]|RELEASE:[none|none]
