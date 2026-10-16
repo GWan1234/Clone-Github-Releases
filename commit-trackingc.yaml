@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:14
+commit-tracking: 2026-10-16 14:15
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -159,6 +159,7 @@ DFRobot/DFRobot_SX1278: BRANCHES:[master:438e344c9e67694c77303803e14943017463113
 DFRobot/DFRobot_SerialScreen1248: BRANCHES:[master:c497ecb79a173bdbda1df86aaa281cc597ceb777]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen771: BRANCHES:[master:d0248460344e1a7b355a7c81adbee0b82949cab5]|RELEASE:[none|none]
 DFRobot/DFRobot_SpeechSynthesis: BRANCHES:[master:ed6dba1b157c0db40ef30a93afff8e60cffc2251]|RELEASE:[none|none]
+DFRobot/DFRobot_SpeechSynthesis_V2: BRANCHES:[main:66195611ff0f70b57fd434b1b3211d8f4e9a25ff]|RELEASE:[none|none]
 DFRobot/DFRobot_TCS3430: BRANCHES:[master:34ddde97dd9e9e636db2f9c15356c07a822dd8dd]|RELEASE:[none|none]
 DFRobot/DFRobot_TMF8x01: BRANCHES:[master:54200552f3e151ada42c0762b42a45b336844615]|RELEASE:[none|none]
 DFRobot/DFRobot_Trafficlight: BRANCHES:[master:9441c627b62bd9a11b7f77c09f9898cd91c3a31f]|RELEASE:[none|none]
