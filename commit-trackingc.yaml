@@ -602,6 +602,7 @@ OLIMEX/olimage: BRANCHES:[master:2da96a22b2bf83b89a30bb37417d2de34ccbcdb8]|RELEA
 OLIMEX/olimex-iot-firmware-esp8266: BRANCHES:[master:3e53a47edb4d209cdfc88c6624fcbe0d4920bec8]|RELEASE:[none|none]
 OLIMEX/olimex-iot-server: BRANCHES:[master:a3979c5434ca34ea7e9a41cd10cf18c110dfa548]|RELEASE:[none|none]
 OLIMEX/olinuxino-overlays: BRANCHES:[master:c8b3caae196aa03ba6604e3a5deb123bef4fc813;kureto-test:f6f4b701a4400fabe2ed778da768c367993ff2ba]|RELEASE:[none|none]
+OLIMEX/olinuxino-rtk-hciattach: BRANCHES:[master:8b17a90d6f8092bbf6a59180ece0d9600a4d1204]|RELEASE:[none|none]
 OLIMEX/olinuxino-tools: BRANCHES:[master:8f7400809fca828f3fc17d4bf58264304158cad4]|RELEASE:[none|none]
 OLIMEX/olinuxino-web-io: BRANCHES:[master:61a90b87bbbfe5aa1b8bc8c9d4cea0a4ba2be2df]|RELEASE:[none|none]
 OLIMEX/openwrt: BRANCHES:[olinuxino-rt5350-evb-plus:6e503ff556e1829e971b96e1e73ab658a6d8275b;master:9e1e4324690ecf3874acfab76566e856f133bf6f;mt7620:a8ac4448d4b22dfc4e01cda9da36dd7b7ff306b9;evb+/18.06:16d698d67bf56af0a0370608f20f625a5002f07e;rt5350f-olinuxino-din:784eed2202d94afbf8573aa64599c956cb03d87e;rt5350f:c16b46e1ce7749defcaaa479b98f10fce130f16a;rt5350f-din:b83d8f48affd83d6755236760d0e462111828ee9;rt5350f-evb:13bf2d658360c861e570075ca1c4d7c6ccb00b5d]|RELEASE:[none|none]
