@@ -369,6 +369,7 @@ DFRobot/pxt-zhangkong_microbit_expansion_for_boson: BRANCHES:[master:c6911ded61f
 DFRobot/raspberrypi_ups: BRANCHES:[master:d18bb92ff15dfc6f6c12dd9fcbb7709aadc65bf4]|RELEASE:[none|none]
 DFRobot/softwaretools: BRANCHES:[master:0ec7eed6e30a5f6fbe00c5837b68a4a60643b09a]|RELEASE:[none|none]
 DFRobot/swift-ble-framework: BRANCHES:[master:933269c6f065dee70a5a93198f627a904eeaa39c]|RELEASE:[none|none]
+DFRobot/test_video: BRANCHES:[master:0bff1838278fcdf87bc8bba1d062eb47d47c7e45]|RELEASE:[none|none]
 DFRobot/uPyCraft: BRANCHES:[master:41936c881a6d0c07d221615642bfd548e3191e05]|RELEASE:[none|none]
 DFRobot/uPyCraft_src: BRANCHES:[master:68dfc449ee1af7f4bdb0ba8a9a127ec890935d3b]|RELEASE:[none|none]
 DFRobot/watermonitor: BRANCHES:[master:ccdce7c735dace2d05a97f3abadb24b8cd794a05]|RELEASE:[none|none]
