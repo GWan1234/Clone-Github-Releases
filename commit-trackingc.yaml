@@ -133,6 +133,7 @@ DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5f
 DFRobot/DFRobot_LPUPS: BRANCHES:[master:587c090322cf4cc289cf4f79876dafbc00aa6954]|RELEASE:[none|none]
 DFRobot/DFRobot_LSM303: BRANCHES:[master:033ddf66308296dbbe6f6b5b7a7078781b1f666f]|RELEASE:[none|none]
 DFRobot/DFRobot_LWLP: BRANCHES:[master:e3752c82df605320c52d524e850edb44f5c4f02b]|RELEASE:[none|none]
+DFRobot/DFRobot_LcdDisplay: BRANCHES:[master:7ab0e6cefd7636e35825bc532a79a54cff8a1087]|RELEASE:[none|none]
 DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd]|RELEASE:[none|none]
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
