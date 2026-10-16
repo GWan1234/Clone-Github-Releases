@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 07:00
+commit-tracking: 2026-10-16 07:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 FUjr/QModem: BRANCHES:[stable:2e4c1c80a6d95a525168b888be0c1857e4bd1453;feature/sip-multi-modem:ac7c86063cd701f9f9477fe04a1788de899ce2e5;fix/modem-scand-device-dedup-280:8f48aa90d546defb85110b3708fb3b0870117e83;main:c49654efc870f53712ee8e25bf181722eb1466d9;fix/stable-manufacturer-sync:93567492e1f34b40bc6b6973906d039104889418;fix/manufacturer-options:80486658be0fe272d4238132cd2211d006e54bee;docs/voip-reference:28dbb30e93a41f1759ecbd8b7b4b74d791752c5f;feature/at-response-parser-layer:2fd71057e9cd17ccc4c4d08f244d95af58dc91d9;feat/fixture-multiple-responses:cc7028bca21f792006e030cac97af369aea37a79;fix/snapshot-sdk-and-3.2.0:45a713d37fc6ca599dfe103315e196f3d5399aee]|RELEASE:[v3.3.0|5cc80e5f9fc218cd50bef9749dc7d0027e8b3072]
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10]|RELEASE:[none|none]
@@ -93,7 +93,7 @@ naoki66/Actions-OpenWrt: BRANCHES:[main:b48d82a323e5fff34f8c837d0e132c08a1ca2377
 naoki66/CF-Workers-docker.io: BRANCHES:[main:059ff30b89e564ca07b56a2958821f02e6371391]|RELEASE:[none|none]
 naoki66/CookLikeHOC: BRANCHES:[main:044fcb7b231ae9acbf87ec3b01a32b7f2212e658;vitepress:928c53d3996b4c85278832d9eeda5833cdba7967]|RELEASE:[none|none]
 naoki66/Custom_OpenClash_Rules: BRANCHES:[main:7a76eea88c302a3b3fd63a61cacd19ffb9aaffb2]|RELEASE:[none|none]
-naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:5983ffdd71e05d04746aa94a4be26f4eb382fd5a]|RELEASE:[none|none]
+naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:94476aa18f0bb71ea540fedbd9b977b76a3dc066]|RELEASE:[none|none]
 naoki66/ImmortalWrt-for-Gemtek-XG2010G: BRANCHES:[master:b935a2b940146c228ec0e2d51ae0d52c34e785a3]|RELEASE:[none|none]
 naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:04cc62e8928308598cf2e88bddee37ede658b814]|RELEASE:[20161010-9edfa9e|9edfa9e9444668996c5e820372039d61762fd707]
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
