@@ -252,6 +252,7 @@ DFRobot/pxt-3DGesture: BRANCHES:[master:a063ffaa9abdde321b92c46c9d8d199949afc2a9
 DFRobot/pxt-DFRobot-Maqueenplus: BRANCHES:[master:8769f31c6b124dfc83d7094c865da379da2aeded]|RELEASE:[v1.5.1|8769f31c6b124dfc83d7094c865da379da2aeded]
 DFRobot/pxt-DFRobot-NaturalScience: BRANCHES:[master:922c92dd8aa42c997580bac766d6bfb8405d7e0b;add-license-1:96009bfc0914bc32fed2a771a050c5a6341f6b61]|RELEASE:[v1.5.7|922c92dd8aa42c997580bac766d6bfb8405d7e0b]
 DFRobot/pxt-DFRobot-microIoT: BRANCHES:[master:6c58659ae662c9d8f143b5154aa571622a364dd9]|RELEASE:[v1.3.0|6c58659ae662c9d8f143b5154aa571622a364dd9]
+DFRobot/pxt-DFRobot_Environment_Science: BRANCHES:[master:c735e46f7b5545768b0e5c292be992e8918c14eb]|RELEASE:[v0.7.2|c22979559666356ba6d948df1babd94af62f56db]
 DFRobot/pxt-DFRobot_HuskyLens: BRANCHES:[master:f309685a00e1ec6209218fcf1a9f94bf560d84d3]|RELEASE:[v2.0.6|b46e75f3ef2c4842bee3a7f86cbf1db369bf6932]
 DFRobot/pxt-DFRobot_WIFI_IoT_I2C: BRANCHES:[master:d1d8d4fd9837805192059b22c14475d8cada5594]|RELEASE:[v1.2.3|d1d8d4fd9837805192059b22c14475d8cada5594]
 DFRobot/pxt-DFRobot_WIFI_IoT_UART: BRANCHES:[master:2bf61caa03f50ae36e24dadad8774ac29b0d3ffb]|RELEASE:[v1.1.2|2bf61caa03f50ae36e24dadad8774ac29b0d3ffb]
