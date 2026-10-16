@@ -227,6 +227,7 @@ DFRobot/DFRobot_S12SD: BRANCHES:[master:1b855f7303dddccd1e771b0217b5d77e3e3bfda1
 DFRobot/DFRobot_SCD4X: BRANCHES:[main:1ac57135d78e2e48289d7f4787f4468b607dd04b]|RELEASE:[none|none]
 DFRobot/DFRobot_SCIWifiIotModule: BRANCHES:[master:89210f1b806b4ac4fafaee4ccd103071aaf353d1]|RELEASE:[none|none]
 DFRobot/DFRobot_SCW8916B: BRANCHES:[master:f05e67037eee5775b3a9db77a8d998122363984c]|RELEASE:[none|none]
+DFRobot/DFRobot_SD3031: BRANCHES:[master:ebe92d4fa6ae5cf8b969d89d71dbcc4423e5a656]|RELEASE:[none|none]
 DFRobot/DFRobot_SFA40: BRANCHES:[master:47cbea477252a2d049da91dbc26204bafe5df032]|RELEASE:[none|none]
 DFRobot/DFRobot_SGP40: BRANCHES:[master:7fa498fa24bacee8b284c17057811ea210060c2c]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT: BRANCHES:[master:54dbc1a44e4b3f062887afeb1e873aff24fba054]|RELEASE:[none|none]
