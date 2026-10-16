@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:16
+commit-tracking: 2026-10-16 14:17
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -126,6 +126,7 @@ DFRobot/DFRobot_MGC3130: BRANCHES:[master:a676973396e6774c09ed5483ac4259868cd927
 DFRobot/DFRobot_MICS: BRANCHES:[master:5f3177aeb8e824ad43151b60d4efd7e74057d04d]|RELEASE:[none|none]
 DFRobot/DFRobot_MLX90614: BRANCHES:[master:79fa9c03e3d6ea02d8ef7ae0dc9589f7d1dcf508]|RELEASE:[none|none]
 DFRobot/DFRobot_MLX90621: BRANCHES:[master:ba0d92f7d10c989ad241904ede98df2809e972b3]|RELEASE:[none|none]
+DFRobot/DFRobot_MPX5700: BRANCHES:[master:ce6c5b94e06d2f0519958e83d610095e8566a791]|RELEASE:[none|none]
 DFRobot/DFRobot_Maqueenplus: BRANCHES:[master:c5846a62f7ae62bbc98ee5f25a597e3069e47df5]|RELEASE:[none|none]
 DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b64e2542]|RELEASE:[none|none]
 DFRobot/DFRobot_MuVisionSensor: BRANCHES:[master:bfc495c0ed051aec7dd59f660d95f2cbee1dd94c]|RELEASE:[none|none]
