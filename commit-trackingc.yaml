@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 15:23
+commit-tracking: 2026-10-16 15:24
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -528,6 +528,7 @@ MISTERNEGATIVE21/QuectelEC200U: BRANCHES:[main:b97088cfbc8e27ccf3e054cdcca106486
 MetaCubeX/mihomo: BRANCHES:[Alpha:94b13aed49b8dc41973e4bb3f721c5fa2c5c5c1f;Meta:88dcbf7f1614a67c3b36b848ee3592dfa92ada36;dev-conn-prepare:58c4110b57d2f94867a352a37bc492f896eda5f5;main:008b91bfe8c0e2daca0ab69061efd9ea1ad71bd2;android-real:807d41f57bdd7a9c74e91c978b9551facb211d16;android-open:80fabce99c5ffd8aaa594a7c43ec10aa139eac83;Mitm:a0fd6cfeeab71eb2861f8e8ea672a3091f3642f3;memory:d4e48d709f7185c0c5b809c702fa53f62944e849;dev-refactor-udp:637a8b6ed5eb1e9b63215f84bf8ff0668a57e823;rm:8ff8ddc88f4ccc5405e06c0c4721cb3060ae5d92]|RELEASE:[v1.19.32|88dcbf7f1614a67c3b36b848ee3592dfa92ada36]
 OLIMEX/2WD-CTRL: BRANCHES:[master:c5d01d6b6cfa2b487964d3ac57d7c895c650c9de]|RELEASE:[none|none]
 OLIMEX/A20-CAN: BRANCHES:[master:814c949ccf66dcef14b31112e0f52c8be825a527]|RELEASE:[none|none]
+OLIMEX/A20-CAN-ISO: BRANCHES:[master:ca00943e6385a4c8b9c4c8e3a69489aa078ce446]|RELEASE:[none|none]
 OLIMEX/Arduino_configurations: BRANCHES:[master:5b7c0c14e77ec81c09ab939b7274a2d7e1fcded6]|RELEASE:[none|none]
 OLIMEX/BB-ADS1220: BRANCHES:[master:20fedb011be4a11f65b5f146d6bc3166edc40d56]|RELEASE:[none|none]
 OLIMEX/BB-CH340T: BRANCHES:[master:5a938742d46b68978651677682e20d56c27dc8c4]|RELEASE:[none|none]
