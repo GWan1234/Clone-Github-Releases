@@ -195,6 +195,7 @@ DFRobot/print-studio-local-test: BRANCHES:[master:0fac5448488a560aaa0b11d16605fe
 DFRobot/pxt-3DGesture: BRANCHES:[master:a063ffaa9abdde321b92c46c9d8d199949afc2a9]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot-microIoT: BRANCHES:[master:6c58659ae662c9d8f143b5154aa571622a364dd9]|RELEASE:[v1.3.0|6c58659ae662c9d8f143b5154aa571622a364dd9]
 DFRobot/pxt-MP3: BRANCHES:[master:5841eb1adad1f114d8bdc59cf5837ac91f1a95e5]|RELEASE:[none|none]
+DFRobot/pxt-Math-Automatic: BRANCHES:[master:bccc2c93ef59a446cc134d812fda727bc1297d2e]|RELEASE:[none|none]
 DFRobot/pxt-Matrix8x8: BRANCHES:[master:f0c0804ebc95aae336be9ec412ec8ac59b374c1d]|RELEASE:[none|none]
 DFRobot/pxt-Micro-Diorama: BRANCHES:[master:26ccd290aa7bcfbea407adb9a540e45ffbe82918]|RELEASE:[none|none]
 DFRobot/pxt-NFCI2C: BRANCHES:[master:7ba87dbd1371a00c12cae089d198a841533a088b]|RELEASE:[none|none]
