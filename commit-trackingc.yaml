@@ -79,6 +79,7 @@ DFRobot/DFRobot_CCS811: BRANCHES:[master:7bfddd339cc28d33f002d41c028d31b2502bd41
 DFRobot/DFRobot_CE30C: BRANCHES:[master:4f33e51f44eb822fba3c77447e3e7c4fa01e0f45]|RELEASE:[none|none]
 DFRobot/DFRobot_CH423: BRANCHES:[master:78bcb7bd4b34e4d3e5c0af54dffc930fdf027407]|RELEASE:[none|none]
 DFRobot/DFRobot_CH432T_raspberrypi: BRANCHES:[main:1b10c2f5a82993935af4433e49126a77884e3dc9]|RELEASE:[none|none]
+DFRobot/DFRobot_CT1780: BRANCHES:[master:960ff76cff72477ea871002c42ccbe33b17d39fd]|RELEASE:[none|none]
 DFRobot/DFRobot_CanBusHAT: BRANCHES:[master:80eceb02dd511741c4f8749603fa77dff01b4404]|RELEASE:[none|none]
 DFRobot/DFRobot_ColorTemperature: BRANCHES:[master:7e00d4e456db0636a15647760dde3367158eca7e]|RELEASE:[none|none]
 DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552db5207363383d1c8e03]|RELEASE:[none|none]
