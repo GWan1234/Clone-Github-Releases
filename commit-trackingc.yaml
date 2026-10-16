@@ -52,6 +52,7 @@ DFRobot/DFRobot_AirQualitySensor: BRANCHES:[master:be5351c0c37e5c5f6fa7b026e2025
 DFRobot/DFRobot_Alcohol: BRANCHES:[master:3ec93350ad3035439272680917a0f15ee4ce4519]|RELEASE:[none|none]
 DFRobot/DFRobot_AnalogACurrentSensor: BRANCHES:[master:e843cb788ebd77aa2655a60436b16362fb61aa6d]|RELEASE:[none|none]
 DFRobot/DFRobot_BC20: BRANCHES:[master:233141a0e21ead9ca452d285ba75d84ebc95a510]|RELEASE:[none|none]
+DFRobot/DFRobot_BC20_Gravity: BRANCHES:[main:c9aed2ad61965d4602eec21d76bf3a54343ae7e0]|RELEASE:[none|none]
 DFRobot/DFRobot_BME280: BRANCHES:[master:76e7f85b6acaabddcb46cf74aac8c3bf2a0f9d19]|RELEASE:[none|none]
 DFRobot/DFRobot_BME680: BRANCHES:[master:fcd2a6496ba574e053e03cfe15f320e7ca2fe6fb]|RELEASE:[none|none]
 DFRobot/DFRobot_BMI160: BRANCHES:[master:c80b77eaccb3787f4e76a6e4774f65e034444ebb]|RELEASE:[none|none]
