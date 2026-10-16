@@ -162,6 +162,7 @@ DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b
 DFRobot/DFRobot_RaspberryPi_TouchScreen_Firmware: BRANCHES:[master:1cad16fca090f078306454885fbc2e54a79ad6eb]|RELEASE:[none|none]
 DFRobot/DFRobot_SCW8916B: BRANCHES:[master:f05e67037eee5775b3a9db77a8d998122363984c]|RELEASE:[none|none]
 DFRobot/DFRobot_SGP40: BRANCHES:[master:7fa498fa24bacee8b284c17057811ea210060c2c]|RELEASE:[none|none]
+DFRobot/DFRobot_SHT: BRANCHES:[master:54dbc1a44e4b3f062887afeb1e873aff24fba054]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT3x: BRANCHES:[master:f5fc122192f39ba6745f374fea06ab34a744359b]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM: BRANCHES:[master:1a0f585f2e8f86cfb1d9e833174e72ad0759aaf5]|RELEASE:[none|none]
