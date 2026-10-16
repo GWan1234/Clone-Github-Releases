@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 06:46
+commit-tracking: 2026-10-16 06:48
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -58,7 +58,7 @@ FUjr/openwrt-qsdk11: BRANCHES:[master:253b3e694fd9888cf670bff1cf2662dca17c1554]|
 FUjr/openwrt_7620: BRANCHES:[master:f70f0009ea66de4cf78f7fc7d10b8e143e75c089]|RELEASE:[none|none]
 FUjr/performence_metric_ml: BRANCHES:[master:c05c4d0e0768f5dc15ef9bf3908f6a267884634f]|RELEASE:[none|none]
 FUjr/phicomm-community-mqtt: BRANCHES:[main:01fb121c32f87bf6ea1b2c9f8de1567cfac1c010]|RELEASE:[none|none]
-FUjr/phicomm-community-pages: BRANCHES:[main:081725a876722ed91f3e9a0d69a822b8742e010c]|RELEASE:[none|none]
+FUjr/phicomm-community-pages: BRANCHES:[main:d7043e6d2c6b0e2725e3066f6b706f20a2152f88]|RELEASE:[none|none]
 FUjr/pvr.iptvsimple: BRANCHES:[Nexus:e9bdfa0aa7895e025dfcb0afee22d904f445b7be]|RELEASE:[none|none]
 FUjr/routing: BRANCHES:[main:d374debb4d5c8dd6352fb7f72e74d5ff157dd34e]|RELEASE:[none|none]
 FUjr/rttys: BRANCHES:[all_feature:f7c318e21d4812012eccbbc2a75d3cb2a529fac6;feature/set_cookie_domain:9ff30ee14970b40301c70b34610deb8c10f77116;feature/auto_bind:2585739db2a583967e55dbd2d7846d74a3ec6450;feature/user_management:9f9bce16ebcd0eeec56e5ad4df29fa942b04b7ce;feature/remark:bd120b7256ad5b546d3c82f9ba1c326d8971f9cd;master:b2cd7ab5a87d2aad9287cf52886ce8a452bc0891]|RELEASE:[none|none]
