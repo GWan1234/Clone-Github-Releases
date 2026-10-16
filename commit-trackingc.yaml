@@ -17,6 +17,7 @@ DFRobot/DFRobotIRPosition: BRANCHES:[master:8edc82b74f39abde636f83226a9c12f629ee
 DFRobot/DFRobotRomeoBLEMini: BRANCHES:[master:7ebbcb7db105d917c544f607f8bc8c9f636e7c21]|RELEASE:[none|none]
 DFRobot/DFRobotVeyronBrushed: BRANCHES:[master:ead629b3116a30456f16b71a2841111cbc211894]|RELEASE:[none|none]
 DFRobot/DFRobotWindowsIoTTempelate: BRANCHES:[master:43d6687840aa8e7340958c479eb7dca4c4b22d74]|RELEASE:[none|none]
+DFRobot/DFRobot_AnalogACurrentSensor: BRANCHES:[master:e843cb788ebd77aa2655a60436b16362fb61aa6d]|RELEASE:[none|none]
 DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP2515: BRANCHES:[master:6de2da97719fd9c55d0b30eb95aff84a8f7a9205]|RELEASE:[none|none]
 DFRobot/DFRobot_utility: BRANCHES:[master:265ff2a69ed12d5105e21916d4cd3cf8ea70e309]|RELEASE:[none|none]
