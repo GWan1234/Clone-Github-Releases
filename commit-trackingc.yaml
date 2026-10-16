@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 13:51
+commit-tracking: 2026-10-16 13:52
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -189,6 +189,7 @@ DFRobot/pxt-compass: BRANCHES:[master:5a354054f39c68cbf61834dc71dbe1fb377a0050]|
 DFRobot/pxt-ds18b20: BRANCHES:[master:fe3c85446ee71d4190f5ed057eddded882c6b44a]|RELEASE:[v0.1.0|6972a0226501bc4305eeb58afab4a4b4ebd735db]
 DFRobot/pxt-gamePad: BRANCHES:[master:b509667f2d9acf19327c1c50e89b2c764d0dbb78]|RELEASE:[v1.1.0|4f3a71d57275df83f748087ab6cea468787a6649]
 DFRobot/pxt-joystick: BRANCHES:[master:4a423fc1fe3621737db2aed29fd05ed8ec5c47bb]|RELEASE:[none|none]
+DFRobot/pxt-keyboard: BRANCHES:[master:0504471f90802bf374b03056e409b96546f870c0]|RELEASE:[v1.0.0|0504471f90802bf374b03056e409b96546f870c0]
 DFRobot/pxt-maqueen: BRANCHES:[master:a1fbb5e88ef4d53b814138d5a5ed73ab08465deb]|RELEASE:[v1.7.17|a1fbb5e88ef4d53b814138d5a5ed73ab08465deb]
 DFRobot/pxt-micro-IOBOX: BRANCHES:[master:3e52e7ed48bcd1f04d05b93e7efecb30cdf625ad]|RELEASE:[v0.0.8|3e52e7ed48bcd1f04d05b93e7efecb30cdf625ad]
 DFRobot/pxt-motor: BRANCHES:[master:2cdf17586556c5a532782aa436c516ae50f5f316]|RELEASE:[none|none]
