@@ -88,6 +88,7 @@ DFRobot/DFRobot_MultiTouchPad: BRANCHES:[master:833442f060c51478cc1cbaee74baf0b3
 DFRobot/DFRobot_NRF24L01: BRANCHES:[master:6301382d381d19de2627b6f14c39d3f083de4002]|RELEASE:[none|none]
 DFRobot/DFRobot_OLED12864: BRANCHES:[master:2bfb7646fc5343deb39f7a0e9d7a3222357d6495]|RELEASE:[none|none]
 DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823]|RELEASE:[none|none]
+DFRobot/DFRobot_PAJ7620U2: BRANCHES:[master:57edc1dee3d0f95613b15eb9c1ac9241308bc917]|RELEASE:[none|none]
 DFRobot/DFRobot_PCA: BRANCHES:[master:b2248dfb946218beacfa2c1d6657ad5ea535ba19]|RELEASE:[none|none]
 DFRobot/DFRobot_PCF8591: BRANCHES:[master:f2e5b9c08f210e91c8d3ab93249ee56aef3507e3]|RELEASE:[none|none]
 DFRobot/DFRobot_PH: BRANCHES:[master:43f229a843b89cf20c7e50f8a55410f80050cde0]|RELEASE:[none|none]
