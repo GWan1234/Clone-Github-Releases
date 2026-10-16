@@ -209,6 +209,7 @@ DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3
 DFRobot/DFRobot_SHT3x: BRANCHES:[master:f5fc122192f39ba6745f374fea06ab34a744359b]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM: BRANCHES:[master:1a0f585f2e8f86cfb1d9e833174e72ad0759aaf5]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM7000: BRANCHES:[master:e7e36eb504c1c092716f90b0591163e42b29ed09]|RELEASE:[none|none]
+DFRobot/DFRobot_SIM7070G: BRANCHES:[master:40bf361fb8554eb19be0b8e9563f8ffa1996f47c]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM808: BRANCHES:[master:a1e5d362b2de32f9db6c360e14ec1866c6fe8130]|RELEASE:[none|none]
 DFRobot/DFRobot_SSD1306: BRANCHES:[master:7712f48c2921f466fa90d711df9374c04cbd3518]|RELEASE:[none|none]
 DFRobot/DFRobot_ST7687S: BRANCHES:[master:c2df5a56fa7bdea4b8c30c6471e47882396828ae]|RELEASE:[none|none]
