@@ -285,6 +285,7 @@ DFRobot/DFRobot_matrixLidarDistanceSensor: BRANCHES:[master:7050679198ef496cf7da
 DFRobot/DFRobot_siot: BRANCHES:[master:077e3cc25e447d88f086e4b06f030c73394f148d]|RELEASE:[none|none]
 DFRobot/DFRobot_utility: BRANCHES:[master:265ff2a69ed12d5105e21916d4cd3cf8ea70e309]|RELEASE:[none|none]
 DFRobot/DFSerialChart: BRANCHES:[master:fac822b834c6cfdc3c69e643a55b33fa6cf46551]|RELEASE:[none|none]
+DFRobot/DFTactileSensorTool: BRANCHES:[master:ed6839b62b7672a611046b39fed2561e1d0dcf2b]|RELEASE:[none|none]
 DFRobot/DFUART: BRANCHES:[master:b7241b1f782b674552cf94d30ca06281ccb9ec24]|RELEASE:[none|none]
 DFRobot/DRI0050_soft_V1.0: BRANCHES:[master:0cd2288cfcf2b5c8e084645280d6b55e88262ece]|RELEASE:[none|none]
 DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2]|RELEASE:[none|none]
