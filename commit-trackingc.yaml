@@ -111,6 +111,7 @@ DFRobot/DFRobot_RaspberryPi_Expansion_Board: BRANCHES:[master:d83c356e6f2b33b4ee
 DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b57325129b6d5;revert-4-lib_support_ubuntu_20-04:7cf3bc880d7afc75a87633d4a06a348179d1b73b]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_TouchScreen_Firmware: BRANCHES:[master:1cad16fca090f078306454885fbc2e54a79ad6eb]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3]|RELEASE:[none|none]
+DFRobot/DFRobot_SHT3x: BRANCHES:[master:f5fc122192f39ba6745f374fea06ab34a744359b]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM: BRANCHES:[master:1a0f585f2e8f86cfb1d9e833174e72ad0759aaf5]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM7000: BRANCHES:[master:e7e36eb504c1c092716f90b0591163e42b29ed09]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM808: BRANCHES:[master:a1e5d362b2de32f9db6c360e14ec1866c6fe8130]|RELEASE:[none|none]
