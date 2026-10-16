@@ -356,6 +356,7 @@ DFRobot/pxt-DFRobot_bosonKit: BRANCHES:[master:ea4ce99a673f4a211429e5090302a5868
 DFRobot/pxt-DFRobot_liquid_level: BRANCHES:[master:b69e1f9b61ea17dcca96b79ab40843458b66a158]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_mini_control_module: BRANCHES:[master:ea870be4357347a4785dac5178a9acbe2ed986c1]|RELEASE:[v0.0.6|ea870be4357347a4785dac5178a9acbe2ed986c1]
 DFRobot/pxt-DFRobot_speech_synthesis: BRANCHES:[master:1496f334ce87a5a5d3173e0022fd2e6a9c83fa2c]|RELEASE:[none|none]
+DFRobot/pxt-DFRobot_voiceRecognition: BRANCHES:[master:9a6f143ad277977214f7fd83261fdd719e39f6da]|RELEASE:[v0.0.5|9a6f143ad277977214f7fd83261fdd719e39f6da]
 DFRobot/pxt-DFRobot_xia_mi_Board: BRANCHES:[master:4d09444f8093d197254ab9b1f8438887da5b1fc4]|RELEASE:[v0.8.3|4d09444f8093d197254ab9b1f8438887da5b1fc4]
 DFRobot/pxt-HTTP-MQTT: BRANCHES:[master:c34a8dc9af5a2628fd5aa7c2407a0681c69806a4]|RELEASE:[v1.1.4|c34a8dc9af5a2628fd5aa7c2407a0681c69806a4]
 DFRobot/pxt-MP3: BRANCHES:[master:5841eb1adad1f114d8bdc59cf5837ac91f1a95e5]|RELEASE:[none|none]
