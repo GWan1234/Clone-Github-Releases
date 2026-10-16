@@ -163,6 +163,7 @@ DFRobot/MagneticSencor: BRANCHES:[master:4dabf609cbd35baac27b25b520a723954b7f63f
 DFRobot/MagneticSensorLsm303: BRANCHES:[master:0be050aa699554711f44619edff96d7280fa5c9c]|RELEASE:[none|none]
 DFRobot/Maqueen-CE-FCC: BRANCHES:[master:939315a3295fe173172663d701490cb17f3c4aa9]|RELEASE:[none|none]
 DFRobot/Maqueen4.1-MakeCode-Tutorial: BRANCHES:[master:a2496e9858d53fca1085e16e5e14fbf9297c397f]|RELEASE:[none|none]
+DFRobot/MaqueenPlus_tutorial_and_software: BRANCHES:[master:11a6111e8f446786f13d04584df5471ac0d3662c]|RELEASE:[none|none]
 DFRobot/Maqueen_Mechanic_instructions: BRANCHES:[master:e14ef7a6381516d48cfd09eb56111c9ef2a58c80]|RELEASE:[none|none]
 DFRobot/Maqueen_MicroPython_MU: BRANCHES:[master:c0b0677e9aef2858c0da79b3d5b30a03565dedf3]|RELEASE:[none|none]
 DFRobot/Maqueen_Plus_Getting_Started_Tutorial_MakeCode: BRANCHES:[master:8a8c5045bc16e9cd74c3daf47ffd3025ede82949]|RELEASE:[none|none]
