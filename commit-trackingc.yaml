@@ -38,6 +38,7 @@ DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f8
 DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449]|RELEASE:[none|none]
 DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4cef8]|RELEASE:[none|none]
 DFRobot/DFRobot_Heartrate: BRANCHES:[master:3ec109db93f526e1797e36f6e9ce4bf85672459c]|RELEASE:[none|none]
+DFRobot/DFRobot_IIS: BRANCHES:[master:a58e50e01757773e42e7d4aa03e3f8d126520f94]|RELEASE:[iismonitor_v1.0|cd6b6b1feb863fcaea7a33c71bb17273ec9cc69d]
 DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868a79f91]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28]|RELEASE:[none|none]
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
