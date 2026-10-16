@@ -73,6 +73,7 @@ DFRobot/DFRobot_BloodOxygen_S: BRANCHES:[master:0823f4297439ba53e2c690264d3989cf
 DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510]|RELEASE:[none|none]
 DFRobot/DFRobot_BosonADCModule: BRANCHES:[main:6b681e416486446c821bf69a88dea0a255236a01]|RELEASE:[none|none]
 DFRobot/DFRobot_CCS811: BRANCHES:[master:7bfddd339cc28d33f002d41c028d31b2502bd417]|RELEASE:[none|none]
+DFRobot/DFRobot_CE30C: BRANCHES:[master:4f33e51f44eb822fba3c77447e3e7c4fa01e0f45]|RELEASE:[none|none]
 DFRobot/DFRobot_CH423: BRANCHES:[master:78bcb7bd4b34e4d3e5c0af54dffc930fdf027407]|RELEASE:[none|none]
 DFRobot/DFRobot_CH432T_raspberrypi: BRANCHES:[main:1b10c2f5a82993935af4433e49126a77884e3dc9]|RELEASE:[none|none]
 DFRobot/DFRobot_CanBusHAT: BRANCHES:[master:80eceb02dd511741c4f8749603fa77dff01b4404]|RELEASE:[none|none]
