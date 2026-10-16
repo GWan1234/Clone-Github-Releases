@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 15:19
+commit-tracking: 2026-10-16 15:20
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -540,6 +540,7 @@ OLIMEX/ESP32-DevKit-LiPo: BRANCHES:[master:1ebbbb5ceaa84b1d67631d8d542d7f6128c19
 OLIMEX/ESP32-EVB: BRANCHES:[master:a3ec2f448109cb8f35ce7cb21a027bb7c837ab61]|RELEASE:[none|none]
 OLIMEX/ESP32-GATEWAY: BRANCHES:[master:d45c9bc8120534b130a4f8bb8fa6cd3dc78e4ea0]|RELEASE:[none|none]
 OLIMEX/ESP32-POE: BRANCHES:[master:deb38a377d50eadb04ddc7118a17a5ae58b1ee53]|RELEASE:[none|none]
+OLIMEX/ESP32-POE-ISO: BRANCHES:[master:c19307ecd8a9d8c5703de7a1571cd89945e39c01]|RELEASE:[none|none]
 OLIMEX/ESP32-PRO: BRANCHES:[master:4f0251d76ce7a32c4f80ddc5e80c84cca8a69094]|RELEASE:[none|none]
 OLIMEX/ESP8266: BRANCHES:[master:02d9c1ef525b9dc7b952d500dbc367b56137ce0e]|RELEASE:[none|none]
 OLIMEX/FingerPrint: BRANCHES:[master:fddc31437d35e09525e58d6b46bd1a2c47b635dd]|RELEASE:[none|none]
