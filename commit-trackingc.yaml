@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:17
+commit-tracking: 2026-10-16 14:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -85,6 +85,7 @@ DFRobot/DFRobot_EC10: BRANCHES:[master:b12dc95086a6f9dd2b57cf55419438e13e45e25f]
 DFRobot/DFRobot_EINK: BRANCHES:[master:5ee751e1ea38cde74b0cff1c508341012d1bf1d6]|RELEASE:[none|none]
 DFRobot/DFRobot_EINKBWR_IL0376F: BRANCHES:[master:095203e2a9f1858c956cbefc541120e3e799d1d7]|RELEASE:[none|none]
 DFRobot/DFRobot_ENS160: BRANCHES:[main:7a45a70acbe75389514f0b380d0a9aa53c055b51]|RELEASE:[none|none]
+DFRobot/DFRobot_EOxygenSensor: BRANCHES:[master:e88e4f1bf01ed67834ec4e88f7b1388a54303348]|RELEASE:[none|none]
 DFRobot/DFRobot_ESP32_Servo: BRANCHES:[master:93f74a267ed52513aede2e83a2efa6335dd61939]|RELEASE:[none|none]
 DFRobot/DFRobot_EnvironmentalSensor: BRANCHES:[master:7b49ec64e605dd764f0897b9a5cde4eec1afa3c4]|RELEASE:[none|none]
 DFRobot/DFRobot_GDL: BRANCHES:[dependabot/pip/src/Fonts/FontCustomScript/urllib3-2.6.3:5b927480db7c4c17ace15fdcee22a2d1689f5441;dependabot/pip/src/Fonts/FontCustomScript/marshmallow-3.26.2:5ac4538d23e8fd795edb7fa11192cfbfd698a40c;master:211202c8ab474aff46c1f5d81f55b74bd3c2cae6;dependabot/pip/src/Fonts/FontCustomScript/starlette-0.49.1:c94aec9cc921412958875377ee7171c95cbb7b86;dependabot/pip/src/Fonts/FontCustomScript/certifi-2024.7.4:ee82ce07348ede4f4c41681d339b732bf8b2088b;dependabot/pip/src/Fonts/FontCustomScript/idna-3.7:63ae60977366359ec06f04d49742da427fc51ec2;dependabot/pip/src/Fonts/FontCustomScript/requests-2.32.4:d3d9e551eac61856fe80ce58813671c180711768]|RELEASE:[none|none]
