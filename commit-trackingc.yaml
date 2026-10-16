@@ -78,6 +78,7 @@ DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa84
 DFRobot/DFRobot_Gesture_Touch_old: BRANCHES:[master:8f359ed14d37435674a1a5468b9286f2d6ca9f4e]|RELEASE:[none|none]
 DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4cef8]|RELEASE:[none|none]
 DFRobot/DFRobot_HX711: BRANCHES:[master:4e5cffa345591d642df0597eca7c23ccef559bc2]|RELEASE:[none|none]
+DFRobot/DFRobot_HX711_I2C: BRANCHES:[master:65b55c624b58160e211833a42585055c5a278be7]|RELEASE:[none|none]
 DFRobot/DFRobot_Heartrate: BRANCHES:[master:3ec109db93f526e1797e36f6e9ce4bf85672459c]|RELEASE:[none|none]
 DFRobot/DFRobot_I2C_Multiplexer_old: BRANCHES:[master:3da89d2b279eb00d0622295c73ee88ac15b19d95]|RELEASE:[none|none]
 DFRobot/DFRobot_ID809: BRANCHES:[master:9dfad60dd775470759c9193f7dec50caa26bfc37]|RELEASE:[none|none]
