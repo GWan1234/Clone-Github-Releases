@@ -181,6 +181,7 @@ DFRobot/micropython-esp32: BRANCHES:[esp32:eded7dd70b2c1b3c41fcc4bf98c2e29d2eeb3
 DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8]|RELEASE:[none|none]
 DFRobot/mpy-gravity: BRANCHES:[master:3b6161616587d44befc1da99c871c049dfd21e87]|RELEASE:[none|none]
 DFRobot/obloq-weather: BRANCHES:[master:7701e9b90f4e18bfbc57f901b192959384984795]|RELEASE:[none|none]
+DFRobot/overlord: BRANCHES:[master:78eebc9c2e5e5cae79fd2e8c1949a43b1855d18a]|RELEASE:[none|none]
 DFRobot/preferences.txt-for-adruino-ide: BRANCHES:[master:dfd2bb39c4188540fcd55f23b0f38836a637a2e8]|RELEASE:[none|none]
 DFRobot/print-manager: BRANCHES:[add-overlord:5e6385f34c3f0838bb256df57dfedfedc7c16f8d;sandbox:49ba4d16179cda096836a67bbff9989674ce0298;master:905564e90fa3fa81610f54fc4258f41d11eb6655;addMakerBot2x:fc58931485219baab783cded8e114d7a188468b5;addPrinterBot:13c95daf51883f8d3cc2fa2841a8bc61bfb15fe8]|RELEASE:[none|none]
 DFRobot/print-studio-local-test: BRANCHES:[master:0fac5448488a560aaa0b11d16605feaaee476c54]|RELEASE:[none|none]
