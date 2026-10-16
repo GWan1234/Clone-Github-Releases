@@ -178,6 +178,7 @@ DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3e
 DFRobot/DFRobot_RP2040_SCI: BRANCHES:[master:1dae093ad015185e1209531fa279636205100d83]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37dbc4e6]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display_V2: BRANCHES:[master:e74752a5e437c747c53950f4bed4434ba4bd445f]|RELEASE:[none|none]
+DFRobot/DFRobot_RPi_Eink_Display: BRANCHES:[main:c7b2022acd8a3aaf565be7adf2ef8ff53baa7a30]|RELEASE:[none|none]
 DFRobot/DFRobot_RTU: BRANCHES:[master:c1478e3ef0e6ea731b9f5bb48d90aa32fe023eca]|RELEASE:[none|none]
 DFRobot/DFRobot_RainfallSensor: BRANCHES:[master:38fea5e02b40a5430be6dab39a99a6f6347d667e]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_A02YYUW: BRANCHES:[master:f6cfe42b121061ee1e95eb63de59fdc91277ec57]|RELEASE:[none|none]
