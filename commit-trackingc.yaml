@@ -272,6 +272,7 @@ DFRobot/Wiki: BRANCHES:[master:eec9b91e73b23b36062fcfaba7fac8df01164072;SEN0290:
 DFRobot/WikiResource: BRANCHES:[master:69a71c9b57abc4e053c59ac0e94bb52ecd2a9d24]|RELEASE:[none|none]
 DFRobot/Windows-10-IoT-text-code: BRANCHES:[master:a98a23bd192386b8f4b8539b830fc22f22898f37]|RELEASE:[none|none]
 DFRobot/WindowsIoT: BRANCHES:[master:c8eb2b75dcac6794bdc11a4b71e5fe24079f465d;Waterplantsystem:e2adbc25bc96bc6db5d5a0e303da06aaece91308;fork:056de85eff28c8d0b208fb1149e7bb9ea1a49e94]|RELEASE:[none|none]
+DFRobot/arduino-pico: BRANCHES:[master:ca898d6d697a2947c931b8a46bf01943dd33b2a0]|RELEASE:[none|none]
 DFRobot/arduino-projects: BRANCHES:[master:142df7909715792727c975ed7760b719c20887af]|RELEASE:[none|none]
 DFRobot/binaryfiles: BRANCHES:[master:ba4c3afebb503a2c6ac6e4c7689ab2ea93d72e45]|RELEASE:[none|none]
 DFRobot/ext-oled12864: BRANCHES:[master:0feb58145ba2143d2874640e7097af591618dbf5]|RELEASE:[none|none]
