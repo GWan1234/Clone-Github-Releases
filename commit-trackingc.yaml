@@ -161,6 +161,7 @@ DFRobot/LCD-picture: BRANCHES:[master:80b307d36fa7fda3a4dcef8a38593c85e2d2e781]|
 DFRobot/MagneticSencor: BRANCHES:[master:4dabf609cbd35baac27b25b520a723954b7f63fd]|RELEASE:[none|none]
 DFRobot/MagneticSensorLsm303: BRANCHES:[master:0be050aa699554711f44619edff96d7280fa5c9c]|RELEASE:[none|none]
 DFRobot/Maqueen-CE-FCC: BRANCHES:[master:939315a3295fe173172663d701490cb17f3c4aa9]|RELEASE:[none|none]
+DFRobot/Maqueen4.1-MakeCode-Tutorial: BRANCHES:[master:a2496e9858d53fca1085e16e5e14fbf9297c397f]|RELEASE:[none|none]
 DFRobot/Maqueen_MicroPython_MU: BRANCHES:[master:c0b0677e9aef2858c0da79b3d5b30a03565dedf3]|RELEASE:[none|none]
 DFRobot/Maqueen_tutorial_ENG: BRANCHES:[]|RELEASE:[none|none]
 DFRobot/Marlin: BRANCHES:[Marlin_v1:48a185d0044336eb71663f9271d9e9f7f4515120;deltabot:58d12aad73441df27d15abe53b6efb031ace0ea7;reisnyderb:5090c56651bf18ea45a7453f5fccfe6a09d13062;Marlin_os1r1s:6752cb2d9ce085ed1df760475adac46a959009c4;Test_BED:016800bb3b05523363f513ebd5649e23ac0d5b52;MaukCC:6eb25e4ddbd032d834e7c4264e8c06a181d75771;dob71merge:28b122fa7a6fd2c9057aba1d065b8ade1241423b;experimental_zshift:03f2d0a6c631ff5caaca90e046e4ec2ed5d132d3;test2:cf9331039bcab232b558a86cdf1a409147ab80e6;Marlin_v1_arduino1.0_test:616e14161682394aefe4b5d63734358c8f04c449]|RELEASE:[none|none]
