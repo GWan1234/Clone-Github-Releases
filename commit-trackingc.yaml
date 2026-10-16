@@ -203,6 +203,7 @@ DFRobot/pxt-Matrix8x8: BRANCHES:[master:f0c0804ebc95aae336be9ec412ec8ac59b374c1d
 DFRobot/pxt-Micro-Diorama: BRANCHES:[master:26ccd290aa7bcfbea407adb9a540e45ffbe82918]|RELEASE:[none|none]
 DFRobot/pxt-NFCI2C: BRANCHES:[master:7ba87dbd1371a00c12cae089d198a841533a088b]|RELEASE:[none|none]
 DFRobot/pxt-NFCUART: BRANCHES:[master:fe3ccbe03d5ef804b39d3959c11186cee2c48efb]|RELEASE:[none|none]
+DFRobot/pxt-OLED: BRANCHES:[master:d433741e5c9b82d97281fcafb83043be31fa399e]|RELEASE:[v0.0.2|d433741e5c9b82d97281fcafb83043be31fa399e]
 DFRobot/pxt-Obloq1: BRANCHES:[master:cd780c83a26a2020a3751270d600cbd1b57d33d5]|RELEASE:[none|none]
 DFRobot/pxt-compass: BRANCHES:[master:5a354054f39c68cbf61834dc71dbe1fb377a0050]|RELEASE:[none|none]
 DFRobot/pxt-ds18b20: BRANCHES:[master:fe3c85446ee71d4190f5ed057eddded882c6b44a]|RELEASE:[v0.1.0|6972a0226501bc4305eeb58afab4a4b4ebd735db]
