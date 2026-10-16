@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 07:06
+commit-tracking: 2026-10-16 07:07
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 FUjr/QModem: BRANCHES:[stable:2e4c1c80a6d95a525168b888be0c1857e4bd1453;feature/sip-multi-modem:ac7c86063cd701f9f9477fe04a1788de899ce2e5;fix/modem-scand-device-dedup-280:8f48aa90d546defb85110b3708fb3b0870117e83;main:c49654efc870f53712ee8e25bf181722eb1466d9;fix/stable-manufacturer-sync:93567492e1f34b40bc6b6973906d039104889418;fix/manufacturer-options:80486658be0fe272d4238132cd2211d006e54bee;docs/voip-reference:28dbb30e93a41f1759ecbd8b7b4b74d791752c5f;feature/at-response-parser-layer:2fd71057e9cd17ccc4c4d08f244d95af58dc91d9;feat/fixture-multiple-responses:cc7028bca21f792006e030cac97af369aea37a79;fix/snapshot-sdk-and-3.2.0:45a713d37fc6ca599dfe103315e196f3d5399aee]|RELEASE:[v3.3.0|5cc80e5f9fc218cd50bef9749dc7d0027e8b3072]
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10]|RELEASE:[none|none]
@@ -362,5 +362,5 @@ ventoy/vtoyboot: BRANCHES:[master:704706d8c4d69be052583efb45d29017b68b4e14]|RELE
 ventoy/vtoydump: BRANCHES:[master:79d58b487f7c05065f842ccb9b8e798f00ad16f5]|RELEASE:[none|none]
 ventoy/vtoytoolchain: BRANCHES:[main:7ef92b6fa5bd62270fbe53571e032f338a753e45]|RELEASE:[1.0|7ef92b6fa5bd62270fbe53571e032f338a753e45]
 ventoy/wimiso: BRANCHES:[master:2052ac4a462897708de71573129f71d54f72f614]|RELEASE:[v1.0|1011a7d0293ab8644ebd75426092f71b59d9cfe6]
-vernesong/OpenClash: BRANCHES:[dev:f118134a8506bb6f93e1d20378c9150cae734e66;package:8e6d727e6e03d5a82bc07b7fe713ec22c3521752;core:276ae9d8e7f7d9b9814ae23e015cfe29804b2cbe;master:e553e82e01c697aefbe1555261a503f425e00ccd]|RELEASE:[v0.48.002|e553e82e01c697aefbe1555261a503f425e00ccd]
+vernesong/OpenClash: BRANCHES:[package:03e663046b502f27d96e6cdb5438ddc54967ebb6;dev:5c6743623f7fa1cf3180ed18b930f6c25d700d22;core:276ae9d8e7f7d9b9814ae23e015cfe29804b2cbe;master:e553e82e01c697aefbe1555261a503f425e00ccd]|RELEASE:[v0.48.002|e553e82e01c697aefbe1555261a503f425e00ccd]
 xfangfang/Macast: BRANCHES:[dev:881c6e6bc0006e85b152d2c70caad5807c029173;dev_test:ee58f4ec497704536461749c3afa659caccc34e0;pypi:0b138bd083d0609be2ae5973ff4510dbeef25cb2;main:121add3a8a70edb77e33aeab1ec88aeff27f49fc;add-license:7d56cce3f3110fd62df9fdcdd116f48e8fe2cea4]|RELEASE:[v0.7|6a60737f703cda475445ccf76de874d5e52c5485]
