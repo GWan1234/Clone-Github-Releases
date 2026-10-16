@@ -50,6 +50,7 @@ DFRobot/DFRobot_DS1307: BRANCHES:[master:38a0d9388f91380efc2a84af49873ebc86a3192
 DFRobot/DFRobot_DigitalPot-100K-: BRANCHES:[master:0beb4a0167a111c5d235165d49b1aae461a4a1e8]|RELEASE:[none|none]
 DFRobot/DFRobot_Display: BRANCHES:[master:8ab880d7374b5f533e05559d21003630418f97a6]|RELEASE:[none|none]
 DFRobot/DFRobot_EC: BRANCHES:[master:ed563497d22936d306a58d03d288846d08cac3ef]|RELEASE:[none|none]
+DFRobot/DFRobot_EC10: BRANCHES:[master:b12dc95086a6f9dd2b57cf55419438e13e45e25f]|RELEASE:[none|none]
 DFRobot/DFRobot_EINK: BRANCHES:[master:5ee751e1ea38cde74b0cff1c508341012d1bf1d6]|RELEASE:[none|none]
 DFRobot/DFRobot_EINKBWR_IL0376F: BRANCHES:[master:095203e2a9f1858c956cbefc541120e3e799d1d7]|RELEASE:[none|none]
 DFRobot/DFRobot_ESP32_Servo: BRANCHES:[master:93f74a267ed52513aede2e83a2efa6335dd61939]|RELEASE:[none|none]
