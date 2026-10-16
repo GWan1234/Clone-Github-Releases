@@ -21,6 +21,14 @@ allrepositories:
 #  - ophub
 #  - unifreq
 
+onebyonerepositories:
+  - home-assistant
+  # 106
+  - DFRobot
+  # 497
+  - OLIMEX
+  # 154
+
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache

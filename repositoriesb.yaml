@@ -19,10 +19,18 @@ allrepositories:
   - atc1441
   - pvvx
 
-#  - adafruit  2033
-#  - emqx   250
-#  - Xinyuan-LilyGO 256  
-#  - LilyGO  154
+  - emqx
+  #   250
+  - Xinyuan-LilyGO
+  # 256  
+  - LilyGO
+  #  154
+
+onebyonerepositories:
+  #- yifengyou
+  # 556
+  - adafruit
+  #  2033
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
