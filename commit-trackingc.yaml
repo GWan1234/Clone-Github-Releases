@@ -23,6 +23,7 @@ DFRobot/DFRobotBLEGamepad: BRANCHES:[master:5a376fcbd5a0ad27f6ab7f42b15583d560d5
 DFRobot/DFRobotDuinoBoard: BRANCHES:[master:3055558310798f11a5984dc240be96d6e54b0f6d]|RELEASE:[none|none]
 DFRobot/DFRobotIRPosition: BRANCHES:[master:8edc82b74f39abde636f83226a9c12f629ee9eda]|RELEASE:[1.0.2|1a13819ac9f39e4528d99b930d1942e26340b615]
 DFRobot/DFRobotRomeoBLEMini: BRANCHES:[master:7ebbcb7db105d917c544f607f8bc8c9f636e7c21]|RELEASE:[none|none]
+DFRobot/DFRobotURM07: BRANCHES:[master:41959bf3ffc72d3818897d6ec83f791a495b0bb1]|RELEASE:[none|none]
 DFRobot/DFRobotVeyronBrushed: BRANCHES:[master:ead629b3116a30456f16b71a2841111cbc211894]|RELEASE:[none|none]
 DFRobot/DFRobotWindowsIoTTempelate: BRANCHES:[master:43d6687840aa8e7340958c479eb7dca4c4b22d74]|RELEASE:[none|none]
 DFRobot/DFRobot_AnalogACurrentSensor: BRANCHES:[master:e843cb788ebd77aa2655a60436b16362fb61aa6d]|RELEASE:[none|none]
