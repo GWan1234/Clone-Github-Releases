@@ -77,6 +77,7 @@ DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b
 DFRobot/DFRobot_NRF24L01: BRANCHES:[master:6301382d381d19de2627b6f14c39d3f083de4002]|RELEASE:[none|none]
 DFRobot/DFRobot_OLED12864: BRANCHES:[master:2bfb7646fc5343deb39f7a0e9d7a3222357d6495]|RELEASE:[none|none]
 DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823]|RELEASE:[none|none]
+DFRobot/DFRobot_PCF8591: BRANCHES:[master:f2e5b9c08f210e91c8d3ab93249ee56aef3507e3]|RELEASE:[none|none]
 DFRobot/DFRobot_PH: BRANCHES:[master:43f229a843b89cf20c7e50f8a55410f80050cde0]|RELEASE:[none|none]
 DFRobot/DFRobot_QMC5883_old: BRANCHES:[master:2439045dd5f901ee3f000ad352e8922f22eeaa7d]|RELEASE:[none|none]
 DFRobot/DFRobot_RGB1602_RaspberryPi: BRANCHES:[master:3279af8e72e6d6401a2a3d981d5390c18d770073]|RELEASE:[none|none]
