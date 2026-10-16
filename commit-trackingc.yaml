@@ -4,6 +4,7 @@ DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|R
 DFRobot/BlunoSample: BRANCHES:[master:8edc2985857a8f2703b1c9a7617cff5b24cc3eb2]|RELEASE:[none|none]
 DFRobot/Cheapduino: BRANCHES:[master:fa6815a41b3dee17aea64c916df9a4a85d0e1eb7]|RELEASE:[none|none]
 DFRobot/DFI2C: BRANCHES:[master:e2ddebf4a5b12fa74b9343389efd14450bbede78]|RELEASE:[none|none]
+DFRobot/DFPlayer-Mini-mp3: BRANCHES:[master:c0bc05509c8a11f3b68b9b6758cb0508a365e7c9]|RELEASE:[none|none]
 DFRobot/DFUART: BRANCHES:[master:b7241b1f782b674552cf94d30ca06281ccb9ec24]|RELEASE:[none|none]
 DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2]|RELEASE:[none|none]
 DFRobot/EcoDuino: BRANCHES:[master:5c393b7e568b9b444d5fd8ff2f08b4ab76c21697]|RELEASE:[none|none]
