@@ -1,0 +1,32 @@
+name: Delete All Releases (DANGEROUS)
+
+on: workflow_dispatch
+
+permissions:
+  contents: write
+  deployments: write
+  actions: write
+
+jobs:
+  clean-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete drafts
+        uses: hugo19941994/delete-draft-releases@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete drafts
+        uses: hugo19941994/delete-draft-releases@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete drafts
+        uses: hugo19941994/delete-draft-releases@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete drafts
+        uses: hugo19941994/delete-draft-releases@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
