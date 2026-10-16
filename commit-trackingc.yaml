@@ -84,6 +84,7 @@ DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868
 DFRobot/DFRobot_Icon: BRANCHES:[master:8625f5d2ac73075e2810dd01b23b5e25bc3a0af0]|RELEASE:[none|none]
 DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28]|RELEASE:[none|none]
+DFRobot/DFRobot_LWLP: BRANCHES:[master:e3752c82df605320c52d524e850edb44f5c4f02b]|RELEASE:[none|none]
 DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd]|RELEASE:[none|none]
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
