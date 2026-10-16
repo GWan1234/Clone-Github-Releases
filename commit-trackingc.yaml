@@ -410,6 +410,7 @@ DFRobot/pxt-OLED: BRANCHES:[master:d433741e5c9b82d97281fcafb83043be31fa399e]|REL
 DFRobot/pxt-Obloq1: BRANCHES:[master:cd780c83a26a2020a3751270d600cbd1b57d33d5]|RELEASE:[none|none]
 DFRobot/pxt-RGB_LCD: BRANCHES:[master:31da3334abb879e6487313147af193cb8af7c667]|RELEASE:[none|none]
 DFRobot/pxt-compass: BRANCHES:[master:5a354054f39c68cbf61834dc71dbe1fb377a0050]|RELEASE:[none|none]
+DFRobot/pxt-dfrobot_maqueenplus_v20_tw: BRANCHES:[master:566fb9322b69433c59736dd2188fdb8953a333e0]|RELEASE:[v0.0.2|566fb9322b69433c59736dd2188fdb8953a333e0]
 DFRobot/pxt-ds18b20: BRANCHES:[master:fe3c85446ee71d4190f5ed057eddded882c6b44a]|RELEASE:[v0.1.0|6972a0226501bc4305eeb58afab4a4b4ebd735db]
 DFRobot/pxt-gamePad: BRANCHES:[master:b509667f2d9acf19327c1c50e89b2c764d0dbb78]|RELEASE:[v1.1.0|4f3a71d57275df83f748087ab6cea468787a6649]
 DFRobot/pxt-huskylens: BRANCHES:[master:aef9dc1b1e9d569b9de510f4c3fcbed66274577e]|RELEASE:[none|none]
