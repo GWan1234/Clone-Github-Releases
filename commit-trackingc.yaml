@@ -94,6 +94,7 @@ DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476a
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX: BRANCHES:[master:abe0b61a9fe85fe42de951f580bb917b62c8ac3e]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX17043: BRANCHES:[master:14d60b9f8fa2a65937b202eb5abba6e9880328a2]|RELEASE:[none|none]
+DFRobot/DFRobot_MAX30102: BRANCHES:[master:bf59af8739e19f5ddff27172a029deb31db12fcb]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX31855_old: BRANCHES:[master:68a10c0274b69df87aa5da9d3467fdfa428c076c]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP23017: BRANCHES:[master:fe41f82c7607cd420db9e2f09ee6ba989ac38dd6]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP2515: BRANCHES:[master:6de2da97719fd9c55d0b30eb95aff84a8f7a9205]|RELEASE:[none|none]
