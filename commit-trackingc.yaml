@@ -384,6 +384,7 @@ DFRobot/microbit_IoT_Kit: BRANCHES:[master:199ef883edbe68c2e09ddaa80138923cfbdaa
 DFRobot/micropython: BRANCHES:[master:dbba7e460cad666872a2c3e5a2b340f9cb2b3800;parse-bytecode:25e24b2c3c63e035b4c145f743f5cd7b02a23fc0;travis-esp8266:e1ee6cb716dbae70cfcc706bafd8b8f8052e77f2;cross:e66f722a6b8ea1438651c8efb1ba6a8b24c54d88;esp-extra-scripts:7213e78ddd289264daf3401e6610d9cc3150e15e;travis-stackless:edcd238b2f5fd428167e07621cec7cff9fd6c28b;travis-clang:d263c4f60f120b49c7e490fc1efa6b186d5dbb5b;dynamic-native-modules:2e5163486b0f6bb000bee99d397b95fb2b4bb437;travis-testing:865c4e8049776212dc3bf78e1d11ec59c874a378;reentrant-gc:b4c05c2966a9362a038e641ea9b29990a0ffe876]|RELEASE:[none|none]
 DFRobot/micropython-dflib: BRANCHES:[master:b612bded7bc013c83a3d324aba1c0201323d918e;NanaWangDFR-patch-1:3acfa561c9456361599b963125cc3fbdcda56c5a]|RELEASE:[none|none]
 DFRobot/micropython-esp32: BRANCHES:[esp32:eded7dd70b2c1b3c41fcc4bf98c2e29d2eeb3a95;bt:d8f36a394d324e93d854fc8ab88c5dd7807127e3;master:a64dc82742749cf4a4bbe5688dde05122fb38f56]|RELEASE:[none|none]
+DFRobot/mindplus2-docs-en: BRANCHES:[master:ad5f84dccd8fa65d648a520f4c11e4562ae20eb3;dev-xy:ad5f84dccd8fa65d648a520f4c11e4562ae20eb3;dev:ad5f84dccd8fa65d648a520f4c11e4562ae20eb3]|RELEASE:[none|none]
 DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8]|RELEASE:[none|none]
 DFRobot/mpy-gravity: BRANCHES:[master:3b6161616587d44befc1da99c871c049dfd21e87]|RELEASE:[none|none]
 DFRobot/obloq-weather: BRANCHES:[master:7701e9b90f4e18bfbc57f901b192959384984795]|RELEASE:[none|none]
