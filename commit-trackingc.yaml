@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:43
+commit-tracking: 2026-10-16 14:44
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -356,6 +356,7 @@ DFRobot/arduino-esp32-lora: BRANCHES:[master:07d90477b0ec241f1fd937f7ffd342aa43f
 DFRobot/arduino-pico: BRANCHES:[master:ca898d6d697a2947c931b8a46bf01943dd33b2a0]|RELEASE:[none|none]
 DFRobot/arduino-projects: BRANCHES:[master:142df7909715792727c975ed7760b719c20887af]|RELEASE:[none|none]
 DFRobot/binaryfiles: BRANCHES:[master:ba4c3afebb503a2c6ac6e4c7689ab2ea93d72e45]|RELEASE:[none|none]
+DFRobot/esp-adf: BRANCHES:[master:4c29b5578e9739cbc3b6f5258380115b79cedc16]|RELEASE:[none|none]
 DFRobot/ext-maqueenPlusMotorMap: BRANCHES:[master:fa89fe652188746147da73d759c760a282fd5aa3]|RELEASE:[none|none]
 DFRobot/ext-oled12864: BRANCHES:[master:0feb58145ba2143d2874640e7097af591618dbf5]|RELEASE:[none|none]
 DFRobot/ext-test: BRANCHES:[master:3783868d38291ceecf52d39f3a865398632a5609]|RELEASE:[none|none]
