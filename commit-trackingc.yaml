@@ -117,6 +117,7 @@ home-assistant/operating-system: BRANCHES:[update-rpi-8250_bcm2835aux-patch:7265
 home-assistant/operating-system-blobs: BRANCHES:[master:95cac2697063320782c9acc3f89a69b911cd5354]|RELEASE:[none|none]
 home-assistant/organization: BRANCHES:[master:c081419a637899795e8a4589ee53dc7e432bc9ff;readme-update:945f8768cc547039f07c6934b1725ed5e6097072]|RELEASE:[none|none]
 home-assistant/os-agent: BRANCHES:[main:3ffafc660549896cef9a78559286dcfa32915552;fix-clearing-ntp:c1397f61a8d6899c5ae287d581ccc6152cf4424b]|RELEASE:[1.14.0|bf13a1aa84bca4d88698be980b98dfafcb560fbb]
+home-assistant/partner.home-assistant: BRANCHES:[eleventy:fb142ea79bc2d0369487e3a302526874b7393249;main:9b302db9bd8a399032c27b9287d0382ae3a56a35;remove-ultraloq:cad3fb54d6cb0f88c14ab63d7845b9f52cb425fd;partner-program:3242cb6c5fa4f1063dd1ce4dc3c8e0a973e6972d]|RELEASE:[none|none]
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
 home-assistant/plugin-audio: BRANCHES:[master:24fb90806f3716e110a9ac53cda7757050ea16b7]|RELEASE:[2026.08.0|7ff9d92be4efb160d1dbedaff5c124f73f6449d8]
