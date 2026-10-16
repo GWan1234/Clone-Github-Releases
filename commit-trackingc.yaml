@@ -16,6 +16,7 @@ DFRobot/NFC-module: BRANCHES:[master:98e0ccfe1c42f965e257cea5d4b6f7eb3aa84693]|R
 DFRobot/PlainProtocol: BRANCHES:[master:648ca89119a502b09cf504b8ffd6e274370efb39]|RELEASE:[none|none]
 DFRobot/RGB-LED: BRANCHES:[master:28698f2f86d8132437d8364e8e9021616e776858]|RELEASE:[none|none]
 DFRobot/Rainbow-Ring: BRANCHES:[master:051b4dc726508da2cccc3df432f10fe41911d1bf]|RELEASE:[none|none]
+DFRobot/Rpi: BRANCHES:[master:93fa09d16b0fa7b5b2c9a34b66e3e87ee8d04478]|RELEASE:[none|none]
 DFRobot/TestBed: BRANCHES:[master:8364842e5651b408f47a98b8a87359e8184ea357]|RELEASE:[none|none]
 DFRobot/URM: BRANCHES:[master:d821744d4e662494089c5794f078d7c6a755f5b2]|RELEASE:[none|none]
 DFRobot/UltraSound-distance-URM37: BRANCHES:[master:ccd58168dc1952c048e832e32b44164bc527f1b0]|RELEASE:[none|none]
