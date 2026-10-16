@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 15:08
+commit-tracking: 2026-10-16 15:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -536,6 +536,7 @@ OLIMEX/BB-PWR-8113: BRANCHES:[master:60a06fa5f1a5af99f0ab4949a8bc9a0536634ed6]|R
 OLIMEX/DuinoMite: BRANCHES:[master:e06ca806e31253cb89f21cc075ef793b72ed3d65]|RELEASE:[none|none]
 OLIMEX/ESP8266: BRANCHES:[master:02d9c1ef525b9dc7b952d500dbc367b56137ce0e]|RELEASE:[none|none]
 OLIMEX/FingerPrint: BRANCHES:[master:fddc31437d35e09525e58d6b46bd1a2c47b635dd]|RELEASE:[none|none]
+OLIMEX/KiCAD: BRANCHES:[master:1cc7f5763b512e7db429c178da666bc409bb873f]|RELEASE:[none|none]
 OLIMEX/MOD-MPU9150: BRANCHES:[master:6eb430673ff885007765ddbee873303c38c08ebc]|RELEASE:[none|none]
 OLIMEX/MOD-OLED-128x64: BRANCHES:[master:56f31fed6ac9ecaf077a48bf09ad2d8f7bc07fa8]|RELEASE:[none|none]
 OLIMEX/OLIMEXINO-85: BRANCHES:[master:2084d909d726dab2a898943bce7477428c1d5725]|RELEASE:[none|none]
