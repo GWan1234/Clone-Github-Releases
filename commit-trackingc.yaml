@@ -56,6 +56,7 @@ DFRobot/DFRobot_BC20_Gravity: BRANCHES:[main:c9aed2ad61965d4602eec21d76bf3a54343
 DFRobot/DFRobot_BME280: BRANCHES:[master:76e7f85b6acaabddcb46cf74aac8c3bf2a0f9d19]|RELEASE:[none|none]
 DFRobot/DFRobot_BME680: BRANCHES:[master:fcd2a6496ba574e053e03cfe15f320e7ca2fe6fb]|RELEASE:[none|none]
 DFRobot/DFRobot_BMI160: BRANCHES:[master:c80b77eaccb3787f4e76a6e4774f65e034444ebb]|RELEASE:[none|none]
+DFRobot/DFRobot_BMM150: BRANCHES:[master:c03768d7a09fee36c3c7cbc851941adef590f010]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP280: BRANCHES:[master:8e91480a840bde12e144938597487cf8aab20d33]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP388: BRANCHES:[master:a904f136ee242f66deb271dc63a54f7985e16091]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP3XX: BRANCHES:[master:157f8d9b2fc6427db49a44eaa8fae6ab5beb8533]|RELEASE:[none|none]
