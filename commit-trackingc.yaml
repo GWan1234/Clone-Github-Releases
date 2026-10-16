@@ -293,6 +293,7 @@ DFRobot/VL53L3CX: BRANCHES:[master:0d083fda40b0b857c83b30b09140dcdffcb84261]|REL
 DFRobot/Visual-Servo-Controller: BRANCHES:[master:0e44dd0b4ac52504f7187f2bf39d364b304f2a41]|RELEASE:[none|none]
 DFRobot/VortexAndroid: BRANCHES:[master:2823a818a3d8b094ee4ba28e1710c79933d72700]|RELEASE:[none|none]
 DFRobot/Waterplantsystem: BRANCHES:[master:5edcef1d6ed9b5c99f5090aae62c518f4ec1ab2b]|RELEASE:[none|none]
+DFRobot/WeatherStationSHTC3: BRANCHES:[master:4344b9c91156606bfab2977b557320c2dac2d84e]|RELEASE:[none|none]
 DFRobot/WiFiBee-MT7681: BRANCHES:[master:594afe46b66e21acd55ca463658bfdff5d74a351]|RELEASE:[none|none]
 DFRobot/Wiki: BRANCHES:[master:eec9b91e73b23b36062fcfaba7fac8df01164072;SEN0290:d3399eda93a7ca07376593538f401dca2296bdb8]|RELEASE:[none|none]
 DFRobot/WikiResource: BRANCHES:[master:69a71c9b57abc4e053c59ac0e94bb52ecd2a9d24]|RELEASE:[none|none]
