@@ -53,6 +53,7 @@ DFRobot/DFRobot_ADXL345: BRANCHES:[main:4f5cd7efd1802d98629e1e1cedfc53a9b52a933d
 DFRobot/DFRobot_AGS01DB: BRANCHES:[]|RELEASE:[none|none]
 DFRobot/DFRobot_AHT20: BRANCHES:[master:4301f51df4132c99129ff8c4530602f79a774a13]|RELEASE:[none|none]
 DFRobot/DFRobot_AS3935: BRANCHES:[master:1d974051b06a0d3930311fc47a98b1fabfb1f35c]|RELEASE:[none|none]
+DFRobot/DFRobot_AS6221: BRANCHES:[master:580302ebf8daddbdb54e2bf9c14ac83d277b1295]|RELEASE:[none|none]
 DFRobot/DFRobot_AS7341: BRANCHES:[master:3980054604ce92209a4dfd157be872ec85cc813a]|RELEASE:[none|none]
 DFRobot/DFRobot_ASR: BRANCHES:[main:fece70339902f606a28e9e34fa5e370ef1e28568]|RELEASE:[none|none]
 DFRobot/DFRobot_AirQualitySensor: BRANCHES:[master:be5351c0c37e5c5f6fa7b026e202556f07f7fd0f]|RELEASE:[none|none]
