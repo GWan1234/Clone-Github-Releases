@@ -171,6 +171,7 @@ DFRobot/pxt-ds18b20: BRANCHES:[master:fe3c85446ee71d4190f5ed057eddded882c6b44a]|
 DFRobot/pxt-gamePad: BRANCHES:[master:b509667f2d9acf19327c1c50e89b2c764d0dbb78]|RELEASE:[v1.1.0|4f3a71d57275df83f748087ab6cea468787a6649]
 DFRobot/pxt-joystick: BRANCHES:[master:4a423fc1fe3621737db2aed29fd05ed8ec5c47bb]|RELEASE:[none|none]
 DFRobot/pxt-maqueen: BRANCHES:[master:a1fbb5e88ef4d53b814138d5a5ed73ab08465deb]|RELEASE:[v1.7.17|a1fbb5e88ef4d53b814138d5a5ed73ab08465deb]
+DFRobot/pxt-micro-IOBOX: BRANCHES:[master:3e52e7ed48bcd1f04d05b93e7efecb30cdf625ad]|RELEASE:[v0.0.8|3e52e7ed48bcd1f04d05b93e7efecb30cdf625ad]
 DFRobot/pxt-motor: BRANCHES:[master:2cdf17586556c5a532782aa436c516ae50f5f316]|RELEASE:[none|none]
 DFRobot/raspberrypi_ups: BRANCHES:[master:d18bb92ff15dfc6f6c12dd9fcbb7709aadc65bf4]|RELEASE:[none|none]
 DFRobot/softwaretools: BRANCHES:[master:0ec7eed6e30a5f6fbe00c5837b68a4a60643b09a]|RELEASE:[none|none]
