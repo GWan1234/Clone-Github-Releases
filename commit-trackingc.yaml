@@ -56,6 +56,7 @@ DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868
 DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28]|RELEASE:[none|none]
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
+DFRobot/DFRobot_MAX31855_old: BRANCHES:[master:68a10c0274b69df87aa5da9d3467fdfa428c076c]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP2515: BRANCHES:[master:6de2da97719fd9c55d0b30eb95aff84a8f7a9205]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP4725: BRANCHES:[master:befc5b19f58364e270b4c0a3a7d50620edbfd27b]|RELEASE:[none|none]
 DFRobot/DFRobot_MLX90614: BRANCHES:[master:79fa9c03e3d6ea02d8ef7ae0dc9589f7d1dcf508]|RELEASE:[none|none]
