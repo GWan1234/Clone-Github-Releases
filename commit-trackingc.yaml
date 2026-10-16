@@ -60,6 +60,7 @@ DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823]|
 DFRobot/DFRobot_QMC5883_old: BRANCHES:[master:2439045dd5f901ee3f000ad352e8922f22eeaa7d]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd9]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBMatrix: BRANCHES:[master:0f53ab4de70949dfba64324b663100498e5f2a15]|RELEASE:[none|none]
+DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3edee]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM7000: BRANCHES:[master:e7e36eb504c1c092716f90b0591163e42b29ed09]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM808: BRANCHES:[master:a1e5d362b2de32f9db6c360e14ec1866c6fe8130]|RELEASE:[none|none]
