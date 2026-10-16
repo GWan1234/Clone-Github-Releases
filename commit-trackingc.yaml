@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:18
+commit-tracking: 2026-10-16 14:19
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -311,6 +311,7 @@ DFRobot/pxt-DFRobot_MaqueenPlus_v20: BRANCHES:[master:4242d6e34d36499b20a9a5370f
 DFRobot/pxt-DFRobot_URM09_Trig: BRANCHES:[master:b3898b289ffdc27adb5ce5b70297382ec9efc02f]|RELEASE:[v0.0.4|b3898b289ffdc27adb5ce5b70297382ec9efc02f]
 DFRobot/pxt-DFRobot_WIFI_IoT_I2C: BRANCHES:[master:d1d8d4fd9837805192059b22c14475d8cada5594]|RELEASE:[v1.2.3|d1d8d4fd9837805192059b22c14475d8cada5594]
 DFRobot/pxt-DFRobot_WIFI_IoT_UART: BRANCHES:[master:2bf61caa03f50ae36e24dadad8774ac29b0d3ffb]|RELEASE:[v1.1.2|2bf61caa03f50ae36e24dadad8774ac29b0d3ffb]
+DFRobot/pxt-DFRobot_bosonKit: BRANCHES:[master:ea4ce99a673f4a211429e5090302a5868257b480]|RELEASE:[v4.4.0|ea4ce99a673f4a211429e5090302a5868257b480]
 DFRobot/pxt-DFRobot_liquid_level: BRANCHES:[master:b69e1f9b61ea17dcca96b79ab40843458b66a158]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_mini_control_module: BRANCHES:[master:ea870be4357347a4785dac5178a9acbe2ed986c1]|RELEASE:[v0.0.6|ea870be4357347a4785dac5178a9acbe2ed986c1]
 DFRobot/pxt-DFRobot_speech_synthesis: BRANCHES:[master:1496f334ce87a5a5d3173e0022fd2e6a9c83fa2c]|RELEASE:[none|none]
