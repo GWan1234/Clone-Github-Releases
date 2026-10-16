@@ -47,6 +47,7 @@ DFRobot/DFUART: BRANCHES:[master:b7241b1f782b674552cf94d30ca06281ccb9ec24]|RELEA
 DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2]|RELEASE:[none|none]
 DFRobot/EcoDuino: BRANCHES:[master:5c393b7e568b9b444d5fd8ff2f08b4ab76c21697]|RELEASE:[none|none]
 DFRobot/EdisonCloudSoil: BRANCHES:[master:f1ccb78475f93e8f0404eb527067edf9c527f06a]|RELEASE:[none|none]
+DFRobot/FireBeetle-ESP8266: BRANCHES:[master:e1bf2427a0bb7c6d0ab52294b3a7a005e05e7b0d]|RELEASE:[none|none]
 DFRobot/Fritzing-library: BRANCHES:[master:2ccdf815b9f27a18691d0466167e074001b76391;gh-pages:1153c46d21c85c8e99c123336c3abd49b164d75d]|RELEASE:[none|none]
 DFRobot/GPS-GPRS-GSM-Shield-V3.0: BRANCHES:[master:44be21db88644eff13244f32cc2a25bc8344d214]|RELEASE:[none|none]
 DFRobot/Gravity-Starter-Kit-for-Arduino: BRANCHES:[master:25754596283416b53562ff2ca888156185c56837]|RELEASE:[none|none]
