@@ -1,4 +1,4 @@
-name: Delete All Releases (DANGEROUS)
+name: Delete Drafts Releases
 
 on: workflow_dispatch
 
