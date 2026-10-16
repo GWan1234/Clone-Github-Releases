@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:33
+commit-tracking: 2026-10-16 14:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -83,6 +83,7 @@ DFRobot/DFRobot_DF1201S: BRANCHES:[master:9c756dc62a95807c20897020c3c7fe5fa6fec4
 DFRobot/DFRobot_DF2301Q: BRANCHES:[master:f6b0551cd1ed21ff35acb253d89180a6e3c55c4b]|RELEASE:[none|none]
 DFRobot/DFRobot_DHT11: BRANCHES:[master:d6de7bd51683eb45c4e7d951e8a7b1ffd254c1b5]|RELEASE:[none|none]
 DFRobot/DFRobot_DHT20: BRANCHES:[master:af63fb5ccb0f25dee4fc33739d0c236a70547444]|RELEASE:[none|none]
+DFRobot/DFRobot_DMX512: BRANCHES:[master:0924c8c047b698f1ee78597693da8e5eeba14f2b]|RELEASE:[none|none]
 DFRobot/DFRobot_DS1307: BRANCHES:[master:38a0d9388f91380efc2a84af49873ebc86a31922]|RELEASE:[none|none]
 DFRobot/DFRobot_DS3231M: BRANCHES:[master:4a4fbe60cc4a0f152271f34e5bec450de483251d]|RELEASE:[none|none]
 DFRobot/DFRobot_DS323X: BRANCHES:[master:bb0229d2d62fd578dfb9f009dea59d3102669bc5]|RELEASE:[none|none]
