@@ -44,6 +44,7 @@ DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5f
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
 DFRobot/DFRobot_MCP2515: BRANCHES:[master:6de2da97719fd9c55d0b30eb95aff84a8f7a9205]|RELEASE:[none|none]
 DFRobot/DFRobot_MLX90614: BRANCHES:[master:79fa9c03e3d6ea02d8ef7ae0dc9589f7d1dcf508]|RELEASE:[none|none]
+DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b64e2542]|RELEASE:[none|none]
 DFRobot/DFRobot_QMC5883_old: BRANCHES:[master:2439045dd5f901ee3f000ad352e8922f22eeaa7d]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd9]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBMatrix: BRANCHES:[master:0f53ab4de70949dfba64324b663100498e5f2a15]|RELEASE:[none|none]
