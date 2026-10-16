@@ -93,6 +93,7 @@ DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd
 DFRobot/DFRobot_RGBMatrix: BRANCHES:[master:0f53ab4de70949dfba64324b663100498e5f2a15]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3edee]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37dbc4e6]|RELEASE:[none|none]
+DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b57325129b6d5;revert-4-lib_support_ubuntu_20-04:7cf3bc880d7afc75a87633d4a06a348179d1b73b]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_TouchScreen_Firmware: BRANCHES:[master:1cad16fca090f078306454885fbc2e54a79ad6eb]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3]|RELEASE:[none|none]
 DFRobot/DFRobot_SIM: BRANCHES:[master:1a0f585f2e8f86cfb1d9e833174e72ad0759aaf5]|RELEASE:[none|none]
