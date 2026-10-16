@@ -7,6 +7,7 @@ DFRobot/AndroidWhenDo: BRANCHES:[master:9010cef5f032927b534c312566fd0f3a0fce8d92
 DFRobot/Arduino-HMC5883L: BRANCHES:[master:8b27c96370296eb067457980e0c81d1184f2d24f]|RELEASE:[none|none]
 DFRobot/BLE_firmware_V1.9: BRANCHES:[master:15285113de3e12cbe482325563d1aac30b472c81]|RELEASE:[none|none]
 DFRobot/Beginner-Kit-for-Arduino: BRANCHES:[master:acf8a62f8d84319be5fd88455b766d5810b6397b]|RELEASE:[none|none]
+DFRobot/Bluno2_Firmware: BRANCHES:[master:5b86c708134f75060e69bf0e856625747ecd8393]|RELEASE:[none|none]
 DFRobot/BlunoAccessoryShieldDemo: BRANCHES:[master:19d641f8f0acf2cf65ae70dc238654f03a418537]|RELEASE:[none|none]
 DFRobot/BlunoBasicDemo: BRANCHES:[master:e3b9481780e31dd443c29a4d198bf5dc3111c450;Addcrlf:2dc972bda727ae39228f7c0a903ff8d9afc5ea48]|RELEASE:[none|none]
 DFRobot/BlunoM3: BRANCHES:[master:036923310df7cc8eaa109a0ba8043848c9584507]|RELEASE:[none|none]
