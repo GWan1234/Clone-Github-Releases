@@ -287,6 +287,7 @@ DFRobot/Starter-Kit-for-Genuino-101: BRANCHES:[master:34e172acb5d34e3f86c220d0df
 DFRobot/TEL0125: BRANCHES:[master:2fcaeb6f73f9736c1375c709ce83359ad41e0faf]|RELEASE:[none|none]
 DFRobot/TOY0083-project-card-V2.0: BRANCHES:[main:9db8e8bf38d7f455cb652c4833fd0a9adda71693]|RELEASE:[none|none]
 DFRobot/TestBed: BRANCHES:[master:8364842e5651b408f47a98b8a87359e8184ea357]|RELEASE:[none|none]
+DFRobot/ThreeAxisAccelerationRecorder: BRANCHES:[master:a3d69f6ca303909b83c0098de9a178fb8fc15f78]|RELEASE:[none|none]
 DFRobot/Tutorial_of_Maqueen_Mechanic_Beetle_EN: BRANCHES:[master:ad356f22012d9e4b5b2233cd414363101e7767ad]|RELEASE:[none|none]
 DFRobot/Tutorial_of_Maqueen_Mechanic_Forklift_EN: BRANCHES:[master:e833c9ec77c96d14fd1a9771f2800dcb375d33f5]|RELEASE:[none|none]
 DFRobot/Tutorial_of_Maqueen_Mechanic_Push_EN: BRANCHES:[master:dc9f13f2a914f7508493dd56e49ebeeddcd609b6]|RELEASE:[none|none]
