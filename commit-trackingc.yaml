@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:48
+commit-tracking: 2026-10-16 14:49
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -385,6 +385,7 @@ DFRobot/micropython-esp32: BRANCHES:[esp32:eded7dd70b2c1b3c41fcc4bf98c2e29d2eeb3
 DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8]|RELEASE:[none|none]
 DFRobot/mpy-gravity: BRANCHES:[master:3b6161616587d44befc1da99c871c049dfd21e87]|RELEASE:[none|none]
 DFRobot/obloq-weather: BRANCHES:[master:7701e9b90f4e18bfbc57f901b192959384984795]|RELEASE:[none|none]
+DFRobot/onnx2kmodel: BRANCHES:[master:c65fff701058ca8db3e0ac9e94b0568edb1e184e;dev:a7f326b8112da0c5ea7e07d21d5b68f2c2084669]|RELEASE:[v1.0|a7f326b8112da0c5ea7e07d21d5b68f2c2084669]
 DFRobot/openai-realtime-embedded-sdk: BRANCHES:[main:14f11f9b4ecbb351bd78e72a7fcbb1ff3bc8d7c6]|RELEASE:[none|none]
 DFRobot/overlord: BRANCHES:[master:78eebc9c2e5e5cae79fd2e8c1949a43b1855d18a]|RELEASE:[none|none]
 DFRobot/pinpong-docs: BRANCHES:[master:8199bfc9f038bba4b033054aa54ccd95db2a468e]|RELEASE:[none|none]
