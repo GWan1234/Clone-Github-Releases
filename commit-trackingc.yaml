@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 07:01
+commit-tracking: 2026-10-16 07:02
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 FUjr/QModem: BRANCHES:[stable:2e4c1c80a6d95a525168b888be0c1857e4bd1453;feature/sip-multi-modem:ac7c86063cd701f9f9477fe04a1788de899ce2e5;fix/modem-scand-device-dedup-280:8f48aa90d546defb85110b3708fb3b0870117e83;main:c49654efc870f53712ee8e25bf181722eb1466d9;fix/stable-manufacturer-sync:93567492e1f34b40bc6b6973906d039104889418;fix/manufacturer-options:80486658be0fe272d4238132cd2211d006e54bee;docs/voip-reference:28dbb30e93a41f1759ecbd8b7b4b74d791752c5f;feature/at-response-parser-layer:2fd71057e9cd17ccc4c4d08f244d95af58dc91d9;feat/fixture-multiple-responses:cc7028bca21f792006e030cac97af369aea37a79;fix/snapshot-sdk-and-3.2.0:45a713d37fc6ca599dfe103315e196f3d5399aee]|RELEASE:[v3.3.0|5cc80e5f9fc218cd50bef9749dc7d0027e8b3072]
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10]|RELEASE:[none|none]
@@ -52,9 +52,9 @@ dushixiang/uart_sms_forwarder: BRANCHES:[main:a87445d4e8085d15caa41e7c3562387c6b
 faadd2/AndroidForClaw: BRANCHES:[main:6de6343d11adca575020715d30e6731028fe061c]|RELEASE:[none|none]
 faadd2/SDRSharper: BRANCHES:[master:e190b08a7545d24fe65aadb6d668211f14921947]|RELEASE:[none|none]
 faadd2/SSL-Assistant: BRANCHES:[main:9258f0afe2eb4ca6948475971fdaadbd80a4d15c]|RELEASE:[none|none]
-faadd2/luci-app-onu: BRANCHES:[main:fc81f2e3904c77a803909e4d77ba15fad32140cc]|RELEASE:[none|none]
+faadd2/luci-app-onu: BRANCHES:[main:aae15da1a764cf0fa00b6c941d8fbe6acca21cce]|RELEASE:[none|none]
 faadd2/luci-app-pon: BRANCHES:[main:5fcf6b0eb7752646a3f2132571ae4a5bab8816c6]|RELEASE:[none|none]
-faadd2/zn504xg-onu-build: BRANCHES:[main:57c646eb455e815eb05efe8e23bacfbb8841c2f4]|RELEASE:[build-20|57c646eb455e815eb05efe8e23bacfbb8841c2f4]
+faadd2/zn504xg-onu-build: BRANCHES:[main:b9f42af4e3d896cdd4f2bc5bcfbbbb08575d7280]|RELEASE:[build-21|b9f42af4e3d896cdd4f2bc5bcfbbbb08575d7280]
 fatedier/frp: BRANCHES:[dev:954f918d0cabdf09cc5c15030ef6d7dc2914198f;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
 hylianfin/Aliro-homekey: BRANCHES:[main:1f671dfb3268c74f316be7ca37873dc08b0c2b11;revert-1-main:076b16053489839ff08a78c1a7d2f77adbbb6b29;page:88420a29e1c89fd4e2449255a29ecbe58e5f12a4]|RELEASE:[none|none]
 kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de0768a9;master:10c56b4f94c1ec79a65c4d8eb890e2ac4e9b11bc;2023.03.02.1000:4b4f1bd2649f3b540ca20945f461287d4f987a01]|RELEASE:[v2023.03.02.1000|0f4071a61b4ba8a7119d3405e760929089545f9e]
