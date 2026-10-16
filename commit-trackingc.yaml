@@ -370,6 +370,7 @@ DFRobot/pxt-3DGesture: BRANCHES:[master:a063ffaa9abdde321b92c46c9d8d199949afc2a9
 DFRobot/pxt-DFRobot-Maqueenplus: BRANCHES:[master:8769f31c6b124dfc83d7094c865da379da2aeded]|RELEASE:[v1.5.1|8769f31c6b124dfc83d7094c865da379da2aeded]
 DFRobot/pxt-DFRobot-NaturalScience: BRANCHES:[master:922c92dd8aa42c997580bac766d6bfb8405d7e0b;add-license-1:96009bfc0914bc32fed2a771a050c5a6341f6b61]|RELEASE:[v1.5.7|922c92dd8aa42c997580bac766d6bfb8405d7e0b]
 DFRobot/pxt-DFRobot-microIoT: BRANCHES:[master:6c58659ae662c9d8f143b5154aa571622a364dd9]|RELEASE:[v1.3.0|6c58659ae662c9d8f143b5154aa571622a364dd9]
+DFRobot/pxt-DFRobotGestureFaceDetection: BRANCHES:[master:6b0becf33c4617ecc511c6ddb6d67aad285dace0]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_ASR: BRANCHES:[master:1e178467fd6944149b685fdcbb77868685c29c99]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot_AirQualitySensor: BRANCHES:[master:5ff3f27e63da4ec1b6aa732807f065b7907f15f9]|RELEASE:[v0.1.0|5ff3f27e63da4ec1b6aa732807f065b7907f15f9]
 DFRobot/pxt-DFRobot_Environment_Science: BRANCHES:[master:c735e46f7b5545768b0e5c292be992e8918c14eb]|RELEASE:[v0.7.2|c22979559666356ba6d948df1babd94af62f56db]
