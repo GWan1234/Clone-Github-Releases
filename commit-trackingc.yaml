@@ -81,6 +81,7 @@ DFRobot/EcoDuino: BRANCHES:[master:5c393b7e568b9b444d5fd8ff2f08b4ab76c21697]|REL
 DFRobot/EdisonCloudSoil: BRANCHES:[master:f1ccb78475f93e8f0404eb527067edf9c527f06a]|RELEASE:[none|none]
 DFRobot/FireBeetle-ESP32: BRANCHES:[master:9a7d1054f93318aaed852212beb4c0692214b78f]|RELEASE:[none|none]
 DFRobot/FireBeetle-ESP8266: BRANCHES:[master:e1bf2427a0bb7c6d0ab52294b3a7a005e05e7b0d]|RELEASE:[none|none]
+DFRobot/FreeSixIMU: BRANCHES:[master:89e8fa3c4b8028aeb1188b6e5468f3f51b5b2312]|RELEASE:[none|none]
 DFRobot/Fritzing-library: BRANCHES:[master:2ccdf815b9f27a18691d0466167e074001b76391;gh-pages:1153c46d21c85c8e99c123336c3abd49b164d75d]|RELEASE:[none|none]
 DFRobot/GPS-GPRS-GSM-Shield-V3.0: BRANCHES:[master:44be21db88644eff13244f32cc2a25bc8344d214]|RELEASE:[none|none]
 DFRobot/GoBle: BRANCHES:[master:4f3087b697754cd8036eacd0a08abaa096e96ffb]|RELEASE:[none|none]
