@@ -32,6 +32,7 @@ DFRobot/DFRobot_3V-Relay-Module: BRANCHES:[master:6c8a5df66b2f08e758e037e2e546d6
 DFRobot/DFRobot_AnalogACurrentSensor: BRANCHES:[master:e843cb788ebd77aa2655a60436b16362fb61aa6d]|RELEASE:[none|none]
 DFRobot/DFRobot_BME280: BRANCHES:[master:76e7f85b6acaabddcb46cf74aac8c3bf2a0f9d19]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP280: BRANCHES:[master:8e91480a840bde12e144938597487cf8aab20d33]|RELEASE:[none|none]
+DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510]|RELEASE:[none|none]
 DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552db5207363383d1c8e03]|RELEASE:[none|none]
 DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449]|RELEASE:[none|none]
