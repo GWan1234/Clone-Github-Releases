@@ -38,6 +38,7 @@ DFRobot/URM: BRANCHES:[master:d821744d4e662494089c5794f078d7c6a755f5b2]|RELEASE:
 DFRobot/UltraSound-distance-URM37: BRANCHES:[master:ccd58168dc1952c048e832e32b44164bc527f1b0]|RELEASE:[none|none]
 DFRobot/Visual-Servo-Controller: BRANCHES:[master:0e44dd0b4ac52504f7187f2bf39d364b304f2a41]|RELEASE:[none|none]
 DFRobot/VortexAndroid: BRANCHES:[master:2823a818a3d8b094ee4ba28e1710c79933d72700]|RELEASE:[none|none]
+DFRobot/WindowsIoT: BRANCHES:[master:c8eb2b75dcac6794bdc11a4b71e5fe24079f465d;Waterplantsystem:e2adbc25bc96bc6db5d5a0e303da06aaece91308;fork:056de85eff28c8d0b208fb1149e7bb9ea1a49e94]|RELEASE:[none|none]
 DFRobot/arduino-projects: BRANCHES:[master:142df7909715792727c975ed7760b719c20887af]|RELEASE:[none|none]
 DFRobot/liteide: BRANCHES:[master:a48431c0e87ac7824507d6d6f4c446447667ab52]|RELEASE:[none|none]
 DFRobot/preferences.txt-for-adruino-ide: BRANCHES:[master:dfd2bb39c4188540fcd55f23b0f38836a637a2e8]|RELEASE:[none|none]
