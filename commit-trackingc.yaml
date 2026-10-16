@@ -224,6 +224,7 @@ DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd
 DFRobot/DFRobot_RGBLCD1602: BRANCHES:[master:8e2b24daf12847dc1ebe6405580c7e8b1101551f]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBMatrix: BRANCHES:[master:0f53ab4de70949dfba64324b663100498e5f2a15]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3edee]|RELEASE:[none|none]
+DFRobot/DFRobot_RK182x_Examples: BRANCHES:[master:6505906543f9cb261e2bd391e0c4cddf8744879a]|RELEASE:[none|none]
 DFRobot/DFRobot_RP2040_SCI: BRANCHES:[master:1dae093ad015185e1209531fa279636205100d83]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37dbc4e6]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display_V2: BRANCHES:[master:e74752a5e437c747c53950f4bed4434ba4bd445f]|RELEASE:[none|none]
