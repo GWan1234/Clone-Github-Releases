@@ -156,6 +156,7 @@ DFRobot/DFRobot_SerialScreen1248: BRANCHES:[master:c497ecb79a173bdbda1df86aaa281
 DFRobot/DFRobot_SerialScreen771: BRANCHES:[master:d0248460344e1a7b355a7c81adbee0b82949cab5]|RELEASE:[none|none]
 DFRobot/DFRobot_SpeechSynthesis: BRANCHES:[master:ed6dba1b157c0db40ef30a93afff8e60cffc2251]|RELEASE:[none|none]
 DFRobot/DFRobot_TCS3430: BRANCHES:[master:34ddde97dd9e9e636db2f9c15356c07a822dd8dd]|RELEASE:[none|none]
+DFRobot/DFRobot_TMF8x01: BRANCHES:[master:54200552f3e151ada42c0762b42a45b336844615]|RELEASE:[none|none]
 DFRobot/DFRobot_Trafficlight: BRANCHES:[master:9441c627b62bd9a11b7f77c09f9898cd91c3a31f]|RELEASE:[none|none]
 DFRobot/DFRobot_URM09: BRANCHES:[master:508097340abd521d31e57e9a5bdf31b626f9f033]|RELEASE:[none|none]
 DFRobot/DFRobot_VEML6075: BRANCHES:[master:e0a208416288694a88538eca9c7de16ce2713318]|RELEASE:[none|none]
