@@ -203,6 +203,7 @@ DFRobot/DFRobot_MultiGasSensor: BRANCHES:[main:5b08794160db81db76a7cb5348a8f1778
 DFRobot/DFRobot_MultiTouchPad: BRANCHES:[master:833442f060c51478cc1cbaee74baf0b397bcd9eb]|RELEASE:[none|none]
 DFRobot/DFRobot_Multi_DOF_IMU: BRANCHES:[master:d100ad40aae921d60245f1ba9bd39cfa8057d3da]|RELEASE:[none|none]
 DFRobot/DFRobot_N20Motor: BRANCHES:[main:89376fe1411c03c8cc7e92c7a97919f08f3e3547]|RELEASE:[none|none]
+DFRobot/DFRobot_N20SerialMotor: BRANCHES:[main:34ae522f1051de5f5711b7cea6152c4537897c0b]|RELEASE:[none|none]
 DFRobot/DFRobot_NRF24L01: BRANCHES:[master:6301382d381d19de2627b6f14c39d3f083de4002]|RELEASE:[none|none]
 DFRobot/DFRobot_OBLOQ: BRANCHES:[master:205b250fc696d1b93e5359b8d4804c21d0f8cb65]|RELEASE:[none|none]
 DFRobot/DFRobot_OLED12864: BRANCHES:[master:2bfb7646fc5343deb39f7a0e9d7a3222357d6495]|RELEASE:[none|none]
