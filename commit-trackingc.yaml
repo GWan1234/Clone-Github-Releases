@@ -244,6 +244,7 @@ DFRobot/DFRobot_WIFI_I0T_Module_STM32: BRANCHES:[master:454e372334eba14ea526050d
 DFRobot/DFRobot_WT61PC: BRANCHES:[master:6ea28a193347c4de07091be7b5aaf6bf706e56ca]|RELEASE:[none|none]
 DFRobot/DFRobot_WiFi_IoT_Module: BRANCHES:[master:d8808ad2c4b40a6658029e9f8c2b9b81c0980092]|RELEASE:[none|none]
 DFRobot/DFRobot_ePaper: BRANCHES:[master:d136eae55f2458666e9f05f92ef0cd221e62ae0c]|RELEASE:[none|none]
+DFRobot/DFRobot_matrixLidarDistanceSensor: BRANCHES:[master:7050679198ef496cf7da797dcce66c4f0104cc73]|RELEASE:[none|none]
 DFRobot/DFRobot_siot: BRANCHES:[master:077e3cc25e447d88f086e4b06f030c73394f148d]|RELEASE:[none|none]
 DFRobot/DFRobot_utility: BRANCHES:[master:265ff2a69ed12d5105e21916d4cd3cf8ea70e309]|RELEASE:[none|none]
 DFRobot/DFSerialChart: BRANCHES:[master:fac822b834c6cfdc3c69e643a55b33fa6cf46551]|RELEASE:[none|none]
