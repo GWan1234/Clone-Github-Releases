@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 13:27
+commit-tracking: 2026-10-16 13:28
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -12,6 +12,7 @@ DFRobot/BlunoBasicDemo: BRANCHES:[master:e3b9481780e31dd443c29a4d198bf5dc3111c45
 DFRobot/BlunoM3: BRANCHES:[master:036923310df7cc8eaa109a0ba8043848c9584507]|RELEASE:[none|none]
 DFRobot/BlunoSample: BRANCHES:[master:8edc2985857a8f2703b1c9a7617cff5b24cc3eb2]|RELEASE:[none|none]
 DFRobot/BlunoTest: BRANCHES:[master:ad05191379d70950ab367e70b298f64d265e8238]|RELEASE:[none|none]
+DFRobot/Bluno_Accessory: BRANCHES:[master:b0c6cc461e0a4cf5113d6bccd3a285c88596e186]|RELEASE:[none|none]
 DFRobot/Cheapduino: BRANCHES:[master:fa6815a41b3dee17aea64c916df9a4a85d0e1eb7]|RELEASE:[none|none]
 DFRobot/DFI2C: BRANCHES:[master:e2ddebf4a5b12fa74b9343389efd14450bbede78]|RELEASE:[none|none]
 DFRobot/DFPlayer-Mini-mp3: BRANCHES:[master:c0bc05509c8a11f3b68b9b6758cb0508a365e7c9]|RELEASE:[none|none]
