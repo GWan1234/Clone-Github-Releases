@@ -301,6 +301,7 @@ DFRobot/Wiki: BRANCHES:[master:eec9b91e73b23b36062fcfaba7fac8df01164072;SEN0290:
 DFRobot/WikiResource: BRANCHES:[master:69a71c9b57abc4e053c59ac0e94bb52ecd2a9d24]|RELEASE:[none|none]
 DFRobot/Windows-10-IoT-text-code: BRANCHES:[master:a98a23bd192386b8f4b8539b830fc22f22898f37]|RELEASE:[none|none]
 DFRobot/WindowsIoT: BRANCHES:[master:c8eb2b75dcac6794bdc11a4b71e5fe24079f465d;Waterplantsystem:e2adbc25bc96bc6db5d5a0e303da06aaece91308;fork:056de85eff28c8d0b208fb1149e7bb9ea1a49e94]|RELEASE:[none|none]
+DFRobot/adapter-board: BRANCHES:[master:7094aa3efcf6525d5729218801a9a7327a6fb2e7]|RELEASE:[none|none]
 DFRobot/arduino-esp32: BRANCHES:[gh-pages:d2a43d3ac2b8594d9fe00337543797042a63fe42;master:85337cb0ca2ad720faea642b0b58fe80933c07f7;idf-release/v4.4:05b31c4547ca97667e9d93d4a882666990edc41a;BUGFIX_SD+speed_improvement:6cfe4613e4b4846e1ab08c7f78b7ea241f52c7da;pluggable_discovery_and_monitor:514d3f322b9750c842ddb30b81278002d7bd139f;me-no-dev-patch-1:0aeefeb65a6546fce2512d9b86c5897eaf171ef0;LEDC-refactoring:5940d89e671fa5ee5b065be46f5d959515feca6f;release/v1.0:80b39e62e213cfa7ec3caecbb1ced3c600635c22;feature/uvc:fd72e96b1177acba882c6a0ef44c1351a2380b49;feature/boards_txt_generate:6cb7d623c19198402ae78fd9fc7ea7b9548691f2]|RELEASE:[none|none]
 DFRobot/arduino-pico: BRANCHES:[master:ca898d6d697a2947c931b8a46bf01943dd33b2a0]|RELEASE:[none|none]
 DFRobot/arduino-projects: BRANCHES:[master:142df7909715792727c975ed7760b719c20887af]|RELEASE:[none|none]
