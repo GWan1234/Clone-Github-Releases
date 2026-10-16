@@ -582,6 +582,7 @@ OLIMEX/UEXT-MODULES: BRANCHES:[master:8730ede82a3820b29b65e40f6b49b7691d973bde]|
 OLIMEX/URC: BRANCHES:[master:7defdbb04c0b2b97d60dd8be3b12e7994079ecec]|RELEASE:[none|none]
 OLIMEX/USB-GIGABIT: BRANCHES:[master:e30a671f84527391f9f351bd8a0563ab36cceb6f]|RELEASE:[none|none]
 OLIMEX/USB-SATA: BRANCHES:[master:339c53bafaf2b73999d9e69a664fcbeb5996dbfc]|RELEASE:[none|none]
+OLIMEX/USB-gLINK: BRANCHES:[master:fea5397ca506f007c1af7848cc082733c2438ece]|RELEASE:[none|none]
 OLIMEX/WPC: BRANCHES:[master:21614bb7dae6c60e8c14cd9c2ab1ccc32d458d55]|RELEASE:[none|none]
 OLIMEX/archlinuxarm-olinuxino: BRANCHES:[master:c1da50703674de27697436d4dc9d19cace681fd1]|RELEASE:[none|none]
 OLIMEX/arm-trusted-firmware-olinuxino: BRANCHES:[master:5ea94b8354d1c32a88a8bfa2eb8037568c711531]|RELEASE:[none|none]
