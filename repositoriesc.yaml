@@ -27,6 +27,7 @@ exclude:
   - armbian/community
   - SmartRouterZone/swrt-gpl
   - Seeed-Studio/OSHW-WioTerminal
+  - faadd2/PortableWiFiCrack
 
 repositories:
   name0:
