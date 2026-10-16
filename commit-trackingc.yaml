@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 13:59
+commit-tracking: 2026-10-16 14:00
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -44,6 +44,7 @@ DFRobot/DFRobot_ADS1115: BRANCHES:[master:6d3df78d29693bf9e245a223afe0443406bd29
 DFRobot/DFRobot_AGS01DB: BRANCHES:[]|RELEASE:[none|none]
 DFRobot/DFRobot_AS3935: BRANCHES:[master:1d974051b06a0d3930311fc47a98b1fabfb1f35c]|RELEASE:[none|none]
 DFRobot/DFRobot_AnalogACurrentSensor: BRANCHES:[master:e843cb788ebd77aa2655a60436b16362fb61aa6d]|RELEASE:[none|none]
+DFRobot/DFRobot_BC20: BRANCHES:[master:233141a0e21ead9ca452d285ba75d84ebc95a510]|RELEASE:[none|none]
 DFRobot/DFRobot_BME280: BRANCHES:[master:76e7f85b6acaabddcb46cf74aac8c3bf2a0f9d19]|RELEASE:[none|none]
 DFRobot/DFRobot_BME680: BRANCHES:[master:fcd2a6496ba574e053e03cfe15f320e7ca2fe6fb]|RELEASE:[none|none]
 DFRobot/DFRobot_BMI160: BRANCHES:[master:c80b77eaccb3787f4e76a6e4774f65e034444ebb]|RELEASE:[none|none]
