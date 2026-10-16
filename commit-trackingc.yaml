@@ -87,6 +87,7 @@ DFRobot/GPS-GPRS-GSM-Shield-V3.0: BRANCHES:[master:44be21db88644eff13244f32cc2a2
 DFRobot/GoBle: BRANCHES:[master:4f3087b697754cd8036eacd0a08abaa096e96ffb]|RELEASE:[none|none]
 DFRobot/Gravity-I2C-SD2405-RTC-Module: BRANCHES:[master:322bf7ce9e1c53f4b62a4517a7c37a7b0a6e55a6]|RELEASE:[none|none]
 DFRobot/Gravity-Starter-Kit-for-Arduino: BRANCHES:[master:25754596283416b53562ff2ca888156185c56837]|RELEASE:[none|none]
+DFRobot/GravityTDS: BRANCHES:[master:e711cd1ea5f410b257cf8a59cd548d7c8b131428]|RELEASE:[none|none]
 DFRobot/Gravity_Analog_Dissolved_Oxygen_Sensor: BRANCHES:[master:7f26f056884757a3dcff91d2fff4e7110f197d27]|RELEASE:[none|none]
 DFRobot/Grey-GitHub-test: BRANCHES:[master:5207e8ed81f8999e1e9c8ae2d883ebc58765d0b0]|RELEASE:[none|none]
 DFRobot/HCR-Mobile-Platform-with-Omni-Wheels: BRANCHES:[master:989474435280c7d7bfe8be2aecd2a4dc51f726bc]|RELEASE:[none|none]
