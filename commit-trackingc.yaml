@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 12:20
+commit-tracking: 2026-10-16 12:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 FUjr/QModem: BRANCHES:[stable:2e4c1c80a6d95a525168b888be0c1857e4bd1453;feature/sip-multi-modem:ac7c86063cd701f9f9477fe04a1788de899ce2e5;fix/modem-scand-device-dedup-280:8f48aa90d546defb85110b3708fb3b0870117e83;main:c49654efc870f53712ee8e25bf181722eb1466d9;fix/stable-manufacturer-sync:93567492e1f34b40bc6b6973906d039104889418;fix/manufacturer-options:80486658be0fe272d4238132cd2211d006e54bee;docs/voip-reference:28dbb30e93a41f1759ecbd8b7b4b74d791752c5f;feature/at-response-parser-layer:2fd71057e9cd17ccc4c4d08f244d95af58dc91d9;feat/fixture-multiple-responses:cc7028bca21f792006e030cac97af369aea37a79;fix/snapshot-sdk-and-3.2.0:45a713d37fc6ca599dfe103315e196f3d5399aee]|RELEASE:[v3.3.0|5cc80e5f9fc218cd50bef9749dc7d0027e8b3072]
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10]|RELEASE:[none|none]
@@ -81,6 +81,7 @@ home-assistant/iOS: BRANCHES:[migration/nc-app:119dc75fe6167d248857b33873b433d8c
 home-assistant/issue-bot: BRANCHES:[master:1df9527e578e21e1d033cc02d63afe53bd484cfc]|RELEASE:[none|none]
 home-assistant/lambda-home-assistant-github: BRANCHES:[master:9f975525fc7b62feefbc72b91a2bc1c231d8b15c]|RELEASE:[none|none]
 home-assistant/micropython-home-assistant: BRANCHES:[master:ee8af888ec2224c44f416803f2280527a3313b64]|RELEASE:[none|none]
+home-assistant/operating-system: BRANCHES:[update-rpi-8250_bcm2835aux-patch:72652bf3cc282b04c62e68c013e67cda81582988;dev:75226325226a46d5f567f6595f8c3c51fe9a1875;r8169-vlan-breakage-apply-edumazet-patch-v2:507ff58383a43ec1af8523a18e13461c9a13ac01;try-revert-vlan-patch-r8169-breakage:dcb0ca59ecf1a4ffff4e94956bac466c0198bd76;backport-r8169-eee-fix:a32644c67ba8e93c3cc642965475a1dea4ae6c47;main:b22f929d3bc8895f5cf84d13d71a24714b59eed4;rc:2eb456845b899c175e53425cf713fb33dee072c2;reenable-stub-resolver:562471166e35122d447cf9bc79433524c8148a1c;rel-10:09f9b4f9f4beef2f8824ef200e4283593d83673f;rel-9:32039fc15e89cff99a4b022a28b3791905b05b6b]|RELEASE:[18.3|b22f929d3bc8895f5cf84d13d71a24714b59eed4]
 home-assistant/organization: BRANCHES:[master:c081419a637899795e8a4589ee53dc7e432bc9ff;readme-update:945f8768cc547039f07c6934b1725ed5e6097072]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
 home-assistant/scenegen: BRANCHES:[master:38f91f5c86824a02784f470b1990eb5f54f7c7a6]|RELEASE:[none|none]
