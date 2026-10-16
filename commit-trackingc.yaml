@@ -107,6 +107,7 @@ home-assistant/operating-system-blobs: BRANCHES:[master:95cac2697063320782c9acc3
 home-assistant/organization: BRANCHES:[master:c081419a637899795e8a4589ee53dc7e432bc9ff;readme-update:945f8768cc547039f07c6934b1725ed5e6097072]|RELEASE:[none|none]
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
+home-assistant/plugin-audio: BRANCHES:[master:24fb90806f3716e110a9ac53cda7757050ea16b7]|RELEASE:[2026.08.0|7ff9d92be4efb160d1dbedaff5c124f73f6449d8]
 home-assistant/plugin-cli: BRANCHES:[master:b79b8859fc7c6c705ca92ae363c351606f82576a]|RELEASE:[2026.09.0|a0a9ecec5753f82d3e68a48e5cab51138a7f041b]
 home-assistant/plugin-dns: BRANCHES:[master:caff8d86db6d466728a82109ab1e94648d4d3131;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.09.0|2bf4dcb678c04558bb329b5a87c82202431535c2]
 home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4]|RELEASE:[none|none]
