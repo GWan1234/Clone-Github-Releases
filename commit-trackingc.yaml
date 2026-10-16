@@ -174,6 +174,7 @@ DFRobot/DFRobot_RGBPanel: BRANCHES:[master:690f4353b8c9ffcaa96ef4741d8b85081ce3e
 DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37dbc4e6]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Display_V2: BRANCHES:[master:e74752a5e437c747c53950f4bed4434ba4bd445f]|RELEASE:[none|none]
 DFRobot/DFRobot_RTU: BRANCHES:[master:c1478e3ef0e6ea731b9f5bb48d90aa32fe023eca]|RELEASE:[none|none]
+DFRobot/DFRobot_RainfallSensor: BRANCHES:[master:38fea5e02b40a5430be6dab39a99a6f6347d667e]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_A02YYUW: BRANCHES:[master:f6cfe42b121061ee1e95eb63de59fdc91277ec57]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_Expansion_Board: BRANCHES:[master:d83c356e6f2b33b4eee4cc1f3a78ee10006abc5f]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b57325129b6d5;revert-4-lib_support_ubuntu_20-04:7cf3bc880d7afc75a87633d4a06a348179d1b73b]|RELEASE:[none|none]
