@@ -130,6 +130,7 @@ DFRobot/DFRobot_MPX5700: BRANCHES:[master:ce6c5b94e06d2f0519958e83d610095e8566a7
 DFRobot/DFRobot_Maqueenplus: BRANCHES:[master:c5846a62f7ae62bbc98ee5f25a597e3069e47df5]|RELEASE:[none|none]
 DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b64e2542]|RELEASE:[none|none]
 DFRobot/DFRobot_MuVisionSensor: BRANCHES:[master:bfc495c0ed051aec7dd59f660d95f2cbee1dd94c]|RELEASE:[none|none]
+DFRobot/DFRobot_MultiGasSensor: BRANCHES:[main:5b08794160db81db76a7cb5348a8f17784e70cf1]|RELEASE:[none|none]
 DFRobot/DFRobot_MultiTouchPad: BRANCHES:[master:833442f060c51478cc1cbaee74baf0b397bcd9eb]|RELEASE:[none|none]
 DFRobot/DFRobot_NRF24L01: BRANCHES:[master:6301382d381d19de2627b6f14c39d3f083de4002]|RELEASE:[none|none]
 DFRobot/DFRobot_OBLOQ: BRANCHES:[master:205b250fc696d1b93e5359b8d4804c21d0f8cb65]|RELEASE:[none|none]
