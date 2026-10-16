@@ -115,6 +115,7 @@ DFRobot/DFRobot_GP8403: BRANCHES:[master:ec3fce2bb8fae516eea587dc74f2b8f809a002f
 DFRobot/DFRobot_GP8XXX: BRANCHES:[master:0fcd909888f48431420fa23ec56926ca389c9258]|RELEASE:[none|none]
 DFRobot/DFRobot_GR10_30: BRANCHES:[master:9abbfcafb12e03eb6eb175513898f88f2f56aee5]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449]|RELEASE:[none|none]
+DFRobot/DFRobot_GestureFaceDetection: BRANCHES:[master:c23832f835a3bb02e2262fdd8811a4221cd5de3f]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture_Touch: BRANCHES:[main:9c84661b60c6b98977596c6be024fd034d82e805]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture_Touch_old: BRANCHES:[master:8f359ed14d37435674a1a5468b9286f2d6ca9f4e]|RELEASE:[none|none]
 DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4cef8]|RELEASE:[none|none]
