@@ -526,6 +526,7 @@ Kasazaki4090/mt76: BRANCHES:[openwrt-23.05:ad72fb0f8ca4684b17c2bd58fbbcc7e40ec9d
 LeoChen-CoreMind/UDX710-TOOLS: BRANCHES:[main:5d706ae9fcd7b9a1a9e7156ec64aba4bbd13507f;SZ50:ce5ff9585bd868f2023a8605e74beb8f51713cd5]|RELEASE:[V2.3.4|645157b18233ff2e73c4bd62f16fb1346f3ec293]
 MISTERNEGATIVE21/QuectelEC200U: BRANCHES:[main:b97088cfbc8e27ccf3e054cdcca1064864eafea8]|RELEASE:[v4.0.1|b97088cfbc8e27ccf3e054cdcca1064864eafea8]
 MetaCubeX/mihomo: BRANCHES:[Alpha:94b13aed49b8dc41973e4bb3f721c5fa2c5c5c1f;Meta:88dcbf7f1614a67c3b36b848ee3592dfa92ada36;dev-conn-prepare:58c4110b57d2f94867a352a37bc492f896eda5f5;main:008b91bfe8c0e2daca0ab69061efd9ea1ad71bd2;android-real:807d41f57bdd7a9c74e91c978b9551facb211d16;android-open:80fabce99c5ffd8aaa594a7c43ec10aa139eac83;Mitm:a0fd6cfeeab71eb2861f8e8ea672a3091f3642f3;memory:d4e48d709f7185c0c5b809c702fa53f62944e849;dev-refactor-udp:637a8b6ed5eb1e9b63215f84bf8ff0668a57e823;rm:8ff8ddc88f4ccc5405e06c0c4721cb3060ae5d92]|RELEASE:[v1.19.32|88dcbf7f1614a67c3b36b848ee3592dfa92ada36]
+OLIMEX/2WD-CTRL: BRANCHES:[master:c5d01d6b6cfa2b487964d3ac57d7c895c650c9de]|RELEASE:[none|none]
 OLIMEX/A20-CAN: BRANCHES:[master:814c949ccf66dcef14b31112e0f52c8be825a527]|RELEASE:[none|none]
 OLIMEX/Arduino_configurations: BRANCHES:[master:5b7c0c14e77ec81c09ab939b7274a2d7e1fcded6]|RELEASE:[none|none]
 OLIMEX/BB-ADS1220: BRANCHES:[master:20fedb011be4a11f65b5f146d6bc3166edc40d56]|RELEASE:[none|none]
