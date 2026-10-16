@@ -157,6 +157,7 @@ DFRobot/DFRobot_LarkWeatherStation: BRANCHES:[master:da4f0bc35f4a51b3c7201b0998f
 DFRobot/DFRobot_LcdDisplay: BRANCHES:[master:7ab0e6cefd7636e35825bc532a79a54cff8a1087]|RELEASE:[none|none]
 DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd]|RELEASE:[none|none]
+DFRobot/DFRobot_LoRaWAN_ESP32S3: BRANCHES:[master:922dcea5e4dc2b73f91d2c88ba9a983421b47d5b]|RELEASE:[none|none]
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX: BRANCHES:[master:abe0b61a9fe85fe42de951f580bb917b62c8ac3e]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX17043: BRANCHES:[master:14d60b9f8fa2a65937b202eb5abba6e9880328a2]|RELEASE:[none|none]
