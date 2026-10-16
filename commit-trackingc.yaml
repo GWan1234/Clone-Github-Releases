@@ -244,6 +244,7 @@ DFRobot/Tutorial_of_Maqueen_Mechanic_Push_EN: BRANCHES:[master:dc9f13f2a914f7508
 DFRobot/U8g2_Arduino: BRANCHES:[master:42351d05350b5013012a02653f0588f680cd3610]|RELEASE:[none|none]
 DFRobot/URM: BRANCHES:[master:d821744d4e662494089c5794f078d7c6a755f5b2]|RELEASE:[none|none]
 DFRobot/UltraSound-distance-URM37: BRANCHES:[master:ccd58168dc1952c048e832e32b44164bc527f1b0]|RELEASE:[none|none]
+DFRobot/VL53L3CX: BRANCHES:[master:0d083fda40b0b857c83b30b09140dcdffcb84261]|RELEASE:[none|none]
 DFRobot/Visual-Servo-Controller: BRANCHES:[master:0e44dd0b4ac52504f7187f2bf39d364b304f2a41]|RELEASE:[none|none]
 DFRobot/VortexAndroid: BRANCHES:[master:2823a818a3d8b094ee4ba28e1710c79933d72700]|RELEASE:[none|none]
 DFRobot/Waterplantsystem: BRANCHES:[master:5edcef1d6ed9b5c99f5090aae62c518f4ec1ab2b]|RELEASE:[none|none]
