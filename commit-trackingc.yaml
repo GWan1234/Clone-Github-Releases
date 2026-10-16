@@ -35,6 +35,7 @@ DFRobot/DFRobot_BMP280: BRANCHES:[master:8e91480a840bde12e144938597487cf8aab20d3
 DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552db5207363383d1c8e03]|RELEASE:[none|none]
 DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449]|RELEASE:[none|none]
+DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4cef8]|RELEASE:[none|none]
 DFRobot/DFRobot_Heartrate: BRANCHES:[master:3ec109db93f526e1797e36f6e9ce4bf85672459c]|RELEASE:[none|none]
 DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868a79f91]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28]|RELEASE:[none|none]
