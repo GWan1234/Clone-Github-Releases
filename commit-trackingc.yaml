@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 13:32
+commit-tracking: 2026-10-16 13:33
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -74,6 +74,7 @@ DFRobot/Mezzano: BRANCHES:[master:4fbdc7be629eb1da1411b74893cc53c9447cb15f]|RELE
 DFRobot/Mindplus-Desktop: BRANCHES:[master:9864b1e7e180f2386e8d340f4235263bdbdc54ce]|RELEASE:[none|none]
 DFRobot/NFC-module: BRANCHES:[master:98e0ccfe1c42f965e257cea5d4b6f7eb3aa84693]|RELEASE:[none|none]
 DFRobot/NuvotonDuino: BRANCHES:[master:e671d1454c52cbbe16d3390492b9c60b2303f94c]|RELEASE:[none|none]
+DFRobot/Obloq: BRANCHES:[master:4fafba70896ae0956abb2b88a76c0244836730b6]|RELEASE:[none|none]
 DFRobot/POE: BRANCHES:[]|RELEASE:[none|none]
 DFRobot/PlainProtocol: BRANCHES:[master:648ca89119a502b09cf504b8ffd6e274370efb39]|RELEASE:[none|none]
 DFRobot/PulseGlassDemo: BRANCHES:[master:dc7d350e22dcafb6a416d2bffb1f4601e827fc0d]|RELEASE:[none|none]
