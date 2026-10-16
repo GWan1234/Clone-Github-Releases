@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:20
+commit-tracking: 2026-10-16 14:21
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -98,6 +98,7 @@ DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f8
 DFRobot/DFRobot_GP8302: BRANCHES:[master:b579f827e4b9efcf7616ea8e479ccc41582b3999]|RELEASE:[none|none]
 DFRobot/DFRobot_GP8403: BRANCHES:[master:ec3fce2bb8fae516eea587dc74f2b8f809a002fb]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449]|RELEASE:[none|none]
+DFRobot/DFRobot_Gesture_Touch: BRANCHES:[main:9c84661b60c6b98977596c6be024fd034d82e805]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture_Touch_old: BRANCHES:[master:8f359ed14d37435674a1a5468b9286f2d6ca9f4e]|RELEASE:[none|none]
 DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4cef8]|RELEASE:[none|none]
 DFRobot/DFRobot_HX711: BRANCHES:[master:4e5cffa345591d642df0597eca7c23ccef559bc2]|RELEASE:[none|none]
