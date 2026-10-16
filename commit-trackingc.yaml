@@ -403,6 +403,7 @@ DFRobot/ext-oled12864: BRANCHES:[master:0feb58145ba2143d2874640e7097af591618dbf5
 DFRobot/ext-test: BRANCHES:[master:3783868d38291ceecf52d39f3a865398632a5609]|RELEASE:[none|none]
 DFRobot/framework-arduinounihiker: BRANCHES:[master:9fabfd6d6324dbb304ad47947675baf7cf1ab29e]|RELEASE:[none|none]
 DFRobot/k10_base64: BRANCHES:[master:142d504af29a7b4f31bce5d24ee248b8f3ded5c4]|RELEASE:[none|none]
+DFRobot/k230_linux_sdk: BRANCHES:[dev:f2ac83ec6f98104ef2015f12487c15a174bf15fe]|RELEASE:[none|none]
 DFRobot/library-registry: BRANCHES:[main:239975a00b0a829e0c9b12b04ce66267980d3eba]|RELEASE:[none|none]
 DFRobot/liteide: BRANCHES:[master:a48431c0e87ac7824507d6d6f4c446447667ab52]|RELEASE:[none|none]
 DFRobot/maqueen-plus-V1-Tutorial: BRANCHES:[master:c4a9d1bf3fcbed291a8030c2afa48059afbb841a]|RELEASE:[none|none]
