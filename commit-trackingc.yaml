@@ -221,6 +221,7 @@ DFRobot/DFRobot_VisualRotaryEncoder: BRANCHES:[main:9fde2687fd36c06e02be3c37a36a
 DFRobot/DFRobot_VoiceRecorder: BRANCHES:[master:29d123cc416f2097f394290803a871e650d543f2]|RELEASE:[none|none]
 DFRobot/DFRobot_W5100S: BRANCHES:[main:4434374fc17826f52837a9585c2813ebcc9f2f7a]|RELEASE:[none|none]
 DFRobot/DFRobot_WIFI_I0T_Module_STM32: BRANCHES:[master:454e372334eba14ea526050ddc2db31ff84c901b]|RELEASE:[none|none]
+DFRobot/DFRobot_WT61PC: BRANCHES:[master:6ea28a193347c4de07091be7b5aaf6bf706e56ca]|RELEASE:[none|none]
 DFRobot/DFRobot_WiFi_IoT_Module: BRANCHES:[master:d8808ad2c4b40a6658029e9f8c2b9b81c0980092]|RELEASE:[none|none]
 DFRobot/DFRobot_ePaper: BRANCHES:[master:d136eae55f2458666e9f05f92ef0cd221e62ae0c]|RELEASE:[none|none]
 DFRobot/DFRobot_siot: BRANCHES:[master:077e3cc25e447d88f086e4b06f030c73394f148d]|RELEASE:[none|none]
