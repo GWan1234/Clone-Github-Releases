@@ -103,6 +103,7 @@ DFRobot/DFRobot_HMC5883L: BRANCHES:[master:d7f66ea4d6a614d9dfc7f85f3cdf64009bd4c
 DFRobot/DFRobot_HX711: BRANCHES:[master:4e5cffa345591d642df0597eca7c23ccef559bc2]|RELEASE:[none|none]
 DFRobot/DFRobot_HX711_I2C: BRANCHES:[master:65b55c624b58160e211833a42585055c5a278be7]|RELEASE:[none|none]
 DFRobot/DFRobot_Heartrate: BRANCHES:[master:3ec109db93f526e1797e36f6e9ce4bf85672459c]|RELEASE:[none|none]
+DFRobot/DFRobot_I2C_Multiplexer: BRANCHES:[main:818a57db30c137e28d6c9d7b5e93889ff69866cd]|RELEASE:[none|none]
 DFRobot/DFRobot_I2C_Multiplexer_old: BRANCHES:[master:3da89d2b279eb00d0622295c73ee88ac15b19d95]|RELEASE:[none|none]
 DFRobot/DFRobot_ICG20660L: BRANCHES:[master:134c97f640908a1b65072796df984c303fd2ee82]|RELEASE:[none|none]
 DFRobot/DFRobot_ICM42688: BRANCHES:[main:e2c9a0ebe983cb7aa218c1ba19c48c8aac6e8c4d]|RELEASE:[none|none]
