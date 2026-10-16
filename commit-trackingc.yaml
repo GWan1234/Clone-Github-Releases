@@ -529,6 +529,7 @@ MetaCubeX/mihomo: BRANCHES:[Alpha:94b13aed49b8dc41973e4bb3f721c5fa2c5c5c1f;Meta:
 OLIMEX/DuinoMite: BRANCHES:[master:e06ca806e31253cb89f21cc075ef793b72ed3d65]|RELEASE:[none|none]
 OLIMEX/OLINUXINO: BRANCHES:[master:a8672538a650d3a1eb23c11fe9ef594229333232]|RELEASE:[none|none]
 OLIMEX/STM32F4: BRANCHES:[master:47e87bc826042b833a0f38d230af9ac55e701d73]|RELEASE:[none|none]
+OLIMEX/WPC: BRANCHES:[master:21614bb7dae6c60e8c14cd9c2ab1ccc32d458d55]|RELEASE:[none|none]
 OLIMEX/archlinuxarm-olinuxino: BRANCHES:[master:c1da50703674de27697436d4dc9d19cace681fd1]|RELEASE:[none|none]
 OLIMEX/olinuxino-web-io: BRANCHES:[master:61a90b87bbbfe5aa1b8bc8c9d4cea0a4ba2be2df]|RELEASE:[none|none]
 OLIMEX/raspberrypi: BRANCHES:[master:f3786316292a870051134469bdb4ffba4a0cebcf]|RELEASE:[none|none]
