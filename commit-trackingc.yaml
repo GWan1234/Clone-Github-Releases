@@ -133,6 +133,7 @@ DFRobot/DFRobot_utility: BRANCHES:[master:265ff2a69ed12d5105e21916d4cd3cf8ea70e3
 DFRobot/DFSerialChart: BRANCHES:[master:fac822b834c6cfdc3c69e643a55b33fa6cf46551]|RELEASE:[none|none]
 DFRobot/DFUART: BRANCHES:[master:b7241b1f782b674552cf94d30ca06281ccb9ec24]|RELEASE:[none|none]
 DFRobot/DTMF: BRANCHES:[master:c4fb36ace1c380dfb233ec33441d3a3ceb9943a2]|RELEASE:[none|none]
+DFRobot/Display_Brightness_Setting: BRANCHES:[master:c78ee78a55a1ee006164e0c7b49f6f07bc43c8d3]|RELEASE:[none|none]
 DFRobot/EcoDuino: BRANCHES:[master:5c393b7e568b9b444d5fd8ff2f08b4ab76c21697]|RELEASE:[none|none]
 DFRobot/EdisonCloudSoil: BRANCHES:[master:f1ccb78475f93e8f0404eb527067edf9c527f06a]|RELEASE:[none|none]
 DFRobot/FIT0620: BRANCHES:[master:c6752e8b6b5f6841f0806d7b072614618da78d59]|RELEASE:[none|none]
