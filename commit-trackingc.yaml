@@ -159,6 +159,7 @@ DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868
 DFRobot/DFRobot_ISRModule_ESP32S3: BRANCHES:[master:fc3d41222d8ab1c32726d1f7d96b312c16ab7827]|RELEASE:[none|none]
 DFRobot/DFRobot_ITG3200: BRANCHES:[main:0259e832ca9075b6e6902a0875734451293b0658]|RELEASE:[none|none]
 DFRobot/DFRobot_Icon: BRANCHES:[master:8625f5d2ac73075e2810dd01b23b5e25bc3a0af0]|RELEASE:[none|none]
+DFRobot/DFRobot_IntelligentGasSensor: BRANCHES:[official-main:153721a87b49939ac2a53249bcb96b1ccde33555]|RELEASE:[none|none]
 DFRobot/DFRobot_Iot: BRANCHES:[master:a36e39d231ffd3fdddb99bb557072fec554b835a]|RELEASE:[none|none]
 DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588]|RELEASE:[none|none]
 DFRobot/DFRobot_LEDMatrix: BRANCHES:[master:3c9d844079889dbaeb48ba47f073f5470acdf620]|RELEASE:[none|none]
