@@ -28,6 +28,7 @@ DFRobot/DFRobotRomeoBLEMini: BRANCHES:[master:7ebbcb7db105d917c544f607f8bc8c9f63
 DFRobot/DFRobotURM07: BRANCHES:[master:41959bf3ffc72d3818897d6ec83f791a495b0bb1]|RELEASE:[none|none]
 DFRobot/DFRobotVeyronBrushed: BRANCHES:[master:ead629b3116a30456f16b71a2841111cbc211894]|RELEASE:[none|none]
 DFRobot/DFRobotWindowsIoTTempelate: BRANCHES:[master:43d6687840aa8e7340958c479eb7dca4c4b22d74]|RELEASE:[none|none]
+DFRobot/DFRobot_3V-Relay-Module: BRANCHES:[master:6c8a5df66b2f08e758e037e2e546d6c51e01154a]|RELEASE:[none|none]
 DFRobot/DFRobot_AnalogACurrentSensor: BRANCHES:[master:e843cb788ebd77aa2655a60436b16362fb61aa6d]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP280: BRANCHES:[master:8e91480a840bde12e144938597487cf8aab20d33]|RELEASE:[none|none]
 DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552db5207363383d1c8e03]|RELEASE:[none|none]
