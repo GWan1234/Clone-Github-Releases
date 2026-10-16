@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 11:49
+commit-tracking: 2026-10-16 11:51
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 FUjr/QModem: BRANCHES:[stable:2e4c1c80a6d95a525168b888be0c1857e4bd1453;feature/sip-multi-modem:ac7c86063cd701f9f9477fe04a1788de899ce2e5;fix/modem-scand-device-dedup-280:8f48aa90d546defb85110b3708fb3b0870117e83;main:c49654efc870f53712ee8e25bf181722eb1466d9;fix/stable-manufacturer-sync:93567492e1f34b40bc6b6973906d039104889418;fix/manufacturer-options:80486658be0fe272d4238132cd2211d006e54bee;docs/voip-reference:28dbb30e93a41f1759ecbd8b7b4b74d791752c5f;feature/at-response-parser-layer:2fd71057e9cd17ccc4c4d08f244d95af58dc91d9;feat/fixture-multiple-responses:cc7028bca21f792006e030cac97af369aea37a79;fix/snapshot-sdk-and-3.2.0:45a713d37fc6ca599dfe103315e196f3d5399aee]|RELEASE:[v3.3.0|5cc80e5f9fc218cd50bef9749dc7d0027e8b3072]
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10]|RELEASE:[none|none]
@@ -93,9 +93,9 @@ naoki66/Actions-OpenWrt: BRANCHES:[main:b48d82a323e5fff34f8c837d0e132c08a1ca2377
 naoki66/CF-Workers-docker.io: BRANCHES:[main:059ff30b89e564ca07b56a2958821f02e6371391]|RELEASE:[none|none]
 naoki66/CookLikeHOC: BRANCHES:[main:044fcb7b231ae9acbf87ec3b01a32b7f2212e658;vitepress:928c53d3996b4c85278832d9eeda5833cdba7967]|RELEASE:[none|none]
 naoki66/Custom_OpenClash_Rules: BRANCHES:[main:7a76eea88c302a3b3fd63a61cacd19ffb9aaffb2]|RELEASE:[none|none]
-naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:94476aa18f0bb71ea540fedbd9b977b76a3dc066]|RELEASE:[none|none]
+naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:ecc838e778f7fa84c3c3348eadb0cd4501c927ae]|RELEASE:[none|none]
 naoki66/ImmortalWrt-for-Gemtek-XG2010G: BRANCHES:[master:b935a2b940146c228ec0e2d51ae0d52c34e785a3]|RELEASE:[none|none]
-naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:04cc62e8928308598cf2e88bddee37ede658b814]|RELEASE:[20161010-9edfa9e|9edfa9e9444668996c5e820372039d61762fd707]
+naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:04cc62e8928308598cf2e88bddee37ede658b814]|RELEASE:[20261016-04cc62e|04cc62e8928308598cf2e88bddee37ede658b814]
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
 naoki66/MoonTV: BRANCHES:[master:702008e7970a749da539f13c24d63cc8524b6da7;main:791de3bd997d371215a4c2ffcafc22702268ec5d]|RELEASE:[none|none]
 naoki66/OmniBox-Spider: BRANCHES:[main:4491c18eb3f2fb4e0b3d2f7218452afd442e9f92]|RELEASE:[none|none]
@@ -128,6 +128,7 @@ naoki66/node-ws: BRANCHES:[hug:8c2c9dbb59844755e2f04b10243a9af0ee2298b2;main:538
 naoki66/openwrt-daede: BRANCHES:[main:843e43efcc4c1e4e6bb3125112f7391cad4c8777]|RELEASE:[none|none]
 naoki66/openwrt-for-brightspeed-gemtek: BRANCHES:[gemtek-an7581:02fc939ad106b191560f4a1ed1ff0ee0eee262eb;main:ea26a7452dd8f7b485e5432d1ebe85674b099e29]|RELEASE:[none|none]
 naoki66/openwrt-pon-drivers: BRANCHES:[main:e19bde08ac3f3218a783f22165d9a5ded06046d2]|RELEASE:[none|none]
+naoki66/packages: BRANCHES:[miniupnpd-refresh-patches:11ebc02d3914b5b3e05c964ac1d21f7e5b8cd6be;openwrt-24.10:27a0f631a93f63bff9865526a9b4a74a10ca82f5;openwrt-25.12:9bd2f7b757f0e41b628ea6fd7e2659722a720540;master:8d50d4ea3f11eef6f8fcc889cd35ba6fcb530481;openwrt-23.05:a517d8d69255f42f57efa95c41ba9db4022beb79;openwrt-21.02:e09f3c7d1903cfe7f523e209ab3ec778013ba309;openwrt-18.06:15a48bbdb265f0df4f2e517b3b53c1cd00878329]|RELEASE:[none|none]
 naoki66/passwall-packages: BRANCHES:[main:bb4e27cd1ece72751003e87fa4951fe440929aeb]|RELEASE:[none|none]
 naoki66/pon-protocol-essentials: BRANCHES:[main:875927507eafc80ddc68514789fb175daab6aea2]|RELEASE:[none|none]
 naoki66/q1000k-hsgmii-pad: BRANCHES:[master:a9b6a1472a732a34a2d33ec37f6f83191774fa8a]|RELEASE:[none|none]
