@@ -124,6 +124,7 @@ DFRobot/DFRobot_Iot: BRANCHES:[master:a36e39d231ffd3fdddb99bb557072fec554b835a]|
 DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS: BRANCHES:[master:e5972df740e6305a97515f7d99f5fb6ec7823530]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28]|RELEASE:[none|none]
+DFRobot/DFRobot_LSM303: BRANCHES:[master:033ddf66308296dbbe6f6b5b7a7078781b1f666f]|RELEASE:[none|none]
 DFRobot/DFRobot_LWLP: BRANCHES:[master:e3752c82df605320c52d524e850edb44f5c4f02b]|RELEASE:[none|none]
 DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd]|RELEASE:[none|none]
