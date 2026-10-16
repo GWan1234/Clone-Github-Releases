@@ -45,6 +45,7 @@ DFRobot/DFRobot_BMP388: BRANCHES:[master:a904f136ee242f66deb271dc63a54f7985e1609
 DFRobot/DFRobot_BNO055: BRANCHES:[master:f0912c8a47df097c3baa739178cd3f286ace6fe3]|RELEASE:[none|none]
 DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510]|RELEASE:[none|none]
 DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552db5207363383d1c8e03]|RELEASE:[none|none]
+DFRobot/DFRobot_DHT11: BRANCHES:[master:d6de7bd51683eb45c4e7d951e8a7b1ffd254c1b5]|RELEASE:[none|none]
 DFRobot/DFRobot_DS1307: BRANCHES:[master:38a0d9388f91380efc2a84af49873ebc86a31922]|RELEASE:[none|none]
 DFRobot/DFRobot_DigitalPot-100K-: BRANCHES:[master:0beb4a0167a111c5d235165d49b1aae461a4a1e8]|RELEASE:[none|none]
 DFRobot/DFRobot_Display: BRANCHES:[master:8ab880d7374b5f533e05559d21003630418f97a6]|RELEASE:[none|none]
