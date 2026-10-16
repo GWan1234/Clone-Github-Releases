@@ -170,6 +170,7 @@ DFRobot/SEN0259: BRANCHES:[master:0b1ed1dd3a589e8f72a8a5173ee96cb89c23104e]|RELE
 DFRobot/SEN0304: BRANCHES:[master:e50744c9359f258217cf39d9291e5e94c85e42ab]|RELEASE:[none|none]
 DFRobot/STM32: BRANCHES:[master:e499b29b5c0529358c969e87624e5fca16633dd3]|RELEASE:[none|none]
 DFRobot/Shopping_Guide: BRANCHES:[]|RELEASE:[none|none]
+DFRobot/Silly-Maqueen-Makecode: BRANCHES:[master:7dc9721e88282a93ac985852ab2e27fc53877b74]|RELEASE:[none|none]
 DFRobot/Starter-Kit-for-Genuino-101: BRANCHES:[master:34e172acb5d34e3f86c220d0dfae0c9e4bc40c7d]|RELEASE:[none|none]
 DFRobot/TEL0125: BRANCHES:[master:2fcaeb6f73f9736c1375c709ce83359ad41e0faf]|RELEASE:[none|none]
 DFRobot/TestBed: BRANCHES:[master:8364842e5651b408f47a98b8a87359e8184ea357]|RELEASE:[none|none]
