@@ -89,6 +89,7 @@ DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823]|
 DFRobot/DFRobot_PCA: BRANCHES:[master:b2248dfb946218beacfa2c1d6657ad5ea535ba19]|RELEASE:[none|none]
 DFRobot/DFRobot_PCF8591: BRANCHES:[master:f2e5b9c08f210e91c8d3ab93249ee56aef3507e3]|RELEASE:[none|none]
 DFRobot/DFRobot_PH: BRANCHES:[master:43f229a843b89cf20c7e50f8a55410f80050cde0]|RELEASE:[none|none]
+DFRobot/DFRobot_PN532: BRANCHES:[master:f6dc6f0bfec866804e674387dece54e716773a58]|RELEASE:[none|none]
 DFRobot/DFRobot_QMC5883_old: BRANCHES:[master:2439045dd5f901ee3f000ad352e8922f22eeaa7d]|RELEASE:[none|none]
 DFRobot/DFRobot_RGB1602_RaspberryPi: BRANCHES:[master:3279af8e72e6d6401a2a3d981d5390c18d770073]|RELEASE:[none|none]
 DFRobot/DFRobot_RGBLCD: BRANCHES:[master:1b4d3d5c0f28165c1d791e2179e89a8d0d766dd9]|RELEASE:[none|none]
