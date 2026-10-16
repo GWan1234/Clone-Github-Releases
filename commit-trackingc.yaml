@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 15:42
+commit-tracking: 2026-10-16 15:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -626,6 +626,7 @@ OLIMEX/archlinuxarm-olinuxino: BRANCHES:[master:c1da50703674de27697436d4dc9d19ca
 OLIMEX/arm-trusted-firmware-olinuxino: BRANCHES:[master:5ea94b8354d1c32a88a8bfa2eb8037568c711531]|RELEASE:[none|none]
 OLIMEX/at91bootstrap: BRANCHES:[master:5a89d0a2314761d51b2c750592273a0edd3addf8;olimex:35cf06d5021e110d34129542d4561ac6de5a6013;at91bootstrap-3.x:2134e4bf6286d4e9ad77f227128f91ef3e648426;at91bootstrap-3.5.x:8fd947e7a123ccbdfa36704389a42d7b883823b7;android4sam_v3.0:b1b31bc0d73932253c27de0a9ebe55600309ebf7;at91bootstrap-3.1:8e099c3a47f11c03b1ebe5cbc8d7406063b55262]|RELEASE:[none|none]
 OLIMEX/build: BRANCHES:[olimex:7582e3761d55256226f9f6a0465cf7acd3ff26e8;master:6d4b46aa4d2644b17d54b15514f2837d62777591;sunxi_mali:ee2782cf5e036332f83367b22619a3ffeeeff450;olimex-dev:65b712457d14de97216d49f783b0edcf556e5fcf;revert-1-olimex:fe155905ff2cd6968eb38dd5d1a7dcf678022b50;second:ae4f3a3668788a5379bb481afff905ab340cec1e;next:289273203be40595174ef13e2cbf4cc1c435004e]|RELEASE:[none|none]
+OLIMEX/buildroot-imx: BRANCHES:[master:4288e41710962e4a5ffb87c4729fa0ce69062001]|RELEASE:[none|none]
 OLIMEX/ch340-dkms: BRANCHES:[kernel_5.15:f3c3812b3d6b871a7c69589839ee83407a1a8d7d;master:92be890256ca449a1d50c395aee61b38401d7c23]|RELEASE:[none|none]
 OLIMEX/dance_radio: BRANCHES:[master:4ab39ee686b2f936c8e39238dba6bf21d4081f92]|RELEASE:[none|none]
 OLIMEX/eduArdu: BRANCHES:[master:84b12a3d890595e957b45f00c2eda1bcfea5964b]|RELEASE:[none|none]
