@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:34
+commit-tracking: 2026-10-16 14:35
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -279,6 +279,7 @@ DFRobot/Mindplus-Desktop: BRANCHES:[master:9864b1e7e180f2386e8d340f4235263bdbdc5
 DFRobot/NFC-module: BRANCHES:[master:98e0ccfe1c42f965e257cea5d4b6f7eb3aa84693]|RELEASE:[none|none]
 DFRobot/NaturalScience: BRANCHES:[master:058dc52265b9f08153d9deabaa0b3559562e797b]|RELEASE:[none|none]
 DFRobot/Node-RED-dfrobot-lorawan-nodes: BRANCHES:[master:9ddbdcf5387e681cdae50daca05ea31cd397dea3]|RELEASE:[none|none]
+DFRobot/Node-RED-dfrobot_NodeREDComputer: BRANCHES:[master:11efa9a3f4d1e482dfec400a021e55fa48f37a33]|RELEASE:[none|none]
 DFRobot/NuvotonDuino: BRANCHES:[master:e671d1454c52cbbe16d3390492b9c60b2303f94c]|RELEASE:[none|none]
 DFRobot/OBLOQExamples: BRANCHES:[master:6308d98366cc0bf9d24d0cb219eb3e9afb6361ab]|RELEASE:[none|none]
 DFRobot/Obloq: BRANCHES:[master:4fafba70896ae0956abb2b88a76c0244836730b6]|RELEASE:[none|none]
