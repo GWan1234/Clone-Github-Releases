@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 14:54
+commit-tracking: 2026-10-16 14:55
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -48,6 +48,7 @@ DFRobot/DFRobotVeyronBrushed: BRANCHES:[master:ead629b3116a30456f16b71a2841111cb
 DFRobot/DFRobotWindowsIoTTempelate: BRANCHES:[master:43d6687840aa8e7340958c479eb7dca4c4b22d74]|RELEASE:[none|none]
 DFRobot/DFRobot_10DOF: BRANCHES:[master:32d9ca7ca5b5301a1e69aef8d3ae1e860361c0a9]|RELEASE:[none|none]
 DFRobot/DFRobot_3V-Relay-Module: BRANCHES:[master:6c8a5df66b2f08e758e037e2e546d6c51e01154a]|RELEASE:[none|none]
+DFRobot/DFRobot_64xDTOF: BRANCHES:[official_release:c0e1265e8dec5ad2a4236e48a7ab5c715c9bac53;main:c0e1265e8dec5ad2a4236e48a7ab5c715c9bac53]|RELEASE:[none|none]
 DFRobot/DFRobot_AD9837: BRANCHES:[main:f7df73790f3734bb07a9b9875ad03ca8100fd748]|RELEASE:[none|none]
 DFRobot/DFRobot_ADS1115: BRANCHES:[master:6d3df78d29693bf9e245a223afe0443406bd2980]|RELEASE:[none|none]
 DFRobot/DFRobot_ADS1115_0_10V: BRANCHES:[master:635e617a70a96a877a4eb642b82025dff9f1f0c8]|RELEASE:[V1.0.2|635e617a70a96a877a4eb642b82025dff9f1f0c8]
