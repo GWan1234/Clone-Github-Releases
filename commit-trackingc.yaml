@@ -111,6 +111,7 @@ home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;re
 home-assistant/plugin-audio: BRANCHES:[master:24fb90806f3716e110a9ac53cda7757050ea16b7]|RELEASE:[2026.08.0|7ff9d92be4efb160d1dbedaff5c124f73f6449d8]
 home-assistant/plugin-cli: BRANCHES:[master:b79b8859fc7c6c705ca92ae363c351606f82576a]|RELEASE:[2026.09.0|a0a9ecec5753f82d3e68a48e5cab51138a7f041b]
 home-assistant/plugin-dns: BRANCHES:[master:caff8d86db6d466728a82109ab1e94648d4d3131;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.09.0|2bf4dcb678c04558bb329b5a87c82202431535c2]
+home-assistant/plugin-multicast: BRANCHES:[master:0b130633b1d75590f0f48cf51948f9ee56899d52;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.08.0|5122ca8da85c08da1b459c479757d75b57ab97a3]
 home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4]|RELEASE:[none|none]
 home-assistant/pyharmony: BRANCHES:[websockets:31efd339a3c39e7b8f58e823a0eddb59013e03ae;Make-async:360698189e5f036364b5c115c97d10434dbc4236;master:cb934c609fd262b5ad3c31b27ba44c2d6489b43a]|RELEASE:[none|none]
 home-assistant/python-openzwave: BRANCHES:[hass:c3d2a81ae00becc6f0880a9e6929fa9f949a429d;gh-pages:33681c019a485693a7c0e1a6fe067f9486ce2a75;master:cdae95f601fef9a935903906eb02e1d9e4f702d1]|RELEASE:[none|none]
