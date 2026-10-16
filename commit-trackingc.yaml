@@ -72,6 +72,7 @@ DFRobot/DFRobot_BMM350: BRANCHES:[master:1b58676b3f99b28c90feaf5aad3777e6921cc1e
 DFRobot/DFRobot_BMP280: BRANCHES:[master:8e91480a840bde12e144938597487cf8aab20d33]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP388: BRANCHES:[master:a904f136ee242f66deb271dc63a54f7985e16091]|RELEASE:[none|none]
 DFRobot/DFRobot_BMP3XX: BRANCHES:[master:157f8d9b2fc6427db49a44eaa8fae6ab5beb8533]|RELEASE:[none|none]
+DFRobot/DFRobot_BMV080: BRANCHES:[master:986c1a9b3cb795f2e9d413603e8bb39701889cdb]|RELEASE:[none|none]
 DFRobot/DFRobot_BMX160: BRANCHES:[master:ed616cff2c8c54e1e3e867fec7ee438e9b06ffa0]|RELEASE:[none|none]
 DFRobot/DFRobot_BNO055: BRANCHES:[master:f0912c8a47df097c3baa739178cd3f286ace6fe3]|RELEASE:[none|none]
 DFRobot/DFRobot_BT401: BRANCHES:[master:239aca7b14b887ddb7272c63f0e20e670b5db913]|RELEASE:[none|none]
