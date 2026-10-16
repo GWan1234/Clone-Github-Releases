@@ -65,6 +65,7 @@ DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552d
 DFRobot/DFRobot_DF1101S: BRANCHES:[master:3fa432fa5618776c606b7868dc02b88d1083498f]|RELEASE:[none|none]
 DFRobot/DFRobot_DF1201S: BRANCHES:[master:9c756dc62a95807c20897020c3c7fe5fa6fec440]|RELEASE:[none|none]
 DFRobot/DFRobot_DHT11: BRANCHES:[master:d6de7bd51683eb45c4e7d951e8a7b1ffd254c1b5]|RELEASE:[none|none]
+DFRobot/DFRobot_DHT20: BRANCHES:[master:af63fb5ccb0f25dee4fc33739d0c236a70547444]|RELEASE:[none|none]
 DFRobot/DFRobot_DS1307: BRANCHES:[master:38a0d9388f91380efc2a84af49873ebc86a31922]|RELEASE:[none|none]
 DFRobot/DFRobot_DS3231M: BRANCHES:[master:4a4fbe60cc4a0f152271f34e5bec450de483251d]|RELEASE:[none|none]
 DFRobot/DFRobot_DS323X: BRANCHES:[master:bb0229d2d62fd578dfb9f009dea59d3102669bc5]|RELEASE:[none|none]
