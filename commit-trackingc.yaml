@@ -84,6 +84,7 @@ DFRobot/Windows-10-IoT-text-code: BRANCHES:[master:a98a23bd192386b8f4b8539b830fc
 DFRobot/WindowsIoT: BRANCHES:[master:c8eb2b75dcac6794bdc11a4b71e5fe24079f465d;Waterplantsystem:e2adbc25bc96bc6db5d5a0e303da06aaece91308;fork:056de85eff28c8d0b208fb1149e7bb9ea1a49e94]|RELEASE:[none|none]
 DFRobot/arduino-projects: BRANCHES:[master:142df7909715792727c975ed7760b719c20887af]|RELEASE:[none|none]
 DFRobot/liteide: BRANCHES:[master:a48431c0e87ac7824507d6d6f4c446447667ab52]|RELEASE:[none|none]
+DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8]|RELEASE:[none|none]
 DFRobot/preferences.txt-for-adruino-ide: BRANCHES:[master:dfd2bb39c4188540fcd55f23b0f38836a637a2e8]|RELEASE:[none|none]
 DFRobot/print-manager: BRANCHES:[add-overlord:5e6385f34c3f0838bb256df57dfedfedc7c16f8d;sandbox:49ba4d16179cda096836a67bbff9989674ce0298;master:905564e90fa3fa81610f54fc4258f41d11eb6655;addMakerBot2x:fc58931485219baab783cded8e114d7a188468b5;addPrinterBot:13c95daf51883f8d3cc2fa2841a8bc61bfb15fe8]|RELEASE:[none|none]
 DFRobot/print-studio-local-test: BRANCHES:[master:0fac5448488a560aaa0b11d16605feaaee476c54]|RELEASE:[none|none]
