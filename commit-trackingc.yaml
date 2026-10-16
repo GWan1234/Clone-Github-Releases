@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-16 13:57
+commit-tracking: 2026-10-16 13:58
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
 DFRobot/4Drawing: BRANCHES:[master:a20504e300aa093bc991af03daa8c2a75640541f]|RELEASE:[none|none]
@@ -78,6 +78,7 @@ DFRobot/DFRobot_INA219: BRANCHES:[master:804e82702ff852bb549e88178f8c0ae76bfe273
 DFRobot/DFRobot_IRDM_Sensor: BRANCHES:[master:6b433fab31d3c0f4e70e338889d1e8b868a79f91]|RELEASE:[none|none]
 DFRobot/DFRobot_L218: BRANCHES:[master:a70ee09db5f0be878a1696582200c707bdf95588]|RELEASE:[none|none]
 DFRobot/DFRobot_LIS2DH12: BRANCHES:[master:650df6a53946c3a81ed702a70efe91cf99b5fd28]|RELEASE:[none|none]
+DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd]|RELEASE:[none|none]
 DFRobot/DFRobot_Lora: BRANCHES:[master:20157cc1c24448ef87d812c72c79c0b6f38510c6]|RELEASE:[none|none]
 DFRobot/DFRobot_MAX: BRANCHES:[master:abe0b61a9fe85fe42de951f580bb917b62c8ac3e]|RELEASE:[none|none]
