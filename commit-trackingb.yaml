@@ -601,6 +601,7 @@ adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: BRANCHES:[master:b6d6ea8721c3660aef
 adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: BRANCHES:[master:5d9281aebe826950512105acbb304bf30f5d0540]|RELEASE:[none|none]
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de]|RELEASE:[none|none]
+adafruit/Adafruit-CAP1188-PCB: BRANCHES:[master:cf65678210cb9bc8a792efa091d49082e4ad6a2b]|RELEASE:[none|none]
 adafruit/Adafruit-CC3000-Breakout-PCB: BRANCHES:[master:85e69770538f91498fa18eec89245c2f9de09d5a]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-Fingerprint-Sensor-Library: BRANCHES:[master:b5de3ff6b430922d702db76e0c9ce29200c06d34;gh-pages:eba311f02e1dffd1b4375db6bf36403b2d426026;fix-ci:e9ef326a1e4dadf3f29a36bc86a3752693ab9c79;refactor_grow:7a478bd86408ee8c1fc83a0ebf6c94c8d24aad9a;actionci:ae839a30bff3c7d22a88d54b9497085c1bcbbbca]|RELEASE:[2.1.4|b5de3ff6b430922d702db76e0c9ce29200c06d34]
