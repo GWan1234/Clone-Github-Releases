@@ -679,6 +679,7 @@ adafruit/Adafruit-Pi-Finder: BRANCHES:[v4:329847e9ba2539654a6e658568a058daf42e0c
 adafruit/Adafruit-Pi-Kernel-o-Matic: BRANCHES:[pitft:877272efc6546d01e8ee346abace59313c0fdfa3;mkknlimg:c87e9b7f48fb8088be055fc2221226effce388ae;master:c9df7d7712b022d542d36fba8a44d1bc01136c75]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB: BRANCHES:[master:8461d91e9c2a485d83ba2c7e3a984a1c105fe1d6]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Helper: BRANCHES:[master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;wheezy:da1641a7ade7446272df2781ea8fba42abbadefe]|RELEASE:[none|none]
+adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-500-Basic-PCB: BRANCHES:[master:ce7199be2eb4bc33deb4a0a9f407b9dc05df20ea]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-500-Charger-PCB: BRANCHES:[master:68258d7d14932951b72911ef3be3c1138dce2d6c]|RELEASE:[none|none]
 adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a]|RELEASE:[none|none]
