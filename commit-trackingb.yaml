@@ -953,6 +953,7 @@ adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: BRANCHES:[master:e2b12428c08d
 adafruit/USB-NeXT-Keyboard: BRANCHES:[master:332d2707793794d897ae3548a2eedd726c46e329]|RELEASE:[none|none]
 adafruit/USB-Power-Gauge: BRANCHES:[master:4072a6d4c0e282fd573cf8be6f2c4a1dbb3f91b4]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
+adafruit/Uncanny_Eyes: BRANCHES:[master:d2103e84aa33da9f6924885ebc06d880af8deeff]|RELEASE:[none|none]
 adafruit/adafruit-arduino-proxy: BRANCHES:[master:266ea574635b0fcc0416c68ab918f2c275ad665e]|RELEASE:[none|none]
 adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:8e0a83c88a1fe1b99d8d7e39b21baf4a635cc36b;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5]|RELEASE:[1.2.5|8e0a83c88a1fe1b99d8d7e39b21baf4a635cc36b]
 adafruit/adafruit-io-basics: BRANCHES:[master:a00668a326f1e83d40a2281af3574021fa79eddd]|RELEASE:[none|none]
