@@ -576,6 +576,7 @@ Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:e560788716ed2d9b221a7b8176eb82e57615d185]|RELEASE:[none|none]
+adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51bd16cd17286410]|RELEASE:[none|none]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
