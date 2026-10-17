@@ -707,6 +707,7 @@ adafruit/Adafruit_CC3000_Library: BRANCHES:[master:3327fd02c33703a5d5fe50672336e
 adafruit/Adafruit_CC3000_Shield_PCB: BRANCHES:[master:a71c0cc10eed4df29f471f94e1aeac4f31d22bba]|RELEASE:[none|none]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Adafruit_DHT_Unified: BRANCHES:[master:67b98789e89a63bb4e95b748578436ce954b03d1]|RELEASE:[1.0.0|296983cb209bb9b9e4f02536cbdde6bce41d80c2]
+adafruit/Adafruit_DRV2605_Library: BRANCHES:[master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d]|RELEASE:[1.2.4|b910b1631cf0179152261afe8072aeeada40629b]
 adafruit/Adafruit_DS2413: BRANCHES:[master:a044150b7fd3a57d3e0123b154df27d782edc3f5]|RELEASE:[none|none]
 adafruit/Adafruit_DotStar: BRANCHES:[master:0acd031b27ace1df0222c66991ee3a4bac806313;gh-pages:6f724a10476fbc9004d935fa0183187523f5660f]|RELEASE:[1.2.5|0acd031b27ace1df0222c66991ee3a4bac806313]
 adafruit/Adafruit_DotStar_Pi: BRANCHES:[master:5477937908f2cb4dc2d6cdc04c1ffb0213326dc3]|RELEASE:[none|none]
