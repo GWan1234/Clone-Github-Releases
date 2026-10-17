@@ -1409,6 +1409,7 @@ adafruit/rayshobby-hid-serial-trinket: BRANCHES:[master:282903bdcb78856a5fe74fb0
 adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a215]|RELEASE:[none|none]
 adafruit/rosie-ci: BRANCHES:[master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef]|RELEASE:[none|none]
 adafruit/rpi-fb-matrix: BRANCHES:[master:356141f60ff31db795ee128f4256b31bf45f3a43]|RELEASE:[none|none]
+adafruit/rpi-fbcp: BRANCHES:[master:3a136f2d9803d5b293f6221cc7e3dec03a138648;gh-pages:e7f27e8db151b5c9aba2599537d1ff959fb2d2dd]|RELEASE:[none|none]
 adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492]|RELEASE:[none|none]
 adafruit/rpi-rgb-led-matrix: BRANCHES:[master:8c8af1cc135a767d7cb58be2604bb0846670db99]|RELEASE:[none|none]
 adafruit/scale: BRANCHES:[gh-pages:a9416b52382fcf49ee9b8515be71c65183121622]|RELEASE:[none|none]
