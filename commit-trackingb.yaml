@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 11:00
+commit-tracking: 2026-10-17 11:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1228,6 +1228,7 @@ adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RE
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49]|RELEASE:[none|none]
 adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e773eecd7ad0b1e13]|RELEASE:[1.0|8edb1e97ef93959ac9f6975f0948e33d2424355e]
 adafruit/micropython-adafruit-bitmap-font: BRANCHES:[master:bf04e0b2abba6570d7d27b58b3295ca519838d74]|RELEASE:[2.0.1|905b18fa7d74a51872ad146544a6afb00dddf08a]
+adafruit/micropython-adafruit-gfx: BRANCHES:[master:878b87ed490e3813b4bd7519da5f74ba83e2a8cd]|RELEASE:[2.0|14cf738ad3bef6ed9134de46a958e96f0c408809]
 adafruit/micropython-adafruit-is31fl3731: BRANCHES:[master:0037ebc519ba3ffb29d556868e75718f4966dd39]|RELEASE:[1.0.1|4e0000bde0e55db93653b583322de722c9fc2d74]
 adafruit/micropython-adafruit-max7219: BRANCHES:[master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062]|RELEASE:[1.0|1606b2ad3e47b349e21acbe4752e51aec6d874dd]
 adafruit/micropython-adafruit-pca9685: BRANCHES:[master:0fea2736f99a2840f0d644be866f6abd5bc14b48]|RELEASE:[1.1.1|d887b1ac509011d8fb861118e6bcaa4219143470]
