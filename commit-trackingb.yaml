@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 14:58
+commit-tracking: 2026-10-17 14:59
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -655,6 +655,7 @@ adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1
 adafruit/Adafruit-Animated-Eyes-Bonnet-PCB: BRANCHES:[master:e28ffce0e3b88679aefb5901f7fa6e0b5559f853]|RELEASE:[none|none]
 adafruit/Adafruit-Arcade-Bonnet-PCB: BRANCHES:[master:20446a9dc6a3f9b86abfc56c499863b030211beb]|RELEASE:[none|none]
 adafruit/Adafruit-Audio-FX-Sound-Board-PCBs: BRANCHES:[master:378d5c6b68a12f1ec56110df7422b18ddeafe679]|RELEASE:[none|none]
+adafruit/Adafruit-BH1750-PCB: BRANCHES:[main:0b61eb2c8c54254a5685adc044fbf7c5ab968e56]|RELEASE:[none|none]
 adafruit/Adafruit-BME280-Breakout-PCB: BRANCHES:[master:93e2b97928ba906ba19b265e9f2d0024d29472f0]|RELEASE:[none|none]
 adafruit/Adafruit-BME680-PCB: BRANCHES:[master:2d1e857d88c157422347d2568fdfcd76155c1997]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
