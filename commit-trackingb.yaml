@@ -921,6 +921,7 @@ adafruit/Adafruit-Trinket-PCB: BRANCHES:[master:3a2695463e52f72434d20daca6502fc6
 adafruit/Adafruit-Trinket-USB: BRANCHES:[master:51f208bc569dd79d7357f16d548ed0c43f4927e8;experimental-update-jan31-2014:da4d1b515a725f90208462f4d4a018f6391678bf]|RELEASE:[none|none]
 adafruit/Adafruit-Tweet-Receipt: BRANCHES:[master:531f248c298479a2c5b570877ca5e2d97822e74d]|RELEASE:[none|none]
 adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: BRANCHES:[master:e836025c26c8dcfa3fab3e9aa7756542770f4849]|RELEASE:[none|none]
+adafruit/Adafruit-USB-C-Downstream-Breakout: BRANCHES:[master:1484ecb56b369e177848e69de4b7b7e513399590]|RELEASE:[none|none]
 adafruit/Adafruit-USB-DC-LiPoly-Charger: BRANCHES:[master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Isolator-PCB: BRANCHES:[master:826956acd5fa3ed2c04f8f39ebb1be42f8f25854]|RELEASE:[none|none]
 adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB: BRANCHES:[master:e8bcaf9566ca85bc555d8c7c849adb473948dc5f]|RELEASE:[none|none]
