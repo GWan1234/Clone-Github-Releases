@@ -1259,6 +1259,7 @@ adafruit/Cyber_Flower: BRANCHES:[master:70213348355adcf66542522b56580ca9d3805c70
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec]|RELEASE:[1.4.7|f7d625462e6033f373e51f8c67f88fc429535b47]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6]|RELEASE:[none|none]
+adafruit/DotStar-2020-8x8-Matrix-PCB: BRANCHES:[master:40f15689e170cea4bffe8427b758e0617109e5db]|RELEASE:[none|none]
 adafruit/DotStarDemo: BRANCHES:[master:5169592fa88f9c18165a20983030298541768506]|RELEASE:[none|none]
 adafruit/DotStarPiPainter: BRANCHES:[master:71df036fef22e8c70a1173bf0d216fd252d81fc6]|RELEASE:[none|none]
 adafruit/ESP8266_MicroPython_Holiday_Lights: BRANCHES:[master:2e5e03a8ff662a9b74ac8ce2f5ff4380f07cc4ee]|RELEASE:[none|none]
