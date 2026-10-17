@@ -975,6 +975,7 @@ adafruit/Adafruit_AS726x: BRANCHES:[master:a935de63411bd93e5d8fdff790c1dcd9c15d4
 adafruit/Adafruit_ASFcore: BRANCHES:[master:99f9be5465caad6e368102b5465b30aa9b07a26e]|RELEASE:[none|none]
 adafruit/Adafruit_Adalink: BRANCHES:[master:071ee995192a673bef2262bfc3aaae9b6195f4e2]|RELEASE:[2.3.0|396e7b355f8720b10f0883d3a95ddc3c91859066]
 adafruit/Adafruit_Android_BLE_UART: BRANCHES:[master:68c686575a307eaaa88ce76886f304779bd29690]|RELEASE:[none|none]
+adafruit/Adafruit_Arcada_GifDecoder: BRANCHES:[master:4a89573f559bf320e5786bd8a46068cc93e7e0ff;gh-pages:f882a270d146e8a398d91c89a47dedaf65dc05cc]|RELEASE:[1.3.3|4a89573f559bf320e5786bd8a46068cc93e7e0ff]
 adafruit/Adafruit_Arduino_Boards: BRANCHES:[master:3751f438bb2cff9b5970d1056c4a2e91876a93f0;add-wire-end:7157b88f4a683aa069d877b217f96c1063df01aa;refactor:f4e274f512f9def3b537ec98a76313e8229bf769]|RELEASE:[1.4.15|3751f438bb2cff9b5970d1056c4a2e91876a93f0]
 adafruit/Adafruit_Arduino_OpenPixelServer: BRANCHES:[master:d72678e9b6c2d9564224fb2c35fc85250457494c]|RELEASE:[none|none]
 adafruit/Adafruit_Atmega32u4_Breakout_Board: BRANCHES:[master:95a296a2957c41f86e3013eb707e21c7b2db7678]|RELEASE:[none|none]
