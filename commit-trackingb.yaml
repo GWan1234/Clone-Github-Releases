@@ -727,6 +727,7 @@ adafruit/SD: BRANCHES:[master:041f788250d00157918e073825e35603e1ac3cbd]|RELEASE:
 adafruit/SD-Basic-GPS-logger: BRANCHES:[master:31fba7bd11831064ddabea46626f2acf97a3c7b6]|RELEASE:[none|none]
 adafruit/SD-card-testing-jig: BRANCHES:[master:823b68201f1215d345dc6af727399f021bfddb9b]|RELEASE:[none|none]
 adafruit/SDWebBrowse: BRANCHES:[master:429f394ac41bf7cce3d8d2dd8f0943ee986c5d76]|RELEASE:[none|none]
+adafruit/SPI-Neopixel: BRANCHES:[master:463c18bce55b07924e7fb3b397f33faad1dadebf]|RELEASE:[none|none]
 adafruit/SPI_VFD: BRANCHES:[master:69e0f7f4105c535b182f41514e6674a396b32acc;gh-pages:80db41da6b1cedd72ab2a4d477edc98a6af0cee9]|RELEASE:[1.1.4|69e0f7f4105c535b182f41514e6674a396b32acc]
 adafruit/ST7565-LCD: BRANCHES:[master:d40d9d832be8a6ce26d6462e85de3dcf439942fc]|RELEASE:[none|none]
 adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e91a541ee3d0]|RELEASE:[none|none]
