@@ -596,6 +596,7 @@ adafruit/Adafruit-GFX-Library: BRANCHES:[master:9b7f8ef181170cc5363c194dd7ffa16e
 adafruit/Adafruit-Graphic-VFD-Display-Library: BRANCHES:[master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34]|RELEASE:[1.1.2|f35ecfb8399b713541fd54fd1276145dacd3cc40]
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
+adafruit/Adafruit-INA219-Current-Sensor-PCB: BRANCHES:[master:f7ef6a540648572549d64ff2b9b1932f17173e40]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: BRANCHES:[master:b89ffa961067cb959deff9eae264a017a2650539]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpacks: BRANCHES:[master:a58b392b20838c60256d767576a823a6984f7284]|RELEASE:[none|none]
