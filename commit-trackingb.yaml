@@ -789,6 +789,7 @@ adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB: BRANCHES:[master:b099d41a3fb4c
 adafruit/Adafruit-TPA2016-Library: BRANCHES:[master:17d1a6cf3f423952c0b07518e9ef46a2476bf8df;gh-pages:afa1d75e70fc71c5a16bfa92ab1aeae44bff55b2;actionci:baa74d30398e9e536cf6bf3c6bde0fb7e07718be]|RELEASE:[1.2.2|17d1a6cf3f423952c0b07518e9ef46a2476bf8df]
 adafruit/Adafruit-TPA2016-PCB: BRANCHES:[master:cad449b53378a89066d524a24f085207d74faf06]|RELEASE:[none|none]
 adafruit/Adafruit-TSL2591-Breakout-PCB: BRANCHES:[master:22be4c7b8d53155dacedc18f3373ba8dbf95dc23]|RELEASE:[none|none]
+adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB: BRANCHES:[master:0dcd9500672a5b6ab652f9cbf9e01bccdd6a31b6]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
 adafruit/Adafruit-Talking-Clock: BRANCHES:[master:0b87769fcd721489e0e00bf42d8d75846296e5fb]|RELEASE:[none|none]
 adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB: BRANCHES:[master:e5267e93a24939f5f07c1e0ae2910dcc9821bb35]|RELEASE:[none|none]
