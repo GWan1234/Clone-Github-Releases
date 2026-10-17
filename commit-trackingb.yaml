@@ -724,6 +724,7 @@ adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
 adafruit/ArduinoISP: BRANCHES:[master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685]|RELEASE:[none|none]
 adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859]|RELEASE:[none|none]
+adafruit/Bluefruit_LE_Connect: BRANCHES:[master:4721ec20245598fdb107f89b089f06671dc490f4]|RELEASE:[none|none]
 adafruit/CC3000_MDNS: BRANCHES:[master:acb2a96f2232effd9ad2fb833b332c60e03d9091]|RELEASE:[1.0.0|2dc142ab771137d532e1c375f92d8009e0bfd0d3]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82]|RELEASE:[none|none]
 adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410]|RELEASE:[none|none]
