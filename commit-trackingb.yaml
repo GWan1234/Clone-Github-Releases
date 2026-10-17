@@ -1319,6 +1319,7 @@ adafruit/Twitch-API-Examples: BRANCHES:[master:7c7b493f9f28fc74958cdc1d700e6adfc
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: BRANCHES:[master:e2b12428c08d286dc9f568c8117f6e77986ef0ab]|RELEASE:[none|none]
 adafruit/USB-NeXT-Keyboard: BRANCHES:[master:332d2707793794d897ae3548a2eedd726c46e329]|RELEASE:[none|none]
 adafruit/USB-Power-Gauge: BRANCHES:[master:4072a6d4c0e282fd573cf8be6f2c4a1dbb3f91b4]|RELEASE:[none|none]
+adafruit/USBHost_t36: BRANCHES:[master:ae1061ea503a96cae1cc0cd256c91ff1d08afd6d;my_generic_usb:c6515c7c5e8f484482b1c776ef48e79a533a14ad]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
 adafruit/Uncanny_Eyes: BRANCHES:[master:d2103e84aa33da9f6924885ebc06d880af8deeff]|RELEASE:[none|none]
 adafruit/WINC1500_Atmel_Serial_Bridge: BRANCHES:[19.4.4:9effa70a7c3ed1dce16d375859235947b7e6a303;master:9f7af5dad2c496df7caa6bda82e17af804216772]|RELEASE:[none|none]
