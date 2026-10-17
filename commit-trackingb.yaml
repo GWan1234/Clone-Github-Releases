@@ -797,6 +797,7 @@ adafruit/TSL2561-Arduino-Library: BRANCHES:[master:fea818e44a77122d31c5f79e373d3
 adafruit/TSL2561-breakout-board-PCB: BRANCHES:[master:d949119f096adcdd69122fa0ae8a410190f3239d]|RELEASE:[none|none]
 adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da87]|RELEASE:[none|none]
 adafruit/Talkie: BRANCHES:[master:513c507b5289868ce0cfabf21d4920b93fc32070]|RELEASE:[none|none]
+adafruit/TeeOnArdu: BRANCHES:[master:29ad8742eaa81aa76ed1c73be77ef67e4432db83;30pins:5946367beec54ac208f16840dfca701a66502225]|RELEASE:[none|none]
 adafruit/Thermistor-test: BRANCHES:[master:decc864620a95bb15ae20fce10af666b1656ff03]|RELEASE:[none|none]
 adafruit/TinyDHT: BRANCHES:[master:a900d69aa4c0b9df7053c026e8b843373e80d5b0;gh-pages:507c925f2dcf0224ae19e9d96b9c7b0b0aee4609]|RELEASE:[1.1.2|a900d69aa4c0b9df7053c026e8b843373e80d5b0]
 adafruit/TinyLiquidCrystal: BRANCHES:[master:cb439bd5a56950609a20a15ad7977adb1796b9d8;gh-pages:c97aedb557950943707664f3b7e803964d918962;actionci:de1909013991b0ae9adab7e917dd09816f8faefb]|RELEASE:[1.2.2|cb439bd5a56950609a20a15ad7977adb1796b9d8]
