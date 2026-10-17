@@ -633,6 +633,7 @@ adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38]|RELEASE:[none|none]
 adafruit/Adafruit-ADT7410-PCB: BRANCHES:[master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41]|RELEASE:[none|none]
 adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB: BRANCHES:[master:765d4e303830c064a426bf57dccdb68e05473a36]|RELEASE:[none|none]
+adafruit/Adafruit-AHT20-PCB: BRANCHES:[master:6188da253330968dfac1ca1ff0389cd8942c50bb]|RELEASE:[none|none]
 adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB: BRANCHES:[master:7075f89067dfed503101a3414c45d55e9ab80444]|RELEASE:[none|none]
 adafruit/Adafruit-AMG8833-Breakout-PCB: BRANCHES:[master:3e5dd5f7bc0ed9e6ca07226eaa56b04bbe408489]|RELEASE:[none|none]
 adafruit/Adafruit-APDS9960-Breakout-PCB: BRANCHES:[master:23880074d26df8524399f323e016680ad82dc69f]|RELEASE:[none|none]
