@@ -641,6 +641,7 @@ adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46
 adafruit/Adafruit-Adalogger-FeatherWing-PCB: BRANCHES:[master:28ea68d9ffa6d51690195bf295ecfa656ab45f18]|RELEASE:[none|none]
 adafruit/Adafruit-AirLift-Breakout-PCB: BRANCHES:[master:821189f7f9160b896a46bf6e239c8a0262ba1a46]|RELEASE:[none|none]
 adafruit/Adafruit-AirLift-FeatherWing-PCB: BRANCHES:[master:c8631c7eeed9f69f61403827fa0e0d247da1ea8e]|RELEASE:[none|none]
+adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB: BRANCHES:[master:e865b846cad8b220f4c14781b5a82e452e0712bc]|RELEASE:[none|none]
 adafruit/Adafruit-Airlift-Shield-PCB: BRANCHES:[master:2f39914e1258ad189924d53cba77aa766780e73a]|RELEASE:[none|none]
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1bc2717aa0a4d334c16a64d9]|RELEASE:[none|none]
 adafruit/Adafruit-Animated-Eyes-Bonnet-PCB: BRANCHES:[master:e28ffce0e3b88679aefb5901f7fa6e0b5559f853]|RELEASE:[none|none]
