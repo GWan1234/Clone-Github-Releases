@@ -732,6 +732,7 @@ adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c9
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336]|RELEASE:[none|none]
 adafruit/IRKey: BRANCHES:[master:44ea72a1142ae43aea40ccf8c77d674704ffc945]|RELEASE:[none|none]
 adafruit/Ice-Tube-Clock: BRANCHES:[master:df64981f389418ee562fef81f0daa5cc06c18018;GPS:9d5e87a7ab6c68f822207db36cf53191f3f922ca]|RELEASE:[none|none]
+adafruit/Kegomatic: BRANCHES:[master:7b37465d7b0e417b37a5906838f315936828fa66;olgas-pi:0fa36b903ca22654ea0ed50336a1caded1aa9753]|RELEASE:[none|none]
 adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44]|RELEASE:[none|none]
 adafruit/LED-Ampli-Tie-with-Flora: BRANCHES:[master:2449eaa274f1f3ea5f234367b8c5086b67c10b43]|RELEASE:[none|none]
 adafruit/LPD6803-RGB-Pixels: BRANCHES:[master:e5d3a2a55a8ee7e417e1e03dd5593530f0265eab;gh-pages:080ce20cc5b7ff32b1964190ec17423152656ec0]|RELEASE:[1.1.2|e5d3a2a55a8ee7e417e1e03dd5593530f0265eab]
