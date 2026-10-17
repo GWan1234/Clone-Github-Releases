@@ -596,6 +596,7 @@ adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab
 adafruit/Adafruit-2.8-TFT-Shield-v2-PCB: BRANCHES:[master:607bcb39927756fdf6f26de358471e876bbd9bbf]|RELEASE:[none|none]
 adafruit/Adafruit-40-pin-TFT-Friend: BRANCHES:[master:f9efc2816b9a4665d219ac4bde7d5dddc7d82945]|RELEASE:[none|none]
 adafruit/Adafruit-5-HDMI-Backpack-PCB: BRANCHES:[master:906e152b9ae9eea91dbcb699fe88c4e1909339b5]|RELEASE:[none|none]
+adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing: BRANCHES:[master:b4883693227a02cd6affefb6ecc7a748b8150883]|RELEASE:[none|none]
 adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596a012c2f9534be54a63]|RELEASE:[none|none]
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38]|RELEASE:[none|none]
