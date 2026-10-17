@@ -615,6 +615,7 @@ adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:5cab
 adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: BRANCHES:[master:32578c83a5ba2946249b80b1aa1fb18ae4e61e7d]|RELEASE:[none|none]
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: BRANCHES:[master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3]|RELEASE:[none|none]
 adafruit/Adafruit-16x2-LCD-Pi-Plate: BRANCHES:[master:86e06995a3c9cb201593b17dafc09ee5752a016a]|RELEASE:[none|none]
+adafruit/Adafruit-2.0-inch-240x320-TFT-PCB: BRANCHES:[master:9804ed3f84ab9b4547706bc13a467492435a60f4]|RELEASE:[none|none]
 adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab65d5afca]|RELEASE:[none|none]
 adafruit/Adafruit-2.4-TFT-Breakout-PCB: BRANCHES:[master:62eaf05ad6ead75f2da987f2ff7ed994c02869c7]|RELEASE:[none|none]
 adafruit/Adafruit-2.4-TFT-FeatherWing-PCB: BRANCHES:[master:7db81bbb064e1e703423beb6f8e4dbf9b7272879]|RELEASE:[none|none]
