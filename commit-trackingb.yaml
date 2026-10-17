@@ -1166,6 +1166,7 @@ adafruit/CircuitPlaygroundFirmata: BRANCHES:[master:26a0f9720476f0965ce93fa4ac96
 adafruit/CircuitPlaygroundMakeBelieve: BRANCHES:[master:7f971da9fd1d40390ccf9299cbee49782c81abd7]|RELEASE:[none|none]
 adafruit/CircuitPlayground_Power_Reactor: BRANCHES:[master:02e84435cdf04f674f8cb0c8c8d5aca9fa399f3e]|RELEASE:[none|none]
 adafruit/CircuitPython_Community_Bundle: BRANCHES:[main:e9bc6664489a59528cc42e9ea9a51d7a8bf40a70;different-fork-dotstar-featherwing:ebf18bb498ff6854260a137645350aeab67f65fa;tannewt-patch-1:a4e51cac106d8113fc9b6fd3db030718fbaccc9f;fix_bundle:33fe76821e2d0d4cd78156c174076211a65908a2]|RELEASE:[20261008|e9bc6664489a59528cc42e9ea9a51d7a8bf40a70]
+adafruit/Circuit_Pyrate: BRANCHES:[main:eb0288c51fac0f394fcb5e88408b56b8d9981911]|RELEASE:[none|none]
 adafruit/Circuit_Walker_Sneakers: BRANCHES:[master:3e991e3b4000be430f4e1eef9861166efc6410d2]|RELEASE:[none|none]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82]|RELEASE:[none|none]
 adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410]|RELEASE:[none|none]
