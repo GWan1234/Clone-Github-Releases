@@ -1071,6 +1071,7 @@ adafruit/toolchain-avr: BRANCHES:[attiny85_delay_increase:f0bd3e2eaef5cacab05c68
 adafruit/wifi-reset: BRANCHES:[master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd]|RELEASE:[none|none]
 adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8]|RELEASE:[none|none]
 adafruit/xcarve-server: BRANCHES:[master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6]|RELEASE:[none|none]
+adafruit/zj-58: BRANCHES:[master:603f034e125305c464bab170b7144e446a193f0d]|RELEASE:[none|none]
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a]|RELEASE:[none|none]
 atc1441/88MZ100: BRANCHES:[master:6fc0c91c176b4f0661563679835e0b416b088951]|RELEASE:[none|none]
