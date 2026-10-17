@@ -579,6 +579,7 @@ adafruit/2.8-TFT-Breakout-PCB: BRANCHES:[master:323c2b0709d11124cc6dc4ad583c4e54
 adafruit/ADS1X15-Breakout-Board-PCBs: BRANCHES:[master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55]|RELEASE:[none|none]
 adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63]|RELEASE:[none|none]
 adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB: BRANCHES:[master:02c953af3a9c7c53d0c33faaa98a8aa1bffca5be]|RELEASE:[none|none]
+adafruit/Adafruit-1.5inch-Color-OLED-PCB: BRANCHES:[master:6d5c1242dd9d6124b18336f8cebff1993a29b6e4]|RELEASE:[none|none]
 adafruit/Adafruit-1.8-TFT-Shield-PCB: BRANCHES:[master:ba3e2280aa1ab70d103751cacf497217959ab986]|RELEASE:[none|none]
 adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: BRANCHES:[master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80]|RELEASE:[none|none]
 adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: BRANCHES:[master:7c33372ae12d8cadd9ccd868c4f30274e61ac87d]|RELEASE:[none|none]
