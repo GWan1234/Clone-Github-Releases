@@ -607,6 +607,7 @@ adafruit/Adafruit-BMP085-PCB: BRANCHES:[master:d969fe9e98059ab62805aae560882d1e8
 adafruit/Adafruit-BMP180-PCB: BRANCHES:[master:b47479ee8a43e5b217078e9e3b3a166479a68f7e]|RELEASE:[none|none]
 adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: BRANCHES:[master:b6d6ea8721c3660aef0ca6197d914ceea1fce065]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-EZ-Key-PCB: BRANCHES:[master:b5eea193aba7fc2795fc4ac54534faceee2c3a84]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-Micro-PCB: BRANCHES:[master:b96e10fc1481de5e03bc5926590aeae6c27a46e3]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB: BRANCHES:[master:c4c1e41ac42f744587e5f3dfef258113a2126342]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: BRANCHES:[master:5d9281aebe826950512105acbb304bf30f5d0540]|RELEASE:[none|none]
