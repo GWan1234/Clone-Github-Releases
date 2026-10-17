@@ -586,6 +586,7 @@ adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: BRANCHES:[master:7c33372ae
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: BRANCHES:[master:51ef8e242dcf460d5effc298d8565110624e6b23]|RELEASE:[none|none]
 adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: BRANCHES:[master:32578c83a5ba2946249b80b1aa1fb18ae4e61e7d]|RELEASE:[none|none]
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: BRANCHES:[master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3]|RELEASE:[none|none]
+adafruit/Adafruit-16x2-LCD-Pi-Plate: BRANCHES:[master:86e06995a3c9cb201593b17dafc09ee5752a016a]|RELEASE:[none|none]
 adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab65d5afca]|RELEASE:[none|none]
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1bc2717aa0a4d334c16a64d9]|RELEASE:[none|none]
