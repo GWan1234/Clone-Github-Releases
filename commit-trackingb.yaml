@@ -1106,6 +1106,7 @@ adafruit/MAX31850_OneWire: BRANCHES:[master:1bd8fd741e50fd02d73dc7068c3bd997c600
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
 adafruit/Mini-LED-Gamer: BRANCHES:[master:4e230a14bdc480bc3f983829d7cea8b83dadd3be]|RELEASE:[none|none]
+adafruit/MotorHatDemo: BRANCHES:[master:7cd65c5cc3d7ebc1b5c5bad53574d252f5f8013b]|RELEASE:[none|none]
 adafruit/NeoPixel-Sticks: BRANCHES:[master:73d3e55379367ca0ef051d7c9a8b846b6948b21a]|RELEASE:[none|none]
 adafruit/NeoPixel_Painter: BRANCHES:[master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f]|RELEASE:[none|none]
 adafruit/New-Year-Tower-Light: BRANCHES:[master:86eca0f880df4da10f88ff392a17d4af822da07c]|RELEASE:[none|none]
