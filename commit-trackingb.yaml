@@ -958,6 +958,7 @@ adafruit/Adafruit_Newtmgr_Swift: BRANCHES:[xcode9:2cbbf3baed3bc612c12e08352f4c32
 adafruit/Adafruit_Nokia_LCD: BRANCHES:[master:e61b16335bdd929ae64c9fc038b2d002091ea000]|RELEASE:[none|none]
 adafruit/Adafruit_OV7670: BRANCHES:[master:f40dae2304282b88f5816a64883f9aad296ad24a;pb-rp2040:55ba6d25da1741a747c98c352b0574a91acd9ffb;pb-wip2:f45f4c1fab2c9e3dba3922a7a060a62bdc84cb95;gh-pages:d13cddc453b045beb54873169a0416c713fb5859;old:578a20e1d2572fd339a364b20daf86b593c91b3c]|RELEASE:[1.2.5|f40dae2304282b88f5816a64883f9aad296ad24a]
 adafruit/Adafruit_On_Air: BRANCHES:[master:3957f81639928a8ce943575fb357884c95559b58]|RELEASE:[none|none]
+adafruit/Adafruit_Pixie: BRANCHES:[master:dd358f643cb62fd8b1eeee2afd43e6ce6d71f81d;fix-ci:24eccb9d7895ece47feebb1cfc11e3b786fe3daa;actionci:c302b095bff043fa571286ce47a0acd8e0c5ed66;gh-pages:28b5780be8eadcd5497e7a5722ac390ef6e0ef55]|RELEASE:[1.1.7|dd358f643cb62fd8b1eeee2afd43e6ce6d71f81d]
 adafruit/Adafruit_ProTrinket_Bootloader: BRANCHES:[master:b2cd5fad38f444b00be7a7d38a41d126eef437cf]|RELEASE:[none|none]
 adafruit/Adafruit_Python_ADS1x15: BRANCHES:[master:804728974fcefaafc8b5994be65d22e9c198a8d1]|RELEASE:[none|none]
 adafruit/Adafruit_Python_ADXL345: BRANCHES:[master:d897bcaa16b5fe365463ae0c2791d0c155becd05]|RELEASE:[none|none]
