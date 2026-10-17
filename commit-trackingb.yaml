@@ -637,6 +637,7 @@ adafruit/Adafruit-Ethernet-FeatherWing-PCB: BRANCHES:[master:1f950d49ed57129f6c3
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1bece2c690ddaa7c65dfc82]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-808-Breakout-PCB: BRANCHES:[master:da32ad54c3895f2b397a972f241e2013f246f7c4]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB: BRANCHES:[master:cb5f0e3d89c9b20db55984077ba5f2eba29c8d69]|RELEASE:[none|none]
+adafruit/Adafruit-FPC-SMT-Adapter-PCBs: BRANCHES:[master:ac22754f7fac462568f04ea4783b075e578824ce]|RELEASE:[none|none]
 adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4]|RELEASE:[none|none]
 adafruit/Adafruit-FT232H-Breakout-PCB: BRANCHES:[master:78919715d58046e883cc4fe47f90c6634582adf7]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5]|RELEASE:[none|none]
