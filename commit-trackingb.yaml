@@ -845,6 +845,7 @@ adafruit/Adafruit_Python_DHT: BRANCHES:[master:8f5e2c4d6ebba8836f6d31ec9a0c17194
 adafruit/Adafruit_Python_GPIO: BRANCHES:[master:a12fee39839665966bd124fd22588b2c87ced9d2;platform_detect_pi_zero:511796c89ac34179e8deea276ad46e2cf8f34483;event_detect:38180a82b2f5571bddf28e5ba89af3e405fe0e10]|RELEASE:[none|none]
 adafruit/Adafruit_Python_ILI9341: BRANCHES:[master:f1fb7ec1614e3fde8fa25ad1324cdaa8fdb416a8]|RELEASE:[none|none]
 adafruit/Adafruit_Python_LED_Backpack: BRANCHES:[master:a0a91e0bb0a9a16f898b591137a9f091dee6b4ee]|RELEASE:[none|none]
+adafruit/Adafruit_Python_LSM303: BRANCHES:[master:b286a95e81e627dbc2b262b90a475ec2f4bb6f4f]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MAX31855: BRANCHES:[master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MAX9744: BRANCHES:[master:b7de3549f356eb2adc4c9c1c87e58b62c09b03bc]|RELEASE:[1.0.4|b7de3549f356eb2adc4c9c1c87e58b62c09b03bc]
 adafruit/Adafruit_Python_MCP3008: BRANCHES:[master:03232cad6b888faf3dc2ff76e548c5fa3ffe3ae0]|RELEASE:[none|none]
