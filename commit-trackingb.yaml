@@ -635,6 +635,7 @@ adafruit/Adafruit-MTK3329-GPS-Module-Test-Sketch: BRANCHES:[master:c10aaf346a213
 adafruit/Adafruit-Menta-PCB: BRANCHES:[master:7a7800ca4fa0c04895c53ce35ad4735e0c8afc6a]|RELEASE:[none|none]
 adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25]|RELEASE:[none|none]
 adafruit/Adafruit-MiniPOV4-Kit: BRANCHES:[master:067ae4dcad3fcc97ba4ef02da5cda2650d8b921f]|RELEASE:[none|none]
+adafruit/Adafruit-Motor-HAT-Python-Library: BRANCHES:[master:07cec2046678f72af87c759f191158b9a5f32824]|RELEASE:[none|none]
 adafruit/Adafruit-Motor-Shield-V2-PCB: BRANCHES:[master:ff0173e93d24c1c93d48a2427d4642259dd8ec45]|RELEASE:[none|none]
 adafruit/Adafruit-Motor-Shield-library: BRANCHES:[master:d81504057474e940de7f0a0934f19c626846a154]|RELEASE:[1.0.1|d81504057474e940de7f0a0934f19c626846a154]
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2]|RELEASE:[none|none]
