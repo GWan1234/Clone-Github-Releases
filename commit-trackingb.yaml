@@ -1218,6 +1218,7 @@ adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c9
 adafruit/IO-Connect-Example: BRANCHES:[master:482870e3bbe75a294f0737abc53302c533f2ba7e]|RELEASE:[none|none]
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336]|RELEASE:[none|none]
 adafruit/IRKey: BRANCHES:[master:44ea72a1142ae43aea40ccf8c77d674704ffc945]|RELEASE:[none|none]
+adafruit/IRLibCP: BRANCHES:[master:2caa7720bd941bca2a44f7efa7a3d64696f8f261]|RELEASE:[none|none]
 adafruit/Ice-Tube-Clock: BRANCHES:[master:df64981f389418ee562fef81f0daa5cc06c18018;GPS:9d5e87a7ab6c68f822207db36cf53191f3f922ca]|RELEASE:[none|none]
 adafruit/Kegomatic: BRANCHES:[master:7b37465d7b0e417b37a5906838f315936828fa66;olgas-pi:0fa36b903ca22654ea0ed50336a1caded1aa9753]|RELEASE:[none|none]
 adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44]|RELEASE:[none|none]
