@@ -856,6 +856,7 @@ adafruit/Adafruit-USB-DC-LiPoly-Charger: BRANCHES:[master:1cd4020ce630e7b5477cf4
 adafruit/Adafruit-USB-Isolator-PCB: BRANCHES:[master:826956acd5fa3ed2c04f8f39ebb1be42f8f25854]|RELEASE:[none|none]
 adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB: BRANCHES:[master:e8bcaf9566ca85bc555d8c7c849adb473948dc5f]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: BRANCHES:[master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9]|RELEASE:[none|none]
+adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB: BRANCHES:[master:7b570b683977344c6326c91de085fa2087e38a5d]|RELEASE:[none|none]
 adafruit/Adafruit-Ultimate-GPS: BRANCHES:[master:70430c1240b49c1e054f1edee84ad0b5ec8ebe56]|RELEASE:[none|none]
 adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB: BRANCHES:[master:1b15a4f782c555903c0cfd7174d0616d2e128887]|RELEASE:[none|none]
 adafruit/Adafruit-Ultimate-GPS-HAT-PCB: BRANCHES:[master:73b23e57b2c80f36aa1405aa67be887b5dabe68e]|RELEASE:[none|none]
