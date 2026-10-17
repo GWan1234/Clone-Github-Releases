@@ -714,6 +714,7 @@ adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da8
 adafruit/Thermistor-test: BRANCHES:[master:decc864620a95bb15ae20fce10af666b1656ff03]|RELEASE:[none|none]
 adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac]|RELEASE:[none|none]
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: BRANCHES:[master:e2b12428c08d286dc9f568c8117f6e77986ef0ab]|RELEASE:[none|none]
+adafruit/USB-NeXT-Keyboard: BRANCHES:[master:332d2707793794d897ae3548a2eedd726c46e329]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
 adafruit/adafruit-raspberrypi-linux: BRANCHES:[rpi-4.9.y:1418a05a5d81ef829418767bf53e3cd93fc38a55;rpi-4.4.y:6864aa4f92d00dfa2e5f75607e1356c4fbbc99dc;rpi-4.1.y:1b8281a813cde5e0b6feca4c5805c7cf4f2f3e6d;4.1.y-dwc2:3997136757aae52d3de58e5b686f86b890d14498;rpi-4.1.y-trythisagain:ad46d74df33d342f95424f10e89567a7fb176076;rpi-3.18.y:7459c1860eb56854a581442938358addf5378775;rpi_power_muddling:ffe0c507ec9dc81ce42cf7c897f6c7494ef576d3;rpi-3.18.y-rpi_power_switch:8a556fbf9fde154b858383466382033838feb053;rpi-3.18.y-mergetest:e273ed17072fd79c2ac812bae44960ac7dd5e2e4;rpi-kali-3.18.y:cef70a86b35ba54d6b949c1997c48b41143d5de2]|RELEASE:[none|none]
 adafruit/adavoice: BRANCHES:[master:b78baee279b7297fa3e43e27ef2de0863330c74e]|RELEASE:[none|none]
