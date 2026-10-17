@@ -1056,6 +1056,7 @@ adafruit/PiTFT_Extras: BRANCHES:[master:9d42b2c3941db30e1a6df3d6cfffe533662716ae
 adafruit/Pi_Internet_Thing_Videos: BRANCHES:[master:cf54b574b709d694c67e5b3a4db2e28c55a01690]|RELEASE:[none|none]
 adafruit/Pi_Node_Example: BRANCHES:[master:7ddf92a9b8c52ab6dd199430f5b89714913eab86]|RELEASE:[none|none]
 adafruit/Pi_Physical_Dashboard: BRANCHES:[master:81a513ac8508e387a081c2c0fc02140d4f37100d]|RELEASE:[none|none]
+adafruit/Pixie-3W-Smart-LED-PCB: BRANCHES:[master:68dae8b61938339e1cd423abbddee3cfc6715022]|RELEASE:[none|none]
 adafruit/Printer-Profiles: BRANCHES:[master:ed08154bdf56525741dbfbfe852a1d9a747698bd]|RELEASE:[none|none]
 adafruit/Pro-Trinket-Rotary-Encoder: BRANCHES:[master:a4f1c252b08ed9d8cd89dc15d1ff51fefb7defa6]|RELEASE:[none|none]
 adafruit/Pro_Trinket_Power_Meter: BRANCHES:[master:28f838ec70095028f11e59f6cd7a1da0a7d96e81]|RELEASE:[none|none]
