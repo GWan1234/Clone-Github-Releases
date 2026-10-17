@@ -585,6 +585,7 @@ adafruit/Light-and-Temp-logger: BRANCHES:[master:d615540bfa0b30aa721960312a46d62
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
 adafruit/RTClib: BRANCHES:[master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528]|RELEASE:[2.1.4|5298434167b770c4602661d682e3b340d565073f]
+adafruit/Reflowduino: BRANCHES:[master:953add928782a5a8baf7adda3f973daf9a1276ff]|RELEASE:[none|none]
 adafruit/SD-card-testing-jig: BRANCHES:[master:823b68201f1215d345dc6af727399f021bfddb9b]|RELEASE:[none|none]
 adafruit/ST7565-LCD: BRANCHES:[master:d40d9d832be8a6ce26d6462e85de3dcf439942fc]|RELEASE:[none|none]
 adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e91a541ee3d0]|RELEASE:[none|none]
