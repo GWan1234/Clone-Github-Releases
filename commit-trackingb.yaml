@@ -758,6 +758,7 @@ adafruit/Adafruit-Si4713-Library: BRANCHES:[master:fa38460fb0303d7951ff6a20828d7
 adafruit/Adafruit-Si4713-PCB: BRANCHES:[master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f]|RELEASE:[none|none]
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: BRANCHES:[master:efe89824b3574463ebca864a2494f7c86fb5c82b]|RELEASE:[none|none]
 adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6]|RELEASE:[none|none]
+adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e86d61f061a08a52dabeede7d3]|RELEASE:[none|none]
 adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a]|RELEASE:[none|none]
 adafruit/Adafruit-TLC59711-Breakout-PCB: BRANCHES:[master:db1aa65ded2fdca2fb8dca48995195abe2235a0f]|RELEASE:[none|none]
 adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8]|RELEASE:[none|none]
