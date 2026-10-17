@@ -840,6 +840,7 @@ adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB: BRANCHES:[master:a18e1c035
 adafruit/Adafruit-MPR121-PCB: BRANCHES:[master:d1e18d5ea07d596006c414746e8c1ac4c8230e1f]|RELEASE:[none|none]
 adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB: BRANCHES:[master:27dbdde340e4f16171009e7c3edf578995c0ee02]|RELEASE:[none|none]
 adafruit/Adafruit-MPU6050-PCB: BRANCHES:[master:7158d89fb3f02c66a11a58ae016f29490d770d93]|RELEASE:[none|none]
+adafruit/Adafruit-MS8607-PCB: BRANCHES:[main:56dfd5af979fb63cff98ebcfe2170644b4439430]|RELEASE:[none|none]
 adafruit/Adafruit-MSA301-PCB: BRANCHES:[master:6fd7751ab149341ddc0e2d8655ea350c98f764eb]|RELEASE:[none|none]
 adafruit/Adafruit-MTK3329-GPS-Module-Test-Sketch: BRANCHES:[master:c10aaf346a213d1eebd287dadb8aae4a8d8269d9]|RELEASE:[none|none]
 adafruit/Adafruit-Menta-PCB: BRANCHES:[master:7a7800ca4fa0c04895c53ce35ad4735e0c8afc6a]|RELEASE:[none|none]
