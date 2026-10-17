@@ -866,6 +866,7 @@ adafruit/Adafruit-Ultimate-GPS-HAT-PCB: BRANCHES:[master:73b23e57b2c80f36aa1405a
 adafruit/Adafruit-VC0706-Serial-Camera-Library: BRANCHES:[master:e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85;gh-pages:e45d0578eb65444bbe638eca2fc1743292b8d907;actions:17841710c4440bc6cd59106aceca90304fc4d5e9]|RELEASE:[1.2.2|e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85]
 adafruit/Adafruit-VCNL40X0-PCB: BRANCHES:[master:13e0c0867b66ae15eb1331880ccea30b83713467]|RELEASE:[none|none]
 adafruit/Adafruit-VEML6070-PCB: BRANCHES:[master:3dd13922832c37869195787b3112429c482605c8]|RELEASE:[none|none]
+adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: BRANCHES:[master:1ef873512150740edc9798f90028facfa35fd81f]|RELEASE:[none|none]
 adafruit/Adafruit-VS1053-Breakout-PCB: BRANCHES:[master:61db4e571d89d321c33bb693b84f80da1510c5e2]|RELEASE:[none|none]
 adafruit/Adafruit-Verter-PCB: BRANCHES:[master:47ff9d8588a4b841b6d0a1efa42fc9275463c16e]|RELEASE:[none|none]
 adafruit/Adafruit-WICED-WiFi-Feather-PCB: BRANCHES:[master:f2c70ce49ef3df7f60be3a6a30fa39ff34a9dde3]|RELEASE:[none|none]
