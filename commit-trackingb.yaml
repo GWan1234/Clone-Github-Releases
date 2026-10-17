@@ -609,6 +609,7 @@ adafruit/SD-card-testing-jig: BRANCHES:[master:823b68201f1215d345dc6af727399f021
 adafruit/SDWebBrowse: BRANCHES:[master:429f394ac41bf7cce3d8d2dd8f0943ee986c5d76]|RELEASE:[none|none]
 adafruit/ST7565-LCD: BRANCHES:[master:d40d9d832be8a6ce26d6462e85de3dcf439942fc]|RELEASE:[none|none]
 adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e91a541ee3d0]|RELEASE:[none|none]
+adafruit/TFTLCD-Library: BRANCHES:[master:54ad6b159db169ea77d12638bc63521dbfdfa4b5;ladyada-patch-1:3ba0b31ddf7f5b4e4207ef263447fb71b05505e0;actionci:b3d5ba1771a08639aec6defb38c77ad378d10c4a;gh-pages:e3a8c46c8a35632ce679a370824d6d2868e3d3ea;nondma_samd51:3e1da133131fd05fa742e13fd15dc55be8d566d7;samd51:167e9364be7eac8ec17f822aeda97fe01b5c4c6c;xmega_support_test:bed0a09f5409d884a18aef798d6a374f59075546;Due:e8cb704fdd364380ddd204f674755417ebf03000]|RELEASE:[1.0.4|54ad6b159db169ea77d12638bc63521dbfdfa4b5]
 adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da87]|RELEASE:[none|none]
 adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
