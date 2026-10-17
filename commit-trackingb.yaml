@@ -1460,6 +1460,7 @@ adafruit/LittleWireISP: BRANCHES:[master:2762515cd69a4add211d47b5c7fb45345307a1b
 adafruit/MAX31850_DallasTemp: BRANCHES:[master:c83bb4710e539f2574ad613448dfe1c48bc661e3;gh-pages:7ff84118ac593c8ef007943c9b4e3482a5b4beb4;actionci:13515400a91aee096ffd9c52893f5145c202f7b8]|RELEASE:[1.1.6|c83bb4710e539f2574ad613448dfe1c48bc661e3]
 adafruit/MAX31850_OneWire: BRANCHES:[master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce]|RELEASE:[1.1.3|1bd8fd741e50fd02d73dc7068c3bd997c600b491]
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
+adafruit/META-Picomon: BRANCHES:[master:58a76ac2941ab347823101fc0346eca43f3f307a]|RELEASE:[none|none]
 adafruit/METROX-Examples-and-Project-Sketches: BRANCHES:[master:03ce7109b3f816926a510c3d755a2c380949e575;travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce]|RELEASE:[none|none]
 adafruit/MakerFaireBayArea2019: BRANCHES:[master:92b9600dbbc761ea3b262291383f5aadd6b5f613]|RELEASE:[none|none]
 adafruit/MicroPython_TravisCI_Deploy: BRANCHES:[master:307afb12fd1112dcd0395f38f0aaa55819876e8f]|RELEASE:[none|none]
