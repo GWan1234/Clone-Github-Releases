@@ -1138,6 +1138,7 @@ adafruit/Adafruit_CircuitPython_framebuf: BRANCHES:[main:6f6c89891de7d96c43028c4
 adafruit/Adafruit_CircuitPython_miniQR: BRANCHES:[main:e6ca00b37634118f78a1db109977e4c85a0fac88]|RELEASE:[2.1.9|e6ca00b37634118f78a1db109977e4c85a0fac88]
 adafruit/Adafruit_CircuitPython_miniesptool: BRANCHES:[main:5be10f70046d3a19a5df9b02f9276d19d7da75de;REUSE:cc6dc83cf28754bbd3e19fce87721351774b9ebd]|RELEASE:[0.2.28|5be10f70046d3a19a5df9b02f9276d19d7da75de]
 adafruit/Adafruit_CircuitPython_seesaw: BRANCHES:[main:13ba8ba2a2cecb9df5a41390f991ce6c0cd76e14;patch-fix:f0c6f28e2bdf221c509a8df2e5d025264b251fbd;pylint-version-fix:ce9a74250514940cf2ea9d27ec06e78ec315a013;dm-crckit:7bce8f8b0b549cf71450ceb6acd8966f491a5745]|RELEASE:[1.18.2|13ba8ba2a2cecb9df5a41390f991ce6c0cd76e14]
+adafruit/Adafruit_CircuitScheme: BRANCHES:[master:1dff619c7e74caa8ad295cabb6e2540dba0e6c92]|RELEASE:[none|none]
 adafruit/Adafruit_Community_Code_of_Conduct: BRANCHES:[main:b8438fe7ca77815dc82f4139f8c3b549d95a9fc6;direct-message-update:e6f19326889a5bfc998f9b1cab7496177700a228;dhalbert-patch-1:7fe37305b6dc2ca02a6c579618a532ee6de146ea]|RELEASE:[none|none]
 adafruit/Adafruit_CompositeVideo: BRANCHES:[master:5d40b02788e65fc3a5b0423828a9e3f7b94992e7;gh-pages:dfa96101bb408add0f0b0b5cf7c1bec5a6f8f4f8]|RELEASE:[1.0.5|5d40b02788e65fc3a5b0423828a9e3f7b94992e7]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
