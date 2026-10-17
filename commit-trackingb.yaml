@@ -681,6 +681,7 @@ adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38ae
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec]|RELEASE:[1.4.7|f7d625462e6033f373e51f8c67f88fc429535b47]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6]|RELEASE:[none|none]
+adafruit/Flora-Brakelight-Backpack: BRANCHES:[master:8f6ed6e5dd51cb952dad99b5e27b60949b299634]|RELEASE:[none|none]
 adafruit/Flora-TV-B-Gone: BRANCHES:[master:f5e14320153824048f497d97ec716595a9e3f707]|RELEASE:[none|none]
 adafruit/Fritzing-Library: BRANCHES:[master:6fe4856351c504d627c973129a01c5a8df1387ac]|RELEASE:[none|none]
 adafruit/GPS-Dog-Collar: BRANCHES:[master:122f0a2765b9fdd98e449cd1c3524862f01dd0e0]|RELEASE:[none|none]
