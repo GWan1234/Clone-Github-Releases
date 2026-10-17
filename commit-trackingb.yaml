@@ -1534,6 +1534,7 @@ adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1
 adafruit/Adafruit_nRFCrypto: BRANCHES:[master:2be11062ac56cf75a9a8b8ed087ad495421403f4;bump-up-version-to-0.1.2:859ab430efded79e642609804837ef1c6eeb1f3a;add-ci:b651ddc0e82cc068021e9ba92d83e575ff515ca4]|RELEASE:[0.1.2|2be11062ac56cf75a9a8b8ed087ad495421403f4]
 adafruit/Adafruit_remoteFXTrigger: BRANCHES:[master:f018b3b5323818cf93bd5e1005e849d102b8f610]|RELEASE:[none|none]
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
+adafruit/AnimatedGIF: BRANCHES:[master:688d1c99fbf4ff82a2ceabab928fbe6cea244d31;pb-experiments:ef84f43a76b0fdbf41cf7466bb2f2d6d406bdcdb;test-drawbastract:21db6cd5a82c9dd92829449365e96ae899c655ec]|RELEASE:[none|none]
 adafruit/Arduboy2: BRANCHES:[master:5d975e7bf4064a96821790d08aab13551f4017af;noUSB:44aeda92a248f4b4bd2134c4352b3de44af3a1f9;develop:78de8a439b2be3ee9bb8cea762b65173a62c7ae6]|RELEASE:[none|none]
 adafruit/ArduboyPlaytune: BRANCHES:[master:52ca6170af45432c07269861c91349e70b4cd73d]|RELEASE:[none|none]
 adafruit/ArduboyTones: BRANCHES:[master:4ba1bcc7a8761154958ad6ffee3cb7fe1de0ac67]|RELEASE:[none|none]
