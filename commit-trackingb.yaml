@@ -616,6 +616,7 @@ adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1
 adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: BRANCHES:[master:1de541ff46165575234d826ae64be64a82e8bc93]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB: BRANCHES:[master:20e781d8d7d0b31002f9d2a8eaef18429f983815]|RELEASE:[none|none]
 adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad: BRANCHES:[master:738c479a5a08af69c7864ff1053404e821fcd700]|RELEASE:[none|none]
 adafruit/Adafruit-Feed-Mangler: BRANCHES:[master:4c7b329a94e399f8d886f99a96f2d4d867a9ab9f]|RELEASE:[none|none]
 adafruit/Adafruit-Fingerprint-Sensor-Library: BRANCHES:[master:b5de3ff6b430922d702db76e0c9ce29200c06d34;gh-pages:eba311f02e1dffd1b4375db6bf36403b2d426026;fix-ci:e9ef326a1e4dadf3f29a36bc86a3752693ab9c79;refactor_grow:7a478bd86408ee8c1fc83a0ebf6c94c8d24aad9a;actionci:ae839a30bff3c7d22a88d54b9497085c1bcbbbca]|RELEASE:[2.1.4|b5de3ff6b430922d702db76e0c9ce29200c06d34]
