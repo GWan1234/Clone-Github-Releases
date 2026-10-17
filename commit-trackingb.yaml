@@ -612,6 +612,7 @@ adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454c
 adafruit/Adafruit-MAX31855-breakout-board: BRANCHES:[master:5b12736f17d53d22d9dc4287e4f2129bc876d180]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31855-library: BRANCHES:[master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae]|RELEASE:[1.4.2|249c8f8913d3a47237f8130d443798c735ca0e38]
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:e560788716ed2d9b221a7b8176eb82e57615d185]|RELEASE:[none|none]
+adafruit/Adafruit-MAX9744-Amplifier-PCB: BRANCHES:[master:8df09f97bcc66b78a54ca049957f7637fdd513c0]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1]|RELEASE:[2.3.2|9e67e3732d1af68d8894b2f98c57bd9efa54027c]
 adafruit/Adafruit-MLX90614-Library: BRANCHES:[master:ae7ec6755c8d73433d823324fb5a2c4864af49a4;gh-pages:ae7571342646cf369164833b85eec81d259b03a0;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598]|RELEASE:[2.1.7|ae7ec6755c8d73433d823324fb5a2c4864af49a4]
