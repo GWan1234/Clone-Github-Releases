@@ -691,6 +691,7 @@ adafruit/Adafruit_LSM303DLHC: BRANCHES:[master:ccc4e70113460333a70926e08150d2d13
 adafruit/Adafruit_LiquidCrystal: BRANCHES:[master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b]|RELEASE:[2.0.4|645a6cef15653be4f77e119da014d3dd69c6e4cd]
 adafruit/Adafruit_MCP4725: BRANCHES:[master:705778cc8f1918880063b07547e78c6ded409a88;gh-pages:da58ca904a3143944763eb82ad6627a6d8ef25a5;action:a4fecc0483a8336546aceb4ceb7cf8a69ecd1b62]|RELEASE:[2.0.2|705778cc8f1918880063b07547e78c6ded409a88]
 adafruit/Adafruit_MCP73833_PCB: BRANCHES:[master:c8e08fe3e272270b8fe101589ec37858f0e59ce4]|RELEASE:[none|none]
+adafruit/Adafruit_MCP9808_Library: BRANCHES:[master:1447e4e8ab099dec3bc76bbb19ab9136f9478b15;gh-pages:044be17019e1bd328f068a1a480d5832a46717d8;busiosensor:2c69f263873148d0e1cea4cd734c143af9f2b96b]|RELEASE:[2.0.2|1447e4e8ab099dec3bc76bbb19ab9136f9478b15]
 adafruit/Adafruit_MPL115A2: BRANCHES:[master:0cbecc86371846d60aa79cb45485182ef43e1ddb;gh-pages:a68a54ff7d68c2df91c565bb0a759c8ed11953f6;busio:e982bd0e9b7ff4a84d6fb0ee5a343e51fa4ad51f]|RELEASE:[2.0.2|0cbecc86371846d60aa79cb45485182ef43e1ddb]
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3]|RELEASE:[none|none]
 adafruit/Adafruit_MiniMLX90614: BRANCHES:[master:613aee3bbf05754574ce7d2112da7de45b352c5d]|RELEASE:[1.0.0|6c4ec6c68a3ca22310e4de37c2c77ca8edd87514]
