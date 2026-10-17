@@ -757,6 +757,7 @@ adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da8
 adafruit/Thermistor-test: BRANCHES:[master:decc864620a95bb15ae20fce10af666b1656ff03]|RELEASE:[none|none]
 adafruit/TinyDHT: BRANCHES:[master:a900d69aa4c0b9df7053c026e8b843373e80d5b0;gh-pages:507c925f2dcf0224ae19e9d96b9c7b0b0aee4609]|RELEASE:[1.1.2|a900d69aa4c0b9df7053c026e8b843373e80d5b0]
 adafruit/TinyLiquidCrystal: BRANCHES:[master:cb439bd5a56950609a20a15ad7977adb1796b9d8;gh-pages:c97aedb557950943707664f3b7e803964d918962;actionci:de1909013991b0ae9adab7e917dd09816f8faefb]|RELEASE:[1.2.2|cb439bd5a56950609a20a15ad7977adb1796b9d8]
+adafruit/TinyRTCLib: BRANCHES:[master:48385f8972a270f4aacec73a1b5e46f114c647f5;actionci:05e69f19810b90ed0c9e3a6c5f881d0be3badc9d]|RELEASE:[1.1.3|48385f8972a270f4aacec73a1b5e46f114c647f5]
 adafruit/TinyWireM: BRANCHES:[master:e3c07f2a91621632f7a4128b91e985d2bd72467a;gh-pages:aea76a3938531d45b6adf79dafae46f6e5ddc925;endTransmission-optional-stop:b6ebdfce9431e53881ecb840410038de5471fa98]|RELEASE:[1.1.4|e3c07f2a91621632f7a4128b91e985d2bd72467a]
 adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac]|RELEASE:[none|none]
 adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: BRANCHES:[master:e2b12428c08d286dc9f568c8117f6e77986ef0ab]|RELEASE:[none|none]
