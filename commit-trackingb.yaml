@@ -575,6 +575,7 @@ Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836f
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
+adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:e560788716ed2d9b221a7b8176eb82e57615d185]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-Motor-Shield-library: BRANCHES:[master:d81504057474e940de7f0a0934f19c626846a154]|RELEASE:[1.0.1|d81504057474e940de7f0a0934f19c626846a154]
