@@ -613,6 +613,7 @@ adafruit/RTClib: BRANCHES:[master:5298434167b770c4602661d682e3b340d565073f;gh-pa
 adafruit/Raw-IR-decoder-for-Arduino: BRANCHES:[master:e23d69394b9e7c8e9a0652f09342afdfa1cfc7e2]|RELEASE:[none|none]
 adafruit/Reflowduino: BRANCHES:[master:953add928782a5a8baf7adda3f973daf9a1276ff]|RELEASE:[none|none]
 adafruit/SD: BRANCHES:[master:041f788250d00157918e073825e35603e1ac3cbd]|RELEASE:[none|none]
+adafruit/SD-Basic-GPS-logger: BRANCHES:[master:31fba7bd11831064ddabea46626f2acf97a3c7b6]|RELEASE:[none|none]
 adafruit/SD-card-testing-jig: BRANCHES:[master:823b68201f1215d345dc6af727399f021bfddb9b]|RELEASE:[none|none]
 adafruit/SDWebBrowse: BRANCHES:[master:429f394ac41bf7cce3d8d2dd8f0943ee986c5d76]|RELEASE:[none|none]
 adafruit/SPI_VFD: BRANCHES:[master:69e0f7f4105c535b182f41514e6674a396b32acc;gh-pages:80db41da6b1cedd72ab2a4d477edc98a6af0cee9]|RELEASE:[1.1.4|69e0f7f4105c535b182f41514e6674a396b32acc]
