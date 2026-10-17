@@ -1162,6 +1162,7 @@ adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95
 adafruit/Adafruit_nRF51822_Flasher: BRANCHES:[master:ca606ce6fe82219cf6a66ca7d764ee0245696b28]|RELEASE:[none|none]
 adafruit/Adafruit_nRF52_Arduino: BRANCHES:[master:343ab5fe7fb3d5657d3176883dfb188d65b79f06;sdfat_v2:739d6485a07e655ca6b7ba8aa7b9cb820b3557bf]|RELEASE:[1.7.0|ba4ad90d7e90c2ad5d4c98c10539f1f77fafa6ab]
 adafruit/Adafruit_nRF52_Arduino_Bootloader: BRANCHES:[master:e37c04aa06858f47ce76994b51417fbcd02e4756]|RELEASE:[5.1.0|6f0beb4d6f335ac2f2f4daa29b702005867f7ddc]
+adafruit/Adafruit_nRF52_nrfutil: BRANCHES:[master:7fdfe15feee5f304fb7d9b031721dcefa1f72b58;python2:32e9b31773fabe06100a898006775ff3a65604ad]|RELEASE:[0.5.3.post17|a4a666130e7da155ff9e20c556fbb803ef8d8227]
 adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1ddfbf0;gh-pages:c2be5823adea3fe9ead6b783363f09ad6b6c6136;master:5b331b370a980e90c0983a685da74996fe61dab1;arm_sdk:3dc7e7b0afde394b9b1328be060fb61221dae73d]|RELEASE:[1.1.1|5b331b370a980e90c0983a685da74996fe61dab1]
 adafruit/Adafruit_remoteFXTrigger: BRANCHES:[master:f018b3b5323818cf93bd5e1005e849d102b8f610]|RELEASE:[none|none]
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
