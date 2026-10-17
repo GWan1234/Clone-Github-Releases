@@ -593,6 +593,7 @@ adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: BRANCHES:[master:b89ffa961067cb959deff9eae264a017a2650539]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9]|RELEASE:[none|none]
+adafruit/Adafruit-MAX31855-library: BRANCHES:[master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae]|RELEASE:[1.4.2|249c8f8913d3a47237f8130d443798c735ca0e38]
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:e560788716ed2d9b221a7b8176eb82e57615d185]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1]|RELEASE:[2.3.2|9e67e3732d1af68d8894b2f98c57bd9efa54027c]
