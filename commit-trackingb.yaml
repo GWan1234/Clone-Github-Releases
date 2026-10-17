@@ -1138,6 +1138,7 @@ adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859]|RELEAS
 adafruit/Bluefruit-NeoMatrix-Snowflake: BRANCHES:[master:77c474317bddfacaa810f7d4b8f62f87edaf5436]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect: BRANCHES:[master:4721ec20245598fdb107f89b089f06671dc490f4]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect_Android: BRANCHES:[master:5443af2742840b715d5f52197230525b762790a1]|RELEASE:[v1.1.4|390d96c9e6b470b6e376522f0ddd54e380509d48]
+adafruit/Bluefruit_LE_Connect_Plotter: BRANCHES:[master:5fdd5c80a55c04f5f21f971b57d68551373b3ada]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect_v2: BRANCHES:[master:26da88b2a667e1de42e029959f405f40130a10d8;xcode15_update:5b21c9e6499a944a5f94293f0928b5df82bdd219;mqtt_and_charts_update:28d2d50d31feec689c3a8c25fc71fdcfbb3fbf5c;circuitpython_osc:60551774b70ac8881f1437e5b337e99759f32801;circuitpython_service:51564ae949bd87dc85529548097dac019912d65c;swift2:0ad790d3d07788f5ff1d6c3440a2440605ae55ca]|RELEASE:[none|none]
 adafruit/Bluetooth_Talking_Dog_Collar: BRANCHES:[master:d62cf7158093e09c4bac78fc36a5a681950387a2]|RELEASE:[none|none]
 adafruit/CC3000_MDNS: BRANCHES:[master:acb2a96f2232effd9ad2fb833b332c60e03d9091]|RELEASE:[1.0.0|2dc142ab771137d532e1c375f92d8009e0bfd0d3]
