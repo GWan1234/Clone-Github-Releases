@@ -617,6 +617,7 @@ adafruit/Adafruit-Menta-PCB: BRANCHES:[master:7a7800ca4fa0c04895c53ce35ad4735e0c
 adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25]|RELEASE:[none|none]
 adafruit/Adafruit-Motor-Shield-library: BRANCHES:[master:d81504057474e940de7f0a0934f19c626846a154]|RELEASE:[1.0.1|d81504057474e940de7f0a0934f19c626846a154]
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2]|RELEASE:[none|none]
+adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:afa33c7b1e1a1a4d74bcbe9e3e798099545cdf91]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Ring: BRANCHES:[master:3d43edf8f1828cdbbd85560876027ded6257eae3]|RELEASE:[none|none]
 adafruit/Adafruit-PCB-Ruler: BRANCHES:[master:722a89a839cd30a00da8f9e0d61cb9332e491f55]|RELEASE:[none|none]
 adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983]|RELEASE:[2.0.3|87565cd21a2a79b3db48a851170a24eaadd33c8d]
