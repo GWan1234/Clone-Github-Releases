@@ -673,6 +673,7 @@ adafruit/Adafruit-ST7735-Library: BRANCHES:[ExpanderPin:aba823e3b15f4a4d18cfaec5
 adafruit/Adafruit-Sharp-Memory-Display-PCBs: BRANCHES:[master:58b3ededa86c2b7cfefea12a5e15883150ea17de]|RELEASE:[none|none]
 adafruit/Adafruit-Si4713-Library: BRANCHES:[master:fa38460fb0303d7951ff6a20828d707d13225d30;gh-pages:f0ad4926a5bd1bf761594fd828e17d3df08f9872;fix-warning:3db8e11741686a783c62ccc337f982db1a7f3ab5;actionci:e1a17ab996bc4fa91b3ce707617b023e88203bd3]|RELEASE:[1.2.4|fa38460fb0303d7951ff6a20828d707d13225d30]
 adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6]|RELEASE:[none|none]
+adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a]|RELEASE:[none|none]
 adafruit/Adafruit-TLC59711-Breakout-PCB: BRANCHES:[master:db1aa65ded2fdca2fb8dca48995195abe2235a0f]|RELEASE:[none|none]
 adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8]|RELEASE:[none|none]
 adafruit/Adafruit-TPA2016-Library: BRANCHES:[master:17d1a6cf3f423952c0b07518e9ef46a2476bf8df;gh-pages:afa1d75e70fc71c5a16bfa92ab1aeae44bff55b2;actionci:baa74d30398e9e536cf6bf3c6bde0fb7e07718be]|RELEASE:[1.2.2|17d1a6cf3f423952c0b07518e9ef46a2476bf8df]
