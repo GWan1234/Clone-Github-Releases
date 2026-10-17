@@ -614,6 +614,7 @@ adafruit/Adafruit-DRV2605-PCB: BRANCHES:[master:78a53522699b0f0661ed8fec2f3d5eb2
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1bece2c690ddaa7c65dfc82]|RELEASE:[none|none]
 adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5]|RELEASE:[none|none]
 adafruit/Adafruit-Feed-Mangler: BRANCHES:[master:4c7b329a94e399f8d886f99a96f2d4d867a9ab9f]|RELEASE:[none|none]
 adafruit/Adafruit-Fingerprint-Sensor-Library: BRANCHES:[master:b5de3ff6b430922d702db76e0c9ce29200c06d34;gh-pages:eba311f02e1dffd1b4375db6bf36403b2d426026;fix-ci:e9ef326a1e4dadf3f29a36bc86a3752693ab9c79;refactor_grow:7a478bd86408ee8c1fc83a0ebf6c94c8d24aad9a;actionci:ae839a30bff3c7d22a88d54b9497085c1bcbbbca]|RELEASE:[2.1.4|b5de3ff6b430922d702db76e0c9ce29200c06d34]
 adafruit/Adafruit-Flora-LSM303-PCB: BRANCHES:[master:c0f6d981bd21317941c3759b98100a59fe0c3634]|RELEASE:[none|none]
