@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 14:30
+commit-tracking: 2026-10-17 14:31
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1694,6 +1694,7 @@ adafruit/awesome-adafruitio: BRANCHES:[master:4f82a243d30de770ff8fd3273d3db54381
 adafruit/awesome-circuitpython: BRANCHES:[main:21edca3c366122d84ab26d4875b5aa137b636f54;detached2:91b93ae566debcbf371a4c2aac4a23c89ce015a3;detached:016eedaaf00afa89a6ae1858bd9aa05a7d61e1a4;cpy-show-links:4816c0e63c98e200ae4f7f043142c92cbc5b8833;run-awesome_bot:23cfdcb8fc33c38a74c23363418430aa219736ea;awesomelint:33b8a44aec0bd951fd69a25ff8aa79f31ca282af]|RELEASE:[none|none]
 adafruit/awesome-feather: BRANCHES:[main:3c4b663a1ca05af01500aef603a0a4955d1de7e6]|RELEASE:[none|none]
 adafruit/awesome-makecode: BRANCHES:[master:bd9c5d3afca8996f9c5cb462da30de64fe8c6895]|RELEASE:[none|none]
+adafruit/awesome-micropythons: BRANCHES:[master:174283519e3b6b04ac44b6391c8a5cb0a0d797b8]|RELEASE:[none|none]
 adafruit/awesome-stemma: BRANCHES:[master:4faee5dea99c06c97c47408a4c860b3d020a6880]|RELEASE:[none|none]
 adafruit/beaglecap: BRANCHES:[master:35dc8cdb19a573dd7241f13615f7aff3cfaf2298]|RELEASE:[none|none]
 adafruit/bluetooth-low-energy: BRANCHES:[master:4bec8bf7e0a6b3e0cb8f6a82a03154cf443117f4;tannewt-patch-1:1c62deb10506f503b5f15739f03dd2e95780e698]|RELEASE:[none|none]
