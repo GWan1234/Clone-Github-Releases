@@ -611,6 +611,7 @@ adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: BRANCHES:[master:5d9281aebe826950512
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de]|RELEASE:[none|none]
 adafruit/Adafruit-CAP1188-PCB: BRANCHES:[master:cf65678210cb9bc8a792efa091d49082e4ad6a2b]|RELEASE:[none|none]
 adafruit/Adafruit-CC3000-Breakout-PCB: BRANCHES:[master:85e69770538f91498fa18eec89245c2f9de09d5a]|RELEASE:[none|none]
+adafruit/Adafruit-Circuit-Playground-PCB: BRANCHES:[master:123fc8ded8a6c41de64b6e2ac4d6405f95199b43]|RELEASE:[none|none]
 adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: BRANCHES:[master:cae1ee442bd88638aac6427bd78f737aa0846a9e]|RELEASE:[none|none]
 adafruit/Adafruit-DPI-Kippah: BRANCHES:[master:d05c5e17c85a94d8a6d5fdcd45e5aba5d8b37188]|RELEASE:[none|none]
 adafruit/Adafruit-DRV2605-PCB: BRANCHES:[master:78a53522699b0f0661ed8fec2f3d5eb2d617e4b0]|RELEASE:[none|none]
