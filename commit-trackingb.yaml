@@ -988,6 +988,7 @@ adafruit/Bluetooth_Talking_Dog_Collar: BRANCHES:[master:d62cf7158093e09c4bac78fc
 adafruit/CC3000_MDNS: BRANCHES:[master:acb2a96f2232effd9ad2fb833b332c60e03d9091]|RELEASE:[1.0.0|2dc142ab771137d532e1c375f92d8009e0bfd0d3]
 adafruit/CatLaser2: BRANCHES:[master:0c17e68a444e7ccd2befccd8102861135d9da243]|RELEASE:[none|none]
 adafruit/Caterina-Bootloader: BRANCHES:[master:411557016cdc498c04840892d769e1f8184613dd]|RELEASE:[none|none]
+adafruit/CharLCDPlateTest: BRANCHES:[master:cd2df54ef7ffd73fef905770315d007a628ec592]|RELEASE:[none|none]
 adafruit/Circuit-Playground-Arduino: BRANCHES:[master:e931ce821578298567acb5898b602cd09a37a6a5;readmefile_try1:aa7e801fafab83d9e3653ff69466a34a59e62c1e]|RELEASE:[none|none]
 adafruit/CircuitPlaygroundFirmata: BRANCHES:[master:26a0f9720476f0965ce93fa4ac96196a6a38417b]|RELEASE:[none|none]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82]|RELEASE:[none|none]
