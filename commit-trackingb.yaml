@@ -1608,6 +1608,7 @@ adafruit/codal-core: BRANCHES:[master:fdfe0534461442dcce2e6d5a3df42fe9cad2b6e0;s
 adafruit/codal-samd21: BRANCHES:[master:e03d9060fbfb32226d6cf2185095f2cfd51b85dd]|RELEASE:[none|none]
 adafruit/contributor_covenant: BRANCHES:[master:537081e69d123e4a8d719fbf24f55a3f20e2d48c;gh-pages:07b4fc6cb1afee612c2e59d72d143679ee6b4044;sexual-practices-clause:5738a899ea6374469396536a0a7fabe5a96c7fb7;revert-266-patch-2:b2874563a93a3301593aaea321354433b62232e7;v1_4:628401580c599915d9cacf92e3894e94ea049554;danielaKay-master:f9b09e39e3ab7271333c47b2b3d398ff8e14f3af;1_3_0:ee2c894390927047990b114404bde1880b027999;changelog:55737c860a8011a038c1beaef2f7dedf95cc1ee2;1_2_0:b651b69bae01f8c65c3fb7bec03553bc948ec69f;version_1_0:6edbd238afdb0629f9ec2bca7e631d3b6663f98c]|RELEASE:[none|none]
 adafruit/cookiecutter-adafruit-circuitpython: BRANCHES:[main:302da5e155805f285102eb482fed981138a17ac9;dev/update-pre-commit-hooks:1bdbfd69196bddfb0f5be78a95e0939b2474aa72;test-cookie-pylint-clean:55f6d042e40428a9e6f3201822b4a89088610c70]|RELEASE:[none|none]
+adafruit/cookiecutter-adafruit-pcb: BRANCHES:[main:f754859a393c6ce892d7b5aeb57fc1f83c57c627]|RELEASE:[none|none]
 adafruit/cordova-adafruit-io: BRANCHES:[master:be274cee2c1669e9b491d5bd265b01acf51d93ae]|RELEASE:[none|none]
 adafruit/dash-examples: BRANCHES:[master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00c]|RELEASE:[none|none]
 adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;master:7c96adca4aacd72ff1472d5813cd860ad5924c18]|RELEASE:[none|none]
