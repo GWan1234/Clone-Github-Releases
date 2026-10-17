@@ -1335,6 +1335,7 @@ adafruit/WINC1500_Atmel_Serial_Bridge: BRANCHES:[19.4.4:9effa70a7c3ed1dce16d3758
 adafruit/WaveHC: BRANCHES:[master:47a8f0a827c45cd0c59dac077909b20ffb703aaa;gh-pages:26f0e0e851eac21056c95296b7386a83c3299d3e]|RELEASE:[1.0.5|47a8f0a827c45cd0c59dac077909b20ffb703aaa]
 adafruit/Weather-Pixels: BRANCHES:[master:d1bb8951b25315a378a47f5bc7e8bbf04a399225]|RELEASE:[none|none]
 adafruit/WiFi101-FirmwareUpdater: BRANCHES:[master:57663e575bd0b77fa45d301e8389e829f340c668]|RELEASE:[none|none]
+adafruit/adabot: BRANCHES:[dependabot/pip/gitpython-3.1.62:c76c68078f39f69fb28079f713491398750a113f;main:7853b3b73d52c1dc5e4e759e12a4aaf555b532fd;blinka-report-improvements:f1900ab2a8d9d20415e95ed33e238e6ad9e60545;actions_bundlebuild_test:e6200bb7c0597e0601bd9c5d401e0f3b3e96881e;detached2:e62110aac378fc353217e76b55373d3befb0ee7d;testing_fixes:cdc17959fe04a769af06c558801a292264e27805;detached:c89a0273cb378fa71d2b6d0a49aaed5cb4b0dc8e;fix_pypiname_releasenotes:d374b8718993652d2bf26c88fc16a0c0ed2ffe7f;more-rate-limit-sleep-fixing:b2fa33e39833b75462a07bdb4f85d95ee2e90370]|RELEASE:[none|none]
 adafruit/adafruit-arduino-proxy: BRANCHES:[master:266ea574635b0fcc0416c68ab918f2c275ad665e]|RELEASE:[none|none]
 adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:8e0a83c88a1fe1b99d8d7e39b21baf4a635cc36b;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5]|RELEASE:[1.2.5|8e0a83c88a1fe1b99d8d7e39b21baf4a635cc36b]
 adafruit/adafruit-bluefruit-le-desktop: BRANCHES:[master:d601794ba56041afc49df64014fea93ad1406933]|RELEASE:[none|none]
