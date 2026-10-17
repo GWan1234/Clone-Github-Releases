@@ -1484,6 +1484,7 @@ adafruit/rpi-fb-matrix: BRANCHES:[master:356141f60ff31db795ee128f4256b31bf45f3a4
 adafruit/rpi-fbcp: BRANCHES:[master:3a136f2d9803d5b293f6221cc7e3dec03a138648;gh-pages:e7f27e8db151b5c9aba2599537d1ff959fb2d2dd]|RELEASE:[none|none]
 adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492]|RELEASE:[none|none]
 adafruit/rpi-rgb-led-matrix: BRANCHES:[master:8c8af1cc135a767d7cb58be2604bb0846670db99]|RELEASE:[none|none]
+adafruit/samd-peripherals: BRANCHES:[main:b577f2ddd3b476abf8777caec15c3383881eb282;spi-dma-fixes:a1f1504d414387fc3ff48dc2ba98fd7af4461a63;atomic-spi-startup:e376cabb69c617ff9a1a433fa05d8f166f0cbe25;syncbusy-timers:1b8d817240901b02096f43e3f914662a09861824]|RELEASE:[none|none]
 adafruit/scale: BRANCHES:[gh-pages:a9416b52382fcf49ee9b8515be71c65183121622]|RELEASE:[none|none]
 adafruit/seesaw: BRANCHES:[master:20e2892e4c0d5bcc71b2b0b5bc981c091cdbd10b;ubuntu-latest:48c68e7d097e9af966d35c519ae2c24ecf31a3b9;rotary_qt:be1ef9559d0718c56c57ff286a0b59306e049af8;neokey_qt:a2f78853edfe28a376fac14decb56ebbb92470bb;neoqt:bf3ead63924ef24b515821c55b6a5c8bcc7079fc;dpikip:e4ac2014e6fe3ce180e89ab2c3c25fd3b9867e16;dm-encoder:d95205825bf9c3e825d65e373bf5080f02877cf1;dm-keypad:9706bf1e1ef6f196f51f791f805563be5a7552b7]|RELEASE:[1.1.6|1fb0df719cc281bf0db5d4160c181a219afbe559]
 adafruit/single_chan_pkt_fwd: BRANCHES:[master:aab8d308ea2abd5f4c39ca74a4493097a6632245]|RELEASE:[none|none]
