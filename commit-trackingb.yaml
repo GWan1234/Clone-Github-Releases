@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 12:21
+commit-tracking: 2026-10-17 12:22
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1342,6 +1342,7 @@ adafruit/Sous_Viduino: BRANCHES:[master:b1b71a4316e9789541d4926df6983e5703d32f68
 adafruit/SpokePOV: BRANCHES:[master:0e97b586be428beb6c0f9c1edffdf9d42cf6d9cd]|RELEASE:[none|none]
 adafruit/Standalone-Arduino-AVR-ISP-programmer: BRANCHES:[master:46ff5e404afaeef1763f65b4128de66ac2281865]|RELEASE:[none|none]
 adafruit/Swift-Playground-Book-For-Bluefruit-Template: BRANCHES:[master:b80c03e276af5431a538c52104cb3df312f129e7]|RELEASE:[none|none]
+adafruit/Swift-Playgroundbooks-Subscription: BRANCHES:[collin-update:d988e7097efdc67f7716a9e16df05b605050ba6c;master:6771b76d46d691eeac994517a3f8f582dc1eda16]|RELEASE:[none|none]
 adafruit/TFTLCD-Library: BRANCHES:[master:54ad6b159db169ea77d12638bc63521dbfdfa4b5;ladyada-patch-1:3ba0b31ddf7f5b4e4207ef263447fb71b05505e0;actionci:b3d5ba1771a08639aec6defb38c77ad378d10c4a;gh-pages:e3a8c46c8a35632ce679a370824d6d2868e3d3ea;nondma_samd51:3e1da133131fd05fa742e13fd15dc55be8d566d7;samd51:167e9364be7eac8ec17f822aeda97fe01b5c4c6c;xmega_support_test:bed0a09f5409d884a18aef798d6a374f59075546;Due:e8cb704fdd364380ddd204f674755417ebf03000]|RELEASE:[1.0.4|54ad6b159db169ea77d12638bc63521dbfdfa4b5]
 adafruit/TIMESQUARE-DIY-Watch-Kit: BRANCHES:[master:e96eb4b1c59d834064f6a437160f73b773111f46]|RELEASE:[none|none]
 adafruit/TIMESQUARE-Watch: BRANCHES:[master:9c604a9a8826a33d8d6ebfb8ae42fc12068bd0dc]|RELEASE:[none|none]
