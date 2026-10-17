@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 14:24
+commit-tracking: 2026-10-17 14:25
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -810,6 +810,7 @@ adafruit/Adafruit-MCP9808-Breakout-PCB: BRANCHES:[master:5a46deacf915eeeb5fcafd8
 adafruit/Adafruit-METRO-328-PCB: BRANCHES:[master:1d635d70533c446c925ec77240370cfee4fba7ad]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90393-PCB: BRANCHES:[master:1c5deadca25875af5eb643b80ae0b7ece4afbb02]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90614-Library: BRANCHES:[master:ae7ec6755c8d73433d823324fb5a2c4864af49a4;gh-pages:ae7571342646cf369164833b85eec81d259b03a0;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598]|RELEASE:[2.1.7|ae7ec6755c8d73433d823324fb5a2c4864af49a4]
+adafruit/Adafruit-MLX90640-PCB: BRANCHES:[master:398d7ceac6f1c1e234bf920386eaf9239ef79adf]|RELEASE:[none|none]
 adafruit/Adafruit-MMA8451-Breakout-PCB: BRANCHES:[master:f9fa425744bf6c85d7ff0a4c80fd36311a0da974]|RELEASE:[none|none]
 adafruit/Adafruit-MPL115A2-Breakout-PCB: BRANCHES:[master:c28cfcbce2a9bd072de601268ede652433dbb51a]|RELEASE:[none|none]
 adafruit/Adafruit-MPL3115A2-PCB: BRANCHES:[master:c57b3e05fa7907f850a4f0af6fb211ae9c831847]|RELEASE:[none|none]
