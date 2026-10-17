@@ -620,6 +620,7 @@ adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: BRANCHES:[master:cae1ee442bd
 adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB: BRANCHES:[master:536d39c0d90da3ef5916985afb3ce4178c219206]|RELEASE:[none|none]
 adafruit/Adafruit-DPI-Kippah: BRANCHES:[master:d05c5e17c85a94d8a6d5fdcd45e5aba5d8b37188]|RELEASE:[none|none]
 adafruit/Adafruit-DRV2605-PCB: BRANCHES:[master:78a53522699b0f0661ed8fec2f3d5eb2d617e4b0]|RELEASE:[none|none]
+adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: BRANCHES:[master:1d60495b54bd6ff8fa4d5acca7a6e1c1a317cfe1]|RELEASE:[none|none]
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: BRANCHES:[master:37c7ffb587c00e67d739baa078eb755f0976d15f]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1bece2c690ddaa7c65dfc82]|RELEASE:[none|none]
