@@ -636,6 +636,7 @@ adafruit/Adafruit-Sharp-Memory-Display-PCBs: BRANCHES:[master:58b3ededa86c2b7cfe
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
 adafruit/Adafruit-Thermal-Printer-Library: BRANCHES:[master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d]|RELEASE:[1.4.1|1773dd84ddcad8a8d22d03ef7b55287b6967b9fb]
 adafruit/Adafruit-Tweet-Receipt: BRANCHES:[master:531f248c298479a2c5b570877ca5e2d97822e74d]|RELEASE:[none|none]
+adafruit/Adafruit-USB-DC-LiPoly-Charger: BRANCHES:[master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: BRANCHES:[master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9]|RELEASE:[none|none]
 adafruit/Adafruit-Ultimate-GPS: BRANCHES:[master:70430c1240b49c1e054f1edee84ad0b5ec8ebe56]|RELEASE:[none|none]
 adafruit/Adafruit-VC0706-Serial-Camera-Library: BRANCHES:[master:e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85;gh-pages:e45d0578eb65444bbe638eca2fc1743292b8d907;actions:17841710c4440bc6cd59106aceca90304fc4d5e9]|RELEASE:[1.2.2|e11b41a6ea3b5eedda1c0e1a2c403c50b2c1cd85]
