@@ -1619,6 +1619,7 @@ adafruit/mu: BRANCHES:[master:6417b209b7673aacee4dbdb57c067c0f0af14cec;qtplotter
 adafruit/nina-fw: BRANCHES:[master:586ef2a982ac1d30d696ba88ee025daa2b605ae1;revert-24-github-actions-test:731718b6d86047aefa041ef02e64c56030466f2b;BT_HCI:56d7b740ed2751b7efed1e7590098829626c1324;if_statistics:53c45b18fd2377b0c5af578d72d91c1f859d5cba;wpa2_enterprise:50f55a0732d42524b51d491d032a11b4267f2abc;filesystem_apis:3cb8c800583c19259484cfb65ebdbc23c226ebe3;bluetooth:627db2f14acf46a834e261b838685f9628456be1]|RELEASE:[3.3.0|586ef2a982ac1d30d696ba88ee025daa2b605ae1]
 adafruit/node_mpr121: BRANCHES:[master:3730f618dd343af339218f89183ab621542f9758]|RELEASE:[none|none]
 adafruit/node_npr: BRANCHES:[master:78b44403d40b1149a5a281f43da267dda5ff958f]|RELEASE:[none|none]
+adafruit/nofrendo_arcada: BRANCHES:[master:c8a81ea4829f341a32c047344fe18aa920688c57;arcada-flash-rewrite:57c798449a94109816aa30dd4e95b8c70a841f97;savestate:a7b39e914f959cbd182132d334d403e99c06dc8d]|RELEASE:[none|none]
 adafruit/nprone-cli: BRANCHES:[master:53f718d7cb8b52446d58a35e84b841c057001d6c]|RELEASE:[none|none]
 adafruit/nrfx: BRANCHES:[circuitpython-v2.0.0:ab21106ea57b63d97b757a9f17201ddf298ffab0;circuitpython-v3.3.0:d0d0a36419d7b43f33c3d1d4df8b5a44e58c60c3;master:66628bc1b7024a53d0af9ff81a483abc5557871a]|RELEASE:[none|none]
 adafruit/omxplayer: BRANCHES:[master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f]|RELEASE:[2/10/2015|497a5c61141870e3cf007971e222b3a5213dd8ef]
