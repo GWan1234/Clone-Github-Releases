@@ -890,6 +890,7 @@ adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d9833
 adafruit/DotStarPiPainter: BRANCHES:[master:71df036fef22e8c70a1173bf0d216fd252d81fc6]|RELEASE:[none|none]
 adafruit/ESP8266_Morse_Code: BRANCHES:[master:4043f058e0c18a0c69ad1ef09b74b7e0b60357ad]|RELEASE:[none|none]
 adafruit/FONA_PPP: BRANCHES:[master:b1aeec0d5f951bdc24e8924ef5f4c3a138e711e6]|RELEASE:[none|none]
+adafruit/Feather_Holiday_Lights: BRANCHES:[master:69cf62f6d9d2b9acc870fb0db6a497b584302394]|RELEASE:[none|none]
 adafruit/Feedback-Servo-Record-and-Play: BRANCHES:[master:9ed41f443a37443ef52a0c2a8031256e09fc8c05]|RELEASE:[none|none]
 adafruit/FifteenStep: BRANCHES:[actionci:1fcbb1712b8078ba98e3b5786714528eeded3d40;gh-pages:41c7369e06e3f70f69097aec3563780f39b75937;master:32143eca13ba33ae2d3f5c764e881c2be9b2c1e2;untz:5e4a4b67cb25c9208429e22647b9594f9640df51]|RELEASE:[1.2.4|32143eca13ba33ae2d3f5c764e881c2be9b2c1e2]
 adafruit/Flora-Brakelight-Backpack: BRANCHES:[master:8f6ed6e5dd51cb952dad99b5e27b60949b299634]|RELEASE:[none|none]
