@@ -636,6 +636,7 @@ adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:e560788716ed2d9b2
 adafruit/Adafruit-MAX9744-Amplifier-PCB: BRANCHES:[master:8df09f97bcc66b78a54ca049957f7637fdd513c0]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1]|RELEASE:[2.3.2|9e67e3732d1af68d8894b2f98c57bd9efa54027c]
+adafruit/Adafruit-METRO-328-PCB: BRANCHES:[master:1d635d70533c446c925ec77240370cfee4fba7ad]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90614-Library: BRANCHES:[master:ae7ec6755c8d73433d823324fb5a2c4864af49a4;gh-pages:ae7571342646cf369164833b85eec81d259b03a0;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598]|RELEASE:[2.1.7|ae7ec6755c8d73433d823324fb5a2c4864af49a4]
 adafruit/Adafruit-MPL3115A2-PCB: BRANCHES:[master:c57b3e05fa7907f850a4f0af6fb211ae9c831847]|RELEASE:[none|none]
 adafruit/Adafruit-MTK3329-GPS-Module-Test-Sketch: BRANCHES:[master:c10aaf346a213d1eebd287dadb8aae4a8d8269d9]|RELEASE:[none|none]
