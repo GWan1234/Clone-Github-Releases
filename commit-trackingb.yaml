@@ -840,6 +840,7 @@ adafruit/Adafruit-NextBus: BRANCHES:[master:e87decc082bb10867b50d8c500fa9ec62be4
 adafruit/Adafruit-OLED-FeatherWing-PCB: BRANCHES:[master:179eb83875ab86c49a6b2d771e95099a55d8984b]|RELEASE:[none|none]
 adafruit/Adafruit-Occi: BRANCHES:[master:a4d5c50a45e2c1079692ac2a52907935f34836eb]|RELEASE:[none|none]
 adafruit/Adafruit-Occidentalis: BRANCHES:[master:115173db410886eed029ebcce3414b6f5b01950f]|RELEASE:[none|none]
+adafruit/Adafruit-PA1010D-Mini-GPS-PCB: BRANCHES:[master:6f1d0f216b848bea8d473a4b1384fd0340536ea0]|RELEASE:[none|none]
 adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: BRANCHES:[master:28187bf4de497bd6bcff28d3767473f78b46038d]|RELEASE:[none|none]
 adafruit/Adafruit-PCB-Ruler: BRANCHES:[master:722a89a839cd30a00da8f9e0d61cb9332e491f55]|RELEASE:[none|none]
 adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983]|RELEASE:[2.0.3|87565cd21a2a79b3db48a851170a24eaadd33c8d]
