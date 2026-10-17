@@ -1140,6 +1140,7 @@ adafruit/BLE-Robot-Rover: BRANCHES:[master:0982a9b21267ee76e238a34e61dea12d929cf
 adafruit/BLE_Colorific: BRANCHES:[master:b80af87eaf7551567ba882be85e8ebfdf397f2f7]|RELEASE:[none|none]
 adafruit/BNO055-Cordova-Example: BRANCHES:[master:a1c6ba346303ed26d8d5a84af1dd7c15884bdd6e;sawcoach:0dbee7f5ac745ff51854e520cc91382ceee68ae1]|RELEASE:[none|none]
 adafruit/BNO055_Demo: BRANCHES:[master:dec5b9ded60a3bc3d878543a4b2b671b5ae07b8e]|RELEASE:[none|none]
+adafruit/BOSSA: BRANCHES:[arduino:ec166966f58928142a9366939b917e2250a46ccb;master:2ebf559da43bb0ea6a3d9a17739458002b51ac52]|RELEASE:[atsamr|2ebf559da43bb0ea6a3d9a17739458002b51ac52]
 adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859]|RELEASE:[none|none]
 adafruit/Basic-Chat: BRANCHES:[master:8280b26375ecbdd5a229721eb302a4422a115d4c]|RELEASE:[none|none]
 adafruit/Bluefruit-NeoMatrix-Snowflake: BRANCHES:[master:77c474317bddfacaa810f7d4b8f62f87edaf5436]|RELEASE:[none|none]
