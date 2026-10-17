@@ -769,6 +769,7 @@ adafruit/Adafruit-ST7735-Library: BRANCHES:[ExpanderPin:aba823e3b15f4a4d18cfaec5
 adafruit/Adafruit-STMPE610-Breakout-PCB: BRANCHES:[master:8cf4f3cc9aaa31c6f5b90e661fa7ba99559052bb]|RELEASE:[none|none]
 adafruit/Adafruit-Servo-HAT-Bonnet-PCB: BRANCHES:[master:b15611b66fcf0dffc06f1d888e84cd751dda3e4a]|RELEASE:[none|none]
 adafruit/Adafruit-Sharp-Memory-Display-PCBs: BRANCHES:[master:58b3ededa86c2b7cfefea12a5e15883150ea17de]|RELEASE:[none|none]
+adafruit/Adafruit-Si1145-Light-Sensor-PCB: BRANCHES:[master:af029f1447d85573ee78fc2c6ac3f4fef360cd97]|RELEASE:[none|none]
 adafruit/Adafruit-Si4713-Library: BRANCHES:[master:fa38460fb0303d7951ff6a20828d707d13225d30;gh-pages:f0ad4926a5bd1bf761594fd828e17d3df08f9872;fix-warning:3db8e11741686a783c62ccc337f982db1a7f3ab5;actionci:e1a17ab996bc4fa91b3ce707617b023e88203bd3]|RELEASE:[1.2.4|fa38460fb0303d7951ff6a20828d707d13225d30]
 adafruit/Adafruit-Si4713-PCB: BRANCHES:[master:bf85d5c1095aa6d66b95976e2d420d83f4e86d0f]|RELEASE:[none|none]
 adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB: BRANCHES:[master:14a50ca2041bbcccc6a2b1378cb72424603f5d20]|RELEASE:[none|none]
