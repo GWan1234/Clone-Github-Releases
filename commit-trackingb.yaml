@@ -737,6 +737,7 @@ adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f61
 adafruit/Adafruit-RGB-LCD-shield-PCB: BRANCHES:[master:acb4ada959e35a67703b50efb88ad986440d37e5]|RELEASE:[none|none]
 adafruit/Adafruit-RasPipe: BRANCHES:[master:bedc53e0f97bdc11dc2ea8188df925c7903604d9]|RELEASE:[none|none]
 adafruit/Adafruit-Raspberry-Pi-Python-Code: BRANCHES:[master:b4aeee58b670645149f6f682a6c5ac04a0a0d314;legacy:9ff733d59242a02f7ccd0222001ce80f6090a978]|RELEASE:[none|none]
+adafruit/Adafruit-Relay-FeatherWing-PCBs: BRANCHES:[master:130d79e53912a8a22dc273c521f96e74ea0b280d]|RELEASE:[none|none]
 adafruit/Adafruit-Resistor-Helper: BRANCHES:[master:a1b431ca0a94ce867ad79d102a5c5b1941a7c43c]|RELEASE:[none|none]
 adafruit/Adafruit-Retrogame: BRANCHES:[master:44fc838bd4dc6d12ea97fc456c22d0f4e0a2453b;mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3]|RELEASE:[none|none]
 adafruit/Adafruit-SMT-Breakout-PCBs: BRANCHES:[master:dbd7a1928c2b668a9edf3d53277063eac4c3e938]|RELEASE:[none|none]
