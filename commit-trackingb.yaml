@@ -650,6 +650,7 @@ adafruit/Adafruit-PS2-Trackpad: BRANCHES:[master:b24f1867ad11afd7fb787b0413e4af2
 adafruit/Adafruit-PWM-Servo-Driver-Library: BRANCHES:[master:a98850b815bf9696c8ffdc2a0f89d657c52dd44b;gh-pages:b434ae32f5dd40f6c2e3318e29584f3921424fdd;actions:e610e9ccdbe9a6dcd6af5ebed888224014a98f20;photodude-patch-1:16705a539bfe829ad518f6f69ffcbb3a1c087181]|RELEASE:[3.0.3|a98850b815bf9696c8ffdc2a0f89d657c52dd44b]
 adafruit/Adafruit-Perma-Proto-PCB: BRANCHES:[master:2c7f1ba8791a65e9b3886cb34356d6ec1abe54de]|RELEASE:[none|none]
 adafruit/Adafruit-Pi-Finder: BRANCHES:[v4:329847e9ba2539654a6e658568a058daf42e0c92;master:d686bad555d2b97390e6b0d690c3498921c059cb]|RELEASE:[3.0.0|1b233ded6fd02ea61e480cb49f5d2db93004737c]
+adafruit/Adafruit-PowerBoost-500-Basic-PCB: BRANCHES:[master:ce7199be2eb4bc33deb4a0a9f407b9dc05df20ea]|RELEASE:[none|none]
 adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a]|RELEASE:[none|none]
 adafruit/Adafruit-Programmable-Piggy-Bank: BRANCHES:[master:f6b7d523e648ca6d012c6636367265c2a3ac1c33]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb]|RELEASE:[none|none]
