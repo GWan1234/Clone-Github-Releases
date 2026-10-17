@@ -997,6 +997,7 @@ adafruit/Python-WiFi-Radio: BRANCHES:[master:689b2335d86a74274f76733261d031e40ee
 adafruit/PythonClub: BRANCHES:[master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7]|RELEASE:[none|none]
 adafruit/RGB-matrix-Panel: BRANCHES:[master:81ee07118cc267cfab30743ae621c193c9e5838b;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e]|RELEASE:[1.1.9|81ee07118cc267cfab30743ae621c193c9e5838b]
 adafruit/RTClib: BRANCHES:[master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528]|RELEASE:[2.1.4|5298434167b770c4602661d682e3b340d565073f]
+adafruit/Raspberry_Pi_SQLite_Sensors: BRANCHES:[master:7ac7cfce9549b83332c498eb365a766f74b26ee0]|RELEASE:[none|none]
 adafruit/Raspberry_Pi_Talk_To_Things: BRANCHES:[master:61714e20232127c8ba06d5fd1f1ee792648f19e2]|RELEASE:[none|none]
 adafruit/Raw-IR-decoder-for-Arduino: BRANCHES:[master:e23d69394b9e7c8e9a0652f09342afdfa1cfc7e2]|RELEASE:[none|none]
 adafruit/Reference-Cards: BRANCHES:[master:602f1c8823132464358e8eaf37ddbd3979048d9c]|RELEASE:[none|none]
