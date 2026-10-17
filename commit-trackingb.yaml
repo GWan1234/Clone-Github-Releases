@@ -603,6 +603,7 @@ adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38]|RELEASE:[none|none]
 adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB: BRANCHES:[master:7075f89067dfed503101a3414c45d55e9ab80444]|RELEASE:[none|none]
+adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: BRANCHES:[master:217534674defab8d2040a7399b23d3cead345195]|RELEASE:[none|none]
 adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46e8f2473a765239112a8b48f12]|RELEASE:[none|none]
 adafruit/Adafruit-Adalogger-FeatherWing-PCB: BRANCHES:[master:28ea68d9ffa6d51690195bf295ecfa656ab45f18]|RELEASE:[none|none]
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1bc2717aa0a4d334c16a64d9]|RELEASE:[none|none]
