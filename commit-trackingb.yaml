@@ -1046,6 +1046,7 @@ adafruit/Adafruit_ZeroTimer: BRANCHES:[master:0ee525c2a1b07322f68c5644c099941a1d
 adafruit/Adafruit_iCufflinks: BRANCHES:[master:a150f329582a90235f2d32650af52d1175c764c4]|RELEASE:[none|none]
 adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90]|RELEASE:[none|none]
 adafruit/Adafruit_nRF51822_Flasher: BRANCHES:[master:ca606ce6fe82219cf6a66ca7d764ee0245696b28]|RELEASE:[none|none]
+adafruit/Adafruit_nRF52_Arduino: BRANCHES:[master:343ab5fe7fb3d5657d3176883dfb188d65b79f06;sdfat_v2:739d6485a07e655ca6b7ba8aa7b9cb820b3557bf]|RELEASE:[1.7.0|ba4ad90d7e90c2ad5d4c98c10539f1f77fafa6ab]
 adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1ddfbf0;gh-pages:c2be5823adea3fe9ead6b783363f09ad6b6c6136;master:5b331b370a980e90c0983a685da74996fe61dab1;arm_sdk:3dc7e7b0afde394b9b1328be060fb61221dae73d]|RELEASE:[1.1.1|5b331b370a980e90c0983a685da74996fe61dab1]
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
 adafruit/Arduin_o_phone: BRANCHES:[master:f6abf2b2d1821cc4410ec10594bb55a1cf5a7984]|RELEASE:[none|none]
