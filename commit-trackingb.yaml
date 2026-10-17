@@ -645,6 +645,7 @@ adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:afa33c7b1e1a1a4d74bcbe9e
 adafruit/Adafruit-NeoPixel-Jewel-7: BRANCHES:[master:d841888d6013e66cb6c9998d67bc8e5a6839c59d]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Ring: BRANCHES:[master:3d43edf8f1828cdbbd85560876027ded6257eae3]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Shield-PCB: BRANCHES:[master:8d382ceb17fb866f36544c106bb4346278c69c05]|RELEASE:[none|none]
+adafruit/Adafruit-Occidentalis: BRANCHES:[master:115173db410886eed029ebcce3414b6f5b01950f]|RELEASE:[none|none]
 adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: BRANCHES:[master:28187bf4de497bd6bcff28d3767473f78b46038d]|RELEASE:[none|none]
 adafruit/Adafruit-PCB-Ruler: BRANCHES:[master:722a89a839cd30a00da8f9e0d61cb9332e491f55]|RELEASE:[none|none]
 adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983]|RELEASE:[2.0.3|87565cd21a2a79b3db48a851170a24eaadd33c8d]
