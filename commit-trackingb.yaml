@@ -1633,6 +1633,7 @@ adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8
 adafruit/libgpiod_pulsein: BRANCHES:[master:a91d3875192a875f2eacfed47e506963ecafe851;libgpiod2:a91d3875192a875f2eacfed47e506963ecafe851]|RELEASE:[none|none]
 adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba65017103b]|RELEASE:[none|none]
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RELEASE:[none|none]
+adafruit/makecode-newsletter: BRANCHES:[master:a1506c9dd3570859f14a7581e723a850a411af95]|RELEASE:[none|none]
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49]|RELEASE:[none|none]
 adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e773eecd7ad0b1e13]|RELEASE:[1.0|8edb1e97ef93959ac9f6975f0948e33d2424355e]
 adafruit/micropython-adafruit-bitmap-font: BRANCHES:[master:bf04e0b2abba6570d7d27b58b3295ca519838d74]|RELEASE:[2.0.1|905b18fa7d74a51872ad146544a6afb00dddf08a]
