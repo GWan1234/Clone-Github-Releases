@@ -634,6 +634,7 @@ adafruit/Adafruit-Cupcade-Adapter-PCB: BRANCHES:[master:172cdf5ec647646cf39b5583
 adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: BRANCHES:[master:cae1ee442bd88638aac6427bd78f737aa0846a9e]|RELEASE:[none|none]
 adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB: BRANCHES:[master:536d39c0d90da3ef5916985afb3ce4178c219206]|RELEASE:[none|none]
 adafruit/Adafruit-DPI-Kippah: BRANCHES:[master:d05c5e17c85a94d8a6d5fdcd45e5aba5d8b37188]|RELEASE:[none|none]
+adafruit/Adafruit-DPI-Kippah-PCB: BRANCHES:[master:ccdf0e5bfe8911e78a854b59cee0e4ebaf9b7198]|RELEASE:[none|none]
 adafruit/Adafruit-DRV2605-PCB: BRANCHES:[master:78a53522699b0f0661ed8fec2f3d5eb2d617e4b0]|RELEASE:[none|none]
 adafruit/Adafruit-DRV8871-Breakout-PCB: BRANCHES:[master:4183ffe41cac746a327c60825b18fa814e081e0f]|RELEASE:[none|none]
 adafruit/Adafruit-DS2413-PCB: BRANCHES:[master:a5aeeffa483ae80c718e9cb3cd23ea769cd5321b]|RELEASE:[none|none]
