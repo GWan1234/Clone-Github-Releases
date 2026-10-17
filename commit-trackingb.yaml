@@ -688,6 +688,7 @@ adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RE
 adafruit/ArduinoISP: BRANCHES:[master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685]|RELEASE:[none|none]
 adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859]|RELEASE:[none|none]
 adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75deba82]|RELEASE:[none|none]
+adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410]|RELEASE:[none|none]
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec]|RELEASE:[1.4.7|f7d625462e6033f373e51f8c67f88fc429535b47]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
