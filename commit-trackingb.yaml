@@ -1549,6 +1549,7 @@ adafruit/MAX31850_OneWire: BRANCHES:[master:1bd8fd741e50fd02d73dc7068c3bd997c600
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/META-Picomon: BRANCHES:[master:58a76ac2941ab347823101fc0346eca43f3f307a]|RELEASE:[none|none]
 adafruit/METROX-Examples-and-Project-Sketches: BRANCHES:[master:03ce7109b3f816926a510c3d755a2c380949e575;travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce]|RELEASE:[none|none]
+adafruit/MIMXRT10xx_SDK: BRANCHES:[master:97b29486e66ba736c96892831eace128461a3c74]|RELEASE:[none|none]
 adafruit/MakerFaireBayArea2019: BRANCHES:[master:92b9600dbbc761ea3b262291383f5aadd6b5f613]|RELEASE:[none|none]
 adafruit/MicroPython_TravisCI_Deploy: BRANCHES:[master:307afb12fd1112dcd0395f38f0aaa55819876e8f]|RELEASE:[none|none]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
