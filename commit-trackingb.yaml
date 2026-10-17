@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 05:37
+commit-tracking: 2026-10-17 05:38
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -582,6 +582,7 @@ adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Adafruit_FTDI-Friend-PCB: BRANCHES:[master:46ca96fff7e8e48b999d585ec85313cfc4ab9ec9]|RELEASE:[none|none]
 adafruit/Adafruit_LiquidCrystal: BRANCHES:[master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b]|RELEASE:[2.0.4|645a6cef15653be4f77e119da014d3dd69c6e4cd]
+adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3]|RELEASE:[none|none]
 adafruit/Adafruit_SSD1306: BRANCHES:[master:d94f699451d72286357cba7259055ffff2c2940b;gh-pages:ccd44c4198ca98c013679dec7fcdd01049d08008;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;zero:5674153e88a71d8b7cf035787caa7eb06d7484df]|RELEASE:[2.5.17|d94f699451d72286357cba7259055ffff2c2940b]
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
