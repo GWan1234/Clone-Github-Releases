@@ -1221,6 +1221,7 @@ adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba650
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RELEASE:[none|none]
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49]|RELEASE:[none|none]
 adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e773eecd7ad0b1e13]|RELEASE:[1.0|8edb1e97ef93959ac9f6975f0948e33d2424355e]
+adafruit/micropython-adafruit-bitmap-font: BRANCHES:[master:bf04e0b2abba6570d7d27b58b3295ca519838d74]|RELEASE:[2.0.1|905b18fa7d74a51872ad146544a6afb00dddf08a]
 adafruit/micropython-adafruit-is31fl3731: BRANCHES:[master:0037ebc519ba3ffb29d556868e75718f4966dd39]|RELEASE:[1.0.1|4e0000bde0e55db93653b583322de722c9fc2d74]
 adafruit/micropython-adafruit-max7219: BRANCHES:[master:cd08f41ed7337cb6e37f9571bfd0f3d3c3850062]|RELEASE:[1.0|1606b2ad3e47b349e21acbe4752e51aec6d874dd]
 adafruit/micropython-adafruit-pca9685: BRANCHES:[master:0fea2736f99a2840f0d644be866f6abd5bc14b48]|RELEASE:[1.1.1|d887b1ac509011d8fb861118e6bcaa4219143470]
