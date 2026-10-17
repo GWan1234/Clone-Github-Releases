@@ -622,6 +622,7 @@ adafruit/Adafruit-Gemma-PCB: BRANCHES:[master:88b3cb1a0c9ede216d3a93f904ab7ded9e
 adafruit/Adafruit-Graphic-VFD-Display-Library: BRANCHES:[master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34]|RELEASE:[1.1.2|f35ecfb8399b713541fd54fd1276145dacd3cc40]
 adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: BRANCHES:[master:530ec62b7f4ef73fc794e10b9c59c43b7ac2c17a]|RELEASE:[none|none]
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
+adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d07928551e7f1f71a38335e33c4b530]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
 adafruit/Adafruit-INA219-Current-Sensor-PCB: BRANCHES:[master:f7ef6a540648572549d64ff2b9b1932f17173e40]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: BRANCHES:[master:b89ffa961067cb959deff9eae264a017a2650539]|RELEASE:[none|none]
