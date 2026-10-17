@@ -755,6 +755,7 @@ adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce
 adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a]|RELEASE:[none|none]
 adafruit/Adafruit-TLC59711-Breakout-PCB: BRANCHES:[master:db1aa65ded2fdca2fb8dca48995195abe2235a0f]|RELEASE:[none|none]
 adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8]|RELEASE:[none|none]
+adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB: BRANCHES:[master:b099d41a3fb4cddce5f19a7a8bbdc7a2d68711d8]|RELEASE:[none|none]
 adafruit/Adafruit-TPA2016-Library: BRANCHES:[master:17d1a6cf3f423952c0b07518e9ef46a2476bf8df;gh-pages:afa1d75e70fc71c5a16bfa92ab1aeae44bff55b2;actionci:baa74d30398e9e536cf6bf3c6bde0fb7e07718be]|RELEASE:[1.2.2|17d1a6cf3f423952c0b07518e9ef46a2476bf8df]
 adafruit/Adafruit-TPA2016-PCB: BRANCHES:[master:cad449b53378a89066d524a24f085207d74faf06]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
