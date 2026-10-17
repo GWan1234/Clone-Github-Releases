@@ -736,6 +736,7 @@ adafruit/Adafruit-TPA2016-Library: BRANCHES:[master:17d1a6cf3f423952c0b07518e9ef
 adafruit/Adafruit-TPA2016-PCB: BRANCHES:[master:cad449b53378a89066d524a24f085207d74faf06]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
 adafruit/Adafruit-Talking-Clock: BRANCHES:[master:0b87769fcd721489e0e00bf42d8d75846296e5fb]|RELEASE:[none|none]
+adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: BRANCHES:[master:b5c7edd20f00010be64d25145d6ee1dacd28b083]|RELEASE:[none|none]
 adafruit/Adafruit-Thermal-Printer-Library: BRANCHES:[master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d]|RELEASE:[1.4.1|1773dd84ddcad8a8d22d03ef7b55287b6967b9fb]
 adafruit/Adafruit-Trinket-Gemma-Bootloader: BRANCHES:[master:3bc1bb561273535d4d493518a233a3a1fccf6b76;button-boot-activation:1be6ac8acfb27d521159ff753dd387ba54489d4e]|RELEASE:[none|none]
 adafruit/Adafruit-Trinket-PCB: BRANCHES:[master:3a2695463e52f72434d20daca6502fc62e8e2fcc]|RELEASE:[none|none]
