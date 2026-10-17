@@ -866,6 +866,7 @@ adafruit/monochron: BRANCHES:[master:30cca6a53b24f6a5f8f7b5a33cea1bd9a14608ea;Se
 adafruit/pianoglove: BRANCHES:[master:93e689909e590c3e22e14123814b70cb38339a99;pianoglove-midi:fed157809528b3d21451ebb251753ae781a06bde]|RELEASE:[none|none]
 adafruit/piccolo: BRANCHES:[master:aeda8407684dbc44b845cf845289d02abb0ffb27]|RELEASE:[none|none]
 adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a215]|RELEASE:[none|none]
+adafruit/wifi-reset: BRANCHES:[master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd]|RELEASE:[none|none]
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a]|RELEASE:[none|none]
 atc1441/88MZ100: BRANCHES:[master:6fc0c91c176b4f0661563679835e0b416b088951]|RELEASE:[none|none]
