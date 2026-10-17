@@ -603,6 +603,7 @@ adafruit/Adafruit_SSD1306: BRANCHES:[master:d94f699451d72286357cba7259055ffff2c2
 adafruit/Adafruit_TouchScreen: BRANCHES:[master:b64e777d8f6e321ba2ed726412955dd2ae8d26e0;gh-pages:9503cf101df55fbbdc4eaa87659f38c5db1c0a58;esp8266_add:1350b31cc5c69c1b039f0d43e4f29777b97eaf80;actionci:234a93a78ec06021995e49d75d07564c26eeaa7b;Due:ec038182d2846cab83cd6f069416ce0398ee1605]|RELEASE:[1.1.6|b64e777d8f6e321ba2ed726412955dd2ae8d26e0]
 adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:54a885baee53612ef38a02fa0ca4cf845c4ce1ae]|RELEASE:[none|none]
 adafruit/Adafruit_iCufflinks: BRANCHES:[master:a150f329582a90235f2d32650af52d1175c764c4]|RELEASE:[none|none]
+adafruit/ArduinoISP: BRANCHES:[master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685]|RELEASE:[none|none]
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec]|RELEASE:[1.4.7|f7d625462e6033f373e51f8c67f88fc429535b47]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
