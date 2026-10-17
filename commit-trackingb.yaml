@@ -580,6 +580,7 @@ adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c
 adafruit/Adafruit-MAX6675-Breakout-Board-PCB: BRANCHES:[master:e560788716ed2d9b221a7b8176eb82e57615d185]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-Motor-Shield-library: BRANCHES:[master:d81504057474e940de7f0a0934f19c626846a154]|RELEASE:[1.0.1|d81504057474e940de7f0a0934f19c626846a154]
+adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983]|RELEASE:[2.0.3|87565cd21a2a79b3db48a851170a24eaadd33c8d]
 adafruit/Adafruit-Proto-Screwshield-PCB: BRANCHES:[master:ce439b0d2063337f03171edbf927aae6552befa0]|RELEASE:[none|none]
 adafruit/Adafruit_Atmega32u4_Breakout_Board: BRANCHES:[master:95a296a2957c41f86e3013eb707e21c7b2db7678]|RELEASE:[none|none]
 adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51bd16cd17286410]|RELEASE:[none|none]
