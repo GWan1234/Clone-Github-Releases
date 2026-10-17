@@ -577,6 +577,7 @@ aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|
 adafruit/2-axis-joystick-breakout-board-with-mounting-holes: BRANCHES:[master:1d523eacdbcaed54abf94ee1703fdcb76a94d8cf]|RELEASE:[none|none]
 adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63]|RELEASE:[none|none]
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: BRANCHES:[master:51ef8e242dcf460d5effc298d8565110624e6b23]|RELEASE:[none|none]
+adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
