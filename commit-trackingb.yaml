@@ -745,6 +745,7 @@ adafruit/Adafruit_ADXL345: BRANCHES:[master:8e799d73d8eca7e6c00e74f7cecd325f6d88
 adafruit/Adafruit_ADXL345_PCB: BRANCHES:[master:0d863e1e75eeb2bbb8324bbc15c622388ea3f0de]|RELEASE:[none|none]
 adafruit/Adafruit_AHRS: BRANCHES:[master:69fbb4021acbaccc55258ed8082d71c1968c8909;fix-warnings:278089246a142f129af44fe8d3f34adde1ffe44d;develop:2e20d45a26f05ecc5f3556f158e38c4b179b8436;gh-pages:503d1a344bd8a94962c1b073ef913e7a72ee70dd;adafactor:147509f060ea1217e7f3a47274928cf5d27e302f;refactor:780e698cbd5222d851474b16ac05e8dddb570947]|RELEASE:[2.4.0|69fbb4021acbaccc55258ed8082d71c1968c8909]
 adafruit/Adafruit_AM2315: BRANCHES:[master:7f52340f38ce714f00ce47de39fd50c82e409184;gh-pages:81931048c99957035d1828a25ba65a8f44a154b6;actionci:18d9bca559a50cfd9c6b48e0124b9c5c521cd880]|RELEASE:[2.2.3|7f52340f38ce714f00ce47de39fd50c82e409184]
+adafruit/Adafruit_ASFcore: BRANCHES:[master:99f9be5465caad6e368102b5465b30aa9b07a26e]|RELEASE:[none|none]
 adafruit/Adafruit_Adalink: BRANCHES:[master:071ee995192a673bef2262bfc3aaae9b6195f4e2]|RELEASE:[2.3.0|396e7b355f8720b10f0883d3a95ddc3c91859066]
 adafruit/Adafruit_Android_BLE_UART: BRANCHES:[master:68c686575a307eaaa88ce76886f304779bd29690]|RELEASE:[none|none]
 adafruit/Adafruit_Arduino_Boards: BRANCHES:[master:3751f438bb2cff9b5970d1056c4a2e91876a93f0;add-wire-end:7157b88f4a683aa069d877b217f96c1063df01aa;refactor:f4e274f512f9def3b537ec98a76313e8229bf769]|RELEASE:[1.4.15|3751f438bb2cff9b5970d1056c4a2e91876a93f0]
