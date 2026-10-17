@@ -934,6 +934,7 @@ adafruit/Adafruit_CircuitPython_SI7021: BRANCHES:[main:689c0b409421ca72c30e9885b
 adafruit/Adafruit_CircuitPython_SSD1306: BRANCHES:[main:f8fa41a320f0bb29be6f37d340e69eba16b7a311]|RELEASE:[2.12.24|f8fa41a320f0bb29be6f37d340e69eba16b7a311]
 adafruit/Adafruit_CircuitPython_SimpleIO: BRANCHES:[main:5762bd0ec1309f9ef489633ed8bcc17d1bc7f560;tone:c16eca829fe2288dd4e0249dd660c59b5631858c;servo:992c3b7b92d43fefc04f68dd46323b0a017dd20d;_map:cd15d89aface4f867c4b90b49535730ee5c5e5df;stepper:f213e1ba42e6de9bc59c64308dd05a38b5315d57;pulseio:f213e1ba42e6de9bc59c64308dd05a38b5315d57;map:f213e1ba42e6de9bc59c64308dd05a38b5315d57]|RELEASE:[3.0.20|5762bd0ec1309f9ef489633ed8bcc17d1bc7f560]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
+adafruit/Adafruit_Curie_Bot: BRANCHES:[master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae]|RELEASE:[none|none]
 adafruit/Adafruit_DHT_Unified: BRANCHES:[master:67b98789e89a63bb4e95b748578436ce954b03d1]|RELEASE:[1.0.0|296983cb209bb9b9e4f02536cbdde6bce41d80c2]
 adafruit/Adafruit_DRV2605_Library: BRANCHES:[master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d]|RELEASE:[1.2.4|b910b1631cf0179152261afe8072aeeada40629b]
 adafruit/Adafruit_DS2413: BRANCHES:[master:a044150b7fd3a57d3e0123b154df27d782edc3f5]|RELEASE:[none|none]
