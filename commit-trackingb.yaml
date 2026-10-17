@@ -760,6 +760,7 @@ adafruit/Adafruit_Python_ILI9341: BRANCHES:[master:f1fb7ec1614e3fde8fa25ad1324cd
 adafruit/Adafruit_Python_LED_Backpack: BRANCHES:[master:a0a91e0bb0a9a16f898b591137a9f091dee6b4ee]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MAX31855: BRANCHES:[master:f6d6bfa3e27c16fd3edabf126ad8676b3b72bed9]|RELEASE:[none|none]
 adafruit/Adafruit_Python_MCP9808: BRANCHES:[master:5524605a15cfce5668f259de72c88d5be74565f4]|RELEASE:[1.5.6|5524605a15cfce5668f259de72c88d5be74565f4]
+adafruit/Adafruit_Python_MPR121: BRANCHES:[master:86360b80186617e0056d5bd5279bda000978d92c]|RELEASE:[none|none]
 adafruit/Adafruit_Python_SSD1306: BRANCHES:[master:dfa8717cb7a2d8706bef5e1ed6c49763748cd1c3;update_ez_install:4a54871899729d3e39fd063eabc1de0078d0294e]|RELEASE:[none|none]
 adafruit/Adafruit_Python_TMP: BRANCHES:[master:258b29f7b730e4534808c27473a76de84e765e58]|RELEASE:[1.6.3|258b29f7b730e4534808c27473a76de84e765e58]
 adafruit/Adafruit_RA8875: BRANCHES:[master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pages:56b737e11c1f75469b797977b2a53d055b737f4a;doxy-fix:67907ed926f2e276033b0f355b60d66ccc17ecbd]|RELEASE:[1.4.5|eece6ef40be7c3e21c4ba7ad332c93078e42cb78]
