@@ -727,6 +727,7 @@ adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c
 adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679f676e0af41958bece6294b05]|RELEASE:[none|none]
 adafruit/Adafruit-INA169-Breakout-PCB: BRANCHES:[master:8c1084623d75d41d05dd5070c191f7a1176434ca]|RELEASE:[none|none]
 adafruit/Adafruit-INA219-Current-Sensor-PCB: BRANCHES:[master:f7ef6a540648572549d64ff2b9b1932f17173e40]|RELEASE:[none|none]
+adafruit/Adafruit-IO-Connect: BRANCHES:[master:19e4f2f845a22a087f6e3e03076b93b8afe303e6]|RELEASE:[none|none]
 adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: BRANCHES:[master:6293e5aa3d88caab44292709fef00a5e12c1bef6]|RELEASE:[none|none]
 adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: BRANCHES:[master:0c7bd1cb7a409f9d1689bc26a0a18079c9339b33]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: BRANCHES:[master:b89ffa961067cb959deff9eae264a017a2650539]|RELEASE:[none|none]
