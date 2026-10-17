@@ -614,6 +614,7 @@ adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d417
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1]|RELEASE:[2.3.2|9e67e3732d1af68d8894b2f98c57bd9efa54027c]
 adafruit/Adafruit-MTK3329-GPS-Module-Test-Sketch: BRANCHES:[master:c10aaf346a213d1eebd287dadb8aae4a8d8269d9]|RELEASE:[none|none]
 adafruit/Adafruit-Menta-PCB: BRANCHES:[master:7a7800ca4fa0c04895c53ce35ad4735e0c8afc6a]|RELEASE:[none|none]
+adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25]|RELEASE:[none|none]
 adafruit/Adafruit-Motor-Shield-library: BRANCHES:[master:d81504057474e940de7f0a0934f19c626846a154]|RELEASE:[1.0.1|d81504057474e940de7f0a0934f19c626846a154]
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2]|RELEASE:[none|none]
 adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983]|RELEASE:[2.0.3|87565cd21a2a79b3db48a851170a24eaadd33c8d]
