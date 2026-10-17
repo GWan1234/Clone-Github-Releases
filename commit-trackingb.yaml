@@ -594,6 +594,7 @@ adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
 adafruit/Adafruit-BMP085-PCB: BRANCHES:[master:d969fe9e98059ab62805aae560882d1e83a73980]|RELEASE:[none|none]
 adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: BRANCHES:[master:b6d6ea8721c3660aef0ca6197d914ceea1fce065]|RELEASE:[none|none]
+adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: BRANCHES:[master:5d9281aebe826950512105acbb304bf30f5d0540]|RELEASE:[none|none]
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de]|RELEASE:[none|none]
 adafruit/Adafruit-CC3000-Breakout-PCB: BRANCHES:[master:85e69770538f91498fa18eec89245c2f9de09d5a]|RELEASE:[none|none]
