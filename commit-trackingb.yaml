@@ -979,6 +979,7 @@ adafruit/Adafruit_CircuitPython_Waveform: BRANCHES:[main:8d36e16180f10e0a2a733e5
 adafruit/Adafruit_CompositeVideo: BRANCHES:[master:5d40b02788e65fc3a5b0423828a9e3f7b94992e7;gh-pages:dfa96101bb408add0f0b0b5cf7c1bec5a6f8f4f8]|RELEASE:[1.0.5|5d40b02788e65fc3a5b0423828a9e3f7b94992e7]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Adafruit_Curie_Bot: BRANCHES:[master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae]|RELEASE:[none|none]
+adafruit/Adafruit_DAP: BRANCHES:[master:2ebd205c2d4524d1865cdbb802c685c99eb08e93;copilot/fix-ci-for-rp2040:b5dc3cb7c4d7fb7cbe012dffc2ebe9c36555fbb5;actionci:8860fa39c165541ac26a116529589d0c77cac675;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124]|RELEASE:[1.8.4|29c3f12423f531b4c408f5491355d02a3e5780d0]
 adafruit/Adafruit_DHT_Unified: BRANCHES:[master:67b98789e89a63bb4e95b748578436ce954b03d1]|RELEASE:[1.0.0|296983cb209bb9b9e4f02536cbdde6bce41d80c2]
 adafruit/Adafruit_DRV2605_Library: BRANCHES:[master:b910b1631cf0179152261afe8072aeeada40629b;gh-pages:e22cf9dcefc7a32f4ad753373e5a9d9429bddfe1;actionci:a45fade162301ef0d5685f069705b5ade21b235d]|RELEASE:[1.2.4|b910b1631cf0179152261afe8072aeeada40629b]
 adafruit/Adafruit_DS2413: BRANCHES:[master:a044150b7fd3a57d3e0123b154df27d782edc3f5]|RELEASE:[none|none]
