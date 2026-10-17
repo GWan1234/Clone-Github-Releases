@@ -797,6 +797,7 @@ adafruit/Adafruit-MAX9744-Amplifier-PCB: BRANCHES:[master:8df09f97bcc66b78a54ca0
 adafruit/Adafruit-MAX9814-AGC-Microphone-PCB: BRANCHES:[master:96bd97b32a5378517301185de4905cf5070b363f]|RELEASE:[none|none]
 adafruit/Adafruit-MAX98306-Class-D-Amp-PCB: BRANCHES:[master:424e82a2ca2bff2f5b96e02a092e1e1a1b3cb81e]|RELEASE:[none|none]
 adafruit/Adafruit-MAX98357-I2S-Amp-Breakout: BRANCHES:[master:c7cf21b4a83affb8bd0ee4fb8251d5b266d964ff]|RELEASE:[none|none]
+adafruit/Adafruit-MCP2221-PCB: BRANCHES:[master:53e780f92007ff5cd0de8680872af6d316c64847]|RELEASE:[none|none]
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1]|RELEASE:[2.3.2|9e67e3732d1af68d8894b2f98c57bd9efa54027c]
 adafruit/Adafruit-MCP4725-PCB: BRANCHES:[master:0c89d205fcd7d0a1269a4f57c5cdfa0ce09e54dd]|RELEASE:[none|none]
