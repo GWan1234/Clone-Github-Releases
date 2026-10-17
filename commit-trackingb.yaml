@@ -876,6 +876,7 @@ adafruit/Arduino_Library_Github_Tools: BRANCHES:[travis:be07c342fc63268f145ef949
 adafruit/BLE_Colorific: BRANCHES:[master:b80af87eaf7551567ba882be85e8ebfdf397f2f7]|RELEASE:[none|none]
 adafruit/BNO055-Cordova-Example: BRANCHES:[master:a1c6ba346303ed26d8d5a84af1dd7c15884bdd6e;sawcoach:0dbee7f5ac745ff51854e520cc91382ceee68ae1]|RELEASE:[none|none]
 adafruit/BTTF: BRANCHES:[master:9b4ef28868e24a8cae0e511e7ec7be2ec8dc0859]|RELEASE:[none|none]
+adafruit/Bluefruit-NeoMatrix-Snowflake: BRANCHES:[master:77c474317bddfacaa810f7d4b8f62f87edaf5436]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect: BRANCHES:[master:4721ec20245598fdb107f89b089f06671dc490f4]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect_Android: BRANCHES:[master:5443af2742840b715d5f52197230525b762790a1]|RELEASE:[v1.1.4|390d96c9e6b470b6e376522f0ddd54e380509d48]
 adafruit/Bluetooth_Talking_Dog_Collar: BRANCHES:[master:d62cf7158093e09c4bac78fc36a5a681950387a2]|RELEASE:[none|none]
