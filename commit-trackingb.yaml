@@ -1183,6 +1183,7 @@ adafruit/ESP8266_Morse_Code: BRANCHES:[master:4043f058e0c18a0c69ad1ef09b74b7e0b6
 adafruit/Ethernet2: BRANCHES:[master:0bab6349fb5b42fce2d5442bbed093279184b548;debug:908e92bcbc09e1d6de09a70b08ca2b107b64d7fc]|RELEASE:[1.0.4|11819feb3b3ec3652db0f7de84d7cb0582fb4d62]
 adafruit/FONA_PPP: BRANCHES:[master:b1aeec0d5f951bdc24e8924ef5f4c3a138e711e6]|RELEASE:[none|none]
 adafruit/FastLED: BRANCHES:[pixel_trinkey_fastled:adbebb780394748f776fcea6b22bb8f2aa4a3c4e;master:124240f898be1e35d44f311a411966887fea966d;cirplayexpress:bf9e81fa22d436d3a73a27315764ea46063ebd6d;bugs/339:fe32cf1320bd25e5094693f8e3ab4ec6e064d3b3;gh-pages:1ed46691066b22ddca4a21f167a478c2a714a16b;scale8fix:84d092fd67a99dc514c0381018313800ef45262c;docwork:95817e8a71f6e7ea64a8718c1216665a0375348e]|RELEASE:[none|none]
+adafruit/Feather-RISC-V-PCB: BRANCHES:[master:d1b705eca6b0b992383a75706f3e1aeb1fdcd9a9]|RELEASE:[none|none]
 adafruit/Feather_Holiday_Lights: BRANCHES:[master:69cf62f6d9d2b9acc870fb0db6a497b584302394]|RELEASE:[none|none]
 adafruit/Feedback-Servo-Record-and-Play: BRANCHES:[master:9ed41f443a37443ef52a0c2a8031256e09fc8c05]|RELEASE:[none|none]
 adafruit/FifteenStep: BRANCHES:[actionci:1fcbb1712b8078ba98e3b5786714528eeded3d40;gh-pages:41c7369e06e3f70f69097aec3563780f39b75937;master:32143eca13ba33ae2d3f5c764e881c2be9b2c1e2;untz:5e4a4b67cb25c9208429e22647b9594f9640df51]|RELEASE:[1.2.4|32143eca13ba33ae2d3f5c764e881c2be9b2c1e2]
