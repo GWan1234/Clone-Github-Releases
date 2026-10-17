@@ -589,6 +589,7 @@ adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: BRANCHES:[master:32578c83a5ba
 adafruit/Adafruit-16-channel-PWM-Servo-Shield: BRANCHES:[master:f44d2182dbfd0ba5a8b72622cb3eba32bd405af3]|RELEASE:[none|none]
 adafruit/Adafruit-16x2-LCD-Pi-Plate: BRANCHES:[master:86e06995a3c9cb201593b17dafc09ee5752a016a]|RELEASE:[none|none]
 adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab65d5afca]|RELEASE:[none|none]
+adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596a012c2f9534be54a63]|RELEASE:[none|none]
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1bc2717aa0a4d334c16a64d9]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
