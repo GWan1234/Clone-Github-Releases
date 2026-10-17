@@ -984,6 +984,7 @@ adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492
 adafruit/rpi-rgb-led-matrix: BRANCHES:[master:8c8af1cc135a767d7cb58be2604bb0846670db99]|RELEASE:[none|none]
 adafruit/toolchain-avr: BRANCHES:[attiny85_delay_increase:f0bd3e2eaef5cacab05c68de35b0e1d40fae6429;master:8b6e66b2113af050be324cefdb28cfefb05580c8]|RELEASE:[none|none]
 adafruit/wifi-reset: BRANCHES:[master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd]|RELEASE:[none|none]
+adafruit/xcarve-server: BRANCHES:[master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6]|RELEASE:[none|none]
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a]|RELEASE:[none|none]
 atc1441/88MZ100: BRANCHES:[master:6fc0c91c176b4f0661563679835e0b416b088951]|RELEASE:[none|none]
