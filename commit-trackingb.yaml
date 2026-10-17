@@ -734,6 +734,7 @@ adafruit/LS2208-USB-Barcode-Scanner: BRANCHES:[master:e0649268db70c54e7d4be64f73
 adafruit/Light-and-Temp-logger: BRANCHES:[master:d615540bfa0b30aa721960312a46d62161b6c2e8]|RELEASE:[none|none]
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
+adafruit/NeoPixel_Painter: BRANCHES:[master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f]|RELEASE:[none|none]
 adafruit/Nikon-Intervalometer: BRANCHES:[master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2]|RELEASE:[none|none]
 adafruit/OSHW-Embroidered-Badge: BRANCHES:[master:c56eb77a749bccf14f1ff3d91104e3b7c6ee2ecd]|RELEASE:[none|none]
 adafruit/PiMiner: BRANCHES:[master:dce07f83d178489c92eb67922ff1124f5f376e29]|RELEASE:[none|none]
