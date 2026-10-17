@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 11:40
+commit-tracking: 2026-10-17 11:41
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -820,6 +820,7 @@ adafruit/Adafruit-PiTFT-3.5-Plus-PCB: BRANCHES:[master:c0683a0be53799e4b8360780c
 adafruit/Adafruit-PiTFT-Helper: BRANCHES:[master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;wheezy:da1641a7ade7446272df2781ea8fba42abbadefe]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Plus-2.8-PCB: BRANCHES:[master:6de22137d8b5a057a5723dfffa9831c17d4e9a30]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Plus-3.2-PCB: BRANCHES:[master:dcd017ebe4af66390dcd68f1515990550651461a]|RELEASE:[none|none]
+adafruit/Adafruit-PiUART-PCB: BRANCHES:[master:d75842b7de0eb8fb496069a549c87f94542d846c]|RELEASE:[none|none]
 adafruit/Adafruit-Power-Relay-FeatherWing-PCB: BRANCHES:[master:f975014d53db224ea030fcb11ea0412fb34c8d45]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-1000-PCB: BRANCHES:[master:493d06d70537ce418355b395bb251a661d683150]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65]|RELEASE:[none|none]
