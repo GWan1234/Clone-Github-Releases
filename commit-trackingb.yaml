@@ -644,6 +644,7 @@ adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB: BRANCHES:[master:048abde4fd0ae02c8872
 adafruit/Adafruit_ADS1X15: BRANCHES:[master:3d16518ab00f9f2f05473fc46930a312e72af685;gh-pages:7fb1fddbfa128d5fd268890549e17e3015fbc8b9;revert-89-misc_volts:2d315b5dca57e2b11da0a1c0f4451115f2cb85fe]|RELEASE:[2.6.2|3d16518ab00f9f2f05473fc46930a312e72af685]
 adafruit/Adafruit_ADXL345: BRANCHES:[master:8e799d73d8eca7e6c00e74f7cecd325f6d88e113;gh-pages:5625dbf761417226c470f84b8f1422267446c57c]|RELEASE:[1.3.4|8e799d73d8eca7e6c00e74f7cecd325f6d88e113]
 adafruit/Adafruit_Atmega32u4_Breakout_Board: BRANCHES:[master:95a296a2957c41f86e3013eb707e21c7b2db7678]|RELEASE:[none|none]
+adafruit/Adafruit_BMP085_Unified: BRANCHES:[master:95ae5cc07f14cb36955d946c2403ccebce9bb00f;gh-pages:b9303682d3615a47bc08c38cb6842053ef9944f7;actionci:e42eabf784db123e8f0cad5f2f69d117705f0333]|RELEASE:[1.1.3|95ae5cc07f14cb36955d946c2403ccebce9bb00f]
 adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51bd16cd17286410]|RELEASE:[none|none]
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Adafruit_FTDI-Friend-PCB: BRANCHES:[master:46ca96fff7e8e48b999d585ec85313cfc4ab9ec9]|RELEASE:[none|none]
