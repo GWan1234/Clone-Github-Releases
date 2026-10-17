@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 07:37
+commit-tracking: 2026-10-17 07:38
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -760,6 +760,7 @@ adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b
 adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB: BRANCHES:[master:3ad6bed6e1b407afa7119ae548b5c2f1b107c6b1]|RELEASE:[none|none]
 adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7;gh-pages:bc4e069d763a365765d209be4b1c9d147f17f9ef;actionci:ba3d0f9fb3de8d72c5dc163b7191164b877e3827]|RELEASE:[1.2.2|8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7]
 adafruit/Adafruit-RGB-LCD-shield-PCB: BRANCHES:[master:acb4ada959e35a67703b50efb88ad986440d37e5]|RELEASE:[none|none]
+adafruit/Adafruit-Radio-FeatherWing-PCB: BRANCHES:[master:926b55164daad155e05ebe8ca3a02365bc07a40c]|RELEASE:[none|none]
 adafruit/Adafruit-RasPipe: BRANCHES:[master:bedc53e0f97bdc11dc2ea8188df925c7903604d9]|RELEASE:[none|none]
 adafruit/Adafruit-Raspberry-Pi-Python-Code: BRANCHES:[master:b4aeee58b670645149f6f682a6c5ac04a0a0d314;legacy:9ff733d59242a02f7ccd0222001ce80f6090a978]|RELEASE:[none|none]
 adafruit/Adafruit-Relay-FeatherWing-PCBs: BRANCHES:[master:130d79e53912a8a22dc273c521f96e74ea0b280d]|RELEASE:[none|none]
