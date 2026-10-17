@@ -596,6 +596,7 @@ adafruit/Adafruit_Brain-Machine-Kit: BRANCHES:[master:441afd5bee8945b05c91bdcb51
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Adafruit_FTDI-Friend-PCB: BRANCHES:[master:46ca96fff7e8e48b999d585ec85313cfc4ab9ec9]|RELEASE:[none|none]
 adafruit/Adafruit_LiquidCrystal: BRANCHES:[master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b]|RELEASE:[2.0.4|645a6cef15653be4f77e119da014d3dd69c6e4cd]
+adafruit/Adafruit_MCP73833_PCB: BRANCHES:[master:c8e08fe3e272270b8fe101589ec37858f0e59ce4]|RELEASE:[none|none]
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3]|RELEASE:[none|none]
 adafruit/Adafruit_MintyBoost_PCB: BRANCHES:[master:2d03cfdf2a06f5a048e26807e254c4bf6dc982c6]|RELEASE:[none|none]
 adafruit/Adafruit_SSD1306: BRANCHES:[master:d94f699451d72286357cba7259055ffff2c2940b;gh-pages:ccd44c4198ca98c013679dec7fcdd01049d08008;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;zero:5674153e88a71d8b7cf035787caa7eb06d7484df]|RELEASE:[2.5.17|d94f699451d72286357cba7259055ffff2c2940b]
