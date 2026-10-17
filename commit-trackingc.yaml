@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 07:49
+commit-tracking: 2026-10-17 07:51
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -853,9 +853,9 @@ naoki66/Actions-OpenWrt: BRANCHES:[main:b48d82a323e5fff34f8c837d0e132c08a1ca2377
 naoki66/CF-Workers-docker.io: BRANCHES:[main:059ff30b89e564ca07b56a2958821f02e6371391]|RELEASE:[none|none]
 naoki66/CookLikeHOC: BRANCHES:[main:044fcb7b231ae9acbf87ec3b01a32b7f2212e658;vitepress:928c53d3996b4c85278832d9eeda5833cdba7967]|RELEASE:[none|none]
 naoki66/Custom_OpenClash_Rules: BRANCHES:[main:7a76eea88c302a3b3fd63a61cacd19ffb9aaffb2]|RELEASE:[none|none]
-naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:ecc838e778f7fa84c3c3348eadb0cd4501c927ae]|RELEASE:[none|none]
+naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:48f55a062e1240113c1cd0f19761f4df51ae15dc]|RELEASE:[none|none]
 naoki66/ImmortalWrt-for-Gemtek-XG2010G: BRANCHES:[master:b935a2b940146c228ec0e2d51ae0d52c34e785a3]|RELEASE:[none|none]
-naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:04cc62e8928308598cf2e88bddee37ede658b814]|RELEASE:[20261016-04cc62e|04cc62e8928308598cf2e88bddee37ede658b814]
+naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:c15760c70b7ceeb85fd852d081b06c4bcac1cf5c]|RELEASE:[20261016-04cc62e|04cc62e8928308598cf2e88bddee37ede658b814]
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
 naoki66/MoonTV: BRANCHES:[master:702008e7970a749da539f13c24d63cc8524b6da7;main:791de3bd997d371215a4c2ffcafc22702268ec5d]|RELEASE:[none|none]
 naoki66/OmniBox-Spider: BRANCHES:[main:4491c18eb3f2fb4e0b3d2f7218452afd442e9f92]|RELEASE:[none|none]
@@ -863,7 +863,7 @@ naoki66/OpenWrt_ONU_CONFIG: BRANCHES:[main:35e2d676c31f2ff510960fb03a403599d292a
 naoki66/ProxmoxVE-7.3-DIY: BRANCHES:[master:81c19ea3384da1bd603b41b16329b86b8a854313]|RELEASE:[none|none]
 naoki66/RRR: BRANCHES:[main:aef6ab74da5e79795ff2e3faf30c3af19b543ad5]|RELEASE:[none|none]
 naoki66/Surveillance-Station-9: BRANCHES:[main:735f3ddf143dc06b0f077cb6d839514e122b33d9]|RELEASE:[none|none]
-naoki66/VoCat: BRANCHES:[master:875ec3dc0f6bf20bd74cb9dbd9d6f00476cf213a]|RELEASE:[none|none]
+naoki66/VoCat: BRANCHES:[master:027379d934eed3a9ac3be26a0258b50428ee0716]|RELEASE:[none|none]
 naoki66/VoHiveX: BRANCHES:[main:d7b9695f3b1bb3045a34d4687e59bda161eafe27;release-2.0.1:d31372788482a1a144fa8d55dc032a7fab6db524;multiarch-docker:f56fa8668a6683af17d370f14ee876ca0ada8e64]|RELEASE:[none|none]
 naoki66/W1700K_builds: BRANCHES:[main:97a302ba7d3359e57b85f556446fa7673a514f14]|RELEASE:[none|none]
 naoki66/XG2010G-http-uboot: BRANCHES:[Factory:e9d7d6c0115a7bc734394cc7c8e819f200ad5688;codex/fix-qdma-stop-warning:e6bdf1d0b95167ac90220310d797077ea5cad9ac;master:d76dcf1972d6d331c4be4d7f626aeefd45bdc64b]|RELEASE:[2026-8-25-d76dcf1972d6|d76dcf1972d6d331c4be4d7f626aeefd45bdc64b]
