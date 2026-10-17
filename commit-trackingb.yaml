@@ -864,6 +864,7 @@ adafruit/Adafruit-Proto-Screwshield-PCB: BRANCHES:[master:ce439b0d2063337f03171e
 adafruit/Adafruit-Proto-Shield-PCB: BRANCHES:[master:d27fa77264402a773efc66d303ae7d9dc6df6621]|RELEASE:[none|none]
 adafruit/Adafruit-Prototyping-Pi-Plate-PCB: BRANCHES:[master:e54e072a655814936e89cb3c01314b95d48c88b4]|RELEASE:[none|none]
 adafruit/Adafruit-Push-Button-Power-Switch-PCB: BRANCHES:[master:6013b8b9aa67f74778996c69ec765875c787ff53]|RELEASE:[none|none]
+adafruit/Adafruit-PyPortal-PCB: BRANCHES:[master:90d9aa7ba3f892fd4adb31815c99ede26c10757c]|RELEASE:[none|none]
 adafruit/Adafruit-Qualia-Driver-PCB: BRANCHES:[master:4d750ce85bc1e8e5e38395030ff21ee8a353148d]|RELEASE:[none|none]
 adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e]|RELEASE:[none|none]
 adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB: BRANCHES:[master:3ad6bed6e1b407afa7119ae548b5c2f1b107c6b1]|RELEASE:[none|none]
