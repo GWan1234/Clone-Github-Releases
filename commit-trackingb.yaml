@@ -588,6 +588,7 @@ adafruit/Adafruit_FTDI-Friend-PCB: BRANCHES:[master:46ca96fff7e8e48b999d585ec853
 adafruit/Adafruit_LiquidCrystal: BRANCHES:[master:645a6cef15653be4f77e119da014d3dd69c6e4cd;gh-pages:d2d1d3a59fc41ac5a0d1f34968a91f182cd7a263;zerofix:8f1bee907c30d9a2a62d8e7e5a46223d58681a5b]|RELEASE:[2.0.4|645a6cef15653be4f77e119da014d3dd69c6e4cd]
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3]|RELEASE:[none|none]
 adafruit/Adafruit_SSD1306: BRANCHES:[master:d94f699451d72286357cba7259055ffff2c2940b;gh-pages:ccd44c4198ca98c013679dec7fcdd01049d08008;no_default_rst:30b8f303c9e71838014e25badee7164febbe828c;zero:5674153e88a71d8b7cf035787caa7eb06d7484df]|RELEASE:[2.5.17|d94f699451d72286357cba7259055ffff2c2940b]
+adafruit/Adafruit_TouchScreen: BRANCHES:[master:b64e777d8f6e321ba2ed726412955dd2ae8d26e0;gh-pages:9503cf101df55fbbdc4eaa87659f38c5db1c0a58;esp8266_add:1350b31cc5c69c1b039f0d43e4f29777b97eaf80;actionci:234a93a78ec06021995e49d75d07564c26eeaa7b;Due:ec038182d2846cab83cd6f069416ce0398ee1605]|RELEASE:[1.1.6|b64e777d8f6e321ba2ed726412955dd2ae8d26e0]
 adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:54a885baee53612ef38a02fa0ca4cf845c4ce1ae]|RELEASE:[none|none]
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
