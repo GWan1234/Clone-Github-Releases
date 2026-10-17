@@ -587,6 +587,7 @@ adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41
 adafruit/RTClib: BRANCHES:[master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528]|RELEASE:[2.1.4|5298434167b770c4602661d682e3b340d565073f]
 adafruit/SD-card-testing-jig: BRANCHES:[master:823b68201f1215d345dc6af727399f021bfddb9b]|RELEASE:[none|none]
 adafruit/ST7565-LCD: BRANCHES:[master:d40d9d832be8a6ce26d6462e85de3dcf439942fc]|RELEASE:[none|none]
+adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e91a541ee3d0]|RELEASE:[none|none]
 adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da87]|RELEASE:[none|none]
 adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
