@@ -1168,6 +1168,7 @@ adafruit/io-client-ruby: BRANCHES:[master:a2eecbd67a0c6857b462750f5d2d3555338691
 adafruit/io-swagger-templates: BRANCHES:[master:1eb516b553057f9a7eae1cc409541621fe9b95af]|RELEASE:[none|none]
 adafruit/jenkins-pipeline-library: BRANCHES:[master:980e2960e01b26e22a9109c0b435adc937a5de9e]|RELEASE:[none|none]
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b]|RELEASE:[none|none]
+adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba65017103b]|RELEASE:[none|none]
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RELEASE:[none|none]
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49]|RELEASE:[none|none]
 adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e773eecd7ad0b1e13]|RELEASE:[1.0|8edb1e97ef93959ac9f6975f0948e33d2424355e]
