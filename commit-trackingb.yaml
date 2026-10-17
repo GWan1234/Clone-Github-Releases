@@ -611,6 +611,7 @@ adafruit/Adafruit-PWM-Servo-Driver-Library: BRANCHES:[master:a98850b815bf9696c8f
 adafruit/Adafruit-Programmable-Piggy-Bank: BRANCHES:[master:f6b7d523e648ca6d012c6636367265c2a3ac1c33]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Screwshield-PCB: BRANCHES:[master:ce439b0d2063337f03171edbf927aae6552befa0]|RELEASE:[none|none]
+adafruit/Adafruit-Prototyping-Pi-Plate-PCB: BRANCHES:[master:e54e072a655814936e89cb3c01314b95d48c88b4]|RELEASE:[none|none]
 adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7;gh-pages:bc4e069d763a365765d209be4b1c9d147f17f9ef;actionci:ba3d0f9fb3de8d72c5dc163b7191164b877e3827]|RELEASE:[1.2.2|8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7]
 adafruit/Adafruit-RGB-LCD-shield-PCB: BRANCHES:[master:acb4ada959e35a67703b50efb88ad986440d37e5]|RELEASE:[none|none]
 adafruit/Adafruit-Resistor-Helper: BRANCHES:[master:a1b431ca0a94ce867ad79d102a5c5b1941a7c43c]|RELEASE:[none|none]
