@@ -754,6 +754,7 @@ adafruit/Adafruit-Grand-Central-PCB: BRANCHES:[master:9e59fe3cd1ea37aa6caaf5780f
 adafruit/Adafruit-Graphic-VFD-Display-Library: BRANCHES:[master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34]|RELEASE:[1.1.2|f35ecfb8399b713541fd54fd1276145dacd3cc40]
 adafruit/Adafruit-HDC1008-Breakout-PCB: BRANCHES:[master:997a197ad04c62881c347f31e6c0324c6d831bb9]|RELEASE:[none|none]
 adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: BRANCHES:[master:530ec62b7f4ef73fc794e10b9c59c43b7ac2c17a]|RELEASE:[none|none]
+adafruit/Adafruit-HTS221-PCB: BRANCHES:[master:e32c12659a54739f9700e8706e82f13b841f2f86]|RELEASE:[none|none]
 adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a7263721490af9cc6a455f]|RELEASE:[none|none]
 adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: BRANCHES:[master:e23514c6f9e124a60f9d1de6567c791561b43e73]|RELEASE:[none|none]
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
