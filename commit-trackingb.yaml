@@ -737,6 +737,7 @@ adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: BRANCHES:[master:0c7bd1cb7a409
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: BRANCHES:[master:b89ffa961067cb959deff9eae264a017a2650539]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9]|RELEASE:[none|none]
 adafruit/Adafruit-Joy-Bonnet-PCB: BRANCHES:[master:6f2c397555472348c959db74b7dde90106c48bb4]|RELEASE:[none|none]
+adafruit/Adafruit-Joy-Featherwing-PCB: BRANCHES:[master:45f843d490a5968f4642ff970e8e867918c80b8d]|RELEASE:[none|none]
 adafruit/Adafruit-L3GD20-Breakout-PCB: BRANCHES:[master:32bf273c21430e7c4e28cfa79be2109f91b893ea]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: BRANCHES:[master:50dc43b6c03adafa21683995f62efb6e825bba12]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpacks: BRANCHES:[master:a58b392b20838c60256d767576a823a6984f7284]|RELEASE:[none|none]
