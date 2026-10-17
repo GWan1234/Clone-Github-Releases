@@ -842,6 +842,7 @@ adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:54a885baee53612ef38a02fa0c
 adafruit/Adafruit_VS1053_Library: BRANCHES:[master:ee1b0de61107db2c0f45bce55d057f83e0ec07ed;gh-pages:c118e58a2eba1a5e210c95c09e6ae7a2688e1f97;actionci:4160e55ce9ea97688c037cf9e1292915ef2f40b6]|RELEASE:[1.4.4|ee1b0de61107db2c0f45bce55d057f83e0ec07ed]
 adafruit/Adafruit_iCufflinks: BRANCHES:[master:a150f329582a90235f2d32650af52d1175c764c4]|RELEASE:[none|none]
 adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90]|RELEASE:[none|none]
+adafruit/Adafruit_nRF51822_Flasher: BRANCHES:[master:ca606ce6fe82219cf6a66ca7d764ee0245696b28]|RELEASE:[none|none]
 adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1ddfbf0;gh-pages:c2be5823adea3fe9ead6b783363f09ad6b6c6136;master:5b331b370a980e90c0983a685da74996fe61dab1;arm_sdk:3dc7e7b0afde394b9b1328be060fb61221dae73d]|RELEASE:[1.1.1|5b331b370a980e90c0983a685da74996fe61dab1]
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
 adafruit/Arduin_o_phone: BRANCHES:[master:f6abf2b2d1821cc4410ec10594bb55a1cf5a7984]|RELEASE:[none|none]
