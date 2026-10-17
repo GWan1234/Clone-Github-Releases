@@ -720,6 +720,7 @@ adafruit/HL1606-LED-Strip-PWM: BRANCHES:[master:bc43d9cf18b152ccc197515ceab0498f
 adafruit/HT1632: BRANCHES:[master:af146db458c21f6136448716f2c9cd69a14ea355;gh-pages:58e09e9c8965032cd5fbc57b39f1adf9ca6fc671;actionci:d8f845b03401e012ca1dad4e58d1782af273907b]|RELEASE:[1.1.2|af146db458c21f6136448716f2c9cd69a14ea355]
 adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f]|RELEASE:[none|none]
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336]|RELEASE:[none|none]
+adafruit/IRKey: BRANCHES:[master:44ea72a1142ae43aea40ccf8c77d674704ffc945]|RELEASE:[none|none]
 adafruit/Ice-Tube-Clock: BRANCHES:[master:df64981f389418ee562fef81f0daa5cc06c18018;GPS:9d5e87a7ab6c68f822207db36cf53191f3f922ca]|RELEASE:[none|none]
 adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44]|RELEASE:[none|none]
 adafruit/LED-Ampli-Tie-with-Flora: BRANCHES:[master:2449eaa274f1f3ea5f234367b8c5086b67c10b43]|RELEASE:[none|none]
