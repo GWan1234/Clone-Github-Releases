@@ -667,6 +667,7 @@ adafruit/Adafruit-CCS811-Breakout-PCB: BRANCHES:[master:6b31de55a1ffcc86e7109338
 adafruit/Adafruit-CP2104-Friend-PCB: BRANCHES:[master:4684fff897c221bcf2539f7125dbf4c11cbf1564]|RELEASE:[none|none]
 adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi: BRANCHES:[master:b8a0df00fed2f4d240c807b3f454ff6b7d8780d9]|RELEASE:[none|none]
 adafruit/Adafruit-Capacitive-Touch-HAT-PCB: BRANCHES:[master:6405328c281fe7d9d8e9cbfa334d50c3eccef7ce]|RELEASE:[none|none]
+adafruit/Adafruit-CharliePlex-Bonnet-PCBs: BRANCHES:[master:e6c0dc1cc87f6add9272260db3fe237371e3ac52]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Express-PCB: BRANCHES:[master:2962c0cb972e031d070303bbeda3ed95a2098951]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-PCB: BRANCHES:[master:123fc8ded8a6c41de64b6e2ac4d6405f95199b43]|RELEASE:[none|none]
 adafruit/Adafruit-Cupcade-Adapter-PCB: BRANCHES:[master:172cdf5ec647646cf39b5583c68935fa432e9d53]|RELEASE:[none|none]
