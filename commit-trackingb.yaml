@@ -727,6 +727,7 @@ adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB: BRANCHES:[master:1611c88b5a0f16be4fa7c
 adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB: BRANCHES:[master:8461d91e9c2a485d83ba2c7e3a984a1c105fe1d6]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-3.5-Plus-PCB: BRANCHES:[master:c0683a0be53799e4b8360780cd641cd8a3f13282]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Helper: BRANCHES:[master:625ae04c38218863d272bcfdf79dd14fed8714d5;4.4.y:b819c194bef9cdb1f6562d5a28ceea31ebba3215;wheezy:da1641a7ade7446272df2781ea8fba42abbadefe]|RELEASE:[none|none]
+adafruit/Adafruit-PiTFT-Plus-2.8-PCB: BRANCHES:[master:6de22137d8b5a057a5723dfffa9831c17d4e9a30]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Plus-3.2-PCB: BRANCHES:[master:dcd017ebe4af66390dcd68f1515990550651461a]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-1000-PCB: BRANCHES:[master:493d06d70537ce418355b395bb251a661d683150]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65]|RELEASE:[none|none]
