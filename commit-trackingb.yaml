@@ -575,6 +575,7 @@ Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836f
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
+adafruit/monochron: BRANCHES:[master:30cca6a53b24f6a5f8f7b5a33cea1bd9a14608ea;SevenChron:9beb1b22f62a3a38e0f9722b22a1bf3f84c7128a;XDALICHRON:fc6ed3b98d64556280acdddced83ccb9612a3e0c]|RELEASE:[none|none]
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a]|RELEASE:[none|none]
 atc1441/88MZ100: BRANCHES:[master:6fc0c91c176b4f0661563679835e0b416b088951]|RELEASE:[none|none]
