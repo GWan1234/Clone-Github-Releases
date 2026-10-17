@@ -623,6 +623,7 @@ adafruit/Light-and-Temp-logger: BRANCHES:[master:d615540bfa0b30aa721960312a46d62
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
 adafruit/Nikon-Intervalometer: BRANCHES:[master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2]|RELEASE:[none|none]
+adafruit/OSHW-Embroidered-Badge: BRANCHES:[master:c56eb77a749bccf14f1ff3d91104e3b7c6ee2ecd]|RELEASE:[none|none]
 adafruit/RGB-matrix-Panel: BRANCHES:[master:81ee07118cc267cfab30743ae621c193c9e5838b;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e]|RELEASE:[1.1.9|81ee07118cc267cfab30743ae621c193c9e5838b]
 adafruit/RTClib: BRANCHES:[master:5298434167b770c4602661d682e3b340d565073f;gh-pages:e57ec315300d1aad4abbb5e38a434cf9ecba5b0c;actionci:7288401b96adcbe81ef3799e6ce555e2fe0b0528]|RELEASE:[2.1.4|5298434167b770c4602661d682e3b340d565073f]
 adafruit/Raw-IR-decoder-for-Arduino: BRANCHES:[master:e23d69394b9e7c8e9a0652f09342afdfa1cfc7e2]|RELEASE:[none|none]
