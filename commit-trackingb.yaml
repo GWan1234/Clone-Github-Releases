@@ -685,6 +685,7 @@ adafruit/Adafruit-Fingerprint-Sensor-Library: BRANCHES:[master:b5de3ff6b430922d7
 adafruit/Adafruit-Flora-Bluefruit-LE-PCB: BRANCHES:[master:31ad4c6afe5267c02daf48849e1f1bfb597df588]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-LSM303-PCB: BRANCHES:[master:c0f6d981bd21317941c3759b98100a59fe0c3634]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB: BRANCHES:[master:9cf5eb000e492e10aad9470fe54d622317cb9a8d]|RELEASE:[none|none]
+adafruit/Adafruit-Flora-Mainboard: BRANCHES:[master:25cd6a85201cdcfaf87b5cbb872280c448461445]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Pixel-Library: BRANCHES:[master:eed8adeaad7fb8d342f96b3d97d11c35b5e76759]|RELEASE:[1.0.0|b10dcb4e36693bfd7123c3862d9c4db0dec3f414]
 adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB: BRANCHES:[master:d30533409c8589de3044ec1e9b54ca5b9928c67e]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB: BRANCHES:[master:20cbfc30b9793e498d642a30652a5c609da73b37]|RELEASE:[none|none]
