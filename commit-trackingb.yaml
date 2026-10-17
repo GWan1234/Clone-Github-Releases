@@ -693,6 +693,7 @@ adafruit/Adafruit_MCP4725: BRANCHES:[master:705778cc8f1918880063b07547e78c6ded40
 adafruit/Adafruit_MCP73833_PCB: BRANCHES:[master:c8e08fe3e272270b8fe101589ec37858f0e59ce4]|RELEASE:[none|none]
 adafruit/Adafruit_MPL115A2: BRANCHES:[master:0cbecc86371846d60aa79cb45485182ef43e1ddb;gh-pages:a68a54ff7d68c2df91c565bb0a759c8ed11953f6;busio:e982bd0e9b7ff4a84d6fb0ee5a343e51fa4ad51f]|RELEASE:[2.0.2|0cbecc86371846d60aa79cb45485182ef43e1ddb]
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3]|RELEASE:[none|none]
+adafruit/Adafruit_MiniMLX90614: BRANCHES:[master:613aee3bbf05754574ce7d2112da7de45b352c5d]|RELEASE:[1.0.0|6c4ec6c68a3ca22310e4de37c2c77ca8edd87514]
 adafruit/Adafruit_MintyBoost_PCB: BRANCHES:[master:2d03cfdf2a06f5a048e26807e254c4bf6dc982c6]|RELEASE:[none|none]
 adafruit/Adafruit_Motor-Shield-v1: BRANCHES:[master:f2505a85855fb00b468a78ba527afbf0d91bdb22]|RELEASE:[none|none]
 adafruit/Adafruit_Motor_Shield_V2_Library: BRANCHES:[master:2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3;gh-pages:99c678f3bca8c77769a1e0c56d64bdcffd787ec6;actionci:5006c19e77194698069beffd3466b647ce5628b1]|RELEASE:[1.1.4|2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3]
