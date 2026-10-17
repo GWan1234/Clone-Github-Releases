@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 13:39
+commit-tracking: 2026-10-17 13:40
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1412,6 +1412,7 @@ adafruit/ESP8266_MicroPython_Holiday_Lights: BRANCHES:[master:2e5e03a8ff662a9b74
 adafruit/ESP8266_Morse_Code: BRANCHES:[master:4043f058e0c18a0c69ad1ef09b74b7e0b60357ad]|RELEASE:[none|none]
 adafruit/Ethernet2: BRANCHES:[master:0bab6349fb5b42fce2d5442bbed093279184b548;debug:908e92bcbc09e1d6de09a70b08ca2b107b64d7fc]|RELEASE:[1.0.4|11819feb3b3ec3652db0f7de84d7cb0582fb4d62]
 adafruit/FONA_PPP: BRANCHES:[master:b1aeec0d5f951bdc24e8924ef5f4c3a138e711e6]|RELEASE:[none|none]
+adafruit/FabScanPi-Server: BRANCHES:[master:c310830a328b997ac20a55249134c66852342859;develop:7eeecdb05dadba003e1073b40a3e86a13f30e005;gh-pages:9d953db40741a28e85e9f9833186055b38a79797;release/v.0.6.0:08924b3cd7f8944b76c3a432deeb38622da6dedd]|RELEASE:[none|none]
 adafruit/FastLED: BRANCHES:[pixel_trinkey_fastled:adbebb780394748f776fcea6b22bb8f2aa4a3c4e;master:124240f898be1e35d44f311a411966887fea966d;cirplayexpress:bf9e81fa22d436d3a73a27315764ea46063ebd6d;bugs/339:fe32cf1320bd25e5094693f8e3ab4ec6e064d3b3;gh-pages:1ed46691066b22ddca4a21f167a478c2a714a16b;scale8fix:84d092fd67a99dc514c0381018313800ef45262c;docwork:95817e8a71f6e7ea64a8718c1216665a0375348e]|RELEASE:[none|none]
 adafruit/Feather-ICE40-PCB: BRANCHES:[master:d2a4cf7ad1d9c1139535624bacd64d180dd3e111]|RELEASE:[none|none]
 adafruit/Feather-RISC-V-PCB: BRANCHES:[master:d1b705eca6b0b992383a75706f3e1aeb1fdcd9a9]|RELEASE:[none|none]
