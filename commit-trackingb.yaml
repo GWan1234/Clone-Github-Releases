@@ -957,6 +957,7 @@ adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
 adafruit/Arduin_o_phone: BRANCHES:[master:f6abf2b2d1821cc4410ec10594bb55a1cf5a7984]|RELEASE:[none|none]
 adafruit/ArduinoISP: BRANCHES:[master:0dcea4a2d58b6b73ddf1cbeead93dcf4660d4685]|RELEASE:[none|none]
+adafruit/ArduinoTap: BRANCHES:[master:ea20afb99dad4c814f0f7a8242f4de94dc7d136d]|RELEASE:[none|none]
 adafruit/Arduino_Library_Github_Tools: BRANCHES:[travis:be07c342fc63268f145ef94904ccedee9f999786;master:be07c342fc63268f145ef94904ccedee9f999786]|RELEASE:[none|none]
 adafruit/BLE-Robot-Rover: BRANCHES:[master:0982a9b21267ee76e238a34e61dea12d929cf955]|RELEASE:[none|none]
 adafruit/BLE_Colorific: BRANCHES:[master:b80af87eaf7551567ba882be85e8ebfdf397f2f7]|RELEASE:[none|none]
