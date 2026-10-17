@@ -954,6 +954,7 @@ adafruit/OSHW-Embroidered-Badge: BRANCHES:[master:c56eb77a749bccf14f1ff3d91104e3
 adafruit/Open-Sesame: BRANCHES:[master:2227f8e78a0e1fd6f6e4338701cddab9a237135a]|RELEASE:[none|none]
 adafruit/PiMiner: BRANCHES:[master:dce07f83d178489c92eb67922ff1124f5f376e29]|RELEASE:[none|none]
 adafruit/PiTFT_Extras: BRANCHES:[master:9d42b2c3941db30e1a6df3d6cfffe533662716ae;display_type:85d46d8d4c9061f572fd7c46f5d1c6c4fe9a6bbc]|RELEASE:[none|none]
+adafruit/Pi_Internet_Thing_Videos: BRANCHES:[master:cf54b574b709d694c67e5b3a4db2e28c55a01690]|RELEASE:[none|none]
 adafruit/Pi_Node_Example: BRANCHES:[master:7ddf92a9b8c52ab6dd199430f5b89714913eab86]|RELEASE:[none|none]
 adafruit/Pi_Physical_Dashboard: BRANCHES:[master:81a513ac8508e387a081c2c0fc02140d4f37100d]|RELEASE:[none|none]
 adafruit/Printer-Profiles: BRANCHES:[master:ed08154bdf56525741dbfbfe852a1d9a747698bd]|RELEASE:[none|none]
