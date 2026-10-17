@@ -1114,6 +1114,7 @@ adafruit/Pro-Trinket-Rotary-Encoder: BRANCHES:[master:a4f1c252b08ed9d8cd89dc15d1
 adafruit/Pro_Trinket_Power_Meter: BRANCHES:[master:28f838ec70095028f11e59f6cd7a1da0a7d96e81]|RELEASE:[none|none]
 adafruit/Pro_Trinket_USB_Keyboard_Library: BRANCHES:[master:1e461afce23f2d9d1ad1500b8ac27df46d6fd671;actionci:b72b3368ece9bf169a1632c537b0b3e8c5ac4a27;gh-pages:9223d8b6ad1cc5834045a7d631c280c65376b7c5]|RELEASE:[1.1.3|1e461afce23f2d9d1ad1500b8ac27df46d6fd671]
 adafruit/Pro_Trinket_USB_Mouse: BRANCHES:[master:6f08dc2f06d9b6d5c4f44fadb1e794c065354bff;actionci:cdf72e730fb74a6773b07cc07b3bc6feffc7b46a;gh-pages:decd2db848c1422b0d63e052886d304b741935e9]|RELEASE:[1.1.4|6f08dc2f06d9b6d5c4f44fadb1e794c065354bff]
+adafruit/Python-Thermal-Printer: BRANCHES:[master:678e13ae918deadf2b350b3f866a21de6ff1ad6d]|RELEASE:[none|none]
 adafruit/Python-WiFi-Radio: BRANCHES:[master:689b2335d86a74274f76733261d031e40ee37d14;revert-7-master:3e5587d38c4f2b5ea413c244b4637dc817fd03f4]|RELEASE:[none|none]
 adafruit/PythonClub: BRANCHES:[master:6a06c98237823b1fcc7b4eb4c84556435699502c;dora:715d90e3525a1c6fb4fa3335e5a6ff893f1e66b7]|RELEASE:[none|none]
 adafruit/RGB-matrix-Panel: BRANCHES:[master:81ee07118cc267cfab30743ae621c193c9e5838b;actionsci:97cdaf2e14506ffd4e060a9653f7113caa96778b;gh-pages:fe285ebea7839e67e62bd0650671ddbf86f5393d;samd21:129b0c2ffe136d55cc9a05f30e603f9830f5183e]|RELEASE:[1.1.9|81ee07118cc267cfab30743ae621c193c9e5838b]
