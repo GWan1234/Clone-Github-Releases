@@ -581,6 +581,7 @@ adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB: BRANCHES:[master:02c953af3a9c7c5
 adafruit/Adafruit-1.8-TFT-Shield-PCB: BRANCHES:[master:ba3e2280aa1ab70d103751cacf497217959ab986]|RELEASE:[none|none]
 adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: BRANCHES:[master:7c33372ae12d8cadd9ccd868c4f30274e61ac87d]|RELEASE:[none|none]
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: BRANCHES:[master:51ef8e242dcf460d5effc298d8565110624e6b23]|RELEASE:[none|none]
+adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB: BRANCHES:[master:32578c83a5ba2946249b80b1aa1fb18ae4e61e7d]|RELEASE:[none|none]
 adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab65d5afca]|RELEASE:[none|none]
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
