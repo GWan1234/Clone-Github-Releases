@@ -635,6 +635,7 @@ adafruit/Adafruit-ST7735-Library: BRANCHES:[ExpanderPin:aba823e3b15f4a4d18cfaec5
 adafruit/Adafruit-Sharp-Memory-Display-PCBs: BRANCHES:[master:58b3ededa86c2b7cfefea12a5e15883150ea17de]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
 adafruit/Adafruit-Thermal-Printer-Library: BRANCHES:[master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d]|RELEASE:[1.4.1|1773dd84ddcad8a8d22d03ef7b55287b6967b9fb]
+adafruit/Adafruit-Trinket-Gemma-Bootloader: BRANCHES:[master:3bc1bb561273535d4d493518a233a3a1fccf6b76;button-boot-activation:1be6ac8acfb27d521159ff753dd387ba54489d4e]|RELEASE:[none|none]
 adafruit/Adafruit-Tweet-Receipt: BRANCHES:[master:531f248c298479a2c5b570877ca5e2d97822e74d]|RELEASE:[none|none]
 adafruit/Adafruit-USB-DC-LiPoly-Charger: BRANCHES:[master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: BRANCHES:[master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9]|RELEASE:[none|none]
