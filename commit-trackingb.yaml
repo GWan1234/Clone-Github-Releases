@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-17 07:00
+commit-tracking: 2026-10-17 07:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -802,6 +802,7 @@ adafruit/Adafruit_OV7670: BRANCHES:[master:f40dae2304282b88f5816a64883f9aad296ad
 adafruit/Adafruit_On_Air: BRANCHES:[master:3957f81639928a8ce943575fb357884c95559b58]|RELEASE:[none|none]
 adafruit/Adafruit_ProTrinket_Bootloader: BRANCHES:[master:b2cd5fad38f444b00be7a7d38a41d126eef437cf]|RELEASE:[none|none]
 adafruit/Adafruit_Python_BMP: BRANCHES:[master:54b307fa6e5b039adffab5dcb6f506d70b8f3249]|RELEASE:[1.5.4|54b307fa6e5b039adffab5dcb6f506d70b8f3249]
+adafruit/Adafruit_Python_BNO055: BRANCHES:[master:ce9d7ae76cb23b8962d2dddc48f943bd8416831d]|RELEASE:[none|none]
 adafruit/Adafruit_Python_BluefruitLE: BRANCHES:[master:a01dec2c88fa38143afb855e1df4f9ac774156b7]|RELEASE:[none|none]
 adafruit/Adafruit_Python_CharLCD: BRANCHES:[master:c126e6b673074c12a03f4bd36afb2fe40272341e]|RELEASE:[none|none]
 adafruit/Adafruit_Python_DHT: BRANCHES:[master:8f5e2c4d6ebba8836f6d31ec9a0c171948e3237d;publish_adafruit_python_dht:235fcaa11bdb2aa322f12c903e29a698e50cedb8;remove_ez_setup:f66c1ca8d391d09a589ed68fb41237ac5d30832a;add_manifest:cd9424c0755da4478c6047548fcaa0e83ac37f71]|RELEASE:[1.4.1|afdb85b7415ca389dbdba56fcf655ae6456b2034]
