@@ -1580,6 +1580,7 @@ adafruit/nprone-cli: BRANCHES:[master:53f718d7cb8b52446d58a35e84b841c057001d6c]|
 adafruit/nrfx: BRANCHES:[circuitpython-v2.0.0:ab21106ea57b63d97b757a9f17201ddf298ffab0;circuitpython-v3.3.0:d0d0a36419d7b43f33c3d1d4df8b5a44e58c60c3;master:66628bc1b7024a53d0af9ff81a483abc5557871a]|RELEASE:[none|none]
 adafruit/omxplayer: BRANCHES:[master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f]|RELEASE:[2/10/2015|497a5c61141870e3cf007971e222b3a5213dd8ef]
 adafruit/openapi-mitm: BRANCHES:[master:7067b6d99ee4b8963e918a23081b5708f2e0cbc6]|RELEASE:[none|none]
+adafruit/pcb-parts: BRANCHES:[master:3e667bd62b04572076aebc3e5a52b2d089ff0af6]|RELEASE:[none|none]
 adafruit/pi_hello_video: BRANCHES:[master:e08d2a43a9cbaa38ba0decb86f972b558ee7eef4]|RELEASE:[none|none]
 adafruit/pi_video_looper: BRANCHES:[master:aceb5d830a857aa6f446b5a728404bafaaba8ae8;cec:67249128bf8fc768646fa2f31d0e5d643f0a0539;feature_single_loop_select:ad71cffcb98435bb3bed4cad4b4256b0dd0e0d18;copymode_spacecheck:6bda006d3bcc9302a92a95bb9fb24a77897b6773;dev:6dc2545252365915b3639bb05e9d74951b990059;pb-bullseye:0fd56c40518acc48645f7370dcb6a7d902d84c97;font_scaling:64f8f85349582fd9ddc29d37006647231071c2b5]|RELEASE:[v1.0.21|e94fb69a6b920d01ea8e18fbca74eca1cab75770]
 adafruit/pianoglove: BRANCHES:[master:93e689909e590c3e22e14123814b70cb38339a99;pianoglove-midi:fed157809528b3d21451ebb251753ae781a06bde]|RELEASE:[none|none]
