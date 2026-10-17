@@ -590,6 +590,7 @@ adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:54a885baee53612ef38a02fa0c
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6]|RELEASE:[none|none]
+adafruit/HL1606-LED-Strip: BRANCHES:[master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a]|RELEASE:[1.1.2|e0206c459162922557ade0fb2985840e49965606]
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336]|RELEASE:[none|none]
 adafruit/Ice-Tube-Clock: BRANCHES:[master:df64981f389418ee562fef81f0daa5cc06c18018;GPS:9d5e87a7ab6c68f822207db36cf53191f3f922ca]|RELEASE:[none|none]
 adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44]|RELEASE:[none|none]
