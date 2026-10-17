@@ -1142,6 +1142,7 @@ adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RE
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49]|RELEASE:[none|none]
 adafruit/micropython-adafruit-ads1015: BRANCHES:[master:16dacb638a4965765f89577e773eecd7ad0b1e13]|RELEASE:[1.0|8edb1e97ef93959ac9f6975f0948e33d2424355e]
 adafruit/micropython-adafruit-is31fl3731: BRANCHES:[master:0037ebc519ba3ffb29d556868e75718f4966dd39]|RELEASE:[1.0.1|4e0000bde0e55db93653b583322de722c9fc2d74]
+adafruit/micropython-adafruit-pca9685: BRANCHES:[master:0fea2736f99a2840f0d644be866f6abd5bc14b48]|RELEASE:[1.1.1|d887b1ac509011d8fb861118e6bcaa4219143470]
 adafruit/micropython-adafruit-tcs34725: BRANCHES:[master:96f9936317130f8a140b4e638ebb77aa4c564891]|RELEASE:[1.0|363cee4a5d998bcd5088ff5290779eafb8a67894]
 adafruit/micropython-adafruit-tsl2561: BRANCHES:[master:4dc704265ec783d8949130698140c85d8d2d7375]|RELEASE:[1.0|fc4ea40d97320633546c2bc442446f6226fca2f4]
 adafruit/monochron: BRANCHES:[master:30cca6a53b24f6a5f8f7b5a33cea1bd9a14608ea;SevenChron:9beb1b22f62a3a38e0f9722b22a1bf3f84c7128a;XDALICHRON:fc6ed3b98d64556280acdddced83ccb9612a3e0c]|RELEASE:[none|none]
