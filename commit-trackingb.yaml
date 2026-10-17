@@ -714,6 +714,7 @@ adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a72637
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
 adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d07928551e7f1f71a38335e33c4b530]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
+adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679f676e0af41958bece6294b05]|RELEASE:[none|none]
 adafruit/Adafruit-INA169-Breakout-PCB: BRANCHES:[master:8c1084623d75d41d05dd5070c191f7a1176434ca]|RELEASE:[none|none]
 adafruit/Adafruit-INA219-Current-Sensor-PCB: BRANCHES:[master:f7ef6a540648572549d64ff2b9b1932f17173e40]|RELEASE:[none|none]
 adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB: BRANCHES:[master:6293e5aa3d88caab44292709fef00a5e12c1bef6]|RELEASE:[none|none]
