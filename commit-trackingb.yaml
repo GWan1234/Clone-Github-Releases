@@ -740,6 +740,7 @@ adafruit/Adafruit-PowerBoost-1000-PCB: BRANCHES:[master:493d06d70537ce418355b395
 adafruit/Adafruit-PowerBoost-1000C: BRANCHES:[master:683ff0cdcdb0c5389e83a829b78e04a77dc5cc65]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-500-Basic-PCB: BRANCHES:[master:ce7199be2eb4bc33deb4a0a9f407b9dc05df20ea]|RELEASE:[none|none]
 adafruit/Adafruit-PowerBoost-500-Charger-PCB: BRANCHES:[master:68258d7d14932951b72911ef3be3c1138dce2d6c]|RELEASE:[none|none]
+adafruit/Adafruit-PowerBoost-500-Shield-PCB: BRANCHES:[master:c6799eecacb8f7873f7a9418e8f4b1bad8a7554d]|RELEASE:[none|none]
 adafruit/Adafruit-Pro-Trinket-PCBs: BRANCHES:[master:8b181a70f0e2f6ba9ef7d983176a14ac0cc9c31a]|RELEASE:[none|none]
 adafruit/Adafruit-Programmable-Piggy-Bank: BRANCHES:[master:f6b7d523e648ca6d012c6636367265c2a3ac1c33]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb]|RELEASE:[none|none]
