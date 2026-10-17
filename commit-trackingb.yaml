@@ -940,6 +940,7 @@ adafruit/pi_hello_video: BRANCHES:[master:e08d2a43a9cbaa38ba0decb86f972b558ee7ee
 adafruit/pi_video_looper: BRANCHES:[master:aceb5d830a857aa6f446b5a728404bafaaba8ae8;cec:67249128bf8fc768646fa2f31d0e5d643f0a0539;feature_single_loop_select:ad71cffcb98435bb3bed4cad4b4256b0dd0e0d18;copymode_spacecheck:6bda006d3bcc9302a92a95bb9fb24a77897b6773;dev:6dc2545252365915b3639bb05e9d74951b990059;pb-bullseye:0fd56c40518acc48645f7370dcb6a7d902d84c97;font_scaling:64f8f85349582fd9ddc29d37006647231071c2b5]|RELEASE:[v1.0.21|e94fb69a6b920d01ea8e18fbca74eca1cab75770]
 adafruit/pianoglove: BRANCHES:[master:93e689909e590c3e22e14123814b70cb38339a99;pianoglove-midi:fed157809528b3d21451ebb251753ae781a06bde]|RELEASE:[none|none]
 adafruit/piccolo: BRANCHES:[master:aeda8407684dbc44b845cf845289d02abb0ffb27]|RELEASE:[none|none]
+adafruit/pubsubclient: BRANCHES:[master:5bf68973085fff27841bfe9256e9bae88029845d;gh-pages:46572927e71f4772d01ece0105ab0748954e9804]|RELEASE:[none|none]
 adafruit/rayshobby-hid-serial-trinket: BRANCHES:[master:282903bdcb78856a5fe74fb0ae16e8473c1431b4]|RELEASE:[none|none]
 adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a215]|RELEASE:[none|none]
 adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492]|RELEASE:[none|none]
