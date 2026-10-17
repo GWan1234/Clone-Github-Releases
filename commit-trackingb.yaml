@@ -1295,6 +1295,7 @@ adafruit/rpi-fb-matrix: BRANCHES:[master:356141f60ff31db795ee128f4256b31bf45f3a4
 adafruit/rpi-firmware: BRANCHES:[master:8f305cad54cf725a14551b59a2e33c6fd37d7492]|RELEASE:[none|none]
 adafruit/rpi-rgb-led-matrix: BRANCHES:[master:8c8af1cc135a767d7cb58be2604bb0846670db99]|RELEASE:[none|none]
 adafruit/scale: BRANCHES:[gh-pages:a9416b52382fcf49ee9b8515be71c65183121622]|RELEASE:[none|none]
+adafruit/single_chan_pkt_fwd: BRANCHES:[master:aab8d308ea2abd5f4c39ca74a4493097a6632245]|RELEASE:[none|none]
 adafruit/toolchain-avr: BRANCHES:[attiny85_delay_increase:f0bd3e2eaef5cacab05c68de35b0e1d40fae6429;master:8b6e66b2113af050be324cefdb28cfefb05580c8]|RELEASE:[none|none]
 adafruit/wifi-reset: BRANCHES:[master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd]|RELEASE:[none|none]
 adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8]|RELEASE:[none|none]
