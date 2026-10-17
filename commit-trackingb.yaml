@@ -760,6 +760,7 @@ adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc762a0cb25abfc437afecab66a5e88e5a5338]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679f676e0af41958bece6294b05]|RELEASE:[none|none]
+adafruit/Adafruit-ICM20649-PCB: BRANCHES:[master:b24cb0fffe4bd48439c44565f2e086876f0483c0]|RELEASE:[none|none]
 adafruit/Adafruit-INA169-Breakout-PCB: BRANCHES:[master:8c1084623d75d41d05dd5070c191f7a1176434ca]|RELEASE:[none|none]
 adafruit/Adafruit-INA219-Current-Sensor-PCB: BRANCHES:[master:f7ef6a540648572549d64ff2b9b1932f17173e40]|RELEASE:[none|none]
 adafruit/Adafruit-INA260-PCB: BRANCHES:[master:6fbc2f2fd8afe26760e791ae2f3d00977a3f1d6b]|RELEASE:[none|none]
