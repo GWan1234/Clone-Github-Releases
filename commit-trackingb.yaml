@@ -628,6 +628,7 @@ adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing: BRANCHES:[master:b4883693227
 adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596a012c2f9534be54a63]|RELEASE:[none|none]
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38]|RELEASE:[none|none]
+adafruit/Adafruit-ADT7410-PCB: BRANCHES:[master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41]|RELEASE:[none|none]
 adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB: BRANCHES:[master:7075f89067dfed503101a3414c45d55e9ab80444]|RELEASE:[none|none]
 adafruit/Adafruit-AMG8833-Breakout-PCB: BRANCHES:[master:3e5dd5f7bc0ed9e6ca07226eaa56b04bbe408489]|RELEASE:[none|none]
 adafruit/Adafruit-APDS9960-Breakout-PCB: BRANCHES:[master:23880074d26df8524399f323e016680ad82dc69f]|RELEASE:[none|none]
