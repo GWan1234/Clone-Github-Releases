@@ -597,6 +597,7 @@ adafruit/2.8-TFT-Breakout-PCB: BRANCHES:[master:323c2b0709d11124cc6dc4ad583c4e54
 adafruit/3.5inch-TFT-Breakout-PCB: BRANCHES:[master:f229969d9b1416f34bedc4015fce967aaf7c5b00]|RELEASE:[none|none]
 adafruit/4-Channel-Level-Shifter-PCB: BRANCHES:[master:865a9f0c1221f477e8491f59ca49b9fd74711140]|RELEASE:[none|none]
 adafruit/ADS1X15-Breakout-Board-PCBs: BRANCHES:[master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55]|RELEASE:[none|none]
+adafruit/ARDX-Fritzing-Diagrams: BRANCHES:[master:55a3c1bf7a8a806078ba129865149882ecd4050f]|RELEASE:[none|none]
 adafruit/ARM-toolchain-vagrant: BRANCHES:[master:f1bf4624eb09d40daa59a01ccbf70cbdd06e617e]|RELEASE:[none|none]
 adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63]|RELEASE:[none|none]
 adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB: BRANCHES:[master:7ada397dddd065125d27c9d957d58b2a96cdf6d7]|RELEASE:[none|none]
