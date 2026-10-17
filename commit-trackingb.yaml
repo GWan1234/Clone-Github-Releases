@@ -1537,6 +1537,7 @@ adafruit/STEMMA_LiquidCrystal: BRANCHES:[master:b91a554ae98a61674beeb8170b5b9dea
 adafruit/Salae_SPI_Packet: BRANCHES:[master:d021c21ceb6930df0a4cf7fe530d5b9fd5b8ca82]|RELEASE:[none|none]
 adafruit/Saleae_PDMAnalyzer: BRANCHES:[master:a27e1d9f65ac6fe8b8f0678bc81567cf1930688f;1.1.14-for-win32-debug:a6a4b647494fda011d13360afc3a34b64adc7c04]|RELEASE:[none|none]
 adafruit/SdFat: BRANCHES:[master:20f3ffa005c1db4e8184735329afbf7e5c90a66a;upstream-changes-2_2_2:0cc0c4e9a291637d1d0826ea2fb0e31d2fef6cd3;legacy_v1:8313193820a5b8bfd732e06365f5229db1b94c1a;fix-warnings:850e1aaee1812ebcee727bb476c88925a59d4478;pb-samd-dma:2b053a19103b954d2c632c472cb9728fbae6d0c4]|RELEASE:[2.3.103|20f3ffa005c1db4e8184735329afbf7e5c90a66a]
+adafruit/Servo: BRANCHES:[adafruit_samd51:962192408a0a2608351fc54e567bca28ccb2b74b;master:25587715ccf7be0c65d551ee8a81f45325a2f143]|RELEASE:[none|none]
 adafruit/Smart_Toilet_Light: BRANCHES:[master:4111fd813bb7f031e3d3407065ab2a55d1a22d9b]|RELEASE:[none|none]
 adafruit/Solar-charging-tracker: BRANCHES:[master:e6385cec80193c8e74f7895d32f5e91a541ee3d0]|RELEASE:[none|none]
 adafruit/Sous_Viduino: BRANCHES:[master:b1b71a4316e9789541d4926df6983e5703d32f68]|RELEASE:[none|none]
