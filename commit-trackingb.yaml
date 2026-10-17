@@ -628,6 +628,7 @@ adafruit/TFTLCD-Library: BRANCHES:[master:54ad6b159db169ea77d12638bc63521dbfdfa4
 adafruit/TV-B-Gone-kit: BRANCHES:[master:4197eeb212aa34b5ad07efb0684102a93195da87]|RELEASE:[none|none]
 adafruit/Thermistor-test: BRANCHES:[master:decc864620a95bb15ae20fce10af666b1656ff03]|RELEASE:[none|none]
 adafruit/Tweet-a-Watt: BRANCHES:[master:ae0c5027b1276c90e1bbf62908b5c978f9ad03ac]|RELEASE:[none|none]
+adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger: BRANCHES:[master:e2b12428c08d286dc9f568c8117f6e77986ef0ab]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b]|RELEASE:[none|none]
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RELEASE:[none|none]
