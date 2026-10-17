@@ -1213,6 +1213,7 @@ adafruit/io-api: BRANCHES:[main:2995a32c86d184bd401781df3c7f297e70ca6341]|RELEAS
 adafruit/io-client-go: BRANCHES:[main:eb896776411afb581c1b57238073d1adffa2a22b;initial-dev:13dfced6058748471793785df5950265804cfa15]|RELEASE:[none|none]
 adafruit/io-client-ruby: BRANCHES:[master:a2eecbd67a0c6857b462750f5d2d355533869125]|RELEASE:[none|none]
 adafruit/io-swagger-templates: BRANCHES:[master:1eb516b553057f9a7eae1cc409541621fe9b95af]|RELEASE:[none|none]
+adafruit/iot-bill-of-rights: BRANCHES:[master:eff9ccb54143741c6791bd9e08a70737b190058a]|RELEASE:[none|none]
 adafruit/jenkins-pipeline-library: BRANCHES:[master:980e2960e01b26e22a9109c0b435adc937a5de9e]|RELEASE:[none|none]
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b]|RELEASE:[none|none]
 adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba65017103b]|RELEASE:[none|none]
