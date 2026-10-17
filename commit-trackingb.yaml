@@ -813,6 +813,7 @@ adafruit/MAX31850_DallasTemp: BRANCHES:[master:c83bb4710e539f2574ad613448dfe1c48
 adafruit/MAX31850_OneWire: BRANCHES:[master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce]|RELEASE:[1.1.3|1bd8fd741e50fd02d73dc7068c3bd997c600b491]
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
+adafruit/Mini-LED-Gamer: BRANCHES:[master:4e230a14bdc480bc3f983829d7cea8b83dadd3be]|RELEASE:[none|none]
 adafruit/NeoPixel-Sticks: BRANCHES:[master:73d3e55379367ca0ef051d7c9a8b846b6948b21a]|RELEASE:[none|none]
 adafruit/NeoPixel_Painter: BRANCHES:[master:2b1a19d5db3ffad94ae08de92ae01cc66e5c641f]|RELEASE:[none|none]
 adafruit/Nikon-Intervalometer: BRANCHES:[master:7d4624bd8dfbc12381523223c69c99f3dcccd5e2]|RELEASE:[none|none]
