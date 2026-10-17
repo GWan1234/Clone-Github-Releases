@@ -941,6 +941,7 @@ adafruit/Adafruit-VC0706-Serial-Camera-Library: BRANCHES:[master:e11b41a6ea3b5ee
 adafruit/Adafruit-VCNL40X0-PCB: BRANCHES:[master:13e0c0867b66ae15eb1331880ccea30b83713467]|RELEASE:[none|none]
 adafruit/Adafruit-VEML6070-PCB: BRANCHES:[master:3dd13922832c37869195787b3112429c482605c8]|RELEASE:[none|none]
 adafruit/Adafruit-VEML6075-UV-Sensor-PCB: BRANCHES:[master:3165308f9a23535ee0ace7843d7facc22f5181bb]|RELEASE:[none|none]
+adafruit/Adafruit-VEML7700-PCB: BRANCHES:[master:ab489f03c957f681ed0161fc6d2b786956556e23]|RELEASE:[none|none]
 adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: BRANCHES:[master:1ef873512150740edc9798f90028facfa35fd81f]|RELEASE:[none|none]
 adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: BRANCHES:[master:2577abd97ffa3dab39b631643d5861f5b6bd98c1]|RELEASE:[none|none]
 adafruit/Adafruit-VS1053-Breakout-PCB: BRANCHES:[master:61db4e571d89d321c33bb693b84f80da1510c5e2]|RELEASE:[none|none]
