@@ -637,6 +637,7 @@ adafruit/Adafruit-Programmable-Piggy-Bank: BRANCHES:[master:f6b7d523e648ca6d012c
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Screwshield-PCB: BRANCHES:[master:ce439b0d2063337f03171edbf927aae6552befa0]|RELEASE:[none|none]
 adafruit/Adafruit-Prototyping-Pi-Plate-PCB: BRANCHES:[master:e54e072a655814936e89cb3c01314b95d48c88b4]|RELEASE:[none|none]
+adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e]|RELEASE:[none|none]
 adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7;gh-pages:bc4e069d763a365765d209be4b1c9d147f17f9ef;actionci:ba3d0f9fb3de8d72c5dc163b7191164b877e3827]|RELEASE:[1.2.2|8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7]
 adafruit/Adafruit-RGB-LCD-shield-PCB: BRANCHES:[master:acb4ada959e35a67703b50efb88ad986440d37e5]|RELEASE:[none|none]
 adafruit/Adafruit-Raspberry-Pi-Python-Code: BRANCHES:[master:b4aeee58b670645149f6f682a6c5ac04a0a0d314;legacy:9ff733d59242a02f7ccd0222001ce80f6090a978]|RELEASE:[none|none]
