@@ -753,6 +753,7 @@ adafruit/LPD6803-RGB-Pixels: BRANCHES:[master:e5d3a2a55a8ee7e417e1e03dd5593530f0
 adafruit/LPD8806: BRANCHES:[master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db]|RELEASE:[1.0.7|1951478c2c2a8317feab9997cdfddba3728a245a]
 adafruit/LS2208-USB-Barcode-Scanner: BRANCHES:[master:e0649268db70c54e7d4be64f7317b55b6d29708d]|RELEASE:[none|none]
 adafruit/Light-and-Temp-logger: BRANCHES:[master:d615540bfa0b30aa721960312a46d62161b6c2e8]|RELEASE:[none|none]
+adafruit/MAX31850_DallasTemp: BRANCHES:[master:c83bb4710e539f2574ad613448dfe1c48bc661e3;gh-pages:7ff84118ac593c8ef007943c9b4e3482a5b4beb4;actionci:13515400a91aee096ffd9c52893f5145c202f7b8]|RELEASE:[1.1.6|c83bb4710e539f2574ad613448dfe1c48bc661e3]
 adafruit/MAX31850_OneWire: BRANCHES:[master:1bd8fd741e50fd02d73dc7068c3bd997c600b491;gh-pages:a4d2ef1bab6a57078a499fb7e4a8050fe43fb5ce]|RELEASE:[1.1.3|1bd8fd741e50fd02d73dc7068c3bd997c600b491]
 adafruit/MAX6675-library: BRANCHES:[master:6a7d05d22769d7f48e486ee734e4ed0a4714ab02;gh-pages:22eb1ff0b876212fb4ff5d9b0593611b0defaf7d]|RELEASE:[1.1.2|6a7d05d22769d7f48e486ee734e4ed0a4714ab02]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
