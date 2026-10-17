@@ -714,6 +714,7 @@ adafruit/Adafruit-GFX-Library: BRANCHES:[master:9b7f8ef181170cc5363c194dd7ffa16e
 adafruit/Adafruit-GPIO-Halt: BRANCHES:[master:9671c327d2c07f7955d1fef26c6bde132759020a]|RELEASE:[none|none]
 adafruit/Adafruit-GPS-Logger-Shield-PCB: BRANCHES:[master:20679c594e363723b81bb2cac5fc47c21cd4b214]|RELEASE:[none|none]
 adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB: BRANCHES:[master:6d03cc0e0a1d64360514f60730dba3c79e2846a0]|RELEASE:[none|none]
+adafruit/Adafruit-Gemma-M0-PCB: BRANCHES:[master:682dbf68e51ad478915fdf6520119f15588f4375]|RELEASE:[none|none]
 adafruit/Adafruit-Gemma-PCB: BRANCHES:[master:88b3cb1a0c9ede216d3a93f904ab7ded9e63daed]|RELEASE:[none|none]
 adafruit/Adafruit-Git-Intro: BRANCHES:[master:48468f4f7f39642ed24cbe04debc915ac0f0c1c9]|RELEASE:[none|none]
 adafruit/Adafruit-Graphic-VFD-Display-Library: BRANCHES:[master:f35ecfb8399b713541fd54fd1276145dacd3cc40;gh-pages:9092b9d5ef91040ceafdf32ec5bb0cc7d2649b34]|RELEASE:[1.1.2|f35ecfb8399b713541fd54fd1276145dacd3cc40]
