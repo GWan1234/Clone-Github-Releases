@@ -597,6 +597,7 @@ adafruit/Adafruit_USB_Boarduino_PCB: BRANCHES:[master:54a885baee53612ef38a02fa0c
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6]|RELEASE:[none|none]
+adafruit/GPS-shield-RMC-test-sketch: BRANCHES:[master:600346d12e5f666cbeca19cc8c6ad771283004cd]|RELEASE:[none|none]
 adafruit/HL1606-LED-Strip: BRANCHES:[master:e0206c459162922557ade0fb2985840e49965606;gh-pages:87b13adef2bd71a69868ef60d10241870260afb2;actionci:97f4d458efc5ae0ede8bc2ee42b32e09c201387a]|RELEASE:[1.1.2|e0206c459162922557ade0fb2985840e49965606]
 adafruit/HL1606-LED-Strip-PWM: BRANCHES:[master:bc43d9cf18b152ccc197515ceab0498f7600ae92]|RELEASE:[1.0.0|257f431e9ca9508f31ed0bbdc8a6f8eb5380cdd2]
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336]|RELEASE:[none|none]
