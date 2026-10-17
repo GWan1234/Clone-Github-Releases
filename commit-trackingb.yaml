@@ -676,6 +676,7 @@ adafruit/Adafruit-FONA808-Shield-PCB: BRANCHES:[master:c94430e42dd25bde73e9e6e00
 adafruit/Adafruit-FPC-SMT-Adapter-PCBs: BRANCHES:[master:ac22754f7fac462568f04ea4783b075e578824ce]|RELEASE:[none|none]
 adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4]|RELEASE:[none|none]
 adafruit/Adafruit-FT232H-Breakout-PCB: BRANCHES:[master:78919715d58046e883cc4fe47f90c6634582adf7]|RELEASE:[none|none]
+adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB: BRANCHES:[master:6020d6a43c4e294774c98a2029c4a8f894d0fdd4]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Adalogger-PCB: BRANCHES:[master:c7e87d6e0feb5d3e048c3715038c0e4ce71cdfa0]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB: BRANCHES:[master:fab08d3f5f0755a29559b81ad54239b746906b56]|RELEASE:[none|none]
