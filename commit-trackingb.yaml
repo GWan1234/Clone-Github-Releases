@@ -575,6 +575,7 @@ Xinyuan-LilyGO/tlorapager-claude-os: BRANCHES:[main:165498a6ffcfc331ece5d1c7836f
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
 adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63]|RELEASE:[none|none]
+adafruit/Adafruit-128x64-Monochrome-OLED-PCB: BRANCHES:[master:51ef8e242dcf460d5effc298d8565110624e6b23]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
