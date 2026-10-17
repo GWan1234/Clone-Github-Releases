@@ -588,6 +588,7 @@ adafruit/Adafruit-2.2-SPI-TFT: BRANCHES:[master:9acf08e9cd9cc020d296851c06b92dab
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1bc2717aa0a4d334c16a64d9]|RELEASE:[none|none]
 adafruit/Adafruit-BMP085-Library: BRANCHES:[master:9d5057fb3e41afe0b4b7d97ceae1a97d53925c15;gh-pages:e74e73a95f214edcba9a760d68196b304304aac0;samyk-master:3b8027668be989dcea3cddb09d2483ca29ee7e7b]|RELEASE:[1.2.4|9d5057fb3e41afe0b4b7d97ceae1a97d53925c15]
+adafruit/Adafruit-BMP085-PCB: BRANCHES:[master:d969fe9e98059ab62805aae560882d1e83a73980]|RELEASE:[none|none]
 adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: BRANCHES:[master:b6d6ea8721c3660aef0ca6197d914ceea1fce065]|RELEASE:[none|none]
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
