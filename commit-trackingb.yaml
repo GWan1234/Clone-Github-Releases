@@ -1517,6 +1517,7 @@ adafruit/contributor_covenant: BRANCHES:[master:537081e69d123e4a8d719fbf24f55a3f
 adafruit/cookiecutter-adafruit-circuitpython: BRANCHES:[main:302da5e155805f285102eb482fed981138a17ac9;dev/update-pre-commit-hooks:1bdbfd69196bddfb0f5be78a95e0939b2474aa72;test-cookie-pylint-clean:55f6d042e40428a9e6f3201822b4a89088610c70]|RELEASE:[none|none]
 adafruit/cordova-adafruit-io: BRANCHES:[master:be274cee2c1669e9b491d5bd265b01acf51d93ae]|RELEASE:[none|none]
 adafruit/dash-examples: BRANCHES:[master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00c]|RELEASE:[none|none]
+adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;master:7c96adca4aacd72ff1472d5813cd860ad5924c18]|RELEASE:[none|none]
 adafruit/eagle2fritzing: BRANCHES:[master:d18749346438d31870de54bcbf2748cdc676138f]|RELEASE:[none|none]
 adafruit/echo_2-xl: BRANCHES:[master:6225f233c03bc7b32c5f5cb6f756521254c34804]|RELEASE:[none|none]
 adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034]|RELEASE:[none|none]
