@@ -755,6 +755,7 @@ adafruit/Adafruit-PWM-Servo-FeatherWing-PCB: BRANCHES:[master:27159a48d60d27e7c5
 adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB: BRANCHES:[master:2fa8e23b2653935aaf2ee6c1171b122358689485]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-HAT-PCB: BRANCHES:[master:fdee45a5dee903ecfbd9f010ca250b968f43a1f5]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-PCB: BRANCHES:[master:2c7f1ba8791a65e9b3886cb34356d6ec1abe54de]|RELEASE:[none|none]
+adafruit/Adafruit-Perma-Proto-Pi-PCBs: BRANCHES:[master:eebe4895c17e70200071dd98876799b278e233f3]|RELEASE:[none|none]
 adafruit/Adafruit-Pi-Cobber-PCBs: BRANCHES:[master:8a30864c6cfe7dfd3faf86a2778dadc0db75f96f]|RELEASE:[none|none]
 adafruit/Adafruit-Pi-ExternalRoot-Helper: BRANCHES:[master:0d091e18f3f710c8112a647506594ff40e6ad517]|RELEASE:[none|none]
 adafruit/Adafruit-Pi-Finder: BRANCHES:[v4:329847e9ba2539654a6e658568a058daf42e0c92;master:d686bad555d2b97390e6b0d690c3498921c059cb]|RELEASE:[3.0.0|1b233ded6fd02ea61e480cb49f5d2db93004737c]
