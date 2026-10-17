@@ -576,6 +576,7 @@ Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
 adafruit/2-axis-joystick-breakout-board-with-mounting-holes: BRANCHES:[master:1d523eacdbcaed54abf94ee1703fdcb76a94d8cf]|RELEASE:[none|none]
 adafruit/2.8-TFT-Breakout-PCB: BRANCHES:[master:323c2b0709d11124cc6dc4ad583c4e5428fbde95]|RELEASE:[none|none]
+adafruit/3.5inch-TFT-Breakout-PCB: BRANCHES:[master:f229969d9b1416f34bedc4015fce967aaf7c5b00]|RELEASE:[none|none]
 adafruit/4-Channel-Level-Shifter-PCB: BRANCHES:[master:865a9f0c1221f477e8491f59ca49b9fd74711140]|RELEASE:[none|none]
 adafruit/ADS1X15-Breakout-Board-PCBs: BRANCHES:[master:5aa7dbfdd92692a7751740b0f622606c2ff9ca55]|RELEASE:[none|none]
 adafruit/AccelStepper: BRANCHES:[master:6ea713068f97c047f6e3af9b4b646859d68d1b63]|RELEASE:[none|none]
