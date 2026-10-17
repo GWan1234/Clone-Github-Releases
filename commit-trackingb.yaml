@@ -1347,6 +1347,7 @@ adafruit/Adafruit_nRF8001: BRANCHES:[actionci:55d4c5567d26b97d90907d84ac2e572ea1
 adafruit/Adafruit_remoteFXTrigger: BRANCHES:[master:f018b3b5323818cf93bd5e1005e849d102b8f610]|RELEASE:[none|none]
 adafruit/Adalight: BRANCHES:[master:b9d88f8a05e5a3099e9b855cea88b3b29351652c]|RELEASE:[none|none]
 adafruit/Arduboy2: BRANCHES:[master:5d975e7bf4064a96821790d08aab13551f4017af;noUSB:44aeda92a248f4b4bd2134c4352b3de44af3a1f9;develop:78de8a439b2be3ee9bb8cea762b65173a62c7ae6]|RELEASE:[none|none]
+adafruit/ArduboyPlaytune: BRANCHES:[master:52ca6170af45432c07269861c91349e70b4cd73d]|RELEASE:[none|none]
 adafruit/ArduboyTones: BRANCHES:[master:4ba1bcc7a8761154958ad6ffee3cb7fe1de0ac67]|RELEASE:[none|none]
 adafruit/Arduin_o_phone: BRANCHES:[master:f6abf2b2d1821cc4410ec10594bb55a1cf5a7984]|RELEASE:[none|none]
 adafruit/Arduino-IRremote: BRANCHES:[master:3160d40a4320e668558e531d6a02de7cb243f3f7;revert-425-master:4cdac5fcc8a970bc6487eb9acaa41f925ba5e389;salocinx-master:e19475e23a8972a11a83cade38ba220913e8a51e;z3t0-patch-1:4f24b696cf8ea2a7ec28c95c7216803fa3621ecd;header:e12557b81315d015ce9fef48265926b10747af4d;panasonic-jvc:3b41130ff916f03e46e8e45d5c54a0f02124ae0f;sanyo-sony:7befbbcd34fbc7def99044bd9dd9d44c6a289624;experimental:13ac290b3bf7e251ea0275ac70c94c62fc6d3ba7;dev:968adc2ec0d644e4c0362ffe93e2a967546e4d99;gh-pages:97f6ed192346dc0130125a9d21f6f9d56cc13d18]|RELEASE:[none|none]
