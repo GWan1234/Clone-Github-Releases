@@ -675,6 +675,7 @@ adafruit/Adafruit-L3GD20-Breakout-PCB: BRANCHES:[master:32bf273c21430e7c4e28cfa7
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: BRANCHES:[master:50dc43b6c03adafa21683995f62efb6e825bba12]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpacks: BRANCHES:[master:a58b392b20838c60256d767576a823a6984f7284]|RELEASE:[none|none]
 adafruit/Adafruit-LM3671-Buck-Converter-PCB: BRANCHES:[master:7635cfe1f15899a86acc20f0ee553fb4e0e780c7]|RELEASE:[none|none]
+adafruit/Adafruit-LM4040-Voltage-Reference-PCB: BRANCHES:[master:6e1c7a03f744e43faf24efe80b1913821f83badb]|RELEASE:[none|none]
 adafruit/Adafruit-LSM303-PCB: BRANCHES:[master:a8ab2a829a88f3b57baff0d8324b4454cdb8a08f]|RELEASE:[none|none]
 adafruit/Adafruit-LSM9DS0-PCB: BRANCHES:[master:f42885935255b68560c1eaf7bc05a538efcccbdb]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31850-thermocouple-breakout-board: BRANCHES:[master:759ee92d8dd940d14ad418e81016b3e25eb1a581]|RELEASE:[none|none]
