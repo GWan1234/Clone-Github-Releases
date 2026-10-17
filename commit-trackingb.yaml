@@ -618,6 +618,7 @@ adafruit/Adafruit-DPI-Kippah: BRANCHES:[master:d05c5e17c85a94d8a6d5fdcd45e5aba5d
 adafruit/Adafruit-DRV2605-PCB: BRANCHES:[master:78a53522699b0f0661ed8fec2f3d5eb2d617e4b0]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1bece2c690ddaa7c65dfc82]|RELEASE:[none|none]
+adafruit/Adafruit-FONA-808-Breakout-PCB: BRANCHES:[master:da32ad54c3895f2b397a972f241e2013f246f7c4]|RELEASE:[none|none]
 adafruit/Adafruit-FRAM-Breakout-PCB: BRANCHES:[master:f7d4afa22ddd562f52c557e2e8f003611515b4f4]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb23881364d3a9fabe1cc80b6dd5]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-FONA-PCB: BRANCHES:[master:db45e3e1a5e53590cac33a1f3adc783d1e70ea01]|RELEASE:[none|none]
