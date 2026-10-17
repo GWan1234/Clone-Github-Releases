@@ -776,6 +776,7 @@ adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38ae
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec]|RELEASE:[1.4.7|f7d625462e6033f373e51f8c67f88fc429535b47]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6]|RELEASE:[none|none]
+adafruit/FONA_PPP: BRANCHES:[master:b1aeec0d5f951bdc24e8924ef5f4c3a138e711e6]|RELEASE:[none|none]
 adafruit/Feedback-Servo-Record-and-Play: BRANCHES:[master:9ed41f443a37443ef52a0c2a8031256e09fc8c05]|RELEASE:[none|none]
 adafruit/Flora-Brakelight-Backpack: BRANCHES:[master:8f6ed6e5dd51cb952dad99b5e27b60949b299634]|RELEASE:[none|none]
 adafruit/Flora-NeoGeo-Watch: BRANCHES:[master:2e81db16a70abc0fb91af357fdd86ae946a53ae8]|RELEASE:[none|none]
