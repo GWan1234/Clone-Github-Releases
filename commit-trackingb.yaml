@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 01:05
+commit-tracking: 2026-10-18 01:06
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1837,6 +1837,7 @@ adafruit/fritzing-parts: BRANCHES:[nightlyParts:964eea03a6b24bb6e19752a90b7f0c61
 adafruit/ftdiflash: BRANCHES:[master:242ae956cbfc0652e862db4a381a26dfa275a5e8]|RELEASE:[none|none]
 adafruit/gdb-coresight: BRANCHES:[master:50fa755a05cb4d22fcc03be3c3703da62821c424]|RELEASE:[none|none]
 adafruit/gdb-micro-trace-buffer: BRANCHES:[master:8baa889c6f515cc73145d2e9d2800efb85696be1]|RELEASE:[none|none]
+adafruit/glider: BRANCHES:[dependabot/npm_and_yarn/y18n-3.2.2:40d0794a34fe0f20a6464c36c08e146227176a27;master:e463b130cb19464031fe94904c554743cd353442]|RELEASE:[none|none]
 adafruit/glitterpos: BRANCHES:[master:ea8e287096cae2de893e2a92a9fb8c5e4e40cb29;dherrada-patch-1:fa77c31eee4ab0db700b3f1796d901b26f7a8e82]|RELEASE:[none|none]
 adafruit/gpio-stream: BRANCHES:[master:a14e0f5a1cf2fadbed047a80cdc4118b555df842]|RELEASE:[none|none]
 adafruit/iOS13-beta-file-issue: BRANCHES:[master:37c016d044f05af0779389224bc95901458aa35b]|RELEASE:[none|none]
