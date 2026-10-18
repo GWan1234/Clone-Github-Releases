@@ -964,6 +964,7 @@ adafruit/Adafruit-Metro-M4-Express-PCB: BRANCHES:[master:4aafb2ac645c0d93eed7e4f
 adafruit/Adafruit-Metro-M7-with-AirLift-PCB: BRANCHES:[main:a3c861b5d9f21f124cc4e0cc4034f511857c55a1]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M7-with-microSD-PCB: BRANCHES:[main:d7e0bc2ff4d5b9304a915f01442e9cbdc6535e0e]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-RP2040-PCB: BRANCHES:[main:9fe571ea428c5c2bc1b7593dadf61e8ef804f480]|RELEASE:[none|none]
+adafruit/Adafruit-Metro-RP2350-PCB: BRANCHES:[main:d8e135da6ee3383372035fb6ac2bb9387eec1233]|RELEASE:[none|none]
 adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB: BRANCHES:[master:d347601d3c62369d5b22a20b0e3f15a8fc04ef48]|RELEASE:[none|none]
 adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25]|RELEASE:[none|none]
 adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB: BRANCHES:[master:959792478854acec21fb862650427ffaa32b07f1]|RELEASE:[none|none]
