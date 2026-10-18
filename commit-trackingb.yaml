@@ -668,6 +668,7 @@ adafruit/Adafruit-Airlift-Shield-PCB: BRANCHES:[master:2f39914e1258ad189924d53cb
 adafruit/Adafruit-Analog-Accelerometers-PCBs: BRANCHES:[master:4b5be6d232f7f1de1bc2717aa0a4d334c16a64d9]|RELEASE:[none|none]
 adafruit/Adafruit-Animated-Eyes-Bonnet-PCB: BRANCHES:[master:e28ffce0e3b88679aefb5901f7fa6e0b5559f853]|RELEASE:[none|none]
 adafruit/Adafruit-Arcade-Bonnet-PCB: BRANCHES:[master:20446a9dc6a3f9b86abfc56c499863b030211beb]|RELEASE:[none|none]
+adafruit/Adafruit-Audio-BFF-PCB: BRANCHES:[main:cc58e5b14991044038626a00b502c2e8eda2f85a]|RELEASE:[none|none]
 adafruit/Adafruit-Audio-FX-Sound-Board-PCBs: BRANCHES:[master:378d5c6b68a12f1ec56110df7422b18ddeafe679]|RELEASE:[none|none]
 adafruit/Adafruit-BH1750-PCB: BRANCHES:[main:0b61eb2c8c54254a5685adc044fbf7c5ab968e56]|RELEASE:[none|none]
 adafruit/Adafruit-BME280-Breakout-PCB: BRANCHES:[master:93e2b97928ba906ba19b265e9f2d0024d29472f0]|RELEASE:[none|none]
