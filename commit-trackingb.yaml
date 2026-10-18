@@ -1003,6 +1003,7 @@ adafruit/Adafruit-PyGamer-PCB: BRANCHES:[master:6725ded4a2049f7bf44a9078c141ceb6
 adafruit/Adafruit-PyPortal-PCB: BRANCHES:[master:90d9aa7ba3f892fd4adb31815c99ede26c10757c]|RELEASE:[none|none]
 adafruit/Adafruit-PyRuler-PCB: BRANCHES:[master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0]|RELEASE:[none|none]
 adafruit/Adafruit-QSPI-DIP-Breakout-PCB: BRANCHES:[main:f9be7ef988d5ae79ad58d0e5105dabf0bacab807]|RELEASE:[none|none]
+adafruit/Adafruit-QT-3V-to-5V-Level-Booster-PCB: BRANCHES:[main:13637316890d99395fe7f6b359de027a0f422c7b]|RELEASE:[none|none]
 adafruit/Adafruit-QT-5-3V-Shifter-PCB: BRANCHES:[main:1b59f72ce55b4b116f2b8756c4eefdb9fa2e4eb3]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-ESP32-C3-PCB: BRANCHES:[main:8618fb52d806fb184ec5807490db0a9b084ffa9c]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-ESP32-Pico-PCB: BRANCHES:[main:f45b12704ccbb7180d89db28e1af7bd861124133]|RELEASE:[none|none]
