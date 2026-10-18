@@ -1039,6 +1039,7 @@ adafruit/Adafruit-WICED-WiFi-Feather-PCB: BRANCHES:[master:f2c70ce49ef3df7f60be3
 adafruit/Adafruit-WINC1500-Shield-PCB: BRANCHES:[master:5b4642c624ffe549731ff9aae4aeb5330fbbb4a3]|RELEASE:[none|none]
 adafruit/Adafruit-WS2801-Library: BRANCHES:[master:f43db5f745b5be30a3667d9c41428f84fa5894f3;gh-pages:551bebf191fe7d2fab8aa16a22bf395ce62a421b]|RELEASE:[1.1.3|f43db5f745b5be30a3667d9c41428f84fa5894f3]
 adafruit/Adafruit-WebIDE: BRANCHES:[master:bf90ab1c2448af9508b6d39fbc3491f87f9f2f30;alpha:31f1545311e439a7643f90d621283a7028c738f1;occi_repo:449800031f314e90418364f5750fbc63c05dcf86;update_setup_image:9e6f26ed45d349649d84bc8b22f6592185429ed3;offline:74d23dfdb069d2480dc8f929cd5b14718a5080ff;fixes:114fc1d1ccb5e2ecbb4effef5ce540ff67a400ee;debug:7f2ed13f1acdbd35aad1b2f22eb26c9bdb0edc62;debugger:5edaa56c5d10585d09e82e152ab108ee165bed0b;job-queue:f62390dad7c8ded10be2067021b57d9a9bf4633a;test:a169807033eb4c3137c064980725430be31be744]|RELEASE:[0.8.0|192181b44468d8eed417ec7f55e0dd98b4c13607]
+adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB: BRANCHES:[main:d3f2e25c4f9211553e32b36ffce03212f414ead3]|RELEASE:[none|none]
 adafruit/Adafruit-X2-Time-Ball: BRANCHES:[master:3eb5d4a473b991b88267ea914ef938100e9baf3c]|RELEASE:[none|none]
 adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB: BRANCHES:[master:20cfdfdcf656a3c3dd9d07e3db91b0f1ac79b31a]|RELEASE:[none|none]
 adafruit/Adafruit-pIRKey-PCB: BRANCHES:[master:6f962ffc77d781d85bb019384fd80bceb0dc80a4]|RELEASE:[none|none]
