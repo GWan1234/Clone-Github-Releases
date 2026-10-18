@@ -1958,6 +1958,7 @@ adafruit/ArduinoModule-CMSIS-Atmel: BRANCHES:[adafruit:8ca10699bd86a856b5e21f78f
 adafruit/ArduinoTap: BRANCHES:[master:ea20afb99dad4c814f0f7a8242f4de94dc7d136d]|RELEASE:[none|none]
 adafruit/Arduino_Core_STM32: BRANCHES:[master:2b723f85337a0684573de03a9d471f861f271435]|RELEASE:[none|none]
 adafruit/Arduino_Library_Github_Tools: BRANCHES:[travis:be07c342fc63268f145ef94904ccedee9f999786;master:be07c342fc63268f145ef94904ccedee9f999786]|RELEASE:[none|none]
+adafruit/Ask_An_Engineer: BRANCHES:[main:9c2526f080f4a1628c78124e0e36b328125f17e6]|RELEASE:[none|none]
 adafruit/Atom-fsync-on-save: BRANCHES:[master:613368413957c291b8778a9d69f07be5b51352ec]|RELEASE:[none|none]
 adafruit/Audio: BRANCHES:[master:66d81f2f46bb52faf7e43db0eef14eac6637f612;2019_04_18_upstreammerge:c99f3e7808fda2cccd914a4ed4f3d0cc0920773d]|RELEASE:[1.3.1|66d81f2f46bb52faf7e43db0eef14eac6637f612]
 adafruit/BLE-Black-Robot-Rover: BRANCHES:[master:44ae68af66a2a68945bf9457e7883fe920cee7bc]|RELEASE:[none|none]
