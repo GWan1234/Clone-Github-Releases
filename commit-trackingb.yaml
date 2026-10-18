@@ -2316,6 +2316,7 @@ adafruit/Standalone-Arduino-AVR-ISP-programmer: BRANCHES:[master:46ff5e404afaeef
 adafruit/Swift-Playground-Book-For-Bluefruit-Template: BRANCHES:[master:b80c03e276af5431a538c52104cb3df312f129e7]|RELEASE:[none|none]
 adafruit/Swift-Playgroundbooks-Subscription: BRANCHES:[collin-update:d988e7097efdc67f7716a9e16df05b605050ba6c;master:6771b76d46d691eeac994517a3f8f582dc1eda16]|RELEASE:[none|none]
 adafruit/TE_EP2350_Config_Tool: BRANCHES:[main:1a1d3dedc07bd533bce4615661c088f8305ecff1]|RELEASE:[none|none]
+adafruit/TE_SP1_CircuitPython_Flasher_Page: BRANCHES:[main:f6a211cb9870acc98c1f61cc5b9620a274bde0e0]|RELEASE:[none|none]
 adafruit/TFTLCD-Library: BRANCHES:[master:54ad6b159db169ea77d12638bc63521dbfdfa4b5;ladyada-patch-1:3ba0b31ddf7f5b4e4207ef263447fb71b05505e0;actionci:b3d5ba1771a08639aec6defb38c77ad378d10c4a;gh-pages:e3a8c46c8a35632ce679a370824d6d2868e3d3ea;nondma_samd51:3e1da133131fd05fa742e13fd15dc55be8d566d7;samd51:167e9364be7eac8ec17f822aeda97fe01b5c4c6c;xmega_support_test:bed0a09f5409d884a18aef798d6a374f59075546;Due:e8cb704fdd364380ddd204f674755417ebf03000]|RELEASE:[1.0.4|54ad6b159db169ea77d12638bc63521dbfdfa4b5]
 adafruit/TIMESQUARE-DIY-Watch-Kit: BRANCHES:[master:e96eb4b1c59d834064f6a437160f73b773111f46]|RELEASE:[none|none]
 adafruit/TIMESQUARE-Watch: BRANCHES:[master:9c604a9a8826a33d8d6ebfb8ae42fc12068bd0dc]|RELEASE:[none|none]
