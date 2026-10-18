@@ -2286,6 +2286,7 @@ adafruit/awesome-circuitpython: BRANCHES:[main:21edca3c366122d84ab26d4875b5aa137
 adafruit/awesome-feather: BRANCHES:[main:3c4b663a1ca05af01500aef603a0a4955d1de7e6]|RELEASE:[none|none]
 adafruit/awesome-makecode: BRANCHES:[master:bd9c5d3afca8996f9c5cb462da30de64fe8c6895]|RELEASE:[none|none]
 adafruit/awesome-micropythons: BRANCHES:[master:174283519e3b6b04ac44b6391c8a5cb0a0d797b8]|RELEASE:[none|none]
+adafruit/awesome-open-source-robotic-arms: BRANCHES:[main:49f7ec703735c3463247fccb9e40e7f555ee23ab]|RELEASE:[none|none]
 adafruit/awesome-qt-py: BRANCHES:[main:888dd45a91b1263098eaf5f8f936466e7c78b2e6]|RELEASE:[none|none]
 adafruit/awesome-stemma: BRANCHES:[master:4faee5dea99c06c97c47408a4c860b3d020a6880]|RELEASE:[none|none]
 adafruit/beaglecap: BRANCHES:[master:35dc8cdb19a573dd7241f13615f7aff3cfaf2298]|RELEASE:[none|none]
