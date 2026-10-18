@@ -1228,6 +1228,7 @@ adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB: BRANCHES:[master:0dcd95006
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
 adafruit/Adafruit-Talking-Clock: BRANCHES:[master:0b87769fcd721489e0e00bf42d8d75846296e5fb]|RELEASE:[none|none]
 adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB: BRANCHES:[master:e5267e93a24939f5f07c1e0ae2910dcc9821bb35]|RELEASE:[none|none]
+adafruit/Adafruit-Terminal-Block-BFF-PCB: BRANCHES:[main:6e2c47d43d37a4911910750956fb27c9459b2a57]|RELEASE:[none|none]
 adafruit/Adafruit-Terminal-Block-FeatherWing-PCB: BRANCHES:[master:b5c7edd20f00010be64d25145d6ee1dacd28b083]|RELEASE:[none|none]
 adafruit/Adafruit-Terminal-PiCowbell-for-Pico: BRANCHES:[main:38f512959eea28a4ae38c9ba7e700d3ac0d5618c]|RELEASE:[none|none]
 adafruit/Adafruit-Thermal-Printer-Library: BRANCHES:[master:54786351af1d84580c4ae555d439756679b0dc44;gh-pages:eb67723c73e6276ca8a0b21dd2b8c20e2ffb420d]|RELEASE:[1.4.1|1773dd84ddcad8a8d22d03ef7b55287b6967b9fb]
