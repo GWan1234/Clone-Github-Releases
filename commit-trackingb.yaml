@@ -722,6 +722,7 @@ adafruit/Adafruit-DragonTail-for-micro-bit-PCB: BRANCHES:[master:2f220715487c3b5
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: BRANCHES:[master:bb19790ef2cb5c1c291311f99104a12b05fa0cad]|RELEASE:[none|none]
 adafruit/Adafruit-EMC2101-PCB: BRANCHES:[main:3d1c2ca4c2ecfb430e67ed098780de451e5c5c6b]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c825a3747d51849c088c390d]|RELEASE:[none|none]
+adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB: BRANCHES:[main:9e9f52790239a755241bfee62628dc8b3c713c63]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-Editorial-Standards: BRANCHES:[master:21f382da5be30c227f4065fe25e5914da3b09de2]|RELEASE:[none|none]
 adafruit/Adafruit-Ethernet-FeatherWing-PCB: BRANCHES:[master:1f950d49ed57129f6c33656a3ac37ad7d21d757b]|RELEASE:[none|none]
