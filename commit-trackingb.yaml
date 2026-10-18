@@ -1015,6 +1015,7 @@ adafruit/Adafruit-Pi-ExternalRoot-Helper: BRANCHES:[master:0d091e18f3f710c8112a6
 adafruit/Adafruit-Pi-Finder: BRANCHES:[v4:329847e9ba2539654a6e658568a058daf42e0c92;master:d686bad555d2b97390e6b0d690c3498921c059cb]|RELEASE:[3.0.0|1b233ded6fd02ea61e480cb49f5d2db93004737c]
 adafruit/Adafruit-Pi-Kernel-o-Matic: BRANCHES:[pitft:877272efc6546d01e8ee346abace59313c0fdfa3;mkknlimg:c87e9b7f48fb8088be055fc2221226effce388ae;master:c9df7d7712b022d542d36fba8a44d1bc01136c75]|RELEASE:[none|none]
 adafruit/Adafruit-PiCowbell-Adalogger-PCB: BRANCHES:[main:667876fdbc1bf1bf7e68f5d9e240d109c55e5093]|RELEASE:[none|none]
+adafruit/Adafruit-PiCowbell-Camera-Breakout-PCB: BRANCHES:[main:493cada020a7b197c078ba895efb419d1902f8a1]|RELEASE:[none|none]
 adafruit/Adafruit-PiGRRL-PCB: BRANCHES:[master:2d2e6ea5e7ed23f049389dab598643fbaf242440]|RELEASE:[none|none]
 adafruit/Adafruit-PiOLED-128x32-PCB: BRANCHES:[master:41f958463af931f5eb51f1135b290f3378779290]|RELEASE:[none|none]
 adafruit/Adafruit-PiRTC-DS3231-PCB: BRANCHES:[main:fea853b94ebefe77f3655f3e572b4addfe14ead7]|RELEASE:[none|none]
