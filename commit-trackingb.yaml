@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 01:27
+commit-tracking: 2026-10-18 01:29
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1881,6 +1881,7 @@ adafruit/dash-examples: BRANCHES:[master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00
 adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;master:7c96adca4aacd72ff1472d5813cd860ad5924c18]|RELEASE:[none|none]
 adafruit/eagle2fritzing: BRANCHES:[master:d18749346438d31870de54bcbf2748cdc676138f]|RELEASE:[none|none]
 adafruit/echo_2-xl: BRANCHES:[master:6225f233c03bc7b32c5f5cb6f756521254c34804]|RELEASE:[none|none]
+adafruit/esp-idf: BRANCHES:[circuitpython-v6.1:0687c505dad1ace31c664de2c5494c13c08b0b1d;fix-sdmmc-reinit-slot-irq:837e15cbd1a5c9bc8499f7de66c7b9c13d95a335;metro-p4-sdmmc-reinit:577a17f7e4d40c70ba2dde2fa7209e7a77855f86;circuitpython-v6.0.1:2b900d1222cfce5dfa340ed99375af69ec1ee192;usbip-bridge:8a9439e141ae9344ae24328b4ad4cac5559c12c0;circuitpython-v6.0:e6c85f28eb03b78ba914cb05d072a4a506e6d4fd;circuitpython-v5.5.3:1d2c73f641af70c24274e2d3e74641592bee97e5;circuitpython-v5.5.1:f4fddd2d05b44d1d606b546b596d17de0a73e9eb;circuitpython-v5.5:708e23aba506da9f8ec9be7c947cd166ab785af7;circuitpython-v5.4.1:f50ec8ecdb31f681e6a778f145de95f849c1089d]|RELEASE:[none|none]
 adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034]|RELEASE:[none|none]
 adafruit/esp8266-weather-station-color: BRANCHES:[tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0]|RELEASE:[none|none]
 adafruit/fbtft: BRANCHES:[master:bcb4de90206842831bd40b20c93aa3e5c9553ea1]|RELEASE:[none|none]
