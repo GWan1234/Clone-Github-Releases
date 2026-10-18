@@ -1149,6 +1149,7 @@ adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB: BRANCHES:[main:f4c
 adafruit/Adafruit-Si7021-PCB: BRANCHES:[master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d]|RELEASE:[none|none]
 adafruit/Adafruit-Slider-Trinkey-PCB: BRANCHES:[main:77c27c2c1ccb6c2714d88b02618fdd5bbb70acdd]|RELEASE:[none|none]
 adafruit/Adafruit-Sound-Samples: BRANCHES:[master:7675c60a47c025ab62f77b699d6460d22bb963b1]|RELEASE:[none|none]
+adafruit/Adafruit-Sparkle-Motion-PCB: BRANCHES:[main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef31a]|RELEASE:[none|none]
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: BRANCHES:[master:efe89824b3574463ebca864a2494f7c86fb5c82b]|RELEASE:[none|none]
 adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB: BRANCHES:[master:7ba780f5f5c00274d3eeb395f444534189f13a0d]|RELEASE:[none|none]
 adafruit/Adafruit-Sunken-USB-Type-C-Breakout-PCB: BRANCHES:[main:4cb1207ddd6eae864f4410d110bac38072e9b895]|RELEASE:[none|none]
