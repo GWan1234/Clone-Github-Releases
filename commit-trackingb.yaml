@@ -942,6 +942,7 @@ adafruit/Adafruit-NeoTrellis-4x4-PCB: BRANCHES:[master:d9c12effecfbaab5c55e2c961
 adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure: BRANCHES:[master:3e6e7d4f37c7df0f40a096f67ab64dfadd4c15db]|RELEASE:[none|none]
 adafruit/Adafruit-NextBus: BRANCHES:[master:e87decc082bb10867b50d8c500fa9ec62be401eb]|RELEASE:[none|none]
 adafruit/Adafruit-OLED-FeatherWing-PCB: BRANCHES:[master:179eb83875ab86c49a6b2d771e95099a55d8984b]|RELEASE:[none|none]
+adafruit/Adafruit-OV5640-Camera-Breakout-PCB: BRANCHES:[main:6eba49749bf953b8e4c8abfd61bd996d184dc0c7]|RELEASE:[none|none]
 adafruit/Adafruit-Occi: BRANCHES:[master:a4d5c50a45e2c1079692ac2a52907935f34836eb]|RELEASE:[none|none]
 adafruit/Adafruit-Occidentalis: BRANCHES:[master:115173db410886eed029ebcce3414b6f5b01950f]|RELEASE:[none|none]
 adafruit/Adafruit-PA1010D-Mini-GPS-PCB: BRANCHES:[master:6f1d0f216b848bea8d473a4b1384fd0340536ea0]|RELEASE:[none|none]
