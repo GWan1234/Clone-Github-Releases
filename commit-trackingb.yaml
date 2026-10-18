@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 01:42
+commit-tracking: 2026-10-18 01:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -882,6 +882,7 @@ adafruit/Adafruit-MouseLogger: BRANCHES:[master:440937ffc5e4fd574eb769870de30d26
 adafruit/Adafruit-Music-Maker-FeatherWing-PCB: BRANCHES:[master:8721087a4720070e3c38f449119976e4316446ef]|RELEASE:[none|none]
 adafruit/Adafruit-Music-Maker-MP3-Shield-PCB: BRANCHES:[master:2a8905dc18227600a303027847bdda5d07dcfe0e]|RELEASE:[none|none]
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2]|RELEASE:[none|none]
+adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:afa33c7b1e1a1a4d74bcbe9e3e798099545cdf91]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-FeatherWing-PCB: BRANCHES:[master:3b80152edf1808446eab953d2f7a7b06b433c199]|RELEASE:[none|none]
