@@ -723,6 +723,7 @@ adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c8
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-Editorial-Standards: BRANCHES:[master:21f382da5be30c227f4065fe25e5914da3b09de2]|RELEASE:[none|none]
 adafruit/Adafruit-Ethernet-FeatherWing-PCB: BRANCHES:[master:1f950d49ed57129f6c33656a3ac37ad7d21d757b]|RELEASE:[none|none]
+adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB: BRANCHES:[main:413ce0dd8db9915a982eab83b68ea9a01c70db77]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-GSM-Breakout-PCB: BRANCHES:[master:0e987f272e67a953c1bece2c690ddaa7c65dfc82]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-800-Shield-PCB: BRANCHES:[master:66ff2063c3adaf0599a0345deff2191c684018fd]|RELEASE:[none|none]
 adafruit/Adafruit-FONA-808-Breakout-PCB: BRANCHES:[master:da32ad54c3895f2b397a972f241e2013f246f7c4]|RELEASE:[none|none]
