@@ -1006,6 +1006,7 @@ adafruit/Adafruit-Sound-Samples: BRANCHES:[master:7675c60a47c025ab62f77b699d6460
 adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB: BRANCHES:[master:efe89824b3574463ebca864a2494f7c86fb5c82b]|RELEASE:[none|none]
 adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB: BRANCHES:[master:7ba780f5f5c00274d3eeb395f444534189f13a0d]|RELEASE:[none|none]
 adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB: BRANCHES:[master:514d5ded1aade108d0698d0e718a92c22ff5496f]|RELEASE:[none|none]
+adafruit/Adafruit-TCA4307-PCB: BRANCHES:[main:5b71f3b8aa3b892fa96e2a7e8e102f69f4f75ee1]|RELEASE:[none|none]
 adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: BRANCHES:[master:c5bdfe4c8e860cee7400539d6e45a235da7afcd2]|RELEASE:[none|none]
 adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6]|RELEASE:[none|none]
 adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e86d61f061a08a52dabeede7d3]|RELEASE:[none|none]
