@@ -2003,6 +2003,7 @@ adafruit/Adafruit_ZeroI2S: BRANCHES:[master:4f9e1d15060b4e1cbc24ba4383d02aff5ec8
 adafruit/Adafruit_ZeroPDM: BRANCHES:[master:6955e2e80eaaf37b2586e8ea510f0d996bc32ca8;gh-pages:d54a7c4266628ced99cb145b7168215c8ef8b4ca;actionsci:0f7a0c7d82a2ca866425506efcc70b8d2e815f82;actionci:2f80f6d358c8f325e15657fd30c7c9219f70489c]|RELEASE:[1.2.4|6955e2e80eaaf37b2586e8ea510f0d996bc32ca8]
 adafruit/Adafruit_ZeroTimer: BRANCHES:[master:0ee525c2a1b07322f68c5644c099941a1ddb6dc0;gh-pages:bbb0ee9c13d8e3699348a75fd31dcf0256efb90b;actionci:0e204246d51287065142e3563cfc22468029d377;no-asf-rewrite:ed9299c348a45334dc9fa6adfe1c2227991516f8]|RELEASE:[2.2.5|0ee525c2a1b07322f68c5644c099941a1ddb6dc0]
 adafruit/Adafruit_bitfield_python: BRANCHES:[master:3c2bb9a1e024c5aea020104b2a32730d06d28f38]|RELEASE:[none|none]
+adafruit/Adafruit_bq25798: BRANCHES:[gh-pages:07d15606d6e410d8b5dcf3f36830c0cf061104f4;main:01e8dc096688770f834b13f1e63f1e747d88c02d]|RELEASE:[none|none]
 adafruit/Adafruit_iCufflinks: BRANCHES:[master:a150f329582a90235f2d32650af52d1175c764c4]|RELEASE:[none|none]
 adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90]|RELEASE:[none|none]
 adafruit/Adafruit_nRF51822_Flasher: BRANCHES:[master:ca606ce6fe82219cf6a66ca7d764ee0245696b28]|RELEASE:[none|none]
