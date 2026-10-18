@@ -850,6 +850,7 @@ adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d
 adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB: BRANCHES:[main:4b82c1319140e0073adc97d5ef1c0a3ff99b5923]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB: BRANCHES:[main:635fe51901050a78f4ecf4533022d0e440b82875]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
+adafruit/Adafruit-I2C-to-8-Channel-Solenoid-Driver-PCB: BRANCHES:[main:9266434c5517c4b418d8a69ba3281bf652bf98ff]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Amplifier-BFF-PCB: BRANCHES:[main:fe191f0585be438605feca267afa38fe587e57f4]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc762a0cb25abfc437afecab66a5e88e5a5338]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: BRANCHES:[main:cde79ddef57c7df69a5e7268b66567fa50b7e42d]|RELEASE:[none|none]
