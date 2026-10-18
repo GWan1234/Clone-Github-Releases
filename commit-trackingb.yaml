@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:17
+commit-tracking: 2026-10-18 03:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -827,6 +827,7 @@ adafruit/Adafruit-HTS221-PCB: BRANCHES:[master:e32c12659a54739f9700e8706e82f13b8
 adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a7263721490af9cc6a455f]|RELEASE:[none|none]
 adafruit/Adafruit-HTU31-PCB: BRANCHES:[main:9ac7a4470edb8555ba33d1aba62f260fa4cc63da]|RELEASE:[none|none]
 adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: BRANCHES:[master:e23514c6f9e124a60f9d1de6567c791561b43e73]|RELEASE:[none|none]
+adafruit/Adafruit-HX711-24-bit-ADC-PCB: BRANCHES:[main:4444b42fc47d665fcd6694097690cfbf6c609b43]|RELEASE:[none|none]
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
 adafruit/Adafruit-Hallowing-M0-PCB: BRANCHES:[master:c0585b0672ce13e163b8da6ce9215ec600c63d64]|RELEASE:[none|none]
 adafruit/Adafruit-Hallowing-M4-PCB: BRANCHES:[master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27]|RELEASE:[none|none]
