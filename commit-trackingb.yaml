@@ -909,6 +909,7 @@ adafruit/Adafruit-NeoPixel-FeatherWing-PCB: BRANCHES:[master:3b80152edf1808446ea
 adafruit/Adafruit-NeoPixel-Jewel-7: BRANCHES:[master:d841888d6013e66cb6c9998d67bc8e5a6839c59d]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Ring: BRANCHES:[master:3d43edf8f1828cdbbd85560876027ded6257eae3]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Shield-PCB: BRANCHES:[master:8d382ceb17fb866f36544c106bb4346278c69c05]|RELEASE:[none|none]
+adafruit/Adafruit-NeoSlider-PCB: BRANCHES:[main:f0bf0d2795cdc2af0f31f70b032023b25afa5b69]|RELEASE:[none|none]
 adafruit/Adafruit-NeoTrellis-4x4-PCB: BRANCHES:[master:d9c12effecfbaab5c55e2c96186188166340862a]|RELEASE:[none|none]
 adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure: BRANCHES:[master:3e6e7d4f37c7df0f40a096f67ab64dfadd4c15db]|RELEASE:[none|none]
 adafruit/Adafruit-NextBus: BRANCHES:[master:e87decc082bb10867b50d8c500fa9ec62be401eb]|RELEASE:[none|none]
