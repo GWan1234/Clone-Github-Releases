@@ -667,6 +667,7 @@ adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: BRANCHES:[main:e146e77404551
 adafruit/Adafruit-AS7262-Breakout-PCB: BRANCHES:[master:e938964b93a0dca5c0120fe2aa54a16e590b27fa]|RELEASE:[none|none]
 adafruit/Adafruit-AS7331-UV-UVA-UVB-UVC-Sensor-PCB: BRANCHES:[main:3e07d4ead4e060f03129066e03426ed243d007ec]|RELEASE:[none|none]
 adafruit/Adafruit-AS7341-PCB: BRANCHES:[master:a3fdedb61db3047458d89393f1c8f4b93204df81]|RELEASE:[none|none]
+adafruit/Adafruit-AS7343-14-Channel-Light-Color-Sensor-PCB: BRANCHES:[main:ce4bb797425e7eecbcbe1ded1232209a2d995e7e]|RELEASE:[none|none]
 adafruit/Adafruit-ATECC608-PCB: BRANCHES:[master:1535820f36fb71b8a76cebc654b934e32a760c9c]|RELEASE:[none|none]
 adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46e8f2473a765239112a8b48f12]|RELEASE:[none|none]
 adafruit/Adafruit-ATtiny8x7-Breakout-PCB: BRANCHES:[main:442a8ca863d1fc0ffb78cd526b82855fc6b95d95]|RELEASE:[none|none]
