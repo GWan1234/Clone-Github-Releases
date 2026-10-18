@@ -1709,6 +1709,7 @@ adafruit/Adafruit_CircuitPython_Slideshow: BRANCHES:[main:6fa2ef18237b549a7a5234
 adafruit/Adafruit_CircuitPython_TC74: BRANCHES:[main:e4d76e6946f697f9e1ecb9e12a42d78ee49b6a17]|RELEASE:[1.0.24|e4d76e6946f697f9e1ecb9e12a42d78ee49b6a17]
 adafruit/Adafruit_CircuitPython_TCA8418: BRANCHES:[main:d520150442d4709c00bd22cc2910a0052eccb8fa]|RELEASE:[1.0.21|d520150442d4709c00bd22cc2910a0052eccb8fa]
 adafruit/Adafruit_CircuitPython_TCA9548A: BRANCHES:[main:514d550d999e4035947471ab3f0772db21d56c73]|RELEASE:[0.8.6|514d550d999e4035947471ab3f0772db21d56c73]
+adafruit/Adafruit_CircuitPython_TCS3430: BRANCHES:[main:ba5454d39083a7bd911471ff2bf6c3e3a32c6cf7;split_interrupt_examples:1a7c0ec42c8cc7612e4f9cffc1e99942d9e8bf32]|RELEASE:[1.0.3|ba5454d39083a7bd911471ff2bf6c3e3a32c6cf7]
 adafruit/Adafruit_CircuitPython_TCS34725: BRANCHES:[main:c92554825516af1fd8765609408c47f30f142b5c]|RELEASE:[3.3.29|c92554825516af1fd8765609408c47f30f142b5c]
 adafruit/Adafruit_CircuitPython_TFmini: BRANCHES:[main:fa709de0054d0725ba7d6af092af711249f9fd70]|RELEASE:[1.2.25|fa709de0054d0725ba7d6af092af711249f9fd70]
 adafruit/Adafruit_CircuitPython_TLA202x: BRANCHES:[main:0096974de1c9d85fa9483c5bbb10ae1bcb40469a]|RELEASE:[1.0.23|0096974de1c9d85fa9483c5bbb10ae1bcb40469a]
