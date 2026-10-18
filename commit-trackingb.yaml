@@ -999,6 +999,7 @@ adafruit/Adafruit-QT-Py-ESP32-S3-PCB: BRANCHES:[main:333b35f9c77338d69816e542e7c
 adafruit/Adafruit-QT-Py-PCB: BRANCHES:[master:a8caed9ad5f2670c662f0b0a68af62cceb3cec96]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-RP2040-PCB: BRANCHES:[main:5b6ebd1661fd5250b4f60bdba14d5c475259b7f4]|RELEASE:[none|none]
 adafruit/Adafruit-Qualia-Driver-PCB: BRANCHES:[master:4d750ce85bc1e8e5e38395030ff21ee8a353148d]|RELEASE:[none|none]
+adafruit/Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB: BRANCHES:[main:6e0b58b27cc36f2f4f2ae72371457032f9a1dc75]|RELEASE:[none|none]
 adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e]|RELEASE:[none|none]
 adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB: BRANCHES:[master:3ad6bed6e1b407afa7119ae548b5c2f1b107c6b1]|RELEASE:[none|none]
 adafruit/Adafruit-RGB-LCD-Shield-Library: BRANCHES:[master:8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7;gh-pages:bc4e069d763a365765d209be4b1c9d147f17f9ef;actionci:ba3d0f9fb3de8d72c5dc163b7191164b877e3827]|RELEASE:[1.2.2|8271b31ec5a7afad01f6188ed1ba89c7f3ab06e7]
