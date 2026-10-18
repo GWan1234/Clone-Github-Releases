@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:11
+commit-tracking: 2026-10-18 03:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1161,6 +1161,7 @@ adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB: BRANCHES:[master:e836025c26c8dcfa
 adafruit/Adafruit-UPDI-Friend-PCB: BRANCHES:[main:6063046738409ca77509f5ccce2f2b0ce72be210]|RELEASE:[none|none]
 adafruit/Adafruit-USB-C-Downstream-Breakout: BRANCHES:[master:1484ecb56b369e177848e69de4b7b7e513399590]|RELEASE:[none|none]
 adafruit/Adafruit-USB-DC-LiPoly-Charger: BRANCHES:[master:1cd4020ce630e7b5477cf49d1db1c1bc3976a489]|RELEASE:[none|none]
+adafruit/Adafruit-USB-Host-BFF-PCB: BRANCHES:[main:dc61b50d5ba04d7ba3a73dfa57c0a54d25154393]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Host-FeatherWing-PCB: BRANCHES:[main:7011deb5316121374db87580ad3b03f22d8f676d]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Isolator-PCB: BRANCHES:[master:826956acd5fa3ed2c04f8f39ebb1be42f8f25854]|RELEASE:[none|none]
 adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB: BRANCHES:[master:e8bcaf9566ca85bc555d8c7c849adb473948dc5f]|RELEASE:[none|none]
