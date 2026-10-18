@@ -778,6 +778,7 @@ adafruit/Adafruit-HDC1008-Breakout-PCB: BRANCHES:[master:997a197ad04c62881c347f3
 adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: BRANCHES:[master:530ec62b7f4ef73fc794e10b9c59c43b7ac2c17a]|RELEASE:[none|none]
 adafruit/Adafruit-HTS221-PCB: BRANCHES:[master:e32c12659a54739f9700e8706e82f13b841f2f86]|RELEASE:[none|none]
 adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a7263721490af9cc6a455f]|RELEASE:[none|none]
+adafruit/Adafruit-HTU31-PCB: BRANCHES:[main:9ac7a4470edb8555ba33d1aba62f260fa4cc63da]|RELEASE:[none|none]
 adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: BRANCHES:[master:e23514c6f9e124a60f9d1de6567c791561b43e73]|RELEASE:[none|none]
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
 adafruit/Adafruit-Hallowing-M0-PCB: BRANCHES:[master:c0585b0672ce13e163b8da6ce9215ec600c63d64]|RELEASE:[none|none]
