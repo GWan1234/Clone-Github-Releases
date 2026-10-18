@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 04:24
+commit-tracking: 2026-10-18 04:25
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -2250,6 +2250,7 @@ adafruit/METROX-CircuitPython: BRANCHES:[master:622e17f29b9f4f687bfad6782d04c5ad
 adafruit/METROX-Examples-and-Project-Sketches: BRANCHES:[master:03ce7109b3f816926a510c3d755a2c380949e575;travis-ci:fe01239e5d95af377a0f7efc8eeeb909dd674275;2.2:7d9d7f8d9f5138e01b1f3f4c39683f22e80b04ce]|RELEASE:[none|none]
 adafruit/MIMXRT10xx_SDK: BRANCHES:[master:97b29486e66ba736c96892831eace128461a3c74]|RELEASE:[none|none]
 adafruit/MakerFaireBayArea2019: BRANCHES:[master:92b9600dbbc761ea3b262291383f5aadd6b5f613]|RELEASE:[none|none]
+adafruit/Marquee_Web: BRANCHES:[renderer-deploy-docs:2f954f87288e34a8f74996dbd132d5509f7191e1;gh-pages:1480bc0b320268fb9d333d7f6f22bd6bc90fdea5;main:9bcc19b55eb3764bb338852735b98cc4abe1226f;server-live-take:38aa06d8a13aa64a65be26846f3b2a011fa8f466;refactor-modules:ce0bd32d785c6b82f3b0cdd6d71b8844340b7f70;add-date-time-widget:ddedb17f94d336dc534f31f487b0d3fe23add98f;design-system:a2d7537e55b7e93748147785439632fec932a81f;update-magtag-preset:e8ab659231e8f04a412ea8c59b0c0668d43eee5d;add-shared-feeds:7c5d39e1b7d6241a01a4af477f323b32e53d32b8;fix-420-resolution:773d09f2a26307667f733b00ed60968d649594d9]|RELEASE:[none|none]
 adafruit/MicroPython_TravisCI_Deploy: BRANCHES:[master:307afb12fd1112dcd0395f38f0aaa55819876e8f]|RELEASE:[none|none]
 adafruit/MicroSD-breakout-board: BRANCHES:[master:ef4cb5171b78b6e17f12aa1fd1df41dc3f50418c]|RELEASE:[none|none]
 adafruit/Mini-LED-Gamer: BRANCHES:[master:4e230a14bdc480bc3f983829d7cea8b83dadd3be]|RELEASE:[none|none]
