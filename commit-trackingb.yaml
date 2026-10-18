@@ -2167,6 +2167,7 @@ adafruit/uf2-stm32f: BRANCHES:[master:aa6917c4dd03b2518367ebc6ef3c4c9e374ca282;d
 adafruit/usb_descriptor: BRANCHES:[master:d687dc3f03dacaf0750db65562fd43aad79b8a9a;dynamic-descriptors-help:727530692805bb1c9d9d20d7477804a1799e358d]|RELEASE:[none|none]
 adafruit/web-bdftopcf: BRANCHES:[gh-pages:4010d0eb29f3e00c465288a4e9635e49338d30d8;main:79242837737d841c38d671e11a0e46600dc3db32;fix-unused-var:ca25b061898bedc978fa6a4460ef0f6fe763b6ec]|RELEASE:[none|none]
 adafruit/wifi-reset: BRANCHES:[master:5e3cb3ca69763878886f1156e19ee0c98b50b2dd]|RELEASE:[none|none]
+adafruit/workflows-circuitpython-libs: BRANCHES:[main:9359a35ef3e9e238c1254f98c8d455854969e589;dhalbert-patch-1:dd1bf13e0e0397b44a05ee893cf18e78d9f962b3;build-bundles-community-ci:e9a918e851fe76d96039e45ae6212f9af690b6be;test:dc353843f40951576bf8eb502fd3e1da6c9c5974]|RELEASE:[none|none]
 adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8]|RELEASE:[none|none]
 adafruit/xcarve-server: BRANCHES:[master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6]|RELEASE:[none|none]
 adafruit/zj-58: BRANCHES:[master:603f034e125305c464bab170b7144e446a193f0d]|RELEASE:[none|none]
