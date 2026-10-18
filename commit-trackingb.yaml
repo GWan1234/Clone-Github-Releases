@@ -1148,6 +1148,7 @@ adafruit/Adafruit-STEMMA-Reflective-Photo-Interrupt-Sensor-PCB: BRANCHES:[main:3
 adafruit/Adafruit-STEMMA-Soil-Sensor-PCB: BRANCHES:[master:b20a708dd015cb81da8740460d47aae1555a1781]|RELEASE:[none|none]
 adafruit/Adafruit-STEMMA-Speaker-PCB: BRANCHES:[master:2f4a20b1411e8ead3160e6e89889f20311b248a1]|RELEASE:[none|none]
 adafruit/Adafruit-STMPE610-Breakout-PCB: BRANCHES:[master:8cf4f3cc9aaa31c6f5b90e661fa7ba99559052bb]|RELEASE:[none|none]
+adafruit/Adafruit-STSPIN220-Stepper-Motor-Driver-Breakout-Board-PCB: BRANCHES:[main:900c418203489887894b71debe1849a6df259c0f]|RELEASE:[none|none]
 adafruit/Adafruit-Servo-HAT-Bonnet-PCB: BRANCHES:[master:b15611b66fcf0dffc06f1d888e84cd751dda3e4a]|RELEASE:[none|none]
 adafruit/Adafruit-Sharp-Memory-Display-PCBs: BRANCHES:[master:58b3ededa86c2b7cfefea12a5e15883150ea17de]|RELEASE:[none|none]
 adafruit/Adafruit-Si1145-Light-Sensor-PCB: BRANCHES:[master:af029f1447d85573ee78fc2c6ac3f4fef360cd97]|RELEASE:[none|none]
