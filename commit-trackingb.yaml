@@ -665,6 +665,7 @@ adafruit/Adafruit-AR: BRANCHES:[iOS-17-Update:dd155da5531986d0d2ba91872a90fa7221
 adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: BRANCHES:[master:217534674defab8d2040a7399b23d3cead345195]|RELEASE:[none|none]
 adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: BRANCHES:[main:e146e77404551f1ae0619f6627bcc4435d81b0eb]|RELEASE:[none|none]
 adafruit/Adafruit-AS7262-Breakout-PCB: BRANCHES:[master:e938964b93a0dca5c0120fe2aa54a16e590b27fa]|RELEASE:[none|none]
+adafruit/Adafruit-AS7331-UV-UVA-UVB-UVC-Sensor-PCB: BRANCHES:[main:3e07d4ead4e060f03129066e03426ed243d007ec]|RELEASE:[none|none]
 adafruit/Adafruit-AS7341-PCB: BRANCHES:[master:a3fdedb61db3047458d89393f1c8f4b93204df81]|RELEASE:[none|none]
 adafruit/Adafruit-ATECC608-PCB: BRANCHES:[master:1535820f36fb71b8a76cebc654b934e32a760c9c]|RELEASE:[none|none]
 adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB: BRANCHES:[master:7384f4727943c46e8f2473a765239112a8b48f12]|RELEASE:[none|none]
