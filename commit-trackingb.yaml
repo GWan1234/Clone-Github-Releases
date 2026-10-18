@@ -1698,6 +1698,7 @@ adafruit/Adafruit_CircuitPython_TrellisM4: BRANCHES:[main:6cbaa27a373fd095030279
 adafruit/Adafruit_CircuitPython_Typing: BRANCHES:[main:da49c4d03554f3006707b60c145c9d4c569a6225]|RELEASE:[1.12.3|ebd10505dd733ed4df77391dcbf90d4bdaa7d45a]
 adafruit/Adafruit_CircuitPython_UC8151D: BRANCHES:[main:9a37fc43eeb277f698614e8d657c4104a75a44aa;detached:b9bd61a0bbef1f4705abb831739d4888f1dcec95;patch:4975f08a192f1cb19066d84637ab6763c7e319b9]|RELEASE:[2.0.6|9a37fc43eeb277f698614e8d657c4104a75a44aa]
 adafruit/Adafruit_CircuitPython_UC8179: BRANCHES:[main:18227be883684a789e6181bc51fe11ff9d044ed6]|RELEASE:[1.0.3|18227be883684a789e6181bc51fe11ff9d044ed6]
+adafruit/Adafruit_CircuitPython_UC8253: BRANCHES:[main:abdb413e274b5ba70ddaf2bfb3dac2a816deec4d]|RELEASE:[1.0.4|abdb413e274b5ba70ddaf2bfb3dac2a816deec4d]
 adafruit/Adafruit_CircuitPython_ULP_Blink: BRANCHES:[main:d9b2796facf9a346a257a68ffd008a6f9762ac12]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_US100: BRANCHES:[main:f0e7f036217a942594839d2166d4ff8b046fe393]|RELEASE:[1.1.24|f0e7f036217a942594839d2166d4ff8b046fe393]
 adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: BRANCHES:[main:f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435]|RELEASE:[0.5.3|f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd]
