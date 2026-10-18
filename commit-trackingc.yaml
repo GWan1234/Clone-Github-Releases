@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 12:26
+commit-tracking: 2026-10-18 12:27
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -923,7 +923,7 @@ playbridgeapp/libmpv-darwin-build: BRANCHES:[bump-modern-mpv:247c4b273342458e5b7
 playbridgeapp/libmpv-win32-video-build: BRANCHES:[master:e8ba31e925b697da4e15cb9ba18713724098a287;version:1bcaec8512fde263befaf47432ac59302b56a66d]|RELEASE:[none|none]
 playbridgeapp/libmpv-win32-video-cmake: BRANCHES:[master:86206615393f0c10c1fc7e65c895cd44ceacece9]|RELEASE:[none|none]
 playbridgeapp/mpv-android: BRANCHES:[master:e55dd6aa911b66b17c6664a63e8baab6413349e5;feature/playbridge-libmpv-aar:e55dd6aa911b66b17c6664a63e8baab6413349e5]|RELEASE:[none|none]
-playbridgeapp/playbridge: BRANCHES:[main:70c6c4697a1ddf7782c564431dbb563107eeb27b;fix/ios-history-spa-titles:86c1d1ba460306f3000804cde733f84ca1a14049;fix/ios-fanboy-list:4cd221bd07e36d389b7a23fe71b5ee9e973bdef7;fix/ios-browser-spa-url-save:c9002de816524a09b9691288bdc9410cb646be6a;fix/live-revision-integral:e39c77188eb907875506491310a9193ab7741647;fix/ios-status-error:0b40ab1b714352e25c6dbc96b86b917dda442883;fix/tv-report-player-error:cc01d2ffe58f165212994c8111a9dab88daf3f37;fix/extension-remove-browser-open:d2b37f934e64fd3acfbca35948a2bc5462fde8cf;fix/ios-picker-empty-state:6fcf0fc9c5c0e0f0d45446778c731dc7cf1721fe;release/tv-geckoview-plugin-0.15.0:72a9a6d0a0b8d93b279fe3034643d84c2dbecc27]|RELEASE:[extension-v0.15.1|b036c6b6947af664bcbcc86d8d1092f8a472733f]
+playbridgeapp/playbridge: BRANCHES:[main:269162406ab91b9dc6b483d7f16a538fa5a78e78;fix/ios-history-spa-titles:86c1d1ba460306f3000804cde733f84ca1a14049;fix/ios-fanboy-list:4cd221bd07e36d389b7a23fe71b5ee9e973bdef7;fix/ios-browser-spa-url-save:c9002de816524a09b9691288bdc9410cb646be6a;fix/live-revision-integral:e39c77188eb907875506491310a9193ab7741647;fix/ios-status-error:0b40ab1b714352e25c6dbc96b86b917dda442883;fix/tv-report-player-error:cc01d2ffe58f165212994c8111a9dab88daf3f37;fix/extension-remove-browser-open:d2b37f934e64fd3acfbca35948a2bc5462fde8cf;fix/ios-picker-empty-state:6fcf0fc9c5c0e0f0d45446778c731dc7cf1721fe;release/tv-geckoview-plugin-0.15.0:72a9a6d0a0b8d93b279fe3034643d84c2dbecc27]|RELEASE:[extension-v0.15.1|b036c6b6947af664bcbcc86d8d1092f8a472733f]
 playbridgeapp/playbridge-privacy: BRANCHES:[main:f7bfddeff934bd8ee34b5df9aa0e473fb60e2c56]|RELEASE:[none|none]
 playbridgeapp/stream-addons-resolver: BRANCHES:[main:9fae858e970ab59ef7a5cf16b85ea30e3e2cea5f]|RELEASE:[none|none]
 rbouteiller/airplay-esp32: BRANCHES:[staging:b215aa9bf7ca06ac95f87088b4e3bed70e68c07a;main:811d5f8af750096683dcec7c95d1cbc08c2f7601;codex/release-v0.2.1:40de1f721718fa10f6b36fc576eaac5f0aa3dce5]|RELEASE:[v0.2.1|811d5f8af750096683dcec7c95d1cbc08c2f7601]
