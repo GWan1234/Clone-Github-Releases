@@ -1249,6 +1249,7 @@ adafruit/Adafruit_CircuitPython_74HC595: BRANCHES:[main:8fe7ffa3cd0a7b656575c667
 adafruit/Adafruit_CircuitPython_ACeP7In: BRANCHES:[main:488d485db56502609c8b9f5fcc281f2e6c18bcbb]|RELEASE:[1.0.5|488d485db56502609c8b9f5fcc281f2e6c18bcbb]
 adafruit/Adafruit_CircuitPython_AD569x: BRANCHES:[main:f3c9c6194af728c309facdb83dfc8b4e7a34ccf2]|RELEASE:[2.0.11|f3c9c6194af728c309facdb83dfc8b4e7a34ccf2]
 adafruit/Adafruit_CircuitPython_ADS1x15: BRANCHES:[main:f83cd40a7c0bf0a67d61895716bcaf59ba2d92de]|RELEASE:[3.0.5|f83cd40a7c0bf0a67d61895716bcaf59ba2d92de]
+adafruit/Adafruit_CircuitPython_ADS7830: BRANCHES:[main:a6370562f232243b2ba620e0e1c7087d75714e37]|RELEASE:[1.0.8|a6370562f232243b2ba620e0e1c7087d75714e37]
 adafruit/Adafruit_CircuitPython_ADT7410: BRANCHES:[main:f12040c7a8d10bef739603c9a71c87c1ad11e0a8;discord-fix:e841e3cd0da79298e9c8f13a96c6160cf5b92e52]|RELEASE:[2.0.8|f12040c7a8d10bef739603c9a71c87c1ad11e0a8]
 adafruit/Adafruit_CircuitPython_ADXL34x: BRANCHES:[main:1e84a8d3d4905b61ffb19847d98a19290ff6f8d2]|RELEASE:[1.12.20|1e84a8d3d4905b61ffb19847d98a19290ff6f8d2]
 adafruit/Adafruit_CircuitPython_ADXL37x: BRANCHES:[main:203c816c60d7dcb14d298c18d99586c2d9b99052]|RELEASE:[1.2.7|203c816c60d7dcb14d298c18d99586c2d9b99052]
