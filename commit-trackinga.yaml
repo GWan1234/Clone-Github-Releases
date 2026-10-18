@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 16:45
+commit-tracking: 2026-10-18 16:46
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -514,7 +514,7 @@ dailook/packages_lang_golang: BRANCHES:[27.x:c912b45f02ec65c2b21419564e6c631acdb
 dailook/ponwrt: BRANCHES:[master:a57faf93c6c3638ba3651690228aabaa51d3f235]|RELEASE:[none|none]
 dailook/turboacc: BRANCHES:[main:9f88212c70c2586b3038d2e1ad0271fe94fc5a0d]|RELEASE:[none|none]
 dailook/u-boot: BRANCHES:[mtksoc:99042fe2c08ef835b088e906d07495ab74324ed0;mtksoc-20250711:9a25de54e417e9ed0391786e6de177aaef5f4dd4;mtksoc-20250212:70e5cec9ab6536007a9227a4264402fdcba86ca5;master:3da1864b1f2fc3cf2b4eaa1849bcafa669ff674c;mtksoc-20230719:09eda825456d164e12e719a83360bf0987e64bfd;mtksoc-20220818:1c928b4d7fdfbde0cabd2daa5c1d47b51d1abb64;mtksoc-20220813:f4937031ea22a1e30b2bbeb5e0d8eb6131ce8e13;mtksoc-20210306:5e0f12c0526621c02b4add72242726ae707d744c;WIP/25Feb2021:b73d114213b41f46218e849950f569fb75d4028c;next:bc0b99bd8b19599f670f42401de655fa9b44cd94]|RELEASE:[none|none]
-dailook/uboot-an758x: BRANCHES:[main:0cde9efed9608ef74fc785bc35b2a1ad2f3d2a90]|RELEASE:[none|none]
+dailook/uboot-an758x: BRANCHES:[main:d8c3e6a0d34953769674a0df61ab6b861cf60d2a]|RELEASE:[none|none]
 dailook/uboot-ipq60xx: BRANCHES:[master:f42cd52a9d7f52f4fa7252df17c544205065a018]|RELEASE:[none|none]
 dailook/uboot-qsdk12.5-build: BRANCHES:[main:9ce315735ac88fd0a7c7697bc527a8616ed0a972]|RELEASE:[none|none]
 danielwelch/hassio-zigbee2mqtt: BRANCHES:[master:db60d5de4ff7fd6c1e59fbdd700f59b69c8ca0cd]|RELEASE:[v1.17.0.1|59f34467e6b1aedd0ba1c49fa6bc54fcd8146bd4]
