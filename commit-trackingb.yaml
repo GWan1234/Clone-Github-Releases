@@ -1087,6 +1087,7 @@ adafruit/Adafruit-S-35710-Breakout-PCB: BRANCHES:[main:acc0684ee70d88a395b09dcea
 adafruit/Adafruit-SAMD09-Breakout-PCB: BRANCHES:[master:96a45c25123ad9d083f19f33c68cff4817065014]|RELEASE:[none|none]
 adafruit/Adafruit-SCD-30-PCB: BRANCHES:[main:54178bea411a7661007c529d41ed45fce767d155]|RELEASE:[none|none]
 adafruit/Adafruit-SCD-4x-PCB: BRANCHES:[main:c83995482b4c830a835caef158e6196a507025b3]|RELEASE:[none|none]
+adafruit/Adafruit-SEN5x-Adapter-Breakout-PCB: BRANCHES:[main:fcedf60e56ee80e49331ec1621d4c64182aa6177]|RELEASE:[none|none]
 adafruit/Adafruit-SGP30-PCB: BRANCHES:[master:7050ebded47a6c29e98e50ed1329a57262b66f66]|RELEASE:[none|none]
 adafruit/Adafruit-SGP40-PCB: BRANCHES:[main:57911e5d238bc5c3730c621e3135ff2aa36604ec]|RELEASE:[none|none]
 adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: BRANCHES:[master:00cb07abd32b2a1bcfb4534cd69d71cc91630a36]|RELEASE:[none|none]
