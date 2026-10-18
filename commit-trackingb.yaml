@@ -626,6 +626,7 @@ adafruit/Adafruit-2.4-TFT-Breakout-PCB: BRANCHES:[master:62eaf05ad6ead75f2da987f
 adafruit/Adafruit-2.4-TFT-FeatherWing-PCB: BRANCHES:[master:7db81bbb064e1e703423beb6f8e4dbf9b7272879]|RELEASE:[none|none]
 adafruit/Adafruit-2.8-TFT-Shield-v2-PCB: BRANCHES:[master:607bcb39927756fdf6f26de358471e876bbd9bbf]|RELEASE:[none|none]
 adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB: BRANCHES:[master:5c021a4e2553110bd933c4f5083aa2298960f2df]|RELEASE:[none|none]
+adafruit/Adafruit-24LC32-PCB: BRANCHES:[main:e92cf5549d43c5c17ab04d6ee2899a7783cc19f4]|RELEASE:[none|none]
 adafruit/Adafruit-3.5in-TFT-Featherwing-PCB: BRANCHES:[master:824a68056b2b102a71621405b9bd683ddf38796b]|RELEASE:[none|none]
 adafruit/Adafruit-40-pin-TFT-Friend: BRANCHES:[master:f9efc2816b9a4665d219ac4bde7d5dddc7d82945]|RELEASE:[none|none]
 adafruit/Adafruit-5-HDMI-Backpack-PCB: BRANCHES:[master:906e152b9ae9eea91dbcb699fe88c4e1909339b5]|RELEASE:[none|none]
