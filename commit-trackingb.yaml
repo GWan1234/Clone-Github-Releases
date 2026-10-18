@@ -786,6 +786,7 @@ adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB: BRANCHES:[master:1b3616c9daf1cd0643bb
 adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB: BRANCHES:[master:20e781d8d7d0b31002f9d2a8eaef18429f983815]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M4-CAN-PCB: BRANCHES:[main:d82af0d26250cb47e0685715276474798bb79470]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M4-Express-PCB: BRANCHES:[master:d98407a6071813bc35c39c6e88ca09c0c9ef6f18]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-RP2040-Adalogger-PCB: BRANCHES:[main:dbe392caf8440e8d806dbed88806003d40c765d7]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-DVI-PCB: BRANCHES:[main:24f7c1cde8c7284bbd626f78e2b853be24d32ee6]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-PCB: BRANCHES:[main:ea88166891ee0a1697a3899a5d55ab3722a2f125]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-RFM-PCB: BRANCHES:[main:e7c663f0e25d1f043d91e50bf284a5c97b28cdc5]|RELEASE:[none|none]
