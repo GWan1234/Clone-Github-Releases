@@ -2466,6 +2466,7 @@ adafruit/jenkins-pipeline-library: BRANCHES:[master:980e2960e01b26e22a9109c0b435
 adafruit/jupyter_micropython_kernel: BRANCHES:[master:f60fc2d3bde0684ceb7e9a071f36058c1f8b1d01]|RELEASE:[none|none]
 adafruit/kicad-libraries: BRANCHES:[main:41c3b09f0f40c9f73db27914d786e878034084c5]|RELEASE:[none|none]
 adafruit/kicad-libs: BRANCHES:[master:2a0d44d92385a047b53a0dec0db82931e77aa94b]|RELEASE:[none|none]
+adafruit/kicad2fritzing: BRANCHES:[main:8ff3dd90cbf07af4aba5524f5d3b4f6608b302ff]|RELEASE:[none|none]
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b]|RELEASE:[none|none]
 adafruit/lgpio-python-wheels: BRANCHES:[main:e2e36e9390a7442db8d562b8bfbac62826a5e43e]|RELEASE:[none|none]
 adafruit/libgpiod_pulsein: BRANCHES:[master:a91d3875192a875f2eacfed47e506963ecafe851;libgpiod2:a91d3875192a875f2eacfed47e506963ecafe851]|RELEASE:[none|none]
