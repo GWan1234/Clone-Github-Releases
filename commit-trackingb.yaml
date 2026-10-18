@@ -967,6 +967,7 @@ adafruit/Adafruit-SCD-30-PCB: BRANCHES:[main:54178bea411a7661007c529d41ed45fce76
 adafruit/Adafruit-SGP30-PCB: BRANCHES:[master:7050ebded47a6c29e98e50ed1329a57262b66f66]|RELEASE:[none|none]
 adafruit/Adafruit-SGP40-PCB: BRANCHES:[main:57911e5d238bc5c3730c621e3135ff2aa36604ec]|RELEASE:[none|none]
 adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: BRANCHES:[master:00cb07abd32b2a1bcfb4534cd69d71cc91630a36]|RELEASE:[none|none]
+adafruit/Adafruit-SHT40-PCB: BRANCHES:[main:40fe2b3aca1aaa3b2185d3d138e77d5b043a56e1]|RELEASE:[none|none]
 adafruit/Adafruit-SHTC3-PCB: BRANCHES:[master:762d5a5d96ba72ec14e1fc05e32a3f5ce00cde7c]|RELEASE:[none|none]
 adafruit/Adafruit-SMT-Breakout-PCBs: BRANCHES:[master:dbd7a1928c2b668a9edf3d53277063eac4c3e938]|RELEASE:[none|none]
 adafruit/Adafruit-SPI-Flash-SD-Card-PCB: BRANCHES:[main:8d985bd12f2732e94b4727e24874646f5911cd75]|RELEASE:[none|none]
