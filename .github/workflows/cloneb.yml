@@ -34,13 +34,14 @@ jobs:
         run: |
           set -euo pipefail
           sudo apt-get update
-          sudo apt-get install -y python3-yaml
+          sudo apt-get install -y python3-yaml p7zip-full
           if [ -z "${GH_TOKEN:-}" ]; then
             echo "::error::MY_TOKEN secret is empty"
             exit 1
           fi
           gh auth status
           python3 --version
+          7z | head -n 2 || true
           df -h
 
       - name: Configure Git
@@ -91,6 +92,8 @@ jobs:
 
           # Keep uploaded assets below GitHub's per-file limit.
           MAX_ASSET_SIZE = 1900 * 1024 * 1024
+          # 7z volume size for oversized downloads.
+          SPLIT_SIZE = 1500 * 1024 * 1024
 
           class ApiError(RuntimeError):
               pass
@@ -144,8 +147,11 @@ jobs:
                   try:
                       return json.loads(out)
                   except (ValueError, TypeError) as exc:
+                      # 0-exit but malformed/truncated JSON is
+                      # nearly always a transient network issue.
                       raise ApiError(
-                          f"gh api {endpoint}: invalid JSON: {exc}"
+                          f"gh api {endpoint}: invalid JSON "
+                          f"(transient): {exc}"
                       )
 
               stderr = (p.stderr or "").strip()
@@ -159,8 +165,12 @@ jobs:
                       f"({stderr or stdout or 'no output'})"
                   )
 
+              # Explicit 404 detection on both streams.
               if allow_404 and (
-                  "HTTP 404" in stderr or "Not Found" in stderr
+                  "HTTP 404" in stderr
+                  or "Not Found" in stderr
+                  or "HTTP 404" in stdout
+                  or "Not Found" in stdout
               ):
                   return None
 
@@ -170,7 +180,7 @@ jobs:
                   f"{stderr or stdout or '<no output>'}"
               )
 
-          def api_with_retry(endpoint, retries=4, allow_404=False):
+          def api_with_retry(endpoint, retries=5, allow_404=False):
               last = None
               for attempt in range(1, retries + 1):
                   try:
@@ -191,6 +201,9 @@ jobs:
                           or "timeout" in msg.lower()
                           or "connection" in msg.lower()
                           or "TLS" in msg
+                          or "invalid JSON" in msg
+                          or "unexpected end of json" in msg.lower()
+                          or "unexpected end of JSON" in msg
                       )
                       if transient and attempt < retries:
                           wait = 5 * attempt
@@ -376,7 +389,13 @@ jobs:
                       f"graphql branches {repo} failed: {err}"
                   )
 
-              data = json.loads(p.stdout)
+              try:
+                  data = json.loads(p.stdout)
+              except (ValueError, TypeError) as exc:
+                  raise ApiError(
+                      f"graphql branches {repo}: invalid JSON "
+                      f"(transient): {exc}"
+                  )
 
               errors = data.get("errors") or []
               if errors:
@@ -485,50 +504,83 @@ jobs:
               return refs[:limit]
 
           def latest_release(repo):
-              data = api_with_retry(
-                  f"repos/{repo}/releases/latest",
-                  allow_404=True,
-              )
+              try:
+                  data = api_with_retry(
+                      f"repos/{repo}/releases/latest",
+                      allow_404=True,
+                      retries=5,
+                  )
+              except PermanentSkip:
+                  raise
+              except ApiError as exc:
+                  # After retries we cannot trust the release
+                  # state; skip the release backup instead of
+                  # failing the whole repository.
+                  print(
+                      f"  WARNING: latest release for {repo} "
+                      f"unavailable after retries: {exc}",
+                      file=sys.stderr,
+                  )
+                  return {
+                      "tag": "none",
+                      "sha": "none",
+                      "data": None,
+                      "unknown": True,
+                  }
 
               if not isinstance(data, dict):
                   return {
                       "tag": "none",
                       "sha": "none",
                       "data": None,
+                      "unknown": False,
                   }
 
               tag = data.get("tag_name") or "none"
               sha = "none"
 
               if tag != "none":
-                  ref = api_with_retry(
-                      f"repos/{repo}/git/ref/tags/"
-                      f"{quote(tag, safe='')}",
-                      allow_404=True,
-                  )
+                  try:
+                      ref = api_with_retry(
+                          f"repos/{repo}/git/ref/tags/"
+                          f"{quote(tag, safe='')}",
+                          allow_404=True,
+                          retries=3,
+                      )
 
-                  if isinstance(ref, dict):
-                      obj = ref.get("object", {})
-                      sha = obj.get("sha", "none")
-                      kind = obj.get("type")
-
-                      # Dereference annotated tags.
-                      while kind == "tag" and sha != "none":
-                          tag_obj = api_with_retry(
-                              f"repos/{repo}/git/tags/{sha}",
-                              allow_404=True,
-                          )
-                          if not isinstance(tag_obj, dict):
-                              sha = "none"
-                              break
-                          obj = tag_obj.get("object", {})
+                      if isinstance(ref, dict):
+                          obj = ref.get("object", {})
                           sha = obj.get("sha", "none")
                           kind = obj.get("type")
+
+                          # Dereference annotated tags.
+                          while kind == "tag" and sha != "none":
+                              tag_obj = api_with_retry(
+                                  f"repos/{repo}/git/tags/{sha}",
+                                  allow_404=True,
+                                  retries=3,
+                              )
+                              if not isinstance(tag_obj, dict):
+                                  sha = "none"
+                                  break
+                              obj = tag_obj.get("object", {})
+                              sha = obj.get("sha", "none")
+                              kind = obj.get("type")
+                  except PermanentSkip:
+                      raise
+                  except ApiError as exc:
+                      print(
+                          f"  WARNING: cannot resolve tag "
+                          f"{tag} for {repo}: {exc}",
+                          file=sys.stderr,
+                      )
+                      sha = "none"
 
               return {
                   "tag": tag,
                   "sha": sha,
                   "data": data,
+                  "unknown": False,
               }
 
           def download(url, output):
@@ -573,12 +625,9 @@ jobs:
                       f"Downloaded file is empty: {output.name}"
                   )
 
-              if size > MAX_ASSET_SIZE:
-                  output.unlink(missing_ok=True)
-                  raise RuntimeError(
-                      f"File exceeds safe upload limit: "
-                      f"{output.name} ({size} bytes)"
-                  )
+              # NOTE: oversized files are no longer rejected here.
+              # backup_and_upload() will 7z-split them into
+              # multiple volumes instead.
 
           def upload_one(tag, file):
               # Upload immediately, then delete the local file.
@@ -592,6 +641,94 @@ jobs:
               ])
               file.unlink(missing_ok=True)
               print(f"Uploaded and removed: {file.name}")
+
+          def upload_split(source, tag, work_dir, checksum_lines):
+              """
+              Compress `source` into 7z volumes of SPLIT_SIZE
+              each, upload them one by one, and add one
+              SHA-256 line per volume to `checksum_lines`.
+
+              The source file is deleted as soon as 7z finishes
+              so the disk footprint is bounded.
+              """
+              base = work_dir / f"{safe_name(source.name)}.7z"
+
+              # Defensive cleanup of stale leftovers.
+              for old in work_dir.glob(f"{base.name}.*"):
+                  old.unlink(missing_ok=True)
+              base.unlink(missing_ok=True)
+
+              print(
+                  f"  Splitting {source.name} "
+                  f"({source.stat().st_size} bytes) into 7z "
+                  f"volumes of "
+                  f"{SPLIT_SIZE // (1024 * 1024)} MiB..."
+              )
+
+              # -v<size>b -> exact byte volume size
+              # -mx=1    -> fastest compression (source is already
+              #             a .tar.gz, so this is just a container)
+              # -bd      -> no progress bar noise in logs
+              result = run(
+                  [
+                      "7z", "a",
+                      f"-v{SPLIT_SIZE}b",
+                      "-mx=1",
+                      "-bd",
+                      str(base),
+                      str(source),
+                  ],
+                  check=False,
+              )
+
+              if result.returncode:
+                  err = (
+                      (result.stderr or "").strip()
+                      or (result.stdout or "").strip()
+                      or "<no output>"
+                  )
+                  for old in work_dir.glob(f"{base.name}.*"):
+                      old.unlink(missing_ok=True)
+                  base.unlink(missing_ok=True)
+                  raise RuntimeError(
+                      f"7z split failed for {source.name}: {err}"
+                  )
+
+              # Free source space before uploading volumes.
+              source.unlink(missing_ok=True)
+
+              volumes = sorted(work_dir.glob(f"{base.name}.*"))
+              if not volumes:
+                  if base.exists():
+                      volumes = [base]
+                  else:
+                      raise RuntimeError(
+                          f"7z produced no volumes for "
+                          f"{source.name}"
+                      )
+
+              print(
+                  f"  Created {len(volumes)} volume(s) "
+                  f"from {source.name}"
+              )
+
+              try:
+                  for vol in volumes:
+                      digest = hashlib.sha256()
+                      with vol.open("rb") as stream:
+                          for chunk in iter(
+                              lambda: stream.read(1024 * 1024),
+                              b"",
+                          ):
+                              digest.update(chunk)
+                      checksum_lines.append(
+                          f"{digest.hexdigest()}  {vol.name}"
+                      )
+                      upload_one(tag, vol)
+              finally:
+                  for old in work_dir.glob(f"{base.name}.*"):
+                      old.unlink(missing_ok=True)
+                  base.unlink(missing_ok=True)
 
           def persist_tracking():
               lines = [
@@ -883,11 +1020,27 @@ jobs:
                           != b["sha"]
                       ]
 
-                      release_changed = (
-                          release["tag"] != previous["release"]
-                          or release["sha"]
-                          != previous["release_sha"]
+                      release_unknown = bool(
+                          release.get("unknown")
                       )
+
+                      if release_unknown:
+                          # We could not fetch release info even
+                          # after retries; keep previous tracking
+                          # and skip the release backup for this
+                          # run instead of overwriting state.
+                          print(
+                              "  (release metadata unavailable; "
+                              "skipping release backup, "
+                              "preserving tracking)"
+                          )
+                          release_changed = False
+                      else:
+                          release_changed = (
+                              release["tag"] != previous["release"]
+                              or release["sha"]
+                              != previous["release_sha"]
+                          )
 
                       if not changed and not release_changed:
                           print(
@@ -895,8 +1048,16 @@ jobs:
                           )
                           records[repo] = {
                               "branches": current_branches,
-                              "release": release["tag"],
-                              "release_sha": release["sha"],
+                              "release": (
+                                  previous["release"]
+                                  if release_unknown
+                                  else release["tag"]
+                              ),
+                              "release_sha": (
+                                  previous["release_sha"]
+                                  if release_unknown
+                                  else release["sha"]
+                              ),
                           }
                           backup_succeeded = True
                       else:
@@ -924,6 +1085,7 @@ jobs:
                           has_files = bool(changed) or (
                               release_changed
                               and release["data"] is not None
+                              and not release_unknown
                           )
 
                           if has_files:
@@ -947,24 +1109,44 @@ jobs:
                               try:
                                   download(url, output)
 
-                                  digest = hashlib.sha256()
-                                  with output.open("rb") as stream:
-                                      for chunk in iter(
-                                          lambda: stream.read(
-                                              1024 * 1024
-                                          ),
-                                          b"",
-                                      ):
-                                          digest.update(chunk)
+                                  size = output.stat().st_size
 
-                                  checksum_lines.append(
-                                      f"{digest.hexdigest()}  "
-                                      f"{output.name}"
-                                  )
+                                  if size > MAX_ASSET_SIZE:
+                                      # Too big for a single asset:
+                                      # split into 7z volumes and
+                                      # upload each (SHA-256 per vol).
+                                      print(
+                                          f"  Oversized download "
+                                          f"({size} bytes): "
+                                          f"{output.name} -> 7z split"
+                                      )
+                                      upload_split(
+                                          output,
+                                          created_tag,
+                                          work,
+                                          checksum_lines,
+                                      )
+                                  else:
+                                      digest = hashlib.sha256()
+                                      with output.open(
+                                          "rb"
+                                      ) as stream:
+                                          for chunk in iter(
+                                              lambda: stream.read(
+                                                  1024 * 1024
+                                              ),
+                                              b"",
+                                          ):
+                                              digest.update(chunk)
 
-                                  upload_one(
-                                      created_tag, output
-                                  )
+                                      checksum_lines.append(
+                                          f"{digest.hexdigest()}  "
+                                          f"{output.name}"
+                                      )
+
+                                      upload_one(
+                                          created_tag, output
+                                      )
                               finally:
                                   output.unlink(missing_ok=True)
 
@@ -992,6 +1174,7 @@ jobs:
                           if (
                               release_changed
                               and release["data"]
+                              and not release_unknown
                           ):
                               tag_name = release["tag"]
 
@@ -1053,8 +1236,16 @@ jobs:
 
                           records[repo] = {
                               "branches": current_branches,
-                              "release": release["tag"],
-                              "release_sha": release["sha"],
+                              "release": (
+                                  previous["release"]
+                                  if release_unknown
+                                  else release["tag"]
+                              ),
+                              "release_sha": (
+                                  previous["release_sha"]
+                                  if release_unknown
+                                  else release["sha"]
+                              ),
                           }
                           backup_succeeded = True
                           print(
