@@ -932,6 +932,7 @@ adafruit/Adafruit-Music-Maker-MP3-Shield-PCB: BRANCHES:[master:2a8905dc18227600a
 adafruit/Adafruit-NAU7802-PCB: BRANCHES:[main:7ac4d376418c66b9cfffc7b09d1e085368788a7c]|RELEASE:[none|none]
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2]|RELEASE:[none|none]
 adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8]|RELEASE:[none|none]
+adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB: BRANCHES:[main:aaaae6964cf56ddb17c5ab11a15566573e1a4cb7]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-1x4-PCB: BRANCHES:[main:54262bcfc402392ed569482824f7cf7e87473f18]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-BFF-PCB: BRANCHES:[main:4f0e7f24bc6bd4af262cbd93772e1eeb09c9244a]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-Breakout-PCB: BRANCHES:[main:8e89cf15d32369072d473cda4424f417255abf97]|RELEASE:[none|none]
