@@ -887,6 +887,7 @@ adafruit/Adafruit-Music-Maker-MP3-Shield-PCB: BRANCHES:[master:2a8905dc18227600a
 adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74df57b878b7520572744a3fa2]|RELEASE:[none|none]
 adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-FeatherWing-PCB: BRANCHES:[main:b80f2ae0778319e608a03a650e2590eef8f501f6]|RELEASE:[none|none]
+adafruit/Adafruit-NeoKey-Trinkey-PCB: BRANCHES:[main:c6a77bea3980cbdd7b0163c4f5c0aa1f4dfe51e6]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:afa33c7b1e1a1a4d74bcbe9e3e798099545cdf91]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-FeatherWing-PCB: BRANCHES:[master:3b80152edf1808446eab953d2f7a7b06b433c199]|RELEASE:[none|none]
