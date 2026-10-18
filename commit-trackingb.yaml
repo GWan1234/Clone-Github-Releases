@@ -1542,6 +1542,7 @@ adafruit/Adafruit_CircuitPython_UC8151D: BRANCHES:[main:9a37fc43eeb277f698614e8d
 adafruit/Adafruit_CircuitPython_ULP_Blink: BRANCHES:[main:d9b2796facf9a346a257a68ffd008a6f9762ac12]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_US100: BRANCHES:[main:f0e7f036217a942594839d2166d4ff8b046fe393]|RELEASE:[1.1.24|f0e7f036217a942594839d2166d4ff8b046fe393]
 adafruit/Adafruit_CircuitPython_USB_Host_Descriptors: BRANCHES:[main:f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd;TheKitty-patch-1:7398f86991435a3138613035ea0830c46d263435]|RELEASE:[0.5.3|f0345fdefcb151ba7ccd34f0734e0b1c0ad598cd]
+adafruit/Adafruit_CircuitPython_USB_Host_MIDI: BRANCHES:[main:ca68c3d4b229803f2c424e1562f25b6ed4efb971;tannewt-patch-1:db1f5fe9febfb4678fa9595acee2b899afeb266c]|RELEASE:[0.8.8|ca68c3d4b229803f2c424e1562f25b6ed4efb971]
 adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage: BRANCHES:[main:d3977af72ac362eedaa225327eae6146c25a392b]|RELEASE:[0.8.6|d3977af72ac362eedaa225327eae6146c25a392b]
 adafruit/Adafruit_CircuitPython_VC0706: BRANCHES:[main:52c5d073e1d9156214aa2fa6dc83bb6a9a9cecca;require_pyserial:af0c0d93c9766befa3467a65e1d4646390146658]|RELEASE:[6.0.17|52c5d073e1d9156214aa2fa6dc83bb6a9a9cecca]
 adafruit/Adafruit_CircuitPython_VCNL4010: BRANCHES:[main:6d0e981ff0019ebf50ba31cd4cee0ca4cd5fe8c6]|RELEASE:[0.11.18|6d0e981ff0019ebf50ba31cd4cee0ca4cd5fe8c6]
