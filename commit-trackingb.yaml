@@ -741,6 +741,7 @@ adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB: BRANCHES:[master:42d06b39d8afeb2
 adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB: BRANCHES:[master:fab08d3f5f0755a29559b81ad54239b746906b56]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-FONA-PCB: BRANCHES:[master:db45e3e1a5e53590cac33a1f3adc783d1e70ea01]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB: BRANCHES:[master:ace22faec73dda4b8dcfec16e1667551456689dd]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-ESP32-S2-PCB: BRANCHES:[main:4a6263861580257d42a889a1518133441d25f35d]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB: BRANCHES:[master:957300988eee7d15d71649fd4e2cb023a6584acb]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Adalogger-PCB: BRANCHES:[master:0147a7204c11ae57fc42c5424d5c700bcca875b2]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-M0-Basic-Proto-PCB: BRANCHES:[master:1de541ff46165575234d826ae64be64a82e8bc93]|RELEASE:[none|none]
