@@ -922,6 +922,7 @@ adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB: BRANCHES:[master:d347601d3c
 adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25]|RELEASE:[none|none]
 adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB: BRANCHES:[master:959792478854acec21fb862650427ffaa32b07f1]|RELEASE:[none|none]
 adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB: BRANCHES:[master:f09366288515bc9d9ea436602506ed4d2c295544]|RELEASE:[none|none]
+adafruit/Adafruit-Mini-I2C-Gamepad-PCB: BRANCHES:[main:f214e3c4c4cc4926375d8748b2b136e1991acdf8]|RELEASE:[none|none]
 adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB: BRANCHES:[master:d7365a23988f25d98cf9b729d5811f3d207f2230]|RELEASE:[none|none]
 adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB: BRANCHES:[master:0521054d17cd04841d5a3ae2a54e3c76e21c9264]|RELEASE:[none|none]
 adafruit/Adafruit-MiniPOV4-Kit: BRANCHES:[master:067ae4dcad3fcc97ba4ef02da5cda2650d8b921f]|RELEASE:[none|none]
