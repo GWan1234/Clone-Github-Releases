@@ -668,6 +668,7 @@ adafruit/Adafruit-BMP183-Breakout-PCB: BRANCHES:[master:3ee9a89b60a06bb53a157749
 adafruit/Adafruit-BMP280-Breakout-PCB: BRANCHES:[master:1ba329baf692f9e681e0deb891c98ce6579a5c26]|RELEASE:[none|none]
 adafruit/Adafruit-BMP3xx-PCB: BRANCHES:[master:e99a964dda0d6deb42314f8d9a376e4dd714fe59]|RELEASE:[none|none]
 adafruit/Adafruit-BNO055-Breakout-PCB: BRANCHES:[master:64c5a387aa807edb01eff440d1cd07ce4b608642]|RELEASE:[none|none]
+adafruit/Adafruit-BQ24074-PCB: BRANCHES:[master:844404b10e1a87820ee9cb9024d85f67f4bc4bfd]|RELEASE:[none|none]
 adafruit/Adafruit-BeagleBone-ProtoBoard-PCB: BRANCHES:[master:b6d6ea8721c3660aef0ca6197d914ceea1fce065]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-Classic-PCBs: BRANCHES:[master:5967ea1c635cca5b95b06fb4927643782f446c64]|RELEASE:[none|none]
 adafruit/Adafruit-Bluefruit-EZ-Key-PCB: BRANCHES:[master:b5eea193aba7fc2795fc4ac54534faceee2c3a84]|RELEASE:[none|none]
