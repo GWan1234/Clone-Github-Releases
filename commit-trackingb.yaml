@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 02:48
+commit-tracking: 2026-10-18 02:49
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1098,6 +1098,7 @@ adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB: BRANCHES:[master:f1967694bc2
 adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB: BRANCHES:[master:7a19d15939cb776f1931c3b4b38ac35509f06bd3]|RELEASE:[none|none]
 adafruit/Adafruit-TPS61023-PCB: BRANCHES:[master:82b5a33a1900a5c13849029bc84e7856a44086e0]|RELEASE:[none|none]
 adafruit/Adafruit-TPS62827-PCB: BRANCHES:[main:441e9beed498f62705ee2df458a903a010eae4a2]|RELEASE:[none|none]
+adafruit/Adafruit-TRRS-Jack-Breakout-PCB: BRANCHES:[main:d6d4fe70bc727056076c4603e90112b8b1c6d006]|RELEASE:[none|none]
 adafruit/Adafruit-TSC2007-PCB: BRANCHES:[main:8d182929dfc27dcdb407a2769cf416f9f63b4a16]|RELEASE:[none|none]
 adafruit/Adafruit-TSL2591-Breakout-PCB: BRANCHES:[master:22be4c7b8d53155dacedc18f3373ba8dbf95dc23]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB: BRANCHES:[master:0dcd9500672a5b6ab652f9cbf9e01bccdd6a31b6]|RELEASE:[none|none]
