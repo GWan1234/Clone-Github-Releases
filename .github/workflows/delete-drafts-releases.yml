@@ -1,4 +1,4 @@
-name: Delete Drafts Releases
+name: Delete Drafts Releases(10000)
 
 on: workflow_dispatch
 
