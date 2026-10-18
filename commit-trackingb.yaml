@@ -2464,6 +2464,7 @@ adafruit/greaseweazle: BRANCHES:[master:524798fb9cf2e3f0087f6a63818992bf58496920
 adafruit/iOS13-beta-file-issue: BRANCHES:[master:37c016d044f05af0779389224bc95901458aa35b]|RELEASE:[none|none]
 adafruit/icestorm: BRANCHES:[master:f704149b7298c7c6b56520d104dc4b20abf455b2]|RELEASE:[none|none]
 adafruit/imx_rt_flash_config: BRANCHES:[main:9de9b4a3f8f9dd9c71315ed9ad0d92bea0d5d549]|RELEASE:[none|none]
+adafruit/invaders_pico: BRANCHES:[main:2bf61ec4fd1e5254aeda9595fb273f89587a2290]|RELEASE:[v0.1.0|8add3f3ffc68f365e24bea24ddb17bdb452b6110]
 adafruit/io-actions: BRANCHES:[main:779f7a999599fad74a3448c6381e67f9cf23e13b;feed-property-block:628eb24896d6ff0cb7ca65ae55b8f169d9b58e8c;copilot/fix-text-blocks-in-numeric-comparators:f06ca73b790b7b35614f13c3eb7ada03aab36267;blockly-12:a7325693a2f5eefc37bad3de39abda17930e4293;copilot/add-oembed-compatible-page:6147d9fe9e46e2db24c8f05a7ea159f48347703f;time-plus-win-fixes:514f02bc84705167d57e271a2cf6ad3c474502f9;tyeth-win-leftovers-20251024:e97a3e786098e725ee47fdddab5644400bf857a7;location-weather:637a025352df36e9ec1bee9a10a368fb602c1b1b;trigger-compare-block:6528cb1c8a99fc9977c8c3ea99bd215c5a94b839;tylerdcooper-patch-2:d8f12286ff8b2f529064330006e8e2b4970e49d1]|RELEASE:[none|none]
 adafruit/io-api: BRANCHES:[main:2995a32c86d184bd401781df3c7f297e70ca6341]|RELEASE:[none|none]
 adafruit/io-client-go: BRANCHES:[main:eb896776411afb581c1b57238073d1adffa2a22b;initial-dev:13dfced6058748471793785df5950265804cfa15]|RELEASE:[none|none]
