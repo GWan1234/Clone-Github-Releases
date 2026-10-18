@@ -771,6 +771,7 @@ adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a72637
 adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB: BRANCHES:[master:e23514c6f9e124a60f9d1de6567c791561b43e73]|RELEASE:[none|none]
 adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c6dd5]|RELEASE:[1.0.0|9376cbad0c2fb555db1ea4850fc2d4067b6e9b49]
 adafruit/Adafruit-Hallowing-M0-PCB: BRANCHES:[master:c0585b0672ce13e163b8da6ce9215ec600c63d64]|RELEASE:[none|none]
+adafruit/Adafruit-Hallowing-M4-PCB: BRANCHES:[master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27]|RELEASE:[none|none]
 adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d07928551e7f1f71a38335e33c4b530]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc762a0cb25abfc437afecab66a5e88e5a5338]|RELEASE:[none|none]
