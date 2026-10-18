@@ -1645,6 +1645,7 @@ adafruit/Circuit-Playground-Character-Icons: BRANCHES:[master:9ebcc0e87610c6890f
 adafruit/CircuitPlaygroundFirmata: BRANCHES:[master:26a0f9720476f0965ce93fa4ac96196a6a38417b]|RELEASE:[none|none]
 adafruit/CircuitPlaygroundMakeBelieve: BRANCHES:[master:7f971da9fd1d40390ccf9299cbee49782c81abd7]|RELEASE:[none|none]
 adafruit/CircuitPlayground_Power_Reactor: BRANCHES:[master:02e84435cdf04f674f8cb0c8c8d5aca9fa399f3e]|RELEASE:[none|none]
+adafruit/CircuitPython-Apple-Watch-app: BRANCHES:[master:a1e41e6179cbe11f07c37598a35840e7d7197b7c]|RELEASE:[none|none]
 adafruit/CircuitPython_Badge_README: BRANCHES:[master:5e6380f8444a7f879b82b3da98b11543c0783791]|RELEASE:[none|none]
 adafruit/CircuitPython_Community_Bundle: BRANCHES:[main:e9bc6664489a59528cc42e9ea9a51d7a8bf40a70;different-fork-dotstar-featherwing:ebf18bb498ff6854260a137645350aeab67f65fa;tannewt-patch-1:a4e51cac106d8113fc9b6fd3db030718fbaccc9f;fix_bundle:33fe76821e2d0d4cd78156c174076211a65908a2]|RELEASE:[20261008|e9bc6664489a59528cc42e9ea9a51d7a8bf40a70]
 adafruit/Circuit_Pyrate: BRANCHES:[main:eb0288c51fac0f394fcb5e88408b56b8d9981911]|RELEASE:[none|none]
