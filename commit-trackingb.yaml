@@ -1047,6 +1047,7 @@ adafruit/Adafruit-PiTFT-Helper: BRANCHES:[master:625ae04c38218863d272bcfdf79dd14
 adafruit/Adafruit-PiTFT-Plus-2.8-PCB: BRANCHES:[master:6de22137d8b5a057a5723dfffa9831c17d4e9a30]|RELEASE:[none|none]
 adafruit/Adafruit-PiTFT-Plus-3.2-PCB: BRANCHES:[master:dcd017ebe4af66390dcd68f1515990550651461a]|RELEASE:[none|none]
 adafruit/Adafruit-PiUART-PCB: BRANCHES:[master:d75842b7de0eb8fb496069a549c87f94542d846c]|RELEASE:[none|none]
+adafruit/Adafruit-Pixel-Shifter-PCB: BRANCHES:[main:e8ec19ef46cda9e6cf594e6738372a66d1208d0e]|RELEASE:[none|none]
 adafruit/Adafruit-Pixel-Trinkey-PCB: BRANCHES:[main:3331f2f048f8ea2769698f96f35f18969f4f3619]|RELEASE:[none|none]
 adafruit/Adafruit-Podcasts: BRANCHES:[master:17d58772eb7d81b2556864ee11e494c5f6a6e8c6;Collin:2d2454bab7055f5b050f7f32ca45db0d83eeb78a]|RELEASE:[none|none]
 adafruit/Adafruit-Power-Relay-FeatherWing-PCB: BRANCHES:[master:f975014d53db224ea030fcb11ea0412fb34c8d45]|RELEASE:[none|none]
