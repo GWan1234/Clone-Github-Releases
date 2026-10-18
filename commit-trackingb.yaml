@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 12:24
+commit-tracking: 2026-10-18 17:00
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -3335,7 +3335,7 @@ rbouteiller/airplay-esp32: BRANCHES:[staging:b215aa9bf7ca06ac95f87088b4e3bed70e6
 rime/OpenCC: BRANCHES:[master:908d1fc5014e0dd4727c90999ba1cd60260daf94;gh-pages:bfc61c123d4128d90d12883772b5a5f41a16ee8f]|RELEASE:[none|none]
 rime/artworks: BRANCHES:[master:d077b5a8c07c845403de19ce7078064efaf8401c]|RELEASE:[none|none]
 rime/brise: BRANCHES:[master:8d5bc2e1b99f8efb2b3f3adf656009669baa1a5f;archives:42795a149a5e5fdbc90aeb4a34ab8873eb85a1a5]|RELEASE:[brise-0.38|f266b990409f7085c0312543639d5edaa3d7d0b1]
-rime/home: BRANCHES:[master:cae829fadc277bc90b0d449585ddf19f0478a00e;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5]|RELEASE:[none|none]
+rime/home: BRANCHES:[master:50671f1b55f78ef855b6fe67601de7458b503c79;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5]|RELEASE:[none|none]
 rime/ibus-rime: BRANCHES:[master:57fba74724611b3c21e36656123fb62cf10b759c]|RELEASE:[none|none]
 rime/librime: BRANCHES:[master:7bc3fb0005a03aff1c086611e4d52bb7f6444fdd;feat/cand-data:4661ec2d93ccfb9f81fb00aa91e4b889a428193e;windows-unicode-support:73f170fba7d9bda0778f3a85e8d1fc593a6b6e05;legacy:284fce5b06a5c29c2f52b4bfe8c288f3f41f9f7d;static-build:487b5fa7e1b0b554319962e49bc64dbfd1dbdf2f;oldschool:c5adf5030cca30bda4049906e002151c4c8ea273]|RELEASE:[1.17.0|33e78140250125871856cdc5b42ddc6a5fcd3cd4]
 rime/librime-charcode: BRANCHES:[master:55e7f563e999802d41a13ba02657c1be4b2011b4]|RELEASE:[none|none]
@@ -3370,7 +3370,7 @@ rime/rime-stroke: BRANCHES:[master:1e8fff9b9494ddec23b0cbc526bcfd8171a6fd48]|REL
 rime/rime-terra-pinyin: BRANCHES:[master:723e51bc266cf9464530c1ddedb856aa18e3da34]|RELEASE:[none|none]
 rime/rime-wubi: BRANCHES:[master:152a0d3f3efe40cae216d1e3b338242446848d07]|RELEASE:[none|none]
 rime/rime-wugniu: BRANCHES:[master:2818f4812af3b6f11fc0248fa8918966a3312d2c]|RELEASE:[none|none]
-rime/rime.github.io: BRANCHES:[master:617db68d28f27de8a91bbd583b0b216a8a994910;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf]|RELEASE:[none|none]
+rime/rime.github.io: BRANCHES:[master:aad01553b78d6fd97955b8ff9bcf95b40c6e2a4b;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf]|RELEASE:[none|none]
 rime/rppi: BRANCHES:[master:0f1346f27dce5e381d518ebfa6a6410e5c56ca15]|RELEASE:[none|none]
 rime/squirrel: BRANCHES:[master:a685441add85c87f09affee95621552a61c1bdad;cmake:10a85e770991f0f4259dc855c5dafd6cf68acce3;fast-check:4d1f549cbc87b3e4e9c2d04ecba44570c10e1526;nil-event:5c98d784c59ba7c8bd9dbc4f3e3580176a702a4c;app-bundle:a30a6e94d1b90f559567d592186b048ea8103102;core_text:94edfb611e05735b4e96253cdb487998dab7e33a]|RELEASE:[1.1.2|876adebaf2f612951dcdca8a591de65401222b9a]
 rime/tests: BRANCHES:[main:9e31ead4cf4fdb398662cb7bb06a0966b6bba222]|RELEASE:[none|none]
