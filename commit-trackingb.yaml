@@ -854,6 +854,7 @@ adafruit/Adafruit-LSM9DS1-Breakout-PCB: BRANCHES:[master:9f6db79a66ae599aa410a2a
 adafruit/Adafruit-LTC4311-PCB: BRANCHES:[master:8fb4ee69175a7ddb4128edbb7d9d79a78fbbf405]|RELEASE:[none|none]
 adafruit/Adafruit-LTR390-PCB: BRANCHES:[main:0f4656c2b2c2da7860b5a74977b89a8c39999581]|RELEASE:[none|none]
 adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB: BRANCHES:[master:2f651eeb3cfd8395e67a2dd241d086286ceb7668]|RELEASE:[none|none]
+adafruit/Adafruit-MAX17048-PCB: BRANCHES:[main:cc7d6e2477db89dabc9c64f91ac5f30f354466be]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31850-thermocouple-breakout-board: BRANCHES:[master:759ee92d8dd940d14ad418e81016b3e25eb1a581]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31855-breakout-board: BRANCHES:[master:5b12736f17d53d22d9dc4287e4f2129bc876d180]|RELEASE:[none|none]
 adafruit/Adafruit-MAX31855-library: BRANCHES:[master:249c8f8913d3a47237f8130d443798c735ca0e38;gh-pages:751e1f6e3b51c51d7c9f9ba621907cde25cae8ae]|RELEASE:[1.4.2|249c8f8913d3a47237f8130d443798c735ca0e38]
