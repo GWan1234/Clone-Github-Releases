@@ -1917,6 +1917,7 @@ adafruit/Adafruit_Python_TMP: BRANCHES:[master:258b29f7b730e4534808c27473a76de84
 adafruit/Adafruit_Python_VCNL40xx: BRANCHES:[master:f88ec755fd23017028b6dec1be0607ff4a018e10]|RELEASE:[1.0.4|f88ec755fd23017028b6dec1be0607ff4a018e10]
 adafruit/Adafruit_Python_WS2801: BRANCHES:[master:d9fa0f9ce1577a142f6dd5a974de3ba201351545]|RELEASE:[none|none]
 adafruit/Adafruit_Python_seesaw: BRANCHES:[master:6b849ee4c579e48edace1711b77ca125d583529e]|RELEASE:[none|none]
+adafruit/Adafruit_QMC5883P: BRANCHES:[main:b189f39e98fb5486c99512a6e3c0da67c5e400c9;gh-pages:8a4086d90e7cfab3d7f82afaada9ccd97458b75c]|RELEASE:[1.0.2|b189f39e98fb5486c99512a6e3c0da67c5e400c9]
 adafruit/Adafruit_QSPI: BRANCHES:[master:6c861fa712408f33a9f98d1431aeaea585509deb;gh-pages:5abb3e9d456c817131905b8a2cbff43797fe7879]|RELEASE:[3.0.0|69737dfa0c1147b35f54064c233696752998c94c]
 adafruit/Adafruit_RA8875: BRANCHES:[master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pages:56b737e11c1f75469b797977b2a53d055b737f4a;doxy-fix:67907ed926f2e276033b0f355b60d66ccc17ecbd]|RELEASE:[1.4.5|eece6ef40be7c3e21c4ba7ad332c93078e42cb78]
 adafruit/Adafruit_RGB_LCD_backpack: BRANCHES:[master:c439c0c5afee3af63df33a2987fc69ea8ee80e95]|RELEASE:[none|none]
