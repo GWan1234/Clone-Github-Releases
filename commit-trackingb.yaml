@@ -2023,6 +2023,7 @@ adafruit/Adafruit_SleepyDog: BRANCHES:[master:6cebe708b966354eab898fefbe62ccc1d6
 adafruit/Adafruit_SoftServo: BRANCHES:[master:9e9d72ad7487a7eda11c5f19dfcc7a81dc416d07;gh-pages:067333a6bceda3849897d7cfb1abce784bf42119]|RELEASE:[1.0.4|9e9d72ad7487a7eda11c5f19dfcc7a81dc416d07]
 adafruit/Adafruit_Soundboard_library: BRANCHES:[master:ab279797cb35f4aea58cb19f906e38f28d4a2d78;gh-pages:58a1b2af111f7e4a8f115805015f06bc5f095e2e]|RELEASE:[1.1.2|ab279797cb35f4aea58cb19f906e38f28d4a2d78]
 adafruit/Adafruit_Spectro_Pi: BRANCHES:[master:5da6bd1f40b9ea37b6b19d87967baeaec36ac9ef]|RELEASE:[none|none]
+adafruit/Adafruit_Stemma_Detect: BRANCHES:[main:86e738702c140328c7714bddf64ede147951f219]|RELEASE:[1.2.0|86e738702c140328c7714bddf64ede147951f219]
 adafruit/Adafruit_TCA8418: BRANCHES:[main:df1319acbe1f250b74d155c3535c177a20854030;gh-pages:60f96a0e819da6ddef94a4a4e6c726e7f48dff18;fix-ci:d4d4086974a117dc59b3c15261a99f000b9c0a8d]|RELEASE:[1.0.2|df1319acbe1f250b74d155c3535c177a20854030]
 adafruit/Adafruit_TCS3430: BRANCHES:[main:62190e5d7e6faa7ee8177417cb4f3af63a6a9398;gh-pages:55d8609d5fcd474b90ada68165dd9b9c6d9b2cb8]|RELEASE:[1.1.1|62190e5d7e6faa7ee8177417cb4f3af63a6a9398]
 adafruit/Adafruit_TCS34725: BRANCHES:[master:48d793bf4670f6ee83e15fe488a12d91618e3cce;gh-pages:2902921a50b4b9c136dd39291cb157b8995502ec]|RELEASE:[1.4.4|48d793bf4670f6ee83e15fe488a12d91618e3cce]
