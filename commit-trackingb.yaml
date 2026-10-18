@@ -2226,6 +2226,7 @@ adafruit/adafruit-pi-cam: BRANCHES:[master:d3ff22672785de876a74a4c873104dde3b118
 adafruit/adafruit-raspberrypi-linux: BRANCHES:[rpi-4.9.y:1418a05a5d81ef829418767bf53e3cd93fc38a55;rpi-4.4.y:6864aa4f92d00dfa2e5f75607e1356c4fbbc99dc;rpi-4.1.y:1b8281a813cde5e0b6feca4c5805c7cf4f2f3e6d;4.1.y-dwc2:3997136757aae52d3de58e5b686f86b890d14498;rpi-4.1.y-trythisagain:ad46d74df33d342f95424f10e89567a7fb176076;rpi-3.18.y:7459c1860eb56854a581442938358addf5378775;rpi_power_muddling:ffe0c507ec9dc81ce42cf7c897f6c7494ef576d3;rpi-3.18.y-rpi_power_switch:8a556fbf9fde154b858383466382033838feb053;rpi-3.18.y-mergetest:e273ed17072fd79c2ac812bae44960ac7dd5e2e4;rpi-kali-3.18.y:cef70a86b35ba54d6b949c1997c48b41143d5de2]|RELEASE:[none|none]
 adafruit/adafruit-rpi-fbtft: BRANCHES:[master:35890c52f9e3eef3237b76acc295585dd93fc8cd;hx8357d-support:623ba1175328127ca1b3630c1deff0d8df55d15c]|RELEASE:[none|none]
 adafruit/adafruit-rpi-kernel: BRANCHES:[rpi-3.10.y:ceafb987d68f7ec0cec446cc28b65865cf36a5d6]|RELEASE:[none|none]
+adafruit/adafruit-zephyr-support: BRANCHES:[main:cb4516a62e618da59223ccb01eeedb70a9f196e1]|RELEASE:[none|none]
 adafruit/adafruit_flora_game_controller: BRANCHES:[master:bb1621ab2839846d799061c408b1d522443e7ea5]|RELEASE:[none|none]
 adafruit/adafruit_io_python_jupyter: BRANCHES:[master:20a577d2d191f677da2652c72daf7a27251b033d]|RELEASE:[none|none]
 adafruit/adavoice: BRANCHES:[master:b78baee279b7297fa3e43e27ef2de0863330c74e]|RELEASE:[none|none]
