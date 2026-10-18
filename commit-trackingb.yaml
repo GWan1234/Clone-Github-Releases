@@ -2007,6 +2007,7 @@ adafruit/Adafruit_QSPI: BRANCHES:[master:6c861fa712408f33a9f98d1431aeaea585509de
 adafruit/Adafruit_RA8875: BRANCHES:[master:eece6ef40be7c3e21c4ba7ad332c93078e42cb78;gh-pages:56b737e11c1f75469b797977b2a53d055b737f4a;doxy-fix:67907ed926f2e276033b0f355b60d66ccc17ecbd]|RELEASE:[1.4.5|eece6ef40be7c3e21c4ba7ad332c93078e42cb78]
 adafruit/Adafruit_RGB_LCD_backpack: BRANCHES:[master:c439c0c5afee3af63df33a2987fc69ea8ee80e95]|RELEASE:[none|none]
 adafruit/Adafruit_RTD266X_I2CFlasher: BRANCHES:[master:febb4f815731842439836268628d835e8d966f4f]|RELEASE:[none|none]
+adafruit/Adafruit_RTD266x_Firmware: BRANCHES:[main:ebbd0c9708e2119b7a40ebbb58f6da535acffe67]|RELEASE:[none|none]
 adafruit/Adafruit_RV8803: BRANCHES:[gh-pages:17451c8ed7ffdd3efc3bea285f071e8cd8926df8;main:b4d87176568b67bb7b8472bf2c395475886e245e]|RELEASE:[none|none]
 adafruit/Adafruit_S-35710: BRANCHES:[gh-pages:c41f761cca1ba054e2736956587967f119d9592e;main:959f929eb010247666ff50c29d9f5e32213847c6]|RELEASE:[1.0.0|959f929eb010247666ff50c29d9f5e32213847c6]
 adafruit/Adafruit_SCD30: BRANCHES:[master:b2b0d0413e0bfa186a5a33fe8d4392457a28786e;gh-pages:0c24e2b62be536dd449db5dbc2a0c565c602c1cc;review:451f71ad5f9cbbaf32440c0cdc8594cbef890419]|RELEASE:[1.0.11|b2b0d0413e0bfa186a5a33fe8d4392457a28786e]
