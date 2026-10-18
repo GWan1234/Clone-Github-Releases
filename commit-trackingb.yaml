@@ -741,6 +741,7 @@ adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB: BRANCHES:[main:633459d746232
 adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB: BRANCHES:[main:e2cfb6b5e5edb46688429b701eead7a78738b0f8]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-BFF-PCB: BRANCHES:[main:90ddd1a730d2963aacaa67d787213e31e9ef8a0f]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-PCB: BRANCHES:[main:bc5fa13b55c25feb3bf47e483b4d0bc770fbf20b]|RELEASE:[none|none]
+adafruit/Adafruit-EYESPI-Pi-Beret-PCB: BRANCHES:[main:db6a85a699fe0bd1d8f0cb4918d9db1ea701f3d9]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-Editorial-Standards: BRANCHES:[master:21f382da5be30c227f4065fe25e5914da3b09de2]|RELEASE:[none|none]
 adafruit/Adafruit-Ethernet-FeatherWing-PCB: BRANCHES:[master:1f950d49ed57129f6c33656a3ac37ad7d21d757b]|RELEASE:[none|none]
