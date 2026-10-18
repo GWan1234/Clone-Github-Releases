@@ -730,6 +730,7 @@ adafruit/Adafruit-EMC2101-PCB: BRANCHES:[main:3d1c2ca4c2ecfb430e67ed098780de451e
 adafruit/Adafruit-ENS160-PCB: BRANCHES:[main:70109a844d554d955433ffba0b05acc497bd77d5]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-Feather-V2-PCB: BRANCHES:[main:cbde2c6658acb3c788616ceb13423b5d36305ef0]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c825a3747d51849c088c390d]|RELEASE:[none|none]
+adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB: BRANCHES:[main:ce3ce90565b9e49af0ebbd1c2e0abd300d2fd0d3]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB: BRANCHES:[main:9e9f52790239a755241bfee62628dc8b3c713c63]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB: BRANCHES:[main:e2cfb6b5e5edb46688429b701eead7a78738b0f8]|RELEASE:[none|none]
 adafruit/Adafruit-EYESPI-PCB: BRANCHES:[main:bc5fa13b55c25feb3bf47e483b4d0bc770fbf20b]|RELEASE:[none|none]
