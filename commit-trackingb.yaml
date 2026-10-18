@@ -644,6 +644,7 @@ adafruit/Adafruit-9-DOF-and-10-DOF-PCBs: BRANCHES:[master:9faee48387c9ecce37b596
 adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB: BRANCHES:[master:41ffc374eacf8b0e1747c455ff87f5317a332a21]|RELEASE:[none|none]
 adafruit/Adafruit-AD5693R-Breakout-Board-PCB: BRANCHES:[main:5eaa6eb797945a917ff46a1db228a3c6ca9b0e8d]|RELEASE:[none|none]
 adafruit/Adafruit-AD8495-Breakout-PCB: BRANCHES:[master:44233ee9745b90065778f47a497aaca7df131f38]|RELEASE:[none|none]
+adafruit/Adafruit-ADG728-1-to-8-Analog-Matrix-Switch-PCB: BRANCHES:[main:7bdabc857d920b025906c68e29400955831a361a]|RELEASE:[none|none]
 adafruit/Adafruit-ADS7830-PCB: BRANCHES:[main:b796c6e98ecc7bddd24d97c2ce9e553dbf0edf7c]|RELEASE:[none|none]
 adafruit/Adafruit-ADT7410-PCB: BRANCHES:[master:7529ee828f35a16cb1b214a8d67e905764031d7a;gh-pages:49619ef19fb88c972149db875134eb3f28d19f41]|RELEASE:[none|none]
 adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB: BRANCHES:[master:765d4e303830c064a426bf57dccdb68e05473a36]|RELEASE:[none|none]
