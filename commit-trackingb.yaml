@@ -701,6 +701,7 @@ adafruit/Adafruit-CP2104-Friend-PCB: BRANCHES:[master:4684fff897c221bcf2539f7125
 adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi: BRANCHES:[master:b8a0df00fed2f4d240c807b3f454ff6b7d8780d9]|RELEASE:[none|none]
 adafruit/Adafruit-CYBERDECK-PCB: BRANCHES:[main:c884788284c1347c56e08148a6f87db115c484a8]|RELEASE:[none|none]
 adafruit/Adafruit-Capacitive-Touch-HAT-PCB: BRANCHES:[master:6405328c281fe7d9d8e9cbfa334d50c3eccef7ce]|RELEASE:[none|none]
+adafruit/Adafruit-Charger-BFF-PCB: BRANCHES:[main:2acd339ac57539b236e1b072488f581ea56e3a4c]|RELEASE:[none|none]
 adafruit/Adafruit-CharliePlex-Bonnet-PCBs: BRANCHES:[master:e6c0dc1cc87f6add9272260db3fe237371e3ac52]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB: BRANCHES:[master:87ab89a043b8c01b602eeaf1bcf08474abe0336d]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Express-PCB: BRANCHES:[master:2962c0cb972e031d070303bbeda3ed95a2098951]|RELEASE:[none|none]
