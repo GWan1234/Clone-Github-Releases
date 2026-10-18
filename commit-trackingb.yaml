@@ -1034,6 +1034,7 @@ adafruit/Adafruit-SHT31-Sensor-Breakout-PCB: BRANCHES:[master:00cb07abd32b2a1bcf
 adafruit/Adafruit-SHT40-PCB: BRANCHES:[main:40fe2b3aca1aaa3b2185d3d138e77d5b043a56e1]|RELEASE:[none|none]
 adafruit/Adafruit-SHTC3-PCB: BRANCHES:[master:762d5a5d96ba72ec14e1fc05e32a3f5ce00cde7c]|RELEASE:[none|none]
 adafruit/Adafruit-SMT-Breakout-PCBs: BRANCHES:[master:dbd7a1928c2b668a9edf3d53277063eac4c3e938]|RELEASE:[none|none]
+adafruit/Adafruit-SPI-Flash-Breakout-PCB: BRANCHES:[main:9a46c77e68ab9a797bfdce54b0629004823e868a]|RELEASE:[none|none]
 adafruit/Adafruit-SPI-Flash-SD-Card-PCB: BRANCHES:[main:8d985bd12f2732e94b4727e24874646f5911cd75]|RELEASE:[none|none]
 adafruit/Adafruit-SPW2430-PCB: BRANCHES:[master:929cb33e8e66308cb46321be057e7f0ad7111999]|RELEASE:[none|none]
 adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino: BRANCHES:[master:fd51d0a87b43d983fd6b6f5c07fadffbf26c6f6c;gh-pages:7a76572b1e2ad17d4765af5664bc55be3fbcd6f1;actionci:66d32d9ca06f23580e2e587c0ff773ca874345bb;spitft:9c63ee9bd9dc6d1af9d82eb31f037433cd203b78]|RELEASE:[1.3.0|fd51d0a87b43d983fd6b6f5c07fadffbf26c6f6c]
