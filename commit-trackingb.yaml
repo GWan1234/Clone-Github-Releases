@@ -699,6 +699,7 @@ adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB: BRANCHES:[master:5d9281aebe826950512
 adafruit/Adafruit-Bone-Box-Enclosure-for-Beagle-Bone: BRANCHES:[master:7d999cd315d797cd5b1bbce0b41ea64e2938e6de]|RELEASE:[none|none]
 adafruit/Adafruit-Bonsai-Buckaroo-PCB: BRANCHES:[master:be6e6ddbd39d17c167c8c9e1557860620e71a305]|RELEASE:[none|none]
 adafruit/Adafruit-BrainCraft-HAT-PCB: BRANCHES:[main:1bc88c224a28d02f727879ffe7213ad599972443]|RELEASE:[none|none]
+adafruit/Adafruit-CAN-Bus-BFF-PCB: BRANCHES:[main:7456bb16b65da5de6bae232dbe146e98cf4b0a5b]|RELEASE:[none|none]
 adafruit/Adafruit-CAN-Bus-FeatherWing-PCB: BRANCHES:[main:263cd9f75ba8c8b48291bd6e62f8672c98619663]|RELEASE:[none|none]
 adafruit/Adafruit-CAN-Pal-PCB: BRANCHES:[main:56618b3a53162ce48872514be044eab033ed33ef]|RELEASE:[none|none]
 adafruit/Adafruit-CAP1188-PCB: BRANCHES:[master:cf65678210cb9bc8a792efa091d49082e4ad6a2b]|RELEASE:[none|none]
