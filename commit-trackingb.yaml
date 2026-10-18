@@ -1158,6 +1158,7 @@ adafruit/Adafruit-Si4713-PCB: BRANCHES:[master:bf85d5c1095aa6d66b95976e2d420d83f
 adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB: BRANCHES:[master:14a50ca2041bbcccc6a2b1378cb72424603f5d20]|RELEASE:[none|none]
 adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB: BRANCHES:[main:f4ca8e1c846ced71a104c657bcb727502675b466]|RELEASE:[none|none]
 adafruit/Adafruit-Si7021-PCB: BRANCHES:[master:6ab3474d07ba277c08b10f2d322f0f59968b0b9d]|RELEASE:[none|none]
+adafruit/Adafruit-Simple-Soil-Moisture-Sensor-PCB: BRANCHES:[main:c5401f929e78ba1f8dc35b9587ab3c62d0f73073]|RELEASE:[none|none]
 adafruit/Adafruit-Slider-Trinkey-PCB: BRANCHES:[main:77c27c2c1ccb6c2714d88b02618fdd5bbb70acdd]|RELEASE:[none|none]
 adafruit/Adafruit-Sound-Samples: BRANCHES:[master:7675c60a47c025ab62f77b699d6460d22bb963b1]|RELEASE:[none|none]
 adafruit/Adafruit-Sparkle-Motion-PCB: BRANCHES:[main:7a45f900d6ce0c1d60d67a9efbbba6dbd55ef31a]|RELEASE:[none|none]
