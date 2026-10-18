@@ -1605,6 +1605,7 @@ adafruit/Bluefruit_LE_Connect_Android_V2: BRANCHES:[main:f2fadabee9b05df1f62c9c9
 adafruit/Bluefruit_LE_Connect_Plotter: BRANCHES:[master:5fdd5c80a55c04f5f21f971b57d68551373b3ada]|RELEASE:[none|none]
 adafruit/Bluefruit_LE_Connect_v2: BRANCHES:[master:26da88b2a667e1de42e029959f405f40130a10d8;xcode15_update:5b21c9e6499a944a5f94293f0928b5df82bdd219;mqtt_and_charts_update:28d2d50d31feec689c3a8c25fc71fdcfbb3fbf5c;circuitpython_osc:60551774b70ac8881f1437e5b337e99759f32801;circuitpython_service:51564ae949bd87dc85529548097dac019912d65c;swift2:0ad790d3d07788f5ff1d6c3440a2440605ae55ca]|RELEASE:[none|none]
 adafruit/Bluetooth_Talking_Dog_Collar: BRANCHES:[master:d62cf7158093e09c4bac78fc36a5a681950387a2]|RELEASE:[none|none]
+adafruit/BrainCraft: BRANCHES:[master:464a6d11b53a6d18cfebffc75e602fc9696bf95c]|RELEASE:[none|none]
 adafruit/CC3000_MDNS: BRANCHES:[master:acb2a96f2232effd9ad2fb833b332c60e03d9091]|RELEASE:[1.0.0|2dc142ab771137d532e1c375f92d8009e0bfd0d3]
 adafruit/CapacitiveSensor: BRANCHES:[master:78fed5a5c885306c943eba3ea77e6b6b79d8172b]|RELEASE:[none|none]
 adafruit/CatLaser2: BRANCHES:[master:0c17e68a444e7ccd2befccd8102861135d9da243]|RELEASE:[none|none]
