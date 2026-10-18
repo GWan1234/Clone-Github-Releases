@@ -1206,6 +1206,7 @@ adafruit/Adafruit-TLV493D-PCB: BRANCHES:[master:2450d66eef51807f25f6ce598fa7aa9f
 adafruit/Adafruit-TMAG5273-3D-Hall-Effect-Magnetometer-Breakout-PCB: BRANCHES:[main:543c3c93357a56703c6f33de5c8e277451bf9f1d]|RELEASE:[none|none]
 adafruit/Adafruit-TMC2209-Breakout-PCB: BRANCHES:[main:227f79e2cda77b99653316692f8ec1975f58c6af]|RELEASE:[none|none]
 adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB: BRANCHES:[main:274138c355638a4b1282ef5aafc4cb650fb32329]|RELEASE:[none|none]
+adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB: BRANCHES:[main:00602b9a3252e047cf1d8824c6d0e8f7dfc026cc]|RELEASE:[none|none]
 adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8]|RELEASE:[none|none]
 adafruit/Adafruit-TMP117-PCB: BRANCHES:[main:874b3a5b27792d4d166547bab075cb963e1bdb32]|RELEASE:[none|none]
 adafruit/Adafruit-TMP119-Temperature-Sensor-PCB: BRANCHES:[main:fe8ae26b0f8362aa93a8074374984c1da7bf01aa]|RELEASE:[none|none]
