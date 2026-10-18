@@ -893,6 +893,7 @@ adafruit/Adafruit-PN532-RFID-NFC-Shield: BRANCHES:[master:c22321c82ec1510522fa39
 adafruit/Adafruit-PS2-Trackpad: BRANCHES:[master:b24f1867ad11afd7fb787b0413e4af2f52ed1f0f;gh-pages:30a9786606d84e6f56d5bd454851d17dea06a7dc]|RELEASE:[1.2.4|b24f1867ad11afd7fb787b0413e4af2f52ed1f0f]
 adafruit/Adafruit-PWM-Servo-Driver-Library: BRANCHES:[master:a98850b815bf9696c8ffdc2a0f89d657c52dd44b;gh-pages:b434ae32f5dd40f6c2e3318e29584f3921424fdd;actions:e610e9ccdbe9a6dcd6af5ebed888224014a98f20;photodude-patch-1:16705a539bfe829ad518f6f69ffcbb3a1c087181]|RELEASE:[3.0.3|a98850b815bf9696c8ffdc2a0f89d657c52dd44b]
 adafruit/Adafruit-PWM-Servo-FeatherWing-PCB: BRANCHES:[master:27159a48d60d27e7c5c494b73bcd510fc03b58e1]|RELEASE:[none|none]
+adafruit/Adafruit-PXT-Setup: BRANCHES:[master:c25ac1f717904a1bb22caee3295cd6ba778745fa]|RELEASE:[none|none]
 adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB: BRANCHES:[master:2fa8e23b2653935aaf2ee6c1171b122358689485]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-Bonnet-PCB: BRANCHES:[master:d2d4f61d18bc89df4edd18c1f8aefd049b45a227]|RELEASE:[none|none]
 adafruit/Adafruit-Perma-Proto-HAT-PCB: BRANCHES:[master:fdee45a5dee903ecfbd9f010ca250b968f43a1f5]|RELEASE:[none|none]
