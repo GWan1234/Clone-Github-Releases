@@ -1153,6 +1153,7 @@ adafruit/Adafruit-TS3USB30-PCB: BRANCHES:[main:7973099481a65c3ff5689a037ec01d45d
 adafruit/Adafruit-TSC2007-PCB: BRANCHES:[main:8d182929dfc27dcdb407a2769cf416f9f63b4a16]|RELEASE:[none|none]
 adafruit/Adafruit-TSC2046-PCB: BRANCHES:[main:cf5b01b3b6ae479abf051a8d0d3e8ed5b05ba632]|RELEASE:[none|none]
 adafruit/Adafruit-TSL2591-Breakout-PCB: BRANCHES:[master:22be4c7b8d53155dacedc18f3373ba8dbf95dc23]|RELEASE:[none|none]
+adafruit/Adafruit-TSMP96000-Breakout-PCB: BRANCHES:[main:5d456214739128a6fc19903849618996ac3116b8]|RELEASE:[none|none]
 adafruit/Adafruit-TSSP77038-IR-Demodulator-Breakout-PCB: BRANCHES:[main:6df204dc531804658d977a4f69bc873b863bb6ac]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB: BRANCHES:[master:0dcd9500672a5b6ab652f9cbf9e01bccdd6a31b6]|RELEASE:[none|none]
 adafruit/Adafruit-TXB0108-PCB: BRANCHES:[master:5c679fd745850ba429f5e903bb6589dcab2835ae]|RELEASE:[none|none]
