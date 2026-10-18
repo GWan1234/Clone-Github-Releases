@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 10:59
+commit-tracking: 2026-10-18 11:00
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -348,13 +348,14 @@ aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|
 algerkong/Alger-Chrome-LocalStorage-Manager: BRANCHES:[master:52aa9727bfdd4425cca3949e851d51f83f8b32fe]|RELEASE:[v1.0.0|52aa9727bfdd4425cca3949e851d51f83f8b32fe]
 algerkong/AlgerClipboard: BRANCHES:[master:aedabc52aded83b75cbb1aa17a067c9b69397c97;dev:48d873bde25509aba2424e47806260da938dc5a8]|RELEASE:[v1.10.0|33ae2784dad8bb45df094604343cdac536a5d438]
 algerkong/AlgerClipboard-Plugin: BRANCHES:[main:dcb28d15d6a1b42567aa74751728ae1ca0ee766f]|RELEASE:[ide-projects-v1.1.0|e0b09c14888c61a461a2a0f33d9c67882838e0f8]
-algerkong/AlgerMusicPlayer: BRANCHES:[main:182b8b90f8042c568d440835d1c7d3de4fc0b7ed;dependabot/npm_and_yarn/font-list-2.1.0:d7a23e83fe0c52010a524fdab9400766982a5130;dependabot/npm_and_yarn/marked-18.0.7:be3fe09e4a8a03ba235cccf0b2add13276532c3c;dependabot/npm_and_yarn/eslint-10.8.0:cb6292542ed6e50a7fc4fab2e7a44e90cdde29bc;dependabot/npm_and_yarn/flac-tagger-2.0.0:b6b44696f44b8fc9e62a0d63a25301e2cf806565;dependabot/npm_and_yarn/x11-3.2.2:baa9ff5897d3d734db109e2100c01db0c4097a0e]|RELEASE:[v5.1.0|59f71148af96a35b055b5bda87983a4a2c738e08]
+algerkong/AlgerMusicPlayer: BRANCHES:[main:b15617ce8652e12a4314be66e2c35ff1f7602a10]|RELEASE:[v5.1.0|59f71148af96a35b055b5bda87983a4a2c738e08]
 algerkong/EPD-nRF5_DYC: BRANCHES:[Tmp:6878f56528150a79118407c286a4ff8e800047f0]|RELEASE:[none|none]
 algerkong/PI-Desktop: BRANCHES:[main:fbd291527b2681c16072a62cc064ceb2d37b916d;feat/background-tasks:773555e80975b0813b812b46e27794f8b8f1a49e]|RELEASE:[none|none]
-algerkong/algerkong: BRANCHES:[output:03985df74675a98faf9f7ed0d20d18efd83334de;main:32cec42ed98e27fc46f704188eebbcfde35fb5b8]|RELEASE:[none|none]
+algerkong/algerkong: BRANCHES:[output:05ebdb79e8fddde5f392c93ec92d38b4def6c93f;main:32cec42ed98e27fc46f704188eebbcfde35fb5b8]|RELEASE:[none|none]
+algerkong/awesome-dsh-plugin: BRANCHES:[add-dsh-image-preview:9c72dc7d50d663c9c19bbdb2e767f00b405b2333;main:53b303576470bc9547e6cb4e4b922904d32edfbf;fix/moved-subpath-entries:9feceeae58d95637921a74f01d1f48a40d3d7152;enable-comments:cca6aa9947b6ab5a627f8fd5917a2a8c1b5aa6e6;docs/market-description:f491ec15f84dce68d6b4698fd500aadc9572448c;split-categories:f3000ad16faa50c1c0578031a27fe3c5ee581b9f;data-driven-list:6a7d99ebd1aa6b036d442add058a254d5566fe1b;feat/screenshots-field:2014c667be4b007187257cedb89ba44996749d98]|RELEASE:[none|none]
 algerkong/claude-ass: BRANCHES:[master:e0ca5060413ec736487c3536ca8c62fb549eacb8]|RELEASE:[v1.0.0|76310aff54c038fc37be30e21bc45b5d7b7b72fc]
 algerkong/code-review-skill: BRANCHES:[main:032b09c2849c3995dd373cf1dee235d976930c01]|RELEASE:[none|none]
-algerkong/dsh-image-preview: BRANCHES:[main:cc7996a7d1044e75545cb2ddea29ed5519bb333d]|RELEASE:[v0.5.0|cc7996a7d1044e75545cb2ddea29ed5519bb333d]
+algerkong/dsh-image-preview: BRANCHES:[main:5707c1389a2bea252a010ccb64b20375b8538ff9]|RELEASE:[v0.6.5|22ad0ef0ff9bf6af0fc0020a6f5f19634ec117df]
 algerkong/markdown-parse-vue: BRANCHES:[main:6337d09b9cfbafcf4ed8596ade0493b2feaa17d7]|RELEASE:[none|none]
 algerkong/opencode: BRANCHES:[refactor/runner-shell-interrupt:01f33aed86d34cd85197803d25aa58366e0d9a60;tui-go-modal:8a8c90be6ec9828ddae394ca6273a8c379bd0b32;opencode-remote-voice:e8b4eb89727326898d181dad85f1c9a5cff073b1;pr-21017:e2c4365fa03fbd779bd1d0ce9e08abb6337312f5;session-timeline-spacing:1ebf9f0948b4fe1361ec33719c85d9efecb0fe97;opencode/shiny-cactus:4871a3b418623b8093393c72fc2f0aae1c9533ac;production:7afb517a1a2271d61ad8e074acbd3b4252e1f682;opencode/gentle-pixel:221aa8c19ed651483f9087965b8b97a7d65eab83;oc-run:d5b17bfeb1ab543a6904ca694c11d94cc2066014;opencode-suggest:3a47b0ed9095582b4b3f2d869315f7a6edcc44e2]|RELEASE:[none|none]
 algerkong/pebrel: BRANCHES:[feat/high-contrast-and-drawer-resize:c45c439140229fd3f65f8ad1c8732683db2d8a42;main:546daac927e5f6e1c28abadaf5a7064ab58d7878]|RELEASE:[none|none]
