@@ -820,6 +820,7 @@ adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB: BRANCHES:[master:c78bc655084c
 adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB: BRANCHES:[master:df6070e9ce8c00acc6c2e1ce54eb46770552a9ba]|RELEASE:[none|none]
 adafruit/Adafruit-Flora-Ultimate-GPS: BRANCHES:[master:931c95ded8acbfc410564054b0273b7d0bf2d7b4]|RELEASE:[none|none]
 adafruit/Adafruit-Flow-Meter: BRANCHES:[master:93f998dd91b6aef33e1e965beb9f8c4c92cf15a5]|RELEASE:[none|none]
+adafruit/Adafruit-Fruit-Jam-PCB: BRANCHES:[main:252dc09456ee447b3d7eeb4fa99877898503e81a]|RELEASE:[none|none]
 adafruit/Adafruit-FunHouse-PCB: BRANCHES:[main:4d8cb249c480c1fc4cf6891359cfbdf1c264d2a9]|RELEASE:[none|none]
 adafruit/Adafruit-GA1A1S202WP-Breakout-PCB: BRANCHES:[master:fb7282a5a6f07f0f92fb131a7287262b66c5e148]|RELEASE:[none|none]
 adafruit/Adafruit-GFX-Library: BRANCHES:[gh-pages:c67bd17bf1c876b9e8c7e86e2383cc2ac016bae0;master:0e844ad64560527e5831e50941cee363aafe08bd;nesso:a64b3f021f33258a59f7df1edb58aa9b1d4e3f6a;canvas-subclass-buffers:eee4b4b628d82255ed8f76af53c5dbcbbc4f638a;pb-reorg:e31f24b91185124e03bd131ed5cb57d42751b0cd;revert-383-master:605ea88e4090ec55dab2416ead8819606fc6bafd;rp2040:823fc6ccef0ba17af5017a1c7cef07f843555c27;grayoled:d0704ad2b2595092d874f68599707f0cfabcf258;revert-300-master:8be8308f031eb2e944f2e8880887af984e4cb82a;genericmonooled:717b59dde20765a775bf6f57b9e4a5db2d5dca81]|RELEASE:[1.12.6|ac6d7c3869a693d406f77b9bfcd486b0673169f0]
