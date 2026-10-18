@@ -1035,6 +1035,7 @@ adafruit/Adafruit-Proto-PiCowbell-PCB: BRANCHES:[main:5f91ef80575652c059f2b19c5a
 adafruit/Adafruit-Proto-Plate-for-Beagle-Bone-PCB: BRANCHES:[master:3efdb6a315488d6df4feb0ae21b150bfe5b293cb]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Screwshield-PCB: BRANCHES:[master:ce439b0d2063337f03171edbf927aae6552befa0]|RELEASE:[none|none]
 adafruit/Adafruit-Proto-Shield-PCB: BRANCHES:[master:d27fa77264402a773efc66d303ae7d9dc6df6621]|RELEASE:[none|none]
+adafruit/Adafruit-Proto-Under-Plate-PiCowBell-PCB: BRANCHES:[main:0d81b50b824235020d45e98251f9488744e53de7]|RELEASE:[none|none]
 adafruit/Adafruit-Prototyping-Pi-Plate-PCB: BRANCHES:[master:e54e072a655814936e89cb3c01314b95d48c88b4]|RELEASE:[none|none]
 adafruit/Adafruit-Proximity-Trinkey-PCB: BRANCHES:[main:6e99b157c7857fc71afc03e713dce83d44b6d750]|RELEASE:[none|none]
 adafruit/Adafruit-Push-Button-Power-Switch-PCB: BRANCHES:[master:6013b8b9aa67f74778996c69ec765875c787ff53]|RELEASE:[none|none]
