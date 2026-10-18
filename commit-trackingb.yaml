@@ -811,6 +811,7 @@ adafruit/Adafruit-Feather-RP2040-DVI-PCB: BRANCHES:[main:24f7c1cde8c7284bbd626f7
 adafruit/Adafruit-Feather-RP2040-PCB: BRANCHES:[main:ea88166891ee0a1697a3899a5d55ab3722a2f125]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-RFM-PCB: BRANCHES:[main:e7c663f0e25d1f043d91e50bf284a5c97b28cdc5]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB: BRANCHES:[main:e724d4d8524af681a166bce0f3d29dee50b44cb1]|RELEASE:[none|none]
+adafruit/Adafruit-Feather-RP2040-USB-Host-PCB: BRANCHES:[main:872f24e8be5948ba2ae3d12925d18a2a8b4b8adc]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-RP2350-PCB: BRANCHES:[main:d7bc5cb6c16f071e01ae1cf790ee2142d376ee41]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-STM32F405-Express-PCB: BRANCHES:[master:f10cfb45e79fb9163b55f375cafa664dbac05268]|RELEASE:[none|none]
 adafruit/Adafruit-Feather-nRF52840-Sense-PCB: BRANCHES:[master:afeb0acb67e98c807cfdfbf7b5fe5e6e49490796]|RELEASE:[none|none]
