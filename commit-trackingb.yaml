@@ -855,6 +855,7 @@ adafruit/Adafruit-MPU6050-PCB: BRANCHES:[master:7158d89fb3f02c66a11a58ae016f2949
 adafruit/Adafruit-MS8607-PCB: BRANCHES:[main:56dfd5af979fb63cff98ebcfe2170644b4439430]|RELEASE:[none|none]
 adafruit/Adafruit-MSA301-PCB: BRANCHES:[master:6fd7751ab149341ddc0e2d8655ea350c98f764eb]|RELEASE:[none|none]
 adafruit/Adafruit-MTK3329-GPS-Module-Test-Sketch: BRANCHES:[master:c10aaf346a213d1eebd287dadb8aae4a8d8269d9]|RELEASE:[none|none]
+adafruit/Adafruit-MatrixPortal-M4-PCB: BRANCHES:[main:200f94f83a08dd23e0b6cb51ff53554e0a123f94]|RELEASE:[none|none]
 adafruit/Adafruit-Menta-PCB: BRANCHES:[master:7a7800ca4fa0c04895c53ce35ad4735e0c8afc6a]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-ESP32-S2-PCB: BRANCHES:[master:42dac1c66d3001a97ef5565b1fea2e842364df32]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M0-Express-PCB: BRANCHES:[master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125]|RELEASE:[none|none]
