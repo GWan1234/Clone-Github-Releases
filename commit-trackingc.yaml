@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 18:02
+commit-tracking: 2026-10-18 18:03
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -705,9 +705,9 @@ dushixiang/uart_sms_forwarder: BRANCHES:[main:a87445d4e8085d15caa41e7c3562387c6b
 faadd2/AndroidForClaw: BRANCHES:[main:6de6343d11adca575020715d30e6731028fe061c]|RELEASE:[none|none]
 faadd2/SDRSharper: BRANCHES:[master:e190b08a7545d24fe65aadb6d668211f14921947]|RELEASE:[none|none]
 faadd2/SSL-Assistant: BRANCHES:[main:9258f0afe2eb4ca6948475971fdaadbd80a4d15c]|RELEASE:[none|none]
-faadd2/luci-app-onu: BRANCHES:[main:6fb3966d654b119189e14ce647873a2ae6e466ed]|RELEASE:[none|none]
+faadd2/luci-app-onu: BRANCHES:[main:210fd6b3245927c9289d1261c573893b1a2cd8e1]|RELEASE:[none|none]
 faadd2/luci-app-pon: BRANCHES:[main:894a24239cde04f5308b4609c44dba91b9b3b2bf]|RELEASE:[none|none]
-faadd2/zn504xg-onu-build: BRANCHES:[main:c5aac48f0269865198f6d02996cbde8b745ac1a9]|RELEASE:[build-8|c5aac48f0269865198f6d02996cbde8b745ac1a9]
+faadd2/zn504xg-onu-build: BRANCHES:[main:7ae9a0ad36ecf2278c8a1f39ddb7f38bf030a410]|RELEASE:[build-9|7ae9a0ad36ecf2278c8a1f39ddb7f38bf030a410]
 fatedier/frp: BRANCHES:[dev:26742060b1e55a64509f4d0bfb073470f81f1af3;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
 home-assistant/.github: BRANCHES:[frenck/contributors-links:5ba683eb975a6ebfba35e843d873488572fb7c49;master:38cecfb3f2d3aeb212acf62413de501bba42fdbd]|RELEASE:[none|none]
 home-assistant/HAKit: BRANCHES:[gh-pages:374b9bab0df02b392d6fb7e36a467a52c03c49da;main:3f350d1cc35ee88f4df21e34f3e222e7bd327ad9;bgoncal/zen-archimedes-952dmc:d6fcd9e1b2ae325e3e90386acef28ddc7a164faa;remove-starscream-dependency:35b77721ea610b8ff3be33c96ce8659906dfcb72;bgoncal/lint-failure-investigation-2d64a9:18bde134d6fa629286eda002a169df46db5ad4ca;Bump-0.4.12:b75249124126d9333cbd6aeb0b610c7ff34c1c12;new-entities-subscription:4b97222214054836e58337f7a7b1d2719ede9b66]|RELEASE:[0.4.19|0535d4aabd0a50e2c18cdcaa2f4423ff057a546a]
