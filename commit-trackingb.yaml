@@ -2029,6 +2029,7 @@ adafruit/pxt-crickit: BRANCHES:[master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;
 adafruit/pxt-seesaw: BRANCHES:[master:6f5e163620e90225a858f2e0c0bee008ed79f635;microbitv0:526af9cb87b792123d1be9ca53b759ffbb487579]|RELEASE:[none|none]
 adafruit/pyright: BRANCHES:[master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87056e81b0f880f08f5125ce3168655e9f]|RELEASE:[none|none]
 adafruit/pyserial: BRANCHES:[windows-interface:163a16f50def4cc408ca1cc55b63dd79c6550e58;master:0e7634747568547b8a7f9fd0c48ed74f16af4b23;518-osx-workaround:b2b36cfc956e86d54e681bf25059a5bcb28d7ce5;issue-154:8ce3c0c770ef95f9b994eabb8e46faafd8703c28;gh-pages:5f7c648ef46b85d2730b4265b979f1f0caf96777]|RELEASE:[none|none]
+adafruit/quirc: BRANCHES:[main:8c6ffa228a4c7643daed7039d3c51d38a43991b8]|RELEASE:[none|none]
 adafruit/rayshobby-hid-serial-trinket: BRANCHES:[master:282903bdcb78856a5fe74fb0ae16e8473c1431b4]|RELEASE:[none|none]
 adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a215]|RELEASE:[none|none]
 adafruit/rosie-ci: BRANCHES:[master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef]|RELEASE:[none|none]
