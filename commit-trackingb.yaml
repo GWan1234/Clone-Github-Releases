@@ -1217,6 +1217,7 @@ adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB: BRANCHES:[master:e8bcaf9566ca85b
 adafruit/Adafruit-USB-Power-Gauge-PCB: BRANCHES:[master:0dc263aaff419a6f150e74e4a9b6e94b6b4057be]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack: BRANCHES:[master:9b8b221f456914cb5f06e9afdb431b4e4d0b1ac9]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB: BRANCHES:[master:7b570b683977344c6326c91de085fa2087e38a5d]|RELEASE:[none|none]
+adafruit/Adafruit-USB-Type-C-CC-Resistor-Fixer-PCB: BRANCHES:[main:7ab085193a5180f3ebc9a4a0971910ae7ee4553b]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Type-C-PD-Switchable-PCB: BRANCHES:[main:d10701c22751842250420a06cf4d39d50d58c750]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Type-C-Plug-Breakout-PCB: BRANCHES:[main:11a5d518bac2d73989a15c8c9e2dcd97611ef6ab]|RELEASE:[none|none]
 adafruit/Adafruit-USB-Type-C-Power-Delivery-Dummy-Breakout-PCB: BRANCHES:[main:53c602e97d82ec5722f49521e3dbe6c71da10422]|RELEASE:[none|none]
