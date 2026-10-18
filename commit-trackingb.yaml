@@ -889,6 +889,7 @@ adafruit/Adafruit-NEC-remote-control-library: BRANCHES:[master:72975ab49a409c74d
 adafruit/Adafruit-Neo-Trinkey-PCB: BRANCHES:[main:65c1e5f1d3c088cec327f7b2b0489bb7e085eed8]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-1x4-PCB: BRANCHES:[main:54262bcfc402392ed569482824f7cf7e87473f18]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-FeatherWing-PCB: BRANCHES:[main:b80f2ae0778319e608a03a650e2590eef8f501f6]|RELEASE:[none|none]
+adafruit/Adafruit-NeoKey-Snap-Apart-PCB: BRANCHES:[main:dad48248819229b98b2e654eef7ee50762c89508]|RELEASE:[none|none]
 adafruit/Adafruit-NeoKey-Trinkey-PCB: BRANCHES:[main:c6a77bea3980cbdd7b0163c4f5c0aa1f4dfe51e6]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:afa33c7b1e1a1a4d74bcbe9e3e798099545cdf91]|RELEASE:[none|none]
