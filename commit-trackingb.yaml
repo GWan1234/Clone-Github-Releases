@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:37
+commit-tracking: 2026-10-18 03:38
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -748,6 +748,7 @@ adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: BRANCHES:[master:1d60495b54
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: BRANCHES:[master:37c7ffb587c00e67d739baa078eb755f0976d15f]|RELEASE:[none|none]
 adafruit/Adafruit-DS3502-PCB: BRANCHES:[master:9562216c105b017f94334ad31ba957679788fddb]|RELEASE:[none|none]
 adafruit/Adafruit-DVI-Breakout-Board-PCB: BRANCHES:[main:178a6d45b2d40acaa1cf14b79479a770cc7d01a5]|RELEASE:[none|none]
+adafruit/Adafruit-DVI-HSTX: BRANCHES:[main:7309e4843d33266c9e3aa683c0f841e80cc4c0e5;gh-pages:93e348ad24be3d06825f8e43616e2e046a2c802b;doublebuffering-fix:636aaee80f2e70d149df4efd69068e40ea910da0;640x480-mode-fixes:e21bf9a48401e0d80a17ed6aa3b28bd77eeb3843;fix-docs:a5a2b632fdbf20498d0bd4262f9d526e28601231;default-pinout-with-warning:bf210232d30fc684172eb4dfd2b23325439322e8;drivers_revert:350a5aa1d712519d023f5bcf4e11262ab77b4478;textmode-improvements:f1535956efb52e6a8fd6bea185a259e807cb906e]|RELEASE:[2.0.1|e9da68e92d7f8839b44a6e8ceb7fb9349beec014]
 adafruit/Adafruit-DVI-Sock-for-Pico-PCB: BRANCHES:[main:f9e5a5557654b1b3d8d63e5405fc23394c13cd19]|RELEASE:[none|none]
 adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f756714c5385a355e00b80270]|RELEASE:[none|none]
 adafruit/Adafruit-DragonTail-for-micro-bit-PCB: BRANCHES:[master:2f220715487c3b55339cd84be5d9f9bac4e7a779]|RELEASE:[none|none]
