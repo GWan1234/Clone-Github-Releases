@@ -2195,6 +2195,7 @@ adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|
 adafruit/Uncanny_Eyes: BRANCHES:[master:d2103e84aa33da9f6924885ebc06d880af8deeff]|RELEASE:[none|none]
 adafruit/VL53L4CD: BRANCHES:[main:a642dda7d53bf583f6e214fc2c02ec7485a195a8]|RELEASE:[none|none]
 adafruit/WINC1500_Atmel_Serial_Bridge: BRANCHES:[19.4.4:9effa70a7c3ed1dce16d375859235947b7e6a303;master:9f7af5dad2c496df7caa6bda82e17af804216772]|RELEASE:[none|none]
+adafruit/WLED: BRANCHES:[main:b64cd36468384bf4f293a72602cbb2b860b25146]|RELEASE:[none|none]
 adafruit/WaveHC: BRANCHES:[master:47a8f0a827c45cd0c59dac077909b20ffb703aaa;gh-pages:26f0e0e851eac21056c95296b7386a83c3299d3e]|RELEASE:[1.0.5|47a8f0a827c45cd0c59dac077909b20ffb703aaa]
 adafruit/Weather-Pixels: BRANCHES:[master:d1bb8951b25315a378a47f5bc7e8bbf04a399225]|RELEASE:[none|none]
 adafruit/WiFi101-FirmwareUpdater: BRANCHES:[master:57663e575bd0b77fa45d301e8389e829f340c668]|RELEASE:[none|none]
