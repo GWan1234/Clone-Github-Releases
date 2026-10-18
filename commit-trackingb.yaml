@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:36
+commit-tracking: 2026-10-18 03:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1701,6 +1701,7 @@ adafruit/Adafruit_CompositeVideo: BRANCHES:[master:5d40b02788e65fc3a5b0423828a9e
 adafruit/Adafruit_Conway-Game-of-Life-Kit: BRANCHES:[master:7aef8f749d77336e8db07470485f04823cc30415]|RELEASE:[none|none]
 adafruit/Adafruit_Crickit_PCBs: BRANCHES:[master:4615138e959c50a519bfaaa30a3203e038487cdd]|RELEASE:[none|none]
 adafruit/Adafruit_Curie_Bot: BRANCHES:[master:6d9e82f418e5db3563b0ade474b2ed1b88ae17ae]|RELEASE:[none|none]
+adafruit/Adafruit_DACX578: BRANCHES:[main:b174745264477a5553d4f178b95f2245258d3c7c;gh-pages:ffb205cba261d616b1e0e39a54e744b59b2b9793]|RELEASE:[1.0.2|b174745264477a5553d4f178b95f2245258d3c7c]
 adafruit/Adafruit_DAP: BRANCHES:[master:2ebd205c2d4524d1865cdbb802c685c99eb08e93;copilot/fix-ci-for-rp2040:b5dc3cb7c4d7fb7cbe012dffc2ebe9c36555fbb5;actionci:8860fa39c165541ac26a116529589d0c77cac675;gh-pages:787b7a2c81954e4e93dbc942166e29974e9bc124]|RELEASE:[1.8.4|29c3f12423f531b4c408f5491355d02a3e5780d0]
 adafruit/Adafruit_DHT_Unified: BRANCHES:[master:67b98789e89a63bb4e95b748578436ce954b03d1]|RELEASE:[1.0.0|296983cb209bb9b9e4f02536cbdde6bce41d80c2]
 adafruit/Adafruit_DPS310: BRANCHES:[master:5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a;fix-clang-format-issues:ab30acced3876a58451afcf3282e46b6d0f4ec68;gh-pages:6b32113142660bf7ede57f046e81dd6180cd19b7]|RELEASE:[1.1.6|5c28dbd2319b87e5a2a9b19c8e6147ef68fdb04a]
