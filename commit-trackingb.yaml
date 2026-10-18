@@ -2462,6 +2462,7 @@ adafruit/jupyter_micropython_kernel: BRANCHES:[master:f60fc2d3bde0684ceb7e9a071f
 adafruit/kicad-libraries: BRANCHES:[main:41c3b09f0f40c9f73db27914d786e878034084c5]|RELEASE:[none|none]
 adafruit/kicad-libs: BRANCHES:[master:2a0d44d92385a047b53a0dec0db82931e77aa94b]|RELEASE:[none|none]
 adafruit/knitting_machine: BRANCHES:[master:4d83ea14c493310a9e5f6a791f2ac9a8d8d8535b]|RELEASE:[none|none]
+adafruit/lgpio-python-wheels: BRANCHES:[main:e2e36e9390a7442db8d562b8bfbac62826a5e43e]|RELEASE:[none|none]
 adafruit/libgpiod_pulsein: BRANCHES:[master:a91d3875192a875f2eacfed47e506963ecafe851;libgpiod2:a91d3875192a875f2eacfed47e506963ecafe851]|RELEASE:[none|none]
 adafruit/library-registry: BRANCHES:[main:5dd9ba771b715569b371fbb68f5d014062e807f3;add-adafruit_faux86:ac9788a42cf30e5ad81727bd953e10e38439166d;Adafruit_IntelliKeys:8f8548288dcd02670d73d57425fd7dc757930119;production:8fc85247661badd4a2839d410bbae4e11d6ad687]|RELEASE:[none|none]
 adafruit/library-registry-pb: BRANCHES:[main:3daffd99c127fc072ddd0e4acb678f4fd8150c17]|RELEASE:[none|none]
