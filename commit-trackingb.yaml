@@ -1087,6 +1087,7 @@ adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino: BRANCHES:[master:fd51
 adafruit/Adafruit-SSD1351-library: BRANCHES:[master:8c1ca3b367460498c9258c683e8dbd11770d8b83;gh-pages:7de70b6a53bd8267f51de7555d9638596cda8ac3;actionci:09c28550dfa3141b2993bf7935d952650204e7cd]|RELEASE:[1.3.3|8c1ca3b367460498c9258c683e8dbd11770d8b83]
 adafruit/Adafruit-ST25DV16-PCB: BRANCHES:[main:217428893fc24414be4f14eb7e002b759bfcd0ba]|RELEASE:[none|none]
 adafruit/Adafruit-ST7735-Library: BRANCHES:[ExpanderPin:aba823e3b15f4a4d18cfaec564e86c0f735e5876;master:62112b90eddcb2ecc51f474e9fe98b68eb26cb2a;st7796s:4fdbc00ffa9cbbd0082e260f3563be5fe9ce4da4;gh-pages:86a49160c3d841c0eaec69aeafa60582c8f0fa32;plugin_160x80_tft:ea7e0c12479de66165d7dc9566c91b8834484dfd;pb-eyespi:c2b3a2c0970988b1c65e8fd0e14a23e96e95b662;1.47in:8b13848448c894a07ba6d84474304158e9e75245;fix-ci:6294bec5efd290b57de5865c3615bb1258ee18ce;actionci:4c3fdd2d35d6ad20fa2faeaa3e33ea8550496d51;st77xxhacking:3491a227fdb4c4d8cd50299896e6e866b1e964f8]|RELEASE:[1.11.0|62112b90eddcb2ecc51f474e9fe98b68eb26cb2a]
+adafruit/Adafruit-STEMMA-Analog-SPDT-Switch-PCB: BRANCHES:[main:0d377c1934aaadf3bcc8a9a89adf87b82d96726a]|RELEASE:[none|none]
 adafruit/Adafruit-STEMMA-Audio-Amp-PCB: BRANCHES:[main:12d0f77a674db2b356c9e6b385f3917d4eb3420a]|RELEASE:[none|none]
 adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB: BRANCHES:[master:7559d509a129d1555af92d410a75b5d89673a9e4]|RELEASE:[none|none]
 adafruit/Adafruit-STEMMA-Piezo-Driver-Amp-PCB: BRANCHES:[main:678bf96ec53107bd831f84c2aebca380a3bd4157]|RELEASE:[none|none]
