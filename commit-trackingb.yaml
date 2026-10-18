@@ -972,6 +972,7 @@ adafruit/Adafruit-PyBadge-PCB: BRANCHES:[master:992e322d5b4b0b9a2b60a809ba2ebaa2
 adafruit/Adafruit-PyGamer-PCB: BRANCHES:[master:6725ded4a2049f7bf44a9078c141ceb65a5547e9]|RELEASE:[none|none]
 adafruit/Adafruit-PyPortal-PCB: BRANCHES:[master:90d9aa7ba3f892fd4adb31815c99ede26c10757c]|RELEASE:[none|none]
 adafruit/Adafruit-PyRuler-PCB: BRANCHES:[master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0]|RELEASE:[none|none]
+adafruit/Adafruit-QT-Py-ESP32-S2-PCB: BRANCHES:[main:7df4eac2c0b9a73ba966766ae6027b0a4d8a6901]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-PCB: BRANCHES:[master:a8caed9ad5f2670c662f0b0a68af62cceb3cec96]|RELEASE:[none|none]
 adafruit/Adafruit-QT-Py-RP2040-PCB: BRANCHES:[main:5b6ebd1661fd5250b4f60bdba14d5c475259b7f4]|RELEASE:[none|none]
 adafruit/Adafruit-Qualia-Driver-PCB: BRANCHES:[master:4d750ce85bc1e8e5e38395030ff21ee8a353148d]|RELEASE:[none|none]
