@@ -1190,6 +1190,7 @@ adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB: BRANCHES:[master:514d5ded1aa
 adafruit/Adafruit-TCA4307-PCB: BRANCHES:[main:5b71f3b8aa3b892fa96e2a7e8e102f69f4f75ee1]|RELEASE:[none|none]
 adafruit/Adafruit-TCA8418-PCB: BRANCHES:[main:e64ed84dd0fe144759e9d8ceb556d54c9df4e8c0]|RELEASE:[none|none]
 adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB: BRANCHES:[master:c5bdfe4c8e860cee7400539d6e45a235da7afcd2]|RELEASE:[none|none]
+adafruit/Adafruit-TCS3430-Ambient-Tri-Stimulus-Color-Sensor-PCB: BRANCHES:[main:66a56ff8cdb46158dbb87cbe5cc557d7ff14b6e1]|RELEASE:[none|none]
 adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB: BRANCHES:[master:a430372ce3aa9ca0184bd7354f9417ea0dc518a6]|RELEASE:[none|none]
 adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e86d61f061a08a52dabeede7d3]|RELEASE:[none|none]
 adafruit/Adafruit-TFT-Gizmo-PCB: BRANCHES:[master:dc9a7479381c01421a630a93f891c7142f4dfde0]|RELEASE:[none|none]
