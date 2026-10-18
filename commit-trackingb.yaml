@@ -973,6 +973,7 @@ adafruit/Adafruit-Raspberry-Pi-Python-Code: BRANCHES:[master:b4aeee58b670645149f
 adafruit/Adafruit-Relay-FeatherWing-PCBs: BRANCHES:[master:130d79e53912a8a22dc273c521f96e74ea0b280d]|RELEASE:[none|none]
 adafruit/Adafruit-Resistor-Helper: BRANCHES:[master:a1b431ca0a94ce867ad79d102a5c5b1941a7c43c]|RELEASE:[none|none]
 adafruit/Adafruit-Retrogame: BRANCHES:[master:44fc838bd4dc6d12ea97fc456c22d0f4e0a2453b;mcp_and_config:dbf6747106b00f2178af62f39b90586695e949f3]|RELEASE:[none|none]
+adafruit/Adafruit-Rotary-Trinkey-PCB: BRANCHES:[main:b93b2aeaabbfbfd231eec6c88afc6694d4581410]|RELEASE:[none|none]
 adafruit/Adafruit-SAMD09-Breakout-PCB: BRANCHES:[master:96a45c25123ad9d083f19f33c68cff4817065014]|RELEASE:[none|none]
 adafruit/Adafruit-SCD-30-PCB: BRANCHES:[main:54178bea411a7661007c529d41ed45fce767d155]|RELEASE:[none|none]
 adafruit/Adafruit-SGP30-PCB: BRANCHES:[master:7050ebded47a6c29e98e50ed1329a57262b66f66]|RELEASE:[none|none]
