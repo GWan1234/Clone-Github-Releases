@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 11:13
+commit-tracking: 2026-10-18 11:14
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -495,7 +495,7 @@ dailook/immortalwrt-24.10: BRANCHES:[openwrt-24.10:fe93ec43755b15cd257b0934bf45d
 dailook/immortalwrt-mt798x: BRANCHES:[openwrt-21.02:3a35815705448b4dd8e56507ee6009d0a7dd4af6]|RELEASE:[none|none]
 dailook/immortalwrt-mt798x-6.6: BRANCHES:[2410:d39cdc44de0a906b6eed4472bdd273dbd5a26f24;mt798x-mt799x-6.6-mtwifi:30fbc1d6deba23c0e850185021e9ee42214925eb;sync-237-6.6:ec9ef10efc65da1e6d1de4e2c043c0e13d08eed8;openwrt-24.10-6.6:a320a353413d2040c510f244aaca0cffbaf9a695;24.10.6:4d3d25baa06dc5a24703fcfda57aa340ae3eaed0;24.10-5.4-high_kernel:4b75bfd812343ef88549bee5ffa440988b242dc1;openwrt-23.05:ec388f343491085cdf32da506da071cf022fb7d7]|RELEASE:[none|none]
 dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12:5c5c94e5b945bd1da9043c396b779a17c1298960;openwrt-25.12:ce35a9e4ef1b87fbbc2146036ce6693e4242861a;25.12-dev-wifi7:aeffdad3456d2ab592aa9d6ae0ebabe0a0a1830d;rework-24.10:36086c1fd1dab71c19dc1409ca632f3d5c18f4fc;rework-21.02:4f07b582334bc7dcbf8e396087c949b155ce4582]|RELEASE:[none|none]
-dailook/lede: BRANCHES:[master:99e3b18b49060f76b7870253378f95a8dd5a6101]|RELEASE:[none|none]
+dailook/lede: BRANCHES:[master:f5d4e9aa8b3f37630041bb9fd1f7d9be778bb40b]|RELEASE:[none|none]
 dailook/luci-app-adguardhome: BRANCHES:[main:36108202f326f65ab6f5a85d15adcba6538f8e8b]|RELEASE:[none|none]
 dailook/luci-app-airoha-npu: BRANCHES:[main:14521b8414da1e98517a295d8ec267087c7dde8e]|RELEASE:[none|none]
 dailook/luci-app-easytier: BRANCHES:[main:bfaeeac084b3e48a5e6c5bb72b711f631e70cc0a]|RELEASE:[none|none]
@@ -516,6 +516,7 @@ dailook/turboacc: BRANCHES:[main:9f88212c70c2586b3038d2e1ad0271fe94fc5a0d]|RELEA
 dailook/u-boot: BRANCHES:[mtksoc:99042fe2c08ef835b088e906d07495ab74324ed0;mtksoc-20250711:9a25de54e417e9ed0391786e6de177aaef5f4dd4;mtksoc-20250212:70e5cec9ab6536007a9227a4264402fdcba86ca5;master:3da1864b1f2fc3cf2b4eaa1849bcafa669ff674c;mtksoc-20230719:09eda825456d164e12e719a83360bf0987e64bfd;mtksoc-20220818:1c928b4d7fdfbde0cabd2daa5c1d47b51d1abb64;mtksoc-20220813:f4937031ea22a1e30b2bbeb5e0d8eb6131ce8e13;mtksoc-20210306:5e0f12c0526621c02b4add72242726ae707d744c;WIP/25Feb2021:b73d114213b41f46218e849950f569fb75d4028c;next:bc0b99bd8b19599f670f42401de655fa9b44cd94]|RELEASE:[none|none]
 dailook/uboot-an758x: BRANCHES:[main:0cde9efed9608ef74fc785bc35b2a1ad2f3d2a90]|RELEASE:[none|none]
 dailook/uboot-ipq60xx: BRANCHES:[master:f42cd52a9d7f52f4fa7252df17c544205065a018]|RELEASE:[none|none]
+dailook/uboot-qsdk12.5-build: BRANCHES:[main:9ce315735ac88fd0a7c7697bc527a8616ed0a972]|RELEASE:[none|none]
 danielwelch/hassio-zigbee2mqtt: BRANCHES:[master:db60d5de4ff7fd6c1e59fbdd700f59b69c8ca0cd]|RELEASE:[v1.17.0.1|59f34467e6b1aedd0ba1c49fa6bc54fcd8146bd4]
 dgomes/zigbee2mqtt: BRANCHES:[master:dd465eedb6ba230ce766bc9115660523d41d5bb9;patch-1:b89cda8062afdcd947613d6bfa3f451d786f2118]|RELEASE:[none|none]
 dhanukapulkit/zigbee-herdsman-converters: BRANCHES:[master:0407c6c54aa0c41018babed45d2de57579af760f;Koenkk-patch-1:b700294889090c5186852499be3bf57c9a533434;PBTZB-110:6b5cc8672c4f440ad2f4574040b0075355e86cbe]|RELEASE:[none|none]
