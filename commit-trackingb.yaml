@@ -2119,6 +2119,7 @@ adafruit/linker-map-summary: BRANCHES:[master:507951b4d4e07fa9a5bc12913eec2ba650
 adafruit/littlefs: BRANCHES:[v2-prefix:f3608e84c7739ae9eeac3d5a4f44bbb4b0767948;v2:494dd6673d008c03e3199b24af7bff0fe82017f1;master:494dd6673d008c03e3199b24af7bff0fe82017f1;patch-release-improvements:c8be114e77a335fe94c453cd04c37a352aba0028;lfs-util-improvements:334cf1b36bddee11aa3f738e02eedc37824ce48c;fix-lfs-migrate-ifdef:cb3b83d6478c232b0ef3af149ac784020df5289a;fix-file-uniqueness2:cb2e35143efcdb1d2e4e8ea7a05774f700f3093f;fix-inline-max:0c363d26660d9f985d109793948fa2b56231478f;fix-truncate-pcache:8bf45c3a294a65392d39da738fa4b8775e79b605;fix-read-hint:c64bf1a17b32d0960c9e78fdeafa508606ff909e]|RELEASE:[none|none]
 adafruit/littlefs-pure-js: BRANCHES:[main:9a229087ad96f6eca0e3cc1c4d3ae5375a3cc182]|RELEASE:[1.0.3|9a229087ad96f6eca0e3cc1c4d3ae5375a3cc182]
 adafruit/lufa-lib: BRANCHES:[master:556497a310d1f44960e6be49aef27846939da970]|RELEASE:[none|none]
+adafruit/lwip: BRANCHES:[circuitpython9:bd522fde9409398297b4e3244c92576b86ef16ec;circuitpython8:d26459c32c83aa14a6d4e30237d91cee36e0adbd]|RELEASE:[none|none]
 adafruit/machinelearning-newsletter: BRANCHES:[master:a56cb4135d3f1174e42c0d2c2f5f711d75b27198]|RELEASE:[none|none]
 adafruit/makecode-newsletter: BRANCHES:[master:a1506c9dd3570859f14a7581e723a850a411af95]|RELEASE:[none|none]
 adafruit/md380tools: BRANCHES:[master:f54f171dde87838aac20626c97cebdb83a42ce49]|RELEASE:[none|none]
