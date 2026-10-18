@@ -1964,6 +1964,7 @@ adafruit/node_npr: BRANCHES:[master:78b44403d40b1149a5a281f43da267dda5ff958f]|RE
 adafruit/nofrendo_arcada: BRANCHES:[master:c8a81ea4829f341a32c047344fe18aa920688c57;arcada-flash-rewrite:57c798449a94109816aa30dd4e95b8c70a841f97;savestate:a7b39e914f959cbd182132d334d403e99c06dc8d]|RELEASE:[none|none]
 adafruit/nprone-cli: BRANCHES:[master:53f718d7cb8b52446d58a35e84b841c057001d6c]|RELEASE:[none|none]
 adafruit/nrfx: BRANCHES:[circuitpython-v2.0.0:ab21106ea57b63d97b757a9f17201ddf298ffab0;circuitpython-v3.3.0:d0d0a36419d7b43f33c3d1d4df8b5a44e58c60c3;master:66628bc1b7024a53d0af9ff81a483abc5557871a]|RELEASE:[none|none]
+adafruit/nvm.raw: BRANCHES:[main:ea225c02ef3e69782695a8d73c641fac79e7358b]|RELEASE:[none|none]
 adafruit/nvm.toml: BRANCHES:[main:a2a0c03c221a9bc37992147b5d4ad785a6e467fe;tannewt-patch-1:a8e620d00cff86e0164f9f2fac95db3fb94b6bc4]|RELEASE:[none|none]
 adafruit/omxplayer: BRANCHES:[master:fff2f1292f1c3d88b2a3606cd081fe7ca4a0655f]|RELEASE:[2/10/2015|497a5c61141870e3cf007971e222b3a5213dd8ef]
 adafruit/openapi-mitm: BRANCHES:[master:7067b6d99ee4b8963e918a23081b5708f2e0cbc6]|RELEASE:[none|none]
