@@ -815,6 +815,7 @@ adafruit/Adafruit-High-Power-Infrared-LED-Emitter-PCB: BRANCHES:[main:bf82859bcb
 adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d07928551e7f1f71a38335e33c4b530]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB: BRANCHES:[main:4b82c1319140e0073adc97d5ef1c0a3ff99b5923]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
+adafruit/Adafruit-I2S-Amplifier-BFF-PCB: BRANCHES:[main:fe191f0585be438605feca267afa38fe587e57f4]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc762a0cb25abfc437afecab66a5e88e5a5338]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679f676e0af41958bece6294b05]|RELEASE:[none|none]
 adafruit/Adafruit-ICM20649-PCB: BRANCHES:[master:b24cb0fffe4bd48439c44565f2e086876f0483c0]|RELEASE:[none|none]
