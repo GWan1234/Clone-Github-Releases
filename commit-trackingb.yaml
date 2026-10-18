@@ -927,6 +927,7 @@ adafruit/Adafruit-NeoKey-Snap-Apart-PCB: BRANCHES:[main:dad48248819229b98b2e654e
 adafruit/Adafruit-NeoKey-Trinkey-PCB: BRANCHES:[main:c6a77bea3980cbdd7b0163c4f5c0aa1f4dfe51e6]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPXL8-PCBs: BRANCHES:[master:1aa9e3e82c5872db786e047b8eb1b8fadaa7e802]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-8x8-Matrix: BRANCHES:[master:afa33c7b1e1a1a4d74bcbe9e3e798099545cdf91]|RELEASE:[none|none]
+adafruit/Adafruit-NeoPixel-Driver-BFF-PCB: BRANCHES:[main:eb3fc189fbd73227ace0e5a74d15265b98fb59e1]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-FeatherWing-PCB: BRANCHES:[master:3b80152edf1808446eab953d2f7a7b06b433c199]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Jewel-7: BRANCHES:[master:d841888d6013e66cb6c9998d67bc8e5a6839c59d]|RELEASE:[none|none]
 adafruit/Adafruit-NeoPixel-Ring: BRANCHES:[master:3d43edf8f1828cdbbd85560876027ded6257eae3]|RELEASE:[none|none]
