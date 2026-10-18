@@ -2200,6 +2200,7 @@ adafruit/beaglecap: BRANCHES:[master:35dc8cdb19a573dd7241f13615f7aff3cfaf2298]|R
 adafruit/ble-file-transfer-js: BRANCHES:[main:c8603567676638d143cbdb9deba97fe56006d1fc]|RELEASE:[1.2.0|c8603567676638d143cbdb9deba97fe56006d1fc]
 adafruit/bleak: BRANCHES:[master:2e6890f68f6718b4f92e602b9b926aa3d107b556;develop:90fe3dc0c26a6e899d5a7bd2761979b1e12fb7e7;dependabot/nuget/BleakUWPBridge/Microsoft.NETCore.UniversalWindowsPlatform-6.2.8:99e8bcba7c007149e1ace76c1dcb162c89801c5b;feature/oop_and_dotnet_improvement:525d895fcd833a11581bbbaae146626b019d7160]|RELEASE:[none|none]
 adafruit/bluetooth-low-energy: BRANCHES:[master:4bec8bf7e0a6b3e0cb8f6a82a03154cf443117f4;tannewt-patch-1:1c62deb10506f503b5f15739f03dd2e95780e698]|RELEASE:[none|none]
+adafruit/board_manager_files: BRANCHES:[add-wchisp-rs:174f6ab3638b71bd74a8cdb92d48af94efaa9845;main:649cb6cebb11d5893a207f7d7f2fefc1f22349b5]|RELEASE:[none|none]
 adafruit/broadcom-peripherals: BRANCHES:[main-build:98682b4ab3a2a7a1c4055ac5ebded7bf69b70f12;main:0322a9e7c279d8d85d5facaa41ce8439fa5d0dbc]|RELEASE:[none|none]
 adafruit/build-mpy: BRANCHES:[main:9078cbecba992d2f94475eb2ddee7dbd00947083;dev/gh-context:dacc477c3e37dbad94ab26702fb3f369fef0933d;dev/build-mpy-cross:bf5f5d3515dda90e9b02a01a81abd9bcd9c56026;dev/download-mpy-cross:2709c77b59fae1153f1926570e3d9e098ac67a27]|RELEASE:[v2.0.0|9078cbecba992d2f94475eb2ddee7dbd00947083]
 adafruit/cascadetoml: BRANCHES:[main:9fe8ff037128f460d0c45e2ddb69cba9f45466f4]|RELEASE:[0.3.5|9fe8ff037128f460d0c45e2ddb69cba9f45466f4]
