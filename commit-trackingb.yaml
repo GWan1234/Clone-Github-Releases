@@ -796,6 +796,7 @@ adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB: BRANCHES:[master:3a3a478c8059b
 adafruit/Adafruit-Joy-Bonnet-PCB: BRANCHES:[master:6f2c397555472348c959db74b7dde90106c48bb4]|RELEASE:[none|none]
 adafruit/Adafruit-Joy-Featherwing-PCB: BRANCHES:[master:45f843d490a5968f4642ff970e8e867918c80b8d]|RELEASE:[none|none]
 adafruit/Adafruit-L3GD20-Breakout-PCB: BRANCHES:[master:32bf273c21430e7c4e28cfa79be2109f91b893ea]|RELEASE:[none|none]
+adafruit/Adafruit-LC709203F-PCB: BRANCHES:[master:65d60917fbe771308a387132dc943800a52f1380]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpack-FeatherWing-PCB: BRANCHES:[master:50dc43b6c03adafa21683995f62efb6e825bba12]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Backpacks: BRANCHES:[master:a58b392b20838c60256d767576a823a6984f7284]|RELEASE:[none|none]
 adafruit/Adafruit-LED-Sequin-PCB: BRANCHES:[master:9053b69556d4bbb35a02b35b46cfc946122779f7]|RELEASE:[none|none]
