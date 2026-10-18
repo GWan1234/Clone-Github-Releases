@@ -846,6 +846,7 @@ adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB: BRANCHES:[main:635fe5190
 adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB: BRANCHES:[master:f5c03f2f3004402e60c7103068c4016b3c749bdf]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Amplifier-BFF-PCB: BRANCHES:[main:fe191f0585be438605feca267afa38fe587e57f4]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[master:eafc762a0cb25abfc437afecab66a5e88e5a5338]|RELEASE:[none|none]
+adafruit/Adafruit-I2S-MEMS-Microphone-Breakout-PCB: BRANCHES:[main:cde79ddef57c7df69a5e7268b66567fa50b7e42d]|RELEASE:[none|none]
 adafruit/Adafruit-I2S-Microphone-Breakout-PCB: BRANCHES:[master:bb0dfa60919c5679f676e0af41958bece6294b05]|RELEASE:[none|none]
 adafruit/Adafruit-ICM20649-PCB: BRANCHES:[master:b24cb0fffe4bd48439c44565f2e086876f0483c0]|RELEASE:[none|none]
 adafruit/Adafruit-ICM20948-PCB: BRANCHES:[master:de820cb677414d3e05c9b1a9fd5cef539fc06165]|RELEASE:[none|none]
