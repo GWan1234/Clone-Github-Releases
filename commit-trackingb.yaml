@@ -736,6 +736,7 @@ adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB: BRANCHES:[master:1d60495b54
 adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB: BRANCHES:[master:37c7ffb587c00e67d739baa078eb755f0976d15f]|RELEASE:[none|none]
 adafruit/Adafruit-DS3502-PCB: BRANCHES:[master:9562216c105b017f94334ad31ba957679788fddb]|RELEASE:[none|none]
 adafruit/Adafruit-DVI-Breakout-Board-PCB: BRANCHES:[main:178a6d45b2d40acaa1cf14b79479a770cc7d01a5]|RELEASE:[none|none]
+adafruit/Adafruit-DVI-Sock-for-Pico-PCB: BRANCHES:[main:f9e5a5557654b1b3d8d63e5405fc23394c13cd19]|RELEASE:[none|none]
 adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f756714c5385a355e00b80270]|RELEASE:[none|none]
 adafruit/Adafruit-DragonTail-for-micro-bit-PCB: BRANCHES:[master:2f220715487c3b55339cd84be5d9f9bac4e7a779]|RELEASE:[none|none]
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: BRANCHES:[master:bb19790ef2cb5c1c291311f99104a12b05fa0cad]|RELEASE:[none|none]
