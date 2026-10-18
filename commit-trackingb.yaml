@@ -832,6 +832,7 @@ adafruit/Adafruit-HX8340B: BRANCHES:[master:aa200559b9b881a295128934470f528b269c
 adafruit/Adafruit-Hallowing-M0-PCB: BRANCHES:[master:c0585b0672ce13e163b8da6ce9215ec600c63d64]|RELEASE:[none|none]
 adafruit/Adafruit-Hallowing-M4-PCB: BRANCHES:[master:24076afe1a14927e0a7cc2fb2cabb8cb0a7cdd27]|RELEASE:[none|none]
 adafruit/Adafruit-High-Power-Infrared-LED-Emitter-PCB: BRANCHES:[main:bf82859bcb77e3b545f9ae6dc629a24ca0695343]|RELEASE:[none|none]
+adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB: BRANCHES:[main:083c789179ca1150e4816bf293eda970ff5c3c46]|RELEASE:[none|none]
 adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB: BRANCHES:[master:ddd588632d07928551e7f1f71a38335e33c4b530]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB: BRANCHES:[main:4b82c1319140e0073adc97d5ef1c0a3ff99b5923]|RELEASE:[none|none]
 adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB: BRANCHES:[main:635fe51901050a78f4ecf4533022d0e440b82875]|RELEASE:[none|none]
