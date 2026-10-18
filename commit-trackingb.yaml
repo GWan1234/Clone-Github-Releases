@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:49
+commit-tracking: 2026-10-18 03:50
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -662,6 +662,7 @@ adafruit/Adafruit-AP3602A-PCB: BRANCHES:[master:31d35855d27654a2bdb78720d0c3fffc
 adafruit/Adafruit-APDS9960-Breakout-PCB: BRANCHES:[master:23880074d26df8524399f323e016680ad82dc69f]|RELEASE:[none|none]
 adafruit/Adafruit-AR: BRANCHES:[iOS-17-Update:dd155da5531986d0d2ba91872a90fa72218fefc8;MetroNXP-Update:208fcfcb383fce884e4676a3141c3b202a408ac3;MetroM7-Addition-+-new-popover-feat:043a6d0edae87ac7bf83360c1c2ad54084cbff58;QR-code-Feature-Removed:f5a53feb552dad777241d588ee387e923a871721;Board-scan-refactor:a148916f950fc301ac0c85aeda0c61ab73b5389d;Added-Raspberry-Pi-Pico-W-Pinout-:6fac5e3acdaaf58e87a470a3d5dbc083c83db38d;master:c741d3d80db4e7636a1ebf7ca52b0bd620b18b68;Tarot-Card-Branch:495f7d8480b2b552dfa094bf573c36536b06e6ba;UIkit-test:11b1b9c594ecc6a2618693fb94deb7492c59f483;Mode-button-layouts:3d238f16bb8ca4c2b18648891a98278d531c4445]|RELEASE:[none|none]
 adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB: BRANCHES:[master:217534674defab8d2040a7399b23d3cead345195]|RELEASE:[none|none]
+adafruit/Adafruit-AS5600-Magnetic-Angle-Sensor-PCB: BRANCHES:[main:e146e77404551f1ae0619f6627bcc4435d81b0eb]|RELEASE:[none|none]
 adafruit/Adafruit-AS7262-Breakout-PCB: BRANCHES:[master:e938964b93a0dca5c0120fe2aa54a16e590b27fa]|RELEASE:[none|none]
 adafruit/Adafruit-AS7341-PCB: BRANCHES:[master:a3fdedb61db3047458d89393f1c8f4b93204df81]|RELEASE:[none|none]
 adafruit/Adafruit-ATECC608-PCB: BRANCHES:[master:1535820f36fb71b8a76cebc654b934e32a760c9c]|RELEASE:[none|none]
