@@ -1661,6 +1661,7 @@ adafruit/Citi-Bike-Helmet: BRANCHES:[master:d2854c87bdfe3edf531c81002b3f4e5b75de
 adafruit/Cryptosuite: BRANCHES:[master:e6880523b8f2b145506f18eca8cf16f67f0895f5;gh-pages:a5cbc1a17397b73475bcc127c28203966ecd9410]|RELEASE:[none|none]
 adafruit/Custom-Magstripe-Swiper: BRANCHES:[master:372f204894cf2d2fd742f08ca38aeb3581362ed8]|RELEASE:[none|none]
 adafruit/Cyber_Flower: BRANCHES:[master:70213348355adcf66542522b56580ca9d3805c70]|RELEASE:[none|none]
+adafruit/DAPLink: BRANCHES:[adafruit/stm32f103:28d6e42dbc386800a416a54c42728034851c50b9;feature/cmsis_dap_version:8d7c32582c6adbd5c9fd3a3eb6fd6db027a10830;master:8e7333e3d79d8d4e2823b440d13ab2125cf6c2be;feature/k32l:1ef7bb14e9771f31ca83cd649d40b32ba6104ae7;cleanup/gcc_prep:7c69566511cbcd2ba48857b14cf4f34dd14fcc92;refactor/weak_family_descriptors:8db4f919259dacfce83816dd74b3b5c84271bd7f;feature/gcc:7634d71b18e8d90ee16e0b73f0a6cda62c433493;feature/update_cmsis:04f3e1db56e79ea1e024d6cfd5198213f9584fe6;feature/lpc55xx_hic:12772ac6c4bdee6142a2eaa7a516fc2cf10d62c9;feature/k26f_power_monitor:917785da155e03b4d8c46797ea5b040592278d31]|RELEASE:[none|none]
 adafruit/DHT-sensor-library: BRANCHES:[master:f7d625462e6033f373e51f8c67f88fc429535b47;gh-pages:c8bc6ee19e655782d4b871ea1e0b8b55c8efb194;actionci:5d60b0d3f0af7dc5bcc7539df671848bdb5123ec]|RELEASE:[1.4.7|f7d625462e6033f373e51f8c67f88fc429535b47]
 adafruit/DS1307-breakout-board: BRANCHES:[master:22f84c8b77cacd22bf1296fa9f996f89bf646ae6]|RELEASE:[none|none]
 adafruit/Data-Logger-shield: BRANCHES:[master:223f8db28a8b0171fdb56cfbc78d5d98338228d6]|RELEASE:[none|none]
