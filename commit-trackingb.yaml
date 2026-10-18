@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:19
+commit-tracking: 2026-10-18 03:20
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1084,6 +1084,7 @@ adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB: BRANCHES:[master:2c0839c80106b13e9
 adafruit/Adafruit-RGB-Matrix-HAT-PCB: BRANCHES:[master:42d0963e0c03d152ab2fc267019c7d940d330365]|RELEASE:[none|none]
 adafruit/Adafruit-RGB-Matrix-Shield-PCB: BRANCHES:[master:d49153b7b42f584c5b243d7605a7ec9c75c3b934]|RELEASE:[none|none]
 adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: BRANCHES:[main:408fa9a40c0a01a3a65497ef42a29e0b08fe711e]|RELEASE:[none|none]
+adafruit/Adafruit-RS232-Pal-PCB: BRANCHES:[main:653d1bb7c6cf2d9efe381b85ff275bf0feefdb17]|RELEASE:[none|none]
 adafruit/Adafruit-Radio-Bonnet-PCB: BRANCHES:[master:dd0cb11d273a3e95d90786b02c9ded95ae6168c6;add-pcb-files:a13f00c2224d9a3857ca04dad4a3ad8fafdbed01]|RELEASE:[none|none]
 adafruit/Adafruit-Radio-FeatherWing-PCB: BRANCHES:[master:926b55164daad155e05ebe8ca3a02365bc07a40c]|RELEASE:[none|none]
 adafruit/Adafruit-RasPipe: BRANCHES:[master:bedc53e0f97bdc11dc2ea8188df925c7903604d9]|RELEASE:[none|none]
