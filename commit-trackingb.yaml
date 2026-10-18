@@ -712,6 +712,7 @@ adafruit/Adafruit-DS3502-PCB: BRANCHES:[master:9562216c105b017f94334ad31ba957679
 adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f756714c5385a355e00b80270]|RELEASE:[none|none]
 adafruit/Adafruit-DragonTail-for-micro-bit-PCB: BRANCHES:[master:2f220715487c3b55339cd84be5d9f9bac4e7a779]|RELEASE:[none|none]
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: BRANCHES:[master:bb19790ef2cb5c1c291311f99104a12b05fa0cad]|RELEASE:[none|none]
+adafruit/Adafruit-EMC2101-PCB: BRANCHES:[main:3d1c2ca4c2ecfb430e67ed098780de451e5c5c6b]|RELEASE:[none|none]
 adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB: BRANCHES:[master:2f1dcc9ebf93d4a9c825a3747d51849c088c390d]|RELEASE:[none|none]
 adafruit/Adafruit-Eagle-Library: BRANCHES:[master:4abf84c3856535c0ab6ae96ec4be784d7dcc6b3e]|RELEASE:[none|none]
 adafruit/Adafruit-Editorial-Standards: BRANCHES:[master:21f382da5be30c227f4065fe25e5914da3b09de2]|RELEASE:[none|none]
