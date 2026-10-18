@@ -1500,6 +1500,7 @@ adafruit/Adafruit_Python_PN532: BRANCHES:[master:343521a8ec842ea82f680a5ed868fee
 adafruit/Adafruit_Python_PlatformDetect: BRANCHES:[main:52f61e494c11f18767f2e4dcd9f61e2a764d659d;dhalbert-patch-1:d8a1cc223755cf5ac9c9ed1faf00ffb519ccc292;96boards:dcdd646251091cc02825e2bb6a5352a05c60d140]|RELEASE:[3.89.1|52f61e494c11f18767f2e4dcd9f61e2a764d659d]
 adafruit/Adafruit_Python_PureIO: BRANCHES:[main:bc28777ee0a2b5b4ef51214fb3148dd6bad3f611]|RELEASE:[1.1.12|bc28777ee0a2b5b4ef51214fb3148dd6bad3f611]
 adafruit/Adafruit_Python_SSD1306: BRANCHES:[master:dfa8717cb7a2d8706bef5e1ed6c49763748cd1c3;update_ez_install:4a54871899729d3e39fd063eabc1de0078d0294e]|RELEASE:[none|none]
+adafruit/Adafruit_Python_Shell: BRANCHES:[main:600c79db2c6cfe7e30ab215933da031b84a9823e]|RELEASE:[1.14.0|e11936130b2e923f084fef1bff7157316fa1c777]
 adafruit/Adafruit_Python_TCS34725: BRANCHES:[master:996396cd095522d788b7b15d20fd44e566c8464e]|RELEASE:[1.0.3|996396cd095522d788b7b15d20fd44e566c8464e]
 adafruit/Adafruit_Python_TMP: BRANCHES:[master:258b29f7b730e4534808c27473a76de84e765e58]|RELEASE:[1.6.3|258b29f7b730e4534808c27473a76de84e765e58]
 adafruit/Adafruit_Python_VCNL40xx: BRANCHES:[master:f88ec755fd23017028b6dec1be0607ff4a018e10]|RELEASE:[1.0.4|f88ec755fd23017028b6dec1be0607ff4a018e10]
