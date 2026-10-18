@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 04:10
+commit-tracking: 2026-10-18 04:11
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -2416,6 +2416,7 @@ adafruit/esp32-camera: BRANCHES:[circuitpython:303985ab678391b78ebe0baff98edcc86
 adafruit/esp32-s3-boy_fw: BRANCHES:[main:d24440a4e8dfddaffad23adea98bc54c4bd48f9c;external-screen:1ca3d0c85b53dd531bf5719c229ef2554a511ecf]|RELEASE:[v0.2|a4a57d750cac4ddc19fdf4670a778c8dfb50eea1]
 adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034]|RELEASE:[none|none]
 adafruit/esp8266-weather-station-color: BRANCHES:[tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0]|RELEASE:[none|none]
+adafruit/espectre: BRANCHES:[main:995601b30953441531b4e90217bca990013a6036]|RELEASE:[1.0.0|995601b30953441531b4e90217bca990013a6036]
 adafruit/esptool: BRANCHES:[master:fc0c98485056b66296f7e77ab8f9f98ebf7dddd1;add-delay-hard-reset:fd3a257386437213b9a615e577eec0e4c47f626e]|RELEASE:[none|none]
 adafruit/esptool-mergebin-js: BRANCHES:[main:e7713006f9daac1c7f955348a243331576ed2646]|RELEASE:[1.1.0|e7713006f9daac1c7f955348a243331576ed2646]
 adafruit/fbtft: BRANCHES:[master:bcb4de90206842831bd40b20c93aa3e5c9553ea1]|RELEASE:[none|none]
