@@ -755,6 +755,7 @@ adafruit/Adafruit-DVI-HSTX: BRANCHES:[main:7309e4843d33266c9e3aa683c0f841e80cc4c
 adafruit/Adafruit-DVI-Sock-for-Pico-PCB: BRANCHES:[main:f9e5a5557654b1b3d8d63e5405fc23394c13cd19]|RELEASE:[none|none]
 adafruit/Adafruit-DotStar-FeatherWing-PCB: BRANCHES:[master:5a438d765b2a9e4f756714c5385a355e00b80270]|RELEASE:[none|none]
 adafruit/Adafruit-DragonTail-for-micro-bit-PCB: BRANCHES:[master:2f220715487c3b55339cd84be5d9f9bac4e7a779]|RELEASE:[none|none]
+adafruit/Adafruit-E-Ink-Bonnet-for-Raspberry-Pi-PCB: BRANCHES:[main:1989721717d068c1726f18f8ec16ca58ac011fee]|RELEASE:[none|none]
 adafruit/Adafruit-E-Paper-Display-Breakout-PCBs: BRANCHES:[master:bb19790ef2cb5c1c291311f99104a12b05fa0cad]|RELEASE:[none|none]
 adafruit/Adafruit-EMC2101-PCB: BRANCHES:[main:3d1c2ca4c2ecfb430e67ed098780de451e5c5c6b]|RELEASE:[none|none]
 adafruit/Adafruit-ENS160-PCB: BRANCHES:[main:70109a844d554d955433ffba0b05acc497bd77d5]|RELEASE:[none|none]
