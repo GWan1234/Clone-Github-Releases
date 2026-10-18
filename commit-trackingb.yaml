@@ -2977,7 +2977,7 @@ emqx/upload-assets: BRANCHES:[master:974befcf0e72a1811360a81c798855efb66b0551;03
 emqx/xmeter-cloud-docs: BRANCHES:[master:c84c77d939ad580f9001b72d1614051b4cbfb734;dev:47112a43d1e9d8f7626925def746dc11b082b7fd]|RELEASE:[none|none]
 emqx/zsh-in-docker: BRANCHES:[master:6170c6adb62df8e911a0ebe9f97de54131244774]|RELEASE:[none|none]
 esp-idf-lib/ags10: BRANCHES:[main:02c9cef675ec2b23478e231c449b15df230aef23;ci-update:0e281e431756923decd52a0425120ec8d709860b]|RELEASE:[0.5.1|02c9cef675ec2b23478e231c449b15df230aef23]
-fatedier/frp: BRANCHES:[dev:954f918d0cabdf09cc5c15030ef6d7dc2914198f;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
+fatedier/frp: BRANCHES:[dev:26742060b1e55a64509f4d0bfb073470f81f1af3;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
 flathub/com.rustdesk.RustDesk: BRANCHES:[master:d81da805d80b3fb279510c82a4323c860df6505d]|RELEASE:[none|none]
 giszh86/vohive: BRANCHES:[main:f240894e763cf7f0cf74c88562bb9b55f0d573b1]|RELEASE:[none|none]
 huasifei-source/oui: BRANCHES:[master:a86dd36ae14342da317b4476913c7845b315962c]|RELEASE:[none|none]
