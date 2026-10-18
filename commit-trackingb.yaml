@@ -614,6 +614,7 @@ adafruit/Adafruit-1.54-inch-240x240-TFT-PCB: BRANCHES:[master:3f46e828b8404212ac
 adafruit/Adafruit-1.5inch-Color-OLED-PCB: BRANCHES:[master:6d5c1242dd9d6124b18336f8cebff1993a29b6e4]|RELEASE:[none|none]
 adafruit/Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB: BRANCHES:[main:f4768731183344c8bbe1453f15ff3c655001d592]|RELEASE:[none|none]
 adafruit/Adafruit-1.8-TFT-Shield-PCB: BRANCHES:[master:ba3e2280aa1ab70d103751cacf497217959ab986]|RELEASE:[none|none]
+adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB: BRANCHES:[main:55df02725e803b00706c48715883efdbe4aceb1c]|RELEASE:[none|none]
 adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB: BRANCHES:[master:8bcc38f98dbe399188a83ac2f394942b9bbe6e80]|RELEASE:[none|none]
 adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB: BRANCHES:[master:7c33372ae12d8cadd9ccd868c4f30274e61ac87d]|RELEASE:[none|none]
 adafruit/Adafruit-128x64-Monochrome-OLED-PCB: BRANCHES:[master:51ef8e242dcf460d5effc298d8565110624e6b23]|RELEASE:[none|none]
