@@ -720,6 +720,7 @@ adafruit/Adafruit-CLUE-PCB: BRANCHES:[master:ce323d9f40e63fbe0ae231c9287abce5d20
 adafruit/Adafruit-CP2102N-Friend-PCB: BRANCHES:[main:1c29f780bdc7503e18c8b6d29d1f8fb7cc1510bb]|RELEASE:[none|none]
 adafruit/Adafruit-CP2104-Friend-PCB: BRANCHES:[master:4684fff897c221bcf2539f7125dbf4c11cbf1564]|RELEASE:[none|none]
 adafruit/Adafruit-CP2105-Friend-PCB: BRANCHES:[main:b878e5d43cd5a98883767438d3711d69624bbe94]|RELEASE:[none|none]
+adafruit/Adafruit-CSI-or-DSI-Cable-Adapter-Thingy-PCB: BRANCHES:[main:6a56b0344bab56906893c6de4cb1e9ee8a8d00c7]|RELEASE:[none|none]
 adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi: BRANCHES:[master:b8a0df00fed2f4d240c807b3f454ff6b7d8780d9]|RELEASE:[none|none]
 adafruit/Adafruit-CYBERDECK-PCB: BRANCHES:[main:c884788284c1347c56e08148a6f87db115c484a8]|RELEASE:[none|none]
 adafruit/Adafruit-Capacitive-Touch-HAT-PCB: BRANCHES:[master:6405328c281fe7d9d8e9cbfa334d50c3eccef7ce]|RELEASE:[none|none]
