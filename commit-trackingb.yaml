@@ -1555,6 +1555,7 @@ adafruit/Adafruit_CircuitPython_VL53L1X: BRANCHES:[main:6f5506aa2a4286ff93877642
 adafruit/Adafruit_CircuitPython_VL53L4CD: BRANCHES:[main:1196cb63efb310c3bed212cde2c0c842e5f9f5dc;docs_req_fixes:c338902a691f95059b0127408ccee1610d554558;fix_rtd_theme:8230a97397a19ab57d1b5daeb8fc2c21349b2d2c]|RELEASE:[1.3.6|1196cb63efb310c3bed212cde2c0c842e5f9f5dc]
 adafruit/Adafruit_CircuitPython_VL6180X: BRANCHES:[main:2df0df8e135fb1fc56c17c866e1608e7b4066019;patch-fix:f108c4e00ed793c997231b183c2e5d9dbd414d4b]|RELEASE:[1.4.21|2df0df8e135fb1fc56c17c866e1608e7b4066019]
 adafruit/Adafruit_CircuitPython_VS1053: BRANCHES:[main:b1a434d9708b74529dae4b5674930c23b39d43ac]|RELEASE:[1.2.26|b1a434d9708b74529dae4b5674930c23b39d43ac]
+adafruit/Adafruit_CircuitPython_WM8960: BRANCHES:[main:644d8dcd14a5d6324453a40243be95a4e5d4d04a]|RELEASE:[1.0.7|644d8dcd14a5d6324453a40243be95a4e5d4d04a]
 adafruit/Adafruit_CircuitPython_WS2801: BRANCHES:[main:80e549b8c25b2662229aca8db3e7605adfab99f0;patch-fix:7d38bd8de9cbf9451517b174080e6ce3c8b84ca1]|RELEASE:[1.0.6|80e549b8c25b2662229aca8db3e7605adfab99f0]
 adafruit/Adafruit_CircuitPython_WSGI: BRANCHES:[main:f889f3aeaa52cadfefb25e1b427954dc9d36ab7b]|RELEASE:[3.0.5|f889f3aeaa52cadfefb25e1b427954dc9d36ab7b]
 adafruit/Adafruit_CircuitPython_Waveform: BRANCHES:[main:8d36e16180f10e0a2a733e53ba0c767f33219ecf]|RELEASE:[1.3.27|8d36e16180f10e0a2a733e53ba0c767f33219ecf]
