@@ -1678,6 +1678,7 @@ adafruit/Adafruit_CircuitPython_ST7565: BRANCHES:[main:299b16e023f59d8ec8239f016
 adafruit/Adafruit_CircuitPython_ST7735: BRANCHES:[main:d333d4ad28ffe933e8df7c679e95b97e3df1ea86;setup-py-disabled:3814f672f5565e7f9c60f5f5f6d32e90c90da96d]|RELEASE:[1.2.22|d333d4ad28ffe933e8df7c679e95b97e3df1ea86]
 adafruit/Adafruit_CircuitPython_ST7735R: BRANCHES:[main:bbe37f9ac0768cb04475f1ba8b69381142b1b265;setup-py-disabled:bb258e152fcf212a46be970741920070c4b6517f]|RELEASE:[2.0.5|bbe37f9ac0768cb04475f1ba8b69381142b1b265]
 adafruit/Adafruit_CircuitPython_ST7789: BRANCHES:[main:24a0feec2b24517c9f606f5063b6b48db4ce370e;setup-py-disabled:00fda887df06dc044bca5ff9bb779d5b1945be4c]|RELEASE:[2.1.5|24a0feec2b24517c9f606f5063b6b48db4ce370e]
+adafruit/Adafruit_CircuitPython_STHS34PF80: BRANCHES:[main:6bd721dc46204fcb30bd70462bb05354ae53de7e]|RELEASE:[1.0.2|6bd721dc46204fcb30bd70462bb05354ae53de7e]
 adafruit/Adafruit_CircuitPython_STMPE610: BRANCHES:[main:36ef301a9204972bb0c02432c469ffd3be6dc1f5]|RELEASE:[1.3.22|36ef301a9204972bb0c02432c469ffd3be6dc1f5]
 adafruit/Adafruit_CircuitPython_STSPIN: BRANCHES:[main:09be7751e4bfdeaed2a39d5a5a475ab2209ae322]|RELEASE:[1.0.3|09be7751e4bfdeaed2a39d5a5a475ab2209ae322]
 adafruit/Adafruit_CircuitPython_ServoKit: BRANCHES:[main:016b3fd08ad87bf2214d32dfc675b93c954d46b9;linting:61afa59a5f6d766ce44a57a514b317d7bb974c2c]|RELEASE:[1.3.24|016b3fd08ad87bf2214d32dfc675b93c954d46b9]
