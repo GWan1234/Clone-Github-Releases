@@ -1226,6 +1226,7 @@ adafruit/Adafruit-TRRS-Trinkey-PCB: BRANCHES:[main:d244f5b5658d5cd1b1bf62de57265
 adafruit/Adafruit-TS3USB30-PCB: BRANCHES:[main:7973099481a65c3ff5689a037ec01d45db234d2c]|RELEASE:[none|none]
 adafruit/Adafruit-TSC2007-PCB: BRANCHES:[main:8d182929dfc27dcdb407a2769cf416f9f63b4a16]|RELEASE:[none|none]
 adafruit/Adafruit-TSC2046-PCB: BRANCHES:[main:cf5b01b3b6ae479abf051a8d0d3e8ed5b05ba632]|RELEASE:[none|none]
+adafruit/Adafruit-TSL2585-Digital-UVA-and-Ambient-Light-Sensor-PCB: BRANCHES:[main:44dec43c6e0927a54c2997a7a7390ba1acd15175]|RELEASE:[none|none]
 adafruit/Adafruit-TSL2591-Breakout-PCB: BRANCHES:[master:22be4c7b8d53155dacedc18f3373ba8dbf95dc23]|RELEASE:[none|none]
 adafruit/Adafruit-TSMP96000-Breakout-PCB: BRANCHES:[main:5d456214739128a6fc19903849618996ac3116b8]|RELEASE:[none|none]
 adafruit/Adafruit-TSSP77038-IR-Demodulator-Breakout-PCB: BRANCHES:[main:6df204dc531804658d977a4f69bc873b863bb6ac]|RELEASE:[none|none]
