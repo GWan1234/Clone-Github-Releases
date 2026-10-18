@@ -1079,6 +1079,7 @@ adafruit/Adafruit-VEML6075-UV-Sensor-PCB: BRANCHES:[master:3165308f9a23535ee0ace
 adafruit/Adafruit-VEML7700-PCB: BRANCHES:[master:ab489f03c957f681ed0161fc6d2b786956556e23]|RELEASE:[none|none]
 adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB: BRANCHES:[master:1ef873512150740edc9798f90028facfa35fd81f]|RELEASE:[none|none]
 adafruit/Adafruit-VL53L1X-PCB: BRANCHES:[main:e2a85759d3b85907b3c2422f3c140d6bb45390d7]|RELEASE:[none|none]
+adafruit/Adafruit-VL53L4CD-PCB: BRANCHES:[main:de475b8aede92ff30e66671ded9ec015fc0df6ba]|RELEASE:[none|none]
 adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB: BRANCHES:[master:2577abd97ffa3dab39b631643d5861f5b6bd98c1]|RELEASE:[none|none]
 adafruit/Adafruit-VS1053-Breakout-PCB: BRANCHES:[master:61db4e571d89d321c33bb693b84f80da1510c5e2]|RELEASE:[none|none]
 adafruit/Adafruit-Verter-PCB: BRANCHES:[master:47ff9d8588a4b841b6d0a1efa42fc9275463c16e]|RELEASE:[none|none]
