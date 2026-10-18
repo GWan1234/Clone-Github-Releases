@@ -1659,6 +1659,7 @@ adafruit/Adafruit_CircuitPython_PN532: BRANCHES:[main:909b0448a70dec7d68e34aae5f
 adafruit/Adafruit_CircuitPython_PYOA: BRANCHES:[main:757f825a5ded561eebd5ee287a0e863f5988f169;patch-fix:db17bbe4a6cb119b783ca1de7e2492cefbf3af88;setup-py-disabled:69db58b5a9e193674e790e15a6d90fed706de725]|RELEASE:[2.6.8|757f825a5ded561eebd5ee287a0e863f5988f169]
 adafruit/Adafruit_CircuitPython_Pastebin: BRANCHES:[main:e8679abd62d1bb57158710a0cae9b77961043271]|RELEASE:[1.0.13|e8679abd62d1bb57158710a0cae9b77961043271]
 adafruit/Adafruit_CircuitPython_Pathlib: BRANCHES:[main:3ae59390eb908eb7a7e3ebc610a8cf605fc6e101]|RELEASE:[1.0.5|3ae59390eb908eb7a7e3ebc610a8cf605fc6e101]
+adafruit/Adafruit_CircuitPython_PicoTTS: BRANCHES:[main:3496a5d81d3984bacf4876c51653493f5afab867]|RELEASE:[2.0.1|3496a5d81d3984bacf4876c51653493f5afab867]
 adafruit/Adafruit_CircuitPython_PixelMap: BRANCHES:[main:11c0846fe2d858f3188fefe6fc299af05f379520]|RELEASE:[1.0.12|11c0846fe2d858f3188fefe6fc299af05f379520]
 adafruit/Adafruit_CircuitPython_Pixel_Framebuf: BRANCHES:[main:ffd3e8a692676d076a2fa3f725e3a8ea63441139;patch:7446063008387fe3de80920cd9f5064b95aa87b3]|RELEASE:[1.1.20|ffd3e8a692676d076a2fa3f725e3a8ea63441139]
 adafruit/Adafruit_CircuitPython_Pixelbuf: BRANCHES:[main:86bba3670d15b5c6deb3a7358955c8090a2c468b]|RELEASE:[2.1.0|86bba3670d15b5c6deb3a7358955c8090a2c468b]
