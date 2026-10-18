@@ -888,6 +888,7 @@ adafruit/Adafruit-MLX90640-PCB: BRANCHES:[master:398d7ceac6f1c1e234bf920386eaf92
 adafruit/Adafruit-MMA8451-Breakout-PCB: BRANCHES:[master:f9fa425744bf6c85d7ff0a4c80fd36311a0da974]|RELEASE:[none|none]
 adafruit/Adafruit-MMC5603-PCB: BRANCHES:[main:fb9a564eb11939578643054a859481408a64a868]|RELEASE:[none|none]
 adafruit/Adafruit-MONSTER-M4SK-PCB: BRANCHES:[master:ac886c5792dd29ff6c0f1a263ab7c3f77ccaebf3]|RELEASE:[none|none]
+adafruit/Adafruit-MOSFET-Driver-STEMMA-PCB: BRANCHES:[main:ea11049753a79330cc2651df233909c0191a5af4]|RELEASE:[none|none]
 adafruit/Adafruit-MPL115A2-Breakout-PCB: BRANCHES:[master:c28cfcbce2a9bd072de601268ede652433dbb51a]|RELEASE:[none|none]
 adafruit/Adafruit-MPL3115A2-PCB: BRANCHES:[master:c57b3e05fa7907f850a4f0af6fb211ae9c831847]|RELEASE:[none|none]
 adafruit/Adafruit-MPM3610-PCB: BRANCHES:[master:8cdc9051c29e348b88fd83b331d0875e7154879b]|RELEASE:[none|none]
