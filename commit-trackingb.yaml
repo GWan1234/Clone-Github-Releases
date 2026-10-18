@@ -1865,6 +1865,7 @@ adafruit/Feather-RISC-V-PCB: BRANCHES:[master:d1b705eca6b0b992383a75706f3e1aeb1f
 adafruit/Feather_Holiday_Lights: BRANCHES:[master:69cf62f6d9d2b9acc870fb0db6a497b584302394]|RELEASE:[none|none]
 adafruit/Feedback-Servo-Record-and-Play: BRANCHES:[master:9ed41f443a37443ef52a0c2a8031256e09fc8c05]|RELEASE:[none|none]
 adafruit/FifteenStep: BRANCHES:[actionci:1fcbb1712b8078ba98e3b5786714528eeded3d40;gh-pages:41c7369e06e3f70f69097aec3563780f39b75937;master:32143eca13ba33ae2d3f5c764e881c2be9b2c1e2;untz:5e4a4b67cb25c9208429e22647b9594f9640df51]|RELEASE:[1.2.4|32143eca13ba33ae2d3f5c764e881c2be9b2c1e2]
+adafruit/FileTransfer-For-Android: BRANCHES:[main:92cb629d380f9efd28931cb976ccf2cce8fefe4d;fix_compose_preview:08b3fc6aa8834ad63bc5d35b4b73035a9c8fa368;content_provider:e192e9a3b360847403fcf32966074f0e514dbe0c]|RELEASE:[none|none]
 adafruit/FirePendant: BRANCHES:[master:485bd5a51e064db3ddafeb2599daf2e3b45ec8f2]|RELEASE:[none|none]
 adafruit/Flora-Brakelight-Backpack: BRANCHES:[master:8f6ed6e5dd51cb952dad99b5e27b60949b299634]|RELEASE:[none|none]
 adafruit/Flora-GPS-Jacket: BRANCHES:[master:9aa3cda35ac410f888b6e921cc6aa35b389d249d]|RELEASE:[none|none]
