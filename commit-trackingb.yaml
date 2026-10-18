@@ -1892,6 +1892,7 @@ adafruit/pxt-adafruit-boot-sequence: BRANCHES:[master:bb1cd172c3603161afbf5e6062
 adafruit/pxt-common-packages: BRANCHES:[master:643d48841cc5fdb499817df2aac6f4a82660b14e;controller_snippet:9e53fe19221e8bbf06dc3e8110336f7b7afe0680;sprite-ref-docs-04:7809a09628be87c59a4bcc08f7d654b8414aa6f0;stmusb:8114c686759c0bca4c47957535c9dc1c878cad9b;microphoneSPK:5b15013565e5e249fe631aa309dd75c6ecbf41c3;dynamicfg:37cfc44aebac82ee0ebd5742d83d554294d06080;enummms:bc737807471e4687be3a8b03dcaab561debc4e9d;i2csim:350cff39dfdb1df3b7bac108423ea4566517dd51;backgroundscreen:76c790796c0eae91cabbc6f825b007594a46aa7e;simslim:93690bdf44386de8912e43c596fa29ef002b9bf9]|RELEASE:[none|none]
 adafruit/pxt-crickit: BRANCHES:[master:3577ba882f260dfe65a73b4f987b2886a95a8ff6;microbit:6d78a8f266ac325ae42bad16f21e285492d740f1;servopulse:8dbf72089de398fb4da70809c32a9a35fe17c8d4;dm-edits:c895b7a11609f4edd4d43787fad04e20d50c2f25]|RELEASE:[none|none]
 adafruit/pxt-seesaw: BRANCHES:[master:6f5e163620e90225a858f2e0c0bee008ed79f635;microbitv0:526af9cb87b792123d1be9ca53b759ffbb487579]|RELEASE:[none|none]
+adafruit/pyright: BRANCHES:[master:cdb883014bbb7392c04c4d4c65aa1c95aa7fa7ab;cache:77b47b87056e81b0f880f08f5125ce3168655e9f]|RELEASE:[none|none]
 adafruit/rayshobby-hid-serial-trinket: BRANCHES:[master:282903bdcb78856a5fe74fb0ae16e8473c1431b4]|RELEASE:[none|none]
 adafruit/rgbmatrix-fpga: BRANCHES:[master:4acd7514ac0ff51faa0dab3f6c9030227356a215]|RELEASE:[none|none]
 adafruit/rosie-ci: BRANCHES:[master:d594c63769fe44eeb8d5ccd5398ae6b23f245bef]|RELEASE:[none|none]
