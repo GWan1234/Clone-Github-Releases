@@ -2089,6 +2089,7 @@ adafruit/cyw43-driver: BRANCHES:[circuitpython9:7869c39530e3a9a41d0010c7ef47af38
 adafruit/dash-examples: BRANCHES:[master:6a25c14e441d65b1d1afbe1c9f8b424e0df4e00c]|RELEASE:[none|none]
 adafruit/deep-dive-notes: BRANCHES:[main:6ead4f3ff273d8023c389b9f1ad02960cc08896b;2022/2022-08-12.md:d9c4bd7a62c8028bd0a6d4aeed5c3a744c3f0e68;2022/2022-08-05.md:98b526b01bb79fe0ac11fd7206d632a869d69067;2022/2022-07-22.md:1bc6676bc598a05cb9268ee3247ddd3d35d7f83e;2022/2022-07-15.md:1b5ba24c58c0b8c4cd57d5a4d76db8ac5377a04a;2022/2022-07-08.md:a42b6945093a24c4ec7ea81e6ca882ba6f0d89f9;2022/2022-07-01.md:91d572ac89c1a99a7515b79bd8f0a2120b65100b;2022/2022-06-24.md:415516869c4a82afe6f55638291edeb44e3027e0;2022/2022-06-17.md:d541e0f7e11ee6c68bffc8af2c3d3968aa358633;2022/2022-06-03.md:efad5cc193cc1470514167278cc1e96b3d7f9ecc]|RELEASE:[none|none]
 adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;master:7c96adca4aacd72ff1472d5813cd860ad5924c18]|RELEASE:[none|none]
+adafruit/display-ruler: BRANCHES:[main:144f8ae4f9b67dbc52ead44ae1e482ae36b20e21]|RELEASE:[none|none]
 adafruit/eagle2fritzing: BRANCHES:[master:d18749346438d31870de54bcbf2748cdc676138f]|RELEASE:[none|none]
 adafruit/echo_2-xl: BRANCHES:[master:6225f233c03bc7b32c5f5cb6f756521254c34804]|RELEASE:[none|none]
 adafruit/elf-section-graph: BRANCHES:[main:74e5a410e8de83483306a7f937bc3a3510a2d850]|RELEASE:[none|none]
