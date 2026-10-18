@@ -945,6 +945,7 @@ adafruit/Adafruit-METRO-328-PCB: BRANCHES:[master:1d635d70533c446c925ec77240370c
 adafruit/Adafruit-MIDI-FeatherWing-PCB: BRANCHES:[master:d060360d31ba77963443121e71bae136c882a788]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90393-PCB: BRANCHES:[master:1c5deadca25875af5eb643b80ae0b7ece4afbb02]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90614-Library: BRANCHES:[master:ae7ec6755c8d73433d823324fb5a2c4864af49a4;gh-pages:ae7571342646cf369164833b85eec81d259b03a0;actionci:0b2e0f1da5338ee5da15d0b483c2a69ec33d4598]|RELEASE:[2.1.7|ae7ec6755c8d73433d823324fb5a2c4864af49a4]
+adafruit/Adafruit-MLX90632-FIR-Remote-Thermal-Temperature-Sensor-PCB: BRANCHES:[main:928c728704680ccfc11515f2ec7113c8cb7d4224]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90640-PCB: BRANCHES:[master:398d7ceac6f1c1e234bf920386eaf9239ef79adf]|RELEASE:[none|none]
 adafruit/Adafruit-MMA8451-Breakout-PCB: BRANCHES:[master:f9fa425744bf6c85d7ff0a4c80fd36311a0da974]|RELEASE:[none|none]
 adafruit/Adafruit-MMC5603-PCB: BRANCHES:[main:fb9a564eb11939578643054a859481408a64a868]|RELEASE:[none|none]
