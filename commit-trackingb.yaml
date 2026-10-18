@@ -1928,6 +1928,7 @@ adafruit/glitterpos: BRANCHES:[master:ea8e287096cae2de893e2a92a9fb8c5e4e40cb29;d
 adafruit/gpio-stream: BRANCHES:[master:a14e0f5a1cf2fadbed047a80cdc4118b555df842]|RELEASE:[none|none]
 adafruit/iOS13-beta-file-issue: BRANCHES:[master:37c016d044f05af0779389224bc95901458aa35b]|RELEASE:[none|none]
 adafruit/icestorm: BRANCHES:[master:f704149b7298c7c6b56520d104dc4b20abf455b2]|RELEASE:[none|none]
+adafruit/imx_rt_flash_config: BRANCHES:[main:9de9b4a3f8f9dd9c71315ed9ad0d92bea0d5d549]|RELEASE:[none|none]
 adafruit/io-api: BRANCHES:[main:2995a32c86d184bd401781df3c7f297e70ca6341]|RELEASE:[none|none]
 adafruit/io-client-go: BRANCHES:[main:eb896776411afb581c1b57238073d1adffa2a22b;initial-dev:13dfced6058748471793785df5950265804cfa15]|RELEASE:[none|none]
 adafruit/io-client-ruby: BRANCHES:[master:a2eecbd67a0c6857b462750f5d2d355533869125]|RELEASE:[none|none]
