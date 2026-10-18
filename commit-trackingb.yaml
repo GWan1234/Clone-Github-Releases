@@ -899,6 +899,7 @@ adafruit/Adafruit-MCP4728-PCB: BRANCHES:[master:ab66f6aaf2e95f0027f17c2dde804d79
 adafruit/Adafruit-MCP9600-PCB: BRANCHES:[master:59ed646dfbeafb9d4124db583fe9df9532cd3a07]|RELEASE:[none|none]
 adafruit/Adafruit-MCP9601-PCB: BRANCHES:[main:135d6a8e4ca84c55ec2c8a0208ba61e98e4db31e]|RELEASE:[none|none]
 adafruit/Adafruit-MCP9808-Breakout-PCB: BRANCHES:[master:5a46deacf915eeeb5fcafd82e214ce162bf4a464]|RELEASE:[none|none]
+adafruit/Adafruit-MEMENTO-PCB: BRANCHES:[main:8f1e07b4baa4e43749793e3ebebd12005a5a8f96]|RELEASE:[none|none]
 adafruit/Adafruit-METRO-328-PCB: BRANCHES:[master:1d635d70533c446c925ec77240370cfee4fba7ad]|RELEASE:[none|none]
 adafruit/Adafruit-MIDI-FeatherWing-PCB: BRANCHES:[master:d060360d31ba77963443121e71bae136c882a788]|RELEASE:[none|none]
 adafruit/Adafruit-MLX90393-PCB: BRANCHES:[master:1c5deadca25875af5eb643b80ae0b7ece4afbb02]|RELEASE:[none|none]
