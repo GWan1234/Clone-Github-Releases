@@ -1930,6 +1930,7 @@ adafruit/USB-Power-Gauge: BRANCHES:[master:4072a6d4c0e282fd573cf8be6f2c4a1dbb3f9
 adafruit/USBHost_t36: BRANCHES:[master:ae1061ea503a96cae1cc0cd256c91ff1d08afd6d;my_generic_usb:c6515c7c5e8f484482b1c776ef48e79a533a14ad]|RELEASE:[none|none]
 adafruit/USBgamepad: BRANCHES:[master:506623c2a255cee401ae0335ea943319e3781009]|RELEASE:[none|none]
 adafruit/Uncanny_Eyes: BRANCHES:[master:d2103e84aa33da9f6924885ebc06d880af8deeff]|RELEASE:[none|none]
+adafruit/VL53L4CD: BRANCHES:[main:a642dda7d53bf583f6e214fc2c02ec7485a195a8]|RELEASE:[none|none]
 adafruit/WINC1500_Atmel_Serial_Bridge: BRANCHES:[19.4.4:9effa70a7c3ed1dce16d375859235947b7e6a303;master:9f7af5dad2c496df7caa6bda82e17af804216772]|RELEASE:[none|none]
 adafruit/WaveHC: BRANCHES:[master:47a8f0a827c45cd0c59dac077909b20ffb703aaa;gh-pages:26f0e0e851eac21056c95296b7386a83c3299d3e]|RELEASE:[1.0.5|47a8f0a827c45cd0c59dac077909b20ffb703aaa]
 adafruit/Weather-Pixels: BRANCHES:[master:d1bb8951b25315a378a47f5bc7e8bbf04a399225]|RELEASE:[none|none]
