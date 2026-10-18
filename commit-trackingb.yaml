@@ -816,6 +816,7 @@ adafruit/Adafruit-IS31FL3741-PCB: BRANCHES:[main:07d4cb6a19e65be56da4a96736c2335
 adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB: BRANCHES:[master:bd7f6d63e4edaed3d9089f1c9197f40e5a437c67]|RELEASE:[none|none]
 adafruit/Adafruit-ISO1540-PCB: BRANCHES:[main:59e7a9b459f6fe00e7247c57086b538a52093745]|RELEASE:[none|none]
 adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs: BRANCHES:[master:0c7bd1cb7a409f9d1689bc26a0a18079c9339b33]|RELEASE:[none|none]
+adafruit/Adafruit-Infineon-Trust-M-PCB: BRANCHES:[main:be8bbc2b780c9807f57df6a793e743d38681eccd]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Camera-with-EyeFi-Sketch: BRANCHES:[master:b89ffa961067cb959deff9eae264a017a2650539]|RELEASE:[none|none]
 adafruit/Adafruit-IoT-Printer-Enclosure: BRANCHES:[master:2a832e2684e7725d4fb0004d7d63436f7b62acd9]|RELEASE:[none|none]
 adafruit/Adafruit-ItsyBitsy-32u4-PCB: BRANCHES:[master:b48fb1454afa84d1d83d4641d6c31fb49d360222]|RELEASE:[none|none]
