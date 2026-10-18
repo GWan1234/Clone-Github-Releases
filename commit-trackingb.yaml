@@ -727,6 +727,7 @@ adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB: BRANCHES:[master:87ab89a043b
 adafruit/Adafruit-Circuit-Playground-Express-PCB: BRANCHES:[master:2962c0cb972e031d070303bbeda3ed95a2098951]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-PCB: BRANCHES:[master:123fc8ded8a6c41de64b6e2ac4d6405f95199b43]|RELEASE:[none|none]
 adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB: BRANCHES:[master:c7018c043310292976dcb720322e12d6d8e324fc]|RELEASE:[none|none]
+adafruit/Adafruit-Color-Newxie-TFT-Display-PCB: BRANCHES:[main:89c8dfd70d3f9e74606d12f3d5d6af7ea6fa8197]|RELEASE:[none|none]
 adafruit/Adafruit-Cupcade-Adapter-PCB: BRANCHES:[master:172cdf5ec647646cf39b5583c68935fa432e9d53]|RELEASE:[none|none]
 adafruit/Adafruit-DC-Power-BFF-PCB: BRANCHES:[main:de89d2fa7b7cfbdea51fc6e946cd2e780d7b2677]|RELEASE:[none|none]
 adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB: BRANCHES:[master:cae1ee442bd88638aac6427bd78f737aa0846a9e]|RELEASE:[none|none]
