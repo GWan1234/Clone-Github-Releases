@@ -944,6 +944,7 @@ adafruit/Adafruit-Occidentalis: BRANCHES:[master:115173db410886eed029ebcce3414b6
 adafruit/Adafruit-PA1010D-Mini-GPS-PCB: BRANCHES:[master:6f1d0f216b848bea8d473a4b1384fd0340536ea0]|RELEASE:[none|none]
 adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB: BRANCHES:[master:28187bf4de497bd6bcff28d3767473f78b46038d]|RELEASE:[none|none]
 adafruit/Adafruit-PB86-Breakout-PCB: BRANCHES:[main:a7fce3014e27e929397fabb8f74ddbdae1fbd95d]|RELEASE:[none|none]
+adafruit/Adafruit-PCA9546-PCB: BRANCHES:[main:a98b24b8bafac251284dff313569e4c2b790bf23]|RELEASE:[none|none]
 adafruit/Adafruit-PCA9548-PCB: BRANCHES:[main:5b8baf8ad61c5bd340e53f47d9386bd3bd553d92]|RELEASE:[none|none]
 adafruit/Adafruit-PCB-Ruler: BRANCHES:[master:722a89a839cd30a00da8f9e0d61cb9332e491f55]|RELEASE:[none|none]
 adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library: BRANCHES:[master:87565cd21a2a79b3db48a851170a24eaadd33c8d;gh-pages:d54a6dbc3f044930461a177853bc64a139258cd1;busio:bdb5c8618691ccf807f3b85c89a58da4070b10db;actionci:209435ce741e88218b2cfac2c2a574d647f03983]|RELEASE:[2.0.3|87565cd21a2a79b3db48a851170a24eaadd33c8d]
