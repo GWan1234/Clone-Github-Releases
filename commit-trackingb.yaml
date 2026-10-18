@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 01:23
+commit-tracking: 2026-10-18 01:24
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -941,6 +941,7 @@ adafruit/Adafruit-PyBadge-PCB: BRANCHES:[master:992e322d5b4b0b9a2b60a809ba2ebaa2
 adafruit/Adafruit-PyGamer-PCB: BRANCHES:[master:6725ded4a2049f7bf44a9078c141ceb65a5547e9]|RELEASE:[none|none]
 adafruit/Adafruit-PyPortal-PCB: BRANCHES:[master:90d9aa7ba3f892fd4adb31815c99ede26c10757c]|RELEASE:[none|none]
 adafruit/Adafruit-PyRuler-PCB: BRANCHES:[master:6d30eb9de72a43302919d690a2e7d5d0ac07bcf0]|RELEASE:[none|none]
+adafruit/Adafruit-QT-Py-PCB: BRANCHES:[master:a8caed9ad5f2670c662f0b0a68af62cceb3cec96]|RELEASE:[none|none]
 adafruit/Adafruit-Qualia-Driver-PCB: BRANCHES:[master:4d750ce85bc1e8e5e38395030ff21ee8a353148d]|RELEASE:[none|none]
 adafruit/Adafruit-RA8875-Breakout-Board-PCB: BRANCHES:[master:64c271bb8118f9f82b9a4161e5b8e0db6398fb2e]|RELEASE:[none|none]
 adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB: BRANCHES:[master:3ad6bed6e1b407afa7119ae548b5c2f1b107c6b1]|RELEASE:[none|none]
