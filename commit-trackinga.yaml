@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 16:46
+commit-tracking: 2026-10-18 16:49
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1098,7 +1098,7 @@ syb999/copy-fail-CVE-2026-31431: BRANCHES:[main:09e97bd8f1aa3868b720a7a12a60b1c3
 syb999/csactest: BRANCHES:[]|RELEASE:[none|none]
 syb999/ddddocr: BRANCHES:[master:b59a78193622aec6e0d040d54d19f8a91c3815d4]|RELEASE:[none|none]
 syb999/dl: BRANCHES:[barrier_breaker:1fa0f122d7e2619b15039060d4b10c378ed81e72;master:2b6e9f07840a5b32f2703c15b33c1bc4f915d56a;chaos_calmer:2b6e9f07840a5b32f2703c15b33c1bc4f915d56a]|RELEASE:[none|none]
-syb999/flashrom: BRANCHES:[main:fb281f64bf58b547300a38ab9634711ddaf05e39]|RELEASE:[none|none]
+syb999/flashrom: BRANCHES:[main:979abcf2c663724ba75190f98395e77d497e8d8a]|RELEASE:[GUI-release|979abcf2c663724ba75190f98395e77d497e8d8a]
 syb999/fluffos: BRANCHES:[v2019:dc9a507c30476614984bea57b5458cf5b2c95818;master:d067c75333dde9f4f442b4364d12443e40cf7dfe;v2017:70542372169a310daa99818efcefb7348c662f85;experimental:97d03a5b286dcc01bc12e868820cbe280ee86286;coverity_scan:4425a66530e00b9eba3b987ff289f19cd85a7e26;v2.27:def765c7f659d6f713aba5747edaf1d417eb05f4]|RELEASE:[none|none]
 syb999/gitea-openwrt: BRANCHES:[main:84d0a87b296124b3d25d6fd22b78450d58a6550d]|RELEASE:[none|none]
 syb999/gmrender-resurrect: BRANCHES:[c++-conversion:93b1ebe6ffbd128b4a401421986376ae96dc2d7c;experimental-xmldoc2:8b583d027fcf0ce2f926b2dbb35b852ac6f0aefe;master:26d8f7edf5336bc30f7334c6ad459bf7f4f90ff2]|RELEASE:[none|none]
@@ -1139,7 +1139,7 @@ syb999/mtk-eip93: BRANCHES:[master:f3eb7cca47cb94648c108de7fcf2cf4483d32496;old:
 syb999/mtketh: BRANCHES:[master:f58e3e4f3acc3f2bf4417fca5014f8b4f20ce9ac]|RELEASE:[none|none]
 syb999/mud: BRANCHES:[master:cbd2e3d4165b5270d54e1977e1a4e3b98083ad58;5.12:1206879661b721803ff15beec277d454b2b7b919]|RELEASE:[none|none]
 syb999/netfilter-spooftcp: BRANCHES:[master:1cee98a574d9c53a483a971bdd6259ef377dbf52]|RELEASE:[none|none]
-syb999/openwrt-15.05: BRANCHES:[master:c01864a5a5c94e42eda368b7134e58f437bdab9a;release-2023:6906c115a3403e822c3e3b2da51c655812dffe25;ar71xx-audio:775b6e2792296821437352d5044eaa6202a88bdc;backports-v5.4:d542ef18afe563cdba7edd262875237a731c9492;backports-v5.8:f7c70b7c82d2e869f9a405d56f68e59a3511b295;swconfig-dev:e86169be77fc8f8ce18d47756d1e7e38b557ce86;sf16a18:6ea2c105f541f686d4ef33819d5d0e911a0c7543;hostapd-rssi:12707216628fd26ce14fb799cbbd6ba53d3d3ed1;3.18.140:f7ad90ece91fd44b92905493b7b2c02a36a42329;ath10k-superchannel-test:4889e236fd0e3494246bf14c7b7bcad68c8fd25a]|RELEASE:[release-2026|c0950fec0ca0352e246a228b33905663d0c9dd95]
+syb999/openwrt-15.05: BRANCHES:[master:1b5c9090a28c92425d63cba78517ba48222d492f;release-2023:6906c115a3403e822c3e3b2da51c655812dffe25;ar71xx-audio:775b6e2792296821437352d5044eaa6202a88bdc;backports-v5.4:d542ef18afe563cdba7edd262875237a731c9492;backports-v5.8:f7c70b7c82d2e869f9a405d56f68e59a3511b295;swconfig-dev:e86169be77fc8f8ce18d47756d1e7e38b557ce86;sf16a18:6ea2c105f541f686d4ef33819d5d0e911a0c7543;hostapd-rssi:12707216628fd26ce14fb799cbbd6ba53d3d3ed1;3.18.140:f7ad90ece91fd44b92905493b7b2c02a36a42329;ath10k-superchannel-test:4889e236fd0e3494246bf14c7b7bcad68c8fd25a]|RELEASE:[release-2026|c0950fec0ca0352e246a228b33905663d0c9dd95]
 syb999/openwrt-15.05-ea4500-web: BRANCHES:[master:50d78a587d9681cbc6c4a4ba6f1b35e116002510]|RELEASE:[none|none]
 syb999/openwrt-18.06: BRANCHES:[master:c3f01a61a0dede29dee884f4e391022f51783963]|RELEASE:[none|none]
 syb999/openwrt-18.06.7: BRANCHES:[master:f86441511590449a057754baa8ccfad7b2d17e94]|RELEASE:[none|none]
