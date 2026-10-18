@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 07:11
+commit-tracking: 2026-10-18 07:12
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -341,7 +341,7 @@ Seeed-Studio/Seeed_BMA456: BRANCHES:[master:59fbc1b0ad9ce22131ad904c3aebd79fc748
 Seeed-Studio/Seeed_BME680_V1: BRANCHES:[master:56b514c40f239f37ea9b52161adb3b56500cd7d2]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Elink_Shield: BRANCHES:[master:80aed5cc3b6b79c8824f43244b3939e2bf13cf3a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_GFX: BRANCHES:[master:0dfdd7135425be82b5bb4b4b58d74dd51ab29a59;feat/7inch09-epaper:bba3bdb1e263916a0560108b5a054c6aa8ac8f93;refacter/T133A01_drive_performance_opt_a2de1ab:ffe060bd634b6b5a85a91357a885a37d3ff10352;uc8179-lut:264b237622331f76a806a1a9bc790072d00b451c;exp_nrf52840_build_fix:a8f1ee8dd0c36cb45d1265ad6160f177a515ec87;13.3inch_original:2142db4b7c2df129ce1cf91a7c49e8a1a92c92a0;4bpp_rotation:4baa3129b8886ade23e8895219ee9bc277775f7f;feat/touch:0984992c09896d5ed4d9b5d39b7ebcb954e2af8f;ttf_loader:7a9e48a3a8a35bfeee564429bc2c4ae982137e66;fix:f8603436d0fb6cf6b620b83bcc84330166a84aa7]|RELEASE:[V3.1.0|0b13b21f284c9bce3351b394bbd871b688d6aec7]
-Seeed-Studio/Seeed_GFX2: BRANCHES:[main:3e2e7712af1d974d981d0dcff1402659c91521bd]|RELEASE:[v1.0.0|77fc09bee45362e1bdf204c43d618aa525c3470b]
+Seeed-Studio/Seeed_GFX2: BRANCHES:[main:4ca1339b6f73d63c29ded14d37d20ba8bf7d7b22]|RELEASE:[v1.0.0|77fc09bee45362e1bdf204c43d618aa525c3470b]
 Seeed-Studio/Seeed_Grove_4Digital_Display_g: BRANCHES:[master:d99fefadb66fafd95b5b76a23491614192863316]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Chainable_RGB_LED_g: BRANCHES:[master:51c5981fca4af65295cd84ff7a3cc426d0a6d277]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Speaker_g: BRANCHES:[master:61af43cea228256113683c59e67d33cb88709e28]|RELEASE:[none|none]
