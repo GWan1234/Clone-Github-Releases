@@ -918,6 +918,7 @@ adafruit/Adafruit-MatrixPortal-M4-PCB: BRANCHES:[main:200f94f83a08dd23e0b6cb51ff
 adafruit/Adafruit-MatrixPortal-S3-PCB: BRANCHES:[main:1ff841b511d7dc153ae8d4c0b148d33cb3b2ba85]|RELEASE:[none|none]
 adafruit/Adafruit-Menta-PCB: BRANCHES:[master:7a7800ca4fa0c04895c53ce35ad4735e0c8afc6a]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-ESP32-S2-PCB: BRANCHES:[master:42dac1c66d3001a97ef5565b1fea2e842364df32]|RELEASE:[none|none]
+adafruit/Adafruit-Metro-ESP32-S3-PCB: BRANCHES:[main:4ae86649879d3e6c4b93b258ce9f9d0889f40ad2]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M0-Express-PCB: BRANCHES:[master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M4-Express-AirLift-PCB: BRANCHES:[master:502637b33ce97a9a3048938506316001ef6dcd72]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M4-Express-PCB: BRANCHES:[master:4aafb2ac645c0d93eed7e4fd6cb71c8eef1a3ac6]|RELEASE:[none|none]
