@@ -1169,6 +1169,7 @@ adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB: BRANCHES:[master:41dcbc8f03c1b8e
 adafruit/Adafruit-TFT-Gizmo-PCB: BRANCHES:[master:dc9a7479381c01421a630a93f891c7142f4dfde0]|RELEASE:[none|none]
 adafruit/Adafruit-TLC5947-PCB: BRANCHES:[master:696070c55d4fe90aaf5a990e6bc00d1e15d8fa9a]|RELEASE:[none|none]
 adafruit/Adafruit-TLC59711-Breakout-PCB: BRANCHES:[master:db1aa65ded2fdca2fb8dca48995195abe2235a0f]|RELEASE:[none|none]
+adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB: BRANCHES:[main:4456a62a418b1a25ce2500ce0335ab6fe1eceacf]|RELEASE:[none|none]
 adafruit/Adafruit-TLV493D-PCB: BRANCHES:[master:2450d66eef51807f25f6ce598fa7aa9f95d588aa]|RELEASE:[none|none]
 adafruit/Adafruit-TMC2209-Breakout-PCB: BRANCHES:[main:227f79e2cda77b99653316692f8ec1975f58c6af]|RELEASE:[none|none]
 adafruit/Adafruit-TMP006-and-TMP007-PCB: BRANCHES:[master:84323b3001cdc9efe614bf6d703c1444c3d275b8]|RELEASE:[none|none]
