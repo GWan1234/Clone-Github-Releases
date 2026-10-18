@@ -2175,6 +2175,7 @@ adafruit/Kinect: BRANCHES:[master:e133c23fffc3e0eff2de20e25a170ef9c6faae44]|RELE
 adafruit/Kinetic_POV: BRANCHES:[master:e528c8457828995f435527480325af5e401999ba]|RELEASE:[none|none]
 adafruit/LCDDisplay10_Arduino: BRANCHES:[main:ff0983a2bba51089c576ca786068d745309a1a28]|RELEASE:[none|none]
 adafruit/LED-Ampli-Tie-with-Flora: BRANCHES:[master:2449eaa274f1f3ea5f234367b8c5086b67c10b43]|RELEASE:[none|none]
+adafruit/LLM-Recipes: BRANCHES:[main:15a25f4bf40fc852c4382bac6bbf9e2264061492]|RELEASE:[none|none]
 adafruit/LPD6803-RGB-Pixels: BRANCHES:[master:e5d3a2a55a8ee7e417e1e03dd5593530f0265eab;gh-pages:080ce20cc5b7ff32b1964190ec17423152656ec0]|RELEASE:[1.1.2|e5d3a2a55a8ee7e417e1e03dd5593530f0265eab]
 adafruit/LPD8806: BRANCHES:[master:1951478c2c2a8317feab9997cdfddba3728a245a;gh-pages:81448f8a7a13cab3aff25de1583e755c757fa00e;doxy-fix:23390422feb71d53f36151ceff85ec89c6b603db]|RELEASE:[1.0.7|1951478c2c2a8317feab9997cdfddba3728a245a]
 adafruit/LS2208-USB-Barcode-Scanner: BRANCHES:[master:e0649268db70c54e7d4be64f7317b55b6d29708d]|RELEASE:[none|none]
