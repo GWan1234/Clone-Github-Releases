@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 00:07
+commit-tracking: 2026-10-18 00:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -2487,7 +2487,7 @@ philippe44/LMS-Raop: BRANCHES:[master:681a52e58ca7365299bae68aafef5464e0bb9e7b;0
 philippe44/LMS-ShairTunes2W: BRANCHES:[master:e7acfec91e9c9c6a8e8147151e27c7ef67f4b846;v1.x:713a4b0ab895acc44df5671c5c1057d38dd62f8d;pr/4:ae2fce3cd7da9b47f267a60c36fb48a075a88a4a]|RELEASE:[none|none]
 philippe44/LMS-YouTube: BRANCHES:[master:b26aeac77238d2bdc5fa99996fdd7c41a799c66c;revert-23-rich-url-handler:853dd3b5a2d150045a362c7e323f66cb51a66dfd]|RELEASE:[0.38.1|f6fce891dbdbd629065b63d954b15017aaa583b4]
 philippe44/LMS-reliable: BRANCHES:[master:281ad3a36c0c877359dee6214a952e5177b7719d]|RELEASE:[none|none]
-philippe44/LMS-uPnP: BRANCHES:[master:7e825fef3efdce9d4020d6ed96756b7394a244b7;v1.x:9017d9828a0365536a3c5d04fc8123e382a65a81;deprecated:34f5579dd3ad74dd2cbc6cfb0848b98809cf9c15]|RELEASE:[0.2.9.0|7d5b3194d227502246f6e8c05b95a0247ade0969]
+philippe44/LMS-uPnP: BRANCHES:[master:7762507037e0d375fafc812c462f327290f89c6c;v1.x:9017d9828a0365536a3c5d04fc8123e382a65a81;deprecated:34f5579dd3ad74dd2cbc6cfb0848b98809cf9c15]|RELEASE:[0.2.9.0|7d5b3194d227502246f6e8c05b95a0247ade0969]
 philippe44/SB-Boom-charger: BRANCHES:[master:a3d4ce636d6c84da0927640d9ed886539c91a590]|RELEASE:[none|none]
 philippe44/SpotConnect: BRANCHES:[master:a533cc39ea54a47a10504f0bfb0c92e30c34a4c1;queue:bb2c75d43c6e3d6149b0b3f358291ea0030cf5a3]|RELEASE:[0.20.11|227884c68c6d2706281c630e4e041e02a04d1afa]
 philippe44/SqueezeAMP: BRANCHES:[3.x:c32856b53297829fa339efa0de94f573c44d60f0;master:68cb85a09446c7cfd24c50d3fb28ae7aa0358a6a]|RELEASE:[3.2|57d858a927c349904f7b002c12ef606285899fb4]
