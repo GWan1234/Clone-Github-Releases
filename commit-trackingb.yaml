@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 03:56
+commit-tracking: 2026-10-18 03:57
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -1890,6 +1890,7 @@ adafruit/Adafruit_OV7670: BRANCHES:[master:f40dae2304282b88f5816a64883f9aad296ad
 adafruit/Adafruit_On_Air: BRANCHES:[master:3957f81639928a8ce943575fb357884c95559b58]|RELEASE:[none|none]
 adafruit/Adafruit_PCF8574: BRANCHES:[main:a9542ac4119439a82038aebea31db2b1b4433be5;gh-pages:3936b1ee3c7079b083482e53024348d733371a96]|RELEASE:[1.1.2|a9542ac4119439a82038aebea31db2b1b4433be5]
 adafruit/Adafruit_PCF8591: BRANCHES:[master:ef72f79835dbb6ca9e75d9c3684288a2cb57b9e5;gh-pages:49f3d3d1431f0adebd62977895d97e66b0798b7f]|RELEASE:[1.0.4|ef72f79835dbb6ca9e75d9c3684288a2cb57b9e5]
+adafruit/Adafruit_PCM51xx: BRANCHES:[gh-pages:33a4614978f61623a02d00cda1d9aa984a942050;main:e53013d1252c420fdbb4671690dc73805e334a93]|RELEASE:[1.0.0|e53013d1252c420fdbb4671690dc73805e334a93]
 adafruit/Adafruit_PCT2075: BRANCHES:[master:1d14f20865404ace18f947c0481b4a3db17181d5;gh-pages:9ed8a290a59a9272dec32bdd6559ccea3f2a5a1a]|RELEASE:[1.0.6|1d14f20865404ace18f947c0481b4a3db17181d5]
 adafruit/Adafruit_PM25AQI: BRANCHES:[master:1945b8c747e2a8ac159ac0904ab410358d2b10a4;gh-pages:2819da8fcac024bd91b851b4c42be4d86e4f8b28;add_readme:c0b8ee495227c4425944576f934632d0d6d12c78]|RELEASE:[2.0.0|1945b8c747e2a8ac159ac0904ab410358d2b10a4]
 adafruit/Adafruit_Pinguin: BRANCHES:[main:b3dc486cba2bf78a1673307d7e8e6a91b6a18e73]|RELEASE:[none|none]
