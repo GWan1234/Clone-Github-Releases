@@ -2030,6 +2030,7 @@ adafruit/deep-dive-notes: BRANCHES:[main:6ead4f3ff273d8023c389b9f1ad02960cc08896
 adafruit/discord-open-source: BRANCHES:[add-adafruit:2d065dcf387af0730a823cf73583be94dc76ae77;master:7c96adca4aacd72ff1472d5813cd860ad5924c18]|RELEASE:[none|none]
 adafruit/eagle2fritzing: BRANCHES:[master:d18749346438d31870de54bcbf2748cdc676138f]|RELEASE:[none|none]
 adafruit/echo_2-xl: BRANCHES:[master:6225f233c03bc7b32c5f5cb6f756521254c34804]|RELEASE:[none|none]
+adafruit/elf-section-graph: BRANCHES:[main:74e5a410e8de83483306a7f937bc3a3510a2d850]|RELEASE:[none|none]
 adafruit/esp-idf: BRANCHES:[circuitpython-v6.1:0687c505dad1ace31c664de2c5494c13c08b0b1d;fix-sdmmc-reinit-slot-irq:837e15cbd1a5c9bc8499f7de66c7b9c13d95a335;metro-p4-sdmmc-reinit:577a17f7e4d40c70ba2dde2fa7209e7a77855f86;circuitpython-v6.0.1:2b900d1222cfce5dfa340ed99375af69ec1ee192;usbip-bridge:8a9439e141ae9344ae24328b4ad4cac5559c12c0;circuitpython-v6.0:e6c85f28eb03b78ba914cb05d072a4a506e6d4fd;circuitpython-v5.5.3:1d2c73f641af70c24274e2d3e74641592bee97e5;circuitpython-v5.5.1:f4fddd2d05b44d1d606b546b596d17de0a73e9eb;circuitpython-v5.5:708e23aba506da9f8ec9be7c947cd166ab785af7;circuitpython-v5.4.1:f50ec8ecdb31f681e6a778f145de95f849c1089d]|RELEASE:[none|none]
 adafruit/esp8266-micropython-vagrant: BRANCHES:[master:feebce55ccc4d48f86dcf53ba6bf3d6ff02b7034]|RELEASE:[none|none]
 adafruit/esp8266-weather-station-color: BRANCHES:[tsc2007support:26d562785f8e7ec65f1ace41f9b7ba003f214bbe;master:6e5c553ac6b9111d7aa1260d064104704479f7e0]|RELEASE:[none|none]
