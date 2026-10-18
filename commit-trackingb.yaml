@@ -823,6 +823,7 @@ adafruit/Adafruit-Graphic-VFD-Display-Library: BRANCHES:[master:f35ecfb8399b7135
 adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB: BRANCHES:[main:a48daa304b9d13a8d1f4ab29866c116abd44727d]|RELEASE:[none|none]
 adafruit/Adafruit-Grove-and-Stemma-QT-FeatherWing-PCB: BRANCHES:[main:2815cb84b56f4e79c573aa0c641fadef878a512f]|RELEASE:[none|none]
 adafruit/Adafruit-HDC1008-Breakout-PCB: BRANCHES:[master:997a197ad04c62881c347f31e6c0324c6d831bb9]|RELEASE:[none|none]
+adafruit/Adafruit-HDC3021-Precision-Temperature-Humidity-Sensor-PCB: BRANCHES:[main:c19db414e4e80d9613fda8acdfface82af903001]|RELEASE:[none|none]
 adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB: BRANCHES:[master:530ec62b7f4ef73fc794e10b9c59c43b7ac2c17a]|RELEASE:[none|none]
 adafruit/Adafruit-HTS221-PCB: BRANCHES:[master:e32c12659a54739f9700e8706e82f13b841f2f86]|RELEASE:[none|none]
 adafruit/Adafruit-HTU21D-Breakout-PCB: BRANCHES:[master:9a352b1841ff45b684a7263721490af9cc6a455f]|RELEASE:[none|none]
