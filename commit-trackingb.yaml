@@ -1976,6 +1976,7 @@ adafruit/adafruit-arduino-proxy: BRANCHES:[master:266ea574635b0fcc0416c68ab918f2
 adafruit/adafruit-beaglebone-io-python: BRANCHES:[master:8e0a83c88a1fe1b99d8d7e39b21baf4a635cc36b;issue308:59dcd957557b7e619ccddb2a275aeee75167cfb8;pr239:9e44c5dca0d99596fc47bf8027cb644939f3eaf5]|RELEASE:[1.2.5|8e0a83c88a1fe1b99d8d7e39b21baf4a635cc36b]
 adafruit/adafruit-bluefruit-le-desktop: BRANCHES:[master:d601794ba56041afc49df64014fea93ad1406933]|RELEASE:[none|none]
 adafruit/adafruit-circuitpython-weekly-meeting: BRANCHES:[main:629a7eec91bc561c8965df5e1e39c692fe3370da;tannewt-patch-1:491333cef5a4466e823ccef91f5f6d7c60695970]|RELEASE:[none|none]
+adafruit/adafruit-creations: BRANCHES:[main:482099c03ef4f8567cd59c4212c303d9a30baa8e;sparkle_motion:2a0f25d38b6371c3924c846b9166a0b8a34d1584;dhalbert-patch-1:88c8a2936e187b34c29d3a05e357461f4fef03ef]|RELEASE:[none|none]
 adafruit/adafruit-io-basics: BRANCHES:[master:a00668a326f1e83d40a2281af3574021fa79eddd]|RELEASE:[none|none]
 adafruit/adafruit-io-camera: BRANCHES:[master:9129c4e7ca4d49ebd4a742035ff1c4c6525c9c25]|RELEASE:[none|none]
 adafruit/adafruit-io-node: BRANCHES:[api_v2:3623b7335e5e9fde3406308534a037ec31ede961;master:8c117eebf66b8396f40ebeb19c1477113e78fbb3;homekit:fb7303eacb301cb11b78ddfe4636d9e347bae514;req-sig:e1f26c365aa8d91a35b8e578d629d5e1e163d8aa]|RELEASE:[none|none]
