@@ -1357,6 +1357,7 @@ adafruit/Adafruit_CircuitPython_AM2320: BRANCHES:[main:89e502e27a1749fec9fa1a499
 adafruit/Adafruit_CircuitPython_AMG88xx: BRANCHES:[main:de821175e1eb68c2be90c7ed51c2e6a27b9cc855;dhalbert-master:e14c153ca5371b7e91fe47264ce20c154fc92233]|RELEASE:[1.2.28|de821175e1eb68c2be90c7ed51c2e6a27b9cc855]
 adafruit/Adafruit_CircuitPython_APDS9500: BRANCHES:[main:43410c611d6e3d78e7bf962426aa67bdd8c80c1a]|RELEASE:[none|none]
 adafruit/Adafruit_CircuitPython_APDS9960: BRANCHES:[main:75a7b1abef02342a7cdead30271ce168243bf1fa;patch-test:9343629cf011fb48b69084710cf9d527298ba981]|RELEASE:[3.1.19|75a7b1abef02342a7cdead30271ce168243bf1fa]
+adafruit/Adafruit_CircuitPython_AS5600: BRANCHES:[main:00b9b94a0a575865a5cbd8c454b0425afd8bd82b]|RELEASE:[1.0.3|00b9b94a0a575865a5cbd8c454b0425afd8bd82b]
 adafruit/Adafruit_CircuitPython_AS726x: BRANCHES:[main:e342947cba64e0660a64038abb757224bfd0554f;dhalbert-ustruct:84835d377bb2bc11cd6ebb26b5830fe38307a905]|RELEASE:[2.0.25|e342947cba64e0660a64038abb757224bfd0554f]
 adafruit/Adafruit_CircuitPython_AS7341: BRANCHES:[main:54dfbfdb5adaf8d618de1a4d9ef65a2ff5e71255;fix_rtd_theme:2be8aa13fc48a777d22e3f53b6bbb43d3b930c4d;patch-fix:991f3b292f135503b8eb9fb6d045a3bcb784160e]|RELEASE:[1.2.27|54dfbfdb5adaf8d618de1a4d9ef65a2ff5e71255]
 adafruit/Adafruit_CircuitPython_AT86RF233: BRANCHES:[main:44fd9c9cf4f3d170890f237c85cc7fde85f39752]|RELEASE:[none|none]
