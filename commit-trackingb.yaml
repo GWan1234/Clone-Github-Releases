@@ -911,6 +911,7 @@ adafruit/Adafruit-Metro-ESP32-S2-PCB: BRANCHES:[master:42dac1c66d3001a97ef5565b1
 adafruit/Adafruit-Metro-M0-Express-PCB: BRANCHES:[master:6cdfd4d238f82ee87c0b3b3b91f90878fcc6a125]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M4-Express-AirLift-PCB: BRANCHES:[master:502637b33ce97a9a3048938506316001ef6dcd72]|RELEASE:[none|none]
 adafruit/Adafruit-Metro-M4-Express-PCB: BRANCHES:[master:4aafb2ac645c0d93eed7e4fd6cb71c8eef1a3ac6]|RELEASE:[none|none]
+adafruit/Adafruit-Metro-M7-with-AirLift-PCB: BRANCHES:[main:a3c861b5d9f21f124cc4e0cc4034f511857c55a1]|RELEASE:[none|none]
 adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB: BRANCHES:[master:d347601d3c62369d5b22a20b0e3f15a8fc04ef48]|RELEASE:[none|none]
 adafruit/Adafruit-MicroLipo-PCB: BRANCHES:[master:d8ab4b0f00c69a9f337a8d697bd15e0b9bae2e25]|RELEASE:[none|none]
 adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB: BRANCHES:[master:959792478854acec21fb862650427ffaa32b07f1]|RELEASE:[none|none]
