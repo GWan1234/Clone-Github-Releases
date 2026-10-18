@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-18 11:15
+commit-tracking: 2026-10-18 11:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1098,6 +1098,7 @@ syb999/copy-fail-CVE-2026-31431: BRANCHES:[main:09e97bd8f1aa3868b720a7a12a60b1c3
 syb999/csactest: BRANCHES:[]|RELEASE:[none|none]
 syb999/ddddocr: BRANCHES:[master:b59a78193622aec6e0d040d54d19f8a91c3815d4]|RELEASE:[none|none]
 syb999/dl: BRANCHES:[barrier_breaker:1fa0f122d7e2619b15039060d4b10c378ed81e72;master:2b6e9f07840a5b32f2703c15b33c1bc4f915d56a;chaos_calmer:2b6e9f07840a5b32f2703c15b33c1bc4f915d56a]|RELEASE:[none|none]
+syb999/flashrom: BRANCHES:[main:fb281f64bf58b547300a38ab9634711ddaf05e39]|RELEASE:[none|none]
 syb999/fluffos: BRANCHES:[v2019:dc9a507c30476614984bea57b5458cf5b2c95818;master:d067c75333dde9f4f442b4364d12443e40cf7dfe;v2017:70542372169a310daa99818efcefb7348c662f85;experimental:97d03a5b286dcc01bc12e868820cbe280ee86286;coverity_scan:4425a66530e00b9eba3b987ff289f19cd85a7e26;v2.27:def765c7f659d6f713aba5747edaf1d417eb05f4]|RELEASE:[none|none]
 syb999/gitea-openwrt: BRANCHES:[main:84d0a87b296124b3d25d6fd22b78450d58a6550d]|RELEASE:[none|none]
 syb999/gmrender-resurrect: BRANCHES:[c++-conversion:93b1ebe6ffbd128b4a401421986376ae96dc2d7c;experimental-xmldoc2:8b583d027fcf0ce2f926b2dbb35b852ac6f0aefe;master:26d8f7edf5336bc30f7334c6ad459bf7f4f90ff2]|RELEASE:[none|none]
@@ -1147,7 +1148,7 @@ syb999/openwrt-19.07.0-rc1: BRANCHES:[master:7adb808f1a56511311c37d345fd47ad4f0d
 syb999/openwrt-19.07.1: BRANCHES:[master:f48d0a263d021e3c5cb2baf3d7f402ff4cf6d7ff]|RELEASE:[none|none]
 syb999/openwrt-21.02.0: BRANCHES:[main:9630d57dc96b9ba5042312c5bf85c2c2c1e87220]|RELEASE:[none|none]
 syb999/openwrt-21.02.2-caddy: BRANCHES:[main:e2d5264d4eb42c36aeb77619d05f0a193079a5f7]|RELEASE:[none|none]
-syb999/openwrt-21.02.5: BRANCHES:[master:0892e207d89e6aa33ad381676715e274a7d026f6]|RELEASE:[release-2026|7a52699d45dd64b0f006d1b0413c89a1ebcb8475]
+syb999/openwrt-21.02.5: BRANCHES:[master:f68c9e2fde596efbbb0d32fa6596244199d4a3da]|RELEASE:[release-2026|7a52699d45dd64b0f006d1b0413c89a1ebcb8475]
 syb999/openwrt-22.03.0: BRANCHES:[master:cce7768613c99f1092f1ca546797eef5e5e5bb0d]|RELEASE:[none|none]
 syb999/openwrt-22.03.5: BRANCHES:[master:2328bb4de0771f51115c4f5780937d280e6fde84]|RELEASE:[none|none]
 syb999/openwrt-23.05.0: BRANCHES:[master:df67fe6b490029d1c0f4e6e768e9a1d10e2adb10;fast-path:ab87aeefea6740b5b3bfc0d145b4326a04b3364c]|RELEASE:[none|none]
@@ -1189,7 +1190,7 @@ syb999/packages-23.05: BRANCHES:[master:b1707833cc512bd567fe4f0c64fecb3f50e6034c
 syb999/packages-23.05.3: BRANCHES:[master:7d4a37ea630430f300d7796abc9f46bdcf444d6e]|RELEASE:[none|none]
 syb999/packages-24.10: BRANCHES:[master:dad19026f1c2c764dd4162e5c59a4457da9d6891]|RELEASE:[none|none]
 syb999/packages-24.10.8: BRANCHES:[master:9be256ab7fc3f462b6ba0531b4b1d08412e57bab]|RELEASE:[none|none]
-syb999/packages-openwrt-21.02: BRANCHES:[master:00c500da093490d1194a0de14ccccda7b4ec5868]|RELEASE:[none|none]
+syb999/packages-openwrt-21.02: BRANCHES:[master:dd5fb80097cf9bcbfcf7fd3e2b08332f4e5abe9c]|RELEASE:[none|none]
 syb999/pascal-1000y: BRANCHES:[master:f4eb7cc4b5ffe4cff4ecbe152057039da23f4fb2]|RELEASE:[none|none]
 syb999/pdf2csv-converter: BRANCHES:[master:d5df687b3a54e74d53fc65bcb323fb802d505d94]|RELEASE:[none|none]
 syb999/phpems: BRANCHES:[master:82540f739b1b2f5053b54d219cff1924b10931fb]|RELEASE:[none|none]
