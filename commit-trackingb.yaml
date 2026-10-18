@@ -895,6 +895,7 @@ adafruit/Adafruit-MCP2221-PCB: BRANCHES:[master:53e780f92007ff5cd0de8680872af6d3
 adafruit/Adafruit-MCP23008-library: BRANCHES:[master:1a0d6e61f867dc23a712132d4179ad15addbae52;gh-pages:c9ee1952f00f9fa30f6c9f0c44a22d7f362d7508;busio:42817035e552c8b96c00a077d8d5b289a9f4e567]|RELEASE:[1.2.0|2e7593383739a7dc3a6dba3dbc0e6e184e611f2a]
 adafruit/Adafruit-MCP23017-Arduino-Library: BRANCHES:[master:9e67e3732d1af68d8894b2f98c57bd9efa54027c;gh-pages:f03be76044657180692a7790284817e79db863aa;actionci:a90f6cf5b8258876f695c5ece758633971bbc8b1]|RELEASE:[2.3.2|9e67e3732d1af68d8894b2f98c57bd9efa54027c]
 adafruit/Adafruit-MCP23017-PCB: BRANCHES:[main:f73186f1b593f7a5a3e710d9ced889005b580c38]|RELEASE:[none|none]
+adafruit/Adafruit-MCP3421-18-Bit-ADC-PCB: BRANCHES:[main:3037fb9364ec7dbc29817c3254bda21e8217cbe5]|RELEASE:[none|none]
 adafruit/Adafruit-MCP4725-PCB: BRANCHES:[master:0c89d205fcd7d0a1269a4f57c5cdfa0ce09e54dd]|RELEASE:[none|none]
 adafruit/Adafruit-MCP4728-PCB: BRANCHES:[master:ab66f6aaf2e95f0027f17c2dde804d79508300f2]|RELEASE:[none|none]
 adafruit/Adafruit-MCP9600-PCB: BRANCHES:[master:59ed646dfbeafb9d4124db583fe9df9532cd3a07]|RELEASE:[none|none]
