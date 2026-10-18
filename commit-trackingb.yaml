@@ -1837,6 +1837,7 @@ adafruit/HL1606-LED-Strip: BRANCHES:[master:e0206c459162922557ade0fb2985840e4996
 adafruit/HL1606-LED-Strip-PWM: BRANCHES:[master:bc43d9cf18b152ccc197515ceab0498f7600ae92]|RELEASE:[1.0.0|257f431e9ca9508f31ed0bbdc8a6f8eb5380cdd2]
 adafruit/HT1632: BRANCHES:[master:af146db458c21f6136448716f2c9cd69a14ea355;gh-pages:58e09e9c8965032cd5fbc57b39f1adf9ca6fc671;actionci:d8f845b03401e012ca1dad4e58d1782af273907b]|RELEASE:[1.1.2|af146db458c21f6136448716f2c9cd69a14ea355]
 adafruit/Hunt-The-Wumpus: BRANCHES:[master:5bd98a38f5f2d98c73502122f1d7d8665f7c987f]|RELEASE:[none|none]
+adafruit/I2C_Addresses: BRANCHES:[main:77344f60b65aba0ea31a6ffba8398014a67f5310]|RELEASE:[none|none]
 adafruit/IO-Connect-Example: BRANCHES:[master:482870e3bbe75a294f0737abc53302c533f2ba7e]|RELEASE:[none|none]
 adafruit/IR-Commander: BRANCHES:[master:d5eb6e2dcf090a7fc6985cbdac358fe6b4368336]|RELEASE:[none|none]
 adafruit/IRKey: BRANCHES:[master:44ea72a1142ae43aea40ccf8c77d674704ffc945]|RELEASE:[none|none]
