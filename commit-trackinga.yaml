@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-19 02:28
+commit-tracking: 2026-10-19 02:31
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -734,7 +734,7 @@ Nerivec/ha-zigbee2mqtt: BRANCHES:[dependabot/github_actions/home-assistant/build
 Nerivec/ha-zigbee2mqtt-testing: BRANCHES:[main:ae5bfda10377dfd4d1124b0737c3dd3ef9ac14cd]|RELEASE:[none|none]
 Nerivec/ha-zigbee2mqtt-windfront: BRANCHES:[main:247c81d7d60ceff9b5724f46767144ad204355b8]|RELEASE:[none|none]
 Nerivec/ti-firmware-builder: BRANCHES:[main:8202094447c335fb1fa83c72d9a2644ddac009ec;lower-baudrate-ot-rcp:0a3d4e561cfe256d10947717a3ce4105468fb3e7]|RELEASE:[none|none]
-Nerivec/z2m-external-converter-dev: BRANCHES:[main:eb5987bda92c68e662b224d10e1a62305fb2d680]|RELEASE:[none|none]
+Nerivec/z2m-external-converter-dev: BRANCHES:[main:76687bb13b17393fec4531024a53849e28d57175]|RELEASE:[none|none]
 Nerivec/zigbee-faker: BRANCHES:[dependabot/npm_and_yarn/development-dependencies-168b173ea3:d4fd55442eb507a841885c3bee4a75ff1878d609;dependabot/npm_and_yarn/types/node-25.0.10:fd23fe4c231ad28f19726f6295707799542d9824;dependabot/npm_and_yarn/zigbee2mqtt-2c2653e:1f6856d4eb6d830ff0dbaa1f7fe1123da9db486e;dependabot/npm_and_yarn/zigbee-herdsman-9.0.1:e6c0524b3e5e8ae184a7d678b2ad02969a7093ab;main:ee8facd1eb3e2073e2fc1855302bd6345e561387]|RELEASE:[none|none]
 Nerivec/zigbee-on-host: BRANCHES:[built-main:f35961960cd0ac4ffa33ab7c00d2e40a9c0c3241;main:f440cd210378df997c6ac653b494f39c01c3398d;zigbee-4.0:b2e8080bf4b69090fd2351506e18805bb0c90d8b]|RELEASE:[v0.3.2|f440cd210378df997c6ac653b494f39c01c3398d]
 Nerivec/zigbee-ota-file-editor: BRANCHES:[main:379b92807520b164124ab033306529a21dc939a6]|RELEASE:[none|none]
