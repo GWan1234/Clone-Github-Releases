@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-19 06:13
+commit-tracking: 2026-10-19 06:14
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -466,7 +466,7 @@ Seeed-Studio/meta-seeed-cm4: BRANCHES:[fix/ci:62ca6130a97b928e172291d4d7b66c930f
 Seeed-Studio/meta-seeed-rockchip: BRANCHES:[main:c3eec6c759d7559f424fe4a830cee0c3e5353694;meta-balena:227ad007450ed1d009da41f6ba8d958b976b2812]|RELEASE:[none|none]
 Seeed-Studio/meta-st-odyssey: BRANCHES:[openstlinux-6.1-yocto-mickledore:4c07884b30bc6d9e2b07af647502efd5f8f58c05;master:2c7b20cc2e6bae0e8b397f4f5d29ffba283b940d;develop:0b93e8b7688125f3ac96103001721c5bdcf98e79]|RELEASE:[openstlinux-6.1-yocto-mickledore-mpu-v24.06.26|4c07884b30bc6d9e2b07af647502efd5f8f58c05]
 Seeed-Studio/micropython-microbit-grove: BRANCHES:[master:e3766e9d6763866ac93878cdf9a007d578f4a6e8]|RELEASE:[none|none]
-Seeed-Studio/micropython-seeed-boards: BRANCHES:[master:dcaea615405388ee594b54ebbbe3aed91134b0bc;test/hw-smoke-nrf54l15-mg24:6a1c7e2599861a810e587b957378b2c60592ea6c;ci/validate-pull-requests:163b8223c5462ceab3747207e18333a70ea02eac;nrf54lm20a:89095e8de2a13a9a80c198a815fd144d52062d3b;nrf54l15_test:442e7ccfa7201d44d305dbbee6d3bab5acd7147a]|RELEASE:[v1.3|a3eb9c369b6587aa5c1103f0f29773989f8e47b2]
+Seeed-Studio/micropython-seeed-boards: BRANCHES:[master:fb10f0de92914858455a648f9900c9ef686a8d75;test/hw-smoke-nrf54l15-mg24:6a1c7e2599861a810e587b957378b2c60592ea6c;ci/validate-pull-requests:163b8223c5462ceab3747207e18333a70ea02eac;nrf54lm20a:89095e8de2a13a9a80c198a815fd144d52062d3b;nrf54l15_test:442e7ccfa7201d44d305dbbee6d3bab5acd7147a]|RELEASE:[xiao-nrf54lm20a-v2-v1.0.0|fb10f0de92914858455a648f9900c9ef686a8d75]
 Seeed-Studio/mm-iot-esp32: BRANCHES:[main:b8b7452ddbe2cc9b7a4d94e22ae6f4653c596821]|RELEASE:[none|none]
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
 Seeed-Studio/node-red-contrib-ml: BRANCHES:[main:69d5b535b687c3ccc121d30c54e748798c07e42b;dev2:f1f199cca438ee38b1b10427c5f2e4257e3c804b;source:f704fa644dc0b932e19a72aec1f3e97d55d34ee4;dev/kenny:a5f85eee416bfd9f58b1c6982c8d172da1572cde]|RELEASE:[v1.2|f1f199cca438ee38b1b10427c5f2e4257e3c804b]
