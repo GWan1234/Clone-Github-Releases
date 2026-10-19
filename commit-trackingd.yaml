@@ -766,7 +766,7 @@ m5stack/M5Unit-DISTANCE: BRANCHES:[develop:f32a7a90c7fd0bebf1444d91e0b6b51c65b56
 m5stack/M5Unit-DMX512: BRANCHES:[main:37bf84817240af9efdd4ebebcf38109bbba04c12]|RELEASE:[none|none]
 m5stack/M5Unit-DigiClock: BRANCHES:[master:a1306af167eef6e0a60332baccd226ba914aadbd]|RELEASE:[0.0.1|7d98b5ef515196ce64ab6a0e549335eabd0bc029]
 m5stack/M5Unit-ENV: BRANCHES:[gh-pages:f872d1a993c3cbec739089bc5c87c145e205e977;master:28c521a137cb6696f4860cdce93ca7df9ce9a6af;develop:75b242d45cef2da7dab3593001b457b4b5bdbcb7;feature/fix-idf-transitive-dependency:d44ac344df1aa5476edf329b09ff58e5323b922f;fixes/BME688:3aa3af1bf5f85d1c191aca99ba87ce54a0adf2a8]|RELEASE:[1.7.3|28c521a137cb6696f4860cdce93ca7df9ce9a6af]
-m5stack/M5Unit-EXTIO: BRANCHES:[develop:047f2bb2ac1acbe139943464c6378b02f3b65a56;gh-pages:be1071599d01cc8242cf9889e66c3644f234bffd;main:b9070c0fc15b3565e869103386f15345f93edf61]|RELEASE:[0.1.1|b9070c0fc15b3565e869103386f15345f93edf61]
+m5stack/M5Unit-EXTIO: BRANCHES:[gh-pages:4a798c3dbc7a2978f1c2b20fb4e2f4cf8aa239cd;main:21cf1089fe2dae1aa31c1d38d3c9960919c8245e;develop:047f2bb2ac1acbe139943464c6378b02f3b65a56]|RELEASE:[0.2.0|21cf1089fe2dae1aa31c1d38d3c9960919c8245e]
 m5stack/M5Unit-EXTIO2: BRANCHES:[main:33ae277d3fddf61a8e73c3d6f8a7d2b7a3b74a05]|RELEASE:[1.0.3|e123f193767bfafb3345c069fb2f97740ce3c1d2]
 m5stack/M5Unit-EXTIO2-Internal-FW: BRANCHES:[main:dbd1bbba8201f73d75a5544b69c8639c89b395f8]|RELEASE:[none|none]
 m5stack/M5Unit-Encoder: BRANCHES:[master:8f4508003ebe1f4f0ec3da0187a51c3feb56dd33]|RELEASE:[0.0.2|4a9d8484a0b551f4cb618e290bba0ef6e4ab59dc]
