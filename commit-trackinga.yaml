@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-19 10:41
+commit-tracking: 2026-10-19 10:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1186,8 +1186,8 @@ dailook/gl-infra-builder: BRANCHES:[main:bcf28a4224d1f3345e65d22272c8c198b24bb5a
 dailook/immortalwrt-24.10: BRANCHES:[openwrt-24.10:fe93ec43755b15cd257b0934bf45d3da45d6206e;24.10.7:de11b333e0548cc6c201e3fa7add9e0bdbc29756;24.10.6:e7993ec00bbd4ee8f36455278cde728f399a4786;24.10.5:a72a309f177dc41d5a44ab7f364bc5adc5b1ae56;24.10.3:d637ebb4a05ec32b0fed54edf0b9bef8d1025261]|RELEASE:[CLX-S20L-Full-LuCI-NPS-24.10-2026.10.04-21.50.49|fe93ec43755b15cd257b0934bf45d3da45d6206e]
 dailook/immortalwrt-mt798x: BRANCHES:[openwrt-21.02:3a35815705448b4dd8e56507ee6009d0a7dd4af6]|RELEASE:[none|none]
 dailook/immortalwrt-mt798x-6.6: BRANCHES:[2410:d39cdc44de0a906b6eed4472bdd273dbd5a26f24;mt798x-mt799x-6.6-mtwifi:30fbc1d6deba23c0e850185021e9ee42214925eb;sync-237-6.6:ec9ef10efc65da1e6d1de4e2c043c0e13d08eed8;openwrt-24.10-6.6:a320a353413d2040c510f244aaca0cffbaf9a695;24.10.6:4d3d25baa06dc5a24703fcfda57aa340ae3eaed0;24.10-5.4-high_kernel:4b75bfd812343ef88549bee5ffa440988b242dc1;openwrt-23.05:ec388f343491085cdf32da506da071cf022fb7d7]|RELEASE:[none|none]
-dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12:5c5c94e5b945bd1da9043c396b779a17c1298960;openwrt-25.12:ce35a9e4ef1b87fbbc2146036ce6693e4242861a;25.12-dev-wifi7:aeffdad3456d2ab592aa9d6ae0ebabe0a0a1830d;rework-24.10:36086c1fd1dab71c19dc1409ca632f3d5c18f4fc;rework-21.02:4f07b582334bc7dcbf8e396087c949b155ce4582]|RELEASE:[none|none]
-dailook/lede: BRANCHES:[master:f5d4e9aa8b3f37630041bb9fd1f7d9be778bb40b]|RELEASE:[none|none]
+dailook/immortalwrt-mt798x-rebase: BRANCHES:[25.12:03eb30617955519e35845838c6255ebe687eb717;openwrt-25.12:ce35a9e4ef1b87fbbc2146036ce6693e4242861a;25.12-dev-wifi7:aeffdad3456d2ab592aa9d6ae0ebabe0a0a1830d;rework-24.10:36086c1fd1dab71c19dc1409ca632f3d5c18f4fc;rework-21.02:4f07b582334bc7dcbf8e396087c949b155ce4582]|RELEASE:[none|none]
+dailook/lede: BRANCHES:[master:73167d97bd2bdd7b12e710057c9f8629aa05d07c]|RELEASE:[none|none]
 dailook/luci-app-adguardhome: BRANCHES:[main:36108202f326f65ab6f5a85d15adcba6538f8e8b]|RELEASE:[none|none]
 dailook/luci-app-airoha-npu: BRANCHES:[main:14521b8414da1e98517a295d8ec267087c7dde8e]|RELEASE:[none|none]
 dailook/luci-app-easytier: BRANCHES:[main:bfaeeac084b3e48a5e6c5bb72b711f631e70cc0a]|RELEASE:[none|none]
@@ -1203,7 +1203,7 @@ dailook/openwrt-pon-drivers: BRANCHES:[main:e5194d2dfd169eef8f4a944fdc3f929e0287
 dailook/openwrt-pon-userspace: BRANCHES:[main:cce9d756742487b378749c606b30e13ee9b0f093]|RELEASE:[none|none]
 dailook/package-backup: BRANCHES:[master:35c7d66a754b4d69b1417182bd69f4cbdd2bb592]|RELEASE:[none|none]
 dailook/packages_lang_golang: BRANCHES:[27.x:c912b45f02ec65c2b21419564e6c631acdbe7e8d;26.x:bdad5443d147343ea6e497f91ed8bee0d97f8996;25.x:e952b860128acc1e2c09caeff657109522c04d08;24.x:94dd0f5793debfee007f0581509640c392de7188;23.x:3d7be284fa3c6d9835d32803694904d6799ab59a]|RELEASE:[none|none]
-dailook/ponwrt: BRANCHES:[master:a57faf93c6c3638ba3651690228aabaa51d3f235]|RELEASE:[none|none]
+dailook/ponwrt: BRANCHES:[master:edaeeb300c9d71149f2fa1ee15e9afc2d7eb4c26]|RELEASE:[none|none]
 dailook/turboacc: BRANCHES:[main:9f88212c70c2586b3038d2e1ad0271fe94fc5a0d]|RELEASE:[none|none]
 dailook/u-boot: BRANCHES:[mtksoc:99042fe2c08ef835b088e906d07495ab74324ed0;mtksoc-20250711:9a25de54e417e9ed0391786e6de177aaef5f4dd4;mtksoc-20250212:70e5cec9ab6536007a9227a4264402fdcba86ca5;master:3da1864b1f2fc3cf2b4eaa1849bcafa669ff674c;mtksoc-20230719:09eda825456d164e12e719a83360bf0987e64bfd;mtksoc-20220818:1c928b4d7fdfbde0cabd2daa5c1d47b51d1abb64;mtksoc-20220813:f4937031ea22a1e30b2bbeb5e0d8eb6131ce8e13;mtksoc-20210306:5e0f12c0526621c02b4add72242726ae707d744c;WIP/25Feb2021:b73d114213b41f46218e849950f569fb75d4028c;next:bc0b99bd8b19599f670f42401de655fa9b44cd94]|RELEASE:[none|none]
 dailook/uboot-an758x: BRANCHES:[main:d8c3e6a0d34953769674a0df61ab6b861cf60d2a]|RELEASE:[none|none]
