@@ -36,9 +36,38 @@ allrepositories:
   #  160
   - ioBroker
   # 241
+
+  - martin-ger
+  - playbridgeapp
+  - Joetooley28
+  - pbs05
+  - naoki66
+  - faadd2
+  - shilapi
+  - retspen
+  - catborise
+  - ventoy
+  - pasthev
+  - shihabal3amri  
+  - rednblkx
+  - Kasazaki4090
+
+#  - home-assistant 106
+#  - DFRobot 497
+#  - OLIMEX 154
+#  - Seeed-Studio 506
+#  - ophub
+#  - unifreq
+
 onebyonerepositories:
   #- yifengyou
   # 556
+  - home-assistant
+  # 106
+  - DFRobot
+  # 497
+  - OLIMEX
+  # 154
 
 exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
@@ -46,7 +75,7 @@ exclude:
   - armbian/community
   - SmartRouterZone/swrt-gpl
   - Seeed-Studio/OSHW-WioTerminal
-
+  - faadd2/PortableWiFiCrack
 
 repositories:
   name0:
