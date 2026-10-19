@@ -91,6 +91,7 @@ repositories:
     - https://github.com/1orz/project-cpe
 
   name1:
+    - luci-app-dji-4g
     - mihomo
     - QModem
     - MISTERNEGATIVE21
@@ -112,6 +113,7 @@ repositories:
     - xfangfang
     - Yuzhii0718
   repo1:
+    - yukinsnow/luci-app-dji-4g
     - MetaCubeX/mihomo
     - FUjr/QModem
     - MISTERNEGATIVE21/QuectelEC200U
@@ -133,6 +135,7 @@ repositories:
     - xfangfang/Macast
     - Yuzhii0718/bl-mt798x-dhcpd
   source1:
+    - https://github.com/yukinsnow/luci-app-dji-4g
     - https://github.com/MetaCubeX/mihomo
     - https://github.com/FUjr/QModem
     - https://github.com/MISTERNEGATIVE21/QuectelEC200U
