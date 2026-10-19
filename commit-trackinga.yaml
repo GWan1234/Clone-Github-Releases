@@ -485,7 +485,7 @@ DFRobot/mmWave_addons_repo: BRANCHES:[main:36fd4d025522b40fd0b192f706ec6d9fbc1a9
 DFRobot/mmware_map_card: BRANCHES:[main:e1d515ab73262229c19de74f70fd680777fe5cd0]|RELEASE:[none|none]
 DFRobot/mpy-firmware: BRANCHES:[master:7752af8a429bef3db719eddb09ca951ea6c1b0f8]|RELEASE:[none|none]
 DFRobot/mpy-gravity: BRANCHES:[master:3b6161616587d44befc1da99c871c049dfd21e87]|RELEASE:[none|none]
-DFRobot/muse-gadget-sdk: BRANCHES:[muse-unihiker-k10-full:8a5c228a9e6b707b12e494be42008f67421f3803;muse-unihiker-k10-basic:b7fef53dc727329e487acd2ebdb8589b42cad83b;main:8e613f77f3a95a63e70cf8be549db9e589105ea0]|RELEASE:[k10-full-v0.1.0|5bc316455b27f37383d9be12f0c916f4d4462a6c]
+DFRobot/muse-gadget-sdk: BRANCHES:[muse-unihiker-k10-full:fa26a4ca51895c929ec03dc5847f93eb0eacd11c;muse-unihiker-k10-basic:3375df842d6ea9e7f8b3c3eefaa06e4b7c4f26b3;main:8e613f77f3a95a63e70cf8be549db9e589105ea0]|RELEASE:[k10-full-v0.1.0|5bc316455b27f37383d9be12f0c916f4d4462a6c]
 DFRobot/obloq-weather: BRANCHES:[master:7701e9b90f4e18bfbc57f901b192959384984795]|RELEASE:[none|none]
 DFRobot/onnx2kmodel: BRANCHES:[master:c65fff701058ca8db3e0ac9e94b0568edb1e184e;dev:a7f326b8112da0c5ea7e07d21d5b68f2c2084669]|RELEASE:[v1.0|a7f326b8112da0c5ea7e07d21d5b68f2c2084669]
 DFRobot/openai-realtime-embedded-sdk: BRANCHES:[main:14f11f9b4ecbb351bd78e72a7fcbb1ff3bc8d7c6]|RELEASE:[none|none]
