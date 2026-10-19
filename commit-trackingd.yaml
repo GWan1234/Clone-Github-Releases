@@ -2502,7 +2502,7 @@ waveshareteam/ESP32-S3-Touch-AMOLED-2.16: BRANCHES:[main:225a62bff11b5d0a0b60787
 waveshareteam/ESP32-S3-Touch-AMOLED-2.41-V2: BRANCHES:[main:0eaf16cfae3440d445f2b6caa71e94065094551f]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-1.46: BRANCHES:[main:fda89ff2ff32eb1bce561901225c6a36fa684237]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-1.54: BRANCHES:[main:5157db7c888e476fd57f8a95020800377447478f]|RELEASE:[none|none]
-waveshareteam/ESP32-S3-Touch-LCD-1.69: BRANCHES:[main:4b438f54ebbe1ddc067d272d7cb404ae88c03076;chore/ci-compatibility-refresh:8a74c634864831cce7f68528bc4933d12cf9ef4c]|RELEASE:[v1.1.0|c45a0a8a5e253634369e7bc4f81be8cccb56d7b2]
+waveshareteam/ESP32-S3-Touch-LCD-1.69: BRANCHES:[main:a258d904d27e79d443d3a04268fe1800075d3a78;chore/ci-compatibility-refresh:8a74c634864831cce7f68528bc4933d12cf9ef4c]|RELEASE:[v1.1.0|c45a0a8a5e253634369e7bc4f81be8cccb56d7b2]
 waveshareteam/ESP32-S3-Touch-LCD-1.83: BRANCHES:[main:a790c727912d8f2f5f7cf56fd8cca8c892a36c76;chore/ci-hardware-alignment:5d1993e1c87f761f774abd3ffb3ddf792bd9cb8e;chore/repository-modernization:6849b2242f2027f2a2460ff3add6e56c252a6f3b]|RELEASE:[v1.0.1|e240605fb6f047a3c02082f140798b7a66d6f120]
 waveshareteam/ESP32-S3-Touch-LCD-1.85B: BRANCHES:[main:139e6db584f3737fcfc6a958ee83b79fb69d317c]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-1.85C: BRANCHES:[main:8ead4a96bf3a278fc4ebd8ef4768657e17fa2880]|RELEASE:[none|none]
