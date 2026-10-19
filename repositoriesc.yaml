@@ -33,10 +33,7 @@ exclude:
   - armbian/cache-next         # 排除某个组织的特定仓库
   - armbian/cache
   - armbian/community
-  - SmartRouterZone/swrt-gpl
-  - Seeed-Studio/OSHW-WioTerminal
-  - faadd2/PortableWiFiCrack
-
+  
 repositories:
   name0:
     - sing-box
