@@ -1175,6 +1175,7 @@ sparkfun/Bus_Pirate: BRANCHES:[master:f72dd29315f981bdb2202d67e157903043b255da]|
 sparkfun/CAN-Bus_Shield: BRANCHES:[v20:79b393c52e0f178bd8e5a1f90e1918d74c9076dd;master:2e152297bd82162a0aa01cae8f074c9ae953bbcb]|RELEASE:[none|none]
 sparkfun/CC3000_WiFi_Breakout: BRANCHES:[master:eb0e211b622dc2ae720daf087e3863146a3e3e17]|RELEASE:[none|none]
 sparkfun/CC3000_WiFi_Shield: BRANCHES:[master:59a530fbfed9989e41d6febbc20d4d1115bbdf3e]|RELEASE:[none|none]
+sparkfun/CCS811_Air_Quality_Breakout: BRANCHES:[master:685cb19e78e07ddd8358d685ded96ae59e525e4d]|RELEASE:[none|none]
 sparkfun/CP2102_Breakout: BRANCHES:[master:b0629d7e3b6004c158f858be66a4a197fcc62491]|RELEASE:[none|none]
 sparkfun/CherryMX-Chord-Keyer: BRANCHES:[master:3243f6c3525daa7f4acc8c799ab4412e8a534dcf]|RELEASE:[none|none]
 sparkfun/Cherry_MX_Switch_Breakout: BRANCHES:[master:08e9ff00eb97103ae91df825cf71813556819de4]|RELEASE:[none|none]
