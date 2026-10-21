@@ -1224,6 +1224,7 @@ sparkfun/LED_Matrix_Serial_Interface_RedGreen: BRANCHES:[master:3ba07887a3a734b6
 sparkfun/LED_RingCoder_Breakout: BRANCHES:[master:2dcdf34a54d8dc723a9fcfe8e54a5f421dd4aebc]|RELEASE:[none|none]
 sparkfun/LED_Tactile_Button_Breakout: BRANCHES:[master:02b0b40cbba51f19f55cb83376255949a5bb73fb]|RELEASE:[none|none]
 sparkfun/LMD1820x_Breakout: BRANCHES:[master:a5f587671d761e775864aad88fc55bd919d203dc]|RELEASE:[none|none]
+sparkfun/LS20126_GPS_Breakout: BRANCHES:[master:7d9158c4c07b4d11d7ae7d85ccdbe5ac2e10c391]|RELEASE:[none|none]
 sparkfun/LSM303_Breakout: BRANCHES:[master:1175ad5cbb5fd221f295f9503a112befbde60392]|RELEASE:[none|none]
 sparkfun/LSM9DS0_Breakout: BRANCHES:[master:eb90307372db802a90a6669f1279db45e10569bb]|RELEASE:[none|none]
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17]|RELEASE:[v1.0|4646af3c08884bc62905b49d4bd7e6d80f458d17]
