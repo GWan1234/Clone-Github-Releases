@@ -1333,6 +1333,7 @@ sparkfun/SparkFun_MetaWatch_Library: BRANCHES:[master:ecf820fc546185f2362526b9eb
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Breakout: BRANCHES:[master:a7708c41db39d6bda609f27d21c45ce98ed7664d]|RELEASE:[none|none]
 sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac]|RELEASE:[1.1.14|6019e589518335edd39cf0fa5c89933e71470c99]
+sparkfun/Sparkfun_Blocks_Template: BRANCHES:[master:2624d22e74e68588d33d3a39d715e043feb3de5d]|RELEASE:[none|none]
 sparkfun/Sparkpunk: BRANCHES:[master:dcc9836a229a5fc89475ff87f20d26f68e7e2f39]|RELEASE:[V10|4566b04fb0d5cfe1b7b1ab2148d8218993fd9a78]
 sparkfun/Sparkpunk_Sequencer: BRANCHES:[master:236d6e79ec916e1cd56b950b063ad0fda0d06765]|RELEASE:[none|none]
 sparkfun/Spectrum_Shield: BRANCHES:[master:192ccfc26bfb4e811f4de1cfec2601975889c7cb]|RELEASE:[none|none]
