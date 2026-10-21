@@ -1031,7 +1031,7 @@ algerkong/AlgerMusicPlayer: BRANCHES:[main:b15617ce8652e12a4314be66e2c35ff1f7602
 algerkong/EPD-nRF5_DYC: BRANCHES:[Tmp:6878f56528150a79118407c286a4ff8e800047f0]|RELEASE:[none|none]
 algerkong/PI-Desktop: BRANCHES:[main:fbd291527b2681c16072a62cc064ceb2d37b916d;feat/background-tasks:773555e80975b0813b812b46e27794f8b8f1a49e]|RELEASE:[none|none]
 algerkong/TVBoxOS: BRANCHES:[main:ab11d289e09963a9daf65ca7f6b7a9a8cbe184e1]|RELEASE:[none|none]
-algerkong/algerkong: BRANCHES:[output:e69d5f07b2aa2e1aedd69c04a93b2c96a96983e0;main:32cec42ed98e27fc46f704188eebbcfde35fb5b8]|RELEASE:[none|none]
+algerkong/algerkong: BRANCHES:[output:290311eefd6359f4acbcb318aa94fc9a4b1ff321;main:32cec42ed98e27fc46f704188eebbcfde35fb5b8]|RELEASE:[none|none]
 algerkong/awesome-dsh-plugin: BRANCHES:[add-dsh-image-preview:9c72dc7d50d663c9c19bbdb2e767f00b405b2333;main:53b303576470bc9547e6cb4e4b922904d32edfbf;fix/moved-subpath-entries:9feceeae58d95637921a74f01d1f48a40d3d7152;enable-comments:cca6aa9947b6ab5a627f8fd5917a2a8c1b5aa6e6;docs/market-description:f491ec15f84dce68d6b4698fd500aadc9572448c;split-categories:f3000ad16faa50c1c0578031a27fe3c5ee581b9f;data-driven-list:6a7d99ebd1aa6b036d442add058a254d5566fe1b;feat/screenshots-field:2014c667be4b007187257cedb89ba44996749d98]|RELEASE:[none|none]
 algerkong/claude-ass: BRANCHES:[master:e0ca5060413ec736487c3536ca8c62fb549eacb8]|RELEASE:[v1.0.0|76310aff54c038fc37be30e21bc45b5d7b7b72fc]
 algerkong/code-review-skill: BRANCHES:[main:032b09c2849c3995dd373cf1dee235d976930c01]|RELEASE:[none|none]
