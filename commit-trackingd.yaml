@@ -1330,6 +1330,7 @@ sparkfun/ML8511_Breakout: BRANCHES:[master:25bc3d14b749be647ccd8de34559358394d4d
 sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3]|RELEASE:[none|none]
 sparkfun/MOSFET_Power_Control_Kit: BRANCHES:[master:a299921f38e068ea66bd29bedf1bdf65fc806cbc]|RELEASE:[none|none]
 sparkfun/MOSFET_Power_Controller: BRANCHES:[master:d20f59094c1d7a4e9a1747663bc88a6df2e4bed8]|RELEASE:[none|none]
+sparkfun/MP3_Breakout-VS1033D: BRANCHES:[master:e3918fc6009971fbd5a586d0f3cc652f1a611760]|RELEASE:[none|none]
 sparkfun/MP3_Breakout-VS1063: BRANCHES:[master:b92d9f493ad4e8e46801357139381ce7a25af8ce]|RELEASE:[none|none]
 sparkfun/MP3_Player_Shield: BRANCHES:[master:28059938df586e7c147f38d51ff90bde4d9a602c]|RELEASE:[none|none]
 sparkfun/MP3_Trigger: BRANCHES:[master:70269588b7f73f5346ff6d2a3f9d176977c28482]|RELEASE:[none|none]
