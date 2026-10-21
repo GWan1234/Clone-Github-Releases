@@ -1846,6 +1846,7 @@ sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f341
 sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015: BRANCHES:[master:55cca07b538b2c613d5f3e2119e8593b06a65cd0]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c089130660f485c3af065fbbc1ef9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc7ded513bf42aef665627858d1]|RELEASE:[v2.0.6|52287080ba327bc7ded513bf42aef665627858d1]
+sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library: BRANCHES:[main:8b247948e139e97001117efdc26f6aceceda0e4c;release_candidate:57d9fab6517f296e4d567524a4d434857f3d6360]|RELEASE:[v1.0.3|8b247948e139e97001117efdc26f6aceceda0e4c]
 sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library: BRANCHES:[master:b4abbd9eded6a82b0ad3f91c94109848b47bc6a9]|RELEASE:[v1.1.1|b4abbd9eded6a82b0ad3f91c94109848b47bc6a9]
 sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library: BRANCHES:[master:555e4a61b7a6d6081226c843531133087a898c32]|RELEASE:[v1.2.0|e1de5b4691d542c9b3c2afdd0ed69cf06681300c]
 sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badffd3d5da44be33b7d930189fb1f5b1]|RELEASE:[v1.0.5|615228de818cf1052ef58ef0ef9f5c2381ea35dd]
