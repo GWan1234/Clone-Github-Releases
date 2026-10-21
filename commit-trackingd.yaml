@@ -1598,6 +1598,7 @@ sparkfun/SparkFun_ADXL345_Arduino_Library: BRANCHES:[master:6d795cce285d94014c29
 sparkfun/SparkFun_AK975x_Arduino_Library: BRANCHES:[master:3557088994aca1ce142f6ab84e650e66ab903b08]|RELEASE:[v1.0.6|3557088994aca1ce142f6ab84e650e66ab903b08]
 sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea27c64164d3405b936caa287b7c83f]|RELEASE:[none|none]
 sparkfun/SparkFun_APDS9301_Library: BRANCHES:[master:acba4c9b68f33921f7c9ed7ba7836998e4481e7d]|RELEASE:[v1.0.0|cb3e1ba4b14ebfb5962de3f23dc9c55bc20d8ad8]
+sparkfun/SparkFun_AS726X_Arduino_Library: BRANCHES:[master:31b2c22e04b7226a75fb25c3f9e2f6a57b4ea44a]|RELEASE:[v2.0.1|55ecffb8dbcadac8b3d2cb2376eb4cc1c6f33fd7]
 sparkfun/SparkFun_ATSHA204_Arduino_Library: BRANCHES:[master:2bab4159308224a504e9bc05303b2fdc9d7f42c3]|RELEASE:[none|none]
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7]|RELEASE:[V_1.3.3|f9306a3284aff540ef1b4bc220947ff8519fa493]
 sparkfun/SparkFun_BC127_Bluetooth_Module_Arduino_Library: BRANCHES:[master:cd836547687ecc9c915ed0727fb12471e35cdfd4]|RELEASE:[none|none]
