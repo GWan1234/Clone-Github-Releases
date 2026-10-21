@@ -2090,6 +2090,7 @@ sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C: BRANCHES:[main:b5be8ef9be3940a1f722f
 sparkfun/SparkFun_Thing_Plus_MGM240P: BRANCHES:[main:cf4772115b2ef522ed8f8be4b9ea5bc7179654a9]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_NINA-B306: BRANCHES:[main:4046be3599e45afef76b2184f92c2ce70a39dc48]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_NORA-W306: BRANCHES:[gh-pages:249a62365f2abb5fbb64ed1ea76bc4e8149ac45e;main:24c70e910118c9b052cc2f6e273e8e091190d3d5;v10.1_Vreg_Change:da42f99de5ca753e6a9916013812d84b3d30c9b4]|RELEASE:[none|none]
+sparkfun/SparkFun_Three_Phase_Motor_Driver-TMC6300: BRANCHES:[gh-pages:8676dc18c470af3c312e830d3fc6b4bd42b8f455;main:f433cc1b029a5708e7543077d739bb578b183f4b]|RELEASE:[v01|7f8a61b16ded9ed20cab96b328f5102ff778d891]
 sparkfun/SparkFun_Tinker_Kit_Code: BRANCHES:[master:0d1c1e73e0b0842a70b16af1bcb12b60e755cc3d]|RELEASE:[vF2.0|6e47904e806df5042b3a11a964d5a4c5dd3b2a64]
 sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library: BRANCHES:[master:a4e4def9dfd2fdac56a58b41d8a690d475377760]|RELEASE:[v1.1.3|fbddc0e68616d7b4ca14d2c1654c0b0fcc2d41bb]
 sparkfun/SparkFun_TouchInput_Arduino_Library: BRANCHES:[master:89031a406c1f65415f945b8e6401fa514b69ab0c]|RELEASE:[v1.0.0|89031a406c1f65415f945b8e6401fa514b69ab0c]
