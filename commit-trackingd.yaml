@@ -1409,6 +1409,7 @@ sparkfun/TMP006-Temp_Sensor_Breakout: BRANCHES:[master:d9404e52b2aca0167a5b08b2b
 sparkfun/TRS_Jack_Breakout: BRANCHES:[master:ef19cc9df26d8e7e2597d8509cc69f06f0bc29a0]|RELEASE:[none|none]
 sparkfun/TSL2561_Luminosity_Sensor_BOB: BRANCHES:[master:e2fbe173be2ccb2f266d7aa7585b99362578fbc6]|RELEASE:[none|none]
 sparkfun/TXB0104_breakout: BRANCHES:[master:c8bf609f801a894d4af649a7134cd0ecddab8fa3]|RELEASE:[none|none]
+sparkfun/Teensy_Arduino_Shield_Adapter: BRANCHES:[master:e212be53df5819eebdd7ea3526dbba6363ea026f]|RELEASE:[none|none]
 sparkfun/Thermal_Printer: BRANCHES:[v1.1:1a8bc5d8c3a812fc3959f550cd92223baac01905;master:d1bfbb0db0d250a893ec595f0732dacabed94446]|RELEASE:[v1.0|d1bfbb0db0d250a893ec595f0732dacabed94446]
 sparkfun/Through-Hole_Christmas_Kit: BRANCHES:[master:1c964e527b78eb34b2f7161880df4e315a0d6db5]|RELEASE:[none|none]
 sparkfun/Tilt-a-Whirl_Breakout: BRANCHES:[master:f86f47594932749040fa7a303518d5177c3ab207]|RELEASE:[none|none]
