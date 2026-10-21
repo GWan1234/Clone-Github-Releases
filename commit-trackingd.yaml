@@ -1204,6 +1204,7 @@ sparkfun/Electric_Imp_Breakout: BRANCHES:[master:034f73aab36e63f81ea8029bc3cdfb0
 sparkfun/Electric_Imp_Shield: BRANCHES:[master:ec361a2a134e55198f7123b7b662c375d4c1b41d]|RELEASE:[none|none]
 sparkfun/Electric_Imp_imp002_Breakout: BRANCHES:[master:08b2b02d505451a9ebe4f61e9a3019d8fbb3001f]|RELEASE:[none|none]
 sparkfun/Elevator_TARDIS: BRANCHES:[master:f8545d8ad3dc95a8261700fdb55f16639ba39fb0]|RELEASE:[none|none]
+sparkfun/Energy_Harvester_Breakout-LTC3588: BRANCHES:[master:bc2d0ff7491171c5d922b5caa85ce6d91347c837]|RELEASE:[none|none]
 sparkfun/FPGA_Tutorial: BRANCHES:[master:ad67ff758dd71cba90706833b6f8717f11cb23db]|RELEASE:[none|none]
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
 sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73a9b3299e]|RELEASE:[none|none]
