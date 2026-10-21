@@ -1417,6 +1417,7 @@ sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52]|RELEASE:[none|none]
 sparkfun/RFID_USB_Reader: BRANCHES:[master:10b5ce56eadbe69ca935a5e70271084da820ecab;v20:335159a0fe5063f0c996dbcfa4ad40bfaf41d575]|RELEASE:[v10|4f1b3b3a2ca954e227055a93826480999dd949f1]
+sparkfun/RFM22_Shield-434MHz: BRANCHES:[master:f4e95a5e7b5c34b09b5c5589f7d5ba267ecc39a3]|RELEASE:[none|none]
 sparkfun/RFM69HCW_Breakout: BRANCHES:[master:bbdeb90abd7d484141efe302b7735fe7d42c3550]|RELEASE:[none|none]
 sparkfun/RF_Links: BRANCHES:[main:1b2f68585281418a1cb2661713ab41a19623bc92]|RELEASE:[none|none]
 sparkfun/RF_Transceiver_Breakout-RFM22B: BRANCHES:[master:47f1c1e3d3036f3c603fbbc8e735248a733c89ab]|RELEASE:[none|none]
