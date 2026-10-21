@@ -1464,6 +1464,7 @@ sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac7693
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
 sparkfun/MicroMod_Machine_Learning_Carrier: BRANCHES:[master:9ccae940e9965de17ece010394c4597f40244c07]|RELEASE:[none|none]
+sparkfun/MicroMod_Processor_Board-SAMD51: BRANCHES:[master:7c85c41de81b93d6da49c199ea8284b18e1392d6;FLASH_NET_CORRECTION:abe1946998a6e56bd5fc40b75b74e100b26bd206]|RELEASE:[v1.3|2355eab7571233264603431d547c1348de2ea07b]
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0]|RELEASE:[none|none]
 sparkfun/MicroMod_Weather_Carrier_Board: BRANCHES:[master:783ea26e825d8d55e11cf3bcc9c7440dcd065f48;newMicroMod-Pinout:51aefca8f451dc9e3151a9b4c551504e4ac5b26b]|RELEASE:[none|none]
 sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4]|RELEASE:[none|none]
