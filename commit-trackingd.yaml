@@ -1459,6 +1459,7 @@ sparkfun/SparkFun_Graphic_LCD_Serial_Backpack_Arduino_Library: BRANCHES:[master:
 sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library: BRANCHES:[master:3886ebd95291e223ec3319da37eaaf3eb0e7e47b]|RELEASE:[none|none]
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3]|RELEASE:[none|none]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9]|RELEASE:[none|none]
+sparkfun/SparkFun_LSM6DS3_Arduino_Library: BRANCHES:[master:fa686db5006826a84e5d930bb83838406905b571]|RELEASE:[v1.0.3|fa686db5006826a84e5d930bb83838406905b571]
 sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2db219f3095f89b75131de]|RELEASE:[none|none]
 sparkfun/SparkFun_LSM9DS1_Arduino_Library: BRANCHES:[master:18d3181c2bf2826c85b819079e3e626d12ab763b]|RELEASE:[v2.0.0|7269199c7a38a70becf454148474c6f05028e5b7]
 sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42c76a2034017df432fe883b6022c01bc]|RELEASE:[v1.2.4|09f9cf0b4b2458d474457504a35645dae53fc119]
