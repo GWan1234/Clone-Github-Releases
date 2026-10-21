@@ -1527,6 +1527,7 @@ sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0
 sparkfun/Qwiic_Distance_VL53L1X: BRANCHES:[master:543b1e2d80325a39c2585882808757361f86cc66]|RELEASE:[none|none]
 sparkfun/Qwiic_Flex_Glove_Controller: BRANCHES:[master:98ef9c0e35209480c9cf1f5288c5c7142c99c8d5]|RELEASE:[none|none]
 sparkfun/Qwiic_GPS-RTK: BRANCHES:[master:d4f7a0d1130eb3352325d8a333c648e706525aac;v2.0:3731617bed7b2da853ea1b4028c6b60ca6b6dc19]|RELEASE:[none|none]
+sparkfun/Qwiic_GPS-RTK2: BRANCHES:[master:898a676f3136b68118331e3683299951df3e7133;Add-SMA:21acf219f9a81c40b94d8627a493b92540b964c3]|RELEASE:[v1.1|6459bcf812a29815167cc9f273f4e68ee5fc64d9]
 sparkfun/Qwiic_GRIDEye: BRANCHES:[master:465f70b1e79fbb3b3d0d95e501549b212098c5de]|RELEASE:[none|none]
 sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda9f521c05822;v20:243a88ed965572e367cc6b87e3cfa9501d8f9426;master:398c9a96426808707a5230f6aac4adc2eb47b9eb]|RELEASE:[v1.0|398c9a96426808707a5230f6aac4adc2eb47b9eb]
 sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753: BRANCHES:[master:bba6d9cf4ac79bd573f39fae4c4ac378468edfe0]|RELEASE:[none|none]
