@@ -1495,6 +1495,7 @@ sparkfun/Qtechknow_ArduSensor_Learning_Kit: BRANCHES:[master:6f79ab1d7baa8e5bd22
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6]|RELEASE:[none|none]
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a]|RELEASE:[none|none]
 sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575]|RELEASE:[none|none]
+sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0cf99b0a71cd]|RELEASE:[none|none]
 sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda9f521c05822;v20:243a88ed965572e367cc6b87e3cfa9501d8f9426;master:398c9a96426808707a5230f6aac4adc2eb47b9eb]|RELEASE:[v1.0|398c9a96426808707a5230f6aac4adc2eb47b9eb]
 sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753: BRANCHES:[master:bba6d9cf4ac79bd573f39fae4c4ac378468edfe0]|RELEASE:[none|none]
 sparkfun/Qwiic_Micro_OLED: BRANCHES:[master:c3ee0d437bd69ed8c1e5bce32e425c81365d2e21]|RELEASE:[v1.0|2d9c62497590fa458a4e15f8baf91f81ced34926]
