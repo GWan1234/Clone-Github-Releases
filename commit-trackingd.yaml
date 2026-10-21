@@ -1997,6 +1997,7 @@ sparkfun/pxt-gator-UV: BRANCHES:[master:40c4e91795fd0ff51ad8a57d3bb4a0057dd15d5c
 sparkfun/pxt-gator-environment: BRANCHES:[master:99cca7ae490f18df311281757fd65b8bc93e93df]|RELEASE:[v1.1.1|a68c91cdf89fda5c37d3ee044a186051a9ec0c14]
 sparkfun/pxt-gator-light: BRANCHES:[master:e31cd4a8048c4d7944a3c22ecb4a60748d708710]|RELEASE:[none|none]
 sparkfun/pxt-gator-log: BRANCHES:[master:31a992b509cfe8ef3e84d42d791849bb32cba682]|RELEASE:[none|none]
+sparkfun/pxt-gator-microphone: BRANCHES:[master:3d66082ea8f88ee4523d21fd3968c46c9427958b]|RELEASE:[v1.1.0|bbf86e4769c6aab1fc73a52ed264e89d126d540a]
 sparkfun/pxt-gator-particle: BRANCHES:[master:2668b8dc0d69d7de43df384e633e13ae340bbca1]|RELEASE:[v1.1.6|2668b8dc0d69d7de43df384e633e13ae340bbca1]
 sparkfun/pxt-gator-temp: BRANCHES:[master:f3bfdeeae2f5d27df6bd22550256a9f3381993dc;bears_and_bears:272d4c1c6838a45fb9dec58f39c9849adcb41c74;test:8ec2c6aae0dc9ea1f52275d7f54abbde568038ec;Working_Copy:995b4a92627458794992fb008e0f0e92750bd596]|RELEASE:[none|none]
 sparkfun/pxt-moto-bit: BRANCHES:[master:a7151bd5491db792afc4dab141a30d357086d816;tweaks:3cccc10b03bf656fc6e75255ad6f426512843a5d]|RELEASE:[none|none]
