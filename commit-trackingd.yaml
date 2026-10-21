@@ -1971,6 +1971,7 @@ sparkfun/SparkFun_MiniMoto_Arduino_Library: BRANCHES:[master:1b42fbbbe25c134150f
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
 sparkfun/SparkFun_MyoWare_Code_Examples: BRANCHES:[main:2493e6331e28fde530fc6eb2c6ff310f3dadf0d4]|RELEASE:[none|none]
 sparkfun/SparkFun_NanoBeacon_Board_-_IN100: BRANCHES:[main:40189116319f1d307b77d1bb22f2947e2948fd24]|RELEASE:[none|none]
+sparkfun/SparkFun_OPT4048_Arduino_Library: BRANCHES:[main:ee45b59791b55ffa6f93f30303275d097179a4d1]|RELEASE:[v1.2.1|ee45b59791b55ffa6f93f30303275d097179a4d1]
 sparkfun/SparkFun_OWire_Arduino_Library: BRANCHES:[main:428ddcb6a790cfefa071f44b884425383349685d;add-license-1:7bd382c98ca2206978f01c60a144f4fc630661ba]|RELEASE:[v1.0.1|428ddcb6a790cfefa071f44b884425383349685d]
 sparkfun/SparkFun_PCA9536_Arduino_Library: BRANCHES:[master:b7366c6377c8d536a8aedac1a13c74209523eca5]|RELEASE:[v1.2.2|b7366c6377c8d536a8aedac1a13c74209523eca5]
 sparkfun/SparkFun_PCB_Ruler: BRANCHES:[master:cc8476629d4cb2897ed51f13862e8dbb492fafc9;SparkFun-Ruler:45822ec59afb47d0cf7cc2da59e9f4f37363a2cd]|RELEASE:[none|none]
