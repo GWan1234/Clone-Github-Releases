@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 11:20
+commit-tracking: 2026-10-21 11:21
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1307,6 +1307,7 @@ sparkfun/IoT_CloudCloud: BRANCHES:[master:ef85e8d9b63e5d9b71dbe0b71f9ccfa44d5c20
 sparkfun/IoT_Connected_Chess_Boards: BRANCHES:[master:96b3eadae1ba135b27ba41f686f7e187cf4d6add]|RELEASE:[none|none]
 sparkfun/IoT_FridgeCam: BRANCHES:[master:ba5b0f30546cf0ee789220fbcad20e97e6bb584f]|RELEASE:[none|none]
 sparkfun/IoT_SmartMirror: BRANCHES:[master:cc65e68a3f40c5518e2bd4dd0804222ca609123f]|RELEASE:[none|none]
+sparkfun/IoT_Weight_Logging_Scale: BRANCHES:[master:8ca3b20a7780ccdae75b638e43176f518a4fa47a]|RELEASE:[none|none]
 sparkfun/IoT_Weight_for_Treats: BRANCHES:[master:c0eded5e69ea5a8b37d2bcf70f41d73203786aca]|RELEASE:[none|none]
 sparkfun/Joystick_Shield_Kit: BRANCHES:[master:555ec84cdf0a0e3b65267ceb36333250b2c5bc4c]|RELEASE:[none|none]
 sparkfun/KickScraper: BRANCHES:[master:5e9a560e6d5ca1e5745014fcbc0f15e8dd0220b6]|RELEASE:[none|none]
