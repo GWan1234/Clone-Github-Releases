@@ -1575,6 +1575,7 @@ sparkfun/SparkFun_9DOF_Block_for_Edison_CPP_Library: BRANCHES:[master:8c7b62446d
 sparkfun/SparkFun_AD5330_Breakout_Arduino_Library: BRANCHES:[master:21aa99546be079bc995c9084e1b8947276985397]|RELEASE:[none|none]
 sparkfun/SparkFun_ADC_Block_for_Edison_CPP_Library: BRANCHES:[master:b037feb0db10467eaaad2b4ba226c2376370bd99]|RELEASE:[none|none]
 sparkfun/SparkFun_ADXL345_Arduino_Library: BRANCHES:[master:6d795cce285d94014c294d297573e33266a4c7d5]|RELEASE:[v1.0.0|2cf01ae30f93452a8d8633423dbfe9e0ae894216]
+sparkfun/SparkFun_AK975x_Arduino_Library: BRANCHES:[master:3557088994aca1ce142f6ab84e650e66ab903b08]|RELEASE:[v1.0.6|3557088994aca1ce142f6ab84e650e66ab903b08]
 sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea27c64164d3405b936caa287b7c83f]|RELEASE:[none|none]
 sparkfun/SparkFun_ATSHA204_Arduino_Library: BRANCHES:[master:2bab4159308224a504e9bc05303b2fdc9d7f42c3]|RELEASE:[none|none]
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7]|RELEASE:[V_1.3.3|f9306a3284aff540ef1b4bc220947ff8519fa493]
