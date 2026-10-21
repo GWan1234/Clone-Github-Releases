@@ -1463,6 +1463,7 @@ sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd37261103
 sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac76938c]|RELEASE:[none|none]
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
+sparkfun/MicroMod_Machine_Learning_Carrier: BRANCHES:[master:9ccae940e9965de17ece010394c4597f40244c07]|RELEASE:[none|none]
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0]|RELEASE:[none|none]
 sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4]|RELEASE:[none|none]
 sparkfun/MicroSD_Sniffer: BRANCHES:[master:cb837970e6bd69acb9d3e0466fef1f0d04ab7078]|RELEASE:[none|none]
