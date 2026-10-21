@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:51
+commit-tracking: 2026-10-21 12:52
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1909,6 +1909,7 @@ sparkfun/SparkFun_Qwiic_Relay_Arduino_Library: BRANCHES:[master:b2e617e907f89cb2
 sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library: BRANCHES:[release_candidate:e15210f5b58f4c013239c65430dec74395961691;main:e15210f5b58f4c013239c65430dec74395961691]|RELEASE:[v1.0.6|e15210f5b58f4c013239c65430dec74395961691]
 sparkfun/SparkFun_Qwiic_Step_Arduino_Library: BRANCHES:[master:e23010718d2479ddea76d63d9aaed154590c92af;hold/run-current-implementation:a4b0dc9d2d16fdffd96c0a3bc0d1107c71e95048;Motor-run-option-implementation:c40688149634b91680f8caa5366898a752c7c085]|RELEASE:[v2.0.1|3a95366e274da65eec39327ab8f4057445e32062]
 sparkfun/SparkFun_Qwiic_Twist_Arduino_Library: BRANCHES:[master:4feea8a4a11549f910dd84d261c9928e612bc8f2]|RELEASE:[v1.0.4|4feea8a4a11549f910dd84d261c9928e612bc8f2]
+sparkfun/SparkFun_Qwiic_pHAT_Extension: BRANCHES:[master:571793c5ad78317e58c8af851ab91404821a02da]|RELEASE:[v1.0|571793c5ad78317e58c8af851ab91404821a02da]
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
 sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5]|RELEASE:[1.0.0|cde2d2ed820fbf4885912417152cbdff506a2323]
 sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[v1.0.0|03c1988fe9d1a4201da06b86781a7ef994b093b4]
