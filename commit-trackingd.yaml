@@ -1116,6 +1116,7 @@ sparkfun/ADXL362_Breakout: BRANCHES:[master:59a85587537e4fc45d4ad3c78782bf165ba9
 sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b0e9b28c46165f292fdfa80b6]|RELEASE:[HW_v1.0_FW_v1.0|a1d09227f57d31b224ee6de3195bcf5f69d8f535]
 sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa11f94e]|RELEASE:[pre-Arduino-1.6|adc2926f6c9872b6534079f21ce90784b7433215]
 sparkfun/Analog_Digital_MUX_Breakout: BRANCHES:[master:f7f2eeb117617e67ab8442edc7ba767d19f0fd75]|RELEASE:[none|none]
+sparkfun/Arduino_Pro_Mini_328: BRANCHES:[master:bcf8de441f8ebe9e21377c4a0d12794670dc2551;Silk_Revision:03d2a8092338be0f1650cb76065ea4321f429223]|RELEASE:[none|none]
 sparkfun/Audio-Sound_Breakout-WTV020SD: BRANCHES:[master:0a167ac8c499cfeb0fd5de0bce803c971a1cc8a9;v02:8adb57e1d8db2354bb1962b3f447d26584a64c76]|RELEASE:[none|none]
 sparkfun/BC127_Breakout_Board: BRANCHES:[master:54439d5d8feb4152aea897af669a206f2c0a2fe1;HW_V11:80aca3bb92b5857b144fc7b2d6786cd0d825a3fd]|RELEASE:[none|none]
 sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d]|RELEASE:[none|none]
