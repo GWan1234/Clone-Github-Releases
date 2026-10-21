@@ -1244,6 +1244,7 @@ sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4
 sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc099fbbd]|RELEASE:[none|none]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
 sparkfun/LiPower_Boost_Converter: BRANCHES:[master:5e7cd12443b3bc1273141299cddf84745ea4047c]|RELEASE:[none|none]
+sparkfun/LilyPad_Arduino_328_Main_Board: BRANCHES:[v_21:1e0f7007cbe7cec48c2dce05f526a61eac19c41a;master:4d5c5faa4f870d2f5e758cc98d93f66e3914abbc]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_Simple: BRANCHES:[master:d5d61fea9830db56d8cd3254306adcc86d66e064;v26:d1f912eb7c8374e159d9d917523104662614a25e]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109d56ed40;HW_V12:882261bf42eeba874e2966af87a214e06d4f7698]|RELEASE:[none|none]
 sparkfun/LilyPad_Button_Board: BRANCHES:[master:7108ef23887e3ac677720aa37b0ad82e38acc886;v13:814051bafc4075f1f518f5c95b22eb8d5bcedb62]|RELEASE:[none|none]
