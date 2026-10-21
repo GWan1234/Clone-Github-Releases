@@ -1326,6 +1326,7 @@ sparkfun/HX711-Load-Cell-Amplifier: BRANCHES:[master:38228f8f6602e1349d7130c7a38
 sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712: BRANCHES:[master:6e53ba8f5c9fb8d6d81a56ff6fd30e93c28245b6;Hall-Effect_Current_Sensor_Breakout-ACS723:332bba49b1037b1ef870a19c0c5bcf1de8561172;QC-Rev:03614d5468029a4ed4462f07d8cadd6784b9e61c]|RELEASE:[none|none]
 sparkfun/Haptic_Motor_Driver: BRANCHES:[master:a300e3885810ff5475729ed6713678cf1b613451]|RELEASE:[v20|a300e3885810ff5475729ed6713678cf1b613451]
 sparkfun/HaterMatic: BRANCHES:[master:bb08cd5ee309f4f652027030ea31921a6f516f87]|RELEASE:[none|none]
+sparkfun/Home_Air_Quality_Monitor: BRANCHES:[gh-pages:3f5e8cd6335a5dbe0b7daf02d37bbe3352a831c9;main:73d794fa71c36cf6ee3892f159c489f3c8bf9803]|RELEASE:[none|none]
 sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e773e91c835f36dae7af8f]|RELEASE:[none|none]
 sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary: BRANCHES:[master:969668b8ecb61e982bf14b3bdaf5eb53f0341278]|RELEASE:[V1.0.0|969668b8ecb61e982bf14b3bdaf5eb53f0341278]
 sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]|RELEASE:[v1.0.2|d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]
