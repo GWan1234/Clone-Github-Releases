@@ -1157,6 +1157,7 @@ sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;libra
 sparkfun/RedBot_Accelerometer: BRANCHES:[main:dc04b82d3abcb1f428d3d7b37406e565d15d90bc]|RELEASE:[v14|3f4d0aee8a0f187f03871cf6c903070030d2ca79]
 sparkfun/RedBot_Line_Sensor: BRANCHES:[master:81f44b0843601dd5127585ba34b0852fb47d67b0]|RELEASE:[none|none]
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
+sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
 sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c4]|RELEASE:[pre-1.6|4c5d9565b4a106118b47046dd6803769a36dc867]
 sparkfun/SFE_Eagle_Bundle_Files: BRANCHES:[master:b769e378cae0ef3cfba7067570c279ac58abfb4d]|RELEASE:[none|none]
 sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131fd;edu_rework:994ec7f28b94d5a0c370906ea51cfda8d21f525a;SIK_Arduino_Book:54e38a9631199403dc2b8c465e687b41e651f98e]|RELEASE:[v41|2b12597f2ea010b1e738aae8457ea9353db28b78]
