@@ -1114,6 +1114,7 @@ sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;chan
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717]|RELEASE:[none|none]
 sparkfun/Bugzilla-Extension-SparkFun: BRANCHES:[master:8c86130b12cc9c24c73f9aff11e31f6c2832ffec]|RELEASE:[none|none]
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab]|RELEASE:[none|none]
+sparkfun/Copernicus_II_DIP_Module: BRANCHES:[master:c756306e9f97ceefd6b658c9a223a3a111e93475]|RELEASE:[none|none]
 sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf;readme_cleanup:da949361f9a4a3e0e3a11e2271037c0231e1c785]|RELEASE:[none|none]
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
 sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba9435f;master:ad25133c696fdb6c294ec22c15e958ab25152759]|RELEASE:[none|none]
