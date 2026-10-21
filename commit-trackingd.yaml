@@ -2091,6 +2091,7 @@ sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library: BRANCHES:[master:e0818e38
 sparkfun/SparkFun_VL53L1X_Arduino_Library: BRANCHES:[develop:9b339a46ef92dcd830e0b1281fe616762f44bed2;master:e88f55d6d82a4a8c519ec90a2660e6ec799b4579]|RELEASE:[v1.2.12|7ca2ae038948adaacf08866bf11fadfb48f23b8d]
 sparkfun/SparkFun_VL53L5CX_Arduino_Library: BRANCHES:[main:248607060e49d18bdf064c6aa411ffe515993d16]|RELEASE:[v1.0.3|424e753a865f004e02c0a37678b9fe252ba6ab5c]
 sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae12f7f5d69e7af03b88efd7b85f3984d8848a3]|RELEASE:[none|none]
+sparkfun/SparkFun_WM8960_Arduino_Library: BRANCHES:[main:92b61c555152dafa370a78bb7597ad9f2247db6c]|RELEASE:[v1.0.6|92b61c555152dafa370a78bb7597ad9f2247db6c]
 sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library: BRANCHES:[master:8ecc42a49543a2731358c05ae743a2dafa661d2a]|RELEASE:[v1.0.3|8ecc42a49543a2731358c05ae743a2dafa661d2a]
 sparkfun/SparkFun_WiFi_Function_Board_ESP32: BRANCHES:[main:a92944749d9c83d3ad965ad901ade45793c8e970;v11:8b019c3b57909a74dca4f43ed4c1bae490ea403c]|RELEASE:[none|none]
 sparkfun/SparkFun_WiFly_Shield_Arduino_Library: BRANCHES:[master:34bf7e633051d848fb2b97cc523f5191e2cf1c89]|RELEASE:[none|none]
