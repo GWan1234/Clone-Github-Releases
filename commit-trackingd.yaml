@@ -1113,6 +1113,7 @@ sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf
 sparkfun/KickScraper: BRANCHES:[master:5e9a560e6d5ca1e5745014fcbc0f15e8dd0220b6]|RELEASE:[none|none]
 sparkfun/L6470-AutoDriver: BRANCHES:[master:6e71cacf06aa1cfe9e1be81cd59270bbe5a98a66]|RELEASE:[none|none]
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f]|RELEASE:[none|none]
+sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9]|RELEASE:[none|none]
 sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3]|RELEASE:[none|none]
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
