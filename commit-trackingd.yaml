@@ -1131,6 +1131,7 @@ sparkfun/DeadOn_RTC: BRANCHES:[master:c5d6d0ee0d7e84953a3c0a122b234d60a61bf15d]|
 sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102: BRANCHES:[master:36ba5a6a268163e38cb3e0a89b786ba80f15c143;V_H13.0:3e8ac2bf1ae5071fe913a39adc6083234315c0e5]|RELEASE:[none|none]
 sparkfun/Eagle_Class_Tools: BRANCHES:[master:8226ac074c6fc5f99eb76aa3cbb8fee9f3fb6549]|RELEASE:[none|none]
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
+sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73a9b3299e]|RELEASE:[none|none]
 sparkfun/FTDI_Basic_Breakout-5V: BRANCHES:[master:8bbbb934962da976e7aa975f44845be3722a65d7]|RELEASE:[none|none]
 sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba9435f;master:ad25133c696fdb6c294ec22c15e958ab25152759]|RELEASE:[none|none]
 sparkfun/Fingerprint_Scanner-TTL: BRANCHES:[master:0636188ddf8206d166b9859e9f18d2bb62e65999]|RELEASE:[v1.1.1|e60554fc3ea36866072cb9026a16788b381f92d6]
