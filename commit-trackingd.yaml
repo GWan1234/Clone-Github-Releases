@@ -1875,6 +1875,7 @@ sparkfun/SparkFun_Digi_XBee_Regulated_Qwiic: BRANCHES:[gh-pages:15a4bb58f0a2146f
 sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic: BRANCHES:[main:31cb105d70fa07023cc52af5751763bbcf8a5098]|RELEASE:[none|none]
 sparkfun/SparkFun_Displacement_Sensor_Arduino_Library: BRANCHES:[main:1d7535a6c5432694b108a0e2af2b9ba37e183023]|RELEASE:[v1.3.3|1d7535a6c5432694b108a0e2af2b9ba37e183023]
 sparkfun/SparkFun_Dual-Port_Logging_Shield_Arduino_Library: BRANCHES:[main:2731eb443a535b28271f2d4ac455f9d3434c6fe9;release_candidate:17fa91d8e62d1e54f00c5e9280dd80bbac9c8217]|RELEASE:[none|none]
+sparkfun/SparkFun_ESP32_Qwiic_Pro_Mini: BRANCHES:[gh-pages:4a0f8db678fab67f88431ec11a4057401fd305f1;main:096c783fe9ea9842083e910e3605da65074924de]|RELEASE:[none|none]
 sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield: BRANCHES:[master:ea55d9d5a0a1d7c638f598915d8ebc329b2e8753]|RELEASE:[none|none]
 sparkfun/SparkFun_ESP8266_AT_Arduino_Library: BRANCHES:[master:f52ddca7b6a75eccdebb2851c033485ffe414864]|RELEASE:[V_1.0.0|44bcb9294f2e51342983402ebb3a2b0065472555]
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9]|RELEASE:[none|none]
