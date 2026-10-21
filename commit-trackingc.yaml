@@ -866,7 +866,7 @@ m5stack/STAMP-C3: BRANCHES:[master:ee5f574e0ee2a85e696f7ab7cb8779d8646fbcf1]|REL
 m5stack/STAMP-PICO: BRANCHES:[master:fb2173ff5ff541411b5a9fbd7af44b7043209b80]|RELEASE:[0.0.2|a9e9209e1ae8e2f1d94b72dc86c0d9293f988b0c]
 m5stack/STAMP-S3: BRANCHES:[main:6b64d431f930ff5e2bd770a07003ac983c24bc3f]|RELEASE:[none|none]
 m5stack/StackChan: BRANCHES:[main:bc60de1adb8a70d30cadadc83f0c336ec7f9e3a8;firmware-dev:bc60de1adb8a70d30cadadc83f0c336ec7f9e3a8;server-dev:6ae34a072e4f58aa9fff94852efaddcc41068371;remote-dev:3a8dc37b9b999d474cddbf4cd0a687bec02c6ea2;docs-dev:ad47f0ba99fa51a1836522c7baa186393a8a8dc3;ios-dev:4f87087a7da70ce32598941e3dc440cb12880056]|RELEASE:[none|none]
-m5stack/StackChan-BSP: BRANCHES:[main:8d4d6fc3b7a6be379c6317c45a02a30bff8c492e]|RELEASE:[1.1.0|f7ed40e6f5d9a1d08440cb926f3a0865b81882f8]
+m5stack/StackChan-BSP: BRANCHES:[main:fb5e9f5697803ca64e45fe7ad8eaea3e4100f766]|RELEASE:[1.1.1|fb5e9f5697803ca64e45fe7ad8eaea3e4100f766]
 m5stack/StackFlow: BRANCHES:[dev:4438bea63df5585ede0c5a87e9ff229c5821e482;axcl:fd0563c34f502f781e1a20655becfd352bc76eeb;main:d9084bad88331b1913899f624a98cbb93cfdc148]|RELEASE:[v1.7.0|07662b8ffdb9b09349c860d8fa469e839df88b89]
 m5stack/StickWatch: BRANCHES:[master:243f4d6767914e12741b78a876f3d6dfa7b7bdeb]|RELEASE:[none|none]
 m5stack/ThermalOnline-CatM-UserDemo: BRANCHES:[main:b52d83551c47752fe3cb519eaec299eb91d3077f]|RELEASE:[none|none]
