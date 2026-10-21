@@ -2178,6 +2178,7 @@ sparkfun/SparkFun_smol_Power_Board_Arduino_Library: BRANCHES:[main:612682c89f136
 sparkfun/SparkFun_u-Blox_NEO_M9N: BRANCHES:[master:c38db3261ddbcdcfee0c42a4aebe22bbd574111f]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_GNSS_Arduino_Library: BRANCHES:[release_candidate:2b3ab66a5b287de6b0527a7d148a97d737cc9bd4;main:2b3ab66a5b287de6b0527a7d148a97d737cc9bd4;release_candidate_v2.1_modified_state_management:cdb93d19052ac13b462f4493a83fc97256fb7abf;downloadDeviceConfig:c8d63148f6b4866b773299749c8bf218ba60b19c]|RELEASE:[v2.2.29|2b3ab66a5b287de6b0527a7d148a97d737cc9bd4]
 sparkfun/SparkFun_u-blox_GNSS_v3: BRANCHES:[release_candidate:12716e075eb89d574ae4e28a2d9365abd9c2d07d;main:8b3ba1e212b009118172fbfde31e7f3a7b13c881]|RELEASE:[v3.1.15|8b3ba1e212b009118172fbfde31e7f3a7b13c881]
+sparkfun/SparkFun_u-blox_LARA-R6_Arduino_Library: BRANCHES:[lara-r6-conversion:e02ac6be6a6cdf1456ca72c563d25b972f4cf88c;main:22e738fd45594f437480a96b588b316bddec5542]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_MAX-M10S: BRANCHES:[gh-pages:27cbc24150a830726ba58622199a5e2f0976d074;main:48faa7a1fa792576929a56a323324d562448b7f1]|RELEASE:[v1.0|8e937406ba0f21e3afc8ca20ddeb06b088023951]
 sparkfun/SparkFun_u-blox_NEO-D9S: BRANCHES:[main:0b064a8b753c7b8f11d7731ccf401b1989aedbe9]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_NEO-F10N: BRANCHES:[gh-pages:4c55aaaf87b71ea3184c5eeb11084ecbb05a56d0;main:398e16d709963eb8a33e883a74eafd876ea6b4d7]|RELEASE:[none|none]
