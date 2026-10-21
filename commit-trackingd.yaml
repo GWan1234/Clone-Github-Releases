@@ -1950,6 +1950,7 @@ sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c08913066
 sparkfun/SparkFun_Qwiic_ADXL313: BRANCHES:[master:5f15aca1894d33566769ece01f224c04295b9f75]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc7ded513bf42aef665627858d1]|RELEASE:[v2.0.6|52287080ba327bc7ded513bf42aef665627858d1]
 sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa]|RELEASE:[v1.0.0|7096084d57a43cf8c038ed6b9087a4903b64469c]
+sparkfun/SparkFun_Qwiic_Fan_Arduino_Library: BRANCHES:[main:f3eed9fc159f0d5556690acb7679e1dae9f5ac5b]|RELEASE:[v1.2.1|f3eed9fc159f0d5556690acb7679e1dae9f5ac5b]
 sparkfun/SparkFun_Qwiic_GPIO_Library: BRANCHES:[master:c9a3a49768e5d4b9b33f8731fb8675f460b1d799]|RELEASE:[v1.0.0|4118fa011d517c350db9de6e9a01cbb966bfddec]
 sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library: BRANCHES:[main:90ae6f050ff050e49dfbf56ad88a5e0cb2a4f71c]|RELEASE:[v1.1.3|3a8fb37d3265f2aff6ecc4619fb74aff2dfb7426]
 sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library: BRANCHES:[main:8b247948e139e97001117efdc26f6aceceda0e4c;release_candidate:57d9fab6517f296e4d567524a4d434857f3d6360]|RELEASE:[v1.0.3|8b247948e139e97001117efdc26f6aceceda0e4c]
