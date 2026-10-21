@@ -1352,6 +1352,7 @@ sparkfun/MPR121_Capacitive_Touch_Breakout: BRANCHES:[master:5d6699bb80b02e3dfca9
 sparkfun/MPR121_Capacitive_Touch_Keypad: BRANCHES:[master:9fce051696a88f07de22763c3a8a5505bdc5f5ad]|RELEASE:[none|none]
 sparkfun/MPU-6050_Breakout: BRANCHES:[master:969bc827e21e1dafac3bdbef77d19107fbd93bcf]|RELEASE:[none|none]
 sparkfun/MPU-9150_Breakout: BRANCHES:[master:250e1be403af5271d08a2ba83a52755dba8836c1]|RELEASE:[none|none]
+sparkfun/MPU-9250_Breakout: BRANCHES:[master:5aa492079056d0eaf508b00d8fcd5f491e7d8d2c;v11:0071741ce39ab1ed2bfb075e692ab0be62aedef1;silk_revision:3688ebc7dade3cd7ab0d15fae77883489f3f2661]|RELEASE:[none|none]
 sparkfun/MS5803-14BA_Breakout: BRANCHES:[master:06fa9f23e3c6b21b5588d30fa55342043b2a4e08]|RELEASE:[V_H1.0|48ae7bd6e93f9fd4b4186732e4125b8cd212db70]
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
 sparkfun/MagJack_Breakout: BRANCHES:[master:66261e02352ee2b9b80ca38055625bc295e3a9e8]|RELEASE:[none|none]
