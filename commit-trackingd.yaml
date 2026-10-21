@@ -1122,6 +1122,7 @@ sparkfun/BC127_Breakout_Board: BRANCHES:[master:54439d5d8feb4152aea897af669a206f
 sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d]|RELEASE:[none|none]
 sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb25b;V20:1a7dba14bc455018da5a46c2ed8904702eecc99a]|RELEASE:[none|none]
 sparkfun/BeagleBone_Black_Proto_Cape: BRANCHES:[master:871ed79f65a153803e854631c18e5d0679ee8a25]|RELEASE:[none|none]
+sparkfun/Beefcake_Relay_Control_Kit: BRANCHES:[master:7d54739ed93566b63e2caecabdd65577c932c0df]|RELEASE:[none|none]
 sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;changes_Feb13:32ea01950876c3cdbe96bc23e5c2b2bd53921e84]|RELEASE:[none|none]
 sparkfun/BigTime_Watch_Kit_Assembly_Guide: BRANCHES:[master:0a57853e7c3e71238b40b4bc192e274688085494]|RELEASE:[none|none]
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717]|RELEASE:[none|none]
