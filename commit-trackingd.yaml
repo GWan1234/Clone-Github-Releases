@@ -1342,6 +1342,7 @@ sparkfun/Photon_IMU_Shield: BRANCHES:[master:9a623ce2fbdea5bf9c5fbfad80330dc77cb
 sparkfun/Photon_OLED_Shield: BRANCHES:[master:43df6c456e3b53d166fa6a86c93984072d38304c]|RELEASE:[none|none]
 sparkfun/Photon_Proto_Shield: BRANCHES:[master:16bd90312c0018aea17482c362fe60a960e98e99]|RELEASE:[none|none]
 sparkfun/Photon_RedBoard: BRANCHES:[v11:f086a24e44bbb0a6370695b38019d679af11c34f;master:8e485f0be0293cbc62fda797383e6d976ed5edbf;Revision:801a7cd111fbcf15007c3b24a587b923e1b6ba7e]|RELEASE:[none|none]
+sparkfun/Photon_Wearable_Shield: BRANCHES:[master:ba38e16f7167a0329427b1a4a08d5bc6223d9165]|RELEASE:[none|none]
 sparkfun/Photon_Weather_Shield: BRANCHES:[V11:669629933bf56ce9d92367e4bbb0ca9ef7eeb02a;master:2630fb47acc21064e44887de41cd065ed173d62f]|RELEASE:[none|none]
 sparkfun/Pi_Wedge: BRANCHES:[master:395f7fbb4a4c582cbe680d0d6c85ef040384e151]|RELEASE:[none|none]
 sparkfun/Pi_Wedge_B_Plus: BRANCHES:[master:0a534243a39158ae311fbf37bd561c0ad01282c3]|RELEASE:[none|none]
