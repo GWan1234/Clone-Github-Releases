@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:47
+commit-tracking: 2026-10-21 13:48
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2124,6 +2124,7 @@ sparkfun/SparkFun_u-blox_GNSS_v3: BRANCHES:[release_candidate:12716e075eb89d574a
 sparkfun/SparkFun_u-blox_MAX-M10S: BRANCHES:[gh-pages:27cbc24150a830726ba58622199a5e2f0976d074;main:48faa7a1fa792576929a56a323324d562448b7f1]|RELEASE:[v1.0|8e937406ba0f21e3afc8ca20ddeb06b088023951]
 sparkfun/SparkFun_u-blox_NEO-D9S: BRANCHES:[main:0b064a8b753c7b8f11d7731ccf401b1989aedbe9]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_NEO-M8U: BRANCHES:[master:b9d3add051b54ebaf859d102cf718ee90924bbf7]|RELEASE:[none|none]
+sparkfun/SparkFun_u-blox_SAM-M10Q: BRANCHES:[gh-pages:a306737e3863597fefcfe0c3151c6cf4f71f5c99;main:f13f3d9ddf2b236584ee6bfaa86e8567c713dbcc]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_SAM-M8Q: BRANCHES:[main:5ee7b9c309cabd6f88e2d8c3587cb4244a5ce656]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[main:c9cb44d27401b968b1ef7cf6f63e487447b3155a;release_candidate:81d88f248aaa9c4bb92ae3a3a2b05a86cecb42fb]|RELEASE:[v1.1.13|c9cb44d27401b968b1ef7cf6f63e487447b3155a]
 sparkfun/SparkFun_u-blox_UBX_HLA: BRANCHES:[release_candidate:4e211102620d0fa1ed76544bdf0d0318b1446d0f;main:4e211102620d0fa1ed76544bdf0d0318b1446d0f]|RELEASE:[v1.0.6|4e211102620d0fa1ed76544bdf0d0318b1446d0f]
