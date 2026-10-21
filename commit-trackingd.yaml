@@ -1597,6 +1597,7 @@ sparkfun/Random_PickUp_Line_Generator: BRANCHES:[master:2bdc92b4c1a714a29cc8748e
 sparkfun/RaspiRobot: BRANCHES:[master:0f42b3c1cadf59943eb3cd9217b978da90cc6aea;readme_cleanup:fa43f922f3e9c89e2dd23eb1e13632889c890005]|RELEASE:[none|none]
 sparkfun/Reaction_Timer: BRANCHES:[master:9e0dd5c585f4a20fd82b898cd68c0f9895eb8213]|RELEASE:[none|none]
 sparkfun/RedBoard: BRANCHES:[vQwiic_v20:9ec0da2623e0971f2f295664f2bfb487cc318ba5;master:498b7cf536c74f1a9a3a2315bf9f8feb0d7169c9;vQwiic:cd976e17ddd90bb459acb8ac84c1dc72910b9d5c]|RELEASE:[V_22|91837ef1aca56cf2db151981e9831f0b690b2d2c]
+sparkfun/RedBoard_Artemis_ATP: BRANCHES:[master:3490ebb1f6841a20e3cfba503f3beb3c6d6553ad]|RELEASE:[none|none]
 sparkfun/RedBoard_Artemis_Nano: BRANCHES:[master:2e62061e8ccc0fd7359bf5a990b46df76c59b5bc]|RELEASE:[none|none]
 sparkfun/RedBoard_Edge: BRANCHES:[master:186dc531b1e939833299b7234856fb3991a4389b]|RELEASE:[none|none]
 sparkfun/RedBoard_Turbo: BRANCHES:[master:5dfe5c56b2d9400931264a1e5947249898173f7e]|RELEASE:[none|none]
