@@ -1475,6 +1475,7 @@ sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c26
 sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c91f639babe04baff3c45]|RELEASE:[none|none]
 sparkfun/MicroMod_Data_Logging_Carrier: BRANCHES:[master:6fe06a666a75f88c87da4ac8711085090e21e1c0]|RELEASE:[none|none]
 sparkfun/MicroMod_ESP32_Processor: BRANCHES:[master:0faa0480023b6428aa1653dea9e5e82c78e1e742]|RELEASE:[none|none]
+sparkfun/MicroMod_GNSS_F9P_Carrier_Board: BRANCHES:[master:2b6502c6f013c03bbc9fe09d61b52ae71362f4d5]|RELEASE:[none|none]
 sparkfun/MicroMod_Input_and_Display_Carrier: BRANCHES:[master:584dcf56417b0107d3fab93dfbe4c9b66cd8819a]|RELEASE:[none|none]
 sparkfun/MicroMod_Machine_Learning_Carrier: BRANCHES:[master:9ccae940e9965de17ece010394c4597f40244c07]|RELEASE:[none|none]
 sparkfun/MicroMod_Processor_Board-SAMD51: BRANCHES:[master:7c85c41de81b93d6da49c199ea8284b18e1392d6;FLASH_NET_CORRECTION:abe1946998a6e56bd5fc40b75b74e100b26bd206]|RELEASE:[v1.3|2355eab7571233264603431d547c1348de2ea07b]
