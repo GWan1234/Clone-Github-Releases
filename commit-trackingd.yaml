@@ -1223,6 +1223,7 @@ sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
 sparkfun/RHT03: BRANCHES:[master:d026dd4c932ab27b6abb6d9a172421399594148a]|RELEASE:[none|none]
 sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51]|RELEASE:[none|none]
+sparkfun/RTC-Module: BRANCHES:[master:7de6956e0ed24ea4eaa02b05e6d552378c5bd8bd]|RELEASE:[none|none]
 sparkfun/RaspiRobot: BRANCHES:[master:0f42b3c1cadf59943eb3cd9217b978da90cc6aea;readme_cleanup:fa43f922f3e9c89e2dd23eb1e13632889c890005]|RELEASE:[none|none]
 sparkfun/Reaction_Timer: BRANCHES:[master:9e0dd5c585f4a20fd82b898cd68c0f9895eb8213]|RELEASE:[none|none]
 sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;library-updates:b1065f7739bc44fea03a1f870ceaece5c2079d78]|RELEASE:[none|none]
