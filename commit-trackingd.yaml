@@ -1838,6 +1838,7 @@ sparkfun/SparkFun_External_EEPROM_Arduino_Library: BRANCHES:[main:1e8054fc461842
 sparkfun/SparkFun_FS3000_Arduino_Library: BRANCHES:[develop:814c0098582747df6d5a6b46aed8fc1133e7009a;main:bd09c1659140b2dc00e42edd693e7a8007bea176]|RELEASE:[v1.0.5|bd09c1659140b2dc00e42edd693e7a8007bea176]
 sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library: BRANCHES:[main:205a12b342be4e9e59dd8e8c27de1ad8d20ecf51]|RELEASE:[v1.0.4|205a12b342be4e9e59dd8e8c27de1ad8d20ecf51]
 sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1]|RELEASE:[v1.0.1|4acac9784b34cbcbb12ed936b79de07c416a2a68]
+sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882]|RELEASE:[none|none]
 sparkfun/SparkFun_GPIO_Block_for_Edison_CPP_Examples: BRANCHES:[master:286dceb2738fdbfd3e499f5c7ff7a9db2c4be2c5]|RELEASE:[none|none]
 sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic: BRANCHES:[master:7087523171f5af561265c4c265e2ac88ed164452]|RELEASE:[none|none]
 sparkfun/SparkFun_GPS_Dead_Reckoning_PHat_ZED-F9R: BRANCHES:[master:f906b7abcc22a6d168fd2b3d6677733136ddade9]|RELEASE:[v1.1|f906b7abcc22a6d168fd2b3d6677733136ddade9]
