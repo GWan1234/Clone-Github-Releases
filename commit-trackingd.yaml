@@ -1810,6 +1810,7 @@ sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library: BRANCHES:[main:871796a88
 sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library: BRANCHES:[master:efde0817bd6857863067bd1653a2cfafe6c68732]|RELEASE:[1.0.4|efde0817bd6857863067bd1653a2cfafe6c68732]
 sparkfun/SparkFun_Ambient_Sensor_VEML6030: BRANCHES:[master:3bd26752ab454b0edc459a4ec24953aff38f9807]|RELEASE:[none|none]
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180: BRANCHES:[main:66112e7410116fd952eeed8603634de32bf437e8]|RELEASE:[none|none]
+sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1: BRANCHES:[main:4d01f22a9be9f5e66b14664ec486083617988b34]|RELEASE:[none|none]
 sparkfun/SparkFun_Apollo3_AmbiqSuite_BSPs: BRANCHES:[master:c896285381495d00e32da0b4a9807799b197cb02;delete_redundant_aliases:69b8747b8a69534784eb107ae2e7f02693244eb2]|RELEASE:[v0.0.11|52349fb97ff3a2ee69ac0765b076f05c59aace2c]
 sparkfun/SparkFun_Artemis: BRANCHES:[master:e1d026549109ea02264e977fc1f7b8d49bcfdfe9]|RELEASE:[none|none]
 sparkfun/SparkFun_Artemis_Global_Tracker: BRANCHES:[main:3212a30d17952d89d7fb301f154e82907fe01a70]|RELEASE:[none|none]
