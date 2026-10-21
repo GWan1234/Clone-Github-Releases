@@ -1339,6 +1339,7 @@ sparkfun/LSM6DS3_Breakout: BRANCHES:[master:df42bfe49b23f38f3d9cb0a94e5d3b37519d
 sparkfun/LSM9DS0_Breakout: BRANCHES:[master:eb90307372db802a90a6669f1279db45e10569bb]|RELEASE:[none|none]
 sparkfun/LSM9DS1_Breakout: BRANCHES:[master:3ee0de320d57b116cb784dbdd477e11ae75f9b32]|RELEASE:[none|none]
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17]|RELEASE:[v1.0|4646af3c08884bc62905b49d4bd7e6d80f458d17]
+sparkfun/LTE_Cat_M1_Shield: BRANCHES:[main:a93f13a4d570e2aaf096f8b204fe59c4134b65db;v11:2ead6090083a798b6b8e435e93371159f1900575]|RELEASE:[v10|6be4d458df9bdc387d4c67917194bb274493c90b]
 sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc099fbbd]|RELEASE:[none|none]
 sparkfun/LiPo_Charger_Booster_5V_1A: BRANCHES:[master:ac9126ec7ab5c16ddf297028a06d62e27141451e]|RELEASE:[HW-V1.0|355a26574a8c3e18fc3676ab073ee6694a13e905]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
