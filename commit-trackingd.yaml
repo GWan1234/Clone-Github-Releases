@@ -1794,6 +1794,7 @@ sparkfun/crowdsourcing_control_esp8266_thing: BRANCHES:[master:7b52d9ee4a4ff28c9
 sparkfun/data.sparkfun.com: BRANCHES:[master:90110d030e91c7bec24a49ee1072ab93469a1df0;phant_schwifty:7638581f64917ac4610e76b149ec8688070c727b;stream-to-mongo:1d50531634757df1929a7a5e48f6037f4bca09b3]|RELEASE:[none|none]
 sparkfun/eng_application: BRANCHES:[master:0eb3c64a5e52a53c1989a5b751635ffc31f988dc]|RELEASE:[none|none]
 sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00]|RELEASE:[none|none]
+sparkfun/gator_bit: BRANCHES:[master:301d58877bb213064f1f0844298729e8a024c850;v20:01a89f1d0f25dafdd61a7c0b667c0f0389bbe530;v10:91baa54b2f3a31531461b881dd502c5b69ed6cab]|RELEASE:[archive/v10|e6ed30bc809f3726794ab00081d721a00e1f4c2d]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
 sparkfun/iot-hub-c-thingdev-getstartedkit: BRANCHES:[master:d48e6bf2a4f1f75046615c4770831c6400c297dd]|RELEASE:[none|none]
 sparkfun/jenkhub: BRANCHES:[master:452d1a8b905484594b06e539a2a009b8ca08298a]|RELEASE:[none|none]
