@@ -1506,6 +1506,7 @@ sparkfun/SparkFun_ATSHA204_Arduino_Library: BRANCHES:[master:2bab4159308224a504e
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7]|RELEASE:[V_1.3.3|f9306a3284aff540ef1b4bc220947ff8519fa493]
 sparkfun/SparkFun_BC127_Bluetooth_Module_Arduino_Library: BRANCHES:[master:cd836547687ecc9c915ed0727fb12471e35cdfd4]|RELEASE:[none|none]
 sparkfun/SparkFun_BLE_Mate2_Arduino_Library: BRANCHES:[master:2ead2d9625ff02445bcaa97c111b7e216bf73175]|RELEASE:[none|none]
+sparkfun/SparkFun_BME280_Breakout_Board: BRANCHES:[master:91f0c754a30c304afdd3717e64423aaae459d84a]|RELEASE:[none|none]
 sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library: BRANCHES:[master:0776c9f32d622c4968be7ee5424f1dbd90832184]|RELEASE:[none|none]
 sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library: BRANCHES:[master:f76cabfc458f883d6bca05aef13c6a1cbe98279d]|RELEASE:[none|none]
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9]|RELEASE:[none|none]
