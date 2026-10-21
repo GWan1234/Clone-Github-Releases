@@ -1422,6 +1422,7 @@ sparkfun/Purpletooth_Jamboree: BRANCHES:[master:7d49b86a7160077d46137d4a8d0313fa
 sparkfun/QRE1113_Line_Sensor-Analog: BRANCHES:[master:1671498b31a63009afdcaf7832a2de51793f45f2]|RELEASE:[none|none]
 sparkfun/QRE1113_Line_Sensor_Breakout-Digital: BRANCHES:[master:c9880cb4f6baa0265e30cb472d816f04ea348d86]|RELEASE:[none|none]
 sparkfun/Qduino_Mini: BRANCHES:[master:5be21fcba848106b850f8892a76df2b9d286eeb8;original_design_based:c376e095928537378fd7f1e0499dd14ffc873b27;Qduino_Mini_Pad:f444bbbf61577e59228b70749bbfa5e9971bcdcc]|RELEASE:[none|none]
+sparkfun/Qduino_Mini_SFE: BRANCHES:[master:db25c1f3a3a832e915dea8485503c066b3c79dfa]|RELEASE:[none|none]
 sparkfun/Qtechknow_ArduSensor_Learning_Kit: BRANCHES:[master:6f79ab1d7baa8e5bd22bc39dd48368bf94ab0f19;Shield_V_1.2:ba192062c09d838056ce9cd28ac1a5b97e8279b4]|RELEASE:[none|none]
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6]|RELEASE:[none|none]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
