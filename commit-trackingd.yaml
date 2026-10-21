@@ -1551,6 +1551,7 @@ sparkfun/Qwiic_Accelerometer_MMA8452Q: BRANCHES:[master:06ba5d10b21cc80587420c7c
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a]|RELEASE:[none|none]
 sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280: BRANCHES:[master:14709d3629313938035690e38a8976b03e06c1bb]|RELEASE:[none|none]
 sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575]|RELEASE:[none|none]
+sparkfun/Qwiic_Button: BRANCHES:[master:e89a82fe2ddb293bfe0d6d9f63ccf4782a77c359]|RELEASE:[none|none]
 sparkfun/Qwiic_CCS811_Py: BRANCHES:[main:927f7ab7356b5e53977adcee644527462cfd4280]|RELEASE:[v0.9.4_test|927f7ab7356b5e53977adcee644527462cfd4280]
 sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203: BRANCHES:[master:a78a8703b50e08f269f0508067d410e7a0a8674c]|RELEASE:[none|none]
 sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0cf99b0a71cd]|RELEASE:[none|none]
