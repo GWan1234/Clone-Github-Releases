@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 10:39
+commit-tracking: 2026-10-21 10:40
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1501,6 +1501,7 @@ sparkfun/Serial_USB_Adapter-Nike_iPod: BRANCHES:[master:ce1af54ab930902a1e1a923a
 sparkfun/Servo_Trigger: BRANCHES:[master:92e979266c02ae5d4a299a0ea645edb494bfdf73;Revision1.1-continuous:c569f66fe0dbcba4dab848bb0190aa40b159f797]|RELEASE:[none|none]
 sparkfun/SevSeg: BRANCHES:[master:aeb5fcd281cbf81d700f4232cc060736e6137b6a]|RELEASE:[V_1.0.2|9d7a9b724bc4294a0296a4304aacb79e237ae70d]
 sparkfun/Shift_Register_Breakout-74HC595: BRANCHES:[master:f4b8fcbc33bc4909edb6585cc242096297a6a2ce]|RELEASE:[none|none]
+sparkfun/Shifting_microSD: BRANCHES:[master:805f7ea82e15699bff82da9536cf72ba25ca70c9]|RELEASE:[none|none]
 sparkfun/Si4703_FM_Tuner_Evaluation_Board: BRANCHES:[master:d808bf51aa02e704b42cf8146d7121a2414fdada]|RELEASE:[V_H1.4_L1.2.0|d808bf51aa02e704b42cf8146d7121a2414fdada]
 sparkfun/Si4707_Breakout: BRANCHES:[master:220ec557257443ec4e37b06531a7ebb33cd3d97b]|RELEASE:[none|none]
 sparkfun/Simon-Says: BRANCHES:[master:32c7ea04ac092437789a491e4db02f834e090411;Trampolines:e6c5d050e62b349b4a0e230f2eaf0490ec630b8c]|RELEASE:[none|none]
