@@ -2111,6 +2111,7 @@ sparkfun/SparkFun_Watershed_Monitor: BRANCHES:[main:79d97c762b5be17ce208ddf6b47b
 sparkfun/SparkFun_WiFi_Function_Board_ESP32: BRANCHES:[main:a92944749d9c83d3ad965ad901ade45793c8e970;v11:8b019c3b57909a74dca4f43ed4c1bae490ea403c]|RELEASE:[none|none]
 sparkfun/SparkFun_WiFly_Shield_Arduino_Library: BRANCHES:[master:34bf7e633051d848fb2b97cc523f5191e2cf1c89]|RELEASE:[none|none]
 sparkfun/SparkFun_WiseChip_HUD_Library: BRANCHES:[master:d5d1f57303173592753691135f41b0cdce16d26a]|RELEASE:[v1.0.2|d5d1f57303173592753691135f41b0cdce16d26a]
+sparkfun/SparkFun_XRP_Controller: BRANCHES:[gh-pages:fb7680d08221c567bd313f3acbf9782324d48d40;main:86c4cd7fbc40c49308ec9d28007809906f18eec3;non-beta-merge:0a7a4a4006b2823be7dd3cbbc8bbc708ff421bda]|RELEASE:[none|none]
 sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library: BRANCHES:[master:694cfb57b9462c667afe94eeebdc14f0e5bf3b9e]|RELEASE:[none|none]
 sparkfun/SparkFun_ePaper_Arduino_Library: BRANCHES:[master:287b221cd0e513ae8b19706f076f319ab22d548d]|RELEASE:[v2.1.3|287b221cd0e513ae8b19706f076f319ab22d548d]
 sparkfun/SparkFun_smol_Power_Board_Arduino_Library: BRANCHES:[main:612682c89f1367c385f8294ba36b32396cf0cc00]|RELEASE:[v1.0.0|dafb85cfe61d47df06d2cf13ad6bbbb753459436]
