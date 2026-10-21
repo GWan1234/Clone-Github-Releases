@@ -1978,6 +1978,7 @@ sparkfun/SparkFun_Qwiic_9DoF-ISM330DHCX-MMC5983MA: BRANCHES:[main:9c8121b2a3b32c
 sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c089130660f485c3af065fbbc1ef9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_ADXL313: BRANCHES:[master:5f15aca1894d33566769ece01f224c04295b9f75]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Accelerometer_BMA400: BRANCHES:[main:2751c15eec8f50759e3414337c0133b55b9c19d1]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_Barometer_LPS28DFW: BRANCHES:[main:b012d97cd56bf5a8a2a540c1f81aa75693716141]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc7ded513bf42aef665627858d1]|RELEASE:[v2.0.6|52287080ba327bc7ded513bf42aef665627858d1]
 sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa]|RELEASE:[v1.0.0|7096084d57a43cf8c038ed6b9087a4903b64469c]
 sparkfun/SparkFun_Qwiic_Distance_Sensor-VL53L4CD: BRANCHES:[main:ce6e486fc6c8711b7bd5d1111597bd7c8a209409]|RELEASE:[none|none]
