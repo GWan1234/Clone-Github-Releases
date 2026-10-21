@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:35
+commit-tracking: 2026-10-21 12:36
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1464,6 +1464,7 @@ sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac7693
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0]|RELEASE:[none|none]
+sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4]|RELEASE:[none|none]
 sparkfun/MicroSD_Sniffer: BRANCHES:[master:cb837970e6bd69acb9d3e0466fef1f0d04ab7078]|RELEASE:[none|none]
 sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8]|RELEASE:[none|none]
 sparkfun/MicroView_USB_Programmer: BRANCHES:[master:7057bea2c0b54db610f1ea53f22856b7026088ea]|RELEASE:[none|none]
