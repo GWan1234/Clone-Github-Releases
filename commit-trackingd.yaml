@@ -2053,6 +2053,7 @@ sparkfun/SparkFun_TLC5940_Arduino_Library: BRANCHES:[master:df219716b7b08d252ada
 sparkfun/SparkFun_TMF8801_Arduino_Library: BRANCHES:[main:3e6a951dd96db48784c1c19b520ebaa1ada273ef]|RELEASE:[1.0.0|796885888236752de25fdcabc4d4193fd77f8e42]
 sparkfun/SparkFun_TMP102_Arduino_Library: BRANCHES:[master:1260e0a9388918534504753323ae1df5a2ed1b3c]|RELEASE:[v1.1.2|1260e0a9388918534504753323ae1df5a2ed1b3c]
 sparkfun/SparkFun_TMP117_Arduino_Library: BRANCHES:[master:c8f9b0e453ac628c013ce8af55a2501ce733cb77;travis:bbaba3df2463b08c417f174d26c75fe449ff1682]|RELEASE:[v1.2.5|c8f9b0e453ac628c013ce8af55a2501ce733cb77]
+sparkfun/SparkFun_TPA2016D2_Arduino_Library: BRANCHES:[main:0101960b8a623e620f9fd80dc0cb2b4df0ff88f7]|RELEASE:[v1.0.0|9318daa475b5e171e526a6b5cc8b700d71082365]
 sparkfun/SparkFun_TPL5110_Nano_Power_Timer: BRANCHES:[master:2d8d2cce78c7de05692d414d517ff05b5ec02b5c]|RELEASE:[v1.0|1e5f1316375bd72f4e3e03db97ef3220700d09f4]
 sparkfun/SparkFun_TSL2561_Arduino_Library: BRANCHES:[master:af36505969e42be712b5de45a6969016b03e9754]|RELEASE:[none|none]
 sparkfun/SparkFun_TeensyView_Arduino_Library: BRANCHES:[Multi-platform:46d8735770416d46db4a3e64cd85e6867522ee65;master:d7aee96b7740f7ef59f60194572efedbb3fe0347]|RELEASE:[none|none]
