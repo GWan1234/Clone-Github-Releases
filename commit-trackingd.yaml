@@ -1749,6 +1749,7 @@ sparkfun/SparkFun_VEML6075_Arduino_Library: BRANCHES:[master:c2e178994b69ca984e3
 sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library: BRANCHES:[master:e0818e3815f10d919bc2f78f6810ce480177aff3]|RELEASE:[V_1.0.3|6d03f33a7be8ebebe3647c902796699413ab7841]
 sparkfun/SparkFun_VL53L1X_Arduino_Library: BRANCHES:[develop:9b339a46ef92dcd830e0b1281fe616762f44bed2;master:e88f55d6d82a4a8c519ec90a2660e6ec799b4579]|RELEASE:[v1.2.12|7ca2ae038948adaacf08866bf11fadfb48f23b8d]
 sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae12f7f5d69e7af03b88efd7b85f3984d8848a3]|RELEASE:[none|none]
+sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library: BRANCHES:[master:8ecc42a49543a2731358c05ae743a2dafa661d2a]|RELEASE:[v1.0.3|8ecc42a49543a2731358c05ae743a2dafa661d2a]
 sparkfun/SparkFun_WiFly_Shield_Arduino_Library: BRANCHES:[master:34bf7e633051d848fb2b97cc523f5191e2cf1c89]|RELEASE:[none|none]
 sparkfun/SparkFun_WiseChip_HUD_Library: BRANCHES:[master:d5d1f57303173592753691135f41b0cdce16d26a]|RELEASE:[v1.0.2|d5d1f57303173592753691135f41b0cdce16d26a]
 sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library: BRANCHES:[master:694cfb57b9462c667afe94eeebdc14f0e5bf3b9e]|RELEASE:[none|none]
