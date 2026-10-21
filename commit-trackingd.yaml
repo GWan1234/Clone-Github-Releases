@@ -1112,6 +1112,7 @@ sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a
 sparkfun/WiFly-Shield: BRANCHES:[master:1726169e58b31fa4ad44b62154ea5cbe93de8af6]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
+sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
 ventoy/DeleteVentoySecureBootKey: BRANCHES:[main:23249e47049dfe46b533f57e337485c7fdbb804c]|RELEASE:[v3.1|3ffe52d557f734b74b9e3105c7628f414c73bcf5]
 ventoy/KioskFiles: BRANCHES:[main:27e62fffacd76c35c0d7499dfd1f8e8eae2e2a86]|RELEASE:[v1.0|27e62fffacd76c35c0d7499dfd1f8e8eae2e2a86]
 ventoy/LiveInjection: BRANCHES:[main:556ec463d2ba791ba9fca6f677aad6ac76419d1c]|RELEASE:[1.1|556ec463d2ba791ba9fca6f677aad6ac76419d1c]
