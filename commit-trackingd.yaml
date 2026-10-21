@@ -1541,6 +1541,7 @@ sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5
 sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0]|RELEASE:[v1.0.1|0f8cd331ec91ff0cc04dcf98402d0729dd8790ca]
 sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library: BRANCHES:[master:a459ffb6d972717fa7fb553f109bac99042eca86]|RELEASE:[none|none]
 sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68585ff3756b16c80ef0a;Interrupt:3349aeccbfb462a12c0f8e0c8531fcc59d4e168e]|RELEASE:[V_1.4.0|4ad518cf599bd1daff78d10bae46a606547fb73b]
+sparkfun/SparkFun_MMA8452Q_Particle_Library: BRANCHES:[master:8deb02b50afc0d099c877ffcda1827cf09c6a4d1]|RELEASE:[none|none]
 sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42c76a2034017df432fe883b6022c01bc]|RELEASE:[v1.2.4|09f9cf0b4b2458d474457504a35645dae53fc119]
 sparkfun/SparkFun_MPL3115A2_Particle_Library: BRANCHES:[master:4675e7b0e59d2cfe16f23d8dac479e7bda842058]|RELEASE:[none|none]
 sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library: BRANCHES:[main:c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0;testing:63f4fd699484deeaa91fb70ed3d26d9970c6d8b9]|RELEASE:[v1.1.4|c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0]
