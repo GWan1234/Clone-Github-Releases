@@ -1620,6 +1620,7 @@ sparkfun/SparkFun_Simblee_Breakout_Board: BRANCHES:[master:3d7daac6ded81690ea06c
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Breakout: BRANCHES:[master:a7708c41db39d6bda609f27d21c45ce98ed7664d]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0e1d1e8a9416fa557dd299f53b521a8d81c37]|RELEASE:[none|none]
+sparkfun/SparkFun_TB6612FNG_Arduino_Library: BRANCHES:[master:e34f9ec060e609217257771eb4b5ba93d5867ba8]|RELEASE:[none|none]
 sparkfun/SparkFun_TLC5940_Arduino_Library: BRANCHES:[master:df219716b7b08d252adabeb9474a56f7421e0ad4]|RELEASE:[V_1.1.1|df219716b7b08d252adabeb9474a56f7421e0ad4]
 sparkfun/SparkFun_TMP102_Arduino_Library: BRANCHES:[master:1260e0a9388918534504753323ae1df5a2ed1b3c]|RELEASE:[v1.1.2|1260e0a9388918534504753323ae1df5a2ed1b3c]
 sparkfun/SparkFun_TSL2561_Arduino_Library: BRANCHES:[master:af36505969e42be712b5de45a6969016b03e9754]|RELEASE:[none|none]
