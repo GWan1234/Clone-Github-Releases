@@ -2296,6 +2296,7 @@ sparkfun/USB_microB_Breakout_Board: BRANCHES:[master:9d1460eb6ad7acf2a49fa730fcb
 sparkfun/USB_microB_Plug_Breakout: BRANCHES:[master:e534f0b1974a201bee5ec862684938f72fef7685]|RELEASE:[none|none]
 sparkfun/USB_miniB_Breakout: BRANCHES:[master:d2b45037f4f6e2820804e8c608cc4a7e09f8dd39]|RELEASE:[none|none]
 sparkfun/Uh-Oh_Battery_Indicator: BRANCHES:[master:ecafdda48ae8fff8eabf3bee9479293c327bafb3]|RELEASE:[none|none]
+sparkfun/Update_Firmware_Unicore_GNSS_Receiver: BRANCHES:[gh-pages:c2d760d7a315cc58403d1265dbd6c0a69703a7cd;main:6f2ef4555ea4e3d86c05b66bb045dd5b1284dede]|RELEASE:[none|none]
 sparkfun/VKey_Voltage_Keypad: BRANCHES:[master:b0409586571a6afea594d66e71946f5614db6370]|RELEASE:[none|none]
 sparkfun/VReg_Temp_Mobile_App: BRANCHES:[master:00896893372e621f4ce52256b34a883979fbdaed]|RELEASE:[none|none]
 sparkfun/Variable_Load: BRANCHES:[master:71ae9ecd46493cfdd94b00d553651951da92e3f5]|RELEASE:[none|none]
