@@ -1694,6 +1694,7 @@ sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45f
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
 sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[v1.0.0|03c1988fe9d1a4201da06b86781a7ef994b093b4]
 sparkfun/SparkFun_RHT03_Particle_Library: BRANCHES:[master:f03156d061a32dff31b52a58dc7020bc9768c075]|RELEASE:[none|none]
+sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a]|RELEASE:[v1.1.0|4b473249282426773ded2f08d9d9eb204068902a]
 sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c]|RELEASE:[v1.4.2|4f40f72bcff65eaac37b7f88af941c0f5805d544]
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0]|RELEASE:[v2.1.1|53cab79cd61857a127450cde8ef14b3384430bf1]
 sparkfun/SparkFun_SSD1320_OLED_Arduino_Library: BRANCHES:[master:cbfcaae428b470f72525c24e944d2e5ed9f87a94]|RELEASE:[v1.0.4|cbfcaae428b470f72525c24e944d2e5ed9f87a94]
