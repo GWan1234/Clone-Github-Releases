@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 11:42
+commit-tracking: 2026-10-21 11:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1350,6 +1350,7 @@ sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4
 sparkfun/LTE_Cat_M1_Shield: BRANCHES:[main:a93f13a4d570e2aaf096f8b204fe59c4134b65db;v11:2ead6090083a798b6b8e435e93371159f1900575]|RELEASE:[v10|6be4d458df9bdc387d4c67917194bb274493c90b]
 sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc099fbbd]|RELEASE:[none|none]
 sparkfun/LiPo_Charger_Booster_5V_1A: BRANCHES:[master:ac9126ec7ab5c16ddf297028a06d62e27141451e]|RELEASE:[HW-V1.0|355a26574a8c3e18fc3676ab073ee6694a13e905]
+sparkfun/LiPo_Charger_Plus: BRANCHES:[master:9d7e84882af0dbf906813329b7b90db39ca04635]|RELEASE:[none|none]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
 sparkfun/LiPower_Boost_Converter: BRANCHES:[master:5e7cd12443b3bc1273141299cddf84745ea4047c]|RELEASE:[none|none]
 sparkfun/Lil_Soundie_Audio_Player: BRANCHES:[master:437114696f40f7e2bba5c254e0b63266d3dc6b3b;fix_flash:88955e98cb59311f681da4d2a2bb6bba6d088989;hang_fix:2998545ed76f022eb6d23f3654553717d7a0b94c;reformat:234f819dda7878154f7f4da92c4f0f52ea2768cc;test:9fd89b2e642003703682949027a777da3ba10e01]|RELEASE:[none|none]
