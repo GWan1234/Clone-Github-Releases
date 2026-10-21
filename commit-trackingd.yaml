@@ -1506,6 +1506,7 @@ sparkfun/Qwiic_Accelerometer_MMA8452Q: BRANCHES:[master:06ba5d10b21cc80587420c7c
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a]|RELEASE:[none|none]
 sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575]|RELEASE:[none|none]
 sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0cf99b0a71cd]|RELEASE:[none|none]
+sparkfun/Qwiic_Flex_Glove_Controller: BRANCHES:[master:98ef9c0e35209480c9cf1f5288c5c7142c99c8d5]|RELEASE:[none|none]
 sparkfun/Qwiic_GRIDEye: BRANCHES:[master:465f70b1e79fbb3b3d0d95e501549b212098c5de]|RELEASE:[none|none]
 sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda9f521c05822;v20:243a88ed965572e367cc6b87e3cfa9501d8f9426;master:398c9a96426808707a5230f6aac4adc2eb47b9eb]|RELEASE:[v1.0|398c9a96426808707a5230f6aac4adc2eb47b9eb]
 sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753: BRANCHES:[master:bba6d9cf4ac79bd573f39fae4c4ac378468edfe0]|RELEASE:[none|none]
