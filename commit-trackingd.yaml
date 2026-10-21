@@ -1468,6 +1468,7 @@ sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac7693
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroMod_ATP_Carrier_Board: BRANCHES:[master:9750d65ca0fdd4164fbac93a9b1ebcec7b615f11]|RELEASE:[v1.1|9750d65ca0fdd4164fbac93a9b1ebcec7b615f11]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
+sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c261e82f5de]|RELEASE:[none|none]
 sparkfun/MicroMod_Data_Logging_Carrier: BRANCHES:[master:6fe06a666a75f88c87da4ac8711085090e21e1c0]|RELEASE:[none|none]
 sparkfun/MicroMod_ESP32_Processor: BRANCHES:[master:0faa0480023b6428aa1653dea9e5e82c78e1e742]|RELEASE:[none|none]
 sparkfun/MicroMod_Input_and_Display_Carrier: BRANCHES:[master:584dcf56417b0107d3fab93dfbe4c9b66cd8819a]|RELEASE:[none|none]
