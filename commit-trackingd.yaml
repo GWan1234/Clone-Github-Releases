@@ -1932,6 +1932,7 @@ sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library: BRANCHES:[main:90a
 sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library: BRANCHES:[main:8b247948e139e97001117efdc26f6aceceda0e4c;release_candidate:57d9fab6517f296e4d567524a4d434857f3d6360]|RELEASE:[v1.0.3|8b247948e139e97001117efdc26f6aceceda0e4c]
 sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library: BRANCHES:[master:b4abbd9eded6a82b0ad3f91c94109848b47bc6a9]|RELEASE:[v1.1.1|b4abbd9eded6a82b0ad3f91c94109848b47bc6a9]
 sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library: BRANCHES:[master:555e4a61b7a6d6081226c843531133087a898c32]|RELEASE:[v1.2.0|e1de5b4691d542c9b3c2afdd0ed69cf06681300c]
+sparkfun/SparkFun_Qwiic_LED_Stick: BRANCHES:[main:50bdbbc7337922b885718b4de083cadc6d7c15e6]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badffd3d5da44be33b7d930189fb1f5b1]|RELEASE:[v1.0.5|615228de818cf1052ef58ef0ef9f5c2381ea35dd]
 sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library: BRANCHES:[master:3492f4017a8798cf96d5ef3673f0751b9a878a7f]|RELEASE:[v1.0.4|3492f4017a8798cf96d5ef3673f0751b9a878a7f]
 sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c204fd86e037201]|RELEASE:[none|none]
