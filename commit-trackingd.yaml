@@ -1482,6 +1482,7 @@ sparkfun/Qduino_Mini: BRANCHES:[master:5be21fcba848106b850f8892a76df2b9d286eeb8;
 sparkfun/Qduino_Mini_SFE: BRANCHES:[master:db25c1f3a3a832e915dea8485503c066b3c79dfa]|RELEASE:[none|none]
 sparkfun/Qtechknow_ArduSensor_Learning_Kit: BRANCHES:[master:6f79ab1d7baa8e5bd22bc39dd48368bf94ab0f19;Shield_V_1.2:ba192062c09d838056ce9cd28ac1a5b97e8279b4]|RELEASE:[none|none]
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6]|RELEASE:[none|none]
+sparkfun/Qwiic_Spectral_Sensor_AS726X: BRANCHES:[master:4a5ba39e5a32962e019a8dc454d0946af5c83de7]|RELEASE:[none|none]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52]|RELEASE:[none|none]
 sparkfun/RFID_USB_Reader: BRANCHES:[master:10b5ce56eadbe69ca935a5e70271084da820ecab;v20:335159a0fe5063f0c996dbcfa4ad40bfaf41d575]|RELEASE:[v10|4f1b3b3a2ca954e227055a93826480999dd949f1]
