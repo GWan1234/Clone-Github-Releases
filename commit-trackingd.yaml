@@ -1379,6 +1379,7 @@ sparkfun/ardublock: BRANCHES:[master:733abd56ab2029127c7f54f7408ff9546ed7242e;si
 sparkfun/data.sparkfun.com: BRANCHES:[master:90110d030e91c7bec24a49ee1072ab93469a1df0;phant_schwifty:7638581f64917ac4610e76b149ec8688070c727b;stream-to-mongo:1d50531634757df1929a7a5e48f6037f4bca09b3]|RELEASE:[none|none]
 sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
+sparkfun/m2x-arduino: BRANCHES:[master:cfa63b945a5bc531ef1c65451dee11133f88d722]|RELEASE:[none|none]
 sparkfun/microSD_Shield: BRANCHES:[master:993693390e5300f1dc514fdfb9424026b4f4ad7f]|RELEASE:[none|none]
 sparkfun/nRF2401A_Transceiver-Chip_Antenna: BRANCHES:[master:2759a7ae40724f2c3bff0a5f2ffea3a8a22e56be]|RELEASE:[none|none]
 sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94fa60809b415f70009c8b32]|RELEASE:[none|none]
