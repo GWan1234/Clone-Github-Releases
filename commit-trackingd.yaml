@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:33
+commit-tracking: 2026-10-21 13:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1478,6 +1478,7 @@ sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd37261103
 sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac76938c]|RELEASE:[none|none]
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroMod_ATP_Carrier_Board: BRANCHES:[master:9750d65ca0fdd4164fbac93a9b1ebcec7b615f11]|RELEASE:[v1.1|9750d65ca0fdd4164fbac93a9b1ebcec7b615f11]
+sparkfun/MicroMod_ATP_Carrier_Board_Promo_Constellation: BRANCHES:[main:1051add80007fcb66cafabd7a748cae69efc4dcb]|RELEASE:[none|none]
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
 sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c261e82f5de]|RELEASE:[none|none]
 sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c91f639babe04baff3c45]|RELEASE:[none|none]
