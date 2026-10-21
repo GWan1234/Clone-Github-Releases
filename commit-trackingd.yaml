@@ -1295,6 +1295,7 @@ sparkfun/MS5803-14BA_Breakout: BRANCHES:[master:06fa9f23e3c6b21b5588d30fa5534204
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
 sparkfun/MagJack_Breakout: BRANCHES:[master:66261e02352ee2b9b80ca38055625bc295e3a9e8]|RELEASE:[none|none]
 sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164b870;hw_dev:be3fc290f78989ad80485bd678f13bf5291f0d06]|RELEASE:[none|none]
+sparkfun/MegaShield_Kit: BRANCHES:[Revision:6900f1868df9775f2ef42626e15dc4b682db101c;master:6a8d8c5b322ff01a5e9da841db1263416c2afada]|RELEASE:[none|none]
 sparkfun/Mega_Pro: BRANCHES:[master:a5c9e6562c612b6e23a4c90998fd0b48711d0904;v_14:df8a860eec1b2b186434cfeb8d7f7f91ce85d9ac]|RELEASE:[none|none]
 sparkfun/MiP_ProMini-Pack: BRANCHES:[master:9b857adc5ec6498025385ac96764d7c608a36932]|RELEASE:[none|none]
 sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd372611038b]|RELEASE:[none|none]
