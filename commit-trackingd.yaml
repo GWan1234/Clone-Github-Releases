@@ -1397,6 +1397,7 @@ sparkfun/Photon_RedBoard: BRANCHES:[v11:f086a24e44bbb0a6370695b38019d679af11c34f
 sparkfun/Photon_Wearable_Shield: BRANCHES:[master:ba38e16f7167a0329427b1a4a08d5bc6223d9165]|RELEASE:[none|none]
 sparkfun/Photon_Weather_Shield: BRANCHES:[V11:669629933bf56ce9d92367e4bbb0ca9ef7eeb02a;master:2630fb47acc21064e44887de41cd065ed173d62f]|RELEASE:[none|none]
 sparkfun/Pi_Wedge: BRANCHES:[master:395f7fbb4a4c582cbe680d0d6c85ef040384e151]|RELEASE:[none|none]
+sparkfun/Pi_Wedge_40-Pin_PreAssembled: BRANCHES:[master:6d93ad550771dc4c304dc220aea1f0c69fdad907]|RELEASE:[none|none]
 sparkfun/Pi_Wedge_B_Plus: BRANCHES:[master:0a534243a39158ae311fbf37bd561c0ad01282c3]|RELEASE:[none|none]
 sparkfun/PicoBoard: BRANCHES:[master:9ceb9c847795955ed3d3f1af5551619e99b3ba8c]|RELEASE:[none|none]
 sparkfun/PicoBuck: BRANCHES:[master:2a41992a24f352af5ce7c0c3a2334665850e2b72;hi_pow:87b941142c381b074083ef9f342c4748e0492640]|RELEASE:[none|none]
