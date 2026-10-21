@@ -1559,6 +1559,7 @@ sparkfun/Touch_Shield: BRANCHES:[master:548577f29128ed19a0737ad8bb805cc0b4550519
 sparkfun/Transceiver_Breakout-nRF24L01: BRANCHES:[master:0c6c96582be98cf78d87e75cad7a73154ec408ce]|RELEASE:[none|none]
 sparkfun/Transceiver_Breakout-nRF24L01_RP-SMA: BRANCHES:[master:7ea6ecc46f438929c2e8800ec35fe250c6015ec1]|RELEASE:[none|none]
 sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA: BRANCHES:[master:ef7a05fa6bd9c1bdc6ef9befa1c8ac1afaebbe74]|RELEASE:[none|none]
+sparkfun/TransmogriShield: BRANCHES:[master:805b76a23c9bb9e3529cefc15eeeb090fbddf933]|RELEASE:[none|none]
 sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D: BRANCHES:[master:598f72b5c790b4d1eb4139ae4ead6bc8a1221619]|RELEASE:[none|none]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
 sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331: BRANCHES:[master:9f94d42719b5c597c6faf039b30d8ded9644d6db]|RELEASE:[none|none]
