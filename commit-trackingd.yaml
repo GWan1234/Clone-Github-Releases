@@ -1109,6 +1109,7 @@ sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65ad
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
 sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a596b3b8f561c266cf410b5]|RELEASE:[none|none]
+sparkfun/WiFly-Shield: BRANCHES:[master:1726169e58b31fa4ad44b62154ea5cbe93de8af6]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
 ventoy/DeleteVentoySecureBootKey: BRANCHES:[main:23249e47049dfe46b533f57e337485c7fdbb804c]|RELEASE:[v3.1|3ffe52d557f734b74b9e3105c7628f414c73bcf5]
