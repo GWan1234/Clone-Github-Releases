@@ -1695,6 +1695,7 @@ sparkfun/data.sparkfun.com: BRANCHES:[master:90110d030e91c7bec24a49ee1072ab93469
 sparkfun/eng_application: BRANCHES:[master:0eb3c64a5e52a53c1989a5b751635ffc31f988dc]|RELEASE:[none|none]
 sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
+sparkfun/iot-hub-c-thingdev-getstartedkit: BRANCHES:[master:d48e6bf2a4f1f75046615c4770831c6400c297dd]|RELEASE:[none|none]
 sparkfun/jenkhub: BRANCHES:[master:452d1a8b905484594b06e539a2a009b8ca08298a]|RELEASE:[none|none]
 sparkfun/m2x-arduino: BRANCHES:[master:cfa63b945a5bc531ef1c65451dee11133f88d722]|RELEASE:[none|none]
 sparkfun/microSD_Shield: BRANCHES:[master:993693390e5300f1dc514fdfb9424026b4f4ad7f]|RELEASE:[none|none]
