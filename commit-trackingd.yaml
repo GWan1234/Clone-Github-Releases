@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 11:59
+commit-tracking: 2026-10-21 12:00
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1565,6 +1565,7 @@ sparkfun/Qwiic_Mux_TCA9548A: BRANCHES:[master:9548c6af9c1a74b11904dc5b28cc3f25f7
 sparkfun/Qwiic_OpenLog: BRANCHES:[master:f3f6a3ec3f70fe4c14612b38fac360f26ee79a4c]|RELEASE:[v3.0|995ece5de00661b23e20ab84e70f8724daa444f1]
 sparkfun/Qwiic_Proximity_Py: BRANCHES:[main:7f73cc351d0abd3303d2a7588070df9d0e70d9a3]|RELEASE:[v0.9.0_test|7f73cc351d0abd3303d2a7588070df9d0e70d9a3]
 sparkfun/Qwiic_Proximity_Sensor: BRANCHES:[master:af01991774b84238a18030e7f02f67c530ec456c]|RELEASE:[none|none]
+sparkfun/Qwiic_Py: BRANCHES:[main:4f9c155be5faed1ccf639a88547de6661780751e;feature/circup:9bd30b8e5427721e6c0082a76de1b0ab58cf5f9b;master:89f6b738e7ef32269968f4ac167a1cf8f58a0ecd]|RELEASE:[20260227|4f9c155be5faed1ccf639a88547de6661780751e]
 sparkfun/Qwiic_Quad_Relay: BRANCHES:[v21:c364c537a9986307d574b4c3d4daca39bdd59e62;master:ccca82550404b2fb089228c52bb5467fae676fd2]|RELEASE:[v1.0|0b3392e5d8b39b584c9fae52cbd919b04c98f67d]
 sparkfun/Qwiic_RTC_Module: BRANCHES:[master:7a591ec26134ed17d743fb25d70210e18e025673]|RELEASE:[none|none]
 sparkfun/Qwiic_Relay: BRANCHES:[master:68fed0ebfe4ea963a69497c696047c61dd3f1b70]|RELEASE:[none|none]
