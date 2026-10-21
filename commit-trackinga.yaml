@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 05:12
+commit-tracking: 2026-10-21 05:13
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1434,7 +1434,7 @@ home-assistant/partner.home-assistant: BRANCHES:[eleventy:fb142ea79bc2d0369487e3
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
 home-assistant/plugin-audio: BRANCHES:[master:f27f58002465d6122fb61da6c38cb7ef87b2d887]|RELEASE:[2026.08.0|7ff9d92be4efb160d1dbedaff5c124f73f6449d8]
-home-assistant/plugin-cli: BRANCHES:[master:b79b8859fc7c6c705ca92ae363c351606f82576a]|RELEASE:[2026.09.0|a0a9ecec5753f82d3e68a48e5cab51138a7f041b]
+home-assistant/plugin-cli: BRANCHES:[master:141c62068af0a9ab94d908cfd4db01368d68a06c]|RELEASE:[2026.10.0|141c62068af0a9ab94d908cfd4db01368d68a06c]
 home-assistant/plugin-dns: BRANCHES:[master:caff8d86db6d466728a82109ab1e94648d4d3131;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.09.0|2bf4dcb678c04558bb329b5a87c82202431535c2]
 home-assistant/plugin-multicast: BRANCHES:[master:0b130633b1d75590f0f48cf51948f9ee56899d52;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.08.0|5122ca8da85c08da1b459c479757d75b57ab97a3]
 home-assistant/plugin-observer: BRANCHES:[master:a7395ee091b9dbee5d0f0766bba7476d556f0aa2]|RELEASE:[2026.08.0|aadd23ef7b298af366123e1830261ad3994a1ca2]
