@@ -1161,6 +1161,7 @@ sparkfun/Eagle_Class_Tools: BRANCHES:[master:8226ac074c6fc5f99eb76aa3cbb8fee9f3f
 sparkfun/Easy_Driver: BRANCHES:[master:e9a837d2d62bce969f3b7b8bddde6330001a6b99]|RELEASE:[none|none]
 sparkfun/Edison_9DOF_Block: BRANCHES:[master:b90f8ad45691ceff9fc1e30a1689f87de48f6d63]|RELEASE:[none|none]
 sparkfun/Edison_ADC_Block: BRANCHES:[master:2ff2ae361431d845ffb789b75f7db6487891174c]|RELEASE:[none|none]
+sparkfun/Edison_Arduino_Block: BRANCHES:[master:267f42c4b2452155ca24f66a2d3da049321a3a5b]|RELEASE:[none|none]
 sparkfun/Edison_Base_Block: BRANCHES:[master:44ed5369b4c45c394212bd857d462be58aafb9a0]|RELEASE:[none|none]
 sparkfun/Edison_Battery_Block: BRANCHES:[master:7f123c3883c4510620ad29da9a627db0399efa7c]|RELEASE:[none|none]
 sparkfun/Edison_Console_Block: BRANCHES:[master:8177870db7980d8354841b9477fb4cbee2c5d630]|RELEASE:[none|none]
