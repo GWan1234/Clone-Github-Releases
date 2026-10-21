@@ -1331,6 +1331,7 @@ sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc0
 sparkfun/LiPo_Charger_Booster_5V_1A: BRANCHES:[master:ac9126ec7ab5c16ddf297028a06d62e27141451e]|RELEASE:[HW-V1.0|355a26574a8c3e18fc3676ab073ee6694a13e905]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
 sparkfun/LiPower_Boost_Converter: BRANCHES:[master:5e7cd12443b3bc1273141299cddf84745ea4047c]|RELEASE:[none|none]
+sparkfun/Lil_Soundie_Audio_Player: BRANCHES:[master:437114696f40f7e2bba5c254e0b63266d3dc6b3b;fix_flash:88955e98cb59311f681da4d2a2bb6bba6d088989;hang_fix:2998545ed76f022eb6d23f3654553717d7a0b94c;reformat:234f819dda7878154f7f4da92c4f0f52ea2768cc;test:9fd89b2e642003703682949027a777da3ba10e01]|RELEASE:[none|none]
 sparkfun/LilyPad_Accelerometer-ADXL335: BRANCHES:[master:bf5839c34a0a270612137c7029ebeb232741155f]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_328_Main_Board: BRANCHES:[v_21:1e0f7007cbe7cec48c2dce05f526a61eac19c41a;master:4d5c5faa4f870d2f5e758cc98d93f66e3914abbc]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_Simple: BRANCHES:[master:d5d61fea9830db56d8cd3254306adcc86d66e064;v26:d1f912eb7c8374e159d9d917523104662614a25e]|RELEASE:[none|none]
