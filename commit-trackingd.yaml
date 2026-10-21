@@ -1115,6 +1115,7 @@ sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa1
 sparkfun/Analog_Digital_MUX_Breakout: BRANCHES:[master:f7f2eeb117617e67ab8442edc7ba767d19f0fd75]|RELEASE:[none|none]
 sparkfun/Audio-Sound_Breakout-WTV020SD: BRANCHES:[master:0a167ac8c499cfeb0fd5de0bce803c971a1cc8a9;v02:8adb57e1d8db2354bb1962b3f447d26584a64c76]|RELEASE:[none|none]
 sparkfun/BC127_Breakout_Board: BRANCHES:[master:54439d5d8feb4152aea897af669a206f2c0a2fe1;HW_V11:80aca3bb92b5857b144fc7b2d6786cd0d825a3fd]|RELEASE:[none|none]
+sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d]|RELEASE:[none|none]
 sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb25b;V20:1a7dba14bc455018da5a46c2ed8904702eecc99a]|RELEASE:[none|none]
 sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;changes_Feb13:32ea01950876c3cdbe96bc23e5c2b2bd53921e84]|RELEASE:[none|none]
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717]|RELEASE:[none|none]
