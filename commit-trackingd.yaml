@@ -1518,6 +1518,7 @@ sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2d
 sparkfun/SparkFun_LSM9DS1_Arduino_Library: BRANCHES:[master:18d3181c2bf2826c85b819079e3e626d12ab763b]|RELEASE:[v2.0.0|7269199c7a38a70becf454148474c6f05028e5b7]
 sparkfun/SparkFun_LSM9DS1_Particle_Library: BRANCHES:[master:0ffca1a8a74fb9bc7e7ff0a3cef9ac9348563bc3]|RELEASE:[none|none]
 sparkfun/SparkFun_Line_Follower_Array_Arduino_Library: BRANCHES:[master:29146627b9eda56a58f48e0abae9e124bb2415a8]|RELEASE:[none|none]
+sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5d9341ca1b85079c2063340]|RELEASE:[none|none]
 sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0]|RELEASE:[v1.0.1|0f8cd331ec91ff0cc04dcf98402d0729dd8790ca]
 sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library: BRANCHES:[master:a459ffb6d972717fa7fb553f109bac99042eca86]|RELEASE:[none|none]
 sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68585ff3756b16c80ef0a;Interrupt:3349aeccbfb462a12c0f8e0c8531fcc59d4e168e]|RELEASE:[V_1.4.0|4ad518cf599bd1daff78d10bae46a606547fb73b]
