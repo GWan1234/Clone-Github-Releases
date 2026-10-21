@@ -1295,6 +1295,7 @@ sparkfun/LED_Matrix_Serial_Interface_RGB: BRANCHES:[master:4703c1a4679f2eafd1ccf
 sparkfun/LED_Matrix_Serial_Interface_RedGreen: BRANCHES:[master:3ba07887a3a734b63a47c7d26bb575b1f3a72947;V_1.2:b08431c0070515ce04a68af1967263a81dc966d3]|RELEASE:[none|none]
 sparkfun/LED_RingCoder_Breakout: BRANCHES:[master:2dcdf34a54d8dc723a9fcfe8e54a5f421dd4aebc]|RELEASE:[none|none]
 sparkfun/LED_Tactile_Button_Breakout: BRANCHES:[master:02b0b40cbba51f19f55cb83376255949a5bb73fb]|RELEASE:[none|none]
+sparkfun/LIS3DH_Breakout: BRANCHES:[master:a57ba3b3d98e85724a43635a34a181869db26e82]|RELEASE:[none|none]
 sparkfun/LMD1820x_Breakout: BRANCHES:[master:a5f587671d761e775864aad88fc55bd919d203dc]|RELEASE:[none|none]
 sparkfun/LP55231_Breakout: BRANCHES:[master:22344d31a03233e4ea5ad2a805c65f5a140c4dda]|RELEASE:[none|none]
 sparkfun/LS20126_GPS_Breakout: BRANCHES:[master:7d9158c4c07b4d11d7ae7d85ccdbe5ac2e10c391]|RELEASE:[none|none]
