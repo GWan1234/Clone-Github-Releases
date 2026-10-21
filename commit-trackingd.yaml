@@ -1811,6 +1811,7 @@ sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0
 sparkfun/SparkFun_TB6612FNG_Arduino_Library: BRANCHES:[master:e34f9ec060e609217257771eb4b5ba93d5867ba8]|RELEASE:[none|none]
 sparkfun/SparkFun_TLC5940_Arduino_Library: BRANCHES:[master:df219716b7b08d252adabeb9474a56f7421e0ad4]|RELEASE:[V_1.1.1|df219716b7b08d252adabeb9474a56f7421e0ad4]
 sparkfun/SparkFun_TMP102_Arduino_Library: BRANCHES:[master:1260e0a9388918534504753323ae1df5a2ed1b3c]|RELEASE:[v1.1.2|1260e0a9388918534504753323ae1df5a2ed1b3c]
+sparkfun/SparkFun_TPL5110_Nano_Power_Timer: BRANCHES:[master:2d8d2cce78c7de05692d414d517ff05b5ec02b5c]|RELEASE:[v1.0|1e5f1316375bd72f4e3e03db97ef3220700d09f4]
 sparkfun/SparkFun_TSL2561_Arduino_Library: BRANCHES:[master:af36505969e42be712b5de45a6969016b03e9754]|RELEASE:[none|none]
 sparkfun/SparkFun_TeensyView_Arduino_Library: BRANCHES:[Multi-platform:46d8735770416d46db4a3e64cd85e6867522ee65;master:d7aee96b7740f7ef59f60194572efedbb3fe0347]|RELEASE:[none|none]
 sparkfun/SparkFun_Tinker_Kit_Code: BRANCHES:[master:0d1c1e73e0b0842a70b16af1bcb12b60e755cc3d]|RELEASE:[vF2.0|6e47904e806df5042b3a11a964d5a4c5dd3b2a64]
