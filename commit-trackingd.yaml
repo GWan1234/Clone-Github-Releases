@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:36
+commit-tracking: 2026-10-21 09:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1349,6 +1349,7 @@ sparkfun/Wake_on_shake: BRANCHES:[master:9c799010b82c0b1b83de27bc0d8b451f91ff98d
 sparkfun/Weather_Shield: BRANCHES:[master:77a360d0d9738a20ad49a2e2dd14cfd86bb9a7ed]|RELEASE:[v1.2|f5a2f909cbe777edf649981e6c51f1d241786810]
 sparkfun/WiFly-Shield: BRANCHES:[master:1726169e58b31fa4ad44b62154ea5cbe93de8af6]|RELEASE:[none|none]
 sparkfun/Wimp_Weather_Station: BRANCHES:[master:8fb4f8052ee94b945a8d5a44dab230c936724fdf]|RELEASE:[none|none]
+sparkfun/XBee_Explorer_Regulated: BRANCHES:[master:eac83216d9f6b8921fe2813fc3e6d34e357090aa]|RELEASE:[none|none]
 sparkfun/XBee_Explorer_USB: BRANCHES:[master:1c268163f47bea2f6d020cf3382618237049e284]|RELEASE:[none|none]
 sparkfun/XBee_Shield: BRANCHES:[master:e2cc07635cc640283d013f155deb81f7c7402cde]|RELEASE:[none|none]
 sparkfun/YouTube_Captions: BRANCHES:[master:e2fcf1af17bef5ae5dbcb9b7ab398a3179f5c96f]|RELEASE:[none|none]
