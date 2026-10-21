@@ -1575,6 +1575,7 @@ sparkfun/VKey_Voltage_Keypad: BRANCHES:[master:b0409586571a6afea594d66e71946f561
 sparkfun/Venus_GPS_Logger_SMA: BRANCHES:[master:bcc28bdffeddb8b6f835e33ed646115f40bc449b]|RELEASE:[none|none]
 sparkfun/Venus_GPS_SMA_Connector: BRANCHES:[master:73fda311542b6cdfa592c9072dd4245efad3d7af]|RELEASE:[none|none]
 sparkfun/Vernier_Interface_Shield: BRANCHES:[master:822ee6d91f33a21e1176481afbe21bb95be26a0a]|RELEASE:[none|none]
+sparkfun/VoiceBox_Shield: BRANCHES:[master:a9183fb559ca0e6c206a2d637711314363d49c09]|RELEASE:[none|none]
 sparkfun/Voice_Recorder_Breakout-ISD1932: BRANCHES:[master:e6a5079f9f77e1330785821369ea7ca83b45624a]|RELEASE:[none|none]
 sparkfun/WAV_Trigger: BRANCHES:[master:03150391b21e3de057cc98d092aebfae6bb0e943;H_v11:0f8687be314075cb998293bece1062834513efbe]|RELEASE:[none|none]
 sparkfun/WS2812_Breakout: BRANCHES:[master:80e00a06f2763d089633d80b3d5870311750e7d3]|RELEASE:[none|none]
