@@ -1876,6 +1876,7 @@ sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c
 sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc18804519abb0774bacf88edacfb60f]|RELEASE:[none|none]
 sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0]|RELEASE:[none|none]
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0]|RELEASE:[v2.1.1|53cab79cd61857a127450cde8ef14b3384430bf1]
+sparkfun/SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic: BRANCHES:[master:265d15c7acec81ca38a64c36feb75c299d38801f]|RELEASE:[none|none]
 sparkfun/SparkFun_SCD30_Arduino_Library: BRANCHES:[main:10468a13e023df6ec434bd6d319da80efbc0b317]|RELEASE:[v1.0.20|10468a13e023df6ec434bd6d319da80efbc0b317]
 sparkfun/SparkFun_SGP30_Arduino_Library: BRANCHES:[main:33c7030330aff16372b9411493ab3bd4a8a72dd3]|RELEASE:[v1.0.5|33c7030330aff16372b9411493ab3bd4a8a72dd3]
 sparkfun/SparkFun_SHTC3_Arduino_Library: BRANCHES:[master:671ef7e7c3570b2082a4ebbb8a63ea37cc13d171]|RELEASE:[v1.1.4|8b22619cb24c10b3365ea015d3efc73f5db2f84c]
