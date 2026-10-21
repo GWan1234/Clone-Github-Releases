@@ -1364,6 +1364,7 @@ sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;br
 sparkfun/Music_Instrument_Shield: BRANCHES:[master:f977f0824b8fdb7652ffe462cdcbe7b4d1e7055d]|RELEASE:[none|none]
 sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e5b00d5ee]|RELEASE:[none|none]
 sparkfun/MyoWare_Cable_Shield: BRANCHES:[V11:14d3958e2afd36be670266a4669084b12828aaf6;master:b7dbd9f0928e253a6f31e007a79a6d93192b116f;revert-7-V11:dbb5a58bd498e1b060e0ad4759d7dd5c289c8580]|RELEASE:[none|none]
+sparkfun/MyoWare_LED_Shield: BRANCHES:[master:194f10ea212c86cd8dd219f6075dac6ca8d2b60d]|RELEASE:[none|none]
 sparkfun/MyoWare_Power_Shield: BRANCHES:[master:42924ddb957ec48b65454b0b3e863fa7c76f5ff7]|RELEASE:[none|none]
 sparkfun/MyoWare_Proto_Shield: BRANCHES:[master:b21fb892f80cf272fd7e13570f228cfde7985bb4]|RELEASE:[none|none]
 sparkfun/NCP1402-3.3V: BRANCHES:[master:81400e56ee5dcba7f63dd2cc849feddaccdc35b3]|RELEASE:[none|none]
