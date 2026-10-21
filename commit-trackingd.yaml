@@ -1401,6 +1401,7 @@ sparkfun/Lumenati_8-Stick: BRANCHES:[master:8c03af864436f72b5dc840d408fc9ade7fc2
 sparkfun/Lumenati_8-pack: BRANCHES:[master:c36a2900370b3197a14fd952f291a7600583cced]|RELEASE:[V_H1.0|24f57cced6b4000d2886742523fed615c0e1f393]
 sparkfun/Lumenati_90L: BRANCHES:[master:ef5dddc4e1c84b8cc1fac6350173901c796a175a]|RELEASE:[V_H1.0|4937c93696c8c81529aad9b63af8aee5d804bb23]
 sparkfun/Lumenati_90R: BRANCHES:[master:a6feea0020a168ff8686f5dd5cdf0f7a252b982b]|RELEASE:[V_H1.0|1539b5912e74dfd3cf0bf93a7ddc7ca2f3fb03ed]
+sparkfun/LumiDrive: BRANCHES:[master:d5c3298491ebe1eed3a400d41316dbb4f61b5e61]|RELEASE:[none|none]
 sparkfun/Lumini_8x8: BRANCHES:[master:5316d4b1ee78ac3a0364e977a90faf2a1bb33a8b]|RELEASE:[none|none]
 sparkfun/MAG3110_Breakout_Board: BRANCHES:[master:96068b25fe532944ca196f969728943467d40714]|RELEASE:[v_H1.2|885da6b7e8e8d6c29cb1e30a8945e847cdd23cc3]
 sparkfun/MAX30105_Particle_Sensor_Breakout: BRANCHES:[master:1c5c88c8b99ae6edd1ba226c16e37b433641d56e]|RELEASE:[none|none]
