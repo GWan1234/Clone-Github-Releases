@@ -1789,6 +1789,7 @@ sparkfun/SparkFun-Live-Analog-Audio: BRANCHES:[master:d0a09ec3911a96ee79e2ae4074
 sparkfun/SparkFun-Payphone-Project: BRANCHES:[main:c7d14343fa239945ebf7521ca3f933487f3321ee]|RELEASE:[none|none]
 sparkfun/SparkFunDMX: BRANCHES:[master:df287d9ff83fc5ac5819e79a09a54274d4649784]|RELEASE:[v2.0.1|df287d9ff83fc5ac5819e79a09a54274d4649784]
 sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library: BRANCHES:[main:31c9ca39069ed3c039b4258146fc406e068eff6f]|RELEASE:[v1.0.6|2acd18d60106421773b31f0dfc527043a4ad9455]
+sparkfun/SparkFun_6DoF_LSM6DSV16X: BRANCHES:[gh-pages:f65ad575295327979942bf7e1348ce9aa0aabb04;main:81f28abb82c4edfa63f5bcc623be1ea7ef1c1ce5]|RELEASE:[none|none]
 sparkfun/SparkFun_74HC595_Arduino_Library: BRANCHES:[master:59968e70f8e5d27bcf976a87cc8d145b51313e5b]|RELEASE:[none|none]
 sparkfun/SparkFun_9DOF_Block_for_Edison_CPP_Library: BRANCHES:[master:8c7b62446d02f045ff7aa4d95f90fe51724f5d7c]|RELEASE:[none|none]
 sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library: BRANCHES:[develop:7cbb7562cf900e9106867c86a2b2fab64062e1b1;release_candidate:5a33b0e7354682fef033322047d0963957273127;main:5a33b0e7354682fef033322047d0963957273127]|RELEASE:[v1.0.6|5a33b0e7354682fef033322047d0963957273127]
