@@ -1731,6 +1731,7 @@ sparkfun/SparkFun_TSL2561_Arduino_Library: BRANCHES:[master:af36505969e42be712b5
 sparkfun/SparkFun_TeensyView_Arduino_Library: BRANCHES:[Multi-platform:46d8735770416d46db4a3e64cd85e6867522ee65;master:d7aee96b7740f7ef59f60194572efedbb3fe0347]|RELEASE:[none|none]
 sparkfun/SparkFun_Tinker_Kit_Code: BRANCHES:[master:0d1c1e73e0b0842a70b16af1bcb12b60e755cc3d]|RELEASE:[vF2.0|6e47904e806df5042b3a11a964d5a4c5dd3b2a64]
 sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library: BRANCHES:[master:a4e4def9dfd2fdac56a58b41d8a690d475377760]|RELEASE:[v1.1.3|fbddc0e68616d7b4ca14d2c1654c0b0fcc2d41bb]
+sparkfun/SparkFun_VCNL4040_Arduino_Library: BRANCHES:[master:ecaf451941a15ab1665f6e5efb4c8753b92e6627]|RELEASE:[v1.0.4|ecaf451941a15ab1665f6e5efb4c8753b92e6627]
 sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library: BRANCHES:[master:e0818e3815f10d919bc2f78f6810ce480177aff3]|RELEASE:[V_1.0.3|6d03f33a7be8ebebe3647c902796699413ab7841]
 sparkfun/SparkFun_VL53L1X_Arduino_Library: BRANCHES:[develop:9b339a46ef92dcd830e0b1281fe616762f44bed2;master:e88f55d6d82a4a8c519ec90a2660e6ec799b4579]|RELEASE:[v1.2.12|7ca2ae038948adaacf08866bf11fadfb48f23b8d]
 sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae12f7f5d69e7af03b88efd7b85f3984d8848a3]|RELEASE:[none|none]
