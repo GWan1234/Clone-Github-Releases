@@ -193,7 +193,7 @@ DFRobot/DFRobot_FreeTenIMU: BRANCHES:[main:358a4a215f73be9bf579958bdafdf09413d75
 DFRobot/DFRobot_GDL: BRANCHES:[cursor/const-correct-settext-daa8:3573104223fbe2f4da0ba6af2f3ed07f54e0bd4c;dependabot/pip/src/Fonts/FontCustomScript/urllib3-2.6.3:5b927480db7c4c17ace15fdcee22a2d1689f5441;dependabot/pip/src/Fonts/FontCustomScript/marshmallow-3.26.2:5ac4538d23e8fd795edb7fa11192cfbfd698a40c;master:211202c8ab474aff46c1f5d81f55b74bd3c2cae6;dependabot/pip/src/Fonts/FontCustomScript/starlette-0.49.1:c94aec9cc921412958875377ee7171c95cbb7b86;dependabot/pip/src/Fonts/FontCustomScript/certifi-2024.7.4:ee82ce07348ede4f4c41681d339b732bf8b2088b;dependabot/pip/src/Fonts/FontCustomScript/idna-3.7:63ae60977366359ec06f04d49742da427fc51ec2;dependabot/pip/src/Fonts/FontCustomScript/requests-2.32.4:d3d9e551eac61856fe80ce58813671c180711768]|RELEASE:[none|none]
 DFRobot/DFRobot_GM60: BRANCHES:[cursor/support-long-scan-results-8b2b:71a045f5373cb9579db3258e429d6a6547928eb2;main:173df375f720786a3cb74475a575a8e29c572198]|RELEASE:[none|none]
 DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d]|RELEASE:[none|none]
-DFRobot/DFRobot_GNSS: BRANCHES:[master:d4861cefa434e15a235459184bd27f81d8781416]|RELEASE:[none|none]
+DFRobot/DFRobot_GNSS: BRANCHES:[fix/default-i2c-address:f935fed3be7f21bc46251605e69c8c6be81abb5d;master:d4861cefa434e15a235459184bd27f81d8781416]|RELEASE:[none|none]
 DFRobot/DFRobot_GNSSAndRTC: BRANCHES:[master:e739e8cdba7998ecf3af9ea3db80b676a0c43d25]|RELEASE:[none|none]
 DFRobot/DFRobot_GP8302: BRANCHES:[master:b579f827e4b9efcf7616ea8e479ccc41582b3999]|RELEASE:[none|none]
 DFRobot/DFRobot_GP8403: BRANCHES:[master:ec3fce2bb8fae516eea587dc74f2b8f809a002fb]|RELEASE:[none|none]
