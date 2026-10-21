@@ -1552,6 +1552,7 @@ sparkfun/SI4735_AM_FM_Shield: BRANCHES:[master:10e153f9238eda586dfef122093b295b9
 sparkfun/SI4735_Breakout: BRANCHES:[master:3e7a821ad41f3319da72491d1e887c099c428376]|RELEASE:[none|none]
 sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131fd;edu_rework:994ec7f28b94d5a0c370906ea51cfda8d21f525a;SIK_Arduino_Book:54e38a9631199403dc2b8c465e687b41e651f98e]|RELEASE:[v41|2b12597f2ea010b1e738aae8457ea9353db28b78]
 sparkfun/SIKIO: BRANCHES:[master:643d791d741be9f33ffa67aea17a87f011f2eded]|RELEASE:[none|none]
+sparkfun/SIK_Case_Inserts: BRANCHES:[master:33ffefbba9155603f6c9efab0200b3219ab83c34]|RELEASE:[none|none]
 sparkfun/SIK_Guide: BRANCHES:[master:fbb8ab5500bf4008f7f3d280587b042cc3559ea6]|RELEASE:[none|none]
 sparkfun/SIK_Projects: BRANCHES:[master:402b17139da4c5e3deb3798019e2605ae2bca9cb]|RELEASE:[none|none]
 sparkfun/SIM_Card_Breakout: BRANCHES:[master:9a9e1751c6ae69d9c76797d829cb1a3879996651]|RELEASE:[none|none]
