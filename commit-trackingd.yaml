@@ -1243,6 +1243,7 @@ sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e
 sparkfun/NCP1402-3.3V: BRANCHES:[master:81400e56ee5dcba7f63dd2cc849feddaccdc35b3]|RELEASE:[none|none]
 sparkfun/NCP1402-5V_Breakout: BRANCHES:[master:00ff66e2fff0e07a9204559cc5cd3b0d5799028f]|RELEASE:[none|none]
 sparkfun/Navigation_Switch_Breakout: BRANCHES:[master:03e99797a9c20dcefb126ef5c168b99b7d0c5044]|RELEASE:[none|none]
+sparkfun/Nerf-Atrium-Defense-System: BRANCHES:[master:7c35dda4383ea27386bd41c650a5b030bbdeab6a]|RELEASE:[none|none]
 sparkfun/OBD-II_UART: BRANCHES:[master:c35ae778350c3c9f5c8568319e0dbf106518fd76]|RELEASE:[none|none]
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
