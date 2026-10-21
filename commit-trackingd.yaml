@@ -1126,6 +1126,7 @@ sparkfun/Binary_Blaster: BRANCHES:[easy_mode_for_learning:50a59460cb302312fcf7f7
 sparkfun/BlueSMiRF: BRANCHES:[master:c2c5533f4da312db30b65d03edacca65380036f0]|RELEASE:[none|none]
 sparkfun/Bluetooth_Mate: BRANCHES:[master:dd06faa22554e0b6483e261b29d2deafe047c2dc]|RELEASE:[none|none]
 sparkfun/Bluetooth_Module_Breakout: BRANCHES:[master:070c8605843f9be64d80810e17b3da0f0a915d16]|RELEASE:[none|none]
+sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V: BRANCHES:[master:e20de092731a95e48035bd819808cd0199bded37]|RELEASE:[none|none]
 sparkfun/Breadboard_Power_Supply_Stick_5V-3.3V: BRANCHES:[master:61db9993900f6341ecfdf4ad78172a0a0ff155b8]|RELEASE:[none|none]
 sparkfun/Bugzilla-Extension-SparkFun: BRANCHES:[master:8c86130b12cc9c24c73f9aff11e31f6c2832ffec]|RELEASE:[none|none]
 sparkfun/CAN-Bus_Shield: BRANCHES:[v20:79b393c52e0f178bd8e5a1f90e1918d74c9076dd;master:2e152297bd82162a0aa01cae8f074c9ae953bbcb]|RELEASE:[none|none]
