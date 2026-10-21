@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:24
+commit-tracking: 2026-10-21 12:25
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1584,6 +1584,7 @@ sparkfun/Qwiic_RTC_Module: BRANCHES:[master:7a591ec26134ed17d743fb25d70210e18e02
 sparkfun/Qwiic_Relay: BRANCHES:[master:68fed0ebfe4ea963a69497c696047c61dd3f1b70]|RELEASE:[none|none]
 sparkfun/Qwiic_Scale: BRANCHES:[master:ab136d756a781f9ff104c225318d1604af385aac]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Arduino: BRANCHES:[v11:6b0caeb5bf695d0aafa4904d23b4a3ab86315871;master:6b0caeb5bf695d0aafa4904d23b4a3ab86315871]|RELEASE:[none|none]
+sparkfun/Qwiic_Shield_for_Arduino_Nano: BRANCHES:[master:bd9cd174a271141502910d72a820f872c3cf77d8]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Photon: BRANCHES:[master:a9c7f9f2f8fd4b58a994f84d0dae2df63390fa6d]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Thing_Plus: BRANCHES:[master:26523aafaf95794cf9267ab92b335a4eb9c39a33]|RELEASE:[none|none]
 sparkfun/Qwiic_Spectral_Sensor_AS7265x: BRANCHES:[master:947b94fb5407f9b6affda4a59a732ce9a1e6d140]|RELEASE:[none|none]
