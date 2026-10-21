@@ -1778,6 +1778,7 @@ sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;ses
 sparkfun/Sparkfun_Big_Red_Box_Proto_Board: BRANCHES:[master:e40b5c361770dddfb4438c081b69cdaf12924fa6]|RELEASE:[none|none]
 sparkfun/Sparkfun_Blocks_Template: BRANCHES:[master:2624d22e74e68588d33d3a39d715e043feb3de5d]|RELEASE:[none|none]
 sparkfun/Sparkfun_GPS_Speedometer: BRANCHES:[master:115a8a34b04c063b056c84417eb21e7f85502317]|RELEASE:[none|none]
+sparkfun/Sparkfun_SAMD21_Pro_RF_Arduino_Examples: BRANCHES:[master:0ae451cfb1e8c61f3ac6e184345e85fbe1151b08]|RELEASE:[none|none]
 sparkfun/Sparkpunk: BRANCHES:[master:dcc9836a229a5fc89475ff87f20d26f68e7e2f39]|RELEASE:[V10|4566b04fb0d5cfe1b7b1ab2148d8218993fd9a78]
 sparkfun/Sparkpunk_Sequencer: BRANCHES:[master:236d6e79ec916e1cd56b950b063ad0fda0d06765]|RELEASE:[none|none]
 sparkfun/Spectacle_Accelerometer_Input_Board: BRANCHES:[master:020c9efacd633baf436d19e3f1c54adbf391720c]|RELEASE:[none|none]
