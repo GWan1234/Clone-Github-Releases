@@ -1933,6 +1933,7 @@ sparkfun/SparkFun_Micro_OLED_Particle_Library: BRANCHES:[master:d269eda0555ec280
 sparkfun/SparkFun_MiniGen_Arduino_Library: BRANCHES:[master:8173dec8c7e147e08352cf9ad389f206a379b304]|RELEASE:[none|none]
 sparkfun/SparkFun_MiniMoto_Arduino_Library: BRANCHES:[master:1b42fbbbe25c134150f8e9cb268108fa5aeeab93]|RELEASE:[none|none]
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
+sparkfun/SparkFun_MyoWare_Code_Examples: BRANCHES:[main:2493e6331e28fde530fc6eb2c6ff310f3dadf0d4]|RELEASE:[none|none]
 sparkfun/SparkFun_PCA9536_Arduino_Library: BRANCHES:[master:b7366c6377c8d536a8aedac1a13c74209523eca5]|RELEASE:[v1.2.2|b7366c6377c8d536a8aedac1a13c74209523eca5]
 sparkfun/SparkFun_PCB_Ruler: BRANCHES:[master:cc8476629d4cb2897ed51f13862e8dbb492fafc9;SparkFun-Ruler:45822ec59afb47d0cf7cc2da59e9f4f37363a2cd]|RELEASE:[none|none]
 sparkfun/SparkFun_PHT_MS8607_Arduino_Library: BRANCHES:[main:ff730a72e3126df5ff3838b9ff3f9ee4a0e96741]|RELEASE:[v1.0.5|ff730a72e3126df5ff3838b9ff3f9ee4a0e96741]
