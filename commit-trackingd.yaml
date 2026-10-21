@@ -1257,6 +1257,7 @@ sparkfun/according-to-pete: BRANCHES:[master:17ed6dfd4e9c24b41b6d4b3e4243b5ac173
 sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;internationalization:a8a410994a241f15c9eda42e764800a832a84a14;readme_cleanup:aface5f4ea61a6e55d3fc197b50885fdd42ced00]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
 sparkfun/nRF2401A_Transceiver-Chip_Antenna: BRANCHES:[master:2759a7ae40724f2c3bff0a5f2ffea3a8a22e56be]|RELEASE:[none|none]
+sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94fa60809b415f70009c8b32]|RELEASE:[none|none]
 sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
 sparkfun/usb-scale: BRANCHES:[master:102a6d059b0f0f042926d6d74acf37181a02eeb6]|RELEASE:[none|none]
