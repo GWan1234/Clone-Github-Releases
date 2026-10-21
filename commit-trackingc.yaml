@@ -2420,7 +2420,7 @@ sparkfun/tsunami: BRANCHES:[master:5046609544d4c6328bdb667a31630aa630e5f9e2]|REL
 sparkfun/usb-scale: BRANCHES:[master:102a6d059b0f0f042926d6d74acf37181a02eeb6]|RELEASE:[none|none]
 sparkfun/vexMotor: BRANCHES:[master:40450f03f17cd4eaf1d7ce9eaa2cdd8ee923abc3]|RELEASE:[none|none]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
-waveshareteam/.github: BRANCHES:[main:715fab298db64f1b89822a1204d48102d5f91af8;docs/community-health-files:a453d22e04b20565655c3d54262883279a329113]|RELEASE:[none|none]
+waveshareteam/.github: BRANCHES:[main:715fab298db64f1b89822a1204d48102d5f91af8]|RELEASE:[none|none]
 waveshareteam/0.85inch-ScreenKey-Module: BRANCHES:[main:7d5f0c54384edeffe4ae17e35e8573eff8551e4b]|RELEASE:[none|none]
 waveshareteam/1.46inch-Touch-LCD-Module: BRANCHES:[main:37f1f8cc184467fcaa6b841c940d5ea4d7f23169]|RELEASE:[none|none]
 waveshareteam/1.54inch-Touch-LCD-Module: BRANCHES:[main:f3a58436b584baf71f8c4bac80f604582a66132f]|RELEASE:[none|none]
