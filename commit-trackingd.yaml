@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:34
+commit-tracking: 2026-10-21 12:35
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1765,6 +1765,7 @@ sparkfun/SparkFun_ESP8266_AT_Arduino_Library: BRANCHES:[master:f52ddca7b6a75eccd
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9]|RELEASE:[none|none]
 sparkfun/SparkFun_Edge: BRANCHES:[v2LP-fix-camera-data-pins:01be747e08aa468c16e8fb35cc6e65c93736b0ba;v2LP:f6d2c700e915df29f858d5fed748a4fb129b6948;master:9efcf61f287932238491e4a1fd18f7a280a244c0;fix-v1-camera-net-labels:dbcdc67424bdec42d6221d12a485124846e7cef6]|RELEASE:[v2.0.0|cb867d2f2cc84c7fcb2fdf0f46ce7ef281175711]
 sparkfun/SparkFun_Edge_BSP: BRANCHES:[master:6ea7ef137132bb0cb4b27abe837c913c7643f11e]|RELEASE:[none|none]
+sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680: BRANCHES:[master:ff6f1f269c195a209b036d0325c8b94deaeae1ab]|RELEASE:[none|none]
 sparkfun/SparkFun_External_EEPROM_Arduino_Library: BRANCHES:[main:1e8054fc461842f72f794ce46df44a62a103bb65;v3RollBack:6fc4ff089d2caa4458a74e3fb5114b4ac1494e24;AutoDetect:a7bef83d61d1863190d0512faed1e67112ef6a86]|RELEASE:[v3.2.13|1e8054fc461842f72f794ce46df44a62a103bb65]
 sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1]|RELEASE:[v1.0.1|4acac9784b34cbcbb12ed936b79de07c416a2a68]
 sparkfun/SparkFun_GPIO_Block_for_Edison_CPP_Examples: BRANCHES:[master:286dceb2738fdbfd3e499f5c7ff7a9db2c4be2c5]|RELEASE:[none|none]
