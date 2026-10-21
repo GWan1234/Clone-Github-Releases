@@ -1165,6 +1165,7 @@ sparkfun/CC3000_WiFi_Breakout: BRANCHES:[master:eb0e211b622dc2ae720daf087e386314
 sparkfun/CC3000_WiFi_Shield: BRANCHES:[master:59a530fbfed9989e41d6febbc20d4d1115bbdf3e]|RELEASE:[none|none]
 sparkfun/CP2102_Breakout: BRANCHES:[master:b0629d7e3b6004c158f858be66a4a197fcc62491]|RELEASE:[none|none]
 sparkfun/ClockIt: BRANCHES:[master:f160ea50b6209bfaf3863ae75f2bdbdb2a44529f]|RELEASE:[none|none]
+sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm: BRANCHES:[master:e25855155c02dc167d3a846cf419b79bf3ffcc19]|RELEASE:[none|none]
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab]|RELEASE:[none|none]
 sparkfun/Color_Light_Sensor_Evaluation_Board: BRANCHES:[master:08ef0bf23b76ea32c53ad554510784822b18e42d]|RELEASE:[none|none]
 sparkfun/Copernicus_II_DIP_Module: BRANCHES:[master:c756306e9f97ceefd6b658c9a223a3a111e93475]|RELEASE:[none|none]
