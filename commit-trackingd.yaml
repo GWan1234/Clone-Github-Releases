@@ -1164,6 +1164,7 @@ sparkfun/Edison_ADC_Block: BRANCHES:[master:2ff2ae361431d845ffb789b75f7db6487891
 sparkfun/Edison_Base_Block: BRANCHES:[master:44ed5369b4c45c394212bd857d462be58aafb9a0]|RELEASE:[none|none]
 sparkfun/Edison_Battery_Block: BRANCHES:[master:7f123c3883c4510620ad29da9a627db0399efa7c]|RELEASE:[none|none]
 sparkfun/Edison_Console_Block: BRANCHES:[master:8177870db7980d8354841b9477fb4cbee2c5d630]|RELEASE:[none|none]
+sparkfun/Edison_Micro_SD_Block: BRANCHES:[master:d03e0de437046e3637e94fecb9454dd63d959f00]|RELEASE:[none|none]
 sparkfun/Edison_OLED_Block: BRANCHES:[master:5491d5a190750d4ebae4b6f5b79faff9a4ab0354]|RELEASE:[none|none]
 sparkfun/Edison_PWM_Block: BRANCHES:[master:944a0e9369a9f3e0a617156ac0c0905018b991e0]|RELEASE:[none|none]
 sparkfun/Edison_UART_Block: BRANCHES:[master:1ccd50c0ecbe2c3ab83c7970174aadbecdbcbe8d]|RELEASE:[none|none]
