@@ -1563,6 +1563,7 @@ sparkfun/Rover5_Motor_Driver_Board: BRANCHES:[master:2823c4add50001f6ef44b9ea968
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/SAMD21_Dev_Breakout: BRANCHES:[master:862b35cc1abcdfbde8416d9ef31178513cbc61a1]|RELEASE:[none|none]
 sparkfun/SAMD21_Mini_Breakout: BRANCHES:[master:314ca1b375e24c2cebe20db55d8bfab2d6736247]|RELEASE:[none|none]
+sparkfun/SAMD51_Thing_Plus: BRANCHES:[master:ab67e74cc7acbfd325e5a7e1409f5fb7a99d9869]|RELEASE:[v1.0.0|61b182b13ed6b236c90d3d9002c00f9b927f2eab]
 sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
 sparkfun/SD-MMC_Breakout: BRANCHES:[master:d472cfaa8c39cf9efc94f010e50b85bc87eefc7b]|RELEASE:[none|none]
 sparkfun/SD_Sniffer: BRANCHES:[master:5f08751556b7f49f61d63a87b705286d28fd291d]|RELEASE:[none|none]
