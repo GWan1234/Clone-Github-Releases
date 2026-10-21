@@ -1402,6 +1402,7 @@ sparkfun/phant-meta-nedb: BRANCHES:[master:3b804873221703bc3dc87a70cec4482eaa151
 sparkfun/phant-meta-test: BRANCHES:[master:b43a8f259cbd46832e1badbeebede9572cb22bb0]|RELEASE:[none|none]
 sparkfun/phant-monitor: BRANCHES:[master:9a5b9898f9d200d8a30a45eb38c0ec879dabe955]|RELEASE:[none|none]
 sparkfun/phant-notify-email: BRANCHES:[master:6ab770c25d58c6ce608c6f7d1d25a16d0564e1ea]|RELEASE:[none|none]
+sparkfun/phant-output-mqtt: BRANCHES:[master:e1c353d609aac27b6913d87935b864d00220e3ff]|RELEASE:[none|none]
 sparkfun/phant-output-statsd: BRANCHES:[master:fa63f1924ef2a67311b08c4535a35580888e1e64]|RELEASE:[none|none]
 sparkfun/phant-output-thermalprinter: BRANCHES:[master:ddda1cb4924c3db1ed1c694c34fb5b21bfa30548]|RELEASE:[none|none]
 sparkfun/phant-output-udp: BRANCHES:[master:070b29b1e4c070d48e7e332922496fe818a61a8c]|RELEASE:[none|none]
