@@ -1462,6 +1462,7 @@ sparkfun/MiP_ProMini-Pack: BRANCHES:[master:9b857adc5ec6498025385ac96764d7c608a3
 sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd372611038b]|RELEASE:[none|none]
 sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac76938c]|RELEASE:[none|none]
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
+sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0]|RELEASE:[none|none]
 sparkfun/MicroSD_Sniffer: BRANCHES:[master:cb837970e6bd69acb9d3e0466fef1f0d04ab7078]|RELEASE:[none|none]
 sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8]|RELEASE:[none|none]
 sparkfun/MicroView_USB_Programmer: BRANCHES:[master:7057bea2c0b54db610f1ea53f22856b7026088ea]|RELEASE:[none|none]
