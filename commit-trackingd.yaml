@@ -1542,6 +1542,7 @@ sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753: BRANCHES:[master:bba6d9cf4
 sparkfun/Qwiic_IMU_BNO080: BRANCHES:[master:b821d9c1c76c2700fa70ade7783cc522cd3cc683]|RELEASE:[none|none]
 sparkfun/Qwiic_IR_Array_MLX90640: BRANCHES:[master:035dccca8460e6320ef446646534df33f39546f3]|RELEASE:[none|none]
 sparkfun/Qwiic_Joystick: BRANCHES:[master:872ce30c7db70375220e67d78398a19f7c60b9ab]|RELEASE:[none|none]
+sparkfun/Qwiic_Keypad: BRANCHES:[Check_for_valid_numberOfBytesReceived:2efbd98b825be0280e4b57465d10a4caf8cbae84;master:3c219d96fedc362823868bff1757e3e6ec07d017]|RELEASE:[none|none]
 sparkfun/Qwiic_MP3_Trigger: BRANCHES:[v20:79ae24febdc21adf431d0906d25c3312d69ee479;master:73fe2a4df20b4f077626714a39c7b6fee563fd8a]|RELEASE:[v1.1|e41eaa2f0862e6d1efe9fe17f980c1b474f3f602]
 sparkfun/Qwiic_Magnetometer_MLX90393: BRANCHES:[master:9167ef00efc6b20c69a5dd715c359d926beadd56]|RELEASE:[none|none]
 sparkfun/Qwiic_Micro_OLED: BRANCHES:[master:c3ee0d437bd69ed8c1e5bce32e425c81365d2e21]|RELEASE:[v1.0|2d9c62497590fa458a4e15f8baf91f81ced34926]
