@@ -1437,6 +1437,7 @@ sparkfun/PicoBoard: BRANCHES:[master:9ceb9c847795955ed3d3f1af5551619e99b3ba8c]|R
 sparkfun/PicoBuck: BRANCHES:[master:2a41992a24f352af5ce7c0c3a2334665850e2b72;hi_pow:87b941142c381b074083ef9f342c4748e0492640]|RELEASE:[none|none]
 sparkfun/PoEthernet_Shield: BRANCHES:[master:5be941ad7820de89eaad4fb2780ee7332f4fb909]|RELEASE:[none|none]
 sparkfun/Pocket_AVR_Programmer: BRANCHES:[master:c51d6f0254f8f7d08831ed9fc40d86c64035276d]|RELEASE:[none|none]
+sparkfun/Pokedex: BRANCHES:[master:0efb11ce59cafa1d08efa831f2cfea94f6a3b769]|RELEASE:[none|none]
 sparkfun/Polar_Heart_Rate_Monitor_Interface: BRANCHES:[master:ca41acd0e0e383fd8523fa623438379c5f085907]|RELEASE:[none|none]
 sparkfun/Power_Driver_Shield_Kit: BRANCHES:[master:519bc883f9ed1ac75753944a286a35f4b4254c1b]|RELEASE:[none|none]
 sparkfun/Pro_Micro: BRANCHES:[RED_LED_EOL:785cb819e0a6f76404c4e4d9b0194fbb5c9e2c88;main:df836f3bf2955c4f1199a852f618d2ac80866d47;Boogie_Board:15dbf1af386d02f33664141b5b747bee6a0dcd13]|RELEASE:[v2.0|df836f3bf2955c4f1199a852f618d2ac80866d47]
