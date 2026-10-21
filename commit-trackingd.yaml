@@ -1116,6 +1116,7 @@ sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
 sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;QC-REV:d4529cc4fb4bf141d9ee47adcac8f184c66e1329]|RELEASE:[none|none]
+sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;library-updates:b1065f7739bc44fea03a1f870ceaece5c2079d78]|RELEASE:[none|none]
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/SIKIO: BRANCHES:[master:643d791d741be9f33ffa67aea17a87f011f2eded]|RELEASE:[none|none]
 sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263]|RELEASE:[none|none]
