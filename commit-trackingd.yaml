@@ -1409,6 +1409,7 @@ sparkfun/On_Screen_Display_Breakout-MAX7456: BRANCHES:[master:fcb49d25b47091dc3d
 sparkfun/OpAmp_Breakout-LMV358: BRANCHES:[master:0a805d06e228d5c3a6631d51dfaceebe121e18a8]|RELEASE:[none|none]
 sparkfun/OpenLCD: BRANCHES:[master:88bf6f642840a2ecda856b10a05429f2f27a7c7d]|RELEASE:[v1.3|d4ad618f0ac1380f466c37bab6b003d0e2666a0b]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
+sparkfun/OpenPIR: BRANCHES:[new_pir_detector_controller:7faca446284af6e25256222ac8e5930142ca3314;master:41862c355b6d1bd3bc0f65fd0f7e4933e05276d7]|RELEASE:[none|none]
 sparkfun/OpenScale: BRANCHES:[master:7c0e0191c6e8b0ee30401e1cb1873247501802fb]|RELEASE:[none|none]
 sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;QC-REV:d4529cc4fb4bf141d9ee47adcac8f184c66e1329]|RELEASE:[none|none]
 sparkfun/Opto_Isolator_Breakout: BRANCHES:[master:fcf3b555d61089760e7e3c924f89e31108b939b3]|RELEASE:[none|none]
