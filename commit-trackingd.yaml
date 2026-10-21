@@ -1123,6 +1123,7 @@ sparkfun/APDS-9301_Breakout: BRANCHES:[master:85e94b144292f45bab9c10303d6ae2b245
 sparkfun/APDS-9960_RGB_and_Gesture_Sensor: BRANCHES:[master:a7f08275b6e7ac03d1b88dd20fd5c58063f0e6b7]|RELEASE:[V_H1.0_L1.4.4|770e2b0216cc6ba8626873b376e1b122e80ec371]
 sparkfun/AT407_Tilt_Sensor: BRANCHES:[master:6f73658e943d54147d389247bafdd23984e77a25]|RELEASE:[none|none]
 sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b0e9b28c46165f292fdfa80b6]|RELEASE:[HW_v1.0_FW_v1.0|a1d09227f57d31b224ee6de3195bcf5f69d8f535]
+sparkfun/ATX_Power_Connector_Breakout: BRANCHES:[master:4cc10be391aa08952174be5d3543c9d3877e084c]|RELEASE:[none|none]
 sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa11f94e]|RELEASE:[pre-Arduino-1.6|adc2926f6c9872b6534079f21ce90784b7433215]
 sparkfun/AVC2017_images: BRANCHES:[master:c40edb28d95cf8c5275d5815a1a5fd5dbaff7f64]|RELEASE:[none|none]
 sparkfun/AVR_ISP_Shield: BRANCHES:[master:dcd712d266486559c8a6ddf7f8025caf97afaf2e]|RELEASE:[none|none]
