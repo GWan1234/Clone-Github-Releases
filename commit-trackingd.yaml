@@ -1141,6 +1141,7 @@ sparkfun/LilyPad_Simple_Power: BRANCHES:[master:c18e03df42092d8ff437a62149fa94b3
 sparkfun/LilyPixel: BRANCHES:[master:c29d59c8c31cc6130489b7043b1abc5ac510a9c6]|RELEASE:[none|none]
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f]|RELEASE:[none|none]
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9]|RELEASE:[none|none]
+sparkfun/Logic_Level_Converter: BRANCHES:[master:ce154384212c1d125b75f1a50f894a8895a1d81e]|RELEASE:[none|none]
 sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3]|RELEASE:[none|none]
 sparkfun/MOSFET_Power_Controller: BRANCHES:[master:d20f59094c1d7a4e9a1747663bc88a6df2e4bed8]|RELEASE:[none|none]
 sparkfun/MPL3115A2_Breakout: BRANCHES:[master:d80362a56081f9dc7d808d2cca5a535589d9becb;QC-REV:5cbddba8a287761489ad5484e4ad199ac42560e2]|RELEASE:[none|none]
