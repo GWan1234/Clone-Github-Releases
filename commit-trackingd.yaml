@@ -1812,6 +1812,7 @@ sparkfun/SparkFun_Phant_Particle_Library: BRANCHES:[master:7ffa389e608f93796a8a7
 sparkfun/SparkFun_Photon_Weather_Shield_Particle_Library: BRANCHES:[master:9940434f66c71ced4538b2882ffd3c2beac5a847]|RELEASE:[none|none]
 sparkfun/SparkFun_Pi_AVR_Programmer_HAT: BRANCHES:[master:67af8c8c3f3e89e2f32d41f2ba2b919f76a34282]|RELEASE:[none|none]
 sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor: BRANCHES:[master:eadf4873d663a43eef36f3ed97415727a784df7b]|RELEASE:[none|none]
+sparkfun/SparkFun_Pulsed_Radar_A111_Example_Code: BRANCHES:[master:a08abb7fbe4c4945bcc95b83f2001f16779a0d34]|RELEASE:[none|none]
 sparkfun/SparkFun_Pulsed_Radar_Breakout_A111: BRANCHES:[master:5f4d608a017d88721af725bd75d14d3e65de6438]|RELEASE:[v1.1|5f4d608a017d88721af725bd75d14d3e65de6438]
 sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
 sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f3418ae340f63b05]|RELEASE:[V_1.0.0|4e221395aa8e74332f5f8648f3418ae340f63b05]
