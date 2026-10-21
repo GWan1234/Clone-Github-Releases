@@ -1427,6 +1427,7 @@ sparkfun/Through-Hole_Christmas_Kit: BRANCHES:[master:1c964e527b78eb34b2f7161880
 sparkfun/Tilt-a-Whirl_Breakout: BRANCHES:[master:f86f47594932749040fa7a303518d5177c3ab207]|RELEASE:[none|none]
 sparkfun/Tiny-AVR-Programmer: BRANCHES:[master:8169e041d0f3bd5092280e82d616e418fb652053;v14:8d8fba4e3ea46807223c0e0258c8fe432b741c03]|RELEASE:[none|none]
 sparkfun/ToF_Range_Finder_Breakout-VL6180: BRANCHES:[master:2faa308fd111d75ad37b4861f93b4bca551254aa]|RELEASE:[none|none]
+sparkfun/ToF_Range_Finder_Sensor-VL6180: BRANCHES:[master:6df9637f3e0700be49c3cc0022caf16341af2d0b]|RELEASE:[none|none]
 sparkfun/Tomatoless_Boots: BRANCHES:[master:2d5b88014a0d647c443909ca47dbe41caa7e8dc0]|RELEASE:[none|none]
 sparkfun/TopHat: BRANCHES:[master:69e0c73bc9f4a27c08011ed0169c4282a17ec05a]|RELEASE:[none|none]
 sparkfun/Touch_Potentiometer: BRANCHES:[master:c10aedca16c7a781e12ac266ee421bb1562972fe]|RELEASE:[none|none]
