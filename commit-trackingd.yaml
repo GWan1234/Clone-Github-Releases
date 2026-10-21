@@ -1134,6 +1134,7 @@ sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;
 sparkfun/P8X32A_Breakout: BRANCHES:[master:a3602444ee2935ca3be44557122a7fb7a705106d;readme_cleanup:6354c73419b01cb24270c1ca3941c6c2bf8175b3]|RELEASE:[none|none]
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6]|RELEASE:[none|none]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
+sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51]|RELEASE:[none|none]
 sparkfun/RaspiRobot: BRANCHES:[master:0f42b3c1cadf59943eb3cd9217b978da90cc6aea;readme_cleanup:fa43f922f3e9c89e2dd23eb1e13632889c890005]|RELEASE:[none|none]
 sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;library-updates:b1065f7739bc44fea03a1f870ceaece5c2079d78]|RELEASE:[none|none]
 sparkfun/RedBot_Accelerometer: BRANCHES:[main:dc04b82d3abcb1f428d3d7b37406e565d15d90bc]|RELEASE:[v14|3f4d0aee8a0f187f03871cf6c903070030d2ca79]
