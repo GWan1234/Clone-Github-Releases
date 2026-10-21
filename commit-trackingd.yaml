@@ -1531,6 +1531,7 @@ sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e
 sparkfun/Qwiic_Accelerometer_MMA8452Q: BRANCHES:[master:06ba5d10b21cc80587420c7c02cbcea12b0caaa2]|RELEASE:[none|none]
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a]|RELEASE:[none|none]
 sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575]|RELEASE:[none|none]
+sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203: BRANCHES:[master:a78a8703b50e08f269f0508067d410e7a0a8674c]|RELEASE:[none|none]
 sparkfun/Qwiic_Distance_RFD77402: BRANCHES:[master:29ba96c681d2a097533f635ce68c0cf99b0a71cd]|RELEASE:[none|none]
 sparkfun/Qwiic_Distance_VL53L1X: BRANCHES:[master:543b1e2d80325a39c2585882808757361f86cc66]|RELEASE:[none|none]
 sparkfun/Qwiic_Flex_Glove_Controller: BRANCHES:[master:98ef9c0e35209480c9cf1f5288c5c7142c99c8d5]|RELEASE:[none|none]
