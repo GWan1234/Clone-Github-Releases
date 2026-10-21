@@ -1318,6 +1318,7 @@ sparkfun/LSM9DS0_Breakout: BRANCHES:[master:eb90307372db802a90a6669f1279db45e105
 sparkfun/LSM9DS1_Breakout: BRANCHES:[master:3ee0de320d57b116cb784dbdd477e11ae75f9b32]|RELEASE:[none|none]
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17]|RELEASE:[v1.0|4646af3c08884bc62905b49d4bd7e6d80f458d17]
 sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc099fbbd]|RELEASE:[none|none]
+sparkfun/LiPo_Charger_Booster_5V_1A: BRANCHES:[master:ac9126ec7ab5c16ddf297028a06d62e27141451e]|RELEASE:[HW-V1.0|355a26574a8c3e18fc3676ab073ee6694a13e905]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
 sparkfun/LiPower_Boost_Converter: BRANCHES:[master:5e7cd12443b3bc1273141299cddf84745ea4047c]|RELEASE:[none|none]
 sparkfun/LilyPad_Accelerometer-ADXL335: BRANCHES:[master:bf5839c34a0a270612137c7029ebeb232741155f]|RELEASE:[none|none]
