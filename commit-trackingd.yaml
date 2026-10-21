@@ -1116,6 +1116,7 @@ sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;maste
 sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;QC-REV:d4529cc4fb4bf141d9ee47adcac8f184c66e1329]|RELEASE:[none|none]
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/SIKIO: BRANCHES:[master:643d791d741be9f33ffa67aea17a87f011f2eded]|RELEASE:[none|none]
+sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263]|RELEASE:[none|none]
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
 sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a596b3b8f561c266cf410b5]|RELEASE:[none|none]
 sparkfun/SevSeg: BRANCHES:[master:aeb5fcd281cbf81d700f4232cc060736e6137b6a]|RELEASE:[V_1.0.2|9d7a9b724bc4294a0296a4304aacb79e237ae70d]
