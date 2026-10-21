@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:31
+commit-tracking: 2026-10-21 12:32
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1591,6 +1591,7 @@ sparkfun/Qwiic_Shield_for_Thing_Plus: BRANCHES:[master:26523aafaf95794cf9267ab92
 sparkfun/Qwiic_Spectral_Sensor_AS7265x: BRANCHES:[master:947b94fb5407f9b6affda4a59a732ce9a1e6d140]|RELEASE:[none|none]
 sparkfun/Qwiic_Spectral_Sensor_AS726X: BRANCHES:[master:4a5ba39e5a32962e019a8dc454d0946af5c83de7]|RELEASE:[none|none]
 sparkfun/Qwiic_Template_Py: BRANCHES:[refactor/new_style:9c10bb8742eead36627e86cfbd66e12bec5dc6eb;master:e0003d2e3ac8662f48aaa90afa60888bba3560e2;generic_template_refactor:51bae3d3ff30bb85052085a1897e623345349154]|RELEASE:[none|none]
+sparkfun/Qwiic_Thermocouple_Amplifer: BRANCHES:[master:17363932880175787ef9ed4d1c1540a5647180c7]|RELEASE:[none|none]
 sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c442cdbed2abbb434173052]|RELEASE:[none|none]
 sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5fa88ad5ff9b6e7]|RELEASE:[none|none]
 sparkfun/Qwiic_Twist: BRANCHES:[master:f9bbde3fad9b549a7cbdb31b192a003f8ffae182]|RELEASE:[v1.1|539b84d2812506dc7f47034069b4e6450392da66]
