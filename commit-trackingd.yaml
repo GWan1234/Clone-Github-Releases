@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:15
+commit-tracking: 2026-10-21 12:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1208,6 +1208,7 @@ sparkfun/CryptoShield: BRANCHES:[master:48a1ba3a3559bae4585b2adc7cb7f5bd3ebb6cb4
 sparkfun/Current_Sensor_Breakout-ACS723: BRANCHES:[master:3778a458eb5a48f8fab10be27c9621891a34d2aa]|RELEASE:[none|none]
 sparkfun/Current_Sensor_Breakout-ACS723-Low_Current: BRANCHES:[master:c62d3ea9b7b65640b8cddc8e674154a8a5e71b63]|RELEASE:[none|none]
 sparkfun/Cyber_Monday_IoT_Hobby_Kit: BRANCHES:[master:4eca2064b59130c0c33a087367f5e5f76cf318c3]|RELEASE:[none|none]
+sparkfun/DAPLink: BRANCHES:[ambiq-apollo3-experimental:a849d17e94f6d1a079684cf14da55cc631b4e8dd;ambiq-apollo3:3ddd1f1a74a76ff15fbab685581b4102a0a23514;master:300c8203a07b3aff916ea86becd16a30f6952e9b;gh-pages:27d27a01c89a26c9c92ab926f93a691e18bb34d8;sector_erase:6d77547b5e8fcf98820e3469ab66b69b4ba8c7c6;armmbed_webusb:a2cc7e9801346e85396f1692db866641a54cc356;experimental_ci_changes:3005a0859efe781e91fe93ae3cb2fd327c8b9b01;release_244_bootloader_updates_rebase:d6f2879cd16338a92ea78ecd2f6cdccf231548c0;serial_debugging:3d2ef27163f54df48a003fec2a898602f2525155;fix_uframe_rate:2b0d55b89314f3b96ef8656ed80d7c27fe18f9fe]|RELEASE:[none|none]
 sparkfun/DC-DC_Converter_Breakout: BRANCHES:[master:2f8aad12369f7feefeaec79840eddfed3d3b1d16]|RELEASE:[none|none]
 sparkfun/DS1077_Breakout: BRANCHES:[master:aba5eb65f3f6f1eac8cb696c6a763ea10c792710]|RELEASE:[none|none]
 sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf;readme_cleanup:da949361f9a4a3e0e3a11e2271037c0231e1c785]|RELEASE:[none|none]
