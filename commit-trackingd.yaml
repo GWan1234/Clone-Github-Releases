@@ -1120,6 +1120,7 @@ sparkfun/Bugzilla-Extension-SparkFun: BRANCHES:[master:8c86130b12cc9c24c73f9aff1
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab]|RELEASE:[none|none]
 sparkfun/Copernicus_II_DIP_Module: BRANCHES:[master:c756306e9f97ceefd6b658c9a223a3a111e93475]|RELEASE:[none|none]
 sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf;readme_cleanup:da949361f9a4a3e0e3a11e2271037c0231e1c785]|RELEASE:[none|none]
+sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102: BRANCHES:[master:36ba5a6a268163e38cb3e0a89b786ba80f15c143;V_H13.0:3e8ac2bf1ae5071fe913a39adc6083234315c0e5]|RELEASE:[none|none]
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
 sparkfun/FTDI_Basic_Breakout-5V: BRANCHES:[master:8bbbb934962da976e7aa975f44845be3722a65d7]|RELEASE:[none|none]
 sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba9435f;master:ad25133c696fdb6c294ec22c15e958ab25152759]|RELEASE:[none|none]
