@@ -1825,6 +1825,7 @@ sparkfun/SparkFun_DE2120_Arduino_Library: BRANCHES:[main:4db7605d733623a1632e094
 sparkfun/SparkFun_DS1307_RTC_Arduino_Library: BRANCHES:[master:68f64b103d014f448c280bb24385430e1011feec]|RELEASE:[none|none]
 sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246552364fe1d94a46c6b464b6]|RELEASE:[v1.2.1|e4482168501163bffb675db7b4cd5ae0f1b1568e]
 sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic: BRANCHES:[master:49600312278fdb7ca43ea27716a2875781affc55]|RELEASE:[none|none]
+sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic: BRANCHES:[main:31cb105d70fa07023cc52af5751763bbcf8a5098]|RELEASE:[none|none]
 sparkfun/SparkFun_Displacement_Sensor_Arduino_Library: BRANCHES:[main:1d7535a6c5432694b108a0e2af2b9ba37e183023]|RELEASE:[v1.3.3|1d7535a6c5432694b108a0e2af2b9ba37e183023]
 sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield: BRANCHES:[master:ea55d9d5a0a1d7c638f598915d8ebc329b2e8753]|RELEASE:[none|none]
 sparkfun/SparkFun_ESP8266_AT_Arduino_Library: BRANCHES:[master:f52ddca7b6a75eccdebb2851c033485ffe414864]|RELEASE:[V_1.0.0|44bcb9294f2e51342983402ebb3a2b0065472555]
