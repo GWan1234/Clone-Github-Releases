@@ -1451,6 +1451,7 @@ sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library: BRANCHES:[master:3886ebd95291
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3]|RELEASE:[none|none]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9]|RELEASE:[none|none]
 sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2db219f3095f89b75131de]|RELEASE:[none|none]
+sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42c76a2034017df432fe883b6022c01bc]|RELEASE:[v1.2.4|09f9cf0b4b2458d474457504a35645dae53fc119]
 sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library: BRANCHES:[main:c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0;testing:63f4fd699484deeaa91fb70ed3d26d9970c6d8b9]|RELEASE:[v1.1.4|c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0]
 sparkfun/SparkFun_MetaWatch_Library: BRANCHES:[master:ecf820fc546185f2362526b9eb700484a9274518]|RELEASE:[none|none]
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c]|RELEASE:[none|none]
