@@ -1158,6 +1158,7 @@ sparkfun/LED_Matrix_Serial_Interface_RGB: BRANCHES:[master:4703c1a4679f2eafd1ccf
 sparkfun/LED_Matrix_Serial_Interface_RedGreen: BRANCHES:[master:3ba07887a3a734b63a47c7d26bb575b1f3a72947;V_1.2:b08431c0070515ce04a68af1967263a81dc966d3]|RELEASE:[none|none]
 sparkfun/LED_RingCoder_Breakout: BRANCHES:[master:2dcdf34a54d8dc723a9fcfe8e54a5f421dd4aebc]|RELEASE:[none|none]
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17]|RELEASE:[v1.0|4646af3c08884bc62905b49d4bd7e6d80f458d17]
+sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
 sparkfun/LiPower_Boost_Converter: BRANCHES:[master:5e7cd12443b3bc1273141299cddf84745ea4047c]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109d56ed40;HW_V12:882261bf42eeba874e2966af87a214e06d4f7698]|RELEASE:[none|none]
 sparkfun/LilyPad_E-Sewing_Kit: BRANCHES:[master:06f04327a3a88e9dfb2d3aeb67a83aeb1cb8bfb5]|RELEASE:[Hw-v15|f74c3705840db58088acf839c28dfcf8bb57fee6]
