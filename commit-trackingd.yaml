@@ -1119,6 +1119,7 @@ sparkfun/ADXL377_Breakout: BRANCHES:[master:413630bb6ecc897e58fd5c60a93d403bf603
 sparkfun/APDS-9960_RGB_and_Gesture_Sensor: BRANCHES:[master:a7f08275b6e7ac03d1b88dd20fd5c58063f0e6b7]|RELEASE:[V_H1.0_L1.4.4|770e2b0216cc6ba8626873b376e1b122e80ec371]
 sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b0e9b28c46165f292fdfa80b6]|RELEASE:[HW_v1.0_FW_v1.0|a1d09227f57d31b224ee6de3195bcf5f69d8f535]
 sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa11f94e]|RELEASE:[pre-Arduino-1.6|adc2926f6c9872b6534079f21ce90784b7433215]
+sparkfun/Alphabet_Boards: BRANCHES:[master:8e10c3c291ff50adc1539db4586d036166ca9231]|RELEASE:[none|none]
 sparkfun/Alphanumeric_GPS_Clock: BRANCHES:[master:22bd28305bafd2a9852ab7d77e8e1ee990e521dd]|RELEASE:[none|none]
 sparkfun/Analog_Digital_MUX_Breakout: BRANCHES:[master:f7f2eeb117617e67ab8442edc7ba767d19f0fd75]|RELEASE:[none|none]
 sparkfun/Arduino_Pro_Mini_328: BRANCHES:[master:bcf8de441f8ebe9e21377c4a0d12794670dc2551;Silk_Revision:03d2a8092338be0f1650cb76065ea4321f429223]|RELEASE:[none|none]
