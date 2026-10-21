@@ -1455,6 +1455,7 @@ sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library: BRANCHES:[main:c1b7b1a12
 sparkfun/SparkFun_MetaWatch_Library: BRANCHES:[master:ecf820fc546185f2362526b9eb700484a9274518]|RELEASE:[none|none]
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c]|RELEASE:[none|none]
 sparkfun/SparkFun_MicroView_Arduino_Library: BRANCHES:[master:f5528bd78d016f62f39be00cd3b5ef8b6c120485]|RELEASE:[none|none]
+sparkfun/SparkFun_Micro_OLED_Arduino_Library: BRANCHES:[main:1ff68715f5456423599bc35c3c01b82127b5d7a1;ExposeInit:226d70a67a35a2340b2cd1162b328b5e3457a235;release_candidate:acbf9a676915fe4c2a30b0ed5f60537838b71852]|RELEASE:[v1.3.4|81fc5c61b07995783b44c6f407c2f130d7e48a5b]
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
 sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
