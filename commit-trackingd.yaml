@@ -1450,6 +1450,7 @@ sparkfun/Photon_Proto_Shield: BRANCHES:[master:16bd90312c0018aea17482c362fe60a96
 sparkfun/Photon_RedBoard: BRANCHES:[v11:f086a24e44bbb0a6370695b38019d679af11c34f;master:8e485f0be0293cbc62fda797383e6d976ed5edbf;Revision:801a7cd111fbcf15007c3b24a587b923e1b6ba7e]|RELEASE:[none|none]
 sparkfun/Photon_Wearable_Shield: BRANCHES:[master:ba38e16f7167a0329427b1a4a08d5bc6223d9165]|RELEASE:[none|none]
 sparkfun/Photon_Weather_Shield: BRANCHES:[V11:669629933bf56ce9d92367e4bbb0ca9ef7eeb02a;master:2630fb47acc21064e44887de41cd065ed173d62f]|RELEASE:[none|none]
+sparkfun/Pi_Servo_Hat: BRANCHES:[master:612f2398355650d2f3a6270dcfd83d8760738eac;v10:5ef139c045b1f2e936b421cad6fc6ed58cab8bd2;v20:10c27d3fe001acf866a119dd32cc8cc9cd1d90d8]|RELEASE:[v10|5ef139c045b1f2e936b421cad6fc6ed58cab8bd2]
 sparkfun/Pi_Wedge: BRANCHES:[master:395f7fbb4a4c582cbe680d0d6c85ef040384e151]|RELEASE:[none|none]
 sparkfun/Pi_Wedge_40-Pin_PreAssembled: BRANCHES:[master:6d93ad550771dc4c304dc220aea1f0c69fdad907]|RELEASE:[none|none]
 sparkfun/Pi_Wedge_B_Plus: BRANCHES:[master:0a534243a39158ae311fbf37bd561c0ad01282c3]|RELEASE:[none|none]
