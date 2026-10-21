@@ -1175,6 +1175,7 @@ sparkfun/SparkFun-Eagle-Libraries: BRANCHES:[main:2354daeed58cd6bcfcb97f2669765d
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9]|RELEASE:[none|none]
 sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac]|RELEASE:[1.1.14|6019e589518335edd39cf0fa5c89933e71470c99]
 sparkfun/Structural_Tab: BRANCHES:[master:a40b2767dec265871df5555caac04629d7a989d4]|RELEASE:[none|none]
+sparkfun/TMP006-Temp_Sensor_Breakout: BRANCHES:[master:d9404e52b2aca0167a5b08b2ba3ddecd239aacb3]|RELEASE:[none|none]
 sparkfun/TXB0104_breakout: BRANCHES:[master:c8bf609f801a894d4af649a7134cd0ecddab8fa3]|RELEASE:[none|none]
 sparkfun/Tiny-AVR-Programmer: BRANCHES:[master:8169e041d0f3bd5092280e82d616e418fb652053;v14:8d8fba4e3ea46807223c0e0258c8fe432b741c03]|RELEASE:[none|none]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
