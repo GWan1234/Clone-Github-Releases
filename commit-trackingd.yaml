@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:42
+commit-tracking: 2026-10-21 12:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2045,6 +2045,7 @@ sparkfun/ZX_Distance_and_Gesture_Sensor: BRANCHES:[master:df12a480115d1e27e945c3
 sparkfun/ZX_Gesture_Sensor_SMD: BRANCHES:[master:410f330652adf6d18da32f48d73485ba5d7a322d]|RELEASE:[none|none]
 sparkfun/according-to-pete: BRANCHES:[master:17ed6dfd4e9c24b41b6d4b3e4243b5ac17396ce0]|RELEASE:[none|none]
 sparkfun/ardublock: BRANCHES:[master:733abd56ab2029127c7f54f7408ff9546ed7242e;simple:b54110a23df0d9ef1206b70c3cddf93cc97fc22f;SCOop:83c23b341885fefc281b4b21538b3f48217aeacb;mc2013:271acb5f4435080e9f1c5a9ccd9750b18fc002dc;xxxx:ff784723626994d1b6eace0f7a0eccfac6ba58db;banbao:3284aa4047f58534e6881949cacb3cf41558b35a;subroutine:755476bb6022af85b2c427f67c10b6ada85a1f5b;heqichen:3a9594da1069500ceeb54cf462417e6881de1f32]|RELEASE:[none|none]
+sparkfun/arduino-mbed-bridge: BRANCHES:[remove-api-submodule:b239f175e5fa3c5855f685be4690d93e694abf5a;master:63a8d6b3d8f57999b7af867ceb93a6f7367ca12a;Fix-HardwareSerial-warning:471cc5124a6f4efe591ec7adc6301991d46dfa10]|RELEASE:[none|none]
 sparkfun/artemis_dev_platform: BRANCHES:[master:f2836b9d17fff9874828460ba668077e1afa3fda]|RELEASE:[none|none]
 sparkfun/author_application: BRANCHES:[master:a6fd6571e2b2e369c09d09684e76d13113633360]|RELEASE:[none|none]
 sparkfun/balance-robot: BRANCHES:[master:bde7735064c1288c7550e512337e870f3bea41fc]|RELEASE:[none|none]
