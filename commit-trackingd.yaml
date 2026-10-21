@@ -1246,6 +1246,7 @@ sparkfun/LMD1820x_Breakout: BRANCHES:[master:a5f587671d761e775864aad88fc55bd919d
 sparkfun/LS20126_GPS_Breakout: BRANCHES:[master:7d9158c4c07b4d11d7ae7d85ccdbe5ac2e10c391]|RELEASE:[none|none]
 sparkfun/LSM303C_6_DOF_IMU_Breakout: BRANCHES:[master:5ab799b4d7e741a6ab517371b4636cf3197bda8c]|RELEASE:[v1.0|45814e74b4b5c8299fd661d38a28a93a7de154eb]
 sparkfun/LSM303_Breakout: BRANCHES:[master:1175ad5cbb5fd221f295f9503a112befbde60392]|RELEASE:[none|none]
+sparkfun/LSM6DS3_Breakout: BRANCHES:[master:df42bfe49b23f38f3d9cb0a94e5d3b37519db31b]|RELEASE:[none|none]
 sparkfun/LSM9DS0_Breakout: BRANCHES:[master:eb90307372db802a90a6669f1279db45e10569bb]|RELEASE:[none|none]
 sparkfun/LSM9DS1_Breakout: BRANCHES:[master:3ee0de320d57b116cb784dbdd477e11ae75f9b32]|RELEASE:[none|none]
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17]|RELEASE:[v1.0|4646af3c08884bc62905b49d4bd7e6d80f458d17]
