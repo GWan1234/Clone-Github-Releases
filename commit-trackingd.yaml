@@ -1427,6 +1427,7 @@ sparkfun/Weather_Shield: BRANCHES:[master:77a360d0d9738a20ad49a2e2dd14cfd86bb9a7
 sparkfun/WiFly-Shield: BRANCHES:[master:1726169e58b31fa4ad44b62154ea5cbe93de8af6]|RELEASE:[none|none]
 sparkfun/Wimp_Weather_Station: BRANCHES:[master:8fb4f8052ee94b945a8d5a44dab230c936724fdf]|RELEASE:[none|none]
 sparkfun/Wireless_Motor_Driver_Shield: BRANCHES:[v12:82ad2f51072d498ba004632e0bb4475f91d6948e;master:82ad2f51072d498ba004632e0bb4475f91d6948e]|RELEASE:[none|none]
+sparkfun/XBee_Explorer_Dongle: BRANCHES:[master:4cb68052dfc5e8f37b921ec27df40bbae25c4817]|RELEASE:[none|none]
 sparkfun/XBee_Explorer_Regulated: BRANCHES:[master:eac83216d9f6b8921fe2813fc3e6d34e357090aa]|RELEASE:[none|none]
 sparkfun/XBee_Explorer_Serial: BRANCHES:[master:aa0a1ae5ca83d2024b15da35c1f46d06214be0c1]|RELEASE:[none|none]
 sparkfun/XBee_Explorer_USB: BRANCHES:[master:1c268163f47bea2f6d020cf3382618237049e284]|RELEASE:[none|none]
