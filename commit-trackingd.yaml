@@ -1455,6 +1455,7 @@ sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9
 sparkfun/simple_sketches: BRANCHES:[master:8289da18a911885f24eb57b030d77a30a99010c0]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
 sparkfun/usb-scale: BRANCHES:[master:102a6d059b0f0f042926d6d74acf37181a02eeb6]|RELEASE:[none|none]
+sparkfun/vexMotor: BRANCHES:[master:40450f03f17cd4eaf1d7ce9eaa2cdd8ee923abc3]|RELEASE:[none|none]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
 ventoy/DeleteVentoySecureBootKey: BRANCHES:[main:23249e47049dfe46b533f57e337485c7fdbb804c]|RELEASE:[v3.1|3ffe52d557f734b74b9e3105c7628f414c73bcf5]
 ventoy/KioskFiles: BRANCHES:[main:27e62fffacd76c35c0d7499dfd1f8e8eae2e2a86]|RELEASE:[v1.0|27e62fffacd76c35c0d7499dfd1f8e8eae2e2a86]
