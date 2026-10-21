@@ -1860,6 +1860,7 @@ sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246
 sparkfun/SparkFun_DataLogger_IoT_9DoF: BRANCHES:[main:d42f0b33a959f723029f568c73ae9f4e2e3d3e38]|RELEASE:[none|none]
 sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic: BRANCHES:[master:49600312278fdb7ca43ea27716a2875781affc55]|RELEASE:[none|none]
 sparkfun/SparkFun_Digi_XBee_Development_Board: BRANCHES:[gh-pages:a36e73676115d097fdfd9559266aa668721b8760;main:ac9f1e4c992212b61bb03b0742a201c91d6d31fd;v13:6f9ea16ac20d8b996e778e48bffba9e5640dcd40;docs:d7c1333500c82b1c32a977f191999922c74dcc52]|RELEASE:[none|none]
+sparkfun/SparkFun_Digi_XBee_Explorer_USB-C: BRANCHES:[gh-pages:34b98d68542d09f1583a8d84ae32ff29849eb04a;main:25cb1524fcd335b0ca113b9ae28be4f7097a0739]|RELEASE:[none|none]
 sparkfun/SparkFun_Digi_XBee_Regulated_Qwiic: BRANCHES:[gh-pages:15a4bb58f0a2146f11144fe3b1f3bc9684a40263;main:0e25ebd7364daae9f0bd36c49f88e7d2f2435074]|RELEASE:[none|none]
 sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic: BRANCHES:[main:31cb105d70fa07023cc52af5751763bbcf8a5098]|RELEASE:[none|none]
 sparkfun/SparkFun_Displacement_Sensor_Arduino_Library: BRANCHES:[main:1d7535a6c5432694b108a0e2af2b9ba37e183023]|RELEASE:[v1.3.3|1d7535a6c5432694b108a0e2af2b9ba37e183023]
