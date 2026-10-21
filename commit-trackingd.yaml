@@ -1516,6 +1516,7 @@ sparkfun/Random_PickUp_Line_Generator: BRANCHES:[master:2bdc92b4c1a714a29cc8748e
 sparkfun/RaspiRobot: BRANCHES:[master:0f42b3c1cadf59943eb3cd9217b978da90cc6aea;readme_cleanup:fa43f922f3e9c89e2dd23eb1e13632889c890005]|RELEASE:[none|none]
 sparkfun/Reaction_Timer: BRANCHES:[master:9e0dd5c585f4a20fd82b898cd68c0f9895eb8213]|RELEASE:[none|none]
 sparkfun/RedBoard: BRANCHES:[vQwiic_v20:9ec0da2623e0971f2f295664f2bfb487cc318ba5;master:498b7cf536c74f1a9a3a2315bf9f8feb0d7169c9;vQwiic:cd976e17ddd90bb459acb8ac84c1dc72910b9d5c]|RELEASE:[V_22|91837ef1aca56cf2db151981e9831f0b690b2d2c]
+sparkfun/RedBoard_Edge: BRANCHES:[master:186dc531b1e939833299b7234856fb3991a4389b]|RELEASE:[none|none]
 sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;library-updates:b1065f7739bc44fea03a1f870ceaece5c2079d78]|RELEASE:[none|none]
 sparkfun/RedBot_Accelerometer: BRANCHES:[main:dc04b82d3abcb1f428d3d7b37406e565d15d90bc]|RELEASE:[v14|3f4d0aee8a0f187f03871cf6c903070030d2ca79]
 sparkfun/RedBot_Buzzer: BRANCHES:[master:7350bc2147a993451c2c33e246287812646325ae]|RELEASE:[none|none]
