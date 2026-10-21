@@ -1259,6 +1259,7 @@ sparkfun/LilyPixel: BRANCHES:[master:c29d59c8c31cc6130489b7043b1abc5ac510a9c6]|R
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f]|RELEASE:[none|none]
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9]|RELEASE:[none|none]
 sparkfun/Lipo_Charger_Basic-microUSB: BRANCHES:[master:73710c1269a31963b9878e43a2877c6df5e5454a]|RELEASE:[none|none]
+sparkfun/Lipo_Charger_Basic-miniUSB: BRANCHES:[master:2337e59b6f3262da4831704031a2917ebb83dce3]|RELEASE:[none|none]
 sparkfun/Load_Sensor_Combinator: BRANCHES:[master:0d4a6e7613700354c3f411075c97f24c24c4080a]|RELEASE:[none|none]
 sparkfun/LogicBlocks: BRANCHES:[master:7688b17e6c9a871178cb5f84763ce505358223c2]|RELEASE:[none|none]
 sparkfun/Logic_Level_Bidirectional: BRANCHES:[master:5abaf6fa3b2a42696c7ace98af2d68c9b5e9780c]|RELEASE:[none|none]
