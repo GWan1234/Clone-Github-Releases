@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 08:28
+commit-tracking: 2026-10-21 08:31
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -541,7 +541,7 @@ Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a9276403
 Seeed-Studio/wiki-documents: BRANCHES:[gh-pages:7754f7859ff2a38500420fefad881f8444e1d633;docusaurus-version:82e8b8ff4a7b817b848a0c7e5b28d1998c303145;auto-translate/pr-5819:6e631da2810d6d89a7839a2b9489d02ba31f3efa;auto-translate/pr-5812:c01117d04b9703bfc9998d31a59e85459a52449f;auto-translate/pr-5811:b73ac858769e055a417b735f614db7ca55c7647c;auto-translate/pr-5805:68cbcb5af99577eac82a945dea7438be30441993;auto-translate/pr-5810:aed40527d7c3cb076bbd1c4ddb87664e4f873d50;auto-translate/pr-5799:e8da98cd9613994901745184c260bd2d890ebca8;auto-translate/pr-5795:db38ece121085d22b581295c4c3750a70a0cdad3;auto-translate/pr-5793:d16f4795fc7eadf3ae03bc6425519dabd0a51024]|RELEASE:[none|none]
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
 Seeed-Studio/xiao-assistant: BRANCHES:[main:4b79d5e225630597d352389df43ae5a9db83f6b3]|RELEASE:[v0.2.0|4b79d5e225630597d352389df43ae5a9db83f6b3]
-Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:45fc5de06277bdd96fd811e91dd2821bdad50c5d;dev:4ea399123e4343d9d24a1e98c671e412bc8ae2bd;BT_proxy:9ac8cbe339516e2c20fd72c62eb64106e6eaa6c6]|RELEASE:[V4.3.2|c15ea7197a1b6bef5792af809275b817b6bf2c28]
+Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:a5097fd673dfdf44762ab5887196509f3ab900e7;dev:4ea399123e4343d9d24a1e98c671e412bc8ae2bd;BT_proxy:9ac8cbe339516e2c20fd72c62eb64106e6eaa6c6]|RELEASE:[V4.3.3|a5097fd673dfdf44762ab5887196509f3ab900e7]
 Seeed-Studio/xiaozhi-esp32: BRANCHES:[watcher-en:275c6623271bf6ad517fe1448a859d27133344b9;main:45c62f5a532d1fd7efbc8af45609f1090cdf4dfb]|RELEASE:[none|none]
 Seeed-Studio/yolov5-swift: BRANCHES:[master:b246faed8ceaefd67105420214fb93154de66c9d;newclasster:6127d312d5d1b738045f932e790c2e4617109610;classter:1551e074b1c301970bb4418df764ef102377d543;nanodet:eae5d66eaf336141791d96f31e074a0c61ad99f4;classifier:9794f63ddfdc7599a1ed368395115f9cd3c7d50f]|RELEASE:[none|none]
 m5stack/.github: BRANCHES:[main:ade7866d4947e4331f51e3d37ce958e823c4993f]|RELEASE:[none|none]
