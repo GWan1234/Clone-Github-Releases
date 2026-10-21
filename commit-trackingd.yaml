@@ -1523,6 +1523,7 @@ sparkfun/Shifting_microSD: BRANCHES:[master:805f7ea82e15699bff82da9536cf72ba25ca
 sparkfun/Si4703_FM_Tuner_Evaluation_Board: BRANCHES:[master:d808bf51aa02e704b42cf8146d7121a2414fdada]|RELEASE:[V_H1.4_L1.2.0|d808bf51aa02e704b42cf8146d7121a2414fdada]
 sparkfun/Si4707_Breakout: BRANCHES:[master:220ec557257443ec4e37b06531a7ebb33cd3d97b]|RELEASE:[none|none]
 sparkfun/Si7021_Breakout: BRANCHES:[master:600270f12184879795f2988bb0deacb69ff727e7]|RELEASE:[none|none]
+sparkfun/SillyString_Shooter: BRANCHES:[master:28a4ecf636c2f2f387c87e998de91d7659df3b5b]|RELEASE:[none|none]
 sparkfun/Simblee-LilyPad-Fitness-Bracer: BRANCHES:[master:4165037d91f10c2d52d5624b28f4b930e22a3dc4]|RELEASE:[none|none]
 sparkfun/Simblee_Tutorials: BRANCHES:[master:9f54acf2c9d0b4d575f1245d6a8dab0aa37ce22e]|RELEASE:[none|none]
 sparkfun/Simon-Says: BRANCHES:[master:32c7ea04ac092437789a491e4db02f834e090411;Trampolines:e6c5d050e62b349b4a0e230f2eaf0490ec630b8c]|RELEASE:[none|none]
