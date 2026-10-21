@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 11:36
+commit-tracking: 2026-10-21 11:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1545,6 +1545,7 @@ sparkfun/Qwiic_Shield_for_Photon: BRANCHES:[master:a9c7f9f2f8fd4b58a994f84d0dae2
 sparkfun/Qwiic_Spectral_Sensor_AS7265x: BRANCHES:[master:947b94fb5407f9b6affda4a59a732ce9a1e6d140]|RELEASE:[none|none]
 sparkfun/Qwiic_Spectral_Sensor_AS726X: BRANCHES:[master:4a5ba39e5a32962e019a8dc454d0946af5c83de7]|RELEASE:[none|none]
 sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5fa88ad5ff9b6e7]|RELEASE:[none|none]
+sparkfun/Qwiic_Twist: BRANCHES:[master:f9bbde3fad9b549a7cbdb31b192a003f8ffae182]|RELEASE:[v1.1|539b84d2812506dc7f47034069b4e6450392da66]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52]|RELEASE:[none|none]
 sparkfun/RFID_USB_Reader: BRANCHES:[master:10b5ce56eadbe69ca935a5e70271084da820ecab;v20:335159a0fe5063f0c996dbcfa4ad40bfaf41d575]|RELEASE:[v10|4f1b3b3a2ca954e227055a93826480999dd949f1]
