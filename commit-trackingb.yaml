@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 05:58
+commit-tracking: 2026-10-21 06:00
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -3323,14 +3323,14 @@ pvvx/WCHADCUSB: BRANCHES:[master:c3a0a9dfa64fe4bfdaa733eadd5cbe2c4ecca36f]|RELEA
 pvvx/WCHBLE2ETH: BRANCHES:[master:7911dc50fdcf87b72ac3b88befceb7f8330d7693]|RELEASE:[none|none]
 pvvx/ZBdevices: BRANCHES:[main:6de8078408c53af22eea5ccc243c25466dde4509;master:fd8a437aada14b2a6639baeab62d25b2a0fa681f]|RELEASE:[none|none]
 pvvx/Zigbee2BLE: BRANCHES:[master:035649a787bb75fe785cad2422472ffda33537a1;main:ff8504c4e08ebeb30273950a37b614f13dbbecd1]|RELEASE:[none|none]
-pvvx/ZigbeeTLc: BRANCHES:[master:48f27a5be447dcece5ad7f8ef8abc91475833187]|RELEASE:[v0.1.3.9|a33813c1c6140155c1138e482f222ff1542ed0ff]
+pvvx/ZigbeeTLc: BRANCHES:[master:ee88793c6f94dccae95fea83c0b3013a83b21c5b]|RELEASE:[v0.1.4.0|fe9dd6ff548c046d21073d9156892623d275eb47]
 pvvx/bl702_adc_test: BRANCHES:[main:fdff82ad9b19e8eed90199f2ca2067f93dd0d903]|RELEASE:[none|none]
 pvvx/ble_monitor: BRANCHES:[master:44e5a903d2825618e0d794d5ecdbc2f081c5e9b6;magalex_experiments:38c47d395aff699371ba9a9d21ae1c5bb90d17df;legacy_tracker:e61d2b4885d45b36ab4fa35bcf38171a2c55b045;async_experiment:d0d0efef6858723a6afbcd2f4385bb3a8c6aa243]|RELEASE:[none|none]
 pvvx/esp8266web: BRANCHES:[master:0de8a993c04ea6c8dfdef391dd1a1e7fec6466da]|RELEASE:[0.6.1|ad9616c6b55f6b886a851763e08b29a8e03e8c2f]
 pvvx/hcitooladv: BRANCHES:[master:fc89fc2bca4741cda59eb9939a79540a57859b85]|RELEASE:[none|none]
 pvvx/iramsdk: BRANCHES:[master:b0b2bcc1e0bf9166b35f11ded7ca9f82eecedb83]|RELEASE:[none|none]
 pvvx/mp3_decode: BRANCHES:[master:c62af5da583660c94b55257855dbd0ccb1617be2]|RELEASE:[none|none]
-pvvx/pvvx.github.io: BRANCHES:[master:2ac425a93cd5b479145859819c4a1b7d695bc0a0]|RELEASE:[none|none]
+pvvx/pvvx.github.io: BRANCHES:[master:2b4467985c1095d76d82766a286f39d2ab65509a]|RELEASE:[none|none]
 pvvx/rtl00TstMinAmebaV35a: BRANCHES:[master:463a3a7057cb88ae04adef719ef0f770e700858c]|RELEASE:[none|none]
 rbouteiller/airplay-esp32: BRANCHES:[staging:b215aa9bf7ca06ac95f87088b4e3bed70e68c07a;main:811d5f8af750096683dcec7c95d1cbc08c2f7601;codex/release-v0.2.1:40de1f721718fa10f6b36fc576eaac5f0aa3dce5]|RELEASE:[v0.2.1|811d5f8af750096683dcec7c95d1cbc08c2f7601]
 rime/OpenCC: BRANCHES:[master:908d1fc5014e0dd4727c90999ba1cd60260daf94;gh-pages:bfc61c123d4128d90d12883772b5a5f41a16ee8f]|RELEASE:[none|none]
