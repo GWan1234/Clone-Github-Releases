@@ -1269,6 +1269,7 @@ sparkfun/MAX3232_Breakout: BRANCHES:[master:a622b6bf9c8cedb17b93a7e8bec73c2f4ea1
 sparkfun/MCP4725_Breakout: BRANCHES:[kicad_export:4c21acfc30262d56e12c3a3cc1713a1fe37a4bba;master:669e8aeca5987b5b91f3b7a623907a0f53e6e9fd]|RELEASE:[none|none]
 sparkfun/MEMS_Mic_Breakout-ADMP401: BRANCHES:[master:6a35708b3c9c660f5afdd16c51e96cb8f5e497f6]|RELEASE:[none|none]
 sparkfun/MG2639_Cellular_Shield: BRANCHES:[master:07869b3b9298c32b34675796ff6ef473a62a156b]|RELEASE:[none|none]
+sparkfun/MIDI_Breakout: BRANCHES:[master:457a8b03226aaa9eb35fecf5e766f15bc9055bee;V_1.2:354bcbed8eeedadcfb5098d4c969bddc63ee3144]|RELEASE:[none|none]
 sparkfun/MIDI_Shield: BRANCHES:[master:66a5664d53bd1324653deffb7326d3812cee663b]|RELEASE:[none|none]
 sparkfun/ML8511_Breakout: BRANCHES:[master:25bc3d14b749be647ccd8de34559358394d4d6e7]|RELEASE:[none|none]
 sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3]|RELEASE:[none|none]
