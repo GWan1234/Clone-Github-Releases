@@ -1129,6 +1129,7 @@ sparkfun/AVR_ISP_Shield: BRANCHES:[master:dcd712d266486559c8a6ddf7f8025caf97afaf
 sparkfun/AVR_Programming_Adapter: BRANCHES:[master:949672fb47daea71f3f5592fe6b322c0753c227b]|RELEASE:[none|none]
 sparkfun/AVR_Stick: BRANCHES:[master:5f0a0920c481ede91f8a67329802e4de57344b51]|RELEASE:[none|none]
 sparkfun/Adapter_Board-ICD_ICD2: BRANCHES:[master:fd771b4c17ac38ceecd4d229110e5bf8906d5cc4]|RELEASE:[none|none]
+sparkfun/Addressable-LED-Neon-Flex-Rope: BRANCHES:[master:a7c0937ed4010ee3052211e411a385453a813fe6]|RELEASE:[none|none]
 sparkfun/Adjustable_Lipo_Charger: BRANCHES:[master:868eacc48301330d7427ae267d21163763f37c5c]|RELEASE:[none|none]
 sparkfun/Alphabet_Boards: BRANCHES:[master:8e10c3c291ff50adc1539db4586d036166ca9231]|RELEASE:[none|none]
 sparkfun/Alphanumeric_GPS_Clock: BRANCHES:[master:22bd28305bafd2a9852ab7d77e8e1ee990e521dd]|RELEASE:[none|none]
