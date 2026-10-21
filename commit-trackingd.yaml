@@ -1926,6 +1926,7 @@ sparkfun/fabFM-Kit: BRANCHES:[master:35d8ee0fe6d0bdbd89042fbdcfb9ccc63bb5bc33;in
 sparkfun/gator_bit: BRANCHES:[master:301d58877bb213064f1f0844298729e8a024c850;v20:01a89f1d0f25dafdd61a7c0b667c0f0389bbe530;v10:91baa54b2f3a31531461b881dd502c5b69ed6cab]|RELEASE:[archive/v10|e6ed30bc809f3726794ab00081d721a00e1f4c2d]
 sparkfun/gator_color: BRANCHES:[master:96664cc9a2115d9be42cf786412e6fc97a4c0dac]|RELEASE:[none|none]
 sparkfun/gator_control: BRANCHES:[master:35ac4ebdee4532a95218e3788cb6b28eebfdd878]|RELEASE:[none|none]
+sparkfun/gator_environment: BRANCHES:[master:45a72f95c5a61c0071dc3e4b4b0352f73ae93114]|RELEASE:[none|none]
 sparkfun/gator_log: BRANCHES:[master:5e6d7913638bfa4cbe17080481c820457ab3bfba]|RELEASE:[none|none]
 sparkfun/gator_starter: BRANCHES:[master:c1a92d4fe3b1a7b029928e6a1587b316a36a6657]|RELEASE:[none|none]
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
