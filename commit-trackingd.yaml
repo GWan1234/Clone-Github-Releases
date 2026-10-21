@@ -1607,6 +1607,7 @@ sparkfun/Qwiic_Dual_Encoder_Reader_Py: BRANCHES:[main:f0f323f74181500f10a3e18c59
 sparkfun/Qwiic_Dual_Solid_State_Relay: BRANCHES:[master:f9fa87f14ecabf325691b4dac59270415eae224c]|RELEASE:[none|none]
 sparkfun/Qwiic_EEPROM_Breakout: BRANCHES:[main:2643fccfadcff198a5ff1045f0bd650f0c1c1a5a]|RELEASE:[none|none]
 sparkfun/Qwiic_EEPROM_Py: BRANCHES:[main:b688f6f318d3dd7fd5b39d4dfbcb1ec64c3a8d4c]|RELEASE:[v0.0.1_test|b688f6f318d3dd7fd5b39d4dfbcb1ec64c3a8d4c]
+sparkfun/Qwiic_Environmental_Sensor_BME688: BRANCHES:[main:5edfc65e8dcb8d7a70e3810bbef42226bbbdb9cc]|RELEASE:[none|none]
 sparkfun/Qwiic_FM_Transceiver_Si4721: BRANCHES:[master:2b7bdbd08b28164e3bf4c40216db85fcfae36f89]|RELEASE:[none|none]
 sparkfun/Qwiic_Flex_Glove_Controller: BRANCHES:[master:98ef9c0e35209480c9cf1f5288c5c7142c99c8d5]|RELEASE:[none|none]
 sparkfun/Qwiic_GPIO: BRANCHES:[master:d3fc4672ccd731266f01de194a290f7923f77d8a]|RELEASE:[none|none]
