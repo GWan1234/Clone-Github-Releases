@@ -1230,6 +1230,7 @@ sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1d
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52]|RELEASE:[none|none]
 sparkfun/RHT03: BRANCHES:[master:d026dd4c932ab27b6abb6d9a172421399594148a]|RELEASE:[none|none]
 sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51]|RELEASE:[none|none]
+sparkfun/RS232_Shifter_SMD: BRANCHES:[master:1ffd9ab0958647a191cd9c134b5008753b02ec4c]|RELEASE:[none|none]
 sparkfun/RTC-Module: BRANCHES:[master:7de6956e0ed24ea4eaa02b05e6d552378c5bd8bd]|RELEASE:[none|none]
 sparkfun/RaspiRobot: BRANCHES:[master:0f42b3c1cadf59943eb3cd9217b978da90cc6aea;readme_cleanup:fa43f922f3e9c89e2dd23eb1e13632889c890005]|RELEASE:[none|none]
 sparkfun/Reaction_Timer: BRANCHES:[master:9e0dd5c585f4a20fd82b898cd68c0f9895eb8213]|RELEASE:[none|none]
