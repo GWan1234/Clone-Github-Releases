@@ -154,7 +154,7 @@ DFRobot/DFRobot_Biometric: BRANCHES:[main:71ce9d1a3c9327ade35623652082ec7623c80a
 DFRobot/DFRobot_BloodOxygen_S: BRANCHES:[master:0823f4297439ba53e2c690264d3989cf14564511]|RELEASE:[none|none]
 DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510]|RELEASE:[none|none]
 DFRobot/DFRobot_BosonADCModule: BRANCHES:[main:6b681e416486446c821bf69a88dea0a255236a01]|RELEASE:[none|none]
-DFRobot/DFRobot_C4001: BRANCHES:[master:d96504653cb07678e57aa7181e98faa329a3161e]|RELEASE:[none|none]
+DFRobot/DFRobot_C4001: BRANCHES:[fix/uart-sensitivity-readback:a64a3ac7d319c43aff880cc7580f6d4b39b24636;master:d96504653cb07678e57aa7181e98faa329a3161e]|RELEASE:[none|none]
 DFRobot/DFRobot_C4002: BRANCHES:[main:269334c2227572333bb0907e71c1ba0e2c1f2c85]|RELEASE:[none|none]
 DFRobot/DFRobot_CCS811: BRANCHES:[master:7bfddd339cc28d33f002d41c028d31b2502bd417]|RELEASE:[none|none]
 DFRobot/DFRobot_CE30C: BRANCHES:[master:4f33e51f44eb822fba3c77447e3e7c4fa01e0f45]|RELEASE:[none|none]
