@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:15
+commit-tracking: 2026-10-21 13:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1801,6 +1801,7 @@ sparkfun/SparkFun_AS726X_Arduino_Library: BRANCHES:[master:31b2c22e04b7226a75fb2
 sparkfun/SparkFun_AS7341X_Arduino_Library: BRANCHES:[main:2ab473d8fa2e12d3cef85eb53f9c98fc16e4b0d7]|RELEASE:[1.0.0|ed2fbec646f820d7a90ec865d29d21db47ea76af]
 sparkfun/SparkFun_ATECCX08a_Arduino_Library: BRANCHES:[master:71c6c3cfdc4f1c8c600c0c1b532d27e7be3a7ce4;release_candidate:e937ca27d375694f27dbe4908a214e9605c38d32]|RELEASE:[v1.3.1|71c6c3cfdc4f1c8c600c0c1b532d27e7be3a7ce4]
 sparkfun/SparkFun_ATSHA204_Arduino_Library: BRANCHES:[master:2bab4159308224a504e9bc05303b2fdc9d7f42c3]|RELEASE:[none|none]
+sparkfun/SparkFun_AVR_ISP_Programming_Library: BRANCHES:[main:1cabbffb5f026c1bf153bf622de276be8d6da6de]|RELEASE:[v1.0.0|1ae4afe9d6db2b1341d21e4703d7df594ba9b584]
 sparkfun/SparkFun_Air_Quality_Sensor-SGP30: BRANCHES:[master:8a0942c84583c4f852ccc8ed0fdee70b2b17d927]|RELEASE:[none|none]
 sparkfun/SparkFun_Air_Velocity_Sensor_FS3000_Qwiic: BRANCHES:[main:a79ea391757d5452738816461a08b6070625e795]|RELEASE:[none|none]
 sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library: BRANCHES:[main:871796a88897811227261d5cb3cd0baf0c2fe70d;master:993c9b70994bf95e8a060b3ca32ab3fc11a93927]|RELEASE:[v2.2.11|f7eab50187208ddb850c5f61fdaa8e12c4279ebf]
