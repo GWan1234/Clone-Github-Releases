@@ -1302,6 +1302,7 @@ sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e
 sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]|RELEASE:[v1.0.2|d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]
 sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052]|RELEASE:[v1.0.2|6087a3ddaf7f74cfd970503c2d896788fde1f052]
 sparkfun/HyperDisplay_SSD1309_ArduinoLibrary: BRANCHES:[master:e18e603800bc80b67d285eda7a416567da11f9ae]|RELEASE:[v1.1.1|ce04cc3072963b61d2d8920fc25df595e726b59c]
+sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary: BRANCHES:[master:bfa948e8164470177800cf07fffba67d9376427c]|RELEASE:[v1.1.0|f1e3a5a69795eb89b6c9f8ce167e76195de29b8f]
 sparkfun/I2C_Expander_Breakout-PCF8575: BRANCHES:[master:f3af77911bc016317e4b9f82f7f76edc45b399c5]|RELEASE:[none|none]
 sparkfun/I2S_Audio_Breakout: BRANCHES:[master:4b6487e40ee022b4924a7f498bb211c3212f24e1]|RELEASE:[none|none]
 sparkfun/IMU_Digital_Combo_Board: BRANCHES:[master:bed0a9ad362c3b7270ace097fdbe349aa527b0f1]|RELEASE:[none|none]
