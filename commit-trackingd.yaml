@@ -1224,6 +1224,7 @@ sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba
 sparkfun/FemtoBuck: BRANCHES:[master:a8c1d405c867f411621c6bb665164cd317c4679b]|RELEASE:[v_10|7cf4cff0905765cd885f5db1726c47f5c64e1d93]
 sparkfun/Fingerprint_Scanner-TTL: BRANCHES:[master:0636188ddf8206d166b9859e9f18d2bb62e65999]|RELEASE:[v1.1.1|e60554fc3ea36866072cb9026a16788b381f92d6]
 sparkfun/Fio_v3: BRANCHES:[master:da19c4c1443a274b43c9afd1564b661ec90220a0]|RELEASE:[none|none]
+sparkfun/FreeSoC2_Keysynth: BRANCHES:[master:66fae29fb0bef05b9b5db65dd9630196e7a24667]|RELEASE:[none|none]
 sparkfun/FreeSoc2: BRANCHES:[master:7a7a325278c0fb96ba51e05cd0fb847a73feb79f]|RELEASE:[v14|7a7a325278c0fb96ba51e05cd0fb847a73feb79f]
 sparkfun/Fritzing_Parts: BRANCHES:[main:71b17bbea66f92123f0a39dcf6f8c9ae566e31d1;valentines:8bf02b8833474690e7401aba099294f12ee46398;red-board:8bf02b8833474690e7401aba099294f12ee46398]|RELEASE:[none|none]
 sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N: BRANCHES:[master:8b81b873540e59a232a5abee3694d54799e0bcac]|RELEASE:[none|none]
