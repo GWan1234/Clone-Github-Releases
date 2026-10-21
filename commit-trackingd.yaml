@@ -1369,6 +1369,7 @@ sparkfun/Power_Driver_Shield_Kit: BRANCHES:[master:519bc883f9ed1ac75753944a286a3
 sparkfun/Pro_Micro: BRANCHES:[RED_LED_EOL:785cb819e0a6f76404c4e4d9b0194fbb5c9e2c88;main:df836f3bf2955c4f1199a852f618d2ac80866d47;Boogie_Board:15dbf1af386d02f33664141b5b747bee6a0dcd13]|RELEASE:[v2.0|df836f3bf2955c4f1199a852f618d2ac80866d47]
 sparkfun/Pro_Mini_Candy: BRANCHES:[master:9c44c22a11b5be54261855c1f3517f06ca0165f2]|RELEASE:[none|none]
 sparkfun/ProtoBoard_Wombat-PTH: BRANCHES:[master:a073c31a93d18efa4350e417ba7ffaaf2ffe0175]|RELEASE:[none|none]
+sparkfun/ProtoScrewShield: BRANCHES:[master:605852df4a83c70640097327dbb5bf9aff870a09]|RELEASE:[none|none]
 sparkfun/ProtoShield_Kit: BRANCHES:[master:c82c5b5c7a984d4d9df35782e7f86788f30858f3]|RELEASE:[none|none]
 sparkfun/ProtoSnap-LilyPad_Dev_Simple: BRANCHES:[master:0e2dbdce40ab3acda0616fb00ab9a5aa8d59b57a]|RELEASE:[none|none]
 sparkfun/ProtoSnap-LilyPad_Development_Board: BRANCHES:[master:db42ac18f7eb621b26489e87df1fe4d1dfa47f86;Revision_35:c049e94f37eba64eac0377a12026fd80c77994cc;TMP_3D:53bcbfa5299d4bdde4109c9b37e7b5b32cb8d15d]|RELEASE:[none|none]
