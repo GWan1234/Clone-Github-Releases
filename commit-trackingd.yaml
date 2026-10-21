@@ -1215,6 +1215,7 @@ sparkfun/MiniGen: BRANCHES:[master:526e02d6797b4772be25d8a9909f19bacea3c6c9]|REL
 sparkfun/MiniMoto: BRANCHES:[master:37b98086d9e06e1f498409373ef970d830e45ba4;EdWilson-library_modifications:0a721831f158504bd7483dcad240564563100e2d;library_change:7ba29ed4335221f78ef38713a1e7652d62abedfc]|RELEASE:[none|none]
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6]|RELEASE:[none|none]
 sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e5b00d5ee]|RELEASE:[none|none]
+sparkfun/NCP1402-3.3V: BRANCHES:[master:81400e56ee5dcba7f63dd2cc849feddaccdc35b3]|RELEASE:[none|none]
 sparkfun/NCP1402-5V_Breakout: BRANCHES:[master:00ff66e2fff0e07a9204559cc5cd3b0d5799028f]|RELEASE:[none|none]
 sparkfun/Navigation_Switch_Breakout: BRANCHES:[master:03e99797a9c20dcefb126ef5c168b99b7d0c5044]|RELEASE:[none|none]
 sparkfun/OBD-II_UART: BRANCHES:[master:c35ae778350c3c9f5c8568319e0dbf106518fd76]|RELEASE:[none|none]
