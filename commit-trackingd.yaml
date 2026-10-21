@@ -1237,6 +1237,7 @@ sparkfun/QRE1113_Line_Sensor-Analog: BRANCHES:[master:1671498b31a63009afdcaf7832
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6]|RELEASE:[none|none]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52]|RELEASE:[none|none]
+sparkfun/RF_Links: BRANCHES:[main:1b2f68585281418a1cb2661713ab41a19623bc92]|RELEASE:[none|none]
 sparkfun/RHT03: BRANCHES:[master:d026dd4c932ab27b6abb6d9a172421399594148a]|RELEASE:[none|none]
 sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51]|RELEASE:[none|none]
 sparkfun/RS232_Shifter_SMD: BRANCHES:[master:1ffd9ab0958647a191cd9c134b5008753b02ec4c]|RELEASE:[none|none]
