@@ -1137,6 +1137,7 @@ sparkfun/BC127_Breakout_Board: BRANCHES:[master:54439d5d8feb4152aea897af669a206f
 sparkfun/BLE_Mate2: BRANCHES:[master:e3e69ded94b6a887e2ac5441627ae324a3e148bd]|RELEASE:[none|none]
 sparkfun/BMP085_Breakout: BRANCHES:[master:fe518c2ceb334ce962f0a7261ef166f7fe41867d]|RELEASE:[none|none]
 sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb25b;V20:1a7dba14bc455018da5a46c2ed8904702eecc99a]|RELEASE:[none|none]
+sparkfun/BMP180_Breakout_Arduino_Library: BRANCHES:[master:2ec6b6c35d18cddc6e46ae39d4829ca12d747763;lib-change:ae0f3dd2a2072dfa27cf4142df3b27c0e19f3c65]|RELEASE:[none|none]
 sparkfun/BadgerArray: BRANCHES:[master:b4f7d71c2f54b84703f9b98c9acad8d709c038a9]|RELEASE:[none|none]
 sparkfun/BadgerHack_Demos: BRANCHES:[master:27da2391d32d82a72ab0e46811182fa0ec000821]|RELEASE:[none|none]
 sparkfun/BadgerStick: BRANCHES:[master:20dc66aae38480764036bda764d3752306cb3d83]|RELEASE:[none|none]
