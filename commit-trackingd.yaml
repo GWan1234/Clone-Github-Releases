@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:58
+commit-tracking: 2026-10-21 13:59
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2059,6 +2059,7 @@ sparkfun/SparkFun_RTK_Firmware_Binaries: BRANCHES:[main:1fac8e85913a89fcb672c3af
 sparkfun/SparkFun_RTK_Firmware_Uploader: BRANCHES:[main:a0944549a6b93203050f35b1de00d62a1297f2d2]|RELEASE:[v1.7.0|521ff38da0afcca05d088176349175d779466894]
 sparkfun/SparkFun_RTK_Reference_Station: BRANCHES:[main:330216b1e20cdd2d8fc8a60b611488d7b6bebb51]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Surveyor: BRANCHES:[release_candidate:34b215e404ea92d4265586ff855ce7e11e543f81;main:70b98bf874f966e77b131c1dc542049b3dc5e332]|RELEASE:[v1.6|1dd8376d3d3a898460f8ba17eb36cd706dcb3f66]
+sparkfun/SparkFun_RTK_mosaic-X5: BRANCHES:[release_candidate:c8ea0a5a9c4407e03a627c30f79af9236ee446c0;gh-pages:558c0145e453f2ba5e8d05462d18b505280dfa2e;main:b0e48fceb203100c6d2cc7698631e4260a7d4b12;onocoy-instructions:d17ef79534b810c707427bb203307f61fe593b1f]|RELEASE:[v1.0.6|b0e48fceb203100c6d2cc7698631e4260a7d4b12]
 sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a]|RELEASE:[v1.1.0|4b473249282426773ded2f08d9d9eb204068902a]
 sparkfun/SparkFun_RV-8803_Arduino_Library: BRANCHES:[main:f0edcf87963e08126aeca20a36db9a5c845cfa5b;release_candidate:6ae28e3221e90334a2fa5f84d7f00fb470573abc;get_epoch_fix:daa80375f705b6882d4bba54455d3909e9bd0465]|RELEASE:[v1.2.10|f0edcf87963e08126aeca20a36db9a5c845cfa5b]
 sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c]|RELEASE:[v1.4.2|4f40f72bcff65eaac37b7f88af941c0f5805d544]
