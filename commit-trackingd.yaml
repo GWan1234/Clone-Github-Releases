@@ -1480,6 +1480,7 @@ sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c
 sparkfun/MicroMod_DA16200_Function: BRANCHES:[main:32c1eef54e9f28ddad6e60a04e238d7b3aca8912]|RELEASE:[none|none]
 sparkfun/MicroMod_Data_Logging_Carrier: BRANCHES:[master:6fe06a666a75f88c87da4ac8711085090e21e1c0]|RELEASE:[none|none]
 sparkfun/MicroMod_ESP32_Processor: BRANCHES:[master:0faa0480023b6428aa1653dea9e5e82c78e1e742]|RELEASE:[none|none]
+sparkfun/MicroMod_Environmental_Sensor_Function_Board: BRANCHES:[main:c6f51f267769d986756010689eedf3f9f950f0a3;v11:b500e62a18146ab6ad6f33de8b23c6d72ca3f51a]|RELEASE:[none|none]
 sparkfun/MicroMod_Function_LoRa_1W: BRANCHES:[main:fb2274d8bc2ca06e6c730d7efaf8bbe07b7a18f2]|RELEASE:[none|none]
 sparkfun/MicroMod_GNSS_F9P_Carrier_Board: BRANCHES:[master:2b6502c6f013c03bbc9fe09d61b52ae71362f4d5]|RELEASE:[none|none]
 sparkfun/MicroMod_Input_and_Display_Carrier: BRANCHES:[master:584dcf56417b0107d3fab93dfbe4c9b66cd8819a]|RELEASE:[none|none]
