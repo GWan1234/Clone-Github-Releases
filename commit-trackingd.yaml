@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:59
+commit-tracking: 2026-10-21 13:00
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1849,6 +1849,7 @@ sparkfun/SparkFun_LSM6DS3_Arduino_Library: BRANCHES:[master:fa686db5006826a84e5d
 sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2db219f3095f89b75131de]|RELEASE:[none|none]
 sparkfun/SparkFun_LSM9DS1_Arduino_Library: BRANCHES:[master:18d3181c2bf2826c85b819079e3e626d12ab763b]|RELEASE:[v2.0.0|7269199c7a38a70becf454148474c6f05028e5b7]
 sparkfun/SparkFun_LSM9DS1_Particle_Library: BRANCHES:[master:0ffca1a8a74fb9bc7e7ff0a3cef9ac9348563bc3]|RELEASE:[none|none]
+sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S: BRANCHES:[main:1332f29e4153abbb06ccd24e0421253527922ff3;master:f7fc5f35109b4fa6b661afc27043ea6cb8288419]|RELEASE:[none|none]
 sparkfun/SparkFun_LTE_Shield_Arduino_Library: BRANCHES:[master:a7bbb24789011ad46080e06dce9ed81c69049f7d;addDebug:ae6068baa3f6395158b3c68c21bc4f4ef1c9a9ce]|RELEASE:[v1.3.0|147b23b133e79b14326d19f9be8ed66c2ff9dd87]
 sparkfun/SparkFun_LilyPad_Simblee: BRANCHES:[master:91246f96067686128fa44e82f8ec823abce7b774]|RELEASE:[none|none]
 sparkfun/SparkFun_Line_Follower_Array_Arduino_Library: BRANCHES:[master:29146627b9eda56a58f48e0abae9e124bb2415a8]|RELEASE:[none|none]
