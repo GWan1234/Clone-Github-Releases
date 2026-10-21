@@ -1250,6 +1250,7 @@ sparkfun/FreeSoC2_Keysynth: BRANCHES:[master:66fae29fb0bef05b9b5db65dd9630196e7a
 sparkfun/FreeSoc2: BRANCHES:[master:7a7a325278c0fb96ba51e05cd0fb847a73feb79f]|RELEASE:[v14|7a7a325278c0fb96ba51e05cd0fb847a73feb79f]
 sparkfun/Fritzing_Parts: BRANCHES:[main:71b17bbea66f92123f0a39dcf6f8c9ae566e31d1;valentines:8bf02b8833474690e7401aba099294f12ee46398;red-board:8bf02b8833474690e7401aba099294f12ee46398]|RELEASE:[none|none]
 sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N: BRANCHES:[master:8b81b873540e59a232a5abee3694d54799e0bcac]|RELEASE:[none|none]
+sparkfun/FutabaSBUS_SAMD21: BRANCHES:[master:8638fd77802250ec26469df8e215e8d519629de3]|RELEASE:[none|none]
 sparkfun/GP-2106_Breakout: BRANCHES:[master:a7f90cb2f630e24c057dff34183d8f985464b8bb]|RELEASE:[none|none]
 sparkfun/GPS_Breakout: BRANCHES:[master:b696ced9f8d11529084a9f6b1515888b895d4081]|RELEASE:[none|none]
 sparkfun/GPS_Evaluation_Board_GP-2106: BRANCHES:[master:00f4439a3be09704f679522e87fbbeb080e3b33b]|RELEASE:[none|none]
