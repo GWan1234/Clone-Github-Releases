@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:54
+commit-tracking: 2026-10-21 09:55
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1273,6 +1273,7 @@ sparkfun/MiP_Proto-Back: BRANCHES:[master:e3d9267ef19f664ac6ad048bf158dd37261103
 sparkfun/MiP_Proto-Pack: BRANCHES:[master:b3cd9a4de7b67ea7e9a937004f8314edac76938c]|RELEASE:[none|none]
 sparkfun/Mic_Preamp: BRANCHES:[master:35a2f3b91d0ef73dbeb08c55ef1cf29cb72843e2]|RELEASE:[none|none]
 sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8]|RELEASE:[none|none]
+sparkfun/MicroView_USB_Programmer: BRANCHES:[master:7057bea2c0b54db610f1ea53f22856b7026088ea]|RELEASE:[none|none]
 sparkfun/Micro_OLED_Breakout: BRANCHES:[master:c7dd8939c905110a473beadf4ffc893d9c7b9ea2]|RELEASE:[V_H1.0|c7dd8939c905110a473beadf4ffc893d9c7b9ea2]
 sparkfun/MiniGen: BRANCHES:[master:526e02d6797b4772be25d8a9909f19bacea3c6c9]|RELEASE:[none|none]
 sparkfun/MiniMoto: BRANCHES:[master:37b98086d9e06e1f498409373ef970d830e45ba4;EdWilson-library_modifications:0a721831f158504bd7483dcad240564563100e2d;library_change:7ba29ed4335221f78ef38713a1e7652d62abedfc]|RELEASE:[none|none]
