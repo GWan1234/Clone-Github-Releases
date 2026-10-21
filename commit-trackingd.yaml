@@ -1460,6 +1460,7 @@ sparkfun/SparkFun_MicroView_Arduino_Library: BRANCHES:[master:f5528bd78d016f62f3
 sparkfun/SparkFun_Micro_OLED_Arduino_Library: BRANCHES:[main:1ff68715f5456423599bc35c3c01b82127b5d7a1;ExposeInit:226d70a67a35a2340b2cd1162b328b5e3457a235;release_candidate:acbf9a676915fe4c2a30b0ed5f60537838b71852]|RELEASE:[v1.3.4|81fc5c61b07995783b44c6f407c2f130d7e48a5b]
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
 sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
+sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a0226990979aaed408f587db4]|RELEASE:[v3.0.6|523e4fe8c4c9671a0226990979aaed408f587db4]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Breakout: BRANCHES:[master:a7708c41db39d6bda609f27d21c45ce98ed7664d]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0e1d1e8a9416fa557dd299f53b521a8d81c37]|RELEASE:[none|none]
