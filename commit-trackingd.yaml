@@ -1353,6 +1353,7 @@ sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10]|REL
 sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-vagrantfile:ddefedf49e415f246de6137b796ab036808fcaf6;7.0:206640c0c94ae34b25c20d6d04ec8481590ffbd4;6.4:30b1b6102663893ba1b9cf891b69d7e6ce53bf0c]|RELEASE:[none|none]
 sparkfun/phant-keychain-hex: BRANCHES:[master:78aad4f1b99baee35a7d83bf0972fabe60a5a0bc]|RELEASE:[none|none]
 sparkfun/phant-manager-http: BRANCHES:[master:98359e976651b3def960ecde1d1fdab32575b23e;http_basic:1c2b65771b4f342c99a651d8e5122cbd9ff546da]|RELEASE:[none|none]
+sparkfun/phant-meta-json: BRANCHES:[master:507e51887977b0103d80457203e3dd564bba5897]|RELEASE:[none|none]
 sparkfun/phant-meta-mongodb: BRANCHES:[master:4a3e87647fddbdc355baf341991acab3ca133bfe]|RELEASE:[none|none]
 sparkfun/phant-meta-test: BRANCHES:[master:b43a8f259cbd46832e1badbeebede9572cb22bb0]|RELEASE:[none|none]
 sparkfun/phant-output-udp: BRANCHES:[master:070b29b1e4c070d48e7e332922496fe818a61a8c]|RELEASE:[none|none]
