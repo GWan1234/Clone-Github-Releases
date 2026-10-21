@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 11:09
+commit-tracking: 2026-10-21 11:10
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1129,6 +1129,7 @@ sparkfun/AVR_ISP_Shield: BRANCHES:[master:dcd712d266486559c8a6ddf7f8025caf97afaf
 sparkfun/AVR_Programming_Adapter: BRANCHES:[master:949672fb47daea71f3f5592fe6b322c0753c227b]|RELEASE:[none|none]
 sparkfun/AVR_Stick: BRANCHES:[master:5f0a0920c481ede91f8a67329802e4de57344b51]|RELEASE:[none|none]
 sparkfun/Adapter_Board-ICD_ICD2: BRANCHES:[master:fd771b4c17ac38ceecd4d229110e5bf8906d5cc4]|RELEASE:[none|none]
+sparkfun/Adjustable_Lipo_Charger: BRANCHES:[master:868eacc48301330d7427ae267d21163763f37c5c]|RELEASE:[none|none]
 sparkfun/Alphabet_Boards: BRANCHES:[master:8e10c3c291ff50adc1539db4586d036166ca9231]|RELEASE:[none|none]
 sparkfun/Alphanumeric_GPS_Clock: BRANCHES:[master:22bd28305bafd2a9852ab7d77e8e1ee990e521dd]|RELEASE:[none|none]
 sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000: BRANCHES:[master:e330459795e7a05b63107fdf66340e42b33b1c33]|RELEASE:[none|none]
