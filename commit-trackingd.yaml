@@ -1190,6 +1190,7 @@ sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164
 sparkfun/MiniMoto: BRANCHES:[master:37b98086d9e06e1f498409373ef970d830e45ba4;EdWilson-library_modifications:0a721831f158504bd7483dcad240564563100e2d;library_change:7ba29ed4335221f78ef38713a1e7652d62abedfc]|RELEASE:[none|none]
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6]|RELEASE:[none|none]
 sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e5b00d5ee]|RELEASE:[none|none]
+sparkfun/Navigation_Switch_Breakout: BRANCHES:[master:03e99797a9c20dcefb126ef5c168b99b7d0c5044]|RELEASE:[none|none]
 sparkfun/OBD-II_UART: BRANCHES:[master:c35ae778350c3c9f5c8568319e0dbf106518fd76]|RELEASE:[none|none]
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
