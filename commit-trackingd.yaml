@@ -1562,6 +1562,7 @@ sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331: BRANCHES:[master:9f94d42719b
 sparkfun/Triple_Axis_Magnetometer-HMC5883L: BRANCHES:[master:017b6877bc974430ce42026c212656198e2dae38]|RELEASE:[none|none]
 sparkfun/UBW32: BRANCHES:[master:aed39433bf49bd65d48589b81ae09b74638d2df2]|RELEASE:[none|none]
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794]|RELEASE:[none|none]
+sparkfun/USB_Bit_Whacker-18F2553: BRANCHES:[master:c37d8adba1e667ef2577aa34b315bb6a84b352db]|RELEASE:[none|none]
 sparkfun/USB_Host_Shield: BRANCHES:[master:ce2e7366d21c9cc57ebf09ca1d1851c2f6b5f05b]|RELEASE:[none|none]
 sparkfun/USB_LiPolyCharger_SingleCell: BRANCHES:[master:e5664fa9629993abbe3d522ae9f64d17e0a21f6d]|RELEASE:[none|none]
 sparkfun/USB_RS-485_Converter: BRANCHES:[master:e3bfcce6f1337815f9c0c660933a33232da7d610]|RELEASE:[none|none]
