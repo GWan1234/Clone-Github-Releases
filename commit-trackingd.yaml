@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 12:21
+commit-tracking: 2026-10-21 12:22
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1494,6 +1494,7 @@ sparkfun/On_Screen_Display_Breakout-MAX7456: BRANCHES:[master:fcb49d25b47091dc3d
 sparkfun/OpAmp_Breakout-LMV358: BRANCHES:[master:0a805d06e228d5c3a6631d51dfaceebe121e18a8]|RELEASE:[none|none]
 sparkfun/OpenLCD: BRANCHES:[master:88bf6f642840a2ecda856b10a05429f2f27a7c7d]|RELEASE:[v1.3|d4ad618f0ac1380f466c37bab6b003d0e2666a0b]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
+sparkfun/OpenLog_Artemis: BRANCHES:[OpenLog_IMU_KiCad_Update:7c86a71c413c4b02fbeff30b1014685aeb203bb5;GNSS_v3:d51e7052e1ba037ed20c877dbf0620d9ff7e8851;release_candidate:f9c8e66b7da6f27a4bf9be55016c5b9231b9fb22;main:f9c8e66b7da6f27a4bf9be55016c5b9231b9fb22;Initial_BLE_Support:f777b22d115c64cc2e288f6d03b26d32b83f7446;Adding_BNO080:7a781859a13e9317dd2cc6110e5cc79d8f11aecb]|RELEASE:[v2.11|75124bb21e8decdc59cb7cd475241a14cf58bba0]
 sparkfun/OpenPIR: BRANCHES:[new_pir_detector_controller:7faca446284af6e25256222ac8e5930142ca3314;master:41862c355b6d1bd3bc0f65fd0f7e4933e05276d7]|RELEASE:[none|none]
 sparkfun/OpenScale: BRANCHES:[master:7c0e0191c6e8b0ee30401e1cb1873247501802fb]|RELEASE:[none|none]
 sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;QC-REV:d4529cc4fb4bf141d9ee47adcac8f184c66e1329]|RELEASE:[none|none]
