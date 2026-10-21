@@ -1622,6 +1622,7 @@ sparkfun/Serial-LCD-Kit: BRANCHES:[master:79690d6e7762cb65db5b553c718d285b6d83bf
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
 sparkfun/Serial_7_Segment_Shield: BRANCHES:[QC-Rev:0ea20bd40050a451a9bcd6c03722b7f7ca27dc74;master:ed313bc0a88e3b244281b9f12d1c544384c98540]|RELEASE:[none|none]
 sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a596b3b8f561c266cf410b5]|RELEASE:[none|none]
+sparkfun/Serial_Basic_Breakout-CH340C: BRANCHES:[master:64dd9928e713b7d1cf92457acc02ef5131e5d702]|RELEASE:[none|none]
 sparkfun/Serial_Basic_Breakout-CH340G: BRANCHES:[master:19004d8256151ac61e5502eeaa41979b48e95c62]|RELEASE:[none|none]
 sparkfun/Serial_Controlled_Motor_Driver: BRANCHES:[master:7fd71f82ea8329199dde4b64aae1c48212c2e3bd;FW_V_07:9401eab49b306d6c6507cd965208ace68898347a]|RELEASE:[none|none]
 sparkfun/Serial_DB9_Breakout: BRANCHES:[master:7c932f7aa8d811c91aa9eed6534348b2c6d273a9]|RELEASE:[none|none]
