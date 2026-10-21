@@ -1464,6 +1464,7 @@ sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0
 sparkfun/SparkFun_TSL2561_Arduino_Library: BRANCHES:[master:af36505969e42be712b5de45a6969016b03e9754]|RELEASE:[none|none]
 sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library: BRANCHES:[master:a4e4def9dfd2fdac56a58b41d8a690d475377760]|RELEASE:[v1.1.3|fbddc0e68616d7b4ca14d2c1654c0b0fcc2d41bb]
 sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library: BRANCHES:[master:e0818e3815f10d919bc2f78f6810ce480177aff3]|RELEASE:[V_1.0.3|6d03f33a7be8ebebe3647c902796699413ab7841]
+sparkfun/SparkFun_Vernier_Interface_Shield_Arduino_Library: BRANCHES:[master:6ae12f7f5d69e7af03b88efd7b85f3984d8848a3]|RELEASE:[none|none]
 sparkfun/SparkFun_WiFly_Shield_Arduino_Library: BRANCHES:[master:34bf7e633051d848fb2b97cc523f5191e2cf1c89]|RELEASE:[none|none]
 sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library: BRANCHES:[master:694cfb57b9462c667afe94eeebdc14f0e5bf3b9e]|RELEASE:[none|none]
 sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac]|RELEASE:[1.1.14|6019e589518335edd39cf0fa5c89933e71470c99]
