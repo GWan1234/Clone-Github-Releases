@@ -1908,6 +1908,7 @@ sparkfun/SparkFun_MLX90632_Arduino_Library: BRANCHES:[master:e8161780e2b3b248760
 sparkfun/SparkFun_MLX90640_Arduino_Example: BRANCHES:[master:29260f68a86e6b920cd6ec8a7e724e74c9ad8647;release_candidate:d2db2408349377e92d8ca47d5410819376ac4bdc]|RELEASE:[none|none]
 sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68585ff3756b16c80ef0a;Interrupt:3349aeccbfb462a12c0f8e0c8531fcc59d4e168e]|RELEASE:[V_1.4.0|4ad518cf599bd1daff78d10bae46a606547fb73b]
 sparkfun/SparkFun_MMA8452Q_Particle_Library: BRANCHES:[master:8deb02b50afc0d099c877ffcda1827cf09c6a4d1]|RELEASE:[none|none]
+sparkfun/SparkFun_MMC5983MA_Magnetometer_Arduino_Library: BRANCHES:[release_candidate:6e5c914bf3c38c336b68456450b3e065d22e5ac4;main:6e5c914bf3c38c336b68456450b3e065d22e5ac4]|RELEASE:[v1.1.5|6e5c914bf3c38c336b68456450b3e065d22e5ac4]
 sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42c76a2034017df432fe883b6022c01bc]|RELEASE:[v1.2.4|09f9cf0b4b2458d474457504a35645dae53fc119]
 sparkfun/SparkFun_MPL3115A2_Particle_Library: BRANCHES:[master:4675e7b0e59d2cfe16f23d8dac479e7bda842058]|RELEASE:[none|none]
 sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library: BRANCHES:[master:f46b97c4dff33c83eebc775a7fce5b70df071984]|RELEASE:[none|none]
