@@ -1355,6 +1355,7 @@ sparkfun/phant-keychain-hex: BRANCHES:[master:78aad4f1b99baee35a7d83bf0972fabe60
 sparkfun/phant-manager-http: BRANCHES:[master:98359e976651b3def960ecde1d1fdab32575b23e;http_basic:1c2b65771b4f342c99a651d8e5122cbd9ff546da]|RELEASE:[none|none]
 sparkfun/phant-meta-mongodb: BRANCHES:[master:4a3e87647fddbdc355baf341991acab3ca133bfe]|RELEASE:[none|none]
 sparkfun/phant-output-udp: BRANCHES:[master:070b29b1e4c070d48e7e332922496fe818a61a8c]|RELEASE:[none|none]
+sparkfun/phant-output-websocket: BRANCHES:[master:0ec22af5e6d57da4e48f394c8a145685ccf9e6ad]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
 sparkfun/usb-scale: BRANCHES:[master:102a6d059b0f0f042926d6d74acf37181a02eeb6]|RELEASE:[none|none]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
