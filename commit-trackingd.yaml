@@ -1279,6 +1279,7 @@ sparkfun/Papilio_VGA_Wing: BRANCHES:[master:4f3bed04cba74876a11008f6cfc140fad2bf
 sparkfun/Party_Button: BRANCHES:[master:4b050fd4886b9cae733242ee98b3e1b8c2b18c4c]|RELEASE:[none|none]
 sparkfun/Photo_Interrupter_Breakout: BRANCHES:[master:a2d2437948c43567ae02486b14bb44938b972bb2]|RELEASE:[none|none]
 sparkfun/Pi_Wedge: BRANCHES:[master:395f7fbb4a4c582cbe680d0d6c85ef040384e151]|RELEASE:[none|none]
+sparkfun/Pi_Wedge_B_Plus: BRANCHES:[master:0a534243a39158ae311fbf37bd561c0ad01282c3]|RELEASE:[none|none]
 sparkfun/PicoBoard: BRANCHES:[master:9ceb9c847795955ed3d3f1af5551619e99b3ba8c]|RELEASE:[none|none]
 sparkfun/PicoBuck: BRANCHES:[master:2a41992a24f352af5ce7c0c3a2334665850e2b72;hi_pow:87b941142c381b074083ef9f342c4748e0492640]|RELEASE:[none|none]
 sparkfun/Pocket_AVR_Programmer: BRANCHES:[master:c51d6f0254f8f7d08831ed9fc40d86c64035276d]|RELEASE:[none|none]
