@@ -1119,6 +1119,7 @@ sparkfun/ADXL345_Eval: BRANCHES:[master:bd041475c4d0a9ae81a89b8dd498f043467ead22
 sparkfun/ADXL362_Breakout: BRANCHES:[master:59a85587537e4fc45d4ad3c78782bf165ba9caac]|RELEASE:[none|none]
 sparkfun/ADXL377_Breakout: BRANCHES:[master:413630bb6ecc897e58fd5c60a93d403bf603f7ce]|RELEASE:[none|none]
 sparkfun/AD_Stereo_Converter-PCM1803A: BRANCHES:[master:8551f232cb40e3b6de7c3fc9bc9b32ef18cb5a4c]|RELEASE:[none|none]
+sparkfun/APDS-9301_Breakout: BRANCHES:[master:85e94b144292f45bab9c10303d6ae2b2451c04df]|RELEASE:[none|none]
 sparkfun/APDS-9960_RGB_and_Gesture_Sensor: BRANCHES:[master:a7f08275b6e7ac03d1b88dd20fd5c58063f0e6b7]|RELEASE:[V_H1.0_L1.4.4|770e2b0216cc6ba8626873b376e1b122e80ec371]
 sparkfun/AT407_Tilt_Sensor: BRANCHES:[master:6f73658e943d54147d389247bafdd23984e77a25]|RELEASE:[none|none]
 sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b0e9b28c46165f292fdfa80b6]|RELEASE:[HW_v1.0_FW_v1.0|a1d09227f57d31b224ee6de3195bcf5f69d8f535]
