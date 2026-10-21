@@ -1222,6 +1222,7 @@ sparkfun/ESP32_Thing_Plus: BRANCHES:[master:ed6d941070fa7756af6d2e24bdcfed8e27b2
 sparkfun/ESP8266_Thing: BRANCHES:[master:9f412e78a48587f9689b4d6eafaf941f308822ea]|RELEASE:[none|none]
 sparkfun/ESP8266_Thing_Dev: BRANCHES:[master:e2f5277a9f49694436a95733a86f40216b845bbd]|RELEASE:[none|none]
 sparkfun/ESP8266_Thing_Dev_4H: BRANCHES:[master:99864ff90c9da31473bb45bb3f503a77d10d6575]|RELEASE:[none|none]
+sparkfun/ESP8266_WiFi_IR_Blaster: BRANCHES:[master:c83f311c1ac7a4ad0063cb75b9e53b5a586efaec]|RELEASE:[none|none]
 sparkfun/ESP8266_WiFi_Shield: BRANCHES:[master:749e0c4b562e96147a4b3361443263421a739eb5]|RELEASE:[none|none]
 sparkfun/Eagle_Class_Tools: BRANCHES:[master:8226ac074c6fc5f99eb76aa3cbb8fee9f3fb6549]|RELEASE:[none|none]
 sparkfun/Easy_Driver: BRANCHES:[master:e9a837d2d62bce969f3b7b8bddde6330001a6b99]|RELEASE:[none|none]
