@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:22
+commit-tracking: 2026-10-21 13:23
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1952,6 +1952,7 @@ sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45f
 sparkfun/SparkFun_QwiicNES_Arduino_Library: BRANCHES:[main:2a938dbcc7e4bedcf2b933e4c9b54996df7b2070]|RELEASE:[V_1.0.0|5aa4aa994f9e0a63b71a49db88e3fa6f87657ceb]
 sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f3418ae340f63b05]|RELEASE:[V_1.0.0|4e221395aa8e74332f5f8648f3418ae340f63b05]
 sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015: BRANCHES:[master:55cca07b538b2c613d5f3e2119e8593b06a65cd0]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX: BRANCHES:[main:f848874e34e034c00f4e4b8a50d073738f87817b]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO: BRANCHES:[main:fef35123412fc2935d342e2837b1f5b8fdf1caf0]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library: BRANCHES:[main:4addc5ffd7cb71a0481aee259ab85c232aa92afe;future_examples:ba6e4f656a69ef2773727047cbad91050589c255]|RELEASE:[v1.0.4|4addc5ffd7cb71a0481aee259ab85c232aa92afe]
 sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c089130660f485c3af065fbbc1ef9]|RELEASE:[none|none]
