@@ -1333,6 +1333,7 @@ sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;
 sparkfun/Opto_Isolator_Breakout: BRANCHES:[master:fcf3b555d61089760e7e3c924f89e31108b939b3]|RELEASE:[none|none]
 sparkfun/P8X32A_Breakout: BRANCHES:[master:a3602444ee2935ca3be44557122a7fb7a705106d;readme_cleanup:6354c73419b01cb24270c1ca3941c6c2bf8175b3]|RELEASE:[none|none]
 sparkfun/PCA9306_Level_Translator_Breakout: BRANCHES:[master:900d87cd963127ef8dbb335c340fc24a5815aa8b;v20:17f102a17d88bba8f1bf7d0d5554ead7e857668b]|RELEASE:[v20|900d87cd963127ef8dbb335c340fc24a5815aa8b]
+sparkfun/PSoC_Arduino_Support: BRANCHES:[master:857718cf63ddfee09217269843adb31675f87304]|RELEASE:[none|none]
 sparkfun/Papilio_Audio_Wing: BRANCHES:[master:2181da66032a7f041db82692e1323207dc995a53]|RELEASE:[none|none]
 sparkfun/Papilio_Button_LED_Wing: BRANCHES:[master:4e5b3fefc6f0bcef773c9275237c8910655cf252]|RELEASE:[none|none]
 sparkfun/Papilio_VGA_Wing: BRANCHES:[master:4f3bed04cba74876a11008f6cfc140fad2bf3d3e]|RELEASE:[none|none]
