@@ -1905,6 +1905,7 @@ sparkfun/SparkFun_Pulsed_Radar_Breakout_A111: BRANCHES:[master:5f4d608a017d88721
 sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
 sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f3418ae340f63b05]|RELEASE:[V_1.0.0|4e221395aa8e74332f5f8648f3418ae340f63b05]
 sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015: BRANCHES:[master:55cca07b538b2c613d5f3e2119e8593b06a65cd0]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO: BRANCHES:[main:fef35123412fc2935d342e2837b1f5b8fdf1caf0]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout: BRANCHES:[master:215f5227694c089130660f485c3af065fbbc1ef9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_ADXL313: BRANCHES:[master:5f15aca1894d33566769ece01f224c04295b9f75]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc7ded513bf42aef665627858d1]|RELEASE:[v2.0.6|52287080ba327bc7ded513bf42aef665627858d1]
