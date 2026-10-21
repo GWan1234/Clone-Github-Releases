@@ -1108,6 +1108,7 @@ sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c
 sparkfun/3D_Models: BRANCHES:[master:53d298c3b8202cf8fce9ab61885855720c84c012]|RELEASE:[none|none]
 sparkfun/9DOF_Razor_IMU: BRANCHES:[master:51dbea98591c547e73c2511f2339e35e4bd7ad48;v30:2865253ffa7e31ac77c2e741931da7af4e8779a4]|RELEASE:[none|none]
 sparkfun/AD5330_Breakout: BRANCHES:[master:e5b0f031b098ac7fdc023499a85d83a08b941e79]|RELEASE:[none|none]
+sparkfun/AD8232_Heart_Rate_Monitor: BRANCHES:[master:ab0cd10c3778c69e92ea8688af58af6d9db29e8a]|RELEASE:[none|none]
 sparkfun/ADXL335_Breakout: BRANCHES:[master:a6bd15dc1c323079e7c0a6c2453a8c9bb4c61abb]|RELEASE:[none|none]
 sparkfun/ADXL345_Breakout: BRANCHES:[master:8e83a624bcaea0a3071885c58634b56fbefa346d]|RELEASE:[none|none]
 sparkfun/ADXL345_Eval: BRANCHES:[master:bd041475c4d0a9ae81a89b8dd498f043467ead22]|RELEASE:[none|none]
