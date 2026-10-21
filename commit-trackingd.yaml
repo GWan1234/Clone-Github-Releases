@@ -1436,6 +1436,7 @@ sparkfun/Teensy_3_1_XBee_Adapter: BRANCHES:[master:a3a78504780ae9dec4596f87e519a
 sparkfun/Teensy_Arduino_Shield_Adapter: BRANCHES:[master:e212be53df5819eebdd7ea3526dbba6363ea026f]|RELEASE:[none|none]
 sparkfun/Thermal_Printer: BRANCHES:[v1.1:1a8bc5d8c3a812fc3959f550cd92223baac01905;master:d1bfbb0db0d250a893ec595f0732dacabed94446]|RELEASE:[v1.0|d1bfbb0db0d250a893ec595f0732dacabed94446]
 sparkfun/Through-Hole_Christmas_Kit: BRANCHES:[master:1c964e527b78eb34b2f7161880df4e315a0d6db5]|RELEASE:[none|none]
+sparkfun/Thumb_Joystick_Breakout: BRANCHES:[master:66a9750b64dfd827c984df69e46c133945a06fed]|RELEASE:[none|none]
 sparkfun/Tilt-a-Whirl_Breakout: BRANCHES:[master:f86f47594932749040fa7a303518d5177c3ab207]|RELEASE:[none|none]
 sparkfun/Tiny-AVR-Programmer: BRANCHES:[master:8169e041d0f3bd5092280e82d616e418fb652053;v14:8d8fba4e3ea46807223c0e0258c8fe432b741c03]|RELEASE:[none|none]
 sparkfun/ToF_Range_Finder_Breakout-VL6180: BRANCHES:[master:2faa308fd111d75ad37b4861f93b4bca551254aa]|RELEASE:[none|none]
