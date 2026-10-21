@@ -1107,6 +1107,7 @@ sle118/squeezelite-esp32: BRANCHES:[master-v4.3:ee1720c7556ffec5f43329aadd47c205
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
 sparkfun/3D_Models: BRANCHES:[master:53d298c3b8202cf8fce9ab61885855720c84c012]|RELEASE:[none|none]
 sparkfun/5-Way_Tactile_Switch_Breakout: BRANCHES:[master:ba558422b3eddeba99230d5ac3602fa488fd3dfd]|RELEASE:[none|none]
+sparkfun/74HC4051_8-Channel_Mux_Breakout: BRANCHES:[master:937d5446a825fcf739dcea2c65fb4e66cd9fd62f]|RELEASE:[none|none]
 sparkfun/9DOF_Razor_IMU: BRANCHES:[master:51dbea98591c547e73c2511f2339e35e4bd7ad48;v30:2865253ffa7e31ac77c2e741931da7af4e8779a4]|RELEASE:[none|none]
 sparkfun/9DOF_Sensor_Stick: BRANCHES:[master:43a5b909fbc27dec1d12eed3fa17fce2b784dcff;new_rev:871fb3c2c82d373d23e64dd6534dbb011cc0b916;V_1.6:a078cfb916c9289ade7d0f28174e9eb24707e8ed]|RELEASE:[none|none]
 sparkfun/AD5330_Breakout: BRANCHES:[master:e5b0f031b098ac7fdc023499a85d83a08b941e79]|RELEASE:[none|none]
