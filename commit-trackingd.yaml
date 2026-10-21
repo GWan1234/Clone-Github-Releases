@@ -1190,6 +1190,7 @@ sparkfun/FPGA_Tutorial: BRANCHES:[master:ad67ff758dd71cba90706833b6f8717f11cb23d
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
 sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73a9b3299e]|RELEASE:[none|none]
 sparkfun/FT245RL_Breakout: BRANCHES:[master:c60d22fcea9ab0bd4546568f17f86778c527f78b]|RELEASE:[none|none]
+sparkfun/FTDI_Basic_Breakout-3.3V: BRANCHES:[master:7f19f16b62e3f3e857c6f2e4e682809e38ac6ba8]|RELEASE:[none|none]
 sparkfun/FTDI_Basic_Breakout-5V: BRANCHES:[master:8bbbb934962da976e7aa975f44845be3722a65d7]|RELEASE:[none|none]
 sparkfun/FTDI_SmartBasic: BRANCHES:[master:184af79f42584e430efd2c4980002d0b40b2a9af]|RELEASE:[V_1.1|184af79f42584e430efd2c4980002d0b40b2a9af]
 sparkfun/Fabrickit_LED_Brick: BRANCHES:[master:0a6406fcf469ee935eb90a83bb3dbbdddfc835d0]|RELEASE:[none|none]
