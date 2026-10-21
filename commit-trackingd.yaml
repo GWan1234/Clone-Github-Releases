@@ -1138,6 +1138,7 @@ sparkfun/Eagle_Class_Tools: BRANCHES:[master:8226ac074c6fc5f99eb76aa3cbb8fee9f3f
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
 sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73a9b3299e]|RELEASE:[none|none]
 sparkfun/FTDI_Basic_Breakout-5V: BRANCHES:[master:8bbbb934962da976e7aa975f44845be3722a65d7]|RELEASE:[none|none]
+sparkfun/Fabrickit_LED_Brick: BRANCHES:[master:0a6406fcf469ee935eb90a83bb3dbbdddfc835d0]|RELEASE:[none|none]
 sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba9435f;master:ad25133c696fdb6c294ec22c15e958ab25152759]|RELEASE:[none|none]
 sparkfun/Fingerprint_Scanner-TTL: BRANCHES:[master:0636188ddf8206d166b9859e9f18d2bb62e65999]|RELEASE:[v1.1.1|e60554fc3ea36866072cb9026a16788b381f92d6]
 sparkfun/Fio_v3: BRANCHES:[master:da19c4c1443a274b43c9afd1564b661ec90220a0]|RELEASE:[none|none]
