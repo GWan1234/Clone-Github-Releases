@@ -1361,6 +1361,7 @@ sparkfun/Uh-Oh_Battery_Indicator: BRANCHES:[master:ecafdda48ae8fff8eabf3bee94792
 sparkfun/VKey_Voltage_Keypad: BRANCHES:[master:b0409586571a6afea594d66e71946f5614db6370]|RELEASE:[none|none]
 sparkfun/Venus_GPS_Logger_SMA: BRANCHES:[master:bcc28bdffeddb8b6f835e33ed646115f40bc449b]|RELEASE:[none|none]
 sparkfun/Vernier_Interface_Shield: BRANCHES:[master:822ee6d91f33a21e1176481afbe21bb95be26a0a]|RELEASE:[none|none]
+sparkfun/Voice_Recorder_Breakout-ISD1932: BRANCHES:[master:e6a5079f9f77e1330785821369ea7ca83b45624a]|RELEASE:[none|none]
 sparkfun/WAV_Trigger: BRANCHES:[master:03150391b21e3de057cc98d092aebfae6bb0e943;H_v11:0f8687be314075cb998293bece1062834513efbe]|RELEASE:[none|none]
 sparkfun/WS2812_Breakout: BRANCHES:[master:80e00a06f2763d089633d80b3d5870311750e7d3]|RELEASE:[none|none]
 sparkfun/Wake_on_shake: BRANCHES:[master:9c799010b82c0b1b83de27bc0d8b451f91ff98d4]|RELEASE:[none|none]
