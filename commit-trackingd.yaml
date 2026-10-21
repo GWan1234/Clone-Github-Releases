@@ -1626,6 +1626,7 @@ sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a02269
 sparkfun/SparkFun_Serial_Graphic_LCD_Particle_Library: BRANCHES:[master:b7be4abded92a76fa55d5f860f45b6737cd68384]|RELEASE:[none|none]
 sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d5d7283dc99060ae606d]|RELEASE:[V_1.3.0|596d9c042aff8debcebaf86cf1414bf35ef9fd44]
 sparkfun/SparkFun_Simblee_Breakout_Board: BRANCHES:[master:3d7daac6ded81690ea06c26f1b1424fbb52256d5]|RELEASE:[none|none]
+sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library: BRANCHES:[master:d52c969817d5d552348662b9454347e2348e63f1]|RELEASE:[v1.2.0|d52c969817d5d552348662b9454347e2348e63f1]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Breakout: BRANCHES:[master:a7708c41db39d6bda609f27d21c45ce98ed7664d]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0e1d1e8a9416fa557dd299f53b521a8d81c37]|RELEASE:[none|none]
