@@ -1583,6 +1583,7 @@ sparkfun/SparkFun_BME280_Breakout_Board: BRANCHES:[master:91f0c754a30c304afdd371
 sparkfun/SparkFun_BQ27441_Arduino_Library: BRANCHES:[master:65fcd5553b3087d17c838cbb682121b61fe6881c]|RELEASE:[v1.1.0|65fcd5553b3087d17c838cbb682121b61fe6881c]
 sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library: BRANCHES:[master:0776c9f32d622c4968be7ee5424f1dbd90832184]|RELEASE:[none|none]
 sparkfun/SparkFun_CAN-Bus_Arduino_Library: BRANCHES:[master:c96318faf0045295f04dbd296673cd0c03c39c10]|RELEASE:[none|none]
+sparkfun/SparkFun_CCS811_Arduino_Library: BRANCHES:[master:287aa5c6120ea3227f7fa6fdef4f2253888ea2f2]|RELEASE:[v2.0.3|287aa5c6120ea3227f7fa6fdef4f2253888ea2f2]
 sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library: BRANCHES:[master:f76cabfc458f883d6bca05aef13c6a1cbe98279d]|RELEASE:[none|none]
 sparkfun/SparkFun_DS1307_RTC_Arduino_Library: BRANCHES:[master:68f64b103d014f448c280bb24385430e1011feec]|RELEASE:[none|none]
 sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246552364fe1d94a46c6b464b6]|RELEASE:[v1.2.1|e4482168501163bffb675db7b4cd5ae0f1b1568e]
