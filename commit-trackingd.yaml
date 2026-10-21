@@ -1523,6 +1523,7 @@ sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f
 sparkfun/SparkFun_MicroView_Arduino_Library: BRANCHES:[master:f5528bd78d016f62f39be00cd3b5ef8b6c120485]|RELEASE:[none|none]
 sparkfun/SparkFun_Micro_OLED_Arduino_Library: BRANCHES:[main:1ff68715f5456423599bc35c3c01b82127b5d7a1;ExposeInit:226d70a67a35a2340b2cd1162b328b5e3457a235;release_candidate:acbf9a676915fe4c2a30b0ed5f60537838b71852]|RELEASE:[v1.3.4|81fc5c61b07995783b44c6f407c2f130d7e48a5b]
 sparkfun/SparkFun_MiniGen_Arduino_Library: BRANCHES:[master:8173dec8c7e147e08352cf9ad389f206a379b304]|RELEASE:[none|none]
+sparkfun/SparkFun_MiniMoto_Arduino_Library: BRANCHES:[master:1b42fbbbe25c134150f8e9cb268108fa5aeeab93]|RELEASE:[none|none]
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
 sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
 sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c]|RELEASE:[v1.4.2|4f40f72bcff65eaac37b7f88af941c0f5805d544]
