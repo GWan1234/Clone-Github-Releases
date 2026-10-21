@@ -1973,6 +1973,7 @@ sparkfun/gator_starter: BRANCHES:[master:c1a92d4fe3b1a7b029928e6a1587b316a36a665
 sparkfun/hacker-application: BRANCHES:[master:b4a8a9bb03061f9e27e434216ef2b65911f28100]|RELEASE:[none|none]
 sparkfun/iot-hub-c-thingdev-getstartedkit: BRANCHES:[master:d48e6bf2a4f1f75046615c4770831c6400c297dd]|RELEASE:[none|none]
 sparkfun/jenkhub: BRANCHES:[master:452d1a8b905484594b06e539a2a009b8ca08298a]|RELEASE:[none|none]
+sparkfun/jetbot: BRANCHES:[update-SparkFun_hardware:13ea551e9733bca763e68e2f90dc7bdbc7411886;update-Docker:2c60c8365ebfe6ba9e07f33ad98aa3b81cc222ca;Nvidia-Upstream:a6de6e92d2e13962347e9b338f43534fac634f57;main:607eb2378d32dc7ffa3ee1408501d12d73310d47]|RELEASE:[v0.0.3|c766c5442fed39806110d6e33dcd1f64703fd9cd]
 sparkfun/m2x-arduino: BRANCHES:[master:cfa63b945a5bc531ef1c65451dee11133f88d722]|RELEASE:[none|none]
 sparkfun/microSD_Shield: BRANCHES:[master:993693390e5300f1dc514fdfb9424026b4f4ad7f]|RELEASE:[none|none]
 sparkfun/microSD_Transflash_Breakout: BRANCHES:[master:452f85520c81f96c2dedbddf25c896412a55390d;QC-Rev:ea8f9ab176bfed74bf6cda1be8a3e28eb67f6cd7]|RELEASE:[none|none]
