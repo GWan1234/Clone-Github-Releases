@@ -1106,6 +1106,7 @@ shilapi/xcertplay: BRANCHES:[master:1298fb35e29ee30e7bd849cb0e751b52aa22a13f;iAP
 sle118/squeezelite-esp32: BRANCHES:[master-v4.3:ee1720c7556ffec5f43329aadd47c20546bdbb79;master-cmake:602af3c3f5787eebda75e2801ee4b3da49177bcb;revert-165-es8311:f882647aecc11b4ad6badd1c21677e58cbf3d6ec;refactoring:debc8c58b78fd0c7938b05f57a78f6082bd67aec;just-in-case:0a653bf3741335521b3e7475bd46817d0f09e6bd;improv-4.3:aa8b5ec2d4489536efd4c9dc01f6c3611f8f1428;master:7d45fb6f8fd24c56a7fb9508a4cb575717efb8aa;misc:c36348e99d6a99d65175c22b77f875d7b55ea082]|RELEASE:[SqueezeAmp.16.1779.master-v4.3|feba031be516892b8c3924ebb462076d6f697189]
 sparkfun/32U4_Breakout_Board: BRANCHES:[master:981e78306afbdc00b0573c7a48853ce2c6ddbdee]|RELEASE:[none|none]
 sparkfun/ADXL345_Eval: BRANCHES:[master:bd041475c4d0a9ae81a89b8dd498f043467ead22]|RELEASE:[none|none]
+sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa11f94e]|RELEASE:[pre-Arduino-1.6|adc2926f6c9872b6534079f21ce90784b7433215]
 sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;changes_Feb13:32ea01950876c3cdbe96bc23e5c2b2bd53921e84]|RELEASE:[none|none]
 sparkfun/Bugzilla-Extension-SparkFun: BRANCHES:[master:8c86130b12cc9c24c73f9aff11e31f6c2832ffec]|RELEASE:[none|none]
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab]|RELEASE:[none|none]
