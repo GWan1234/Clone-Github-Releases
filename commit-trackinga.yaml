@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 05:00
+commit-tracking: 2026-10-21 05:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2007,7 +2007,7 @@ retspen/ansible: BRANCHES:[devel:7bd57acda4eee70158eb48a7e0c5947fff82dfb9;stable
 retspen/asus-br1204fta-cover-led: BRANCHES:[main:5adca38099d605ce45cb5732c57bc94048073c5c]|RELEASE:[none|none]
 retspen/ceph-ansible: BRANCHES:[master:988010f2b8de59fabda8f1ff1f620bed27b2d045;wip-teuthology:b38325ca1f1d7c820f691d9877396b2df2cefa35;docker:da83423a42d8e3302fa77585015404bdab00b2f6]|RELEASE:[none|none]
 retspen/css: BRANCHES:[fix-cut-off-examples:051ef7f69d661e3f5c1d861ba8840bf46abafec4;release-12.2.1:cc303af7ad1e96fed469e08986de4161f7c3789d;storybook-publish-fix:77b1fa4f9f53eeea5e115361026165fe70280d65;master:5e3f7ebb48b0837fc69b1eda5875d7ea751b02a5;box-fix:d5a982e809e368834452a4055537cbe90eb9bbb7;remove_column_styles:b78e8ab308722aef09b410ab546aea1f77c817a8;variablize_dropdown:065614e522f17ac115105576ef2bbc9318dfb397;figma-file-links:f6ae78474f792b0cc994badebe739450e4b6a2aa;import-select-menu:26045da3ef9f1ab0a4c04a87cd2f5e69aed46987;fs_update:a24d0d4de43c3c20f78cc66b7b15073eaf92e08c]|RELEASE:[none|none]
-retspen/dji-rc-stick-monitor: BRANCHES:[main:8ec2a7acd3a33b4878b000996885b74d427f69f7]|RELEASE:[none|none]
+retspen/dji-rc-stick-monitor: BRANCHES:[main:8ec2a7acd3a33b4878b000996885b74d427f69f7]|RELEASE:[v0.5|8ec2a7acd3a33b4878b000996885b74d427f69f7]
 retspen/dotfiles: BRANCHES:[master:c9dfebb9976544f4e5b084ba5f350332bb4e12d0]|RELEASE:[none|none]
 retspen/homebrew-tap: BRANCHES:[main:5147c065289da0a0b68cd43b76a217a92f7d22fb]|RELEASE:[libvirt-10.10.0|b9ecca1eb146aa53934b8e7fb13bd9d273c95954]
 retspen/libvirt: BRANCHES:[master:49ea08e6d965e2a0624ef64dad034622b94ab23a;v1.2.19-maint:7d3b95b03880c8ade5f908dcb3d3c8b2d8e82a8f;v1.3.2-maint:e433008df4867b43085961a0f8181ac9401e707b;v1.3.1-maint:be5d96d547ec54bc35e5eab6472ec900184ae837;v1.3.0-maint:6ba6bb236a7e293007eb21013d69f42dd1fb21c8;v1.2.21-maint:badcb3662a5b28d3ed01c8ceff496e6197d12e3c;v1.2.20-maint:c5cc88c32320d46f27521aac69027baa3d426ff2;v1.3.3-maint:a663e28410aa853675b8b090a1ffafa7c8711ead;v1.3.4-maint:ab728b5658b307bcde90cf9e9d2e9c2cfb3e9de0;v1.3.5-maint:5632ca00ef8b75ce600ebb7255d392339c07b967]|RELEASE:[none|none]
