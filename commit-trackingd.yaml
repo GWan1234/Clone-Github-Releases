@@ -1409,6 +1409,7 @@ sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7
 sparkfun/RFID_USB_Reader: BRANCHES:[master:10b5ce56eadbe69ca935a5e70271084da820ecab;v20:335159a0fe5063f0c996dbcfa4ad40bfaf41d575]|RELEASE:[v10|4f1b3b3a2ca954e227055a93826480999dd949f1]
 sparkfun/RFM69HCW_Breakout: BRANCHES:[master:bbdeb90abd7d484141efe302b7735fe7d42c3550]|RELEASE:[none|none]
 sparkfun/RF_Links: BRANCHES:[main:1b2f68585281418a1cb2661713ab41a19623bc92]|RELEASE:[none|none]
+sparkfun/RF_Transceiver_Breakout-RFM22B: BRANCHES:[master:47f1c1e3d3036f3c603fbbc8e735248a733c89ab]|RELEASE:[none|none]
 sparkfun/RHT03: BRANCHES:[master:d026dd4c932ab27b6abb6d9a172421399594148a]|RELEASE:[none|none]
 sparkfun/RJ45_Breakout: BRANCHES:[master:ae2272a308042c9ecfb817ddc7dbb75d14479425]|RELEASE:[none|none]
 sparkfun/RN-52: BRANCHES:[master:49f849c6b5fd7928e28cc8451e0e31808c362c51]|RELEASE:[none|none]
