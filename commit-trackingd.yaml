@@ -1272,6 +1272,7 @@ sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a
 sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
 sparkfun/SD-MMC_Breakout: BRANCHES:[master:d472cfaa8c39cf9efc94f010e50b85bc87eefc7b]|RELEASE:[none|none]
 sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c4]|RELEASE:[pre-1.6|4c5d9565b4a106118b47046dd6803769a36dc867]
+sparkfun/SFE-Lunchbox: BRANCHES:[master:3c88f6254194e62cf051334e5193cc3c1fab9d4a]|RELEASE:[none|none]
 sparkfun/SFE_CC3000_Library: BRANCHES:[master:e69f5f526b0d13dc28a03f5cd17bbb167f9a47a2]|RELEASE:[none|none]
 sparkfun/SFE_Eagle_Bundle_Files: BRANCHES:[master:b769e378cae0ef3cfba7067570c279ac58abfb4d]|RELEASE:[none|none]
 sparkfun/SFE_Reel_Dispenser: BRANCHES:[master:38aaaed2055e8bb6d8ce02e90037526c49417b24]|RELEASE:[none|none]
