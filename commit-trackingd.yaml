@@ -1385,6 +1385,7 @@ sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10]|REL
 sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-vagrantfile:ddefedf49e415f246de6137b796ab036808fcaf6;7.0:206640c0c94ae34b25c20d6d04ec8481590ffbd4;6.4:30b1b6102663893ba1b9cf891b69d7e6ce53bf0c]|RELEASE:[none|none]
 sparkfun/phant-arduino: BRANCHES:[master:be0b9a9de0f34d9fec64dc97754ae60a3ba303f8]|RELEASE:[v1.0.0|9c7a69c46dfe7d3712fc9e89a388ab46753e1df4]
 sparkfun/phant-docs: BRANCHES:[gh-pages:d73c49cd151113d59f115efdc840315e3c49329b]|RELEASE:[none|none]
+sparkfun/phant-input-udp: BRANCHES:[master:5b34b646a13059d31226c172f3389638c87a99ef]|RELEASE:[none|none]
 sparkfun/phant-keychain-hex: BRANCHES:[master:78aad4f1b99baee35a7d83bf0972fabe60a5a0bc]|RELEASE:[none|none]
 sparkfun/phant-manager-http: BRANCHES:[master:98359e976651b3def960ecde1d1fdab32575b23e;http_basic:1c2b65771b4f342c99a651d8e5122cbd9ff546da]|RELEASE:[none|none]
 sparkfun/phant-manager-sparkfun: BRANCHES:[master:b565d3e630a780e95483d085f794054d47aa7232;remove_piwik:2ed58ce7045499e38c499e4e9e5c25a1bf756ce2;config:84407e0ed69eb5e76da0d8f9c2efddd462d46a3a]|RELEASE:[none|none]
