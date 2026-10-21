@@ -1585,6 +1585,7 @@ sparkfun/QwiicBus_MidPoint: BRANCHES:[main:4a813ba1ff6069cf9f8473cf5f2bc29935edf
 sparkfun/Qwiic_ADXL313_Py: BRANCHES:[main:06ea84251145c54cfa0fb05f876b6cd840bf4404;example4:ee7c7ddeaddcbbb9915d65cb905373635e099e37]|RELEASE:[v0.0.6_test|06ea84251145c54cfa0fb05f876b6cd840bf4404]
 sparkfun/Qwiic_Accelerometer_MMA8452Q: BRANCHES:[master:06ba5d10b21cc80587420c7c02cbcea12b0caaa2]|RELEASE:[none|none]
 sparkfun/Qwiic_Adapter: BRANCHES:[master:3c810f09ea89ea3e10fd5907076c6cccff8b224a]|RELEASE:[none|none]
+sparkfun/Qwiic_Air_Quality_Sensor_SGP40: BRANCHES:[main:c405a84aeb072193aa568cc4ae3a939b994d3244]|RELEASE:[none|none]
 sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280: BRANCHES:[master:14709d3629313938035690e38a8976b03e06c1bb]|RELEASE:[none|none]
 sparkfun/Qwiic_BME280_CCS811_Combo: BRANCHES:[master:24f21ee7b71bf2f07594b96909ee8045eb931575]|RELEASE:[none|none]
 sparkfun/Qwiic_Button: BRANCHES:[master:e89a82fe2ddb293bfe0d6d9f63ccf4782a77c359]|RELEASE:[none|none]
