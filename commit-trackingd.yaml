@@ -1754,6 +1754,7 @@ sparkfun/USB_miniB_Breakout: BRANCHES:[master:d2b45037f4f6e2820804e8c608cc4a7e09
 sparkfun/Uh-Oh_Battery_Indicator: BRANCHES:[master:ecafdda48ae8fff8eabf3bee9479293c327bafb3]|RELEASE:[none|none]
 sparkfun/VKey_Voltage_Keypad: BRANCHES:[master:b0409586571a6afea594d66e71946f5614db6370]|RELEASE:[none|none]
 sparkfun/VReg_Temp_Mobile_App: BRANCHES:[master:00896893372e621f4ce52256b34a883979fbdaed]|RELEASE:[none|none]
+sparkfun/Variable_Load: BRANCHES:[master:71ae9ecd46493cfdd94b00d553651951da92e3f5]|RELEASE:[none|none]
 sparkfun/Venus_GPS_Logger_SMA: BRANCHES:[master:bcc28bdffeddb8b6f835e33ed646115f40bc449b]|RELEASE:[none|none]
 sparkfun/Venus_GPS_SMA_Connector: BRANCHES:[master:73fda311542b6cdfa592c9072dd4245efad3d7af]|RELEASE:[none|none]
 sparkfun/Vernier_Interface_Shield: BRANCHES:[master:822ee6d91f33a21e1176481afbe21bb95be26a0a]|RELEASE:[none|none]
