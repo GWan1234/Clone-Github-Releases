@@ -1114,6 +1114,7 @@ sparkfun/ADXL337_Breakout: BRANCHES:[master:e5f5c9827493216cb48484b1215ecde2911b
 sparkfun/ADXL345_Breakout: BRANCHES:[master:8e83a624bcaea0a3071885c58634b56fbefa346d]|RELEASE:[none|none]
 sparkfun/ADXL345_Eval: BRANCHES:[master:bd041475c4d0a9ae81a89b8dd498f043467ead22]|RELEASE:[none|none]
 sparkfun/ADXL362_Breakout: BRANCHES:[master:59a85587537e4fc45d4ad3c78782bf165ba9caac]|RELEASE:[none|none]
+sparkfun/APDS-9960_RGB_and_Gesture_Sensor: BRANCHES:[master:a7f08275b6e7ac03d1b88dd20fd5c58063f0e6b7]|RELEASE:[V_H1.0_L1.4.4|770e2b0216cc6ba8626873b376e1b122e80ec371]
 sparkfun/AT42QT1010_Capacitive_Touch_Breakout: BRANCHES:[master:333b46787981af4b0e9b28c46165f292fdfa80b6]|RELEASE:[HW_v1.0_FW_v1.0|a1d09227f57d31b224ee6de3195bcf5f69d8f535]
 sparkfun/ATmega128RFA1_Dev: BRANCHES:[master:62d342467896650edb38c47651dddaa0aa11f94e]|RELEASE:[pre-Arduino-1.6|adc2926f6c9872b6534079f21ce90784b7433215]
 sparkfun/Analog_Digital_MUX_Breakout: BRANCHES:[master:f7f2eeb117617e67ab8442edc7ba767d19f0fd75]|RELEASE:[none|none]
