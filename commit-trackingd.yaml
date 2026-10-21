@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:09
+commit-tracking: 2026-10-21 09:10
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1116,6 +1116,7 @@ sparkfun/BC127_Breakout_Board: BRANCHES:[master:54439d5d8feb4152aea897af669a206f
 sparkfun/BMP180_Breakout: BRANCHES:[master:f00c5e673de1c8331d2e88312d9f837cf7fbb25b;V20:1a7dba14bc455018da5a46c2ed8904702eecc99a]|RELEASE:[none|none]
 sparkfun/BigTime: BRANCHES:[master:86c817220366889f3d0a92acbbdc802f67de6b70;changes_Feb13:32ea01950876c3cdbe96bc23e5c2b2bd53921e84]|RELEASE:[none|none]
 sparkfun/Big_Easy_Driver: BRANCHES:[master:675d8dfd5d6cec1a6da35859dd267557b04cf717]|RELEASE:[none|none]
+sparkfun/Binary_Blaster: BRANCHES:[easy_mode_for_learning:50a59460cb302312fcf7f7735aaa604a4184d616;master:23d7ff5ab64d74801fd9966252d231124393bf54]|RELEASE:[none|none]
 sparkfun/BlueSMiRF: BRANCHES:[master:c2c5533f4da312db30b65d03edacca65380036f0]|RELEASE:[none|none]
 sparkfun/Bluetooth_Mate: BRANCHES:[master:dd06faa22554e0b6483e261b29d2deafe047c2dc]|RELEASE:[none|none]
 sparkfun/Bluetooth_Module_Breakout: BRANCHES:[master:070c8605843f9be64d80810e17b3da0f0a915d16]|RELEASE:[none|none]
