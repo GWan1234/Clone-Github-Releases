@@ -1110,6 +1110,7 @@ sparkfun/Bugzilla-Extension-SparkFun: BRANCHES:[master:8c86130b12cc9c24c73f9aff1
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab]|RELEASE:[none|none]
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
+sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
 sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a596b3b8f561c266cf410b5]|RELEASE:[none|none]
 sparkfun/Simon-Says: BRANCHES:[master:32c7ea04ac092437789a491e4db02f834e090411;Trampolines:e6c5d050e62b349b4a0e230f2eaf0490ec630b8c]|RELEASE:[none|none]
