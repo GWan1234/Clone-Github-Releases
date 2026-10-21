@@ -1228,6 +1228,7 @@ sparkfun/MPU-6050_Breakout: BRANCHES:[master:969bc827e21e1dafac3bdbef77d19107fbd
 sparkfun/MPU-9150_Breakout: BRANCHES:[master:250e1be403af5271d08a2ba83a52755dba8836c1]|RELEASE:[none|none]
 sparkfun/MS5803-14BA_Breakout: BRANCHES:[master:06fa9f23e3c6b21b5588d30fa55342043b2a4e08]|RELEASE:[V_H1.0|48ae7bd6e93f9fd4b4186732e4125b8cd212db70]
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
+sparkfun/MagJack_Breakout: BRANCHES:[master:66261e02352ee2b9b80ca38055625bc295e3a9e8]|RELEASE:[none|none]
 sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164b870;hw_dev:be3fc290f78989ad80485bd678f13bf5291f0d06]|RELEASE:[none|none]
 sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8]|RELEASE:[none|none]
 sparkfun/MiniGen: BRANCHES:[master:526e02d6797b4772be25d8a9909f19bacea3c6c9]|RELEASE:[none|none]
