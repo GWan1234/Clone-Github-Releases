@@ -1179,6 +1179,7 @@ sparkfun/Decade_Resistance_Box: BRANCHES:[master:830fc1bb2708a124464ff85549bb774
 sparkfun/Digital_Sandbox: BRANCHES:[master:7beb6e06b7f9e4145ad74d121e28df897f0e7bab;logo_fix:7683685abedc3adab33bc630f776a8669231947a;TMP_3D:17d12b57e88859b82a4beab8d445594fe389471d;v11:c8ce76a55c285f5479956e3bbb92fb984acc3ebf]|RELEASE:[none|none]
 sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102: BRANCHES:[master:36ba5a6a268163e38cb3e0a89b786ba80f15c143;V_H13.0:3e8ac2bf1ae5071fe913a39adc6083234315c0e5]|RELEASE:[none|none]
 sparkfun/Dino_Eggs: BRANCHES:[master:94ef021407d4e95384610a2a81cff85fd9f32325;gh-pages:3e66a9051aa6219a830e02c2f45f06cc090c5094]|RELEASE:[none|none]
+sparkfun/EL_Escudo_Dos: BRANCHES:[master:840dd9a8fd8b55499abd1aee8c2c1400536fc49d]|RELEASE:[none|none]
 sparkfun/EL_Sequencer: BRANCHES:[master:e62f6e45307829861dc867829b1005f063d0d9ab;V_2.3:cf266f15fe97344d780c01e452f2a7eaeb481889]|RELEASE:[none|none]
 sparkfun/ESP8266_Thing: BRANCHES:[master:9f412e78a48587f9689b4d6eafaf941f308822ea]|RELEASE:[none|none]
 sparkfun/ESP8266_WiFi_Shield: BRANCHES:[master:749e0c4b562e96147a4b3361443263421a739eb5]|RELEASE:[none|none]
