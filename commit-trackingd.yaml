@@ -1890,6 +1890,7 @@ sparkfun/nRF2401A_Transceiver-Chip_Antenna: BRANCHES:[master:2759a7ae40724f2c3bf
 sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94fa60809b415f70009c8b32]|RELEASE:[none|none]
 sparkfun/nRF52832_Breakout: BRANCHES:[main:5ec26d8fab88fd07b2bd83e1ec6898b84da76ae5]|RELEASE:[none|none]
 sparkfun/nRF52832_Breakout_Demo: BRANCHES:[master:362a06108e00fc542424c39a92246f30d3598fbc]|RELEASE:[none|none]
+sparkfun/nRF52840_Breakout_MDBT50Q: BRANCHES:[master:46f154b42a57c1eed5dd1d212e41cef3c25b264b;PaulZC_MicroMod_Prep:b7a8a0553efecbebd0191cd90f119f286746e81d]|RELEASE:[x04|b7a8a0553efecbebd0191cd90f119f286746e81d]
 sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10]|RELEASE:[none|none]
 sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-vagrantfile:ddefedf49e415f246de6137b796ab036808fcaf6;7.0:206640c0c94ae34b25c20d6d04ec8481590ffbd4;6.4:30b1b6102663893ba1b9cf891b69d7e6ce53bf0c]|RELEASE:[none|none]
 sparkfun/phant-arduino: BRANCHES:[master:be0b9a9de0f34d9fec64dc97754ae60a3ba303f8]|RELEASE:[v1.0.0|9c7a69c46dfe7d3712fc9e89a388ab46753e1df4]
