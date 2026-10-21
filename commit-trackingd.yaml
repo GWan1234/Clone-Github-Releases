@@ -1925,6 +1925,7 @@ sparkfun/SparkFun_ICM-20948_ArduinoLibrary: BRANCHES:[release_candidate:32cf0614
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3]|RELEASE:[none|none]
 sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160: BRANCHES:[main:6e53479ba84b3efeb097c745669291de00012ed7;docs:8dc24e3c26f03d10ae727846d56e069314f7ffd8]|RELEASE:[none|none]
 sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library: BRANCHES:[main:a1b756e5417343bb8156e9047c451ff41f6d2c90]|RELEASE:[v1.1.0|a1b756e5417343bb8156e9047c451ff41f6d2c90]
+sparkfun/SparkFun_Indoor_Air_Quality_Sensor-SCD41-SEN55: BRANCHES:[main:2ec7cb64fdfee0efc97fcb05337cf0b5836ce06d;gh-pages:bf854ec13214f78ab5477840092f11c3e2af181c]|RELEASE:[none|none]
 sparkfun/SparkFun_IoT_Brushless_Motor_Driver: BRANCHES:[gh-pages:0b3866d397d223800d267ec3f1edbc05f5af9eb0;main:dc769199c2106d3e00daf72636e0bca1ebe4baf3]|RELEASE:[v10|836a6cbd818d80235609188fcf5350feb4f0ae57]
 sparkfun/SparkFun_IoT_RedBoard-ESP32: BRANCHES:[main:72e78f98fb28f84d8589f292696660ac3f8c1259]|RELEASE:[none|none]
 sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library: BRANCHES:[main:549d7d50ff038afb110b776264080c3a2875e770;release_candidate:9fd48f03bb08a1589a96b6189b6715986a714489]|RELEASE:[v3.1.0|549d7d50ff038afb110b776264080c3a2875e770]
