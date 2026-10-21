@@ -1446,6 +1446,7 @@ sparkfun/SparkFun-Eagle-Libraries: BRANCHES:[main:2354daeed58cd6bcfcb97f2669765d
 sparkfun/SparkFun_BC127_Bluetooth_Module_Arduino_Library: BRANCHES:[master:cd836547687ecc9c915ed0727fb12471e35cdfd4]|RELEASE:[none|none]
 sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library: BRANCHES:[master:f76cabfc458f883d6bca05aef13c6a1cbe98279d]|RELEASE:[none|none]
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9]|RELEASE:[none|none]
+sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2db219f3095f89b75131de]|RELEASE:[none|none]
 sparkfun/SparkFun_MetaWatch_Library: BRANCHES:[master:ecf820fc546185f2362526b9eb700484a9274518]|RELEASE:[none|none]
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c]|RELEASE:[none|none]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
