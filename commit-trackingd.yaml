@@ -1510,6 +1510,7 @@ sparkfun/Qwiic_Hat_for_Raspberry_Pi: BRANCHES:[v30:556e726883680827cb68ff06bfdda
 sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753: BRANCHES:[master:bba6d9cf4ac79bd573f39fae4c4ac378468edfe0]|RELEASE:[none|none]
 sparkfun/Qwiic_Magnetometer_MLX90393: BRANCHES:[master:9167ef00efc6b20c69a5dd715c359d926beadd56]|RELEASE:[none|none]
 sparkfun/Qwiic_Micro_OLED: BRANCHES:[master:c3ee0d437bd69ed8c1e5bce32e425c81365d2e21]|RELEASE:[v1.0|2d9c62497590fa458a4e15f8baf91f81ced34926]
+sparkfun/Qwiic_OpenLog: BRANCHES:[master:f3f6a3ec3f70fe4c14612b38fac360f26ee79a4c]|RELEASE:[v3.0|995ece5de00661b23e20ab84e70f8724daa444f1]
 sparkfun/Qwiic_RTC_Module: BRANCHES:[master:7a591ec26134ed17d743fb25d70210e18e025673]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Arduino: BRANCHES:[v11:6b0caeb5bf695d0aafa4904d23b4a3ab86315871;master:6b0caeb5bf695d0aafa4904d23b4a3ab86315871]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Photon: BRANCHES:[master:a9c7f9f2f8fd4b58a994f84d0dae2df63390fa6d]|RELEASE:[none|none]
