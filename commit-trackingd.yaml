@@ -1212,6 +1212,7 @@ sparkfun/ESP32_Miscellany: BRANCHES:[master:a854269104a25ddc7c1e1849b14892d56f25
 sparkfun/ESP32_Motion_Shield: BRANCHES:[master:e3af2a1d5dc81b891d677c65142892e82ab1cbbc]|RELEASE:[v1.0.0a|6ba2ad3b8046fc753e67877fe5ee9a09bb941a81]
 sparkfun/ESP32_Power_Control_Shield: BRANCHES:[master:b033add600594921b53d28caea93388d72203d67]|RELEASE:[none|none]
 sparkfun/ESP32_Thing: BRANCHES:[master:fb2dac4c1c493854c3db8a74acc9377a38db2b4a;ESP31b_Advanced:da78bd988c1359571d35b94d8e3e4566fa636243]|RELEASE:[none|none]
+sparkfun/ESP32_Thing_Plus: BRANCHES:[master:ed6d941070fa7756af6d2e24bdcfed8e27b2734a]|RELEASE:[v2.0|f788279e10caeafca165876d3b879107229857df]
 sparkfun/ESP8266_Thing: BRANCHES:[master:9f412e78a48587f9689b4d6eafaf941f308822ea]|RELEASE:[none|none]
 sparkfun/ESP8266_Thing_Dev: BRANCHES:[master:e2f5277a9f49694436a95733a86f40216b845bbd]|RELEASE:[none|none]
 sparkfun/ESP8266_Thing_Dev_4H: BRANCHES:[master:99864ff90c9da31473bb45bb3f503a77d10d6575]|RELEASE:[none|none]
