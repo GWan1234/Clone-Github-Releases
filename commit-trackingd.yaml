@@ -1124,6 +1124,7 @@ sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419
 sparkfun/Color_Light_Sensor_Evaluation_Board: BRANCHES:[master:08ef0bf23b76ea32c53ad554510784822b18e42d]|RELEASE:[none|none]
 sparkfun/Copernicus_II_DIP_Module: BRANCHES:[master:c756306e9f97ceefd6b658c9a223a3a111e93475]|RELEASE:[none|none]
 sparkfun/DangerShield: BRANCHES:[master:fd65425fea18a942803adf12c6c40124c9c397bf;readme_cleanup:da949361f9a4a3e0e3a11e2271037c0231e1c785]|RELEASE:[none|none]
+sparkfun/DeadOn_RTC: BRANCHES:[master:c5d6d0ee0d7e84953a3c0a122b234d60a61bf15d]|RELEASE:[none|none]
 sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102: BRANCHES:[master:36ba5a6a268163e38cb3e0a89b786ba80f15c143;V_H13.0:3e8ac2bf1ae5071fe913a39adc6083234315c0e5]|RELEASE:[none|none]
 sparkfun/Eagle_Class_Tools: BRANCHES:[master:8226ac074c6fc5f99eb76aa3cbb8fee9f3fb6549]|RELEASE:[none|none]
 sparkfun/FT231X_Breakout: BRANCHES:[master:d2e1c4d47918c22910eefd6794f0705f62567c08;QC-Rev:336256d4fd8e93d15fb66887d5956cd1d0520fb4]|RELEASE:[none|none]
