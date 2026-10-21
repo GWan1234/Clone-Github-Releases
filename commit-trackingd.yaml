@@ -1721,6 +1721,7 @@ sparkfun/SparkFun_LilyPad_Simblee: BRANCHES:[master:91246f96067686128fa44e82f8ec
 sparkfun/SparkFun_Line_Follower_Array_Arduino_Library: BRANCHES:[master:29146627b9eda56a58f48e0abae9e124bb2415a8]|RELEASE:[none|none]
 sparkfun/SparkFun_Logic_Level_Shield: BRANCHES:[master:f3c47d21c0d626079eaf0d2e3bca601db9a7eb59]|RELEASE:[none|none]
 sparkfun/SparkFun_Lumenati_Code: BRANCHES:[master:35bb92baf6d8b0380b72859136fbbee597fe937c]|RELEASE:[none|none]
+sparkfun/SparkFun_LumiDrive_Example_Code: BRANCHES:[master:6d111d75e2b671ddd8ef19870f17dc023d62e7bf]|RELEASE:[none|none]
 sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library: BRANCHES:[master:ea89f4ce5a5b17dfa22475b013081f7683685f3f]|RELEASE:[v1.0.3|ea89f4ce5a5b17dfa22475b013081f7683685f3f]
 sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5d9341ca1b85079c2063340]|RELEASE:[none|none]
 sparkfun/SparkFun_MAX3010x_Sensor_Library: BRANCHES:[master:72d5308df500ae1a64cc9d63e950c68c96dc78d5]|RELEASE:[v1.1.2|72d5308df500ae1a64cc9d63e950c68c96dc78d5]
