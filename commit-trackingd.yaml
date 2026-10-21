@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 10:47
+commit-tracking: 2026-10-21 10:48
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1617,6 +1617,7 @@ sparkfun/Sparkfun_GPS_Speedometer: BRANCHES:[master:115a8a34b04c063b056c84417eb2
 sparkfun/Sparkpunk: BRANCHES:[master:dcc9836a229a5fc89475ff87f20d26f68e7e2f39]|RELEASE:[V10|4566b04fb0d5cfe1b7b1ab2148d8218993fd9a78]
 sparkfun/Sparkpunk_Sequencer: BRANCHES:[master:236d6e79ec916e1cd56b950b063ad0fda0d06765]|RELEASE:[none|none]
 sparkfun/Spectacle_Button_Input_Board: BRANCHES:[master:ace0f5096ef834001e78aad4ec57f8ce1352cfe9]|RELEASE:[none|none]
+sparkfun/Spectacle_Director_Board: BRANCHES:[master:34ab748e968cc0cec4bd4b4dc0ccf6d8d91e9f73]|RELEASE:[none|none]
 sparkfun/Spectrum_Shield: BRANCHES:[master:192ccfc26bfb4e811f4de1cfec2601975889c7cb]|RELEASE:[none|none]
 sparkfun/Speed_Trap: BRANCHES:[master:5b5479ac940183309d3369464be7430a10adbcd0]|RELEASE:[none|none]
 sparkfun/Spooky_Sketches: BRANCHES:[master:e551519866b32644bb6401e1c4e5c04f6f9169fb]|RELEASE:[none|none]
