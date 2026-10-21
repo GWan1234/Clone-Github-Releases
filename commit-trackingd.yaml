@@ -1602,6 +1602,7 @@ sparkfun/SparkFun_HIH4030_Arduino_Library: BRANCHES:[master:ccbcdff2ab1d0c9ff329
 sparkfun/SparkFun_HMC6343_Arduino_Library: BRANCHES:[master:032f111dfbc4d08353f7219cfa2102b778570337]|RELEASE:[v1.1.2|032f111dfbc4d08353f7219cfa2102b778570337]
 sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library: BRANCHES:[master:3886ebd95291e223ec3319da37eaaf3eb0e7e47b]|RELEASE:[none|none]
 sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library: BRANCHES:[master:1b55bec89f0d8f990ad36e88acb5fcb5710d371c]|RELEASE:[v1.1.1|bfe82abed6dc39762d532e7b4373f241088b6d01]
+sparkfun/SparkFun_I2C_GPS_Arduino_Library: BRANCHES:[master:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc]|RELEASE:[v1.0.6|a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc]
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3]|RELEASE:[none|none]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9]|RELEASE:[none|none]
 sparkfun/SparkFun_LIS3DH_Arduino_Library: BRANCHES:[master:2705a8a28addc0f50b3c36a016eb516b17705fed]|RELEASE:[v1.0.3|829c319319edf14e29b8f26a25ae79f48c7e6856]
