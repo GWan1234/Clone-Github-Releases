@@ -1842,6 +1842,7 @@ sparkfun/SparkFun_MiniMoto_Arduino_Library: BRANCHES:[master:1b42fbbbe25c134150f
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
 sparkfun/SparkFun_PCA9536_Arduino_Library: BRANCHES:[master:b7366c6377c8d536a8aedac1a13c74209523eca5]|RELEASE:[v1.2.2|b7366c6377c8d536a8aedac1a13c74209523eca5]
 sparkfun/SparkFun_PCB_Ruler: BRANCHES:[master:cc8476629d4cb2897ed51f13862e8dbb492fafc9;SparkFun-Ruler:45822ec59afb47d0cf7cc2da59e9f4f37363a2cd]|RELEASE:[none|none]
+sparkfun/SparkFun_PHT_MS8607_Arduino_Library: BRANCHES:[main:ff730a72e3126df5ff3838b9ff3f9ee4a0e96741]|RELEASE:[v1.0.5|ff730a72e3126df5ff3838b9ff3f9ee4a0e96741]
 sparkfun/SparkFun_PL-N823_Arduino_Library: BRANCHES:[master:b284ba1e5f44627e327fb3acd8a869cb67a90b6a;will2055-patch-1:805badad142c0a91711a93e64bb82b926dcc606d;will2055-examples-1:8664e71fc3555989151724a614232b600ff336eb]|RELEASE:[none|none]
 sparkfun/SparkFun_PWM_Block_for_Edison_CPP_Library: BRANCHES:[master:ba72fa7c1605d71fb98cdd8f15f51cb81fcc9652]|RELEASE:[none|none]
 sparkfun/SparkFun_Phant_Particle_Library: BRANCHES:[master:7ffa389e608f93796a8a739681e8773541c335ab]|RELEASE:[none|none]
