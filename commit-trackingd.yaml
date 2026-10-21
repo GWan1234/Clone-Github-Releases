@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 11:53
+commit-tracking: 2026-10-21 11:54
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1995,6 +1995,7 @@ sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd
 sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ffa]|RELEASE:[v0.0.9|a26130e30d50d7599f7ebe032d427afab426aeaf]
 sparkfun/pxt-gator-environment: BRANCHES:[master:99cca7ae490f18df311281757fd65b8bc93e93df]|RELEASE:[v1.1.1|a68c91cdf89fda5c37d3ee044a186051a9ec0c14]
 sparkfun/pxt-gator-light: BRANCHES:[master:e31cd4a8048c4d7944a3c22ecb4a60748d708710]|RELEASE:[none|none]
+sparkfun/pxt-gator-particle: BRANCHES:[master:2668b8dc0d69d7de43df384e633e13ae340bbca1]|RELEASE:[v1.1.6|2668b8dc0d69d7de43df384e633e13ae340bbca1]
 sparkfun/pxt-gator-temp: BRANCHES:[master:f3bfdeeae2f5d27df6bd22550256a9f3381993dc;bears_and_bears:272d4c1c6838a45fb9dec58f39c9849adcb41c74;test:8ec2c6aae0dc9ea1f52275d7f54abbde568038ec;Working_Copy:995b4a92627458794992fb008e0f0e92750bd596]|RELEASE:[none|none]
 sparkfun/pxt-moto-bit: BRANCHES:[master:a7151bd5491db792afc4dab141a30d357086d816;tweaks:3cccc10b03bf656fc6e75255ad6f426512843a5d]|RELEASE:[none|none]
 sparkfun/pxt-weather-bit: BRANCHES:[master:119ab5b4f21717e3a86cd3d8f928ea585d00817b;revert-18-master:ae7f637cd4376d07dbc392b0b8ea023fb083a3c6;nomanagedbuffer:1ea0eb86db80e21a8eb924797894c51eb3df8893;refresh:b894d49cacaf72bf3cda5ad51eb8e7e4445bec28]|RELEASE:[none|none]
