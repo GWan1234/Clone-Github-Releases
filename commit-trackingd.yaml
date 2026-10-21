@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:55
+commit-tracking: 2026-10-21 13:56
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2007,6 +2007,7 @@ sparkfun/SparkFun_Qwiic_Accelerometer_BMA400: BRANCHES:[main:2751c15eec8f50759e3
 sparkfun/SparkFun_Qwiic_Barometer_LPS28DFW: BRANCHES:[main:b012d97cd56bf5a8a2a540c1f81aa75693716141]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Button_Arduino_Library: BRANCHES:[master:52287080ba327bc7ded513bf42aef665627858d1]|RELEASE:[v2.0.6|52287080ba327bc7ded513bf42aef665627858d1]
 sparkfun/SparkFun_Qwiic_CO2_Sensor_SCD4X: BRANCHES:[gh-pages:7f8c09bf6f93b6f521043c312be2e1ec3fdda118;main:cc7038afb5866ae185909394f119b9622c563c26;SFEMark-patch-1:8bdc71c86ca3cc50bf5cefa1621a2b7191265375]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_CO2_Sensor_XENSIV_PAS: BRANCHES:[gh-pages:27bdc4fd058d8b4771179a9a4f74be319250737a;main:08a65f08c40e3a63d90a3495de2a7a21fed05588;loricrotser-patch-1:a6a2535058a8acedc83557a9dc30e17a73a7f0f9;SFEMark-patch-1:963d17dd6bc35352c3e3c54659112e57c543da59]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa]|RELEASE:[v1.0.0|7096084d57a43cf8c038ed6b9087a4903b64469c]
 sparkfun/SparkFun_Qwiic_Distance_Sensor-VL53L4CD: BRANCHES:[main:ce6e486fc6c8711b7bd5d1111597bd7c8a209409]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Fan_Arduino_Library: BRANCHES:[main:f3eed9fc159f0d5556690acb7679e1dae9f5ac5b]|RELEASE:[v1.2.1|f3eed9fc159f0d5556690acb7679e1dae9f5ac5b]
