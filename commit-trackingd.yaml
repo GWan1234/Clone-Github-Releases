@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:55
+commit-tracking: 2026-10-21 09:56
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1230,6 +1230,7 @@ sparkfun/LS20126_GPS_Breakout: BRANCHES:[master:7d9158c4c07b4d11d7ae7d85ccdbe5ac
 sparkfun/LSM303_Breakout: BRANCHES:[master:1175ad5cbb5fd221f295f9503a112befbde60392]|RELEASE:[none|none]
 sparkfun/LSM9DS0_Breakout: BRANCHES:[master:eb90307372db802a90a6669f1279db45e10569bb]|RELEASE:[none|none]
 sparkfun/LTC4150_Coulomb_Counter_BOB: BRANCHES:[master:4646af3c08884bc62905b49d4bd7e6d80f458d17]|RELEASE:[v1.0|4646af3c08884bc62905b49d4bd7e6d80f458d17]
+sparkfun/Large_Digit_Driver: BRANCHES:[master:10e7c4d8e63a7fee790a0cef35d12d5dc099fbbd]|RELEASE:[none|none]
 sparkfun/LiPower-Shield: BRANCHES:[master:2f3379fc410475696d495cc20a2a21de74dd5a41]|RELEASE:[none|none]
 sparkfun/LiPower_Boost_Converter: BRANCHES:[master:5e7cd12443b3bc1273141299cddf84745ea4047c]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_Simple: BRANCHES:[master:d5d61fea9830db56d8cd3254306adcc86d66e064;v26:d1f912eb7c8374e159d9d917523104662614a25e]|RELEASE:[none|none]
