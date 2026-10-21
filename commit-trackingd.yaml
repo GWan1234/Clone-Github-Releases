@@ -1754,6 +1754,7 @@ sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45f
 sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f3418ae340f63b05]|RELEASE:[V_1.0.0|4e221395aa8e74332f5f8648f3418ae340f63b05]
 sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badffd3d5da44be33b7d930189fb1f5b1]|RELEASE:[v1.0.5|615228de818cf1052ef58ef0ef9f5c2381ea35dd]
 sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library: BRANCHES:[main:6feda012dc8f8b9f811e73b6e95553579e0d0a75]|RELEASE:[v3.0.2|d8e064163efe24fba06ba940faa0d7a77253f8e9]
+sparkfun/SparkFun_Qwiic_RFID_ID-XXLA: BRANCHES:[master:78989e5954a674eb3848a7ec43b353622003aab9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Twist_Arduino_Library: BRANCHES:[master:4feea8a4a11549f910dd84d261c9928e612bc8f2]|RELEASE:[v1.0.4|4feea8a4a11549f910dd84d261c9928e612bc8f2]
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
 sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5]|RELEASE:[1.0.0|cde2d2ed820fbf4885912417152cbdff506a2323]
