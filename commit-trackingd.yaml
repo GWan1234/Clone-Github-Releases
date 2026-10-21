@@ -2174,6 +2174,7 @@ sparkfun/SparkFun_Trackuino: BRANCHES:[1.52:825c5724dd842e6334b1c7b1c6c4f7dd53a7
 sparkfun/SparkFun_Tristimulus_Color_Sensor-OPT4048: BRANCHES:[gh-pages:f237acc62465b2b1e8e6ec1a53f48120c9a2664d;main:e9f300b54d0f1a3485fb81930411f79493a0acc3]|RELEASE:[none|none]
 sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library: BRANCHES:[main:98324f16c96112eadca095a32ae5f029da5e0d6c]|RELEASE:[v1.0.0|e66aaaf000dd3c1ab519a0224e97ff56c8f0afaf]
 sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic: BRANCHES:[v23:8f9522802bf6c5175128cabdaadb0da11ae23c34;main:336eb78afcebdcea91bf6caa554670940aae7bd5;v22:d10494d7211b472e06a01ed49d1e988f12007047]|RELEASE:[V21|37f72380bd46caa9ab75d793154c6e9f378153a6]
+sparkfun/SparkFun_UM980_Galileo_HAS_E6_Convergence_Test: BRANCHES:[main:11ff74a0b36c2465d04570cb0bdc16356c3f8093]|RELEASE:[none|none]
 sparkfun/SparkFun_UM980_Triband_GNSS_RTK_Breakout: BRANCHES:[gh-pages:3535b417bd911a68aa52fd47936e7c79cb3d3636;main:13c0f4501e329558cfd79a09c5c808e27b1ba38b]|RELEASE:[none|none]
 sparkfun/SparkFun_USB-C_Host_Shield: BRANCHES:[gh-pages:bce49e5a5853f219c5aa28a64fd31c7a68c3fa84;main:90f57c16beecc43d798cd6d3bb706b5d1f3fd19e]|RELEASE:[v10|f0576a508817b70d0b8c09e0f005336fbccdc716]
 sparkfun/SparkFun_USB-C_Vertical_Breakout: BRANCHES:[main:4c7334fc922f8f0e9de07536f063adfe0231c05f]|RELEASE:[none|none]
