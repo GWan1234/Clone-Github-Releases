@@ -1860,6 +1860,7 @@ sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badff
 sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library: BRANCHES:[master:3492f4017a8798cf96d5ef3673f0751b9a878a7f]|RELEASE:[v1.0.4|3492f4017a8798cf96d5ef3673f0751b9a878a7f]
 sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c204fd86e037201]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library: BRANCHES:[main:6feda012dc8f8b9f811e73b6e95553579e0d0a75]|RELEASE:[v3.0.2|d8e064163efe24fba06ba940faa0d7a77253f8e9]
+sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library: BRANCHES:[main:43c3b7a63318e14834533c0b089be079290990ba;release_candidate:e2d4c7680ada5837d9a20be3c827085a49aa0b6d]|RELEASE:[v1.0.2|e2d4c7680ada5837d9a20be3c827085a49aa0b6d]
 sparkfun/SparkFun_Qwiic_RFID_Arduino_Library: BRANCHES:[master:a4ae662d3908ce33fe2592a99b02ec147f977411;v1.2.0_Adress_Change:2d25ffb4472cebc66760b6a53f6837422a443a93;ReduceExampleDirectory:5e88041910344acaa9de78deecce5b5616581110]|RELEASE:[v1.1.6|265bd6d5722621889b285c8ee5b112bf4b32095e]
 sparkfun/SparkFun_Qwiic_RFID_ID-XXLA: BRANCHES:[master:78989e5954a674eb3848a7ec43b353622003aab9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Relay_Arduino_Library: BRANCHES:[master:b2e617e907f89cb23115a0aeec848dd5406c953f]|RELEASE:[v1.3.1|b2e617e907f89cb23115a0aeec848dd5406c953f]
