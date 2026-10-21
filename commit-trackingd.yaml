@@ -1348,6 +1348,7 @@ sparkfun/SIK_Guide: BRANCHES:[master:fbb8ab5500bf4008f7f3d280587b042cc3559ea6]|R
 sparkfun/SIM_Card_Breakout: BRANCHES:[master:9a9e1751c6ae69d9c76797d829cb1a3879996651]|RELEASE:[none|none]
 sparkfun/SM5100B_Cellular_Shield: BRANCHES:[master:d57e083b4f32b2cad5a5390613b8470a186e2338;v13:bb54af6d4c1048028edce0455ad9dc5c2a647658]|RELEASE:[none|none]
 sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263]|RELEASE:[none|none]
+sparkfun/SOIC8-DIP_Adapter: BRANCHES:[master:d66a7341f08b11a1671031dfddfaf9ac607b7688]|RELEASE:[none|none]
 sparkfun/SPI_Shortcut: BRANCHES:[master:5f7b38c394fce858102454b0229c626adcd4bccc]|RELEASE:[none|none]
 sparkfun/SX1509_IO-Expander: BRANCHES:[master:cc235c16a1f2104c928b55bb81e4c9e06d7613f7]|RELEASE:[none|none]
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
