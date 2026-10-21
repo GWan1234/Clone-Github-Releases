@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:15
+commit-tracking: 2026-10-21 09:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1255,6 +1255,7 @@ sparkfun/Tiny-AVR-Programmer: BRANCHES:[master:8169e041d0f3bd5092280e82d616e418f
 sparkfun/Touch_Shield: BRANCHES:[master:548577f29128ed19a0737ad8bb805cc0b4550519]|RELEASE:[none|none]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794]|RELEASE:[none|none]
+sparkfun/USB_LiPolyCharger_SingleCell: BRANCHES:[master:e5664fa9629993abbe3d522ae9f64d17e0a21f6d]|RELEASE:[none|none]
 sparkfun/USB_Weather_Board: BRANCHES:[master:88fa8bcc4e652d7f34292be6b1da49784c6cb657;V40:2c6bccfd8ce75860f2d7a69a6a3f87a3f70045b2]|RELEASE:[none|none]
 sparkfun/USB_microB_Breakout_Board: BRANCHES:[master:9d1460eb6ad7acf2a49fa730fcb1bb1ad26e4256]|RELEASE:[none|none]
 sparkfun/Vernier_Interface_Shield: BRANCHES:[master:822ee6d91f33a21e1176481afbe21bb95be26a0a]|RELEASE:[none|none]
