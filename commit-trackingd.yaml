@@ -1623,6 +1623,7 @@ sparkfun/Qwiic_Quad_Relay: BRANCHES:[v21:c364c537a9986307d574b4c3d4daca39bdd59e6
 sparkfun/Qwiic_Quad_Solid_State_Relay: BRANCHES:[master:539c8268b0c5813d5f32cc3e4a8f4f7e78355bd0]|RELEASE:[none|none]
 sparkfun/Qwiic_RTC_Module: BRANCHES:[master:7a591ec26134ed17d743fb25d70210e18e025673]|RELEASE:[none|none]
 sparkfun/Qwiic_Relay: BRANCHES:[master:68fed0ebfe4ea963a69497c696047c61dd3f1b70]|RELEASE:[none|none]
+sparkfun/Qwiic_SHIM_Kit: BRANCHES:[main:45127cd6057e02276ac52b30489f9f47080a5058]|RELEASE:[none|none]
 sparkfun/Qwiic_Scale: BRANCHES:[master:ab136d756a781f9ff104c225318d1604af385aac]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Arduino: BRANCHES:[v11:6b0caeb5bf695d0aafa4904d23b4a3ab86315871;master:6b0caeb5bf695d0aafa4904d23b4a3ab86315871]|RELEASE:[none|none]
 sparkfun/Qwiic_Shield_for_Arduino_Nano: BRANCHES:[master:bd9cd174a271141502910d72a820f872c3cf77d8]|RELEASE:[none|none]
