@@ -1494,6 +1494,7 @@ sparkfun/MicroMod_STM32_Processor: BRANCHES:[main:419f9807fba00844d928c920a6be06
 sparkfun/MicroMod_Sno_Processor_Board: BRANCHES:[main:23703439faf33492c482908494c0df1fb727838e]|RELEASE:[none|none]
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0]|RELEASE:[none|none]
 sparkfun/MicroMod_Weather_Carrier_Board: BRANCHES:[master:783ea26e825d8d55e11cf3bcc9c7440dcd065f48;newMicroMod-Pinout:51aefca8f451dc9e3151a9b4c551504e4ac5b26b]|RELEASE:[none|none]
+sparkfun/MicroMod_mikroBUS_Carrier_Board: BRANCHES:[main:bec0ae0f5fe851c17d7908eec0cb7a815700d743]|RELEASE:[none|none]
 sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4]|RELEASE:[none|none]
 sparkfun/MicroSD_Sniffer: BRANCHES:[master:cb837970e6bd69acb9d3e0466fef1f0d04ab7078]|RELEASE:[none|none]
 sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8]|RELEASE:[none|none]
