@@ -1127,6 +1127,7 @@ sparkfun/ISP_Pogo_Board: BRANCHES:[master:ee9cca8d6ec18dd05d77343160bfa45dd271ec
 sparkfun/KickScraper: BRANCHES:[master:5e9a560e6d5ca1e5745014fcbc0f15e8dd0220b6]|RELEASE:[none|none]
 sparkfun/L6470-AutoDriver: BRANCHES:[master:6e71cacf06aa1cfe9e1be81cd59270bbe5a98a66]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109d56ed40;HW_V12:882261bf42eeba874e2966af87a214e06d4f7698]|RELEASE:[none|none]
+sparkfun/LilyPad_LED_Rainbow: BRANCHES:[master:d0cf768c2c68bdfbf9bea673901089f8ac2cae7c;v02:0074bb90754fc6e7c6bf74a23993d39134dae25d]|RELEASE:[none|none]
 sparkfun/LilyPad_MP3_Player: BRANCHES:[master:b48ac4ff34490c0d627419782a6566a18fc58f6e;libupdate:e4f4e0063af875cd879bdf6fb01900ae03e7c520;LibraryUpdate:8e48970fc7431fb6e7d6574265fad96fea42f96a]|RELEASE:[none|none]
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f]|RELEASE:[none|none]
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9]|RELEASE:[none|none]
