@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 07:51
+commit-tracking: 2026-10-21 07:52
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -14,7 +14,7 @@ HelTecAutomation/HeltecDocs-zh_CN: BRANCHES:[master:cedf746f9ec1b75da0cba1f62c4e
 HelTecAutomation/HeltecWiKi: BRANCHES:[main:288688a4c6c1612a8ef44d3b28abbe7a6ec82fa1;feat/lotousnine:072fc160beb39a15cebd5b79f246ac07fb074764]|RELEASE:[none|none]
 HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f849705c4;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf]|RELEASE:[2.1.6|e9c730b17f4739ab97468edf12dff5f86ee433bb]
 HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[1.0.3|bad997384fbaea767443574f35251abd9f0c3ce1]
-HelTecAutomation/Heltec_nRF52: BRANCHES:[main:ea04c0910d2e3695f5343d181873dd82e57bbc71]|RELEASE:[1.7.0|d45d40df192eb155df3c1f809387591d515383ab]
+HelTecAutomation/Heltec_nRF52: BRANCHES:[main:b69d5fb6cc497555047467a36e7a256aa1b6bd56]|RELEASE:[1.7.0|d45d40df192eb155df3c1f809387591d515383ab]
 HelTecAutomation/LoRaEinkBoard: BRANCHES:[main:39f0e14e1ce418eabcf0885017263a7cf7992df4]|RELEASE:[none|none]
 HelTecAutomation/RadioCore_Library: BRANCHES:[main:16182b448f1c74f330efef6ce6edd137e958b7dc]|RELEASE:[v1.0.0|78f7af171f706cb682925301a8b0e3ad2baff34d]
 HelTecAutomation/SnapEmu-Device: BRANCHES:[main:0432cffa3b50157f165962b8dfd6f1c017353f19]|RELEASE:[none|none]
