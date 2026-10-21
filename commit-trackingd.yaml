@@ -1453,6 +1453,7 @@ sparkfun/SparkFun_MetaWatch_Library: BRANCHES:[master:ecf820fc546185f2362526b9eb
 sparkfun/SparkFun_MiP_Arduino_Library: BRANCHES:[master:2675813431cdc92eb685581f2a9a0be69a096b4c]|RELEASE:[none|none]
 sparkfun/SparkFun_MicroView_Arduino_Library: BRANCHES:[master:f5528bd78d016f62f39be00cd3b5ef8b6c120485]|RELEASE:[none|none]
 sparkfun/SparkFun_Mr_Roboto_Arduino_Library: BRANCHES:[master:9d7ed8ae078f32db1dc93d36659d7e4341097243]|RELEASE:[none|none]
+sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Breakout: BRANCHES:[master:a7708c41db39d6bda609f27d21c45ce98ed7664d]|RELEASE:[none|none]
 sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library: BRANCHES:[master:20a0e1d1e8a9416fa557dd299f53b521a8d81c37]|RELEASE:[none|none]
