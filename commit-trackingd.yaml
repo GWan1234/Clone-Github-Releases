@@ -1993,6 +1993,7 @@ sparkfun/phant-throttler-memcache: BRANCHES:[master:5b365a7dbebabccea3a6bc138761
 sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9c359df9a1]|RELEASE:[none|none]
 sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd95d3548f7dadf5ad]|RELEASE:[none|none]
 sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ffa]|RELEASE:[v0.0.9|a26130e30d50d7599f7ebe032d427afab426aeaf]
+sparkfun/pxt-gator-environment: BRANCHES:[master:99cca7ae490f18df311281757fd65b8bc93e93df]|RELEASE:[v1.1.1|a68c91cdf89fda5c37d3ee044a186051a9ec0c14]
 sparkfun/pxt-gator-light: BRANCHES:[master:e31cd4a8048c4d7944a3c22ecb4a60748d708710]|RELEASE:[none|none]
 sparkfun/pxt-gator-temp: BRANCHES:[master:f3bfdeeae2f5d27df6bd22550256a9f3381993dc;bears_and_bears:272d4c1c6838a45fb9dec58f39c9849adcb41c74;test:8ec2c6aae0dc9ea1f52275d7f54abbde568038ec;Working_Copy:995b4a92627458794992fb008e0f0e92750bd596]|RELEASE:[none|none]
 sparkfun/pxt-moto-bit: BRANCHES:[master:a7151bd5491db792afc4dab141a30d357086d816;tweaks:3cccc10b03bf656fc6e75255ad6f426512843a5d]|RELEASE:[none|none]
