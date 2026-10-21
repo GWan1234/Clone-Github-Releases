@@ -1558,6 +1558,7 @@ sparkfun/TSL2561_Luminosity_Sensor_BOB: BRANCHES:[master:e2fbe173be2ccb2f266d7aa
 sparkfun/TXB0104_breakout: BRANCHES:[master:c8bf609f801a894d4af649a7134cd0ecddab8fa3]|RELEASE:[none|none]
 sparkfun/Teensy_3_1_XBee_Adapter: BRANCHES:[master:a3a78504780ae9dec4596f87e519a06a8837155f]|RELEASE:[none|none]
 sparkfun/Teensy_Arduino_Shield_Adapter: BRANCHES:[master:e212be53df5819eebdd7ea3526dbba6363ea026f]|RELEASE:[none|none]
+sparkfun/The_Flying_Jalapeno: BRANCHES:[v12:23ffe9393c814d1b69a0686aa9ec9c011eff3c44;master:86f31df7475e3bc90537740c57023a57d37ec81a]|RELEASE:[none|none]
 sparkfun/Thermal_Printer: BRANCHES:[v1.1:1a8bc5d8c3a812fc3959f550cd92223baac01905;master:d1bfbb0db0d250a893ec595f0732dacabed94446]|RELEASE:[v1.0|d1bfbb0db0d250a893ec595f0732dacabed94446]
 sparkfun/Through-Hole_Christmas_Kit: BRANCHES:[master:1c964e527b78eb34b2f7161880df4e315a0d6db5]|RELEASE:[none|none]
 sparkfun/Thumb_Joystick_Breakout: BRANCHES:[master:66a9750b64dfd827c984df69e46c133945a06fed]|RELEASE:[none|none]
