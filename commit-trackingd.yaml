@@ -1363,6 +1363,7 @@ sparkfun/Logomatic: BRANCHES:[master:680561ab695e5f9b4936ecb8b619478654814bd6;v2
 sparkfun/Low_Current_Sensor_Breakout-ACS712: BRANCHES:[master:5b634b3622c3ecf7a5c565624b8401b092ccc3c8;ACS723_v10:fb9f86237ca223f0899bc99f2573176590e0a1cc]|RELEASE:[none|none]
 sparkfun/Ludus_ProtoShield: BRANCHES:[master:48c0580d4d8ccd26592ce9ff77c987687fddcc8b]|RELEASE:[none|none]
 sparkfun/Lumenati_4-pack: BRANCHES:[master:20f09e72a070a05e63a345e0f908985e3df78dd2]|RELEASE:[V_H1.0|501bcf92e53916a6d2a8f6f6f275c77d92fd85e3]
+sparkfun/Lumenati_8-pack: BRANCHES:[master:c36a2900370b3197a14fd952f291a7600583cced]|RELEASE:[V_H1.0|24f57cced6b4000d2886742523fed615c0e1f393]
 sparkfun/MAG3110_Breakout_Board: BRANCHES:[master:96068b25fe532944ca196f969728943467d40714]|RELEASE:[v_H1.2|885da6b7e8e8d6c29cb1e30a8945e847cdd23cc3]
 sparkfun/MAX30105_Particle_Sensor_Breakout: BRANCHES:[master:1c5c88c8b99ae6edd1ba226c16e37b433641d56e]|RELEASE:[none|none]
 sparkfun/MAX31855K_Thermocouple_Breakout: BRANCHES:[master:f8cb936036c24fd260d5842e5c0a71281a92879e]|RELEASE:[none|none]
