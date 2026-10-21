@@ -1477,6 +1477,7 @@ sparkfun/MicroMod_ATP_Carrier_Board: BRANCHES:[master:9750d65ca0fdd4164fbac93a9b
 sparkfun/MicroMod_Artemis_Processor: BRANCHES:[master:f3e16866c81b140543ed791169d8974c673a9ff8]|RELEASE:[none|none]
 sparkfun/MicroMod_Asset_Tracker: BRANCHES:[main:d0f4731a7c3d8cb791db75c5734e7c261e82f5de]|RELEASE:[none|none]
 sparkfun/MicroMod_Asset_Tracker_Update_Tool: BRANCHES:[main:1da02c805c6ca93b8c6c91f639babe04baff3c45]|RELEASE:[none|none]
+sparkfun/MicroMod_DA16200_Function: BRANCHES:[main:32c1eef54e9f28ddad6e60a04e238d7b3aca8912]|RELEASE:[none|none]
 sparkfun/MicroMod_Data_Logging_Carrier: BRANCHES:[master:6fe06a666a75f88c87da4ac8711085090e21e1c0]|RELEASE:[none|none]
 sparkfun/MicroMod_ESP32_Processor: BRANCHES:[master:0faa0480023b6428aa1653dea9e5e82c78e1e742]|RELEASE:[none|none]
 sparkfun/MicroMod_Function_LoRa_1W: BRANCHES:[main:fb2274d8bc2ca06e6c730d7efaf8bbe07b7a18f2]|RELEASE:[none|none]
