@@ -1478,6 +1478,7 @@ sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a
 sparkfun/Serial_Controlled_Motor_Driver: BRANCHES:[master:7fd71f82ea8329199dde4b64aae1c48212c2e3bd;FW_V_07:9401eab49b306d6c6507cd965208ace68898347a]|RELEASE:[none|none]
 sparkfun/Serial_DB9_Breakout: BRANCHES:[master:7c932f7aa8d811c91aa9eed6534348b2c6d273a9]|RELEASE:[none|none]
 sparkfun/Serial_Enabled_LCD_Backpack: BRANCHES:[master:22d86fdb29bde1ceabccfe6204d0b6c37d89cc18;V_2.9:9c2e03d083ca6dba4fa9fb631d6185a5fc82931f]|RELEASE:[none|none]
+sparkfun/Serial_USB_Adapter-Nike_iPod: BRANCHES:[master:ce1af54ab930902a1e1a923ab740f4521640a796]|RELEASE:[none|none]
 sparkfun/Servo_Trigger: BRANCHES:[master:92e979266c02ae5d4a299a0ea645edb494bfdf73;Revision1.1-continuous:c569f66fe0dbcba4dab848bb0190aa40b159f797]|RELEASE:[none|none]
 sparkfun/SevSeg: BRANCHES:[master:aeb5fcd281cbf81d700f4232cc060736e6137b6a]|RELEASE:[V_1.0.2|9d7a9b724bc4294a0296a4304aacb79e237ae70d]
 sparkfun/Shift_Register_Breakout-74HC595: BRANCHES:[master:f4b8fcbc33bc4909edb6585cc242096297a6a2ce]|RELEASE:[none|none]
