@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:19
+commit-tracking: 2026-10-21 13:20
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2091,6 +2091,7 @@ sparkfun/Temperature_Sensor_TMP102_Qwiic: BRANCHES:[master:24c9eabdab49e98ae49cb
 sparkfun/Tensorflow_AIOT2019: BRANCHES:[master:9f63021b093c43259278f662b7fab0de2a7c1ffc;add-getting-started:06cbadf2d04ecf00287abe5fc90471c69249fa08]|RELEASE:[none|none]
 sparkfun/The_Flying_Jalapeno: BRANCHES:[v12:23ffe9393c814d1b69a0686aa9ec9c011eff3c44;master:86f31df7475e3bc90537740c57023a57d37ec81a]|RELEASE:[none|none]
 sparkfun/Thermal_Printer: BRANCHES:[v1.1:1a8bc5d8c3a812fc3959f550cd92223baac01905;master:d1bfbb0db0d250a893ec595f0732dacabed94446]|RELEASE:[v1.0|d1bfbb0db0d250a893ec595f0732dacabed94446]
+sparkfun/Thing_Plus_Dual-Port_Logging_Shield: BRANCHES:[main:6fb3ef9397b597fd6922dfc8210143360dc153cf]|RELEASE:[none|none]
 sparkfun/Through-Hole_Christmas_Kit: BRANCHES:[master:1c964e527b78eb34b2f7161880df4e315a0d6db5]|RELEASE:[none|none]
 sparkfun/Thumb_Joystick_Breakout: BRANCHES:[master:66a9750b64dfd827c984df69e46c133945a06fed]|RELEASE:[none|none]
 sparkfun/Tilt-a-Whirl_Breakout: BRANCHES:[master:f86f47594932749040fa7a303518d5177c3ab207]|RELEASE:[none|none]
