@@ -1266,6 +1266,7 @@ sparkfun/LilyPad_Arduino_328_Main_Board: BRANCHES:[v_21:1e0f7007cbe7cec48c2dce05
 sparkfun/LilyPad_Arduino_Simple: BRANCHES:[master:d5d61fea9830db56d8cd3254306adcc86d66e064;v26:d1f912eb7c8374e159d9d917523104662614a25e]|RELEASE:[none|none]
 sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109d56ed40;HW_V12:882261bf42eeba874e2966af87a214e06d4f7698]|RELEASE:[none|none]
 sparkfun/LilyPad_Button_Board: BRANCHES:[master:7108ef23887e3ac677720aa37b0ad82e38acc886;v13:814051bafc4075f1f518f5c95b22eb8d5bcedb62]|RELEASE:[none|none]
+sparkfun/LilyPad_Buzzer: BRANCHES:[master:820d0404b5aca845f227a99fea8d648246d053ae]|RELEASE:[none|none]
 sparkfun/LilyPad_Coin_Cell_Battery_Holder-20mm: BRANCHES:[master:9d6163d6e6ad6d6d7f71326653df96770f554ca2]|RELEASE:[none|none]
 sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched: BRANCHES:[master:2eb96459db5d7af141e6b869d2ec3626e7bd617e]|RELEASE:[none|none]
 sparkfun/LilyPad_E-Sewing_Kit: BRANCHES:[master:06f04327a3a88e9dfb2d3aeb67a83aeb1cb8bfb5]|RELEASE:[Hw-v15|f74c3705840db58088acf839c28dfcf8bb57fee6]
