@@ -1264,6 +1264,7 @@ sparkfun/HMC6343_Breakout: BRANCHES:[master:fbf992ea2d4b75a3d542096c5980e1a0421a
 sparkfun/HTU21D_Breakout: BRANCHES:[master:3bc9c7be3cb5416a954aef5434316ab8740b9872]|RELEASE:[V_H1.2_L1.1.1|263c6ee6bc80a3aa51c0466a3357e3b347927f5c]
 sparkfun/HX711-Load-Cell-Amplifier: BRANCHES:[master:38228f8f6602e1349d7130c7a382a436ceaca26e]|RELEASE:[none|none]
 sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712: BRANCHES:[master:6e53ba8f5c9fb8d6d81a56ff6fd30e93c28245b6;Hall-Effect_Current_Sensor_Breakout-ACS723:332bba49b1037b1ef870a19c0c5bcf1de8561172;QC-Rev:03614d5468029a4ed4462f07d8cadd6784b9e61c]|RELEASE:[none|none]
+sparkfun/Haptic_Motor_Driver: BRANCHES:[master:a300e3885810ff5475729ed6713678cf1b613451]|RELEASE:[v20|a300e3885810ff5475729ed6713678cf1b613451]
 sparkfun/HaterMatic: BRANCHES:[master:bb08cd5ee309f4f652027030ea31921a6f516f87]|RELEASE:[none|none]
 sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e773e91c835f36dae7af8f]|RELEASE:[none|none]
 sparkfun/I2C_Expander_Breakout-PCF8575: BRANCHES:[master:f3af77911bc016317e4b9f82f7f76edc45b399c5]|RELEASE:[none|none]
