@@ -1764,6 +1764,7 @@ sparkfun/SparkFun_I2C_GPS_Arduino_Library: BRANCHES:[master:a0c84da4f4e7064b858f
 sparkfun/SparkFun_ICM-20948_ArduinoLibrary: BRANCHES:[release_candidate:32cf0614bccf0d8cff32fbc4260097ac10e5b714;main:32cf0614bccf0d8cff32fbc4260097ac10e5b714]|RELEASE:[v1.3.2|32cf0614bccf0d8cff32fbc4260097ac10e5b714]
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3]|RELEASE:[none|none]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9]|RELEASE:[none|none]
+sparkfun/SparkFun_LIS2DH12_Arduino_Library: BRANCHES:[master:38926073cd8580509ecbf1f923af073960767a25]|RELEASE:[v1.0.3|38926073cd8580509ecbf1f923af073960767a25]
 sparkfun/SparkFun_LIS331_Arduino_Library: BRANCHES:[master:fe80a5d5934a417b423c8477991d72708e01ac14]|RELEASE:[v1.0.1|2cc765d2367221538f9993a6fdd4aa5fe1d26fb0]
 sparkfun/SparkFun_LIS3DH_Arduino_Library: BRANCHES:[master:2705a8a28addc0f50b3c36a016eb516b17705fed]|RELEASE:[v1.0.3|829c319319edf14e29b8f26a25ae79f48c7e6856]
 sparkfun/SparkFun_LP55231_Arduino_Library: BRANCHES:[master:51b51eed8dcd986bd11603c4799e0549c6b9f037]|RELEASE:[V_1.1.0|51b51eed8dcd986bd11603c4799e0549c6b9f037]
