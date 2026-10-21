@@ -1269,6 +1269,7 @@ sparkfun/LilyPad_LED_Rainbow: BRANCHES:[master:d0cf768c2c68bdfbf9bea673901089f8a
 sparkfun/LilyPad_MP3_Player: BRANCHES:[master:b48ac4ff34490c0d627419782a6566a18fc58f6e;libupdate:e4f4e0063af875cd879bdf6fb01900ae03e7c520;LibraryUpdate:8e48970fc7431fb6e7d6574265fad96fea42f96a]|RELEASE:[none|none]
 sparkfun/LilyPad_Reed_Switch: BRANCHES:[master:f506571aaca02f01d22a90adcd81710cbc83ed1e]|RELEASE:[none|none]
 sparkfun/LilyPad_Simple_Power: BRANCHES:[master:c18e03df42092d8ff437a62149fa94b33d80927f]|RELEASE:[none|none]
+sparkfun/LilyPad_Slide_Switch: BRANCHES:[master:200c196a481a4ad5b8502a35fea67e333a3b7124]|RELEASE:[none|none]
 sparkfun/LilyPad_Tri-Color_LED: BRANCHES:[master:7d99c6ef56f90eda5652b2e4085bcd60218321a4]|RELEASE:[v_2.0|fc80e4110e9779f501f50d65f5b0f752e534d29d]
 sparkfun/LilyPad_Vibe_Board: BRANCHES:[master:49ab70ed5c93c14472054126c281255f1f6c6c38]|RELEASE:[none|none]
 sparkfun/LilyPad_XBee: BRANCHES:[master:d39ccc048cc7f3c6b9f1faae1b7d5af2d1dca5e1]|RELEASE:[none|none]
