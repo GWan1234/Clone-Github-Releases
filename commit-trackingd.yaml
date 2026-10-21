@@ -1484,6 +1484,7 @@ sparkfun/MicroMod_Processor_Board-SAMD51: BRANCHES:[master:7c85c41de81b93d6da49c
 sparkfun/MicroMod_Processor_Board-nRF52840: BRANCHES:[master:7a1c2d0b182387b921881dc82a0847555e982bbf]|RELEASE:[none|none]
 sparkfun/MicroMod_Qwiic_Carrier: BRANCHES:[main:78179683f97ab28fa30ae4ef2dbc2a3c1b22291b]|RELEASE:[none|none]
 sparkfun/MicroMod_STM32_Processor: BRANCHES:[main:419f9807fba00844d928c920a6be062b85855e37;v20-shuffle-UARTs-for-DFU:0506c759de1f370766364b2bb9c7ad79f96e74d2]|RELEASE:[none|none]
+sparkfun/MicroMod_Sno_Processor_Board: BRANCHES:[main:23703439faf33492c482908494c0df1fb727838e]|RELEASE:[none|none]
 sparkfun/MicroMod_Teensy_Processor: BRANCHES:[main:51ca16ddcabd38d134c051391ffedf16dafc19a0]|RELEASE:[none|none]
 sparkfun/MicroMod_Weather_Carrier_Board: BRANCHES:[master:783ea26e825d8d55e11cf3bcc9c7440dcd065f48;newMicroMod-Pinout:51aefca8f451dc9e3151a9b4c551504e4ac5b26b]|RELEASE:[none|none]
 sparkfun/MicroPressure_Sensor: BRANCHES:[master:8dbe741d6e9372edd12e93c4f34f845914d4b4b4]|RELEASE:[none|none]
