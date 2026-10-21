@@ -1857,6 +1857,7 @@ sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc96
 sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[v1.0.0|03c1988fe9d1a4201da06b86781a7ef994b093b4]
 sparkfun/SparkFun_RHT03_Particle_Library: BRANCHES:[master:f03156d061a32dff31b52a58dc7020bc9768c075]|RELEASE:[none|none]
 sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a]|RELEASE:[v1.1.0|4b473249282426773ded2f08d9d9eb204068902a]
+sparkfun/SparkFun_RV-8803_Arduino_Library: BRANCHES:[main:f0edcf87963e08126aeca20a36db9a5c845cfa5b;release_candidate:6ae28e3221e90334a2fa5f84d7f00fb470573abc;get_epoch_fix:daa80375f705b6882d4bba54455d3909e9bd0465]|RELEASE:[v1.2.10|f0edcf87963e08126aeca20a36db9a5c845cfa5b]
 sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c]|RELEASE:[v1.4.2|4f40f72bcff65eaac37b7f88af941c0f5805d544]
 sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc18804519abb0774bacf88edacfb60f]|RELEASE:[none|none]
 sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0]|RELEASE:[none|none]
