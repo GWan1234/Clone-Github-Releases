@@ -1798,6 +1798,7 @@ sparkfun/phant-stream-mongodb: BRANCHES:[master:7b714cd44a642d7cd3aa9909864ad401
 sparkfun/phant-throttler-memcache: BRANCHES:[master:5b365a7dbebabccea3a6bc138761fce40981c812]|RELEASE:[none|none]
 sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9c359df9a1]|RELEASE:[none|none]
 sparkfun/simple_sketches: BRANCHES:[master:8289da18a911885f24eb57b030d77a30a99010c0]|RELEASE:[none|none]
+sparkfun/spectacleapp: BRANCHES:[master:b4be5ca392a42ad6f5fa5b13934703db9f1d8a98]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
 sparkfun/tetrixMotor: BRANCHES:[master:29e43b944ee301bb40fc6b1186318d224451363f]|RELEASE:[none|none]
 sparkfun/tsunami: BRANCHES:[master:5046609544d4c6328bdb667a31630aa630e5f9e2]|RELEASE:[V1.1|54a67c6dae5f8757030f576e30e131f8f4f0d923]
