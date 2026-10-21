@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 14:00
+commit-tracking: 2026-10-21 14:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1846,6 +1846,7 @@ sparkfun/SparkFun_BOSSA_GUI: BRANCHES:[main:ab77287f5d2be357981adeed7222dea7021c
 sparkfun/SparkFun_BQ27441_Arduino_Library: BRANCHES:[master:65fcd5553b3087d17c838cbb682121b61fe6881c]|RELEASE:[v1.1.0|65fcd5553b3087d17c838cbb682121b61fe6881c]
 sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library: BRANCHES:[master:0776c9f32d622c4968be7ee5424f1dbd90832184]|RELEASE:[none|none]
 sparkfun/SparkFun_Bio_Sensor_Hub_Library: BRANCHES:[master:91575258e5e2c47f0f4b8ec97b651381671f4637;cmd_test:3b4de5ac1426d0087d82e4d1c04ad56401cb7f9b;v1.0.6:d4e797b9b4f1cd0398c40c05d75500489a47c850]|RELEASE:[v1.1|f91b5fa12f391f9889919a20c8709849fb4c79fb]
+sparkfun/SparkFun_BlueSMiRF-v2: BRANCHES:[release_candidate:c7c2fbc94bda4a10bab9258ab1f551a058cc8ab9;gh-pages:56165c18ef178675b8645e61965a4b30b6ebbbbb;main:21329b716bf7cf05acca52f890d63939239e0961;jst-docs:2f4a6e2cb0a3eb38b007fb406f066b68e0993053]|RELEASE:[none|none]
 sparkfun/SparkFun_Buck_Regulator_AP3429A: BRANCHES:[gh-pages:9c0267065b82b01561d94daaefabac4decb24d44;main:a125e8949eff047fc3e1804eeb9400aac1561eab;dev-backup:720b145cae9b51009ee1f4af62c0df8f892c25aa]|RELEASE:[v01|fa93761342254e413ebdc57d8def1774b66adad6]
 sparkfun/SparkFun_Buck_Regulator_AP63357DV-7: BRANCHES:[gh-pages:5795e67cfab908f19b66f2d91f15e9d02cfdb566;main:2daeae4799b416ed27fc1dfa3123d6cc68747f38]|RELEASE:[v01|594df65fa9c6e8d6f3556a467e1f328de9b7524c]
 sparkfun/SparkFun_CAN-Bus_Arduino_Library: BRANCHES:[master:c96318faf0045295f04dbd296673cd0c03c39c10]|RELEASE:[none|none]
