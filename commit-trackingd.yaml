@@ -1137,6 +1137,7 @@ sparkfun/Bus_Pirate: BRANCHES:[master:f72dd29315f981bdb2202d67e157903043b255da]|
 sparkfun/CAN-Bus_Shield: BRANCHES:[v20:79b393c52e0f178bd8e5a1f90e1918d74c9076dd;master:2e152297bd82162a0aa01cae8f074c9ae953bbcb]|RELEASE:[none|none]
 sparkfun/CC3000_WiFi_Breakout: BRANCHES:[master:eb0e211b622dc2ae720daf087e3863146a3e3e17]|RELEASE:[none|none]
 sparkfun/CC3000_WiFi_Shield: BRANCHES:[master:59a530fbfed9989e41d6febbc20d4d1115bbdf3e]|RELEASE:[none|none]
+sparkfun/CP2102_Breakout: BRANCHES:[master:b0629d7e3b6004c158f858be66a4a197fcc62491]|RELEASE:[none|none]
 sparkfun/ColorLCDShield: BRANCHES:[master:d91e5bb9a7f7cb1989065af73299011ec15419ab]|RELEASE:[none|none]
 sparkfun/Color_Light_Sensor_Evaluation_Board: BRANCHES:[master:08ef0bf23b76ea32c53ad554510784822b18e42d]|RELEASE:[none|none]
 sparkfun/Copernicus_II_DIP_Module: BRANCHES:[master:c756306e9f97ceefd6b658c9a223a3a111e93475]|RELEASE:[none|none]
