@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 10:35
+commit-tracking: 2026-10-21 10:36
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1363,6 +1363,7 @@ sparkfun/Monster_Moto_Shield: BRANCHES:[master:0cc320981caf554b5b359a62a0d8ff985
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6]|RELEASE:[none|none]
 sparkfun/Music_Instrument_Shield: BRANCHES:[master:f977f0824b8fdb7652ffe462cdcbe7b4d1e7055d]|RELEASE:[none|none]
 sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e5b00d5ee]|RELEASE:[none|none]
+sparkfun/MyoWare_Cable_Shield: BRANCHES:[V11:14d3958e2afd36be670266a4669084b12828aaf6;master:b7dbd9f0928e253a6f31e007a79a6d93192b116f;revert-7-V11:dbb5a58bd498e1b060e0ad4759d7dd5c289c8580]|RELEASE:[none|none]
 sparkfun/MyoWare_Power_Shield: BRANCHES:[master:42924ddb957ec48b65454b0b3e863fa7c76f5ff7]|RELEASE:[none|none]
 sparkfun/MyoWare_Proto_Shield: BRANCHES:[master:b21fb892f80cf272fd7e13570f228cfde7985bb4]|RELEASE:[none|none]
 sparkfun/NCP1402-3.3V: BRANCHES:[master:81400e56ee5dcba7f63dd2cc849feddaccdc35b3]|RELEASE:[none|none]
