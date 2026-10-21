@@ -2051,6 +2051,7 @@ sparkfun/SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6: BRANCHES:[gh-pages:8cfff44544
 sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library: BRANCHES:[main:43c3b7a63318e14834533c0b089be079290990ba;release_candidate:e2d4c7680ada5837d9a20be3c827085a49aa0b6d]|RELEASE:[v1.0.2|e2d4c7680ada5837d9a20be3c827085a49aa0b6d]
 sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384: BRANCHES:[main:1c8760b268bb4a6e29c42cfcd8dbe696ea46ce3a]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581: BRANCHES:[main:6930241063938e0c3a6b49960bbec4178cf310d6]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_Pulsed_Radar_Sensor_XM125: BRANCHES:[gh-pages:8024a52de88ff024d61f18a3e4de2e141e7d2d9f;main:a049212e3c587162418e354e34a03f33e962be72]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_RFID_Arduino_Library: BRANCHES:[master:a4ae662d3908ce33fe2592a99b02ec147f977411;v1.2.0_Adress_Change:2d25ffb4472cebc66760b6a53f6837422a443a93;ReduceExampleDirectory:5e88041910344acaa9de78deecce5b5616581110]|RELEASE:[v1.1.6|265bd6d5722621889b285c8ee5b112bf4b32095e]
 sparkfun/SparkFun_Qwiic_RFID_ID-XXLA: BRANCHES:[master:78989e5954a674eb3848a7ec43b353622003aab9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_RFID_Tag_ST25DV64KC: BRANCHES:[main:3769d5a44c71c0aa3b8b94126b3d8e426dc7eeb4;docs:d8418bf8f6af6fbd758b479a745f793772e28e5a]|RELEASE:[none|none]
