@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:14
+commit-tracking: 2026-10-21 13:15
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1807,6 +1807,7 @@ sparkfun/SparkFun_Ambient_Sensor_VEML6030: BRANCHES:[master:3bd26752ab454b0edc45
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180: BRANCHES:[main:66112e7410116fd952eeed8603634de32bf437e8]|RELEASE:[none|none]
 sparkfun/SparkFun_Apollo3_AmbiqSuite_BSPs: BRANCHES:[master:c896285381495d00e32da0b4a9807799b197cb02;delete_redundant_aliases:69b8747b8a69534784eb107ae2e7f02693244eb2]|RELEASE:[v0.0.11|52349fb97ff3a2ee69ac0765b076f05c59aace2c]
 sparkfun/SparkFun_Artemis: BRANCHES:[master:e1d026549109ea02264e977fc1f7b8d49bcfdfe9]|RELEASE:[none|none]
+sparkfun/SparkFun_Artemis_Global_Tracker: BRANCHES:[main:3212a30d17952d89d7fb301f154e82907fe01a70]|RELEASE:[none|none]
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7]|RELEASE:[V_1.3.3|f9306a3284aff540ef1b4bc220947ff8519fa493]
 sparkfun/SparkFun_Auto_pHAT: BRANCHES:[master:c1ff5cc6baa25284b2eac7947c9e6012afbcf08a]|RELEASE:[none|none]
 sparkfun/SparkFun_BC127_Bluetooth_Module_Arduino_Library: BRANCHES:[master:cd836547687ecc9c915ed0727fb12471e35cdfd4]|RELEASE:[none|none]
