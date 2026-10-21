@@ -1718,6 +1718,7 @@ sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f341
 sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badffd3d5da44be33b7d930189fb1f5b1]|RELEASE:[v1.0.5|615228de818cf1052ef58ef0ef9f5c2381ea35dd]
 sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library: BRANCHES:[main:6feda012dc8f8b9f811e73b6e95553579e0d0a75]|RELEASE:[v3.0.2|d8e064163efe24fba06ba940faa0d7a77253f8e9]
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
+sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5]|RELEASE:[1.0.0|cde2d2ed820fbf4885912417152cbdff506a2323]
 sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[v1.0.0|03c1988fe9d1a4201da06b86781a7ef994b093b4]
 sparkfun/SparkFun_RHT03_Particle_Library: BRANCHES:[master:f03156d061a32dff31b52a58dc7020bc9768c075]|RELEASE:[none|none]
 sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a]|RELEASE:[v1.1.0|4b473249282426773ded2f08d9d9eb204068902a]
