@@ -2101,6 +2101,7 @@ sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d
 sparkfun/SparkFun_Si7021_Arduino_Library: BRANCHES:[main:cf83c35c759dfac6c8471cf5bd77f7e515929960;Cleanup23:55aae1c6e7cab4765f56a27165f6b85e5f07956b]|RELEASE:[v2.0.0|cf83c35c759dfac6c8471cf5bd77f7e515929960]
 sparkfun/SparkFun_Simblee_Breakout_Board: BRANCHES:[master:3d7daac6ded81690ea06c26f1b1424fbb52256d5]|RELEASE:[none|none]
 sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library: BRANCHES:[master:d52c969817d5d552348662b9454347e2348e63f1]|RELEASE:[v1.2.0|d52c969817d5d552348662b9454347e2348e63f1]
+sparkfun/SparkFun_Spectral_UV_Sensor_AS7331: BRANCHES:[gh-pages:c76777d1398d3d9342033ad89bee7f574b7c9b4c;main:b1354e6939ff35adc6eac51b0e038a8428328bf9]|RELEASE:[none|none]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
 sparkfun/SparkFun_Swarm_M138_GUI: BRANCHES:[main:0cc9bd6c049e4234703f965f731cdfea87fab732]|RELEASE:[v2.0.1|c7139ed44e58a0ace2d2e50ef8acc5d354f6ae13]
 sparkfun/SparkFun_Swarm_Satellite_Arduino_Library: BRANCHES:[main:5d07a8c6d7c1528c131767228cb0bf180716904c;release_candidate:9dfdc8edb8a366a4abfa17880278baba97db2302]|RELEASE:[v1.1.10|5d07a8c6d7c1528c131767228cb0bf180716904c]
