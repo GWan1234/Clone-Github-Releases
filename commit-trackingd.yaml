@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:07
+commit-tracking: 2026-10-21 09:08
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1196,6 +1196,7 @@ sparkfun/SFE_Eagle_Bundle_Files: BRANCHES:[master:b769e378cae0ef3cfba7067570c279
 sparkfun/SFE_SHOVEL: BRANCHES:[master:dfc0df7699708343b916c81ab3eca1b729725c65]|RELEASE:[none|none]
 sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131fd;edu_rework:994ec7f28b94d5a0c370906ea51cfda8d21f525a;SIK_Arduino_Book:54e38a9631199403dc2b8c465e687b41e651f98e]|RELEASE:[v41|2b12597f2ea010b1e738aae8457ea9353db28b78]
 sparkfun/SIKIO: BRANCHES:[master:643d791d741be9f33ffa67aea17a87f011f2eded]|RELEASE:[none|none]
+sparkfun/SIK_Guide: BRANCHES:[master:fbb8ab5500bf4008f7f3d280587b042cc3559ea6]|RELEASE:[none|none]
 sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263]|RELEASE:[none|none]
 sparkfun/SX1509_IO-Expander: BRANCHES:[master:cc235c16a1f2104c928b55bb81e4c9e06d7613f7]|RELEASE:[none|none]
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
