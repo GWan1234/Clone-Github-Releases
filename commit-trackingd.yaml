@@ -1164,6 +1164,7 @@ sparkfun/TXB0104_breakout: BRANCHES:[master:c8bf609f801a894d4af649a7134cd0ecddab
 sparkfun/Tiny-AVR-Programmer: BRANCHES:[master:8169e041d0f3bd5092280e82d616e418fb652053;v14:8d8fba4e3ea46807223c0e0258c8fe432b741c03]|RELEASE:[none|none]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794]|RELEASE:[none|none]
+sparkfun/WAV_Trigger: BRANCHES:[master:03150391b21e3de057cc98d092aebfae6bb0e943;H_v11:0f8687be314075cb998293bece1062834513efbe]|RELEASE:[none|none]
 sparkfun/WS2812_Breakout: BRANCHES:[master:80e00a06f2763d089633d80b3d5870311750e7d3]|RELEASE:[none|none]
 sparkfun/Wake_on_shake: BRANCHES:[master:9c799010b82c0b1b83de27bc0d8b451f91ff98d4]|RELEASE:[none|none]
 sparkfun/WiFly-Shield: BRANCHES:[master:1726169e58b31fa4ad44b62154ea5cbe93de8af6]|RELEASE:[none|none]
