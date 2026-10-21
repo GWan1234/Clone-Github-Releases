@@ -1122,6 +1122,7 @@ sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;
 sparkfun/RedBot: BRANCHES:[master:9a9ef921bd061bc5ffffa895bb10b2f56e24720d;library-updates:b1065f7739bc44fea03a1f870ceaece5c2079d78]|RELEASE:[none|none]
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/SF32u4_boards: BRANCHES:[master:83c07b92667547d3fbfef2c005aeecc571e959c4]|RELEASE:[pre-1.6|4c5d9565b4a106118b47046dd6803769a36dc867]
+sparkfun/SIK-Guide-Code: BRANCHES:[master:cd39d6538d2406f9ff40cb3112f351cdc49131fd;edu_rework:994ec7f28b94d5a0c370906ea51cfda8d21f525a;SIK_Arduino_Book:54e38a9631199403dc2b8c465e687b41e651f98e]|RELEASE:[v41|2b12597f2ea010b1e738aae8457ea9353db28b78]
 sparkfun/SIKIO: BRANCHES:[master:643d791d741be9f33ffa67aea17a87f011f2eded]|RELEASE:[none|none]
 sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263]|RELEASE:[none|none]
 sparkfun/SX1509_IO-Expander: BRANCHES:[master:cc235c16a1f2104c928b55bb81e4c9e06d7613f7]|RELEASE:[none|none]
