@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:45
+commit-tracking: 2026-10-21 09:46
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1418,6 +1418,7 @@ sparkfun/phant-output-thermalprinter: BRANCHES:[master:ddda1cb4924c3db1ed1c694c3
 sparkfun/phant-output-udp: BRANCHES:[master:070b29b1e4c070d48e7e332922496fe818a61a8c]|RELEASE:[none|none]
 sparkfun/phant-output-websocket: BRANCHES:[master:0ec22af5e6d57da4e48f394c8a145685ccf9e6ad]|RELEASE:[none|none]
 sparkfun/phant-reaper: BRANCHES:[master:426cda359cdf6d9ff20103072d28da9921aa1dc8]|RELEASE:[none|none]
+sparkfun/phant-server-mqtt: BRANCHES:[master:0aed6ab20605ca94cc898ceb280bf25124aad369]|RELEASE:[none|none]
 sparkfun/phant-stream-csv: BRANCHES:[master:448aeb5ef103152ecf51653118dfed1bf147386a]|RELEASE:[none|none]
 sparkfun/phant-stream-json: BRANCHES:[master:b6de7cac6bf7af426561e973c7fc7aa6f6b4e7ad]|RELEASE:[none|none]
 sparkfun/phant-stream-mongodb: BRANCHES:[master:7b714cd44a642d7cd3aa9909864ad401ab6dde35]|RELEASE:[none|none]
