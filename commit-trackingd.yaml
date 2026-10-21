@@ -1630,6 +1630,7 @@ sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library: BRANCHES:[master:1b55bec8
 sparkfun/SparkFun_I2C_GPS_Arduino_Library: BRANCHES:[master:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc]|RELEASE:[v1.0.6|a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc]
 sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library: BRANCHES:[master:16c5a2eda209a2c7a69079877c80efb003d360e3]|RELEASE:[none|none]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9]|RELEASE:[none|none]
+sparkfun/SparkFun_LIS331_Arduino_Library: BRANCHES:[master:fe80a5d5934a417b423c8477991d72708e01ac14]|RELEASE:[v1.0.1|2cc765d2367221538f9993a6fdd4aa5fe1d26fb0]
 sparkfun/SparkFun_LIS3DH_Arduino_Library: BRANCHES:[master:2705a8a28addc0f50b3c36a016eb516b17705fed]|RELEASE:[v1.0.3|829c319319edf14e29b8f26a25ae79f48c7e6856]
 sparkfun/SparkFun_LP55231_Arduino_Library: BRANCHES:[master:51b51eed8dcd986bd11603c4799e0549c6b9f037]|RELEASE:[V_1.1.0|51b51eed8dcd986bd11603c4799e0549c6b9f037]
 sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library: BRANCHES:[master:a70a355406dbaf694c3858c27028fcae99191519]|RELEASE:[v_1.0.2|a70a355406dbaf694c3858c27028fcae99191519]
