@@ -1325,6 +1325,7 @@ sparkfun/Joystick_Shield_Kit: BRANCHES:[master:555ec84cdf0a0e3b65267ceb36333250b
 sparkfun/KickScraper: BRANCHES:[master:5e9a560e6d5ca1e5745014fcbc0f15e8dd0220b6]|RELEASE:[none|none]
 sparkfun/Knitting_Bracer: BRANCHES:[master:bf737c16b000372cb1e2ec9a26155ee347226cf3]|RELEASE:[none|none]
 sparkfun/L6470-AutoDriver: BRANCHES:[master:6e71cacf06aa1cfe9e1be81cd59270bbe5a98a66]|RELEASE:[none|none]
+sparkfun/LCD_TFT_Breakout_1in8_128x160: BRANCHES:[master:6ffe4b4305b53075ec46721a54f54bda2be3df53]|RELEASE:[none|none]
 sparkfun/LED_Array_8x7: BRANCHES:[master:1d487e80d40a6637f883c7c65cc9b7390d905a5f]|RELEASE:[none|none]
 sparkfun/LED_Driver_Breakout-TLC5940: BRANCHES:[master:52c035a3753d4f301d2620337d949fd105a381ee]|RELEASE:[none|none]
 sparkfun/LED_Matrix_Serial_Interface_RGB: BRANCHES:[master:4703c1a4679f2eafd1ccf2954d373e852f847f9f]|RELEASE:[none|none]
