@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 13:54
+commit-tracking: 2026-10-21 13:55
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2099,6 +2099,7 @@ sparkfun/SparkFun_Temperature_Sensor-STTS22H: BRANCHES:[main:9d0e0f48df40bdf507b
 sparkfun/SparkFun_Thing_Plus-RP2040: BRANCHES:[ARM_DevSummit:4bf503e659213b5ed9b3b1e16726de0b4467564f;main:38fd2d27eaa2e6e9c16e8496f7d1777f83df842a]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_AW-CU488: BRANCHES:[main:8c0d87623aece93f37177357bd14fd34159ea21b]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_DA16200: BRANCHES:[main:4fff2eb159a56401665f554be41fecab7cd39b15]|RELEASE:[none|none]
+sparkfun/SparkFun_Thing_Plus_ESP32_C6: BRANCHES:[gh-pages:5f005f25140aac4e48e1864733fa2d6042b39ed8;main:fb7352f770b885fa9d5767bd25a168b90a11d4e5]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C: BRANCHES:[main:b5be8ef9be3940a1f722ff05084ec9b136def615;gh-pages:f66b8cdf0bacdf7ef6b8cc66b78db358af86c5c0;docs_test:5dcb612ebad7b803f385f8bce32eeeab3e21dfab]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_MGM240P: BRANCHES:[main:cf4772115b2ef522ed8f8be4b9ea5bc7179654a9]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_NINA-B306: BRANCHES:[main:4046be3599e45afef76b2184f92c2ce70a39dc48]|RELEASE:[none|none]
