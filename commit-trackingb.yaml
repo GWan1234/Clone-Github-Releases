@@ -1866,7 +1866,7 @@ adafruit/Adafruit_Floppy: BRANCHES:[main:858075099b075a3654009528f34d76628bae55d
 adafruit/Adafruit_Floppy_FeatherWing_PCB: BRANCHES:[main:8793e86222bd62b1ee243e07e97a8de9ff6a7e7e]|RELEASE:[none|none]
 adafruit/Adafruit_Floppy_PCB: BRANCHES:[main:b6aca14941193c18e0abb5d8302ce5b7f62ed25d]|RELEASE:[none|none]
 adafruit/Adafruit_FreeTouch: BRANCHES:[master:cf2f2f6d5916aa208628b531ef369effb3950478]|RELEASE:[1.1.3|cf2f2f6d5916aa208628b531ef369effb3950478]
-adafruit/Adafruit_GC9A01A: BRANCHES:[main:a03514ae042e990bc8d16f51aad7e87dabd989b1;gh-pages:2bd7c6d983712b70e9affa9d38002c9e936b4ab6]|RELEASE:[1.1.1|a03514ae042e990bc8d16f51aad7e87dabd989b1]
+adafruit/Adafruit_GC9A01A: BRANCHES:[main:e742c29db8d4b84e1bbca16005aa7bfd59cf0b3c;gh-pages:ab743f7b6825c758ee01c1881463060a447e13b1]|RELEASE:[1.2.0|e742c29db8d4b84e1bbca16005aa7bfd59cf0b3c]
 adafruit/Adafruit_GP8403: BRANCHES:[gh-pages:f3eef012373fdcda0e06da2d6b6c3be271e39cac;main:5069f106c37b54e91e1e15ba7693c7ed9eff7a43]|RELEASE:[1.0.1|5069f106c37b54e91e1e15ba7693c7ed9eff7a43]
 adafruit/Adafruit_GPS: BRANCHES:[master:307428f53931791799f169d07fdbf9c4c478fc15;gh-pages:822f2e46b241c9f09191f11bb8a5c07bca82bcba;copilot/fix-github-actions-job-failure:86ee6ea2b94fec6d7aa814fe22577fd7f2a6aa6a;actions:e4eb78f41cab05122248cf66ff2f9a6b715f7a95]|RELEASE:[1.9.0|307428f53931791799f169d07fdbf9c4c478fc15]
 adafruit/Adafruit_GhostFAT: BRANCHES:[master:0c2352e3e2dd8edcaf9186ac5d4dd25d2cd8627c]|RELEASE:[none|none]
