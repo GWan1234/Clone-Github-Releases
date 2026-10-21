@@ -1546,6 +1546,7 @@ sparkfun/Qwiic_Shield_for_Arduino: BRANCHES:[v11:6b0caeb5bf695d0aafa4904d23b4a3a
 sparkfun/Qwiic_Shield_for_Photon: BRANCHES:[master:a9c7f9f2f8fd4b58a994f84d0dae2df63390fa6d]|RELEASE:[none|none]
 sparkfun/Qwiic_Spectral_Sensor_AS7265x: BRANCHES:[master:947b94fb5407f9b6affda4a59a732ce9a1e6d140]|RELEASE:[none|none]
 sparkfun/Qwiic_Spectral_Sensor_AS726X: BRANCHES:[master:4a5ba39e5a32962e019a8dc454d0946af5c83de7]|RELEASE:[none|none]
+sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c442cdbed2abbb434173052]|RELEASE:[none|none]
 sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5fa88ad5ff9b6e7]|RELEASE:[none|none]
 sparkfun/Qwiic_Twist: BRANCHES:[master:f9bbde3fad9b549a7cbdb31b192a003f8ffae182]|RELEASE:[v1.1|539b84d2812506dc7f47034069b4e6450392da66]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
