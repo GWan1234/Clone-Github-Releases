@@ -1136,6 +1136,7 @@ sparkfun/MPU-9150_Breakout: BRANCHES:[master:250e1be403af5271d08a2ba83a52755dba8
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
 sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164b870;hw_dev:be3fc290f78989ad80485bd678f13bf5291f0d06]|RELEASE:[none|none]
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6]|RELEASE:[none|none]
+sparkfun/OBD-II_UART: BRANCHES:[master:c35ae778350c3c9f5c8568319e0dbf106518fd76]|RELEASE:[none|none]
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
 sparkfun/OpenSegment: BRANCHES:[master:ad36ec250b4b8f2ed147187e00e6092aab4048ca;QC-REV:d4529cc4fb4bf141d9ee47adcac8f184c66e1329]|RELEASE:[none|none]
