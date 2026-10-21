@@ -1422,6 +1422,7 @@ sparkfun/TopHat: BRANCHES:[master:69e0c73bc9f4a27c08011ed0169c4282a17ec05a]|RELE
 sparkfun/Touch_Potentiometer: BRANCHES:[master:c10aedca16c7a781e12ac266ee421bb1562972fe]|RELEASE:[none|none]
 sparkfun/Touch_Shield: BRANCHES:[master:548577f29128ed19a0737ad8bb805cc0b4550519]|RELEASE:[none|none]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
+sparkfun/Triple_Axis_Magnetometer-HMC5883L: BRANCHES:[master:017b6877bc974430ce42026c212656198e2dae38]|RELEASE:[none|none]
 sparkfun/UBW32: BRANCHES:[master:aed39433bf49bd65d48589b81ae09b74638d2df2]|RELEASE:[none|none]
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794]|RELEASE:[none|none]
 sparkfun/USB_LiPolyCharger_SingleCell: BRANCHES:[master:e5664fa9629993abbe3d522ae9f64d17e0a21f6d]|RELEASE:[none|none]
