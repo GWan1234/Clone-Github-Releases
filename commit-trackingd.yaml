@@ -1337,6 +1337,7 @@ sparkfun/Papilio_Button_LED_Wing: BRANCHES:[master:4e5b3fefc6f0bcef773c9275237c8
 sparkfun/Papilio_VGA_Wing: BRANCHES:[master:4f3bed04cba74876a11008f6cfc140fad2bf3d3e]|RELEASE:[none|none]
 sparkfun/Party_Button: BRANCHES:[master:4b050fd4886b9cae733242ee98b3e1b8c2b18c4c]|RELEASE:[none|none]
 sparkfun/Photo_Interrupter_Breakout: BRANCHES:[master:a2d2437948c43567ae02486b14bb44938b972bb2]|RELEASE:[none|none]
+sparkfun/Photon_Battery_Shield: BRANCHES:[master:83d2e1015b60a25199f5da1da3f33085a7080abd]|RELEASE:[none|none]
 sparkfun/Photon_IMU_Shield: BRANCHES:[master:9a623ce2fbdea5bf9c5fbfad80330dc77cbac78b]|RELEASE:[none|none]
 sparkfun/Photon_OLED_Shield: BRANCHES:[master:43df6c456e3b53d166fa6a86c93984072d38304c]|RELEASE:[none|none]
 sparkfun/Photon_Proto_Shield: BRANCHES:[master:16bd90312c0018aea17482c362fe60a960e98e99]|RELEASE:[none|none]
