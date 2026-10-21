@@ -1347,6 +1347,7 @@ sparkfun/nRF2401A_Transceiver-Chip_Antenna: BRANCHES:[master:2759a7ae40724f2c3bf
 sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94fa60809b415f70009c8b32]|RELEASE:[none|none]
 sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10]|RELEASE:[none|none]
 sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-vagrantfile:ddefedf49e415f246de6137b796ab036808fcaf6;7.0:206640c0c94ae34b25c20d6d04ec8481590ffbd4;6.4:30b1b6102663893ba1b9cf891b69d7e6ce53bf0c]|RELEASE:[none|none]
+sparkfun/phant-manager-http: BRANCHES:[master:98359e976651b3def960ecde1d1fdab32575b23e;http_basic:1c2b65771b4f342c99a651d8e5122cbd9ff546da]|RELEASE:[none|none]
 sparkfun/sysadmin-application: BRANCHES:[master:df7ebd1cffb68d63c17aeb125bd9e03cc53b60f6]|RELEASE:[none|none]
 sparkfun/usb-scale: BRANCHES:[master:102a6d059b0f0f042926d6d74acf37181a02eeb6]|RELEASE:[none|none]
 sparkfun/xbeeconfigure: BRANCHES:[master:a507a131c88c5a93551e204ed44164ca461dd0fc]|RELEASE:[none|none]
