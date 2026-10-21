@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 09:28
+commit-tracking: 2026-10-21 09:29
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1281,6 +1281,7 @@ sparkfun/SX1509_IO-Expander: BRANCHES:[master:cc235c16a1f2104c928b55bb81e4c9e06d
 sparkfun/Serial7SegmentDisplay: BRANCHES:[master:920e8f980b40ca45565f0a4ed87fdc5915583aad;readme_cleanup:65ba969018918e7a08e3144c25c2dae02c63bf84;v3.1_live:6ca112cca45fd9d17706c5294e42d3f3a670968f]|RELEASE:[none|none]
 sparkfun/Serial_7_Segment_Shield: BRANCHES:[QC-Rev:0ea20bd40050a451a9bcd6c03722b7f7ca27dc74;master:ed313bc0a88e3b244281b9f12d1c544384c98540]|RELEASE:[none|none]
 sparkfun/Serial_Alphanumeric_Display_Driver: BRANCHES:[master:6c17655bb94a564a6a596b3b8f561c266cf410b5]|RELEASE:[none|none]
+sparkfun/Serial_Enabled_LCD_Backpack: BRANCHES:[master:22d86fdb29bde1ceabccfe6204d0b6c37d89cc18;V_2.9:9c2e03d083ca6dba4fa9fb631d6185a5fc82931f]|RELEASE:[none|none]
 sparkfun/SevSeg: BRANCHES:[master:aeb5fcd281cbf81d700f4232cc060736e6137b6a]|RELEASE:[V_1.0.2|9d7a9b724bc4294a0296a4304aacb79e237ae70d]
 sparkfun/Si4703_FM_Tuner_Evaluation_Board: BRANCHES:[master:d808bf51aa02e704b42cf8146d7121a2414fdada]|RELEASE:[V_H1.4_L1.2.0|d808bf51aa02e704b42cf8146d7121a2414fdada]
 sparkfun/Si4707_Breakout: BRANCHES:[master:220ec557257443ec4e37b06531a7ebb33cd3d97b]|RELEASE:[none|none]
