@@ -1119,6 +1119,7 @@ sparkfun/LilyPad_Arduino_USB: BRANCHES:[master:ab40ec3970fc62972de5cc36dda570109
 sparkfun/LilyTiny_LilyTwinkle: BRANCHES:[master:6b949c36604923574a0b14c1621452ecea00948f]|RELEASE:[none|none]
 sparkfun/LilyTwinkle_ProtoSnap: BRANCHES:[master:6f0c7cd06de1d2503b73fe746841a854c271ddce;TMP_3D:ca0b75f3f34f28ba1c828bcf27c693580d010ad9]|RELEASE:[none|none]
 sparkfun/MMA8452_Accelerometer: BRANCHES:[master:795044a676f8cb45e0d5034098bfe4ce8c3699c8;QC-Rev:7ea91e7dd83243883ffb49d072eee1eb71ba65c3]|RELEASE:[none|none]
+sparkfun/MPU-9150_Breakout: BRANCHES:[master:250e1be403af5271d08a2ba83a52755dba8836c1]|RELEASE:[none|none]
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
 sparkfun/Old-SparkFun-Eagle-Library: BRANCHES:[master:683dd3d58611c2055bd3bb65adb0b8d1940b2aa2]|RELEASE:[none|none]
 sparkfun/OpenLog: BRANCHES:[kicad:72cf54133f84219b56d7f9325bf416a2bb4d7ab2;master:140fe56ee7d3912b1d35d2c85ed2769f15572a08]|RELEASE:[v4.3|140fe56ee7d3912b1d35d2c85ed2769f15572a08]
