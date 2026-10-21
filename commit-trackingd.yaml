@@ -1311,6 +1311,7 @@ sparkfun/RedBot_Line_Sensor: BRANCHES:[master:81f44b0843601dd5127585ba34b0852fb4
 sparkfun/RedBot_Whisker_Bumper: BRANCHES:[master:cc1fc86c51b3821c30e3b5c4da95f6e54fea2459;HW_V11:3c4f9e35ac13156011a6db67d675badcf3687435]|RELEASE:[none|none]
 sparkfun/RooTooth: BRANCHES:[master:40bc9089a81fb809cf0a39fa9cd6bba28ae6a114]|RELEASE:[none|none]
 sparkfun/Rotary_Switch_Breakout: BRANCHES:[master:038b66e8d98c75b39f0a381d841162e5d80b208b]|RELEASE:[none|none]
+sparkfun/Rotary_Switch_Potentiometer: BRANCHES:[master:834715375db24d45c88cd4f23ed63f84718f1120]|RELEASE:[none|none]
 sparkfun/Rover5_Motor_Driver_Board: BRANCHES:[master:2823c4add50001f6ef44b9ea968aaec238a3f6a2]|RELEASE:[none|none]
 sparkfun/Run-SPOT-Run: BRANCHES:[master:804215b00528abcca12376858d56c2cd9215904a]|RELEASE:[none|none]
 sparkfun/SC16IS750_Breakout: BRANCHES:[master:bbcbe398bb7eaa13829bbe24991a63b5849bdbe5;v_1.4:98bcff98052ea6d1a764f10be74b591053e6e6a4]|RELEASE:[none|none]
