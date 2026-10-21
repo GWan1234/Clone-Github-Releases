@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-21 14:15
+commit-tracking: 2026-10-21 14:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2176,6 +2176,7 @@ sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library: BRANCHES:[mast
 sparkfun/SparkFun_ePaper_Arduino_Library: BRANCHES:[master:287b221cd0e513ae8b19706f076f319ab22d548d]|RELEASE:[v2.1.3|287b221cd0e513ae8b19706f076f319ab22d548d]
 sparkfun/SparkFun_smol_Power_Board_Arduino_Library: BRANCHES:[main:612682c89f1367c385f8294ba36b32396cf0cc00]|RELEASE:[v1.0.0|dafb85cfe61d47df06d2cf13ad6bbbb753459436]
 sparkfun/SparkFun_u-Blox_NEO_M9N: BRANCHES:[master:c38db3261ddbcdcfee0c42a4aebe22bbd574111f]|RELEASE:[none|none]
+sparkfun/SparkFun_u-blox_Cellular_Arduino_Library: BRANCHES:[main:4d4552cf0f143008a3de595dbba9481d72a68cec;Update_getFileBlock:8410a985de3c456a455dd23dfa3451cefb2478a5]|RELEASE:[v1.0.1|4d4552cf0f143008a3de595dbba9481d72a68cec]
 sparkfun/SparkFun_u-blox_GNSS_Arduino_Library: BRANCHES:[release_candidate:2b3ab66a5b287de6b0527a7d148a97d737cc9bd4;main:2b3ab66a5b287de6b0527a7d148a97d737cc9bd4;release_candidate_v2.1_modified_state_management:cdb93d19052ac13b462f4493a83fc97256fb7abf;downloadDeviceConfig:c8d63148f6b4866b773299749c8bf218ba60b19c]|RELEASE:[v2.2.29|2b3ab66a5b287de6b0527a7d148a97d737cc9bd4]
 sparkfun/SparkFun_u-blox_GNSS_v3: BRANCHES:[release_candidate:12716e075eb89d574ae4e28a2d9365abd9c2d07d;main:8b3ba1e212b009118172fbfde31e7f3a7b13c881]|RELEASE:[v3.1.15|8b3ba1e212b009118172fbfde31e7f3a7b13c881]
 sparkfun/SparkFun_u-blox_LARA-R6_Arduino_Library: BRANCHES:[lara-r6-conversion:e02ac6be6a6cdf1456ca72c563d25b972f4cf88c;main:22e738fd45594f437480a96b588b316bddec5542]|RELEASE:[none|none]
