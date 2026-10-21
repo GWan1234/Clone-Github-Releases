@@ -2035,6 +2035,7 @@ sparkfun/qwiic_bme280_py: BRANCHES:[main:c4576cc1450ffecff64535b7948d509ac690127
 sparkfun/qwiic_joystick_py: BRANCHES:[main:e0c0750c74889fecc59b3dd3114560409cd665e1;feature/packaging:9a98907885e1ae6a15e864c858bbba19fbfef607;examples:8430253909bf8cac4a9eaf31711af3a02aa234a9]|RELEASE:[2.0.0|e5c534fd6e3544dabcd20bc5f78c4dd1cadd664e]
 sparkfun/qwiic_keypad_py: BRANCHES:[main:90d17678b61c815fe1a522985dc9f0bb95482f8d;feature/packaging:03d99d404d3e4c26752a39198c7d05565177eae8;examples:a40cff87a0d5bb9c6a1a51507a82bc29955bddfa]|RELEASE:[2.0.0|fa1a27f9c9b1b49388a39d3a89c697c6350e3e35]
 sparkfun/qwiic_scmd_py: BRANCHES:[main:000a59be0386a3edec5a7e62233d72239415a67c;documentation/doxygen:78e5b2bbdb8856cf0ca6854e11bedd7b67d0e330;examples:5c7572175d459eead19013cacbbbf2a3036b4e7a]|RELEASE:[2.0.0|f022c957ec5f80a270595ff22bd5180c262eedc1]
+sparkfun/qwiic_twist_py: BRANCHES:[main:2264fa3da11af4abb6a8a69ae969e4a57630e7cd;feature/packaging:466caf96f9baaedc7d3c10f386eb18de825e0e3c;examples:a8bf15efbef5ba1c30e726ea4712c613d890f824]|RELEASE:[2.0.0|2d9a0dc7c71500ebacf54190b64d1e7912ac1671]
 sparkfun/samd_windows7_installer: BRANCHES:[master:184c2e8b81603e902c35e28d6c4cabe901428553]|RELEASE:[1.0.5.3|50fc5283c87a1a3a5e5b23aaaca06389ec5d4bfc]
 sparkfun/simple_sketches: BRANCHES:[master:8289da18a911885f24eb57b030d77a30a99010c0]|RELEASE:[none|none]
 sparkfun/spectacleapp: BRANCHES:[master:b4be5ca392a42ad6f5fa5b13934703db9f1d8a98]|RELEASE:[none|none]
