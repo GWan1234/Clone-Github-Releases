@@ -1169,6 +1169,7 @@ sparkfun/Edison_I2C_Breakout_Block: BRANCHES:[master:35d92c41a4a84ffa396a8ea101f
 sparkfun/Edison_Micro_SD_Block: BRANCHES:[master:d03e0de437046e3637e94fecb9454dd63d959f00]|RELEASE:[none|none]
 sparkfun/Edison_OLED_Block: BRANCHES:[master:5491d5a190750d4ebae4b6f5b79faff9a4ab0354]|RELEASE:[none|none]
 sparkfun/Edison_PWM_Block: BRANCHES:[master:944a0e9369a9f3e0a617156ac0c0905018b991e0]|RELEASE:[none|none]
+sparkfun/Edison_Pi_Block: BRANCHES:[master:ff682d3ec628a3553b9e54831d7d3ba879f8f8e5]|RELEASE:[none|none]
 sparkfun/Edison_UART_Block: BRANCHES:[master:1ccd50c0ecbe2c3ab83c7970174aadbecdbcbe8d]|RELEASE:[none|none]
 sparkfun/Electret_Microphone_Breakout: BRANCHES:[Revision:f39d4ec66b6b152b3a87481116fd0ec8f1fbe7fa;master:e60a3bcef2c3a6afa8ca664a03987d22bbe3a23a]|RELEASE:[none|none]
 sparkfun/Electric_Imp_Breakout: BRANCHES:[master:034f73aab36e63f81ea8029bc3cdfb0df274e38a]|RELEASE:[none|none]
