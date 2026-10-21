@@ -1507,6 +1507,7 @@ sparkfun/Sound_Page_Kit: BRANCHES:[master:d4c91fb9554a8fe93fc7b70ecfbc8769538718
 sparkfun/SparkFun-Eagle-Libraries: BRANCHES:[main:2354daeed58cd6bcfcb97f2669765dce8ef2aaf0;_vector_fix_for_diode:e414fb86d400db652eac574ba7c96d3ea1a3a5dd;Add_RGB_CBI_LED_RA_PTH:4c69fff3b5634706c44f9a3e84997c73c19b706b;Adds_1x09_1x10_Castellated_PTH_Parts:019e76caa606d894a84631426dedeede10869835;Adds_ESP32_C3_Mini:efdc2ff5408b59dbfd9fa5e6069fa04e797e4cc0;1.0mm_pitched_jst-sh:da61e2d681f0381bad96ba339b088144cb2f2ad8;NSUpdates:ba7d9e69d6d1e30cfdd1313e9017d357acf2050a]|RELEASE:[none|none]
 sparkfun/SparkFun-Live-Analog-Audio: BRANCHES:[master:d0a09ec3911a96ee79e2ae4074cf84989fd338f9]|RELEASE:[none|none]
 sparkfun/SparkFun_74HC595_Arduino_Library: BRANCHES:[master:59968e70f8e5d27bcf976a87cc8d145b51313e5b]|RELEASE:[none|none]
+sparkfun/SparkFun_9DOF_Block_for_Edison_CPP_Library: BRANCHES:[master:8c7b62446d02f045ff7aa4d95f90fe51724f5d7c]|RELEASE:[none|none]
 sparkfun/SparkFun_AD5330_Breakout_Arduino_Library: BRANCHES:[master:21aa99546be079bc995c9084e1b8947276985397]|RELEASE:[none|none]
 sparkfun/SparkFun_ADC_Block_for_Edison_CPP_Library: BRANCHES:[master:b037feb0db10467eaaad2b4ba226c2376370bd99]|RELEASE:[none|none]
 sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea27c64164d3405b936caa287b7c83f]|RELEASE:[none|none]
