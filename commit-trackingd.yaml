@@ -1217,6 +1217,7 @@ sparkfun/MPU-6050_Breakout: BRANCHES:[master:969bc827e21e1dafac3bdbef77d19107fbd
 sparkfun/MPU-9150_Breakout: BRANCHES:[master:250e1be403af5271d08a2ba83a52755dba8836c1]|RELEASE:[none|none]
 sparkfun/MaKeyMaKey: BRANCHES:[master:8fc09fc9bc4cbcb7dcd2b2b9eb00082965be67bf]|RELEASE:[none|none]
 sparkfun/Magician_Encoder: BRANCHES:[master:212776775f102d31a576d73879cb6dd7a164b870;hw_dev:be3fc290f78989ad80485bd678f13bf5291f0d06]|RELEASE:[none|none]
+sparkfun/MicroView: BRANCHES:[master:5d8093732656aee6353026accb4152b40e5d3ee8]|RELEASE:[none|none]
 sparkfun/MiniGen: BRANCHES:[master:526e02d6797b4772be25d8a9909f19bacea3c6c9]|RELEASE:[none|none]
 sparkfun/MiniMoto: BRANCHES:[master:37b98086d9e06e1f498409373ef970d830e45ba4;EdWilson-library_modifications:0a721831f158504bd7483dcad240564563100e2d;library_change:7ba29ed4335221f78ef38713a1e7652d62abedfc]|RELEASE:[none|none]
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6]|RELEASE:[none|none]
