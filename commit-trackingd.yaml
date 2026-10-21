@@ -1350,6 +1350,7 @@ sparkfun/SIM_Card_Breakout: BRANCHES:[master:9a9e1751c6ae69d9c76797d829cb1a38799
 sparkfun/SM5100B_Cellular_Shield: BRANCHES:[master:d57e083b4f32b2cad5a5390613b8470a186e2338;v13:bb54af6d4c1048028edce0455ad9dc5c2a647658]|RELEASE:[none|none]
 sparkfun/SN74HC165-Shift-In-Breakout: BRANCHES:[master:2849d3f53a830cc519669ee8ff21a1bdaf5079ff;readme_cleanup:3e808061163ef349a046b7b3e8a42869c58b7263]|RELEASE:[none|none]
 sparkfun/SOIC20-DIP_Adapter: BRANCHES:[master:497d77286f9ed648a4d0e7012a4249d7699c4daa]|RELEASE:[none|none]
+sparkfun/SOIC28-DIP_Adapter: BRANCHES:[master:10551d93fd8df43176fea67b3461998400cf0689]|RELEASE:[none|none]
 sparkfun/SOIC8-DIP_Adapter: BRANCHES:[master:d66a7341f08b11a1671031dfddfaf9ac607b7688]|RELEASE:[none|none]
 sparkfun/SPI_Shortcut: BRANCHES:[master:5f7b38c394fce858102454b0229c626adcd4bccc]|RELEASE:[none|none]
 sparkfun/SSOP-DIP_Adapter_28-Pin: BRANCHES:[master:aa7da5aee40eaa443f9eec398302200262ddd6c2]|RELEASE:[none|none]
