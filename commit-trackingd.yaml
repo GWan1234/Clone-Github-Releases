@@ -1337,6 +1337,7 @@ sparkfun/L6470-AutoDriver: BRANCHES:[master:6e71cacf06aa1cfe9e1be81cd59270bbe5a9
 sparkfun/LCD_TFT_Breakout_1in8_128x160: BRANCHES:[master:6ffe4b4305b53075ec46721a54f54bda2be3df53]|RELEASE:[none|none]
 sparkfun/LED_Array_8x7: BRANCHES:[master:1d487e80d40a6637f883c7c65cc9b7390d905a5f]|RELEASE:[none|none]
 sparkfun/LED_Driver_Breakout-TLC5940: BRANCHES:[master:52c035a3753d4f301d2620337d949fd105a381ee]|RELEASE:[none|none]
+sparkfun/LED_Gumball_Machine: BRANCHES:[master:b2e49d969b59bb9c244a66bc39ca57f32092eb79]|RELEASE:[none|none]
 sparkfun/LED_Matrix_Serial_Interface_RGB: BRANCHES:[master:4703c1a4679f2eafd1ccf2954d373e852f847f9f]|RELEASE:[none|none]
 sparkfun/LED_Matrix_Serial_Interface_RedGreen: BRANCHES:[master:3ba07887a3a734b63a47c7d26bb575b1f3a72947;V_1.2:b08431c0070515ce04a68af1967263a81dc966d3]|RELEASE:[none|none]
 sparkfun/LED_RingCoder_Breakout: BRANCHES:[master:2dcdf34a54d8dc723a9fcfe8e54a5f421dd4aebc]|RELEASE:[none|none]
