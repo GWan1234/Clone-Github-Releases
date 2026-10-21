@@ -1553,6 +1553,7 @@ sparkfun/Transceiver_Breakout-nRF24L01: BRANCHES:[master:0c6c96582be98cf78d87e75
 sparkfun/Transceiver_Breakout-nRF24L01_RP-SMA: BRANCHES:[master:7ea6ecc46f438929c2e8800ec35fe250c6015ec1]|RELEASE:[none|none]
 sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D: BRANCHES:[master:598f72b5c790b4d1eb4139ae4ead6bc8a1221619]|RELEASE:[none|none]
 sparkfun/Tri-Color_Breakout: BRANCHES:[master:9c8f4047fcc3bf4fe106c1c8ab0b7d79a22ddb6e]|RELEASE:[none|none]
+sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331: BRANCHES:[master:9f94d42719b5c597c6faf039b30d8ded9644d6db]|RELEASE:[none|none]
 sparkfun/Triple_Axis_Magnetometer-HMC5883L: BRANCHES:[master:017b6877bc974430ce42026c212656198e2dae38]|RELEASE:[none|none]
 sparkfun/UBW32: BRANCHES:[master:aed39433bf49bd65d48589b81ae09b74638d2df2]|RELEASE:[none|none]
 sparkfun/UDB5: BRANCHES:[master:6a79d11b6f4aa30cd1d92b6068eebd105329c794]|RELEASE:[none|none]
