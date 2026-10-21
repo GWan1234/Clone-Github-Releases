@@ -2021,6 +2021,7 @@ sparkfun/pxt-gator-particle: BRANCHES:[master:2668b8dc0d69d7de43df384e633e13ae34
 sparkfun/pxt-gator-temp: BRANCHES:[master:f3bfdeeae2f5d27df6bd22550256a9f3381993dc;bears_and_bears:272d4c1c6838a45fb9dec58f39c9849adcb41c74;test:8ec2c6aae0dc9ea1f52275d7f54abbde568038ec;Working_Copy:995b4a92627458794992fb008e0f0e92750bd596]|RELEASE:[none|none]
 sparkfun/pxt-moto-bit: BRANCHES:[master:a7151bd5491db792afc4dab141a30d357086d816;tweaks:3cccc10b03bf656fc6e75255ad6f426512843a5d]|RELEASE:[none|none]
 sparkfun/pxt-weather-bit: BRANCHES:[master:119ab5b4f21717e3a86cd3d8f928ea585d00817b;revert-18-master:ae7f637cd4376d07dbc392b0b8ea023fb083a3c6;nomanagedbuffer:1ea0eb86db80e21a8eb924797894c51eb3df8893;refresh:b894d49cacaf72bf3cda5ad51eb8e7e4445bec28]|RELEASE:[none|none]
+sparkfun/qwiic_bme280_py: BRANCHES:[main:c4576cc1450ffecff64535b7948d509ac690127d;feature/packaging:2e084bc19c90b4f04ba9b58a8ac617b324684453;examples:d64cb87f76f4f08d020fd15186b355ea886ab5b5]|RELEASE:[2.0.0|0470a1cd221bd35efca27cec30892a21b5abc1aa]
 sparkfun/samd_windows7_installer: BRANCHES:[master:184c2e8b81603e902c35e28d6c4cabe901428553]|RELEASE:[1.0.5.3|50fc5283c87a1a3a5e5b23aaaca06389ec5d4bfc]
 sparkfun/simple_sketches: BRANCHES:[master:8289da18a911885f24eb57b030d77a30a99010c0]|RELEASE:[none|none]
 sparkfun/spectacleapp: BRANCHES:[master:b4be5ca392a42ad6f5fa5b13934703db9f1d8a98]|RELEASE:[none|none]
