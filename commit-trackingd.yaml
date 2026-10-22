@@ -901,6 +901,7 @@ m5stack/M5-LoRa-E220-JP: BRANCHES:[main:1ca298bd706212f43feeef6f74210b66b66717d5
 m5stack/M5-LoRaWAN: BRANCHES:[master:3a6d86b04041822d7961dbc6e0b5c2d551ea9897]|RELEASE:[0.0.2|3a6d86b04041822d7961dbc6e0b5c2d551ea9897]
 m5stack/M5-ProductExampleCodes: BRANCHES:[master:1bc38736e61a362080d1dffc4020b3a2a1dff6ae]|RELEASE:[none|none]
 m5stack/M5-RoverC: BRANCHES:[master:cdf487a9110583bd3ccfe8f3f095e3707b40a820]|RELEASE:[0.0.1|a36d92013405b289a9fc6ca7b48a631362bd7bf5]
+m5stack/M5-SX127x: BRANCHES:[master:87c9694bf486c94d835a74d481fdd32d0aa9123c]|RELEASE:[1.0.0|ae84956e6a6d346d0ea8bccb624bda831d83078f]
 m5stack/M5-Schematic: BRANCHES:[master:686d1ec36a89046f79b57d8e9611b3868efc4868]|RELEASE:[none|none]
 m5stack/M5-StickT: BRANCHES:[master:a502cb40e0837bccd55a3e09389f3cbfc155cea8]|RELEASE:[none|none]
 m5stack/M5-StickV-UnitV: BRANCHES:[main:a1f1ecb80f8572c7b2ab9d15a59ab99823afa4b3]|RELEASE:[none|none]
