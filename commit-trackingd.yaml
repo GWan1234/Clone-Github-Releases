@@ -878,6 +878,7 @@ m5stack/Grbl_Esp32: BRANCHES:[main:c58259bdeef3988fb96efcc1414bba4e0a262452;Flui
 m5stack/IoT_BASE_NB_FactoryTest: BRANCHES:[master:3b8d8ff221ff3f25a298cfc4abd1ccd4244df12a]|RELEASE:[none|none]
 m5stack/M5-ADS1100: BRANCHES:[master:a5ba4c726096cba211f598a7bc9f9850e85ad1dd]|RELEASE:[0.0.1|0c5724e2b48c46fd9287e6dd62fe37dc6768aa01]
 m5stack/M5-ADS1115: BRANCHES:[master:129349489310a96feed15f9d922081aa641c62f9]|RELEASE:[1.0.0|129349489310a96feed15f9d922081aa641c62f9]
+m5stack/M5-DLight: BRANCHES:[master:4dd8d2bd862abce5e995a2e7efea2a691baa8c75;fix/update-examples-for-current-m5-library:a7f62041c8d9e683e3f5f6874b752cf50ed45dc2]|RELEASE:[0.0.5|4dd8d2bd862abce5e995a2e7efea2a691baa8c75]
 m5stack/M5-FPC1020A: BRANCHES:[master:0ecd2862f6f30fb7d2a5608c614a0f7e4a17d9a2]|RELEASE:[1.0.0|0ecd2862f6f30fb7d2a5608c614a0f7e4a17d9a2]
 m5stack/M5-ProductExampleCodes: BRANCHES:[master:1bc38736e61a362080d1dffc4020b3a2a1dff6ae]|RELEASE:[none|none]
 m5stack/M5-RoverC: BRANCHES:[master:cdf487a9110583bd3ccfe8f3f095e3707b40a820]|RELEASE:[0.0.1|a36d92013405b289a9fc6ca7b48a631362bd7bf5]
