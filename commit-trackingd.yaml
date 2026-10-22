@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:55
+commit-tracking: 2026-10-22 19:56
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1001,6 +1001,7 @@ m5stack/M5Unit-ACMeasure: BRANCHES:[main:821882d4a7a040509e62010f33d36e927079c3b
 m5stack/M5Unit-ACMeasure-Internal-FW: BRANCHES:[main:e7df767e2df85aeb0554f6432e19915614f4034f]|RELEASE:[none|none]
 m5stack/M5Unit-ACSSR: BRANCHES:[main:842af01c49e832618117ea7209de5e53194d2113]|RELEASE:[0.0.3|524fbd668a267b3b99114f8fc44c0732d13113e1]
 m5stack/M5Unit-ACSSR-Internal-FW: BRANCHES:[main:5e3722be4e74c7fd1c66f496e74bb873906fa0f2]|RELEASE:[none|none]
+m5stack/M5Unit-BLDC-Driver-Internal-FW: BRANCHES:[main:1747cb75ad963f5f2b9a3c7d043257e6ad2ad52e]|RELEASE:[none|none]
 m5stack/M5Unit-CAN: BRANCHES:[main:4656a2adc0d586f3904a96b34334ce6fd5b0b0ad]|RELEASE:[1.0.0|4656a2adc0d586f3904a96b34334ce6fd5b0b0ad]
 m5stack/M5Unit-CatM: BRANCHES:[main:8c95bd37c83a808ddedcc1808b8d6abdb1923087]|RELEASE:[0.0.1|60528f5b02106dd38aac3ddd2be61f8ac081cd31]
 m5stack/M5Unit-DDS: BRANCHES:[develop:7a44d14d135f0ea2683a358fddd63826af912a4f;gh-pages:c969c385d664fb5fda1477055680a6c742c2cddb;master:fcb7ed8583ea02dd540923bb4f183d312861f4e3]|RELEASE:[0.1.1|fcb7ed8583ea02dd540923bb4f183d312861f4e3]
