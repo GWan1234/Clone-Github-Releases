@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:57
+commit-tracking: 2026-10-22 16:58
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2673,6 +2673,7 @@ waveshareteam/WAVEGO_Pro: BRANCHES:[main:3d74e86d7320a892a822739b21a2a1e62822c15
 waveshareteam/WM8960-Audio-HAT: BRANCHES:[master:d4915ac97730e78e43f985dabcf3903e85eb8b0a;6.18.x:fb6c81cef4126a0d0f0a28f4d49a8dceab883508;6.18-x:fbfbb0ee949103b6b3c07fd7bb9c5c6f3d9810ba;6.12.x:971890c0f31be554647f7591579c43b1bca55b93;rpi-4.9.y:a9aa1d0a10356fbfb56fcd8a63c7435ac80eb173]|RELEASE:[none|none]
 waveshareteam/Waveshare-DSI-LCD: BRANCHES:[main:0d3dcd2aa4eb65a46c98240baf326641a4c3884e]|RELEASE:[none|none]
 waveshareteam/Waveshare-ESP32-components: BRANCHES:[master:23a6012d5e87d27399cf90fb851cab3689e29159;codex/pcf85063a-calibration:ea13e7aea2f0e3b83f0e81a46d2bcaffdfcf1a6b;fix/esp32-p4-lcd5-dsi-clock-revision:a3fcc43e4c2da30dc609d456a86497e9cee2d610;feat/esp32-c6-touch-amoled-2-16-bsp:3ee1111431a150f0cc391288c59cee1b2e5e93ad;feat/esp32-p4-wifi6-touch-lcd-4-3-bsp:5245332a8e53cc0dd7b7d880c3be594068d47799;fix/esp32-p4-lcd-7b-lvgl9:b0af2686dbb91d0976e07ae42c21aac1e71c10cd;fix/esp32-p4-lcd35-display-header:3803516d4e525f63f6e89f16727c3f7ced65b1fe;codex/fix-esp32-p4-3-5-lvgl8:94cf2e4113fb09998a638cf9ee4460b25f2efb85;fix/lcd4b-gt911-address-probe:e29dc14751122227c1b86b5bb9873d42cd622906;fix/esp32-p4-idf6-display-config:0019409e4f5951f4fc2486da49cfaf42a41a48e1]|RELEASE:[none|none]
+waveshareteam/Waveshare-ScreenKey: BRANCHES:[main:badb772628495ffcb3e5432d7a8fb18a0385e03d]|RELEASE:[V1.1|badb772628495ffcb3e5432d7a8fb18a0385e03d]
 waveshareteam/ddsm_example: BRANCHES:[main:79bfd6f21f9f8f15c231797184a3a93bf881c8a7]|RELEASE:[none|none]
 waveshareteam/e-Paper: BRANCHES:[master:a794fbc39656b0f93938d1ffb3fdc77eaed9e9fc;Development:2ccb7f61c1ea4061863a2e7fbaeeea04ce51de12]|RELEASE:[none|none]
 waveshareteam/lerobot: BRANCHES:[main:39be85cdae8652aff83336e45f18e65693721f92]|RELEASE:[none|none]
