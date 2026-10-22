@@ -907,6 +907,7 @@ m5stack/M5EPD_Todo: BRANCHES:[main:008f73dd94adb9d12931b78c4d459da46b770e1e]|REL
 m5stack/M5GFX: BRANCHES:[develop:4d1d9ebf5ea6683d45d3bd3ec6e5581c316bf376;master:a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72;copilot/fix-code-for-review-comments:7502f29622dff7e19dd5c24cddbf1d3b58786ff0;feature/lvgl_font_support:62f5ba0747877ad7723d8aca6035bcbf3a9bb85d;fhd60:3c509b7d02c79acfb76879d82016ad6a766ca929]|RELEASE:[0.2.34|a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
+m5stack/M5Hat-8Servos: BRANCHES:[master:b8ebe97e89cb57f7e92a82449d8f0a104d8821d8]|RELEASE:[0.0.2|fafbe703e065f5527c2da5f71727d03a9d584104]
 m5stack/M5Hat-JoyC: BRANCHES:[master:c656bff6ca651c33d3330ceb89e0cc851dd8e48a]|RELEASE:[0.0.1|3eccb38006add7dd9f45aff0e85292c46ce535f2]
 m5stack/M5Hat-PowerC: BRANCHES:[master:2cd83d770f93dd05c6f41f6029255b934fc4a194]|RELEASE:[none|none]
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0047d8]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
