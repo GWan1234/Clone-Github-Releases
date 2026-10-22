@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:20
+commit-tracking: 2026-10-22 16:21
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2116,6 +2116,7 @@ sparkfun/SparkFun_Qwiic_RFID_Arduino_Library: BRANCHES:[master:a4ae662d3908ce33f
 sparkfun/SparkFun_Qwiic_RFID_ID-XXLA: BRANCHES:[master:78989e5954a674eb3848a7ec43b353622003aab9]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_RFID_Tag_ST25DV64KC: BRANCHES:[main:3769d5a44c71c0aa3b8b94126b3d8e426dc7eeb4;docs:d8418bf8f6af6fbd758b479a745f793772e28e5a]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Relay_Arduino_Library: BRANCHES:[master:b2e617e907f89cb23115a0aeec848dd5406c953f]|RELEASE:[v1.3.1|b2e617e907f89cb23115a0aeec848dd5406c953f]
+sparkfun/SparkFun_Qwiic_Relay_Line: BRANCHES:[main:d3f71c35d21678aefd6a2488bb588ae2cd5c2009;add_prodid:f4b83c9c12022df6e1e9c8399e667a69d2a2b53e]|RELEASE:[v1.0.0|d3f71c35d21678aefd6a2488bb588ae2cd5c2009]
 sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library: BRANCHES:[release_candidate:e15210f5b58f4c013239c65430dec74395961691;main:e15210f5b58f4c013239c65430dec74395961691]|RELEASE:[v1.0.6|e15210f5b58f4c013239c65430dec74395961691]
 sparkfun/SparkFun_Qwiic_Speaker_Amp: BRANCHES:[main:0666c55c884f3d58f34ac0dac3905eb5b8ca0fcf]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Step_Arduino_Library: BRANCHES:[master:e23010718d2479ddea76d63d9aaed154590c92af;hold/run-current-implementation:a4b0dc9d2d16fdffd96c0a3bc0d1107c71e95048;Motor-run-option-implementation:c40688149634b91680f8caa5366898a752c7c085]|RELEASE:[none|none]
