@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:00
+commit-tracking: 2026-10-22 19:02
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -883,6 +883,7 @@ m5stack/M5EPD_Calculator: BRANCHES:[main:99c3cb72a53de9ca2837a85925d01f28f852b1c
 m5stack/M5EPD_OnlineImage_FixUrl: BRANCHES:[main:3fae072d9799c77f525f6301f8a3ca39884a692c]|RELEASE:[none|none]
 m5stack/M5EPD_TTFExample: BRANCHES:[main:d1fb968cb611087be083bf0c01bc67d34442d3db]|RELEASE:[none|none]
 m5stack/M5EPD_Todo: BRANCHES:[main:008f73dd94adb9d12931b78c4d459da46b770e1e]|RELEASE:[none|none]
+m5stack/M5GFX: BRANCHES:[develop:4d1d9ebf5ea6683d45d3bd3ec6e5581c316bf376;master:a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72;copilot/fix-code-for-review-comments:7502f29622dff7e19dd5c24cddbf1d3b58786ff0;feature/lvgl_font_support:62f5ba0747877ad7723d8aca6035bcbf3a9bb85d;fhd60:3c509b7d02c79acfb76879d82016ad6a766ca929]|RELEASE:[0.2.34|a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
