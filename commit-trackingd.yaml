@@ -1642,7 +1642,7 @@ sparkfun/Qwiic_Micro_OLED_Py: BRANCHES:[main:c8e28313e50278649ba308fe26abd6c1834
 sparkfun/Qwiic_Motor_Driver: BRANCHES:[master:4ee98aac48f8d30d6c53dfdcd220d1536cd5a5a3]|RELEASE:[none|none]
 sparkfun/Qwiic_MultiPort: BRANCHES:[main:1642f0465f6c0009816cd416eacbf85d05a7cb45]|RELEASE:[v10|1642f0465f6c0009816cd416eacbf85d05a7cb45]
 sparkfun/Qwiic_MultiStar_Board_Promo_Constellation: BRANCHES:[main:04d805d123eeb0026970922b6362c59c48df4577]|RELEASE:[none|none]
-sparkfun/Qwiic_Mux_TCA9548A: BRANCHES:[master:9548c6af9c1a74b11904dc5b28cc3f25f7cf2ecd;v1.1:56dd001df74e9eb9a9dd2ba8cd68dbdd1274345b;v1.0:572cb352dea46289121ed5c92ab57f6019adf7bd]|RELEASE:[v10|572cb352dea46289121ed5c92ab57f6019adf7bd]
+sparkfun/Qwiic_Mux_TCA9548A: BRANCHES:[master:9548c6af9c1a74b11904dc5b28cc3f25f7cf2ecd;v1.1:56dd001df74e9eb9a9dd2ba8cd68dbdd1274345b;v1.0:572cb352dea46289121ed5c92ab57f6019adf7bd]|RELEASE:[none|none]
 sparkfun/Qwiic_OLED_Display_Py: BRANCHES:[main:0864759bd947b841d805d05aa314b70dbb3bc4d4]|RELEASE:[v0.0.2_test|0864759bd947b841d805d05aa314b70dbb3bc4d4]
 sparkfun/Qwiic_OpenLog: BRANCHES:[master:f3f6a3ec3f70fe4c14612b38fac360f26ee79a4c]|RELEASE:[none|none]
 sparkfun/Qwiic_PIR: BRANCHES:[master:17b39a30d9ea2ae5aa8e94abd94721c7a31928aa]|RELEASE:[none|none]
