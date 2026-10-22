@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:38
+commit-tracking: 2026-10-22 19:39
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -991,6 +991,7 @@ m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c
 m5stack/M5Unit-NCIR2: BRANCHES:[main:4ede7a0b1092e7e0c2b64fc64a2708b9ab40e487]|RELEASE:[none|none]
 m5stack/M5Unit-NCIR2-Internal-FW: BRANCHES:[main:8e923d8c0f5f109259568da6fdb6a2444de74f6e]|RELEASE:[none|none]
 m5stack/M5Unit-PoESP32: BRANCHES:[master:e5640a1c8f0c9081d235d540d1473acf5218720c]|RELEASE:[0.0.2|e5640a1c8f0c9081d235d540d1473acf5218720c]
+m5stack/M5Unit-QRCode-Internal-FW: BRANCHES:[main:2c44fe0fd85d3346bd6484fcd59e5cb333dd7937]|RELEASE:[none|none]
 m5stack/M5Unit-RELAY: BRANCHES:[master:63fea6153fa6db13aff1c743403b86f09383fc71]|RELEASE:[0.0.2|63fea6153fa6db13aff1c743403b86f09383fc71]
 m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;master:26c1349251052d4ec1a965a6c783b3c765dc8fbb;develop:28e46ddb9ce0a14ef5e90d87f8f949144d1a616c]|RELEASE:[0.1.0|26c1349251052d4ec1a965a6c783b3c765dc8fbb]
 m5stack/M5Unit-Scales: BRANCHES:[main:c31e207333d34ffb03f903e1e16fa3072b2b598b]|RELEASE:[none|none]
