@@ -2678,6 +2678,7 @@ waveshareteam/e-Paper: BRANCHES:[master:a794fbc39656b0f93938d1ffb3fdc77eaed9e9fc
 waveshareteam/pico-lorawan: BRANCHES:[flash-backed-eeprom-board:4c54ffc1c385e51585f5b16569bcb8b582d3c957;main:d2d09822c292dfe3404b25006af9cda8066e47a2]|RELEASE:[none|none]
 waveshareteam/pxt-APA102: BRANCHES:[master:c5eaffabf547d6c4d6d48218ec9dbfd99966d1bf]|RELEASE:[none|none]
 waveshareteam/roarm_m2: BRANCHES:[main:c6ccc5bda2eb92df2f0850d3e63cc42b81557f4f]|RELEASE:[none|none]
+waveshareteam/roarm_ws: BRANCHES:[ros2-humble-develop-251125:fc2b0e40fab785f637dbd81918b79a0892c8f1f3;ros2-humble:40dbd84b553695212fab713e8465f817ba95454d]|RELEASE:[none|none]
 waveshareteam/roarm_ws_em0: BRANCHES:[ros2-humble:f06b2ed6c1ddc5b7690975fdbba84aab626a2229]|RELEASE:[none|none]
 waveshareteam/ugv_base_general: BRANCHES:[main:d308df91b333a513f45a238bef9ba9a0a5edf64c]|RELEASE:[none|none]
 waveshareteam/ugv_base_ros: BRANCHES:[main:2e7df97c331ff63e1481afb34feec52014a3632a]|RELEASE:[none|none]
