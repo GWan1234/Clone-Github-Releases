@@ -2158,6 +2158,7 @@ sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc188
 sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0]|RELEASE:[none|none]
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0]|RELEASE:[none|none]
 sparkfun/SparkFun_Red_Vision_Camera_Board_HM01B0: BRANCHES:[main:8aaf35d75f856d1722d795cc57673f4490c52867]|RELEASE:[none|none]
+sparkfun/SparkFun_Red_Vision_Kit_for_RedBoard: BRANCHES:[gh-pages:44c933e8a3def934f45769e00f48953e53254456;main:6c86b9eb2ebfea38bdfdea1b9eca599980aadb75]|RELEASE:[v1.0.0|0099f850c916f82e11354ce278f6f93017b53677]
 sparkfun/SparkFun_Red_Vision_Kit_for_XRP: BRANCHES:[gh-pages:0c412ec11d63829f5753926cedd31a549183793f;main:31d1a20ecb4b9a756fe49bec1b251fb390b9d3ab]|RELEASE:[none|none]
 sparkfun/SparkFun_Red_Vision_Touch_Display_for_Pico: BRANCHES:[main:00066e6757895a66544c5c06ea17ca2a6486e0c5]|RELEASE:[none|none]
 sparkfun/SparkFun_Red_Vision_Touch_Display_for_RedBoard: BRANCHES:[main:55d207429ee28a6960ceab4883a13edf81adeecc]|RELEASE:[none|none]
