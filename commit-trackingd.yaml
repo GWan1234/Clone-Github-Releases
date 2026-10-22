@@ -2226,6 +2226,7 @@ sparkfun/SparkFun_Toolkit: BRANCHES:[main:b65201164e14c67255de1a07965f035420181d
 sparkfun/SparkFun_TouchInput_Arduino_Library: BRANCHES:[master:89031a406c1f65415f945b8e6401fa514b69ab0c]|RELEASE:[none|none]
 sparkfun/SparkFun_TouchInput_Driver_FT5xx6: BRANCHES:[master:4ee2b3bfbd70a2ef8e904fcbf9cb1aae062b21bb]|RELEASE:[v1.0.0|4ee2b3bfbd70a2ef8e904fcbf9cb1aae062b21bb]
 sparkfun/SparkFun_Trackuino: BRANCHES:[1.52:825c5724dd842e6334b1c7b1c6c4f7dd53a7b896;master:d5cd513147e43b865ff378e7cb1f4367fa31e0ac;1.51:0b97df1dd1ae1c5de13f6849a64392860547096b;1.5:22aef4e9cada04ff87beca629df3f506df1c4658;1.4:0a0c06b2f40a75dcd35ed8930839a6281231a2be]|RELEASE:[none|none]
+sparkfun/SparkFun_Triple_Axis_Acclerometer-LIS3DH: BRANCHES:[main:7d6bde80688871b4ce9355815a1cfc40219b901d]|RELEASE:[none|none]
 sparkfun/SparkFun_Tristimulus_Color_Sensor-OPT4048: BRANCHES:[gh-pages:f237acc62465b2b1e8e6ec1a53f48120c9a2664d;main:e9f300b54d0f1a3485fb81930411f79493a0acc3]|RELEASE:[none|none]
 sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library: BRANCHES:[main:98324f16c96112eadca095a32ae5f029da5e0d6c]|RELEASE:[v1.0.0|e66aaaf000dd3c1ab519a0224e97ff56c8f0afaf]
 sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic: BRANCHES:[v23:8f9522802bf6c5175128cabdaadb0da11ae23c34;main:336eb78afcebdcea91bf6caa554670940aae7bd5;v22:d10494d7211b472e06a01ed49d1e988f12007047]|RELEASE:[V21|37f72380bd46caa9ab75d793154c6e9f378153a6]
