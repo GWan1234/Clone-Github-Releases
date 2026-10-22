@@ -1923,6 +1923,7 @@ sparkfun/SparkFun_HM01B0_Camera_ArduinoLibrary: BRANCHES:[master:b5bc98420697763
 sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library: BRANCHES:[master:ef72c30803a2c5152beb42924775d69f40c17c8d]|RELEASE:[none|none]
 sparkfun/SparkFun_HMC6343_Arduino_Library: BRANCHES:[master:032f111dfbc4d08353f7219cfa2102b778570337]|RELEASE:[none|none]
 sparkfun/SparkFun_HSTX_PTH_Breakout: BRANCHES:[main:48e2aab291a360cfd6449c322a052e6c15edda3d]|RELEASE:[none|none]
+sparkfun/SparkFun_HSTX_to_DVI_Breakout: BRANCHES:[main:817bf5a05a6e77e48831d0f24c5156b6fa9f822b]|RELEASE:[none|none]
 sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library: BRANCHES:[master:3886ebd95291e223ec3319da37eaaf3eb0e7e47b]|RELEASE:[none|none]
 sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library: BRANCHES:[master:1b55bec89f0d8f990ad36e88acb5fcb5710d371c]|RELEASE:[none|none]
 sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic: BRANCHES:[master:aa763eaee71d9245e5c31daa6883f6f5c6186f16]|RELEASE:[none|none]
