@@ -1070,6 +1070,7 @@ m5stack/M5Unit-Synth: BRANCHES:[main:15187335a36987a5d33486a8330f16aac4cba2d8]|R
 m5stack/M5Unit-TOF: BRANCHES:[gh-pages:38d8622bfd1279c318fddcfc04b3497c9fdd99be;main:9de70e8e4ed6a24845bb9e5dc99226dc06b80070;develop:d769adff5d10e0df8726a79ae3ff18cc6fd86f35]|RELEASE:[0.3.0|9de70e8e4ed6a24845bb9e5dc99226dc06b80070]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7]|RELEASE:[none|none]
+m5stack/M5Unit-TimerPWR: BRANCHES:[main:94e0089de4e07d68a0b6710228109cebead2a7f4]|RELEASE:[none|none]
 m5stack/M5Unit-ToF4M: BRANCHES:[main:b523d573f8b608cbe351fce33f5cbfbbdd05856c]|RELEASE:[1.0.0|b523d573f8b608cbe351fce33f5cbfbbdd05856c]
 m5stack/M5Unit-UHF-RFID: BRANCHES:[fix/uhf-rfid-membank-and-read-address:0689eb7b62fe6609e76c65079d0de25550ca5c82;master:6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]|RELEASE:[0.0.4|6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]
 m5stack/M5Unit-V2-AICamera: BRANCHES:[main:b3735002732c995ba2e96bbef875e21be3ecb080]|RELEASE:[none|none]
