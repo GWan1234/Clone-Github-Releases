@@ -865,6 +865,7 @@ m5stack/Applications-LidarBot: BRANCHES:[master:9a6fa899248b0ebc5f73a9e5d140b572
 m5stack/Applications-M5PIANO: BRANCHES:[master:f1d7bb59eeb08d6a4dab07fe42c05ad74cb5d7ac]|RELEASE:[none|none]
 m5stack/Applications-cam: BRANCHES:[master:61f65179939a2850d54fc7b31ffa12466059b261]|RELEASE:[none|none]
 m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|RELEASE:[none|none]
+m5stack/CBACK_NBIoT: BRANCHES:[master:c4dca147e2226cee156464fff1d8e723f55c9001]|RELEASE:[none|none]
 m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[BSP-dev:bc2caabce412f5711b268a33f5ee4564c4442955;master:3ec44e08e239755b874b800aede1aea528beed25]|RELEASE:[none|none]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:541cb817c5d78e7e010f67b60e9774de2092b0ed]|RELEASE:[none|none]
 m5stack/DEMO-BOARD: BRANCHES:[master:a60a67db429375cef3f93bb5d054bd10deb796c1]|RELEASE:[0.0.2|4cbaebf3227b9580493f3f250bd0bc9397212321]
