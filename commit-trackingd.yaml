@@ -2082,7 +2082,7 @@ sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library: BRANCHES:[main:e9b8e357914c5
 sparkfun/SparkFun_Qwiic_Universal_Auto-Detect: BRANCHES:[main:39b20cc3a9a1b1163f14fdfb8812c754926734c8;gh-pages:77c27c6c2e5da76f8eb45a7884410364b99cae94;release_candidate:69861b149464cf5f26c8ac228676f2bd65fcb98f]|RELEASE:[v1.0.1|411fb63116d9a793d75f0dbbddb5740efc5ce9d0]
 sparkfun/SparkFun_Qwiic_WAV_Trigger_Pro: BRANCHES:[gh-pages:f822ee9988454c83a778822ddc92b2f0b9ce3d03;main:ce8ef7b833609faf070197b642c5425d435c425f]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_XM125_Arduino_Library: BRANCHES:[main:4d2d89c55cdbcbdecc7fd0a37edfe9161113a6ab;release/v02.00.00:d41a87940eaa6bce177d3e7640ce978d119d36bf;develop:1588781d236d73fe575460ef7d0161bb91f1d6e2]|RELEASE:[v1.0.4|929ddf60a1285f659c3aef05084dd2be9ec97125]
-sparkfun/SparkFun_Qwiic_dToF_Imager-TMF882X: BRANCHES:[main:740270a20d78007335bffadc37cc784e1ea64e54]|RELEASE:[v1.0|203821540a2343a68b70819fd75f304656a38689]
+sparkfun/SparkFun_Qwiic_dToF_Imager-TMF882X: BRANCHES:[main:740270a20d78007335bffadc37cc784e1ea64e54]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_pHAT_Extension: BRANCHES:[master:571793c5ad78317e58c8af851ab91404821a02da]|RELEASE:[v1.0|571793c5ad78317e58c8af851ab91404821a02da]
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
 sparkfun/SparkFun_RGB_CBI: BRANCHES:[main:7e411ad9eca17adf1e508975a7ccc37e640fc150]|RELEASE:[none|none]
