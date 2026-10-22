@@ -1908,6 +1908,7 @@ sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616
 sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K: BRANCHES:[main:94fa41377b57bcb29b226d363950e9be80011ef2;fix-panel:b91dc186917e48bdeeb3b1c65f35d2a712a863d8]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Flex_pHAT: BRANCHES:[main:20a5cb72ce28d5cd9bfebe683dcd425cadb658f9;pcUpdates:54fea69566f77a529a086adb9b3f589246fda0fe]|RELEASE:[v10|d302da426c70b9f78a2a01d0e27b5426d043fbe9]
 sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882]|RELEASE:[none|none]
+sparkfun/SparkFun_GNSS_LG580P: BRANCHES:[main:0854f32d5280f7cde448ad15c994f6937f3fe73d;gh-pages:c8e930b3f32a65b7b3741cc2aad359162a2598b9]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Timing-ZED-F9T: BRANCHES:[main:5bddb79e87f30bcbd85630fde40c8cfd1a68f248]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_mosaic-X5: BRANCHES:[main:7012dfad10d2b8670f3026c52990f793f65b08f8;gh-pages:c4bde58031a1be5ddcd3a4db82e6b058b7d06748;Add_Ethernet_Phy_PROD_ID:fa58585d73b5768c14169b2c5aa2374901fb5711]|RELEASE:[v10|52ba8d188694b036c94d659d7fd630daeb766704]
 sparkfun/SparkFun_GPIO_Block_for_Edison_CPP_Examples: BRANCHES:[master:286dceb2738fdbfd3e499f5c7ff7a9db2c4be2c5]|RELEASE:[none|none]
