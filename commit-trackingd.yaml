@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:39
+commit-tracking: 2026-10-22 16:40
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2651,4 +2651,5 @@ ventoy/vtoydump: BRANCHES:[master:79d58b487f7c05065f842ccb9b8e798f00ad16f5]|RELE
 ventoy/vtoytoolchain: BRANCHES:[main:7ef92b6fa5bd62270fbe53571e032f338a753e45]|RELEASE:[1.0|7ef92b6fa5bd62270fbe53571e032f338a753e45]
 ventoy/wimiso: BRANCHES:[master:2052ac4a462897708de71573129f71d54f72f614]|RELEASE:[v1.0|1011a7d0293ab8644ebd75426092f71b59d9cfe6]
 vernesong/OpenClash: BRANCHES:[package:20866e2f56a26b7523c31bbb159f9d7f0a53d311;dev:91d73707a6bcd0f8ec96a57095d72b1b4357cbe7;core:276ae9d8e7f7d9b9814ae23e015cfe29804b2cbe;master:e553e82e01c697aefbe1555261a503f425e00ccd]|RELEASE:[v0.48.002|e553e82e01c697aefbe1555261a503f425e00ccd]
+waveshareteam/JoyStick: BRANCHES:[master:e090d95944ae0fc614f708461498dbf875ef1243]|RELEASE:[none|none]
 xfangfang/Macast: BRANCHES:[dev:881c6e6bc0006e85b152d2c70caad5807c029173;dev_test:ee58f4ec497704536461749c3afa659caccc34e0;pypi:0b138bd083d0609be2ae5973ff4510dbeef25cb2;main:121add3a8a70edb77e33aeab1ec88aeff27f49fc;add-license:7d56cce3f3110fd62df9fdcdd116f48e8fe2cea4]|RELEASE:[v0.7|6a60737f703cda475445ccf76de874d5e52c5485]
