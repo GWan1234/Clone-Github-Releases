@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 18:31
+commit-tracking: 2026-10-22 18:32
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2691,6 +2691,7 @@ waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:deaf773feb2dd18a2a55b81562
 waveshareteam/ESP32-C6-Touch-LCD-2.8: BRANCHES:[main:c2a1cf84d6213597d47720a51b3e60cc7f1d5257]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c046ba36a12886974]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c158371e03be]|RELEASE:[none|none]
+waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:6f78fa810ec505048c1941e3d09cefc9f29129bd;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[main:870588e62daaf723f3c52f0060d8dc053665ed30;docs/readme-product-overview:af5a650c3de5bd16b5204256dba11109d4b0c753]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5-update: BRANCHES:[main:737cb6a83992565dce4791b38f300882f0cf5e69]|RELEASE:[none|none]
