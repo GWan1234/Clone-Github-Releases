@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 18:41
+commit-tracking: 2026-10-22 18:42
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -858,6 +858,7 @@ home-assistant/zwa2-toolbox: BRANCHES:[master:c6bd7d082cd8becf60f3566d5674f0e488
 hylianfin/Aliro-homekey: BRANCHES:[main:ff1e610fc9c3ddfefe31ffc5f06b1ae8eb710d2b;revert-1-main:076b16053489839ff08a78c1a7d2f77adbbb6b29;page:88420a29e1c89fd4e2449255a29ecbe58e5f12a4]|RELEASE:[none|none]
 kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de0768a9;master:10c56b4f94c1ec79a65c4d8eb890e2ac4e9b11bc;2023.03.02.1000:4b4f1bd2649f3b540ca20945f461287d4f987a01]|RELEASE:[v2023.03.02.1000|0f4071a61b4ba8a7119d3405e760929089545f9e]
 lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db765132892b2b]|RELEASE:[none|none]
+m5stack/azure_iothub_arduino_lib_esp32: BRANCHES:[master:baf0e17605a5a3d7856ba4ded32e4edc7deb9095]|RELEASE:[none|none]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c]|RELEASE:[none|none]
 martin-ger/ESP32_Locator: BRANCHES:[master:b14acf1935f3e99cee900e4d15a76ff40cc743b3]|RELEASE:[none|none]
