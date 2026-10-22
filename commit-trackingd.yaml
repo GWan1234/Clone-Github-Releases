@@ -2086,6 +2086,7 @@ sparkfun/SparkFun_Qwiic_OTOS_FTC_Java_Library: BRANCHES:[set_pose_workaround_v9.
 sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library: BRANCHES:[main:6feda012dc8f8b9f811e73b6e95553579e0d0a75]|RELEASE:[v3.0.2|d8e064163efe24fba06ba940faa0d7a77253f8e9]
 sparkfun/SparkFun_Qwiic_PIR_Arduino_Library: BRANCHES:[master:3dde29c1c62579f5a174c351ae3b080a234e6cc5]|RELEASE:[v1.0.0|3dde29c1c62579f5a174c351ae3b080a234e6cc5]
 sparkfun/SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6: BRANCHES:[gh-pages:8cfff44544cd71c7be42420a070ad6561703c107;main:242b9740cadc2667aff62b3298838541b47ff371]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_Power_Meter_ACS37800: BRANCHES:[gh-pages:361b9f1cd9a8593682d2526f7026717f281f4572;main:083435b6da0c05f839de9ff5063514ee2d6ad0d2]|RELEASE:[v1.0.0|486dcf0c327d7cdb8a649d8e3c7870b6d70b9ed0]
 sparkfun/SparkFun_Qwiic_Power_Switch: BRANCHES:[gh-pages:add4db6077b203fdfbad7792e6c0eb3771a9d23c;main:53923a22dddca15f32a1b240cad53cb96e67f99f]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library: BRANCHES:[main:43c3b7a63318e14834533c0b089be079290990ba;release_candidate:e2d4c7680ada5837d9a20be3c827085a49aa0b6d]|RELEASE:[v1.0.2|e2d4c7680ada5837d9a20be3c827085a49aa0b6d]
 sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384: BRANCHES:[main:1c8760b268bb4a6e29c42cfcd8dbe696ea46ce3a]|RELEASE:[none|none]
