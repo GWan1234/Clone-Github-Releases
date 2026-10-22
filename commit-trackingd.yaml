@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:47
+commit-tracking: 2026-10-22 17:48
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2656,6 +2656,7 @@ waveshareteam/1.83inch-Touch-LCD: BRANCHES:[main:9435e3fae0b7ef13b312a2ebecdb05b
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
 waveshareteam/ESP32-C3-Zero-Basic-Kit: BRANCHES:[main:4db4202faa251964321f79b39efb232d6ca7bef5]|RELEASE:[none|none]
+waveshareteam/ESP32-C6-LCD-1.9: BRANCHES:[main:1fed15e32977de11afe1f710a0f5e915bfcc35a5]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:b794ebccc8cb295bbd352926762f3c4f7370630a]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.43: BRANCHES:[main:041a83d6ec24c266377bbf4f68505bf38c2ad4f8]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.8: BRANCHES:[main:4617895114cfef835b56c22bd4535979990e7669;fix/brookesia-test-fixture:e33bedca4c2f92974a8ca13b77d2d3d160551bdf;chore/repository-modernization:2ffa9b4fd9d2eaddc7d3d958e3e7fed46a76b448;docs/product-overview:5328838a0e04ebe995f358ca264b33c63bce48ed;chore/c6-v2-ci:8f3bd62c92fbc3e5674b363d19f532dd45c674c1;chore/esp-idf-ci:4e5101e1143ff7ce9ef66a4a4f1463e950d274d8]|RELEASE:[none|none]
