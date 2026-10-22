@@ -1898,7 +1898,7 @@ sparkfun/SparkFun_External_EEPROM_Arduino_Library: BRANCHES:[main:1e8054fc461842
 sparkfun/SparkFun_External_EEPROM_Arduino_Library_Docs: BRANCHES:[main:8116a3edbf87ee33ad2a101998fe6b0e7e033d4b]|RELEASE:[none|none]
 sparkfun/SparkFun_FS3000_Arduino_Library: BRANCHES:[develop:814c0098582747df6d5a6b46aed8fc1133e7009a;main:bd09c1659140b2dc00e42edd693e7a8007bea176]|RELEASE:[v1.0.5|bd09c1659140b2dc00e42edd693e7a8007bea176]
 sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library: BRANCHES:[main:205a12b342be4e9e59dd8e8c27de1ad8d20ecf51]|RELEASE:[v1.0.4|205a12b342be4e9e59dd8e8c27de1ad8d20ecf51]
-sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1]|RELEASE:[v1.0.1|4acac9784b34cbcbb12ed936b79de07c416a2a68]
+sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616ab21558a737bf6982bd3db2ca2df7456a2;main:8d96103b46d6ba1201502a1fd092317fbe27c5ea]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K: BRANCHES:[main:94fa41377b57bcb29b226d363950e9be80011ef2;fix-panel:b91dc186917e48bdeeb3b1c65f35d2a712a863d8]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882]|RELEASE:[none|none]
