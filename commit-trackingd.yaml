@@ -884,6 +884,7 @@ m5stack/M5EPD_OnlineImage_FixUrl: BRANCHES:[main:3fae072d9799c77f525f6301f8a3ca3
 m5stack/M5EPD_TTFExample: BRANCHES:[main:d1fb968cb611087be083bf0c01bc67d34442d3db]|RELEASE:[none|none]
 m5stack/M5EPD_Todo: BRANCHES:[main:008f73dd94adb9d12931b78c4d459da46b770e1e]|RELEASE:[none|none]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
+m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
 m5stack/M5Stack: BRANCHES:[master:c49c8935189674317163c31ef6399a38769282e0;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb]|RELEASE:[none|none]
