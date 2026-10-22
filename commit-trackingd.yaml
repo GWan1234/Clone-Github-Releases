@@ -1906,6 +1906,7 @@ sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library: BRANCHES:[main:205a12b342be
 sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSSDO: BRANCHES:[release_candidate:a19fdb9c134180d87ddface3b384567e355d9380;gh-pages:58e23620c1e0585f98004478dade51d267db2d99;main:ae355fce6102a1ea69501edc98e5d240f0495b3a;KiCad10:8d2b3d62f77aeee06432858a5826d43e0709f74a]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616ab21558a737bf6982bd3db2ca2df7456a2;main:8d96103b46d6ba1201502a1fd092317fbe27c5ea]|RELEASE:[none|none]
+sparkfun/SparkFun_GNSS_DAN-F10N: BRANCHES:[gh-pages:90f40a9ebcae1f5854f59767384c6c30908ee4cc;main:850ae4e4f6d49cda84fd2505fa41cba8318b526f]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K: BRANCHES:[main:94fa41377b57bcb29b226d363950e9be80011ef2;fix-panel:b91dc186917e48bdeeb3b1c65f35d2a712a863d8]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Flex_pHAT: BRANCHES:[main:20a5cb72ce28d5cd9bfebe683dcd425cadb658f9;pcUpdates:54fea69566f77a529a086adb9b3f589246fda0fe]|RELEASE:[v10|d302da426c70b9f78a2a01d0e27b5426d043fbe9]
 sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882]|RELEASE:[none|none]
