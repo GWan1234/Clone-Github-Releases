@@ -1030,6 +1030,7 @@ m5stack/M5Unit-ReflectiveIR: BRANCHES:[main:dc84de91ab0a133eea08d1b8dba816a401e2
 m5stack/M5Unit-Scales: BRANCHES:[main:c31e207333d34ffb03f903e1e16fa3072b2b598b]|RELEASE:[none|none]
 m5stack/M5Unit-Scales-Internal-FW: BRANCHES:[main:83a4b2ee6e72d3926c9821e44892911caeda213e]|RELEASE:[none|none]
 m5stack/M5Unit-Sonic: BRANCHES:[master:7e0007bbc58ffafa8e8eb6d778c8051dd0b56c78]|RELEASE:[0.0.2|0fc7fffed7d0c07e77d682e8757440510a5cbebf]
+m5stack/M5Unit-Synth: BRANCHES:[main:15187335a36987a5d33486a8330f16aac4cba2d8]|RELEASE:[1.0.1|892c3b7b45e8540e2696fff009faf7eb14e6a856]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7]|RELEASE:[none|none]
 m5stack/M5Unit-ToF4M: BRANCHES:[main:b523d573f8b608cbe351fce33f5cbfbbdd05856c]|RELEASE:[1.0.0|b523d573f8b608cbe351fce33f5cbfbbdd05856c]
