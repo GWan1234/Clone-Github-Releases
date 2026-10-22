@@ -1074,6 +1074,7 @@ m5stack/toit-m5stack-core2: BRANCHES:[main:7de6c6b0aeb34c6b2ccc3ff06e9348ae18760
 m5stack/uiflow-i18n: BRANCHES:[main:636d957de4dbd16309e459cf90dada5318daa59c]|RELEASE:[none|none]
 m5stack/uiflow-micropython: BRANCHES:[master:3a86d8f611b3639cca755a933e01a5a829771ef1;develop:3d7741a57f8c1f864e896f487cd0e7d65f44d8b4;fix/action:8922dc07d4e1bb6471e9bd4bdacde640e618ccb9;fix/github/workflows:26628704731eac0d57898719d787210d37045f91;feature/micropython/v1.25.0:082a0e89bec69ac0610db64475375c129322dfcd;fix/github-workflows:fb1faacd7345d103ab1ed4dc2740200586e1a9a0]|RELEASE:[2.5.3|50e440780492aa847378c7d3477ab912f7063bac]
 m5stack/usb-pids: BRANCHES:[main:08c2f615d9d6468159d9bde324bbf839d3e11aa9;m5stack:f4da5a5cd9ada5ea7d3d5f1b1ac753d191f33071]|RELEASE:[none|none]
+m5stack/yolov5: BRANCHES:[ax_620u:faa96f40bfc477def995a111ad5cf4e4d96a5248;master:1c60c5353652ee7f08b8f80636aa690ab226176d]|RELEASE:[none|none]
 m5stack/zephyr: BRANCHES:[main:c764c3423231ad42ec19e07f654517044a40ebfd;pmic-axp192:ef8c6e01124f73ff565bccd55028ce7d077681fb]|RELEASE:[none|none]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c]|RELEASE:[none|none]
