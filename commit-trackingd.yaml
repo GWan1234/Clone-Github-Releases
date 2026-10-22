@@ -1102,6 +1102,7 @@ m5stack/StickWatch: BRANCHES:[master:243f4d6767914e12741b78a876f3d6dfa7b7bdeb]|R
 m5stack/ThermalOnline-CatM-UserDemo: BRANCHES:[main:b52d83551c47752fe3cb519eaec299eb91d3077f]|RELEASE:[none|none]
 m5stack/TimerCam-arduino: BRANCHES:[master:ca24786e3cecdad060d86d6eb1cbc299685591b9]|RELEASE:[1.0.1|a83fca723aa03c38f1bfcefe3e72cf757425691f]
 m5stack/TimerCam-idf: BRANCHES:[master:09c5a07a3630f7c9bf0cbf78d3bf81beadee9817;ali-oss:86bc598cfa86aa42f33d9b61811053abfdb47146;FishEye:cde2a9b50abbb4a704c7e5e862ebde193106b0a0;timer-wake:a8d9e06f6827c44013b010ca475e92582c7f3cbf]|RELEASE:[none|none]
+m5stack/TinyGPSPlus: BRANCHES:[master:254a10041ac38d17d98dab24c0ae4d2a8d19a677]|RELEASE:[none|none]
 m5stack/TinyGSM: BRANCHES:[master:d4f843c4490a40a810c5cd58325f239b5f3220b1]|RELEASE:[v0.12.0-patch-1|13378a60ad0fa8924639364452bb2c7278306ac1]
 m5stack/UIFlowLessons: BRANCHES:[main:236678fd653a7dc62c15e110be38b6e42fa1eb29]|RELEASE:[none|none]
 m5stack/UNITV_TRAIN: BRANCHES:[master:c44d7b4c9c669600d3a02afc83df084f149567cb]|RELEASE:[none|none]
