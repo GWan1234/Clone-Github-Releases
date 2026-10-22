@@ -496,7 +496,7 @@ DFRobot/preferences.txt-for-adruino-ide: BRANCHES:[master:dfd2bb39c4188540fcd55f
 DFRobot/print-manager: BRANCHES:[add-overlord:5e6385f34c3f0838bb256df57dfedfedc7c16f8d;sandbox:49ba4d16179cda096836a67bbff9989674ce0298;master:905564e90fa3fa81610f54fc4258f41d11eb6655;addMakerBot2x:fc58931485219baab783cded8e114d7a188468b5;addPrinterBot:13c95daf51883f8d3cc2fa2841a8bc61bfb15fe8]|RELEASE:[none|none]
 DFRobot/print-studio-local-test: BRANCHES:[master:0fac5448488a560aaa0b11d16605feaaee476c54]|RELEASE:[none|none]
 DFRobot/pxt-3DGesture: BRANCHES:[master:a063ffaa9abdde321b92c46c9d8d199949afc2a9]|RELEASE:[none|none]
-DFRobot/pxt-Building-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:b25d4340c0f7a2e8c227e76761bc700684227a8c]|RELEASE:[none|none]
+DFRobot/pxt-Building-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:9a83016a14aa789f4fd40fe01ca9a16fc946ba0f]|RELEASE:[none|none]
 DFRobot/pxt-Buliding-Block-Expansion-Board-for-microbit-UNIHIKER: BRANCHES:[main:180a61c221b4a4ed59ccb1ccea02f5207ce868d9]|RELEASE:[none|none]
 DFRobot/pxt-DFRobot-Maqueenplus: BRANCHES:[master:8769f31c6b124dfc83d7094c865da379da2aeded]|RELEASE:[v1.5.1|8769f31c6b124dfc83d7094c865da379da2aeded]
 DFRobot/pxt-DFRobot-NaturalScience: BRANCHES:[master:922c92dd8aa42c997580bac766d6bfb8405d7e0b;add-license-1:96009bfc0914bc32fed2a771a050c5a6341f6b61]|RELEASE:[v1.5.7|922c92dd8aa42c997580bac766d6bfb8405d7e0b]
