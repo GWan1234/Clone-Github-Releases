@@ -2432,6 +2432,7 @@ sparkfun/arduino-pico: BRANCHES:[master:304e9ce2d1290da214ab34601a593dc6e7de1ab0
 sparkfun/artemis_dev_platform: BRANCHES:[master:f2836b9d17fff9874828460ba668077e1afa3fda]|RELEASE:[none|none]
 sparkfun/author_application: BRANCHES:[master:a6fd6571e2b2e369c09d09684e76d13113633360]|RELEASE:[none|none]
 sparkfun/balance-robot: BRANCHES:[master:bde7735064c1288c7550e512337e870f3bea41fc]|RELEASE:[none|none]
+sparkfun/btstack: BRANCHES:[teensy-wireless-shield:1b571792c2fc7917bdf0661f7172d0523516474e;master:e38553977a25fb0b55b383c72c289be0975f422c]|RELEASE:[none|none]
 sparkfun/circuitpython: BRANCHES:[master:254f8effb17f04f3e7dbcd836e0e9394b1662a98;dm-mixer:1bf6c588e7e1ea11c865c33f660ec126f752b1dc;3.x:3ace9ea9ead7be770595ab82439ee1ce3ec2c174;tannewt-patch-4:a3a690dc018ba70fe415def0216ab0bb9ef49d9c;tannewt-patch-3:4513bd6ea3773ebaae70bd2fa0a2b35c46eae2ff;tannewt-patch-2:0a02d77d64b3194045b75e7903bf22010afc07f3;tannewt-patch-1:bf00cde37d9fc08b0e2b4076df54f8fcc20e4526;jerryneedell-patch-2:0b239c33647216a4ff9bd7b6ca54fa676389c2fa;2.x:ba028ae62341a11743c8b66d2fd7e1d3eb2fe032;jerryneedell-patch-1:1d9bcc5ddf20af29e5a053a885bce446ff39b4c3]|RELEASE:[none|none]
 sparkfun/circuitpython-org: BRANCHES:[main:9982cf5bb6ac6b9829371754207630ebc6289888]|RELEASE:[none|none]
 sparkfun/crowdsourcing_control_esp8266_thing: BRANCHES:[master:7b52d9ee4a4ff28c9bc9c1ef415355a786776ae8]|RELEASE:[none|none]
