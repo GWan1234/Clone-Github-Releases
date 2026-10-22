@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 11:46
+commit-tracking: 2026-10-22 11:47
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -2995,11 +2995,11 @@ iamromulan/qcseriald-darwin: BRANCHES:[main:c17db0ce757498b40763cb4caf9d9def1598
 iamromulan/qfenix: BRANCHES:[upstream-rebase:3ebed1eb91777c4992cedc715e970d58f996f423;master:318a49cee9663a6a79fbcc8b44db8a3d2afdec2b]|RELEASE:[v2.5.10-qfenix-0.1.0|ed552b1ed22b45da27834b8e9577e9149d187615]
 iamromulan/qttyforge: BRANCHES:[main:1aafe04b2a4daa717c1d6533a7c7b17a2926ea2c]|RELEASE:[none|none]
 iamromulan/quectel-rgmii-simpleadmin: BRANCHES:[dev:dbfe3fef49df2e007a3004603ea451e82d39ceb5;main:4d4d02c719fd884481969eb1f2017ff8bc760c74]|RELEASE:[none|none]
-iamromulan/quectel-rgmii-toolkit: BRANCHES:[SDXPINN:ded040396333caf7b8c67293d4f05efdecd4b742;development-SDXPINN:afb6b134eec88a73b2888486b100cf7cbdaa5204;development-SDXLEMUR:a6fe65d0150758373b56c13a6826cf693f064cdc;SDXLEMUR:62b8f199aa63e0954b2e434feedf8cf21e78c9fe;overhaul-SDXLEMUR:af7fc536f8a1609258003cab36499730981cd9eb;main:0d962f3130ae901e77790a563359e5a6f80d2651]|RELEASE:[none|none]
+iamromulan/quectel-rgmii-toolkit: BRANCHES:[SDXPINN:05574cbd483846ad5c9753fc6a41510897f394bc;development-SDXPINN:929e337ed6bf30948e40dfd816024d56a0ce229b;development-SDXLEMUR:a6fe65d0150758373b56c13a6826cf693f064cdc;SDXLEMUR:62b8f199aa63e0954b2e434feedf8cf21e78c9fe;overhaul-SDXLEMUR:af7fc536f8a1609258003cab36499730981cd9eb;main:0d962f3130ae901e77790a563359e5a6f80d2651]|RELEASE:[none|none]
 iamromulan/rdpwrap-server-client: BRANCHES:[master:ec98bb17a5e72902bb2da061986acce7a476e733]|RELEASE:[none|none]
 iamromulan/router-opkg-feed: BRANCHES:[Hiveton-H5000M:b643756199d2ad94785b4a14ddf1ca9d28d0f42b;main:b3f307160f820fde24f88679f3790dda3c134590]|RELEASE:[none|none]
 iamromulan/sms_tool: BRANCHES:[master:f54eea22946719fb937ad7e2c0daad3a13b1af24]|RELEASE:[sms_tool_mod_1|ea71c00aebf69b7dbc2f64fc501e55b0ed551aca]
-iamromulan/tiny-tailscale: BRANCHES:[main:706b5ea6986873bdf78496d2d1a5dc8038f73def]|RELEASE:[v1.104.1|706b5ea6986873bdf78496d2d1a5dc8038f73def]
+iamromulan/tiny-tailscale: BRANCHES:[main:706b5ea6986873bdf78496d2d1a5dc8038f73def]|RELEASE:[v1.104.2|706b5ea6986873bdf78496d2d1a5dc8038f73def]
 kanoqwq/AListFlutter: BRANCHES:[master:dcb62dc65cf14b20289110f4fb545cfd6769d822]|RELEASE:[none|none]
 kanoqwq/Action_OnePlus_MKSU_SUSFS: BRANCHES:[main:938cc5624dc6f19805cbe14122e1347f0afacbcd]|RELEASE:[none|none]
 kanoqwq/Alist-uploader: BRANCHES:[main:bcaf8289bcbc26e3a71932c5a0516dde565d8c5b]|RELEASE:[none|none]
