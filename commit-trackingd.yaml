@@ -1080,6 +1080,7 @@ m5stack/M5Unit-QRCode: BRANCHES:[main:3c3d871bee312de7867e2b3004dd2878c6fc8523]|
 m5stack/M5Unit-QRCode-Internal-FW: BRANCHES:[main:2c44fe0fd85d3346bd6484fcd59e5cb333dd7937]|RELEASE:[none|none]
 m5stack/M5Unit-RELAY: BRANCHES:[master:63fea6153fa6db13aff1c743403b86f09383fc71]|RELEASE:[0.0.2|63fea6153fa6db13aff1c743403b86f09383fc71]
 m5stack/M5Unit-RFID: BRANCHES:[gh-pages:26c41a213496c3a67051631a9cea8a907a5edf91;main:d69ed648a7dff8f6aa60aed8f296703ba3411267;develop:3e3e819da0b06c586489daa1a2d79971aaf32e00;feature/uhf-rfid-support:1738983856fec6a7f5a0bd23b2eb9cee4b1b1d4b]|RELEASE:[0.2.1|d69ed648a7dff8f6aa60aed8f296703ba3411267]
+m5stack/M5Unit-RGB: BRANCHES:[gh-pages:3fd384301470b44dd56d7f2259c0bfbcf76b9a89;main:51dfbe6ad53965bce3ac106e43fd98cbc2b0808f;develop:fb01f1634bb58dfcd412d2b0a426b32284939e90]|RELEASE:[0.0.2|51dfbe6ad53965bce3ac106e43fd98cbc2b0808f]
 m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;master:26c1349251052d4ec1a965a6c783b3c765dc8fbb;develop:28e46ddb9ce0a14ef5e90d87f8f949144d1a616c]|RELEASE:[0.1.0|26c1349251052d4ec1a965a6c783b3c765dc8fbb]
 m5stack/M5Unit-ReflectiveIR: BRANCHES:[main:dc84de91ab0a133eea08d1b8dba816a401e25443]|RELEASE:[none|none]
 m5stack/M5Unit-Roller: BRANCHES:[main:58f83b4183f779e9e4e1b2f3f8bfdd9316e43ceb]|RELEASE:[none|none]
