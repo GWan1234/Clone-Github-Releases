@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 15:54
+commit-tracking: 2026-10-22 15:55
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2067,6 +2067,7 @@ sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library: BRANCHES:[master:c564546badff
 sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library: BRANCHES:[master:3492f4017a8798cf96d5ef3673f0751b9a878a7f]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA: BRANCHES:[main:a6d2ec7928ca7a622ed40d157ed361ef2d9f5c07;remove-sd-socket:1d5ee6878a6a6f81f23f6a07f32eae24d7d405f3]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c204fd86e037201]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_Navigation_Switch: BRANCHES:[gh-pages:80e13431555843b9d063d0d03616c37f68c04893;main:b64c0dac2134d69963bf28120305bd79aad3c8ac]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_OLED-0.91: BRANCHES:[main:270ccc6685ca933dee99031f7079327c7b601f08]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_OLED_1.3in: BRANCHES:[gh-pages:b8f1c1b0730482ff739c1a386c726cacf21d5fdc;main:fe1cef157c993c8265288fbccf211043df3708be]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_OLED_Arduino_Library: BRANCHES:[develop:8801e882bc5e08c863c28080730d3d895f55578c;gh-pages:cfc18dde2ba425194dec9acced089af8fa087a4b;main:133f6ed2afa0a3956fa2ada553d99d43b1cb980d;bugfix/ch1120_bitmap:7275c97fee6834072465f06c62ec3a7ee7bce58e;bugfix/redefinition_warnings:d4490034e76a5022d4a68df7233f6a0f5dabb570;feature/ch1120_driver_optimized:76846d77e0aaa2596fbf22c27009a2ed74835df2;feature/ch1120_driver:df010619d64d0e0417092b09ca8d26563e938cbe]|RELEASE:[v1.0.15|6c3108be8c35b0b5b372789857ce6d8dc5cf62c6]
