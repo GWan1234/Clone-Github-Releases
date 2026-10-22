@@ -1077,6 +1077,7 @@ m5stack/esp32-cam-demo: BRANCHES:[m5cam-psram:0f8a432364d144f91099e2298e79c8a7fc
 m5stack/esp32-camera: BRANCHES:[master:4467667b71f22a4c7db226f24105a9350abe7a05;bugfix/update_lcd_cam_reg_for_s3:1eb90a8849496e5d4c9b1ee10ab9e60ca756dca0;feat/add_libjpeg:6e28fec389ff9eeb11028a3588c375782485b19f;feature/lcd_cam_hw:caf2efb650abd5d5b5f60df6a56d747614e8c468]|RELEASE:[none|none]
 m5stack/esp8266_mesh_project: BRANCHES:[master:84b5bdde453ea43d56bfe8a0948c33fe50a4c23d]|RELEASE:[none|none]
 m5stack/iot-plugandplay-models: BRANCHES:[main:c25bd16e26fa695bb20b64098fda9f980908c075;digimaun-patch-1:2b76c5cac218b3ccd922da7aa302075160522c8c]|RELEASE:[none|none]
+m5stack/library-registry: BRANCHES:[main:5696b2ab310b861423d6a97c138cef0c1fd84f20]|RELEASE:[none|none]
 m5stack/m5-docs: BRANCHES:[master:e5354c5dcc61d16fdc1dff9d92c2c760728d0b60;en:0875998a1627bcf5b0fa75f10a0d410a3c513264;dev-watson:f4b5a4bb25367fe930c7ec0afeec12e970845270;pr/43:209ebc9a9b86eab92c6c9063abe8fbd6f5cb91e3;dev-ja:ea184d848febfd36570da9c340b83b09dd061539;dev-readthedocs:150fe33f016c71ae04012f69d095048548db7e14;origin/dev-readthdocs-dimi:64f5a3a22bf1a79b7595b5174c0eeed9a2831763;dev:92c8c5c1997cefaa7dd0ebdbaf27a91452049621]|RELEASE:[v0.2|64461356881dd36d66a878e706fcab6edd4d8f3f]
 m5stack/m5-hzk16: BRANCHES:[master:386e2ff3b9cd14208900081c44f17ec9a0053ffe]|RELEASE:[none|none]
 m5stack/m5-network: BRANCHES:[master:fd65f588abb234ced8a0eba65995ca80f780dd08]|RELEASE:[none|none]
