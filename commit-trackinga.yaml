@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 11:15
+commit-tracking: 2026-10-22 11:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -887,7 +887,7 @@ OLIMEX/iMX8MP-SOM: BRANCHES:[main:3cc892d6d7fd9b07d4f73590599c2081f3012c45]|RELE
 OLIMEX/iMX8MP-SOM-EVB: BRANCHES:[main:54724b6c9ba75aaab09046f3e3a27aca5d20024d]|RELEASE:[none|none]
 OLIMEX/imx8mp-build: BRANCHES:[bookworm:a3cb5ad2710cd3edf6a4c6c067b049af48b03fa5]|RELEASE:[none|none]
 OLIMEX/linux-3.12.10-ti2013.12.01-am3352_som: BRANCHES:[master:2db3193fa254a50ef1f1b233bbcce5035fecc6af]|RELEASE:[none|none]
-OLIMEX/linux-olimex: BRANCHES:[release-20260901-v5.10.180:f961b1d81ae67ed26d12bf83a5f0ff59c112a316;release-20260827-v5.10.180:3e792172fd660a459f1a97ceb5c279ec4a2fe2d7;release-20260630-v5.10.180:d38a810fea3b43b31081caa962210d3db5de9149;release-20260625-v5.10.180:7250a0dbd7dca87398128566cb93550f249feebc;release-20260122-v5.10.180:a06367e109cfdb2b7ccd0c83480369af3fbace19;release-20231222-v5.10.180:e9b70672e21c96c02d9a731a9379baa897ea2ac7;release-20230725-v5.10.180:3bf2afc47096428caf10e5e58ff7bc20818f26f5;release-20230622-v5.10.180:fc74113e14d76aea9482264ff42e07397b94553d;release-20230217-v5.10.105:c5a31724bdfaac894553b51c5a0fb92c1f10f3db;release-20230110-v5.10.105:3d26e23c24c00a259a94acdd5ede23737438c7db]|RELEASE:[none|none]
+OLIMEX/linux-olimex: BRANCHES:[release-20261022-v5.10.180:13f3f4e34df7114c0171dc94b3bfebecb1862d8b;release-20260901-v5.10.180:f961b1d81ae67ed26d12bf83a5f0ff59c112a316;release-20260827-v5.10.180:3e792172fd660a459f1a97ceb5c279ec4a2fe2d7;release-20260630-v5.10.180:d38a810fea3b43b31081caa962210d3db5de9149;release-20260625-v5.10.180:7250a0dbd7dca87398128566cb93550f249feebc;release-20260122-v5.10.180:a06367e109cfdb2b7ccd0c83480369af3fbace19;release-20231222-v5.10.180:e9b70672e21c96c02d9a731a9379baa897ea2ac7;release-20230725-v5.10.180:3bf2afc47096428caf10e5e58ff7bc20818f26f5;release-20230622-v5.10.180:fc74113e14d76aea9482264ff42e07397b94553d;release-20230217-v5.10.105:c5a31724bdfaac894553b51c5a0fb92c1f10f3db]|RELEASE:[none|none]
 OLIMEX/olimage: BRANCHES:[master:2da96a22b2bf83b89a30bb37417d2de34ccbcdb8]|RELEASE:[none|none]
 OLIMEX/olimex-iot-firmware-esp8266: BRANCHES:[master:3e53a47edb4d209cdfc88c6624fcbe0d4920bec8]|RELEASE:[none|none]
 OLIMEX/olimex-iot-server: BRANCHES:[master:a3979c5434ca34ea7e9a41cd10cf18c110dfa548]|RELEASE:[none|none]
