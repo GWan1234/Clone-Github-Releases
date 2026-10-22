@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 10:34
+commit-tracking: 2026-10-22 10:35
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1333,9 +1333,9 @@ esphome/zwa-2: BRANCHES:[esphome-version-update:aeaf0b779025410146850434d39d434f
 faadd2/AndroidForClaw: BRANCHES:[main:6de6343d11adca575020715d30e6731028fe061c]|RELEASE:[none|none]
 faadd2/SDRSharper: BRANCHES:[master:e190b08a7545d24fe65aadb6d668211f14921947]|RELEASE:[none|none]
 faadd2/SSL-Assistant: BRANCHES:[main:9258f0afe2eb4ca6948475971fdaadbd80a4d15c]|RELEASE:[none|none]
-faadd2/luci-app-onu: BRANCHES:[main:cb5ca95159aa36552c29fcdca274a610ef2c951b]|RELEASE:[none|none]
-faadd2/luci-app-pon: BRANCHES:[main:894a24239cde04f5308b4609c44dba91b9b3b2bf]|RELEASE:[none|none]
-faadd2/zn504xg-onu-build: BRANCHES:[main:f660aed4d3a9bac0d8c68faff5375c932c727fdc]|RELEASE:[build-18|b637bc8e51f07c5221452a9b1ef24000a3053cab]
+faadd2/luci-app-onu: BRANCHES:[main:925c15d114ef0c0e8841057593cf76ba90a12534]|RELEASE:[none|none]
+faadd2/luci-app-pon: BRANCHES:[main:9ac2142e32054a171fdb8119cc27e78f842224d7]|RELEASE:[none|none]
+faadd2/zn504xg-onu-build: BRANCHES:[main:bcaa7e5be0de40dcd9f47f0f45587552ad178b35]|RELEASE:[build-16|bf8431b811fb32c5989020e555983bf24a744fa9]
 fatedier/frp: BRANCHES:[dev:a73e8a14fccdb2e0ec49ff32cabb5371365d2723;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
 flameshot-org/QHotkey: BRANCHES:[master:d7063877c14d5ae2b489dc70bbe02e76a43bf38b]|RELEASE:[none|none]
 flameshot-org/SingleApplication: BRANCHES:[master:0ba7b6ce42cfb863cbb1463c274c762e1eb6652b]|RELEASE:[none|none]
