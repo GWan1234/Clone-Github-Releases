@@ -970,6 +970,7 @@ m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0
 m5stack/M5Module-HMI: BRANCHES:[main:bdb66bcffdb4d3683c97c6be99c2f5f1e66abc85]|RELEASE:[none|none]
 m5stack/M5Module-HMI-Internal-FW: BRANCHES:[main:6d55c14f9ac9a8b47f3f63bbdce86aa96f497956]|RELEASE:[none|none]
 m5stack/M5Module-LAN-13.2: BRANCHES:[main:dcfebb4b079050870a6ea928665db4f70d2fb869]|RELEASE:[1.0.0|088030e783e2ef5e3e70dfe2d05a83b3dd3859c3]
+m5stack/M5Module-LLM: BRANCHES:[dev:ccdaa8bcfae2fae8b920648bda033ea629609949;main:5d0a761e0618938039d49091570628934b98be0d]|RELEASE:[1.7.0|0e62b2732c48bfaa6aa6130cddf414fbd3ceef20]
 m5stack/M5Module-PPS: BRANCHES:[main:fcb36ae4059a2c1a010e172a4cf205cb7f48dc0c]|RELEASE:[1.0.0|fcb36ae4059a2c1a010e172a4cf205cb7f48dc0c]
 m5stack/M5Module-PPS-Internal-FW: BRANCHES:[main:6087f8b99cd8800a656e3f608e497f0b5dbe44bb]|RELEASE:[none|none]
 m5stack/M5Module-PPS-UserDemo: BRANCHES:[main:6a3e83d0db9d7ed832627930c79ec45153b39f6c]|RELEASE:[none|none]
