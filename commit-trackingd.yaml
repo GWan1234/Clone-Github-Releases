@@ -505,6 +505,7 @@ HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d
 HelTecAutomation/HelTecAutomation.github.io: BRANCHES:[master:e3a6a6353511d63d1cf55ab05de930d6ee8c8247]|RELEASE:[none|none]
 HelTecAutomation/Heltec-E-Ink: BRANCHES:[master:d0c2bcfe32b48bc6b37622e4e3473c5746a357eb]|RELEASE:[none|none]
 HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f849705c4;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf]|RELEASE:[2.1.6|e9c730b17f4739ab97468edf12dff5f86ee433bb]
+HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[none|none]
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee]|RELEASE:[none|none]
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2]|RELEASE:[none|none]
 Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294b0e3c]|RELEASE:[none|none]
