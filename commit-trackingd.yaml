@@ -1282,7 +1282,7 @@ sparkfun/FT232RL_USB_Breakout: BRANCHES:[master:31ebd59bd9d2daa3e5100742761d2a73
 sparkfun/FT245RL_Breakout: BRANCHES:[master:c60d22fcea9ab0bd4546568f17f86778c527f78b]|RELEASE:[none|none]
 sparkfun/FTDI_Basic_Breakout-3.3V: BRANCHES:[master:7f19f16b62e3f3e857c6f2e4e682809e38ac6ba8]|RELEASE:[none|none]
 sparkfun/FTDI_Basic_Breakout-5V: BRANCHES:[master:8bbbb934962da976e7aa975f44845be3722a65d7]|RELEASE:[none|none]
-sparkfun/FTDI_SmartBasic: BRANCHES:[master:184af79f42584e430efd2c4980002d0b40b2a9af]|RELEASE:[V_1.1|184af79f42584e430efd2c4980002d0b40b2a9af]
+sparkfun/FTDI_SmartBasic: BRANCHES:[master:184af79f42584e430efd2c4980002d0b40b2a9af]|RELEASE:[none|none]
 sparkfun/Fabrickit_LED_Brick: BRANCHES:[master:0a6406fcf469ee935eb90a83bb3dbbdddfc835d0]|RELEASE:[none|none]
 sparkfun/FeedWriter: BRANCHES:[multifeed_api:da214d8e51be93589c2d9612580f97a52ba9435f;master:ad25133c696fdb6c294ec22c15e958ab25152759]|RELEASE:[none|none]
 sparkfun/FemtoBuck: BRANCHES:[master:a8c1d405c867f411621c6bb665164cd317c4679b]|RELEASE:[v_10|7cf4cff0905765cd885f5db1726c47f5c64e1d93]
