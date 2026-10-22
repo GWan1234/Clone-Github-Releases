@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:17
+commit-tracking: 2026-10-22 16:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2278,6 +2278,7 @@ sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[main:c9cb44d27401b96
 sparkfun/SparkFun_u-blox_UBX_HLA: BRANCHES:[release_candidate:4e211102620d0fa1ed76544bdf0d0318b1446d0f;main:4e211102620d0fa1ed76544bdf0d0318b1446d0f]|RELEASE:[v1.0.6|4e211102620d0fa1ed76544bdf0d0318b1446d0f]
 sparkfun/SparkFun_u-blox_ZOE-M8Q: BRANCHES:[master:bf58e3f337237006bffb924f88ee2facc8c8e1a1]|RELEASE:[none|none]
 sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac]|RELEASE:[1.1.14|6019e589518335edd39cf0fa5c89933e71470c99]
+sparkfun/SparkPNT_FP: BRANCHES:[main:73fbaf1a5d2066620ec14a7c671690d9aef97f9a]|RELEASE:[none|none]
 sparkfun/Sparkfun_Big_Red_Box_Proto_Board: BRANCHES:[master:e40b5c361770dddfb4438c081b69cdaf12924fa6]|RELEASE:[none|none]
 sparkfun/Sparkfun_Blocks_Template: BRANCHES:[master:2624d22e74e68588d33d3a39d715e043feb3de5d]|RELEASE:[none|none]
 sparkfun/Sparkfun_GPS_Speedometer: BRANCHES:[master:115a8a34b04c063b056c84417eb21e7f85502317]|RELEASE:[none|none]
