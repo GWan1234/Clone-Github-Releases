@@ -2139,6 +2139,7 @@ sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c
 sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc18804519abb0774bacf88edacfb60f]|RELEASE:[none|none]
 sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0]|RELEASE:[none|none]
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0]|RELEASE:[none|none]
+sparkfun/SparkFun_Red_Vision_Camera_Board_HM01B0: BRANCHES:[main:8aaf35d75f856d1722d795cc57673f4490c52867]|RELEASE:[none|none]
 sparkfun/SparkFun_Red_Vision_Touch_Display_for_Pico: BRANCHES:[main:00066e6757895a66544c5c06ea17ca2a6486e0c5]|RELEASE:[none|none]
 sparkfun/SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic: BRANCHES:[master:265d15c7acec81ca38a64c36feb75c299d38801f]|RELEASE:[none|none]
 sparkfun/SparkFun_SAMD_Register_Debug_Tools: BRANCHES:[main:2231c1c4be98e1c288b473670fbc630efc894318]|RELEASE:[none|none]
