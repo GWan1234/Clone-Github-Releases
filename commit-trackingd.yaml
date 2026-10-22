@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 15:52
+commit-tracking: 2026-10-22 15:53
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2484,6 +2484,7 @@ sparkfun/qwiic_vl53l1x_py: BRANCHES:[master:58ae3bae3489bfeb0ec26e69e6b44ed03b6d
 sparkfun/qwiic_vl53l5cx_py: BRANCHES:[master:47b183947ad3a7160a16f60df451cc575c45ae37;v1.0:fe85c0e6bc79edf9d4a007745818bf0b95578431;examples:bd3ae77d6fc7a774bfd0acca911b44670d0a4dbc]|RELEASE:[2.0.0|a49765d8fe2d44876e2ddc0ab218ab66bd8dfc3a]
 sparkfun/samd_windows7_installer: BRANCHES:[master:184c2e8b81603e902c35e28d6c4cabe901428553]|RELEASE:[1.0.5.3|50fc5283c87a1a3a5e5b23aaaca06389ec5d4bfc]
 sparkfun/sfe-datalogger: BRANCHES:[release/v01.05.1:ded01d4305cbde657fb558ae6cc118dcffc0ba0f;develop:c8c147cb51f98e333bbfcd26e61428b68346fe82;main:d7c29bf2b4bf8b61b868c5dc278f2746f005e87c;feature/int32-updates:a68919f51d7f67a6cea6c202e119a34828ab0e8c;stash-old-things:a1db6f9ff56022b58354e778282b8994dd9dcd7b;ble_device:74d505771aa9c597ec4405a31aba82d037821148]|RELEASE:[v01.05.00|cd58906ba634f7ce62b555444d4e0cf44222a03c]
+sparkfun/sfe-iot-node-lorawan: BRANCHES:[gh-pages:0bb6ee3632fed7e617563bee56b815609582b1e2;main:cf5b774a7e598413602989657e12642dd0468eb0;develop:e35abf38896a7b2940590885d665e271152ceb86;release/v01.01.00:c4b5bec94c1a7ffde1ae83042ad92065f81712d0;setRegionFix:588aa653b097e46cd8cc85dafd91c00d67e0b52c;release/v01.00.00:86d32c673504a2f6ef2efc9514fad2c8110f8264]|RELEASE:[v01.01.00|76bad4cb0e02a455e64ea2e700619aa58d5397bc]
 sparkfun/simple_sketches: BRANCHES:[master:8289da18a911885f24eb57b030d77a30a99010c0]|RELEASE:[none|none]
 sparkfun/sparkfun-pico: BRANCHES:[main:13183df95dc67e80b6cd65cb4e56e80e74821607]|RELEASE:[v1.0.2|13183df95dc67e80b6cd65cb4e56e80e74821607]
 sparkfun/sparkfun_autonomous_kit: BRANCHES:[master:2d3339167240ff061c50b79215e555aa96dd7170]|RELEASE:[none|none]
