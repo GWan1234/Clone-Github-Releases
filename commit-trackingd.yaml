@@ -2409,6 +2409,7 @@ sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9
 sparkfun/piservohat_py: BRANCHES:[main:22ef5b9d48300e77d22308df53ea1d07bab84d98;examples:e69d47066c79b5c5962253d9366d4fd75f47ebf9;feature/packaging:1ddd69980f7d2b3f8ae0a1d6e7c555de016744b2]|RELEASE:[2.0.0|535cca51a2770ee5f91cc9bd6a49f2aefd7b1001]
 sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd95d3548f7dadf5ad]|RELEASE:[none|none]
 sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ffa]|RELEASE:[v0.0.9|a26130e30d50d7599f7ebe032d427afab426aeaf]
+sparkfun/pxt-gamer-bit_OLD: BRANCHES:[master:d2c7abda1b3cbe2d44853f6685cb8ceb7e89d547;simplify:2e2e9bb90c4cc86d32596a04dfbadc4998d8a52a;btns:13dce6b70c1d89efb1a6035686775fcdf63ebfb0]|RELEASE:[none|none]
 sparkfun/pxt-gator-UV: BRANCHES:[master:40c4e91795fd0ff51ad8a57d3bb4a0057dd15d5c]|RELEASE:[v1.1.3|40c4e91795fd0ff51ad8a57d3bb4a0057dd15d5c]
 sparkfun/pxt-gator-environment: BRANCHES:[master:99cca7ae490f18df311281757fd65b8bc93e93df]|RELEASE:[v1.1.1|a68c91cdf89fda5c37d3ee044a186051a9ec0c14]
 sparkfun/pxt-gator-faker: BRANCHES:[]|RELEASE:[none|none]
