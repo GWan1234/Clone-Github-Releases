@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 10:11
+commit-tracking: 2026-10-22 10:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -595,6 +595,8 @@ Finb/iOSLogBrowserSDK: BRANCHES:[master:99e6445cce8f05d99e9c45da35a547b65ec63d64
 Finb/uptime-kuma: BRANCHES:[master:d0c62e03b1a2159b109bd0d78c2413d77bb89e9c]|RELEASE:[none|none]
 GWan1234/msg_forward_new: BRANCHES:[master:c26114965b6c54db7bd7303123b991ae2e91d3e3;test:927e6ab19c440779708016792716e0671c5fdf10]|RELEASE:[none|none]
 Gozap/CRBoxInputView: BRANCHES:[master:2b91306a355fa37ca8e099c8fc7582f179a8a67c;dev/test:95269ded0b4676da5e19e8ea38dd10e5f5c7d100;dev/dev1.2.1:3d081239f470f5a7e103efd772554cf0678d3acc;dev/dev1.2.0:76e41fd6c6f5e70973be7d815dc00b62af595150;dev/dev1.1.7:4f0216ad91cec729b4e5becedb965f233f44a763;dev/dev1.1.6:4e201ef810ee6edeae657b23944e955d746f0e02;dev/dev1.1.5:b00fcd712e77b04a3eb59c1b5a788a6bd923b3e7;dev/dev1.1.4:f41ce0d833cf6b2c1d2ef26b8cb38679a3ac7f0a;dev/dev1.1.3:1dd0533cac69232e42aa347e9545a0f6d0dea854;dev/dev1.1.2:feb7d33b2c4e4386a20e060fb0fd6ecad979bba5]|RELEASE:[none|none]
+HeartBlossoms/hisiv610-bodycam: BRANCHES:[main:a55b3fc1d840bfc7454a5ec5c101472a77a00ec8]|RELEASE:[none|none]
+HeartBlossoms/led_matrix: BRANCHES:[main:98c39c82f5dd27b1fbb3c4a94723a784bb4168e3]|RELEASE:[none|none]
 HomeSpan/HolidayLights: BRANCHES:[main:8465aceb18d63eba37853d9800104f1d119916c2]|RELEASE:[none|none]
 HomeSpan/HomeSpan: BRANCHES:[dev:288ad324497353efcc96651aef2a7bf8488b6771;release-2.1.8:107ffc07f4455754ea89068d8cf2e992de3583e6;master:107ffc07f4455754ea89068d8cf2e992de3583e6;release-2.1.7:c1b109ee4284f376119dc46d7233ae134cea3c68;release-2.1.6:0a82a56857e311681015f3f406e39eb2308fdce0;release-2.1.5:45208b3ae9c2fb61d4862ea7aed34c75234506fe;release-2.1.4:ac760b6e854c315b4b2b29d6db8b7af95a9e4aa2;release-2.1.3:37f8ece439f80d3ff659f637f012bed3853e5848;release-2.1.2:b83110606502548e0c7c3a6bc092c1f70e361bed;release-2.1.1:057266d1aac5b041624a5c5e41c630efaefb0d08]|RELEASE:[2.1.8|107ffc07f4455754ea89068d8cf2e992de3583e6]
 HomeSpan/HomeSpanReferenceSketches: BRANCHES:[main:b2a0d9cb1f2375ef45a30ae2d966cca49f7cf0d0]|RELEASE:[none|none]
