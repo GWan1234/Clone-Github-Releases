@@ -2732,6 +2732,7 @@ waveshareteam/Pico_CapTouch_ePaper: BRANCHES:[main:da6878258c0504d8ae1cb8c896a11
 waveshareteam/Pico_MircoPython_Examples: BRANCHES:[main:be781912874381175753128423dd5b4b3d501d13]|RELEASE:[none|none]
 waveshareteam/Pico_ePaper_Code: BRANCHES:[main:c9bcd84db5adf5f085353649a8a5c31492bc5fb8]|RELEASE:[none|none]
 waveshareteam/Power-Management-HAT-B: BRANCHES:[main:5a0187336d11e2fb77e854619a1319b63c68e47e]|RELEASE:[none|none]
+waveshareteam/RGB-Matrix-Px-xx: BRANCHES:[main:413a8e04db2e46365b9b1922fa6db79c75afd01f;codex/fix-raspberry-pi-directory-names:b6b2360e54cbcc3fa8530ac25f330cd9e96a00f7;master:904fcf1e9c8e84928757e137ea331e2bc0b9c90f]|RELEASE:[none|none]
 waveshareteam/RP2040-Touch-LCD-1.28: BRANCHES:[main:5f28bf9d543f040f8cff6cce9229cabf0e08bcf5]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-AMOLED-1.75: BRANCHES:[main:87e0c5019dabf63de1a400d075a708d262254625]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-LCD-1.54: BRANCHES:[main:51a7fe28c1e5dd19a089a062980a275709e94df6]|RELEASE:[none|none]
