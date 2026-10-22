@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 11:11
+commit-tracking: 2026-10-22 11:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -264,7 +264,7 @@ DFRobot/DFRobot_MLX90621: BRANCHES:[master:ba0d92f7d10c989ad241904ede98df2809e97
 DFRobot/DFRobot_MPX5700: BRANCHES:[master:ce6c5b94e06d2f0519958e83d610095e8566a791]|RELEASE:[none|none]
 DFRobot/DFRobot_MSM261: BRANCHES:[master:79ef278d21e59e31774718be5ae228ace6c5e176]|RELEASE:[none|none]
 DFRobot/DFRobot_Maqueenplus: BRANCHES:[master:c5846a62f7ae62bbc98ee5f25a597e3069e47df5]|RELEASE:[none|none]
-DFRobot/DFRobot_MatrixLidar: BRANCHES:[master:058db6ca7447ffc79ea3d31245e9057ccceb4cfc]|RELEASE:[none|none]
+DFRobot/DFRobot_MatrixLidar: BRANCHES:[fix/requestfrom-ambiguous:fc31e2b1332a0bd5b5a9dab5a0a12eabe04ec598;master:058db6ca7447ffc79ea3d31245e9057ccceb4cfc]|RELEASE:[none|none]
 DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b64e2542]|RELEASE:[none|none]
 DFRobot/DFRobot_MuVisionSensor: BRANCHES:[master:bfc495c0ed051aec7dd59f660d95f2cbee1dd94c]|RELEASE:[none|none]
 DFRobot/DFRobot_MultiGasSensor: BRANCHES:[main:93e72eb5239b0e8ca7f7f9a0803a060c94260d19]|RELEASE:[none|none]
