@@ -2651,6 +2651,7 @@ ventoy/vtoydump: BRANCHES:[master:79d58b487f7c05065f842ccb9b8e798f00ad16f5]|RELE
 ventoy/vtoytoolchain: BRANCHES:[main:7ef92b6fa5bd62270fbe53571e032f338a753e45]|RELEASE:[1.0|7ef92b6fa5bd62270fbe53571e032f338a753e45]
 ventoy/wimiso: BRANCHES:[master:2052ac4a462897708de71573129f71d54f72f614]|RELEASE:[v1.0|1011a7d0293ab8644ebd75426092f71b59d9cfe6]
 vernesong/OpenClash: BRANCHES:[package:20866e2f56a26b7523c31bbb159f9d7f0a53d311;dev:91d73707a6bcd0f8ec96a57095d72b1b4357cbe7;core:276ae9d8e7f7d9b9814ae23e015cfe29804b2cbe;master:e553e82e01c697aefbe1555261a503f425e00ccd]|RELEASE:[v0.48.002|e553e82e01c697aefbe1555261a503f425e00ccd]
+waveshareteam/.github: BRANCHES:[main:715fab298db64f1b89822a1204d48102d5f91af8]|RELEASE:[none|none]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/High-Precision-AD-DA-Board: BRANCHES:[master:bebb048a3163b4a34260afd5993ed19f28c41c18]|RELEASE:[none|none]
 waveshareteam/High-Pricision_AD_HAT: BRANCHES:[master:e8001efc40b998fefb0e06385e526fed9bf6bf37;add-license-1:909c15d104765728b5eb76968e048966d69d4ec0]|RELEASE:[none|none]
