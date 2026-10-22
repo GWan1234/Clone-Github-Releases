@@ -1001,6 +1001,7 @@ m5stack/M5Unit-GLASS: BRANCHES:[main:4ef5cde4e0ca1cc164521682b12252cfc7e02a74]|R
 m5stack/M5Unit-GLASS-Internal-FW: BRANCHES:[main:6d78b8d45b938d5d302d8e55012606e0eefa6b33]|RELEASE:[none|none]
 m5stack/M5Unit-Hbridge: BRANCHES:[main:976f04ca1dbe9e0fdce78297c57441597f54b688]|RELEASE:[none|none]
 m5stack/M5Unit-Hbridge-Internal-FW: BRANCHES:[main:e07325d7ed5c10dde8e7aa8500594c40cd23ddbf]|RELEASE:[none|none]
+m5stack/M5Unit-IMU-Pro-Mini: BRANCHES:[main:002b74a8b80464beb72d3528cb831a6915ec8a25]|RELEASE:[1.0.2|002b74a8b80464beb72d3528cb831a6915ec8a25]
 m5stack/M5Unit-KMeter: BRANCHES:[master:c4217fc8e069c6decdbf806f4fee4913249942f6;develop:d764ef6a356bdb68cfd998745fc1f90a54d0bdad]|RELEASE:[0.1.1|c4217fc8e069c6decdbf806f4fee4913249942f6]
 m5stack/M5Unit-KMeter-Internal-FW: BRANCHES:[main:6aab5d69ba3c316a6d9b1715363a3d41a4a12b57;develop:b85bd7f40f48584dfdc80c961d752900819b96eb]|RELEASE:[none|none]
 m5stack/M5Unit-KMeterISO: BRANCHES:[main:56c5ae4b522d3e3398307491b7a64ab1fe592951;develop:3d5d033dbd5f7dbad6d67013eedc402ccb892faa]|RELEASE:[1.0.2|56c5ae4b522d3e3398307491b7a64ab1fe592951]
