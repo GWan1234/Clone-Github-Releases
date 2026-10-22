@@ -910,6 +910,7 @@ m5stack/M5Unit-ENV: BRANCHES:[gh-pages:f872d1a993c3cbec739089bc5c87c145e205e977;
 m5stack/M5Unit-LCD-Internal-FW: BRANCHES:[master:6b345872f033dc85fd56e7af722b31583a587a88]|RELEASE:[0.2|e58f4729eb5e6bd7bc910aeb4a261ddb8eddd308]
 m5stack/M5Unit-RELAY: BRANCHES:[master:63fea6153fa6db13aff1c743403b86f09383fc71]|RELEASE:[0.0.2|63fea6153fa6db13aff1c743403b86f09383fc71]
 m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;master:26c1349251052d4ec1a965a6c783b3c765dc8fbb;develop:28e46ddb9ce0a14ef5e90d87f8f949144d1a616c]|RELEASE:[0.1.0|26c1349251052d4ec1a965a6c783b3c765dc8fbb]
+m5stack/M5_BMM150: BRANCHES:[master:6ff0842dc16c9b08c2503d8977da5efb0bd424c5]|RELEASE:[0.0.2|080bb32e9d52dface5f0109fd82f0ff3baab0e60]
 m5stack/M5_WirelessT: BRANCHES:[master:8852e2fc412986c67fd7d0f7c81f84aa91679917]|RELEASE:[none|none]
 m5stack/MagicWand: BRANCHES:[master:3e1f4b62a41e8f9bdbacd68627cabc6780f4093c]|RELEASE:[none|none]
 m5stack/MakerFaire-Robort: BRANCHES:[master:191cdebb09a81adfd05d252a2cf0dd2c8b53e5f7]|RELEASE:[none|none]
