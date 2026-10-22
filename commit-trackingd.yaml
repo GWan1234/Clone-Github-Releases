@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 15:40
+commit-tracking: 2026-10-22 15:41
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1899,6 +1899,7 @@ sparkfun/SparkFun_External_EEPROM_Arduino_Library_Docs: BRANCHES:[main:8116a3edb
 sparkfun/SparkFun_FS3000_Arduino_Library: BRANCHES:[develop:814c0098582747df6d5a6b46aed8fc1133e7009a;main:bd09c1659140b2dc00e42edd693e7a8007bea176]|RELEASE:[v1.0.5|bd09c1659140b2dc00e42edd693e7a8007bea176]
 sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library: BRANCHES:[main:205a12b342be4e9e59dd8e8c27de1ad8d20ecf51]|RELEASE:[none|none]
 sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library: BRANCHES:[main:7aa8ffe44b594f7cfb2fa836c6ae9fe9f1f5bbb1]|RELEASE:[none|none]
+sparkfun/SparkFun_GNSSDO: BRANCHES:[release_candidate:a19fdb9c134180d87ddface3b384567e355d9380;gh-pages:58e23620c1e0585f98004478dade51d267db2d99;main:ae355fce6102a1ea69501edc98e5d240f0495b3a;KiCad10:8d2b3d62f77aeee06432858a5826d43e0709f74a]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Combo_Breakout-ZED-F9P_NEO-D9S: BRANCHES:[gh-pages:cf7616ab21558a737bf6982bd3db2ca2df7456a2;main:8d96103b46d6ba1201502a1fd092317fbe27c5ea]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K: BRANCHES:[main:94fa41377b57bcb29b226d363950e9be80011ef2;fix-panel:b91dc186917e48bdeeb3b1c65f35d2a712a863d8]|RELEASE:[none|none]
 sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N: BRANCHES:[main:9def8d15fbbe23d1953148d983fd12bd56e58882]|RELEASE:[none|none]
