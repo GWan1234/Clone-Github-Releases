@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:38
+commit-tracking: 2026-10-22 17:39
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2663,6 +2663,7 @@ waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:deaf773feb2dd18a2a55b81562
 waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c046ba36a12886974]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:9fcd49a8c927a00f5583c22d568b3448addbe51c;feature/platform-bsp-ci-docs:b566e5ce9851e0894ea589a1c03266e70ae15507]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[main:f15098fe62072156db1e7baf9a0945801f8a8877;fix/lcd7-factory-firmware-260915:636a527424989586fcfbe0b4536e4005fb0a032b;fix/align-arduino-with-lcd5:ef39c93d91497f56aac3bfe882a6026be417036c;feat/expand-arduino-examples:bf41a635508c9c3f95f8f9d935bbad2b0c75f02d;chore/esp-idf-ci:5ec9abc52e879afc5bb2898cf9cdf4c357df4a6f]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[main:6948676d64515b6273998236d98a643ead640735;chore/esp-idf-ci:6acaae088fbb22ed9fe55a3396af7196190e2367;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-AMOLED-1.91: BRANCHES:[main:1986f380a4e668da5f4e2b93de9bd82555788018]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-PhotoPainter: BRANCHES:[photopainter-idf55-idf61-20261019:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main-v1.4.0-default_mode_1:8e0241c07814920b0d0c632db1bc0bc9bdaf605b;main-v1.4.0:02be1a7570e3fc586b628fb55c60a247f00ed88d]|RELEASE:[v1.5.0|a5e8f757ba0cafbb5586f07d3e83bda3184c0845]
