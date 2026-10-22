@@ -1519,7 +1519,7 @@ sparkfun/Mini_FET_Shield: BRANCHES:[master:8db660faa2060384e0238b99a3d83a0fd0895
 sparkfun/Mini_GPS_Shield: BRANCHES:[master:b456c6ce528dbc440b4ea35525d995482f28429c]|RELEASE:[none|none]
 sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1: BRANCHES:[master:6940d8885472e2e106bd6d25cc586e51ed969df5]|RELEASE:[none|none]
 sparkfun/Monster_Moto_Shield: BRANCHES:[master:0cc320981caf554b5b359a62a0d8ff98512941fe;v_10:e8f9011e8735c3574a46e8030cf4480b3b85ccd0]|RELEASE:[none|none]
-sparkfun/Motor_Driver-Dual_TB6612FNG: BRANCHES:[master:76bbcba16c4510c8bd9ab6b4622172a7d70bfd22]|RELEASE:[V_11|d1ca8a7fbc652e3e7974faed9f29002cfed27880]
+sparkfun/Motor_Driver-Dual_TB6612FNG: BRANCHES:[master:76bbcba16c4510c8bd9ab6b4622172a7d70bfd22]|RELEASE:[none|none]
 sparkfun/Mr.Roboto: BRANCHES:[master:84f59ea2ba368edc63e639123969aeac4f27cc7f;broken_out_pins:593fe06d5588cb1c739248ff891437304ce4b5b6]|RELEASE:[none|none]
 sparkfun/Music_Instrument_Shield: BRANCHES:[master:f977f0824b8fdb7652ffe462cdcbe7b4d1e7055d]|RELEASE:[none|none]
 sparkfun/MyDAQ_Protoboard_Kit: BRANCHES:[master:1f8aa3f3bec95d1c48affa85b4a2423e5b00d5ee]|RELEASE:[none|none]
