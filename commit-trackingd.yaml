@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:17
+commit-tracking: 2026-10-22 19:19
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -954,6 +954,7 @@ m5stack/V_IMG_Reciver: BRANCHES:[master:da5379485326561e9fd32552f9a73dc344b98986
 m5stack/Vfunction: BRANCHES:[master:8c6520db5c01fabad48ae656d3fea8c314b8e9a3]|RELEASE:[none|none]
 m5stack/azure_iothub_arduino_lib_esp32: BRANCHES:[master:baf0e17605a5a3d7856ba4ded32e4edc7deb9095]|RELEASE:[none|none]
 m5stack/esp-adf: BRANCHES:[master:9d48930deccd86e26252721583d8f4dd525de445;sdcard:7b7e29cba9988282af315a5b15ea295023a2b405;dev-core2:59b16c7630defa18896f1cd0ca1da47dccbd7ee1]|RELEASE:[none|none]
+m5stack/esp-idf: BRANCHES:[uiflow/v2.0-idf5.0.4:8fbf4ba6058bcf736317d8a7aa75d0578563c38b;uiflow/v2.0-idf4.4:9bec75652fb38ac75946ff98db885de1a546c6ea;uiflow/v2.0:9bec75652fb38ac75946ff98db885de1a546c6ea;dobairoland-patch-1:846fdba4f7e65de913484fd4ec7d1acf5d5c2642;master:df1f9ec26e81138494462451889e7cb05dfc4ad4;release/v4.3:6dce875bf9ab3672508d0bb74cd360e60f622395;release/v4.2:9f0c9ff2f054ab2870b300dbc5106ebf6743aa7e;release/v4.1:b84233626e3526947c70028f30892cf5667522d5;release/v4.4:d83021a6e8550b4d462e11d61aaab0214dc03f5a;release/v3.3:327c22103b5c1d69ea569fa3a20c2ee0c2d56769]|RELEASE:[none|none]
 m5stack/esp-who: BRANCHES:[master:102fca12a7349bbac25b09f0919ba3d8dba4e470]|RELEASE:[none|none]
 m5stack/esp32-cam-demo: BRANCHES:[m5cam-psram:0f8a432364d144f91099e2298e79c8a7fc332ada;m5cam:51dd0c79916e4b1b597545d2574b8c52395ebb24;mpu6050:1b7abfdbe0fc8946a5c8efd7ecc934c12c53a00a;master:34a354663d5c15ff2501c12659ff23486c31ea6f;hw_i2c:2e01a859776deda7361c8cc463325e86c1a39a91]|RELEASE:[none|none]
 m5stack/esp32-camera: BRANCHES:[master:4467667b71f22a4c7db226f24105a9350abe7a05;bugfix/update_lcd_cam_reg_for_s3:1eb90a8849496e5d4c9b1ee10ab9e60ca756dca0;feat/add_libjpeg:6e28fec389ff9eeb11028a3588c375782485b19f;feature/lcd_cam_hw:caf2efb650abd5d5b5f60df6a56d747614e8c468]|RELEASE:[none|none]
