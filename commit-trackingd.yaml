@@ -1968,7 +1968,7 @@ sparkfun/SparkFun_MAX3010x_Sensor_Library: BRANCHES:[master:72d5308df500ae1a64cc
 sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0]|RELEASE:[none|none]
 sparkfun/SparkFun_MCP9600_Arduino_Library: BRANCHES:[master:399d721629fc5f10fc8a02883ba9206c3a46a584]|RELEASE:[v1.0.6|399d721629fc5f10fc8a02883ba9206c3a46a584]
 sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library: BRANCHES:[master:a459ffb6d972717fa7fb553f109bac99042eca86]|RELEASE:[none|none]
-sparkfun/SparkFun_MLX90614_Arduino_Library: BRANCHES:[master:a2fb7586eefcb98425f9767c484ba200bfe8e574]|RELEASE:[v1.1.5|a2fb7586eefcb98425f9767c484ba200bfe8e574]
+sparkfun/SparkFun_MLX90614_Arduino_Library: BRANCHES:[master:a2fb7586eefcb98425f9767c484ba200bfe8e574]|RELEASE:[none|none]
 sparkfun/SparkFun_MLX90632_Arduino_Library: BRANCHES:[master:e8161780e2b3b248760e161b1f10b0c9fcba79be]|RELEASE:[v1.0.1|e8161780e2b3b248760e161b1f10b0c9fcba79be]
 sparkfun/SparkFun_MLX90640_Arduino_Example: BRANCHES:[master:29260f68a86e6b920cd6ec8a7e724e74c9ad8647;release_candidate:d2db2408349377e92d8ca47d5410819376ac4bdc]|RELEASE:[none|none]
 sparkfun/SparkFun_MMA8452Q_Arduino_Library: BRANCHES:[main:4018c02416b84250a9f68585ff3756b16c80ef0a;Interrupt:3349aeccbfb462a12c0f8e0c8531fcc59d4e168e]|RELEASE:[none|none]
