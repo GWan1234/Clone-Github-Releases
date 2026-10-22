@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 18:28
+commit-tracking: 2026-10-22 18:29
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2690,6 +2690,7 @@ waveshareteam/ESP32-P4-Platform: BRANCHES:[main:6f78fa810ec505048c1941e3d09cefc9
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[main:870588e62daaf723f3c52f0060d8dc053665ed30;docs/readme-product-overview:af5a650c3de5bd16b5204256dba11109d4b0c753]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5-update: BRANCHES:[main:737cb6a83992565dce4791b38f300882f0cf5e69]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[main:dc1b2085381c9cc3a2badf8d317673cca9079c1f;feat/rev3-factory-firmware:b277ca498d3b0bc1e272fecca16d8a665d925f49;chore/esp-idf-ci:d327111ac1ba6310496d8c4189e682baa4073908]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[fix/mipi-dsi-revision-clock:99916fa46e3f0c4113ebfd9400230bf91bc727fb;main:5a7a9a2823d77983c15b44a72934a7699e5d2d8b;chore/repository-modernization:23e4256ddac6d394a1c694bc3e5a18fb9f91c8ee]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-5: BRANCHES:[main:d144b34d8f384e84d2442e8733523560216a2f63;fix/lcd5-bsp-1.0.4-clock:66b7a2d9fb1b4f00b11f524df1b421840b57d688;docs/revision-profile-defaults:fecfadfe427f86d8c196e517112f9d8d4c433d54;fix/issue-9-revision-profiles:df289896574169903d2ea69aa8740d834bb0ba0b;fix/schematic-link-policy:ff2cea3a2a7ba391ca92e2528668d2ec44e1511b;chore/esp-idf-ci:ec8fcadbb64281d12d575685361de64ce16ce6f3]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:9fcd49a8c927a00f5583c22d568b3448addbe51c;feature/platform-bsp-ci-docs:b566e5ce9851e0894ea589a1c03266e70ae15507]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[main:f15098fe62072156db1e7baf9a0945801f8a8877;fix/lcd7-factory-firmware-260915:636a527424989586fcfbe0b4536e4005fb0a032b;fix/align-arduino-with-lcd5:ef39c93d91497f56aac3bfe882a6026be417036c;feat/expand-arduino-examples:bf41a635508c9c3f95f8f9d935bbad2b0c75f02d;chore/esp-idf-ci:5ec9abc52e879afc5bb2898cf9cdf4c357df4a6f]|RELEASE:[none|none]
