@@ -1167,6 +1167,7 @@ m5stack/m5-hzk16: BRANCHES:[master:386e2ff3b9cd14208900081c44f17ec9a0053ffe]|REL
 m5stack/m5-network: BRANCHES:[master:fd65f588abb234ced8a0eba65995ca80f780dd08]|RELEASE:[none|none]
 m5stack/m5go_wheel: BRANCHES:[master:6f3de2b0ec4c306c594bed99a2758ec8bc06479a]|RELEASE:[none|none]
 m5stack/m5stack-board-id: BRANCHES:[main:56c2dd1752d8a813c0e60d62b8fbaafa9e600964;feature/stamp-c5/c6/s3-mini:b1beb5aaa0a405680d075e2f9c9037fe01bc8342]|RELEASE:[none|none]
+m5stack/m5stack-chain-id: BRANCHES:[main:f544b4330f950f917762de622d4be475ed6c033b]|RELEASE:[none|none]
 m5stack/m5stack-linux-dtoverlays: BRANCHES:[cpQ:569b249944b8f8cbec749701bbff981f910a0062;main:75518549a2640486f5d13ea72ca4935b198d7c20;bq27220:47b0aefdc8e36c2ecf985697e93f581d7f63b907;test:de8608eebf1bd8e9226ddaf5e4947cb69d0fd80d;imu-test:201f7a05a6430b4c65846055a8a582e96a981eab;dev-test:41ff7f40b738d58d58a504edeed729e41241cfa4;example_dev:3c004d4edbdfff784ab1d56f9aec12fad4c7ba9e]|RELEASE:[none|none]
 m5stack/m5stack_devkit: BRANCHES:[master:6230376ca0bdaf725414875a22db6146246f8e13]|RELEASE:[none|none]
 m5stack/meshtastic-firmware: BRANCHES:[master:e5a2ce54e74f6cfaec8e44c43764fa062b1b862b;unit_c6l:dd2f77ea0c68870f527c316d072149584dc6116f;develop:cda742eb19d7a1ff3498e109a1bddca0bcbb276f]|RELEASE:[none|none]
