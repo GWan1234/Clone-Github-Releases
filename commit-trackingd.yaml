@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:21
+commit-tracking: 2026-10-22 16:22
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2509,6 +2509,7 @@ sparkfun/qwiic_bme280_py: BRANCHES:[main:c4576cc1450ffecff64535b7948d509ac690127
 sparkfun/qwiic_bmp581_py: BRANCHES:[master:2801732c30575671ff182ee24ebcc111b759a697;v1.0:8d8312863416eb37f8c32010b3db8d81cdf9c983;examples:8f79138a158a4504d307f2ea6a45dff407e73b82]|RELEASE:[2.0.0|8273adb4df8ad6f40cb84f7671279c637aba58bc]
 sparkfun/qwiic_button_py: BRANCHES:[main:ae48379fb895bf857b6cf24a08714d09c7aef9fb;feature/packaging:0a5067323410424758bfa6bac7f52ff11b282f08;examples:9d0f6e5452b6c514bd6779536469619623e8f6f3]|RELEASE:[2.0.3|6ecade30939d2e2367a6e704e632192a6fae8524]
 sparkfun/qwiic_cap1203_py: BRANCHES:[master:d5e4b3e1bece748ddf2477bc864d26f5b516e0d5;feature/packaging:4ef384ec9cb22addf34c1a0a913e0a4ebb376a79;examples:3532895024c7bd38e63d558f0962c9cadf7872fe]|RELEASE:[2.0.0|f9f52e769f8bc95b77a25605c033aa01290724c3]
+sparkfun/qwiic_cy8cmbr3_py: BRANCHES:[master:033724af332ab26bef40ac966608563194644c83;examples:b4f2eef2e80f60cda801a5fa206934cdccdc9c09]|RELEASE:[v1.0.0|e4fa952336dd07b782a7126bfcdd19b9cd3d91f3]
 sparkfun/qwiic_ens160_py: BRANCHES:[master:ba26a9bbc7451527401696c96582e6222d2dc123;v1.0:5b4970834244587e18cded167cb2996f418d01dc;examples:b5b4cfa89eb23b0f046e631f6b020c42e8d703d4]|RELEASE:[2.0.0|d9546bf9fee261ea4e8e8d57d7cbe9fab850c68b]
 sparkfun/qwiic_fs3000_py: BRANCHES:[master:63abba7e592727b539d01c5d9d781880a4700a3e;v1.0:5b9b60d4995a9cfa7b45821fe4bc2f378d529772;examples:372e6d852adfcbfa8ce3b1d006d9c6359ed7c1a7]|RELEASE:[2.0.0|b95565d99e35cdcc697342214c059e419f044fc0]
 sparkfun/qwiic_gpio_py: BRANCHES:[main:264227f302e349de7a8339b51764acc09c17a8e3;refactor/gpio_lists:7814a26755039b25525e94ccbf9331cce9acaf9e;examples:bf3c2553a23ec653af912ae17016c2bd56158b48]|RELEASE:[2.0.0|94d320341bb76370915d11187555546a753e1c58]
