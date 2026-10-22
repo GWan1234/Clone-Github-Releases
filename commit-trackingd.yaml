@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:36
+commit-tracking: 2026-10-22 16:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -505,6 +505,7 @@ HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
 HelTecAutomation/ESP32_LoRaWAN: BRANCHES:[master:7b5d52b4666c90b9aa0dfa15189678d2d7e12b54]|RELEASE:[V2.1.1|daa2a295f3a9272a219d904d8bda3b290112277d]
+HelTecAutomation/GxEPD2: BRANCHES:[master:ea9ec7087a2046c277e5975aedbde3cf023ba3ca]|RELEASE:[none|none]
 HelTecAutomation/HIP: BRANCHES:[master:68879c16c1ea1f3ea29f8662ceab70023859ea20;lthiery/hip22-clarify:1882f9cb818e2bef55c20d139b3d99eba668f06d;lthiery/hip22-diy-concentrators:73871c9e8cbadf9019b3d68cace29345e54d59be;ak/validators-update:3b93d997b81422afa4e7d12bb4864d7edb8eb8e4;rg/hip12-deployment-update:9efd866a7ba03680c5eb0ec8b8645fa4cfd8bdfc;ct/hip-19-amendment:dc94d62bc10767273d166cb5c4d1f1467e2d0eec;ct/update-hip19-light-hotspots:0295a50d005765c15014fc1bd7b5416756e48482;lthiery/arb-fix:10ad102ebc25df6cfc53afaf3438dabeb3f59e92;lthiery/anchor-gateway:a664505e8f88d970f00ea16315ba8c16acfcf0c3;lthiery/golden-tab:eccce83f42c4e9329a28de1e1193c9e16ca628e2]|RELEASE:[none|none]
 HelTecAutomation/HelTecAutomation.github.io: BRANCHES:[master:e3a6a6353511d63d1cf55ab05de930d6ee8c8247]|RELEASE:[none|none]
 HelTecAutomation/Heltec-E-Ink: BRANCHES:[master:d0c2bcfe32b48bc6b37622e4e3473c5746a357eb]|RELEASE:[none|none]
