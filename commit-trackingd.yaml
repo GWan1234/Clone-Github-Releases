@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:23
+commit-tracking: 2026-10-22 16:24
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1966,6 +1966,7 @@ sparkfun/SparkFun_KiCad_BOM_Generator: BRANCHES:[release_candidate:2d648747c9c9c
 sparkfun/SparkFun_KiCad_CAMmer: BRANCHES:[release_candidate:8a4e3cb8509870be8056bf61430bf9ba21c68ef0;main:8a4e3cb8509870be8056bf61430bf9ba21c68ef0]|RELEASE:[v1.2.2|8a4e3cb8509870be8056bf61430bf9ba21c68ef0]
 sparkfun/SparkFun_KiCad_Panelizer: BRANCHES:[main:e8e6d4089a779768a5bfdd3a061ab0e80a5e6830;release_candidate:4dcad744a730cb3a3a79b62cb8c3c737c3c50d5c;kicad_10_fix:ab915b221291b20cbbcfe8c8e3f36e4dacef6705]|RELEASE:[v1.4.3|e8e6d4089a779768a5bfdd3a061ab0e80a5e6830]
 sparkfun/SparkFun_LED_Array_8x7_Arduino_Library: BRANCHES:[master:c59fe6623afc35afb3d0ca1bc40c4547e29850c9]|RELEASE:[none|none]
+sparkfun/SparkFun_LG290P_Flash_Tool: BRANCHES:[main:400248795f912675a5ea7cd40aaa95f71518232e]|RELEASE:[v0.0.1|400248795f912675a5ea7cd40aaa95f71518232e]
 sparkfun/SparkFun_LG290P_GNSS_Arduino_Library: BRANCHES:[release_candidate:8609c48ee2fc9f02340a932e970db5b62ddc2024;pcUpdates:8609c48ee2fc9f02340a932e970db5b62ddc2024;main:8609c48ee2fc9f02340a932e970db5b62ddc2024;addFirmwareUpdate:970f16107cb8087d2b602791b671e6627305c641]|RELEASE:[v3.1.1|8609c48ee2fc9f02340a932e970db5b62ddc2024]
 sparkfun/SparkFun_LG290P_Quadband_GNSS_RTK_Breakout: BRANCHES:[gh-pages:6d78679c698799c11944ce471244d348fdffada0;main:8145536c42146daa5ee75320968e4fac887e6fb3]|RELEASE:[none|none]
 sparkfun/SparkFun_LIDARLitev4_Arduino_Library: BRANCHES:[main:c14a89e95be39626671b1934e53eb35694835c8e]|RELEASE:[v1.2.4|831f8e0221966fa3653f68c7b8681f3e5f745cc1]
