@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:09
+commit-tracking: 2026-10-22 17:10
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2654,6 +2654,7 @@ vernesong/OpenClash: BRANCHES:[package:20866e2f56a26b7523c31bbb159f9d7f0a53d311;
 waveshareteam/.github: BRANCHES:[main:715fab298db64f1b89822a1204d48102d5f91af8]|RELEASE:[none|none]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
+waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:b794ebccc8cb295bbd352926762f3c4f7370630a]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-2.06: BRANCHES:[fix/arduino-core-version:3340811743712be805fab489d49876e0cd70bdec;main:2a3608db86ae1546662f696fb6997e58c8ffa252;chore/esp-idf-ci:4d1a13a85f458fbe9782a6a53f26ed6ce18128ec]|RELEASE:[v1.0.0|2a3608db86ae1546662f696fb6997e58c8ffa252]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:9fcd49a8c927a00f5583c22d568b3448addbe51c;feature/platform-bsp-ci-docs:b566e5ce9851e0894ea589a1c03266e70ae15507]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
