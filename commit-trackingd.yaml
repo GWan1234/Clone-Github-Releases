@@ -2656,6 +2656,7 @@ waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6
 waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:b794ebccc8cb295bbd352926762f3c4f7370630a]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-2.06: BRANCHES:[fix/arduino-core-version:3340811743712be805fab489d49876e0cd70bdec;main:2a3608db86ae1546662f696fb6997e58c8ffa252;chore/esp-idf-ci:4d1a13a85f458fbe9782a6a53f26ed6ce18128ec]|RELEASE:[v1.0.0|2a3608db86ae1546662f696fb6997e58c8ffa252]
+waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:deaf773feb2dd18a2a55b8156240547184f54d11]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:9fcd49a8c927a00f5583c22d568b3448addbe51c;feature/platform-bsp-ci-docs:b566e5ce9851e0894ea589a1c03266e70ae15507]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-PhotoPainter: BRANCHES:[photopainter-idf55-idf61-20261019:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main-v1.4.0-default_mode_1:8e0241c07814920b0d0c632db1bc0bc9bdaf605b;main-v1.4.0:02be1a7570e3fc586b628fb55c60a247f00ed88d]|RELEASE:[v1.5.0|a5e8f757ba0cafbb5586f07d3e83bda3184c0845]
