@@ -906,6 +906,7 @@ m5stack/M5GFX: BRANCHES:[develop:4d1d9ebf5ea6683d45d3bd3ec6e5581c316bf376;master
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5Hat-JoyC: BRANCHES:[master:c656bff6ca651c33d3330ceb89e0cc851dd8e48a]|RELEASE:[0.0.1|3eccb38006add7dd9f45aff0e85292c46ce535f2]
+m5stack/M5Hat-PowerC: BRANCHES:[master:2cd83d770f93dd05c6f41f6029255b934fc4a194]|RELEASE:[none|none]
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0047d8]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
 m5stack/M5Module-Stepmotor: BRANCHES:[master:f14a67d86d8476be46d48f6be10e0d142e61b419]|RELEASE:[0.0.2|f14a67d86d8476be46d48f6be10e0d142e61b419]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
