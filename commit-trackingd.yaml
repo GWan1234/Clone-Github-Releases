@@ -2180,6 +2180,7 @@ sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library: BRANCHES:[master:d52c969
 sparkfun/SparkFun_Soft_Power_Switch_Mk2: BRANCHES:[gh-pages:5ace18e9f103db2185b55ac3e8080dd4bde390bd;main:137e85cd49428727dc839a2050e442ce9ad49f77]|RELEASE:[none|none]
 sparkfun/SparkFun_Soft_Power_Switch_USB-C: BRANCHES:[gh-pages:f0c2a55088d52b0778dd791487ab1dcf2617430d;main:488c64fd7a1ff7941e6fd3f5927d3fcf70d21a1e]|RELEASE:[none|none]
 sparkfun/SparkFun_Soil_Moisture_Arduino_Library: BRANCHES:[main:695795368cf7d340bbbe5aa9977f918368c0d147;develop:86dfcd4b1fa9c53d12ab6a6598fe0b37323be5b2]|RELEASE:[v1.0.2|96f40cb88ab036645bc9d08eeb5e19f66746331e]
+sparkfun/SparkFun_Spectral_Sensor_Breakout_AS7343_Qwiic: BRANCHES:[gh-pages:b2a4667b830fedbd00a5a25d7c442dec0be668e9;main:1fe67f31c12f14d0bf9ee33aa69fab26585cef6b]|RELEASE:[none|none]
 sparkfun/SparkFun_Spectral_UV_Sensor_AS7331: BRANCHES:[gh-pages:c76777d1398d3d9342033ad89bee7f574b7c9b4c;main:b1354e6939ff35adc6eac51b0e038a8428328bf9]|RELEASE:[none|none]
 sparkfun/SparkFun_Stepoko: BRANCHES:[master:e55313217498ae0e66df0bcfef5ba7eee5cfbcd7]|RELEASE:[none|none]
 sparkfun/SparkFun_Stepper_Motor_Breakout_TC78H670FTG: BRANCHES:[main:587d14fab8a6ee2b3d85b6370ba245532eacd424]|RELEASE:[none|none]
