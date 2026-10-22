@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:35
+commit-tracking: 2026-10-22 19:36
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -933,6 +933,7 @@ m5stack/M5Module-Display-13.2: BRANCHES:[main:e1c8f3269a88424507c8f016ba5645c383
 m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:61c2e34fa3cd86f40b2d1f05cd00e1857869f8bf]|RELEASE:[none|none]
 m5stack/M5Module-DualKmeter-13.2-Internal-FW: BRANCHES:[main:b8144b0c86ab6f9d3808693c2eac8598376bea4c]|RELEASE:[none|none]
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0047d8]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
+m5stack/M5Module-HMI-Internal-FW: BRANCHES:[main:6d55c14f9ac9a8b47f3f63bbdce86aa96f497956]|RELEASE:[none|none]
 m5stack/M5Module-StepMotor-Driver-V1.1-Internal-FW: BRANCHES:[main:57b69924a18515026f3ed1154e214c92ddf2e534]|RELEASE:[none|none]
 m5stack/M5Module-Stepmotor: BRANCHES:[master:f14a67d86d8476be46d48f6be10e0d142e61b419]|RELEASE:[0.0.2|f14a67d86d8476be46d48f6be10e0d142e61b419]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
