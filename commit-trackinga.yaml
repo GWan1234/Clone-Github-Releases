@@ -196,7 +196,7 @@ DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f8
 DFRobot/DFRobot_GNSS: BRANCHES:[fix/default-i2c-address:f935fed3be7f21bc46251605e69c8c6be81abb5d;master:d4861cefa434e15a235459184bd27f81d8781416]|RELEASE:[none|none]
 DFRobot/DFRobot_GNSSAndRTC: BRANCHES:[master:e739e8cdba7998ecf3af9ea3db80b676a0c43d25]|RELEASE:[none|none]
 DFRobot/DFRobot_GP8302: BRANCHES:[master:95ce691d4b62f13de15eae4358f451e99e53c6f7]|RELEASE:[none|none]
-DFRobot/DFRobot_GP8403: BRANCHES:[master:ec3fce2bb8fae516eea587dc74f2b8f809a002fb]|RELEASE:[none|none]
+DFRobot/DFRobot_GP8403: BRANCHES:[master:204dda7186200a54fbbc1a5e41cdf156af4d97f9]|RELEASE:[none|none]
 DFRobot/DFRobot_GP8XXX: BRANCHES:[master:0fcd909888f48431420fa23ec56926ca389c9258]|RELEASE:[none|none]
 DFRobot/DFRobot_GR10_30: BRANCHES:[master:9abbfcafb12e03eb6eb175513898f88f2f56aee5]|RELEASE:[none|none]
 DFRobot/DFRobot_Gesture: BRANCHES:[master:a2e044d0991f8b3027410932303b049e9faa8449]|RELEASE:[none|none]
