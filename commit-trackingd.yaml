@@ -2115,6 +2115,7 @@ sparkfun/SparkFun_Qwiic_XM125_Arduino_Library: BRANCHES:[main:4d2d89c55cdbcbdecc
 sparkfun/SparkFun_Qwiic_dToF_Imager-TMF882X: BRANCHES:[main:740270a20d78007335bffadc37cc784e1ea64e54]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_pHAT_Extension: BRANCHES:[master:571793c5ad78317e58c8af851ab91404821a02da]|RELEASE:[v1.0|571793c5ad78317e58c8af851ab91404821a02da]
 sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce8fcf4257762cca615e275;interrupt:2fd54de4412855a24236dbb71a78f502f9c5e1b4]|RELEASE:[none|none]
+sparkfun/SparkFun_RFID_USB-C_Reader: BRANCHES:[gh-pages:0a7909086f6d064cfb86cab6dd6e1238d0818127;main:63c7a5d71cbd1df8f9b420ec320d239ea6a86d33]|RELEASE:[v10|42822a2a45416801c53c0341c36e8a2358feb599]
 sparkfun/SparkFun_RGB_CBI: BRANCHES:[main:7e411ad9eca17adf1e508975a7ccc37e640fc150]|RELEASE:[none|none]
 sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5]|RELEASE:[1.0.0|cde2d2ed820fbf4885912417152cbdff506a2323]
 sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[none|none]
