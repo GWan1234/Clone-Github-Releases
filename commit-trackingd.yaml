@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:32
+commit-tracking: 2026-10-22 19:33
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1004,6 +1004,7 @@ m5stack/TimerCam-idf: BRANCHES:[master:09c5a07a3630f7c9bf0cbf78d3bf81beadee9817;
 m5stack/UnitV2Framework: BRANCHES:[main:68506ea70b3a00ecc1719cb36c2a607c6a7b3062]|RELEASE:[none|none]
 m5stack/V_IMG_Reciver: BRANCHES:[master:da5379485326561e9fd32552f9a73dc344b98986]|RELEASE:[none|none]
 m5stack/Vfunction: BRANCHES:[master:8c6520db5c01fabad48ae656d3fea8c314b8e9a3]|RELEASE:[none|none]
+m5stack/aws-iot-kit-tutorials: BRANCHES:[main:f017250e8178c69ee0a0040b9a1fa6beb6c0039a;traditional_chinese:61fdff2973c85cf4002c1b0f537be4469fc9bc14]|RELEASE:[none|none]
 m5stack/azure_iothub_arduino_lib_esp32: BRANCHES:[master:baf0e17605a5a3d7856ba4ded32e4edc7deb9095]|RELEASE:[none|none]
 m5stack/esp-adf: BRANCHES:[master:9d48930deccd86e26252721583d8f4dd525de445;sdcard:7b7e29cba9988282af315a5b15ea295023a2b405;dev-core2:59b16c7630defa18896f1cd0ca1da47dccbd7ee1]|RELEASE:[none|none]
 m5stack/esp-idf: BRANCHES:[uiflow/v2.0-idf5.0.4:8fbf4ba6058bcf736317d8a7aa75d0578563c38b;uiflow/v2.0-idf4.4:9bec75652fb38ac75946ff98db885de1a546c6ea;uiflow/v2.0:9bec75652fb38ac75946ff98db885de1a546c6ea;dobairoland-patch-1:846fdba4f7e65de913484fd4ec7d1acf5d5c2642;master:df1f9ec26e81138494462451889e7cb05dfc4ad4;release/v4.3:6dce875bf9ab3672508d0bb74cd360e60f622395;release/v4.2:9f0c9ff2f054ab2870b300dbc5106ebf6743aa7e;release/v4.1:b84233626e3526947c70028f30892cf5667522d5;release/v4.4:d83021a6e8550b4d462e11d61aaab0214dc03f5a;release/v3.3:327c22103b5c1d69ea569fa3a20c2ee0c2d56769]|RELEASE:[none|none]
