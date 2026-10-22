@@ -1906,7 +1906,7 @@ sparkfun/SparkFun_GNSS_Timing-ZED-F9T: BRANCHES:[main:5bddb79e87f30bcbd85630fde4
 sparkfun/SparkFun_GNSS_mosaic-X5: BRANCHES:[main:7012dfad10d2b8670f3026c52990f793f65b08f8;gh-pages:c4bde58031a1be5ddcd3a4db82e6b058b7d06748;Add_Ethernet_Phy_PROD_ID:fa58585d73b5768c14169b2c5aa2374901fb5711]|RELEASE:[v10|52ba8d188694b036c94d659d7fd630daeb766704]
 sparkfun/SparkFun_GPIO_Block_for_Edison_CPP_Examples: BRANCHES:[master:286dceb2738fdbfd3e499f5c7ff7a9db2c4be2c5]|RELEASE:[none|none]
 sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic: BRANCHES:[master:7087523171f5af561265c4c265e2ac88ed164452]|RELEASE:[none|none]
-sparkfun/SparkFun_GPS_Dead_Reckoning_PHat_ZED-F9R: BRANCHES:[master:f906b7abcc22a6d168fd2b3d6677733136ddade9]|RELEASE:[v1.1|f906b7abcc22a6d168fd2b3d6677733136ddade9]
+sparkfun/SparkFun_GPS_Dead_Reckoning_PHat_ZED-F9R: BRANCHES:[master:f906b7abcc22a6d168fd2b3d6677733136ddade9]|RELEASE:[none|none]
 sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R: BRANCHES:[master:5f9ddc4a2083e7c8417bacd10507f2a6bb518ed1;v12_uFL:144505496129bb01f6c81f675963bb9e0e870a19]|RELEASE:[v1.0|dd1fe5e279ce59b8fab0c545a6abe737425a05ff]
 sparkfun/SparkFun_Graphic_LCD_Serial_Backpack_Arduino_Library: BRANCHES:[master:09afa53cf63a86b650b66b378f74d2b0b1bc62af]|RELEASE:[none|none]
 sparkfun/SparkFun_GridEYE_Arduino_Library: BRANCHES:[master:61eeee316db6f1ad283dd52dd32f48b4bc67b9d2]|RELEASE:[v1.0.2|61eeee316db6f1ad283dd52dd32f48b4bc67b9d2]
