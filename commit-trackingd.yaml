@@ -969,6 +969,7 @@ m5stack/M5Unit-Encoder: BRANCHES:[master:8f4508003ebe1f4f0ec3da0187a51c3feb56dd3
 m5stack/M5Unit-ExtEncoder: BRANCHES:[main:690c72b35a172ae97d05025343c360cea1392a24]|RELEASE:[none|none]
 m5stack/M5Unit-ExtEncoder-Internal-FW: BRANCHES:[main:0502021429c816f43de43d1b3be1355725ed66ab]|RELEASE:[none|none]
 m5stack/M5Unit-FLASHLIGHT: BRANCHES:[gh-pages:818c06e40571c614a4959d43e899ccd468db5b10;main:4071dde9ec5a60cb165628f7830effdf95f8eda1;develop:eef62d330efcb1ddd40300bc7c401669a05d29a5]|RELEASE:[0.0.2|4071dde9ec5a60cb165628f7830effdf95f8eda1]
+m5stack/M5Unit-GLASS: BRANCHES:[main:4ef5cde4e0ca1cc164521682b12252cfc7e02a74]|RELEASE:[0.0.1|79e755f18ec885b7ef73c17b926646b05030bbad]
 m5stack/M5Unit-GLASS-Internal-FW: BRANCHES:[main:6d78b8d45b938d5d302d8e55012606e0eefa6b33]|RELEASE:[none|none]
 m5stack/M5Unit-KMeter: BRANCHES:[master:c4217fc8e069c6decdbf806f4fee4913249942f6;develop:d764ef6a356bdb68cfd998745fc1f90a54d0bdad]|RELEASE:[0.1.1|c4217fc8e069c6decdbf806f4fee4913249942f6]
 m5stack/M5Unit-KMeter-Internal-FW: BRANCHES:[main:6aab5d69ba3c316a6d9b1715363a3d41a4a12b57;develop:b85bd7f40f48584dfdc80c961d752900819b96eb]|RELEASE:[none|none]
