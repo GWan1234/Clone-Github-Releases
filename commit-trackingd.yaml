@@ -880,6 +880,7 @@ m5stack/CM4Stack_lvgl: BRANCHES:[SimpleClock:66c46a545ed68991d114a2a976cd89333d1
 m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[BSP-dev:bc2caabce412f5711b268a33f5ee4564c4442955;master:3ec44e08e239755b874b800aede1aea528beed25]|RELEASE:[none|none]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:541cb817c5d78e7e010f67b60e9774de2092b0ed]|RELEASE:[none|none]
 m5stack/CoreS3-Box: BRANCHES:[master:405c5438b399a27459fb45c097fcca19c295e029;dev-cores3:5bfae0f56bf370a9ca735e9e9cd10a4d36ceca26]|RELEASE:[none|none]
+m5stack/CoreS3-UserDemo: BRANCHES:[main:90cbcc6ca40c2404de05d3f9fdb01223ae19d3f0]|RELEASE:[none|none]
 m5stack/DEMO-BOARD: BRANCHES:[master:a60a67db429375cef3f93bb5d054bd10deb796c1]|RELEASE:[0.0.2|4cbaebf3227b9580493f3f250bd0bc9397212321]
 m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6]|RELEASE:[none|none]
 m5stack/Factory_Firmware-Core2_for_AWS: BRANCHES:[main:af5ac499c7eae158656e0971e3e3a880e7a9886f]|RELEASE:[none|none]
