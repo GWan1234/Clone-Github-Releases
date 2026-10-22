@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 14:10
+commit-tracking: 2026-10-22 14:11
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2448,7 +2448,7 @@ waveshareteam/ESP32-C5-MINI-KIT: BRANCHES:[main:9eb18f4282e2e464b34b911ed6ba63cf
 waveshareteam/ESP32-C5-Pico: BRANCHES:[main:cd413f3b76723516c8c264034f462381fe0ac0ac]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Touch-LCD-1.69: BRANCHES:[main:4e2a31bce8b57169039e92da9f8e447a4f34c457]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Touch-LCD-2.8: BRANCHES:[main:77a7dceac38a1bd491173b3906205217a382c08c;feat/example-firmware-artifacts:4656a2163faea75c5f5fdd62511149272c34d26c;chore/repository-modernization:6fd37989f97f5014759b159573f4a06a65e779fb]|RELEASE:[v1.2.0|77a7dceac38a1bd491173b3906205217a382c08c]
-waveshareteam/ESP32-C5-Touch-LCD-3.5: BRANCHES:[main:04e6134cf3e37309b2bec9915189efeace1161bc]|RELEASE:[none|none]
+waveshareteam/ESP32-C5-Touch-LCD-3.5: BRANCHES:[main:ef03a84788c1157836f1e7fc29f5a24f16cf22ff;chore/standardize-product-repository-20261022:0d084987aa7074db29f94f2618980013c8ed3db0]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Zero: BRANCHES:[main:0dc2567a87741639be311ff0d4a60f588f63b58f]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-GEEK: BRANCHES:[main:e9ea5866ff87bef10fd2bcac07dc57a1004264d0]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-0.85: BRANCHES:[main:03a98f7087eba38860512746ce893830c40e5bad]|RELEASE:[none|none]
