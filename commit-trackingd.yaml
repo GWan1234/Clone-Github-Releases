@@ -514,6 +514,7 @@ HelTecAutomation/HeltecDocs: BRANCHES:[master:6b39fc24f19128a7d70cf6cc45513fe35e
 HelTecAutomation/HeltecDocs-zh_CN: BRANCHES:[master:cedf746f9ec1b75da0cba1f62c4e57fa8eee15d0]|RELEASE:[none|none]
 HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f849705c4;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf]|RELEASE:[2.1.6|e9c730b17f4739ab97468edf12dff5f86ee433bb]
 HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[none|none]
+HelTecAutomation/Heltec_nRF52: BRANCHES:[main:b69d5fb6cc497555047467a36e7a256aa1b6bd56]|RELEASE:[1.7.0|d45d40df192eb155df3c1f809387591d515383ab]
 HelTecAutomation/LoRaEinkBoard: BRANCHES:[main:39f0e14e1ce418eabcf0885017263a7cf7992df4]|RELEASE:[none|none]
 HelTecAutomation/Sufficient-IoT-Application: BRANCHES:[main:5b06e791d3c3e8938881e24153407b37f24fe6ad]|RELEASE:[none|none]
 HelTecAutomation/Sufficient-IoT-Joy: BRANCHES:[main:7c6d488cf104bc955d30bd901ad882fec2c01b40]|RELEASE:[none|none]
