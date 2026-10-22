@@ -2662,6 +2662,7 @@ waveshareteam/Pico_CapTouch_ePaper: BRANCHES:[main:da6878258c0504d8ae1cb8c896a11
 waveshareteam/Pico_MircoPython_Examples: BRANCHES:[main:be781912874381175753128423dd5b4b3d501d13]|RELEASE:[none|none]
 waveshareteam/Pico_ePaper_Code: BRANCHES:[main:c9bcd84db5adf5f085353649a8a5c31492bc5fb8]|RELEASE:[none|none]
 waveshareteam/Power-Management-HAT-B: BRANCHES:[main:5a0187336d11e2fb77e854619a1319b63c68e47e]|RELEASE:[none|none]
+waveshareteam/RoArm-M1: BRANCHES:[main:03c8c4797b01eef0df1c6cde37c97ceb6cbe3bba]|RELEASE:[none|none]
 waveshareteam/Touch_e-Paper_HAT: BRANCHES:[main:00b67c802b2e3ce5579236d3ad5e9e8b7c197be1;revert-4-main:bc009b5ad2cf42eca4f196c3e2d50be7ccebfb0a]|RELEASE:[none|none]
 waveshareteam/WM8960-Audio-HAT: BRANCHES:[master:d4915ac97730e78e43f985dabcf3903e85eb8b0a;6.18.x:fb6c81cef4126a0d0f0a28f4d49a8dceab883508;6.18-x:fbfbb0ee949103b6b3c07fd7bb9c5c6f3d9810ba;6.12.x:971890c0f31be554647f7591579c43b1bca55b93;rpi-4.9.y:a9aa1d0a10356fbfb56fcd8a63c7435ac80eb173]|RELEASE:[none|none]
 waveshareteam/Waveshare-DSI-LCD: BRANCHES:[main:0d3dcd2aa4eb65a46c98240baf326641a4c3884e]|RELEASE:[none|none]
