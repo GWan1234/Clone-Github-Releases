@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 15:42
+commit-tracking: 2026-10-22 15:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2377,6 +2377,7 @@ sparkfun/mbed-os-example-blinky-baremetal: BRANCHES:[master:3f1ee69152694fbbddb7
 sparkfun/microSD_Shield: BRANCHES:[master:993693390e5300f1dc514fdfb9424026b4f4ad7f]|RELEASE:[none|none]
 sparkfun/microSD_Transflash_Breakout: BRANCHES:[master:452f85520c81f96c2dedbddf25c896412a55390d;QC-Rev:ea8f9ab176bfed74bf6cda1be8a3e28eb67f6cd7]|RELEASE:[none|none]
 sparkfun/micronucleus: BRANCHES:[master:c6a337503c5144c277088d1c0a7ae3ae32546110;revert-79-libusb-1.0.20:96f59349f7136121e1ea52799ef1377d86b0dc2f]|RELEASE:[none|none]
+sparkfun/micropython-rp2350: BRANCHES:[feature/psram-sparkfun:16da9bd8cae7ecff435bf72135cc9f81114c82c5;feature/psram:870d858a3cb6488ae7e509f4841e7c5f978f0c7b;feature/psram-rebased:56abd12fe945086fd3d67239c4cb524d09bec7f9;test/network-ppp6:d3251562e1f05e267053a31a7301c26626363996;test/network-ppp5:a7ed0516fa554f4409c3caee8662497c38f39092;test/network-ppp3:fbe50b41cb8f6beea08010b10aad9fba6b2e5060;test/network-ppp4:611f1d8b98e505d59bc08b0e8b4717130142bb42;patch-rp2-thread-disabled:3654faad411a929598005a87e39244cc741ca5b2;test/network-ppp2:fa73c1dbc0b2af6a7fe287f8d6599049becb3922;test/network-ppp:f145f930f4475ed12821c07fc913e6ff7cb96200]|RELEASE:[v1.14-beta.04|b1ac266bb5cd0fcfa53539cb3230e7b3f323a09b]
 sparkfun/micropython_for_microbit: BRANCHES:[main:cfe58ac34d279edf3c60815f621ab196181ee603]|RELEASE:[none|none]
 sparkfun/nRF2401A_Transceiver-Chip_Antenna: BRANCHES:[master:2759a7ae40724f2c3bff0a5f2ffea3a8a22e56be]|RELEASE:[none|none]
 sparkfun/nRF2401A_Transceiver-Trace_Antenna: BRANCHES:[master:6ff8320a7a7ee6db94fa60809b415f70009c8b32]|RELEASE:[none|none]
