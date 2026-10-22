@@ -1010,6 +1010,7 @@ m5stack/M5StickC-Plus: BRANCHES:[master:4c87db9b3e0e2c6309f6e72c596032084542e7fa
 m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:e8cf9bd63d44706daaec9c4742826f5ecb2a2f94]|RELEASE:[none|none]
 m5stack/M5StickCPlus2: BRANCHES:[master:5e103b43ed4ae000fe079c6c928e71a2eadf797c]|RELEASE:[1.0.1|fa8e107d72a0e31eaaad0132893280f0f971c60b]
 m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:3d3d9dafc0835d620e3d87962269bddd8fe8accc]|RELEASE:[V0.1|3d3d9dafc0835d620e3d87962269bddd8fe8accc]
+m5stack/M5SwitchC6-ESP-NOW: BRANCHES:[main:59bdf315e4bd3001c42b952112481f147e68aee6]|RELEASE:[v0.0.1|59bdf315e4bd3001c42b952112481f147e68aee6]
 m5stack/M5Tab5-UserDemo: BRANCHES:[main:b4e356bc491ca070d54004718dad789c07d5fc93;dev:611f2d6f447ed21a379fa7a6dcbc3ef19c07094a]|RELEASE:[V0.4|68b19d37fbf9cefd5f256992f5dca34794c62ab4]
 m5stack/M5Template-C-CPP: BRANCHES:[main:510e9dc93a32260ac6a742f7c5f6d10d1a3d60c9]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:85113589f6d7c272c1dbc21e99f6f1bc228630cb]|RELEASE:[none|none]
