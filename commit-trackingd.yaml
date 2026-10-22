@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:03
+commit-tracking: 2026-10-22 19:04
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -889,6 +889,7 @@ m5stack/M5EPD_Todo: BRANCHES:[main:008f73dd94adb9d12931b78c4d459da46b770e1e]|REL
 m5stack/M5GFX: BRANCHES:[develop:4d1d9ebf5ea6683d45d3bd3ec6e5581c316bf376;master:a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72;copilot/fix-code-for-review-comments:7502f29622dff7e19dd5c24cddbf1d3b58786ff0;feature/lvgl_font_support:62f5ba0747877ad7723d8aca6035bcbf3a9bb85d;fhd60:3c509b7d02c79acfb76879d82016ad6a766ca929]|RELEASE:[0.2.34|a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
+m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0047d8]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
 m5stack/M5Stack: BRANCHES:[master:c49c8935189674317163c31ef6399a38769282e0;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb]|RELEASE:[none|none]
