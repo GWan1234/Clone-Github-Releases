@@ -2670,6 +2670,7 @@ waveshareteam/Waveshare-DSI-LCD: BRANCHES:[main:0d3dcd2aa4eb65a46c98240baf326641
 waveshareteam/e-Paper: BRANCHES:[master:a794fbc39656b0f93938d1ffb3fdc77eaed9e9fc;Development:2ccb7f61c1ea4061863a2e7fbaeeea04ce51de12]|RELEASE:[none|none]
 waveshareteam/pico-lorawan: BRANCHES:[flash-backed-eeprom-board:4c54ffc1c385e51585f5b16569bcb8b582d3c957;main:d2d09822c292dfe3404b25006af9cda8066e47a2]|RELEASE:[none|none]
 waveshareteam/pxt-APA102: BRANCHES:[master:c5eaffabf547d6c4d6d48218ec9dbfd99966d1bf]|RELEASE:[none|none]
+waveshareteam/ugv_base_general: BRANCHES:[main:d308df91b333a513f45a238bef9ba9a0a5edf64c]|RELEASE:[none|none]
 waveshareteam/ugv_base_ros: BRANCHES:[main:2e7df97c331ff63e1481afb34feec52014a3632a]|RELEASE:[none|none]
 waveshareteam/ugv_rpi: BRANCHES:[refactor/debian12-2025.10.01-py3.11:228307ea2f1f069a837ea6cd9407a624c0b115af;HexArth/debian12-2025.10.01-py3.11:974b4234d66e178475611fdf7919397cf793251a;support/debian12-2025.10.1-py3.11:1054a5c13bee43daefc16d4329cfdd9f61460b53;main:3ae9f203f61bfaaf123ee376f78247d007880b0c]|RELEASE:[none|none]
 waveshareteam/waveshare_fbcp: BRANCHES:[main:b4603507ca20ad4307fb0fe4b2949740b7c43c94;master:4769b39cecb6f144cd198aae4ca6f4d67964e1bf;kedei_v6_3_mpi3501:4c9229037e923e8f1b866afbcb79b556bf808c4f;non_intermediate_memcpy_for_dma:0dd661a0f74c3631c6136aabf24b0e36039eed20;gpio_input_latency_test:7bd69c45b1d7bad9a670b543bef1f120f9b7ef68;monochrome:3bb5af9d39c4607e0e54761ec3db6b8e0a02f919;dma_hacks_4:b5c261f5edf3da40fc904b535a9c87cf01c5685d;dma_hacks_2:234aa53193c637ae37e06e743245ec86bc52f66f]|RELEASE:[none|none]
