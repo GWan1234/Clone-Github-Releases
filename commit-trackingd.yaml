@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 18:45
+commit-tracking: 2026-10-22 18:46
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -868,6 +868,7 @@ m5stack/M5Stack-platformio: BRANCHES:[master:bbbb7888507733f60a382ef6c8f3d4e1546
 m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45e09e4e;StickC:3b99bc8d619c3ae278f2828d2510ef4bf82dd203;m5stack:2fa5830dd6cecdf027b54c5928f59973230bccfd]|RELEASE:[none|none]
 m5stack/M5Stack_TFT_ILI9341: BRANCHES:[m5stack-default:bcfc56a65ae060b76aa4b53038fa1825f0d475b3;m5stack:f7147ec9c9f9a5be24f3a1e0b4235f99301fe3cc;master:46dad5a0329de501e792a27a789597d445ffde9b]|RELEASE:[none|none]
 m5stack/azure_iothub_arduino_lib_esp32: BRANCHES:[master:baf0e17605a5a3d7856ba4ded32e4edc7deb9095]|RELEASE:[none|none]
+m5stack/esp32-cam-demo: BRANCHES:[m5cam-psram:0f8a432364d144f91099e2298e79c8a7fc332ada;m5cam:51dd0c79916e4b1b597545d2574b8c52395ebb24;mpu6050:1b7abfdbe0fc8946a5c8efd7ecc934c12c53a00a;master:34a354663d5c15ff2501c12659ff23486c31ea6f;hw_i2c:2e01a859776deda7361c8cc463325e86c1a39a91]|RELEASE:[none|none]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c]|RELEASE:[none|none]
 martin-ger/ESP32_Locator: BRANCHES:[master:b14acf1935f3e99cee900e4d15a76ff40cc743b3]|RELEASE:[none|none]
