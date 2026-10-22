@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:15
+commit-tracking: 2026-10-22 16:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2094,6 +2094,7 @@ sparkfun/SparkFun_Qwiic_Micro_SAMD21E: BRANCHES:[main:fa536a4f7180cfc7450435ef9c
 sparkfun/SparkFun_Qwiic_Navigation_Switch: BRANCHES:[gh-pages:80e13431555843b9d063d0d03616c37f68c04893;main:b64c0dac2134d69963bf28120305bd79aad3c8ac]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_OLED-0.91: BRANCHES:[main:270ccc6685ca933dee99031f7079327c7b601f08]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_OLED_1.3in: BRANCHES:[gh-pages:b8f1c1b0730482ff739c1a386c726cacf21d5fdc;main:fe1cef157c993c8265288fbccf211043df3708be]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_OLED_1.5in: BRANCHES:[gh-pages:b4e3bddf74e9aa508511c8f98726273247134e69;main:1e33162afee6ee5b86302ff0d46e9f6d2e8131ba;v10:81501519f65589a5458ccafc7ee163a4cce4764a]|RELEASE:[v1.0.0|d569666b7b0129a5a153fb58780f0ae3dd26a798]
 sparkfun/SparkFun_Qwiic_OLED_Arduino_Library: BRANCHES:[develop:8801e882bc5e08c863c28080730d3d895f55578c;gh-pages:cfc18dde2ba425194dec9acced089af8fa087a4b;main:133f6ed2afa0a3956fa2ada553d99d43b1cb980d;bugfix/ch1120_bitmap:7275c97fee6834072465f06c62ec3a7ee7bce58e;bugfix/redefinition_warnings:d4490034e76a5022d4a68df7233f6a0f5dabb570;feature/ch1120_driver_optimized:76846d77e0aaa2596fbf22c27009a2ed74835df2;feature/ch1120_driver:df010619d64d0e0417092b09ca8d26563e938cbe]|RELEASE:[v1.0.15|6c3108be8c35b0b5b372789857ce6d8dc5cf62c6]
 sparkfun/SparkFun_Qwiic_OTOS_Arduino_Library: BRANCHES:[develop:7b9845bad6875bac82863a51fba70bbfaefaa701;main:b69b32681577c018736863e1d7acbf77a3748454;add_Toolkit_Dependency:62b43ebbc1aec07d43f64ae49313a1ecbdf5be2d]|RELEASE:[v1.1.0|b69b32681577c018736863e1d7acbf77a3748454]
 sparkfun/SparkFun_Qwiic_OTOS_FTC_Java_Library: BRANCHES:[set_pose_workaround_v9.2:e87b15e73486335cfbf42f774bbeb9952d19c335;fix_set_pose_angle_wrapping:7fc79005a062e71505b561f2e2391cb446e43a16;main:a04b4f559613226e656fffafd47c0bcd8404b8d4]|RELEASE:[none|none]
