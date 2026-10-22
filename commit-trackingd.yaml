@@ -1919,7 +1919,7 @@ sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library: BRANCHES:[master:3886ebd95291
 sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library: BRANCHES:[master:1b55bec89f0d8f990ad36e88acb5fcb5710d371c]|RELEASE:[none|none]
 sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic: BRANCHES:[master:aa763eaee71d9245e5c31daa6883f6f5c6186f16]|RELEASE:[none|none]
 sparkfun/SparkFun_Humidity_Sensor_SHTC3: BRANCHES:[master:89ecc1a11c2d0c3bbd8bc6224095ddf24aff0d09]|RELEASE:[none|none]
-sparkfun/SparkFun_HyperDisplay: BRANCHES:[master:69e47017322f3d8ef5e93e1a9be73a4472d34a6c]|RELEASE:[v2.0.1|69e47017322f3d8ef5e93e1a9be73a4472d34a6c]
+sparkfun/SparkFun_HyperDisplay: BRANCHES:[master:69e47017322f3d8ef5e93e1a9be73a4472d34a6c]|RELEASE:[none|none]
 sparkfun/SparkFun_HyperDisplay-wiki: BRANCHES:[master:f4db9226ef7093631f79f938db22d5d8be3b00b9]|RELEASE:[none|none]
 sparkfun/SparkFun_I2C_GPS_Arduino_Library: BRANCHES:[master:a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc]|RELEASE:[v1.0.6|a0c84da4f4e7064b858fdd25729e7e3f2f1f21bc]
 sparkfun/SparkFun_I2C_Mux_Arduino_Library: BRANCHES:[master:9f4b4000171c90d892fc74ddd7e9dda8cf2b8148]|RELEASE:[v1.0.3|9f4b4000171c90d892fc74ddd7e9dda8cf2b8148]
