@@ -2381,7 +2381,7 @@ sparkfun/nRF9160_Thing_Plus: BRANCHES:[dev:1641ed6710b3c453dff46d2d2d7df33f9643b
 sparkfun/pcDuino: BRANCHES:[master:b091a667f781e8f4f5ce71f14b11c5d42bfd1f10]|RELEASE:[none|none]
 sparkfun/pdp-qwiic-micro-python: BRANCHES:[main:480a4a66bc7f3da8aa6b09e75db759df3da99fb6]|RELEASE:[none|none]
 sparkfun/phant: BRANCHES:[master:476fb243d6bd8373cf242bc905d6ead13026edb6;add-vagrantfile:ddefedf49e415f246de6137b796ab036808fcaf6;7.0:206640c0c94ae34b25c20d6d04ec8481590ffbd4;6.4:30b1b6102663893ba1b9cf891b69d7e6ce53bf0c]|RELEASE:[none|none]
-sparkfun/phant-arduino: BRANCHES:[master:be0b9a9de0f34d9fec64dc97754ae60a3ba303f8]|RELEASE:[v1.0.0|9c7a69c46dfe7d3712fc9e89a388ab46753e1df4]
+sparkfun/phant-arduino: BRANCHES:[master:be0b9a9de0f34d9fec64dc97754ae60a3ba303f8]|RELEASE:[none|none]
 sparkfun/phant-docs: BRANCHES:[gh-pages:d73c49cd151113d59f115efdc840315e3c49329b]|RELEASE:[none|none]
 sparkfun/phant-input-mqtt: BRANCHES:[master:cb823ffefb7d1487be2d41859c63e0313a4a1220]|RELEASE:[none|none]
 sparkfun/phant-input-udp: BRANCHES:[master:5b34b646a13059d31226c172f3389638c87a99ef]|RELEASE:[none|none]
