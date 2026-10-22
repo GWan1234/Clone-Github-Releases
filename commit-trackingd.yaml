@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:45
+commit-tracking: 2026-10-22 19:46
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -912,6 +912,7 @@ m5stack/M5AtomS3: BRANCHES:[main:440c112f37ac428ef3b0698c61663717fa25736c]|RELEA
 m5stack/M5AtomU: BRANCHES:[master:e6e2c624af4328fdaa612cb0cf261fff769fa539]|RELEASE:[none|none]
 m5stack/M5Bala: BRANCHES:[master:b3c623160246b98066390e4b11e4c421baaed660]|RELEASE:[none|none]
 m5stack/M5BurnerNVS: BRANCHES:[main:02bf5bacd69c042ff5c66a58e508932d6f28783c]|RELEASE:[0.0.1|02bf5bacd69c042ff5c66a58e508932d6f28783c]
+m5stack/M5Capsule: BRANCHES:[master:9a91820dc5b52951eb12ce4fe99ff2238ef594f4]|RELEASE:[1.0.1|9a91820dc5b52951eb12ce4fe99ff2238ef594f4]
 m5stack/M5Cloud: BRANCHES:[master:d6afd906d5bad43541d7e6c3608bbde3abe02167;v0.5.0:da9010299b15c9515a4650b91639f6bd2afe9268]|RELEASE:[none|none]
 m5stack/M5Core-Ink: BRANCHES:[master:5fb473d6d852ec6d2df18217d399c7fb2dbc10b9]|RELEASE:[1.0.0|728126de268995f79522f546d546e9689760d531]
 m5stack/M5Core2: BRANCHES:[master:63dd4c038bd34a5c3ec02818b40fffb9999ecf6e;revert-156-0.2.0:2541ae394f3d9a2d28faf8246fc204380770ff1f;develop:c35a052ad886027e0257c2f6456fc069fa16267e]|RELEASE:[0.2.0|2509ff06cfb73126f6065cd3b35933c22ae4333f]
