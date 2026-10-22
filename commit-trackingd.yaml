@@ -995,6 +995,7 @@ m5stack/M5Stack_Linux_Libs: BRANCHES:[UserDemo:730634b0fec605c2087836fd35b37d3cf
 m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45e09e4e;StickC:3b99bc8d619c3ae278f2828d2510ef4bf82dd203;m5stack:2fa5830dd6cecdf027b54c5928f59973230bccfd]|RELEASE:[none|none]
 m5stack/M5Stack_TFT_ILI9341: BRANCHES:[m5stack-default:bcfc56a65ae060b76aa4b53038fa1825f0d475b3;m5stack:f7147ec9c9f9a5be24f3a1e0b4235f99301fe3cc;master:46dad5a0329de501e792a27a789597d445ffde9b]|RELEASE:[none|none]
 m5stack/M5StamPLC: BRANCHES:[main:76e1ab5a02b1968bfe6a5d774034e105fc7d7ad7;dev:1d30e61d4326f7ba3c2d9569d0c23aba33c798ad]|RELEASE:[1.2.1|b6f4294d3a69d9b1dd88728d2355faabc48f7212]
+m5stack/M5StamPLC-UserDemo: BRANCHES:[main:87def4f7889f1a76aa3b3898ef2f2b2a482bb4ff]|RELEASE:[none|none]
 m5stack/M5Stamp-TimerPower: BRANCHES:[main:3f9e8f6cb7da9a8c8b5fa02570a45113ec54bddd]|RELEASE:[none|none]
 m5stack/M5StampFly: BRANCHES:[main:fa7b6a59c7f297d398d381840184451dce137c48]|RELEASE:[V1.1.0|78ae96fc47dc28097b89ff5d88ce4d00b6f8f9bc]
 m5stack/M5Station: BRANCHES:[main:7389bffe828b1d4e2688e8acf8cb4c4baaf68d5f]|RELEASE:[0.0.1|91099928af94868515ffa33a07ab26183f909d07]
