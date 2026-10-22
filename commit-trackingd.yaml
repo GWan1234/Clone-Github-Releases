@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:44
+commit-tracking: 2026-10-22 19:45
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -943,6 +943,7 @@ m5stack/M5Module-DMX512: BRANCHES:[master:8a3c0bcc7d83eceebe7acff932871444313207
 m5stack/M5Module-Display-13.2: BRANCHES:[main:e1c8f3269a88424507c8f016ba5645c3831283de]|RELEASE:[none|none]
 m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:61c2e34fa3cd86f40b2d1f05cd00e1857869f8bf]|RELEASE:[none|none]
 m5stack/M5Module-DualKmeter-13.2-Internal-FW: BRANCHES:[main:b8144b0c86ab6f9d3808693c2eac8598376bea4c]|RELEASE:[none|none]
+m5stack/M5Module-GNSS: BRANCHES:[main:9a8a14ddda27eb5f16f29f1c54cb59929af0fd89]|RELEASE:[1.0.1|b442dc9f1fb01169ba881a3bbc672b90dbcce3e4]
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0047d8]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
 m5stack/M5Module-HMI: BRANCHES:[main:bdb66bcffdb4d3683c97c6be99c2f5f1e66abc85]|RELEASE:[none|none]
 m5stack/M5Module-HMI-Internal-FW: BRANCHES:[main:6d55c14f9ac9a8b47f3f63bbdce86aa96f497956]|RELEASE:[none|none]
