@@ -861,6 +861,7 @@ lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db76513289
 m5stack/Applications-LidarBot: BRANCHES:[master:9a6fa899248b0ebc5f73a9e5d140b57298918ca7]|RELEASE:[0.0.2|0aa1b47f9d8e89ede6baf97a23e45a6b7596239a]
 m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|RELEASE:[none|none]
 m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6]|RELEASE:[none|none]
+m5stack/M5-Schematic: BRANCHES:[master:686d1ec36a89046f79b57d8e9611b3868efc4868]|RELEASE:[none|none]
 m5stack/M5Bala: BRANCHES:[master:b3c623160246b98066390e4b11e4c421baaed660]|RELEASE:[none|none]
 m5stack/M5Cloud: BRANCHES:[master:d6afd906d5bad43541d7e6c3608bbde3abe02167;v0.5.0:da9010299b15c9515a4650b91639f6bd2afe9268]|RELEASE:[none|none]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
