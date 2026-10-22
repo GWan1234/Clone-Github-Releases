@@ -2020,6 +2020,7 @@ sparkfun/SparkFun_Phant_Particle_Library: BRANCHES:[master:7ffa389e608f93796a8a7
 sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic: BRANCHES:[master:854e0efe4b5f3f37585929201035b5f90c2cb1bc]|RELEASE:[none|none]
 sparkfun/SparkFun_Photon_Weather_Shield_Particle_Library: BRANCHES:[master:9940434f66c71ced4538b2882ffd3c2beac5a847]|RELEASE:[none|none]
 sparkfun/SparkFun_Pi_AVR_Programmer_HAT: BRANCHES:[master:67af8c8c3f3e89e2f32d41f2ba2b919f76a34282]|RELEASE:[none|none]
+sparkfun/SparkFun_Portability_Shield: BRANCHES:[gh-pages:accd3523782368437d9c30142c06b735cb111859;main:a6d288f412ead6fcd2a3609da0d8c2dc82b173f2]|RELEASE:[none|none]
 sparkfun/SparkFun_ProDriver_TC78H670FTG: BRANCHES:[master:fdb838258660af9c383c6d4891626c59fbfcd573]|RELEASE:[none|none]
 sparkfun/SparkFun_ProDriver_TC78H670FTG_Arduino_Library: BRANCHES:[master:364a5a72c4c80d1edfb0650f7e9d47236a37d757;fastSerialMode:be92ace3f438053b8aaa841d2a923a3f23da9a6a]|RELEASE:[v1.0.2|a0d7edb9bbf385d4d3c99ac8225e9c83ffb2c4f3]
 sparkfun/SparkFun_Pro_Micro-ESP32C3: BRANCHES:[gh-pages:15673d57bdfa75c73596fc4cc5875adc92075b21;main:b302fbc429a90b87865145877b96f189ad4d5460]|RELEASE:[none|none]
