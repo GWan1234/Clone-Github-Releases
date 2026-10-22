@@ -521,6 +521,7 @@ HelTecAutomation/hotspot-app: BRANCHES:[main:e821b9cb2632162584e59982f7fd3ef01d7
 HelTecAutomation/hotspot-manufacturers: BRANCHES:[main:8556dcb4f2cf7f1e5b2865ab6d94227195ab08cb;revert-244-patch-1:fdf2017eef503c895eac164e4dc8a51d41aa4d7a;revert-93-main:bbe6f01b038edf82d992986492d76f0ed82491d9;revert-82-patch-2:affdab8d62e1f58b37cbe9890a36a5f89b97705a]|RELEASE:[none|none]
 HelTecAutomation/lora_gateway: BRANCHES:[main:106157512cd28eb21115442be0b1645dd546d248]|RELEASE:[none|none]
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee]|RELEASE:[none|none]
+HelTecAutomation/meshtastic: BRANCHES:[master:70638582bf25abdaa4aec9007306a29d2e886158]|RELEASE:[none|none]
 HelTecAutomation/packet_forwarder: BRANCHES:[main:f8113f597bc8e54fe2a55ebfda72bf35c6dbc6cb]|RELEASE:[none|none]
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2]|RELEASE:[none|none]
 HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507a5717f10964a2b6e47;master:29225749f54c4ab2849e4c1bded814e9c61a7deb]|RELEASE:[v1.5.1|29225749f54c4ab2849e4c1bded814e9c61a7deb]
