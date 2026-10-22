@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:37
+commit-tracking: 2026-10-22 17:38
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2666,6 +2666,7 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[main:f15098fe62072156db1e7ba
 waveshareteam/ESP32-S3-AMOLED-1.91: BRANCHES:[main:1986f380a4e668da5f4e2b93de9bd82555788018]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-PhotoPainter: BRANCHES:[photopainter-idf55-idf61-20261019:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main-v1.4.0-default_mode_1:8e0241c07814920b0d0c632db1bc0bc9bdaf605b;main-v1.4.0:02be1a7570e3fc586b628fb55c60a247f00ed88d]|RELEASE:[v1.5.0|a5e8f757ba0cafbb5586f07d3e83bda3184c0845]
+waveshareteam/ESP32-S3-Pico: BRANCHES:[main:f0d0562a53e2087eb14d646ff1daa791e47e0aa0]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-RLCD-4.2: BRANCHES:[main:d8bf7813d3b53251577ff03c03596ad6ad3acae0;dev:cb590c853f3d2bb58efe280c98b2f3cbf1e2876e]|RELEASE:[v1.2.0|af18b8890a7a457434a0852064af1cc17135f76e]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.32: BRANCHES:[main:b3d6546e39db6287bc643eb0b0ad796e0ff61315]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.75: BRANCHES:[main:e4344e70c2fa78a13e8a06566507f1ba8af6672a;chore/framework-matrix-refresh:dc8bb7452640c92b69c0ae80b1335c41aa78ade4;chore/repository-modernization:368b01f697504a8e06ab29244003cd4331234b31;codex/brookesia-button-test:242480c2a668df9c8488145c1246feb9116da1a5;docs/firmware-bilingual-polish:867e399cd383e7f934b99cf81977a530a48c5026;docs/bilingual-product-guide:dc59d77ee13d19eac085a7da7f43ddd23b89cf56]|RELEASE:[v1.0.1|d55b07d3ac5a49b9552906bc7bb7d8f485a99f26]
