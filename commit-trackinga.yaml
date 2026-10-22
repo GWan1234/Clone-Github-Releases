@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 10:38
+commit-tracking: 2026-10-22 10:39
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2375,12 +2375,13 @@ thelastoutpostworkshop/virtualScreen: BRANCHES:[main:315506d7c722d8d83b4efb0781f
 thelastoutpostworkshop/virtualscreen_st7789: BRANCHES:[main:d18db73b917142f7b92bf887acd55d5a662666cf]|RELEASE:[none|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: BRANCHES:[main:0a0f2d4fe0599759dcde0a1b807d16169161cb55]|RELEASE:[none|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_xwing_game: BRANCHES:[main:2390918854e23f2097c0b78773802373ca9335a1]|RELEASE:[none|none]
+ventoy/7zip: BRANCHES:[main:158f676ac8e27c1227911a5fd5854ef8e080cad8]|RELEASE:[ventoy-7zip-2605|158f676ac8e27c1227911a5fd5854ef8e080cad8]
 ventoy/DeleteVentoySecureBootKey: BRANCHES:[main:23249e47049dfe46b533f57e337485c7fdbb804c]|RELEASE:[v3.1|3ffe52d557f734b74b9e3105c7628f414c73bcf5]
 ventoy/KioskFiles: BRANCHES:[main:27e62fffacd76c35c0d7499dfd1f8e8eae2e2a86]|RELEASE:[v1.0|27e62fffacd76c35c0d7499dfd1f8e8eae2e2a86]
-ventoy/LiveInjection: BRANCHES:[main:556ec463d2ba791ba9fca6f677aad6ac76419d1c]|RELEASE:[1.1|556ec463d2ba791ba9fca6f677aad6ac76419d1c]
+ventoy/LiveInjection: BRANCHES:[main:4182bdb724d559a62e110e5cae98e6e6207349ae]|RELEASE:[v1.2|4182bdb724d559a62e110e5cae98e6e6207349ae]
 ventoy/OpenWrtPlugin: BRANCHES:[main:6cc5bc4054a0e8fa92924a57ed0ca883a8627605]|RELEASE:[v1.4|6cc5bc4054a0e8fa92924a57ed0ca883a8627605]
 ventoy/PXE: BRANCHES:[master:37a7e99816147dd02eb97c49f16997f82d9cc8ee]|RELEASE:[v1.0.46|37a7e99816147dd02eb97c49f16997f82d9cc8ee]
-ventoy/Ventoy: BRANCHES:[master:582704ca5be53ea3cd84f2c62965ccdf06585971]|RELEASE:[v1.1.18|6116894ab8abdf3ef8d43411a6732d34ee19214e]
+ventoy/Ventoy: BRANCHES:[master:74cff34240dca6991b79c6656770670da7b0c39e]|RELEASE:[v1.1.18|6116894ab8abdf3ef8d43411a6732d34ee19214e]
 ventoy/WinInjection: BRANCHES:[main:0a327f93ddea4f8a4e6fe4b3d12b7d2a0375a4e0]|RELEASE:[none|none]
 ventoy/backend: BRANCHES:[master:e24de7f24771b652583c213281e32de2ac976eb0]|RELEASE:[v5.0|e24de7f24771b652583c213281e32de2ac976eb0]
 ventoy/efifs: BRANCHES:[master:6e00f7ebe3472446a705b7ae706fff83e448fa0d;andy-edk2:4e1ba95bbed25fad4feda6d3116a459e549bb0cc]|RELEASE:[none|none]
