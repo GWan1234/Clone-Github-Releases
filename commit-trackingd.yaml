@@ -1046,6 +1046,7 @@ m5stack/MagicWand: BRANCHES:[master:3e1f4b62a41e8f9bdbacd68627cabc6780f4093c]|RE
 m5stack/MakerFaire-Robort: BRANCHES:[master:191cdebb09a81adfd05d252a2cf0dd2c8b53e5f7]|RELEASE:[none|none]
 m5stack/Neopixel_board: BRANCHES:[master:4d4cb5dc746de7f7a64ec8e8d1200e94b239fead]|RELEASE:[none|none]
 m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1869b0c07d7af5]|RELEASE:[none|none]
+m5stack/PoE-CAM-UserDemo: BRANCHES:[master:42b6c13cfe6bd7109d52b4d410bd5da247e1e9e0]|RELEASE:[none|none]
 m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:19a86a1d6b1d7c52a6899691e23fdba609362bda]|RELEASE:[none|none]
 m5stack/STAMP-C3: BRANCHES:[master:ee5f574e0ee2a85e696f7ab7cb8779d8646fbcf1]|RELEASE:[none|none]
 m5stack/STAMP-PICO: BRANCHES:[master:fb2173ff5ff541411b5a9fbd7af44b7043209b80]|RELEASE:[0.0.2|a9e9209e1ae8e2f1d94b72dc86c0d9293f988b0c]
