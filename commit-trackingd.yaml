@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:33
+commit-tracking: 2026-10-22 19:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -863,6 +863,7 @@ m5stack/ATOM-PRINTER: BRANCHES:[master:aa35436b66c42d7091fe3ddfe01572baeb70e7db]
 m5stack/ATOM_DTU_CAT1: BRANCHES:[master:c32c54f15df819213532ae00ad2e96d5b8c5abf8]|RELEASE:[0.0.1|96a4ce33b023df329c7c4a7394aa11f13d4e47b7]
 m5stack/ATOM_DTU_LoRaWAN: BRANCHES:[master:7931009b0bd4d8eae23331d722b7a94b9bd3ea58]|RELEASE:[0.0.2|7931009b0bd4d8eae23331d722b7a94b9bd3ea58]
 m5stack/ATOM_DTU_NB: BRANCHES:[master:d795990024be0138808696001cc7d791c033aa26]|RELEASE:[0.0.2|545338f6427cb0841c3b7c8110fa6ddedf599354]
+m5stack/AWS_IoT_Connect--Arduino--Core2_for_AWS: BRANCHES:[main:8042e064bbeec38b762f13cc34c01860f50467b6]|RELEASE:[none|none]
 m5stack/Applications-Lepton3.0: BRANCHES:[master:2798cf88f44656ee2f0123d94e910aba8c6e01aa]|RELEASE:[none|none]
 m5stack/Applications-LidarBot: BRANCHES:[master:9a6fa899248b0ebc5f73a9e5d140b57298918ca7]|RELEASE:[0.0.2|0aa1b47f9d8e89ede6baf97a23e45a6b7596239a]
 m5stack/Applications-M5PIANO: BRANCHES:[master:f1d7bb59eeb08d6a4dab07fe42c05ad74cb5d7ac]|RELEASE:[none|none]
