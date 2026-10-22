@@ -2715,6 +2715,7 @@ waveshareteam/IPCBOX-CM5-A: BRANCHES:[master:3a35ce02e96d067ffcb73ccb6ba1ee67be9
 waveshareteam/IT8951-ePaper: BRANCHES:[master:86406933d8f22af9fd3f2152b4958610c054b9a8]|RELEASE:[none|none]
 waveshareteam/JoyStick: BRANCHES:[master:e090d95944ae0fc614f708461498dbf875ef1243]|RELEASE:[none|none]
 waveshareteam/LCD-show: BRANCHES:[master:e91282e64dd1c37a009ebbd33967cf0b4ff6dce2]|RELEASE:[none|none]
+waveshareteam/M.2-PCM5122-AUDIO-HAT: BRANCHES:[master:6e50d8f47a5be5f3117c8aecab8e48f66dab1bf1]|RELEASE:[none|none]
 waveshareteam/PhotoPainter: BRANCHES:[master:aaa5498d07f76fe4351225a64ff6254c78c4e2cb;Suggestions-from-other-developers:78d6db632254984b7311f8d36cc3b10e7b264ca0]|RELEASE:[none|none]
 waveshareteam/PhotoPainter_B: BRANCHES:[master:fc2b261e985934bf67d99aa26358e463deb0aa65]|RELEASE:[none|none]
 waveshareteam/Pico_CapTouch_ePaper: BRANCHES:[main:da6878258c0504d8ae1cb8c896a11dacbda29642]|RELEASE:[none|none]
