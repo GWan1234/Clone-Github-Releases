@@ -276,7 +276,7 @@ DFRobot/DFRobot_NRF24L01: BRANCHES:[master:6301382d381d19de2627b6f14c39d3f083de4
 DFRobot/DFRobot_OBLOQ: BRANCHES:[master:205b250fc696d1b93e5359b8d4804c21d0f8cb65]|RELEASE:[none|none]
 DFRobot/DFRobot_OLED12864: BRANCHES:[master:2bfb7646fc5343deb39f7a0e9d7a3222357d6495]|RELEASE:[none|none]
 DFRobot/DFRobot_OSD: BRANCHES:[master:212b5a3e44d034efecd3675b4093eaac87656823]|RELEASE:[none|none]
-DFRobot/DFRobot_OxygenSensor: BRANCHES:[master:43c54399b4600e36a0fe77d21871c4909bbf65d6]|RELEASE:[none|none]
+DFRobot/DFRobot_OxygenSensor: BRANCHES:[master:208018c699cee4d795dcdfc706996e3de7ab8c5e]|RELEASE:[none|none]
 DFRobot/DFRobot_OzoneSensor: BRANCHES:[master:bf073b730981c0e4fc4a6e859173cee4edd8c1fe]|RELEASE:[none|none]
 DFRobot/DFRobot_PAJ7620U2: BRANCHES:[master:57edc1dee3d0f95613b15eb9c1ac9241308bc917]|RELEASE:[none|none]
 DFRobot/DFRobot_PAV3000: BRANCHES:[master:203384cdbad69bc9fc6495dea9cd59a5902599f8]|RELEASE:[none|none]
