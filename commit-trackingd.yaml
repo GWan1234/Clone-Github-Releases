@@ -858,6 +858,7 @@ home-assistant/zwa2-toolbox: BRANCHES:[master:c6bd7d082cd8becf60f3566d5674f0e488
 hylianfin/Aliro-homekey: BRANCHES:[main:ff1e610fc9c3ddfefe31ffc5f06b1ae8eb710d2b;revert-1-main:076b16053489839ff08a78c1a7d2f77adbbb6b29;page:88420a29e1c89fd4e2449255a29ecbe58e5f12a4]|RELEASE:[none|none]
 kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de0768a9;master:10c56b4f94c1ec79a65c4d8eb890e2ac4e9b11bc;2023.03.02.1000:4b4f1bd2649f3b540ca20945f461287d4f987a01]|RELEASE:[v2023.03.02.1000|0f4071a61b4ba8a7119d3405e760929089545f9e]
 lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db765132892b2b]|RELEASE:[none|none]
+m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6]|RELEASE:[none|none]
 m5stack/M5Cloud: BRANCHES:[master:d6afd906d5bad43541d7e6c3608bbde3abe02167;v0.5.0:da9010299b15c9515a4650b91639f6bd2afe9268]|RELEASE:[none|none]
 m5stack/M5Stack: BRANCHES:[master:c49c8935189674317163c31ef6399a38769282e0;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
 m5stack/M5Stack-nesemu: BRANCHES:[master:16bc0da953bcfbb4fc4d0ebe8be84d5a9e3cf5fe]|RELEASE:[none|none]
