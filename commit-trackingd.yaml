@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 18:33
+commit-tracking: 2026-10-22 18:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2707,6 +2707,7 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[main:f15098fe62072156db1e7ba
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[main:6948676d64515b6273998236d98a643ead640735;chore/esp-idf-ci:6acaae088fbb22ed9fe55a3396af7196190e2367;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-AMOLED-1.91: BRANCHES:[main:1986f380a4e668da5f4e2b93de9bd82555788018]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-0.85: BRANCHES:[main:b61ab4c443c0277843b79aaecfc916d11af67dc2]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.9: BRANCHES:[main:12b8fc74434103d0c5721906b69d866c789e4c41]|RELEASE:[none|none]
