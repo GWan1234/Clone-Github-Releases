@@ -1965,7 +1965,7 @@ sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library: BRANCHES:[master:ea89f
 sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5d9341ca1b85079c2063340]|RELEASE:[none|none]
 sparkfun/SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library: BRANCHES:[main:6ea1765a513dde65e433dde12a70fced73b65fed;release_candidate:636247facd653c533f8ac6b85e4d261d323d2409]|RELEASE:[v1.0.4|b7a60ab81eb7286fd1daa3bc2dd3797445e47a0f]
 sparkfun/SparkFun_MAX3010x_Sensor_Library: BRANCHES:[master:72d5308df500ae1a64cc9d63e950c68c96dc78d5]|RELEASE:[v1.1.2|72d5308df500ae1a64cc9d63e950c68c96dc78d5]
-sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0]|RELEASE:[v1.0.1|0f8cd331ec91ff0cc04dcf98402d0729dd8790ca]
+sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0]|RELEASE:[none|none]
 sparkfun/SparkFun_MCP9600_Arduino_Library: BRANCHES:[master:399d721629fc5f10fc8a02883ba9206c3a46a584]|RELEASE:[v1.0.6|399d721629fc5f10fc8a02883ba9206c3a46a584]
 sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library: BRANCHES:[master:a459ffb6d972717fa7fb553f109bac99042eca86]|RELEASE:[none|none]
 sparkfun/SparkFun_MLX90614_Arduino_Library: BRANCHES:[master:a2fb7586eefcb98425f9767c484ba200bfe8e574]|RELEASE:[v1.1.5|a2fb7586eefcb98425f9767c484ba200bfe8e574]
