@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:50
+commit-tracking: 2026-10-22 19:51
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -976,6 +976,7 @@ m5stack/M5StickC-IDF: BRANCHES:[master:8d34a2ff711ef06ce663929511d4157ec8ae4b85]
 m5stack/M5StickC-Plus: BRANCHES:[master:4c87db9b3e0e2c6309f6e72c596032084542e7fa]|RELEASE:[0.1.1|90cb1bc192d5a4fb6d801191da56e84e0b2f85ad]
 m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:e8cf9bd63d44706daaec9c4742826f5ecb2a2f94]|RELEASE:[none|none]
 m5stack/M5StickCPlus2: BRANCHES:[master:5e103b43ed4ae000fe079c6c928e71a2eadf797c]|RELEASE:[1.0.1|fa8e107d72a0e31eaaad0132893280f0f971c60b]
+m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:3d3d9dafc0835d620e3d87962269bddd8fe8accc]|RELEASE:[V0.1|3d3d9dafc0835d620e3d87962269bddd8fe8accc]
 m5stack/M5Template-C-CPP: BRANCHES:[main:510e9dc93a32260ac6a742f7c5f6d10d1a3d60c9]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:85113589f6d7c272c1dbc21e99f6f1bc228630cb]|RELEASE:[none|none]
 m5stack/M5Tough: BRANCHES:[master:fda04c38004817bfff095e172ff1d03d8a74c15c]|RELEASE:[none|none]
