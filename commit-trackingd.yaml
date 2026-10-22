@@ -2656,6 +2656,7 @@ waveshareteam/0.85inch-ScreenKey-Module: BRANCHES:[main:7d5f0c54384edeffe4ae17e3
 waveshareteam/1.83inch-Touch-LCD: BRANCHES:[main:9435e3fae0b7ef13b312a2ebecdb05b6a54abc7c]|RELEASE:[none|none]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/4.26inch_e-Paper_G: BRANCHES:[main:0f0bc77494d768b1ee3a7aaa16cc4068681b0c56]|RELEASE:[none|none]
+waveshareteam/5inch_e-Paper: BRANCHES:[main:40e88e349afb5a222449279a5a4653494d9ee3a1]|RELEASE:[none|none]
 waveshareteam/CM5-ETH-RS485-4G-BASE: BRANCHES:[master:5efdd2f4fadba85434f2f00cf461b63584dcd23f]|RELEASE:[none|none]
 waveshareteam/DA7212-Audio-Board-A: BRANCHES:[master:e8a74b351e9bdf813fedaffbac84aed7b9c0b368]|RELEASE:[none|none]
 waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
