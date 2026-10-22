@@ -958,6 +958,7 @@ m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;
 m5stack/M5Unit-Scales: BRANCHES:[main:c31e207333d34ffb03f903e1e16fa3072b2b598b]|RELEASE:[none|none]
 m5stack/M5Unit-Scales-Internal-FW: BRANCHES:[main:83a4b2ee6e72d3926c9821e44892911caeda213e]|RELEASE:[none|none]
 m5stack/M5Unit-Sonic: BRANCHES:[master:7e0007bbc58ffafa8e8eb6d778c8051dd0b56c78]|RELEASE:[0.0.2|0fc7fffed7d0c07e77d682e8757440510a5cbebf]
+m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-UHF-RFID: BRANCHES:[fix/uhf-rfid-membank-and-read-address:0689eb7b62fe6609e76c65079d0de25550ca5c82;master:6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]|RELEASE:[0.0.4|6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]
 m5stack/M5UnitEncoder_Firmware: BRANCHES:[main:4b68d8bb56f147d37d341cfd5916ab20909a2cfc]|RELEASE:[none|none]
 m5stack/M5_BMM150: BRANCHES:[master:6ff0842dc16c9b08c2503d8977da5efb0bd424c5]|RELEASE:[0.0.2|080bb32e9d52dface5f0109fd82f0ff3baab0e60]
