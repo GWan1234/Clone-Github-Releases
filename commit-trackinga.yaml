@@ -303,7 +303,7 @@ DFRobot/DFRobot_RTK_4G: BRANCHES:[master:defbb6fba420dd68fd70b7ff9ba917dd9d8a6e3
 DFRobot/DFRobot_RTK_LoRa: BRANCHES:[fix/default-i2c-address:f3e488684612cd1a09afdae47d2fc738e938d652;master:44bdbd7bea21c82d8a6d2502fb2ddc0d14951d54]|RELEASE:[none|none]
 DFRobot/DFRobot_RTU: BRANCHES:[master:c1478e3ef0e6ea731b9f5bb48d90aa32fe023eca]|RELEASE:[none|none]
 DFRobot/DFRobot_RainfallSensor: BRANCHES:[master:38fea5e02b40a5430be6dab39a99a6f6347d667e]|RELEASE:[none|none]
-DFRobot/DFRobot_RaspberryPi_A02YYUW: BRANCHES:[master:f6cfe42b121061ee1e95eb63de59fdc91277ec57]|RELEASE:[none|none]
+DFRobot/DFRobot_RaspberryPi_A02YYUW: BRANCHES:[master:3fc1e664ff097dce9e1ad126947aac1941996ffb]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_Expansion_Board: BRANCHES:[master:d83c356e6f2b33b4eee4cc1f3a78ee10006abc5f]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_Motor: BRANCHES:[master:747b73867557210b5068130df94b57325129b6d5;revert-4-lib_support_ubuntu_20-04:7cf3bc880d7afc75a87633d4a06a348179d1b73b]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_TouchScreen_Firmware: BRANCHES:[master:1cad16fca090f078306454885fbc2e54a79ad6eb]|RELEASE:[none|none]
