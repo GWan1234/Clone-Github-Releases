@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:03
+commit-tracking: 2026-10-22 17:04
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2656,6 +2656,7 @@ waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6
 waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:9fcd49a8c927a00f5583c22d568b3448addbe51c;feature/platform-bsp-ci-docs:b566e5ce9851e0894ea589a1c03266e70ae15507]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-PhotoPainter: BRANCHES:[photopainter-idf55-idf61-20261019:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main-v1.4.0-default_mode_1:8e0241c07814920b0d0c632db1bc0bc9bdaf605b;main-v1.4.0:02be1a7570e3fc586b628fb55c60a247f00ed88d]|RELEASE:[v1.5.0|a5e8f757ba0cafbb5586f07d3e83bda3184c0845]
 waveshareteam/ESP32-S3-Touch-AMOLED-2.06: BRANCHES:[main:30f3b23b3d4bb38d32f7d0cddffb66759668a855]|RELEASE:[v1.1.0|85b95f145f5a798c347479339a514278b09ef1a2]
 waveshareteam/ESP32-S3-Touch-LCD-3.49: BRANCHES:[main:def6edd0b6e1925ed09702eed01a2f181afdf8c1]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f0401241ff5c44956]|RELEASE:[none|none]
