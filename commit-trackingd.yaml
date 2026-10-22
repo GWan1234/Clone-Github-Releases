@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:00
+commit-tracking: 2026-10-22 17:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2654,6 +2654,7 @@ vernesong/OpenClash: BRANCHES:[package:20866e2f56a26b7523c31bbb159f9d7f0a53d311;
 waveshareteam/.github: BRANCHES:[main:715fab298db64f1b89822a1204d48102d5f91af8]|RELEASE:[none|none]
 waveshareteam/12.48inch-e-paper: BRANCHES:[master:e14d87ebef531b7314fcfbd3ce9ed6a30866c8d3]|RELEASE:[none|none]
 waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
+waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de6d6f6ea293981b37c0ca51]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-3.49: BRANCHES:[main:def6edd0b6e1925ed09702eed01a2f181afdf8c1]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f0401241ff5c44956]|RELEASE:[none|none]
 waveshareteam/ESP32-display-support: BRANCHES:[master:c784f6cc45b7fa446cef759ff862586e5665d786]|RELEASE:[none|none]
