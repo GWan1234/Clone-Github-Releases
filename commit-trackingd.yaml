@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:58
+commit-tracking: 2026-10-22 17:59
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2734,6 +2734,7 @@ waveshareteam/Pico_ePaper_Code: BRANCHES:[main:c9bcd84db5adf5f085353649a8a5c3149
 waveshareteam/Power-Management-HAT-B: BRANCHES:[main:5a0187336d11e2fb77e854619a1319b63c68e47e]|RELEASE:[none|none]
 waveshareteam/RGB-Matrix-Px-xx: BRANCHES:[main:413a8e04db2e46365b9b1922fa6db79c75afd01f;codex/fix-raspberry-pi-directory-names:b6b2360e54cbcc3fa8530ac25f330cd9e96a00f7;master:904fcf1e9c8e84928757e137ea331e2bc0b9c90f]|RELEASE:[none|none]
 waveshareteam/RP2040-Touch-LCD-1.28: BRANCHES:[main:5f28bf9d543f040f8cff6cce9229cabf0e08bcf5]|RELEASE:[none|none]
+waveshareteam/RP2350-LCD-0.85: BRANCHES:[main:d124edf6a1a0343f2e2e1bbf6bc5018369aae2d8]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-AMOLED-1.75: BRANCHES:[main:87e0c5019dabf63de1a400d075a708d262254625]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-LCD-1.54: BRANCHES:[main:51a7fe28c1e5dd19a089a062980a275709e94df6]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-LCD-3.5: BRANCHES:[main:c82c14715b03e32ed1ccc57703ce079ba88e9b59]|RELEASE:[none|none]
