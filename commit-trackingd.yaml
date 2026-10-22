@@ -2242,7 +2242,7 @@ sparkfun/StupidArduinos: BRANCHES:[master:901e298f2fe3a1247f4fb0c0e9b670276e24b3
 sparkfun/SunnyBuddy: BRANCHES:[master:3041064d76c5fa103a498e55c80259d8e6d31aa1]|RELEASE:[none|none]
 sparkfun/SuperHeadphones: BRANCHES:[gh-pages:e0b1c69d35371aeaa247a990fa45c3f9be97f57c;main:742962cba4a79315dc5d423345b989f9317be6ee;ESP32-C6:0eb2033c9b374bcf43eece072f74cdc3c96da225;360view:2a981e387ee384b61f7b8c7b559d3e42d689abf1]|RELEASE:[none|none]
 sparkfun/THAT_1206_Breakout: BRANCHES:[master:893444584e87029ffe3cbcda66454c870ab8d048]|RELEASE:[V1.0|8fa3e24b62fe93f8f912508c355df1751a37f655]
-sparkfun/THAT_1646_Breakout: BRANCHES:[master:e2cfcdaf1dcda7ae9d8f163449030f277c5d98a2]|RELEASE:[V1.0|2f91aec23e70d395754cfb3aa0515f236956341f]
+sparkfun/THAT_1646_Breakout: BRANCHES:[master:e2cfcdaf1dcda7ae9d8f163449030f277c5d98a2]|RELEASE:[none|none]
 sparkfun/TMP006-Temp_Sensor_Breakout: BRANCHES:[master:d9404e52b2aca0167a5b08b2ba3ddecd239aacb3]|RELEASE:[none|none]
 sparkfun/TRRS_3.5mm_Jack_Breakout: BRANCHES:[master:1e6fa3677d11380108fc276f8680482839ed4603]|RELEASE:[none|none]
 sparkfun/TRS_Jack_Breakout: BRANCHES:[master:ef19cc9df26d8e7e2597d8509cc69f06f0bc29a0]|RELEASE:[none|none]
