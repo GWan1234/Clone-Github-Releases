@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:50
+commit-tracking: 2026-10-22 16:51
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2672,6 +2672,7 @@ waveshareteam/e-Paper: BRANCHES:[master:a794fbc39656b0f93938d1ffb3fdc77eaed9e9fc
 waveshareteam/pico-lorawan: BRANCHES:[flash-backed-eeprom-board:4c54ffc1c385e51585f5b16569bcb8b582d3c957;main:d2d09822c292dfe3404b25006af9cda8066e47a2]|RELEASE:[none|none]
 waveshareteam/pxt-APA102: BRANCHES:[master:c5eaffabf547d6c4d6d48218ec9dbfd99966d1bf]|RELEASE:[none|none]
 waveshareteam/roarm_m2: BRANCHES:[main:c6ccc5bda2eb92df2f0850d3e63cc42b81557f4f]|RELEASE:[none|none]
+waveshareteam/roarm_ws_em0: BRANCHES:[ros2-humble:f06b2ed6c1ddc5b7690975fdbba84aab626a2229]|RELEASE:[none|none]
 waveshareteam/ugv_base_general: BRANCHES:[main:d308df91b333a513f45a238bef9ba9a0a5edf64c]|RELEASE:[none|none]
 waveshareteam/ugv_base_ros: BRANCHES:[main:2e7df97c331ff63e1481afb34feec52014a3632a]|RELEASE:[none|none]
 waveshareteam/ugv_jetson: BRANCHES:[refactor/JP6.2.1-R36.4.7-U22.04-py3.10:f670c382fe9c3fcaa444d60db5061f6036ff5625;main:18e9a24590e1bfdb39a1bc24aaf8a6af820805d3]|RELEASE:[none|none]
