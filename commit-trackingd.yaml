@@ -2169,7 +2169,7 @@ sparkfun/SparkFun_Three_Phase_Motor_Driver-TMC6300: BRANCHES:[gh-pages:8676dc18c
 sparkfun/SparkFun_Tinker_Kit_Code: BRANCHES:[master:0d1c1e73e0b0842a70b16af1bcb12b60e755cc3d]|RELEASE:[vF2.0|6e47904e806df5042b3a11a964d5a4c5dd3b2a64]
 sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library: BRANCHES:[master:a4e4def9dfd2fdac56a58b41d8a690d475377760]|RELEASE:[none|none]
 sparkfun/SparkFun_Toolkit: BRANCHES:[main:b65201164e14c67255de1a07965f035420181db4;feature/add-uart:5c60c8b50774037252902505ada4fe25325725fd;develop:1bda1927b54074c008a4e4f16a3427b6366ca29f;feature/pull-out-uart:9f2d1a800e64ce8e3980db8edc88a3fc0e148396;add-serial:934abde82d0ba69775435c3d1887e7c32375dc20]|RELEASE:[v1.2.1|b65201164e14c67255de1a07965f035420181db4]
-sparkfun/SparkFun_TouchInput_Arduino_Library: BRANCHES:[master:89031a406c1f65415f945b8e6401fa514b69ab0c]|RELEASE:[v1.0.0|89031a406c1f65415f945b8e6401fa514b69ab0c]
+sparkfun/SparkFun_TouchInput_Arduino_Library: BRANCHES:[master:89031a406c1f65415f945b8e6401fa514b69ab0c]|RELEASE:[none|none]
 sparkfun/SparkFun_TouchInput_Driver_FT5xx6: BRANCHES:[master:4ee2b3bfbd70a2ef8e904fcbf9cb1aae062b21bb]|RELEASE:[v1.0.0|4ee2b3bfbd70a2ef8e904fcbf9cb1aae062b21bb]
 sparkfun/SparkFun_Trackuino: BRANCHES:[1.52:825c5724dd842e6334b1c7b1c6c4f7dd53a7b896;master:d5cd513147e43b865ff378e7cb1f4367fa31e0ac;1.51:0b97df1dd1ae1c5de13f6849a64392860547096b;1.5:22aef4e9cada04ff87beca629df3f506df1c4658;1.4:0a0c06b2f40a75dcd35ed8930839a6281231a2be]|RELEASE:[none|none]
 sparkfun/SparkFun_Tristimulus_Color_Sensor-OPT4048: BRANCHES:[gh-pages:f237acc62465b2b1e8e6ec1a53f48120c9a2664d;main:e9f300b54d0f1a3485fb81930411f79493a0acc3]|RELEASE:[none|none]
