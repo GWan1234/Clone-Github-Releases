@@ -2697,6 +2697,7 @@ waveshareteam/Pico_MircoPython_Examples: BRANCHES:[main:be7819128743811757531284
 waveshareteam/Pico_ePaper_Code: BRANCHES:[main:c9bcd84db5adf5f085353649a8a5c31492bc5fb8]|RELEASE:[none|none]
 waveshareteam/Power-Management-HAT-B: BRANCHES:[main:5a0187336d11e2fb77e854619a1319b63c68e47e]|RELEASE:[none|none]
 waveshareteam/RP2040-Touch-LCD-1.28: BRANCHES:[main:5f28bf9d543f040f8cff6cce9229cabf0e08bcf5]|RELEASE:[none|none]
+waveshareteam/RP2350-Touch-AMOLED-1.75: BRANCHES:[main:87e0c5019dabf63de1a400d075a708d262254625]|RELEASE:[none|none]
 waveshareteam/RoArm-M1: BRANCHES:[main:03c8c4797b01eef0df1c6cde37c97ceb6cbe3bba]|RELEASE:[none|none]
 waveshareteam/Touch_e-Paper_HAT: BRANCHES:[main:00b67c802b2e3ce5579236d3ad5e9e8b7c197be1;revert-4-main:bc009b5ad2cf42eca4f196c3e2d50be7ccebfb0a]|RELEASE:[none|none]
 waveshareteam/WAVEGO_Pro: BRANCHES:[main:3d74e86d7320a892a822739b21a2a1e62822c15a]|RELEASE:[none|none]
