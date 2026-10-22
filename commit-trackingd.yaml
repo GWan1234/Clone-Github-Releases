@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 17:28
+commit-tracking: 2026-10-22 17:29
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2668,6 +2668,7 @@ waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:f16371ca7b7d4e17de
 waveshareteam/ESP32-S3-PhotoPainter: BRANCHES:[photopainter-idf55-idf61-20261019:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main-v1.4.0-default_mode_1:8e0241c07814920b0d0c632db1bc0bc9bdaf605b;main-v1.4.0:02be1a7570e3fc586b628fb55c60a247f00ed88d]|RELEASE:[v1.5.0|a5e8f757ba0cafbb5586f07d3e83bda3184c0845]
 waveshareteam/ESP32-S3-RLCD-4.2: BRANCHES:[main:d8bf7813d3b53251577ff03c03596ad6ad3acae0;dev:cb590c853f3d2bb58efe280c98b2f3cbf1e2876e]|RELEASE:[v1.2.0|af18b8890a7a457434a0852064af1cc17135f76e]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.32: BRANCHES:[main:b3d6546e39db6287bc643eb0b0ad796e0ff61315]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-Touch-AMOLED-1.75C: BRANCHES:[main:4bfdc80eedbf95031e384610796bed15e0240312]|RELEASE:[v1.0.2|a7d93cb6c934429b92c9c3c1c1a653c7486617fa]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.8: BRANCHES:[main:78e13f852929c2ab4f9d5e0ad1c50ea378dbf2b4;feat/brookesia-firmware-update:ed2d44e1301e6b90af4a7b332a0ea99f9cef01f9;feat/brookesia-firmware:c25614d875e4e1d94756f82ae541e4a20f1b48c2;agent/repository-modernization-ci:232ba545d787fc2c448819a04114e6a28e5f6ba1;chore/repository-modernization:76d5745f3b2ee6d49f54945fb527ae092b4bc7f8;chore/remove-legacy-arduino-directory:3eaf371ab8038bc2e3e29826ebf6f46a591752da;fix/i2s-codec-init:d9c06b7cb086e8f3aa2c1142ad8fdfae0ffb012b]|RELEASE:[v1.0.1|8badafee5633d3786db00aa64dcf1977d5df6707]
 waveshareteam/ESP32-S3-Touch-AMOLED-2.06: BRANCHES:[main:30f3b23b3d4bb38d32f7d0cddffb66759668a855]|RELEASE:[v1.1.0|85b95f145f5a798c347479339a514278b09ef1a2]
 waveshareteam/ESP32-S3-Touch-LCD-1.83: BRANCHES:[main:a790c727912d8f2f5f7cf56fd8cca8c892a36c76;chore/ci-hardware-alignment:5d1993e1c87f761f774abd3ffb3ddf792bd9cb8e;chore/repository-modernization:6849b2242f2027f2a2460ff3add6e56c252a6f3b]|RELEASE:[v1.0.1|e240605fb6f047a3c02082f140798b7a66d6f120]
