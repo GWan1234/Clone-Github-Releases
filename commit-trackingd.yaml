@@ -1025,6 +1025,7 @@ m5stack/M5Unit-Scales-Internal-FW: BRANCHES:[main:83a4b2ee6e72d3926c9821e4489291
 m5stack/M5Unit-Sonic: BRANCHES:[master:7e0007bbc58ffafa8e8eb6d778c8051dd0b56c78]|RELEASE:[0.0.2|0fc7fffed7d0c07e77d682e8757440510a5cbebf]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7]|RELEASE:[none|none]
+m5stack/M5Unit-ToF4M: BRANCHES:[main:b523d573f8b608cbe351fce33f5cbfbbdd05856c]|RELEASE:[1.0.0|b523d573f8b608cbe351fce33f5cbfbbdd05856c]
 m5stack/M5Unit-UHF-RFID: BRANCHES:[fix/uhf-rfid-membank-and-read-address:0689eb7b62fe6609e76c65079d0de25550ca5c82;master:6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]|RELEASE:[0.0.4|6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]
 m5stack/M5Unit-V2-AICamera: BRANCHES:[main:b3735002732c995ba2e96bbef875e21be3ecb080]|RELEASE:[none|none]
 m5stack/M5UnitEncoder_Firmware: BRANCHES:[main:4b68d8bb56f147d37d341cfd5916ab20909a2cfc]|RELEASE:[none|none]
