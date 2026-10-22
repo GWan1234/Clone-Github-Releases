@@ -267,7 +267,7 @@ DFRobot/DFRobot_Maqueenplus: BRANCHES:[master:c5846a62f7ae62bbc98ee5f25a597e3069
 DFRobot/DFRobot_MatrixLidar: BRANCHES:[master:058db6ca7447ffc79ea3d31245e9057ccceb4cfc]|RELEASE:[none|none]
 DFRobot/DFRobot_MotorStepper: BRANCHES:[master:c60c4e908a47743bc7cdb1b3cd71fb32b64e2542]|RELEASE:[none|none]
 DFRobot/DFRobot_MuVisionSensor: BRANCHES:[master:bfc495c0ed051aec7dd59f660d95f2cbee1dd94c]|RELEASE:[none|none]
-DFRobot/DFRobot_MultiGasSensor: BRANCHES:[main:5b08794160db81db76a7cb5348a8f17784e70cf1]|RELEASE:[none|none]
+DFRobot/DFRobot_MultiGasSensor: BRANCHES:[main:93e72eb5239b0e8ca7f7f9a0803a060c94260d19]|RELEASE:[none|none]
 DFRobot/DFRobot_MultiTouchPad: BRANCHES:[master:833442f060c51478cc1cbaee74baf0b397bcd9eb]|RELEASE:[none|none]
 DFRobot/DFRobot_Multi_DOF_IMU: BRANCHES:[master:d100ad40aae921d60245f1ba9bd39cfa8057d3da]|RELEASE:[none|none]
 DFRobot/DFRobot_N20Motor: BRANCHES:[main:89376fe1411c03c8cc7e92c7a97919f08f3e3547]|RELEASE:[none|none]
