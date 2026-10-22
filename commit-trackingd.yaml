@@ -918,6 +918,7 @@ m5stack/M5Core2: BRANCHES:[master:63dd4c038bd34a5c3ec02818b40fffb9999ecf6e;rever
 m5stack/M5Core2-TouchPanel-Recovery: BRANCHES:[main:2370d64ed478a3cbcf76eab89c8f0c1513fa6fc4]|RELEASE:[none|none]
 m5stack/M5Core2_Weather_Dashboard: BRANCHES:[main:35cd9654216ee94ab70bb4c12fa4f64fa59df075]|RELEASE:[none|none]
 m5stack/M5CoreS3: BRANCHES:[main:625d80bd8172be492114b8e8b6233b6c2e8974a8;develop:3fb2a2cc0f24897dfdf54101e7361c5dd1f50da5]|RELEASE:[1.0.1|bfeebde61965e1a7b6df1b7648d0b761e2f88642]
+m5stack/M5Dial: BRANCHES:[master:533c9d0198e72621d55a4d35f726d3d53a7e1431]|RELEASE:[1.0.3|533c9d0198e72621d55a4d35f726d3d53a7e1431]
 m5stack/M5EPD: BRANCHES:[main:ef1be61debdd8a93873b081f54363945c00c4056]|RELEASE:[0.1.5|4690d4d0165a1a8943658b2b4199f2fa6cf8f8a8]
 m5stack/M5EPD_Calculator: BRANCHES:[main:99c3cb72a53de9ca2837a85925d01f28f852b1cd]|RELEASE:[none|none]
 m5stack/M5EPD_OnlineImage_FixUrl: BRANCHES:[main:3fae072d9799c77f525f6301f8a3ca39884a692c]|RELEASE:[none|none]
