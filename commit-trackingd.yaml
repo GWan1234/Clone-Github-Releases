@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 20:08
+commit-tracking: 2026-10-22 20:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1071,6 +1071,7 @@ m5stack/M5Unit-TOF: BRANCHES:[gh-pages:38d8622bfd1279c318fddcfc04b3497c9fdd99be;
 m5stack/M5Unit-Thermal2: BRANCHES:[main:03421ca217ce9677d204a5d61e488729316061cf]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7]|RELEASE:[none|none]
 m5stack/M5Unit-TimerPWR: BRANCHES:[main:94e0089de4e07d68a0b6710228109cebead2a7f4]|RELEASE:[none|none]
+m5stack/M5Unit-TimerPWR-Internal-FW: BRANCHES:[main:dedd2903400739619f1ce055578bfab4c7026636]|RELEASE:[none|none]
 m5stack/M5Unit-ToF4M: BRANCHES:[main:b523d573f8b608cbe351fce33f5cbfbbdd05856c]|RELEASE:[1.0.0|b523d573f8b608cbe351fce33f5cbfbbdd05856c]
 m5stack/M5Unit-UHF-RFID: BRANCHES:[fix/uhf-rfid-membank-and-read-address:0689eb7b62fe6609e76c65079d0de25550ca5c82;master:6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]|RELEASE:[0.0.4|6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]
 m5stack/M5Unit-V2-AICamera: BRANCHES:[main:b3735002732c995ba2e96bbef875e21be3ecb080]|RELEASE:[none|none]
