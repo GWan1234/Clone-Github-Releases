@@ -1900,7 +1900,7 @@ sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor: BRANCHES:[master:eadf4873d66
 sparkfun/SparkFun_Pulsed_Radar_A111_Example_Code: BRANCHES:[master:a08abb7fbe4c4945bcc95b83f2001f16779a0d34]|RELEASE:[none|none]
 sparkfun/SparkFun_Pulsed_Radar_Breakout_A111: BRANCHES:[master:5f4d608a017d88721af725bd75d14d3e65de6438]|RELEASE:[v1.1|5f4d608a017d88721af725bd75d14d3e65de6438]
 sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library: BRANCHES:[master:45fd1007f1f4302c1e057c1e230df1cb51fb9a41]|RELEASE:[none|none]
-sparkfun/SparkFun_QwiicNES_Arduino_Library: BRANCHES:[main:2a938dbcc7e4bedcf2b933e4c9b54996df7b2070]|RELEASE:[V_1.0.0|5aa4aa994f9e0a63b71a49db88e3fa6f87657ceb]
+sparkfun/SparkFun_QwiicNES_Arduino_Library: BRANCHES:[main:2a938dbcc7e4bedcf2b933e4c9b54996df7b2070]|RELEASE:[none|none]
 sparkfun/SparkFun_QwiicRF_Library: BRANCHES:[master:4e221395aa8e74332f5f8648f3418ae340f63b05]|RELEASE:[V_1.0.0|4e221395aa8e74332f5f8648f3418ae340f63b05]
 sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015: BRANCHES:[master:55cca07b538b2c613d5f3e2119e8593b06a65cd0]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_5V_Boost_AP3012K: BRANCHES:[gh-pages:b8190549cb07cf76158936a616703516bca63168;main:2150213414cbaf2031fed3081900049d023473f1]|RELEASE:[v10|9ff356e569e014f23ce7c786e232c7f2df020050]
