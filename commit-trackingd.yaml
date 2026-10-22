@@ -965,6 +965,7 @@ m5stack/M5Unit-KMeter-Internal-FW: BRANCHES:[main:6aab5d69ba3c316a6d9b1715363a3d
 m5stack/M5Unit-LCD-Internal-FW: BRANCHES:[master:6b345872f033dc85fd56e7af722b31583a587a88]|RELEASE:[0.2|e58f4729eb5e6bd7bc910aeb4a261ddb8eddd308]
 m5stack/M5Unit-MQTT: BRANCHES:[master:6f7517c0491d319edf151cc0d53157283ba86ad2]|RELEASE:[0.0.1|3bf64e3a5dd61feb2031bcc3c8648fcf58949635]
 m5stack/M5Unit-MiniEncoderC-Internal-FW: BRANCHES:[main:0e83117dab5ae3847359adc3dc3469d36aababfe]|RELEASE:[none|none]
+m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c3b4b95c4841d]|RELEASE:[none|none]
 m5stack/M5Unit-NCIR2: BRANCHES:[main:4ede7a0b1092e7e0c2b64fc64a2708b9ab40e487]|RELEASE:[none|none]
 m5stack/M5Unit-NCIR2-Internal-FW: BRANCHES:[main:8e923d8c0f5f109259568da6fdb6a2444de74f6e]|RELEASE:[none|none]
 m5stack/M5Unit-PoESP32: BRANCHES:[master:e5640a1c8f0c9081d235d540d1473acf5218720c]|RELEASE:[0.0.2|e5640a1c8f0c9081d235d540d1473acf5218720c]
