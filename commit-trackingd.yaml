@@ -1828,6 +1828,7 @@ sparkfun/SparkFun_AVR_ISP_Programming_Library: BRANCHES:[main:1cabbffb5f026c1bf1
 sparkfun/SparkFun_Air_Quality_Sensor-SGP30: BRANCHES:[master:8a0942c84583c4f852ccc8ed0fdee70b2b17d927]|RELEASE:[none|none]
 sparkfun/SparkFun_Air_Velocity_Sensor_FS3000_Qwiic: BRANCHES:[main:a79ea391757d5452738816461a08b6070625e795]|RELEASE:[none|none]
 sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library: BRANCHES:[main:871796a88897811227261d5cb3cd0baf0c2fe70d;master:993c9b70994bf95e8a060b3ca32ab3fc11a93927]|RELEASE:[v2.2.11|f7eab50187208ddb850c5f61fdaa8e12c4279ebf]
+sparkfun/SparkFun_Ambient_Light_Sensor-VEML7700: BRANCHES:[gh-pages:719f364311d51e9aa9a10f83c67e8de99fa12f60;main:fcb1508b899984c2c4a1f3df43377ab22e32229c]|RELEASE:[none|none]
 sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library: BRANCHES:[master:efde0817bd6857863067bd1653a2cfafe6c68732]|RELEASE:[1.0.4|efde0817bd6857863067bd1653a2cfafe6c68732]
 sparkfun/SparkFun_Ambient_Sensor_VEML6030: BRANCHES:[master:3bd26752ab454b0edc459a4ec24953aff38f9807]|RELEASE:[none|none]
 sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180: BRANCHES:[main:66112e7410116fd952eeed8603634de32bf437e8]|RELEASE:[none|none]
