@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 10:33
+commit-tracking: 2026-10-22 10:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1808,7 +1808,7 @@ naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:c15760c70b7ceeb85fd
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
 naoki66/MoonTV: BRANCHES:[master:702008e7970a749da539f13c24d63cc8524b6da7;main:791de3bd997d371215a4c2ffcafc22702268ec5d]|RELEASE:[none|none]
 naoki66/OmniBox-Spider: BRANCHES:[main:4491c18eb3f2fb4e0b3d2f7218452afd442e9f92]|RELEASE:[none|none]
-naoki66/OpenWrt_ONU_CONFIG: BRANCHES:[main:35e2d676c31f2ff510960fb03a403599d292a535]|RELEASE:[none|none]
+naoki66/OpenWrt_ONU_CONFIG: BRANCHES:[main:8da79d221cbd15ac4d02f8d19c609d6520bbee41]|RELEASE:[none|none]
 naoki66/ProxmoxVE-7.3-DIY: BRANCHES:[master:81c19ea3384da1bd603b41b16329b86b8a854313]|RELEASE:[none|none]
 naoki66/RRR: BRANCHES:[main:aef6ab74da5e79795ff2e3faf30c3af19b543ad5]|RELEASE:[none|none]
 naoki66/Surveillance-Station-9: BRANCHES:[main:735f3ddf143dc06b0f077cb6d839514e122b33d9]|RELEASE:[none|none]
@@ -1826,7 +1826,7 @@ naoki66/fish-helper-data: BRANCHES:[main:e06b7a15b39c93d3edfbcad57b48aadfbef74de
 naoki66/fish_helper_config: BRANCHES:[main:26463c28f083bc91ebaf133a8d1c2cadd34b7d71]|RELEASE:[none|none]
 naoki66/i915-sriov-dkms: BRANCHES:[master:0481357c40951b6edab10d058010c3a2f5df0aa3]|RELEASE:[none|none]
 naoki66/immortalwrt_pon: BRANCHES:[master:1d949bcb3d3f5b0e19cad0d663b392567f843bd5]|RELEASE:[none|none]
-naoki66/luci-app-airoha: BRANCHES:[master:323539cf229bce52754fbb318135c9c56c514d2f]|RELEASE:[none|none]
+naoki66/luci-app-airoha: BRANCHES:[master:496664d3928a7944fcb211f4732b9bdb5459fc4a]|RELEASE:[none|none]
 naoki66/luci-app-lucky: BRANCHES:[main:e2197545d72f019b370ef56937b5569c9c2c7614]|RELEASE:[none|none]
 naoki66/luci-app-pushbot: BRANCHES:[master:721bb99c8492cd4195213bd13c7331c685aac0e9]|RELEASE:[luci-app-pushbot-v6.01-r15|721bb99c8492cd4195213bd13c7331c685aac0e9]
 naoki66/lucky: BRANCHES:[master:b1ef71c36cffcc07aeced03022d52cacdf03cf74]|RELEASE:[none|none]
