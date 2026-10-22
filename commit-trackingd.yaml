@@ -872,6 +872,7 @@ m5stack/Applications-M5PIANO: BRANCHES:[master:f1d7bb59eeb08d6a4dab07fe42c05ad74
 m5stack/Applications-cam: BRANCHES:[master:61f65179939a2850d54fc7b31ffa12466059b261]|RELEASE:[none|none]
 m5stack/ArduinoModbus: BRANCHES:[master:f903d0acb782fee791f70f21ab96d1fc9e580d34]|RELEASE:[none|none]
 m5stack/ArduinoRS485: BRANCHES:[master:2dd70d2c3fc16626c38c1598244daab2ba508d35]|RELEASE:[none|none]
+m5stack/Atom-JoyStick-Internal-FW: BRANCHES:[main:225ad8f22c843a827318e5aeb0771d4dad8b0a07]|RELEASE:[none|none]
 m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|RELEASE:[none|none]
 m5stack/CBACK_NBIoT: BRANCHES:[master:c4dca147e2226cee156464fff1d8e723f55c9001]|RELEASE:[none|none]
 m5stack/CM4Stack_lvgl: BRANCHES:[SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;Basic:d7abcd9c619f88d9d1ccea0dc80ba4065d3c2766;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b]|RELEASE:[none|none]
