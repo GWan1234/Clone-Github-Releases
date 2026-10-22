@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:06
+commit-tracking: 2026-10-22 19:07
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -895,6 +895,7 @@ m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8d
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:474cb3cb36417aeaf7aec4220063e0be1e0047d8]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
 m5stack/M5Module-Stepmotor: BRANCHES:[master:f14a67d86d8476be46d48f6be10e0d142e61b419]|RELEASE:[0.0.2|f14a67d86d8476be46d48f6be10e0d142e61b419]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
+m5stack/M5PoECAM: BRANCHES:[master:7e47b7cbaef108e3fbc76299ef32b15fd06a66f2]|RELEASE:[1.0.1|a0cb0c56e43f7c5cb924cca8d38d3a036d0b4962]
 m5stack/M5Stack: BRANCHES:[master:c49c8935189674317163c31ef6399a38769282e0;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb]|RELEASE:[none|none]
 m5stack/M5Stack-Firmware: BRANCHES:[master:5e71c3eefedbeaf9d99557fdb3e2fb0468f8582d]|RELEASE:[none|none]
