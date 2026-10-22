@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 20:07
+commit-tracking: 2026-10-22 20:08
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1060,6 +1060,7 @@ m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;
 m5stack/M5Unit-ReflectiveIR: BRANCHES:[main:dc84de91ab0a133eea08d1b8dba816a401e25443]|RELEASE:[none|none]
 m5stack/M5Unit-Roller: BRANCHES:[main:58f83b4183f779e9e4e1b2f3f8bfdd9316e43ceb]|RELEASE:[none|none]
 m5stack/M5Unit-Roller485-Internal-FW: BRANCHES:[main:59d43890ee25ea6101b3d801b96a6e5bb2670a4b]|RELEASE:[none|none]
+m5stack/M5Unit-RollerCAN-Internal-FW: BRANCHES:[main:addac0f416ceae106404aaab7da50119fae0b41a]|RELEASE:[none|none]
 m5stack/M5Unit-Scales: BRANCHES:[main:c31e207333d34ffb03f903e1e16fa3072b2b598b]|RELEASE:[none|none]
 m5stack/M5Unit-Scales-Internal-FW: BRANCHES:[main:83a4b2ee6e72d3926c9821e44892911caeda213e]|RELEASE:[none|none]
 m5stack/M5Unit-Scroll: BRANCHES:[main:77ec3033b94cbd6f9a3fd886b8207d26029082ac]|RELEASE:[none|none]
