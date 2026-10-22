@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:26
+commit-tracking: 2026-10-22 16:27
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2089,6 +2089,7 @@ sparkfun/SparkFun_Qwiic_CO2_Sensor_SCD4X: BRANCHES:[gh-pages:7f8c09bf6f93b6f5210
 sparkfun/SparkFun_Qwiic_CO2_Sensor_XENSIV_PAS: BRANCHES:[gh-pages:27bdc4fd058d8b4771179a9a4f74be319250737a;main:08a65f08c40e3a63d90a3495de2a7a21fed05588;loricrotser-patch-1:a6a2535058a8acedc83557a9dc30e17a73a7f0f9;SFEMark-patch-1:963d17dd6bc35352c3e3c54659112e57c543da59]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953: BRANCHES:[main:c6da41abbbce7757ce15fb2b6ec921475de1214d]|RELEASE:[v1.0.0|c6da41abbbce7757ce15fb2b6ec921475de1214d]
 sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX: BRANCHES:[main:313d3e2c03218f00eb5fb051d5594f05c95abecf]|RELEASE:[v1.0.0|313d3e2c03218f00eb5fb051d5594f05c95abecf]
+sparkfun/SparkFun_Qwiic_DAC_MCP4725: BRANCHES:[main:c30a43e73336937f9e71cb3a0a6a7e099a615832]|RELEASE:[v1.0.0|c30a43e73336937f9e71cb3a0a6a7e099a615832]
 sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa]|RELEASE:[v1.0.0|7096084d57a43cf8c038ed6b9087a4903b64469c]
 sparkfun/SparkFun_Qwiic_Directional_Pad: BRANCHES:[gh-pages:deb4c28cb96abdbd217bd62f8547274fa2062902;main:97943e7af32b431a7294c276c6518cfa115ab99d]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Distance_Sensor-VL53L4CD: BRANCHES:[main:ce6e486fc6c8711b7bd5d1111597bd7c8a209409]|RELEASE:[none|none]
