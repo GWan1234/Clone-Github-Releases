@@ -2696,6 +2696,7 @@ waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f04012
 waveshareteam/ESP32-S3-ePaper-3.97: BRANCHES:[main:9b12d40731a80213b927ee8a421cae4082952819]|RELEASE:[none|none]
 waveshareteam/ESP32-Touch-LCD-3.5: BRANCHES:[main:51f354d2aeb2245fd7b748c9f3ea93cea1c527ae;docs-factory-guide-20261021:9ff7d1f0aacf5640cc8b1e7071009c9b92768120;firmware-cleanup-20261021:08228557bfd66391b488a87dbc8c197410473d93;factory-update-20261021:6946e4123019a5272cea94bda9dc8c8cc34a5f6e;codex/factory-update-20261021:1bb5516cafd127d093bad153eca2c4fd0f809602;chore/refresh-product-repository:5d65bbb43301f73415003d5b2a602300dfb99eeb]|RELEASE:[none|none]
 waveshareteam/ESP32-display-support: BRANCHES:[master:c784f6cc45b7fa446cef759ff862586e5665d786]|RELEASE:[none|none]
+waveshareteam/Environment-X6-Sensor: BRANCHES:[main:d36b005e5df0c5b7564f94d025daebbfe490ac7d]|RELEASE:[none|none]
 waveshareteam/Finger_Vein_Demo_Code: BRANCHES:[main:03f67c0a33c1953e5303307abc3008043c6276ea]|RELEASE:[none|none]
 waveshareteam/Git-Tutorial: BRANCHES:[main:8e320e475323d2abc699b6656a0072401bf9eeed]|RELEASE:[none|none]
 waveshareteam/High-Precision-AD-DA-Board: BRANCHES:[master:bebb048a3163b4a34260afd5993ed19f28c41c18]|RELEASE:[none|none]
