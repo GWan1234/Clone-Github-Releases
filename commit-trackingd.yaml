@@ -2764,6 +2764,7 @@ waveshareteam/RP2350-LCD-0.85: BRANCHES:[main:d124edf6a1a0343f2e2e1bbf6bc5018369
 waveshareteam/RP2350-POE-ETH: BRANCHES:[main:2d06df956236cf95ac1413b1afd291016f874be9]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-AMOLED-1.75: BRANCHES:[main:87e0c5019dabf63de1a400d075a708d262254625]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-LCD-1.54: BRANCHES:[main:51a7fe28c1e5dd19a089a062980a275709e94df6]|RELEASE:[none|none]
+waveshareteam/RP2350-Touch-LCD-2.8C: BRANCHES:[main:8ddda1991d0841b2ad83d89826bc6cba51e8ab49]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-LCD-3.5: BRANCHES:[main:c82c14715b03e32ed1ccc57703ce079ba88e9b59]|RELEASE:[none|none]
 waveshareteam/RP2350-Touch-ePaper-1.54: BRANCHES:[main:da8d0084225ea8bbc33e87313aafe3d75d407850]|RELEASE:[none|none]
 waveshareteam/RP2350-USB-C: BRANCHES:[main:774cbb1e8ecc9d5cc8474ba9feb90a0939047f3b]|RELEASE:[none|none]
