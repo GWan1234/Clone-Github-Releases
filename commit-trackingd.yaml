@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 15:55
+commit-tracking: 2026-10-22 15:56
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1973,6 +1973,7 @@ sparkfun/SparkFun_MAX17043_Particle_Library: BRANCHES:[master:f96f47139f538053e5
 sparkfun/SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library: BRANCHES:[main:6ea1765a513dde65e433dde12a70fced73b65fed;release_candidate:636247facd653c533f8ac6b85e4d261d323d2409]|RELEASE:[none|none]
 sparkfun/SparkFun_MAX3010x_Sensor_Library: BRANCHES:[master:72d5308df500ae1a64cc9d63e950c68c96dc78d5]|RELEASE:[none|none]
 sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library: BRANCHES:[master:e3692cc6ce1c2b3d531e4c826e248b93f59a8bb0]|RELEASE:[none|none]
+sparkfun/SparkFun_MCP4725_Arduino_Library: BRANCHES:[main:c322c3192185fc1e748f6bb7f472e5c0ff84404a]|RELEASE:[v1.0|499736b49d66cc2d62471aa3bafb99075fe81831]
 sparkfun/SparkFun_MCP9600_Arduino_Library: BRANCHES:[master:399d721629fc5f10fc8a02883ba9206c3a46a584]|RELEASE:[v1.0.6|399d721629fc5f10fc8a02883ba9206c3a46a584]
 sparkfun/SparkFun_MG2639_Cellular_Shield_Arduino_Library: BRANCHES:[master:a459ffb6d972717fa7fb553f109bac99042eca86]|RELEASE:[none|none]
 sparkfun/SparkFun_MLX90614_Arduino_Library: BRANCHES:[master:a2fb7586eefcb98425f9767c484ba200bfe8e574]|RELEASE:[none|none]
