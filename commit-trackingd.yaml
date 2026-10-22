@@ -2690,6 +2690,7 @@ waveshareteam/ESP32-S3-LCD-Driver-Board: BRANCHES:[main:e6713765bdb003ce2fc310b9
 waveshareteam/ESP32-S3-LR1121-XF: BRANCHES:[main:52a2daa97a9eef3f9cdb33ec32b5f89421e36542]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-PhotoPainter: BRANCHES:[photopainter-idf55-idf61-20261019:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main:f7e92b16a8faf9975ce8469ad7d66f8ec5420b44;main-v1.4.0-default_mode_1:8e0241c07814920b0d0c632db1bc0bc9bdaf605b;main-v1.4.0:02be1a7570e3fc586b628fb55c60a247f00ed88d]|RELEASE:[v1.5.0|a5e8f757ba0cafbb5586f07d3e83bda3184c0845]
 waveshareteam/ESP32-S3-Pico: BRANCHES:[main:f0d0562a53e2087eb14d646ff1daa791e47e0aa0]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-RGB-Matrix: BRANCHES:[main:6e92fbe4f982d078150fa901fcc48e3f19b59313]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-RLCD-4.2: BRANCHES:[main:d8bf7813d3b53251577ff03c03596ad6ad3acae0;dev:cb590c853f3d2bb58efe280c98b2f3cbf1e2876e]|RELEASE:[v1.2.0|af18b8890a7a457434a0852064af1cc17135f76e]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.32: BRANCHES:[main:b3d6546e39db6287bc643eb0b0ad796e0ff61315]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-AMOLED-1.43C: BRANCHES:[main:3ac3f7f5a4f1bf7db35d85bed2bd553cd89d2a16]|RELEASE:[none|none]
