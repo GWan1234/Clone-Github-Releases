@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 16:34
+commit-tracking: 2026-10-22 16:35
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -515,6 +515,7 @@ HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f
 HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[none|none]
 HelTecAutomation/LoRaEinkBoard: BRANCHES:[main:39f0e14e1ce418eabcf0885017263a7cf7992df4]|RELEASE:[none|none]
 HelTecAutomation/hotspot-app: BRANCHES:[main:e821b9cb2632162584e59982f7fd3ef01d77fa91;bugfix/796_follow-shortcut-offsets:a9a23782e3fe49c7cbe2715d342210ebd3af03bd;feature/606_secure-mode:0000eed1aa82dc166047f597c79a67c52765d73a]|RELEASE:[none|none]
+HelTecAutomation/hotspot-manufacturers: BRANCHES:[main:8556dcb4f2cf7f1e5b2865ab6d94227195ab08cb;revert-244-patch-1:fdf2017eef503c895eac164e4dc8a51d41aa4d7a;revert-93-main:bbe6f01b038edf82d992986492d76f0ed82491d9;revert-82-patch-2:affdab8d62e1f58b37cbe9890a36a5f89b97705a]|RELEASE:[none|none]
 HelTecAutomation/lora_gateway: BRANCHES:[main:106157512cd28eb21115442be0b1645dd546d248]|RELEASE:[none|none]
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee]|RELEASE:[none|none]
 HelTecAutomation/packet_forwarder: BRANCHES:[main:f8113f597bc8e54fe2a55ebfda72bf35c6dbc6cb]|RELEASE:[none|none]
