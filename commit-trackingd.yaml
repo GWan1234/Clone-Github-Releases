@@ -1331,7 +1331,7 @@ sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e
 sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary: BRANCHES:[master:969668b8ecb61e982bf14b3bdaf5eb53f0341278]|RELEASE:[V1.0.0|969668b8ecb61e982bf14b3bdaf5eb53f0341278]
 sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]|RELEASE:[none|none]
 sparkfun/HyperDisplay_ILI9341_ArduinoLibrary: BRANCHES:[master:058358732d9acbf13bbb02a4b11db38844fa4f90]|RELEASE:[V1.0.0|058358732d9acbf13bbb02a4b11db38844fa4f90]
-sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052]|RELEASE:[v1.0.2|6087a3ddaf7f74cfd970503c2d896788fde1f052]
+sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052]|RELEASE:[none|none]
 sparkfun/HyperDisplay_SSD1309_ArduinoLibrary: BRANCHES:[master:e18e603800bc80b67d285eda7a416567da11f9ae]|RELEASE:[v1.1.1|ce04cc3072963b61d2d8920fc25df595e726b59c]
 sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary: BRANCHES:[master:bfa948e8164470177800cf07fffba67d9376427c]|RELEASE:[v1.1.0|f1e3a5a69795eb89b6c9f8ce167e76195de29b8f]
 sparkfun/I2C_Expander_Breakout-PCF8575: BRANCHES:[master:f3af77911bc016317e4b9f82f7f76edc45b399c5]|RELEASE:[none|none]
