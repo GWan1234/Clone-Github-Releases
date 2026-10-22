@@ -1143,6 +1143,7 @@ m5stack/RadioLib: BRANCHES:[master:e0fc757dc009a0e3ad557189fa5faee1147dce19]|REL
 m5stack/STAMP-C3: BRANCHES:[master:ee5f574e0ee2a85e696f7ab7cb8779d8646fbcf1]|RELEASE:[none|none]
 m5stack/STAMP-PICO: BRANCHES:[master:fb2173ff5ff541411b5a9fbd7af44b7043209b80]|RELEASE:[0.0.2|a9e9209e1ae8e2f1d94b72dc86c0d9293f988b0c]
 m5stack/STAMP-S3: BRANCHES:[main:6b64d431f930ff5e2bd770a07003ac983c24bc3f]|RELEASE:[none|none]
+m5stack/StackChan: BRANCHES:[main:eff0d6b5109663faec8f1d98848b4b0e5246bbfc;ios-dev:eff0d6b5109663faec8f1d98848b4b0e5246bbfc;server-dev:b067c664e6ccf89d9fc221d6f06cf9f36fe9bd3f;firmware-dev:bc60de1adb8a70d30cadadc83f0c336ec7f9e3a8;remote-dev:3a8dc37b9b999d474cddbf4cd0a687bec02c6ea2;docs-dev:ad47f0ba99fa51a1836522c7baa186393a8a8dc3]|RELEASE:[none|none]
 m5stack/StackFlow: BRANCHES:[dev:4438bea63df5585ede0c5a87e9ff229c5821e482;axcl:fd0563c34f502f781e1a20655becfd352bc76eeb;main:d9084bad88331b1913899f624a98cbb93cfdc148]|RELEASE:[v1.7.0|07662b8ffdb9b09349c860d8fa469e839df88b89]
 m5stack/StickWatch: BRANCHES:[master:243f4d6767914e12741b78a876f3d6dfa7b7bdeb]|RELEASE:[none|none]
 m5stack/ThermalOnline-CatM-UserDemo: BRANCHES:[main:b52d83551c47752fe3cb519eaec299eb91d3077f]|RELEASE:[none|none]
