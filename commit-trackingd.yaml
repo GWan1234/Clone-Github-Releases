@@ -2037,6 +2037,7 @@ sparkfun/SparkFun_Phant_Particle_Library: BRANCHES:[master:7ffa389e608f93796a8a7
 sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic: BRANCHES:[master:854e0efe4b5f3f37585929201035b5f90c2cb1bc]|RELEASE:[none|none]
 sparkfun/SparkFun_Photon_Weather_Shield_Particle_Library: BRANCHES:[master:9940434f66c71ced4538b2882ffd3c2beac5a847]|RELEASE:[none|none]
 sparkfun/SparkFun_Pi_AVR_Programmer_HAT: BRANCHES:[master:67af8c8c3f3e89e2f32d41f2ba2b919f76a34282]|RELEASE:[none|none]
+sparkfun/SparkFun_PicoDVI_Arduino_Library: BRANCHES:[main:b70ee128c70bb9c3a77b2ac31795c482f2e56538]|RELEASE:[v1.3.0|b70ee128c70bb9c3a77b2ac31795c482f2e56538]
 sparkfun/SparkFun_Pico_Add_On_Flipper: BRANCHES:[gh-pages:f5096fb6e74c7cff16bef960c9ebac0dee6377af;main:50f29ca0f4a3703f07c40d846c40da844663a85c]|RELEASE:[v10|f44360c8a0f35b21527807ed30c2d08ae717fd38]
 sparkfun/SparkFun_Portability_Shield: BRANCHES:[gh-pages:accd3523782368437d9c30142c06b735cb111859;main:a6d288f412ead6fcd2a3609da0d8c2dc82b173f2]|RELEASE:[none|none]
 sparkfun/SparkFun_ProDriver_TC78H670FTG: BRANCHES:[master:fdb838258660af9c383c6d4891626c59fbfcd573]|RELEASE:[none|none]
