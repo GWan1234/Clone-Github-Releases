@@ -1874,7 +1874,7 @@ sparkfun/SparkFun_DS3234_RTC_Arduino_Library: BRANCHES:[master:8edf149c9be8c4246
 sparkfun/SparkFun_DataLogger: BRANCHES:[main:449dbe5a6b17bbb049de6fee787cf3e9423ce6e5;feature/docusaurus:1d0d55b8e1c07cca869e2e99998233722f2d9a77;gh-pages:ed947239fd274723e852cf6566a95cfebc69a4c6]|RELEASE:[v01.05.01|7c557d9d840ea2a3cf558bbebd71ba14fe63588d]
 sparkfun/SparkFun_DataLogger_IoT: BRANCHES:[main:7e94fd8695ee1242a29af141a6351d791ce8e0af]|RELEASE:[none|none]
 sparkfun/SparkFun_DataLogger_IoT_9DoF: BRANCHES:[main:d42f0b33a959f723029f568c73ae9f4e2e3d3e38]|RELEASE:[none|none]
-sparkfun/SparkFun_Default_KiCad_Setup: BRANCHES:[main:8c5e9cf973a822bfc29c88972633ea8e4f34b4fe;page-settings:fa7f8ee0f866802c05027aabbaba1436219abf8d]|RELEASE:[none|none]
+sparkfun/SparkFun_Default_KiCad_Setup: BRANCHES:[main:e8dde202180f92d5df5ca20cd4f8c45323fe8e6b;page-settings:fa7f8ee0f866802c05027aabbaba1436219abf8d]|RELEASE:[none|none]
 sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic: BRANCHES:[master:49600312278fdb7ca43ea27716a2875781affc55]|RELEASE:[none|none]
 sparkfun/SparkFun_Digi_XBee_Arduino_Shield-USB-C: BRANCHES:[gh-pages:6b188ac6004ee5e191cf571661f88a4ea406a6e2;main:a7404bfbea51ba303ddc0a4499f060ef600a6d40]|RELEASE:[none|none]
 sparkfun/SparkFun_Digi_XBee_Development_Board: BRANCHES:[gh-pages:a36e73676115d097fdfd9559266aa668721b8760;main:ac9f1e4c992212b61bb03b0742a201c91d6d31fd;v13:6f9ea16ac20d8b996e778e48bffba9e5640dcd40;docs:d7c1333500c82b1c32a977f191999922c74dcc52]|RELEASE:[none|none]
