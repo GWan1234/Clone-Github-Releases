@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 09:47
+commit-tracking: 2026-10-22 09:48
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1859,7 +1859,7 @@ obsproject/obs-bot: BRANCHES:[master:48f0f6505a7a3e5899735b7ba05fd2af8ca11796;se
 obsproject/obs-browser: BRANCHES:[master:85c7f2668936679b43329a9ee9f1e269d9bac812;2.23.x:c710222ec9d7ef9aa5d7099e9019d636e2c89f00;2.22.x:a3ae78b5c6ce6d4ddb29d49b29f2f60014d554e1;hack-and-a-half:66eac00eee075505964218d132a4d1f581ea83cb;on-accelerated-paint2:ae3e703fb42166f5bc6eeeb27c46fdad71dfac04;test:962cdf008ea7bce4008d01e508b28d1dd300c7aa;qt-message-pump:f9f47a99c7c0d205a7e26dd9bbe2d600f14cff01;panel-update-final:5c882868f153f4754ddc68f48da320ad4c70a410;panel-update:94c2b882468aa087ffce1a481e9be82e9fb1886b;audio_support:84f5850f060ac91e3397b5329fca0a03f6a33b0c]|RELEASE:[1.31|fd4f9d5a08597cd8e5607cfe8d536f7b0a916d4a]
 obsproject/obs-crowdin-sync: BRANCHES:[main:8110ce1d8e8640da5f9eef484808f603ab46ca0b]|RELEASE:[none|none]
 obsproject/obs-deps: BRANCHES:[master:f80e1d30181b0ff2b048b6d8fe8b8c501f3d221c]|RELEASE:[2026-08-26|f80e1d30181b0ff2b048b6d8fe8b8c501f3d221c]
-obsproject/obs-deps-buildstream: BRANCHES:[master:1a3e330be72a7df75a8343a13b257b61bf2a83be]|RELEASE:[2026-09-24|be986fef73f1f29a852b87193ba07ab847aa313b]
+obsproject/obs-deps-buildstream: BRANCHES:[master:5c918ece0e599e98df52e4dfd55c7ff507fe06b3]|RELEASE:[2026-09-24|be986fef73f1f29a852b87193ba07ab847aa313b]
 obsproject/obs-oauth-cf: BRANCHES:[master:039c64c4e9a097a7e536a714b2e92477e98723be]|RELEASE:[none|none]
 obsproject/obs-plugintemplate: BRANCHES:[master:3e7d7ac3b5342cd7d9b88890b9c70b472d1520fc]|RELEASE:[none|none]
 obsproject/obs-studio: BRANCHES:[master:95d5223b66da1c162acdb61c1bae2b9123a60f0e;release/32.2:ba2f32bdf791005443988a4955e963663e16b1ed;release/32.1:fb4d98bf88fae5fc85cb11fc57f7c5e309282194;release/32.0:dcdbd2e9048ae66237fdab32dbba72b745b1b9c5;release/oauth-panel-fix:2663ed55ea9aca5ad15172e28059b389c796a9f6;release/31.0:614fb6ae0902c695bf2a6f7670c09b76605e904a;release/30.2:ca51d330eafd36f84f159e524aa87d11ac39197f;allow-high-precision-images:97e5e3efde31b1a187fe37852e2df45ab8f5ca6c;release/30.1:69d274074e8d1a6bdcf6777a0feba8596a8ee9b0;release/30.0:d822584cb1c5601d2da51fa2c6cd94a955e9c874]|RELEASE:[32.2.2|ba2f32bdf791005443988a4955e963663e16b1ed]
