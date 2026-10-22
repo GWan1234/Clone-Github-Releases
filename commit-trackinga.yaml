@@ -167,7 +167,7 @@ DFRobot/DFRobot_ColorWaveSensorAPDS9960: BRANCHES:[master:c5e82477f7b837d746552d
 DFRobot/DFRobot_Cosmo: BRANCHES:[master:7a5075cedae000e5e6ba0adea53be186449dfc2f]|RELEASE:[V1.0.3|7a5075cedae000e5e6ba0adea53be186449dfc2f]
 DFRobot/DFRobot_DF1101S: BRANCHES:[master:0abad6b5a4844fd6368efffa015e381c0dfb3e12]|RELEASE:[none|none]
 DFRobot/DFRobot_DF1201S: BRANCHES:[master:96eb13974956a3584fc8f8e5964ceb98bac30bcc]|RELEASE:[none|none]
-DFRobot/DFRobot_DF2301Q: BRANCHES:[master:f6b0551cd1ed21ff35acb253d89180a6e3c55c4b]|RELEASE:[none|none]
+DFRobot/DFRobot_DF2301Q: BRANCHES:[master:f65e7324825b2d07a8ec14f5503191c26a90d640]|RELEASE:[none|none]
 DFRobot/DFRobot_DHT11: BRANCHES:[master:d6de7bd51683eb45c4e7d951e8a7b1ffd254c1b5]|RELEASE:[none|none]
 DFRobot/DFRobot_DHT20: BRANCHES:[master:af63fb5ccb0f25dee4fc33739d0c236a70547444]|RELEASE:[none|none]
 DFRobot/DFRobot_DMX512: BRANCHES:[master:0924c8c047b698f1ee78597693da8e5eeba14f2b]|RELEASE:[none|none]
