@@ -2084,6 +2084,7 @@ sparkfun/SparkFun_Qwiic_Buzzer: BRANCHES:[gh-pages:5694582a3f77ebf0f02aef17eabf9
 sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library: BRANCHES:[main:b7173282af4f18bf3c052f5f619cd80953d913fe;develop:993b9f297fc2c81cb3211dd13de23cd1c850d851]|RELEASE:[v1.1.0|ba6cd5369f535889c4955ccc77b1b883c048700a]
 sparkfun/SparkFun_Qwiic_CO2_Sensor_SCD4X: BRANCHES:[gh-pages:7f8c09bf6f93b6f521043c312be2e1ec3fdda118;main:cc7038afb5866ae185909394f119b9622c563c26;SFEMark-patch-1:8bdc71c86ca3cc50bf5cefa1621a2b7191265375]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_CO2_Sensor_XENSIV_PAS: BRANCHES:[gh-pages:27bdc4fd058d8b4771179a9a4f74be319250737a;main:08a65f08c40e3a63d90a3495de2a7a21fed05588;loricrotser-patch-1:a6a2535058a8acedc83557a9dc30e17a73a7f0f9;SFEMark-patch-1:963d17dd6bc35352c3e3c54659112e57c543da59]|RELEASE:[none|none]
+sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953: BRANCHES:[main:c6da41abbbce7757ce15fb2b6ec921475de1214d]|RELEASE:[v1.0.0|c6da41abbbce7757ce15fb2b6ec921475de1214d]
 sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library: BRANCHES:[main:2123e556a6bcc911883cf64db47ac0e0fb556afa]|RELEASE:[v1.0.0|7096084d57a43cf8c038ed6b9087a4903b64469c]
 sparkfun/SparkFun_Qwiic_Directional_Pad: BRANCHES:[gh-pages:deb4c28cb96abdbd217bd62f8547274fa2062902;main:97943e7af32b431a7294c276c6518cfa115ab99d]|RELEASE:[none|none]
 sparkfun/SparkFun_Qwiic_Distance_Sensor-VL53L4CD: BRANCHES:[main:ce6e486fc6c8711b7bd5d1111597bd7c8a209409]|RELEASE:[none|none]
