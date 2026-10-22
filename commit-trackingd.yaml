@@ -910,6 +910,7 @@ m5stack/M5GFX: BRANCHES:[develop:4d1d9ebf5ea6683d45d3bd3ec6e5581c316bf376;master
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5Hat-8Servos: BRANCHES:[master:b8ebe97e89cb57f7e92a82449d8f0a104d8821d8]|RELEASE:[0.0.2|fafbe703e065f5527c2da5f71727d03a9d584104]
+m5stack/M5Hat-BugC-Internal-FW: BRANCHES:[main:5edac1804c16f846915e6463601789b46f359463]|RELEASE:[none|none]
 m5stack/M5Hat-JoyC: BRANCHES:[master:c656bff6ca651c33d3330ceb89e0cc851dd8e48a]|RELEASE:[0.0.1|3eccb38006add7dd9f45aff0e85292c46ce535f2]
 m5stack/M5Hat-PowerC: BRANCHES:[master:2cd83d770f93dd05c6f41f6029255b934fc4a194]|RELEASE:[none|none]
 m5stack/M5Module-2Relay-13.2: BRANCHES:[main:a1091a8a16f8786f3624f101077a70c67b63d8e0]|RELEASE:[0.0.2|a1091a8a16f8786f3624f101077a70c67b63d8e0]
