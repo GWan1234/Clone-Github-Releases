@@ -512,6 +512,7 @@ HelTecAutomation/HeltecDocs: BRANCHES:[master:6b39fc24f19128a7d70cf6cc45513fe35e
 HelTecAutomation/HeltecDocs-zh_CN: BRANCHES:[master:cedf746f9ec1b75da0cba1f62c4e57fa8eee15d0]|RELEASE:[none|none]
 HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f849705c4;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf]|RELEASE:[2.1.6|e9c730b17f4739ab97468edf12dff5f86ee433bb]
 HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[none|none]
+HelTecAutomation/hotspot-app: BRANCHES:[main:e821b9cb2632162584e59982f7fd3ef01d77fa91;bugfix/796_follow-shortcut-offsets:a9a23782e3fe49c7cbe2715d342210ebd3af03bd;feature/606_secure-mode:0000eed1aa82dc166047f597c79a67c52765d73a]|RELEASE:[none|none]
 HelTecAutomation/lorasdk: BRANCHES:[master:9e0086c36ae39fdc1248eb4ae920d31d015a1eee]|RELEASE:[none|none]
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2]|RELEASE:[none|none]
 HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507a5717f10964a2b6e47;master:29225749f54c4ab2849e4c1bded814e9c61a7deb]|RELEASE:[v1.5.1|29225749f54c4ab2849e4c1bded814e9c61a7deb]
