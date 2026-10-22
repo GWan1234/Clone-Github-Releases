@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 19:41
+commit-tracking: 2026-10-22 19:42
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1029,6 +1029,7 @@ m5stack/STAMP-S3: BRANCHES:[main:6b64d431f930ff5e2bd770a07003ac983c24bc3f]|RELEA
 m5stack/StickWatch: BRANCHES:[master:243f4d6767914e12741b78a876f3d6dfa7b7bdeb]|RELEASE:[none|none]
 m5stack/TimerCam-arduino: BRANCHES:[master:ca24786e3cecdad060d86d6eb1cbc299685591b9]|RELEASE:[1.0.1|a83fca723aa03c38f1bfcefe3e72cf757425691f]
 m5stack/TimerCam-idf: BRANCHES:[master:09c5a07a3630f7c9bf0cbf78d3bf81beadee9817;ali-oss:86bc598cfa86aa42f33d9b61811053abfdb47146;FishEye:cde2a9b50abbb4a704c7e5e862ebde193106b0a0;timer-wake:a8d9e06f6827c44013b010ca475e92582c7f3cbf]|RELEASE:[none|none]
+m5stack/Unit8Servo-Internal-FW: BRANCHES:[main:5dc9413015a999be76e4b8aff8544fd4f1ec3d5c]|RELEASE:[none|none]
 m5stack/UnitV2Framework: BRANCHES:[main:68506ea70b3a00ecc1719cb36c2a607c6a7b3062]|RELEASE:[none|none]
 m5stack/V_IMG_Reciver: BRANCHES:[master:da5379485326561e9fd32552f9a73dc344b98986]|RELEASE:[none|none]
 m5stack/Vfunction: BRANCHES:[master:8c6520db5c01fabad48ae656d3fea8c314b8e9a3]|RELEASE:[none|none]
