@@ -531,6 +531,7 @@ HelTecAutomation/packet_forwarder: BRANCHES:[main:f8113f597bc8e54fe2a55ebfda72bf
 HelTecAutomation/picolorasdk: BRANCHES:[master:809cdd66d617bc43057f92ab20b40fdb46d3adf2]|RELEASE:[none|none]
 HelTecAutomation/platform-asrmicro650x: BRANCHES:[develop:9ed99d9a35420b3f06a507a5717f10964a2b6e47;master:29225749f54c4ab2849e4c1bded814e9c61a7deb]|RELEASE:[v1.5.1|29225749f54c4ab2849e4c1bded814e9c61a7deb]
 HelTecAutomation/platform-heltec-cubecell: BRANCHES:[develop:7986121b2f431f5fcf0d55700aa329af3c7500c0;master:c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]|RELEASE:[v1.1.0|c05b0d3b45a736f98a3a1d4ca105edfba11c2c63]
+HelTecAutomation/snapemu: BRANCHES:[main:967c69e6d59057f2127df5c711f9d353ddddb811]|RELEASE:[none|none]
 Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294b0e3c]|RELEASE:[none|none]
 Joetooley28/atcli_rust: BRANCHES:[main:3711676de41d362ce8b52c0cef2324f5752f8c4f]|RELEASE:[none|none]
 Joetooley28/cfw3212-qtooley-overlay: BRANCHES:[main:507487065f15b5a66ad4818d623f194b5f769bf8;working-branch:eaaf9cf38cf4a1279844b70d9494887c43b72624;standalone-at-terminal-old:3669082a848b709f1c73f4a34a760efb51d3849a]|RELEASE:[v0.3.11-qtooley-2026-04-11|e3cfaf883328fbaa8e9792b6e22288b63fca383a]
