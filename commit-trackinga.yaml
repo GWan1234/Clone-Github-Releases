@@ -148,7 +148,7 @@ DFRobot/DFRobot_BMV080: BRANCHES:[master:986c1a9b3cb795f2e9d413603e8bb39701889cd
 DFRobot/DFRobot_BMV080_Gravity: BRANCHES:[master:2cc4409fe4d1c7c349f24c9e9265b7d3b4ae1673]|RELEASE:[none|none]
 DFRobot/DFRobot_BMX160: BRANCHES:[master:b240618dc7a954e42b7759301b64d96413615bd8]|RELEASE:[none|none]
 DFRobot/DFRobot_BNO055: BRANCHES:[master:f0912c8a47df097c3baa739178cd3f286ace6fe3]|RELEASE:[none|none]
-DFRobot/DFRobot_BT401: BRANCHES:[master:239aca7b14b887ddb7272c63f0e20e670b5db913]|RELEASE:[none|none]
+DFRobot/DFRobot_BT401: BRANCHES:[master:da3d90c5e2d33928e44eacea42d4d6e14a1da61c]|RELEASE:[none|none]
 DFRobot/DFRobot_B_LUX_V30B: BRANCHES:[master:bbdeaf2b6f3884b88818168fdba721d929cb5c19]|RELEASE:[none|none]
 DFRobot/DFRobot_Biometric: BRANCHES:[main:71ce9d1a3c9327ade35623652082ec7623c80a54]|RELEASE:[none|none]
 DFRobot/DFRobot_BloodOxygen_S: BRANCHES:[master:0823f4297439ba53e2c690264d3989cf14564511]|RELEASE:[none|none]
