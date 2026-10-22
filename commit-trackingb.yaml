@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-22 12:04
+commit-tracking: 2026-10-22 12:07
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -328,7 +328,7 @@ MetaCubeX/x509: BRANCHES:[master:8b1764fb185c8661ba7718875d9e61b855be4c47]|RELEA
 MetaCubeX/yamux: BRANCHES:[master:dd5f17c0be4982ec3da70ef7bce61c4641bf7665]|RELEASE:[none|none]
 MetaCubeX/yq: BRANCHES:[master:7a29da06366b7cc6da9ba12d1a33d01afb722e5d]|RELEASE:[none|none]
 MetaCubeX/zerotier-go: BRANCHES:[main:13fa6f45da5f3a3753e93bebd6b32583f1b3f59d]|RELEASE:[none|none]
-OpenEPaperLink/OpenEPaperLink: BRANCHES:[master:e9636c7d416bb35bab2bcf634b96f87bf7d96b02;had:2204af5d49686d46c396c54783c69231d056968f]|RELEASE:[2.98|89785fa81dc1392c7013cefbdaef37e6a6248c1d]
+OpenEPaperLink/OpenEPaperLink: BRANCHES:[master:35d5e4a420cd2e2f1c9feb1acc81beed4cddb1f8;had:2204af5d49686d46c396c54783c69231d056968f]|RELEASE:[3.00|44963c7118aee1718a24f93d23450c15a1a1fbe4]
 Pear-OSS/LuCI-fogVDN: BRANCHES:[main:68f675098f3c110f3cd91f3c4eadff6124eb151d]|RELEASE:[none|none]
 Real-Gecko/Filemin: BRANCHES:[master:3d6e48a7cb077e98263a99a097937bf0bd362af2;filemin-0.9.x:2f59e8f76e0c7984afd5b5ca897fa24628579965]|RELEASE:[2.2.3|82e1de32f9871e8e02e888779818b09344b7ad87]
 SagerNet/sing-box: BRANCHES:[testing:dfb80349bf5779ec0a3f834c9ec2794345bff8f0;docs:898adc512e0fa152bec99675153f65bb716914c4;stable:d630fa94c53b2e2bdf256fad8b9d1cff809146ed;oldstable:78d3eeedacdda487eca7f2793e29973cb2f8a86c;renovate/github-actions:ecf633af50fe41ddf569fa914923863f6a09f840;renovate/dockerfile:90b379966c6c9341b5a583d485839865b54c6427;revert-4376-fix-anytls-urltest-results:1e03aac1ddb3034a62f897b1ca078c6d7e22c6c3;renovate/major-github-actions:e57d165a326278a94e6cb44bfb1f8c8602f3e309;usbip:226c9f22eec4212270f24e3af73de39473bec855;dependabot/go_modules/test/go.opentelemetry.io/otel-1.41.0:010b1e74a3c2c4aa8eeedd1604ec2a04420967e9]|RELEASE:[v1.14.3|7054cac5124465ffdb145870d7c01885566711b1]
