@@ -2423,6 +2423,7 @@ sparkfun/phant-stream-json: BRANCHES:[master:b6de7cac6bf7af426561e973c7fc7aa6f6b
 sparkfun/phant-stream-mongodb: BRANCHES:[master:7b714cd44a642d7cd3aa9909864ad401ab6dde35]|RELEASE:[none|none]
 sparkfun/phant-throttler-memcache: BRANCHES:[master:5b365a7dbebabccea3a6bc138761fce40981c812]|RELEASE:[none|none]
 sparkfun/phant-throttler-redis: BRANCHES:[master:f6ab285c15614c33d3b08e340d115d9c359df9a1]|RELEASE:[none|none]
+sparkfun/pico-sdk: BRANCHES:[add_sparkfun_iotredboard_rp2350:3968055fbe2dc7c1f081bae460424068ecc26f8c;master:ee68c78d0afae2b69c03ae1a72bf5cc267a2d94c]|RELEASE:[none|none]
 sparkfun/piservohat_py: BRANCHES:[main:22ef5b9d48300e77d22308df53ea1d07bab84d98;examples:e69d47066c79b5c5962253d9366d4fd75f47ebf9;feature/packaging:1ddd69980f7d2b3f8ae0a1d6e7c555de016744b2]|RELEASE:[2.0.0|535cca51a2770ee5f91cc9bd6a49f2aefd7b1001]
 sparkfun/processor_interrupt_examples: BRANCHES:[master:118f3d923f30afe9e0b0adcd95d3548f7dadf5ad]|RELEASE:[none|none]
 sparkfun/pxt-gamer-bit: BRANCHES:[master:bb71e369977755999f43a20cbbaaccdc97f15ffa]|RELEASE:[v0.0.9|a26130e30d50d7599f7ebe032d427afab426aeaf]
