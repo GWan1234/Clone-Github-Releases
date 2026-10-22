@@ -2717,6 +2717,7 @@ waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:a7b179dbfccea8121c88770d8a3
 waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:c652c902db607f7ffb376257393cfd7657aa6428]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Zero-Basic-Kit: BRANCHES:[main:17304b9271a7ae91e5d8f37de09c18796f6f4b91]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f0401241ff5c44956]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-ePaper-1.54G: BRANCHES:[main:55eb1278f482c0cfd1e0cba5611a4132022eea48]|RELEASE:[v1.0.0|55eb1278f482c0cfd1e0cba5611a4132022eea48]
 waveshareteam/ESP32-S3-ePaper-13.3E6: BRANCHES:[main:f8e9456bd1ca520f638786142fc17a74154f4e05]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-3.97: BRANCHES:[main:9b12d40731a80213b927ee8a421cae4082952819]|RELEASE:[none|none]
 waveshareteam/ESP32-Touch-LCD-3.5: BRANCHES:[main:51f354d2aeb2245fd7b748c9f3ea93cea1c527ae;docs-factory-guide-20261021:9ff7d1f0aacf5640cc8b1e7071009c9b92768120;firmware-cleanup-20261021:08228557bfd66391b488a87dbc8c197410473d93;factory-update-20261021:6946e4123019a5272cea94bda9dc8c8cc34a5f6e;codex/factory-update-20261021:1bb5516cafd127d093bad153eca2c4fd0f809602;chore/refresh-product-repository:5d65bbb43301f73415003d5b2a602300dfb99eeb]|RELEASE:[none|none]
