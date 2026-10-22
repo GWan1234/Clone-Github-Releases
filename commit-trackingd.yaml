@@ -1868,6 +1868,7 @@ sparkfun/SparkFun_CAN-Bus_Arduino_Library: BRANCHES:[master:c96318faf0045295f04d
 sparkfun/SparkFun_CAP1203_Arduino_Library: BRANCHES:[main:8548d0a082c8e4ad2c2ea75fdb626e5a306875f2]|RELEASE:[none|none]
 sparkfun/SparkFun_CCS811_Arduino_Library: BRANCHES:[master:287aa5c6120ea3227f7fa6fdef4f2253888ea2f2]|RELEASE:[v2.0.3|287aa5c6120ea3227f7fa6fdef4f2253888ea2f2]
 sparkfun/SparkFun_CO2_Sensor-STC31: BRANCHES:[gh-pages:e512528890447654ee0a86d0249006eb5a74ac60;main:8bda1b1db261c9b8a353dc2212e80b93e4b3bbed]|RELEASE:[none|none]
+sparkfun/SparkFun_Capacitive_Soil_Moisture_Sensor_CY8CMBR3102: BRANCHES:[gh-pages:cf4620e30d9711c8406ee8cc750611bf0bd8bc32;main:5b595af90de3e2fe626c1ebf6cfe8189d108db36;refactor/12_5_mil_grid:7a5375675aa4a54c4fb583bee1ca8070b386b450;refactor/cy8cmbr3:f65e4b7efd4f6bddd66c728f6fa0f2c035ed2911]|RELEASE:[v1.0.0|03611815e5a55f8b995ceaabedf04a295e10b5fb]
 sparkfun/SparkFun_Cellular_Function_Board_Blues_Wireless_Notecarrier: BRANCHES:[main:84d2f0ccf72ddc1ba9a89bfb4c95df8efd73631c]|RELEASE:[none|none]
 sparkfun/SparkFun_Clock_5P49V60_Arduino_Library: BRANCHES:[master:8ac79043e37acea37d2586ebc856e552b38b6def]|RELEASE:[v1.0.2|8ac79043e37acea37d2586ebc856e552b38b6def]
 sparkfun/SparkFun_Clock_Generator_5P49V60: BRANCHES:[master:db6ed5e8fffad32bd32b92c52802b5a30320cb70]|RELEASE:[none|none]
