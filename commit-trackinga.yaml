@@ -240,7 +240,7 @@ DFRobot/DFRobot_LTR308: BRANCHES:[master:de101d136b5ac14527c7b522fcaa48ea315f04c
 DFRobot/DFRobot_LTR390UV: BRANCHES:[master:30ca2519e7a6300ac006017ad4da0fb72ffec3de]|RELEASE:[none|none]
 DFRobot/DFRobot_LWLP: BRANCHES:[master:e3752c82df605320c52d524e850edb44f5c4f02b]|RELEASE:[none|none]
 DFRobot/DFRobot_LWNode: BRANCHES:[main:540cee94e65a58a5f5964a996f69dc70f42f0ad3]|RELEASE:[none|none]
-DFRobot/DFRobot_LarkWeatherStation: BRANCHES:[master:da4f0bc35f4a51b3c7201b0998f879278aaf110e]|RELEASE:[none|none]
+DFRobot/DFRobot_LarkWeatherStation: BRANCHES:[master:431ff1c34636398078fa49e578e74fe8374842b1]|RELEASE:[none|none]
 DFRobot/DFRobot_LcdDisplay: BRANCHES:[master:7ab0e6cefd7636e35825bc532a79a54cff8a1087]|RELEASE:[none|none]
 DFRobot/DFRobot_LedDisplayModule: BRANCHES:[master:b9029faef2c6c0f23f191c57284a1623633a2e7d]|RELEASE:[none|none]
 DFRobot/DFRobot_Lightcube: BRANCHES:[master:847c80b8f5ee25dcdae3a7071164bfe7476aaddd]|RELEASE:[none|none]
