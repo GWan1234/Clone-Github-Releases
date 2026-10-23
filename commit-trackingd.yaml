@@ -737,6 +737,7 @@ Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159e
 Seeed-Studio/Grove_Air_quality_Sensor: BRANCHES:[master:be207e017b5ad89647a8cf991b70b0f1e5a5d96e]|RELEASE:[v1.0.2|078384ffdcf855a2d0840e5368a66b9c01249f18]
 Seeed-Studio/Grove_Alcohol_Sensor: BRANCHES:[master:dcc8fcc75adab8fa5f802a759cffe7cf6410c55b]|RELEASE:[none|none]
 Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167da0ed1295267726]|RELEASE:[v2.1.0|a4de7d924791c41572a3f7d4ff500943a1e1d62f]
+Seeed-Studio/Grove_Chest_Strap_Heart_Rate_Sensor: BRANCHES:[master:004e48aac52cb263f55cebeb3f7126530a1d67ec]|RELEASE:[none|none]
 Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]|RELEASE:[2.0.0|11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]
 Seeed-Studio/Grove_Dust_Sensor: BRANCHES:[master:d76ebfd07ce8cc75f3078681a75243a34770d641]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor: BRANCHES:[master:3aef26f550248167403409eb542b89f4a9e9c83e]|RELEASE:[none|none]
