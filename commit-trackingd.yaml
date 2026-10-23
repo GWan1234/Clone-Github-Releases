@@ -954,6 +954,7 @@ Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb907
 Seeed-Studio/Seeed_SCD30: BRANCHES:[master:77b91b79d50f03e68aa10a951128a13ecbdcbf85]|RELEASE:[v1.0.0|a6c618135eb09670c99c2ac342866b58f99be023]
 Seeed-Studio/Seeed_SHT35: BRANCHES:[master:0abb003e939153b4c19f127d84d48c938c15f746]|RELEASE:[v1.0.2|6ed044a81d0fdc1107c9aebec4f00894601b5877]
 Seeed-Studio/Seeed_Serial_MP3_Player: BRANCHES:[master:e10cf51d6a56d764278d4983d6ce859cca226927;old:24c27b14297e63ecd9e3e0bf7722b230f9bf85c9]|RELEASE:[v2.0.2|e10cf51d6a56d764278d4983d6ce859cca226927]
+Seeed-Studio/Seeed_Sketch_12ChKeypad: BRANCHES:[master:4a6b26ced245ef0b9068bd1d7f9b991b922bbfb4]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Sketch_ADXL356X: BRANCHES:[master:bb367df25ed41bfae378647c8a8db3cf65de1d7a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Sketch_adxl1001: BRANCHES:[master:1232f993fcde9af06dbba2910416f75ee2037add]|RELEASE:[none|none]
 Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e2b037]|RELEASE:[none|none]
