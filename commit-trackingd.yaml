@@ -1200,6 +1200,7 @@ Seeed-Studio/st-u-boot: BRANCHES:[v2021.10-stm32mp-odyssey:ee09b80e66756f81cdfeb
 Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef0990407fadaa6218]|RELEASE:[none|none]
 Seeed-Studio/stm32mp1-manifest: BRANCHES:[master:24bba3695eeda8885de4a6c3cea1ee2256d13ef7]|RELEASE:[none|none]
 Seeed-Studio/sync-github-all-issues: BRANCHES:[main:79cd9224964eadf68a2ed197aec29b1fc0d91306]|RELEASE:[none|none]
+Seeed-Studio/tracker_sx1262_t2000_bootloader: BRANCHES:[main:d51e7c248c489eab7f4a5202af01651a24e19589]|RELEASE:[none|none]
 Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04fcfbe5c09e;v2019.04-imx6ull-npi:d447c4866200ae5fd069313d92e2308ff01af021;master:3c99166441bf3ea325af2da83cfe65430b49c066;v2018.11-stm32mp:f55001ad5e8bca2d474f3bcf696a15bc4ea1f78e]|RELEASE:[none|none]
 Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0]|RELEASE:[none|none]
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316]|RELEASE:[none|none]
