@@ -943,6 +943,7 @@ Seeed-Studio/Seeed_QTouch: BRANCHES:[master:3c0f22ee2da84ab461f04606be0bed973a98
 Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb9075a00a7e67c58]|RELEASE:[none|none]
 Seeed-Studio/Seeed_SHT35: BRANCHES:[master:0abb003e939153b4c19f127d84d48c938c15f746]|RELEASE:[v1.0.2|6ed044a81d0fdc1107c9aebec4f00894601b5877]
 Seeed-Studio/Seeed_Sketch_ADXL356X: BRANCHES:[master:bb367df25ed41bfae378647c8a8db3cf65de1d7a]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Sketch_adxl1001: BRANCHES:[master:1232f993fcde9af06dbba2910416f75ee2037add]|RELEASE:[none|none]
 Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e2b037]|RELEASE:[none|none]
 Seeed-Studio/Seeed_VEML6070: BRANCHES:[master:b10decbd8501010ca8b1f7e6dfce59bd5cefbf9a]|RELEASE:[v1.0.1|f02a841fda9527f2735e4bab2a01b1f734429880]
 Seeed-Studio/Seeed_Wio_GPS_Board: BRANCHES:[master:33c2f46235bf58b4b8ead978894a15edcf1a6cdb;Test:fa5b6b14a74d9a7fd053cc40f7bf2ebf14dbdc2f]|RELEASE:[v1.0.3|52ae246e22c5fc3ba94a79d012d2429aa1db01d4]
