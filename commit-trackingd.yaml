@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:08
+commit-tracking: 2026-10-23 11:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -987,6 +987,7 @@ Seeed-Studio/Seeed_PCA9685: BRANCHES:[master:2e1c22d329f3c8250a5bcf28de4a241920a
 Seeed-Studio/Seeed_PM2_5_sensor_HM3301: BRANCHES:[master:e3ffb82374c874f216c0fabd699b8f065e0cdc0c]|RELEASE:[v1.0.2|0a7908b8125a5e99acecb3b5b2893d19db2c6f76]
 Seeed-Studio/Seeed_Platform: BRANCHES:[master:a38ef3ad8cf232594c49d16584ef93bd7e293e33;test:1b5676a16b43f68ea00572dbbdb4179b01301364]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Python_DHT: BRANCHES:[master:8fde52cd758e57ca718361f5cf355a515ed3a6c1]|RELEASE:[0.0.1|b5ec0ec59c3f316ebae164451ade55e60027376b]
+Seeed-Studio/Seeed_Python_DS18B20: BRANCHES:[master:2a937ca761138aa13d8e2e0ed42ba159aca24723]|RELEASE:[1.0.0|3cf0edd87d7bfe904b05f4547b5505a7d8c70b3b]
 Seeed-Studio/Seeed_Python_MLX9064x: BRANCHES:[master:fd9645919bbce69ee9c08774273128fb9c5e1241]|RELEASE:[1.1.2|4db11cbb22c095ed32bab557f9b90e099fd9cb87]
 Seeed-Studio/Seeed_Python_SGP30: BRANCHES:[master:3886526b07436e2182c747169657a45db47adcbb]|RELEASE:[0.0.1|76214838e6254152d894cce6fc1644da89246316]
 Seeed-Studio/Seeed_Python_SI114X: BRANCHES:[master:b2cb4051d2e404da2cdd443c7e633c936885fc9a;Si115x:b7fc51556035bfe57afd66fd263f2be790451a08]|RELEASE:[v1.1.0|3139fa8295cbcfa5c9ffb3c86b42dbfee8e99f2c]
