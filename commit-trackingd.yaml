@@ -840,6 +840,7 @@ Seeed-Studio/Xadow_MainBoard: BRANCHES:[master:4cb5aff0f0af8098119ef601a62d58595
 Seeed-Studio/Xadow_Motor_Driver: BRANCHES:[master:62279a3af9bcb0a3a91fc11a5de04137c4605756]|RELEASE:[1.0.0|685c753caf666e9c5fc3e8eedb8064f76d24bf65]
 Seeed-Studio/Xadow_Watch_Recipe: BRANCHES:[master:fc3b63231af233ec75efc030530faa12db76682d]|RELEASE:[none|none]
 Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1]|RELEASE:[none|none]
+Seeed-Studio/fritzing_parts: BRANCHES:[master:aec4c5d84a93a3ecac34c1e2fb5de92975d1ddcc]|RELEASE:[none|none]
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
 Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5]|RELEASE:[none|none]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
