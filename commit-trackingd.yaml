@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 09:11
+commit-tracking: 2026-10-23 09:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2589,7 +2589,7 @@ sparkfun/SparkFun_SDP3x_Arduino_Library: BRANCHES:[main:9505778580a3891ccaf3687c
 sparkfun/SparkFun_SFA40_Arduino_Library: BRANCHES:[main:77dcdea7592b3944518ff1d0e73ac464ba42eab0]|RELEASE:[v1.0.0|293b68e8218181e07e68f8674add146cf7bc8028]
 sparkfun/SparkFun_SGP30_Arduino_Library: BRANCHES:[main:33c7030330aff16372b9411493ab3bd4a8a72dd3]|RELEASE:[v1.0.5|33c7030330aff16372b9411493ab3bd4a8a72dd3]
 sparkfun/SparkFun_SGP40_Arduino_Library: BRANCHES:[main:91cb5514368d8cfc0f18f25c55a33a6ca971fac9;release_candidate:e338867a0cbae89eef0944e989ac45a804176f0a]|RELEASE:[v1.0.4|720f341aeaed5935a6acaafc7680d6c5cdb2c02e]
-sparkfun/SparkFun_SGP4_Arduino_Library: BRANCHES:[release_candidate:9762e0951aa0a2dfa78ea32524889fe1285959eb;main:d42e2a355b6142579030fb73367329b927b21a67]|RELEASE:[none|none]
+sparkfun/SparkFun_SGP4_Arduino_Library: BRANCHES:[release_candidate:9762e0951aa0a2dfa78ea32524889fe1285959eb;main:d42e2a355b6142579030fb73367329b927b21a67]|RELEASE:[v1.0.4|d42e2a355b6142579030fb73367329b927b21a67]
 sparkfun/SparkFun_SHTC3_Arduino_Library: BRANCHES:[master:671ef7e7c3570b2082a4ebbb8a63ea37cc13d171]|RELEASE:[v1.1.4|8b22619cb24c10b3365ea015d3efc73f5db2f84c]
 sparkfun/SparkFun_SMD_LED_Light_Pipe: BRANCHES:[main:ba9a58ae0f4c132c9c9b7c4b20135b6009b66536]|RELEASE:[none|none]
 sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library: BRANCHES:[main:fd4374a6b1ee9ab38c4041f2044c05afb15affe9;release_candidate:cc285f0d59ef9b44cedf825b26a5752974b7408c]|RELEASE:[v1.0.3|fd4374a6b1ee9ab38c4041f2044c05afb15affe9]
