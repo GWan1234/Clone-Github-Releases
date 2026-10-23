@@ -984,6 +984,7 @@ Seeed-Studio/Seeed_Arduino_S2110: BRANCHES:[main:9dfa65862655c20dec623ad6ef91d98
 Seeed-Studio/Seeed_Arduino_SFUD: BRANCHES:[master:ab3117e3baf36f8c0790f4b989c6e83ec1e5b7e5;new-arch:7d910c9845198f0bbe1d85762a94f64018d89337]|RELEASE:[v2.0.2|da3a1cac6448ccb2c26b58b495222e3eb402638b]
 Seeed-Studio/Seeed_Arduino_SGP30: BRANCHES:[master:a7451a81f8f7f0de05102c205c02c4a6219ad9a1]|RELEASE:[v1.0.0|73d1c07fa62ae1977d53c46f90c10df61382c499]
 Seeed-Studio/Seeed_Arduino_SSCMA: BRANCHES:[main:65a1b2061e80f1bd3814f688451a66646782fe1f;feat/wifi-version:ef094de2368f1b36ea8e2cb2b16610f86f860ca5]|RELEASE:[v1.0.3|65a1b2061e80f1bd3814f688451a66646782fe1f]
+Seeed-Studio/Seeed_Arduino_SSCMACore: BRANCHES:[update-branch:f2caf0e8289be3fb90c516647b5b1e659d17d914;main:4e8e2a5f452cd095aa2d1aef8d812de4f42e528b]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_Sketchbook: BRANCHES:[master:4f39ac4578267b5eeb1b6093f38b4efd02128c83;web-bluetooth:a322eaf1f51e9f19f55caf9c2faf6b7c8c87c593]|RELEASE:[v1.0.2|e8473f9434ac08fecbf5efd668690da15757904a]
 Seeed-Studio/Seeed_Arduino_TFlidar: BRANCHES:[master:438ebb357941dd5fc862d31f333c64f6072c52d6]|RELEASE:[none|none]
