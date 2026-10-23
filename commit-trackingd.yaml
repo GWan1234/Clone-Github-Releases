@@ -790,6 +790,7 @@ Seeed-Studio/NFC_Resource: BRANCHES:[master:6c8db9cf5884ca52d5e80bfb101d67576125
 Seeed-Studio/NFC_Tag_M24LR6E: BRANCHES:[master:d43e94c7edc96a520ca1f8943c4a25955cdc4e37]|RELEASE:[1.0.0|c76f0095b0a70c57c0517323d0f6a11ec622ce05]
 Seeed-Studio/NFC_ePaper: BRANCHES:[master:adf59db0fd88a3d7556b66d944aa21e340ce5950]|RELEASE:[none|none]
 Seeed-Studio/OLED_128x64_Suli: BRANCHES:[master:b0f74ad110deb1f97f2cc792c1a6dbc1067da88f]|RELEASE:[none|none]
+Seeed-Studio/OLED_96x96_Suli: BRANCHES:[master:d86d042001f5ea4f71026a48a8644b4a6d8d2bcd]|RELEASE:[none|none]
 Seeed-Studio/OLED_Display_128X64: BRANCHES:[master:59bbbfb50107683b2ee82d1141e70a8923bb6e2f]|RELEASE:[1.0.0|f9b6efd4a28b808c4bd5ecf9837d6e5aa1e046b3]
 Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af75701261857783031f38]|RELEASE:[v1.0.0|d6a44b3b80ec9e299d79fab82d2a23f8f39d0253]
 Seeed-Studio/PIR_Motion_Sensor: BRANCHES:[master:95a8137f258d5dcf335bcddd96b02f8e561bf126]|RELEASE:[none|none]
