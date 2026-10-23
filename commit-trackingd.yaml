@@ -726,6 +726,7 @@ Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822
 Seeed-Studio/Accelerometer_MMA7660: BRANCHES:[master:173f0fc5612777ca62fd7f37283b72fcc46a049f]|RELEASE:[v1.0.0|d7dd72fceccda1ca582a77726e9354dd9d4562de]
 Seeed-Studio/Air_Quality_Test_Box: BRANCHES:[master:b714ff3c6c1240016d5b295ff244c2b1ed484c2a]|RELEASE:[none|none]
 Seeed-Studio/ArduinoPhone: BRANCHES:[master:783f45cf09461840eb0728144bf98124aa40df36]|RELEASE:[none|none]
+Seeed-Studio/Artwork: BRANCHES:[master:bd7854c038edb89130769146912269b878a30eb4;gh-pages:c6fd9fd31148356d02901a55c9334b72f991400b]|RELEASE:[none|none]
 Seeed-Studio/Atom_Node: BRANCHES:[master:7e0e0dce4b3287ddcb2cd2111705b14f27c5bcdb]|RELEASE:[none|none]
 Seeed-Studio/CANBUS_SHIELD_OBD_RECIPLE: BRANCHES:[master:690fbb1ebb24991e2f90d77673d8ed9054c47cb6]|RELEASE:[none|none]
 Seeed-Studio/DSOQuad_SourceCode: BRANCHES:[master:b16df33af51aa293313329393360e1f764a7e65f]|RELEASE:[none|none]
