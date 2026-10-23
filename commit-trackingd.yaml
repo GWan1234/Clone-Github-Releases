@@ -795,6 +795,7 @@ Seeed-Studio/Grove_BME280: BRANCHES:[master:ecb5b55bf96cb93c823e14c52f22437d26a3
 Seeed-Studio/Grove_BMP280: BRANCHES:[master:211ba9ea259e9a96cba26408840b4c73549d5cb7]|RELEASE:[1.0.1|f29ffacdbed601976b18409e47bd3e71ed5f8059]
 Seeed-Studio/Grove_Barometer_HP20x: BRANCHES:[master:6215e2416a8afb26cdd62f0beb222d3ab0240f43]|RELEASE:[v1.0.0|6c993d5a45676efd064fe1186811d0e7358b74bc]
 Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167da0ed1295267726]|RELEASE:[v2.1.0|a4de7d924791c41572a3f7d4ff500943a1e1d62f]
+Seeed-Studio/Grove_Beginner_Kit_Sketchbook: BRANCHES:[master:5e0277ab7e6d03ad11d204119da4a51754b13f57]|RELEASE:[none|none]
 Seeed-Studio/Grove_ChainableLED: BRANCHES:[master:9c3f4fefc70aca267fff90c93f33a65910e244f3]|RELEASE:[none|none]
 Seeed-Studio/Grove_Chainable_RGB_LED: BRANCHES:[master:e4cd2e58527792db23701d39e028ab32148107ea]|RELEASE:[1.0.0|562b64719ff2ba7f793d50c092f0250517d457e1]
 Seeed-Studio/Grove_Chest_Strap_Heart_Rate_Sensor: BRANCHES:[master:004e48aac52cb263f55cebeb3f7126530a1d67ec]|RELEASE:[none|none]
