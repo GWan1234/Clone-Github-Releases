@@ -1074,6 +1074,7 @@ Seeed-Studio/seeed-ardupy-TFLidar: BRANCHES:[master:ea396f046483f933172df246919f
 Seeed-Studio/seeed-ardupy-ads1115: BRANCHES:[master:8f8fdb791082eac4d6cbdba0e87c3638f4e6bee8]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-amg8833: BRANCHES:[master:76a351da3513c3836a4448b59e1e8d893e211f5e]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-bme280: BRANCHES:[master:4a486fb9a48677f491d404f5234b40a970b68392]|RELEASE:[none|none]
+Seeed-Studio/seeed-ardupy-dht: BRANCHES:[main:26dd365d8a209dcc7fcaf8fa25e73ed6103662c5]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-lcd1602: BRANCHES:[master:3b297dade7040e158074d31f2c02754f6926ef43]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-lis3dhtr: BRANCHES:[master:2e2ef3683912181909b3b3bdde8d174939b1a48e]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-mlx9064x: BRANCHES:[master:846f24651b6b0aa8762d906a91741119297b2e91]|RELEASE:[none|none]
