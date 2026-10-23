@@ -804,6 +804,7 @@ Seeed-Studio/Grove_Guesture: BRANCHES:[master:9878d132eccc66c44e383f2b7290b6f90c
 Seeed-Studio/Grove_Haptic_Motor: BRANCHES:[master:e6c538b9e9f528de621399994b3fa2a3b35fa0da]|RELEASE:[1.0.0|2c7002bbc313a48596309de4adac245177635ed2]
 Seeed-Studio/Grove_HighTemp_Sensor: BRANCHES:[master:869e295cf1a8630026395b2b91e6ef962f2dadd2]|RELEASE:[1.0.1|5abe7728101c331e19567a15318b02b10a069efc]
 Seeed-Studio/Grove_High_Precision_RTC_PCF85063TP: BRANCHES:[master:0a0c114fcbba5321a6321310e0a7617fadf51e9d]|RELEASE:[1.0.0|ecd786153af66e8ccf7c38ccc4ea446cd36320ef]
+Seeed-Studio/Grove_Human_Presence_Sensor: BRANCHES:[master:79c1dc7f0e131811dd05744487ba3034294197d4]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7]|RELEASE:[1.0.0|b64fdd7e34a69f8def5384f7282ea16d7b5d1241]
 Seeed-Studio/Grove_I2C_Color_Sensor_TCS3472: BRANCHES:[master:4afb01a8be0c7be1bdcfdb2bdb3c6e160fb5a2d6]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
