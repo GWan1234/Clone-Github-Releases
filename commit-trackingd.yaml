@@ -748,6 +748,7 @@ Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor: BRANCHES:[master:3aef26f550248167
 Seeed-Studio/Grove_Gas_Sensor: BRANCHES:[master:fdd39507a7869351f9ff5a6f26e94d0ca389fbcb]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7]|RELEASE:[1.0.0|b64fdd7e34a69f8def5384f7282ea16d7b5d1241]
 Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
+Seeed-Studio/Grove_I2C_Touch_Sensor: BRANCHES:[master:fb28f8282acefba43812c3852846fad803f046a2]|RELEASE:[none|none]
 Seeed-Studio/Grove_IR_Distance_Sensor: BRANCHES:[master:a718128b5d549927a40b877edcef76f5f86f695e]|RELEASE:[none|none]
 Seeed-Studio/Grove_Infrared_Temperature_Sensor: BRANCHES:[master:f81cebb69ed20c8ba2c7c74df902584269bd37dd]|RELEASE:[none|none]
 Seeed-Studio/Grove_LED_Bar: BRANCHES:[master:4c7f5c48aafb18f7a0a18902a7714f245f3564f6;make-better:2935875f93492b92b1a2df4e2fe4a0f2715d0fd1;fix-all:786511c0b100e53744b15ce6d65f03ce4904f8fa]|RELEASE:[1.0.1|879bbaf60e119540231fea4d18aecaac09dddf4b]
