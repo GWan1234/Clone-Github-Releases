@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:16
+commit-tracking: 2026-10-23 10:17
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -741,6 +741,7 @@ Seeed-Studio/Colorful_Clock: BRANCHES:[master:50690ee797506949a1a7838d1e4fd1d7e8
 Seeed-Studio/DSOQuad_SourceCode: BRANCHES:[master:b16df33af51aa293313329393360e1f764a7e65f]|RELEASE:[none|none]
 Seeed-Studio/DSO_Nano: BRANCHES:[master:e90a8cf1cdb0e34073ccf95e274b16e44728188f]|RELEASE:[none|none]
 Seeed-Studio/DSO_firmwareV3: BRANCHES:[master:782e6c376f57bc22a53ad6241d36717fbcd9bf1d]|RELEASE:[none|none]
+Seeed-Studio/Demo_Groot: BRANCHES:[master:fa6f6573e2e774225222527d69cd046e703a1750]|RELEASE:[none|none]
 Seeed-Studio/Digital_Compass_Suli: BRANCHES:[master:89724b4126d4d0c07653df3dcedfddeabef1b64a]|RELEASE:[none|none]
 Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615: BRANCHES:[master:c18da10a9fd35353db6a3dbd41802642adeeacca]|RELEASE:[v1.0.0|1ae3f080d541e632056e743808a215026a8cffcc]
 Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776dc893]|RELEASE:[none|none]
