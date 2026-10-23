@@ -1012,6 +1012,7 @@ Seeed-Studio/Seeed_Python_RPi: BRANCHES:[main:8c0903efe3f3a27477e4e39f958dee93e4
 Seeed-Studio/Seeed_Python_ReTerminalQt5Examples: BRANCHES:[main:19fba8a2728d729543e68803cb3956da1cfe5a9a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Python_SGP30: BRANCHES:[master:3886526b07436e2182c747169657a45db47adcbb]|RELEASE:[0.0.1|76214838e6254152d894cce6fc1644da89246316]
 Seeed-Studio/Seeed_Python_SI114X: BRANCHES:[master:b2cb4051d2e404da2cdd443c7e633c936885fc9a;Si115x:b7fc51556035bfe57afd66fd263f2be790451a08]|RELEASE:[v1.1.0|3139fa8295cbcfa5c9ffb3c86b42dbfee8e99f2c]
+Seeed-Studio/Seeed_Python_reTerminal_QT5_Facerec: BRANCHES:[master:3956e00df53fbaadd48af574bf471307f44fd282;postgres:d4dbe761ca3f289677f968c8f5cf918884fb2930]|RELEASE:[none|none]
 Seeed-Studio/Seeed_QTouch: BRANCHES:[master:3c0f22ee2da84ab461f04606be0bed973a98464f]|RELEASE:[1.0.0|0f3eff11975ae6705f18a8d142b48ef95ea611a2]
 Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb9075a00a7e67c58]|RELEASE:[none|none]
 Seeed-Studio/Seeed_SCD30: BRANCHES:[master:77b91b79d50f03e68aa10a951128a13ecbdcbf85]|RELEASE:[v1.0.0|a6c618135eb09670c99c2ac342866b58f99be023]
