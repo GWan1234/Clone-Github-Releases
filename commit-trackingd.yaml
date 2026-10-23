@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 12:38
+commit-tracking: 2026-10-23 12:44
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1116,6 +1116,7 @@ Seeed-Studio/Xadow_Watch_Recipe: BRANCHES:[master:fc3b63231af233ec75efc030530faa
 Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1]|RELEASE:[none|none]
 Seeed-Studio/ambd_flash_tool: BRANCHES:[master:de56db9716f9cbf5641fe6e440b1c96033c41962;JP:2553af6960b492b4e4f1b341721d11ce83737a20;dev:005c22bb5cfdd0f9ec29388eeafda6c72885d767]|RELEASE:[none|none]
 Seeed-Studio/ardupy-aip: BRANCHES:[master:1c0d143dc811f1be1bd7260100985db9a317e2f7;dev:3faa9f728a57a37aa325410e1fd49125c2d90a53;support-xiao:93ddcf285bcd90484ea41a018be0ff00f4c88f70;v0.6.0:326037fb47af5aa524a4e04f9f9d99b83ce3f293]|RELEASE:[v1.0.0|1c0d143dc811f1be1bd7260100985db9a317e2f7]
+Seeed-Studio/balena-seeed-cm4: BRANCHES:[fix/ci:ee09d4cc44047fa78be46efc59d8276fa1607337;fix/seeed-boards-workflow:1122e742471b3b379adc725cf530668330a4bf2f;master:1897107c9b9ad5a789824cc75c8c4de8778ff085;balenaos-v6.5.47:7bf196ad2f81c2284af4e805ccb90079d74428fd]|RELEASE:[v8.0.9|2fa5a1b688c8e7d6a2181398e9e17190048b8ee8]
 Seeed-Studio/balena-seeed-x86: BRANCHES:[master:334ece2bc4dadc6813bcc946422d7389c948dcda]|RELEASE:[none|none]
 Seeed-Studio/beaglebone-getting-started: BRANCHES:[BBGW:198402eb50fba9cc6489f2689ec85315641c3d06;BBG:a1a54a0e978e4d8298895801746e2bb7248a6071;master:267ccde4d2f35b3fb5fd5f2f36750cf2867fd0cc;a3:594f61883c53754520efedc6ba33d9bc487d77ce;windows-ftdi-feedback:790d0a1ad3ae528e0e20650cacc8c98aa95df2bf]|RELEASE:[none|none]
 Seeed-Studio/ci-arduino: BRANCHES:[main:7d91076b95ba01a4ce564cd0f9be0259b1efe85f]|RELEASE:[none|none]
