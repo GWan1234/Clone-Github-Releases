@@ -924,6 +924,7 @@ Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f
 Seeed-Studio/Touch_Screen_Driver: BRANCHES:[master:df4bd6e974dc84a1c16f532ba179cb0231e52007]|RELEASE:[1.0.0|380088b5b770233c8e7d0f61c6098a9295e03806]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
 Seeed-Studio/Wio_LTE_Arduino_Library: BRANCHES:[master:91c9b85d476ad61a340f036b26201d6ad055243d;HW_Test:2b2cbdb24b3a3474ddd35804be4830f049a0fcef]|RELEASE:[1.0.0|064eeb176242e7b8a4e3ac4735fd93735c826608]
+Seeed-Studio/Wio_LTE_JavaScript_Demo: BRANCHES:[master:85e28c5509044521527856e8f62ca786e0e6fc5d]|RELEASE:[none|none]
 Seeed-Studio/Wio_Link: BRANCHES:[master:f6e2bf32d680a31c80859fad32b43251cd592efb;dev:192380a2d412f362e689d9b0edf599b0959e00a1;gh-pages:5181d74a7b5a9994132a23822b73d1fc031a6721]|RELEASE:[v1.0.0|b6dbc0b15d36f328d09fddb66f87b19bf732cc31]
 Seeed-Studio/Wio_Link_Android_App: BRANCHES:[master:e7c4b6fd1110a835f0312c28ae9f83856f3c8dd6;feature/door:c2760106a39a2360ce23230c40f5041a9552cf7e;feature/dev_6.0_config_failure:b34745e766ee749bbbe8557835fe874d84263778]|RELEASE:[v2.5.3|94adecbe85dd9bf2a78fc03b31b3b191f12f50c4]
 Seeed-Studio/Xadow_Edison_Demos: BRANCHES:[master:882f1847f434c84eabe8fcafe6685f4138b99789]|RELEASE:[none|none]
