@@ -743,6 +743,7 @@ Seeed-Studio/Atom_Node: BRANCHES:[master:7e0e0dce4b3287ddcb2cd2111705b14f27c5bcd
 Seeed-Studio/AzureGroveKit: BRANCHES:[master:b57b6e723296984b235505ba3704a3984b6c60ff]|RELEASE:[none|none]
 Seeed-Studio/Azure_Sphere_Demo: BRANCHES:[master:49564bd5cac925cfb15626e991b189789712d740]|RELEASE:[none|none]
 Seeed-Studio/Azure_Sphere_Sample_Smart_Fan: BRANCHES:[master:ace0b72da9fcd69a0b3ef3d1a99139d7391481df]|RELEASE:[none|none]
+Seeed-Studio/BLDC_Motor_Shield_TB6605: BRANCHES:[master:8421f43e438030095fad7d6862aa96992ddbafe1]|RELEASE:[none|none]
 Seeed-Studio/BLE_Color_Pixels: BRANCHES:[master:1d8bc731f8a48d3b1aa42329de0bde0030cf56ab]|RELEASE:[none|none]
 Seeed-Studio/BLE_Example: BRANCHES:[master:c69e13f9d01cf79079627562f6d748c32e9c1198]|RELEASE:[none|none]
 Seeed-Studio/BME680_4_In_1_Sensor_Drv: BRANCHES:[master:3317d32eb0c1763974c847ebf0afd0d078bff029]|RELEASE:[none|none]
