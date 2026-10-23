@@ -756,6 +756,7 @@ Seeed-Studio/GPRSBee_Suli: BRANCHES:[master:36b0549395286945506db49301191e975ccc
 Seeed-Studio/GPRSInterface: BRANCHES:[master:364c4468b998429d67537ddc292ea86303f9db1c]|RELEASE:[none|none]
 Seeed-Studio/GPRS_SIM900: BRANCHES:[master:4e57e654735c6fe54fefe623854e99dc771fe96f]|RELEASE:[1.0.3|02bc7ab49a75fc028abf9bc2aeeba4e65e9849b6]
 Seeed-Studio/GPRS_Shield_Suli: BRANCHES:[master:4cd309b1bbe9ab179172b8aa54511abf4bcd52e8]|RELEASE:[none|none]
+Seeed-Studio/Gardening_demo_Arduino: BRANCHES:[master:b25b3ae272ad757bf453f7e7c23063f6e3d4707b]|RELEASE:[none|none]
 Seeed-Studio/Gateway-MeshBee: BRANCHES:[master:62eeb13957af100e66bca1663a7afec659c3393b]|RELEASE:[none|none]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Gesture_Recognition: BRANCHES:[master:af78813e8d87d574e9689453dbbd3491bba0a14c]|RELEASE:[none|none]
