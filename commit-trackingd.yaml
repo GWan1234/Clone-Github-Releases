@@ -913,6 +913,7 @@ Seeed-Studio/mbed_ble: BRANCHES:[master:a1c565695018add27ce1210273b86e1692d5acce
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
 Seeed-Studio/nrf51_dfu_bootloader: BRANCHES:[master:ce0123644578bc0c99596f841f2a917a705a8d1c]|RELEASE:[v0.1|43deb420fc0d275047841c76fd6586714ddab181]
 Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5]|RELEASE:[none|none]
+Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095]|RELEASE:[none|none]
