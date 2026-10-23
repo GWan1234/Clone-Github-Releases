@@ -1046,6 +1046,7 @@ Seeed-Studio/Seeed_Wio_GPS_Board: BRANCHES:[master:33c2f46235bf58b4b8ead978894a1
 Seeed-Studio/Seeed_Wio_WM1110_Dev_Board: BRANCHES:[master:e34742993932c97731f513ffa3028d284b163d31]|RELEASE:[none|none]
 Seeed-Studio/Seeeduino_GPRS: BRANCHES:[master:dd5abd935a62632960749e9027fa4e53c0a9b117]|RELEASE:[1.0.0|3c000337f555914f30c0945f4c84f061d0f95882]
 Seeed-Studio/Seeeduino_lotus_Usage: BRANCHES:[master:6b2606dc33f2a50bf1404ef65a2502c5ac03534c]|RELEASE:[none|none]
+Seeed-Studio/SenseCraft-AI: BRANCHES:[main:dfa4ad2986b7c8781a84c0d31c7773c125e2203e]|RELEASE:[none|none]
 Seeed-Studio/SenseCraft-AI_Client: BRANCHES:[main:7dbeacebe802d4212210fb5e6a6a7781cc4aa165]|RELEASE:[none|none]
 Seeed-Studio/SenseCraft-AI_Server: BRANCHES:[multi-stream:58398876a608f41f5ebc53dd7b7852967d8c28d8;jetson:9b994907b6b5d8725022889e0ffb8165ce8aba5c;main:0562e6c91b572989385aab3b88dfcf9472078201]|RELEASE:[none|none]
 Seeed-Studio/SenseCraft-Web-Toolkit: BRANCHES:[main:7edd8f3fdcd7cf1327c6fdfa044fb8e24e38b473;fix/test-question:7d4b7ec133427c848c2190dfbc95502ece411bfa;feat/interaction-optimization:900a96bd63b3915800235281b85e21a0a82fb7da;feat/to-flash:7e0fd73c31170b929e8afcffa6ae270da0084567;feat/merge-two-devices:7b36492fdda9db443b6cad242195928abdd37c9b;feat/support-himax:d2ae3e63abae1d7f96313006d20a34accf6f4e9f;v2.0.0.bak:e583b6ec691a6cd5d6e170a3314993cc47cfd4ac;backup:172e3e16faca81126a0226a7c132c0f626c43c80;v1.0.0:cf2d1a5de19ddbe8e7ffe61f9dc0c9b21f3a612e]|RELEASE:[1.0.0|0b297f90747bcfd011a3e49d93b21e0e977f8cce]
