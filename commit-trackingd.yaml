@@ -2072,7 +2072,7 @@ sparkfun/Qwiic_Template_Py: BRANCHES:[refactor/new_style:9c10bb8742eead36627e86c
 sparkfun/Qwiic_Thermocouple_Amplifer: BRANCHES:[master:17363932880175787ef9ed4d1c1540a5647180c7]|RELEASE:[none|none]
 sparkfun/Qwiic_Transparent_Graphical_OLED: BRANCHES:[master:bd3d83e027a54ab27c442cdbed2abbb434173052]|RELEASE:[none|none]
 sparkfun/Qwiic_Transparent_OLED_HUD: BRANCHES:[master:a7a6ec8931fb1f958dfa0b2ff5fa88ad5ff9b6e7]|RELEASE:[none|none]
-sparkfun/Qwiic_Twist: BRANCHES:[master:f9bbde3fad9b549a7cbdb31b192a003f8ffae182]|RELEASE:[none|none]
+sparkfun/Qwiic_Twist: BRANCHES:[master:f9bbde3fad9b549a7cbdb31b192a003f8ffae182]|RELEASE:[v1.1|539b84d2812506dc7f47034069b4e6450392da66]
 sparkfun/Qwiic_Ublox_Gps_Py: BRANCHES:[master:bab7abe93c5a1f1904f761e87ee276d1ab9a153f;update_lib_v1.2.0:d7c054520982bf3571359157ed916d2ff1cc8eb3]|RELEASE:[v1.1.4_test|bab7abe93c5a1f1904f761e87ee276d1ab9a153f]
 sparkfun/RFID_Evaluation_Shield: BRANCHES:[master:bae57f1f46f0460cfc828843517f1dc8d5996405]|RELEASE:[V_1.4|f167f662a94bcf88d410205e1a95908bd3df5227]
 sparkfun/RFID_Reader_Breakout: BRANCHES:[master:9db9110ae20f114ab58c5dd117d58dd7b789db52]|RELEASE:[none|none]
