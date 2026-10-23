@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 12:18
+commit-tracking: 2026-10-23 12:21
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -915,6 +915,7 @@ Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af7570126185
 Seeed-Studio/OPL_Eagle_Library: BRANCHES:[master:d5d4077ea35402396e7a7a46bdabee996a3add0a]|RELEASE:[none|none]
 Seeed-Studio/OPL_Kicad_Library: BRANCHES:[master:b0035c51eb0348bb3e165fdb2f2765fa3d1d17bd]|RELEASE:[none|none]
 Seeed-Studio/OSHW-WioTerminal: BRANCHES:[main:c9192a3c7aeb40c7d3c09e5397f0a531f2847d0c]|RELEASE:[none|none]
+Seeed-Studio/OSHW-XIAO-Series: BRANCHES:[main:511c107d309dc40698a324cb1170db09b3490210;codex/localize-submission-categories:5a33274271a53b809f07d4e97ad7d9f971cc894d;project-submissions/063991d3c7b4ce81330673a1:947b61a4a219032c6e4885dcf866f8aaa4041b18;project-submissions/aedf255e5a7bf40b4b04fcf8:6dfafcfd95c7aa6a6b03202f4c0bda6866db6ee1;project-submissions/6d951fd0ba34d94ba680ea51:65f484d31f2d73bc71cf5bdb14c7bd4ce9205519;project-submissions/5efd30ba99233382066b3b7b:e9683ee22ef03227765b72184b8fb5267dbaa63b;project-submissions/d671cc3d9f15fb07e5e4f0ef:a800068e4a149ad335819c80450e2763121f7752;project-submissions/1dc4e0ff10bfaa4f36ad7453:e04207530a13fd3022cbc22940f8ddea2e3a3d65;project-submissions/f8cfd359508f0a1b6ad5decf:c9b271df2ccdbae783cb284d11a8de5074bf7c4a;project-submissions/dca73dd879be0d6370c25bf5:aaf37f4074e8c483733f5eeb5aa2d269e0b29f89]|RELEASE:[none|none]
 Seeed-Studio/PIR_Motion_Sensor: BRANCHES:[master:95a8137f258d5dcf335bcddd96b02f8e561bf126]|RELEASE:[none|none]
 Seeed-Studio/PN532: BRANCHES:[arduino:e61296876c1c3e66ef67156562c71324b389f5fa;master:88c358ca389665dcc661ff2f31fa83bf031b0e0d;mbed:8d17d6ab3ee7ee081126581e77e0e6114f298941]|RELEASE:[v1.1.0|e44820e4ecbffbae00419b404b655fd269582741]
 Seeed-Studio/RFBee: BRANCHES:[master:f631640e363a71198419a5e3555492829a9cae4c]|RELEASE:[1.0.0|cf83f5df8b94e3c905ee3553435a0e1d660e63af]
