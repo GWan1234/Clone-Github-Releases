@@ -942,6 +942,7 @@ Seeed-Studio/Seeed_ICM20600_AK09918: BRANCHES:[master:8aed079a70cf3fc4032588a85b
 Seeed-Studio/Seeed_LDC1612: BRANCHES:[master:34a10004e1cd95a762e6f56b201fe3c0dccc6eea]|RELEASE:[v1.0.0|c27e92b4bba050be60ab774f8179c4661223ddef]
 Seeed-Studio/Seeed_LED_Ring: BRANCHES:[master:259aa5ff17a8019f9a95586f35d7d042205abf51]|RELEASE:[none|none]
 Seeed-Studio/Seeed_LTC2941: BRANCHES:[master:5a1a1d98ad67f09f6ce0e1586fa3698f0243cfa6]|RELEASE:[v1.0.0|bc578c0fcf7b416869c4bc6f61a1cc645de5460d]
+Seeed-Studio/Seeed_Learning_Space: BRANCHES:[master:daf50128d36ac77410ab6277d05ffabba938740e;add-license-1:d5213e20d37542c5d2ddac0624ab315401f8d1a2]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Led_Strip: BRANCHES:[master:ed458cf9a1ecd5bb2dc3ef1763b326a93503ad6b]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Linux_Elink: BRANCHES:[master:f72658c5cfc6892ac852d5bd5aaa339cdb257a7b]|RELEASE:[1.0.0|be7d5bcf30da36b7fcdf1aa8e7662cdbfe89d32d]
 Seeed-Studio/Seeed_Linux_mgc3x30: BRANCHES:[master:cd568da32defcdfaf369ac0eb45cf2da1f7314b8]|RELEASE:[1.0.0|e5e14497fc3007323eb7bba3646a44ec1dab6708]
