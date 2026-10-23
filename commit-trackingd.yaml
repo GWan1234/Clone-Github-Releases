@@ -767,6 +767,7 @@ Seeed-Studio/OLED_Display_128X64: BRANCHES:[master:59bbbfb50107683b2ee82d1141e70
 Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af75701261857783031f38]|RELEASE:[v1.0.0|d6a44b3b80ec9e299d79fab82d2a23f8f39d0253]
 Seeed-Studio/PIR_Motion_Sensor: BRANCHES:[master:95a8137f258d5dcf335bcddd96b02f8e561bf126]|RELEASE:[none|none]
 Seeed-Studio/RTC_DS1307: BRANCHES:[master:084446186849a33631dba21d4e94fa5d3ee77e77]|RELEASE:[1.0.0|322bc35336de2e2aaab61578310abe90df59e09d]
+Seeed-Studio/Rainbowduino_Snake_Game: BRANCHES:[master:b69bdc8f9dab96db2ad28226921f159f8a85c7ff;gh-pages:ad72c3293847e2d326cc50ff9d18671032264a55]|RELEASE:[none|none]
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
