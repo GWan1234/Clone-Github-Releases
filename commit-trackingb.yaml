@@ -2711,7 +2711,7 @@ atc1441/smart-watch-socs: BRANCHES:[master:2913c65fa94d47dadc098e324408fd88634a3
 atc1441/walv: BRANCHES:[master:01a1f51d76ae94ac584ebc924dc65f937a2fac2c;vue:a96b92b4010931cc0cff12b928bfcfc08bb064fb;bootstrap:68912be7edd63c4e410407d4dac66ec045a7120d;dev:588a06823ae9f26af56ec49d598e904811929d7d]|RELEASE:[none|none]
 azukaar/Cosmos-Server: BRANCHES:[unstable:27f7f447059d06696fcec2635418dc78731c0287;master:69c53038287c6a15c53ddcab74ea20ef8b79ad90;docs/contribute-dev-setup:87b31fa17627f9744b4d32b063fb612c34e396c0;park/ferret:d1c53d2cf41c187742133593f919d219f0f027f5;park/lungo:a14c540cef4e0218cf980597026fc00f4c18f9c6;wip/docker-compose-integration:920cb6e2db206cb2e4195416ee7853410fca009b]|RELEASE:[v0.23.4|69c53038287c6a15c53ddcab74ea20ef8b79ad90]
 bitbank2/RemoteDisplay: BRANCHES:[master:8b6d49e75ef66ed4e3e227d668d0f7a8451aae63]|RELEASE:[none|none]
-chen08209/Clash.Meta: BRANCHES:[FlClash:86e56192ddd815e2094212531c48a364eb35659d;main:008b91bfe8c0e2daca0ab69061efd9ea1ad71bd2]|RELEASE:[none|none]
+chen08209/Clash.Meta: BRANCHES:[FlClash:c5062921054902b25215a6a933e72ccd714c9bfa;main:008b91bfe8c0e2daca0ab69061efd9ea1ad71bd2]|RELEASE:[none|none]
 chen08209/FlClash: BRANCHES:[dev:7220961f7c5e494df831ca196ab53ef08a17e926;main:8d4f9744948751f1273fe871e1d05276fac09b0e]|RELEASE:[v0.9.1|8d4f9744948751f1273fe871e1d05276fac09b0e]
 chen08209/FlClash-fdroid-repo: BRANCHES:[gh-pages:ea5465eb514dc2b6cd7e46ff49b35cc48a8b1910;main:a10da534427ae092d7998e886600fc43ef8fae8a]|RELEASE:[none|none]
 chen08209/code_forge: BRANCHES:[main:0556586fa13d8c182ca49a96afa5143df276a2ec]|RELEASE:[none|none]
