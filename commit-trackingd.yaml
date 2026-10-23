@@ -746,6 +746,7 @@ Seeed-Studio/Demo_Groot: BRANCHES:[master:fa6f6573e2e774225222527d69cd046e703a17
 Seeed-Studio/Digital_Compass_Suli: BRANCHES:[master:89724b4126d4d0c07653df3dcedfddeabef1b64a]|RELEASE:[none|none]
 Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615: BRANCHES:[master:c18da10a9fd35353db6a3dbd41802642adeeacca]|RELEASE:[v1.0.0|1ae3f080d541e632056e743808a215026a8cffcc]
 Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776dc893]|RELEASE:[none|none]
+Seeed-Studio/Edison_WiFi_Car: BRANCHES:[master:5fb36b3d9eb4006a0b0fa4d9491abc86a0c903aa]|RELEASE:[v0.2|df52c857e674da131a3e1d7dadcf283c40940648]
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
 Seeed-Studio/Files_For_Seeed_Main_Board: BRANCHES:[master:7d22396b7303f388a6277faac140d634890af0f9]|RELEASE:[none|none]
 Seeed-Studio/Four_Digit_Display_Suli: BRANCHES:[master:edfc53122844f9c84fdfd6dac9283462035a9369]|RELEASE:[none|none]
