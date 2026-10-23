@@ -980,6 +980,7 @@ Seeed-Studio/Xadow_Watch_Recipe: BRANCHES:[master:fc3b63231af233ec75efc030530faa
 Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1]|RELEASE:[none|none]
 Seeed-Studio/beaglebone-getting-started: BRANCHES:[BBGW:198402eb50fba9cc6489f2689ec85315641c3d06;BBG:a1a54a0e978e4d8298895801746e2bb7248a6071;master:267ccde4d2f35b3fb5fd5f2f36750cf2867fd0cc;a3:594f61883c53754520efedc6ba33d9bc487d77ce;windows-ftdi-feedback:790d0a1ad3ae528e0e20650cacc8c98aa95df2bf]|RELEASE:[none|none]
 Seeed-Studio/fritzing_parts: BRANCHES:[master:aec4c5d84a93a3ecac34c1e2fb5de92975d1ddcc]|RELEASE:[none|none]
+Seeed-Studio/grove-linux-driver: BRANCHES:[master:4277564188ca965beb0c2e4b51c352fae77e3dd0;dev:9bae4c9c15cf44035ef43968e15d8141d20571dc]|RELEASE:[none|none]
 Seeed-Studio/grove-zero-scratch-helperAPP: BRANCHES:[master:35f4c85006ce58000e7726a599cd3d6b43f6b110]|RELEASE:[none|none]
 Seeed-Studio/grove.py: BRANCHES:[master:15505cb15014a19c30a02ddbef239eaa0a784ee3;gh-pages:700aa41e61cca23001e1b9c3fcc4d5c7061e3916;delete-mraa:3de678678b06031b5d4aa25df1d207625c71f38b;beta:f4a1d6c9803a6d1b05b68a6bc376583c6a69a6cf;grove.py-compatibility-feature:a338e06bfec476e057894d9b8dbee8a0bdcb5bc8]|RELEASE:[none|none]
 Seeed-Studio/mbed_ble: BRANCHES:[master:a1c565695018add27ce1210273b86e1692d5acce;softdevice_v6:17aaed0d92ee239bdd1fff09c6a0860ccf7d3a36]|RELEASE:[none|none]
