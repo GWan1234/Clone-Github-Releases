@@ -744,6 +744,7 @@ Seeed-Studio/Digital_Compass_Suli: BRANCHES:[master:89724b4126d4d0c07653df3dcedf
 Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615: BRANCHES:[master:c18da10a9fd35353db6a3dbd41802642adeeacca]|RELEASE:[v1.0.0|1ae3f080d541e632056e743808a215026a8cffcc]
 Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776dc893]|RELEASE:[none|none]
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
+Seeed-Studio/Files_For_Seeed_Main_Board: BRANCHES:[master:7d22396b7303f388a6277faac140d634890af0f9]|RELEASE:[none|none]
 Seeed-Studio/Four_Digit_Display_Suli: BRANCHES:[master:edfc53122844f9c84fdfd6dac9283462035a9369]|RELEASE:[none|none]
 Seeed-Studio/GPRSBee_Suli: BRANCHES:[master:36b0549395286945506db49301191e975cccb479]|RELEASE:[none|none]
 Seeed-Studio/GPRSInterface: BRANCHES:[master:364c4468b998429d67537ddc292ea86303f9db1c]|RELEASE:[none|none]
