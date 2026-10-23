@@ -847,6 +847,7 @@ Seeed-Studio/TFT_Touch_Shield_V1: BRANCHES:[master:3286b8d1bd344510200ed04c8563c
 Seeed-Studio/TFT_Touch_Shield_V2: BRANCHES:[master:a98b7c596fba13cc0547d8d4e3a21e22d7ffba2e]|RELEASE:[v2.0.3|2db79befb696fa69cddab4515e5ce4539d672702]
 Seeed-Studio/Temp_Hmi_Suli: BRANCHES:[master:b07ab2c7783bdde4bc88d6fbb125dbb4eea69327]|RELEASE:[none|none]
 Seeed-Studio/Temperature_Suli: BRANCHES:[master:dda836bc12847667afcb2eaa9878bfcb7af3eba3]|RELEASE:[none|none]
+Seeed-Studio/Tiny_BLE: BRANCHES:[master:a0c4545ae6ca579d31eb2ea71257fb10c6b5e072]|RELEASE:[none|none]
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08]|RELEASE:[none|none]
 Seeed-Studio/Touch_Screen_Driver: BRANCHES:[master:df4bd6e974dc84a1c16f532ba179cb0231e52007]|RELEASE:[1.0.0|380088b5b770233c8e7d0f61c6098a9295e03806]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
