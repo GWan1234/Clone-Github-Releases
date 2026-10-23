@@ -2418,7 +2418,7 @@ sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library: BRANCHES:[master:fd56adb42
 sparkfun/SparkFun_MPL3115A2_Particle_Library: BRANCHES:[master:4675e7b0e59d2cfe16f23d8dac479e7bda842058]|RELEASE:[none|none]
 sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library: BRANCHES:[master:f46b97c4dff33c83eebc775a7fce5b70df071984]|RELEASE:[none|none]
 sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library: BRANCHES:[master:ea379ce8c930ef90f4ebc37799544d68108e3126]|RELEASE:[v1.0.2|ea379ce8c930ef90f4ebc37799544d68108e3126]
-sparkfun/SparkFun_MS5637_Arduino_Library: BRANCHES:[main:4db0334c3004a34ff143aac73292ab6db33a1a08]|RELEASE:[none|none]
+sparkfun/SparkFun_MS5637_Arduino_Library: BRANCHES:[main:4db0334c3004a34ff143aac73292ab6db33a1a08]|RELEASE:[v1.0.2|4db0334c3004a34ff143aac73292ab6db33a1a08]
 sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library: BRANCHES:[main:c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0;testing:63f4fd699484deeaa91fb70ed3d26d9970c6d8b9]|RELEASE:[v1.1.4|c1b7b1a12d377c450e5dbff47a3d4210fce4e1c0]
 sparkfun/SparkFun_MY1690_MP3_Decoder_Arduino_Library: BRANCHES:[main:1b94a177c21faab3d0036e083f3c8dbb1d595c48;Example4_QwiicTwist:779361328c6cf94361a64d3070eee8daa349d0ca;release/v1.0.0:8d144f3e5886126fa06b35258207d344f08a1861;develop:a83b1871fbe2c87ef506949f2c4f23851cefcb72;pinchanges:c63095220c421fbd99799621303c27d6d778af19]|RELEASE:[v1.0.1|1b94a177c21faab3d0036e083f3c8dbb1d595c48]
 sparkfun/SparkFun_Magnetic_Imaging_Tile: BRANCHES:[gh-pages:23e86e1a5348549d83d6e46ffebb1857ac33e3c0;main:68fdbfbe34912c31871314c636e9bb3f5ee6eb61]|RELEASE:[none|none]
