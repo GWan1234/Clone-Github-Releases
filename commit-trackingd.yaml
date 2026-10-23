@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:46
+commit-tracking: 2026-10-23 10:47
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -905,6 +905,7 @@ Seeed-Studio/SD: BRANCHES:[master:10464b7fe64291dcf6e89ff623e4d80f31a203a4]|RELE
 Seeed-Studio/SGL: BRANCHES:[master:41f6cbc3e253f720a1885dd50ce58c02f6e2c407]|RELEASE:[none|none]
 Seeed-Studio/SeeedMotorShieldV2: BRANCHES:[master:e1a106360fd59c85f56f2f0d9599a309cbb287a3]|RELEASE:[1.0.1|fce2953d6809d9250a3d2d54010f589203437054]
 Seeed-Studio/Seeed_ACS70331: BRANCHES:[master:3a7cf31098c35a19cbb0189501117ae2a4ef3092]|RELEASE:[none|none]
+Seeed-Studio/Seeed_ADIS16470: BRANCHES:[master:24125236016eef638ebc6696e47a42013182f204]|RELEASE:[v1.0.0|876954652c27df12c084a25ed35207e9fe5a45bc]
 Seeed-Studio/Seeed_ADXL357B: BRANCHES:[master:20d2a3201399a696c78c6cd8e7012c7064dac0a2]|RELEASE:[none|none]
 Seeed-Studio/Seeed_AMG8833: BRANCHES:[master:cdd14d6a83d5b9dfb3445239ded2c43f9df7f2d2;lcd:461eac1d5e4e8a588c7516a57567abff773c30af]|RELEASE:[none|none]
 Seeed-Studio/Seeed_AMG8833_Raspberry_Python: BRANCHES:[master:249fd64e07712b7300de459bfc3afedf2d074c6a]|RELEASE:[none|none]
