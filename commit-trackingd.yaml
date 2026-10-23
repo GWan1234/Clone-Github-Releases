@@ -951,6 +951,7 @@ Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1c
 Seeed-Studio/Seeed_Arduino_Sketchbook: BRANCHES:[master:4f39ac4578267b5eeb1b6093f38b4efd02128c83;web-bluetooth:a322eaf1f51e9f19f55caf9c2faf6b7c8c87c593]|RELEASE:[v1.0.2|e8473f9434ac08fecbf5efd668690da15757904a]
 Seeed-Studio/Seeed_Arduino_TFlidar: BRANCHES:[master:438ebb357941dd5fc862d31f333c64f6072c52d6]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_Terminal: BRANCHES:[master:7a8f9db62dc733f11430a42182c9db7436cb9bdc]|RELEASE:[v1.0.0|bc593d63ebab20f04781e5b426af7b6bd49b8a54]
+Seeed-Studio/Seeed_Arduino_USBDISP: BRANCHES:[master:f13ab007afb3d0a9872d2fddb8be6eab6f427825;add-license-1-1:50160b39045994234ec74f65d6280ea0231e763c;add-license-1:e2118f92b78698d2859338f26cd65cabb09cfaef]|RELEASE:[v1.0.0|e057665b6dd9a8ffddd77fd92109b98a75ef838c]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
 Seeed-Studio/Seeed_Arduino_W600: BRANCHES:[master:c5dbfad420d6575348416eec6ab069d1892ce83e]|RELEASE:[v1.1|16859211f0f79b5c586cce16a6118d12173ea17b]
