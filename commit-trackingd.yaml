@@ -2602,7 +2602,7 @@ sparkfun/SparkFun_STHS34PF80_Arduino_Library: BRANCHES:[main:551587b0452ee1ee744
 sparkfun/SparkFun_STM32CubeCLT: BRANCHES:[main:7548c21494412e63b8283270b8831d7ff34fcc09]|RELEASE:[none|none]
 sparkfun/SparkFun_STP3593LF_OCXO_Arduino_Library: BRANCHES:[main:6c6b8925408b4fed84785261ecd7d22ec692b8b1;develop:a2941aec16303fbf08a66962ebe9040f0a72f49f;feature/sf-toolkit-v1:4ecc7a4973d3e13653a26364943b3ea757f86f3e]|RELEASE:[v1.0.2|6c6b8925408b4fed84785261ecd7d22ec692b8b1]
 sparkfun/SparkFun_STTS22H_Arduino_Library: BRANCHES:[refactor/toolkit:5ddc2e280292ba6fd1335d29792686f8af663070;main:9d66d9a3ada9278620e89b6e70b1afae03f23218]|RELEASE:[v1.0.1|ce320c9d08904e5ccd61b76b46c0ec4be38ee6ef]
-sparkfun/SparkFun_STUSB4500_Arduino_Library: BRANCHES:[master:7f76188b7900d930aeb7908319d463b6446257c6]|RELEASE:[none|none]
+sparkfun/SparkFun_STUSB4500_Arduino_Library: BRANCHES:[master:7f76188b7900d930aeb7908319d463b6446257c6]|RELEASE:[V1.1.5|7f76188b7900d930aeb7908319d463b6446257c6]
 sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a0226990979aaed408f587db4]|RELEASE:[v3.0.6|523e4fe8c4c9671a0226990979aaed408f587db4]
 sparkfun/SparkFun_Satellite_Transceiver-Swarm_M138: BRANCHES:[main:89fb89156547127c3dc262fd7d005e53817f617a]|RELEASE:[none|none]
 sparkfun/SparkFun_SerLCD_Arduino_Library: BRANCHES:[master:4b1fd6b97f1f21731f4e319442b34356bade2bbb]|RELEASE:[v1.0.9|82d697f737706c84013260b6d99730c5851b4908]
