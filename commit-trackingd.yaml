@@ -726,6 +726,7 @@ Seeed-Studio/AWS_Arduino_SDK: BRANCHES:[master:b4eef4abb7f59a1b74945354fa87c6a68
 Seeed-Studio/AWS_SDK_for_BBG: BRANCHES:[master:53a470c1b5d8313f6d1a04b8fba50af307b585fc]|RELEASE:[none|none]
 Seeed-Studio/Accelerometer_ADXL335: BRANCHES:[master:3b4a9b141bbf3595b70288e5deaee5c4c30868c8]|RELEASE:[v1.0.1|aa6614a52c7c0054c176378b362224709931c628]
 Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822f546a1cedd7c1]|RELEASE:[v1.0.0|147ec8d9eb83bd22bbf87d81ff5b9dfab44daf05]
+Seeed-Studio/Accelerometer_ADXL372: BRANCHES:[master:3e012530040a60433431a83b71f40a9ca20fb42c]|RELEASE:[none|none]
 Seeed-Studio/Accelerometer_H3LIS331DL: BRANCHES:[master:208d907c2b3cec4ae5eeba7512c30ac1001aa9a0]|RELEASE:[v1.0.2|e82722710d2f90a7e41d01c5333632ae60c8079d]
 Seeed-Studio/Accelerometer_MMA7660: BRANCHES:[master:173f0fc5612777ca62fd7f37283b72fcc46a049f]|RELEASE:[v1.0.0|d7dd72fceccda1ca582a77726e9354dd9d4562de]
 Seeed-Studio/Adafruit-Fingerprint-Sensor-Library: BRANCHES:[master:a57bbf2e521ad685ae3530ffc0327a9157155ce1]|RELEASE:[none|none]
