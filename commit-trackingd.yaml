@@ -774,6 +774,7 @@ Seeed-Studio/Grove_IR_Distance_Sensor: BRANCHES:[master:a718128b5d549927a40b877e
 Seeed-Studio/Grove_Infrared_Temperature_Sensor: BRANCHES:[master:f81cebb69ed20c8ba2c7c74df902584269bd37dd]|RELEASE:[none|none]
 Seeed-Studio/Grove_LCD_RGB_Backlight: BRANCHES:[master:dbd5674f5d0f8453595484711a144f16248c2d1c]|RELEASE:[1.0.1|5e480ddee359dab326ba756b829002025bc1e278]
 Seeed-Studio/Grove_LED_Bar: BRANCHES:[master:4c7f5c48aafb18f7a0a18902a7714f245f3564f6;make-better:2935875f93492b92b1a2df4e2fe4a0f2715d0fd1;fix-all:786511c0b100e53744b15ce6d65f03ce4904f8fa]|RELEASE:[1.0.1|879bbaf60e119540231fea4d18aecaac09dddf4b]
+Seeed-Studio/Grove_Robot: BRANCHES:[master:8ce4cafcfe4d4c87b5bf4f16df92f4effb1f346f]|RELEASE:[none|none]
 Seeed-Studio/Grove_Serial_Camera_Kit: BRANCHES:[master:cc91b82c5ffd6c599da58170ee9427984f31fcfb]|RELEASE:[none|none]
 Seeed-Studio/Grove_Single_Axis_Analog_Gyro: BRANCHES:[master:91f44d98fef7a3ce5b13fcd529f90632b1bef429]|RELEASE:[none|none]
 Seeed-Studio/Grove_Starter_Kit_for_mbed: BRANCHES:[master:f052242885c868fa6a2b5675b85b476099cbd585]|RELEASE:[none|none]
