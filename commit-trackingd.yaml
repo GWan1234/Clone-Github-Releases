@@ -734,6 +734,7 @@ Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
+Seeed-Studio/Grove_4Digital_Display: BRANCHES:[master:909294b7423787a5dc520e0e4bd688d000f95977]|RELEASE:[v2.0.0|3bcfc25f52fad18bc7223a711cacbd38b8436208]
 Seeed-Studio/Grove_Air_quality_Sensor: BRANCHES:[master:be207e017b5ad89647a8cf991b70b0f1e5a5d96e]|RELEASE:[v1.0.2|078384ffdcf855a2d0840e5368a66b9c01249f18]
 Seeed-Studio/Grove_Alcohol_Sensor: BRANCHES:[master:dcc8fcc75adab8fa5f802a759cffe7cf6410c55b]|RELEASE:[none|none]
 Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167da0ed1295267726]|RELEASE:[v2.1.0|a4de7d924791c41572a3f7d4ff500943a1e1d62f]
