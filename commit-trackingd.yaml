@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 08:39
+commit-tracking: 2026-10-23 08:40
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -2609,7 +2609,7 @@ sparkfun/SparkFun_SerLCD_Arduino_Library: BRANCHES:[master:4b1fd6b97f1f21731f4e3
 sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library: BRANCHES:[master:2fc3acb208b8530e489be425e19da2c347c77662]|RELEASE:[none|none]
 sparkfun/SparkFun_Serial_Graphic_LCD_Particle_Library: BRANCHES:[master:b7be4abded92a76fa55d5f860f45b6737cd68384]|RELEASE:[none|none]
 sparkfun/SparkFun_Serial_MP3_Player_Shield-MY1690X: BRANCHES:[gh-pages:4f8bb992a518936856fd7606732df199a42c41de;main:07ee9a7c96ce67d4a7f7b3508b7c5f626591dfe0]|RELEASE:[none|none]
-sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d5d7283dc99060ae606d]|RELEASE:[none|none]
+sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d5d7283dc99060ae606d]|RELEASE:[V_1.3.0|596d9c042aff8debcebaf86cf1414bf35ef9fd44]
 sparkfun/SparkFun_Si7021_Arduino_Library: BRANCHES:[main:cf83c35c759dfac6c8471cf5bd77f7e515929960;Cleanup23:55aae1c6e7cab4765f56a27165f6b85e5f07956b]|RELEASE:[v2.0.0|cf83c35c759dfac6c8471cf5bd77f7e515929960]
 sparkfun/SparkFun_SiT5358_DCTCXO_Arduino_Library: BRANCHES:[feature/sf-toolkit-v1:a99a27f4e0a896eb833bf1c2c6b700dc80a9ff9b;main:4419bea258c1277ba21b1573281e6f285eb25c77;develop:9cc669982f153311a84ea1a789575123fe294d02]|RELEASE:[v1.0.1|4419bea258c1277ba21b1573281e6f285eb25c77]
 sparkfun/SparkFun_SiT5811_OCXO_Arduino_Library: BRANCHES:[main:a514a636f99b73d3c29eb849c8a550f6d5ad863b;feature/sf-toolkit-v1:50fe72d25a2519c5371c9e8ec4fbb3ea1ba1160d;develop:b520ad0007f355235f91ec88ad2f77ce7c649958]|RELEASE:[v1.0.1|a514a636f99b73d3c29eb849c8a550f6d5ad863b]
