@@ -835,6 +835,7 @@ Seeed-Studio/Grove_Temperature_And_Humidity_Sensor: BRANCHES:[master:826ce8f2593
 Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a006725f1b78fdae2fc49]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ultrasonic_Ranger_Suli: BRANCHES:[master:abdee250d745ef71277c7686dfee436bfcc24853]|RELEASE:[none|none]
 Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f973031831b9ea6e18]|RELEASE:[1.0.0|6bd34b830f2f1de1a69fa0d22592da5222956aae]
+Seeed-Studio/Grove_detect_sensor_GP2Y0D805Z0F: BRANCHES:[master:a989d5f40373d20f148b245b790fa60f4f62d472]|RELEASE:[none|none]
 Seeed-Studio/HDC1000: BRANCHES:[master:bf52fadb7c8b9691abf415fc341122352cdaab73;HDC1000_energia:85858ab8fadb196b3722ff1cdf6ed365c0d11f93;HDC1000_arduino:453c6b516d7a5801ca8a665824e3682e8bdde2b3]|RELEASE:[1.0.0|8436a44ca6bb35d1c7911bec723557907dee76f4]
 Seeed-Studio/HM_01_SW: BRANCHES:[master:630a38206df233ef7f0e0bb4eec2c64581ec68d7]|RELEASE:[none|none]
 Seeed-Studio/HM_13_SW: BRANCHES:[master:f4d9c8ab8f1404870051ebb2b29a1b9fee61db68]|RELEASE:[none|none]
