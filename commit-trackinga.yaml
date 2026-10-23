@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 05:09
+commit-tracking: 2026-10-23 05:11
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1834,7 +1834,7 @@ naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:c15760c70b7ceeb85fd
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
 naoki66/MoonTV: BRANCHES:[master:702008e7970a749da539f13c24d63cc8524b6da7;main:791de3bd997d371215a4c2ffcafc22702268ec5d]|RELEASE:[none|none]
 naoki66/OmniBox-Spider: BRANCHES:[main:4491c18eb3f2fb4e0b3d2f7218452afd442e9f92]|RELEASE:[none|none]
-naoki66/OpenWrt_ONU_CONFIG: BRANCHES:[main:8da79d221cbd15ac4d02f8d19c609d6520bbee41]|RELEASE:[none|none]
+naoki66/OpenWrt_ONU_CONFIG: BRANCHES:[main:3cb13560459f1d51136dac662baa1f399028b2b4]|RELEASE:[none|none]
 naoki66/ProxmoxVE-7.3-DIY: BRANCHES:[master:81c19ea3384da1bd603b41b16329b86b8a854313]|RELEASE:[none|none]
 naoki66/RRR: BRANCHES:[main:aef6ab74da5e79795ff2e3faf30c3af19b543ad5]|RELEASE:[none|none]
 naoki66/Surveillance-Station-9: BRANCHES:[main:735f3ddf143dc06b0f077cb6d839514e122b33d9]|RELEASE:[none|none]
@@ -1874,7 +1874,7 @@ naoki66/rr-modules: BRANCHES:[main:3ea9e3c4953fb87eb2582a2f8825b8767980d566]|REL
 naoki66/sub-web-modify: BRANCHES:[master:7e00b7e8467ad65549d144ddf412521ffbf480fe]|RELEASE:[none|none]
 naoki66/syno-acme: BRANCHES:[main:5712f81dd85da9c2a953609a0c72df8fdece4dc8;master:186137f21ce82cc2fea9b4e06c3767044910c62c]|RELEASE:[none|none]
 naoki66/u-boot-for-brightspeed-gemtek: BRANCHES:[agent/mtd0-prefix-must-be-vendor:1c1f1bbe18a6b1d09c82109914e0749910122ed9;agent/atf-mbedtls-restore-sha256:10f3057d0ca8ea69f3649be1ac17cfd9bbbe36ef;agent/atf-cert-hash-alg-sha512:28d97fae0c8cabdaec1497d36f18de0b3eb53d08;main:b94a9d4e46b2b258caf7ec914b39982f5499edaa;test:dfd3389d17a49b90c660b48b25b3d90f6395bf03]|RELEASE:[none|none]
-naoki66/uboot-an758x: BRANCHES:[main:3b13c67b83c942a2271d82ad42282094d9aed0d5]|RELEASE:[v2026.10-2|28d5bca164c76255049567a477d8e5d6a720c846]
+naoki66/uboot-an758x: BRANCHES:[main:a4bdf508863eaeb39cfee9b8e2273a03170de409]|RELEASE:[v2026.10-2|28d5bca164c76255049567a477d8e5d6a720c846]
 naoki66/vohive: BRANCHES:[main:f240894e763cf7f0cf74c88562bb9b55f0d573b1]|RELEASE:[none|none]
 naoki66/vohive2: BRANCHES:[main:0965af3d3c59bf51ef09ebd7edcafc06f516321f]|RELEASE:[none|none]
 naoki66/vowifi_gateway: BRANCHES:[main:e3719840b93961f933aab3dac8bd2641936e2bcc;codex/pr5-non-auth:09e91e672c7193642ec4755e3ea126ed573ff8d5]|RELEASE:[none|none]
