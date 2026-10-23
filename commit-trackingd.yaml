@@ -1073,6 +1073,7 @@ Seeed-Studio/seeed-ardupy-mlx9064x: BRANCHES:[master:846f24651b6b0aa8762d906a917
 Seeed-Studio/seeed-ardupy-mma7660: BRANCHES:[master:a3bad4848d5e77ef33290bf6e0fcdbcaf9800413]|RELEASE:[v1.0|363359812481e7c1745b6630182fe57209681c63]
 Seeed-Studio/seeed-ardupy-my9221: BRANCHES:[master:951964d212a23fcccde7718f16caf09836a3f758]|RELEASE:[v1.0|608c3b38561d1d1602bd23866c616bab447cd822]
 Seeed-Studio/seeed-ardupy-p9813: BRANCHES:[master:d978ad377e2b39d7f9c0ed9dd3b4498b138e5be5]|RELEASE:[v1.0|ce71f2f96fcaca8b18f3012b1ef2a04c2bfc77ae]
+Seeed-Studio/seeed-ardupy-scd30: BRANCHES:[master:22e8230a80b3c6330dc50d354c892fbbb49c1039]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-si114x: BRANCHES:[master:898fcd790368717b440b822cac01e7d61036f931]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-tm1637: BRANCHES:[master:4f0587748b93664e50a4a9788af22bc391352eba]|RELEASE:[v1.0|057ecef28201837c2deac218b77f71231a0a3a44]
 Seeed-Studio/seeed-ardupy-ultrasonic-sensor: BRANCHES:[master:707f2f296a14b9836c768cb001e66aef80063eb7]|RELEASE:[v1.0|bec883f82b25e5d3fcebf38d9af9ee91260a546f]
