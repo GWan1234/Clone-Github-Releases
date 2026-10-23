@@ -190,7 +190,7 @@ DFRobot/DFRobot_FM17550: BRANCHES:[master:f54c4a607c310f4eb763787ed91bdea7b587e5
 DFRobot/DFRobot_FRN20: BRANCHES:[main:f4f01c311c6c50214e9f7efd2d6e73ef867bd012]|RELEASE:[none|none]
 DFRobot/DFRobot_FermionBLE: BRANCHES:[master:03b858f898a562b57e1a2dccb9bf63aad6a59744]|RELEASE:[none|none]
 DFRobot/DFRobot_FreeTenIMU: BRANCHES:[main:358a4a215f73be9bf579958bdafdf09413d75933]|RELEASE:[none|none]
-DFRobot/DFRobot_GDL: BRANCHES:[master:a6a94e223c7c9af2b0a4ff3b17f7e0127a87eece;cursor/const-correct-settext-daa8:3573104223fbe2f4da0ba6af2f3ed07f54e0bd4c;dependabot/pip/src/Fonts/FontCustomScript/certifi-2024.7.4:ee82ce07348ede4f4c41681d339b732bf8b2088b]|RELEASE:[none|none]
+DFRobot/DFRobot_GDL: BRANCHES:[master:bf7d0c40d630abf93bb9b8d21d49f4eda557072d;fix/ui-clear-v1.0.5:c0351043311105914b01c8019812ea1e3bd5263c;cursor/const-correct-settext-daa8:3573104223fbe2f4da0ba6af2f3ed07f54e0bd4c;dependabot/pip/src/Fonts/FontCustomScript/certifi-2024.7.4:ee82ce07348ede4f4c41681d339b732bf8b2088b]|RELEASE:[none|none]
 DFRobot/DFRobot_GM60: BRANCHES:[cursor/support-long-scan-results-8b2b:71a045f5373cb9579db3258e429d6a6547928eb2;main:173df375f720786a3cb74475a575a8e29c572198]|RELEASE:[none|none]
 DFRobot/DFRobot_GMR_4WD: BRANCHES:[master:6b614f4dc874ee209dea4cae5bfc20b4cb78f806;v0.1:a32a7a52a04a128f03984b48b57fd861d3212a3d]|RELEASE:[none|none]
 DFRobot/DFRobot_GNSS: BRANCHES:[master:e0172aa3b4ddda6046a814b84fa2533c589970e9;fix/default-i2c-address:f935fed3be7f21bc46251605e69c8c6be81abb5d]|RELEASE:[none|none]
