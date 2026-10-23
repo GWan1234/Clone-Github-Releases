@@ -757,6 +757,7 @@ Seeed-Studio/Grove_Gas_Sensor: BRANCHES:[master:fdd39507a7869351f9ff5a6f26e94d0c
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7]|RELEASE:[1.0.0|b64fdd7e34a69f8def5384f7282ea16d7b5d1241]
 Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Touch_Sensor: BRANCHES:[master:fb28f8282acefba43812c3852846fad803f046a2]|RELEASE:[none|none]
+Seeed-Studio/Grove_IMU_9DOF: BRANCHES:[master:0635b3f25b9fb390f50043df43736e760f80b93f]|RELEASE:[v1.0.0|85984295f4f1c7ee20386bc0c3607ecfbc80d741]
 Seeed-Studio/Grove_IR_Distance_Sensor: BRANCHES:[master:a718128b5d549927a40b877edcef76f5f86f695e]|RELEASE:[none|none]
 Seeed-Studio/Grove_Infrared_Temperature_Sensor: BRANCHES:[master:f81cebb69ed20c8ba2c7c74df902584269bd37dd]|RELEASE:[none|none]
 Seeed-Studio/Grove_LCD_RGB_Backlight: BRANCHES:[master:dbd5674f5d0f8453595484711a144f16248c2d1c]|RELEASE:[1.0.1|5e480ddee359dab326ba756b829002025bc1e278]
