@@ -818,6 +818,7 @@ Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e6
 Seeed-Studio/LaunchPad_Kit: BRANCHES:[master:ddaaac23b52bfcaa250c620ec698edc25921896d]|RELEASE:[none|none]
 Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6fd4c4]|RELEASE:[none|none]
 Seeed-Studio/LinkIt_ONE_IoT_Demo: BRANCHES:[master:8d9cc390e9c3ed1849ba12ec4fe47bbc70a78621]|RELEASE:[none|none]
+Seeed-Studio/Lua_for_LinkIt_One: BRANCHES:[dev:40f099ee7812fe3f66e881abdd22ccfa0a06b830;master:37b15429f9829d90b4cadc0f96bb77391902f5ec]|RELEASE:[none|none]
 Seeed-Studio/MagicBracelet: BRANCHES:[master:9f03f42ba5fc692bf1b53a163347ac49177cd804]|RELEASE:[none|none]
 Seeed-Studio/Magnetic_Switch: BRANCHES:[master:496d7e034db2e3f7d118014134ddbd56095ebd28]|RELEASE:[none|none]
 Seeed-Studio/Mecanum_Wheels_Car: BRANCHES:[master:990445015f36d4b3ebd42bab5aadf96d4c764a85]|RELEASE:[none|none]
