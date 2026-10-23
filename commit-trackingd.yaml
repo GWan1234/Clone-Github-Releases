@@ -952,6 +952,7 @@ Seeed-Studio/Seeed_Arduino_atWiFi: BRANCHES:[master:d2f358c6abdc54b9863fc0fa3285
 Seeed-Studio/Seeed_Arduino_atWiFiClientSecure: BRANCHES:[master:924ceeee87514c059b2d7e9a11b0aa8b3f441116]|RELEASE:[v1.0.0|f7fc6abde61a0d40fcd1d447ce45d6184e7e58f1]
 Seeed-Studio/Seeed_Arduino_atmDNS: BRANCHES:[master:48d65fc7fe4e1baee149cb2bf3dd6f6d8fe4a44a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_mbedtls: BRANCHES:[master:59fc9f8ff70d9b772f66923040de79e7c3740f14;backup:2037a3cd3aeac08f60a4d46cba7f23b035d48258;dev:d1ca0175e24768120781bf4a43a1fb2c39fce85f;edge-impulse:526568d1b5d391416888f0f79b8dda962da9142d]|RELEASE:[v3.0.2|59fc9f8ff70d9b772f66923040de79e7c3740f14]
+Seeed-Studio/Seeed_Ardupy_LvGL: BRANCHES:[master:21f983c734589a47637fbfdce34b28534d80dfc7;dev-6.1:d693e9af06cd0044b376f036b6cac6b56dd46ef0;merge_fix:60b0bbcd2b00c0293c33388878d9bc1512205d27;dev-6.0:e5c6219ecc89c1585fb92072a0256f9ed9d8e47c;emscripten:5142311cc74a25109a4876ca541e291f0955d313;dev-5.3:c0d7b649146aa127320a9656bbebb8d0b3421a6c]|RELEASE:[none|none]
 Seeed-Studio/Seeed_BMA456: BRANCHES:[master:59fbc1b0ad9ce22131ad904c3aebd79fc7483068;rpi:7c8243eda12985e0dc16af6d7e4ff4f9e1801a81]|RELEASE:[none|none]
 Seeed-Studio/Seeed_BME680_V1: BRANCHES:[master:56b514c40f239f37ea9b52161adb3b56500cd7d2]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Elink_Shield: BRANCHES:[master:80aed5cc3b6b79c8824f43244b3939e2bf13cf3a]|RELEASE:[none|none]
