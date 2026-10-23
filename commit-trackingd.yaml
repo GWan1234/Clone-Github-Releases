@@ -2246,7 +2246,7 @@ sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S: BRANCHES:[gh-pages:41ec4e7e
 sparkfun/SparkFun_AutoDriver_Arduino_Library: BRANCHES:[master:c95c4a055b1219a7a3b8558ff854c3760e6bb8e7]|RELEASE:[V_1.3.3|f9306a3284aff540ef1b4bc220947ff8519fa493]
 sparkfun/SparkFun_Auto_pHAT: BRANCHES:[master:c1ff5cc6baa25284b2eac7947c9e6012afbcf08a]|RELEASE:[none|none]
 sparkfun/SparkFun_BC127_Bluetooth_Module_Arduino_Library: BRANCHES:[master:cd836547687ecc9c915ed0727fb12471e35cdfd4]|RELEASE:[none|none]
-sparkfun/SparkFun_BH1749NUC_Arduino_Library: BRANCHES:[master:1d15ea3ade064f7ba6d98b7226ce350d03e52fdf]|RELEASE:[none|none]
+sparkfun/SparkFun_BH1749NUC_Arduino_Library: BRANCHES:[master:1d15ea3ade064f7ba6d98b7226ce350d03e52fdf]|RELEASE:[V_1.0.0|1d15ea3ade064f7ba6d98b7226ce350d03e52fdf]
 sparkfun/SparkFun_BLE_Mate2_Arduino_Library: BRANCHES:[master:2ead2d9625ff02445bcaa97c111b7e216bf73175]|RELEASE:[none|none]
 sparkfun/SparkFun_BMA400_Arduino_Library: BRANCHES:[main:85e644b5868c807b1df6ff8f1a125708e0eb947e]|RELEASE:[v1.0.0|bc5bbae97ec70d9cad0f3cc4e7b13289eb5b0072]
 sparkfun/SparkFun_BME280_Arduino_Library: BRANCHES:[develop:e7de043d870915411d3e2ca090b65476fa97896b;master:870c17da1f4c76561e14b8ffcc7cdffd63136e10;revert-12-master:55035e3a04f5623fcdce9e37f664914e845f724b]|RELEASE:[v2.0.11|870c17da1f4c76561e14b8ffcc7cdffd63136e10]
