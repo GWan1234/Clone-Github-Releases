@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:19
+commit-tracking: 2026-10-23 11:20
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1096,6 +1096,7 @@ Seeed-Studio/seeed-ardupy-ultrasonic-sensor: BRANCHES:[master:707f2f296a14b9836c
 Seeed-Studio/seeed-linux-bootbinary: BRANCHES:[master:d152b2cf54332b5994795cc4ab0bc8e5d7c4d37d;stm32mp135:e16a4b27a4ccf1c74d4941ba5f72b8f9ab6fe66a]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-bootscripts: BRANCHES:[master:092666ddcb0749e8e98f18e485143f75a6abc659]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-dtoverlays: BRANCHES:[master:1d53c3cf2c96bd5ca2b2b7b9cbb198d398e4031c;update-ch343-v2.1:e9cd082c042dc73e214c3ab368ad50d476d03457;reachy_mini:e76cd80863eaedce82ad694b6bbf05deb3f0b292;feat/ili9881c:82c59cdade43bf39256f1b8a5d2c1452449ffb8a;agx:89a67c6d1ec7bb10332e52886fca9b2f978f6c6d;j202da:910588b2d0b0ca15ce26e46254614e3ee71b5d84;cc1120:1812cd500536454127b9fbd0838ef752595f7cef;imx415:3a3810f538f16a30b8bbab086c56ae71023d92c7;hm3301:e52868968c1f38b263bb8a6410b5ab8681844bd9;fan-cape:43781dfc093952c799d7207c4b89905d5ac5df7c]|RELEASE:[2025-04-03-reTerminal-V2.0|efd2ae4cbbb8e4fbd2c4c5f2be0e1cf5b3dd5e36]
+Seeed-Studio/seeed-linux-openwrt: BRANCHES:[main:f8a381d50efbadfeab1e7624311fb1c1ee48edbe;packages:177ecc757a1c398fa1f82d7b188f30b08b650e74;vizos:4d1eb540306fef6dadb67241e958b2172424b2fc;magic:9dda8ada375e1044da0f73ff309da64f1c19c421;dev-22.03:b928b9bad1e580ca1e5b18aafe5c78b1e22eec3f;openwrt-21.02:c4aa5f0ee2d1907160289bc8aeb17e79478b55e8;mt7628:3881cced453d7eb7185bba460069a9267cd1df4c]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-usbdisp: BRANCHES:[master:c0fcedaafcd49fb31bbd522bca89a8288bafefc2]|RELEASE:[1.0.0|e4fffa0b7b6e4463f6cc9ceec8fcb82dd2eff4e6]
 Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5]|RELEASE:[none|none]
 Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef0990407fadaa6218]|RELEASE:[none|none]
