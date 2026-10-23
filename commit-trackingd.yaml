@@ -965,6 +965,7 @@ Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d040
 Seeed-Studio/pxt-grove-zero-for-microbit: BRANCHES:[master:5e2b521509cafe7a0521775fc7e9ab9bd9d681b4]|RELEASE:[1.0.4|3b6c2be16ee31f2f87fc96b48487508f93c72fa2]
 Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5]|RELEASE:[none|none]
 Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef0990407fadaa6218]|RELEASE:[none|none]
+Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0]|RELEASE:[none|none]
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316]|RELEASE:[none|none]
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
