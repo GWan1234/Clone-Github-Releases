@@ -790,6 +790,7 @@ Seeed-Studio/LCD_RGB_Backlight_Suli: BRANCHES:[master:190f5717f5fa412c514c740c05
 Seeed-Studio/LED_Bar_Suli: BRANCHES:[master:b765f38ede6fa780bbdcb924933fe0f1d43bdb8c]|RELEASE:[none|none]
 Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e65de405]|RELEASE:[none|none]
 Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6fd4c4]|RELEASE:[none|none]
+Seeed-Studio/LinkIt_ONE_IoT_Demo: BRANCHES:[master:8d9cc390e9c3ed1849ba12ec4fe47bbc70a78621]|RELEASE:[none|none]
 Seeed-Studio/MagicBracelet: BRANCHES:[master:9f03f42ba5fc692bf1b53a163347ac49177cd804]|RELEASE:[none|none]
 Seeed-Studio/Magnetic_Switch: BRANCHES:[master:496d7e034db2e3f7d118014134ddbd56095ebd28]|RELEASE:[none|none]
 Seeed-Studio/Mesh_Bee: BRANCHES:[master:f472184977a696abee1c31b515c46d418633aa68;dev:e9fb212623b2a927666ef0b53ea6b24151f792e4;gh-pages:5d5f863cbd9589a0374b5926dffee1ddde21108a]|RELEASE:[v1.0.4|364a02e9df3d86ddfc278ca1f843ffcaef60e274]
