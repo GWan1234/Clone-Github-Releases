@@ -866,6 +866,7 @@ Seeed-Studio/Recipe_Magic_Feather_Fan: BRANCHES:[master:68a30cd23dc31f977ec55ba9
 Seeed-Studio/Rfid_Reader_Suli: BRANCHES:[master:39a193db21821dc384e0a751884270348a9e151d]|RELEASE:[none|none]
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0]|RELEASE:[none|none]
 Seeed-Studio/SGL: BRANCHES:[master:41f6cbc3e253f720a1885dd50ce58c02f6e2c407]|RELEASE:[none|none]
+Seeed-Studio/SeeedMotorShieldV2: BRANCHES:[master:e1a106360fd59c85f56f2f0d9599a309cbb287a3]|RELEASE:[1.0.1|fce2953d6809d9250a3d2d54010f589203437054]
 Seeed-Studio/Seeed_Arduino_ADXL345: BRANCHES:[master:2872e236ede75827b8f8b086a5d71eb1b64de9b9]|RELEASE:[v1.0.0|0ad23e7397f383e15b186aa48a7dce0b7f7a815e]
 Seeed-Studio/Seeed_Arduino_CAN: BRANCHES:[master:cb607da7da84d3ebf375948b70e5a909b80f2f8f;fix/spi-begin-esp32-compat:34c1d6ff911bb2766e8d6d1573ef26ba985b3d5e;can-serial:ac504106e49cf79769d17d8191187c4463d01589;old:dc2fb92dad4ac537d3eff4d8f3d354a4b1a17e03;coolc:6bdd376f34817a70baef1d4b4f9daa39aa3e1a04;arduino-canbus-monitor:942138d09f73051439cf657aa8e4a201187dd83b]|RELEASE:[V2.3.4|cb607da7da84d3ebf375948b70e5a909b80f2f8f]
 Seeed-Studio/Seeed_Arduino_IMU10DOF: BRANCHES:[master:bc45c5eb8c8cc565ede8d84c84cd03d2667cd2a1]|RELEASE:[v1.0.0|2921b68182a0f6b81a4debb031a4dc65cb529c2b]
