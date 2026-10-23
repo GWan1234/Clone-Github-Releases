@@ -786,6 +786,7 @@ Seeed-Studio/Rainbowduino_Snake_Game: BRANCHES:[master:b69bdc8f9dab96db2ad282269
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_CAN: BRANCHES:[master:cb607da7da84d3ebf375948b70e5a909b80f2f8f;fix/spi-begin-esp32-compat:34c1d6ff911bb2766e8d6d1573ef26ba985b3d5e;can-serial:ac504106e49cf79769d17d8191187c4463d01589;old:dc2fb92dad4ac537d3eff4d8f3d354a4b1a17e03;coolc:6bdd376f34817a70baef1d4b4f9daa39aa3e1a04;arduino-canbus-monitor:942138d09f73051439cf657aa8e4a201187dd83b]|RELEASE:[V2.3.4|cb607da7da84d3ebf375948b70e5a909b80f2f8f]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
+Seeed-Studio/Seeed_Arduino_Pedometer: BRANCHES:[master:4c88ddb46ede9e5cb62396b1692d0d2f8d3b601a]|RELEASE:[v1.0.0|2da15b172e4ad6d23e267ecf08da5e47dccacf34]
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
