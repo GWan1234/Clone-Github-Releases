@@ -905,6 +905,7 @@ Seeed-Studio/Seeed_Arduino_SGP30: BRANCHES:[master:a7451a81f8f7f0de05102c205c02c
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
+Seeed-Studio/Seeed_BMA456: BRANCHES:[master:59fbc1b0ad9ce22131ad904c3aebd79fc7483068;rpi:7c8243eda12985e0dc16af6d7e4ff4f9e1801a81]|RELEASE:[none|none]
 Seeed-Studio/Seeed_BME680_V1: BRANCHES:[master:56b514c40f239f37ea9b52161adb3b56500cd7d2]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_4Digital_Display_g: BRANCHES:[master:d99fefadb66fafd95b5b76a23491614192863316]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Chainable_RGB_LED_g: BRANCHES:[master:51c5981fca4af65295cd84ff7a3cc426d0a6d277]|RELEASE:[none|none]
