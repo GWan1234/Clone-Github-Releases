@@ -1067,6 +1067,7 @@ Seeed-Studio/Seeed_Wio_WM1110_Dev_Board: BRANCHES:[master:e34742993932c97731f513
 Seeed-Studio/Seeeduino_GPRS: BRANCHES:[master:dd5abd935a62632960749e9027fa4e53c0a9b117]|RELEASE:[1.0.0|3c000337f555914f30c0945f4c84f061d0f95882]
 Seeed-Studio/Seeeduino_lotus_Usage: BRANCHES:[master:6b2606dc33f2a50bf1404ef65a2502c5ac03534c]|RELEASE:[none|none]
 Seeed-Studio/SenseCAP-A1102: BRANCHES:[main:486385c5450c3e13a422b6a1cde079e90db759f9;new_a1102_test:dcbffe7fbea237f47797ae2fd6ff08f99025b106;test:1be1de3e6192250d0f2d1997b48c5cea2ec43de3;feat/ota:e43ab4097e3081107166e414966ff76eda1317d6]|RELEASE:[none|none]
+Seeed-Studio/SenseCAP-Gateway-OS: BRANCHES:[master:16e8ffe5b0c48bb06d78391de3dac5d779321875]|RELEASE:[v1.2.7|e3667f02741bcf34b0a0d97ce620ee829fb63b4e]
 Seeed-Studio/SenseCAP-Watcher-Firmware: BRANCHES:[idf_6_0_sscma_client:158e513678fe49bd90cbeb9fc615d40ec55f6efa;main:8e37f7ccd3d836bb99f483e0f6e74e8252406644;factory_fw:dfdd0eff349957febff1c0145a4e5d8dc0ddb07f]|RELEASE:[fw-v1.1.7|a7c0dfb3c9ed1d74addec41c9fae1a52e0c57dd7]
 Seeed-Studio/SenseCraft-AI: BRANCHES:[main:dfa4ad2986b7c8781a84c0d31c7773c125e2203e]|RELEASE:[none|none]
 Seeed-Studio/SenseCraft-AI_Client: BRANCHES:[main:7dbeacebe802d4212210fb5e6a6a7781cc4aa165]|RELEASE:[none|none]
