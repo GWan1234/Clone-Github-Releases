@@ -774,6 +774,7 @@ Seeed-Studio/RTC_DS1307: BRANCHES:[master:084446186849a33631dba21d4e94fa5d3ee77e
 Seeed-Studio/Rainbowduino_Snake_Game: BRANCHES:[master:b69bdc8f9dab96db2ad28226921f159f8a85c7ff;gh-pages:ad72c3293847e2d326cc50ff9d18671032264a55]|RELEASE:[none|none]
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
+Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
 Seeed-Studio/Small_ePaper_Shield: BRANCHES:[master:0eb0911532a38777faf8cda7e815df49e64696bc]|RELEASE:[1.0.1|abc5d236642acdb0804d675b1ee7dbbc91a8954e]
 Seeed-Studio/SmartMeterWithUI: BRANCHES:[master:d57996688d5707a3d594fe7414ad38325cd91e7e]|RELEASE:[none|none]
