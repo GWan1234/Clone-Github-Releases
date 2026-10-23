@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 05:13
+commit-tracking: 2026-10-23 05:14
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2410,7 +2410,7 @@ ventoy/PXE: BRANCHES:[master:37a7e99816147dd02eb97c49f16997f82d9cc8ee]|RELEASE:[
 ventoy/Ventoy: BRANCHES:[master:74cff34240dca6991b79c6656770670da7b0c39e]|RELEASE:[v1.1.18|6116894ab8abdf3ef8d43411a6732d34ee19214e]
 ventoy/WinInjection: BRANCHES:[main:0a327f93ddea4f8a4e6fe4b3d12b7d2a0375a4e0]|RELEASE:[none|none]
 ventoy/backend: BRANCHES:[master:e24de7f24771b652583c213281e32de2ac976eb0]|RELEASE:[v5.0|e24de7f24771b652583c213281e32de2ac976eb0]
-ventoy/efifs: BRANCHES:[master:6e00f7ebe3472446a705b7ae706fff83e448fa0d;andy-edk2:4e1ba95bbed25fad4feda6d3116a459e549bb0cc]|RELEASE:[none|none]
+ventoy/efifs: BRANCHES:[master:504e44c636e89e0b0527ed8efa329f0b2d3be2da;andy-edk2:4e1ba95bbed25fad4feda6d3116a459e549bb0cc]|RELEASE:[none|none]
 ventoy/espack: BRANCHES:[main:c7320f562060fc63b92c7a31e74236ce36a45514]|RELEASE:[v1.2|c7320f562060fc63b92c7a31e74236ce36a45514]
 ventoy/ixgbe: BRANCHES:[ixgbe-5.13.4/netctl-tune:29f159ae86a0326430c92ab848e5bddb9f9a3e6e;ixgbe-5.13.4/packaging-support:faab69b29bb03e06982dd50f359637b8f8aed059;ixgbe-5.13.4/double-vlan:46adef2036bfd7ee1b8de1c8f8697bf8e92c266b;ixgbe-5.13.4/fixes:6919aca9af1eb540e62a774a2fc66a15bf17f4d9;ixgbe-5.13.4/upstream:e61e2ed694dd3cb254ed8f5653d0aa4a99b51c6f;ixgbe/5.13.4:0d424bb58d552451f3134f0d8c3c44160da1451d;ixgbe-5.12.5/netctl-tune:71acc2ff4bc795324eb6ab068a1770cb70acd576;ixgbe-5.12.5/packaging-support:e03fa50da5ab651c5ee129fb0e61acb9acba63f9;ixgbe-5.12.5/double-vlan:e2d2facd7967b012476e38a4014e12525cfc117d;ixgbe-5.12.5/fixes:5095e75ba991ddf20e02b3c80bf5f4d54f766422]|RELEASE:[none|none]
 ventoy/musl-cross-make: BRANCHES:[master:b4244329e72fe9b9a8f3920ca49bcdd5786073ea;patch-1:44afc7d6c155c74c2c9935bf8a18fc24580d73ec]|RELEASE:[latest|b4244329e72fe9b9a8f3920ca49bcdd5786073ea]
