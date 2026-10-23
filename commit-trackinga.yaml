@@ -1788,7 +1788,7 @@ localsend/permission_handler_windows_noop: BRANCHES:[main:2dadd8afbf81e0e3e4791d
 localsend/protocol: BRANCHES:[main:62bd3406ec80d62f2ed46269cdc06c4dcc391083;feature/pin-and-metadata:41c87f562e79f6a055ff2c576371fd8d50928cfd;v2:94f08491cb99675c1edb1d505c6079266b47bd64]|RELEASE:[none|none]
 localsend/snap: BRANCHES:[main:77fe5f9c9ea4e0caf9d46773f72d3cbf40edd032]|RELEASE:[none|none]
 localsend/web: BRANCHES:[main:8fd3e7f6522f2ddc7c4cb0d237bb995ed95313c0]|RELEASE:[none|none]
-localsend/website: BRANCHES:[main:570575e939211e42bc77344e704b76f985ecc317;redesign:b02f189d1ff2b56eede91ce6a300c7471caaee68;sponsor-test:c4565172310de7865bac7f25d8e3116b91477249]|RELEASE:[none|none]
+localsend/website: BRANCHES:[main:9377b82b2c3d733990b9819e4970bab051393bb2;redesign:b02f189d1ff2b56eede91ce6a300c7471caaee68;sponsor-test:c4565172310de7865bac7f25d8e3116b91477249]|RELEASE:[none|none]
 localsend/winget-pkgs: BRANCHES:[master:e0f60c4bcfb88e60015aed3bfe6dccdbcd2d25d1;LocalSend.LocalSend-1.17.0-4703A8BD68534808BF3612552AB8963B:4bd1393186c722771cc032ec592150707af40462;LocalSend.LocalSend-1.15.0-F6AAA0EBA5887C4D95D85D646AE6D1B826689707:242aa4495feee93525f087a087d513be12e2695f]|RELEASE:[none|none]
 lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db765132892b2b]|RELEASE:[none|none]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe]|RELEASE:[none|none]
