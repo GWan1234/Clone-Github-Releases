@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:14
+commit-tracking: 2026-10-23 11:16
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1093,6 +1093,7 @@ Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef099040
 Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04fcfbe5c09e;v2019.04-imx6ull-npi:d447c4866200ae5fd069313d92e2308ff01af021;master:3c99166441bf3ea325af2da83cfe65430b49c066;v2018.11-stm32mp:f55001ad5e8bca2d474f3bcf696a15bc4ea1f78e]|RELEASE:[none|none]
 Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0]|RELEASE:[none|none]
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316]|RELEASE:[none|none]
+Seeed-Studio/wiki-documents: BRANCHES:[gh-pages:502b4725e6ae6be1c66677c938eae3740ea2b515;docusaurus-version:c426f4dc63cbf605a08863f5f142882578a4d432;auto-translate/pr-5833:3d8744625f6eb1caf1e6cee7855b5aa152d08142;auto-translate/pr-5832:9fc4b0ee4015a32b624d7e7a888e2c3d31cce9ce;auto-translate/pr-5829:e4cd8e10b427b0a690834b9c985680c84b004967;auto-translate/pr-5828:904706c3c714ed54b634776db4cc1079d67cee91;auto-translate/pr-5825:15b3f8c539785a52f3eb20537fd14074259abcf6;auto-translate/pr-5819:6e631da2810d6d89a7839a2b9489d02ba31f3efa;auto-translate/pr-5812:c01117d04b9703bfc9998d31a59e85459a52449f;auto-translate/pr-5811:b73ac858769e055a417b735f614db7ca55c7647c]|RELEASE:[none|none]
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
 aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|RELEASE:[none|none]
