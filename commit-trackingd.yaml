@@ -943,6 +943,7 @@ Seeed-Studio/Seeed_Arduino_Terminal: BRANCHES:[master:7a8f9db62dc733f11430a42182
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
 Seeed-Studio/Seeed_Arduino_W600: BRANCHES:[master:c5dbfad420d6575348416eec6ab069d1892ce83e]|RELEASE:[v1.1|16859211f0f79b5c586cce16a6118d12173ea17b]
+Seeed-Studio/Seeed_Arduino_atDNSServer: BRANCHES:[master:a60fab51d1b3b1ac0ebd0a00d22613679271a99d]|RELEASE:[v1.0.0|8f0c75917d2f0441feb0d5c2a20c3df8339b7d7e]
 Seeed-Studio/Seeed_Arduino_atWebServer: BRANCHES:[master:7f6d52b3fa92f020b3d992e6fb1f439889ea4e83]|RELEASE:[v1.0.0|a595d5974f2eada3397fc954c6d555823f820d93]
 Seeed-Studio/Seeed_Arduino_atmDNS: BRANCHES:[master:48d65fc7fe4e1baee149cb2bf3dd6f6d8fe4a44a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_BMA456: BRANCHES:[master:59fbc1b0ad9ce22131ad904c3aebd79fc7483068;rpi:7c8243eda12985e0dc16af6d7e4ff4f9e1801a81]|RELEASE:[none|none]
