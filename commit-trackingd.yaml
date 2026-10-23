@@ -782,6 +782,7 @@ Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a0067
 Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f973031831b9ea6e18]|RELEASE:[1.0.0|6bd34b830f2f1de1a69fa0d22592da5222956aae]
 Seeed-Studio/Hercules_Motor_Driver: BRANCHES:[master:a49b8400d35153546d3acd8a58603e2459e1dc6a]|RELEASE:[1.0.1|9a16cbbe2a998ed0b39c35c2313c5e2bc69005e3]
 Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37]|RELEASE:[none|none]
+Seeed-Studio/I2C_FM_Receiver: BRANCHES:[master:7cf2366a063a06bb29c1ed0872fe85418cc22a4e]|RELEASE:[none|none]
 Seeed-Studio/LCD_RGB_Backlight_Suli: BRANCHES:[master:190f5717f5fa412c514c740c055e184f839bb2b6]|RELEASE:[none|none]
 Seeed-Studio/LED_Bar_Suli: BRANCHES:[master:b765f38ede6fa780bbdcb924933fe0f1d43bdb8c]|RELEASE:[none|none]
 Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e65de405]|RELEASE:[none|none]
