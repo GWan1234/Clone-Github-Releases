@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:32
+commit-tracking: 2026-10-23 11:33
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1089,6 +1089,7 @@ Seeed-Studio/nrf51_dfu_bootloader: BRANCHES:[master:ce0123644578bc0c99596f841f2a
 Seeed-Studio/pi-hats: BRANCHES:[master:95e388a446bf2a83b030be30df32828e7650f79c;revert-12-master:7660f1ace46ccaa403c5aa5a12dc8f4cbd460893;dev:1b58735a9eb3b713c0a0c782a50499b26abf4ffe;turmary-patch-1:dbf65e3a74e02ea022383856349f3f66b5ad6bcd]|RELEASE:[v1.0|0db233c054cdd1b37fe7d6f6c3c6ecd019742449]
 Seeed-Studio/pi_repo: BRANCHES:[master:762450965d1e154589ab4069e344fca0283e6896]|RELEASE:[none|none]
 Seeed-Studio/platform-nxpimxrt: BRANCHES:[master:db56118ebb433509d2719ad95f5505f058287209]|RELEASE:[none|none]
+Seeed-Studio/pru-software-support-package: BRANCHES:[master:5301458c7b8020f906cafe9aabd6a28eec16de25;j721e:56a3cc30797c139830d9b01e9dcfa3a22cc76e01]|RELEASE:[none|none]
 Seeed-Studio/pxt-BitMaker: BRANCHES:[master:b46e4b66e1e8a8f12764b3aed78b692dd3e685ff]|RELEASE:[none|none]
 Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d0403]|RELEASE:[v0.7.5|e3f1f25e8cdfea635b6dc662eabdbe47a2b67b98]
 Seeed-Studio/pxt-grove-zero-for-microbit: BRANCHES:[master:5e2b521509cafe7a0521775fc7e9ab9bd9d681b4]|RELEASE:[1.0.4|3b6c2be16ee31f2f87fc96b48487508f93c72fa2]
