@@ -878,6 +878,7 @@ Seeed-Studio/I2C_FM_Receiver: BRANCHES:[master:7cf2366a063a06bb29c1ed0872fe85418
 Seeed-Studio/IR_Recv_LinkIt_ONE: BRANCHES:[master:2c04b0196fa985833f8babc308514640fc63bf56]|RELEASE:[none|none]
 Seeed-Studio/JavaScript_for_RePhone: BRANCHES:[master:a1ad3af4e9a22511ca36b6c0f4411a1835edd66c]|RELEASE:[v0.2|78bc0df7e4d21a43a2265991e7bc3ff2cb3915c0]
 Seeed-Studio/Jetson_RP2040: BRANCHES:[master:41533f49051bb3edfbf46a64c5d79333b6cc0474;reServer_V1:a1abcfa92e03957e3090017288868a6c3ca75615]|RELEASE:[V1.4|555ecfba3b624c154ab4a5e23407146b7f6539ad]
+Seeed-Studio/LBM_WM1110: BRANCHES:[main:b7c3be40b643e4ef535d88b8d59f1dba625f31fa;Wenzy/dev1:ca8f39f81beba5465691567df60325355ba1d691]|RELEASE:[none|none]
 Seeed-Studio/LCD_RGB_Backlight_Suli: BRANCHES:[master:190f5717f5fa412c514c740c055e184f839bb2b6]|RELEASE:[none|none]
 Seeed-Studio/LED_Bar_Suli: BRANCHES:[master:b765f38ede6fa780bbdcb924933fe0f1d43bdb8c]|RELEASE:[none|none]
 Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e65de405]|RELEASE:[none|none]
