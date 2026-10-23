@@ -2211,7 +2211,7 @@ sparkfun/SparkFun_ADS1219_Arduino_Library: BRANCHES:[develop:9f72184a66eb4cd6677
 sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library: BRANCHES:[main:318c61d70f97471fc6129a13d476147aa6f9acb3;release_candidate:a50b31d8689bb6760aff29079a8e042c53f56488]|RELEASE:[none|none]
 sparkfun/SparkFun_ADXL313_Arduino_Library: BRANCHES:[main:323efdac55d0d7da287df746ab9fcd2ee96cee17;SPI_settings_correction:5fed334a5017bdc05c1a6a1cf9b76fe623748644]|RELEASE:[v1.0.4|323efdac55d0d7da287df746ab9fcd2ee96cee17]
 sparkfun/SparkFun_ADXL345_Arduino_Library: BRANCHES:[master:6d795cce285d94014c294d297573e33266a4c7d5]|RELEASE:[v1.0.0|2cf01ae30f93452a8d8633423dbfe9e0ae894216]
-sparkfun/SparkFun_AK975x_Arduino_Library: BRANCHES:[master:3557088994aca1ce142f6ab84e650e66ab903b08]|RELEASE:[none|none]
+sparkfun/SparkFun_AK975x_Arduino_Library: BRANCHES:[master:3557088994aca1ce142f6ab84e650e66ab903b08]|RELEASE:[v1.0.6|3557088994aca1ce142f6ab84e650e66ab903b08]
 sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library: BRANCHES:[master:bb9633dd1ea27c64164d3405b936caa287b7c83f]|RELEASE:[none|none]
 sparkfun/SparkFun_APDS9301_Library: BRANCHES:[master:acba4c9b68f33921f7c9ed7ba7836998e4481e7d]|RELEASE:[v1.0.0|cb3e1ba4b14ebfb5962de3f23dc9c55bc20d8ad8]
 sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library: BRANCHES:[release_candidate:6ef69e5f01bf550204e2637535ec2d67f9d963ce;main:aa4e6e1cc4451099558720d0fa44bc7ae6dab082]|RELEASE:[none|none]
