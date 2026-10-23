@@ -740,6 +740,7 @@ Seeed-Studio/DSOQuad_SourceCode: BRANCHES:[master:b16df33af51aa293313329393360e1
 Seeed-Studio/DSO_Nano: BRANCHES:[master:e90a8cf1cdb0e34073ccf95e274b16e44728188f]|RELEASE:[none|none]
 Seeed-Studio/DSO_firmwareV3: BRANCHES:[master:782e6c376f57bc22a53ad6241d36717fbcd9bf1d]|RELEASE:[none|none]
 Seeed-Studio/Digital_Compass_Suli: BRANCHES:[master:89724b4126d4d0c07653df3dcedfddeabef1b64a]|RELEASE:[none|none]
+Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615: BRANCHES:[master:c18da10a9fd35353db6a3dbd41802642adeeacca]|RELEASE:[v1.0.0|1ae3f080d541e632056e743808a215026a8cffcc]
 Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776dc893]|RELEASE:[none|none]
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
 Seeed-Studio/Four_Digit_Display_Suli: BRANCHES:[master:edfc53122844f9c84fdfd6dac9283462035a9369]|RELEASE:[none|none]
