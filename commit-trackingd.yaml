@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 12:00
+commit-tracking: 2026-10-23 12:06
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -883,6 +883,7 @@ Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e6
 Seeed-Studio/LaunchPad_Kit: BRANCHES:[master:ddaaac23b52bfcaa250c620ec698edc25921896d]|RELEASE:[none|none]
 Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6fd4c4]|RELEASE:[none|none]
 Seeed-Studio/LinkIt_ONE_IoT_Demo: BRANCHES:[master:8d9cc390e9c3ed1849ba12ec4fe47bbc70a78621]|RELEASE:[none|none]
+Seeed-Studio/Linux_for_Tegra: BRANCHES:[r39.2.0:df17ed28201645fcaeb6c8e6fb82a0b4592faefb;r36.4.3:798d0238554f3385e185ef3610025dbbba0c54f0;r36.5.0:f9a68317fbe3d276efc25b14b8b72339a1cc5d5c;r38.4.0:3b5a36b80ee1b194ebc5ce070d3d0666a703b4fb;r36.5.0-ota:bf0b8a6e96a88037fe493fba885799e9ebb83551;fix-orin-j401-4G:627ffdda8d7b983a88f893cdc0cecf0f147721cb;copilot/respond-to-issue-48:0b8eadeacd3a09ae67e744cac6d525b2663dce54;r36.4.4:def3d7ff8fbb34cea0b6b43c89a7aae1872651ef;r32.7.3:106ec50c2e5f83e54eba2a36b5b8d4a31ecba96a;r36.4.0:a68dda120c1c86fcd1024b44ca023a98e82411e2]|RELEASE:[r36.4.4|def3d7ff8fbb34cea0b6b43c89a7aae1872651ef]
 Seeed-Studio/LoRaWan-E5-Node: BRANCHES:[main:163c05379b1805dd8f2c061d4557a69985acc953;qian:2cfbed04998d5b744f8f94d9759054e6fbfc7bb1]|RELEASE:[none|none]
 Seeed-Studio/Lua_for_LinkIt_One: BRANCHES:[dev:40f099ee7812fe3f66e881abdd22ccfa0a06b830;master:37b15429f9829d90b4cadc0f96bb77391902f5ec]|RELEASE:[none|none]
 Seeed-Studio/Lua_for_RePhone: BRANCHES:[master:4a8948c64c577c94192f302699297da7afb7980c]|RELEASE:[v0.2|8e8beedad0dd1b0570e25bc19b2b8625faec2b60]
