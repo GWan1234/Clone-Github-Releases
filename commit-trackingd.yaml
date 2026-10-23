@@ -1551,7 +1551,7 @@ sparkfun/Arduino_Boards: BRANCHES:[main:b2ccf64208ea990ce764fd60b109931296ad1350
 sparkfun/Arduino_Fio: BRANCHES:[master:8e1df7cedea5f3105b52215a529fac92675648b7]|RELEASE:[none|none]
 sparkfun/Arduino_Pro_328: BRANCHES:[Silk_Revision:aaa5efbec6bd0047f5e52d84fa8e2b1c69b66879;master:73c405bd2ffd6a7555eb8d9ec4da8db3f904febc]|RELEASE:[none|none]
 sparkfun/Arduino_Pro_Mini_328: BRANCHES:[master:bcf8de441f8ebe9e21377c4a0d12794670dc2551;Silk_Revision:03d2a8092338be0f1650cb76065ea4321f429223]|RELEASE:[none|none]
-sparkfun/Arduino_ProtoShield_Bare_PCB: BRANCHES:[master:09d0df3651ad0fe5bbf2458bfcf8f9e934eb5d80]|RELEASE:[none|none]
+sparkfun/Arduino_ProtoShield_Bare_PCB: BRANCHES:[master:09d0df3651ad0fe5bbf2458bfcf8f9e934eb5d80]|RELEASE:[V_4.0F2.0|09d0df3651ad0fe5bbf2458bfcf8f9e934eb5d80]
 sparkfun/Ardumoto-Motor_Driver_Shield: BRANCHES:[master:0b50305e0bec9645f6f2dd603dead7cb72896d73]|RELEASE:[none|none]
 sparkfun/Artemis-Firmware-Upload-GUI: BRANCHES:[master:876d7decda7099ace3c12750203a90af5e6bc56f;develop:8dc04839cd6e4f6d4c9861ed6f5f06c9d90d6952]|RELEASE:[v3.1.0|876d7decda7099ace3c12750203a90af5e6bc56f]
 sparkfun/ArtemisDevKit: BRANCHES:[master:4d5afc951a0887709fc2ba3bf365e2c71c42151a;v10:a521e97151631f369c35d7f555d28412aab055d6]|RELEASE:[none|none]
