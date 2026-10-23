@@ -877,6 +877,7 @@ Seeed-Studio/LED_Strip_Suli: BRANCHES:[master:152f73f20a71c8d70c66f4f469216cd0e6
 Seeed-Studio/LaunchPad_Kit: BRANCHES:[master:ddaaac23b52bfcaa250c620ec698edc25921896d]|RELEASE:[none|none]
 Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6fd4c4]|RELEASE:[none|none]
 Seeed-Studio/LinkIt_ONE_IoT_Demo: BRANCHES:[master:8d9cc390e9c3ed1849ba12ec4fe47bbc70a78621]|RELEASE:[none|none]
+Seeed-Studio/LoRaWan-E5-Node: BRANCHES:[main:163c05379b1805dd8f2c061d4557a69985acc953;qian:2cfbed04998d5b744f8f94d9759054e6fbfc7bb1]|RELEASE:[none|none]
 Seeed-Studio/Lua_for_LinkIt_One: BRANCHES:[dev:40f099ee7812fe3f66e881abdd22ccfa0a06b830;master:37b15429f9829d90b4cadc0f96bb77391902f5ec]|RELEASE:[none|none]
 Seeed-Studio/Lua_for_RePhone: BRANCHES:[master:4a8948c64c577c94192f302699297da7afb7980c]|RELEASE:[v0.2|8e8beedad0dd1b0570e25bc19b2b8625faec2b60]
 Seeed-Studio/MT3620_Grove_Shield: BRANCHES:[master:f9a3c2b51a14c4e2b8f87ded51ce305f6ab017e6;revert-15-dev-sdk2101:bd40a43c11595720df51b8b9b245d7054a1c3c9f;takashi-patch-2:6179a3fc54aed090d1c93883bd5b7e0cb80f180d;takashi-patch-1:2137d1a6530284c1725a0d8ead758ff184595bd2]|RELEASE:[v1.0.1|50869fccf7e9f693c0950c594466a3fc00b47bc0]
