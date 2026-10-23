@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:55
+commit-tracking: 2026-10-23 10:56
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -737,6 +737,7 @@ Seeed-Studio/Arch_Pro: BRANCHES:[master:aff0107e9a07b2d820755e2ceee9b99540e56854
 Seeed-Studio/ArduPy: BRANCHES:[master:1267e875b6c82b9ecf7ac021f979e85d035f7164;new-architecture:f9eab88d7cb2d34ce46245af294f720b22f1f826;dev:85ad56cff40de1959acdb181dcaac5a83dcc32b0;bak:61a072fea3265a6aab7a2a59e9aeb1b8aabdeb8b;v1.12:ce3a8663552ea9fd8e7189b7cae91955aa0d5ec3]|RELEASE:[1.3.0|e2f4a00f3bd7249fb9811b6805543f12f86f9c96]
 Seeed-Studio/ArduinoCore-imxrt: BRANCHES:[master:deb8a9ad2dc19914c89423a4eab09863dc4f1650]|RELEASE:[v1.2.1|a226099592944165f047d5d21deefc5f672c0566]
 Seeed-Studio/ArduinoCore-k210: BRANCHES:[kendryte-standalone-sdk:2ea3c001557c7f70fad560a7a38c57b36b76f321;dev:eef0a6c7afc7b602c7473781fb023cb22933a60d;master:69b516f8defa4e97af0b98148bae4e2ff5cd1df4;kendryte-freertos-sdk:9693b063ea055e62dc130d6cbd6d317a9ecf7e36]|RELEASE:[v1.3|84bdfa86f4b89819a7d245e4c1f79a7e26ed00ed]
+Seeed-Studio/ArduinoCore-samd: BRANCHES:[master:2e6b174f81b988964ce3811f5b5e39297c2c9c3f;k1100:7134bad7383affc1feb2ccea0c259a79964be7c1;k1100-dev:caf13f0eedd6985b710415e963c6f4d082fa8e77;Wio_LTE_Cat.1:25a7c6aa6582e75aba778e0c566c0a5594c8d6b2;i2c-slave:da78173bfe6fb2b92d4786fdc6b1782c7a15de5d;ArduPy:cad8f6bbeae034ec9dc22808cd75fb99165503f9;CI:ef2609a2c53bd071a63e4bc9bbd713fd4a721afa;lanselambor:72e8d62afdd419825e7c3bc7cc90d78660d1f8f5]|RELEASE:[v1.8.6|2e6b174f81b988964ce3811f5b5e39297c2c9c3f]
 Seeed-Studio/ArduinoPhone: BRANCHES:[master:783f45cf09461840eb0728144bf98124aa40df36]|RELEASE:[none|none]
 Seeed-Studio/Arduino_IDE_for_RePhone: BRANCHES:[master:625420360cc0ddb93787a3a36e1b06f43e8c5b21]|RELEASE:[none|none]
 Seeed-Studio/Arduino_Software_I2C: BRANCHES:[master:aa1fb1c20e0910a63d9aa728bb0259999300acc8;k1100:11433be12eac8913829b0283d410a3b1a3f11909]|RELEASE:[none|none]
