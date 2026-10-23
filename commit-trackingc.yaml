@@ -773,7 +773,7 @@ m5stack/M5Unit-EXTIO2-Internal-FW: BRANCHES:[main:dbd1bbba8201f73d75a5544b69c863
 m5stack/M5Unit-Encoder: BRANCHES:[master:8f4508003ebe1f4f0ec3da0187a51c3feb56dd33]|RELEASE:[0.0.2|4a9d8484a0b551f4cb618e290bba0ef6e4ab59dc]
 m5stack/M5Unit-ExtEncoder: BRANCHES:[main:690c72b35a172ae97d05025343c360cea1392a24]|RELEASE:[none|none]
 m5stack/M5Unit-ExtEncoder-Internal-FW: BRANCHES:[main:0502021429c816f43de43d1b3be1355725ed66ab]|RELEASE:[none|none]
-m5stack/M5Unit-FINGER: BRANCHES:[gh-pages:5aa176f2edf077f628dfd2f2f97790bb90f697fa;main:ee2afceb124ee0d4e940150cabac0f04f07e0fd7;develop:aeb424f6f9801edbfb454b1e9044b691ebc5b82f]|RELEASE:[0.2.0|ee2afceb124ee0d4e940150cabac0f04f07e0fd7]
+m5stack/M5Unit-FINGER: BRANCHES:[develop:45cc6b8e4146ba0eec3569bd4019b6cb3f5f28f7;gh-pages:5aa176f2edf077f628dfd2f2f97790bb90f697fa;main:ee2afceb124ee0d4e940150cabac0f04f07e0fd7]|RELEASE:[0.2.0|ee2afceb124ee0d4e940150cabac0f04f07e0fd7]
 m5stack/M5Unit-FLASHLIGHT: BRANCHES:[gh-pages:818c06e40571c614a4959d43e899ccd468db5b10;main:4071dde9ec5a60cb165628f7830effdf95f8eda1;develop:eef62d330efcb1ddd40300bc7c401669a05d29a5]|RELEASE:[0.0.2|4071dde9ec5a60cb165628f7830effdf95f8eda1]
 m5stack/M5Unit-Fingerprint2: BRANCHES:[main:e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1]|RELEASE:[1.3.0|e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1]
 m5stack/M5Unit-Fingerprint2-Internal-FW: BRANCHES:[main:6723eb45095497163465fe5f9ce87fc5950e711a]|RELEASE:[none|none]
