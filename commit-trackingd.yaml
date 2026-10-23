@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:29
+commit-tracking: 2026-10-23 11:30
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1101,6 +1101,7 @@ Seeed-Studio/seeed-ardupy-sdcard: BRANCHES:[master:e5d36c1f439b9b9c846022267a85d
 Seeed-Studio/seeed-ardupy-si114x: BRANCHES:[master:898fcd790368717b440b822cac01e7d61036f931]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-tm1637: BRANCHES:[master:4f0587748b93664e50a4a9788af22bc391352eba]|RELEASE:[v1.0|057ecef28201837c2deac218b77f71231a0a3a44]
 Seeed-Studio/seeed-ardupy-ultrasonic-sensor: BRANCHES:[master:707f2f296a14b9836c768cb001e66aef80063eb7]|RELEASE:[v1.0|bec883f82b25e5d3fcebf38d9af9ee91260a546f]
+Seeed-Studio/seeed-linux-a-tf: BRANCHES:[v2.4-stm32mp:14d0fe57d8435f5aef214428baa339ee530f9263;master:c161772f40b8dd9ad184e7bfa9f9fb371873fefd]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-bootbinary: BRANCHES:[master:d152b2cf54332b5994795cc4ab0bc8e5d7c4d37d;stm32mp135:e16a4b27a4ccf1c74d4941ba5f72b8f9ab6fe66a]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-bootscripts: BRANCHES:[master:092666ddcb0749e8e98f18e485143f75a6abc659]|RELEASE:[none|none]
 Seeed-Studio/seeed-linux-buildroot: BRANCHES:[master:876640247cb16c9b4d1727046ed9686ca0ada3c0;new_CI:5fd9be1866b57c3134750f6136d5bc96067906cd]|RELEASE:[2024-11-26-11-34|7b3fb5664756abc32e493d9cd3dcbd01ce05ca4c]
