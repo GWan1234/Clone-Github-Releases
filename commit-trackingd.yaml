@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:36
+commit-tracking: 2026-10-23 10:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -833,6 +833,7 @@ Seeed-Studio/Grove_Sunlight_Sensor: BRANCHES:[master:c386ae876e0c2d663aabc18ccd4
 Seeed-Studio/Grove_Temper_Humidity: BRANCHES:[master:14b3d39b9738d33ec27005ee3a10e9bed583502e]|RELEASE:[1.0.1|808a474ce2666350d129d514563bf01fd7d2e00f]
 Seeed-Studio/Grove_Temperature_And_Humidity_Sensor: BRANCHES:[master:826ce8f2593f810a6063cb1cbc788fc6519dc25e;fix/dht-count-16mhz:f32a91f034230aa190c685a1ffb4e099b198f199]|RELEASE:[v2.0.2|3deba8a662ffa79c7755f02b59a2d21d500e6b52]
 Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a006725f1b78fdae2fc49]|RELEASE:[none|none]
+Seeed-Studio/Grove_Temperature_sensor_MCP9808: BRANCHES:[master:9c4ad6eede42fb2f65baa16d5ec1decd28e9ca17]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ultrasonic_Ranger_Suli: BRANCHES:[master:abdee250d745ef71277c7686dfee436bfcc24853]|RELEASE:[none|none]
 Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f973031831b9ea6e18]|RELEASE:[1.0.0|6bd34b830f2f1de1a69fa0d22592da5222956aae]
 Seeed-Studio/Grove_detect_sensor_GP2Y0D805Z0F: BRANCHES:[master:a989d5f40373d20f148b245b790fa60f4f62d472]|RELEASE:[none|none]
