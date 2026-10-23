@@ -917,6 +917,7 @@ Seeed-Studio/Seeed_Grove_Ultrasonic_Ranger_g: BRANCHES:[master:d5768975d8949a14b
 Seeed-Studio/Seeed_LDC1612: BRANCHES:[master:34a10004e1cd95a762e6f56b201fe3c0dccc6eea]|RELEASE:[v1.0.0|c27e92b4bba050be60ab774f8179c4661223ddef]
 Seeed-Studio/Seeed_LTC2941: BRANCHES:[master:5a1a1d98ad67f09f6ce0e1586fa3698f0243cfa6]|RELEASE:[v1.0.0|bc578c0fcf7b416869c4bc6f61a1cc645de5460d]
 Seeed-Studio/Seeed_MAX31850K: BRANCHES:[master:fd928e673d38b8870e4981809bdf6207ed2cb24e]|RELEASE:[none|none]
+Seeed-Studio/Seeed_PCA9685: BRANCHES:[master:2e1c22d329f3c8250a5bcf28de4a241920ad51d3]|RELEASE:[v0.0.1|e0e1f9b4a518939ecdf28a42f36c52b8181ad09c]
 Seeed-Studio/Seeed_Platform: BRANCHES:[master:a38ef3ad8cf232594c49d16584ef93bd7e293e33;test:1b5676a16b43f68ea00572dbbdb4179b01301364]|RELEASE:[none|none]
 Seeed-Studio/Seeed_QTouch: BRANCHES:[master:3c0f22ee2da84ab461f04606be0bed973a98464f]|RELEASE:[1.0.0|0f3eff11975ae6705f18a8d142b48ef95ea611a2]
 Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e2b037]|RELEASE:[none|none]
