@@ -1057,6 +1057,7 @@ Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d040
 Seeed-Studio/pxt-grove-zero-for-microbit: BRANCHES:[master:5e2b521509cafe7a0521775fc7e9ab9bd9d681b4]|RELEASE:[1.0.4|3b6c2be16ee31f2f87fc96b48487508f93c72fa2]
 Seeed-Studio/seeed-ambd-sdk: BRANCHES:[AT:d953d6473f1d7612d88b0aaeefadb48ee2e72e5c;master:d64c72293cd6d4b75f6b6f37eaa61376e1290e9c]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-TFLidar: BRANCHES:[master:ea396f046483f933172df246919f3ea6a9e0a7b2]|RELEASE:[none|none]
+Seeed-Studio/seeed-ardupy-ads1115: BRANCHES:[master:8f8fdb791082eac4d6cbdba0e87c3638f4e6bee8]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-amg8833: BRANCHES:[master:76a351da3513c3836a4448b59e1e8d893e211f5e]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-lcd1602: BRANCHES:[master:3b297dade7040e158074d31f2c02754f6926ef43]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-lis3dhtr: BRANCHES:[master:2e2ef3683912181909b3b3bdde8d174939b1a48e]|RELEASE:[none|none]
