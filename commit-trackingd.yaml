@@ -749,6 +749,7 @@ Seeed-Studio/BLDC_Motor_Shield_TB6605: BRANCHES:[master:8421f43e438030095fad7d68
 Seeed-Studio/BLE_Color_Pixels: BRANCHES:[master:1d8bc731f8a48d3b1aa42329de0bde0030cf56ab]|RELEASE:[none|none]
 Seeed-Studio/BLE_Example: BRANCHES:[master:c69e13f9d01cf79079627562f6d748c32e9c1198]|RELEASE:[none|none]
 Seeed-Studio/BME680_4_In_1_Sensor_Drv: BRANCHES:[master:3317d32eb0c1763974c847ebf0afd0d078bff029]|RELEASE:[none|none]
+Seeed-Studio/BOSSA: BRANCHES:[master:849bc2f47a50a484efde831fc5d6aa9797ab0b15;arduino:5cae9fee241bd3c95c197b2464e9b83240994c43]|RELEASE:[1.9.1-seeeduino|87bca5ab6538377b359f5f5bab4f4dae5ddceedc]
 Seeed-Studio/Bluetooth_Shield_Demo_Code: BRANCHES:[master:a20a782dd0fb9809764a63603db9cf742e285500]|RELEASE:[none|none]
 Seeed-Studio/Bluetooth_Shield_V2_Demo_Code: BRANCHES:[master:d866b1fdfc1c3b25652cdf35d558cf78ac290ce3]|RELEASE:[none|none]
 Seeed-Studio/CANBUS_SHIELD_OBD_RECIPLE: BRANCHES:[master:690fbb1ebb24991e2f90d77673d8ed9054c47cb6]|RELEASE:[none|none]
