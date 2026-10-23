@@ -1997,7 +1997,7 @@ sparkfun/Qtechknow_ArduSensor_Learning_Kit: BRANCHES:[master:6f79ab1d7baa8e5bd22
 sparkfun/Quadstepper_Motor_Driver: BRANCHES:[master:11eb4ca5ae08809133013f77357e962f9ba222a6]|RELEASE:[none|none]
 sparkfun/QuickLogic_Thing_Plus: BRANCHES:[main:07d226cfc7c69327714011948f35a965764fa982]|RELEASE:[none|none]
 sparkfun/Qwiic-Kit-for-Pi: BRANCHES:[main:f89c21117f9cc7dbc44df1f4d4a68bcb09ed2217]|RELEASE:[v1|6b7112e0b18b80b09053d3c08718e3bcd6ab0478]
-sparkfun/Qwiic-Pro-Kit-Code: BRANCHES:[master:d88f04a52393917612093c0c5b5ac821b631e49a]|RELEASE:[none|none]
+sparkfun/Qwiic-Pro-Kit-Code: BRANCHES:[master:d88f04a52393917612093c0c5b5ac821b631e49a]|RELEASE:[v1.0|f88fe799b4320d4b1c33a8086cb9374eb0b87705]
 sparkfun/QwiicBus_EndPoint: BRANCHES:[main:4e79187c4bd47fad1128c5e7f99eec37661c2d2f]|RELEASE:[none|none]
 sparkfun/QwiicBus_MidPoint: BRANCHES:[main:4a813ba1ff6069cf9f8473cf5f2bc29935edf28c;master:8b8e9763f2b60376332f38a8365a87f4c9d9278b]|RELEASE:[none|none]
 sparkfun/Qwiic_ADXL313_Py: BRANCHES:[main:06ea84251145c54cfa0fb05f876b6cd840bf4404;example4:ee7c7ddeaddcbbb9915d65cb905373635e099e37]|RELEASE:[v0.0.6_test|06ea84251145c54cfa0fb05f876b6cd840bf4404]
