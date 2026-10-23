@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 12:27
+commit-tracking: 2026-10-23 12:28
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1129,6 +1129,7 @@ Seeed-Studio/node-red-contrib-ml: BRANCHES:[main:69d5b535b687c3ccc121d30c54e7487
 Seeed-Studio/node-red-contrib-nodes: BRANCHES:[main:054c007b58b9acf5444394d84180c3dba627bd56;feat/ov5647-5mp:852c33f50021b02eee86db5a7675b54190a8dd10;dev:deff5d43b9576767a573e4d0f7ed5fce181459c1]|RELEASE:[v0.2.8|054c007b58b9acf5444394d84180c3dba627bd56]
 Seeed-Studio/node-red-seeed-recomputer: BRANCHES:[main:97e32b61dd2f675312adaa99447a2cc529bece14]|RELEASE:[none|none]
 Seeed-Studio/nrf51_dfu_bootloader: BRANCHES:[master:ce0123644578bc0c99596f841f2a917a705a8d1c]|RELEASE:[v0.1|43deb420fc0d275047841c76fd6586714ddab181]
+Seeed-Studio/one_channel_hub: BRANCHES:[master:735bb8e9efca9092c9580eeaff2d8678c509e5d5;xiao-esp32s3-sx1262-bt-config:311b9645b0f0b196bbd40a0fee0e5e10f414dc5e;xiao-esp32s3-sx1262:4cc771ac02da1bd18be67509f6b52d21bb0feabd]|RELEASE:[none|none]
 Seeed-Studio/pi-gen-expand: BRANCHES:[main:eaeed5edb9ccc41b1bbdca106aa7808dfcf11109;odm-100045506-4g-module:cca664989d20e756b2c6190e732869232b532563;revert-9-fix/swap-setup:7fcbe9af3a703a48e1d777e875e972732b4412cd;recomputer-r1125:79c26dd10ed85b8c63c028a9ca3fa535a3b84210;hailo-cm5:c49bebf9eb19e0fe5778085f90590c240e4f73d6;ai-box-cm5:94c9bf6f5ce62b2a861b5cf11a7e60c40af194dd]|RELEASE:[v1.1.8|20bc1f6b3bfc6a2395856dfef3fe55eb8b191430]
 Seeed-Studio/pi-hats: BRANCHES:[master:95e388a446bf2a83b030be30df32828e7650f79c;revert-12-master:7660f1ace46ccaa403c5aa5a12dc8f4cbd460893;dev:1b58735a9eb3b713c0a0c782a50499b26abf4ffe;turmary-patch-1:dbf65e3a74e02ea022383856349f3f66b5ad6bcd]|RELEASE:[v1.0|0db233c054cdd1b37fe7d6f6c3c6ecd019742449]
 Seeed-Studio/pi_repo: BRANCHES:[master:762450965d1e154589ab4069e344fca0283e6896]|RELEASE:[none|none]
