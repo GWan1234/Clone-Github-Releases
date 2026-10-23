@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:17
+commit-tracking: 2026-10-23 10:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -796,6 +796,7 @@ Seeed-Studio/Grove_Temperature_And_Humidity_Sensor: BRANCHES:[master:826ce8f2593
 Seeed-Studio/Grove_Temperature_Sensor: BRANCHES:[master:025956403b0d52bad41a006725f1b78fdae2fc49]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ultrasonic_Ranger_Suli: BRANCHES:[master:abdee250d745ef71277c7686dfee436bfcc24853]|RELEASE:[none|none]
 Seeed-Studio/Grove_Water_Sensor: BRANCHES:[master:4353040abd0f777bfc1301f973031831b9ea6e18]|RELEASE:[1.0.0|6bd34b830f2f1de1a69fa0d22592da5222956aae]
+Seeed-Studio/HM_01_SW: BRANCHES:[master:630a38206df233ef7f0e0bb4eec2c64581ec68d7]|RELEASE:[none|none]
 Seeed-Studio/Hercules_Motor_Driver: BRANCHES:[master:a49b8400d35153546d3acd8a58603e2459e1dc6a]|RELEASE:[1.0.1|9a16cbbe2a998ed0b39c35c2313c5e2bc69005e3]
 Seeed-Studio/I2C_ADC_Suli: BRANCHES:[master:784ded40ae167ae5e926288d70305bf73b9c6e37]|RELEASE:[none|none]
 Seeed-Studio/I2C_FM_Receiver: BRANCHES:[master:7cf2366a063a06bb29c1ed0872fe85418cc22a4e]|RELEASE:[none|none]
