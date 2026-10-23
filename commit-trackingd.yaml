@@ -836,6 +836,7 @@ Seeed-Studio/Magnetic_Switch: BRANCHES:[master:496d7e034db2e3f7d118014134ddbd560
 Seeed-Studio/Mecanum_Wheels_Car: BRANCHES:[master:990445015f36d4b3ebd42bab5aadf96d4c764a85]|RELEASE:[none|none]
 Seeed-Studio/Mesh_Bee: BRANCHES:[master:f472184977a696abee1c31b515c46d418633aa68;dev:e9fb212623b2a927666ef0b53ea6b24151f792e4;gh-pages:5d5f863cbd9589a0374b5926dffee1ddde21108a]|RELEASE:[v1.0.4|364a02e9df3d86ddfc278ca1f843ffcaef60e274]
 Seeed-Studio/Moisture_Sensor: BRANCHES:[master:9b328f4185364916389d01198d6745d9724fd952]|RELEASE:[none|none]
+Seeed-Studio/MotorBridgeCapeforBBG_BBB: BRANCHES:[master:6df07289f9cc2b6613f917d7ec77557d08fd2286]|RELEASE:[none|none]
 Seeed-Studio/Motor_Shield: BRANCHES:[master:cf79d2ebf996ecea323c6183a8f7f58399b8ffb6]|RELEASE:[none|none]
 Seeed-Studio/Music_Shield: BRANCHES:[master:195430b7c84a348780a1ced49ebd5ba475e6a80c]|RELEASE:[1.0.4|9219e4d5ce87b9d29d60f6a9b13f12f3c28d3cf2]
 Seeed-Studio/Mutichannel_Gas_Sensor: BRANCHES:[master:abb44bec847b03690f70d9a39af5e23615791bde]|RELEASE:[1.1.0|7345b5bfec2e66715a31540d48c3d403b409aebc]
