@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:20
+commit-tracking: 2026-10-23 11:21
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1016,6 +1016,7 @@ Seeed-Studio/Seeed_Serial_MP3_Player: BRANCHES:[master:e10cf51d6a56d764278d4983d
 Seeed-Studio/Seeed_Sketch_12ChKeypad: BRANCHES:[master:4a6b26ced245ef0b9068bd1d7f9b991b922bbfb4]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Sketch_ADXL356X: BRANCHES:[master:bb367df25ed41bfae378647c8a8db3cf65de1d7a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Sketch_adxl1001: BRANCHES:[master:1232f993fcde9af06dbba2910416f75ee2037add]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Studio_Courses: BRANCHES:[Edge-AI-101-with-Nvidia-Jetson-Course:0c3c40bfcd18dd2a6e91af3dbeb704547ea10e9d;main:e07138e1e6305348922b02e28b663a13db09a351;Seeed-Arduino-WioTerminal-TinyML-Course:716cff1030b83232fe67d0bbbc18f9356a29ed94]|RELEASE:[1.0|fedbd465788c38f0ae874cef3e249b0531ac0432]
 Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e2b037]|RELEASE:[none|none]
 Seeed-Studio/Seeed_VEML6070: BRANCHES:[master:b10decbd8501010ca8b1f7e6dfce59bd5cefbf9a]|RELEASE:[v1.0.1|f02a841fda9527f2735e4bab2a01b1f734429880]
 Seeed-Studio/Seeed_WikiWeekly: BRANCHES:[master:1e35266fab1d4c66aa2ce6780997b56db05109e2]|RELEASE:[none|none]
