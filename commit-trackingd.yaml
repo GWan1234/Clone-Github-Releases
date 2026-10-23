@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:31
+commit-tracking: 2026-10-23 10:32
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -798,6 +798,7 @@ Seeed-Studio/Grove_Haptic_Motor: BRANCHES:[master:e6c538b9e9f528de621399994b3fa2
 Seeed-Studio/Grove_HighTemp_Sensor: BRANCHES:[master:869e295cf1a8630026395b2b91e6ef962f2dadd2]|RELEASE:[1.0.1|5abe7728101c331e19567a15318b02b10a069efc]
 Seeed-Studio/Grove_High_Precision_RTC_PCF85063TP: BRANCHES:[master:0a0c114fcbba5321a6321310e0a7617fadf51e9d]|RELEASE:[1.0.0|ecd786153af66e8ccf7c38ccc4ea446cd36320ef]
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7]|RELEASE:[1.0.0|b64fdd7e34a69f8def5384f7282ea16d7b5d1241]
+Seeed-Studio/Grove_I2C_Color_Sensor_TCS3472: BRANCHES:[master:4afb01a8be0c7be1bdcfdb2bdb3c6e160fb5a2d6]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Motor_Driver_v1_3: BRANCHES:[master:8da2815d52f26783470f63b688e3ac1859740d2c]|RELEASE:[1.0.5|8da2815d52f26783470f63b688e3ac1859740d2c]
 Seeed-Studio/Grove_I2C_Touch_Sensor: BRANCHES:[master:fb28f8282acefba43812c3852846fad803f046a2]|RELEASE:[none|none]
