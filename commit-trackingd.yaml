@@ -877,6 +877,7 @@ Seeed-Studio/Rainbowduino_Snake_Game: BRANCHES:[master:b69bdc8f9dab96db2ad282269
 Seeed-Studio/Recipe_Magic_Feather_Fan: BRANCHES:[master:68a30cd23dc31f977ec55ba940148bcfa58b3070]|RELEASE:[none|none]
 Seeed-Studio/Rfid_Reader_Suli: BRANCHES:[master:39a193db21821dc384e0a751884270348a9e151d]|RELEASE:[none|none]
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0]|RELEASE:[none|none]
+Seeed-Studio/SD: BRANCHES:[master:10464b7fe64291dcf6e89ff623e4d80f31a203a4]|RELEASE:[none|none]
 Seeed-Studio/SGL: BRANCHES:[master:41f6cbc3e253f720a1885dd50ce58c02f6e2c407]|RELEASE:[none|none]
 Seeed-Studio/SeeedMotorShieldV2: BRANCHES:[master:e1a106360fd59c85f56f2f0d9599a309cbb287a3]|RELEASE:[1.0.1|fce2953d6809d9250a3d2d54010f589203437054]
 Seeed-Studio/Seeed_Arduino_ADXL345: BRANCHES:[master:2872e236ede75827b8f8b086a5d71eb1b64de9b9]|RELEASE:[v1.0.0|0ad23e7397f383e15b186aa48a7dce0b7f7a815e]
