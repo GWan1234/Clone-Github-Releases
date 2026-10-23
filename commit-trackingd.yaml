@@ -1028,6 +1028,7 @@ Seeed-Studio/Xadow_Motor_Driver: BRANCHES:[master:62279a3af9bcb0a3a91fc11a5de041
 Seeed-Studio/Xadow_Strap: BRANCHES:[master:7598b642888c0724b042120ae987208fa169b80d]|RELEASE:[none|none]
 Seeed-Studio/Xadow_Watch_Recipe: BRANCHES:[master:fc3b63231af233ec75efc030530faa12db76682d]|RELEASE:[none|none]
 Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1]|RELEASE:[none|none]
+Seeed-Studio/ardupy-aip: BRANCHES:[master:1c0d143dc811f1be1bd7260100985db9a317e2f7;dev:3faa9f728a57a37aa325410e1fd49125c2d90a53;support-xiao:93ddcf285bcd90484ea41a018be0ff00f4c88f70;v0.6.0:326037fb47af5aa524a4e04f9f9d99b83ce3f293]|RELEASE:[v1.0.0|1c0d143dc811f1be1bd7260100985db9a317e2f7]
 Seeed-Studio/beaglebone-getting-started: BRANCHES:[BBGW:198402eb50fba9cc6489f2689ec85315641c3d06;BBG:a1a54a0e978e4d8298895801746e2bb7248a6071;master:267ccde4d2f35b3fb5fd5f2f36750cf2867fd0cc;a3:594f61883c53754520efedc6ba33d9bc487d77ce;windows-ftdi-feedback:790d0a1ad3ae528e0e20650cacc8c98aa95df2bf]|RELEASE:[none|none]
 Seeed-Studio/esp-at-lib: BRANCHES:[develop:2f081fa061cc5217c7de79961f1be2ac65a35163;uart-at:734cbc1a1357efcb62df1e4f770240b8b8917300;master:4ed93be0ddf54024ad075d0d5842cdf080739819]|RELEASE:[none|none]
 Seeed-Studio/fritzing_parts: BRANCHES:[master:aec4c5d84a93a3ecac34c1e2fb5de92975d1ddcc]|RELEASE:[none|none]
