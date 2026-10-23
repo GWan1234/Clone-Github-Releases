@@ -2549,7 +2549,7 @@ sparkfun/SparkFun_RFD77402_Arduino_Library: BRANCHES:[master:41c09c45e1182cd40ce
 sparkfun/SparkFun_RFID_USB-C_Reader: BRANCHES:[gh-pages:0a7909086f6d064cfb86cab6dd6e1238d0818127;main:63c7a5d71cbd1df8f9b420ec320d239ea6a86d33]|RELEASE:[v10|42822a2a45416801c53c0341c36e8a2358feb599]
 sparkfun/SparkFun_RGB_CBI: BRANCHES:[main:7e411ad9eca17adf1e508975a7ccc37e640fc150]|RELEASE:[none|none]
 sparkfun/SparkFun_RGB_OLED_64x64_Arduino_Library: BRANCHES:[master:26ac43d4ccc9606dc6b8305d1b1375271173b2a5]|RELEASE:[1.0.0|cde2d2ed820fbf4885912417152cbdff506a2323]
-sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[none|none]
+sparkfun/SparkFun_RHT03_Arduino_Library: BRANCHES:[master:8fe3386324b0506d363f1a4f693c68530d7ccf3f]|RELEASE:[v1.0.0|03c1988fe9d1a4201da06b86781a7ef994b093b4]
 sparkfun/SparkFun_RHT03_Particle_Library: BRANCHES:[master:f03156d061a32dff31b52a58dc7020bc9768c075]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Arduino_Lib_Builder: BRANCHES:[extra_debug:d05397316174f979bde8683c7e2b950785bbf742;main:1c2a78e4198c22a4830c8f5c4f162f8960aefee0]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_EVK: BRANCHES:[gh-pages:a82ee4b34f0e3ae1165ff39f6beab0c3bf596240;main:5704e26d9ca373bed4e0504b0571e29be5153b1c]|RELEASE:[none|none]
