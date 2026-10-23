@@ -778,6 +778,7 @@ Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a7
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
+Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
 Seeed-Studio/Small_ePaper_Shield: BRANCHES:[master:0eb0911532a38777faf8cda7e815df49e64696bc]|RELEASE:[1.0.1|abc5d236642acdb0804d675b1ee7dbbc91a8954e]
 Seeed-Studio/SmartMeterWithUI: BRANCHES:[master:d57996688d5707a3d594fe7414ad38325cd91e7e]|RELEASE:[none|none]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
