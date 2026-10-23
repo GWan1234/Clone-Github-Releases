@@ -974,6 +974,7 @@ Seeed-Studio/Seeed_Arduino_Linechart: BRANCHES:[master:53cebccb5cc8a6625b4d69bce
 Seeed-Studio/Seeed_Arduino_LoRaE5: BRANCHES:[master:20ebdd05f34e314b43c0574ada6bb8ca0c3367b4]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_LvGL: BRANCHES:[master:ca14fa691a7c0b556d1117caf0c4d82ac646c78b;add-license-1:381963c70d28ee51a18e43403a812839f9a6dee6]|RELEASE:[v1.0.0|1eafd1a7d49b9517b992097d790941221b69ddb1]
 Seeed-Studio/Seeed_Arduino_MG126: BRANCHES:[master:1a55f09c3c7e0a9d03436f0b1d1d4b7fc4c4c91a]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Arduino_MIDIMaster: BRANCHES:[main:05cda71ced617f371c3baab872adf196d9fc82e5;readme:2c29840fd17dec1f6dfccdc17295abe6af9d4584]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_MLX9064x: BRANCHES:[master:17db92f15877fbcbf073c42dacbf437b2ad9e205;add-license-1:c6317161be8b19b59ae72e95b5e60e23c0f512aa]|RELEASE:[v1.0.1|359cf0f2fa4ab1132f333d70a6669307eaeb08c3]
 Seeed-Studio/Seeed_Arduino_Mic: BRANCHES:[master:d4e5f92a80629308ccfb35caed090920da052618]|RELEASE:[1.0|209dfdacd41e5e060e1733ee9daeb9be3c0d7798]
 Seeed-Studio/Seeed_Arduino_MultiGas: BRANCHES:[master:864730f97cfa57e170580f3148c8ea3fff1f3ee8]|RELEASE:[v1.0.0|9dd6828bdcbdf80b08ed784e787ed9a2d382aa26]
