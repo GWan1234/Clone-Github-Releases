@@ -790,6 +790,7 @@ Seeed-Studio/SidekickAdvancedKit_Lesson: BRANCHES:[master:33056a8143cd02e1045124
 Seeed-Studio/Small_ePaper_Shield: BRANCHES:[master:0eb0911532a38777faf8cda7e815df49e64696bc]|RELEASE:[1.0.1|abc5d236642acdb0804d675b1ee7dbbc91a8954e]
 Seeed-Studio/SmartMeterWithUI: BRANCHES:[master:d57996688d5707a3d594fe7414ad38325cd91e7e]|RELEASE:[none|none]
 Seeed-Studio/Starter_Shield: BRANCHES:[master:68ebac97ac39c961cf3cb7410f16e577f2456b2c]|RELEASE:[none|none]
+Seeed-Studio/TFT_Touch_Shield_V2: BRANCHES:[master:a98b7c596fba13cc0547d8d4e3a21e22d7ffba2e]|RELEASE:[v2.0.3|2db79befb696fa69cddab4515e5ce4539d672702]
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08]|RELEASE:[none|none]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
 Seeed-Studio/Xadow_IMU_6DOF: BRANCHES:[master:1b816f1f96142d70f4da443369fb287c7b400b75]|RELEASE:[none|none]
