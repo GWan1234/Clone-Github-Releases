@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 09:57
+commit-tracking: 2026-10-23 09:58
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -746,6 +746,7 @@ Seeed-Studio/Grove_Chest_Strap_Heart_Rate_Sensor: BRANCHES:[master:004e48aac52cb
 Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]|RELEASE:[2.0.0|11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]
 Seeed-Studio/Grove_Dust_Sensor: BRANCHES:[master:d76ebfd07ce8cc75f3078681a75243a34770d641]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor: BRANCHES:[master:3aef26f550248167403409eb542b89f4a9e9c83e]|RELEASE:[none|none]
+Seeed-Studio/Grove_Flame_Sensor: BRANCHES:[master:f78973d6c43b42dd3cd156b2684b1184da134c23]|RELEASE:[0.1|3407c901e3bab619f6da21969c1bdd5fc92e34d3]
 Seeed-Studio/Grove_Gas_Sensor: BRANCHES:[master:fdd39507a7869351f9ff5a6f26e94d0ca389fbcb]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7]|RELEASE:[1.0.0|b64fdd7e34a69f8def5384f7282ea16d7b5d1241]
 Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
