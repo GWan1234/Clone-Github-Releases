@@ -2383,7 +2383,7 @@ sparkfun/SparkFun_LP55231_Arduino_Library: BRANCHES:[master:51b51eed8dcd986bd116
 sparkfun/SparkFun_LPS25HB_Arduino_Library: BRANCHES:[master:8bff45572c9251413bd854a44ba75aa2f33a9fff]|RELEASE:[v1.1.1|8bff45572c9251413bd854a44ba75aa2f33a9fff]
 sparkfun/SparkFun_LPS28DFW_Arduino_Library: BRANCHES:[main:8aa5e0f0558ffb7ea3c90ab5dc3ba56b618d4dd5]|RELEASE:[v1.0.0|e7cb55d52ffda42dfc9a8138037ebe7fae8f9c7b]
 sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library: BRANCHES:[master:a70a355406dbaf694c3858c27028fcae99191519]|RELEASE:[none|none]
-sparkfun/SparkFun_LSM6DS3_Arduino_Library: BRANCHES:[master:fa686db5006826a84e5d930bb83838406905b571]|RELEASE:[none|none]
+sparkfun/SparkFun_LSM6DS3_Arduino_Library: BRANCHES:[master:fa686db5006826a84e5d930bb83838406905b571]|RELEASE:[v1.0.3|fa686db5006826a84e5d930bb83838406905b571]
 sparkfun/SparkFun_LSM6DSV16X_Arduino_Library: BRANCHES:[main:2989647add0287287e1bd50b0be90596fb672ff1]|RELEASE:[v1.0.2|55a0aa1c9f121fe112e74a474f91f8075f209e74]
 sparkfun/SparkFun_LSM9DS0_Arduino_Library: BRANCHES:[master:76178f65a44a77697f2db219f3095f89b75131de]|RELEASE:[none|none]
 sparkfun/SparkFun_LSM9DS1_Arduino_Library: BRANCHES:[master:18d3181c2bf2826c85b819079e3e626d12ab763b]|RELEASE:[v2.0.0|7269199c7a38a70becf454148474c6f05028e5b7]
