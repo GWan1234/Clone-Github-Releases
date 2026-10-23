@@ -775,6 +775,7 @@ Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167d
 Seeed-Studio/Grove_Chainable_RGB_LED: BRANCHES:[master:e4cd2e58527792db23701d39e028ab32148107ea]|RELEASE:[1.0.0|562b64719ff2ba7f793d50c092f0250517d457e1]
 Seeed-Studio/Grove_Chest_Strap_Heart_Rate_Sensor: BRANCHES:[master:004e48aac52cb263f55cebeb3f7126530a1d67ec]|RELEASE:[none|none]
 Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]|RELEASE:[2.0.0|11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]
+Seeed-Studio/Grove_Drivers_for_mbed: BRANCHES:[master:c3da26128679b72ed660b09ff7d95cc7887e7ee0]|RELEASE:[none|none]
 Seeed-Studio/Grove_Dust_Sensor: BRANCHES:[master:d76ebfd07ce8cc75f3078681a75243a34770d641]|RELEASE:[none|none]
 Seeed-Studio/Grove_EMG_detector_demo_code: BRANCHES:[master:5e945981ce9aa4b48ceb95a45e828543108d19d2]|RELEASE:[none|none]
 Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor: BRANCHES:[master:3aef26f550248167403409eb542b89f4a9e9c83e]|RELEASE:[none|none]
