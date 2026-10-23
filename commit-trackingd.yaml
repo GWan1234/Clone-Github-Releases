@@ -731,6 +731,7 @@ Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
+Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167da0ed1295267726]|RELEASE:[v2.1.0|a4de7d924791c41572a3f7d4ff500943a1e1d62f]
 Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]|RELEASE:[2.0.0|11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]
 Seeed-Studio/Music_Shield: BRANCHES:[master:195430b7c84a348780a1ced49ebd5ba475e6a80c]|RELEASE:[1.0.4|9219e4d5ce87b9d29d60f6a9b13f12f3c28d3cf2]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
