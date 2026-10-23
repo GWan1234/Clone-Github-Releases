@@ -801,6 +801,7 @@ Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d53
 Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Motor_Driver_v1_3: BRANCHES:[master:8da2815d52f26783470f63b688e3ac1859740d2c]|RELEASE:[1.0.5|8da2815d52f26783470f63b688e3ac1859740d2c]
 Seeed-Studio/Grove_I2C_Touch_Sensor: BRANCHES:[master:fb28f8282acefba43812c3852846fad803f046a2]|RELEASE:[none|none]
+Seeed-Studio/Grove_IMU_10DOF_v2.0: BRANCHES:[master:be7967bb9f135fce77704489d2cb543d202797cd]|RELEASE:[none|none]
 Seeed-Studio/Grove_IMU_9DOF: BRANCHES:[master:0635b3f25b9fb390f50043df43736e760f80b93f]|RELEASE:[v1.0.0|85984295f4f1c7ee20386bc0c3607ecfbc80d741]
 Seeed-Studio/Grove_IR_Distance_Sensor: BRANCHES:[master:a718128b5d549927a40b877edcef76f5f86f695e]|RELEASE:[none|none]
 Seeed-Studio/Grove_Indoor_Environment_Demo: BRANCHES:[master:e94dca53bbfdf0bd5304377e10eccfa3cc009f52]|RELEASE:[none|none]
