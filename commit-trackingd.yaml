@@ -901,6 +901,7 @@ Seeed-Studio/Xadow_Edison_Demos: BRANCHES:[master:882f1847f434c84eabe8fcafe6685f
 Seeed-Studio/Xadow_IMU_6DOF: BRANCHES:[master:1b816f1f96142d70f4da443369fb287c7b400b75]|RELEASE:[none|none]
 Seeed-Studio/Xadow_MainBoard: BRANCHES:[master:4cb5aff0f0af8098119ef601a62d58595968c9da]|RELEASE:[none|none]
 Seeed-Studio/Xadow_Motor_Driver: BRANCHES:[master:62279a3af9bcb0a3a91fc11a5de04137c4605756]|RELEASE:[1.0.0|685c753caf666e9c5fc3e8eedb8064f76d24bf65]
+Seeed-Studio/Xadow_Strap: BRANCHES:[master:7598b642888c0724b042120ae987208fa169b80d]|RELEASE:[none|none]
 Seeed-Studio/Xadow_Watch_Recipe: BRANCHES:[master:fc3b63231af233ec75efc030530faa12db76682d]|RELEASE:[none|none]
 Seeed-Studio/Xively_GPRS: BRANCHES:[master:ef91e8a3171e2e37ac7a6655e74c2ba71e23d8f1]|RELEASE:[none|none]
 Seeed-Studio/fritzing_parts: BRANCHES:[master:aec4c5d84a93a3ecac34c1e2fb5de92975d1ddcc]|RELEASE:[none|none]
