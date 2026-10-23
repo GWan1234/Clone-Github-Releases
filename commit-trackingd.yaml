@@ -852,6 +852,7 @@ Seeed-Studio/Tiny_BLE: BRANCHES:[master:a0c4545ae6ca579d31eb2ea71257fb10c6b5e072
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08]|RELEASE:[none|none]
 Seeed-Studio/Touch_Screen_Driver: BRANCHES:[master:df4bd6e974dc84a1c16f532ba179cb0231e52007]|RELEASE:[1.0.0|380088b5b770233c8e7d0f61c6098a9295e03806]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
+Seeed-Studio/Xadow_Edison_Demos: BRANCHES:[master:882f1847f434c84eabe8fcafe6685f4138b99789]|RELEASE:[none|none]
 Seeed-Studio/Xadow_IMU_6DOF: BRANCHES:[master:1b816f1f96142d70f4da443369fb287c7b400b75]|RELEASE:[none|none]
 Seeed-Studio/Xadow_MainBoard: BRANCHES:[master:4cb5aff0f0af8098119ef601a62d58595968c9da]|RELEASE:[none|none]
 Seeed-Studio/Xadow_Motor_Driver: BRANCHES:[master:62279a3af9bcb0a3a91fc11a5de04137c4605756]|RELEASE:[1.0.0|685c753caf666e9c5fc3e8eedb8064f76d24bf65]
