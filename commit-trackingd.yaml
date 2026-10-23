@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:24
+commit-tracking: 2026-10-23 10:25
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -767,6 +767,7 @@ Seeed-Studio/Grove-Eagle: BRANCHES:[master:501ba4cf3e47f6f3cd515c5788c371b85d3e0
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
 Seeed-Studio/Grove-Starter-Kit-for-LaunchPad: BRANCHES:[master:80b5932cb3318f20959e397ab56ac173b4c40a5b]|RELEASE:[none|none]
 Seeed-Studio/GrovePi: BRANCHES:[master:787407561437cab308e6c4e1779fcafc5f3c9fb7]|RELEASE:[none|none]
+Seeed-Studio/GrovePiExamples_win10: BRANCHES:[master:ce67ee10e484089536b4c531b39800f2d16c53c2]|RELEASE:[none|none]
 Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L: BRANCHES:[master:748d32112e91e94923d9019ded908606a31fb6aa]|RELEASE:[v1.0.1|c7cec2f9123633825a759aee6c20313c074f7089]
 Seeed-Studio/Grove_3_Axis_Digital_Gyro: BRANCHES:[master:77861f69df5c5aa58d88349aa86496f21df7097c]|RELEASE:[v1.0.0|e4ecd3472233c028b041a775ea3ed929882c44ae]
 Seeed-Studio/Grove_4Digital_Display: BRANCHES:[master:909294b7423787a5dc520e0e4bd688d000f95977]|RELEASE:[v2.0.0|3bcfc25f52fad18bc7223a711cacbd38b8436208]
