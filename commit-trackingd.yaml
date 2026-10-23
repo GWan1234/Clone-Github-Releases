@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:43
+commit-tracking: 2026-10-23 10:44
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -932,6 +932,7 @@ Seeed-Studio/Seeed_PCA9685: BRANCHES:[master:2e1c22d329f3c8250a5bcf28de4a241920a
 Seeed-Studio/Seeed_PM2_5_sensor_HM3301: BRANCHES:[master:e3ffb82374c874f216c0fabd699b8f065e0cdc0c]|RELEASE:[v1.0.2|0a7908b8125a5e99acecb3b5b2893d19db2c6f76]
 Seeed-Studio/Seeed_Platform: BRANCHES:[master:a38ef3ad8cf232594c49d16584ef93bd7e293e33;test:1b5676a16b43f68ea00572dbbdb4179b01301364]|RELEASE:[none|none]
 Seeed-Studio/Seeed_QTouch: BRANCHES:[master:3c0f22ee2da84ab461f04606be0bed973a98464f]|RELEASE:[1.0.0|0f3eff11975ae6705f18a8d142b48ef95ea611a2]
+Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb9075a00a7e67c58]|RELEASE:[none|none]
 Seeed-Studio/Seeed_SHT35: BRANCHES:[master:0abb003e939153b4c19f127d84d48c938c15f746]|RELEASE:[v1.0.2|6ed044a81d0fdc1107c9aebec4f00894601b5877]
 Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e2b037]|RELEASE:[none|none]
 Seeed-Studio/Seeed_VEML6070: BRANCHES:[master:b10decbd8501010ca8b1f7e6dfce59bd5cefbf9a]|RELEASE:[v1.0.1|f02a841fda9527f2735e4bab2a01b1f734429880]
