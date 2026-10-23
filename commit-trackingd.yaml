@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:06
+commit-tracking: 2026-10-23 10:07
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -747,6 +747,7 @@ Seeed-Studio/Grove_4Digital_Display: BRANCHES:[master:909294b7423787a5dc520e0e4b
 Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass: BRANCHES:[master:88a382f7d956c0e7c06f51e3742302f5504c37fe;6-Axis-Accelerometer&Compass-v2.0:f6bbfa4ab58fa433e98f0649ac22e24859782687]|RELEASE:[none|none]
 Seeed-Studio/Grove_Air_quality_Sensor: BRANCHES:[master:be207e017b5ad89647a8cf991b70b0f1e5a5d96e]|RELEASE:[v1.0.2|078384ffdcf855a2d0840e5368a66b9c01249f18]
 Seeed-Studio/Grove_Alcohol_Sensor: BRANCHES:[master:dcc8fcc75adab8fa5f802a759cffe7cf6410c55b]|RELEASE:[none|none]
+Seeed-Studio/Grove_Barometer_HP20x: BRANCHES:[master:6215e2416a8afb26cdd62f0beb222d3ab0240f43]|RELEASE:[v1.0.0|6c993d5a45676efd064fe1186811d0e7358b74bc]
 Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167da0ed1295267726]|RELEASE:[v2.1.0|a4de7d924791c41572a3f7d4ff500943a1e1d62f]
 Seeed-Studio/Grove_Chainable_RGB_LED: BRANCHES:[master:e4cd2e58527792db23701d39e028ab32148107ea]|RELEASE:[1.0.0|562b64719ff2ba7f793d50c092f0250517d457e1]
 Seeed-Studio/Grove_Chest_Strap_Heart_Rate_Sensor: BRANCHES:[master:004e48aac52cb263f55cebeb3f7126530a1d67ec]|RELEASE:[none|none]
