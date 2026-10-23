@@ -745,6 +745,7 @@ Seeed-Studio/Grove_Dust_Sensor: BRANCHES:[master:d76ebfd07ce8cc75f3078681a75243a
 Seeed-Studio/Grove_Ear_Clip_Heart_Rate_Sensor: BRANCHES:[master:3aef26f550248167403409eb542b89f4a9e9c83e]|RELEASE:[none|none]
 Seeed-Studio/Grove_Gas_Sensor: BRANCHES:[master:fdd39507a7869351f9ff5a6f26e94d0ca389fbcb]|RELEASE:[none|none]
 Seeed-Studio/Grove_I2C_Color_Sensor: BRANCHES:[master:cf6765e1dbca5cbf70a8fe7d533c3ff314e0edd7]|RELEASE:[1.0.0|b64fdd7e34a69f8def5384f7282ea16d7b5d1241]
+Seeed-Studio/Grove_I2C_Motor_Driver: BRANCHES:[master:d52d5e76183fb69e628e89334cb675fb09b399a8]|RELEASE:[none|none]
 Seeed-Studio/Grove_IR_Distance_Sensor: BRANCHES:[master:a718128b5d549927a40b877edcef76f5f86f695e]|RELEASE:[none|none]
 Seeed-Studio/Grove_Infrared_Temperature_Sensor: BRANCHES:[master:f81cebb69ed20c8ba2c7c74df902584269bd37dd]|RELEASE:[none|none]
 Seeed-Studio/Grove_Temperature_And_Humidity_Sensor: BRANCHES:[master:826ce8f2593f810a6063cb1cbc788fc6519dc25e;fix/dht-count-16mhz:f32a91f034230aa190c685a1ffb4e099b198f199]|RELEASE:[v2.0.2|3deba8a662ffa79c7755f02b59a2d21d500e6b52]
