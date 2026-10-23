@@ -2606,7 +2606,7 @@ sparkfun/SparkFun_STUSB4500_Arduino_Library: BRANCHES:[master:7f76188b7900d930ae
 sparkfun/SparkFun_SX1509_Arduino_Library: BRANCHES:[master:523e4fe8c4c9671a0226990979aaed408f587db4]|RELEASE:[v3.0.6|523e4fe8c4c9671a0226990979aaed408f587db4]
 sparkfun/SparkFun_Satellite_Transceiver-Swarm_M138: BRANCHES:[main:89fb89156547127c3dc262fd7d005e53817f617a]|RELEASE:[none|none]
 sparkfun/SparkFun_SerLCD_Arduino_Library: BRANCHES:[master:4b1fd6b97f1f21731f4e319442b34356bade2bbb]|RELEASE:[none|none]
-sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library: BRANCHES:[master:2fc3acb208b8530e489be425e19da2c347c77662]|RELEASE:[none|none]
+sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library: BRANCHES:[master:2fc3acb208b8530e489be425e19da2c347c77662]|RELEASE:[v1.0.4|ad468e28d858b78993c27b23627ee4f7aa6abffd]
 sparkfun/SparkFun_Serial_Graphic_LCD_Particle_Library: BRANCHES:[master:b7be4abded92a76fa55d5f860f45b6737cd68384]|RELEASE:[none|none]
 sparkfun/SparkFun_Serial_MP3_Player_Shield-MY1690X: BRANCHES:[gh-pages:4f8bb992a518936856fd7606732df199a42c41de;main:07ee9a7c96ce67d4a7f7b3508b7c5f626591dfe0]|RELEASE:[none|none]
 sparkfun/SparkFun_Si4703_Arduino_Library: BRANCHES:[master:2510e57738ef3fb0c938d5d7283dc99060ae606d]|RELEASE:[V_1.3.0|596d9c042aff8debcebaf86cf1414bf35ef9fd44]
