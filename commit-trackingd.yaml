@@ -2302,7 +2302,7 @@ sparkfun/SparkFun_ESP32_Qwiic_Pro_Mini: BRANCHES:[gh-pages:4a0f8db678fab67f88431
 sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield: BRANCHES:[master:ea55d9d5a0a1d7c638f598915d8ebc329b2e8753]|RELEASE:[none|none]
 sparkfun/SparkFun_ESP8266_AT_Arduino_Library: BRANCHES:[master:f52ddca7b6a75eccdebb2851c033485ffe414864]|RELEASE:[V_1.0.0|44bcb9294f2e51342983402ebb3a2b0065472555]
 sparkfun/SparkFun_Eagle_Settings: BRANCHES:[main:b4dd178bea6bf97d586f5cf2bf20edca98f1f488;Panlizer4Layer:43c70cc917b2e5d20b88eb1fcbfbaca0013613d9]|RELEASE:[none|none]
-sparkfun/SparkFun_Edge: BRANCHES:[v2LP-fix-camera-data-pins:01be747e08aa468c16e8fb35cc6e65c93736b0ba;v2LP:f6d2c700e915df29f858d5fed748a4fb129b6948;master:9efcf61f287932238491e4a1fd18f7a280a244c0;fix-v1-camera-net-labels:dbcdc67424bdec42d6221d12a485124846e7cef6]|RELEASE:[none|none]
+sparkfun/SparkFun_Edge: BRANCHES:[v2LP-fix-camera-data-pins:01be747e08aa468c16e8fb35cc6e65c93736b0ba;v2LP:f6d2c700e915df29f858d5fed748a4fb129b6948;master:9efcf61f287932238491e4a1fd18f7a280a244c0;fix-v1-camera-net-labels:dbcdc67424bdec42d6221d12a485124846e7cef6]|RELEASE:[v2.0.0|cb867d2f2cc84c7fcb2fdf0f46ce7ef281175711]
 sparkfun/SparkFun_Edge_BSP: BRANCHES:[master:6ea7ef137132bb0cb4b27abe837c913c7643f11e]|RELEASE:[none|none]
 sparkfun/SparkFun_Enclosure_Panel_Library_for_Eagle: BRANCHES:[main:02d0437c903293b22ac1bf3e29999d91dd1ee94b]|RELEASE:[none|none]
 sparkfun/SparkFun_Environmental_Combo_Breakout_ENS160_BME280_QWIIC: BRANCHES:[gh-pages:e245bf9cdc6e51901454aa6bc2b6b7227ec8f615;main:f268b703dbc4f751e621dbbfca2c8875c3241058]|RELEASE:[none|none]
