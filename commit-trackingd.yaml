@@ -903,6 +903,7 @@ Seeed-Studio/SeeedMotorShieldV2: BRANCHES:[master:e1a106360fd59c85f56f2f0d9599a3
 Seeed-Studio/Seeed_ACS70331: BRANCHES:[master:3a7cf31098c35a19cbb0189501117ae2a4ef3092]|RELEASE:[none|none]
 Seeed-Studio/Seeed_AMG8833: BRANCHES:[master:cdd14d6a83d5b9dfb3445239ded2c43f9df7f2d2;lcd:461eac1d5e4e8a588c7516a57567abff773c30af]|RELEASE:[none|none]
 Seeed-Studio/Seeed_AMG8833_Raspberry_Python: BRANCHES:[master:249fd64e07712b7300de459bfc3afedf2d074c6a]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Alphanumeric_Display_HT16K33: BRANCHES:[master:d0f57f74ccc5bd18759c4785be408709b506044c]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_ADXL345: BRANCHES:[master:2872e236ede75827b8f8b086a5d71eb1b64de9b9]|RELEASE:[v1.0.0|0ad23e7397f383e15b186aa48a7dce0b7f7a815e]
 Seeed-Studio/Seeed_Arduino_BME68x: BRANCHES:[master:cce596a29d83c021e20fc976d82be36645c348e1]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Arduino_CAN: BRANCHES:[master:cb607da7da84d3ebf375948b70e5a909b80f2f8f;fix/spi-begin-esp32-compat:34c1d6ff911bb2766e8d6d1573ef26ba985b3d5e;can-serial:ac504106e49cf79769d17d8191187c4463d01589;old:dc2fb92dad4ac537d3eff4d8f3d354a4b1a17e03;coolc:6bdd376f34817a70baef1d4b4f9daa39aa3e1a04;arduino-canbus-monitor:942138d09f73051439cf657aa8e4a201187dd83b]|RELEASE:[V2.3.4|cb607da7da84d3ebf375948b70e5a909b80f2f8f]
