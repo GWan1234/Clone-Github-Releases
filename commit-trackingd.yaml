@@ -860,6 +860,7 @@ Seeed-Studio/Seeeduino_GPRS: BRANCHES:[master:dd5abd935a62632960749e9027fa4e53c0
 Seeed-Studio/Seeeduino_lotus_Usage: BRANCHES:[master:6b2606dc33f2a50bf1404ef65a2502c5ac03534c]|RELEASE:[none|none]
 Seeed-Studio/SidekickAdvancedKit_Lesson: BRANCHES:[master:33056a8143cd02e1045124f502a54a2d38985dac]|RELEASE:[none|none]
 Seeed-Studio/Sidekick_Basic_Kit_for_LinkIt: BRANCHES:[master:82986c87874f85634ef52b0714cdb94bbacfae0c]|RELEASE:[none|none]
+Seeed-Studio/Signed_USB_Serial_Driver: BRANCHES:[master:2c18d05dc7efd71cc8a2229abf8bb1da3e6acd82]|RELEASE:[1.0.3|963418c9ad5c408af564013e38db89787d65c11e]
 Seeed-Studio/Sketch_Grove_LinkIt: BRANCHES:[master:9a22838340b6fe1f8f9f9cbed960f0eb385d9b75]|RELEASE:[none|none]
 Seeed-Studio/Sketchbook_Starter_Kit_V2.0: BRANCHES:[master:c3280fa760dcf6f2af5535ec4cd2264d86f30de1]|RELEASE:[none|none]
 Seeed-Studio/Sketchbook_Starter_Kit_for_Arduino: BRANCHES:[master:35ea873dfa0a11721db8aae868a6878517d78573]|RELEASE:[none|none]
