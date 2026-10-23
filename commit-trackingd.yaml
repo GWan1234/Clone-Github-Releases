@@ -2570,7 +2570,7 @@ sparkfun/SparkFun_RTK_Torch: BRANCHES:[gh-pages:d240c9f1fd62c02a537874ed30d1b24c
 sparkfun/SparkFun_RTK_mosaic-X5: BRANCHES:[release_candidate:c8ea0a5a9c4407e03a627c30f79af9236ee446c0;gh-pages:558c0145e453f2ba5e8d05462d18b505280dfa2e;main:b0e48fceb203100c6d2cc7698631e4260a7d4b12;onocoy-instructions:d17ef79534b810c707427bb203307f61fe593b1f]|RELEASE:[v1.0.6|b0e48fceb203100c6d2cc7698631e4260a7d4b12]
 sparkfun/SparkFun_RV-1805_Arduino_Library: BRANCHES:[master:4b473249282426773ded2f08d9d9eb204068902a]|RELEASE:[v1.1.0|4b473249282426773ded2f08d9d9eb204068902a]
 sparkfun/SparkFun_RV-8803_Arduino_Library: BRANCHES:[main:f0edcf87963e08126aeca20a36db9a5c845cfa5b;release_candidate:6ae28e3221e90334a2fa5f84d7f00fb470573abc;get_epoch_fix:daa80375f705b6882d4bba54455d3909e9bd0465]|RELEASE:[v1.2.10|f0edcf87963e08126aeca20a36db9a5c845cfa5b]
-sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c]|RELEASE:[none|none]
+sparkfun/SparkFun_RadioHead_Arduino_Library: BRANCHES:[master:a8fc8d22784754f40c191e642c652e0ebb4b288c]|RELEASE:[v1.4.2|4f40f72bcff65eaac37b7f88af941c0f5805d544]
 sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803: BRANCHES:[master:3e7ea152fc18804519abb0774bacf88edacfb60f]|RELEASE:[none|none]
 sparkfun/SparkFun_Red-V_Thing_Plus: BRANCHES:[master:f070a32961887692f1d988bd41f9c036962369a0]|RELEASE:[none|none]
 sparkfun/SparkFun_RedBot_Arduino_Library: BRANCHES:[master:8b397d595a4c2a656af2380a36b9a8ca4c973bf0]|RELEASE:[none|none]
