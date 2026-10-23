@@ -1730,7 +1730,7 @@ sparkfun/HaterMatic: BRANCHES:[master:bb08cd5ee309f4f652027030ea31921a6f516f87]|
 sparkfun/Home_Air_Quality_Monitor: BRANCHES:[gh-pages:3f5e8cd6335a5dbe0b7daf02d37bbe3352a831c9;main:73d794fa71c36cf6ee3892f159c489f3c8bf9803]|RELEASE:[none|none]
 sparkfun/Humidity_Sensor_Breakout-HIH-4030: BRANCHES:[master:f2c4f8a17795046a75e773e91c835f36dae7af8f]|RELEASE:[none|none]
 sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary: BRANCHES:[master:969668b8ecb61e982bf14b3bdaf5eb53f0341278]|RELEASE:[V1.0.0|969668b8ecb61e982bf14b3bdaf5eb53f0341278]
-sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]|RELEASE:[none|none]
+sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary: BRANCHES:[master:d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]|RELEASE:[v1.0.2|d6d0df69b5b5891f3f5aeb1639f1a3a75c12e888]
 sparkfun/HyperDisplay_ILI9341_ArduinoLibrary: BRANCHES:[master:058358732d9acbf13bbb02a4b11db38844fa4f90]|RELEASE:[V1.0.0|058358732d9acbf13bbb02a4b11db38844fa4f90]
 sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary: BRANCHES:[master:6087a3ddaf7f74cfd970503c2d896788fde1f052]|RELEASE:[none|none]
 sparkfun/HyperDisplay_SSD1309_ArduinoLibrary: BRANCHES:[master:e18e603800bc80b67d285eda7a416567da11f9ae]|RELEASE:[none|none]
