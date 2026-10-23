@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:50
+commit-tracking: 2026-10-23 11:57
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1143,6 +1143,7 @@ Seeed-Studio/st-arm-trusted-firmware: BRANCHES:[v2.6-stm32mp:138e6681deed3423464
 Seeed-Studio/st-optee_os: BRANCHES:[3.16.0-stm32mp:42873da8ad44ecace8a912e1c8ddfe70005ece14;3.16.0-stm32mp-odyssey:a361b18895b39424ea23c5207dcb642075e06442;3.12.0-stm32mp:e253860fdb9d0a0a40604328ba7debc25f8480e2;3.9.0-stm32mp:3e96d660560b40d5fc549da09ce1c5fc4472267a;3.3.0-stm32mp:29d10466ae4dd1881d009bbe58b8928de0ef1bd1;master:3ec2cabcdcff388a0707f1cd27c02f78a690d421;import/mbedtls-2.6.1:8ff963a60211f7f3bd9d70c8755e3e781ad7643f;kmgk_pta_3.3.0:365385427067ed25dfda73a0b3c979f50414a766;shippable-cache-create:263e7559e25d2a031f060dd35a9224ef499a95e5;coverity_scan:aae611c6516e9bd015fc88ee60ec1d0bc2422892]|RELEASE:[none|none]
 Seeed-Studio/st-u-boot: BRANCHES:[v2021.10-stm32mp-odyssey:ee09b80e66756f81cdfebd2e4e9ea1ccd9a529d2;master:cb4437e530ec1ff3deae85754010344afab8bcc5;v2020.10-stm32mp:b1233459c34eb14c5070f605655e72e74be5ea5c;v2021.10-stm32mp:3984366f6997c680b8c6ccc82d50e77a6e1cccf2;v2020.01-stm32mp:d543131c5835b2ca010d8169a06dbca3014355fd;v2018.11-stm32mp:71eff04b1e60397971d8b7a064945d3dc5a755b1]|RELEASE:[none|none]
 Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef0990407fadaa6218]|RELEASE:[none|none]
+Seeed-Studio/stm32mp1-manifest: BRANCHES:[master:24bba3695eeda8885de4a6c3cea1ee2256d13ef7]|RELEASE:[none|none]
 Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04fcfbe5c09e;v2019.04-imx6ull-npi:d447c4866200ae5fd069313d92e2308ff01af021;master:3c99166441bf3ea325af2da83cfe65430b49c066;v2018.11-stm32mp:f55001ad5e8bca2d474f3bcf696a15bc4ea1f78e]|RELEASE:[none|none]
 Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0]|RELEASE:[none|none]
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316]|RELEASE:[none|none]
