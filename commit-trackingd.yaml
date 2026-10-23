@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:05
+commit-tracking: 2026-10-23 11:06
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -942,6 +942,7 @@ Seeed-Studio/Seeed_Arduino_MultiGas: BRANCHES:[master:864730f97cfa57e170580f3148
 Seeed-Studio/Seeed_Arduino_NFC: BRANCHES:[master:3a55a631f23e986babf5e5fa625cc43d1bf99897]|RELEASE:[v1.0.1|54629789446fa86a36f96f697ed35049a6f58dc2]
 Seeed-Studio/Seeed_Arduino_Pedometer: BRANCHES:[master:4c88ddb46ede9e5cb62396b1692d0d2f8d3b601a]|RELEASE:[v1.0.0|2da15b172e4ad6d23e267ecf08da5e47dccacf34]
 Seeed-Studio/Seeed_Arduino_RotaryEncoder: BRANCHES:[master:804feef98350bfcbcfd3844d239f5b6eb43d1dd5]|RELEASE:[v1.0.1|85647a862ab708bad0f7bf39096bfd9229284a9d]
+Seeed-Studio/Seeed_Arduino_SFUD: BRANCHES:[master:ab3117e3baf36f8c0790f4b989c6e83ec1e5b7e5;new-arch:7d910c9845198f0bbe1d85762a94f64018d89337]|RELEASE:[v2.0.2|da3a1cac6448ccb2c26b58b495222e3eb402638b]
 Seeed-Studio/Seeed_Arduino_SGP30: BRANCHES:[master:a7451a81f8f7f0de05102c205c02c4a6219ad9a1]|RELEASE:[v1.0.0|73d1c07fa62ae1977d53c46f90c10df61382c499]
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_Terminal: BRANCHES:[master:7a8f9db62dc733f11430a42182c9db7436cb9bdc]|RELEASE:[v1.0.0|bc593d63ebab20f04781e5b426af7b6bd49b8a54]
