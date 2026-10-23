@@ -736,6 +736,7 @@ Seeed-Studio/Grove_Barometer_Sensor: BRANCHES:[master:b02fa76df6278af3897240167d
 Seeed-Studio/Grove_Digital_Light_Sensor: BRANCHES:[master:11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]|RELEASE:[2.0.0|11a94b0e6e8f8005fc8ab4a633e0a47fb8b6c2f7]
 Seeed-Studio/Grove_Dust_Sensor: BRANCHES:[master:d76ebfd07ce8cc75f3078681a75243a34770d641]|RELEASE:[none|none]
 Seeed-Studio/Grove_Gas_Sensor: BRANCHES:[master:fdd39507a7869351f9ff5a6f26e94d0ca389fbcb]|RELEASE:[none|none]
+Seeed-Studio/Grove_Temperature_And_Humidity_Sensor: BRANCHES:[master:826ce8f2593f810a6063cb1cbc788fc6519dc25e;fix/dht-count-16mhz:f32a91f034230aa190c685a1ffb4e099b198f199]|RELEASE:[v2.0.2|3deba8a662ffa79c7755f02b59a2d21d500e6b52]
 Seeed-Studio/Music_Shield: BRANCHES:[master:195430b7c84a348780a1ced49ebd5ba475e6a80c]|RELEASE:[1.0.4|9219e4d5ce87b9d29d60f6a9b13f12f3c28d3cf2]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
