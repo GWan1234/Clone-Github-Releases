@@ -753,6 +753,7 @@ Seeed-Studio/Light_Sensor: BRANCHES:[master:1120e7aa6cbdcb403c1339f8c3a022954e6f
 Seeed-Studio/Magnetic_Switch: BRANCHES:[master:496d7e034db2e3f7d118014134ddbd56095ebd28]|RELEASE:[none|none]
 Seeed-Studio/Moisture_Sensor: BRANCHES:[master:9b328f4185364916389d01198d6745d9724fd952]|RELEASE:[none|none]
 Seeed-Studio/Music_Shield: BRANCHES:[master:195430b7c84a348780a1ced49ebd5ba475e6a80c]|RELEASE:[1.0.4|9219e4d5ce87b9d29d60f6a9b13f12f3c28d3cf2]
+Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af75701261857783031f38]|RELEASE:[v1.0.0|d6a44b3b80ec9e299d79fab82d2a23f8f39d0253]
 Seeed-Studio/PIR_Motion_Sensor: BRANCHES:[master:95a8137f258d5dcf335bcddd96b02f8e561bf126]|RELEASE:[none|none]
 Seeed-Studio/RTC_DS1307: BRANCHES:[master:084446186849a33631dba21d4e94fa5d3ee77e77]|RELEASE:[1.0.0|322bc35336de2e2aaab61578310abe90df59e09d]
 Seeed-Studio/Rotary_Angle_Sensor: BRANCHES:[master:4c5dbc60a4cd93c5f4c5c78df79a70beab374da0]|RELEASE:[none|none]
