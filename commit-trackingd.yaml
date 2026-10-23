@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:35
+commit-tracking: 2026-10-23 10:36
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -772,6 +772,7 @@ Seeed-Studio/Gateway-MeshBee: BRANCHES:[master:62eeb13957af100e66bca1663a7afec65
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Gesture_Recognition: BRANCHES:[master:af78813e8d87d574e9689453dbbd3491bba0a14c]|RELEASE:[none|none]
 Seeed-Studio/Grove-Eagle: BRANCHES:[master:501ba4cf3e47f6f3cd515c5788c371b85d3e05da]|RELEASE:[none|none]
+Seeed-Studio/Grove-Ranging-sensor-VL53L0X: BRANCHES:[master:05498ad8a8647e5b6bc0c919d76409dc7557756a;K1101:5c4be60a1823b780161672f8b79537dab6062e2c]|RELEASE:[v1.1.1|a5004b6ac7c774e8476c893e441bfcbd7e2e29f2]
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
 Seeed-Studio/Grove-Starter-Kit-for-LaunchPad: BRANCHES:[master:80b5932cb3318f20959e397ab56ac173b4c40a5b]|RELEASE:[none|none]
 Seeed-Studio/GrovePi: BRANCHES:[master:787407561437cab308e6c4e1779fcafc5f3c9fb7]|RELEASE:[none|none]
