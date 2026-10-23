@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 12:16
+commit-tracking: 2026-10-23 12:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1129,6 +1129,7 @@ Seeed-Studio/pxt-BitMaker: BRANCHES:[master:b46e4b66e1e8a8f12764b3aed78b692dd3e6
 Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d0403]|RELEASE:[v0.7.5|e3f1f25e8cdfea635b6dc662eabdbe47a2b67b98]
 Seeed-Studio/pxt-grove-zero-for-microbit: BRANCHES:[master:5e2b521509cafe7a0521775fc7e9ab9bd9d681b4]|RELEASE:[1.0.4|3b6c2be16ee31f2f87fc96b48487508f93c72fa2]
 Seeed-Studio/python-sscma: BRANCHES:[homeassistant:19f9f144a120fc1d8a198db8d0eca7aa3712b2b7;main:c48838f605d7a62c4f4e1537915d997f6166ca93;feat/supervision:d0d501b5015e58da90c6bfd829ac9434a8c8bec1;feat/ha-addon:70df415471c54bdbc6296e9d4e42819aa5467005]|RELEASE:[none|none]
+Seeed-Studio/reCamera-OS: BRANCHES:[fix/ae-feedback:4e6b5e17724133fcc299c8ab97fe98014bdb8014;feat/ov5647-5mp:256134a2faddecac57cf2a2d057f37360a42deb1;sg200x-reCamera:01debc9967752448e29a745f37d29d80a4a41e37;feat/s1g-vht-fix:de4b88e58270fe52290b578cf780908a5b812500;feat/wpa-s1g-frequency-display:3216a180e070a0a3ba4037b38113b0d914558fd2;dev:e89a39ebbabfdd5878a6dc10066633303ebce7e6;feat/gc2053:6c381dc944661a97390fb6c24823f92d1223b98c;fix/ubuntu-24.04:d67de0147065d49fa7ff80776ca39ab8b701b967]|RELEASE:[0.2.4|01debc9967752448e29a745f37d29d80a4a41e37]
 Seeed-Studio/robotic_demo: BRANCHES:[main:e52ed12f820e57815d9dfd9281bc08d9c37fbdd3;main-dev:5a3e593b3b52ab6873ecd35707947bdd9afb9a17]|RELEASE:[none|none]
 Seeed-Studio/seeed-ambd-firmware: BRANCHES:[master:86119d870213a441497ac76b70b432ddd0beae6a;Wio-Lite-AI:fc9526d5bf68ad6756e47e43520dc8b49d924492;JP:fd78b930e417a80015a24b4bb92aa56065468f80;qian:58ccdf96f03b3161a356a0b5481b7b418c9ec24a;dev-xiao-rtl872x:918be9a851f08388967a52ed7fc02cdae31027af]|RELEASE:[v2.1.3|7334817a6fcf311fbe3c9a8c5644b805ae12bdab]
 Seeed-Studio/seeed-ambd-sdk: BRANCHES:[AT:d953d6473f1d7612d88b0aaeefadb48ee2e72e5c;master:d64c72293cd6d4b75f6b6f37eaa61376e1290e9c]|RELEASE:[none|none]
