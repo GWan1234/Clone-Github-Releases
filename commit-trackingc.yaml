@@ -648,7 +648,7 @@ m5stack/M5Faces-Calculator3-Internal-FW: BRANCHES:[main:05d5b07c900134c3c14eac3c
 m5stack/M5Faces-Gamepad3-Internal-FW: BRANCHES:[main:afe28ea234277be8becf4fc096c5e2e5d6d7fb81]|RELEASE:[none|none]
 m5stack/M5Faces-Keyboard3-Internal-FW: BRANCHES:[main:cdb3c5f8268cd0b320d243877c0580b7758c1f1a]|RELEASE:[none|none]
 m5stack/M5Family: BRANCHES:[main:e123ad4804b1f89b7c1024438a4cde52c804f227]|RELEASE:[0.1.3|e123ad4804b1f89b7c1024438a4cde52c804f227]
-m5stack/M5GFX: BRANCHES:[develop:4d1d9ebf5ea6683d45d3bd3ec6e5581c316bf376;master:a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72;copilot/fix-code-for-review-comments:7502f29622dff7e19dd5c24cddbf1d3b58786ff0;feature/lvgl_font_support:62f5ba0747877ad7723d8aca6035bcbf3a9bb85d;fhd60:3c509b7d02c79acfb76879d82016ad6a766ca929]|RELEASE:[0.2.34|a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72]
+m5stack/M5GFX: BRANCHES:[develop:7867a2f900b49cdf6c72ac3b844c1929409e3c89;master:a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72;copilot/fix-code-for-review-comments:7502f29622dff7e19dd5c24cddbf1d3b58786ff0;feature/lvgl_font_support:62f5ba0747877ad7723d8aca6035bcbf3a9bb85d;fhd60:3c509b7d02c79acfb76879d82016ad6a766ca929]|RELEASE:[0.2.34|a8ebd7bdaae2e9bdc2f3c69c25b83a84d819af72]
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5HAL: BRANCHES:[main:c2bfcb2a7534b9af07e199f29d255ef38fb3885c;develop:3e23d74bab878b833098675f1e92786821f7a517;feature/esp-idf-native-support:ef283159844fcd6daa6710a7cb8f9d9d45607859]|RELEASE:[0.1.4|c2bfcb2a7534b9af07e199f29d255ef38fb3885c]
