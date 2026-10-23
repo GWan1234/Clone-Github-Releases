@@ -2268,7 +2268,7 @@ sparkfun/SparkFun_BlueSMiRF-v2_Binaries: BRANCHES:[main:a507c57e2454817a9e5b931e
 sparkfun/SparkFun_Buck_Regulator_AP3429A: BRANCHES:[gh-pages:9c0267065b82b01561d94daaefabac4decb24d44;main:a125e8949eff047fc3e1804eeb9400aac1561eab;dev-backup:720b145cae9b51009ee1f4af62c0df8f892c25aa]|RELEASE:[v01|fa93761342254e413ebdc57d8def1774b66adad6]
 sparkfun/SparkFun_Buck_Regulator_AP63357DV-7: BRANCHES:[gh-pages:5795e67cfab908f19b66f2d91f15e9d02cfdb566;main:2daeae4799b416ed27fc1dfa3123d6cc68747f38]|RELEASE:[v01|594df65fa9c6e8d6f3556a467e1f328de9b7524c]
 sparkfun/SparkFun_CAN-Bus_Arduino_Library: BRANCHES:[master:c96318faf0045295f04dbd296673cd0c03c39c10]|RELEASE:[none|none]
-sparkfun/SparkFun_CAP1203_Arduino_Library: BRANCHES:[main:8548d0a082c8e4ad2c2ea75fdb626e5a306875f2]|RELEASE:[none|none]
+sparkfun/SparkFun_CAP1203_Arduino_Library: BRANCHES:[main:8548d0a082c8e4ad2c2ea75fdb626e5a306875f2]|RELEASE:[v1.0.5|8548d0a082c8e4ad2c2ea75fdb626e5a306875f2]
 sparkfun/SparkFun_CCS811_Arduino_Library: BRANCHES:[master:287aa5c6120ea3227f7fa6fdef4f2253888ea2f2]|RELEASE:[v2.0.3|287aa5c6120ea3227f7fa6fdef4f2253888ea2f2]
 sparkfun/SparkFun_CO2_Sensor-STC31: BRANCHES:[gh-pages:e512528890447654ee0a86d0249006eb5a74ac60;main:8bda1b1db261c9b8a353dc2212e80b93e4b3bbed]|RELEASE:[none|none]
 sparkfun/SparkFun_CO2_Sensor_STCC4_SHT40_Qwiic: BRANCHES:[main:836b63c8f684d57779cf0e699144ac056e0808ba]|RELEASE:[none|none]
