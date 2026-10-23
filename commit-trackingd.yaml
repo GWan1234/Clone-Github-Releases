@@ -930,6 +930,7 @@ Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246a
 Seeed-Studio/Seeed_Arduino_KCT202: BRANCHES:[master:fb054574259d36c649c7175b5ddce6686336ce30]|RELEASE:[v1.0.2|c745b382cbe18971cf179acd4013ad1b2bb4a224]
 Seeed-Studio/Seeed_Arduino_LIS3DHTR: BRANCHES:[master:fea80127de9610b16ecb14174c1ec912b12feb64;beta:6ecd6b24dc3ea9ca40944a45e127fa954df41b65]|RELEASE:[v1.2.4|27d7b8fa80fe0cc6363606641991d6253aec593d]
 Seeed-Studio/Seeed_Arduino_LSM6DS3: BRANCHES:[master:4ceed57ef83bfa6213659fc4377612af6e38002f]|RELEASE:[v2.0.7|e063c3a544b8bb89238accddf24f0028bcd1ca20]
+Seeed-Studio/Seeed_Arduino_MLX9064x: BRANCHES:[master:17db92f15877fbcbf073c42dacbf437b2ad9e205;add-license-1:c6317161be8b19b59ae72e95b5e60e23c0f512aa]|RELEASE:[v1.0.1|359cf0f2fa4ab1132f333d70a6669307eaeb08c3]
 Seeed-Studio/Seeed_Arduino_MultiGas: BRANCHES:[master:864730f97cfa57e170580f3148c8ea3fff1f3ee8]|RELEASE:[v1.0.0|9dd6828bdcbdf80b08ed784e787ed9a2d382aa26]
 Seeed-Studio/Seeed_Arduino_NFC: BRANCHES:[master:3a55a631f23e986babf5e5fa625cc43d1bf99897]|RELEASE:[v1.0.1|54629789446fa86a36f96f697ed35049a6f58dc2]
 Seeed-Studio/Seeed_Arduino_Pedometer: BRANCHES:[master:4c88ddb46ede9e5cb62396b1692d0d2f8d3b601a]|RELEASE:[v1.0.0|2da15b172e4ad6d23e267ecf08da5e47dccacf34]
