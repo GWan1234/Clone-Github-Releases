@@ -2428,7 +2428,7 @@ sparkfun/SparkFun_MicroMod_Button_Arduino_Library: BRANCHES:[master:18aa1f6d1aa6
 sparkfun/SparkFun_MicroMod_GNSS_Function_Board_ZED-F9P: BRANCHES:[main:94a722c73ff60fc51fbbeb90fb310be2ef446c7c]|RELEASE:[none|none]
 sparkfun/SparkFun_MicroMod_LTE_GNSS_Function_Board_u-blox_SARA-R5: BRANCHES:[gh-pages:ac8813af9a9246840fdec1c95d19f66498d18081;main:03c140076301289bb70f1c39d53b693328f720d9]|RELEASE:[none|none]
 sparkfun/SparkFun_MicroMod_Main_Board_Double: BRANCHES:[main:78a13d44dbfcab0c000adbd0bd60dc79cd5eecfb]|RELEASE:[none|none]
-sparkfun/SparkFun_MicroMod_Main_Board_Single: BRANCHES:[main:37b0a2d5c3d4cd9e55b0dee6b308041d89bfa151]|RELEASE:[none|none]
+sparkfun/SparkFun_MicroMod_Main_Board_Single: BRANCHES:[main:37b0a2d5c3d4cd9e55b0dee6b308041d89bfa151]|RELEASE:[v1.1|68016a97e94636345488f97e3d10905c2f4e8f65]
 sparkfun/SparkFun_MicroMod_Single_Pair_Ethernet_Function_Board_ADIN1110: BRANCHES:[main:6ea9191b95b5100c3836d1a5e6079cef426b37b6]|RELEASE:[none|none]
 sparkfun/SparkFun_MicroPressure_Arduino_Library: BRANCHES:[main:a8b0e0c00829908b8be38d60c0f2da74f66281e6;release_candidate:596e297687f44ca376151a93f0e2a8539513ec53]|RELEASE:[v1.0.1|a8b0e0c00829908b8be38d60c0f2da74f66281e6]
 sparkfun/SparkFun_MicroPython_Firmware_Uploader: BRANCHES:[main:c6db1bcbd87513147de714996aa97d7e20908934;refactor/finalization:dec5ebb0d25c70139a682affd439145468c0d915]|RELEASE:[v0.0.5_test|c6db1bcbd87513147de714996aa97d7e20908934]
