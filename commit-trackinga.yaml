@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 04:36
+commit-tracking: 2026-10-23 04:40
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2372,7 +2372,7 @@ thelastoutpostworkshop/StarWars_Tactical_2: BRANCHES:[main:d0c3688b6d098c5f147d1
 thelastoutpostworkshop/YoutubeCounter: BRANCHES:[main:9711a1ead0c90452e83a34399d09a5d3cd22eedd]|RELEASE:[none|none]
 thelastoutpostworkshop/animated_gif_memory: BRANCHES:[main:fd94498cd7dce1e28c43a7abebc9f64854266a32]|RELEASE:[none|none]
 thelastoutpostworkshop/animated_gif_sdcard_spiffs: BRANCHES:[main:20632ee949c33635ef7a4fdb59380b28f609f000]|RELEASE:[none|none]
-thelastoutpostworkshop/arduino-maker-workshop: BRANCHES:[main:24764cf06090bf7f7845a2c59fb939eb131703e1;multiroot:e93d30db6cf716a2b5e6dc41ac25714d3402cfa4]|RELEASE:[v1.1.11|fbe2932b201c4c9bb950b30740a9c05c47ce0973]
+thelastoutpostworkshop/arduino-maker-workshop: BRANCHES:[feature/local-ai-mcp-bridge:4987e725f58a15aba3fc6a922646cddd626d5fac;main:24764cf06090bf7f7845a2c59fb939eb131703e1]|RELEASE:[v1.1.11|fbe2932b201c4c9bb950b30740a9c05c47ce0973]
 thelastoutpostworkshop/arduino_wsl: BRANCHES:[main:f90627fcade9fbd9fd28fd1dfdc4c74be227600f]|RELEASE:[none|none]
 thelastoutpostworkshop/chatGPT_DALLE: BRANCHES:[main:6addce0496aa42c784b084581eb88bb875ada6e9]|RELEASE:[none|none]
 thelastoutpostworkshop/curved_screen: BRANCHES:[main:dd195e88bb6351d68c60f885a4f1f77a78a301ba]|RELEASE:[none|none]
@@ -2396,7 +2396,7 @@ thelastoutpostworkshop/screenFrame: BRANCHES:[main:85b8434c6d9617953cdc7897956f5
 thelastoutpostworkshop/support: BRANCHES:[]|RELEASE:[none|none]
 thelastoutpostworkshop/tft_eSPI_configuration: BRANCHES:[main:5c12c97fe3b1dfe983c8834c069719165c8fae1f]|RELEASE:[none|none]
 thelastoutpostworkshop/thelastoutpostworkshop.github.io: BRANCHES:[main:91e3b5ed415a19e00779f79cbb0e5d472752bb2b]|RELEASE:[none|none]
-thelastoutpostworkshop/video_conversion: BRANCHES:[main:fb278dd81396b4c732d9af81d8939dd65e3c54c4]|RELEASE:[v1.3.10|fb278dd81396b4c732d9af81d8939dd65e3c54c4]
+thelastoutpostworkshop/video_conversion: BRANCHES:[main:3a0d3cffaa3eb65717612efc659f898f0d1487e0]|RELEASE:[v1.3.12|3a0d3cffaa3eb65717612efc659f898f0d1487e0]
 thelastoutpostworkshop/virtualScreen: BRANCHES:[main:315506d7c722d8d83b4efb0781f6a2a47144fe50]|RELEASE:[v2.0.2|886cf474ae8f03fc9430648b527b9bb0711b1844]
 thelastoutpostworkshop/virtualscreen_st7789: BRANCHES:[main:d18db73b917142f7b92bf887acd55d5a662666cf]|RELEASE:[none|none]
 thelastoutpostworkshop/waveshare_esp32s3_1.43_amoled_lvgl9: BRANCHES:[main:0a0f2d4fe0599759dcde0a1b807d16169161cb55]|RELEASE:[none|none]
