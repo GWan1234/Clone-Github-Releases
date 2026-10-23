@@ -735,6 +735,7 @@ Seeed-Studio/DSO_Nano: BRANCHES:[master:e90a8cf1cdb0e34073ccf95e274b16e44728188f
 Seeed-Studio/DSO_firmwareV3: BRANCHES:[master:782e6c376f57bc22a53ad6241d36717fbcd9bf1d]|RELEASE:[none|none]
 Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776dc893]|RELEASE:[none|none]
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
+Seeed-Studio/GPRSInterface: BRANCHES:[master:364c4468b998429d67537ddc292ea86303f9db1c]|RELEASE:[none|none]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Gesture_Recognition: BRANCHES:[master:af78813e8d87d574e9689453dbbd3491bba0a14c]|RELEASE:[none|none]
 Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
