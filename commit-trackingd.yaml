@@ -730,6 +730,7 @@ Seeed-Studio/DSO_firmwareV3: BRANCHES:[master:782e6c376f57bc22a53ad6241d36717fbc
 Seeed-Studio/Eagle_Library: BRANCHES:[master:8e37830dfcda3af7b4eb069d1acf55d4776dc893]|RELEASE:[none|none]
 Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121c206f956bc828]|RELEASE:[v1.0.0|c2ec0281b2ae84ecfb528184ce9c8624846aee05]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
+Seeed-Studio/Grove-RaspberryPi: BRANCHES:[master:f830eec5e114322ccfb0a415d59159ee16112c70]|RELEASE:[none|none]
 Seeed-Studio/Music_Shield: BRANCHES:[master:195430b7c84a348780a1ced49ebd5ba475e6a80c]|RELEASE:[1.0.4|9219e4d5ce87b9d29d60f6a9b13f12f3c28d3cf2]
 Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246af91298f61c7886e;backup:847f2e638101f6332983708f816a81a8419e3d49]|RELEASE:[v2.6.1|a1edd03cc3a8998002ba4257341d700f56197806]
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
