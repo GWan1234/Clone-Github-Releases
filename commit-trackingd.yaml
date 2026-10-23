@@ -1011,6 +1011,7 @@ m5stack/M5PM1: BRANCHES:[main:be9a5456c007c333e7ac963f33bfde1ffa5d82ee;develop:3
 m5stack/M5PaperColor-UserDemo: BRANCHES:[main:1ff998e0cf3b9ce916f2e0319561d043db21cc4a]|RELEASE:[none|none]
 m5stack/M5PaperDIY-UserDemo: BRANCHES:[main:60a26f0ebccc656027bde413a0e9356aae5bb6e7]|RELEASE:[none|none]
 m5stack/M5PaperMono-OTP-Demo: BRANCHES:[main:c7c02554f89fd06f80d988b805b2a59050c78a46]|RELEASE:[none|none]
+m5stack/M5PaperMono-PowerDemo: BRANCHES:[main:cf4f57c638aa3ad0168bf90beebdaa3599203bb2]|RELEASE:[none|none]
 m5stack/M5PaperMono-UserDemo: BRANCHES:[main:e55877dc04b89e13a8519cee5435dc326499e1ca]|RELEASE:[none|none]
 m5stack/M5PaperS3-UserDemo: BRANCHES:[main:5e275ad4b70abb85f7193fda137844730e64c4db]|RELEASE:[V0.5|5e275ad4b70abb85f7193fda137844730e64c4db]
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
