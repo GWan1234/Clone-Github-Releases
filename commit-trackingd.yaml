@@ -942,6 +942,7 @@ m5stack/M5Core-Ink: BRANCHES:[master:5fb473d6d852ec6d2df18217d399c7fb2dbc10b9]|R
 m5stack/M5Core2: BRANCHES:[master:63dd4c038bd34a5c3ec02818b40fffb9999ecf6e;revert-156-0.2.0:2541ae394f3d9a2d28faf8246fc204380770ff1f;develop:c35a052ad886027e0257c2f6456fc069fa16267e]|RELEASE:[0.2.0|2509ff06cfb73126f6065cd3b35933c22ae4333f]
 m5stack/M5Core2-TouchPanel-Recovery: BRANCHES:[main:2370d64ed478a3cbcf76eab89c8f0c1513fa6fc4]|RELEASE:[none|none]
 m5stack/M5Core2_Weather_Dashboard: BRANCHES:[main:35cd9654216ee94ab70bb4c12fa4f64fa59df075]|RELEASE:[none|none]
+m5stack/M5CoreP4X-UserDemo: BRANCHES:[main:e62f31d3ad8aa40ce33d6b718502d7d4a4a092c9]|RELEASE:[none|none]
 m5stack/M5CoreS3: BRANCHES:[main:625d80bd8172be492114b8e8b6233b6c2e8974a8;develop:3fb2a2cc0f24897dfdf54101e7361c5dd1f50da5]|RELEASE:[1.0.1|bfeebde61965e1a7b6df1b7648d0b761e2f88642]
 m5stack/M5CoreS3-Esphome: BRANCHES:[main:18e27ff4bb2d26a48a29207240c06cc0b7487c7d]|RELEASE:[none|none]
 m5stack/M5Dial: BRANCHES:[master:533c9d0198e72621d55a4d35f726d3d53a7e1431]|RELEASE:[1.0.3|533c9d0198e72621d55a4d35f726d3d53a7e1431]
