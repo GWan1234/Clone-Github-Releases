@@ -890,6 +890,7 @@ Seeed-Studio/Seeed_Arduino_IRSendRev: BRANCHES:[master:98d1b1e19f05f976109b0246a
 Seeed-Studio/Seeed_Arduino_LSM6DS3: BRANCHES:[master:4ceed57ef83bfa6213659fc4377612af6e38002f]|RELEASE:[v2.0.7|e063c3a544b8bb89238accddf24f0028bcd1ca20]
 Seeed-Studio/Seeed_Arduino_NFC: BRANCHES:[master:3a55a631f23e986babf5e5fa625cc43d1bf99897]|RELEASE:[v1.0.1|54629789446fa86a36f96f697ed35049a6f58dc2]
 Seeed-Studio/Seeed_Arduino_Pedometer: BRANCHES:[master:4c88ddb46ede9e5cb62396b1692d0d2f8d3b601a]|RELEASE:[v1.0.0|2da15b172e4ad6d23e267ecf08da5e47dccacf34]
+Seeed-Studio/Seeed_Arduino_SGP30: BRANCHES:[master:a7451a81f8f7f0de05102c205c02c4a6219ad9a1]|RELEASE:[v1.0.0|73d1c07fa62ae1977d53c46f90c10df61382c499]
 Seeed-Studio/Seeed_Arduino_SerialLCD: BRANCHES:[master:6a6b2f1e27a0d7a12b5640c1ca00a64b44da2ba8]|RELEASE:[v1.0|17f44c0f93468c2e927ed31fd257d89c71870543]
 Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1c855b69d0bd40b854b81db]|RELEASE:[v1.0.3|ec186cf486a8cfdd2993166a49e00d600c6d2a94]
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
