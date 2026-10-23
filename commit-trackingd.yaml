@@ -2915,7 +2915,7 @@ sparkfun/pxt-gator-environment: BRANCHES:[master:99cca7ae490f18df311281757fd65b8
 sparkfun/pxt-gator-faker: BRANCHES:[]|RELEASE:[none|none]
 sparkfun/pxt-gator-light: BRANCHES:[master:e31cd4a8048c4d7944a3c22ecb4a60748d708710]|RELEASE:[none|none]
 sparkfun/pxt-gator-log: BRANCHES:[master:31a992b509cfe8ef3e84d42d791849bb32cba682]|RELEASE:[none|none]
-sparkfun/pxt-gator-microphone: BRANCHES:[master:3d66082ea8f88ee4523d21fd3968c46c9427958b]|RELEASE:[none|none]
+sparkfun/pxt-gator-microphone: BRANCHES:[master:3d66082ea8f88ee4523d21fd3968c46c9427958b]|RELEASE:[v1.1.0|bbf86e4769c6aab1fc73a52ed264e89d126d540a]
 sparkfun/pxt-gator-particle: BRANCHES:[master:2668b8dc0d69d7de43df384e633e13ae340bbca1]|RELEASE:[v1.1.6|2668b8dc0d69d7de43df384e633e13ae340bbca1]
 sparkfun/pxt-gator-rtc: BRANCHES:[master:8671a2182e1c1788ef19732ffcd193a6699e9ea3]|RELEASE:[v1.1.2|8671a2182e1c1788ef19732ffcd193a6699e9ea3]
 sparkfun/pxt-gator-soil: BRANCHES:[master:aeb51e930c56da6a2c97ec26b10b8f50ac6638a2]|RELEASE:[v1.1.2|45ead33a89b5c1b77de862a0383b57f499f70f6a]
