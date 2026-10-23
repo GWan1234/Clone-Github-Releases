@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:23
+commit-tracking: 2026-10-23 10:24
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -722,6 +722,7 @@ OLIMEX/usb2serial: BRANCHES:[main:013f38f9a1b5374a355f48ea44a933add1023605]|RELE
 RROrg/qr-build: BRANCHES:[main:91537bf0d435a278484d35ba8c9d1bbcd69ffa28]|RELEASE:[none|none]
 SagerNet/sing-box: BRANCHES:[testing:dfb80349bf5779ec0a3f834c9ec2794345bff8f0;docs:898adc512e0fa152bec99675153f65bb716914c4;stable:d630fa94c53b2e2bdf256fad8b9d1cff809146ed;oldstable:78d3eeedacdda487eca7f2793e29973cb2f8a86c;renovate/github-actions:ecf633af50fe41ddf569fa914923863f6a09f840;renovate/dockerfile:90b379966c6c9341b5a583d485839865b54c6427;revert-4376-fix-anytls-urltest-results:1e03aac1ddb3034a62f897b1ca078c6d7e22c6c3;renovate/major-github-actions:e57d165a326278a94e6cb44bfb1f8c8602f3e309;usbip:226c9f22eec4212270f24e3af73de39473bec855;dependabot/go_modules/test/go.opentelemetry.io/otel-1.41.0:010b1e74a3c2c4aa8eeedd1604ec2a04420967e9]|RELEASE:[v1.14.3|7054cac5124465ffdb145870d7c01885566711b1]
 Seeed-Studio/ACC_Adxl345_Suli: BRANCHES:[master:edd1f2024adff6a413a2fda774e882c11046b408]|RELEASE:[none|none]
+Seeed-Studio/AWS_SDK_for_BBG: BRANCHES:[master:53a470c1b5d8313f6d1a04b8fba50af307b585fc]|RELEASE:[none|none]
 Seeed-Studio/Accelerometer_ADXL335: BRANCHES:[master:3b4a9b141bbf3595b70288e5deaee5c4c30868c8]|RELEASE:[v1.0.1|aa6614a52c7c0054c176378b362224709931c628]
 Seeed-Studio/Accelerometer_ADXL345: BRANCHES:[master:c116aee26b8566df2ab23052822f546a1cedd7c1]|RELEASE:[v1.0.0|147ec8d9eb83bd22bbf87d81ff5b9dfab44daf05]
 Seeed-Studio/Accelerometer_H3LIS331DL: BRANCHES:[master:208d907c2b3cec4ae5eeba7512c30ac1001aa9a0]|RELEASE:[v1.0.2|e82722710d2f90a7e41d01c5333632ae60c8079d]
