@@ -862,6 +862,7 @@ Seeed-Studio/Seeed_Arduino_UltrasonicRanger: BRANCHES:[master:c2e159636d32235dc1
 Seeed-Studio/Seeed_Arduino_UltrathinLEDMatrix: BRANCHES:[master:0f377637b368cbdec2e314ea5374da33823d0a6e]|RELEASE:[v1.0.1|8c156753e91a092d058b3ba43dea7d4936fc3bb0]
 Seeed-Studio/Seeed_Grove_4Digital_Display_g: BRANCHES:[master:d99fefadb66fafd95b5b76a23491614192863316]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Chainable_RGB_LED_g: BRANCHES:[master:51c5981fca4af65295cd84ff7a3cc426d0a6d277]|RELEASE:[none|none]
+Seeed-Studio/Seeed_Grove_Temperature_And_Humidity_Sensor_g: BRANCHES:[master:f1699f6c28b026ea2e2fd7b9f2da1fdd15cb190e]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Grove_Ultrasonic_Ranger_g: BRANCHES:[master:d5768975d8949a14bc6f6429020760143de59aa8]|RELEASE:[none|none]
 Seeed-Studio/Seeed_QTouch: BRANCHES:[master:3c0f22ee2da84ab461f04606be0bed973a98464f]|RELEASE:[1.0.0|0f3eff11975ae6705f18a8d142b48ef95ea611a2]
 Seeed-Studio/Seeeduino_GPRS: BRANCHES:[master:dd5abd935a62632960749e9027fa4e53c0a9b117]|RELEASE:[1.0.0|3c000337f555914f30c0945f4c84f061d0f95882]
