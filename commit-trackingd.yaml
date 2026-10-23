@@ -1074,6 +1074,7 @@ Seeed-Studio/Temperature_Suli: BRANCHES:[master:dda836bc12847667afcb2eaa9878bfcb
 Seeed-Studio/Tiny_BLE: BRANCHES:[master:a0c4545ae6ca579d31eb2ea71257fb10c6b5e072]|RELEASE:[none|none]
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08]|RELEASE:[none|none]
 Seeed-Studio/Touch_Screen_Driver: BRANCHES:[master:df4bd6e974dc84a1c16f532ba179cb0231e52007]|RELEASE:[1.0.0|380088b5b770233c8e7d0f61c6098a9295e03806]
+Seeed-Studio/WM1110_Geolocation: BRANCHES:[main:d1b8579559afd58eb51026a85578017c59799e00]|RELEASE:[none|none]
 Seeed-Studio/WM1110_Storage: BRANCHES:[main:8d972760deac5bb8487ea03761c6328899915811]|RELEASE:[none|none]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
 Seeed-Studio/WioLTE_Cat_NB1_Arduino_Library: BRANCHES:[master:b4461741382aaaff3926fdb6b4f542241142a99a;test:aef32f5253f5c23eef778e92d3a995c64e9a599b]|RELEASE:[none|none]
