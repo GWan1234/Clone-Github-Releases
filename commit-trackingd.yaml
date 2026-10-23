@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:11
+commit-tracking: 2026-10-23 11:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -967,6 +967,7 @@ Seeed-Studio/Seeed_Arduino_atmDNS: BRANCHES:[master:48d65fc7fe4e1baee149cb2bf3dd
 Seeed-Studio/Seeed_Arduino_edgeimpulse: BRANCHES:[master:5eaac74fc3f110ab1523c3a5bf53cf2dae9b341a;mic:f2ef29662c1fde1c1a411f2611dacb319fe649cc;sensors:c7b2652f0c1c0423ce647d817a63ebce7a2f089f;debug:e9309a0dedffe20d8d36611ac227a2e358924d0d]|RELEASE:[1.4.0|f2ef29662c1fde1c1a411f2611dacb319fe649cc]
 Seeed-Studio/Seeed_Arduino_mbedtls: BRANCHES:[master:59fc9f8ff70d9b772f66923040de79e7c3740f14;backup:2037a3cd3aeac08f60a4d46cba7f23b035d48258;dev:d1ca0175e24768120781bf4a43a1fb2c39fce85f;edge-impulse:526568d1b5d391416888f0f79b8dda962da9142d]|RELEASE:[v3.0.2|59fc9f8ff70d9b772f66923040de79e7c3740f14]
 Seeed-Studio/Seeed_Arduino_ooFreeRTOS: BRANCHES:[master:1f8a2a484525c2b28c5c57bffae8d871a3aa6f22;add-code-of-conduct-1:8ec3f695ab2cd6eeeaf147d90bf264e00e2c7d13]|RELEASE:[v1.0.0|d0695a89c28c467532eed25c2b39102cd062ed28]
+Seeed-Studio/Seeed_Arduino_rpcUnified: BRANCHES:[master:f0570f481d6f65c2e86c147f36d2b994d7bea645;new-arch:642ce32eb61e03fdb58c5262c3b8d78a61b1a570;qian:e66b61c93f2633552c06e2a17b53df741e061148;dev-st:d22d7570684d095ad411c398e454d34784237f2d;dev-xiao-rtl872x:d9fd5fd02faa5565ef077d3fd7924108ca531ec1]|RELEASE:[v2.1.4|b17f108e44804950b656299db75b9a971781d848]
 Seeed-Studio/Seeed_Ardupy_LvGL: BRANCHES:[master:21f983c734589a47637fbfdce34b28534d80dfc7;dev-6.1:d693e9af06cd0044b376f036b6cac6b56dd46ef0;merge_fix:60b0bbcd2b00c0293c33388878d9bc1512205d27;dev-6.0:e5c6219ecc89c1585fb92072a0256f9ed9d8e47c;emscripten:5142311cc74a25109a4876ca541e291f0955d313;dev-5.3:c0d7b649146aa127320a9656bbebb8d0b3421a6c]|RELEASE:[none|none]
 Seeed-Studio/Seeed_BMA456: BRANCHES:[master:59fbc1b0ad9ce22131ad904c3aebd79fc7483068;rpi:7c8243eda12985e0dc16af6d7e4ff4f9e1801a81]|RELEASE:[none|none]
 Seeed-Studio/Seeed_BME680_V1: BRANCHES:[master:56b514c40f239f37ea9b52161adb3b56500cd7d2]|RELEASE:[none|none]
