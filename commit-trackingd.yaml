@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 11:30
+commit-tracking: 2026-10-23 11:31
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -738,6 +738,7 @@ Seeed-Studio/ArduPy: BRANCHES:[master:1267e875b6c82b9ecf7ac021f979e85d035f7164;n
 Seeed-Studio/ArduinoCore-ambd: BRANCHES:[master:f81bca75e433e35b2d27cadd178596888940fb5a]|RELEASE:[none|none]
 Seeed-Studio/ArduinoCore-imxrt: BRANCHES:[master:deb8a9ad2dc19914c89423a4eab09863dc4f1650]|RELEASE:[v1.2.1|a226099592944165f047d5d21deefc5f672c0566]
 Seeed-Studio/ArduinoCore-k210: BRANCHES:[kendryte-standalone-sdk:2ea3c001557c7f70fad560a7a38c57b36b76f321;dev:eef0a6c7afc7b602c7473781fb023cb22933a60d;master:69b516f8defa4e97af0b98148bae4e2ff5cd1df4;kendryte-freertos-sdk:9693b063ea055e62dc130d6cbd6d317a9ecf7e36]|RELEASE:[v1.3|84bdfa86f4b89819a7d245e4c1f79a7e26ed00ed]
+Seeed-Studio/ArduinoCore-mbed: BRANCHES:[master:f874a2ac953bf0fa0c9515606c70692d4a9beea6;plus:143b36bfbda5f95de9196a4eeace40de102366fc;nrf52840_nfc:7984ab3c65a26bbe2ed17ce22604de310f5ad3b8]|RELEASE:[v2.9.3|849d619a30f21d574a87bd80ba79d962f43f2464]
 Seeed-Studio/ArduinoCore-samd: BRANCHES:[master:2e6b174f81b988964ce3811f5b5e39297c2c9c3f;k1100:7134bad7383affc1feb2ccea0c259a79964be7c1;k1100-dev:caf13f0eedd6985b710415e963c6f4d082fa8e77;Wio_LTE_Cat.1:25a7c6aa6582e75aba778e0c566c0a5594c8d6b2;i2c-slave:da78173bfe6fb2b92d4786fdc6b1782c7a15de5d;ArduPy:cad8f6bbeae034ec9dc22808cd75fb99165503f9;CI:ef2609a2c53bd071a63e4bc9bbd713fd4a721afa;lanselambor:72e8d62afdd419825e7c3bc7cc90d78660d1f8f5]|RELEASE:[v1.8.6|2e6b174f81b988964ce3811f5b5e39297c2c9c3f]
 Seeed-Studio/ArduinoCore-stm32: BRANCHES:[master:d6f93de5fa9b4d29789db2d5e7833295a058eb64;revert-3-main:cb7b7506c378c87182cf10999ec36594d60a747e;dev:367d27bad2433a6c0fee9a4449b8734cca132073;sdmmc:004f843bd762860664d4153824760f80772c0fb3]|RELEASE:[none|none]
 Seeed-Studio/ArduinoPhone: BRANCHES:[master:783f45cf09461840eb0728144bf98124aa40df36]|RELEASE:[none|none]
