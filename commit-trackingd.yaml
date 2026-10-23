@@ -741,6 +741,7 @@ Seeed-Studio/Ethernet_Shield_W5200: BRANCHES:[master:810c0ca6a96b0ebeefbb137e121
 Seeed-Studio/Four_Digit_Display_Suli: BRANCHES:[master:edfc53122844f9c84fdfd6dac9283462035a9369]|RELEASE:[none|none]
 Seeed-Studio/GPRSBee_Suli: BRANCHES:[master:36b0549395286945506db49301191e975cccb479]|RELEASE:[none|none]
 Seeed-Studio/GPRSInterface: BRANCHES:[master:364c4468b998429d67537ddc292ea86303f9db1c]|RELEASE:[none|none]
+Seeed-Studio/GPRS_Shield_Suli: BRANCHES:[master:4cd309b1bbe9ab179172b8aa54511abf4bcd52e8]|RELEASE:[none|none]
 Seeed-Studio/Gateway-MeshBee: BRANCHES:[master:62eeb13957af100e66bca1663a7afec659c3393b]|RELEASE:[none|none]
 Seeed-Studio/Geiger-Counter: BRANCHES:[master:230c2fa54d3d06fba681c4ff63e844a58d9d92f2]|RELEASE:[none|none]
 Seeed-Studio/Gesture_Recognition: BRANCHES:[master:af78813e8d87d574e9689453dbbd3491bba0a14c]|RELEASE:[none|none]
