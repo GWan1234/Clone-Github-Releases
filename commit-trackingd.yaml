@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:29
+commit-tracking: 2026-10-23 10:30
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -809,6 +809,7 @@ Seeed-Studio/Grove_LED_Matrix_Driver: BRANCHES:[master:3d0c150a837dc4191520ab09b
 Seeed-Studio/Grove_Mini_Track_Ball: BRANCHES:[master:f83a64d4bdeb529ee506be00c13edf330874afe8]|RELEASE:[v1.0.1|099e5c6891cea15fa92566f8e305bcf05825924d]
 Seeed-Studio/Grove_Node: BRANCHES:[master:4eb263b319dc5a09410a34140380aed63688ae2e]|RELEASE:[none|none]
 Seeed-Studio/Grove_Robot: BRANCHES:[master:8ce4cafcfe4d4c87b5bf4f16df92f4effb1f346f]|RELEASE:[none|none]
+Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor: BRANCHES:[master:7fde3a43a7c2d8bfda036fdbd22577ae596d30e8]|RELEASE:[v1.0.1|c5605d0e504ad1f67473cda269a3d23cb8457f9c]
 Seeed-Studio/Grove_Serial_Camera_Kit: BRANCHES:[master:cc91b82c5ffd6c599da58170ee9427984f31fcfb]|RELEASE:[none|none]
 Seeed-Studio/Grove_Single_Axis_Analog_Gyro: BRANCHES:[master:91f44d98fef7a3ce5b13fcd529f90632b1bef429]|RELEASE:[none|none]
 Seeed-Studio/Grove_Starter_Kit_For_LinkIt: BRANCHES:[master:39a30d2fe5258368eb6123be337ff6c7e925cb5b]|RELEASE:[none|none]
