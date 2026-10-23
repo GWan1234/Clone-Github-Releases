@@ -1041,6 +1041,7 @@ Seeed-Studio/Seeed_TMG3993: BRANCHES:[master:b816d04223eb98d5d10eb0e1fd18c71fb7e
 Seeed-Studio/Seeed_VEML6070: BRANCHES:[master:b10decbd8501010ca8b1f7e6dfce59bd5cefbf9a]|RELEASE:[v1.0.1|f02a841fda9527f2735e4bab2a01b1f734429880]
 Seeed-Studio/Seeed_WikiWeekly: BRANCHES:[master:1e35266fab1d4c66aa2ce6780997b56db05109e2]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Wio_GPS_Board: BRANCHES:[master:33c2f46235bf58b4b8ead978894a15edcf1a6cdb;Test:fa5b6b14a74d9a7fd053cc40f7bf2ebf14dbdc2f]|RELEASE:[v1.0.3|52ae246e22c5fc3ba94a79d012d2429aa1db01d4]
+Seeed-Studio/Seeed_Wio_WM1110_Dev_Board: BRANCHES:[master:e34742993932c97731f513ffa3028d284b163d31]|RELEASE:[none|none]
 Seeed-Studio/Seeeduino_GPRS: BRANCHES:[master:dd5abd935a62632960749e9027fa4e53c0a9b117]|RELEASE:[1.0.0|3c000337f555914f30c0945f4c84f061d0f95882]
 Seeed-Studio/Seeeduino_lotus_Usage: BRANCHES:[master:6b2606dc33f2a50bf1404ef65a2502c5ac03534c]|RELEASE:[none|none]
 Seeed-Studio/SenseCraft-Wio: BRANCHES:[main:b4f4a40438d0e877676e3b84ae07432ffea0d5cc;qian:02105531dcd756cecc9f6782c56231249169a39e;fixed-tinyusb:c74f8e5a119ebcfd7fee325cfc282aed7d166a95;temporary:25b36eb1747a9e75255db1f47632a957130fb8e0;stl_test:034261d641e55f0f0c2b43e23ba913fc8d03ad58;Grove-Sensor:05f0ba0bb2314d42e9c836d686f1779dec27c40f;SD_card:ab8db118a811d5aa2b854f8eb63cde75063de0fe;test_splite_screen:c8166245b5751994269f1c8d327dce13087fae45;usb_msc:854f0810d1ecc0edfafee52a8ed3d4f97067bce6;sensecap:3fbfca1f1b554f45b1ba2357f25046f3dfe46aec]|RELEASE:[v0.4.1|db470b9409266072f68a27e375d3a209d0f13b22]
