@@ -734,6 +734,7 @@ Seeed-Studio/Air_Quality_Test_Box: BRANCHES:[master:b714ff3c6c1240016d5b295ff244
 Seeed-Studio/Arch_BLE: BRANCHES:[master:9b2295ccf40939ceb5eeadc7a963c2769319800d]|RELEASE:[none|none]
 Seeed-Studio/Arch_Max: BRANCHES:[master:2a9a36ce91a0e00b747313c8a8f47332446d63a4]|RELEASE:[none|none]
 Seeed-Studio/Arch_Pro: BRANCHES:[master:aff0107e9a07b2d820755e2ceee9b99540e56854]|RELEASE:[none|none]
+Seeed-Studio/ArduPy: BRANCHES:[master:1267e875b6c82b9ecf7ac021f979e85d035f7164;new-architecture:f9eab88d7cb2d34ce46245af294f720b22f1f826;dev:85ad56cff40de1959acdb181dcaac5a83dcc32b0;bak:61a072fea3265a6aab7a2a59e9aeb1b8aabdeb8b;v1.12:ce3a8663552ea9fd8e7189b7cae91955aa0d5ec3]|RELEASE:[1.3.0|e2f4a00f3bd7249fb9811b6805543f12f86f9c96]
 Seeed-Studio/ArduinoCore-k210: BRANCHES:[kendryte-standalone-sdk:2ea3c001557c7f70fad560a7a38c57b36b76f321;dev:eef0a6c7afc7b602c7473781fb023cb22933a60d;master:69b516f8defa4e97af0b98148bae4e2ff5cd1df4;kendryte-freertos-sdk:9693b063ea055e62dc130d6cbd6d317a9ecf7e36]|RELEASE:[v1.3|84bdfa86f4b89819a7d245e4c1f79a7e26ed00ed]
 Seeed-Studio/ArduinoPhone: BRANCHES:[master:783f45cf09461840eb0728144bf98124aa40df36]|RELEASE:[none|none]
 Seeed-Studio/Arduino_IDE_for_RePhone: BRANCHES:[master:625420360cc0ddb93787a3a36e1b06f43e8c5b21]|RELEASE:[none|none]
