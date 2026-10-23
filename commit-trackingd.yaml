@@ -969,6 +969,7 @@ Seeed-Studio/fritzing_parts: BRANCHES:[master:aec4c5d84a93a3ecac34c1e2fb5de92975
 Seeed-Studio/grove-zero-scratch-helperAPP: BRANCHES:[master:35f4c85006ce58000e7726a599cd3d6b43f6b110]|RELEASE:[none|none]
 Seeed-Studio/grove.py: BRANCHES:[master:15505cb15014a19c30a02ddbef239eaa0a784ee3;gh-pages:700aa41e61cca23001e1b9c3fcc4d5c7061e3916;delete-mraa:3de678678b06031b5d4aa25df1d207625c71f38b;beta:f4a1d6c9803a6d1b05b68a6bc376583c6a69a6cf;grove.py-compatibility-feature:a338e06bfec476e057894d9b8dbee8a0bdcb5bc8]|RELEASE:[none|none]
 Seeed-Studio/mbed_ble: BRANCHES:[master:a1c565695018add27ce1210273b86e1692d5acce;softdevice_v6:17aaed0d92ee239bdd1fff09c6a0860ccf7d3a36]|RELEASE:[none|none]
+Seeed-Studio/micropython-microbit-grove: BRANCHES:[master:e3766e9d6763866ac93878cdf9a007d578f4a6e8]|RELEASE:[none|none]
 Seeed-Studio/mtXcontrol: BRANCHES:[master:b9ab29ea60c8a8e8d40ccae74ea5d667d92acd28;cubeXcontrol:687f81cbb5fb497ad172986aa5d698c652c1622a;web:d8e388aba7b66d1ae3c26565c530a1666afdfd86;multiple_rainbowduinos:23a09d553ee9e69606ac4ca5ef8dd54adae071be;gh-pages:19c0b05f1cfba383104b9a9647bbbd02e6c0ebc1]|RELEASE:[none|none]
 Seeed-Studio/nrf51_dfu_bootloader: BRANCHES:[master:ce0123644578bc0c99596f841f2a917a705a8d1c]|RELEASE:[v0.1|43deb420fc0d275047841c76fd6586714ddab181]
 Seeed-Studio/pi-hats: BRANCHES:[master:95e388a446bf2a83b030be30df32828e7650f79c;revert-12-master:7660f1ace46ccaa403c5aa5a12dc8f4cbd460893;dev:1b58735a9eb3b713c0a0c782a50499b26abf4ffe;turmary-patch-1:dbf65e3a74e02ea022383856349f3f66b5ad6bcd]|RELEASE:[v1.0|0db233c054cdd1b37fe7d6f6c3c6ecd019742449]
