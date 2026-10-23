@@ -946,6 +946,7 @@ Seeed-Studio/Seeed_PM2_5_sensor_HM3301: BRANCHES:[master:e3ffb82374c874f216c0fab
 Seeed-Studio/Seeed_Platform: BRANCHES:[master:a38ef3ad8cf232594c49d16584ef93bd7e293e33;test:1b5676a16b43f68ea00572dbbdb4179b01301364]|RELEASE:[none|none]
 Seeed-Studio/Seeed_QTouch: BRANCHES:[master:3c0f22ee2da84ab461f04606be0bed973a98464f]|RELEASE:[1.0.0|0f3eff11975ae6705f18a8d142b48ef95ea611a2]
 Seeed-Studio/Seeed_RGB_LED_Matrix: BRANCHES:[master:bda5bd0f64869be12757caecb9075a00a7e67c58]|RELEASE:[none|none]
+Seeed-Studio/Seeed_SCD30: BRANCHES:[master:77b91b79d50f03e68aa10a951128a13ecbdcbf85]|RELEASE:[v1.0.0|a6c618135eb09670c99c2ac342866b58f99be023]
 Seeed-Studio/Seeed_SHT35: BRANCHES:[master:0abb003e939153b4c19f127d84d48c938c15f746]|RELEASE:[v1.0.2|6ed044a81d0fdc1107c9aebec4f00894601b5877]
 Seeed-Studio/Seeed_Sketch_ADXL356X: BRANCHES:[master:bb367df25ed41bfae378647c8a8db3cf65de1d7a]|RELEASE:[none|none]
 Seeed-Studio/Seeed_Sketch_adxl1001: BRANCHES:[master:1232f993fcde9af06dbba2910416f75ee2037add]|RELEASE:[none|none]
