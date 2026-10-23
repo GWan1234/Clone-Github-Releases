@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:48
+commit-tracking: 2026-10-23 10:50
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1007,6 +1007,7 @@ Seeed-Studio/pxt-grove: BRANCHES:[master:b6fa0677dfa4e6517755d5ec88121708462d040
 Seeed-Studio/pxt-grove-zero-for-microbit: BRANCHES:[master:5e2b521509cafe7a0521775fc7e9ab9bd9d681b4]|RELEASE:[1.0.4|3b6c2be16ee31f2f87fc96b48487508f93c72fa2]
 Seeed-Studio/sketch_sidekick: BRANCHES:[master:f2ce292b2ba8517c7c7c2213b3207d6dd4536dc5]|RELEASE:[none|none]
 Seeed-Studio/stm32f4ArduinoCore: BRANCHES:[master:860362a0662648b339c9efef0990407fadaa6218]|RELEASE:[none|none]
+Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04fcfbe5c09e;v2019.04-imx6ull-npi:d447c4866200ae5fd069313d92e2308ff01af021;master:3c99166441bf3ea325af2da83cfe65430b49c066;v2018.11-stm32mp:f55001ad5e8bca2d474f3bcf696a15bc4ea1f78e]|RELEASE:[none|none]
 Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0]|RELEASE:[none|none]
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316]|RELEASE:[none|none]
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
