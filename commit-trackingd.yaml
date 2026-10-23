@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:26
+commit-tracking: 2026-10-23 10:27
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -809,6 +809,7 @@ Seeed-Studio/Grove_Single_Axis_Analog_Gyro: BRANCHES:[master:91f44d98fef7a3ce5b1
 Seeed-Studio/Grove_Starter_Kit_For_LinkIt: BRANCHES:[master:39a30d2fe5258368eb6123be337ff6c7e925cb5b]|RELEASE:[none|none]
 Seeed-Studio/Grove_Starter_Kit_for_BBG: BRANCHES:[master:235943683071bdc0ee88835985aee8aeff2901b4]|RELEASE:[none|none]
 Seeed-Studio/Grove_Starter_Kit_for_Photon_Demos: BRANCHES:[master:3b846e684fb7ce1f2c4e3913fb981ade33f952a7]|RELEASE:[none|none]
+Seeed-Studio/Grove_Starter_Kit_for_lks7688Duo: BRANCHES:[master:4625965dc4477e09cd4ec4d39ee422b015db904d]|RELEASE:[none|none]
 Seeed-Studio/Grove_Starter_Kit_for_mbed: BRANCHES:[master:f052242885c868fa6a2b5675b85b476099cbd585]|RELEASE:[none|none]
 Seeed-Studio/Grove_Sunlight_Sensor: BRANCHES:[master:c386ae876e0c2d663aabc18ccd47000ea8279d39;Si1151:ac38792058ea6149d47531056df6bc9e7f6ce4ee]|RELEASE:[1.1.1|2502fac4cdc98c6e1468d5595bd482471a5aa3ce]
 Seeed-Studio/Grove_Temper_Humidity: BRANCHES:[master:14b3d39b9738d33ec27005ee3a10e9bed583502e]|RELEASE:[1.0.1|808a474ce2666350d129d514563bf01fd7d2e00f]
