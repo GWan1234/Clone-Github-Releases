@@ -782,6 +782,7 @@ Seeed-Studio/Grove_3Axis_Digital_Accelerometer_BMA400: BRANCHES:[master:34aacf64
 Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L: BRANCHES:[master:748d32112e91e94923d9019ded908606a31fb6aa]|RELEASE:[v1.0.1|c7cec2f9123633825a759aee6c20313c074f7089]
 Seeed-Studio/Grove_3_Axis_Compass_V2.0_BMM150: BRANCHES:[master:179a2bff4e7b7861bac9a55cafe0f999f38cf065]|RELEASE:[v1.0.0|9fa884f406a24a3da62989f0dec82873461b060b]
 Seeed-Studio/Grove_3_Axis_Digital_Gyro: BRANCHES:[master:77861f69df5c5aa58d88349aa86496f21df7097c]|RELEASE:[v1.0.0|e4ecd3472233c028b041a775ea3ed929882c44ae]
+Seeed-Studio/Grove_4Digit_Display: BRANCHES:[master:4ef5c260facf3a076db52d0f2955dba447ff9c63]|RELEASE:[none|none]
 Seeed-Studio/Grove_4Digital_Display: BRANCHES:[master:909294b7423787a5dc520e0e4bd688d000f95977]|RELEASE:[v2.0.0|3bcfc25f52fad18bc7223a711cacbd38b8436208]
 Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass: BRANCHES:[master:88a382f7d956c0e7c06f51e3742302f5504c37fe;6-Axis-Accelerometer&Compass-v2.0:f6bbfa4ab58fa433e98f0649ac22e24859782687]|RELEASE:[none|none]
 Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass_v2: BRANCHES:[master:92be39e3935b10f3ad7131ff717e7ee6e3599988]|RELEASE:[v1.0.1|78d333b8032f23365c14568e521f7eb4c001ede8]
