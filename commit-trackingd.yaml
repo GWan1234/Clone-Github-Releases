@@ -1123,6 +1123,7 @@ Seeed-Studio/ci-arduino: BRANCHES:[main:7d91076b95ba01a4ce564cd0f9be0259b1efe85f
 Seeed-Studio/cloud9-examples: BRANCHES:[master:02cda99905a6adef67ac7a842e23be1b3de4919d;bbai64-cape:3a8d1e65cb60e587f2da8f3111ece919584bb5f2;bbai64:7f7698f4b175b9204a2f1a12e02eea0a4fa44120;v2020.08:563c9976645a7834737a6d9ec4076eb5188efea0;v2020.01:acf48804871084c1ecdc892a5476cad561ae7cf8]|RELEASE:[none|none]
 Seeed-Studio/edgelab-ei-ml-blocks: BRANCHES:[master:5dfc3c3308d7627d3f374c88167b78f9e7ec5a35]|RELEASE:[none|none]
 Seeed-Studio/esp-at-lib: BRANCHES:[develop:2f081fa061cc5217c7de79961f1be2ac65a35163;uart-at:734cbc1a1357efcb62df1e4f770240b8b8917300;master:4ed93be0ddf54024ad075d0d5842cdf080739819]|RELEASE:[none|none]
+Seeed-Studio/frigate-on-jetson: BRANCHES:[main:25920f4b2188e92d2c54c1b76dc150f9bef83c50]|RELEASE:[none|none]
 Seeed-Studio/fritzing_parts: BRANCHES:[master:aec4c5d84a93a3ecac34c1e2fb5de92975d1ddcc]|RELEASE:[none|none]
 Seeed-Studio/grove-linux-driver: BRANCHES:[master:4277564188ca965beb0c2e4b51c352fae77e3dd0;dev:9bae4c9c15cf44035ef43968e15d8141d20571dc]|RELEASE:[none|none]
 Seeed-Studio/grove-zero-scratch-helperAPP: BRANCHES:[master:35f4c85006ce58000e7726a599cd3d6b43f6b110]|RELEASE:[none|none]
