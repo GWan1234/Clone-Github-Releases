@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-23 10:20
+commit-tracking: 2026-10-23 10:21
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -874,6 +874,7 @@ Seeed-Studio/Tiny_BLE: BRANCHES:[master:a0c4545ae6ca579d31eb2ea71257fb10c6b5e072
 Seeed-Studio/TouchPixel: BRANCHES:[master:591044f6c869cb1b04d06579924ac06b672b7f08]|RELEASE:[none|none]
 Seeed-Studio/Touch_Screen_Driver: BRANCHES:[master:df4bd6e974dc84a1c16f532ba179cb0231e52007]|RELEASE:[1.0.0|380088b5b770233c8e7d0f61c6098a9295e03806]
 Seeed-Studio/WiFi_Shield: BRANCHES:[master:cfb50aa126007e6220279fbf2a47d083a58c02fd;dev:1c675d8b22c00ea4b5213547870d6b2b2b67f524]|RELEASE:[none|none]
+Seeed-Studio/Wio_Link_Android_App: BRANCHES:[master:e7c4b6fd1110a835f0312c28ae9f83856f3c8dd6;feature/door:c2760106a39a2360ce23230c40f5041a9552cf7e;feature/dev_6.0_config_failure:b34745e766ee749bbbe8557835fe874d84263778]|RELEASE:[v2.5.3|94adecbe85dd9bf2a78fc03b31b3b191f12f50c4]
 Seeed-Studio/Xadow_Edison_Demos: BRANCHES:[master:882f1847f434c84eabe8fcafe6685f4138b99789]|RELEASE:[none|none]
 Seeed-Studio/Xadow_IMU_6DOF: BRANCHES:[master:1b816f1f96142d70f4da443369fb287c7b400b75]|RELEASE:[none|none]
 Seeed-Studio/Xadow_MainBoard: BRANCHES:[master:4cb5aff0f0af8098119ef601a62d58595968c9da]|RELEASE:[none|none]
