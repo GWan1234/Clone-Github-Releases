@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 15:10
+commit-tracking: 2026-10-24 15:15
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -579,7 +579,7 @@ m5stack/DEMO-BOARD: BRANCHES:[master:a60a67db429375cef3f93bb5d054bd10deb796c1]|R
 m5stack/ESP-Claw: BRANCHES:[master:3c97c2e48f9e86d74e9b01f849b04b8cd9ea0a7d;boards/m5stack-sticks3-support:fa153a8c82a2ec9c7fedef51340d4cef48f69011;boards/m5stack-cores3-support:fee405adf57c2fa4ac42d2ab77b4836a20395933]|RELEASE:[none|none]
 m5stack/ESP32-DAPLink: BRANCHES:[cores3:26a25435ac5e455cb4a8cd7d447eebd639f114b4;core2:5f27f0225f81c970c313c4d601bfc980889db94d;Basic:a136e8206df0f402e2b7809e0cf330db97bebb40;maplelink:11466890ea65e494506d4ae89726e7b987fbd27e;wireless:654fc7ff7c28149419c3baf7a3d82a66b9070b3c;master:4c9f3768b0e4ca12c9760156419ce11d2ae5697b]|RELEASE:[none|none]
 m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6]|RELEASE:[none|none]
-m5stack/Factory_Firmware-Core2_for_AWS: BRANCHES:[main:d260a1ede5f65a77e4aaf869b76ee871707504ab]|RELEASE:[none|none]
+m5stack/Factory_Firmware-Core2_for_AWS: BRANCHES:[main:b986040eb18e5be192cb0b5055d08cf02a5cb329]|RELEASE:[none|none]
 m5stack/FontCreator: BRANCHES:[master:bcd095f769dbd3f3c42f6e3ca3b95aee2cc66ca4]|RELEASE:[0.1.0|caa64c57838c2304caddf7bab959b75408b71311]
 m5stack/GoPlus: BRANCHES:[master:efba31c93426f1573066dda56d157e73d4bab864]|RELEASE:[none|none]
 m5stack/Grbl_Esp32: BRANCHES:[main:c58259bdeef3988fb96efcc1414bba4e0a262452;FluidHoming:ab5357f67eb0905d6266cd532269fa696e6a4bef;dependabot/npm_and_yarn/embedded/path-parse-1.0.7:b94710c68313212402f412d79306cad191f75b5f;YamlSettings:f0646c79b128c1cdf41efc4a69a035cff51b80c9;Devt:ce452985907fac5c8f9fb2ea46867d71a3d9155f;SpreadMasks:4f4df881d9246edc1fd7e0db59d07e2aeb34387e;YL620_Fix:b0fd9a54d91bf25818c546600a187ca865d0baa6;YamlSettingsExplicit:fe55a8b99efaeabb4c37d5b167aa8db86bbc2e83;DumpConfig:eb584d67e3d8c869238eda5ec50141348077c9f5;ControlPinFixes:11060f33f26758bb2ac11f72c9621528f609daea]|RELEASE:[none|none]
@@ -737,7 +737,7 @@ m5stack/M5Tab5-UserDemo: BRANCHES:[main:b4e356bc491ca070d54004718dad789c07d5fc93
 m5stack/M5Template-C-CPP: BRANCHES:[main:510e9dc93a32260ac6a742f7c5f6d10d1a3d60c9]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:85113589f6d7c272c1dbc21e99f6f1bc228630cb]|RELEASE:[none|none]
 m5stack/M5Tough: BRANCHES:[master:fda04c38004817bfff095e172ff1d03d8a74c15c]|RELEASE:[none|none]
-m5stack/M5Unified: BRANCHES:[develop:69e2b6da2fa76603942547ad13e64c3b6e91a9af;master:35903583211e1f39ca88920714525fbcd1eb714a]|RELEASE:[0.2.27|35903583211e1f39ca88920714525fbcd1eb714a]
+m5stack/M5Unified: BRANCHES:[develop:7fcda51d2f632d4d723665b9e31cb9f45ddad5a2;master:35903583211e1f39ca88920714525fbcd1eb714a]|RELEASE:[0.2.27|35903583211e1f39ca88920714525fbcd1eb714a]
 m5stack/M5Unit-8Angle: BRANCHES:[main:8811e4898fdd5988a74fb93b1d6ddc4be264973a]|RELEASE:[none|none]
 m5stack/M5Unit-8Angle-Internal-FW: BRANCHES:[main:34b031c420eb4359f28833dfed9de187de7a69a9]|RELEASE:[none|none]
 m5stack/M5Unit-8Encoder: BRANCHES:[main:a75ab1a0975f034cca4588b2c539d9dbb669cc2d]|RELEASE:[0.0.1|2cec67233b2d4cf66cf3e6d7b156d48c35256a16]
@@ -861,7 +861,7 @@ m5stack/ModuleLLM-OpenAI-Plugin: BRANCHES:[dev:a9fc6c8c02c2fd74b295c99e0b1195cfe
 m5stack/Neopixel_board: BRANCHES:[master:4d4cb5dc746de7f7a64ec8e8d1200e94b239fead]|RELEASE:[none|none]
 m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1869b0c07d7af5]|RELEASE:[none|none]
 m5stack/PoE-CAM-UserDemo: BRANCHES:[master:42b6c13cfe6bd7109d52b4d410bd5da247e1e9e0]|RELEASE:[none|none]
-m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:6770625b78733860ddd59021bf6b587adda88d3b]|RELEASE:[none|none]
+m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:bd3bc489ec3d2049e30d056b814a75575fc9d099]|RELEASE:[none|none]
 m5stack/RadioLib: BRANCHES:[master:e0fc757dc009a0e3ad557189fa5faee1147dce19]|RELEASE:[none|none]
 m5stack/STAMP-C3: BRANCHES:[master:ee5f574e0ee2a85e696f7ab7cb8779d8646fbcf1]|RELEASE:[none|none]
 m5stack/STAMP-PICO: BRANCHES:[master:fb2173ff5ff541411b5a9fbd7af44b7043209b80]|RELEASE:[0.0.2|a9e9209e1ae8e2f1d94b72dc86c0d9293f988b0c]
