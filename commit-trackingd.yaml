@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 20:10
+commit-tracking: 2026-10-24 20:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3706,7 +3706,7 @@ waveshareteam/esp32-repo-template: BRANCHES:[main:8cee065f80980f04702a11847a68fe
 waveshareteam/esp32-s3-lr1121-oled-1.54: BRANCHES:[main:4bc5007b471ab6ac0b25645e049ddb42b2d5e757;dependabot/github_actions/actions/upload-artifact-7.0.2:c9c8d607e650ee1cc7319ba8d48ebcafe9314788;dependabot/github_actions/actions/checkout-7.0.1:afc2f3ee3c9d1c50997e721b44f2371165380499;dependabot/github_actions/actions/download-artifact-8.0.2:0ac102b7bcecf09569def9375a9cde2c40ec56f4;dependabot/github_actions/actions/setup-python-7.0.0:dac6b2127914cecc79d7d7810682f2ef117f6f56]|RELEASE:[v1.0.0|de469df0b7157b0b02bd9048d8e80b7abc07f5dc]
 waveshareteam/javen-waveshare-code: BRANCHES:[javen:c09d5f6eb6ef055094ad9ba9c3b3240bf9223529;master:e81486c57b63352692382053496ee24a9ab74574]|RELEASE:[none|none]
 waveshareteam/lerobot: BRANCHES:[main:39be85cdae8652aff83336e45f18e65693721f92]|RELEASE:[none|none]
-waveshareteam/linux: BRANCHES:[ES8389-Audio-HAT:44ee4fd7849e4a0fabc148956a97463f5f522426;Waveshare-fix-compatible:9345156548301fa2e7944fc903521adf973f735e;rpi-6.18.y:936ee9cc42d2f1cf737cbbdb6c6851622f30b9d9;10.1-dsi-touch-a:8c3107ee12c1ebe85af02fe46ff54ec3bc843316;10.1-dsi-touch-e:6890c00f783c4e369e0349eece7ea94100282ad3;waveshare-dsi-2609:4355a7af90260be3016650be5e8299e9e003cefc;revert-3-waveshare-dsi:c126911bdc4f1a9963c2cfab36a2500e2c58b562]|RELEASE:[none|none]
+waveshareteam/linux: BRANCHES:[dsi-touch-261023:0ab86b1be4944c812b2cf8459b47d656ef0a432c;rpi-6.18.y:e752d5801648651cd65abb727ecc63e9080cbea2;revert-3-waveshare-dsi:c126911bdc4f1a9963c2cfab36a2500e2c58b562]|RELEASE:[none|none]
 waveshareteam/pico-lorawan: BRANCHES:[flash-backed-eeprom-board:4c54ffc1c385e51585f5b16569bcb8b582d3c957;main:d2d09822c292dfe3404b25006af9cda8066e47a2]|RELEASE:[none|none]
 waveshareteam/pxt-APA102: BRANCHES:[master:c5eaffabf547d6c4d6d48218ec9dbfd99966d1bf]|RELEASE:[none|none]
 waveshareteam/roarm_m2: BRANCHES:[main:c6ccc5bda2eb92df2f0850d3e63cc42b81557f4f]|RELEASE:[none|none]
