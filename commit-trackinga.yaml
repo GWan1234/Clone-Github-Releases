@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 11:05
+commit-tracking: 2026-10-24 11:08
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -567,7 +567,7 @@ DFRobot/uPyCraft: BRANCHES:[master:41936c881a6d0c07d221615642bfd548e3191e05]|REL
 DFRobot/uPyCraft_src: BRANCHES:[master:68dfc449ee1af7f4bdb0ba8a9a127ec890935d3b]|RELEASE:[none|none]
 DFRobot/watermonitor: BRANCHES:[master:ccdce7c735dace2d05a97f3abadb24b8cd794a05]|RELEASE:[none|none]
 DFRobot/wido_ddns: BRANCHES:[master:7c4f5d172eeb0cc78006ec46fe97aef66ab2ea75;v0.1:32da2d4d8330279917960c33872541e0358a1e2b]|RELEASE:[none|none]
-DragonWork/node-serialport-rs: BRANCHES:[dependabot/github_actions/actions-2e39b05bd3:09fc8ba44a56eff4dfb65fcad907e470d04ef426;main:b66abf10a8e57e5885887208479d482f302754df]|RELEASE:[v0.7.0|b66abf10a8e57e5885887208479d482f302754df]
+DragonWork/node-serialport-rs: BRANCHES:[dependabot/github_actions/actions-fe3086cb99:604a58ecd01c13076beac561d93c2f037135a9e6;dependabot/cargo/compatible-cargo-updates-2e1695ab45:7a6cc50906e09d965661be7fc74537af962facf6;main:b66abf10a8e57e5885887208479d482f302754df]|RELEASE:[v0.7.0|b66abf10a8e57e5885887208479d482f302754df]
 Embosen/Aircondition: BRANCHES:[master:ba7dc847514a5c57302d0696b3a758195c7f594b]|RELEASE:[none|none]
 Embosen/Emlab-BLEsample: BRANCHES:[master:6ed4170a8bef8a7aa8ce81931f5c07189525add7]|RELEASE:[none|none]
 Embosen/KiyunApp: BRANCHES:[master:3f73eea632c4ece398d55f70e6adfac03925fb99]|RELEASE:[none|none]
@@ -734,7 +734,7 @@ Koenkk/zigbee2mqtt: BRANCHES:[dependabot/npm_and_yarn/dev/minor-patch-3a9cd9ef93
 Koenkk/zigbee2mqtt-chart: BRANCHES:[main:7a77fab892cee17175683ee439dbf2f1fc82756b;gh-pages:8b0026c679247de31fe8645c50b2471314d0d7e2;fix/disable-onboarding:ed94d0c89c1e2b15bd8fc4811b33757c93fe0aed;release_2.1.1-patch1:36b79429802041f46fa18a96ca6bb54b094a64cb;update_url:c5ce8266dc30ee34e61845038dcb7a60ed84999d;v2_upgrades:9ff211946ed09d36835e818acd619385c239c410;code_conduct:5e11e7d918176ee246bd7a8f84f67bb57efa4235;helm_versions:43969da78a83520b919f6641851dcaef96a36db4;images_from_app_version:faf72ac00936f24fb64e8ddc2785ded81d9164d0;ci_typos:592ff97f46fe3a3d92451305b9aa89fab679c1d3]|RELEASE:[2.14.2|1381266315837232587f016249a5a27e3ccaf7d0]
 Koenkk/zigbee2mqtt-hassio-addon: BRANCHES:[master:b18683b3bc6898672b529acc24df777606dd54fc]|RELEASE:[none|none]
 Koenkk/zigbee2mqtt-user-extensions: BRANCHES:[main:ff72e9c469ef2565a915b473134d94dbf39ee5ae;matter:9393bbcccdaa211e59696d46327e6f4deaf61c5a]|RELEASE:[none|none]
-Koenkk/zigbee2mqtt.io: BRANCHES:[dependabot/npm_and_yarn/vite-8.3.3:7c9f8e363d663c7e0e6b69cf5595929184a77140;gh-pages:ed5beaf955ea82be0c9d15a20628e91530861b03;dev:e85b53b841d5b51b3785632ebfe8db45e432d5ea;master:2d9af8dbf2dfae280faef6f8ac936da22cc9ecbc;fix/revert-vuepress-plugins:de443c8f569af0d84195a1f57ec21e97817942bf]|RELEASE:[none|none]
+Koenkk/zigbee2mqtt.io: BRANCHES:[dependabot/npm_and_yarn/all-891f63c719:494a78f1c6869aa3760969da8678802c69afcd48;dependabot/npm_and_yarn/vite-8.3.3:7c9f8e363d663c7e0e6b69cf5595929184a77140;gh-pages:ed5beaf955ea82be0c9d15a20628e91530861b03;dev:e85b53b841d5b51b3785632ebfe8db45e432d5ea;master:2d9af8dbf2dfae280faef6f8ac936da22cc9ecbc;fix/revert-vuepress-plugins:de443c8f569af0d84195a1f57ec21e97817942bf]|RELEASE:[none|none]
 Koenkk/zigpy-zigate: BRANCHES:[master:04d72d8e4299054a6112a471959370161a9289e8]|RELEASE:[none|none]
 Koenkk/zstack-constants: BRANCHES:[master:a6a57116a42ab38cd87d33e4737502c28c46d1b3]|RELEASE:[none|none]
 LeoChen-CoreMind/UDX710-TOOLS: BRANCHES:[main:5d706ae9fcd7b9a1a9e7156ec64aba4bbd13507f;SZ50:ce5ff9585bd868f2023a8605e74beb8f51713cd5]|RELEASE:[V2.3.4|645157b18233ff2e73c4bd62f16fb1346f3ec293]
