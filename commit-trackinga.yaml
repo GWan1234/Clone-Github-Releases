@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 11:27
+commit-tracking: 2026-10-24 11:30
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1854,9 +1854,10 @@ naoki66/fish-helper-data: BRANCHES:[main:e06b7a15b39c93d3edfbcad57b48aadfbef74de
 naoki66/fish_helper_config: BRANCHES:[main:26463c28f083bc91ebaf133a8d1c2cadd34b7d71]|RELEASE:[none|none]
 naoki66/i915-sriov-dkms: BRANCHES:[master:0481357c40951b6edab10d058010c3a2f5df0aa3]|RELEASE:[none|none]
 naoki66/immortalwrt_pon: BRANCHES:[master:1d949bcb3d3f5b0e19cad0d663b392567f843bd5]|RELEASE:[none|none]
-naoki66/luci-app-airoha: BRANCHES:[master:496664d3928a7944fcb211f4732b9bdb5459fc4a]|RELEASE:[none|none]
+naoki66/luci-app-airoha: BRANCHES:[main:d496614002cf21f83e96e4741716eab1e5333ede]|RELEASE:[none|none]
+naoki66/luci-app-bandix: BRANCHES:[main:159a6de184b8cbd0694b40f018e737d0a3c82e7e]|RELEASE:[none|none]
 naoki66/luci-app-lucky: BRANCHES:[main:e2197545d72f019b370ef56937b5569c9c2c7614]|RELEASE:[none|none]
-naoki66/luci-app-pushbot: BRANCHES:[master:721bb99c8492cd4195213bd13c7331c685aac0e9]|RELEASE:[luci-app-pushbot-v6.01-r15|721bb99c8492cd4195213bd13c7331c685aac0e9]
+naoki66/luci-app-pushbot: BRANCHES:[master:d9f3f2b16584b5f040658ebb9d6c3e656fbec9b5]|RELEASE:[luci-app-pushbot-v6.01-r15|721bb99c8492cd4195213bd13c7331c685aac0e9]
 naoki66/lucky: BRANCHES:[master:b1ef71c36cffcc07aeced03022d52cacdf03cf74]|RELEASE:[none|none]
 naoki66/mdd-sim-gateway: BRANCHES:[main:71ea92728fb1aa4f22bb7a4e7794285c41cd9668;develop:540bf0ab315e39fcda69674f834c69ec099ae965;fix/container-modem-name-vowifi-reason:e7578b7afbad14ece7597dd850790fc78e27aca0]|RELEASE:[none|none]
 naoki66/nas-tools: BRANCHES:[master:974321e92b02d5dc55785edbd5b2320c27b3aa67]|RELEASE:[none|none]
@@ -1876,7 +1877,7 @@ naoki66/rr-modules: BRANCHES:[main:3ea9e3c4953fb87eb2582a2f8825b8767980d566]|REL
 naoki66/sub-web-modify: BRANCHES:[master:7e00b7e8467ad65549d144ddf412521ffbf480fe]|RELEASE:[none|none]
 naoki66/syno-acme: BRANCHES:[main:5712f81dd85da9c2a953609a0c72df8fdece4dc8;master:186137f21ce82cc2fea9b4e06c3767044910c62c]|RELEASE:[none|none]
 naoki66/u-boot-for-brightspeed-gemtek: BRANCHES:[agent/mtd0-prefix-must-be-vendor:1c1f1bbe18a6b1d09c82109914e0749910122ed9;agent/atf-mbedtls-restore-sha256:10f3057d0ca8ea69f3649be1ac17cfd9bbbe36ef;agent/atf-cert-hash-alg-sha512:28d97fae0c8cabdaec1497d36f18de0b3eb53d08;main:b94a9d4e46b2b258caf7ec914b39982f5499edaa;test:dfd3389d17a49b90c660b48b25b3d90f6395bf03]|RELEASE:[none|none]
-naoki66/uboot-an758x: BRANCHES:[main:a4bdf508863eaeb39cfee9b8e2273a03170de409]|RELEASE:[v2026.10-2|28d5bca164c76255049567a477d8e5d6a720c846]
+naoki66/uboot-an758x: BRANCHES:[main:a4bdf508863eaeb39cfee9b8e2273a03170de409]|RELEASE:[v2026.10.23|a4bdf508863eaeb39cfee9b8e2273a03170de409]
 naoki66/vohive: BRANCHES:[main:f240894e763cf7f0cf74c88562bb9b55f0d573b1]|RELEASE:[none|none]
 naoki66/vohive2: BRANCHES:[main:0965af3d3c59bf51ef09ebd7edcafc06f516321f]|RELEASE:[none|none]
 naoki66/vowifi_gateway: BRANCHES:[main:e3719840b93961f933aab3dac8bd2641936e2bcc;codex/pr5-non-auth:09e91e672c7193642ec4755e3ea126ed573ff8d5]|RELEASE:[none|none]
