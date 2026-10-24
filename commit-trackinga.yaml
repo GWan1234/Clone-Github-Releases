@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 11:10
+commit-tracking: 2026-10-24 11:11
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1215,6 +1215,7 @@ dailook/nxshell: BRANCHES:[main:1760e78097a8a6c367e06b3f180f5d504e3cef57]|RELEAS
 dailook/openwrt-21.02-for-mt7987: BRANCHES:[main:fdc6cef29a9ad26fd8512d0f4e442168b5bd3e1f]|RELEASE:[none|none]
 dailook/openwrt-pon-drivers: BRANCHES:[main:e5194d2dfd169eef8f4a944fdc3f929e0287b680]|RELEASE:[none|none]
 dailook/openwrt-pon-userspace: BRANCHES:[main:cce9d756742487b378749c606b30e13ee9b0f093]|RELEASE:[none|none]
+dailook/openwrt-ppe-nss: BRANCHES:[ppe-nss:7b62228607e718d1317e5622264147772c59916c;ppe-wifi-offload:0065cc93594cf1c71f0cc881d2916d91a6c7907a]|RELEASE:[none|none]
 dailook/package-backup: BRANCHES:[master:35c7d66a754b4d69b1417182bd69f4cbdd2bb592]|RELEASE:[none|none]
 dailook/packages_lang_golang: BRANCHES:[27.x:c912b45f02ec65c2b21419564e6c631acdbe7e8d;26.x:bdad5443d147343ea6e497f91ed8bee0d97f8996;25.x:e952b860128acc1e2c09caeff657109522c04d08;24.x:94dd0f5793debfee007f0581509640c392de7188;23.x:3d7be284fa3c6d9835d32803694904d6799ab59a]|RELEASE:[none|none]
 dailook/ponwrt: BRANCHES:[master:d01485cc909fac33144dc07fa9dc05ed4455380f]|RELEASE:[none|none]
