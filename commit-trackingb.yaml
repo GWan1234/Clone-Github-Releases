@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 12:44
+commit-tracking: 2026-10-24 12:46
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -3254,7 +3254,7 @@ philippe44/libmicrodns: BRANCHES:[master:1d4556e9da6330c05bf80151eab449d21bef812
 philippe44/libopenssl: BRANCHES:[master:ac74d79efc7a702386fcf00d4b7e0a785721a3ed]|RELEASE:[none|none]
 philippe44/libpthreads4w: BRANCHES:[master:2ae750783281db5b5cd867649880b3b951ced781]|RELEASE:[none|none]
 philippe44/libpupnp: BRANCHES:[master:11a9750e2fa6da392345fcc8868b307444e13341]|RELEASE:[none|none]
-philippe44/libraop: BRANCHES:[master:07451911b9cd5ec656d3afc4887faa70e1ef7725;v1.x:b6438b4c1fb459946f3ba329c82377c430834ab0]|RELEASE:[none|none]
+philippe44/libraop: BRANCHES:[master:60afc15c9caaeb0cad7632034be4b5d426a2728a;v1.x:b6438b4c1fb459946f3ba329c82377c430834ab0]|RELEASE:[none|none]
 philippe44/libresample16: BRANCHES:[master:ea28868d3de1136db9676efc22d35dcf89819fc5]|RELEASE:[none|none]
 philippe44/librespot: BRANCHES:[HTTP-sink:b34b5b9b42347cf64d17873a0b9a2b92ef2b31fb;suggestions:5fd44d313ca89404e8a1329b81a988c8fc0d6d28;update-to-upstream-master:fc07625ecede9745d6aed0f2b9b2e5e5aa6a52e7;seeking:96808b45cdb55882541fca8baacf875d442e3404;master:59683d7965480e63c581dd03082ded6a080a1cd3;patch-1:53f516e5deb0dcaa87b1473ccf5199dc5047abe0;dev:06f5aa9c907f6702ecba4147d6291c1cc448b295;no-ogg-direct:08a5f677d87696b9079c5a7bb880753a0283c07f;spotty-dev:b04abe2a8f7de8d6d9330768af064e3c445c55be;ogg-direct-updated:4b9db4503a41681bc9c94cda3448a275158e90a6]|RELEASE:[none|none]
 philippe44/librespot-spotty: BRANCHES:[main:209337cd273e5fa24d4dce21867646759eafd510]|RELEASE:[none|none]
