@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 13:03
+commit-tracking: 2026-10-24 13:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -378,7 +378,7 @@ Xinyuan-LilyGO/LilyGo-HeartRate-Kit: BRANCHES:[master:15d3b09964d978c025452d1c49
 Xinyuan-LilyGO/LilyGo-HiGrow: BRANCHES:[master:f5732ce6012e6ece349c9d1788bad4cf392c9aca;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/dns-packet-1.3.4:127fb3b55349c0e41d0de822fe8fe38399ff5d38;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/path-parse-1.0.7:2ff89ee2f9d4ea523e2e2830867e7dc959882c66;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/hosted-git-info-2.8.9:754a3cca19d2c063512c42afb702c17ba569019f;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/lodash-4.17.21:3e591bae3b412a59bccb98230faf438cd30d87cb;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/chart.js-2.9.4:8ca1c1ef7fe4f0681e7f8ecb5aa5025f1ab53289;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/url-parse-1.5.10:31fdf52ce5fca01acbdb71a578074f1741b14e12;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/browserslist-4.20.3:8545f8681e0ce5bb1c1da8d8dbb246e4fae1ede3;dependabot/npm_and_yarn/lib/ESP-DASH/vue-frontend/ws-6.2.2:a6766c37439042245048736734ddd8316062b561]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-K210-Script: BRANCHES:[esp32:37b10427079aeedbf12c2cb3c75d1bfd66320c6d;master:2a088bffa1d502093605f860cb6231c1eaa1153a]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-LoRa-Series: BRANCHES:[master:1991b1ed70915d4f246b841f99f6027166ea7330]|RELEASE:[none|none]
-Xinyuan-LilyGO/LilyGo-Modem-Series: BRANCHES:[main:75fbfb96001ca51048c23b750373d88ea2fe5f72]|RELEASE:[v2.0.0|2216748e18c28a821a1cb101981e0858dda66df2]
+Xinyuan-LilyGO/LilyGo-Modem-Series: BRANCHES:[main:dc52a160c45f5137859af5999122b0b71c5211dc]|RELEASE:[v2.0.0|2216748e18c28a821a1cb101981e0858dda66df2]
 Xinyuan-LilyGO/LilyGo-Modem-Series-MicroPython: BRANCHES:[main:72a9cc294953369329c87a7be941e87fbed75f44]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-OLED: BRANCHES:[master:83667a9a70eb660de7a97ddaad669ce6c4596e86]|RELEASE:[none|none]
 Xinyuan-LilyGO/LilyGo-T-Call-SIM800: BRANCHES:[master:11db8bf5bc38f52a6122fdfdb6b6a821f26808b8]|RELEASE:[none|none]
@@ -487,7 +487,7 @@ Xinyuan-LilyGO/T-FPGA: BRANCHES:[main:4ac8907f99a156b6b7dc4ad86cc0ef34f89166cf]|
 Xinyuan-LilyGO/T-Glass-V3: BRANCHES:[master:17a9f6ca088f06909aa88c1a621540e1e66efa8b]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-GlassV2: BRANCHES:[master:35a3dca16b0908a7ae91c9ceaedc9a0200feea63]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-HC32: BRANCHES:[main:25737d39824e1062307b2ce31d76dc23c93f472f]|RELEASE:[none|none]
-Xinyuan-LilyGO/T-HMI: BRANCHES:[master:b687052be0daec51ca4873a37e719171150498a8]|RELEASE:[none|none]
+Xinyuan-LilyGO/T-HMI: BRANCHES:[master:7b52eed0a1fa9611a12814a8a922b78a946a4316]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Halow: BRANCHES:[master:8982aeb3f567f6c482ba5fa3a2e4b65bd81ef4ee]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Halow-P4: BRANCHES:[master:2bb0d61a91ef288ac237afa481d6dabf11087031;debug:b182bbe7a4539b39f35d424126c22737c8df44be]|RELEASE:[none|none]
 Xinyuan-LilyGO/T-Halow-RJ45: BRANCHES:[main:492a3792f569f9a431f0b789945f67da8c617716]|RELEASE:[none|none]
