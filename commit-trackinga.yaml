@@ -300,7 +300,7 @@ DFRobot/DFRobot_RPi_Display: BRANCHES:[master:636aaf12f23bb07b3fed5de0e0ca132d37
 DFRobot/DFRobot_RPi_Display_V2: BRANCHES:[master:e74752a5e437c747c53950f4bed4434ba4bd445f]|RELEASE:[none|none]
 DFRobot/DFRobot_RPi_Eink_Display: BRANCHES:[main:c7b2022acd8a3aaf565be7adf2ef8ff53baa7a30]|RELEASE:[none|none]
 DFRobot/DFRobot_RTK_4G: BRANCHES:[master:defbb6fba420dd68fd70b7ff9ba917dd9d8a6e3d]|RELEASE:[none|none]
-DFRobot/DFRobot_RTK_LoRa: BRANCHES:[fix/default-i2c-address:f3e488684612cd1a09afdae47d2fc738e938d652;master:44bdbd7bea21c82d8a6d2502fb2ddc0d14951d54]|RELEASE:[none|none]
+DFRobot/DFRobot_RTK_LoRa: BRANCHES:[master:ec6bbb720f741a1aeea60611b7e6d3df09ba43e3;docs/python-get-quality:5c87b268b090080fbfa9ce735c110b4a30372192;fix/default-i2c-address:f3e488684612cd1a09afdae47d2fc738e938d652]|RELEASE:[none|none]
 DFRobot/DFRobot_RTU: BRANCHES:[master:c1478e3ef0e6ea731b9f5bb48d90aa32fe023eca]|RELEASE:[none|none]
 DFRobot/DFRobot_RainfallSensor: BRANCHES:[master:38fea5e02b40a5430be6dab39a99a6f6347d667e]|RELEASE:[none|none]
 DFRobot/DFRobot_RaspberryPi_A02YYUW: BRANCHES:[master:3fc1e664ff097dce9e1ad126947aac1941996ffb]|RELEASE:[none|none]
