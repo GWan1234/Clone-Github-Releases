@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-24 17:24
+commit-tracking: 2026-10-24 17:25
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2568,7 +2568,7 @@ voorz/jshookmcp: BRANCHES:[master:bb79e43d60ffcd9fa3e330825f6e9efb0006d790]|RELE
 voorz/luci-app-easyfan: BRANCHES:[main:ca1e4c361b7c699b54d0cf604f8a14445112f204]|RELEASE:[v1.2.4|f85e07c82b9f3505a749abf58c738b31cfb00b56]
 voorz/luci-app-qmi-modem: BRANCHES:[main:a69ddba85cb57bc4a42d5fbb18be5d165d3280d1]|RELEASE:[none|none]
 voorz/luci-app-screen: BRANCHES:[main:0c700950d3f2c32198c757467a167411aa20ebb2]|RELEASE:[v0.1.0|4ead46bfccc1a1b5059049ae57f2a26caa97dfe1]
-voorz/luci-app-vohive: BRANCHES:[main:9def882b7cdf1944f7eaa7477b381860476d7513]|RELEASE:[v0.1.63|9def882b7cdf1944f7eaa7477b381860476d7513]
+voorz/luci-app-vohive: BRANCHES:[main:7429a6e071e7c8a42ad4c0ab2a3072982b4d530c]|RELEASE:[v0.1.66|7429a6e071e7c8a42ad4c0ab2a3072982b4d530c]
 voorz/luci-theme-shadcn: BRANCHES:[main:9a7eb900c5db313c4fbd486530cee5cf01d6d50a]|RELEASE:[none|none]
 voorz/netlink: BRANCHES:[main:cc35af880748bbc42481d3f574324804b4023df1]|RELEASE:[none|none]
 voorz/notccid: BRANCHES:[main:13b2290cc3de44a803a71225fd28d2195b91c14c]|RELEASE:[none|none]
