@@ -1267,7 +1267,7 @@ catborise/noVNC: BRANCHES:[master:49637e432e8331ef9775583345be23903ef3e633;0.5.1
 catborise/py-kms: BRANCHES:[master:00e2bae270adb0a2dc391b899cd78e629ccbbee4]|RELEASE:[none|none]
 catborise/sistem: BRANCHES:[master:0b0dc0ceace4004a15404698c7c65cb6d2b71108]|RELEASE:[none|none]
 catborise/vsphere-automation-sdk-rest: BRANCHES:[gh-pages:956ae056e08cd49259221c022990fbef0d6a5262;master:43dfa4fc8af167fe244952515d0d02347454357c;release/6.8.1:6cec7bee89dce16c92d4d17613db73309e1d9b09;alanrenouf-patch-1:d75195406370be86ff5928371156e385fa8d61cd]|RELEASE:[none|none]
-catborise/webvirtcloud: BRANCHES:[knox-no-table:8f3386b4934d8601f761b0691e33e3b4bac97a5d;master:1c60696ea1accbbfc6dd731979a3557e8ea1066c]|RELEASE:[v3.4.0|3730a95c020250699aa4fd20c626ce9325829a69]
+catborise/webvirtcloud: BRANCHES:[master:1436ed13af9d85b9a9a21deae922d6263639864e]|RELEASE:[v3.4.0|3730a95c020250699aa4fd20c626ce9325829a69]
 catborise/zulip: BRANCHES:[master:34f1f577f20e67d56d2dfee857baae825dce1e66;chat.zulip.org:29099f96a4a7b4a557c7649031d3246b0d95fe06;2.1.x:b79fbf9239b9e1c86f17becf71db4e3abbdb06cf;2.0.x:726ab9c4faa71018f493ad477f155a26ea63760a;s3-compatible-uploads:bfab9cf517401cfea4f67ed7e0fd3d00db56bee6;1.9.x:8e7ac21fe09a2149d748cf9a6dd2ff2896becc1c;dockertest:e5cde0571095ca2bd5c89a609b65152114f97a22;1.8.x:8a1e20f7344942b5111119a82bd06069a45b99a7;1.5.x:76809b87a6e1e4bf9a9a8ea138f96bd62bb422d7;1.4.x:a063dd3b26f7ada794e14ace0d24ea1834611446]|RELEASE:[none|none]
 catplay-labs/catplay: BRANCHES:[master:bc6edae49554f2d0160b18ed18fc7b7376353115]|RELEASE:[v0.17.0|bc6edae49554f2d0160b18ed18fc7b7376353115]
 catplay-labs/catplay-firmware: BRANCHES:[master:aca307bb24efc7b1bcf624625e609a6666970761]|RELEASE:[none|none]
