@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-25 08:50
+commit-tracking: 2026-10-25 08:51
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2592,6 +2592,9 @@ voorz/vowifi-go: BRANCHES:[main:d434c88e17673ce3ddccf627e63f21e51e3f98c8]|RELEAS
 voorz/vowifi-ue-testing-framework: BRANCHES:[main:0c753a0cccf3c456c47377709ff24dfc49035717]|RELEASE:[none|none]
 voorz/wsl-dashboard: BRANCHES:[main:762455bda67e682457e26d59bf25ecbb1ed28791]|RELEASE:[v0.13.2|762455bda67e682457e26d59bf25ecbb1ed28791]
 voorz/wwan-go: BRANCHES:[main:568fcd43d8f4bab5c5522fe64f9762290cdd4e7a]|RELEASE:[none|none]
+wuzei-chen/luci-app-pon-wizard: BRANCHES:[main:fe74c7f8bd3888081d211f04b37d7076ae1b8d42]|RELEASE:[none|none]
+wuzei-chen/ponwrt-k655: BRANCHES:[master:7f2b3e5650a2aaa804315ad43c70de4f1fa3e32d]|RELEASE:[none|none]
+wuzei-chen/ponwrt-oaf: BRANCHES:[main:bf403616c62f4c083e1e4120cf725d6fa403ac94]|RELEASE:[ponwrt-an7581-v3-20261025|77fb20df3a748cd0528948862d23561d62e0671f]
 xfangfang/Macast: BRANCHES:[dev:881c6e6bc0006e85b152d2c70caad5807c029173;dev_test:ee58f4ec497704536461749c3afa659caccc34e0;pypi:0b138bd083d0609be2ae5973ff4510dbeef25cb2;main:121add3a8a70edb77e33aeab1ec88aeff27f49fc;add-license:7d56cce3f3110fd62df9fdcdd116f48e8fe2cea4]|RELEASE:[v0.7|6a60737f703cda475445ccf76de874d5e52c5485]
 xiaoshi930/auto_light: BRANCHES:[main:6bc8a901ec8193a624ac69fb4fb064d07ded92b5]|RELEASE:[1.5|6bc8a901ec8193a624ac69fb4fb064d07ded92b5]
 xiaoshi930/bathroom_climate: BRANCHES:[main:26389e4b1c2d8e283eba9c6a1df6d84dbbef5a19]|RELEASE:[1.4|26389e4b1c2d8e283eba9c6a1df6d84dbbef5a19]
