@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-25 03:46
+commit-tracking: 2026-10-25 03:47
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -992,7 +992,7 @@ Perz3us/cheat-sheets: BRANCHES:[main:7932e6faf38fdbe3b421e1622417e7299b40a194]|R
 Perz3us/git-mcp: BRANCHES:[main:a1063e82c177213cf752ff1412131889511b3948]|RELEASE:[none|none]
 Perz3us/jstrieb: BRANCHES:[master:66a14af5c06e3ae3377c267a7e76e50a185699d4]|RELEASE:[none|none]
 Perz3us/noobwrt-arcadyan-aw1k: BRANCHES:[fix-voice-docs:617c435ce0a81f0a8a912ce1f0608a702878f4ad;rj11-phone-port:f6b9272e1613b6c0694a3271d54f7945c9b0352e;main:4b79da29b8be99f04ba63129444ddad61c1e7d2b]|RELEASE:[none|none]
-Perz3us/openwrt-aw1000-phone: BRANCHES:[main:75ad93fee3eda696879ee1a02ed9c05dadd87991]|RELEASE:[v0.4.0|e082a08714256712a27d09ff070e6c78208a638f]
+Perz3us/openwrt-aw1000-phone: BRANCHES:[main:901f9dd1fa661fa4858613579fbd83d521565b35]|RELEASE:[v0.4.1|901f9dd1fa661fa4858613579fbd83d521565b35]
 Perz3us/sagar-viradiya: BRANCHES:[master:2a5735c495bc0b505d406489e987b9066fe050fb]|RELEASE:[none|none]
 Perz3us/seedbox-lite: BRANCHES:[main:6a89d19747e1b050ea5cc1d12265d5e97f7d38d7]|RELEASE:[none|none]
 Push3AX/GrabAccess: BRANCHES:[main:fb35dd32d745f2519df018d5a272b949921d3ac3]|RELEASE:[Version1.2|14a2353ab5bf2eb1275b509e3fc4e5f627e51a30]
