@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-25 09:33
+commit-tracking: 2026-10-25 09:34
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[u30pro:662d1d3814781b43feeaacb5c3c7ab433e007330;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -3207,7 +3207,7 @@ openwrt/ustp: BRANCHES:[master:d13acc7252ab15f61efa48bcac1bbfef6db17738]|RELEASE
 openwrt/ustream-ssl: BRANCHES:[master:cea28c5bc43ae80c3531c98f4e4dc67b7dcf0ebb;openwrt-19.07:40b563b1ea89dabb2b6cd90644908134a0c8eff2]|RELEASE:[none|none]
 openwrt/video: BRANCHES:[master:bea0fb29f9573ab4c9bd77a9a495127958992d53;openwrt-25.12:094bf58da6682f895255a35a84349a79dab4bf95;openwrt-24.10:44dc7f3a1f7157d55817002eb4a5f3a59de65d67;dependabot/pip/libs/mesa/mako-1.2.2:17b5207d63fa77e9cf2b99a257a1802c8f3c2374]|RELEASE:[none|none]
 oyy040113/CommunityManager: BRANCHES:[master:30ce331be4bf51683b94039290655344edb9c60f]|RELEASE:[none|none]
-phicomm-io/phicomm-io.github.io: BRANCHES:[main:9727b45634b7c24c4911980d8e5d7f8e3c6d09c1;feat/pages-ci-install-20261024:784a372f9f87b0741c1eafb7140fbde80e7354b7;fix/a1-panel-frontend-v0910:2f402868ef2de1382b20cd979bb879326958ff93;fix/a1-auto-iotcloud:b22fcad274039d4c065c99e7dfce965901ad4b99]|RELEASE:[none|none]
+phicomm-io/phicomm-io.github.io: BRANCHES:[main:d9d884816857bd39450463a3cc742047f636ce61;feat/pages-ci-install-20261024:784a372f9f87b0741c1eafb7140fbde80e7354b7;fix/a1-panel-frontend-v0910:2f402868ef2de1382b20cd979bb879326958ff93;fix/a1-auto-iotcloud:b22fcad274039d4c065c99e7dfce965901ad4b99]|RELEASE:[none|none]
 philippe44/AirConnect: BRANCHES:[master:613c6b31c88a6b7cd5b2417828e9461353d3eadf;2.x:1e621c77b4b7fd3c52741684b4ff8fe58b929da5]|RELEASE:[1.12.4|f7dc3b39cece50b3230d072cf5b43b5694572635]
 philippe44/Audio-Scan: BRANCHES:[OggFlac:95a617aec11edbfcbf5fb616677710ebb1bced56;master:e69b12fbee1be9074cd2323275e49fc50196946e]|RELEASE:[none|none]
 philippe44/Best-websites-a-programmer-should-visit: BRANCHES:[master:5e9dd91bd0278f81b09a51323cb1161f91f0ba9b]|RELEASE:[none|none]
