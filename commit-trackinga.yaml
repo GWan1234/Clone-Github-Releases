@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-25 09:05
+commit-tracking: 2026-10-25 09:06
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2550,7 +2550,7 @@ ventoy/vtoydump: BRANCHES:[master:79d58b487f7c05065f842ccb9b8e798f00ad16f5]|RELE
 ventoy/vtoytoolchain: BRANCHES:[main:7ef92b6fa5bd62270fbe53571e032f338a753e45]|RELEASE:[1.0|7ef92b6fa5bd62270fbe53571e032f338a753e45]
 ventoy/wimiso: BRANCHES:[master:2052ac4a462897708de71573129f71d54f72f614]|RELEASE:[v1.0|1011a7d0293ab8644ebd75426092f71b59d9cfe6]
 vernesong/OpenClash: BRANCHES:[core:bda7533ab91c2e308b4ba1be2ea8a82a60969c0b;dev:74ff5be54933881289ac383d457115dcdd93b135;package:751138f30befbc80977c4b5b3646ad3284259986;master:e553e82e01c697aefbe1555261a503f425e00ccd]|RELEASE:[v0.48.002|e553e82e01c697aefbe1555261a503f425e00ccd]
-voorz/Kwrt: BRANCHES:[main:043372fb066ec9b8b6bec3e843698cdff0152a3e]|RELEASE:[v1.0.4|c430487cd033045370bdb10bd24656258c2cde46]
+voorz/Kwrt: BRANCHES:[main:043372fb066ec9b8b6bec3e843698cdff0152a3e]|RELEASE:[v1.0.7|043372fb066ec9b8b6bec3e843698cdff0152a3e]
 voorz/NekokoLPA2: BRANCHES:[master:631cef5fd210824aebda678ac68e607689209f3e;release:727655642f52df8b4bb713b67a6bdcc6f2bb0253]|RELEASE:[v2.2.0+577|7e8725ac5fd0fbca3b7afdb875aa597e871d8116]
 voorz/OpenWrt-nikki: BRANCHES:[main:3847262a005ad846c9aad2d75bab56436606e220]|RELEASE:[v1.26.2-fork.3|3847262a005ad846c9aad2d75bab56436606e220]
 voorz/QModem: BRANCHES:[main:cf110633fa836fa898f30384fcff396c73344739]|RELEASE:[none|none]
@@ -2570,7 +2570,7 @@ voorz/jshookmcp: BRANCHES:[master:bb79e43d60ffcd9fa3e330825f6e9efb0006d790]|RELE
 voorz/luci-app-easyfan: BRANCHES:[main:ca1e4c361b7c699b54d0cf604f8a14445112f204]|RELEASE:[v1.2.4|f85e07c82b9f3505a749abf58c738b31cfb00b56]
 voorz/luci-app-qmi-modem: BRANCHES:[main:a69ddba85cb57bc4a42d5fbb18be5d165d3280d1]|RELEASE:[none|none]
 voorz/luci-app-screen: BRANCHES:[main:0c700950d3f2c32198c757467a167411aa20ebb2]|RELEASE:[v0.1.0|4ead46bfccc1a1b5059049ae57f2a26caa97dfe1]
-voorz/luci-app-vohive: BRANCHES:[main:7429a6e071e7c8a42ad4c0ab2a3072982b4d530c]|RELEASE:[v0.1.66|7429a6e071e7c8a42ad4c0ab2a3072982b4d530c]
+voorz/luci-app-vohive: BRANCHES:[main:939f34befc058932405942f9208f0e93256d1878]|RELEASE:[v0.1.66|7429a6e071e7c8a42ad4c0ab2a3072982b4d530c]
 voorz/luci-theme-shadcn: BRANCHES:[main:9a7eb900c5db313c4fbd486530cee5cf01d6d50a]|RELEASE:[none|none]
 voorz/netlink: BRANCHES:[main:cc35af880748bbc42481d3f574324804b4023df1]|RELEASE:[none|none]
 voorz/notccid: BRANCHES:[main:13b2290cc3de44a803a71225fd28d2195b91c14c]|RELEASE:[none|none]
