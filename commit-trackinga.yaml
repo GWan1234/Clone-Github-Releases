@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-25 08:48
+commit-tracking: 2026-10-25 08:50
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1050,7 +1050,7 @@ Sirherobrine23/XStreaming-desktop: BRANCHES:[main:e5efa9ad3c436da1b99bc722124963
 Sirherobrine23/action-release: BRANCHES:[master:46a2badc652e9b302a1b0e73e0dcf049fe0646b4]|RELEASE:[none|none]
 Sirherobrine23/airoha_atf-reconstructed: BRANCHES:[claude/new-session-hkbluu:b4ef08a35b3408687a20b770f77450640e5e2a6c;main:5ab25b4f2ab1e1fe7128543ac64cdf7a60924bff]|RELEASE:[none|none]
 Sirherobrine23/airoha_builds: BRANCHES:[main:cefabe0346d14e2f1d75f3c6077b71782ad7a3ed]|RELEASE:[v39836793185_en7580|cefabe0346d14e2f1d75f3c6077b71782ad7a3ed]
-Sirherobrine23/airoha_kernel: BRANCHES:[airoha_en7552:333436d36490cfe71d97d6d29c85a34f02a19d4d;airoha_all:4aadaf039350dc681941f199af3d583d82b24c93;econet_cpuclk:535ba0bc2f41a96a74f472f41a9f30c837636ba4;sirherobrine23-ddm2:1e166fa103c8122395a3cf0dc29bb7c9ed31896e;airoha_en7523_all_backup:44641f1d913f01914208bc2ef2a0ed5212e86621]|RELEASE:[none|none]
+Sirherobrine23/airoha_kernel: BRANCHES:[airoha_en7552:5c8379c72461c0be54bf35cadba6a20cc33bb950;airoha_all:4aadaf039350dc681941f199af3d583d82b24c93;econet_cpuclk:535ba0bc2f41a96a74f472f41a9f30c837636ba4;sirherobrine23-ddm2:1e166fa103c8122395a3cf0dc29bb7c9ed31896e;airoha_en7523_all_backup:44641f1d913f01914208bc2ef2a0ed5212e86621]|RELEASE:[none|none]
 Sirherobrine23/airoha_mips_dramc: BRANCHES:[airoha_en7580_decode:6896ba27a1c111d550adc785fcfad76cd7894b13;main:9a0a8c9e747fd748ff20c31bb5627a406c9ad2b7]|RELEASE:[none|none]
 Sirherobrine23/airoha_sdk_wireless: BRANCHES:[main:828414b3db0af4ada1ddf086c9a13e3b57ce626d]|RELEASE:[none|none]
 Sirherobrine23/airoha_voip: BRANCHES:[main:c2748c11ba9ad5b20c495623a6e94e88b4496317;claude/airoha-voip-platform-notes:6b5ee7c83efd9962118649735c7fb369c6897a2c;claude/slic-power-topology:327f14236bd1becf44ed8f29c27d8208fb2784b4]|RELEASE:[none|none]
