@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-25 03:22
+commit-tracking: 2026-10-25 03:23
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1293,7 +1293,7 @@ cockpit-project/cockpit-podman-weblate: BRANCHES:[main:d1eef1aeddde235c8bcb3073b
 cockpit-project/cockpit-project.github.io: BRANCHES:[main:5eb0c4921dc1e739f5f783dd09e9f7cc497c7cfc;workflow/verify-links:9ab36d09a050983389ff8f203f5ef351a67896c3]|RELEASE:[none|none]
 cockpit-project/cockpit-system-roles: BRANCHES:[cockpit-lib-20261022-064307:3914e308a192edcdbc9be9e29953a0db59805bda;main:d4db32b0ee6550889f01c21cb199141d5b1170a6;cockpit-lib-20261021-082207:86b4d368fbdc168d647d314269e8957af47bd720;dependabot/npm_and_yarn/eslint-d2a85bf9d8:ac293fb422b8b7b72607b3b66e62ce264c1714bd;cockpit-ci-container-20261019-071305:734b2673384a3417c3058106f657d5300300268a;cockpit-lib-20261015-063529:51ed363755856724dc860b1b4924b0845e4710c2;test-webhook:042f8bb84e1bfd10ea7de9e33e69626f8f1cee16]|RELEASE:[none|none]
 cockpit-project/cockpit-system-roles-weblate: BRANCHES:[]|RELEASE:[none|none]
-cockpit-project/cockpit-weblate: BRANCHES:[main:44516da05c5c9ed4fa4a3e3d5c19f3b5227903c8]|RELEASE:[none|none]
+cockpit-project/cockpit-weblate: BRANCHES:[main:2fdc3506b7edb31f2ee769ec8e45ba8b425bb26d]|RELEASE:[none|none]
 cockpit-project/cockpituous: BRANCHES:[biome:57ba8c3eb0ee97af3902db4972dbc9ef1f309892;main:fca196671710de6779a9446f7d32cc2e56a20cfd;container-fed-api:4ce95eb665f4d8fe9354db4a3a6a2bad7dfe151d;evil:f27a5a70d48cb75de5a84eca14b61bccea8d7e44;demo-ami:fb8bf75305367073de3e6b79abcb9c139a81124b]|RELEASE:[none|none]
 cockpit-project/console.dot: BRANCHES:[playbook-demo:b3189db6b2523fbb84810e1affc316e5901f39bd;playbook:1c9937ece160503a8aeb3527946579fabdfad3a9;main:c63402b8d26eb15cd030e75a1f9cf4ece934b09b;diagram:4ff85591c1b4b52cdfbcd0cb75c1b3e567863e53]|RELEASE:[none|none]
 cockpit-project/hubbot: BRANCHES:[master:fd89610f8b7909874577ce5755c74eab24b08f99]|RELEASE:[none|none]
