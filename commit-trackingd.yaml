@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-26 08:56
+commit-tracking: 2026-10-26 08:58
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3569,7 +3569,7 @@ waveshareteam/CM5-HMI-BOX-A: BRANCHES:[master:1c6dc95ee9bce507dcd6c83929811350e4
 waveshareteam/CM5-IO-WIRELESS-BASE: BRANCHES:[master:b6fd62ef0e5e90d97024fc1a6f1fb8539cf12fa5]|RELEASE:[none|none]
 waveshareteam/DA7212-Audio-Board-A: BRANCHES:[master:e8a74b351e9bdf813fedaffbac84aed7b9c0b368]|RELEASE:[none|none]
 waveshareteam/DA7212-Audio-HAT-B: BRANCHES:[master:c5c5bd53ea519fb471fef150766e66fc8dcfe9c2]|RELEASE:[none|none]
-waveshareteam/ESP32-AIChats: BRANCHES:[master:9d061cefbd83978c36f671779ff9839333e8ef80]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
+waveshareteam/ESP32-AIChats: BRANCHES:[master:3f554267ca5c0d9136b50c4b0ef2a5bf25520bf9]|RELEASE:[v2.2.1|789e018e56f9b1153a34d2134004d205f61cb10a]
 waveshareteam/ESP32-C3-LCD-1.47: BRANCHES:[main:6e16df57c20b3b1651c1b6150a1c5b3c418a87f6]|RELEASE:[none|none]
 waveshareteam/ESP32-C3-Zero-Basic-Kit: BRANCHES:[main:4db4202faa251964321f79b39efb232d6ca7bef5]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:bf1c51a12a6d819b7d27ab42c12c62d4be176b04]|RELEASE:[none|none]
