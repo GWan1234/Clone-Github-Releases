@@ -1154,7 +1154,7 @@ aabbabaab/Modem_Webui: BRANCHES:[main:a33a710f853675cf39aec3de93da23489c96d338]|
 algerkong/Alger-Chrome-LocalStorage-Manager: BRANCHES:[master:52aa9727bfdd4425cca3949e851d51f83f8b32fe]|RELEASE:[v1.0.0|52aa9727bfdd4425cca3949e851d51f83f8b32fe]
 algerkong/AlgerClipboard: BRANCHES:[master:e98bfb2bcab7086d33c2b64f4fe87f235b406bd6;dev:48d873bde25509aba2424e47806260da938dc5a8]|RELEASE:[v1.11.0|e98bfb2bcab7086d33c2b64f4fe87f235b406bd6]
 algerkong/AlgerClipboard-Plugin: BRANCHES:[main:dcb28d15d6a1b42567aa74751728ae1ca0ee766f]|RELEASE:[ide-projects-v1.1.0|e0b09c14888c61a461a2a0f33d9c67882838e0f8]
-algerkong/AlgerMusicPlayer: BRANCHES:[main:a6f50e9da938475946832f38dc70ae0ac6551a99]|RELEASE:[v5.1.0|59f71148af96a35b055b5bda87983a4a2c738e08]
+algerkong/AlgerMusicPlayer: BRANCHES:[main:4666fd0ca874452fda804e2d091524c2448bded9]|RELEASE:[v5.1.0|59f71148af96a35b055b5bda87983a4a2c738e08]
 algerkong/EPD-nRF5_DYC: BRANCHES:[Tmp:6878f56528150a79118407c286a4ff8e800047f0]|RELEASE:[none|none]
 algerkong/PI-Desktop: BRANCHES:[main:fbd291527b2681c16072a62cc064ceb2d37b916d;feat/background-tasks:773555e80975b0813b812b46e27794f8b8f1a49e]|RELEASE:[none|none]
 algerkong/TVBoxOS: BRANCHES:[main:ab11d289e09963a9daf65ca7f6b7a9a8cbe184e1]|RELEASE:[none|none]
