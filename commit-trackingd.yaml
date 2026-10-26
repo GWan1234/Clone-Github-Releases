@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-26 09:00
+commit-tracking: 2026-10-26 09:01
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3576,7 +3576,7 @@ waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:bf1c51a12a6d819b7d27ab42c12c62d4
 waveshareteam/ESP32-C5-MINI-KIT: BRANCHES:[main:9eb18f4282e2e464b34b911ed6ba63cf28f22c9f]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Pico: BRANCHES:[main:cd413f3b76723516c8c264034f462381fe0ac0ac]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Touch-LCD-1.69: BRANCHES:[main:4e2a31bce8b57169039e92da9f8e447a4f34c457]|RELEASE:[none|none]
-waveshareteam/ESP32-C5-Touch-LCD-2.8: BRANCHES:[main:77a7dceac38a1bd491173b3906205217a382c08c;feat/example-firmware-artifacts:4656a2163faea75c5f5fdd62511149272c34d26c;chore/repository-modernization:6fd37989f97f5014759b159573f4a06a65e779fb]|RELEASE:[v1.2.0|77a7dceac38a1bd491173b3906205217a382c08c]
+waveshareteam/ESP32-C5-Touch-LCD-2.8: BRANCHES:[main:186eb7f3b86b6e673627bba32f8f1a9c60687093;chore/rebuild-basic-examples:fefd7d71b384227aac5abc73fb6bff720c70a840;feat/example-firmware-artifacts:4656a2163faea75c5f5fdd62511149272c34d26c;chore/repository-modernization:6fd37989f97f5014759b159573f4a06a65e779fb]|RELEASE:[v1.2.0|77a7dceac38a1bd491173b3906205217a382c08c]
 waveshareteam/ESP32-C5-Touch-LCD-3.5: BRANCHES:[main:ef03a84788c1157836f1e7fc29f5a24f16cf22ff;chore/standardize-product-repository-20261022:0d084987aa7074db29f94f2618980013c8ed3db0]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Zero: BRANCHES:[main:0dc2567a87741639be311ff0d4a60f588f63b58f]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-GEEK: BRANCHES:[main:e9ea5866ff87bef10fd2bcac07dc57a1004264d0]|RELEASE:[none|none]
