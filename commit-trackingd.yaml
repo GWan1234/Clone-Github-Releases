@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-26 09:21
+commit-tracking: 2026-10-26 09:23
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1222,7 +1222,7 @@ Seeed-Studio/tracker_sx1262_t2000_bootloader: BRANCHES:[main:d51e7c248c489eab7f4
 Seeed-Studio/u-boot: BRANCHES:[v2018.11-stm32mp-s:232d8ce187364eb7cc18d8b5dffc04fcfbe5c09e;v2019.04-imx6ull-npi:d447c4866200ae5fd069313d92e2308ff01af021;master:3c99166441bf3ea325af2da83cfe65430b49c066;v2018.11-stm32mp:f55001ad5e8bca2d474f3bcf696a15bc4ea1f78e]|RELEASE:[none|none]
 Seeed-Studio/ublox_lara_r2_pi_hat: BRANCHES:[master:71717b07970dfbfc1bdb17d98d843e3d1ed5b8f0]|RELEASE:[none|none]
 Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a927640316]|RELEASE:[none|none]
-Seeed-Studio/wiki-documents: BRANCHES:[gh-pages:502b4725e6ae6be1c66677c938eae3740ea2b515;docusaurus-version:c426f4dc63cbf605a08863f5f142882578a4d432;auto-translate/pr-5833:3d8744625f6eb1caf1e6cee7855b5aa152d08142;auto-translate/pr-5832:9fc4b0ee4015a32b624d7e7a888e2c3d31cce9ce;auto-translate/pr-5829:e4cd8e10b427b0a690834b9c985680c84b004967;auto-translate/pr-5828:904706c3c714ed54b634776db4cc1079d67cee91;auto-translate/pr-5825:15b3f8c539785a52f3eb20537fd14074259abcf6;auto-translate/pr-5819:6e631da2810d6d89a7839a2b9489d02ba31f3efa;auto-translate/pr-5812:c01117d04b9703bfc9998d31a59e85459a52449f;auto-translate/pr-5811:b73ac858769e055a417b735f614db7ca55c7647c]|RELEASE:[none|none]
+Seeed-Studio/wiki-documents: BRANCHES:[gh-pages:7fde565d7797401de54ab5d6a0f3040c5d0d1150;docusaurus-version:95cf5b88bf6edcbfe6595d80e3227f7396214910;auto-translate/pr-5845:1c565e2fc3d498265fafb98339cc83bd5204f03b;auto-translate/pr-5843:7c66b5f8a1a9611c72d0deeb9c301c1e9391ac40;auto-translate/pr-5835:957c878d0034a53f5724c2c455f607b5b7a0e127;auto-translate/pr-5839:be47f6fea35772a8e6da9f0e3b3fa7702fa0ca64;auto-translate/pr-5833:3d8744625f6eb1caf1e6cee7855b5aa152d08142;auto-translate/pr-5832:9fc4b0ee4015a32b624d7e7a888e2c3d31cce9ce;auto-translate/pr-5829:e4cd8e10b427b0a690834b9c985680c84b004967;auto-translate/pr-5828:904706c3c714ed54b634776db4cc1079d67cee91]|RELEASE:[none|none]
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
 Seeed-Studio/xiao-assistant: BRANCHES:[main:4b79d5e225630597d352389df43ae5a9db83f6b3]|RELEASE:[v0.2.0|4b79d5e225630597d352389df43ae5a9db83f6b3]
 Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:a5097fd673dfdf44762ab5887196509f3ab900e7;dev:4ea399123e4343d9d24a1e98c671e412bc8ae2bd;BT_proxy:9ac8cbe339516e2c20fd72c62eb64106e6eaa6c6]|RELEASE:[V4.3.3|a5097fd673dfdf44762ab5887196509f3ab900e7]
