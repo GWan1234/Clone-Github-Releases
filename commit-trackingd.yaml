@@ -1605,7 +1605,7 @@ m5stack/M5Unit-HEART: BRANCHES:[gh-pages:10db266b6fa61061372c1f15525714fa826bcfd
 m5stack/M5Unit-HUB: BRANCHES:[gh-pages:e54887962d670a678859c59ce74e0393e096a805;main:d6d1f15de2d81e47de1396ddbc5abbf4084ab9ef;develop:d18bfa16c74377747d30e557c421097c09a296d3]|RELEASE:[0.4.0|d6d1f15de2d81e47de1396ddbc5abbf4084ab9ef]
 m5stack/M5Unit-Hbridge: BRANCHES:[main:976f04ca1dbe9e0fdce78297c57441597f54b688]|RELEASE:[none|none]
 m5stack/M5Unit-Hbridge-Internal-FW: BRANCHES:[main:e07325d7ed5c10dde8e7aa8500594c40cd23ddbf]|RELEASE:[none|none]
-m5stack/M5Unit-IMU: BRANCHES:[gh-pages:95d85809b5757d5e5934adafb4d7b5c3ae6b865a;main:0f81872e6e8143b87275d7b48b3dbfa171f63dde;feature/motion-events:4813a029932de23333203ba5d829d0fdc4945da9;develop:6d383f0dd05e0b220aba96665ee4c1aafb24e315]|RELEASE:[0.0.1|0f81872e6e8143b87275d7b48b3dbfa171f63dde]
+m5stack/M5Unit-IMU: BRANCHES:[gh-pages:c9f8e26f30b834f06c8af6c372148dc2b2798a0b;main:e5b00aab3c267f7ac96d77a5c2406f2e8983ce38;develop:eb83c84b9d8b2f92bc6aad983b54e773456f9d48;feature/motion-events:4813a029932de23333203ba5d829d0fdc4945da9]|RELEASE:[0.0.2|e5b00aab3c267f7ac96d77a5c2406f2e8983ce38]
 m5stack/M5Unit-IMU-Pro-Mini: BRANCHES:[main:002b74a8b80464beb72d3528cb831a6915ec8a25]|RELEASE:[1.0.2|002b74a8b80464beb72d3528cb831a6915ec8a25]
 m5stack/M5Unit-INFRARED: BRANCHES:[gh-pages:d37c043ff3116e2fc3d7b3a7c1d3af5140297656;main:7fce34901cca67f2aec53526ba519bd1e0da5d0b;develop:4e08d8ceecbd9e5b8df6ffe429a4bf74fb237080;feature/esp-idf-native-support:211b67d4e33bb2e6ae22925f447df29db63602bc]|RELEASE:[0.3.1|7fce34901cca67f2aec53526ba519bd1e0da5d0b]
 m5stack/M5Unit-Joystick2: BRANCHES:[main:97b622b0f3155d1c720b5df6e60e0c41bab2050b]|RELEASE:[none|none]
