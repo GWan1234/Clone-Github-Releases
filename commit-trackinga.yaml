@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-28 05:50
+commit-tracking: 2026-10-28 05:51
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2596,7 +2596,7 @@ voorz/wsl-dashboard: BRANCHES:[main:762455bda67e682457e26d59bf25ecbb1ed28791]|RE
 voorz/wwan-go: BRANCHES:[main:568fcd43d8f4bab5c5522fe64f9762290cdd4e7a]|RELEASE:[none|none]
 wuzei-chen/luci-app-pon-wizard: BRANCHES:[main:a36b558caef2b2ca96921b03de0008c84e46c6ef]|RELEASE:[none|none]
 wuzei-chen/ponwrt-k655: BRANCHES:[master:7f2b3e5650a2aaa804315ad43c70de4f1fa3e32d]|RELEASE:[none|none]
-wuzei-chen/ponwrt-oaf: BRANCHES:[main:87ac1499d1a170b11cfcbe4b424882d0ccdeab96]|RELEASE:[ponwrt-an7581-btf-dae-20261025-r3|908329886ca1dc6096dffa30583cb2e5fe932627]
+wuzei-chen/ponwrt-oaf: BRANCHES:[firmware-usb:b366fb6a6d76955abc5dbee2348a9edb3189b4c4;main:99351453a467afa4a65890bab885dbc2d9fef8a5;clash-core:45e42817b48e5abfd7ca4aeb06a55a00a75655fa;firmware-r4:d34872932143ea73e5c49aa9341e2461086dff3e]|RELEASE:[ponwrt-an7581-usb-20261028|55928547c4f71fecdb80d6046a2a26aa6f8d8473]
 xfangfang/Macast: BRANCHES:[dev:881c6e6bc0006e85b152d2c70caad5807c029173;dev_test:ee58f4ec497704536461749c3afa659caccc34e0;pypi:0b138bd083d0609be2ae5973ff4510dbeef25cb2;main:121add3a8a70edb77e33aeab1ec88aeff27f49fc;add-license:7d56cce3f3110fd62df9fdcdd116f48e8fe2cea4]|RELEASE:[v0.7|6a60737f703cda475445ccf76de874d5e52c5485]
 xiaoshi930/auto_light: BRANCHES:[main:6bc8a901ec8193a624ac69fb4fb064d07ded92b5]|RELEASE:[1.5|6bc8a901ec8193a624ac69fb4fb064d07ded92b5]
 xiaoshi930/bathroom_climate: BRANCHES:[main:26389e4b1c2d8e283eba9c6a1df6d84dbbef5a19]|RELEASE:[1.4|26389e4b1c2d8e283eba9c6a1df6d84dbbef5a19]
