@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-28 06:11
+commit-tracking: 2026-10-28 06:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1955,7 +1955,7 @@ naoki66/CookLikeHOC: BRANCHES:[main:044fcb7b231ae9acbf87ec3b01a32b7f2212e658;vit
 naoki66/Custom_OpenClash_Rules: BRANCHES:[main:7a76eea88c302a3b3fd63a61cacd19ffb9aaffb2]|RELEASE:[none|none]
 naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:48f55a062e1240113c1cd0f19761f4df51ae15dc]|RELEASE:[2026-10-19-48f55a062e12|48f55a062e1240113c1cd0f19761f4df51ae15dc]
 naoki66/ImmortalWrt-for-Gemtek-XG2010G: BRANCHES:[master:b935a2b940146c228ec0e2d51ae0d52c34e785a3]|RELEASE:[none|none]
-naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:c15760c70b7ceeb85fd852d081b06c4bcac1cf5c]|RELEASE:[20261016-04cc62e|04cc62e8928308598cf2e88bddee37ede658b814]
+naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:8f92c5427fd902eb5c32006d1bc1ed9954055378]|RELEASE:[20261016-04cc62e|04cc62e8928308598cf2e88bddee37ede658b814]
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
 naoki66/MoonTV: BRANCHES:[master:702008e7970a749da539f13c24d63cc8524b6da7;main:791de3bd997d371215a4c2ffcafc22702268ec5d]|RELEASE:[none|none]
 naoki66/OmniBox-Spider: BRANCHES:[main:4491c18eb3f2fb4e0b3d2f7218452afd442e9f92]|RELEASE:[none|none]
@@ -1977,7 +1977,7 @@ naoki66/fish-helper-data: BRANCHES:[main:e06b7a15b39c93d3edfbcad57b48aadfbef74de
 naoki66/fish_helper_config: BRANCHES:[main:26463c28f083bc91ebaf133a8d1c2cadd34b7d71]|RELEASE:[none|none]
 naoki66/i915-sriov-dkms: BRANCHES:[master:0481357c40951b6edab10d058010c3a2f5df0aa3]|RELEASE:[none|none]
 naoki66/immortalwrt_pon: BRANCHES:[master:1d949bcb3d3f5b0e19cad0d663b392567f843bd5]|RELEASE:[none|none]
-naoki66/luci-app-airoha: BRANCHES:[main:71dee36e9acb258d55af1716d86a50404faee0e8]|RELEASE:[none|none]
+naoki66/luci-app-airoha: BRANCHES:[main:e9e11d6c42fed9ff61b5a7ca3dc75060c4a4df56]|RELEASE:[none|none]
 naoki66/luci-app-bandix: BRANCHES:[main:159a6de184b8cbd0694b40f018e737d0a3c82e7e]|RELEASE:[none|none]
 naoki66/luci-app-lucky: BRANCHES:[main:e2197545d72f019b370ef56937b5569c9c2c7614]|RELEASE:[none|none]
 naoki66/luci-app-pushbot: BRANCHES:[master:d9f3f2b16584b5f040658ebb9d6c3e656fbec9b5]|RELEASE:[luci-app-pushbot-v6.01-r15|721bb99c8492cd4195213bd13c7331c685aac0e9]
