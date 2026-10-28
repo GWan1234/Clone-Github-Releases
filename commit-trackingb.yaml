@@ -1139,6 +1139,7 @@ adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB: BRANCHES:[main:408fa9a40c0a01a3
 adafruit/Adafruit-RP2350-HSTX-to-DVI-Adapter-PCB: BRANCHES:[main:a607353591e19b0b8bc43ebdb2391b96b9278346]|RELEASE:[none|none]
 adafruit/Adafruit-RS-232-Level-Shifter-Breakout-PCB: BRANCHES:[main:63c6200bb3ef17d491089cfa6441b1810d79bb20]|RELEASE:[none|none]
 adafruit/Adafruit-RS232-Pal-PCB: BRANCHES:[main:653d1bb7c6cf2d9efe381b85ff275bf0feefdb17]|RELEASE:[none|none]
+adafruit/Adafruit-RV-8803-High-Accuracy-Real-Time-Clock-PCB: BRANCHES:[main:32351f05d78df6b2e532512ec7fc56d9bd44c9e4]|RELEASE:[none|none]
 adafruit/Adafruit-Radio-Bonnet-PCB: BRANCHES:[master:dd0cb11d273a3e95d90786b02c9ded95ae6168c6;add-pcb-files:a13f00c2224d9a3857ca04dad4a3ad8fafdbed01]|RELEASE:[none|none]
 adafruit/Adafruit-Radio-FeatherWing-PCB: BRANCHES:[master:926b55164daad155e05ebe8ca3a02365bc07a40c]|RELEASE:[none|none]
 adafruit/Adafruit-RasPipe: BRANCHES:[master:bedc53e0f97bdc11dc2ea8188df925c7903604d9]|RELEASE:[none|none]
