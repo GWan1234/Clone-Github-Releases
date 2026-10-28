@@ -1639,7 +1639,7 @@ m5stack/M5Unit-RF433: BRANCHES:[gh-pages:8b7f466ff6ec4fc05ef76d9d8fc28d3fd278310
 m5stack/M5Unit-RFID: BRANCHES:[gh-pages:26c41a213496c3a67051631a9cea8a907a5edf91;main:d69ed648a7dff8f6aa60aed8f296703ba3411267;develop:3e3e819da0b06c586489daa1a2d79971aaf32e00;feature/uhf-rfid-support:1738983856fec6a7f5a0bd23b2eb9cee4b1b1d4b]|RELEASE:[0.2.1|d69ed648a7dff8f6aa60aed8f296703ba3411267]
 m5stack/M5Unit-RGB: BRANCHES:[gh-pages:3fd384301470b44dd56d7f2259c0bfbcf76b9a89;main:51dfbe6ad53965bce3ac106e43fd98cbc2b0808f;develop:fb01f1634bb58dfcd412d2b0a426b32284939e90]|RELEASE:[0.0.2|51dfbe6ad53965bce3ac106e43fd98cbc2b0808f]
 m5stack/M5Unit-RS485: BRANCHES:[develop:abae6d97d1f069810aa9d7825742bfeb169e35d6;gh-pages:b56fbf9999c9b92f6d72d0213858b1691808317a;main:8a0af48e8dfdc4adca1ce5736c0407b8fff25303]|RELEASE:[0.1.0|8a0af48e8dfdc4adca1ce5736c0407b8fff25303]
-m5stack/M5Unit-RTC: BRANCHES:[gh-pages:d233d9aad873d62c34691a053d4c8433fd61cd13;master:26c1349251052d4ec1a965a6c783b3c765dc8fbb;develop:28e46ddb9ce0a14ef5e90d87f8f949144d1a616c]|RELEASE:[0.1.0|26c1349251052d4ec1a965a6c783b3c765dc8fbb]
+m5stack/M5Unit-RTC: BRANCHES:[gh-pages:50f89ece4bd8344366d8841f8fb401dee8396687;master:92220a20e25f9c9ea2f084611dddfc53cf600887;develop:7042717ce2d6caa4d22f2ee98e32270da4a1fcf0]|RELEASE:[0.2.0|92220a20e25f9c9ea2f084611dddfc53cf600887]
 m5stack/M5Unit-ReflectiveIR: BRANCHES:[main:dc84de91ab0a133eea08d1b8dba816a401e25443]|RELEASE:[none|none]
 m5stack/M5Unit-Roller: BRANCHES:[main:58f83b4183f779e9e4e1b2f3f8bfdd9316e43ceb]|RELEASE:[none|none]
 m5stack/M5Unit-Roller485-Internal-FW: BRANCHES:[main:59d43890ee25ea6101b3d801b96a6e5bb2670a4b]|RELEASE:[none|none]
