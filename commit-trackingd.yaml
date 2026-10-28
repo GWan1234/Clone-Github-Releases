@@ -3653,6 +3653,7 @@ waveshareteam/ESP32-S3-Touch-LCD-5: BRANCHES:[master:a7b179dbfccea8121c88770d8a3
 waveshareteam/ESP32-S3-Touch-LCD-7: BRANCHES:[main:bc51a84b30c0cea018fee6e0d7427ec10102060e]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-7B: BRANCHES:[master:c652c902db607f7ffb376257393cfd7657aa6428]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-7C: BRANCHES:[main:73f8b90df1c684858e0c351afca3a09f5b96bdac]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-Touch-RLCD-4.2B: BRANCHES:[]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Zero-Basic-Kit: BRANCHES:[main:17304b9271a7ae91e5d8f37de09c18796f6f4b91]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f0401241ff5c44956]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54G: BRANCHES:[main:55eb1278f482c0cfd1e0cba5611a4132022eea48]|RELEASE:[v1.0.0|55eb1278f482c0cfd1e0cba5611a4132022eea48]
