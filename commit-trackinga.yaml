@@ -1889,6 +1889,7 @@ lambilly/hass_tian_realtime: BRANCHES:[main:8daa65df78a4470d69360ace6468d70aadf5
 lambilly/hass_today_history: BRANCHES:[main:57d37d615d4fc3217556f65da9aedcfaf88e281e]|RELEASE:[v1.0.2|57d37d615d4fc3217556f65da9aedcfaf88e281e]
 lambilly/hass_weekly_film: BRANCHES:[main:e209e7d3e801c5a085041ea48affdab80e5118f4]|RELEASE:[v1.0.1|e209e7d3e801c5a085041ea48affdab80e5118f4]
 leapbtw/AppleIGC: BRANCHES:[dev-i225v:26672306df6f1e74643b0c7bebfc2bb75ad7b64b;main:0a98017ca17b5935da5616c5747813a6e579b449]|RELEASE:[none|none]
+leapbtw/Controlify: BRANCHES:[gcd-fix:fe9f853095987cb8533f7e63ea74c61a14469326;main:f756225fcf94970458589cb5122b97671f450a75]|RELEASE:[none|none]
 leapbtw/OpenCore-Catalina: BRANCHES:[main:ccc2b51f59a8c45f6c02f875a1fdcf10c0ae77ba]|RELEASE:[none|none]
 leapbtw/PCW-lookup: BRANCHES:[main:179b54d617432c89dada5767fa33c88d08516e17]|RELEASE:[1.0|9798d0b65946321c560e183ab866ea9cc348a7e5]
 leapbtw/RoughlyEnoughItems: BRANCHES:[codex/fix-overlay-list-dragging:88323f20426ab272cb3130943f66c76a1f0c3d0c;feature/26.2:e6b7ee702ac35a4f6754b1c9219f8044a4661054;26.2:e6b7ee702ac35a4f6754b1c9219f8044a4661054;26.1:3de45768a3e2307566c5356234e95d3cb44e7761;1.21.11:1a8053d02e2028e641ee2f4f57db2b12404c8303;18.x-1.21.4:2cf86900ad5718081e32847054507f7b8ad92a36;1.21.9:3c69d5275e56634dbe1d030dc852fded24ceab56;20.x-1.21.6:4af1ca2ce69a0102963e9cb3bfcc9afc09ee5e48;feature/calculator:47501412b83fb0507e1e7fe3884255fff24eec2e;19.x-1.21.5:3224ded226541e1dbd7809cba218e3c0c8c4144b]|RELEASE:[none|none]
