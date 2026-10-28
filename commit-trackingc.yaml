@@ -2562,6 +2562,7 @@ waveshareteam/RP2350-Touch-LCD-3.5: BRANCHES:[main:c82c14715b03e32ed1ccc57703ce0
 waveshareteam/RP2350-Touch-ePaper-1.54: BRANCHES:[main:da8d0084225ea8bbc33e87313aafe3d75d407850]|RELEASE:[none|none]
 waveshareteam/RP2350-USB-C: BRANCHES:[main:774cbb1e8ecc9d5cc8474ba9feb90a0939047f3b]|RELEASE:[none|none]
 waveshareteam/RP2350-Zero-CM: BRANCHES:[main:fd66fd7e9106a4de42d5f1a4dc42938b4aa9ac59]|RELEASE:[none|none]
+waveshareteam/RPi_Zero_PhotoPainter: BRANCHES:[main:d47d28d715d9dd9ff9e40a9a1019b9568bcbb867]|RELEASE:[none|none]
 waveshareteam/RoArm-M1: BRANCHES:[main:03c8c4797b01eef0df1c6cde37c97ceb6cbe3bba]|RELEASE:[none|none]
 waveshareteam/Thermal-ESP32-Demo: BRANCHES:[main:607901ca53d3d05131894f8d0a9e853db4c27bc1]|RELEASE:[none|none]
 waveshareteam/Thermal-ESP32-Web-Demo: BRANCHES:[main:abec8efb28c6ba78af67c6924802b72fe98278e8;dev:abec8efb28c6ba78af67c6924802b72fe98278e8]|RELEASE:[none|none]
