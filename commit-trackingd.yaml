@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-28 11:05
+commit-tracking: 2026-10-28 11:06
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3602,7 +3602,7 @@ waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:c171531c6c7a06e33e
 waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:be346f80e3b1a490a0b0b8d7e09e06f8e231a1cb]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:6f78fa810ec505048c1941e3d09cefc9f29129bd;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:0e2bf9c1242d01a10f218787390812c39e1e6671]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:d018553d603269dc951a9b249067c4ad9962319d]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:ea3986de1169f0e6905dd0ee94bf6f77c980c17c]|RELEASE:[2026-10-27|9f00768b469e823e308d0b17e06ca37bd15b2bc0]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[main:870588e62daaf723f3c52f0060d8dc053665ed30;docs/readme-product-overview:af5a650c3de5bd16b5204256dba11109d4b0c753]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5-update: BRANCHES:[main:737cb6a83992565dce4791b38f300882f0cf5e69]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[main:dc1b2085381c9cc3a2badf8d317673cca9079c1f;feat/rev3-factory-firmware:b277ca498d3b0bc1e272fecca16d8a665d925f49;chore/esp-idf-ci:d327111ac1ba6310496d8c4189e682baa4073908]|RELEASE:[none|none]
