@@ -1502,7 +1502,7 @@ home-assistant/app-configurator: BRANCHES:[main:c631c6ff0b9c9bed679223f0923a4301
 home-assistant/app-deconz: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-dnsmasq: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-duckdns: BRANCHES:[]|RELEASE:[none|none]
-home-assistant/app-git-pull: BRANCHES:[]|RELEASE:[none|none]
+home-assistant/app-git-pull: BRANCHES:[main:b4d85d061bc8b685a6862b43e28ca42d602321ad]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
 home-assistant/app-letsencrypt: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-mariadb: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-matter-server: BRANCHES:[renovate/ghcr.io-matter-js-matterjs-server-1.x:596f0bb4a0cc90cef601a1d7f5eda3292583c765;main:49aa365cb45d976265665fe55b303b407ef47d34]|RELEASE:[none|none]
