@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-28 07:44
+commit-tracking: 2026-10-28 07:45
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[33333s/charge-protection:fd0abbce0f00320b5973522f8d01f15da9c2bf6d;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -2675,7 +2675,7 @@ atc1441/ESP32-RGB64x32MatrixPanel-I2S-DMA: BRANCHES:[master:32d8c2e26dcca5111cc3
 atc1441/ESP32_nRF52_SWD: BRANCHES:[main:18f95759392cf809db1a84052f0b73f20843a56b;PCB_Version:73ee191960a71844a2ef6f3667b53a0755c5929c;revert-11-upload-hex:4cc5363b4681d971b707b40eeb29c8c1de891924]|RELEASE:[none|none]
 atc1441/ESP_CC_Flasher: BRANCHES:[main:c61a4183aaf99ece83ad208a0ab90dfe46fdd24a]|RELEASE:[none|none]
 atc1441/Espruino: BRANCHES:[patch-2:59ac47e3a1620600eb343b23d207acf05f95e8db;patch-1:2503f50d61685a504fd2c855eef42e73f198f5da;master:01288d5170e4d4f5c76d20616820503bb1aacc35;experimental_compact_vars:35b9a4dfc5913166af096225afbcf45ab58ddac9;graphical_memory:0987f17941bcd311045a2b08cf22739a82de32c3;increased_mtu:7215b960a195ef38cd1f3f5777f5a30dcc406e03;ESP8266_RODATA:503c6d60a0336c610565dc3b15971a1486b0111d;UNMAINTAINED_BOARDS:c0b9dd5bdbe16b754b5813241d36664989692122;ID205:fda54d9edd4d36203f005ca59f0b2359fddf9809;direct_io:30b1e29e3416f07df10574edebf79a1d5e89f52c]|RELEASE:[none|none]
-atc1441/Gadgetbridge-BLE-OpenEpaperLink: BRANCHES:[main:9669dc7290430bca7497e20fba2371fcad5252e0]|RELEASE:[v0.95.1-13|9669dc7290430bca7497e20fba2371fcad5252e0]
+atc1441/Gadgetbridge-BLE-OpenEpaperLink: BRANCHES:[main:97d4b36da28b56fbc19dff824b0f17cba38713e3]|RELEASE:[v0.95.1-15|97d4b36da28b56fbc19dff824b0f17cba38713e3]
 atc1441/GxEPD: BRANCHES:[master:68bbf5ad75b908a1f8ee279390f646d675b23218]|RELEASE:[none|none]
 atc1441/HINKeinkDisplayLibrary: BRANCHES:[master:8f31a902c55f5178e88c03b9f27299b5c735567d]|RELEASE:[none|none]
 atc1441/HRS3300-Arduino-Library: BRANCHES:[master:68551a476b85a9696751b982655f5d3322113da6]|RELEASE:[none|none]
@@ -2701,7 +2701,7 @@ atc1441/Xiaomi-TLSR-Firmwares: BRANCHES:[main:d868a778e6543a070ae2d3c73dc8d73677
 atc1441/ZBS243_SEM9110_Ghidra_CPU: BRANCHES:[main:84d2e5d99e0006ca377300f7d566923f002fd6b6]|RELEASE:[none|none]
 atc1441/ZBS_Flasher: BRANCHES:[main:ec36e76fd963678e3b3b1ae347df447d8787b6f6]|RELEASE:[none|none]
 atc1441/arduino-mcp2515: BRANCHES:[master:f61fd64a039f74f3a6b02700b7db562566619172]|RELEASE:[none|none]
-atc1441/atc1441.github.io: BRANCHES:[main:718a9fa3ee79fcd6632a08719481f25c1b517bee]|RELEASE:[none|none]
+atc1441/atc1441.github.io: BRANCHES:[main:774e29adc11583f91a0834b30e92eedb04e4334f]|RELEASE:[none|none]
 atc1441/bl_iot_sdk: BRANCHES:[master:61d60a3dc0e067ea4637a6d1aaf61b86f004c233]|RELEASE:[none|none]
 atc1441/bluetrum-tools: BRANCHES:[main:d02056ee7dcd577c2d903057ed2f91c5d2db8d9f]|RELEASE:[none|none]
 atc1441/ch55xduino-1: BRANCHES:[ch55xduino:d463db044cfaf16bbc0e4d2ef054af92b015d3a3;playground:c6576e4106915cca4210f768ab0dad7cad1093d0;development:b811a59ebd538c1d4bb1e02c1551d3b77e101293;gh-pages:6c8f938576394c3e6e25187d5c2d7c3e65d12ce4]|RELEASE:[none|none]
