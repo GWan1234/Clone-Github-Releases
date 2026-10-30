@@ -1526,7 +1526,7 @@ m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be
 m5stack/M5PoECAM: BRANCHES:[master:7e47b7cbaef108e3fbc76299ef32b15fd06a66f2]|RELEASE:[1.0.1|a0cb0c56e43f7c5cb924cca8d38d3a036d0b4962]
 m5stack/M5PowerHub-Internal-FW: BRANCHES:[main:8673a4762f175f802398220edcab0435b8809b2a]|RELEASE:[none|none]
 m5stack/M5PowerHub-UserDemo: BRANCHES:[main:64b117cadc496df4e395fc43619e52911311ac06]|RELEASE:[none|none]
-m5stack/M5Stack: BRANCHES:[master:c49c8935189674317163c31ef6399a38769282e0;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
+m5stack/M5Stack: BRANCHES:[master:e4e05109297c193559562b62ee4b5f276bc19b01;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb]|RELEASE:[none|none]
 m5stack/M5Stack-Firmware: BRANCHES:[master:5e71c3eefedbeaf9d99557fdb3e2fb0468f8582d]|RELEASE:[none|none]
 m5stack/M5Stack-IDF: BRANCHES:[master:9b803b4adede63f70722a42b1b6297b2bc63ae60]|RELEASE:[none|none]
