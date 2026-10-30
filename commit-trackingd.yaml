@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:54
+commit-tracking: 2026-10-30 11:55
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1399,7 +1399,7 @@ m5stack/CoreS3-Box: BRANCHES:[master:405c5438b399a27459fb45c097fcca19c295e029;de
 m5stack/CoreS3-UserDemo: BRANCHES:[main:1fe846a5ffe6d6259a8ad6256e59e203ed95f013]|RELEASE:[none|none]
 m5stack/DEMO-BOARD: BRANCHES:[master:b03ff4adbc294f7556fe1865c9f6efa5eaccac72]|RELEASE:[0.0.2|4cbaebf3227b9580493f3f250bd0bc9397212321]
 m5stack/ESP-Claw: BRANCHES:[master:3c97c2e48f9e86d74e9b01f849b04b8cd9ea0a7d;boards/m5stack-sticks3-support:fa153a8c82a2ec9c7fedef51340d4cef48f69011;boards/m5stack-cores3-support:fee405adf57c2fa4ac42d2ab77b4836a20395933]|RELEASE:[none|none]
-m5stack/ESP32-DAPLink: BRANCHES:[cores3:26a25435ac5e455cb4a8cd7d447eebd639f114b4;core2:5f27f0225f81c970c313c4d601bfc980889db94d;Basic:a136e8206df0f402e2b7809e0cf330db97bebb40;maplelink:11466890ea65e494506d4ae89726e7b987fbd27e;wireless:654fc7ff7c28149419c3baf7a3d82a66b9070b3c;master:4c9f3768b0e4ca12c9760156419ce11d2ae5697b]|RELEASE:[none|none]
+m5stack/ESP32-DAPLink: BRANCHES:[cores3:f4072d8b37b5efefcec7df5efd697c506d626833;core2:5f27f0225f81c970c313c4d601bfc980889db94d;Basic:a136e8206df0f402e2b7809e0cf330db97bebb40;maplelink:11466890ea65e494506d4ae89726e7b987fbd27e;wireless:654fc7ff7c28149419c3baf7a3d82a66b9070b3c;master:4c9f3768b0e4ca12c9760156419ce11d2ae5697b]|RELEASE:[none|none]
 m5stack/FACES-Firmware: BRANCHES:[master:7c3f0d7deee7e83422a031a62bc84509986dece6]|RELEASE:[none|none]
 m5stack/Factory_Firmware-Core2_for_AWS: BRANCHES:[main:b986040eb18e5be192cb0b5055d08cf02a5cb329]|RELEASE:[none|none]
 m5stack/FontCreator: BRANCHES:[master:bcd095f769dbd3f3c42f6e3ca3b95aee2cc66ca4]|RELEASE:[0.1.0|caa64c57838c2304caddf7bab959b75408b71311]
