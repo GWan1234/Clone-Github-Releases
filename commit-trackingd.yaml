@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:13
+commit-tracking: 2026-10-30 11:14
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3599,7 +3599,7 @@ waveshareteam/ESP32-C6-Touch-LCD-1.28: BRANCHES:[main:d73e23c8c85663e7eefb758ded
 waveshareteam/ESP32-C6-Touch-LCD-1.54: BRANCHES:[main:39cbcf4ee5b964358869ceb09ad1e7145366e803]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-LCD-1.69: BRANCHES:[main:5e84533557d749b4cc7a4f74069a60187b62c99f]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:deaf773feb2dd18a2a55b8156240547184f54d11]|RELEASE:[none|none]
-waveshareteam/ESP32-C6-Touch-LCD-2.8: BRANCHES:[main:c2a1cf84d6213597d47720a51b3e60cc7f1d5257]|RELEASE:[none|none]
+waveshareteam/ESP32-C6-Touch-LCD-2.8: BRANCHES:[main:83640b2ccd5521ccd3916cea898526340dfda0f8;chore/keep-latest-factory-firmware:385b823e6f3008318f52a00097600025b36bb186;chore/update-c6-factory:f58b67125a59dd55fee7edbe327250fd83ed617d]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c046ba36a12886974]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c158371e03be]|RELEASE:[none|none]
 waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30]|RELEASE:[none|none]
