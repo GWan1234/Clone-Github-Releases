@@ -894,7 +894,7 @@ m5stack/build: BRANCHES:[main:6da79f7cf7ea3974c75b6c2eeb4218c9902b398e]|RELEASE:
 m5stack/developer-portal: BRANCHES:[main:a4965b29d0c058f41b96d288831ba7b0e2f903a4]|RELEASE:[none|none]
 m5stack/dtbocfg: BRANCHES:[master:d3cea0fea5a59e2b0805f3d17cf33e83dac2c00f]|RELEASE:[none|none]
 m5stack/esp-adf: BRANCHES:[master:9d48930deccd86e26252721583d8f4dd525de445;sdcard:7b7e29cba9988282af315a5b15ea295023a2b405;dev-core2:59b16c7630defa18896f1cd0ca1da47dccbd7ee1]|RELEASE:[none|none]
-m5stack/esp-cryptoauthlib: BRANCHES:[main:2a0fe282b4705737dff539af908d4e3cbf7d2900]|RELEASE:[none|none]
+m5stack/esp-cryptoauthlib: BRANCHES:[main:deda5d2661808d495801553ecd7ad601e11fec8f]|RELEASE:[none|none]
 m5stack/esp-idf: BRANCHES:[uiflow/v2.0-idf5.0.4:8fbf4ba6058bcf736317d8a7aa75d0578563c38b;uiflow/v2.0-idf4.4:9bec75652fb38ac75946ff98db885de1a546c6ea;uiflow/v2.0:9bec75652fb38ac75946ff98db885de1a546c6ea;dobairoland-patch-1:846fdba4f7e65de913484fd4ec7d1acf5d5c2642;master:df1f9ec26e81138494462451889e7cb05dfc4ad4;release/v4.3:6dce875bf9ab3672508d0bb74cd360e60f622395;release/v4.2:9f0c9ff2f054ab2870b300dbc5106ebf6743aa7e;release/v4.1:b84233626e3526947c70028f30892cf5667522d5;release/v4.4:d83021a6e8550b4d462e11d61aaab0214dc03f5a;release/v3.3:327c22103b5c1d69ea569fa3a20c2ee0c2d56769]|RELEASE:[none|none]
 m5stack/esp-sr: BRANCHES:[feat:e0b81da60361d993f392e5a04816581006819fe3;master:85a1c634325cecf99377e6fdb385b03a5c3363ce]|RELEASE:[none|none]
 m5stack/esp-webrtc-solution: BRANCHES:[main:377991b5b329c37b2d8a652c1a924da7f539ea60]|RELEASE:[none|none]
