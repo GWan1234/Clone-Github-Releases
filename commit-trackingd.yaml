@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:17
+commit-tracking: 2026-10-30 11:18
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1390,7 +1390,7 @@ m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|R
 m5stack/CBACK_NBIoT: BRANCHES:[master:c4dca147e2226cee156464fff1d8e723f55c9001]|RELEASE:[none|none]
 m5stack/CM4Stack_lvgl: BRANCHES:[SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;Basic:d7abcd9c619f88d9d1ccea0dc80ba4065d3c2766;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b]|RELEASE:[none|none]
 m5stack/CardputerZeroRepository: BRANCHES:[gh-pages-preview:f6d53db63a025313fdee34c0a9308bdf190e0809;ci/bootstrap:05ac0eb812a508ecdf3fb3eff0329db0d6e429f6;main:774d9a86fa722c92075c3d351285d0c9bad63f0d]|RELEASE:[apt-pool|70414d854dd360307360673217bf09423c547e04]
-m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[master:611a3e3d5e7a87c4b0493880473b91c4b5270be1;BSP-dev:55d8c04dd8973634b76548394c95450458105688]|RELEASE:[none|none]
+m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[master:e1c3750e204e714ca62b93f6c20aabd7f7ce286d;BSP-dev:55d8c04dd8973634b76548394c95450458105688]|RELEASE:[none|none]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:541cb817c5d78e7e010f67b60e9774de2092b0ed]|RELEASE:[none|none]
 m5stack/CoreMP135_Bare_computer_project: BRANCHES:[master:cab82e4245a558b8be2da56ee47b2034ad95cdfe]|RELEASE:[v0.0.1|5c2b61b51dca0d1848b2e03e873f37fac6a6e263]
 m5stack/CoreMP135_buildroot: BRANCHES:[st/2023.02.2:b885d5525ad332995dc08b1b2d48ef9995326169;master:d3d1d5a2dab19a954915c807e90ac74708b7e9ce]|RELEASE:[v1.0.1|b885d5525ad332995dc08b1b2d48ef9995326169]
