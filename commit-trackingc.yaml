@@ -709,7 +709,7 @@ m5stack/M5Stack: BRANCHES:[master:e4e05109297c193559562b62ee4b5f276bc19b01;m5sta
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb]|RELEASE:[none|none]
 m5stack/M5Stack-Firmware: BRANCHES:[master:5e71c3eefedbeaf9d99557fdb3e2fb0468f8582d]|RELEASE:[none|none]
 m5stack/M5Stack-IDF: BRANCHES:[master:9b803b4adede63f70722a42b1b6297b2bc63ae60]|RELEASE:[none|none]
-m5stack/M5Stack-nesemu: BRANCHES:[master:16bc0da953bcfbb4fc4d0ebe8be84d5a9e3cf5fe]|RELEASE:[none|none]
+m5stack/M5Stack-nesemu: BRANCHES:[master:7f678897edcf7f83168129d79bbd4b4807a67131]|RELEASE:[none|none]
 m5stack/M5Stack-platformio: BRANCHES:[master:bbbb7888507733f60a382ef6c8f3d4e154601a0c]|RELEASE:[none|none]
 m5stack/M5Stack_Linux_Libs: BRANCHES:[UserDemo:730634b0fec605c2087836fd35b37d3cf21b1a4c;stackflow:4f67cfac9aacffcbe9d93923e3a552e094cbbed4;master:8c412407623badbc24ed710b55f7a80b6a8d2fb3;tool-env:2e0d470861b29964bd8c5d818aae2f4acdc26563;dev:b26110f90e50d97c176321c0c817e1956edd4c2b]|RELEASE:[none|none]
 m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45e09e4e;StickC:3b99bc8d619c3ae278f2828d2510ef4bf82dd203;m5stack:2fa5830dd6cecdf027b54c5928f59973230bccfd]|RELEASE:[none|none]
