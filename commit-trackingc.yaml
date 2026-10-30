@@ -680,7 +680,7 @@ m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:5f31185e7e8855dded4d7b5bf15950c
 m5stack/M5Module-DualKmeter-13.2-Internal-FW: BRANCHES:[main:1ad6c1233f1b69922acad13c5d7f4c79870530ff]|RELEASE:[none|none]
 m5stack/M5Module-Fan: BRANCHES:[main:5436f97647fa9ebf80074f0d479e52c30103edba]|RELEASE:[none|none]
 m5stack/M5Module-Fan-Internal-FW: BRANCHES:[main:1d2693c65f12812571b51994d612ddd3103974da]|RELEASE:[none|none]
-m5stack/M5Module-GNSS: BRANCHES:[main:5c58234855eca6832d59bff04114cbd6cbb85d5f]|RELEASE:[1.0.3|5c58234855eca6832d59bff04114cbd6cbb85d5f]
+m5stack/M5Module-GNSS: BRANCHES:[main:2af3894e2c73fb742eb3df1f29b6f0faf9bbf0a6]|RELEASE:[1.0.3|5c58234855eca6832d59bff04114cbd6cbb85d5f]
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:9321963c0a18856e60d78092b511cc63a5f8e613]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
 m5stack/M5Module-HMI: BRANCHES:[main:284dbc5159a12cd9c911994de57049cfdc7ab055]|RELEASE:[none|none]
 m5stack/M5Module-HMI-Internal-FW: BRANCHES:[main:0923bb8330a424d75f3d7f55803c165806d1041e]|RELEASE:[none|none]
