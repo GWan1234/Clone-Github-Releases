@@ -726,7 +726,7 @@ m5stack/M5StickC: BRANCHES:[master:990489188ec40c2bd4611cc3f3f2ac7c3817024a]|REL
 m5stack/M5StickC-IDF: BRANCHES:[master:8d34a2ff711ef06ce663929511d4157ec8ae4b85]|RELEASE:[none|none]
 m5stack/M5StickC-Plus: BRANCHES:[master:d77aeb6be8ff5a94c1ca52b3c255e482340e95f7]|RELEASE:[0.1.1|90cb1bc192d5a4fb6d801191da56e84e0b2f85ad]
 m5stack/M5StickC-Plus-SE-Factory: BRANCHES:[main:1b24c43905c0c74b5f83b9668117a01ffdd7fee6]|RELEASE:[none|none]
-m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:e8cf9bd63d44706daaec9c4742826f5ecb2a2f94]|RELEASE:[none|none]
+m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:5740227bba143bbac193b451a84e153b0676f067]|RELEASE:[none|none]
 m5stack/M5StickCPlus2: BRANCHES:[master:5e103b43ed4ae000fe079c6c928e71a2eadf797c]|RELEASE:[1.0.1|fa8e107d72a0e31eaaad0132893280f0f971c60b]
 m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:3d3d9dafc0835d620e3d87962269bddd8fe8accc]|RELEASE:[V0.1|3d3d9dafc0835d620e3d87962269bddd8fe8accc]
 m5stack/M5StopWatch-PowerDemo: BRANCHES:[main:23fb37517f2e1db543fe460ffbcc5716990123dd]|RELEASE:[none|none]
