@@ -850,7 +850,7 @@ m5stack/M5Utility: BRANCHES:[gh-pages:c36fc0ef496d44a57a099ecdd53cd96bb1a03228;m
 m5stack/M5_BMM150: BRANCHES:[master:b9c42b5fcb4cb5efd601975ede47abfc10d4631c]|RELEASE:[0.0.2|080bb32e9d52dface5f0109fd82f0ff3baab0e60]
 m5stack/M5_CH55x: BRANCHES:[master:5eec408e2da41772afcbe718dc489974f9691adc]|RELEASE:[none|none]
 m5stack/M5_Camera_Examples: BRANCHES:[main:3939b857081fbd7742ac0c93a2a4d7db13dc62f8]|RELEASE:[none|none]
-m5stack/M5_EzData: BRANCHES:[master:5fca3d204694c607cb483528266605250446bf78]|RELEASE:[0.0.2|1a78fb987ab102be70bc2a2ce9a66f55560fac36]
+m5stack/M5_EzData: BRANCHES:[master:bffdb38c4bae18c26dc900a716d27aea8ac20513]|RELEASE:[0.0.2|1a78fb987ab102be70bc2a2ce9a66f55560fac36]
 m5stack/M5_Hardware: BRANCHES:[master:e29c139cbc7c80b5ccc5557e5ab8025a7a19a109]|RELEASE:[none|none]
 m5stack/M5_SIM7080G: BRANCHES:[master:9bc4e7d77f1d8bba62da06cbad1c1c42b65f9cbd]|RELEASE:[none|none]
 m5stack/M5_WirelessT: BRANCHES:[master:8852e2fc412986c67fd7d0f7c81f84aa91679917]|RELEASE:[none|none]
