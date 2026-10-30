@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:23
+commit-tracking: 2026-10-30 11:24
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1479,7 +1479,7 @@ m5stack/M5Hat-8Servos: BRANCHES:[master:b8ebe97e89cb57f7e92a82449d8f0a104d8821d8
 m5stack/M5Hat-BugC: BRANCHES:[main:c054b6ed777eeb56b0880eeb830b91aec3ba8307;gh-pages:c30db70f5529ed15e15fbdd718f9c2e6cae8de51]|RELEASE:[none|none]
 m5stack/M5Hat-BugC-Internal-FW: BRANCHES:[main:5edac1804c16f846915e6463601789b46f359463]|RELEASE:[none|none]
 m5stack/M5Hat-CBack-Driver: BRANCHES:[main:9a7c3e0e561ea7769e3e2ca9211206ee5f589821]|RELEASE:[none|none]
-m5stack/M5Hat-JoyC: BRANCHES:[master:c656bff6ca651c33d3330ceb89e0cc851dd8e48a]|RELEASE:[0.0.1|3eccb38006add7dd9f45aff0e85292c46ce535f2]
+m5stack/M5Hat-JoyC: BRANCHES:[master:4368e52bddfaaecdd196a6eb5c64eaffa2b09918]|RELEASE:[0.0.1|3eccb38006add7dd9f45aff0e85292c46ce535f2]
 m5stack/M5Hat-Mini-EncoderC: BRANCHES:[main:b0443d4d785d562e696fe8bf1b343196e052b535]|RELEASE:[0.0.1|b0443d4d785d562e696fe8bf1b343196e052b535]
 m5stack/M5Hat-Mini-JoyC: BRANCHES:[main:302a29f0a23a54dff054ee2ba0ca9c3ebb7c3ce9]|RELEASE:[0.0.1|302a29f0a23a54dff054ee2ba0ca9c3ebb7c3ce9]
 m5stack/M5Hat-PowerC: BRANCHES:[master:2cd83d770f93dd05c6f41f6029255b934fc4a194]|RELEASE:[none|none]
