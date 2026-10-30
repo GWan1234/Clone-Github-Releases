@@ -1559,7 +1559,7 @@ m5stack/M5Tab5-UserDemo: BRANCHES:[main:b4e356bc491ca070d54004718dad789c07d5fc93
 m5stack/M5Template-C-CPP: BRANCHES:[main:510e9dc93a32260ac6a742f7c5f6d10d1a3d60c9]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:2d9b8b2edcfe554c36b930f682140fe2c033c468]|RELEASE:[none|none]
 m5stack/M5Tough: BRANCHES:[master:2dc8ad313f13d64da8aaaa1c8a448e2862ddadee]|RELEASE:[none|none]
-m5stack/M5Unified: BRANCHES:[develop:cff00823f7317cfc5ba5cb00fe72bb7cc372f6c2;master:368ad60807161625aa65baad37a4a3af2a7eccea]|RELEASE:[0.2.28|368ad60807161625aa65baad37a4a3af2a7eccea]
+m5stack/M5Unified: BRANCHES:[develop:1d59eff9dd615872c98fb0b775b352b84bebd4c1;master:44952cb8e4ac88bf04ad23b9dfd6f4b05c788348]|RELEASE:[0.2.29|44952cb8e4ac88bf04ad23b9dfd6f4b05c788348]
 m5stack/M5Unit-8Angle: BRANCHES:[main:8811e4898fdd5988a74fb93b1d6ddc4be264973a]|RELEASE:[none|none]
 m5stack/M5Unit-8Angle-Internal-FW: BRANCHES:[main:34b031c420eb4359f28833dfed9de187de7a69a9]|RELEASE:[none|none]
 m5stack/M5Unit-8Encoder: BRANCHES:[main:a75ab1a0975f034cca4588b2c539d9dbb669cc2d]|RELEASE:[0.0.1|2cec67233b2d4cf66cf3e6d7b156d48c35256a16]
