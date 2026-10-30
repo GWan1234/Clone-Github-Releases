@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 09:51
+commit-tracking: 2026-10-30 09:52
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -775,7 +775,7 @@ m5stack/M5Unit-Encoder: BRANCHES:[master:1a511886ed19f4ac560e4af9e90e286d8f90c41
 m5stack/M5Unit-ExtEncoder: BRANCHES:[main:690c72b35a172ae97d05025343c360cea1392a24]|RELEASE:[none|none]
 m5stack/M5Unit-ExtEncoder-Internal-FW: BRANCHES:[main:0502021429c816f43de43d1b3be1355725ed66ab]|RELEASE:[none|none]
 m5stack/M5Unit-FINGER: BRANCHES:[gh-pages:af625823f6a1c61a0093d82e466c63dad3203163;main:342aaa0642a18ba69632d3c544ebff59a2d2709a;develop:45cc6b8e4146ba0eec3569bd4019b6cb3f5f28f7]|RELEASE:[0.2.1|342aaa0642a18ba69632d3c544ebff59a2d2709a]
-m5stack/M5Unit-FLASHLIGHT: BRANCHES:[gh-pages:818c06e40571c614a4959d43e899ccd468db5b10;main:4071dde9ec5a60cb165628f7830effdf95f8eda1;develop:eef62d330efcb1ddd40300bc7c401669a05d29a5]|RELEASE:[0.0.2|4071dde9ec5a60cb165628f7830effdf95f8eda1]
+m5stack/M5Unit-FLASHLIGHT: BRANCHES:[gh-pages:01033ac3ecb4c82eb011aabfaa1d32df9c54c442;main:ba3d1978927ed804c70dce3b0848d7b3abbe9ba0;develop:893e18e38561288fa34ae0b6b508691cace0cf15]|RELEASE:[0.1.0|ba3d1978927ed804c70dce3b0848d7b3abbe9ba0]
 m5stack/M5Unit-Fingerprint2: BRANCHES:[main:e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1]|RELEASE:[1.3.0|e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1]
 m5stack/M5Unit-Fingerprint2-Internal-FW: BRANCHES:[main:6723eb45095497163465fe5f9ce87fc5950e711a]|RELEASE:[none|none]
 m5stack/M5Unit-GESTURE: BRANCHES:[gh-pages:d87b721219545e9cbc1ab35f404fecf092652d71;main:73e6de56f7eedd1ba1961a21c24e88cf627c89f8;develop:771c357b3eaf1b66e4f7473c846f9899b6cd8e03]|RELEASE:[0.3.0|73e6de56f7eedd1ba1961a21c24e88cf627c89f8]
