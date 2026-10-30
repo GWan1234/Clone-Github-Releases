@@ -1383,7 +1383,7 @@ m5stack/Applications-M5PIANO: BRANCHES:[master:f1d7bb59eeb08d6a4dab07fe42c05ad74
 m5stack/Applications-cam: BRANCHES:[master:61f65179939a2850d54fc7b31ffa12466059b261]|RELEASE:[none|none]
 m5stack/ArduinoModbus: BRANCHES:[master:f903d0acb782fee791f70f21ab96d1fc9e580d34]|RELEASE:[none|none]
 m5stack/ArduinoRS485: BRANCHES:[master:2dd70d2c3fc16626c38c1598244daab2ba508d35]|RELEASE:[none|none]
-m5stack/Atom-JoyStick: BRANCHES:[main:e9f53fbd8a2edd25aedf987aac2ae40a52e6bea0]|RELEASE:[V0.0.1|a0ff778ddec4034a2bb8210f3ad7a2ed077f4568]
+m5stack/Atom-JoyStick: BRANCHES:[main:731750d8189a8658edab2eaa1d877b48581659fa]|RELEASE:[V0.0.1|a0ff778ddec4034a2bb8210f3ad7a2ed077f4568]
 m5stack/Atom-JoyStick-Internal-FW: BRANCHES:[main:f973abeff04bd338e10facb40e8b4b03bd0caeb0]|RELEASE:[none|none]
 m5stack/AtomS3R-CAM-UserDemo: BRANCHES:[AtomS3R-CAM:8effad452356b276d9732ead4740c38df1d2af2e;AtomS3R-M12:78fa44f4ac67aadab41cc89ce05914b0b5924c24]|RELEASE:[none|none]
 m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|RELEASE:[none|none]
