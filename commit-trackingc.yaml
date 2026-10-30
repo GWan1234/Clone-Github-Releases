@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 10:21
+commit-tracking: 2026-10-30 10:22
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -796,7 +796,7 @@ m5stack/M5Unit-KMeter-Internal-FW: BRANCHES:[main:c97d31ed94f525ed9eff3ed80eb431
 m5stack/M5Unit-KMeterISO: BRANCHES:[main:4b44235f995ef77af8ff7107c5480a33a2a8f756;develop:3d5d033dbd5f7dbad6d67013eedc402ccb892faa]|RELEASE:[1.0.2|56c5ae4b522d3e3398307491b7a64ab1fe592951]
 m5stack/M5Unit-KMeterISO-Internal-FW: BRANCHES:[main:dfb76fcffa2bf20290a2cfaefd3839afac570cc9]|RELEASE:[none|none]
 m5stack/M5Unit-LCD-Internal-FW: BRANCHES:[master:8c123afa3e9cc7dec0cc1d56c3ce469ba750a9d7]|RELEASE:[0.2|e58f4729eb5e6bd7bc910aeb4a261ddb8eddd308]
-m5stack/M5Unit-LIGHT: BRANCHES:[gh-pages:b4de7a0842b20776e711850a0b9d1704016ececa;main:6d734f01610c3a4564833d5a459fce465097ef8f;develop:41eb4c2ec98534a26ffbe61cd61daa333922fabb]|RELEASE:[0.0.2|6d734f01610c3a4564833d5a459fce465097ef8f]
+m5stack/M5Unit-LIGHT: BRANCHES:[gh-pages:4c81ca42e9f3d78644fac7ade24567e3ec1cc606;main:1ddbe9255c7152f1c489ca07bf1ac1d30eebf612;develop:83f98d8c06ed836868931a8183ca0888bffa1e11]|RELEASE:[0.1.0|1ddbe9255c7152f1c489ca07bf1ac1d30eebf612]
 m5stack/M5Unit-METER: BRANCHES:[main:beb6bd90a0f164790dfccbc200834140820d262b;gh-pages:9427473ce394a1c827ad6eb489bca4a98c027c8c;develop:d5d4fa2eae68bc7c5715765ffb44bae6878acd07]|RELEASE:[0.4.1|5bdc3fef6c4808491627e13e7577f3234edb1b6f]
 m5stack/M5Unit-MQ: BRANCHES:[main:97dc4378f31ba69c44f267e38767a25994ecb9e6]|RELEASE:[1.0.0|1d961cb120deb6342df9d643c62e45d969ffcf93]
 m5stack/M5Unit-MQ-Internal-FW: BRANCHES:[main:31744153440f7e5871aee53743936468d81d9d90]|RELEASE:[none|none]
