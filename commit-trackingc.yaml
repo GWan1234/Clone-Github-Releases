@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 09:36
+commit-tracking: 2026-10-30 09:37
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -724,7 +724,7 @@ m5stack/M5StampFly: BRANCHES:[main:fa7b6a59c7f297d398d381840184451dce137c48]|REL
 m5stack/M5Station: BRANCHES:[main:7389bffe828b1d4e2688e8acf8cb4c4baaf68d5f]|RELEASE:[0.0.1|91099928af94868515ffa33a07ab26183f909d07]
 m5stack/M5StickC: BRANCHES:[master:990489188ec40c2bd4611cc3f3f2ac7c3817024a]|RELEASE:[0.3.0|202fddddf05d878381f3b4d5bfa6b6e70031a290]
 m5stack/M5StickC-IDF: BRANCHES:[master:8d34a2ff711ef06ce663929511d4157ec8ae4b85]|RELEASE:[none|none]
-m5stack/M5StickC-Plus: BRANCHES:[master:4c87db9b3e0e2c6309f6e72c596032084542e7fa]|RELEASE:[0.1.1|90cb1bc192d5a4fb6d801191da56e84e0b2f85ad]
+m5stack/M5StickC-Plus: BRANCHES:[master:d77aeb6be8ff5a94c1ca52b3c255e482340e95f7]|RELEASE:[0.1.1|90cb1bc192d5a4fb6d801191da56e84e0b2f85ad]
 m5stack/M5StickC-Plus-SE-Factory: BRANCHES:[main:1b24c43905c0c74b5f83b9668117a01ffdd7fee6]|RELEASE:[none|none]
 m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:e8cf9bd63d44706daaec9c4742826f5ecb2a2f94]|RELEASE:[none|none]
 m5stack/M5StickCPlus2: BRANCHES:[master:5e103b43ed4ae000fe079c6c928e71a2eadf797c]|RELEASE:[1.0.1|fa8e107d72a0e31eaaad0132893280f0f971c60b]
