@@ -867,7 +867,7 @@ m5stack/RadioLib: BRANCHES:[master:e0fc757dc009a0e3ad557189fa5faee1147dce19]|REL
 m5stack/STAMP-C3: BRANCHES:[master:148c263fddcb7b61fef20b0cf6de8ab8c3475f73]|RELEASE:[none|none]
 m5stack/STAMP-PICO: BRANCHES:[master:90e28e6e2f325ae9d4c5785a15e5e06c092b15f1]|RELEASE:[0.0.2|a9e9209e1ae8e2f1d94b72dc86c0d9293f988b0c]
 m5stack/STAMP-S3: BRANCHES:[main:6b64d431f930ff5e2bd770a07003ac983c24bc3f]|RELEASE:[none|none]
-m5stack/StackChan: BRANCHES:[main:eff0d6b5109663faec8f1d98848b4b0e5246bbfc;ios-dev:eff0d6b5109663faec8f1d98848b4b0e5246bbfc;server-dev:b067c664e6ccf89d9fc221d6f06cf9f36fe9bd3f;firmware-dev:bc60de1adb8a70d30cadadc83f0c336ec7f9e3a8;remote-dev:3a8dc37b9b999d474cddbf4cd0a687bec02c6ea2;docs-dev:ad47f0ba99fa51a1836522c7baa186393a8a8dc3]|RELEASE:[none|none]
+m5stack/StackChan: BRANCHES:[main:f901cc2969189f3f0e96af1442c0f96e77e1e2c1;ios-dev:eff0d6b5109663faec8f1d98848b4b0e5246bbfc;server-dev:b067c664e6ccf89d9fc221d6f06cf9f36fe9bd3f;firmware-dev:bc60de1adb8a70d30cadadc83f0c336ec7f9e3a8;remote-dev:3a8dc37b9b999d474cddbf4cd0a687bec02c6ea2;docs-dev:ad47f0ba99fa51a1836522c7baa186393a8a8dc3]|RELEASE:[none|none]
 m5stack/StackChan-BSP: BRANCHES:[main:fb5e9f5697803ca64e45fe7ad8eaea3e4100f766]|RELEASE:[1.1.1|fb5e9f5697803ca64e45fe7ad8eaea3e4100f766]
 m5stack/StackFlow: BRANCHES:[main:0f0395377450e95364b90482e5f717f096413933;dev:4438bea63df5585ede0c5a87e9ff229c5821e482;axcl:fd0563c34f502f781e1a20655becfd352bc76eeb]|RELEASE:[v1.7.0|07662b8ffdb9b09349c860d8fa469e839df88b89]
 m5stack/StickWatch: BRANCHES:[master:243f4d6767914e12741b78a876f3d6dfa7b7bdeb]|RELEASE:[none|none]
