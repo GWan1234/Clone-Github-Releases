@@ -1388,7 +1388,7 @@ m5stack/Atom-JoyStick-Internal-FW: BRANCHES:[main:225ad8f22c843a827318e5aeb0771d
 m5stack/AtomS3R-CAM-UserDemo: BRANCHES:[AtomS3R-CAM:8effad452356b276d9732ead4740c38df1d2af2e;AtomS3R-M12:78fa44f4ac67aadab41cc89ce05914b0b5924c24]|RELEASE:[none|none]
 m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|RELEASE:[none|none]
 m5stack/CBACK_NBIoT: BRANCHES:[master:7d2c0a330e58536be4e806b08966ec37e1ae2360]|RELEASE:[none|none]
-m5stack/CM4Stack_lvgl: BRANCHES:[SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;Basic:d7abcd9c619f88d9d1ccea0dc80ba4065d3c2766;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b]|RELEASE:[none|none]
+m5stack/CM4Stack_lvgl: BRANCHES:[Basic:b248414df6d0523d127b024a05fe3f60111dd2fb;SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b]|RELEASE:[none|none]
 m5stack/CardputerZeroRepository: BRANCHES:[gh-pages-preview:f6d53db63a025313fdee34c0a9308bdf190e0809;ci/bootstrap:05ac0eb812a508ecdf3fb3eff0329db0d6e429f6;main:774d9a86fa722c92075c3d351285d0c9bad63f0d]|RELEASE:[apt-pool|70414d854dd360307360673217bf09423c547e04]
 m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[master:e1c3750e204e714ca62b93f6c20aabd7f7ce286d;BSP-dev:55d8c04dd8973634b76548394c95450458105688]|RELEASE:[none|none]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:6fd6134fc500f802499346e9938a727027610e1c]|RELEASE:[none|none]
