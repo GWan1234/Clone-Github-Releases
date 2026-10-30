@@ -1368,7 +1368,7 @@ kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de076
 lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db765132892b2b]|RELEASE:[none|none]
 m5stack/.github: BRANCHES:[main:3f6859e57c6e7fb07d033d63ef9a92d9c08330c6]|RELEASE:[none|none]
 m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:dbbf434efbd0a0b3b03d01d902e8fd8e8aced324]|RELEASE:[none|none]
-m5stack/AIFlow: BRANCHES:[main:930edd59329568bc8c8f5db5d591abc51548afa2;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
+m5stack/AIFlow: BRANCHES:[main:0bc08aa8442c40c7430f55a37dfa4fab8914d8bf;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
 m5stack/ATOM-ECHO: BRANCHES:[master:2383b77d4345e781c061dafa28fc39a57d5d0668]|RELEASE:[none|none]
 m5stack/ATOM-PRINTER: BRANCHES:[master:fbbd15a1d015c076dfc51d92a127caf8d7cc2eb8]|RELEASE:[0.0.1|aa35436b66c42d7091fe3ddfe01572baeb70e7db]
 m5stack/ATOM-and-Module-Display-FPGA-Source: BRANCHES:[main:12c837ef304bca3e0e65496b584e6251184e4a25]|RELEASE:[none|none]
