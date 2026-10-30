@@ -612,7 +612,7 @@ m5stack/M5-iot-plugandplay-models: BRANCHES:[main:efe821e1e9fefbd848d1193feaeade
 m5stack/M5Atom: BRANCHES:[master:5a9faefcdfaff7f01f84914f23f4f252fd321a00;revert-44-master:912e3eb208214f6c7766427994259b4ace479889]|RELEASE:[0.1.3|4717fcfff7edd8d638b51fcbd7c3a869c2423990]
 m5stack/M5AtomS3: BRANCHES:[main:440c112f37ac428ef3b0698c61663717fa25736c]|RELEASE:[1.0.2|9f5cfb8a507061e734e314af78e8ee00d62f7da9]
 m5stack/M5AtomS3-UserDemo: BRANCHES:[atoms3r:36d5ca8981a9fd49ac59a5c77a1dc346149381eb;main:a73ef8a863913a973262a91a60e207dad7b61181]|RELEASE:[none|none]
-m5stack/M5AtomU: BRANCHES:[master:e6e2c624af4328fdaa612cb0cf261fff769fa539]|RELEASE:[none|none]
+m5stack/M5AtomU: BRANCHES:[master:dd633a6d597f1c963a530fc6e3491466954d83ef]|RELEASE:[none|none]
 m5stack/M5Atomic-EchoBase: BRANCHES:[main:bf4b610495c5499ecece46a23f6fd446de19284a]|RELEASE:[1.0.2|bf4b610495c5499ecece46a23f6fd446de19284a]
 m5stack/M5Atomic-Motion: BRANCHES:[master:6a6e95013e2aaf93c468cc60879ed81cb9006503]|RELEASE:[1.0.0|f05fdf8a74c27e45ff9fa05aa930b7536a7c80b6]
 m5stack/M5Bala: BRANCHES:[master:67e66e484fafc6ff26e4637ee817dfbb79c53f2b]|RELEASE:[none|none]
