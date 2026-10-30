@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 09:54
+commit-tracking: 2026-10-30 09:55
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -664,7 +664,7 @@ m5stack/M5Hat-Mini-JoyC: BRANCHES:[main:36cc777c37492f55df6abc2a41e03fdffa27999c
 m5stack/M5Hat-PowerC: BRANCHES:[master:a067d439147ecc1eec0729aa85da0caab0e7bfec]|RELEASE:[none|none]
 m5stack/M5IOE1: BRANCHES:[main:846eec7d05e25c09013be2acdb8804487f48a62e;develop:bce0047e93459c675930601d93e408c31e505b82]|RELEASE:[1.0.9|846eec7d05e25c09013be2acdb8804487f48a62e]
 m5stack/M5Module-2Relay-13.2: BRANCHES:[main:8af0eddb02264bfc3dd4ed93640eab19cbec27ca]|RELEASE:[0.0.2|a1091a8a16f8786f3624f101077a70c67b63d8e0]
-m5stack/M5Module-4-20mA: BRANCHES:[main:4781fcb5fb525edc53c4f833c9ccab434b9e3e3c]|RELEASE:[none|none]
+m5stack/M5Module-4-20mA: BRANCHES:[main:fc17bc5f8f1a6403db7972713ce0968150954a49]|RELEASE:[none|none]
 m5stack/M5Module-4-20mA-Internal-FW: BRANCHES:[main:e8d381ed15413f2ae1585b3f7c1cadcd9c9f4c1c]|RELEASE:[none|none]
 m5stack/M5Module-4EncoderMotor: BRANCHES:[main:9721dad321238e2ddef533faa55db8f3d2de66c3]|RELEASE:[1.0.0|89ee0591b4725777ceb1d934c6676274075af971]
 m5stack/M5Module-4EncoderMotor-Internal-FW: BRANCHES:[main:aece2c9aaf1c23a5389ccdc7546fbbbfec0c0ad4;V1.0:b645454045368940b48d8936d24e2032beca5ebe]|RELEASE:[none|none]
