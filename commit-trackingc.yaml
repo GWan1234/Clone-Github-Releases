@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 09:49
+commit-tracking: 2026-10-30 09:50
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -749,7 +749,7 @@ m5stack/M5Unit-8Servos2-I2C-Internal-FW: BRANCHES:[main:071b207dd5c770e6b37f4392
 m5stack/M5Unit-ACMeasure: BRANCHES:[main:821882d4a7a040509e62010f33d36e927079c3b2]|RELEASE:[none|none]
 m5stack/M5Unit-ACMeasure-Internal-FW: BRANCHES:[main:e7df767e2df85aeb0554f6432e19915614f4034f]|RELEASE:[none|none]
 m5stack/M5Unit-ACSSR: BRANCHES:[main:2996144a6d821f0274079cdb11607c650ad87195]|RELEASE:[0.0.3|524fbd668a267b3b99114f8fc44c0732d13113e1]
-m5stack/M5Unit-ACSSR-Internal-FW: BRANCHES:[main:5e3722be4e74c7fd1c66f496e74bb873906fa0f2]|RELEASE:[none|none]
+m5stack/M5Unit-ACSSR-Internal-FW: BRANCHES:[main:45e62980e62bd124fe75c6ed50d76ac05e64b9dc]|RELEASE:[none|none]
 m5stack/M5Unit-ANADIG: BRANCHES:[gh-pages:fffe76e2d4b6649b33b299db90e13f36270efe11;main:a449179c33a448493993a06c7c166e06f4bebd65;develop:fbef3c86e9c458f62d903290bff742380e783756;feature/UnitADC:0b74fb226ed362f1b1bf9ea3d53ee42e9d7018ed]|RELEASE:[0.4.1|a449179c33a448493993a06c7c166e06f4bebd65]
 m5stack/M5Unit-ASR: BRANCHES:[main:79290d93de53e024fb9edcac7a34c1577b2ea7e6]|RELEASE:[0.0.1|68baa80ed59a73f386215f14acc63b6773a937e6]
 m5stack/M5Unit-AudioPlayer: BRANCHES:[main:fa6935b154b7f84291487e9ba8f1d527d1e7ff69]|RELEASE:[0.0.1|fa6935b154b7f84291487e9ba8f1d527d1e7ff69]
