@@ -861,7 +861,7 @@ m5stack/MicroPythonOS: BRANCHES:[main:7499ba87dc4858650247ac784e0904805b3777a2]|
 m5stack/ModuleLLM-OpenAI-Plugin: BRANCHES:[dev:a9fc6c8c02c2fd74b295c99e0b1195cfed58ffdf;master:5f71dc2f2d986b8b712885c561a4a79cc5346b41;axcl:0ebfd3f968c933a7c3486206ffdcacecf44251ba]|RELEASE:[none|none]
 m5stack/Neopixel_board: BRANCHES:[master:4d4cb5dc746de7f7a64ec8e8d1200e94b239fead]|RELEASE:[none|none]
 m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1869b0c07d7af5]|RELEASE:[none|none]
-m5stack/PoE-CAM-UserDemo: BRANCHES:[master:42b6c13cfe6bd7109d52b4d410bd5da247e1e9e0]|RELEASE:[none|none]
+m5stack/PoE-CAM-UserDemo: BRANCHES:[master:6030cbbb0c819f6d3177d57c3c2622453771b340]|RELEASE:[none|none]
 m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:2c77f57d1cfb9deaeb84fd0ed9d2da6736aed2da]|RELEASE:[none|none]
 m5stack/RadioLib: BRANCHES:[master:e0fc757dc009a0e3ad557189fa5faee1147dce19]|RELEASE:[none|none]
 m5stack/STAMP-C3: BRANCHES:[master:148c263fddcb7b61fef20b0cf6de8ab8c3475f73]|RELEASE:[none|none]
