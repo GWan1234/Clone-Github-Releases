@@ -806,7 +806,7 @@ m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c
 m5stack/M5Unit-Miniscale: BRANCHES:[main:3e92369d61f346ed42f38a8c3155773a2685735a]|RELEASE:[0.0.1|3e92369d61f346ed42f38a8c3155773a2685735a]
 m5stack/M5Unit-Miniscale-Internal-FW: BRANCHES:[main:9d1644fc23ac2d73284bfd62983bbbd14f1999bc]|RELEASE:[none|none]
 m5stack/M5Unit-NCIR2: BRANCHES:[main:fde5cbcee77cb83e634cb6bc0a9e77eb4c2bd8f1]|RELEASE:[none|none]
-m5stack/M5Unit-NCIR2-Internal-FW: BRANCHES:[main:8e923d8c0f5f109259568da6fdb6a2444de74f6e]|RELEASE:[none|none]
+m5stack/M5Unit-NCIR2-Internal-FW: BRANCHES:[main:4e31245a2b8e75c5e488dbbdcf4d129d63ec40a0]|RELEASE:[none|none]
 m5stack/M5Unit-NFC: BRANCHES:[develop:7af9964de545d52a45f702db4b9ab6a641ad2d23;feature/adapter-injection:0a8cd82585901f64fba4b5cec1cbe92c1afe186e;gh-pages:60f0761a55b789ce5fcb78d18ec979b19e313b77;main:63c4caac1a07018ef73027e4b098d4fefe56c6f6;feature/esp-idf-native-support:7e3ba6f9141ea3ba4e77a4fcc8d1afc49cb5d904]|RELEASE:[0.1.2|63c4caac1a07018ef73027e4b098d4fefe56c6f6]
 m5stack/M5Unit-PbHub: BRANCHES:[main:1974058947d5556e62957681082e0c082da14071]|RELEASE:[1.0.0|66d3aa8c2c40d6d5888a3a062249b2df1cb33873]
 m5stack/M5Unit-PbHub-Internal-FW: BRANCHES:[main:6de9c0a9f2a3bffdbf17313d3a5aa933228ee772]|RELEASE:[none|none]
