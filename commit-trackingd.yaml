@@ -1493,7 +1493,7 @@ m5stack/M5Module-4IN8OUT: BRANCHES:[main:3ab6700c983d3765d43221dfae17e785e88a7a0
 m5stack/M5Module-4Relay: BRANCHES:[main:02f9b3adbc8f4f47a48ec0f4440529846695ebc7]|RELEASE:[0.0.1|a20cf8b9e2390da3e85252bf4cce904e1a047008]
 m5stack/M5Module-4Relay-Internal-FW: BRANCHES:[main:8bdad17b02ae3867f614ad85015f11007059c488]|RELEASE:[none|none]
 m5stack/M5Module-AC-2Relay-Internal-FW: BRANCHES:[main:05a9785507019d1f6f470decd3ee356f1bc7a931]|RELEASE:[none|none]
-m5stack/M5Module-Audio: BRANCHES:[main:72c98cc7746ae76bee05ee9dee4576b2a658aeb9]|RELEASE:[0.0.2|72c98cc7746ae76bee05ee9dee4576b2a658aeb9]
+m5stack/M5Module-Audio: BRANCHES:[main:48ce6f64033d5d49a32a38b6fc8d85313f11729b]|RELEASE:[0.0.2|72c98cc7746ae76bee05ee9dee4576b2a658aeb9]
 m5stack/M5Module-Audio-Internal-FW: BRANCHES:[main:6aa902394c9ed8b4d89367773378d2290ea51282]|RELEASE:[none|none]
 m5stack/M5Module-DMX512: BRANCHES:[master:5b209bfb589f5ac498dc299b072b27111cd0ceb0]|RELEASE:[none|none]
 m5stack/M5Module-Display-13.2: BRANCHES:[main:fe1ccacf3d4b014d77db601aa67f40cf6f5a0adf]|RELEASE:[none|none]
