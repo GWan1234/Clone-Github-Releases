@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 10:22
+commit-tracking: 2026-10-30 10:23
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -785,7 +785,7 @@ m5stack/M5Unit-HEART: BRANCHES:[main:ab0b2185ac2c3fa29c60f32ad857908d7cacfc52;gh
 m5stack/M5Unit-HUB: BRANCHES:[main:748e70f1feb4daebf874f93f87216c8db45f20c0;gh-pages:e54887962d670a678859c59ce74e0393e096a805;develop:d18bfa16c74377747d30e557c421097c09a296d3]|RELEASE:[0.4.0|d6d1f15de2d81e47de1396ddbc5abbf4084ab9ef]
 m5stack/M5Unit-Hbridge: BRANCHES:[main:edf40cab4145d153ec488946d60ca59439853044]|RELEASE:[none|none]
 m5stack/M5Unit-Hbridge-Internal-FW: BRANCHES:[main:281b9670d910a9a4c9c758bc2f5343ac4fb9c6b5]|RELEASE:[none|none]
-m5stack/M5Unit-IMU: BRANCHES:[gh-pages:c9f8e26f30b834f06c8af6c372148dc2b2798a0b;main:e5b00aab3c267f7ac96d77a5c2406f2e8983ce38;develop:eb83c84b9d8b2f92bc6aad983b54e773456f9d48;feature/motion-events:4813a029932de23333203ba5d829d0fdc4945da9]|RELEASE:[0.0.2|e5b00aab3c267f7ac96d77a5c2406f2e8983ce38]
+m5stack/M5Unit-IMU: BRANCHES:[main:c2f909363b86233a95ccacc43a3b8f23e1beaa6e;gh-pages:c9f8e26f30b834f06c8af6c372148dc2b2798a0b;develop:eb83c84b9d8b2f92bc6aad983b54e773456f9d48;feature/motion-events:4813a029932de23333203ba5d829d0fdc4945da9]|RELEASE:[0.0.2|e5b00aab3c267f7ac96d77a5c2406f2e8983ce38]
 m5stack/M5Unit-IMU-Pro-Mini: BRANCHES:[main:85f74aab4d8c61c91f41fe69889fea478339b1a7]|RELEASE:[1.0.2|002b74a8b80464beb72d3528cb831a6915ec8a25]
 m5stack/M5Unit-INFRARED: BRANCHES:[main:5085d1dac1a2d1647d2199b4e7e86676f7b1bdfb;gh-pages:d37c043ff3116e2fc3d7b3a7c1d3af5140297656;develop:4e08d8ceecbd9e5b8df6ffe429a4bf74fb237080;feature/esp-idf-native-support:211b67d4e33bb2e6ae22925f447df29db63602bc]|RELEASE:[0.3.1|7fce34901cca67f2aec53526ba519bd1e0da5d0b]
 m5stack/M5Unit-Joystick2: BRANCHES:[main:b8ef71b8d5b7933934c7a2c93b28832a35592073]|RELEASE:[none|none]
