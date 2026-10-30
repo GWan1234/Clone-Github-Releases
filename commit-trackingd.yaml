@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:47
+commit-tracking: 2026-10-30 11:48
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1423,7 +1423,7 @@ m5stack/M5-Max3421E-USBShield: BRANCHES:[master:aea6c8ff84209cf08baa41214a9e8b21
 m5stack/M5-ProductExampleCodes: BRANCHES:[master:1bc38736e61a362080d1dffc4020b3a2a1dff6ae]|RELEASE:[none|none]
 m5stack/M5-RoverC: BRANCHES:[master:aaa6e03bfecffd76e2ffec95da63bc9307e965c8]|RELEASE:[0.0.1|a36d92013405b289a9fc6ca7b48a631362bd7bf5]
 m5stack/M5-SAM2695: BRANCHES:[main:a83a2f5839eedaca6571ff7bcd72de18f283e77e]|RELEASE:[none|none]
-m5stack/M5-STHS34PF80: BRANCHES:[main:b94f2e0d32eec3b098c0f5721badd47301d2293e]|RELEASE:[0.0.1|8664b9d41b69f2d3bafa77972c50e31cb13493c8]
+m5stack/M5-STHS34PF80: BRANCHES:[main:b824e1a32595d15a884421b88169af272aa43f05]|RELEASE:[0.0.1|8664b9d41b69f2d3bafa77972c50e31cb13493c8]
 m5stack/M5-SX127x: BRANCHES:[master:1fe11147e52728fd2e44fbd0df0797fdc67d75e9]|RELEASE:[1.0.0|ae84956e6a6d346d0ea8bccb624bda831d83078f]
 m5stack/M5-Schematic: BRANCHES:[master:686d1ec36a89046f79b57d8e9611b3868efc4868]|RELEASE:[none|none]
 m5stack/M5-StickT: BRANCHES:[master:a502cb40e0837bccd55a3e09389f3cbfc155cea8]|RELEASE:[none|none]
