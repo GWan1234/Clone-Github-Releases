@@ -754,7 +754,7 @@ m5stack/M5Unit-ANADIG: BRANCHES:[gh-pages:fffe76e2d4b6649b33b299db90e13f36270efe
 m5stack/M5Unit-ASR: BRANCHES:[main:79290d93de53e024fb9edcac7a34c1577b2ea7e6]|RELEASE:[0.0.1|68baa80ed59a73f386215f14acc63b6773a937e6]
 m5stack/M5Unit-AudioPlayer: BRANCHES:[main:fa6935b154b7f84291487e9ba8f1d527d1e7ff69]|RELEASE:[0.0.1|fa6935b154b7f84291487e9ba8f1d527d1e7ff69]
 m5stack/M5Unit-BLDC: BRANCHES:[master:acb960d724072a9e2b42fb33049ba1ae88747689]|RELEASE:[1.0.0|acb960d724072a9e2b42fb33049ba1ae88747689]
-m5stack/M5Unit-BLDC-Driver-Internal-FW: BRANCHES:[main:1747cb75ad963f5f2b9a3c7d043257e6ad2ad52e]|RELEASE:[none|none]
+m5stack/M5Unit-BLDC-Driver-Internal-FW: BRANCHES:[main:5b34f579bec63a1f1f814712dd09486df09a86f6]|RELEASE:[none|none]
 m5stack/M5Unit-ByteButton: BRANCHES:[main:05d062943efb0165c30a19b717dba527624895c5]|RELEASE:[none|none]
 m5stack/M5Unit-ByteButton-Internal-FW: BRANCHES:[main:3f96f642d8d740e1ad63f15adfe92de7d2a49164]|RELEASE:[none|none]
 m5stack/M5Unit-ByteSwitch-Internal-FW: BRANCHES:[main:f87a07820be55a838bfaa08b7ad426901b83516d]|RELEASE:[none|none]
