@@ -737,7 +737,7 @@ m5stack/M5Tab5-Keyboard-UserDemo: BRANCHES:[main:fba427705910953d072eb81ba2e7324
 m5stack/M5Tab5-UserDemo: BRANCHES:[main:b4e356bc491ca070d54004718dad789c07d5fc93;dev:611f2d6f447ed21a379fa7a6dcbc3ef19c07094a]|RELEASE:[V0.4|68b19d37fbf9cefd5f256992f5dca34794c62ab4]
 m5stack/M5Template-C-CPP: BRANCHES:[main:510e9dc93a32260ac6a742f7c5f6d10d1a3d60c9]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:85113589f6d7c272c1dbc21e99f6f1bc228630cb]|RELEASE:[none|none]
-m5stack/M5Tough: BRANCHES:[master:fda04c38004817bfff095e172ff1d03d8a74c15c]|RELEASE:[none|none]
+m5stack/M5Tough: BRANCHES:[master:2dc8ad313f13d64da8aaaa1c8a448e2862ddadee]|RELEASE:[none|none]
 m5stack/M5Unified: BRANCHES:[develop:cff00823f7317cfc5ba5cb00fe72bb7cc372f6c2;master:368ad60807161625aa65baad37a4a3af2a7eccea]|RELEASE:[0.2.28|368ad60807161625aa65baad37a4a3af2a7eccea]
 m5stack/M5Unit-8Angle: BRANCHES:[main:8811e4898fdd5988a74fb93b1d6ddc4be264973a]|RELEASE:[none|none]
 m5stack/M5Unit-8Angle-Internal-FW: BRANCHES:[main:34b031c420eb4359f28833dfed9de187de7a69a9]|RELEASE:[none|none]
