@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-28 08:44
+commit-tracking: 2026-10-30 06:53
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[33333s/charge-protection:fd0abbce0f00320b5973522f8d01f15da9c2bf6d;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;main:f619e1fddd9faae1066f9f1519c73e10fe98b22d;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.79|f619e1fddd9faae1066f9f1519c73e10fe98b22d]
@@ -3358,7 +3358,7 @@ rime/plum: BRANCHES:[master:b1be1969f914cc005add4090631b855db00c2591]|RELEASE:[n
 rime/plum-windows-bootstrap: BRANCHES:[master:449dbbe98556f397f5f6c9d785924bfb58950186]|RELEASE:[none|none]
 rime/rime-array: BRANCHES:[master:557dbe38381de174fe96e53e9bf8c863a275307c]|RELEASE:[none|none]
 rime/rime-bopomofo: BRANCHES:[master:6085c9a38a4a728047862b33d67eee18aa86f3b9]|RELEASE:[none|none]
-rime/rime-cangjie: BRANCHES:[master:52d90a1b1312e74042b38c1cbc8142defbc53171;unicode10:7ccea77e1922a2f4cebaf896b4bd49afc3a7d1cd]|RELEASE:[none|none]
+rime/rime-cangjie: BRANCHES:[master:fcb3d7dd94ac1304663d575727d24d8107f6b082;unicode10:7ccea77e1922a2f4cebaf896b4bd49afc3a7d1cd]|RELEASE:[none|none]
 rime/rime-cantonese: BRANCHES:[main:259f0e48bba840c3a2e0d117539e96937f3d89bc;install:0920fcfb63f49eb7caca84ad0b92355d490f2b3e;quick:37976da80c9d73224845f969f02ea0de52e3c14e;predict:703c56b88e3180f7b9e09344338620271075366b;ci_fix:50519e1e4cc6e3e1857b2cad12d39ae3c10e49c5;master:ac277184f161f297c2031b497588975234019f9d;build:d2c0d27d9f3115fe1c78fcee4963a75ad85bba2b;essay-cantonese:6adb7421df1b21495232f83757979f4349657956;三拼:c41f3358fc9595df1941230feeda9f9108740201]|RELEASE:[latest|259f0e48bba840c3a2e0d117539e96937f3d89bc]
 rime/rime-combo-pinyin: BRANCHES:[master:25e07a1090ee2e9de59cd58a0b3b450dfa3bbc34]|RELEASE:[none|none]
 rime/rime-custom: BRANCHES:[master:9cb580f9e42fe27c72427a796d5ac0b720a790ea]|RELEASE:[none|none]
