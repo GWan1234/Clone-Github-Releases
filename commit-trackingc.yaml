@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 10:01
+commit-tracking: 2026-10-30 10:02
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -620,7 +620,7 @@ m5stack/M5Bala2: BRANCHES:[main:076b64387384e73bd5824e52ff0f4c8fb7ede5f9]|RELEAS
 m5stack/M5BurnerNVS: BRANCHES:[main:9ebaf6188b04bb74536f7c756f8c6899b33c7336]|RELEASE:[0.0.1|02bf5bacd69c042ff5c66a58e508932d6f28783c]
 m5stack/M5Capsule: BRANCHES:[master:56419187081c214feb066b46c21ba52fc8d7cdc0]|RELEASE:[1.0.1|9a91820dc5b52951eb12ce4fe99ff2238ef594f4]
 m5stack/M5Cardputer: BRANCHES:[master:bf64d3178ab43928fa02365fbe3937cec99716ad]|RELEASE:[1.2.0|2d4fa6646e4e5b47e0af96214b003aa7b15b8d81]
-m5stack/M5Cardputer-UserDemo: BRANCHES:[main:a34d7ebcd508fb903a2b1123be8c8b54abd55d07;CardputerADV:b549eac0a3c65bc108186c276b8fac0a214aaa4e]|RELEASE:[ADV-V0.3|452db44bbc692128cc3972963f00d3253e385b9f]
+m5stack/M5Cardputer-UserDemo: BRANCHES:[main:a08e12a45bc3f6c19b8726b5e0bd6352feb23a0e;CardputerADV:b549eac0a3c65bc108186c276b8fac0a214aaa4e]|RELEASE:[ADV-V0.3|452db44bbc692128cc3972963f00d3253e385b9f]
 m5stack/M5Chain: BRANCHES:[dev/Chain-4Relay:a63f476961773b57370d7bd15299614de2bf69ac;main:d021bae2e9145be94f355c53f8a84e1bd7fcce4d]|RELEASE:[1.0.10|5fe55cd13983ae931c32e14e02e07c7f633d68fc]
 m5stack/M5Chain-Captain-UserDemo: BRANCHES:[main:192d1fe17f766609080f055a4538417fba266b97]|RELEASE:[V0.2|192d1fe17f766609080f055a4538417fba266b97]
 m5stack/M5Chain-Series-Internal-FW: BRANCHES:[main:cbcd05472a06cfcddcd1e17144f877d9f5975ef3]|RELEASE:[none|none]
