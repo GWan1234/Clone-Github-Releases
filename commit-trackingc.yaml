@@ -716,7 +716,7 @@ m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45
 m5stack/M5Stack_TFT_ILI9341: BRANCHES:[m5stack-default:bcfc56a65ae060b76aa4b53038fa1825f0d475b3;m5stack:f7147ec9c9f9a5be24f3a1e0b4235f99301fe3cc;master:46dad5a0329de501e792a27a789597d445ffde9b]|RELEASE:[none|none]
 m5stack/M5StamPLC: BRANCHES:[main:aebe5711205618ec65e885d6e2d93c5c751c23ef;dev:1d30e61d4326f7ba3c2d9569d0c23aba33c798ad]|RELEASE:[1.2.1|b6f4294d3a69d9b1dd88728d2355faabc48f7212]
 m5stack/M5StamPLC-IO-Internal-FW: BRANCHES:[main:6b6044120fe89a07e2b6f4c8b7bb0861b63ddde0]|RELEASE:[none|none]
-m5stack/M5StamPLC-UserDemo: BRANCHES:[main:87def4f7889f1a76aa3b3898ef2f2b2a482bb4ff]|RELEASE:[none|none]
+m5stack/M5StamPLC-UserDemo: BRANCHES:[main:7fc748c3b18b7092cc482bce02c4495d3d9322e4]|RELEASE:[none|none]
 m5stack/M5Stamp-AddOn-Camera-UserDemo: BRANCHES:[main:6e7b82a587667b7d071e3695aebd6d055fb00067]|RELEASE:[none|none]
 m5stack/M5Stamp-TimerPower: BRANCHES:[main:e24ac77f643ebcf023bca5fc4065d5f307dbb249]|RELEASE:[none|none]
 m5stack/M5Stamp-UWB: BRANCHES:[main:e33e41b875f65ade9e9cc92c329e8e52570d3705;dev-setup:59f0826414899140a19e23c387e2f40cde800b24]|RELEASE:[v0.1.1|e33e41b875f65ade9e9cc92c329e8e52570d3705]
