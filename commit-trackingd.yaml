@@ -1619,7 +1619,7 @@ m5stack/M5Unit-KMeterISO-Internal-FW: BRANCHES:[main:dfb76fcffa2bf20290a2cfaefd3
 m5stack/M5Unit-LCD-Internal-FW: BRANCHES:[master:8c123afa3e9cc7dec0cc1d56c3ce469ba750a9d7]|RELEASE:[0.2|e58f4729eb5e6bd7bc910aeb4a261ddb8eddd308]
 m5stack/M5Unit-LIGHT: BRANCHES:[gh-pages:b4de7a0842b20776e711850a0b9d1704016ececa;main:6d734f01610c3a4564833d5a459fce465097ef8f;develop:41eb4c2ec98534a26ffbe61cd61daa333922fabb]|RELEASE:[0.0.2|6d734f01610c3a4564833d5a459fce465097ef8f]
 m5stack/M5Unit-METER: BRANCHES:[main:beb6bd90a0f164790dfccbc200834140820d262b;gh-pages:9427473ce394a1c827ad6eb489bca4a98c027c8c;develop:d5d4fa2eae68bc7c5715765ffb44bae6878acd07]|RELEASE:[0.4.1|5bdc3fef6c4808491627e13e7577f3234edb1b6f]
-m5stack/M5Unit-MQ: BRANCHES:[main:1d961cb120deb6342df9d643c62e45d969ffcf93]|RELEASE:[1.0.0|1d961cb120deb6342df9d643c62e45d969ffcf93]
+m5stack/M5Unit-MQ: BRANCHES:[main:97dc4378f31ba69c44f267e38767a25994ecb9e6]|RELEASE:[1.0.0|1d961cb120deb6342df9d643c62e45d969ffcf93]
 m5stack/M5Unit-MQ-Internal-FW: BRANCHES:[main:57593628b95af88a2de1c6323418e0187666d0b3]|RELEASE:[none|none]
 m5stack/M5Unit-MQTT: BRANCHES:[master:edcaaf26306beb57b71eb3b8044d852bd24c5e68]|RELEASE:[0.0.1|3bf64e3a5dd61feb2031bcc3c8648fcf58949635]
 m5stack/M5Unit-MiniEncoderC-Internal-FW: BRANCHES:[main:dde51426a27a9dbf3da003fde90aeb8a2dc53bfe]|RELEASE:[none|none]
