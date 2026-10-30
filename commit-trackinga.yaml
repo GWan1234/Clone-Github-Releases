@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 05:40
+commit-tracking: 2026-10-30 05:41
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -614,7 +614,7 @@ HomeSpan/RemoteTV_SAMSUNG: BRANCHES:[main:191830e979362e6c443c8c3558afedc3b87ba7
 HomeSpan/RemoteTV_Sony: BRANCHES:[main:420ca05ed82cd80eafd5dc1e30256d5539f81725]|RELEASE:[none|none]
 HomeSpan/SomfyPlus: BRANCHES:[main:f2165cbb1145389f30bbd1d31f9d189a34b612ef]|RELEASE:[2.2.0|f2165cbb1145389f30bbd1d31f9d189a34b612ef]
 HomeSpan/SomfyRTS: BRANCHES:[main:0e6892e642344570fcc124fe49276aa10f5a8231;development:1b5f556d052aaa8e4963f85e3f490953532d286e]|RELEASE:[1.0.1|e3d77ea514cb6e10275a3b121fd8ea2ca68bb877]
-HomeSpan/SpanCast: BRANCHES:[main:12d5c2949e8ee3233f025cdd180f3a8cba0e52a5]|RELEASE:[none|none]
+HomeSpan/SpanCast: BRANCHES:[main:46f9bafe412ca39ec6a82067adca55a9bcb15448]|RELEASE:[none|none]
 HomeSpan/SpanPointLightSwitch: BRANCHES:[main:42518a04f4c97675d3d5bc94dc7299e2b1ed75df]|RELEASE:[none|none]
 HomeSpan/TempSensorI2C: BRANCHES:[main:9ac6ae43197250ab61dde8ad97723c39298c6a91]|RELEASE:[none|none]
 HomeSpan/ZephyrVentHood: BRANCHES:[master:c3b38c79202300561a88210bd6b55e9fb21d2213]|RELEASE:[1.0.1|6f36ce76ba207bcad83a7ee668bfb6ee82459bfe]
