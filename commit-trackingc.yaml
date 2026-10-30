@@ -666,7 +666,7 @@ m5stack/M5IOE1: BRANCHES:[main:846eec7d05e25c09013be2acdb8804487f48a62e;develop:
 m5stack/M5Module-2Relay-13.2: BRANCHES:[main:8af0eddb02264bfc3dd4ed93640eab19cbec27ca]|RELEASE:[0.0.2|a1091a8a16f8786f3624f101077a70c67b63d8e0]
 m5stack/M5Module-4-20mA: BRANCHES:[main:fc17bc5f8f1a6403db7972713ce0968150954a49]|RELEASE:[none|none]
 m5stack/M5Module-4-20mA-Internal-FW: BRANCHES:[main:e8d381ed15413f2ae1585b3f7c1cadcd9c9f4c1c]|RELEASE:[none|none]
-m5stack/M5Module-4EncoderMotor: BRANCHES:[main:9721dad321238e2ddef533faa55db8f3d2de66c3]|RELEASE:[1.0.0|89ee0591b4725777ceb1d934c6676274075af971]
+m5stack/M5Module-4EncoderMotor: BRANCHES:[main:045b1b8f9ebdfb5fccb08c75460e05a5858ca174]|RELEASE:[1.0.0|89ee0591b4725777ceb1d934c6676274075af971]
 m5stack/M5Module-4EncoderMotor-Internal-FW: BRANCHES:[main:aece2c9aaf1c23a5389ccdc7546fbbbfec0c0ad4;V1.0:b645454045368940b48d8936d24e2032beca5ebe]|RELEASE:[none|none]
 m5stack/M5Module-4IN8OUT: BRANCHES:[main:3ab6700c983d3765d43221dfae17e785e88a7a0f]|RELEASE:[0.1.0|f50345ae91af25ad53a5259284486ea38f2df39a]
 m5stack/M5Module-4Relay: BRANCHES:[main:02f9b3adbc8f4f47a48ec0f4440529846695ebc7]|RELEASE:[0.0.1|a20cf8b9e2390da3e85252bf4cce904e1a047008]
