@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 09:59
+commit-tracking: 2026-10-30 10:00
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -711,7 +711,7 @@ m5stack/M5Stack-Firmware: BRANCHES:[master:5e71c3eefedbeaf9d99557fdb3e2fb0468f85
 m5stack/M5Stack-IDF: BRANCHES:[master:9b803b4adede63f70722a42b1b6297b2bc63ae60]|RELEASE:[none|none]
 m5stack/M5Stack-nesemu: BRANCHES:[master:7f678897edcf7f83168129d79bbd4b4807a67131]|RELEASE:[none|none]
 m5stack/M5Stack-platformio: BRANCHES:[master:bbbb7888507733f60a382ef6c8f3d4e154601a0c]|RELEASE:[none|none]
-m5stack/M5Stack_Linux_Libs: BRANCHES:[UserDemo:730634b0fec605c2087836fd35b37d3cf21b1a4c;stackflow:4f67cfac9aacffcbe9d93923e3a552e094cbbed4;master:8c412407623badbc24ed710b55f7a80b6a8d2fb3;tool-env:2e0d470861b29964bd8c5d818aae2f4acdc26563;dev:b26110f90e50d97c176321c0c817e1956edd4c2b]|RELEASE:[none|none]
+m5stack/M5Stack_Linux_Libs: BRANCHES:[master:597d5998fb83aad0b8d7d31f7269dbed969a94bf;UserDemo:730634b0fec605c2087836fd35b37d3cf21b1a4c;stackflow:4f67cfac9aacffcbe9d93923e3a552e094cbbed4;tool-env:2e0d470861b29964bd8c5d818aae2f4acdc26563;dev:b26110f90e50d97c176321c0c817e1956edd4c2b]|RELEASE:[none|none]
 m5stack/M5Stack_MicroPython: BRANCHES:[master:1954d8496da40beb20ccface127a2fcc45e09e4e;StickC:3b99bc8d619c3ae278f2828d2510ef4bf82dd203;m5stack:2fa5830dd6cecdf027b54c5928f59973230bccfd]|RELEASE:[none|none]
 m5stack/M5Stack_TFT_ILI9341: BRANCHES:[m5stack-default:bcfc56a65ae060b76aa4b53038fa1825f0d475b3;m5stack:f7147ec9c9f9a5be24f3a1e0b4235f99301fe3cc;master:46dad5a0329de501e792a27a789597d445ffde9b]|RELEASE:[none|none]
 m5stack/M5StamPLC: BRANCHES:[main:76e1ab5a02b1968bfe6a5d774034e105fc7d7ad7;dev:1d30e61d4326f7ba3c2d9569d0c23aba33c798ad]|RELEASE:[1.2.1|b6f4294d3a69d9b1dd88728d2355faabc48f7212]
