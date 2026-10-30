@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 10:18
+commit-tracking: 2026-10-30 10:19
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -704,7 +704,7 @@ m5stack/M5PaperS3-UserDemo: BRANCHES:[main:39d020e90f7a141c4cc56da0d340691cca21d
 m5stack/M5Paper_FactoryTest: BRANCHES:[main:56c427d10c2b65ce13c1ffb935256f6e42717744]|RELEASE:[none|none]
 m5stack/M5PoECAM: BRANCHES:[master:d9b08c6363084add434dfb211a0e56d0fdcd70a4]|RELEASE:[1.0.1|a0cb0c56e43f7c5cb924cca8d38d3a036d0b4962]
 m5stack/M5PowerHub-Internal-FW: BRANCHES:[main:20549b652c84e72121ccbf2b41738246f8feb1e6]|RELEASE:[none|none]
-m5stack/M5PowerHub-UserDemo: BRANCHES:[main:64b117cadc496df4e395fc43619e52911311ac06]|RELEASE:[none|none]
+m5stack/M5PowerHub-UserDemo: BRANCHES:[main:b85316bd10e3ab676371f5af24bdef5f8c00d309]|RELEASE:[none|none]
 m5stack/M5Stack: BRANCHES:[master:e4e05109297c193559562b62ee4b5f276bc19b01;m5stack-fire:0e183a93ca61d95233104702115428c4f47a0080;update_eSPI:7e863fb9934bcb25f15afa720e9299b8a8e9a8fd]|RELEASE:[0.4.6|ef6fbd4164f8c647f5fab947c17771f7d88760ae]
 m5stack/M5Stack-Camera: BRANCHES:[master:7be1a13123ef8bb35143eb0b71542b64a3c6e4fb]|RELEASE:[none|none]
 m5stack/M5Stack-Firmware: BRANCHES:[master:5e71c3eefedbeaf9d99557fdb3e2fb0468f8582d]|RELEASE:[none|none]
