@@ -657,7 +657,7 @@ m5stack/M5Hat-18650C: BRANCHES:[main:e3f39c1e9fbcc2570b90af6084ae63e5ce78c044]|R
 m5stack/M5Hat-8Servos: BRANCHES:[master:e43a3e2db55e7713da3ab2ad13774ac140488a56]|RELEASE:[0.0.2|fafbe703e065f5527c2da5f71727d03a9d584104]
 m5stack/M5Hat-BugC: BRANCHES:[main:ab5b5be5bf65686f515ee6a4c66369106e7290cb;gh-pages:de35cc8144415cba6dd147b5a3d500b8db4861a4]|RELEASE:[none|none]
 m5stack/M5Hat-BugC-Internal-FW: BRANCHES:[main:ff09577d4b03d603e053b2e1d0a6a568c485dc94]|RELEASE:[none|none]
-m5stack/M5Hat-CBack-Driver: BRANCHES:[main:9a7c3e0e561ea7769e3e2ca9211206ee5f589821]|RELEASE:[none|none]
+m5stack/M5Hat-CBack-Driver: BRANCHES:[main:f5365956ccbace8b9c549bc5069372e85589ea37]|RELEASE:[none|none]
 m5stack/M5Hat-JoyC: BRANCHES:[master:4368e52bddfaaecdd196a6eb5c64eaffa2b09918]|RELEASE:[0.0.1|3eccb38006add7dd9f45aff0e85292c46ce535f2]
 m5stack/M5Hat-Mini-EncoderC: BRANCHES:[main:38b0dd94b86c5c3e93978458515a8279d60d2ee6]|RELEASE:[0.0.1|b0443d4d785d562e696fe8bf1b343196e052b535]
 m5stack/M5Hat-Mini-JoyC: BRANCHES:[main:36cc777c37492f55df6abc2a41e03fdffa27999c]|RELEASE:[0.0.1|302a29f0a23a54dff054ee2ba0ca9c3ebb7c3ce9]
