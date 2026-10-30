@@ -1699,7 +1699,7 @@ m5stack/TinyGPSPlus: BRANCHES:[master:254a10041ac38d17d98dab24c0ae4d2a8d19a677]|
 m5stack/TinyGSM: BRANCHES:[master:d4f843c4490a40a810c5cd58325f239b5f3220b1]|RELEASE:[v0.12.0-patch-1|13378a60ad0fa8924639364452bb2c7278306ac1]
 m5stack/UIFlowLessons: BRANCHES:[main:236678fd653a7dc62c15e110be38b6e42fa1eb29]|RELEASE:[none|none]
 m5stack/UNITV_TRAIN: BRANCHES:[master:c44d7b4c9c669600d3a02afc83df084f149567cb]|RELEASE:[none|none]
-m5stack/Unit8Servo-Internal-FW: BRANCHES:[main:5dc9413015a999be76e4b8aff8544fd4f1ec3d5c]|RELEASE:[none|none]
+m5stack/Unit8Servo-Internal-FW: BRANCHES:[main:387f5b17b7ec1df44fff91a6b70bb8351e061a74]|RELEASE:[none|none]
 m5stack/UnitCamS3-UserDemo: BRANCHES:[unitcams3-5mp:50410249ece3f92f414a222c859dd48d5958fd97;main:27ed5f618ea3283fac890337b5879c28f80ef823;dev:6f69565b4556aca5173e073f24b6ba5e42c084da]|RELEASE:[v0.3|3e1f192b0eac65051f664692499fc629c2368068]
 m5stack/UnitV2Framework: BRANCHES:[main:0e48be653d90f0b0fe87a7824feb611aedcfa7e3]|RELEASE:[none|none]
 m5stack/VAMeter-Firmware: BRANCHES:[main:2351b8404e32569f172929dffbc44b36606373de]|RELEASE:[1.1.3|8ff2200a8cc41a2f5fc553b03e19ba59762479fd]
