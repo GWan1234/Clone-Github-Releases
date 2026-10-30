@@ -1539,6 +1539,7 @@ m5stack/M5StamPLC: BRANCHES:[main:aebe5711205618ec65e885d6e2d93c5c751c23ef;dev:1
 m5stack/M5StamPLC-IO-Internal-FW: BRANCHES:[main:6fe10b737f2f6a9f5d93341b147fb19ef6ce6ebe]|RELEASE:[none|none]
 m5stack/M5StamPLC-UserDemo: BRANCHES:[main:7fc748c3b18b7092cc482bce02c4495d3d9322e4]|RELEASE:[none|none]
 m5stack/M5Stamp-AddOn-Camera-UserDemo: BRANCHES:[main:1ed22cf67edcd48c09c1957ff169623c9448317a]|RELEASE:[none|none]
+m5stack/M5Stamp-Timer-Power2-UserDemo: BRANCHES:[main:e921d853bf93911fcb09ca08d32e4a64af687d31]|RELEASE:[v0.1.0|beeeadfe31f5174dae1d5c7785fb8e4c0b24277a]
 m5stack/M5Stamp-TimerPower: BRANCHES:[main:e24ac77f643ebcf023bca5fc4065d5f307dbb249]|RELEASE:[none|none]
 m5stack/M5Stamp-UWB: BRANCHES:[main:9e1f8867d4400059f27b75dfda4c12e1a910fc1e;dev-setup:59f0826414899140a19e23c387e2f40cde800b24]|RELEASE:[v0.1.1|e33e41b875f65ade9e9cc92c329e8e52570d3705]
 m5stack/M5StampFly: BRANCHES:[main:2b96752c72c465c63b260996046c71c7675f81b2]|RELEASE:[V1.1.0|78ae96fc47dc28097b89ff5d88ce4d00b6f8f9bc]
