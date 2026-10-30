@@ -678,7 +678,7 @@ m5stack/M5Module-DMX512: BRANCHES:[master:5b209bfb589f5ac498dc299b072b27111cd0ce
 m5stack/M5Module-Display-13.2: BRANCHES:[main:fe1ccacf3d4b014d77db601aa67f40cf6f5a0adf]|RELEASE:[none|none]
 m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:5f31185e7e8855dded4d7b5bf15950ca2ae3b78e]|RELEASE:[none|none]
 m5stack/M5Module-DualKmeter-13.2-Internal-FW: BRANCHES:[main:1ad6c1233f1b69922acad13c5d7f4c79870530ff]|RELEASE:[none|none]
-m5stack/M5Module-Fan: BRANCHES:[main:5436f97647fa9ebf80074f0d479e52c30103edba]|RELEASE:[none|none]
+m5stack/M5Module-Fan: BRANCHES:[main:9b2772549c4782bffc22ede20fd6a823260b2da4]|RELEASE:[none|none]
 m5stack/M5Module-Fan-Internal-FW: BRANCHES:[main:1d2693c65f12812571b51994d612ddd3103974da]|RELEASE:[none|none]
 m5stack/M5Module-GNSS: BRANCHES:[main:2af3894e2c73fb742eb3df1f29b6f0faf9bbf0a6]|RELEASE:[1.0.3|5c58234855eca6832d59bff04114cbd6cbb85d5f]
 m5stack/M5Module-GRBL-13.2: BRANCHES:[master:9321963c0a18856e60d78092b511cc63a5f8e613]|RELEASE:[0.0.2|dc662d0d0ff8dfb007118129e20497c477012857]
