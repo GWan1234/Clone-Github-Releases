@@ -810,7 +810,7 @@ m5stack/M5Unit-NCIR2-Internal-FW: BRANCHES:[main:4e31245a2b8e75c5e488dbbdcf4d129
 m5stack/M5Unit-NFC: BRANCHES:[main:471a6e02e8052264d39b3ac97005ce4de9d1cb91;develop:7af9964de545d52a45f702db4b9ab6a641ad2d23;feature/adapter-injection:0a8cd82585901f64fba4b5cec1cbe92c1afe186e;gh-pages:60f0761a55b789ce5fcb78d18ec979b19e313b77;feature/esp-idf-native-support:7e3ba6f9141ea3ba4e77a4fcc8d1afc49cb5d904]|RELEASE:[0.1.2|63c4caac1a07018ef73027e4b098d4fefe56c6f6]
 m5stack/M5Unit-PbHub: BRANCHES:[main:858e7ff8352a5bd9affcd99b4245dc7e62cc1680]|RELEASE:[1.0.0|66d3aa8c2c40d6d5888a3a062249b2df1cb33873]
 m5stack/M5Unit-PbHub-Internal-FW: BRANCHES:[main:aa3bbc64c9f445f22662743a47cc439f3837cc85]|RELEASE:[none|none]
-m5stack/M5Unit-PoE-P4-UserDemo: BRANCHES:[main:063c541efef142e2144be7c9b6b4ed44945142cd]|RELEASE:[none|none]
+m5stack/M5Unit-PoE-P4-UserDemo: BRANCHES:[dev/kconfig-p4-p4x:d233d11c09b35423fb9cc3ca2a1e61dccf1241ad;main:2840dceb6d3c6d9e51b82fff3df4bb1bf22d463c]|RELEASE:[none|none]
 m5stack/M5Unit-PoESP32: BRANCHES:[master:8f072febea40d184d884c76d2d2a9cfc967dd5e7]|RELEASE:[0.0.2|e5640a1c8f0c9081d235d540d1473acf5218720c]
 m5stack/M5Unit-QRCode: BRANCHES:[main:249fe43fcc260a201ee99e1b6527a63afbfa5981]|RELEASE:[1.0.0|82a407c3d447a1c7de3711b38c033ac528a24f44]
 m5stack/M5Unit-QRCode-Internal-FW: BRANCHES:[main:a0052af96624ca6ec692423d749fea15870beb41]|RELEASE:[none|none]
