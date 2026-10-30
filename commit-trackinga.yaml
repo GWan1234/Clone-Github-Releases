@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 05:36
+commit-tracking: 2026-10-30 05:37
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2512,7 +2512,7 @@ thelastoutpostworkshop/esp32AdvancedStarWarsTacticalDisplay: BRANCHES:[main:7386
 thelastoutpostworkshop/esp32_task_demo: BRANCHES:[main:51c6a757a8d456d96146f4910b7464e95009e05c]|RELEASE:[none|none]
 thelastoutpostworkshop/firmware-releases: BRANCHES:[main:f05bd562020121900acc75e6f41339e9d51835bb]|RELEASE:[v1.0.0|f05bd562020121900acc75e6f41339e9d51835bb]
 thelastoutpostworkshop/gif_image_processing: BRANCHES:[main:512a57feebe0647963f4ca002bf5d71f82739bbd]|RELEASE:[none|none]
-thelastoutpostworkshop/gpio_viewer: BRANCHES:[main:555e1b0f69a87d80c19ade44a62d7fe382001149]|RELEASE:[v1.7.1|4ab87f11e85244a45ef052b6a9f3cdeb1d440d10]
+thelastoutpostworkshop/gpio_viewer: BRANCHES:[main:8383001f7451239240603f796a1299fe8f051f82]|RELEASE:[v1.7.1|4ab87f11e85244a45ef052b6a9f3cdeb1d440d10]
 thelastoutpostworkshop/images: BRANCHES:[main:2db3a5bc11654ffe3f74d93427e6e7071bf95088]|RELEASE:[none|none]
 thelastoutpostworkshop/led_task: BRANCHES:[main:b81da717ece1206d5aa58efa27322b6b29763928]|RELEASE:[none|none]
 thelastoutpostworkshop/library-registry: BRANCHES:[patch-3:f1082562a1ce2947461f040d5b738adf6a2d6719;main:dcd1051d24ef36a7d06fbbc30b9c8983a43e2ae0;patch-2:f49bd57f7d6b35b4bde27b71e11542c8a6b16680;patch-1:a4aae801850ffb9b50765a3fbc8852805019ba7d;production:d5be92acaef48b840573acc5d5ca10fac1f8f4c7]|RELEASE:[none|none]
