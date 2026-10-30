@@ -756,7 +756,7 @@ m5stack/M5Unit-AudioPlayer: BRANCHES:[main:fa6935b154b7f84291487e9ba8f1d527d1e7f
 m5stack/M5Unit-BLDC: BRANCHES:[master:f684d41e0e3347fdb7e610665c810d110ab509aa]|RELEASE:[1.0.0|acb960d724072a9e2b42fb33049ba1ae88747689]
 m5stack/M5Unit-BLDC-Driver-Internal-FW: BRANCHES:[main:5b34f579bec63a1f1f814712dd09486df09a86f6]|RELEASE:[none|none]
 m5stack/M5Unit-ByteButton: BRANCHES:[main:05d062943efb0165c30a19b717dba527624895c5]|RELEASE:[none|none]
-m5stack/M5Unit-ByteButton-Internal-FW: BRANCHES:[main:3f96f642d8d740e1ad63f15adfe92de7d2a49164]|RELEASE:[none|none]
+m5stack/M5Unit-ByteButton-Internal-FW: BRANCHES:[main:0ad1bc9bd5b5990a4e23c50c85b074bd93c30337]|RELEASE:[none|none]
 m5stack/M5Unit-ByteSwitch-Internal-FW: BRANCHES:[main:ecc1b0c1dd710882a27c24f0264832bb2fb3648d]|RELEASE:[none|none]
 m5stack/M5Unit-CAN: BRANCHES:[main:7fb3bbc12d82ebdd100bfd63981c453f5a9aa339]|RELEASE:[1.0.0|4656a2adc0d586f3904a96b34334ce6fd5b0b0ad]
 m5stack/M5Unit-COLOR: BRANCHES:[gh-pages:2a3c59d7ce739c21b7b85062c0a7f4487ceb3397;main:d6fe6e179ad4266fb603398f4c44927ff4517b0a;develop:22dfbb26dc8cd33596929755041230e049dd34aa]|RELEASE:[0.2.0|d6fe6e179ad4266fb603398f4c44927ff4517b0a]
