@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:56
+commit-tracking: 2026-10-30 11:57
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1736,7 +1736,7 @@ m5stack/m5-hzk16: BRANCHES:[master:386e2ff3b9cd14208900081c44f17ec9a0053ffe]|REL
 m5stack/m5-network: BRANCHES:[master:fd65f588abb234ced8a0eba65995ca80f780dd08]|RELEASE:[none|none]
 m5stack/m5go_wheel: BRANCHES:[master:6f3de2b0ec4c306c594bed99a2758ec8bc06479a]|RELEASE:[none|none]
 m5stack/m5stack-board-id: BRANCHES:[main:4a2e74744aae9a2d539e931d6e11624f92706220;feature/stamp-c5/c6/s3-mini:b1beb5aaa0a405680d075e2f9c9037fe01bc8342]|RELEASE:[none|none]
-m5stack/m5stack-chain-id: BRANCHES:[main:f544b4330f950f917762de622d4be475ed6c033b]|RELEASE:[none|none]
+m5stack/m5stack-chain-id: BRANCHES:[main:7e0044383dae504fdfe9d7d86cbdbb3a98c6e1cf]|RELEASE:[none|none]
 m5stack/m5stack-linux-dtoverlays: BRANCHES:[main:37b42d9451495b5597dd7e50cab502da8028f9c2;cpQ:569b249944b8f8cbec749701bbff981f910a0062;bq27220:47b0aefdc8e36c2ecf985697e93f581d7f63b907;test:de8608eebf1bd8e9226ddaf5e4947cb69d0fd80d;imu-test:201f7a05a6430b4c65846055a8a582e96a981eab;dev-test:41ff7f40b738d58d58a504edeed729e41241cfa4;example_dev:3c004d4edbdfff784ab1d56f9aec12fad4c7ba9e]|RELEASE:[none|none]
 m5stack/m5stack_devkit: BRANCHES:[master:6230376ca0bdaf725414875a22db6146246f8e13]|RELEASE:[none|none]
 m5stack/meshtastic-device-ui: BRANCHES:[feat-m5tab5-support:91ebfb21939fa81cdcdc9e3ee556306ba4591424;master:63967a4a557d33d56fc5746f9128200dde2d88c5]|RELEASE:[none|none]
