@@ -1675,7 +1675,7 @@ m5stack/M5_EzData: BRANCHES:[master:bffdb38c4bae18c26dc900a716d27aea8ac20513]|RE
 m5stack/M5_Hardware: BRANCHES:[master:3070aec8bbdc68c3639f8383ce4ddb0f37e010b5]|RELEASE:[none|none]
 m5stack/M5_SIM7080G: BRANCHES:[master:9bc4e7d77f1d8bba62da06cbad1c1c42b65f9cbd]|RELEASE:[none|none]
 m5stack/M5_WirelessT: BRANCHES:[master:8852e2fc412986c67fd7d0f7c81f84aa91679917]|RELEASE:[none|none]
-m5stack/MPU6886-idf: BRANCHES:[main:636fb7e6c40796222e765b09e298d7f27ed0f4ad]|RELEASE:[none|none]
+m5stack/MPU6886-idf: BRANCHES:[main:58ca0dae622ffb1f4b8778158ea4e3c5875d1ff7]|RELEASE:[none|none]
 m5stack/MagicWand: BRANCHES:[master:5672693e9bb8cff8d2f8c54bed0e330f813b91eb]|RELEASE:[none|none]
 m5stack/MakerFaire-Robort: BRANCHES:[master:191cdebb09a81adfd05d252a2cf0dd2c8b53e5f7]|RELEASE:[none|none]
 m5stack/MicroPythonOS: BRANCHES:[main:7499ba87dc4858650247ac784e0904805b3777a2]|RELEASE:[none|none]
