@@ -855,7 +855,7 @@ m5stack/M5_Hardware: BRANCHES:[master:e29c139cbc7c80b5ccc5557e5ab8025a7a19a109]|
 m5stack/M5_SIM7080G: BRANCHES:[master:990bab1611c11dfd6049bd50c6cf5177625f1e5c]|RELEASE:[none|none]
 m5stack/M5_WirelessT: BRANCHES:[master:8852e2fc412986c67fd7d0f7c81f84aa91679917]|RELEASE:[none|none]
 m5stack/MPU6886-idf: BRANCHES:[main:636fb7e6c40796222e765b09e298d7f27ed0f4ad]|RELEASE:[none|none]
-m5stack/MagicWand: BRANCHES:[master:3e1f4b62a41e8f9bdbacd68627cabc6780f4093c]|RELEASE:[none|none]
+m5stack/MagicWand: BRANCHES:[master:5672693e9bb8cff8d2f8c54bed0e330f813b91eb]|RELEASE:[none|none]
 m5stack/MakerFaire-Robort: BRANCHES:[master:191cdebb09a81adfd05d252a2cf0dd2c8b53e5f7]|RELEASE:[none|none]
 m5stack/MicroPythonOS: BRANCHES:[main:7499ba87dc4858650247ac784e0904805b3777a2]|RELEASE:[none|none]
 m5stack/ModuleLLM-OpenAI-Plugin: BRANCHES:[dev:a9fc6c8c02c2fd74b295c99e0b1195cfed58ffdf;master:5f71dc2f2d986b8b712885c561a4a79cc5346b41;axcl:0ebfd3f968c933a7c3486206ffdcacecf44251ba]|RELEASE:[none|none]
