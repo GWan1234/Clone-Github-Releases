@@ -1435,7 +1435,7 @@ m5stack/M5AtomS3: BRANCHES:[main:8accfe68d45ac8b31580e3067a0ecedfbf2d49c7]|RELEA
 m5stack/M5AtomS3-UserDemo: BRANCHES:[main:8eaf37b3ccf9a8d7c4bf4c2dea0e7925ede6328d;atoms3r:36d5ca8981a9fd49ac59a5c77a1dc346149381eb]|RELEASE:[none|none]
 m5stack/M5AtomU: BRANCHES:[master:dd633a6d597f1c963a530fc6e3491466954d83ef]|RELEASE:[none|none]
 m5stack/M5Atomic-EchoBase: BRANCHES:[main:bf4b610495c5499ecece46a23f6fd446de19284a]|RELEASE:[1.0.2|bf4b610495c5499ecece46a23f6fd446de19284a]
-m5stack/M5Atomic-Motion: BRANCHES:[master:6a6e95013e2aaf93c468cc60879ed81cb9006503]|RELEASE:[1.0.0|f05fdf8a74c27e45ff9fa05aa930b7536a7c80b6]
+m5stack/M5Atomic-Motion: BRANCHES:[master:63c7c70a749860c35467983387fb81ba2a11ebaf]|RELEASE:[1.0.0|f05fdf8a74c27e45ff9fa05aa930b7536a7c80b6]
 m5stack/M5Bala: BRANCHES:[master:67e66e484fafc6ff26e4637ee817dfbb79c53f2b]|RELEASE:[none|none]
 m5stack/M5Bala2: BRANCHES:[main:076b64387384e73bd5824e52ff0f4c8fb7ede5f9]|RELEASE:[none|none]
 m5stack/M5BurnerNVS: BRANCHES:[main:9ebaf6188b04bb74536f7c756f8c6899b33c7336]|RELEASE:[0.0.1|02bf5bacd69c042ff5c66a58e508932d6f28783c]
