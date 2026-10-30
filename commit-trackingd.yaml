@@ -1522,7 +1522,7 @@ m5stack/M5PaperMono-OTP-Demo: BRANCHES:[main:c7c02554f89fd06f80d988b805b2a59050c
 m5stack/M5PaperMono-PowerDemo: BRANCHES:[main:cf4f57c638aa3ad0168bf90beebdaa3599203bb2]|RELEASE:[none|none]
 m5stack/M5PaperMono-UserDemo: BRANCHES:[main:e55877dc04b89e13a8519cee5435dc326499e1ca]|RELEASE:[none|none]
 m5stack/M5PaperS3-UserDemo: BRANCHES:[main:5e275ad4b70abb85f7193fda137844730e64c4db]|RELEASE:[V0.5|5e275ad4b70abb85f7193fda137844730e64c4db]
-m5stack/M5Paper_FactoryTest: BRANCHES:[main:277b398b781ddcc3bfc2707e79240c6ab3be00df]|RELEASE:[none|none]
+m5stack/M5Paper_FactoryTest: BRANCHES:[main:56c427d10c2b65ce13c1ffb935256f6e42717744]|RELEASE:[none|none]
 m5stack/M5PoECAM: BRANCHES:[master:7e47b7cbaef108e3fbc76299ef32b15fd06a66f2]|RELEASE:[1.0.1|a0cb0c56e43f7c5cb924cca8d38d3a036d0b4962]
 m5stack/M5PowerHub-Internal-FW: BRANCHES:[main:8673a4762f175f802398220edcab0435b8809b2a]|RELEASE:[none|none]
 m5stack/M5PowerHub-UserDemo: BRANCHES:[main:64b117cadc496df4e395fc43619e52911311ac06]|RELEASE:[none|none]
