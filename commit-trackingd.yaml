@@ -1683,7 +1683,7 @@ m5stack/ModuleLLM-OpenAI-Plugin: BRANCHES:[dev:a9fc6c8c02c2fd74b295c99e0b1195cfe
 m5stack/Neopixel_board: BRANCHES:[master:4d4cb5dc746de7f7a64ec8e8d1200e94b239fead]|RELEASE:[none|none]
 m5stack/Other_Examples-Core2_for_AWS: BRANCHES:[main:d3aec7230414882d57cee8071f1869b0c07d7af5]|RELEASE:[none|none]
 m5stack/PoE-CAM-UserDemo: BRANCHES:[master:42b6c13cfe6bd7109d52b4d410bd5da247e1e9e0]|RELEASE:[none|none]
-m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:bd3bc489ec3d2049e30d056b814a75575fc9d099]|RELEASE:[none|none]
+m5stack/Project_Template-Core2_for_AWS: BRANCHES:[main:2c77f57d1cfb9deaeb84fd0ed9d2da6736aed2da]|RELEASE:[none|none]
 m5stack/RadioLib: BRANCHES:[master:e0fc757dc009a0e3ad557189fa5faee1147dce19]|RELEASE:[none|none]
 m5stack/STAMP-C3: BRANCHES:[master:148c263fddcb7b61fef20b0cf6de8ab8c3475f73]|RELEASE:[none|none]
 m5stack/STAMP-PICO: BRANCHES:[master:90e28e6e2f325ae9d4c5785a15e5e06c092b15f1]|RELEASE:[0.0.2|a9e9209e1ae8e2f1d94b72dc86c0d9293f988b0c]
