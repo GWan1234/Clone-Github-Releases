@@ -653,7 +653,7 @@ m5stack/M5GFX: BRANCHES:[develop:ffd10d52334dc80a1e2a70430555ab635cf8c8c3;master
 m5stack/M5GO: BRANCHES:[master:084e878dfdeabe3de883809db79bfb94b3a067b4]|RELEASE:[none|none]
 m5stack/M5GO_Azure_pnp: BRANCHES:[master:842825d18bbfb0fcf22d562a81cfa68cb91cc8dd]|RELEASE:[none|none]
 m5stack/M5HAL: BRANCHES:[main:e3a84320f21bb48062f8101301020e946182a71d;develop:3e23d74bab878b833098675f1e92786821f7a517;feature/esp-idf-native-support:ef283159844fcd6daa6710a7cb8f9d9d45607859]|RELEASE:[0.1.4|c2bfcb2a7534b9af07e199f29d255ef38fb3885c]
-m5stack/M5Hat-18650C: BRANCHES:[main:e3f39c1e9fbcc2570b90af6084ae63e5ce78c044]|RELEASE:[V0.0.1|e3f39c1e9fbcc2570b90af6084ae63e5ce78c044]
+m5stack/M5Hat-18650C: BRANCHES:[main:69be00edfa06e3e86a85c0cc3046c186fc500fa2]|RELEASE:[V0.0.1|e3f39c1e9fbcc2570b90af6084ae63e5ce78c044]
 m5stack/M5Hat-8Servos: BRANCHES:[master:e43a3e2db55e7713da3ab2ad13774ac140488a56]|RELEASE:[0.0.2|fafbe703e065f5527c2da5f71727d03a9d584104]
 m5stack/M5Hat-BugC: BRANCHES:[main:ab5b5be5bf65686f515ee6a4c66369106e7290cb;gh-pages:de35cc8144415cba6dd147b5a3d500b8db4861a4]|RELEASE:[none|none]
 m5stack/M5Hat-BugC-Internal-FW: BRANCHES:[main:ff09577d4b03d603e053b2e1d0a6a568c485dc94]|RELEASE:[none|none]
