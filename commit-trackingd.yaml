@@ -1658,7 +1658,7 @@ m5stack/M5Unit-TOF: BRANCHES:[main:e70e92d6ecbb6d727b222c85e72a04d7e388f5dd;gh-p
 m5stack/M5Unit-TUBE: BRANCHES:[gh-pages:36606843c095624c246e56ae0037d6be5aec156a;main:76046f0c8b93c636b30cb4896a50cb4352e7cf36;develop:3560b27ad8e41e695d7281663ada26fc4f2533fd]|RELEASE:[0.1.0|76046f0c8b93c636b30cb4896a50cb4352e7cf36]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:c3e7b86b96019a74d67f2d85acddf9f7fc130b64]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
 m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:496530d6a913a9bb04e246b8f040a0cfc87207a9]|RELEASE:[none|none]
-m5stack/M5Unit-TimerPWR: BRANCHES:[main:94e0089de4e07d68a0b6710228109cebead2a7f4]|RELEASE:[none|none]
+m5stack/M5Unit-TimerPWR: BRANCHES:[main:b9ed9b020f5dc6f299ea8aed22649d17e244d2c2]|RELEASE:[none|none]
 m5stack/M5Unit-TimerPWR-Internal-FW: BRANCHES:[main:dedd2903400739619f1ce055578bfab4c7026636]|RELEASE:[none|none]
 m5stack/M5Unit-ToF4M: BRANCHES:[main:244cc1a9a1c3c39bbbc2dc08e5bf47abecd1f9d2]|RELEASE:[1.0.0|b523d573f8b608cbe351fce33f5cbfbbdd05856c]
 m5stack/M5Unit-UHF-RFID: BRANCHES:[master:713487178e0fc9d6acbc0f07767c927ee46a2ce5;fix/uhf-rfid-membank-and-read-address:0689eb7b62fe6609e76c65079d0de25550ca5c82]|RELEASE:[0.0.4|6f886a5024da7a5ac2fc8d3999a3a12bf9f152e2]
