@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:42
+commit-tracking: 2026-10-30 11:43
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1698,7 +1698,7 @@ m5stack/TimerCam-idf: BRANCHES:[master:09c5a07a3630f7c9bf0cbf78d3bf81beadee9817;
 m5stack/TinyGPSPlus: BRANCHES:[master:254a10041ac38d17d98dab24c0ae4d2a8d19a677]|RELEASE:[none|none]
 m5stack/TinyGSM: BRANCHES:[master:d4f843c4490a40a810c5cd58325f239b5f3220b1]|RELEASE:[v0.12.0-patch-1|13378a60ad0fa8924639364452bb2c7278306ac1]
 m5stack/UIFlowLessons: BRANCHES:[main:236678fd653a7dc62c15e110be38b6e42fa1eb29]|RELEASE:[none|none]
-m5stack/UNITV_TRAIN: BRANCHES:[master:c44d7b4c9c669600d3a02afc83df084f149567cb]|RELEASE:[none|none]
+m5stack/UNITV_TRAIN: BRANCHES:[master:0c09ee2a9ba2cdb28e32542c8d2a8d7bb4edf752]|RELEASE:[none|none]
 m5stack/Unit8Servo-Internal-FW: BRANCHES:[main:387f5b17b7ec1df44fff91a6b70bb8351e061a74]|RELEASE:[none|none]
 m5stack/UnitCamS3-UserDemo: BRANCHES:[unitcams3-5mp:50410249ece3f92f414a222c859dd48d5958fd97;main:27ed5f618ea3283fac890337b5879c28f80ef823;dev:6f69565b4556aca5173e073f24b6ba5e42c084da]|RELEASE:[v0.3|3e1f192b0eac65051f664692499fc629c2368068]
 m5stack/UnitV2Framework: BRANCHES:[main:0e48be653d90f0b0fe87a7824feb611aedcfa7e3]|RELEASE:[none|none]
