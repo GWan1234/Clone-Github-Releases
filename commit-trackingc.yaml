@@ -924,7 +924,7 @@ m5stack/meshtastic-pure-m5stack: BRANCHES:[develop:0952007805e447a185ead329aceb8
 m5stack/openai-realtime-embedded-sdk: BRANCHES:[atoms3r-echobase:38175369447413c57443a168de90c33fb5444437;main:fd01e69e7c363fa19151137bd693f1396cf80474]|RELEASE:[none|none]
 m5stack/operating-system: BRANCHES:[dev:332c93b9e69b49fb97a613ebfc6ed512d26efbf4]|RELEASE:[none|none]
 m5stack/platform-espressif32: BRANCHES:[develop:84f23a0369867ff6e7da3f6b8a9272fe4f9dd833;v2:2587ce98712eb49f037b7dda986f80a63cad244b]|RELEASE:[none|none]
-m5stack/quirc: BRANCHES:[master:31e982fa89fc14568d3de6ed0d1965bd40043901]|RELEASE:[none|none]
+m5stack/quirc: BRANCHES:[master:8d2d869864a58eaf6bb0a136a19fa184af8dcf93]|RELEASE:[none|none]
 m5stack/stackchan-idf-gemini: BRANCHES:[gemini:181eb9c77f1fdd59df5bdd3ece1956b3fa60ca13;main:cfbf5fd7486038926d1b4cc32356efc534fa22bf]|RELEASE:[none|none]
 m5stack/stepmotor_module: BRANCHES:[master:10cceb97b16a45304b464c9e43501041a66de3a2]|RELEASE:[none|none]
 m5stack/toit-m5stack-core2: BRANCHES:[main:7de6c6b0aeb34c6b2ccc3ff06e9348ae18760b2b]|RELEASE:[none|none]
