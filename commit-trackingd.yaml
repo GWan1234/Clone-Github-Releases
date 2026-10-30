@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:31
+commit-tracking: 2026-10-30 11:32
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1427,7 +1427,7 @@ m5stack/M5-STHS34PF80: BRANCHES:[main:b94f2e0d32eec3b098c0f5721badd47301d2293e]|
 m5stack/M5-SX127x: BRANCHES:[master:87c9694bf486c94d835a74d481fdd32d0aa9123c]|RELEASE:[1.0.0|ae84956e6a6d346d0ea8bccb624bda831d83078f]
 m5stack/M5-Schematic: BRANCHES:[master:686d1ec36a89046f79b57d8e9611b3868efc4868]|RELEASE:[none|none]
 m5stack/M5-StickT: BRANCHES:[master:a502cb40e0837bccd55a3e09389f3cbfc155cea8]|RELEASE:[none|none]
-m5stack/M5-StickV-UnitV: BRANCHES:[main:a1f1ecb80f8572c7b2ab9d15a59ab99823afa4b3]|RELEASE:[none|none]
+m5stack/M5-StickV-UnitV: BRANCHES:[main:284d95be5b778891faed757604a113b0b65eef9d]|RELEASE:[none|none]
 m5stack/M5-espnow: BRANCHES:[master:bbd52ef0c64af7484ff4ca57a014067fc58ec30a]|RELEASE:[none|none]
 m5stack/M5-iot-plugandplay-models: BRANCHES:[main:ecf797d1c845357212ad24e07d0e5fe8dfb0d945]|RELEASE:[none|none]
 m5stack/M5Atom: BRANCHES:[master:5a9faefcdfaff7f01f84914f23f4f252fd321a00;revert-44-master:912e3eb208214f6c7766427994259b4ace479889]|RELEASE:[0.1.3|4717fcfff7edd8d638b51fcbd7c3a869c2423990]
