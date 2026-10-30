@@ -644,7 +644,7 @@ m5stack/M5EPD_TTFExample: BRANCHES:[main:d1fb968cb611087be083bf0c01bc67d34442d3d
 m5stack/M5EPD_Todo: BRANCHES:[main:008f73dd94adb9d12931b78c4d459da46b770e1e]|RELEASE:[none|none]
 m5stack/M5Echo-Pyramid: BRANCHES:[main:773d837cb1e30452a6e4e8b02de1ad6b97eeffd2]|RELEASE:[M5Echo-Pyramid|c2db2bbe2d319edcdf5290361093856b0c3bf913]
 m5stack/M5Echo-Pyramid-Internal-FW: BRANCHES:[main:0cef572224ff065069a60928ae99b9caf41a5495]|RELEASE:[none|none]
-m5stack/M5Faces: BRANCHES:[main:28188e1820113a2caf1c21b3a948f574f3e535fe]|RELEASE:[M5Faces|28188e1820113a2caf1c21b3a948f574f3e535fe]
+m5stack/M5Faces: BRANCHES:[main:639e63e559ee251005241a6dcfadba8110c97e93]|RELEASE:[M5Faces|28188e1820113a2caf1c21b3a948f574f3e535fe]
 m5stack/M5Faces-Calculator3-Internal-FW: BRANCHES:[main:2f80236c37dbdcf95d8525914490815ccc1569e3]|RELEASE:[none|none]
 m5stack/M5Faces-Gamepad3-Internal-FW: BRANCHES:[main:bd8ec6d9d577614c52230f1ddc62f1633d741ec2]|RELEASE:[none|none]
 m5stack/M5Faces-Keyboard3-Internal-FW: BRANCHES:[main:2b74078b459fc81da52479a89e9641c11ad2e3b6]|RELEASE:[none|none]
