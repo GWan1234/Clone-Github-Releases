@@ -548,7 +548,7 @@ Seeed-Studio/yolov5-swift: BRANCHES:[master:b246faed8ceaefd67105420214fb93154de6
 m5stack/.github: BRANCHES:[main:ade7866d4947e4331f51e3d37ce958e823c4993f]|RELEASE:[none|none]
 m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:eaa615dca3054829aec58e5fe596d58724041633]|RELEASE:[none|none]
 m5stack/AIFlow: BRANCHES:[main:930edd59329568bc8c8f5db5d591abc51548afa2;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
-m5stack/ATOM-ECHO: BRANCHES:[master:3f645f5ba3dc8ed8e6b348b1a6c63bcdc37d4991]|RELEASE:[none|none]
+m5stack/ATOM-ECHO: BRANCHES:[master:2383b77d4345e781c061dafa28fc39a57d5d0668]|RELEASE:[none|none]
 m5stack/ATOM-PRINTER: BRANCHES:[master:fbbd15a1d015c076dfc51d92a127caf8d7cc2eb8]|RELEASE:[0.0.1|aa35436b66c42d7091fe3ddfe01572baeb70e7db]
 m5stack/ATOM-and-Module-Display-FPGA-Source: BRANCHES:[main:12c837ef304bca3e0e65496b584e6251184e4a25]|RELEASE:[none|none]
 m5stack/ATOM_DTU_CAT1: BRANCHES:[master:c32c54f15df819213532ae00ad2e96d5b8c5abf8]|RELEASE:[0.0.1|96a4ce33b023df329c7c4a7394aa11f13d4e47b7]
