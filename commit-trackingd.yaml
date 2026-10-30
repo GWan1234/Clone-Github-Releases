@@ -1623,7 +1623,7 @@ m5stack/M5Unit-MQ: BRANCHES:[main:1d961cb120deb6342df9d643c62e45d969ffcf93]|RELE
 m5stack/M5Unit-MQ-Internal-FW: BRANCHES:[main:57593628b95af88a2de1c6323418e0187666d0b3]|RELEASE:[none|none]
 m5stack/M5Unit-MQTT: BRANCHES:[master:edcaaf26306beb57b71eb3b8044d852bd24c5e68]|RELEASE:[0.0.1|3bf64e3a5dd61feb2031bcc3c8648fcf58949635]
 m5stack/M5Unit-MiniEncoderC-Internal-FW: BRANCHES:[main:dde51426a27a9dbf3da003fde90aeb8a2dc53bfe]|RELEASE:[none|none]
-m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:cd5c3e2ea3073b2a5227e90a500c3b4b95c4841d]|RELEASE:[none|none]
+m5stack/M5Unit-MiniJoyC-Internal-FW: BRANCHES:[main:5ec290c524cc9c448afe4463cd1d3c51fdafb53c]|RELEASE:[none|none]
 m5stack/M5Unit-Miniscale: BRANCHES:[main:3e92369d61f346ed42f38a8c3155773a2685735a]|RELEASE:[0.0.1|3e92369d61f346ed42f38a8c3155773a2685735a]
 m5stack/M5Unit-Miniscale-Internal-FW: BRANCHES:[main:9d1644fc23ac2d73284bfd62983bbbd14f1999bc]|RELEASE:[none|none]
 m5stack/M5Unit-NCIR2: BRANCHES:[main:fde5cbcee77cb83e634cb6bc0a9e77eb4c2bd8f1]|RELEASE:[none|none]
