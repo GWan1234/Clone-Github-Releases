@@ -669,7 +669,7 @@ m5stack/M5Module-4-20mA-Internal-FW: BRANCHES:[main:259242af5816b08724454a2afdb0
 m5stack/M5Module-4EncoderMotor: BRANCHES:[main:9721dad321238e2ddef533faa55db8f3d2de66c3]|RELEASE:[1.0.0|89ee0591b4725777ceb1d934c6676274075af971]
 m5stack/M5Module-4EncoderMotor-Internal-FW: BRANCHES:[main:aece2c9aaf1c23a5389ccdc7546fbbbfec0c0ad4;V1.0:b645454045368940b48d8936d24e2032beca5ebe]|RELEASE:[none|none]
 m5stack/M5Module-4IN8OUT: BRANCHES:[main:f50345ae91af25ad53a5259284486ea38f2df39a]|RELEASE:[0.1.0|f50345ae91af25ad53a5259284486ea38f2df39a]
-m5stack/M5Module-4Relay: BRANCHES:[main:bb8021a8353bdd896dbf7dc6055afdec55d501f2]|RELEASE:[0.0.1|a20cf8b9e2390da3e85252bf4cce904e1a047008]
+m5stack/M5Module-4Relay: BRANCHES:[main:02f9b3adbc8f4f47a48ec0f4440529846695ebc7]|RELEASE:[0.0.1|a20cf8b9e2390da3e85252bf4cce904e1a047008]
 m5stack/M5Module-4Relay-Internal-FW: BRANCHES:[main:933bcd297ca37d9492e596b592a8faf4ca94761a]|RELEASE:[none|none]
 m5stack/M5Module-AC-2Relay-Internal-FW: BRANCHES:[main:a87a9947bd72bfeb636160633f5f14f746f7d34b]|RELEASE:[none|none]
 m5stack/M5Module-Audio: BRANCHES:[main:72c98cc7746ae76bee05ee9dee4576b2a658aeb9]|RELEASE:[0.0.2|72c98cc7746ae76bee05ee9dee4576b2a658aeb9]
