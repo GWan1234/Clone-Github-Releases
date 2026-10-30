@@ -546,7 +546,7 @@ Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:8ee663e3dc97e85dfe526c025eec8
 Seeed-Studio/xiaozhi-esp32: BRANCHES:[watcher-en:275c6623271bf6ad517fe1448a859d27133344b9;main:45c62f5a532d1fd7efbc8af45609f1090cdf4dfb]|RELEASE:[none|none]
 Seeed-Studio/yolov5-swift: BRANCHES:[master:b246faed8ceaefd67105420214fb93154de66c9d;newclasster:6127d312d5d1b738045f932e790c2e4617109610;classter:1551e074b1c301970bb4418df764ef102377d543;nanodet:eae5d66eaf336141791d96f31e074a0c61ad99f4;classifier:9794f63ddfdc7599a1ed368395115f9cd3c7d50f]|RELEASE:[none|none]
 m5stack/.github: BRANCHES:[main:3f6859e57c6e7fb07d033d63ef9a92d9c08330c6]|RELEASE:[none|none]
-m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:eaa615dca3054829aec58e5fe596d58724041633]|RELEASE:[none|none]
+m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:dbbf434efbd0a0b3b03d01d902e8fd8e8aced324]|RELEASE:[none|none]
 m5stack/AIFlow: BRANCHES:[main:930edd59329568bc8c8f5db5d591abc51548afa2;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
 m5stack/ATOM-ECHO: BRANCHES:[master:2383b77d4345e781c061dafa28fc39a57d5d0668]|RELEASE:[none|none]
 m5stack/ATOM-PRINTER: BRANCHES:[master:fbbd15a1d015c076dfc51d92a127caf8d7cc2eb8]|RELEASE:[0.0.1|aa35436b66c42d7091fe3ddfe01572baeb70e7db]
