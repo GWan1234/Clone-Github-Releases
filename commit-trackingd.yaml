@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:35
+commit-tracking: 2026-10-30 11:36
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1600,7 +1600,7 @@ m5stack/M5Unit-FLASHLIGHT: BRANCHES:[gh-pages:01033ac3ecb4c82eb011aabfaa1d32df9c
 m5stack/M5Unit-Fingerprint2: BRANCHES:[main:e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1]|RELEASE:[1.3.0|e09e709ed5ef8b20a06b43534c6a2cc9ec8b16e1]
 m5stack/M5Unit-Fingerprint2-Internal-FW: BRANCHES:[main:6723eb45095497163465fe5f9ce87fc5950e711a]|RELEASE:[none|none]
 m5stack/M5Unit-GESTURE: BRANCHES:[gh-pages:d87b721219545e9cbc1ab35f404fecf092652d71;main:73e6de56f7eedd1ba1961a21c24e88cf627c89f8;develop:771c357b3eaf1b66e4f7473c846f9899b6cd8e03]|RELEASE:[0.3.0|73e6de56f7eedd1ba1961a21c24e88cf627c89f8]
-m5stack/M5Unit-GLASS: BRANCHES:[main:4ef5cde4e0ca1cc164521682b12252cfc7e02a74]|RELEASE:[0.0.1|79e755f18ec885b7ef73c17b926646b05030bbad]
+m5stack/M5Unit-GLASS: BRANCHES:[main:91a121b4a5da2c78fc3477428e7919378fbff913]|RELEASE:[0.0.1|79e755f18ec885b7ef73c17b926646b05030bbad]
 m5stack/M5Unit-GLASS-Internal-FW: BRANCHES:[main:9404bccafcd3fddd3ff785abed9a880d09118e7c]|RELEASE:[none|none]
 m5stack/M5Unit-HEART: BRANCHES:[gh-pages:10db266b6fa61061372c1f15525714fa826bcfdb;main:b16067142852430c6491aaf9d900605d4a8ff5d4;develop:c141c0d7ce2595c2c343cb7653bb28e52f0d73d8]|RELEASE:[0.3.0|b16067142852430c6491aaf9d900605d4a8ff5d4]
 m5stack/M5Unit-HUB: BRANCHES:[gh-pages:e54887962d670a678859c59ce74e0393e096a805;main:d6d1f15de2d81e47de1396ddbc5abbf4084ab9ef;develop:d18bfa16c74377747d30e557c421097c09a296d3]|RELEASE:[0.4.0|d6d1f15de2d81e47de1396ddbc5abbf4084ab9ef]
