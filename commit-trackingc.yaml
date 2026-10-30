@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 10:24
+commit-tracking: 2026-10-30 10:25
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -629,7 +629,7 @@ m5stack/M5Core-Ink: BRANCHES:[master:76283d3bebec85a82974bb7f5d6f325b225b2817]|R
 m5stack/M5Core2: BRANCHES:[master:67099371d136a8241859d1c4216d6d595ea45054;revert-156-0.2.0:2541ae394f3d9a2d28faf8246fc204380770ff1f;develop:c35a052ad886027e0257c2f6456fc069fa16267e]|RELEASE:[0.2.0|2509ff06cfb73126f6065cd3b35933c22ae4333f]
 m5stack/M5Core2-TouchPanel-Recovery: BRANCHES:[main:d2e8a49c7658bb98f36a02696280ae98383f4d8a]|RELEASE:[none|none]
 m5stack/M5Core2_Weather_Dashboard: BRANCHES:[main:35cd9654216ee94ab70bb4c12fa4f64fa59df075]|RELEASE:[none|none]
-m5stack/M5CoreP4X-UserDemo: BRANCHES:[main:e62f31d3ad8aa40ce33d6b718502d7d4a4a092c9]|RELEASE:[none|none]
+m5stack/M5CoreP4X-UserDemo: BRANCHES:[main:30091491112a88390bf1966cce165f14b8916797]|RELEASE:[none|none]
 m5stack/M5CoreS3: BRANCHES:[main:d516287642eab7baaf17a87fd330fdf4ffb01359;develop:3fb2a2cc0f24897dfdf54101e7361c5dd1f50da5]|RELEASE:[1.0.1|bfeebde61965e1a7b6df1b7648d0b761e2f88642]
 m5stack/M5CoreS3-Esphome: BRANCHES:[main:a46a3f75fad625c75c10ba62787052aeb40d10f9]|RELEASE:[none|none]
 m5stack/M5Dial: BRANCHES:[master:735eb55beefe6577c646ebf164a19793a01375d4]|RELEASE:[1.0.3|533c9d0198e72621d55a4d35f726d3d53a7e1431]
