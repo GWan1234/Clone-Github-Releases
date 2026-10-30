@@ -598,7 +598,7 @@ m5stack/M5-LoRa-E220: BRANCHES:[main:d58a2be3840bee000c1d5e7ae0375940db30b075]|R
 m5stack/M5-LoRa-E220-JP: BRANCHES:[main:6a8fde8bb39f3a03d90bb1ca8895c3fc8c6b24c6]|RELEASE:[1.0.1|59dce2efef9f3e1bf5d54b29223b1b789f484550]
 m5stack/M5-LoRaWAN: BRANCHES:[master:29ba9e33b848f57b4a5189caf0ec0b86f8787eef]|RELEASE:[0.0.2|3a6d86b04041822d7961dbc6e0b5c2d551ea9897]
 m5stack/M5-LoRaWAN-RAK: BRANCHES:[main:16b391ee557cc9353fc7d9dea2fa24b61065dcbc]|RELEASE:[1.0.0|0d422d9cc5db40f159472940174a93c01b2a425a]
-m5stack/M5-Max3421E-USBShield: BRANCHES:[master:29544f5c0e118c8bb5f895fccfa8ce9141e8ce1b]|RELEASE:[none|none]
+m5stack/M5-Max3421E-USBShield: BRANCHES:[master:aea6c8ff84209cf08baa41214a9e8b21ee728dd2]|RELEASE:[none|none]
 m5stack/M5-ProductExampleCodes: BRANCHES:[master:1bc38736e61a362080d1dffc4020b3a2a1dff6ae]|RELEASE:[none|none]
 m5stack/M5-RoverC: BRANCHES:[master:aaa6e03bfecffd76e2ffec95da63bc9307e965c8]|RELEASE:[0.0.1|a36d92013405b289a9fc6ca7b48a631362bd7bf5]
 m5stack/M5-SAM2695: BRANCHES:[main:4f4b788efd6cee4b9dc7127b0ea55976c168011e]|RELEASE:[none|none]
