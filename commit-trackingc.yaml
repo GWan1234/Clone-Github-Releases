@@ -821,7 +821,7 @@ m5stack/M5Unit-RGB: BRANCHES:[gh-pages:fcb490ee5cc4fcdf741c4381bcb7f8b2a9f59e70;
 m5stack/M5Unit-RS485: BRANCHES:[gh-pages:81d3d5754ea14c1a3e76061e259b09dc9950cc46;main:0956c20032eeabb8dfdeb612fe21fd2146f39c47;develop:49b322a69ea736549aafcfdf7c894fc6b02014ff]|RELEASE:[0.2.0|0956c20032eeabb8dfdeb612fe21fd2146f39c47]
 m5stack/M5Unit-RTC: BRANCHES:[master:53a06b497753622a33cb2520040ca9387f4b13d3;gh-pages:50f89ece4bd8344366d8841f8fb401dee8396687;develop:7042717ce2d6caa4d22f2ee98e32270da4a1fcf0]|RELEASE:[0.2.0|92220a20e25f9c9ea2f084611dddfc53cf600887]
 m5stack/M5Unit-ReflectiveIR: BRANCHES:[main:30c720c9f5f16a0063d28173cfcd6e7760334d6c]|RELEASE:[none|none]
-m5stack/M5Unit-Roller: BRANCHES:[main:58f83b4183f779e9e4e1b2f3f8bfdd9316e43ceb]|RELEASE:[none|none]
+m5stack/M5Unit-Roller: BRANCHES:[main:90c84dd21a8e46a9e50406ced25407e94666a11a]|RELEASE:[none|none]
 m5stack/M5Unit-Roller485-Internal-FW: BRANCHES:[main:59d43890ee25ea6101b3d801b96a6e5bb2670a4b]|RELEASE:[none|none]
 m5stack/M5Unit-RollerCAN-Internal-FW: BRANCHES:[main:addac0f416ceae106404aaab7da50119fae0b41a]|RELEASE:[none|none]
 m5stack/M5Unit-Scales: BRANCHES:[main:9a6d627839f2a3b5925694a9baeb1b92f1b9c11c]|RELEASE:[none|none]
