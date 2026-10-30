@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:58
+commit-tracking: 2026-10-30 11:59
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1513,7 +1513,7 @@ m5stack/M5Module-PPS-UserDemo: BRANCHES:[main:3cfd92842d5bd26ce274179eb346394c24
 m5stack/M5Module-QRCode: BRANCHES:[main:55a21101829819d26095cc027e82c987717dc987]|RELEASE:[1.0.1|373a8168acf4122a1eb2dc2162250fed0bfcf0fd]
 m5stack/M5Module-StepMotor-Driver-V1.1-Internal-FW: BRANCHES:[main:d96cb8cb66d8a53ecf3d2df7dc9b66448e20c022]|RELEASE:[none|none]
 m5stack/M5Module-Stepmotor: BRANCHES:[master:0221ff317a4788404da8aa2668ec22a8cf4f08f0]|RELEASE:[0.0.2|f14a67d86d8476be46d48f6be10e0d142e61b419]
-m5stack/M5MorseMatrix-UserDemo: BRANCHES:[main:a23aff32214fc6ea0d3d4769dbc426d4ad597e23]|RELEASE:[none|none]
+m5stack/M5MorseMatrix-UserDemo: BRANCHES:[main:79ea8261593c07f83f511b27a773337123e5af9f]|RELEASE:[none|none]
 m5stack/M5NanoC6: BRANCHES:[main:f6504ff68e5bca0a651d467f79e391bc8aebd739]|RELEASE:[1.0.0|7cf509694316c9acb41e98658fb0ddb8ab6db790]
 m5stack/M5PM1: BRANCHES:[main:be9a5456c007c333e7ac963f33bfde1ffa5d82ee;develop:3f84249a51fe5149966e9915d2c2221ecb9077b9]|RELEASE:[1.0.7|be9a5456c007c333e7ac963f33bfde1ffa5d82ee]
 m5stack/M5PaperColor-UserDemo: BRANCHES:[main:1ff998e0cf3b9ce916f2e0319561d043db21cc4a]|RELEASE:[none|none]
