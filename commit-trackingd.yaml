@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:55
+commit-tracking: 2026-10-30 11:56
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1555,7 +1555,7 @@ m5stack/M5StopWatch-UserDemo: BRANCHES:[main:83de653c0be4e51e82079bee2386b90fb05
 m5stack/M5SwitchC6-ESP-NOW: BRANCHES:[main:59bdf315e4bd3001c42b952112481f147e68aee6]|RELEASE:[v0.0.1|59bdf315e4bd3001c42b952112481f147e68aee6]
 m5stack/M5Tab5-Keyboard-Internal-FW: BRANCHES:[main:bbfd579182563e63acd867333e6138f3e5e6e047]|RELEASE:[none|none]
 m5stack/M5Tab5-Keyboard-UserDemo: BRANCHES:[main:fba427705910953d072eb81ba2e73241c2760427]|RELEASE:[none|none]
-m5stack/M5Tab5-UserDemo: BRANCHES:[main:b4e356bc491ca070d54004718dad789c07d5fc93;dev:611f2d6f447ed21a379fa7a6dcbc3ef19c07094a]|RELEASE:[V0.4|68b19d37fbf9cefd5f256992f5dca34794c62ab4]
+m5stack/M5Tab5-UserDemo: BRANCHES:[dev:ca31f0e5a6018392a02b0db9caaf2120f7f2d33b;main:fe8aa051beb9385468f7e46b909e764169df3f7a]|RELEASE:[V0.4|68b19d37fbf9cefd5f256992f5dca34794c62ab4]
 m5stack/M5Template-C-CPP: BRANCHES:[main:ff1d57da79c9d738206d8e9a50550e8589c7a1cb]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:2d9b8b2edcfe554c36b930f682140fe2c033c468]|RELEASE:[none|none]
 m5stack/M5Tough: BRANCHES:[master:2dc8ad313f13d64da8aaaa1c8a448e2862ddadee]|RELEASE:[none|none]
