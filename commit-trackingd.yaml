@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 11:10
+commit-tracking: 2026-10-30 11:11
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -513,7 +513,7 @@ HelTecAutomation/Heltec-E-Ink: BRANCHES:[master:d0c2bcfe32b48bc6b37622e4e3473c57
 HelTecAutomation/Heltec-Hotspot-Docs: BRANCHES:[main:d649bc232274c0578dd9ab8bc77990f15d002a04]|RELEASE:[none|none]
 HelTecAutomation/HeltecDocs: BRANCHES:[master:6b39fc24f19128a7d70cf6cc45513fe35edb35bb]|RELEASE:[none|none]
 HelTecAutomation/HeltecDocs-zh_CN: BRANCHES:[master:cedf746f9ec1b75da0cba1f62c4e57fa8eee15d0]|RELEASE:[none|none]
-HelTecAutomation/HeltecWiKi: BRANCHES:[main:efa8afe28516ea7426ebf538635b180fd596d9fc;feat/lotousnine:072fc160beb39a15cebd5b79f246ac07fb074764]|RELEASE:[none|none]
+HelTecAutomation/HeltecWiKi: BRANCHES:[main:07d6ea4725d07fad98a9b556f91d34a653bd2cb4;feat/lotousnine:072fc160beb39a15cebd5b79f246ac07fb074764]|RELEASE:[none|none]
 HelTecAutomation/Heltec_ESP32: BRANCHES:[master:6ab5cf916e01b0930eaa2245323c728f849705c4;dev:18a9c4d0cec3ae7414f4f6244fdf6d22484c363b;wangxiangwangeuse-patch-1:1654d3023ebe12d0187beb68711ee175e98411bf]|RELEASE:[2.1.6|e9c730b17f4739ab97468edf12dff5f86ee433bb]
 HelTecAutomation/Heltec_ESP8266: BRANCHES:[master:29bc0c76ccbb787e35d9ec42b8f29f90a3778ce9]|RELEASE:[1.0.3|bad997384fbaea767443574f35251abd9f0c3ce1]
 HelTecAutomation/Heltec_nRF52: BRANCHES:[main:b69d5fb6cc497555047467a36e7a256aa1b6bd56]|RELEASE:[1.7.0|d45d40df192eb155df3c1f809387591d515383ab]
