@@ -1550,7 +1550,7 @@ m5stack/M5StickC-Plus-SE-Factory: BRANCHES:[main:29d10ab55e191187029e568c5f874e8
 m5stack/M5StickC-Plus-TLite-FW: BRANCHES:[main:5740227bba143bbac193b451a84e153b0676f067]|RELEASE:[none|none]
 m5stack/M5StickCPlus2: BRANCHES:[master:921ec0c0634b6b93873fe123f3a8d1714c68b8f4]|RELEASE:[1.0.1|fa8e107d72a0e31eaaad0132893280f0f971c60b]
 m5stack/M5StickCPlus2-UserDemo: BRANCHES:[main:ffbf214436cea779059c5a6c2c85ffa96c8bf041]|RELEASE:[V0.1|3d3d9dafc0835d620e3d87962269bddd8fe8accc]
-m5stack/M5StopWatch-PowerDemo: BRANCHES:[main:23fb37517f2e1db543fe460ffbcc5716990123dd]|RELEASE:[none|none]
+m5stack/M5StopWatch-PowerDemo: BRANCHES:[main:a68d0302324f2b289a790d29fa8a3690abc21011]|RELEASE:[none|none]
 m5stack/M5StopWatch-UserDemo: BRANCHES:[main:81099c784991dc77f522de1a5bf62ec5de9ae0b5]|RELEASE:[V0.5|6b4aa125288b6fe9dca661f10159f6e1e5ee785c]
 m5stack/M5SwitchC6-ESP-NOW: BRANCHES:[main:a3bf435d9aef1a857bcdff12febeef0f4ba48827]|RELEASE:[v0.0.1|59bdf315e4bd3001c42b952112481f147e68aee6]
 m5stack/M5Tab5-Keyboard-Internal-FW: BRANCHES:[main:539ec2a06d16b7ebc0ebfafa453d456a9dadc534]|RELEASE:[none|none]
