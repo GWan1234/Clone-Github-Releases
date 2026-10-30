@@ -1510,7 +1510,7 @@ m5stack/M5Module-LLM: BRANCHES:[main:161d9a7b69eaaa8e14579302c3f2c520e9920e5e;de
 m5stack/M5Module-PPS: BRANCHES:[main:3ee0c12bb46a58d874413e2a9c40b50b4878ca68]|RELEASE:[1.0.0|fcb36ae4059a2c1a010e172a4cf205cb7f48dc0c]
 m5stack/M5Module-PPS-Internal-FW: BRANCHES:[main:37940a4d5b64ba5ccb2886f6a9b51bf09b1175dd]|RELEASE:[none|none]
 m5stack/M5Module-PPS-UserDemo: BRANCHES:[main:3cfd92842d5bd26ce274179eb346394c24514b4c]|RELEASE:[none|none]
-m5stack/M5Module-QRCode: BRANCHES:[main:95f4414d7af0fa776fcbceb902b653ee0abba242]|RELEASE:[1.0.1|373a8168acf4122a1eb2dc2162250fed0bfcf0fd]
+m5stack/M5Module-QRCode: BRANCHES:[main:55a21101829819d26095cc027e82c987717dc987]|RELEASE:[1.0.1|373a8168acf4122a1eb2dc2162250fed0bfcf0fd]
 m5stack/M5Module-StepMotor-Driver-V1.1-Internal-FW: BRANCHES:[main:d96cb8cb66d8a53ecf3d2df7dc9b66448e20c022]|RELEASE:[none|none]
 m5stack/M5Module-Stepmotor: BRANCHES:[master:0221ff317a4788404da8aa2668ec22a8cf4f08f0]|RELEASE:[0.0.2|f14a67d86d8476be46d48f6be10e0d142e61b419]
 m5stack/M5MorseMatrix-UserDemo: BRANCHES:[main:a23aff32214fc6ea0d3d4769dbc426d4ad597e23]|RELEASE:[none|none]
