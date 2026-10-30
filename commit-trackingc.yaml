@@ -568,7 +568,7 @@ m5stack/AtomS3R-CAM-UserDemo: BRANCHES:[AtomS3R-CAM:be215f1d8458dec0a4ee9bb21010
 m5stack/Bases-Node: BRANCHES:[master:f2d69dbf3a5809b51755d8028086d82cde7bf254]|RELEASE:[none|none]
 m5stack/CBACK_NBIoT: BRANCHES:[master:7d2c0a330e58536be4e806b08966ec37e1ae2360]|RELEASE:[none|none]
 m5stack/CM4Stack_lvgl: BRANCHES:[Basic:b248414df6d0523d127b024a05fe3f60111dd2fb;SimpleClock:66c46a545ed68991d114a2a976cd89333d177cd0;CM4Stack_lv_fbdev:2ec8ee849d0dbd6b7d4a779eaee0dcf4eff9106b]|RELEASE:[none|none]
-m5stack/CardputerZeroRepository: BRANCHES:[gh-pages-preview:f6d53db63a025313fdee34c0a9308bdf190e0809;ci/bootstrap:05ac0eb812a508ecdf3fb3eff0329db0d6e429f6;main:774d9a86fa722c92075c3d351285d0c9bad63f0d]|RELEASE:[apt-pool|70414d854dd360307360673217bf09423c547e04]
+m5stack/CardputerZeroRepository: BRANCHES:[ci/bootstrap:c817f795c5a1597e13b428296130bd043df71a23;gh-pages-preview:f6d53db63a025313fdee34c0a9308bdf190e0809;main:774d9a86fa722c92075c3d351285d0c9bad63f0d]|RELEASE:[apt-pool|70414d854dd360307360673217bf09423c547e04]
 m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[master:e1c3750e204e714ca62b93f6c20aabd7f7ce286d;BSP-dev:55d8c04dd8973634b76548394c95450458105688]|RELEASE:[none|none]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:6fd6134fc500f802499346e9938a727027610e1c]|RELEASE:[none|none]
 m5stack/CoreMP135_Bare_computer_project: BRANCHES:[master:50ca01ea94fe6b52321d42b8fa46b289c727ebf3]|RELEASE:[v0.0.1|5c2b61b51dca0d1848b2e03e873f37fac6a6e263]
