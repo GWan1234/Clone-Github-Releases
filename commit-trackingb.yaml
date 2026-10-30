@@ -2636,7 +2636,7 @@ adafruit/wreath-of-khan-2025: BRANCHES:[main:29c2e99a5bce06bdfc28a02a5d8858ff2c9
 adafruit/xcarve-proxy: BRANCHES:[master:83cdba78067629063f6158d665baaee8380ccde8]|RELEASE:[none|none]
 adafruit/xcarve-server: BRANCHES:[master:ad2d4d65b011ab771e96f8d1445b5fdab2da0ef6]|RELEASE:[none|none]
 adafruit/zephyr: BRANCHES:[zephyr_260803:1d6734484ea17f86f26255efcbbe43a7adbc4d0f;safe_mode_test_debug:92033aa847b90fc71d72cc319984c4512b086feb;circuitpython10.3.x:e1dc85052bc8928572fdb972997c65eeb96f555b;circuitpython:d991bfc190507849d510326b24ba7b7a6c51a0e6;fix_rp2350_entropy:6be0aa4c355f3ed9f7b9364969bfe042f23fe174;circuitpython10.2.x:589b2139926017d4d98724bac653ceb30802be9f;circuitpython-v4.3.0:8801b409ec554cfd217c159c00f91280ea1331db;main:03fa6a0c33c7e918d4157eb5404835c164b2c3f1]|RELEASE:[none|none]
-adafruit/zephyr-soc-family-feed: BRANCHES:[main:ab411acec2b54df7c64d358b5fdd5ca219043291]|RELEASE:[none|none]
+adafruit/zephyr-soc-family-feed: BRANCHES:[main:ae2ffa0a186e27d088a91704893a6531d5d8a059]|RELEASE:[none|none]
 adafruit/zj-58: BRANCHES:[master:603f034e125305c464bab170b7144e446a193f0d]|RELEASE:[none|none]
 amenefus/UxPlayerAirServer: BRANCHES:[main:5501d373b9cfb07907ad4c37c9ab6da18d5a2095]|RELEASE:[none|none]
 antimof/UxPlay: BRANCHES:[master:fd88c0c465df492e03461980bedf115a40bc835a]|RELEASE:[none|none]
