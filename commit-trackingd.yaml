@@ -1708,7 +1708,7 @@ m5stack/Vfunction: BRANCHES:[master:8c6520db5c01fabad48ae656d3fea8c314b8e9a3]|RE
 m5stack/XiaoZhi-Card: BRANCHES:[main:ba51c8e01139a36e950f4a35d892cde2a5a05856]|RELEASE:[none|none]
 m5stack/arduino-esp32: BRANCHES:[master:e1bd05c5fb468709506801cc6de996717d593414]|RELEASE:[none|none]
 m5stack/aws-iot-kit-tutorials: BRANCHES:[main:f017250e8178c69ee0a0040b9a1fa6beb6c0039a;traditional_chinese:61fdff2973c85cf4002c1b0f537be4469fc9bc14]|RELEASE:[none|none]
-m5stack/ax520tool: BRANCHES:[main:ab72ce09748f638a79eee0bf4be98273b25fb298]|RELEASE:[none|none]
+m5stack/ax520tool: BRANCHES:[main:3d33f44266fa3229f4098c92bcd438291edbdf97]|RELEASE:[none|none]
 m5stack/azure_iothub_arduino_lib_esp32: BRANCHES:[master:baf0e17605a5a3d7856ba4ded32e4edc7deb9095]|RELEASE:[none|none]
 m5stack/bootloader_components: BRANCHES:[main:c7e1d797f4a39a5574f552d7fd35d3c95c47f8a5]|RELEASE:[none|none]
 m5stack/build: BRANCHES:[main:6da79f7cf7ea3974c75b6c2eeb4218c9902b398e]|RELEASE:[none|none]
