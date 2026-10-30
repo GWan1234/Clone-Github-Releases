@@ -1647,7 +1647,7 @@ m5stack/M5Unit-Roller485-Internal-FW: BRANCHES:[main:59d43890ee25ea6101b3d801b96
 m5stack/M5Unit-RollerCAN-Internal-FW: BRANCHES:[main:addac0f416ceae106404aaab7da50119fae0b41a]|RELEASE:[none|none]
 m5stack/M5Unit-Scales: BRANCHES:[main:9a6d627839f2a3b5925694a9baeb1b92f1b9c11c]|RELEASE:[none|none]
 m5stack/M5Unit-Scales-Internal-FW: BRANCHES:[main:8dca5f0ffe8f8c5238f6bdea109c292a01b1569d]|RELEASE:[none|none]
-m5stack/M5Unit-Scroll: BRANCHES:[main:77ec3033b94cbd6f9a3fd886b8207d26029082ac]|RELEASE:[none|none]
+m5stack/M5Unit-Scroll: BRANCHES:[main:1a85ea79649f4593f381a789cab1ae57c3f02d86]|RELEASE:[none|none]
 m5stack/M5Unit-Scroll-Internal-FW: BRANCHES:[main:ae60717a4b9315cd12ac56389992fc2b7576d0aa]|RELEASE:[none|none]
 m5stack/M5Unit-Sonic: BRANCHES:[master:1b313692d62509f7dfc92ae3743bb91061e34fab]|RELEASE:[0.0.2|0fc7fffed7d0c07e77d682e8757440510a5cbebf]
 m5stack/M5Unit-Step16: BRANCHES:[main:20c0445c9e755cfd9096a8e9e830de9653a864c9]|RELEASE:[1.0.1|20c0445c9e755cfd9096a8e9e830de9653a864c9]
