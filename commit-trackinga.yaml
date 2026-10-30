@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 06:11
+commit-tracking: 2026-10-30 06:12
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1978,7 +1978,7 @@ naoki66/fish-helper-data: BRANCHES:[main:e06b7a15b39c93d3edfbcad57b48aadfbef74de
 naoki66/fish_helper_config: BRANCHES:[main:26463c28f083bc91ebaf133a8d1c2cadd34b7d71]|RELEASE:[none|none]
 naoki66/i915-sriov-dkms: BRANCHES:[master:0481357c40951b6edab10d058010c3a2f5df0aa3]|RELEASE:[none|none]
 naoki66/immortalwrt_pon: BRANCHES:[master:1d949bcb3d3f5b0e19cad0d663b392567f843bd5]|RELEASE:[none|none]
-naoki66/luci-app-airoha: BRANCHES:[main:e9e11d6c42fed9ff61b5a7ca3dc75060c4a4df56]|RELEASE:[none|none]
+naoki66/luci-app-airoha: BRANCHES:[main:cf9c4c11cbc670ef1cf15d0a1a1d3e9dc250b210]|RELEASE:[none|none]
 naoki66/luci-app-bandix: BRANCHES:[main:159a6de184b8cbd0694b40f018e737d0a3c82e7e]|RELEASE:[none|none]
 naoki66/luci-app-lucky: BRANCHES:[main:e2197545d72f019b370ef56937b5569c9c2c7614]|RELEASE:[none|none]
 naoki66/luci-app-pushbot: BRANCHES:[master:d9f3f2b16584b5f040658ebb9d6c3e656fbec9b5]|RELEASE:[luci-app-pushbot-v6.01-r15|721bb99c8492cd4195213bd13c7331c685aac0e9]
