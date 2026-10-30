@@ -1366,7 +1366,7 @@ home-assistant/zwa2-toolbox: BRANCHES:[master:c6bd7d082cd8becf60f3566d5674f0e488
 hylianfin/Aliro-homekey: BRANCHES:[main:ff1e610fc9c3ddfefe31ffc5f06b1ae8eb710d2b;revert-1-main:076b16053489839ff08a78c1a7d2f77adbbb6b29;page:88420a29e1c89fd4e2449255a29ecbe58e5f12a4]|RELEASE:[none|none]
 kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de0768a9;master:10c56b4f94c1ec79a65c4d8eb890e2ac4e9b11bc;2023.03.02.1000:4b4f1bd2649f3b540ca20945f461287d4f987a01]|RELEASE:[v2023.03.02.1000|0f4071a61b4ba8a7119d3405e760929089545f9e]
 lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db765132892b2b]|RELEASE:[none|none]
-m5stack/.github: BRANCHES:[main:ade7866d4947e4331f51e3d37ce958e823c4993f]|RELEASE:[none|none]
+m5stack/.github: BRANCHES:[main:3f6859e57c6e7fb07d033d63ef9a92d9c08330c6]|RELEASE:[none|none]
 m5stack/AI-Pyramid-EC-Proxy: BRANCHES:[main:eaa615dca3054829aec58e5fe596d58724041633]|RELEASE:[none|none]
 m5stack/AIFlow: BRANCHES:[main:930edd59329568bc8c8f5db5d591abc51548afa2;beta:f7cdccc09ca7a5429d2e6e4aecbeaffe1b1ce1ed]|RELEASE:[v1.0.4-beta|930edd59329568bc8c8f5db5d591abc51548afa2]
 m5stack/ATOM-ECHO: BRANCHES:[master:2383b77d4345e781c061dafa28fc39a57d5d0668]|RELEASE:[none|none]
