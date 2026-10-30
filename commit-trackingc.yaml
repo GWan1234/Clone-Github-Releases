@@ -571,7 +571,7 @@ m5stack/CM4Stack_lvgl: BRANCHES:[Basic:b248414df6d0523d127b024a05fe3f60111dd2fb;
 m5stack/CardputerZeroRepository: BRANCHES:[gh-pages-preview:f6d53db63a025313fdee34c0a9308bdf190e0809;ci/bootstrap:05ac0eb812a508ecdf3fb3eff0329db0d6e429f6;main:774d9a86fa722c92075c3d351285d0c9bad63f0d]|RELEASE:[apt-pool|70414d854dd360307360673217bf09423c547e04]
 m5stack/Core2-for-AWS-IoT-Kit: BRANCHES:[master:e1c3750e204e714ca62b93f6c20aabd7f7ce286d;BSP-dev:55d8c04dd8973634b76548394c95450458105688]|RELEASE:[none|none]
 m5stack/Core2forAWS-MicroPython: BRANCHES:[master:6fd6134fc500f802499346e9938a727027610e1c]|RELEASE:[none|none]
-m5stack/CoreMP135_Bare_computer_project: BRANCHES:[master:cab82e4245a558b8be2da56ee47b2034ad95cdfe]|RELEASE:[v0.0.1|5c2b61b51dca0d1848b2e03e873f37fac6a6e263]
+m5stack/CoreMP135_Bare_computer_project: BRANCHES:[master:50ca01ea94fe6b52321d42b8fa46b289c727ebf3]|RELEASE:[v0.0.1|5c2b61b51dca0d1848b2e03e873f37fac6a6e263]
 m5stack/CoreMP135_buildroot: BRANCHES:[st/2023.02.2:b885d5525ad332995dc08b1b2d48ef9995326169;master:d3d1d5a2dab19a954915c807e90ac74708b7e9ce]|RELEASE:[v1.0.1|b885d5525ad332995dc08b1b2d48ef9995326169]
 m5stack/CoreMP135_buildroot-external-st: BRANCHES:[st/2023.02.10:6126c14814bed57de87ce51665adef5037e0e741;test:a376bc8b735070c4bb6a4e61af40e8b6047c177d]|RELEASE:[none|none]
 m5stack/CoreS3-Box: BRANCHES:[master:405c5438b399a27459fb45c097fcca19c295e029;dev-cores3:5bfae0f56bf370a9ca735e9e9cd10a4d36ceca26]|RELEASE:[none|none]
