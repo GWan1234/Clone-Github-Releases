@@ -588,7 +588,7 @@ m5stack/HAT_8Servos_v1.1_Firmware: BRANCHES:[master:8b20cbfb197222eedd91c4414730
 m5stack/IoT_BASE_NB_FactoryTest: BRANCHES:[master:21d053c2b6059f4994bfebe8b236935fadf18bf0]|RELEASE:[none|none]
 m5stack/IoT_BASE_SIM7020: BRANCHES:[master:87ca30f05dea0e4e3ae1df2edd5bb6944e0c08dc]|RELEASE:[none|none]
 m5stack/IoT_BASE_SIM7080: BRANCHES:[master:ce787e5f61929aaada2ce7ee8bb301ab08de7d68]|RELEASE:[none|none]
-m5stack/LLM_buildroot-external-m5stack: BRANCHES:[dev:0bb8631aa0722b2242ad7e12d5e454c6068677ee;main:a9499a15ae0b4a079b12c261f0c20f38a82185b6]|RELEASE:[v0.0.0|5e6457b71ffb02e7bad5bc4e08005412675b0bb9]
+m5stack/LLM_buildroot-external-m5stack: BRANCHES:[main:31c0a84fa3cd0099d6725db49958139a7b7d5001;dev:0bb8631aa0722b2242ad7e12d5e454c6068677ee]|RELEASE:[v0.0.0|5e6457b71ffb02e7bad5bc4e08005412675b0bb9]
 m5stack/M5-ADS1100: BRANCHES:[master:406a44ceaaf3dab14e3386bafc93d7c725b5ab40]|RELEASE:[0.0.1|0c5724e2b48c46fd9287e6dd62fe37dc6768aa01]
 m5stack/M5-ADS1115: BRANCHES:[master:54078abe07e5fd3d12089dcbcb65be717936b87d]|RELEASE:[1.0.0|129349489310a96feed15f9d922081aa641c62f9]
 m5stack/M5-DLight: BRANCHES:[master:211a3f3b12f8b522b60c0b738867db30f633cd0e;fix/update-examples-for-current-m5-library:a7f62041c8d9e683e3f5f6874b752cf50ed45dc2]|RELEASE:[0.0.5|4dd8d2bd862abce5e995a2e7efea2a691baa8c75]
