@@ -1668,7 +1668,7 @@ m5stack/M5Unit-WeightI2C: BRANCHES:[main:e92712b7e2d34170fa595d7444022f4b3d82730
 m5stack/M5UnitEncoder_Firmware: BRANCHES:[main:4b68d8bb56f147d37d341cfd5916ab20909a2cfc]|RELEASE:[none|none]
 m5stack/M5UnitUnified: BRANCHES:[gh-pages:396e21c78eb35ffd09a78dc0ce38708163cf2c3c;main:53b220c98cae16082b9c473155ff0e5ea23bb860;develop:4c6adcaa9321b598c90c9d28bcd645d01ea54d03;feature/esp-idf-native-support:26c1b3ae52f17e2ec5b871641e97ffad0faf5c82;reset_and_play:4944511c444799f91c168c9d85f390df1164abe5]|RELEASE:[0.6.4|53b220c98cae16082b9c473155ff0e5ea23bb860]
 m5stack/M5Utility: BRANCHES:[gh-pages:c36fc0ef496d44a57a099ecdd53cd96bb1a03228;main:a8c562520bc1024d312a9746967e719f370a472d;develop:caf7a03baed4fc4d8db05b75a21869d2932842e8;feature/esp-idf-native-support:80bf5a0be5d30506513c452b5b258270bdfb7f3e]|RELEASE:[0.3.1|a8c562520bc1024d312a9746967e719f370a472d]
-m5stack/M5_BMM150: BRANCHES:[master:6ff0842dc16c9b08c2503d8977da5efb0bd424c5]|RELEASE:[0.0.2|080bb32e9d52dface5f0109fd82f0ff3baab0e60]
+m5stack/M5_BMM150: BRANCHES:[master:b9c42b5fcb4cb5efd601975ede47abfc10d4631c]|RELEASE:[0.0.2|080bb32e9d52dface5f0109fd82f0ff3baab0e60]
 m5stack/M5_CH55x: BRANCHES:[master:5eec408e2da41772afcbe718dc489974f9691adc]|RELEASE:[none|none]
 m5stack/M5_Camera_Examples: BRANCHES:[main:4afbc88f3825d6c87c753d60d86ddc73bf6d1cf3]|RELEASE:[none|none]
 m5stack/M5_EzData: BRANCHES:[master:5fca3d204694c607cb483528266605250446bf78]|RELEASE:[0.0.2|1a78fb987ab102be70bc2a2ce9a66f55560fac36]
