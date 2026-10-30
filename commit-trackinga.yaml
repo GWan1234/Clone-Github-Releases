@@ -1,4 +1,4 @@
-commit-tracking: 2026-10-30 05:37
+commit-tracking: 2026-10-30 05:40
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2276,13 +2276,13 @@ sonocotta/attiny1616-dev-board: BRANCHES:[main:352e5beb1ee896f236b29e0d347c5a289
 sonocotta/esp-adf: BRANCHES:[release/v2.4:6381a4413ca6eadf41853b4e596d85d89b63e677;master:a535ca9d6960543dc9cd523e6593a6f0b70b88fc]|RELEASE:[none|none]
 sonocotta/esp-luma-drive: BRANCHES:[main:c3f3fc2ea8ce746be744dc7155f72e977d12f19b]|RELEASE:[none|none]
 sonocotta/esp-tunein-player: BRANCHES:[master:3a891ec6a1a374507e89510c52a69b75e3917d5a]|RELEASE:[none|none]
-sonocotta/esp32-audio-dock: BRANCHES:[main:860d53b2d32421430db7817310afaa9c0087d3d1;features/parametric-case-for-louder:af8eeecd1537afdd57291815412a2f62b5e04afc]|RELEASE:[none|none]
+sonocotta/esp32-audio-dock: BRANCHES:[main:6aa469e68cfcd2ba91618a58634f43661a405c28;features/update-to-esphome-2026.10.0:9037dffa08fa225379b16a6ef6760f21e28b2da8;features/parametric-case-for-louder:af8eeecd1537afdd57291815412a2f62b5e04afc]|RELEASE:[none|none]
 sonocotta/esp32-esp8266-screensavers: BRANCHES:[master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc]|RELEASE:[none|none]
 sonocotta/esp32-gameboy: BRANCHES:[main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7]|RELEASE:[none|none]
 sonocotta/esp32-tas5805m-dac: BRANCHES:[main:6ba7abc1156a1be5154b01c6d6d8b2b755b690a3]|RELEASE:[none|none]
 sonocotta/esp32c3-dev-board: BRANCHES:[main:a6194a7d33debfb0ff611d6e8bc8954459285bdd]|RELEASE:[none|none]
 sonocotta/esparagus-echo: BRANCHES:[main:b912636c0ae181f8a8e69c58c401dc9e90ecf434]|RELEASE:[none|none]
-sonocotta/esparagus-media-center: BRANCHES:[main:de024978d01259c5309e42e92674cb6ec76ed02c;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462]|RELEASE:[none|none]
+sonocotta/esparagus-media-center: BRANCHES:[main:0bc33ec05019d5f0df0d0e01ba048285493a7efc;features/update-to-esphome-2026.10.0:a6f3642ac274b5f0d40e42ade00b165ac39adb2f;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462]|RELEASE:[none|none]
 sonocotta/esparagus-snapclient: BRANCHES:[main:82f77431c1fdc9e76345662dcab7838d302093a4;features/merge:131cf4afa54e93db1c7d6e04a00f99a2d86d8694]|RELEASE:[none|none]
 sonocotta/esparagus-snapclient-fork: BRANCHES:[features/s3-support:600d8a6e68bb399d02c890117ea954a4c7eee0dd;master:e0d5a8e99c21df0970c1a526e63c16c1be6056b8;master-backup:a825a7025fcb0ab5273e4ea18ee3a39e469fcb60]|RELEASE:[none|none]
 sonocotta/esphome-husb238a: BRANCHES:[main:0a36e5a742e3d3b4322e13940dfe330bf44aed53]|RELEASE:[none|none]
