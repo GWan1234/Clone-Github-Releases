@@ -673,7 +673,7 @@ m5stack/M5Module-4Relay: BRANCHES:[main:02f9b3adbc8f4f47a48ec0f4440529846695ebc7
 m5stack/M5Module-4Relay-Internal-FW: BRANCHES:[main:8bdad17b02ae3867f614ad85015f11007059c488]|RELEASE:[none|none]
 m5stack/M5Module-AC-2Relay-Internal-FW: BRANCHES:[main:05a9785507019d1f6f470decd3ee356f1bc7a931]|RELEASE:[none|none]
 m5stack/M5Module-Audio: BRANCHES:[main:48ce6f64033d5d49a32a38b6fc8d85313f11729b]|RELEASE:[0.0.2|72c98cc7746ae76bee05ee9dee4576b2a658aeb9]
-m5stack/M5Module-Audio-Internal-FW: BRANCHES:[main:6aa902394c9ed8b4d89367773378d2290ea51282]|RELEASE:[none|none]
+m5stack/M5Module-Audio-Internal-FW: BRANCHES:[main:780f681cb85bb3d7897ed90fc7d6a5c7319faa41]|RELEASE:[none|none]
 m5stack/M5Module-DMX512: BRANCHES:[master:5b209bfb589f5ac498dc299b072b27111cd0ceb0]|RELEASE:[none|none]
 m5stack/M5Module-Display-13.2: BRANCHES:[main:fe1ccacf3d4b014d77db601aa67f40cf6f5a0adf]|RELEASE:[none|none]
 m5stack/M5Module-DualKmeter-13.2: BRANCHES:[main:5f31185e7e8855dded4d7b5bf15950ca2ae3b78e]|RELEASE:[none|none]
