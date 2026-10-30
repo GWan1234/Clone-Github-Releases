@@ -1657,7 +1657,7 @@ m5stack/M5Unit-THERMO: BRANCHES:[gh-pages:ba1460b0542aa9b6c62ac27b2db22ccddbfe7b
 m5stack/M5Unit-TOF: BRANCHES:[gh-pages:38d8622bfd1279c318fddcfc04b3497c9fdd99be;main:9de70e8e4ed6a24845bb9e5dc99226dc06b80070;develop:d769adff5d10e0df8726a79ae3ff18cc6fd86f35]|RELEASE:[0.3.0|9de70e8e4ed6a24845bb9e5dc99226dc06b80070]
 m5stack/M5Unit-TUBE: BRANCHES:[gh-pages:36606843c095624c246e56ae0037d6be5aec156a;main:76046f0c8b93c636b30cb4896a50cb4352e7cf36;develop:3560b27ad8e41e695d7281663ada26fc4f2533fd]|RELEASE:[0.1.0|76046f0c8b93c636b30cb4896a50cb4352e7cf36]
 m5stack/M5Unit-Thermal2: BRANCHES:[main:c3e7b86b96019a74d67f2d85acddf9f7fc130b64]|RELEASE:[0.0.1|03421ca217ce9677d204a5d61e488729316061cf]
-m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:7da5b769c00e3411a334fa4b633f054c5bea10c7]|RELEASE:[none|none]
+m5stack/M5Unit-Thermal2-Internal-FW: BRANCHES:[main:496530d6a913a9bb04e246b8f040a0cfc87207a9]|RELEASE:[none|none]
 m5stack/M5Unit-TimerPWR: BRANCHES:[main:94e0089de4e07d68a0b6710228109cebead2a7f4]|RELEASE:[none|none]
 m5stack/M5Unit-TimerPWR-Internal-FW: BRANCHES:[main:dedd2903400739619f1ce055578bfab4c7026636]|RELEASE:[none|none]
 m5stack/M5Unit-ToF4M: BRANCHES:[main:b523d573f8b608cbe351fce33f5cbfbbdd05856c]|RELEASE:[1.0.0|b523d573f8b608cbe351fce33f5cbfbbdd05856c]
