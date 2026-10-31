@@ -18,6 +18,7 @@ allrepositories:
   - MetaCubeX
   - atc1441
   - pvvx
+  - axpdev-lab
 
   - emqx
   #   250
