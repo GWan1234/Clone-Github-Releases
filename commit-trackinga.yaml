@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-01 01:43
+commit-tracking: 2026-11-01 01:45
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1457,9 +1457,11 @@ esphome/zwa-2: BRANCHES:[esphome-version-update:12254a9160c1bd21f34a7445f8139003
 faadd2/AndroidForClaw: BRANCHES:[main:6de6343d11adca575020715d30e6731028fe061c]|RELEASE:[none|none]
 faadd2/SDRSharper: BRANCHES:[master:e190b08a7545d24fe65aadb6d668211f14921947]|RELEASE:[none|none]
 faadd2/SSL-Assistant: BRANCHES:[main:9258f0afe2eb4ca6948475971fdaadbd80a4d15c]|RELEASE:[none|none]
-faadd2/luci-app-onu: BRANCHES:[main:ea626673871d2c93a4dc71145ed1f6005e39c41d]|RELEASE:[none|none]
+faadd2/luci-app-onu: BRANCHES:[main:7de9eee07007c9fbeed2d5ec9a848a156500cf80]|RELEASE:[none|none]
 faadd2/luci-app-pon: BRANCHES:[main:9ac2142e32054a171fdb8119cc27e78f842224d7]|RELEASE:[none|none]
-faadd2/zn504xg-onu-build: BRANCHES:[main:59b7f6d4195e4082a9f9b3b09d947168af882594]|RELEASE:[build-16|bf8431b811fb32c5989020e555983bf24a744fa9]
+faadd2/rea: BRANCHES:[fix/8214-retained-comparison-inputs:f19931be11cb8389247bbf17be7d13ec305a9914;release-please--branches--main--components--rea-agents:60f33267d96e425d337955384642df18a0fcb578;release-please--branches--main--components--rea-agents--release-notes:15a8abcad950563b0515c77f2ce193d050da341c;main:6e2404b8690f6faa75227d895c937be5b77ef238;fix/pr-8089-conflicts:6c484b35b83820923a912f10f23dd472a7818e36;fix/main-sync-2087-captured-c6503ed:31dffa3683198d3b06d6d1b1b650e01196c83303;verify/7167-browser-connect-macos:4bbebfa47526e67c05fbbbcdfe70982fcafeec3b;fix/7167-browser-connect:9cb63fd1d13b1c7e8c538cf7ea95910e6991a370;test/managed-caller-parameters-20261024:4453d724f76696d38ec0664556fb2b4e492fae16;fix/6926-pinvoke-platform-decorations-20261023:9d22729b85017aca359af9f0706036c136b99249]|RELEASE:[none|none]
+faadd2/rea-cn: BRANCHES:[main:e8fda7a778081bed8b377b888defffb723310dbd]|RELEASE:[none|none]
+faadd2/zn504xg-onu-build: BRANCHES:[main:8e85509a127f3cf4e191333fed81a608c886ee46]|RELEASE:[build-21|ca76dc61f6ebd10d5d937070e1df29533c73cd29]
 fatedier/frp: BRANCHES:[dev:93b52799bb7e6dad7ae1152c8b593eefcc17d595;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
 flameshot-org/QHotkey: BRANCHES:[master:d7063877c14d5ae2b489dc70bbe02e76a43bf38b]|RELEASE:[none|none]
 flameshot-org/SingleApplication: BRANCHES:[master:0ba7b6ce42cfb863cbb1463c274c762e1eb6652b]|RELEASE:[none|none]
