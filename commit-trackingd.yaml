@@ -3606,7 +3606,7 @@ waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c04
 waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c158371e03be]|RELEASE:[none|none]
 waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:c171531c6c7a06e33e160ab0802d51f7a0307b71]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:be346f80e3b1a490a0b0b8d7e09e06f8e231a1cb]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:86c1c2fab10ba8cf7148e50f7d26b57b55a3a5b7]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:6f78fa810ec505048c1941e3d09cefc9f29129bd;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:0e2bf9c1242d01a10f218787390812c39e1e6671]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:ea3986de1169f0e6905dd0ee94bf6f77c980c17c]|RELEASE:[2026-10-27|9f00768b469e823e308d0b17e06ca37bd15b2bc0]
