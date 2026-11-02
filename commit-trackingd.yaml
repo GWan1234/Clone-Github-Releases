@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-02 10:20
+commit-tracking: 2026-11-02 10:24
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1227,7 +1227,7 @@ Seeed-Studio/uf2-samdx1: BRANCHES:[master:0615d4a47806cf3f00da84e08811f2a9276403
 Seeed-Studio/wiki-documents: BRANCHES:[auto-translate/pr-5877:6149cd7e64d3c28e6fc20c2edeccd4ff67195d48;docusaurus-version:b8f3f00552bf47742b0b0f7a991fe0b038e94353;auto-translate/pr-5875:03e27a2667951fbab66ee22e171d4626ca1deba6;gh-pages:b7686be010718bfe02e87bd681cedc2e5f935390;auto-translate/pr-5866:6b053669cc52294fbe2154a5af64f2c69102aaaa;auto-translate/pr-5864:1619f4cc1ad1875e5c1c7c75d1d03900395d0aed;auto-translate/pr-5859:7b6a1372fc7928a0f38e3654ad59c8fefcc4d3db;auto-translate/pr-5857:10eebc0bd48fd8f6fd179a78643a75437020290f;auto-translate/pr-5852:e57ec9487a1f8e9aaf635f60e40ebbfdaaff40cc;auto-translate/pr-5851:391727d3b54ad083fe0eb829dc824ad7dd4cdb4a]|RELEASE:[none|none]
 Seeed-Studio/wio-cli: BRANCHES:[master:fc187a25b4e2857426e4832b119749e76857899f]|RELEASE:[v0.2.1|4ea8da22945ec8e8328cc2e40787795402bb6d95]
 Seeed-Studio/xiao-assistant: BRANCHES:[main:4b79d5e225630597d352389df43ae5a9db83f6b3]|RELEASE:[v0.2.0|4b79d5e225630597d352389df43ae5a9db83f6b3]
-Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:8ee663e3dc97e85dfe526c025eec86471013cd90;dev:4ea399123e4343d9d24a1e98c671e412bc8ae2bd;BT_proxy:9ac8cbe339516e2c20fd72c62eb64106e6eaa6c6]|RELEASE:[V4.3.4|8ee663e3dc97e85dfe526c025eec86471013cd90]
+Seeed-Studio/xiao-esphome-projects: BRANCHES:[main:9088387954e5c6ccb4c80142d48f46f5ac43b9f6;dependabot/github_actions/esphome/workflows/dot-github/workflows/upload-to-gh-release.yml-2026.10.3:a95734ec94cbb9bf1000033e5fb1e6a68f558e71;dev:4ea399123e4343d9d24a1e98c671e412bc8ae2bd;BT_proxy:9ac8cbe339516e2c20fd72c62eb64106e6eaa6c6]|RELEASE:[V4.3.5|59c20a9855d4746f3ffe169ceb94fe0b2feae05a]
 Seeed-Studio/xiaozhi-esp32: BRANCHES:[watcher-en:275c6623271bf6ad517fe1448a859d27133344b9;main:45c62f5a532d1fd7efbc8af45609f1090cdf4dfb]|RELEASE:[none|none]
 Seeed-Studio/yolov5-swift: BRANCHES:[master:b246faed8ceaefd67105420214fb93154de66c9d;newclasster:6127d312d5d1b738045f932e790c2e4617109610;classter:1551e074b1c301970bb4418df764ef102377d543;nanodet:eae5d66eaf336141791d96f31e074a0c61ad99f4;classifier:9794f63ddfdc7599a1ed368395115f9cd3c7d50f]|RELEASE:[none|none]
 Yuzhii0718/bl-mt798x-dhcpd: BRANCHES:[master:e4cf4dc72d451dc7a86c9508390ad5a2e50743c4;old-version:f53dc6c2da8bb7cc276fbc3286f991b46b389f01;pr-sync-old-board-2025:128183b260a9c104a820cbf3d9cde96b1fbb6f36]|RELEASE:[2026.08.31-1437-all|384fdd8a743506a9c3ea73289d419f9d6519d61f]
