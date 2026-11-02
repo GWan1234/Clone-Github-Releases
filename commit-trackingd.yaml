@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-02 10:17
+commit-tracking: 2026-11-02 10:19
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -917,7 +917,7 @@ Seeed-Studio/OLED_Display_128X64: BRANCHES:[master:59bbbfb50107683b2ee82d1141e70
 Seeed-Studio/OLED_Display_96X96: BRANCHES:[master:edffe1d6bab1198e05af75701261857783031f38]|RELEASE:[v1.0.0|d6a44b3b80ec9e299d79fab82d2a23f8f39d0253]
 Seeed-Studio/OPL_Eagle_Library: BRANCHES:[master:d5d4077ea35402396e7a7a46bdabee996a3add0a]|RELEASE:[none|none]
 Seeed-Studio/OPL_Kicad_Library: BRANCHES:[master:b0035c51eb0348bb3e165fdb2f2765fa3d1d17bd]|RELEASE:[none|none]
-Seeed-Studio/OSHW-Jetson-Series: BRANCHES:[main:0f0797e4bb6cc5787f800af63908b23544050072]|RELEASE:[none|none]
+Seeed-Studio/OSHW-Jetson-Series: BRANCHES:[main:c982ee71b305aabd0c1c7c1caac38122e63cd9e1]|RELEASE:[none|none]
 Seeed-Studio/OSHW-RPi-Series: BRANCHES:[main:d34f1e251d5a9f5fb5422dbc9cb491f1a544bdac;revert-19-main:e44aa1242c2f4a3e58cf7e573aeff3c3ec87fc7e]|RELEASE:[none|none]
 Seeed-Studio/OSHW-SenseCAP-Watcher: BRANCHES:[main:3ca69aefa8441f57d38993a39df714048633d032]|RELEASE:[none|none]
 Seeed-Studio/OSHW-WioTerminal: BRANCHES:[main:c9192a3c7aeb40c7d3c09e5397f0a531f2847d0c]|RELEASE:[none|none]
