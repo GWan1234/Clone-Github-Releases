@@ -495,7 +495,7 @@ Seeed-Studio/rockchip_sdk_tools: BRANCHES:[main:198a4ef7fb5a0026f11a65d893b00749
 Seeed-Studio/sdk-sidewalk: BRANCHES:[main:8d2454ad068dd05cb141d4d2ffb114b2d1ae9415;v1.3.0-add-on-branch:a741fb44f4db3bd9217363920f3ccf7f671f4f24;check_nrf54l10:c4ac17ce57aa1b278a6f1a5965852378890a1cba;nrf-upmerge:8dd61f137b95e42a23fddce9cd741c98708bbc1c;v2.6-branch:0631ff6d061dadbd1e6d2be2636698427fc9bba6;v2.9-branch:793482af5f8a460038d8b5723c8c5465e962b0d4;v1.0.0-add-on-rak4631:3fda32ca565b40a88e7add965d47e929b30704ed;documentation-last-NCS-version:3809e4a56827d191ce5443f016d3b253df442abd;v2.8-branch:115325c4d966ba9e06d417ea30865b7e57e8f467]|RELEASE:[none|none]
 Seeed-Studio/seeed-ambd-firmware: BRANCHES:[master:86119d870213a441497ac76b70b432ddd0beae6a;Wio-Lite-AI:fc9526d5bf68ad6756e47e43520dc8b49d924492;JP:fd78b930e417a80015a24b4bb92aa56065468f80;qian:58ccdf96f03b3161a356a0b5481b7b418c9ec24a;dev-xiao-rtl872x:918be9a851f08388967a52ed7fc02cdae31027af]|RELEASE:[v2.1.3|7334817a6fcf311fbe3c9a8c5644b805ae12bdab]
 Seeed-Studio/seeed-ambd-sdk: BRANCHES:[AT:d953d6473f1d7612d88b0aaeefadb48ee2e72e5c;master:d64c72293cd6d4b75f6b6f37eaa61376e1290e9c]|RELEASE:[none|none]
-Seeed-Studio/seeed-android-rockchip: BRANCHES:[main:b08de92f053c0ddeb505f883ec6b062d12fb3509]|RELEASE:[none|none]
+Seeed-Studio/seeed-android-rockchip: BRANCHES:[main:f498aa797523857dc25f32d66b7e11308b43d518]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-TFLidar: BRANCHES:[master:ea396f046483f933172df246919f3ea6a9e0a7b2]|RELEASE:[none|none]
 Seeed-Studio/seeed-ardupy-WTbacklight: BRANCHES:[main:f27924fe4fc9c2dce00709bf08b3eade2df82f8e]|RELEASE:[v1.0.0|2054aa137e67cdb6d90f86452699f6fa73f6fdd3]
 Seeed-Studio/seeed-ardupy-ads1115: BRANCHES:[master:8f8fdb791082eac4d6cbdba0e87c3638f4e6bee8]|RELEASE:[none|none]
