@@ -20,6 +20,8 @@ allrepositories:
   - pvvx
   - axpdev-lab
   - OpenChipLab
+  - WCHSoftGroup
+  - ZhiyuanYuanNJ
 
   - emqx
   #   250
