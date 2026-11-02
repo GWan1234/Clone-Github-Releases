@@ -19,6 +19,7 @@ allrepositories:
   - atc1441
   - pvvx
   - axpdev-lab
+  - OpenChipLab
 
   - emqx
   #   250
