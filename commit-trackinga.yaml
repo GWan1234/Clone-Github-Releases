@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-02 06:08
+commit-tracking: 2026-11-02 06:09
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1877,6 +1877,7 @@ kukudemajia/esp_framework: BRANCHES:[esp32:b097f01b9f80f7fff70eb2be341a1aa4de076
 lambilly/ESP32-Squeezelite-Speaker: BRANCHES:[main:2c2d3ac364abe09c7d4d5daf05c3ddb1800975f8]|RELEASE:[none|none]
 lambilly/MQTT-Bridge: BRANCHES:[main:9575cdc6f340de3175ed74bc1b19ca8f3db7bb84]|RELEASE:[none|none]
 lambilly/brands: BRANCHES:[add-daily_fund-icons:4147861d2b79678a7127be187cbe22282652c393;add-hengda_property-icons:6922720ce1e185b1d986a5d2218305479103443d;add-tian_api_icons:d5512e6810fd7ee33163c1d8ef90809395e67fba;master:e9578a138435328dcb49d2909b1c98719ea85d99]|RELEASE:[none|none]
+lambilly/ha-monitor-display: BRANCHES:[main:d0d889625a693071e0aa3947b2dd39922a1dcedd;api-legacy:b37c283da627f44686c548381aeaa6da00613d9a]|RELEASE:[v0.9.0|b37c283da627f44686c548381aeaa6da00613d9a]
 lambilly/ha_traccar: BRANCHES:[master:548ca152d6988afae3ff998ce7ea7207aae42c0a]|RELEASE:[v1.0.2|548ca152d6988afae3ff998ce7ea7207aae42c0a]
 lambilly/ha_tuqiang123_traccar: BRANCHES:[main:fdcdbdc8767dcaf5372aef6dcdcface4c336cd06]|RELEASE:[v1.0.1|fdcdbdc8767dcaf5372aef6dcdcface4c336cd06]
 lambilly/ha_tuqiang_traccar: BRANCHES:[main:83f6bb42034c97b015d07dd15e5f041807076ad0]|RELEASE:[v2.1.1|83f6bb42034c97b015d07dd15e5f041807076ad0]
