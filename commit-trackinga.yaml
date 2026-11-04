@@ -1506,7 +1506,7 @@ home-assistant/android: BRANCHES:[fix/device_control_removed_entities:5b590db5e0
 home-assistant/app-cec-scan: BRANCHES:[main:4bd21a0f69de53a377d5e7ed7c5df61f237f1259]|RELEASE:[4.1.0|eb7d8ea654a450adead857b6706ec30d161f3743]
 home-assistant/app-configurator: BRANCHES:[main:c631c6ff0b9c9bed679223f0923a43013f9682d9]|RELEASE:[6.3.0|42494b4cc43fe57098e2a5f67ca24cc84b67a77e]
 home-assistant/app-deconz: BRANCHES:[main:e5fa73ec22b932cf7db93d4b5827acf79f5160d4]|RELEASE:[none|none]
-home-assistant/app-dnsmasq: BRANCHES:[]|RELEASE:[none|none]
+home-assistant/app-dnsmasq: BRANCHES:[main:eca1b9c8cc730e8bc1a35c2fd3c6937a1cca0a4e]|RELEASE:[none|none]
 home-assistant/app-duckdns: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-git-pull: BRANCHES:[main:b4d85d061bc8b685a6862b43e28ca42d602321ad]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
 home-assistant/app-letsencrypt: BRANCHES:[]|RELEASE:[none|none]
