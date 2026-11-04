@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-04 06:47
+commit-tracking: 2026-11-04 06:49
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2567,6 +2567,7 @@ voorz/Kwrt: BRANCHES:[main:043372fb066ec9b8b6bec3e843698cdff0152a3e]|RELEASE:[v1
 voorz/MT5WebAPIGO: BRANCHES:[main:e7768e353e8a94cd71230f046dceb5a6524f920d]|RELEASE:[none|none]
 voorz/NekokoLPA2: BRANCHES:[master:631cef5fd210824aebda678ac68e607689209f3e;release:727655642f52df8b4bb713b67a6bdcc6f2bb0253]|RELEASE:[v2.2.0+577|7e8725ac5fd0fbca3b7afdb875aa597e871d8116]
 voorz/OpenWrt-nikki: BRANCHES:[main:0c4e38ee8bbeb7dd48905c6f6c7507ffc15b8d30]|RELEASE:[v1.26.2-fork.4|8fb8d91529a452274d66adbeb81e2c7e8262c3fc]
+voorz/Podroid: BRANCHES:[main:1173d67df452031ce14bce0059101ee0e4753187]|RELEASE:[v1.3.0|b09ee7fbe42c3f9ee5f98c7a667774392c9c1fe7]
 voorz/QModem: BRANCHES:[main:cf110633fa836fa898f30384fcff396c73344739]|RELEASE:[none|none]
 voorz/SimAdmin: BRANCHES:[main:0b77268c450a4bfce0d93c0e2b8c035bb4d45c51]|RELEASE:[v1.1.6-5|0b77268c450a4bfce0d93c0e2b8c035bb4d45c51]
 voorz/Termix: BRANCHES:[main:cf3e2cb499a50f042022c16a19891f807dd19a4b]|RELEASE:[none|none]
@@ -2592,6 +2593,7 @@ voorz/notccid: BRANCHES:[main:13b2290cc3de44a803a71225fd28d2195b91c14c]|RELEASE:
 voorz/nuxt-shadcn-dashboard: BRANCHES:[main:54988681e50feaa4935828882da93faff06cf042]|RELEASE:[none|none]
 voorz/openeuicc: BRANCHES:[master:2a85b8dad6000eea9dd622a468b7558e79933b2a]|RELEASE:[none|none]
 voorz/plmn-index: BRANCHES:[main:e9c1df3e7fe6f14570fb94cb299b1cea503f0927]|RELEASE:[none|none]
+voorz/podroid-air: BRANCHES:[main:80ba354cd189604912aaaaa179eba03e298c9da9]|RELEASE:[v2.0.2|80ba354cd189604912aaaaa179eba03e298c9da9]
 voorz/qmi-go: BRANCHES:[master:1f23a6ecc5693da58efca68293e47b46a525ecac]|RELEASE:[none|none]
 voorz/qqbot: BRANCHES:[main:08395bb4c5056e516dac4fa91a9aed84758c64fa]|RELEASE:[none|none]
 voorz/quectel-qmi-go: BRANCHES:[main:0c9bfe01ef242fea2ab381e1b32cafaa0a558daa]|RELEASE:[none|none]
@@ -2601,7 +2603,7 @@ voorz/sipgo: BRANCHES:[main:b91481e9ba864c84a27ae6883133dc9483e0910a]|RELEASE:[n
 voorz/swu-go: BRANCHES:[main:71f81ea53aef8881d15f9137b9c81e4d419d2c6e]|RELEASE:[none|none]
 voorz/vectorcore-ePDG: BRANCHES:[main:b485f0f119e693cdc96e55e8deb13d531964570a]|RELEASE:[none|none]
 voorz/vohive-next: BRANCHES:[main:9e80a8495b76b76f043826244e178ed737f662f6]|RELEASE:[none|none]
-voorz/vohive-release: BRANCHES:[master:29865ee93519453b0d92dfd8d9bbc3c833a5cc85]|RELEASE:[v0.1.107|eb64ab3cb56b58bf3bb3ceb9a4a9205232b9fc2b]
+voorz/vohive-release: BRANCHES:[master:745b9a9534ccd0cf978fc80346a090f8e8542cf0]|RELEASE:[v0.1.107|eb64ab3cb56b58bf3bb3ceb9a4a9205232b9fc2b]
 voorz/vowifi-core: BRANCHES:[main:77b2d19c20c01bfeafdf6828f39675319fadc1df]|RELEASE:[none|none]
 voorz/vowifi-go: BRANCHES:[main:d434c88e17673ce3ddccf627e63f21e51e3f98c8]|RELEASE:[none|none]
 voorz/vowifi-ue-testing-framework: BRANCHES:[main:0c753a0cccf3c456c47377709ff24dfc49035717]|RELEASE:[none|none]
