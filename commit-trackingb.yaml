@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-04 07:38
+commit-tracking: 2026-11-04 07:39
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[main:5242be54403d06bb64e7a2818f44cd8a13c6beaa;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.83|5242be54403d06bb64e7a2818f44cd8a13c6beaa]
@@ -336,6 +336,7 @@ OpenChipLab/CH347-I2C-TOOLS: BRANCHES:[main:9ac03a5f277bd5dcacb2678e4413d1c1bf08
 OpenChipLab/CH347-Multi-Function-Interface-Demo-Sof: BRANCHES:[main:52ffd67d12e656794f7784354ebf6e34bf39f674]|RELEASE:[v1.0|52ffd67d12e656794f7784354ebf6e34bf39f674]
 OpenChipLab/CH347Link: BRANCHES:[main:66e743854070e12bcf7a296ebda22cedb7cf9336]|RELEASE:[none|none]
 OpenChipLab/CH347_JTAG_Scanner: BRANCHES:[jtag-boundary-scanner:2724c5448174a8772dc07392a89d10d2827395c6;main:046a15d2cfab6eb07047700b5d5d309b5bc29dfa]|RELEASE:[CH347_JTAG_Scanner_v1.1_Setup|046a15d2cfab6eb07047700b5d5d309b5bc29dfa]
+OpenChipLab/CH347_Quartus_Link: BRANCHES:[main:a38b0608baf4a0260c517d6229127fa45f7a74f7]|RELEASE:[none|none]
 OpenChipLab/CH347_SVF_DNTool_py: BRANCHES:[CH347_SVF_DNTool_c:25e487d72b8fd13e55eb8046d752bcada7e25b2d;main:6b00656e80afd7b7dea99a4d7467a5df32a31799]|RELEASE:[none|none]
 OpenChipLab/CH9338_FFMPEG_Screen: BRANCHES:[main:f5b3bd8578bf60412e2b499094b59c0e4d5ada85]|RELEASE:[none|none]
 OpenChipLab/Ch34xEfiDebug: BRANCHES:[main:f6f7f80fe9043a9da7868ae6268a9e5a8d401827]|RELEASE:[CH34x-UEFI-Driver_v1.0.0|8eed552f35e3d4bf8995b6b01a2bda5a2e243c43]
