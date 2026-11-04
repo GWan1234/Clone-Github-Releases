@@ -1505,7 +1505,7 @@ home-assistant/analytics.home-assistant.io: BRANCHES:[renovate/major-cloudflare:
 home-assistant/android: BRANCHES:[fix/device_control_removed_entities:5b590db5e0e177121cb3fd8ba908fdbf275f9bb9;main:7e2652d6ddc90df5537da6377bb06351509936eb;feature/mutualize_activity_configure_widget:62e3c656403c5be8f7ac87a6047db0418d25a105;feature/mutualize_vm_configure_widget:360b08e7c20a2893f4f58e822b534e17c175de4d;fix/forbid_navigate_external_url_from_deep_link:35ec036166f7facd292311fcb13c03d08a642bc6;renovate/com.android.-.screenshot:71b71fdca899d7bd9c19813a3af9df07b314f302;fix/widget_support_removed_entities:684ef4fed40d15e8362f98ab2712f42b8e5f1804;fix/tile_removed_entities:0d0a180e2e1e9c29ecfaf7bc2a5b50992b2d745d;fix/double_navigation:995bc1902656ac92675447a51bd60c73cf5075d0;feature/webrtc-frontend:37f8d501887f33c7f184d3a08b40e8a907b6aaff]|RELEASE:[2026.11.1|743db58e8749709c187d33b2192be9fcc149997b]
 home-assistant/app-cec-scan: BRANCHES:[main:4bd21a0f69de53a377d5e7ed7c5df61f237f1259]|RELEASE:[4.1.0|eb7d8ea654a450adead857b6706ec30d161f3743]
 home-assistant/app-configurator: BRANCHES:[main:c631c6ff0b9c9bed679223f0923a43013f9682d9]|RELEASE:[6.3.0|42494b4cc43fe57098e2a5f67ca24cc84b67a77e]
-home-assistant/app-deconz: BRANCHES:[]|RELEASE:[none|none]
+home-assistant/app-deconz: BRANCHES:[main:e5fa73ec22b932cf7db93d4b5827acf79f5160d4]|RELEASE:[none|none]
 home-assistant/app-dnsmasq: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-duckdns: BRANCHES:[]|RELEASE:[none|none]
 home-assistant/app-git-pull: BRANCHES:[main:b4d85d061bc8b685a6862b43e28ca42d602321ad]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
