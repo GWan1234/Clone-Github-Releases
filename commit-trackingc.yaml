@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-06 11:07
+commit-tracking: 2026-11-06 11:08
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2479,7 +2479,7 @@ waveshareteam/ESP32-C6-Touch-LCD-2.8: BRANCHES:[main:83640b2ccd5521ccd3916cea898
 waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c046ba36a12886974]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:c4c47b6a8001f9daa50b38912393c158371e03be]|RELEASE:[none|none]
 waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:0f9fc4c2edcadbc2527c51ce351031ac8db0326c;fix/xiaozhi-exit-freeze:075b6dbc56d569f9252f87ee10613e0ebd24de8a;feat/factory-ui-refinements:433a6a684280a6cfb5e459f291ccbaae874a2655;docs/hero-image:e1cdf20e3bbed197473a8c535f2c8dde707f65b5;refactor/use-registry-board-pack:8e29a8b6b33a520cc811e0f580f4326c45cdc55d;chore/p4-factory-and-examples:9f548a138c4fb2178affa0f818e1aa8ff3ddb42d]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:7671170de4f5fe04ae9c9a9273f6b6119eb7fb0b;fix/xiaozhi-exit-freeze:075b6dbc56d569f9252f87ee10613e0ebd24de8a;feat/factory-ui-refinements:433a6a684280a6cfb5e459f291ccbaae874a2655;docs/hero-image:e1cdf20e3bbed197473a8c535f2c8dde707f65b5;refactor/use-registry-board-pack:8e29a8b6b33a520cc811e0f580f4326c45cdc55d;chore/p4-factory-and-examples:9f548a138c4fb2178affa0f818e1aa8ff3ddb42d]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:86c1c2fab10ba8cf7148e50f7d26b57b55a3a5b7]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:6f78fa810ec505048c1941e3d09cefc9f29129bd;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:0e2bf9c1242d01a10f218787390812c39e1e6671]|RELEASE:[none|none]
