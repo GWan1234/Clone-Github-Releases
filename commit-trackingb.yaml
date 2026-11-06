@@ -1633,6 +1633,7 @@ adafruit/Adafruit_CircuitPython_IL0373: BRANCHES:[main:645f0bf78cd9e09ef07eaca37
 adafruit/Adafruit_CircuitPython_IL0398: BRANCHES:[main:7e254842757f1084d03bb9f69b6eb6cb734d45cb;pylint_update:69c425a0902d17a53faf795a041fae0fa6a27d11]|RELEASE:[2.0.5|7e254842757f1084d03bb9f69b6eb6cb734d45cb]
 adafruit/Adafruit_CircuitPython_IL91874: BRANCHES:[main:20ca580caa64a616106e7632a16f6d693363e651;pylint_update:c2ae314ab3b5807e772cc99afbcfb233e85358bc]|RELEASE:[2.0.5|20ca580caa64a616106e7632a16f6d693363e651]
 adafruit/Adafruit_CircuitPython_ILI9341: BRANCHES:[main:58e68cc13e42c069a9277fbeaa3eaeae77d12b9e;setup-py-disabled:0a4d1e8cf2d71fd0b9e8f471ad6bd4af3d953d60]|RELEASE:[2.0.4|58e68cc13e42c069a9277fbeaa3eaeae77d12b9e]
+adafruit/Adafruit_CircuitPython_ILI9881: BRANCHES:[main:14f5ffba11efc441da6f1049bdcb073504af4d02]|RELEASE:[1.0.0|14f5ffba11efc441da6f1049bdcb073504af4d02]
 adafruit/Adafruit_CircuitPython_INA219: BRANCHES:[main:8379e7e45e651196462a54e1fde1690ab2524c69;REUSE:f155504dffd553e4caf4b6671c085bf3f2b4d2e3]|RELEASE:[3.5.2|8379e7e45e651196462a54e1fde1690ab2524c69]
 adafruit/Adafruit_CircuitPython_INA228: BRANCHES:[main:d51172d42baccc2418f47c5aed7017824c2217db]|RELEASE:[2.0.5|d51172d42baccc2418f47c5aed7017824c2217db]
 adafruit/Adafruit_CircuitPython_INA23x: BRANCHES:[main:595eaf2b05040582a241f247a3b36a5da4ece37d]|RELEASE:[1.0.4|595eaf2b05040582a241f247a3b36a5da4ece37d]
