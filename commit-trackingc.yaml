@@ -2144,7 +2144,7 @@ sparkfun/SparkFun_u-blox_NEO-M8U: BRANCHES:[master:b9d3add051b54ebaf859d102cf718
 sparkfun/SparkFun_u-blox_PointPerfect_Library: BRANCHES:[main:5ba9c6b7a5ffa52f7d298c8961a8de94d1650109;release_candidate:5b89a86310c8369caf636873d9d453c4e08a93fe]|RELEASE:[v1.11.4|10464456ba8209fdd832a3869cc499664957ab46]
 sparkfun/SparkFun_u-blox_SAM-M10Q: BRANCHES:[gh-pages:a306737e3863597fefcfe0c3151c6cf4f71f5c99;main:f13f3d9ddf2b236584ee6bfaa86e8567c713dbcc]|RELEASE:[none|none]
 sparkfun/SparkFun_u-blox_SAM-M8Q: BRANCHES:[main:5ee7b9c309cabd6f88e2d8c3587cb4244a5ce656]|RELEASE:[none|none]
-sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[main:c9cb44d27401b968b1ef7cf6f63e487447b3155a;release_candidate:81d88f248aaa9c4bb92ae3a3a2b05a86cecb42fb]|RELEASE:[v1.1.13|c9cb44d27401b968b1ef7cf6f63e487447b3155a]
+sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library: BRANCHES:[release_candidate:c9cb44d27401b968b1ef7cf6f63e487447b3155a;main:c9cb44d27401b968b1ef7cf6f63e487447b3155a]|RELEASE:[v1.1.13|c9cb44d27401b968b1ef7cf6f63e487447b3155a]
 sparkfun/SparkFun_u-blox_UBX_HLA: BRANCHES:[release_candidate:4e211102620d0fa1ed76544bdf0d0318b1446d0f;main:4e211102620d0fa1ed76544bdf0d0318b1446d0f]|RELEASE:[v1.0.6|4e211102620d0fa1ed76544bdf0d0318b1446d0f]
 sparkfun/SparkFun_u-blox_ZOE-M8Q: BRANCHES:[master:bf58e3f337237006bffb924f88ee2facc8c8e1a1]|RELEASE:[none|none]
 sparkfun/SparkLib: BRANCHES:[master:6019e589518335edd39cf0fa5c89933e71470c99;session_handler:b16b796e03c058cdecf655341da8e15cf388e373;endicia_7:6dcd9b8af01ae52b1b5513f761c943cff23defb1;html_inputs:3cb6d17fbb6a87c9557d52436a069557c06691ac]|RELEASE:[1.1.14|6019e589518335edd39cf0fa5c89933e71470c99]
