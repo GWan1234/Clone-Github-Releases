@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-06 11:03
+commit-tracking: 2026-11-06 11:04
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2491,7 +2491,7 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4B: BRANCHES:[fix/mipi-dsi-revision-clock
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-5: BRANCHES:[main:d144b34d8f384e84d2442e8733523560216a2f63;fix/lcd5-bsp-1.0.4-clock:66b7a2d9fb1b4f00b11f524df1b421840b57d688;docs/revision-profile-defaults:fecfadfe427f86d8c196e517112f9d8d4c433d54;fix/issue-9-revision-profiles:df289896574169903d2ea69aa8740d834bb0ba0b;fix/schematic-link-policy:ff2cea3a2a7ba391ca92e2528668d2ec44e1511b;chore/esp-idf-ci:ec8fcadbb64281d12d575685361de64ce16ce6f3]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:452e998af0fdf200f9ce154efb1f5509854b8b6b;feature/platform-bsp-ci-docs:b566e5ce9851e0894ea589a1c03266e70ae15507]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[main:637b8798542c3d043c9b309e894dbb3456c06469;fix/lcd7-factory-firmware-260915:636a527424989586fcfbe0b4536e4005fb0a032b;fix/align-arduino-with-lcd5:ef39c93d91497f56aac3bfe882a6026be417036c;feat/expand-arduino-examples:bf41a635508c9c3f95f8f9d935bbad2b0c75f02d;chore/esp-idf-ci:5ec9abc52e879afc5bb2898cf9cdf4c357df4a6f]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[main:6948676d64515b6273998236d98a643ead640735;chore/esp-idf-ci:6acaae088fbb22ed9fe55a3396af7196190e2367;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[main:117efae89f1a510979b3d2663f23b876eb8de4a1;chore/esp-idf-ci:6acaae088fbb22ed9fe55a3396af7196190e2367;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-AMOLED-1.91: BRANCHES:[main:1986f380a4e668da5f4e2b93de9bd82555788018]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5]|RELEASE:[none|none]
