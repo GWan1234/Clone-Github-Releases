@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-06 07:18
+commit-tracking: 2026-11-06 07:19
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2569,7 +2569,7 @@ voorz/Kwrt: BRANCHES:[main:043372fb066ec9b8b6bec3e843698cdff0152a3e]|RELEASE:[v1
 voorz/MT5WebAPIGO: BRANCHES:[main:e7768e353e8a94cd71230f046dceb5a6524f920d]|RELEASE:[none|none]
 voorz/NekokoLPA2: BRANCHES:[master:631cef5fd210824aebda678ac68e607689209f3e;release:727655642f52df8b4bb713b67a6bdcc6f2bb0253]|RELEASE:[v2.2.0+577|7e8725ac5fd0fbca3b7afdb875aa597e871d8116]
 voorz/OpenWrt-nikki: BRANCHES:[main:0c4e38ee8bbeb7dd48905c6f6c7507ffc15b8d30]|RELEASE:[v1.26.2-fork.4|8fb8d91529a452274d66adbeb81e2c7e8262c3fc]
-voorz/Podroid: BRANCHES:[main:1173d67df452031ce14bce0059101ee0e4753187]|RELEASE:[v1.3.0|b09ee7fbe42c3f9ee5f98c7a667774392c9c1fe7]
+voorz/Podroid: BRANCHES:[main:6d94e43daff1cfef311ae8d9d0e0ff30b978c6b4]|RELEASE:[v1.3.0|b09ee7fbe42c3f9ee5f98c7a667774392c9c1fe7]
 voorz/QModem: BRANCHES:[main:cf110633fa836fa898f30384fcff396c73344739]|RELEASE:[none|none]
 voorz/SimAdmin: BRANCHES:[main:0b77268c450a4bfce0d93c0e2b8c035bb4d45c51]|RELEASE:[v1.1.6-5|0b77268c450a4bfce0d93c0e2b8c035bb4d45c51]
 voorz/Termix: BRANCHES:[main:cf3e2cb499a50f042022c16a19891f807dd19a4b]|RELEASE:[none|none]
