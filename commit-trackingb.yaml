@@ -2218,7 +2218,7 @@ adafruit/Adafruit_iCufflinks: BRANCHES:[master:a150f329582a90235f2d32650af52d117
 adafruit/Adafruit_iNecklace_CAD_Files: BRANCHES:[master:1c27c1308024a8a6e4fcbf95476cd2b446f13d90]|RELEASE:[none|none]
 adafruit/Adafruit_lgpio: BRANCHES:[main:fc9c79dbac6607133e579ad8ae6d6eac7aea9c83]|RELEASE:[0.2.2.0|fc9c79dbac6607133e579ad8ae6d6eac7aea9c83]
 adafruit/Adafruit_nRF51822_Flasher: BRANCHES:[master:ca606ce6fe82219cf6a66ca7d764ee0245696b28]|RELEASE:[none|none]
-adafruit/Adafruit_nRF52_Arduino: BRANCHES:[master:343ab5fe7fb3d5657d3176883dfb188d65b79f06;sdfat_v2:739d6485a07e655ca6b7ba8aa7b9cb820b3557bf]|RELEASE:[1.7.0|ba4ad90d7e90c2ad5d4c98c10539f1f77fafa6ab]
+adafruit/Adafruit_nRF52_Arduino: BRANCHES:[master:883e74018e74a16b762f08663488867479c752e3;sdfat_v2:739d6485a07e655ca6b7ba8aa7b9cb820b3557bf]|RELEASE:[1.7.0|ba4ad90d7e90c2ad5d4c98c10539f1f77fafa6ab]
 adafruit/Adafruit_nRF52_Arduino_Bootloader: BRANCHES:[master:e37c04aa06858f47ce76994b51417fbcd02e4756]|RELEASE:[5.1.0|6f0beb4d6f335ac2f2f4daa29b702005867f7ddc]
 adafruit/Adafruit_nRF52_Bootloader: BRANCHES:[master:c67f0bcf0fa8e841426335b1bbde91cda6ca1f50;tft_power_pin:64d8e34567928be295d59fa2a7cc732a734550cb;shrink-cf2-to-1KB:ea6d5481389bff46cf91184066410f38e49940c4]|RELEASE:[0.11.0|c67f0bcf0fa8e841426335b1bbde91cda6ca1f50]
 adafruit/Adafruit_nRF52_nrfutil: BRANCHES:[master:7fdfe15feee5f304fb7d9b031721dcefa1f72b58;python2:32e9b31773fabe06100a898006775ff3a65604ad]|RELEASE:[0.5.3.post17|a4a666130e7da155ff9e20c556fbb803ef8d8227]
