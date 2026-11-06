@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-04 08:43
+commit-tracking: 2026-11-06 08:00
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[main:5242be54403d06bb64e7a2818f44cd8a13c6beaa;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.83|5242be54403d06bb64e7a2818f44cd8a13c6beaa]
@@ -3431,7 +3431,7 @@ rime/artworks: BRANCHES:[master:2bd3b519ed80c4ad4f7fbb5663628fece1e9cc2c]|RELEAS
 rime/brise: BRANCHES:[master:8d5bc2e1b99f8efb2b3f3adf656009669baa1a5f;archives:42795a149a5e5fdbc90aeb4a34ab8873eb85a1a5]|RELEASE:[brise-0.38|f266b990409f7085c0312543639d5edaa3d7d0b1]
 rime/home: BRANCHES:[master:3526147716a65b6b3998a6c2630a81e4465823da;f5j:0066b932df7d7fdbeeb06975a64f9ec087db9774;push:52dbe2c35deaae9fa3d1796c90433b0cecd94fde;rimeime:0be16e9090b625779ff117a07e2b564f36c27fe5]|RELEASE:[none|none]
 rime/ibus-rime: BRANCHES:[master:57fba74724611b3c21e36656123fb62cf10b759c]|RELEASE:[none|none]
-rime/librime: BRANCHES:[master:0e8ee4047f938adc7f1e32e0dfa1f6ab11dac9db;fix-deployment_tasks-installation_update:a4e2b7be380b59baa5f3115b6e55897965d3f7ef;feat/cand-data:4661ec2d93ccfb9f81fb00aa91e4b889a428193e;windows-unicode-support:73f170fba7d9bda0778f3a85e8d1fc593a6b6e05;legacy:284fce5b06a5c29c2f52b4bfe8c288f3f41f9f7d;static-build:487b5fa7e1b0b554319962e49bc64dbfd1dbdf2f;oldschool:c5adf5030cca30bda4049906e002151c4c8ea273]|RELEASE:[1.17.0|33e78140250125871856cdc5b42ddc6a5fcd3cd4]
+rime/librime: BRANCHES:[master:2bae6b59b5ebbf2a8af7ffae5b22fbf090f91841;feat/cand-data:4661ec2d93ccfb9f81fb00aa91e4b889a428193e;windows-unicode-support:73f170fba7d9bda0778f3a85e8d1fc593a6b6e05;legacy:284fce5b06a5c29c2f52b4bfe8c288f3f41f9f7d;static-build:487b5fa7e1b0b554319962e49bc64dbfd1dbdf2f;oldschool:c5adf5030cca30bda4049906e002151c4c8ea273]|RELEASE:[1.17.0|33e78140250125871856cdc5b42ddc6a5fcd3cd4]
 rime/librime-charcode: BRANCHES:[master:55e7f563e999802d41a13ba02657c1be4b2011b4]|RELEASE:[none|none]
 rime/librime-legacy: BRANCHES:[master:9f04e6f6b645a9b57308928edf1b8487001abcf6]|RELEASE:[none|none]
 rime/librime-predict: BRANCHES:[master:920bd41ebf6f9bf6855d14fbe80212e54e749791]|RELEASE:[none|none]
@@ -3466,7 +3466,7 @@ rime/rime-wubi: BRANCHES:[master:152a0d3f3efe40cae216d1e3b338242446848d07]|RELEA
 rime/rime-wugniu: BRANCHES:[master:2818f4812af3b6f11fc0248fa8918966a3312d2c]|RELEASE:[none|none]
 rime/rime.github.io: BRANCHES:[master:beb137a1e6de96538bed0133ab13bca97e735c34;rip-mode:f35529da89f3ee0995cd907214ae2002814a0dbf]|RELEASE:[none|none]
 rime/rppi: BRANCHES:[master:0f1346f27dce5e381d518ebfa6a6410e5c56ca15]|RELEASE:[none|none]
-rime/squirrel: BRANCHES:[master:d220b92ae7d0c916f4cce50df42d9a136668ea52;cmake:10a85e770991f0f4259dc855c5dafd6cf68acce3;fast-check:4d1f549cbc87b3e4e9c2d04ecba44570c10e1526;nil-event:5c98d784c59ba7c8bd9dbc4f3e3580176a702a4c;app-bundle:a30a6e94d1b90f559567d592186b048ea8103102;core_text:94edfb611e05735b4e96253cdb487998dab7e33a]|RELEASE:[1.1.2|876adebaf2f612951dcdca8a591de65401222b9a]
+rime/squirrel: BRANCHES:[master:b7970a93b05ae1ca1bcd97888fd6aa3cd0458d3e;cmake:10a85e770991f0f4259dc855c5dafd6cf68acce3;fast-check:4d1f549cbc87b3e4e9c2d04ecba44570c10e1526;nil-event:5c98d784c59ba7c8bd9dbc4f3e3580176a702a4c;app-bundle:a30a6e94d1b90f559567d592186b048ea8103102;core_text:94edfb611e05735b4e96253cdb487998dab7e33a]|RELEASE:[1.1.2|876adebaf2f612951dcdca8a591de65401222b9a]
 rime/tests: BRANCHES:[main:9e31ead4cf4fdb398662cb7bb06a0966b6bba222]|RELEASE:[none|none]
 rime/weasel: BRANCHES:[master:f96ed24a8a535961b6ffc7160d98851a69cee4f8;revert-1499-fix_status:935dc990f36f3d4f50809f6c3a28d34685c5d117;legacy:ce48ad184c0f8b0cb486f2c3533e85dc43227b1f]|RELEASE:[0.17.4|9cc96e20dc71b80876b12f689bb5863c76c2a7ed]
 rustdesk-org/Dash-Chat-2: BRANCHES:[main:bd6b5b41254e57c5bcece202ebfb234de63e6487]|RELEASE:[none|none]
