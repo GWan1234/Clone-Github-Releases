@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-06 10:24
+commit-tracking: 2026-11-06 10:25
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[main:5242be54403d06bb64e7a2818f44cd8a13c6beaa;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.83|5242be54403d06bb64e7a2818f44cd8a13c6beaa]
@@ -3078,7 +3078,7 @@ emqx/upload-assets: BRANCHES:[master:974befcf0e72a1811360a81c798855efb66b0551;03
 emqx/xmeter-cloud-docs: BRANCHES:[master:c84c77d939ad580f9001b72d1614051b4cbfb734;dev:47112a43d1e9d8f7626925def746dc11b082b7fd]|RELEASE:[none|none]
 emqx/zsh-in-docker: BRANCHES:[master:6170c6adb62df8e911a0ebe9f97de54131244774]|RELEASE:[none|none]
 esp-idf-lib/ags10: BRANCHES:[main:02c9cef675ec2b23478e231c449b15df230aef23;ci-update:0e281e431756923decd52a0425120ec8d709860b]|RELEASE:[0.5.1|02c9cef675ec2b23478e231c449b15df230aef23]
-fatedier/frp: BRANCHES:[dev:0368148cc3de0837abaf84c6b9af501d7fe505c6;master:d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1;research/issue-5460:53d0a53a36c0863b3d9ff7bf3de4f79916edfca5;copilot/review-pull-request-5198:7993225be1d629ff7a719ba1035beb7a47f28d1c]|RELEASE:[v0.71.1|d8cf1800dc1abd7fda1828cab105d7a6b5a50eb1]
+fatedier/frp: BRANCHES:[dev:d42812ae0eb68dddff3d75d58645ab545c543147;master:bafec21abce5f91ae4a05b4bd19c55543c263128]|RELEASE:[v0.72.0|bafec21abce5f91ae4a05b4bd19c55543c263128]
 flathub/com.rustdesk.RustDesk: BRANCHES:[update-master-6068a86:21f00d6f8153595a0003b1a9ffe2fedb3c83c4a4;update-master-b8e2ca8:e5792c22544b8a0f1e9f2f853cc8ead195d49490;update-master-4e46f3a:8728b5d6fbb5b9e1a75e61bf763973dd7c32698c;master:db11d09186f26a9b3879c34310aa83a56ab87ab6]|RELEASE:[none|none]
 giszh86/vohive: BRANCHES:[main:f240894e763cf7f0cf74c88562bb9b55f0d573b1]|RELEASE:[none|none]
 huasifei-source/oui: BRANCHES:[master:a86dd36ae14342da317b4476913c7845b315962c]|RELEASE:[none|none]
