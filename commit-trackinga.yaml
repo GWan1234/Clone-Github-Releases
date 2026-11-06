@@ -1521,7 +1521,7 @@ home-assistant/app-piper: BRANCHES:[main:0f81ade7993c453b73fdc13a36d132568f8414e
 home-assistant/app-rpc-shutdown: BRANCHES:[main:32bf07340fea25f9671f603c99fce2b7c799f3a2]|RELEASE:[none|none]
 home-assistant/app-samba: BRANCHES:[main:1d3219be579306f225be65126f0d8f38585938a5]|RELEASE:[none|none]
 home-assistant/app-silabs-flasher: BRANCHES:[main:b25c5b2c17352d58f73559d1e89b69aa6d0357b3]|RELEASE:[none|none]
-home-assistant/app-speech-to-phrase: BRANCHES:[]|RELEASE:[none|none]
+home-assistant/app-speech-to-phrase: BRANCHES:[main:4e977d4fcbf7a42e75b472d64cef03d1f8c56d47]|RELEASE:[none|none]
 home-assistant/app-ssh: BRANCHES:[main:c2c85a5d33d66dbdaf20070c13c63ecb2f4342c1]|RELEASE:[none|none]
 home-assistant/app-vlc: BRANCHES:[main:033a5a7895491dbb165d8df1e3f8c1d8412227aa]|RELEASE:[none|none]
 home-assistant/app-whisper: BRANCHES:[]|RELEASE:[none|none]
