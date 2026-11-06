@@ -151,7 +151,7 @@ DFRobot/DFRobot_BNO055: BRANCHES:[master:f0912c8a47df097c3baa739178cd3f286ace6fe
 DFRobot/DFRobot_BT401: BRANCHES:[master:da3d90c5e2d33928e44eacea42d4d6e14a1da61c]|RELEASE:[none|none]
 DFRobot/DFRobot_B_LUX_V30B: BRANCHES:[master:bbdeaf2b6f3884b88818168fdba721d929cb5c19]|RELEASE:[none|none]
 DFRobot/DFRobot_Biometric: BRANCHES:[main:71ce9d1a3c9327ade35623652082ec7623c80a54]|RELEASE:[none|none]
-DFRobot/DFRobot_BloodOxygen_S: BRANCHES:[master:0823f4297439ba53e2c690264d3989cf14564511]|RELEASE:[none|none]
+DFRobot/DFRobot_BloodOxygen_S: BRANCHES:[master:b7a4bbdb85da015a4ff3a0e5548626a18f5f6699]|RELEASE:[none|none]
 DFRobot/DFRobot_Bluno2: BRANCHES:[master:116541b719fcdca764b3fc310c60465109604510]|RELEASE:[none|none]
 DFRobot/DFRobot_BosonADCModule: BRANCHES:[main:6b681e416486446c821bf69a88dea0a255236a01]|RELEASE:[none|none]
 DFRobot/DFRobot_C4001: BRANCHES:[master:0ffb02cca9f3c8cd19ae85a0c65a3ee566a06ab8;fix/uart-sensitivity-readback:a64a3ac7d319c43aff880cc7580f6d4b39b24636]|RELEASE:[none|none]
