@@ -1508,7 +1508,7 @@ home-assistant/app-cec-scan: BRANCHES:[main:4bd21a0f69de53a377d5e7ed7c5df61f237f
 home-assistant/app-configurator: BRANCHES:[main:c631c6ff0b9c9bed679223f0923a43013f9682d9]|RELEASE:[6.3.0|42494b4cc43fe57098e2a5f67ca24cc84b67a77e]
 home-assistant/app-deconz: BRANCHES:[main:e5fa73ec22b932cf7db93d4b5827acf79f5160d4]|RELEASE:[none|none]
 home-assistant/app-dnsmasq: BRANCHES:[main:eca1b9c8cc730e8bc1a35c2fd3c6937a1cca0a4e]|RELEASE:[none|none]
-home-assistant/app-duckdns: BRANCHES:[]|RELEASE:[none|none]
+home-assistant/app-duckdns: BRANCHES:[main:cdedff10e1c9cc8a32a1f6a26d66b1d993857036;add-renovate:f65154239e4e2c6385f691b34af59874e690cb5d]|RELEASE:[none|none]
 home-assistant/app-git-pull: BRANCHES:[main:b4d85d061bc8b685a6862b43e28ca42d602321ad]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
 home-assistant/app-letsencrypt: BRANCHES:[main:3ef4cf4e324d17c81cadb7951a0659eee8d015a0]|RELEASE:[none|none]
 home-assistant/app-mariadb: BRANCHES:[main:add9f63311590de7de8f58eb7dbd08c42ed43b33;he-translations:aecd0ffcd25a59818a7e5fd195df6355cef3bc0d]|RELEASE:[none|none]
