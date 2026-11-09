@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-09 11:28
+commit-tracking: 2026-11-09 11:29
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1674,7 +1674,7 @@ m5stack/M5_BMM150: BRANCHES:[master:b9c42b5fcb4cb5efd601975ede47abfc10d4631c]|RE
 m5stack/M5_CH55x: BRANCHES:[master:f8105fda197d9ecf4f52773908ce8dc62194eb4d]|RELEASE:[none|none]
 m5stack/M5_Camera_Examples: BRANCHES:[main:3939b857081fbd7742ac0c93a2a4d7db13dc62f8]|RELEASE:[none|none]
 m5stack/M5_EzData: BRANCHES:[master:bffdb38c4bae18c26dc900a716d27aea8ac20513]|RELEASE:[0.0.2|1a78fb987ab102be70bc2a2ce9a66f55560fac36]
-m5stack/M5_Hardware: BRANCHES:[master:ec351c516644b44defc145728cc029ced77381ff]|RELEASE:[none|none]
+m5stack/M5_Hardware: BRANCHES:[master:4eae1d5e94455cc4ad3a045f90915cc45b062a5f]|RELEASE:[none|none]
 m5stack/M5_SIM7080G: BRANCHES:[master:9bc4e7d77f1d8bba62da06cbad1c1c42b65f9cbd]|RELEASE:[none|none]
 m5stack/M5_WirelessT: BRANCHES:[master:8852e2fc412986c67fd7d0f7c81f84aa91679917]|RELEASE:[none|none]
 m5stack/MPU6886-idf: BRANCHES:[main:58ca0dae622ffb1f4b8778158ea4e3c5875d1ff7]|RELEASE:[none|none]
