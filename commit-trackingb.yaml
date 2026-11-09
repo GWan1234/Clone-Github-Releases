@@ -657,7 +657,7 @@ ZhiyuanYuanNJ/flashrom: BRANCHES:[build_windows_x64:52788bb7792067117c54ebb4575a
 ZhiyuanYuanNJ/flashrom_build_windows_x64: BRANCHES:[main:cbc967ac86ef735ba5e6963300486b5b5da62457]|RELEASE:[none|none]
 ZhiyuanYuanNJ/libsigrok: BRANCHES:[master:7d63fbd889c50bd37bcea462f853f80280de7f3b]|RELEASE:[none|none]
 ZhiyuanYuanNJ/libusb: BRANCHES:[master:b4106e081bd49205bc6d25b4aeba9bb474261a1b]|RELEASE:[none|none]
-ZhiyuanYuanNJ/openFPGALoader: BRANCHES:[master:363049f557c711aa1eeb6f44c34d1ed8cf1dbc20;patch-1:fcaf836a40e6fed50f91305358f41694c0bc8a23]|RELEASE:[openFPGALoader_CH347_V1.0|363049f557c711aa1eeb6f44c34d1ed8cf1dbc20]
+ZhiyuanYuanNJ/openFPGALoader: BRANCHES:[master:57b39dd8b4ea3570b15ab834b0cbde32e8659740;patch-1:fcaf836a40e6fed50f91305358f41694c0bc8a23]|RELEASE:[opebFPGALoader_CH347_V1.2|57b39dd8b4ea3570b15ab834b0cbde32e8659740]
 ZhiyuanYuanNJ/openocd: BRANCHES:[master:da3920b0a52dc2d394afb222c688dac7e57acc1b]|RELEASE:[none|none]
 ZhiyuanYuanNJ/probe-rs: BRANCHES:[master:224b79c0c077999cf3d6c8bdd0d55e90a2e3d22a]|RELEASE:[none|none]
 ZhiyuanYuanNJ/probe-rs-gui: BRANCHES:[main:45dd83807bba59c1834582e9e1f7e71fc9de2dad]|RELEASE:[none|none]
