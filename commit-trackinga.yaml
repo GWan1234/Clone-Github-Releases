@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-09 06:24
+commit-tracking: 2026-11-09 06:25
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1904,6 +1904,7 @@ lambilly/hass_tian_holiday: BRANCHES:[main:3dd18a42395a8a853f077da764955d1d670ef
 lambilly/hass_tian_realtime: BRANCHES:[main:8daa65df78a4470d69360ace6468d70aadf5a62f]|RELEASE:[v1.1.4|8daa65df78a4470d69360ace6468d70aadf5a62f]
 lambilly/hass_today_history: BRANCHES:[main:57d37d615d4fc3217556f65da9aedcfaf88e281e]|RELEASE:[v1.0.2|57d37d615d4fc3217556f65da9aedcfaf88e281e]
 lambilly/hass_weekly_film: BRANCHES:[main:e209e7d3e801c5a085041ea48affdab80e5118f4]|RELEASE:[v1.0.1|e209e7d3e801c5a085041ea48affdab80e5118f4]
+lambilly/pocket-homeassistant: BRANCHES:[main:eda0535e915f78b32533fc8993adb98d2a26685e]|RELEASE:[none|none]
 leapbtw/AppleIGC: BRANCHES:[dev-i225v:26672306df6f1e74643b0c7bebfc2bb75ad7b64b;main:0a98017ca17b5935da5616c5747813a6e579b449]|RELEASE:[none|none]
 leapbtw/Controlify: BRANCHES:[gcd-fix:fe9f853095987cb8533f7e63ea74c61a14469326;main:f756225fcf94970458589cb5122b97671f450a75]|RELEASE:[none|none]
 leapbtw/OpenCore-Catalina: BRANCHES:[main:ccc2b51f59a8c45f6c02f875a1fdcf10c0ae77ba]|RELEASE:[none|none]
