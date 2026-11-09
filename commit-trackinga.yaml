@@ -1520,7 +1520,7 @@ home-assistant/app-letsencrypt: BRANCHES:[main:480f30c97e6ebc97c0ad148f1db5b7dd7
 home-assistant/app-mariadb: BRANCHES:[renovate/docker-base:89ca8aa973a62a9c88316a1cefcd2321375ecf9b;main:add9f63311590de7de8f58eb7dbd08c42ed43b33;he-translations:aecd0ffcd25a59818a7e5fd195df6355cef3bc0d]|RELEASE:[none|none]
 home-assistant/app-matter-server: BRANCHES:[fix-app-url:fcfe46b4622530ee174f58f5a4689beb66263e48;main:6e3c0acc11d9abf980c8d7f248fa39c457fbc3db;fix-config-url:8b78367981253468dec6fcd56f54d3eda51dba05]|RELEASE:[9.3.0|15ce0f75a050fa4f5bbb1f14fdc57f9521e13275]
 home-assistant/app-mosquitto: BRANCHES:[main:d08790bb7a9f6b0d477f8ec39df9a87f396dfe67]|RELEASE:[7.1.3|d08790bb7a9f6b0d477f8ec39df9a87f396dfe67]
-home-assistant/app-nginx-proxy: BRANCHES:[add-renovate:4918b3fee0ec232a773093644bc43aa10b2b1459;main:9f274c3d6720a94edd6a3462b6fc07a727b4aa2e]|RELEASE:[none|none]
+home-assistant/app-nginx-proxy: BRANCHES:[main:2dd93425182b9c0f3620a0111e32054a8120200c]|RELEASE:[none|none]
 home-assistant/app-openthread-border-router: BRANCHES:[log-format-timestamp:e005a00c04ec3f94448543daf2f4a0f367e77eba;main:1bf9ceeb9da9ce918cd9ec3a5a8776613aa83746]|RELEASE:[none|none]
 home-assistant/app-openwakeword: BRANCHES:[main:f4cbc07808a2e1b722b88f2e2373d250e124ab5f]|RELEASE:[none|none]
 home-assistant/app-piper: BRANCHES:[main:0f81ade7993c453b73fdc13a36d132568f8414e8]|RELEASE:[none|none]
