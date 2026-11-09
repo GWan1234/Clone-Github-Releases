@@ -1528,7 +1528,7 @@ home-assistant/app-rpc-shutdown: BRANCHES:[main:32bf07340fea25f9671f603c99fce2b7
 home-assistant/app-samba: BRANCHES:[main:1d3219be579306f225be65126f0d8f38585938a5]|RELEASE:[none|none]
 home-assistant/app-silabs-flasher: BRANCHES:[main:b25c5b2c17352d58f73559d1e89b69aa6d0357b3]|RELEASE:[none|none]
 home-assistant/app-speech-to-phrase: BRANCHES:[main:4e977d4fcbf7a42e75b472d64cef03d1f8c56d47]|RELEASE:[none|none]
-home-assistant/app-ssh: BRANCHES:[main:d9513b4bfeed96c4af8c210836ad3a679f0a1636]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
+home-assistant/app-ssh: BRANCHES:[renovate/docker-base:462379094d4d937fe9132bf609c41ddfeea66739;main:d9513b4bfeed96c4af8c210836ad3a679f0a1636]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
 home-assistant/app-vlc: BRANCHES:[main:033a5a7895491dbb165d8df1e3f8c1d8412227aa]|RELEASE:[none|none]
 home-assistant/app-whisper: BRANCHES:[main:9ae3d65aa65d73f28dc552a1f20a8c56fb86984e]|RELEASE:[none|none]
 home-assistant/app-zwave-js: BRANCHES:[main:c88e074e71ee32470aa3d85cc21d8569355a8cc3]|RELEASE:[1.10.0|cc9573eb46c0981ded3dfb4cb236ab44b7ced60e]
