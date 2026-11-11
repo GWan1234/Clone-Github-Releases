@@ -1530,7 +1530,7 @@ home-assistant/app-piper: BRANCHES:[main:f743f7c73cd880c6712215214d464fb8f99788a
 home-assistant/app-rpc-shutdown: BRANCHES:[main:d1c84624a8c99a5b4b292d1e9d5c776018dacc8a]|RELEASE:[none|none]
 home-assistant/app-samba: BRANCHES:[s6-user-bundles-d:1ee0ddb1d2b6ae8c072d6ca8e69fad8397c9904a;main:ef19ae8eef3ffabb672a6125a23a034963ab881d]|RELEASE:[none|none]
 home-assistant/app-silabs-flasher: BRANCHES:[renovate/universal-silabs-flasher-1.x:1fb085a357bc90a764d2f6a80f1b5613854e5f2d;main:c7be72f4d510dff995f32119162fc0ebb93d67e0]|RELEASE:[none|none]
-home-assistant/app-speech-to-phrase: BRANCHES:[main:4e977d4fcbf7a42e75b472d64cef03d1f8c56d47]|RELEASE:[none|none]
+home-assistant/app-speech-to-phrase: BRANCHES:[renovate/pysilero-vad-3.x:52336b1e3c5bc82a84711ce24e65c369f87a6ae4;main:2dcde914aa8bd5b5393ae47375b72463f2ceb66e]|RELEASE:[none|none]
 home-assistant/app-ssh: BRANCHES:[renovate/docker-base:462379094d4d937fe9132bf609c41ddfeea66739;main:d9513b4bfeed96c4af8c210836ad3a679f0a1636]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
 home-assistant/app-vlc: BRANCHES:[main:033a5a7895491dbb165d8df1e3f8c1d8412227aa]|RELEASE:[none|none]
 home-assistant/app-whisper: BRANCHES:[main:9ae3d65aa65d73f28dc552a1f20a8c56fb86984e]|RELEASE:[none|none]
