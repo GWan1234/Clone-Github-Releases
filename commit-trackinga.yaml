@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 06:51
+commit-tracking: 2026-11-11 06:53
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2126,7 +2126,7 @@ rednblkx/DigitalDoorKey: BRANCHES:[main:80e4a1e14eab3646b62ab3bdad6d2ed01d399375
 rednblkx/DungeonProject: BRANCHES:[master:ddaf75767cb0a10570a77464fe7af91c3960ed16;testing:4b4cb11bd2eb29ebaa14e986844e7aea91d6718d]|RELEASE:[none|none]
 rednblkx/FFmpeg: BRANCHES:[master:bd3804701478e47011343f7ee450ba45a5cdac78;release/4.1:742e66f4421ed523a1ada0646feb51e3224494f2;release/2.8:b5374e273b3fca417ddd79081e8c9c9dbb24fbd8;release/3.2:665f4908a85d98fd97f0e632952aab42748b385d;release/3.4:ffb5153d396150341229165bfa0a3ce0c5ce43a0;release/4.2:55a95339526ba3ad6c3c31721ab1ecfd957eb5b4;release/4.3:6ffc0e3198fdb219c5d4b2f841bc65e061cef24a;release/4.4:8e98dfc57fd05c49095dd964456a7acbb6da634c;release/5.0:a5ebb3d25e50c6f59f931115fb18121032dfa12d;release/4.0:7052da6837285528c723a61d3d16b62ed72c6044]|RELEASE:[none|none]
 rednblkx/HAP-ESPHome: BRANCHES:[main:0ab12c97f33d894909a35b24b9e837384d063861;upstream/pn532:ddbc8badcbe1123e84e83d3c5a0a715b34e9d006;coderabbitai/docstrings/7089a4c:8fb0ecabf085d1e9e1f9a14024c2296e8b86ab97]|RELEASE:[none|none]
-rednblkx/HomeKey-ESP32: BRANCHES:[yahap-refactor:f45ef0e804ac60ae15b72c712c3b5b716154a784;main:f167cba1950aa9e37afb9cb06163a78299599a67;esp-homekit-sdk:135106aa729dba149be0171aa13e79cf995807d0]|RELEASE:[v0.9|1bc425ff69b6627f5669b2a0a2d7fdeafe7454fc]
+rednblkx/HomeKey-ESP32: BRANCHES:[main:e73fbe9915b75b5b7596dd6a00bcb44eea7b6793;yahap-refactor:f45ef0e804ac60ae15b72c712c3b5b716154a784;esp-homekit-sdk:135106aa729dba149be0171aa13e79cf995807d0]|RELEASE:[v0.9|1bc425ff69b6627f5669b2a0a2d7fdeafe7454fc]
 rednblkx/HomeSpan: BRANCHES:[1.9.1:9c7b6bc580b7053a53c7651e6a0f1a6951ca1981;master:2481fc410a3ba43d169f18442e851fcfee903b2e;dev:a82679088be81cf017e63e5168b2e26771e794cb;upstream-wr:61dd4e8a6b5b09c1caab709c9f937cf417f149fe;home-key:ab307b0694edb92d6ca4e18363c4a10b8d1b8682]|RELEASE:[none|none]
 rednblkx/IRremoteESP8266: BRANCHES:[master:b86aa36d78d9157a8a0a616e3eee9b419d01286e;2.5-dev-whirlpool_ac:a205cb4599c150c1c65b7eceeceec06b9d16f66b;v2.5-dev:a8e1b59427ed1eb2bb816a33a6f3cea98709a324;v2.5-dev-auto-analyse:be360eb49cf7c2fc8699fc9410b718a8af935ff5]|RELEASE:[none|none]
 rednblkx/PN532: BRANCHES:[esp-idf:b80937f4165ed3a0b1545b7bdcc892cb0bd1225b;esp-idf-4:3ac8cd898f3519002c5675a7691bc299cb215502;esp-idf-irq:f7e085a656c95aada8ba4544ed27e5100c9934ad;arduino:465597bfeac6c2a221f687b682d3ea279d808d58]|RELEASE:[none|none]
@@ -2179,7 +2179,7 @@ rednblkx/parse-server-example: BRANCHES:[master:df0ac9633853e0298d012cdf4530367e
 rednblkx/perl_scripting_playground: BRANCHES:[master:71f800c7329b94463c916a549424e168c5846dcb]|RELEASE:[none|none]
 rednblkx/plugin.video.DigiOnline.ro: BRANCHES:[release/Kodi_19_Matrix:27e6f71c27a512eba4121f7a1eb83d85229c0f04;release/Kodi_18_Leia:12e7ac79457c3dba4b5b075182ba80b91c14bc89;master:6df4a7356d6f962afc3c8443d90c53a9549a0cf4]|RELEASE:[none|none]
 rednblkx/pn532_cxx: BRANCHES:[main:e1105d79c5628999371b8cc8aae37deb557e6ace]|RELEASE:[none|none]
-rednblkx/pn7160: BRANCHES:[main:db5cb56b2ccfbaa4c30879043a3597bd6c7d53c8]|RELEASE:[none|none]
+rednblkx/pn7160: BRANCHES:[main:40a40339f5f561cec4293a0210c264e0fc9970aa]|RELEASE:[none|none]
 rednblkx/react-native-http-server: BRANCHES:[master:82533e40ac622d396d803e7a8f4e5e77ddd11fef]|RELEASE:[none|none]
 rednblkx/very-simple-landing-page: BRANCHES:[main:ceb4195d695e52a3c0677e8f47b8ec50564a3507]|RELEASE:[none|none]
 rednblkx/whirlpool_ir_esphome: BRANCHES:[master:497d80c02adaa5311403dceeb9939c052a358f89]|RELEASE:[none|none]
