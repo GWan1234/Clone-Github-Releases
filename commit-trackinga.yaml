@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 07:15
+commit-tracking: 2026-11-11 07:16
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1518,7 +1518,7 @@ home-assistant/app-configurator: BRANCHES:[main:c4e65fcb0b2c7e21dcd5c730092bdb6a
 home-assistant/app-deconz: BRANCHES:[main:73588f275c88842a9f0d998d1762ca6cbc5f14a5]|RELEASE:[none|none]
 home-assistant/app-dnsmasq: BRANCHES:[main:b2743f3cbf961825c1ba9a82ffcb49c9bba52e63]|RELEASE:[none|none]
 home-assistant/app-duckdns: BRANCHES:[main:74450b6ae90125cf7cea93bd4ed2d2808cfae273;add-renovate:f65154239e4e2c6385f691b34af59874e690cb5d]|RELEASE:[none|none]
-home-assistant/app-git-pull: BRANCHES:[main:b4d85d061bc8b685a6862b43e28ca42d602321ad]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
+home-assistant/app-git-pull: BRANCHES:[main:b15f6163d2e514f521bbe3676b28ef00045a7b24]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
 home-assistant/app-letsencrypt: BRANCHES:[main:480f30c97e6ebc97c0ad148f1db5b7dd73b8ac8e]|RELEASE:[none|none]
 home-assistant/app-mariadb: BRANCHES:[renovate/docker-base:89ca8aa973a62a9c88316a1cefcd2321375ecf9b;main:add9f63311590de7de8f58eb7dbd08c42ed43b33;he-translations:aecd0ffcd25a59818a7e5fd195df6355cef3bc0d]|RELEASE:[none|none]
 home-assistant/app-matter-server: BRANCHES:[fix-app-url:fcfe46b4622530ee174f58f5a4689beb66263e48;main:6e3c0acc11d9abf980c8d7f248fa39c457fbc3db;fix-config-url:8b78367981253468dec6fcd56f54d3eda51dba05]|RELEASE:[9.3.0|15ce0f75a050fa4f5bbb1f14fdc57f9521e13275]
