@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 06:53
+commit-tracking: 2026-11-11 06:54
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2601,7 +2601,7 @@ voorz/luci-app-qmi-modem: BRANCHES:[main:a69ddba85cb57bc4a42d5fbb18be5d165d3280d
 voorz/luci-app-screen: BRANCHES:[main:0c700950d3f2c32198c757467a167411aa20ebb2]|RELEASE:[v0.1.0|4ead46bfccc1a1b5059049ae57f2a26caa97dfe1]
 voorz/luci-app-vohive: BRANCHES:[main:175b5e60d879d396fece33d6216980b62f1ceb08]|RELEASE:[v0.1.70|175b5e60d879d396fece33d6216980b62f1ceb08]
 voorz/luci-theme-shadcn: BRANCHES:[main:9a7eb900c5db313c4fbd486530cee5cf01d6d50a]|RELEASE:[none|none]
-voorz/mtapi: BRANCHES:[main:392ebe620aba0e4fae9a4d4cc1f1682498870119]|RELEASE:[none|none]
+voorz/mtapi: BRANCHES:[main:5fa9cb411aadaeac2e5d049c11291dd76518e762]|RELEASE:[none|none]
 voorz/netlink: BRANCHES:[main:cc35af880748bbc42481d3f574324804b4023df1]|RELEASE:[none|none]
 voorz/notccid: BRANCHES:[main:13b2290cc3de44a803a71225fd28d2195b91c14c]|RELEASE:[none|none]
 voorz/nuxt-shadcn-dashboard: BRANCHES:[main:54988681e50feaa4935828882da93faff06cf042]|RELEASE:[none|none]
