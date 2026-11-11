@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 06:18
+commit-tracking: 2026-11-11 06:22
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1039,7 +1039,7 @@ Sirherobrine23/APT_bysh23: BRANCHES:[gh-pages:d1c4f6ee37c33b003de9275386fcb0b0d4
 Sirherobrine23/Action-Debian_Package: BRANCHES:[main:0f323be15fb99079d387188781a946a9d70627a6]|RELEASE:[v1.0|2aa0ec06608761d5801b87f60d482f8e6262cfe0]
 Sirherobrine23/Bds-Maneger-GUI_for_Linux_old: BRANCHES:[main:a96b80984092288abf0b6e89dd184d3157296387]|RELEASE:[13/11/2020|6310f0760c8a82bb9280712dc94b5690e913c3e3]
 Sirherobrine23/Build-PHP-Bins: BRANCHES:[javascript_build:ac6e54fca9e2fc0ba36db9b6e9fe6c52c70427f8;main:ad0c3fa4871a8b8eff184f81f08a88e517d0b7b0]|RELEASE:[none|none]
-Sirherobrine23/ClankerNPU: BRANCHES:[main:dcbfac138f67d57a435c5395a533a6ce6c0330bf]|RELEASE:[none|none]
+Sirherobrine23/ClankerNPU: BRANCHES:[en7523_v2:9b00e51728b071446123707121ee0e13fd742179;main:8872070fc3859fe45b41af8acc72be2553ecce71;npu_en7523:1a45286358ff601265e9f8af57eb9e59af6dff5a]|RELEASE:[none|none]
 Sirherobrine23/DebianNodejsFiles: BRANCHES:[dependabot/npm_and_yarn/axios-1.6.0:a3c2fb1d854e28e61c58239f0a3b3cf3142b0c09;main:fdbb9dda0b60f6429b8e674974cd0482e34bdaf0]|RELEASE:[debs|7990d41993abd9008a09b629e62e194cfd0fd844]
 Sirherobrine23/DockerAndroidPayloadExtract: BRANCHES:[main:57b4ef962dc7dc155a8cbc1100e3bc52cc5678ac]|RELEASE:[none|none]
 Sirherobrine23/DockerEngineBySirherobrine23: BRANCHES:[main:217a073e0184f71d89577eee8bd12831b57bb140]|RELEASE:[none|none]
@@ -1057,8 +1057,8 @@ Sirherobrine23/Wireguard-tools.js: BRANCHES:[main:ed092166b8a14d47d5a97341688de9
 Sirherobrine23/XStreaming-desktop: BRANCHES:[main:e5efa9ad3c436da1b99bc722124963f36ac0938b]|RELEASE:[none|none]
 Sirherobrine23/action-release: BRANCHES:[master:46a2badc652e9b302a1b0e73e0dcf049fe0646b4]|RELEASE:[none|none]
 Sirherobrine23/airoha_atf-reconstructed: BRANCHES:[claude/new-session-hkbluu:b4ef08a35b3408687a20b770f77450640e5e2a6c;main:5ab25b4f2ab1e1fe7128543ac64cdf7a60924bff]|RELEASE:[none|none]
-Sirherobrine23/airoha_builds: BRANCHES:[main:69890704ce5ff58963831d58d43489b85096972d]|RELEASE:[v42405362689_en7528|69890704ce5ff58963831d58d43489b85096972d]
-Sirherobrine23/airoha_kernel: BRANCHES:[npu_en7523:86a74d2a6d65dbfca8e6598505203a987fa7e042;airoha_all:87f42b611282a5410259aa79dc2d1a3c32222d42;sirherobrine23-ddm2:1e166fa103c8122395a3cf0dc29bb7c9ed31896e;airoha_en7523_all_backup:44641f1d913f01914208bc2ef2a0ed5212e86621]|RELEASE:[none|none]
+Sirherobrine23/airoha_builds: BRANCHES:[main:69890704ce5ff58963831d58d43489b85096972d]|RELEASE:[v42902825430_en751221|69890704ce5ff58963831d58d43489b85096972d]
+Sirherobrine23/airoha_kernel: BRANCHES:[npu_en7523:2e903366ea6a8e300ba791501d0f5a92663c6ee3;airoha_all:87f42b611282a5410259aa79dc2d1a3c32222d42;sirherobrine23-ddm2:1e166fa103c8122395a3cf0dc29bb7c9ed31896e;airoha_en7523_all_backup:44641f1d913f01914208bc2ef2a0ed5212e86621]|RELEASE:[none|none]
 Sirherobrine23/airoha_mips_dramc: BRANCHES:[update_codes:7fb6110dec3a9beb59b6c1399e5b1f90ab0ee768;main:9a0a8c9e747fd748ff20c31bb5627a406c9ad2b7]|RELEASE:[none|none]
 Sirherobrine23/airoha_sdk_wireless: BRANCHES:[main:828414b3db0af4ada1ddf086c9a13e3b57ce626d]|RELEASE:[none|none]
 Sirherobrine23/airoha_voip: BRANCHES:[main:c2748c11ba9ad5b20c495623a6e94e88b4496317;claude/airoha-voip-platform-notes:6b5ee7c83efd9962118649735c7fb369c6897a2c;claude/slic-power-topology:327f14236bd1becf44ed8f29c27d8208fb2784b4]|RELEASE:[none|none]
@@ -1089,6 +1089,7 @@ Sirherobrine23/lake-edk2-msm: BRANCHES:[master:06ac3fc0d3fa848669bef0eeb1d41516d
 Sirherobrine23/lge_webos_boot: BRANCHES:[master:588e7f0d62a8c1d20b796f7dd100d05c858bfce3]|RELEASE:[none|none]
 Sirherobrine23/luci: BRANCHES:[cpu-freq:c08c16d17855f9ba3386d80125032ad344a09bbe;master:5986e7ccd6e19ee8d69c02822700a98d86809a6c;netdev-add-autoneg-speed-duplex:d17a5b245e56182e72ebdfc8bffa20774f13fc42]|RELEASE:[none|none]
 Sirherobrine23/mitrastar-hgw-2501gnp-rc: BRANCHES:[main:d270fb861da0d838e0ee355af92ff3d5a512091e]|RELEASE:[none|none]
+Sirherobrine23/mt76: BRANCHES:[npu_en7523:2687164e985b303e0593f50b04baf280ab5a0b57;master:53504659422b992042f7f5d64014adf6769ec2d7;tplink_xx530v_v2:6840001665be5bd486e8cc185c09e9d23e5f13a6;en7523-wifi-feed:7e0aafb3e9cb983172047fa13cbe22de7766723a]|RELEASE:[none|none]
 Sirherobrine23/my-first-website: BRANCHES:[nextjs:255b193091fe3eb333d192ee87fe0743243b1b0a;main:1c14c0780a0256d33adc0049ea946f312439ae70]|RELEASE:[none|none]
 Sirherobrine23/napi-go: BRANCHES:[main:55fd2235392a5393669e6e439a58bdc0f47171f2;class:b1d40d3f4ffefda0c5b7f0915cafec7e5b6b7315]|RELEASE:[none|none]
 Sirherobrine23/neste: BRANCHES:[main:6fc699844d2a54cd584f396b7e58a6e716132f4b]|RELEASE:[v2.0.0|3995a32c96d9b8a5c1f581c9c9cf8c64848d519d]
