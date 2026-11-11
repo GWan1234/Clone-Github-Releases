@@ -315,6 +315,7 @@ DFRobot/DFRobot_SCW8916B: BRANCHES:[master:f05e67037eee5775b3a9db77a8d9981223639
 DFRobot/DFRobot_SD3031: BRANCHES:[master:ebe92d4fa6ae5cf8b969d89d71dbcc4423e5a656]|RELEASE:[none|none]
 DFRobot/DFRobot_SFA40: BRANCHES:[master:47cbea477252a2d049da91dbc26204bafe5df032]|RELEASE:[none|none]
 DFRobot/DFRobot_SGP40: BRANCHES:[master:7fa498fa24bacee8b284c17057811ea210060c2c]|RELEASE:[none|none]
+DFRobot/DFRobot_SGX610_Gravity: BRANCHES:[main:6890651429df0872a75c28f27195183ac415306c]|RELEASE:[none|none]
 DFRobot/DFRobot_SGX6410: BRANCHES:[main:d1fc252bbd9358c4b8c5e60c2787e40f17a22758]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT: BRANCHES:[master:54dbc1a44e4b3f062887afeb1e873aff24fba054]|RELEASE:[none|none]
 DFRobot/DFRobot_SHT20: BRANCHES:[master:4f385ee384b490a1f909fad8dcbbd6babf215da3]|RELEASE:[none|none]
