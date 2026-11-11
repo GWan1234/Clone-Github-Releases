@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 07:17
+commit-tracking: 2026-11-11 07:18
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1529,7 +1529,7 @@ home-assistant/app-openwakeword: BRANCHES:[main:98480232cc3424367329e01d269bbf91
 home-assistant/app-piper: BRANCHES:[main:f743f7c73cd880c6712215214d464fb8f99788ad]|RELEASE:[none|none]
 home-assistant/app-rpc-shutdown: BRANCHES:[main:d1c84624a8c99a5b4b292d1e9d5c776018dacc8a]|RELEASE:[none|none]
 home-assistant/app-samba: BRANCHES:[s6-user-bundles-d:1ee0ddb1d2b6ae8c072d6ca8e69fad8397c9904a;main:ef19ae8eef3ffabb672a6125a23a034963ab881d]|RELEASE:[none|none]
-home-assistant/app-silabs-flasher: BRANCHES:[main:b25c5b2c17352d58f73559d1e89b69aa6d0357b3]|RELEASE:[none|none]
+home-assistant/app-silabs-flasher: BRANCHES:[renovate/universal-silabs-flasher-1.x:1fb085a357bc90a764d2f6a80f1b5613854e5f2d;main:c7be72f4d510dff995f32119162fc0ebb93d67e0]|RELEASE:[none|none]
 home-assistant/app-speech-to-phrase: BRANCHES:[main:4e977d4fcbf7a42e75b472d64cef03d1f8c56d47]|RELEASE:[none|none]
 home-assistant/app-ssh: BRANCHES:[renovate/docker-base:462379094d4d937fe9132bf609c41ddfeea66739;main:d9513b4bfeed96c4af8c210836ad3a679f0a1636]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
 home-assistant/app-vlc: BRANCHES:[main:033a5a7895491dbb165d8df1e3f8c1d8412227aa]|RELEASE:[none|none]
