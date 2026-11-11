@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 06:06
+commit-tracking: 2026-11-11 06:08
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -627,8 +627,8 @@ IT21277054/Project_Overdose: BRANCHES:[main:b81088aa8a2426882607c4049a5d3365b608
 IT21277054/Resistance-Current-Voltage: BRANCHES:[main:5d3b5b54c4174c5977c9cce932a92bad7865cb35]|RELEASE:[none|none]
 IvanHanloth/23-Downloader-CLI: BRANCHES:[main:9b5b20c8df010f4b9b9aede841cd7bf58839e1aa]|RELEASE:[none|none]
 IvanHanloth/Bili23-Downloader: BRANCHES:[main:42bf2e33fdc22b7abc438fc7fca96f5221b92a12;function/music:2b8b113c307ac68ed7b4c7e79f75ce10d775566d]|RELEASE:[none|none]
-Jason2866/Tasmota-build: BRANCHES:[special_builder:5e0600a3c12d61a130801d4003b3be5c0f9c1e1a;start_build:9500263788e0485a594d391ec5a12dfded11e78c]|RELEASE:[none|none]
-Jason2866/esp32-arduino-lib-builder: BRANCHES:[v55_gcc161_pico:78ebc69490d5eb1a4607378a9d7f82d673cbe590;v55_gcc153_pico:8ecedf11c779a79fc8943385131f3b892d810b6b;v61:77008aa8eb8e473c6419df58b3d124c05a1549ed;v55_gcc152_pico:1e5525151d2fe3348c231bb066c5e9f47654df21;hwser_zack:5b3d6d33f51192d84d265b4cac76505f6856bfb8;v55_152_test:4e34693ddd3e9435a15bda2400e165a06b01281f;v55_gcc162_pico:6a34e7a528db2af8512a3a3af75fa6c155b51c4e;v5.5_gcc152:89c611aaee10c678c8e1018d39f0cec959c184f9;v5.3_gcc151:8cebad43de1058f44d89f4c5b7878b6b9b269f89;no_tiny:3661149509fba173a2f26789e210242e99cfd810]|RELEASE:[1807-55-clang|b277799c1fc5c2023824559d156636bf7963a43d]
+Jason2866/Tasmota-build: BRANCHES:[special_builder:0e72a341fee66398a488f210f22028867cfbbd67;start_build:9500263788e0485a594d391ec5a12dfded11e78c]|RELEASE:[none|none]
+Jason2866/esp32-arduino-lib-builder: BRANCHES:[v55_gcc153_pico:69dfd505f44f515a6b1eae5cef5699eab93b6a79;v55_gcc161_pico:78ebc69490d5eb1a4607378a9d7f82d673cbe590;v61:77008aa8eb8e473c6419df58b3d124c05a1549ed;v55_gcc152_pico:1e5525151d2fe3348c231bb066c5e9f47654df21;hwser_zack:5b3d6d33f51192d84d265b4cac76505f6856bfb8;v55_152_test:4e34693ddd3e9435a15bda2400e165a06b01281f;v55_gcc162_pico:6a34e7a528db2af8512a3a3af75fa6c155b51c4e;v5.5_gcc152:89c611aaee10c678c8e1018d39f0cec959c184f9;v5.3_gcc151:8cebad43de1058f44d89f4c5b7878b6b9b269f89;no_tiny:3661149509fba173a2f26789e210242e99cfd810]|RELEASE:[1807-55-clang|b277799c1fc5c2023824559d156636bf7963a43d]
 Joetooley28/atcli-rs-aarch64: BRANCHES:[main:78dc399b61e3073e0ef3f1c4f9e4f152294b0e3c]|RELEASE:[none|none]
 Joetooley28/atcli_rust: BRANCHES:[main:3711676de41d362ce8b52c0cef2324f5752f8c4f]|RELEASE:[none|none]
 Joetooley28/cfw3212-qtooley-overlay: BRANCHES:[main:507487065f15b5a66ad4818d623f194b5f769bf8;working-branch:eaaf9cf38cf4a1279844b70d9494887c43b72624;standalone-at-terminal-old:3669082a848b709f1c73f4a34a760efb51d3849a]|RELEASE:[v0.3.11-qtooley-2026-04-11|e3cfaf883328fbaa8e9792b6e22288b63fca383a]
@@ -1238,9 +1238,9 @@ arendst/RF-Bridge-EFM8BB1: BRANCHES:[Protocol:8d57177ca1ce65b3bba38a8ea39e10dc94
 arendst/RGBtoHDMI: BRANCHES:[master:e630d36fcd55406670a0824c7cd064382bd23bf8]|RELEASE:[none|none]
 arendst/Sonoff-MQTT-OTA: BRANCHES:[master:599b5235c6f6c1df59135c6858ee6604b00f21f4]|RELEASE:[none|none]
 arendst/Sonoff-MQTT-OTA-Arduino: BRANCHES:[master:bbf4cd0f86612e905eefb83d72982e50484e0692]|RELEASE:[v3.2.13|6140ebdaf7615bd1b8ba12597c7b6042f508ebb4]
-arendst/Tasmota: BRANCHES:[development:43d9409e67c4a28adac34925e1a1c6813f315ce0;prerelease-16.0.0:1c2173927cdf1be61759bcc3b064b9511a18e5d7;master:1c2173927cdf1be61759bcc3b064b9511a18e5d7;prerelease-15.6.0:db3ae7e0276fdc38b7aeb241a2a8e33d8ffd6892;prerelease-15.5.0:4561b51993c873e712db83814cb4b669dd3dbd73;prerelease-15.4.0:3d5a6260afaaaf98575674370e1a70e2653928a8;ldf_cache:60e1018fbff327d307856facffe2d9205174dcf4]|RELEASE:[v16.0.0|1c2173927cdf1be61759bcc3b064b9511a18e5d7]
+arendst/Tasmota: BRANCHES:[development:179264f48070b4c81be91698612193858a791499;prerelease-16.0.0:1c2173927cdf1be61759bcc3b064b9511a18e5d7;master:1c2173927cdf1be61759bcc3b064b9511a18e5d7;prerelease-15.6.0:db3ae7e0276fdc38b7aeb241a2a8e33d8ffd6892;prerelease-15.5.0:4561b51993c873e712db83814cb4b669dd3dbd73;prerelease-15.4.0:3d5a6260afaaaf98575674370e1a70e2653928a8;ldf_cache:60e1018fbff327d307856facffe2d9205174dcf4]|RELEASE:[v16.0.0|1c2173927cdf1be61759bcc3b064b9511a18e5d7]
 arendst/Tasmota-Playground: BRANCHES:[development:c860f909e0a5cde3f3e3ef7d611047851bce2f1e]|RELEASE:[none|none]
-arendst/Tasmota-firmware: BRANCHES:[firmware:ad301dbecdeeb5bc33f420ae29429bdee533b4db;main:7db33e51fc426421381a69a48848e216972903ed;gh_actions:9367dce5d47885e6772a81226bcc9a3526344160]|RELEASE:[none|none]
+arendst/Tasmota-firmware: BRANCHES:[firmware:fc5bb98aff0ab0fcf612e1f4a57e70bfee29bf6f;main:7db33e51fc426421381a69a48848e216972903ed;gh_actions:9367dce5d47885e6772a81226bcc9a3526344160]|RELEASE:[none|none]
 arendst/TasmotaClient: BRANCHES:[master:d3cbe2fd48093c23a110cccb7803bf987e667d55]|RELEASE:[none|none]
 arendst/TasmotaMqtt: BRANCHES:[master:71dfded2dc336ce7cae0e16af5e73629fa3aca1d]|RELEASE:[none|none]
 arendst/Wkaku: BRANCHES:[master:895071a8da70f92c090b0691eb4f480e9199b1f0]|RELEASE:[none|none]
