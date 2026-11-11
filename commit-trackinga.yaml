@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-11 06:45
+commit-tracking: 2026-11-11 06:47
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1975,13 +1975,13 @@ naoki66/Actions-OpenWrt: BRANCHES:[main:b48d82a323e5fff34f8c837d0e132c08a1ca2377
 naoki66/CF-Workers-docker.io: BRANCHES:[main:059ff30b89e564ca07b56a2958821f02e6371391]|RELEASE:[none|none]
 naoki66/CookLikeHOC: BRANCHES:[main:044fcb7b231ae9acbf87ec3b01a32b7f2212e658;vitepress:928c53d3996b4c85278832d9eeda5833cdba7967]|RELEASE:[none|none]
 naoki66/Custom_OpenClash_Rules: BRANCHES:[main:7a76eea88c302a3b3fd63a61cacd19ffb9aaffb2]|RELEASE:[none|none]
-naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:48f55a062e1240113c1cd0f19761f4df51ae15dc]|RELEASE:[2026-10-19-48f55a062e12|48f55a062e1240113c1cd0f19761f4df51ae15dc]
+naoki66/Gemtek-brightspeed-chainloader: BRANCHES:[main:a9a12de558903ee3a850211d4939136822f14920]|RELEASE:[2026-11-11-a9a12de55890|a9a12de558903ee3a850211d4939136822f14920]
 naoki66/ImmortalWrt-for-Gemtek-XG2010G: BRANCHES:[master:b935a2b940146c228ec0e2d51ae0d52c34e785a3]|RELEASE:[none|none]
-naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:e3b8c659c4e4d4e6ea97dfe454a51c5d87bb11ed]|RELEASE:[200261107|e3b8c659c4e4d4e6ea97dfe454a51c5d87bb11ed]
+naoki66/ImmortalWrt-for-Gemtek-brightspeed: BRANCHES:[master:a6dce40a91ca3f0ebeca9e8f51c8318f4d453eb3]|RELEASE:[20261112|a6dce40a91ca3f0ebeca9e8f51c8318f4d453eb3]
 naoki66/LibreTV: BRANCHES:[main:78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee]|RELEASE:[none|none]
 naoki66/MoonTV: BRANCHES:[master:702008e7970a749da539f13c24d63cc8524b6da7;main:791de3bd997d371215a4c2ffcafc22702268ec5d]|RELEASE:[none|none]
 naoki66/OmniBox-Spider: BRANCHES:[main:4491c18eb3f2fb4e0b3d2f7218452afd442e9f92]|RELEASE:[none|none]
-naoki66/OpenWrt_AC-Controller: BRANCHES:[main:336a5346743df1b06bcad50897cbbfc818426dff;main-rewritten:f7dcef1e262a711bf6ae6bad5ac5042b2d958e92]|RELEASE:[v0.5.2|336a5346743df1b06bcad50897cbbfc818426dff]
+naoki66/OpenWrt_AC-Controller: BRANCHES:[main:abf5013fe91a8cfdce446b0e1175aa003bdb1045;main-rewritten:f7dcef1e262a711bf6ae6bad5ac5042b2d958e92]|RELEASE:[v0.6.0|abf5013fe91a8cfdce446b0e1175aa003bdb1045]
 naoki66/OpenWrt_ONU_CONFIG: BRANCHES:[main:3cb13560459f1d51136dac662baa1f399028b2b4]|RELEASE:[none|none]
 naoki66/ProxmoxVE-7.3-DIY: BRANCHES:[master:81c19ea3384da1bd603b41b16329b86b8a854313]|RELEASE:[none|none]
 naoki66/RRR: BRANCHES:[main:aef6ab74da5e79795ff2e3faf30c3af19b543ad5]|RELEASE:[none|none]
