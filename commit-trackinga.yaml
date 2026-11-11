@@ -1604,7 +1604,7 @@ home-assistant/os-agent: BRANCHES:[main:3ffafc660549896cef9a78559286dcfa32915552
 home-assistant/partner.home-assistant: BRANCHES:[eleventy:fb142ea79bc2d0369487e3a302526874b7393249;main:9b302db9bd8a399032c27b9287d0382ae3a56a35;remove-ultraloq:cad3fb54d6cb0f88c14ab63d7845b9f52cb425fd;partner-program:3242cb6c5fa4f1063dd1ce4dc3c8e0a973e6972d]|RELEASE:[none|none]
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
-home-assistant/plugin-audio: BRANCHES:[renovate/docker-base:5c625baad6cf3104014d35be5d8d29ff528db9d6;master:53c6e561055897f5f2eb691c0d99a509deb3a79a]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
+home-assistant/plugin-audio: BRANCHES:[master:049bc8f9496c549743e19a0d10ba60f865b6e28f]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
 home-assistant/plugin-cli: BRANCHES:[master:286a7050358f66dd69263f903fbc079b07a73bf9]|RELEASE:[2026.10.1|118555642401a929982b018ec3db4348dd0ccc29]
 home-assistant/plugin-dns: BRANCHES:[master:c3389bdc76ccd648912f88ff2c87eb9b332242f6;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.10.0|7115121a4bbcbc8c4f50b0d595e02a65e575750c]
 home-assistant/plugin-multicast: BRANCHES:[renovate/docker-base:aa92ad9099cc8c8d63278f84d6a17fcb02d8e7d2;master:b1a50d70c6d3287e242940e74e6f1990d8e7b194;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
