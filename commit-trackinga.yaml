@@ -1525,7 +1525,7 @@ home-assistant/app-matter-server: BRANCHES:[main:39f04ccdca340765419b4e5c57748e9
 home-assistant/app-mosquitto: BRANCHES:[main:c57f69516ede4da8d1c39689386a1789eeb8e22d]|RELEASE:[7.1.3|d08790bb7a9f6b0d477f8ec39df9a87f396dfe67]
 home-assistant/app-nginx-proxy: BRANCHES:[main:6266f9730e69e1637a76f882c15314f567b9892a]|RELEASE:[none|none]
 home-assistant/app-openthread-border-router: BRANCHES:[drop-universal-silabs-flasher:7545313103c251cdf4b744702fa92f19fa6441b4;main:e166925cc6576c4b7b63f477e075b2cb4d143bc0]|RELEASE:[3.4.0|c2defa9a76b0a71807798ba93bef94b119d46923]
-home-assistant/app-openwakeword: BRANCHES:[main:f4cbc07808a2e1b722b88f2e2373d250e124ab5f]|RELEASE:[none|none]
+home-assistant/app-openwakeword: BRANCHES:[main:98480232cc3424367329e01d269bbf911cc529cb]|RELEASE:[none|none]
 home-assistant/app-piper: BRANCHES:[main:0f81ade7993c453b73fdc13a36d132568f8414e8]|RELEASE:[none|none]
 home-assistant/app-rpc-shutdown: BRANCHES:[main:32bf07340fea25f9671f603c99fce2b7c799f3a2]|RELEASE:[none|none]
 home-assistant/app-samba: BRANCHES:[main:1d3219be579306f225be65126f0d8f38585938a5]|RELEASE:[none|none]
