@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-13 06:53
+commit-tracking: 2026-11-13 06:54
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1953,14 +1953,14 @@ martin-ger/esp-lwip: BRANCHES:[2.1.2-esp:cf4da9ef1ac82efb1128aab6d0d5dd51583d56e
 martin-ger/esp-open-lwip: BRANCHES:[enc_polling:5157a11da89c2ae8aeca0653c5a44fed7377fde8;bridgemode:6d2050c0b0b4a04b0d353c35b3f878c47beefd3a;sdk-1.5.0:0c17219c422245e10c024221f87754ee9a84ec9e;nat:abe358bb0836fc24dcfe0103cc1331d512d5c0b8;sdk-2.0.0-experimental:0d55d59728896728254c21e901fbf50c77806c88;sdk-1.5.0-experimental:8c39d2179a273553466043f388772abb6251a4ca;sdk-1.5.0-default-mss:88a01db5af1951bc8349b9790936e37643f51a37;sdk-1.4.0-experimental:708976e3fd1118863d5293e9a0d66796b174ec1c;sdk-1.4.0:e2f8daeba1328ca0af7e73ab167c5810551959fe]|RELEASE:[none|none]
 martin-ger/esp-open-sdk: BRANCHES:[master:569bf295f9525c1543322769ce82e248f4cc0b43;gcc-4.8.5:ba8e728dee6df4aac265ebae198868bec4695b9b;lwip-headers:e579d284afc43b66f43ef3d3b9fbe02642f736b0;sdk-0.9.3:8560544ed7ce9ba6f9d3c0532717a534214c3a40]|RELEASE:[none|none]
 martin-ger/esp32_PPPoE_router: BRANCHES:[main:d1c541646108925b449eb78e7aa78e1e97c3d2b0]|RELEASE:[none|none]
-martin-ger/esp32_eth_wifi_bridge: BRANCHES:[master:b5ff943a7f57fc00fc336f080d4f683189eafc85]|RELEASE:[none|none]
+martin-ger/esp32_eth_wifi_bridge: BRANCHES:[master:aa3428cebe8e11f0fc0a5ebc34e3814150415934]|RELEASE:[none|none]
 martin-ger/esp32_ethernet_router: BRANCHES:[main:070306ea832deffdc42dacb99d52db684c5202a5]|RELEASE:[none|none]
 martin-ger/esp32_nat_router: BRANCHES:[master:08da2939a717b859ca6f7635b14cd8b3dc1d2c52;esp32_wifi_repeater:cec6ebe512b6e78f3cc67ce022aa151b8b5d1b92;WT32-ETH01:c6aab9635b017541941a862dd897e5452dfb35da]|RELEASE:[none|none]
 martin-ger/esp_google_locator: BRANCHES:[master:f3968d7e89917ba8733d48233f71393babda77a5]|RELEASE:[none|none]
 martin-ger/esp_mqtt: BRANCHES:[master:7d9409284916c8f20b8433c3e9efafa9c5ceea17;develop:5162b941a8714952bbfb7340311e8b4c21197e63]|RELEASE:[none|none]
 martin-ger/esp_nacl: BRANCHES:[master:fcb13c26b7117104d2923177b6c9cda683b68254]|RELEASE:[none|none]
 martin-ger/esp_peap_psk: BRANCHES:[master:9e4cc25a3796ce0e099d6bf19033969ffc1f80f9]|RELEASE:[none|none]
-martin-ger/esp_slip_router: BRANCHES:[master:f0c441cc941d97e06a887c71f40534ad4bddf562]|RELEASE:[none|none]
+martin-ger/esp_slip_router: BRANCHES:[master:c26f3bc1a78a425f38f16b82f56bd2bf47d9dc23]|RELEASE:[none|none]
 martin-ger/esp_wifi_repeater: BRANCHES:[master:3bb7571e8bf775184cab228d4105f3363770ed92;puya:f66c83fafe98be1ff4d2719fc4e68bf100a45805;mqtt_tun:d3ffca4f32b04f7313fdcbba29d726abae8cb7f2;enc_polling:998b50a5ab02cfd00e6a44768ebca077e86c1a20]|RELEASE:[none|none]
 martin-ger/esp_wireguard_idf_5.5.x: BRANCHES:[main:d0b401dd984589a89b7e9243f7c70acf7a24cb5f]|RELEASE:[none|none]
 martin-ger/lwip_nat_arduino: BRANCHES:[master:ca2bdc9f37203b9061064e0fdfa78f293a84e2b2]|RELEASE:[none|none]
