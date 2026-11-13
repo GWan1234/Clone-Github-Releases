@@ -1518,7 +1518,7 @@ home-assistant/android: BRANCHES:[renovate/webrtcsdk:66d5b021e2464e3555a3a23d86c
 home-assistant/app-cec-scan: BRANCHES:[main:eb204b00d278aa3568ecc4f59317e31b7c2b4505]|RELEASE:[4.1.0|eb7d8ea654a450adead857b6706ec30d161f3743]
 home-assistant/app-configurator: BRANCHES:[main:677a217f9ba10b3fb86dab85b38fa0d25b39b9a4]|RELEASE:[6.3.1|c4e65fcb0b2c7e21dcd5c730092bdb6a50991b37]
 home-assistant/app-deconz: BRANCHES:[main:73588f275c88842a9f0d998d1762ca6cbc5f14a5]|RELEASE:[none|none]
-home-assistant/app-dnsmasq: BRANCHES:[main:b2743f3cbf961825c1ba9a82ffcb49c9bba52e63]|RELEASE:[none|none]
+home-assistant/app-dnsmasq: BRANCHES:[main:b0d232cc5b6f9c0de8a7baf5935be043b8da89b2]|RELEASE:[2.2.0|b0d232cc5b6f9c0de8a7baf5935be043b8da89b2]
 home-assistant/app-duckdns: BRANCHES:[main:74450b6ae90125cf7cea93bd4ed2d2808cfae273;add-renovate:f65154239e4e2c6385f691b34af59874e690cb5d]|RELEASE:[none|none]
 home-assistant/app-git-pull: BRANCHES:[main:b15f6163d2e514f521bbe3676b28ef00045a7b24]|RELEASE:[9.1.0|b4d85d061bc8b685a6862b43e28ca42d602321ad]
 home-assistant/app-letsencrypt: BRANCHES:[renovate/major-certbot:b3431507c0b1e9f72b64d83ea2207565f6eafdf2;renovate/cryptography-50.x:7dad7f788aef663924540a1a6b93d5798d6859b6;main:40fc2c954b29ba00b6c3e18b873a6297de49bb29;renovate/certbot-dns-norisnetwork-0.x:f771629aafeeb2324ed70b418c20f2396e3e6c91;renovate/certbot-dns-multi-5.x:6513d11d2fa1572cc239ee5b3ed761a26906ccae]|RELEASE:[none|none]
