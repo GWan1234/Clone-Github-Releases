@@ -1526,7 +1526,7 @@ home-assistant/app-mariadb: BRANCHES:[main:36c819510b8cbe5d20b5745ba6d7409fcdca5
 home-assistant/app-matter-server: BRANCHES:[main:fec98751dd83ec8e0bec44a1cd9ddfd3e66b1861;fix-app-url:fcfe46b4622530ee174f58f5a4689beb66263e48;fix-config-url:8b78367981253468dec6fcd56f54d3eda51dba05]|RELEASE:[9.3.0|15ce0f75a050fa4f5bbb1f14fdc57f9521e13275]
 home-assistant/app-mosquitto: BRANCHES:[main:c57f69516ede4da8d1c39689386a1789eeb8e22d]|RELEASE:[7.1.3|d08790bb7a9f6b0d477f8ec39df9a87f396dfe67]
 home-assistant/app-nginx-proxy: BRANCHES:[main:8b44c8f7a0305f0c604e9383f54fc20452eb2f38]|RELEASE:[none|none]
-home-assistant/app-openthread-border-router: BRANCHES:[drop-universal-silabs-flasher:7545313103c251cdf4b744702fa92f19fa6441b4;main:e166925cc6576c4b7b63f477e075b2cb4d143bc0]|RELEASE:[3.4.0|c2defa9a76b0a71807798ba93bef94b119d46923]
+home-assistant/app-openthread-border-router: BRANCHES:[drop-universal-silabs-flasher:34d76127548999631c0484eda860da56a083593a;main:e166925cc6576c4b7b63f477e075b2cb4d143bc0]|RELEASE:[3.4.0|c2defa9a76b0a71807798ba93bef94b119d46923]
 home-assistant/app-openwakeword: BRANCHES:[main:98480232cc3424367329e01d269bbf911cc529cb]|RELEASE:[none|none]
 home-assistant/app-piper: BRANCHES:[main:f743f7c73cd880c6712215214d464fb8f99788ad]|RELEASE:[none|none]
 home-assistant/app-rpc-shutdown: BRANCHES:[main:d1c84624a8c99a5b4b292d1e9d5c776018dacc8a]|RELEASE:[none|none]
