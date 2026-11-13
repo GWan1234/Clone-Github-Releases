@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-13 06:59
+commit-tracking: 2026-11-13 07:00
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1940,7 +1940,7 @@ localsend/snap: BRANCHES:[main:4bfa36219a7fc8986d79c423b8bb2954f54f0d56]|RELEASE
 localsend/web: BRANCHES:[main:8fd3e7f6522f2ddc7c4cb0d237bb995ed95313c0]|RELEASE:[none|none]
 localsend/website: BRANCHES:[main:9377b82b2c3d733990b9819e4970bab051393bb2;redesign:b02f189d1ff2b56eede91ce6a300c7471caaee68;sponsor-test:c4565172310de7865bac7f25d8e3116b91477249]|RELEASE:[none|none]
 localsend/winget-pkgs: BRANCHES:[master:e0f60c4bcfb88e60015aed3bfe6dccdbcd2d25d1;LocalSend.LocalSend-1.17.0-4703A8BD68534808BF3612552AB8963B:4bd1393186c722771cc032ec592150707af40462;LocalSend.LocalSend-1.15.0-F6AAA0EBA5887C4D95D85D646AE6D1B826689707:242aa4495feee93525f087a087d513be12e2695f]|RELEASE:[none|none]
-lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:b4bdc29beeae24854b5c1320d0db765132892b2b]|RELEASE:[none|none]
+lollokara/HomeKey-ESP32-PCB: BRANCHES:[main:c1b5b4de47b001d3cc4ef5ecf40c205c5d17bb4d]|RELEASE:[none|none]
 martin-ger/ESP32Auth: BRANCHES:[master:89ad759b2b0232dbed3349575d4b28a7e2ae4dfe]|RELEASE:[none|none]
 martin-ger/ESP32StatusDisplay: BRANCHES:[main:cf6d6a8588438134b79d6f65300c6890154f9f9c]|RELEASE:[none|none]
 martin-ger/ESP32_Locator: BRANCHES:[master:b14acf1935f3e99cee900e4d15a76ff40cc743b3]|RELEASE:[none|none]
