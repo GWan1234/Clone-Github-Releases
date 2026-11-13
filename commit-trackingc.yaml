@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-13 09:32
+commit-tracking: 2026-11-13 09:33
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2004,7 +2004,7 @@ sparkfun/SparkFun_RTK_Firmware: BRANCHES:[gh-pages:92eb87b3c07915e93d42dda215634
 sparkfun/SparkFun_RTK_Firmware_Binaries: BRANCHES:[main:1fac8e85913a89fcb672c3afb6a61417c457bc7a]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Firmware_Uploader: BRANCHES:[main:a0944549a6b93203050f35b1de00d62a1297f2d2]|RELEASE:[v1.7.0|521ff38da0afcca05d088176349175d779466894]
 sparkfun/SparkFun_RTK_LoRa_Firmware: BRANCHES:[main:29eb5cb53f23f558c5a413789cbe5abc872b91d9]|RELEASE:[v3.0.3|29eb5cb53f23f558c5a413789cbe5abc872b91d9]
-sparkfun/SparkFun_RTK_Postcard: BRANCHES:[gh-pages:d2783723f1c517c6e79bb6cb014ff6c6ff5f0a64;main:01ade7997ec63f4a67975a63f4230ffa98c9347f;v11:0e3cf69d0d2690b07e5c629349402fd348aaa6c8]|RELEASE:[none|none]
+sparkfun/SparkFun_RTK_Postcard: BRANCHES:[gh-pages:1618e3b77d9c96df3e7d389b7aad4f3de367f01e;main:8a96d4b49c88bde1b012143b2f6b83a6cc1e5727;v11:0e3cf69d0d2690b07e5c629349402fd348aaa6c8]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Reference_Station: BRANCHES:[main:330216b1e20cdd2d8fc8a60b611488d7b6bebb51]|RELEASE:[none|none]
 sparkfun/SparkFun_RTK_Surveyor: BRANCHES:[release_candidate:34b215e404ea92d4265586ff855ce7e11e543f81;main:70b98bf874f966e77b131c1dc542049b3dc5e332]|RELEASE:[v1.6|1dd8376d3d3a898460f8ba17eb36cd706dcb3f66]
 sparkfun/SparkFun_RTK_Torch: BRANCHES:[gh-pages:d240c9f1fd62c02a537874ed30d1b24ccaa998a3;main:e29af1b0bba6413ac74b0917c0ab21b30a11f8d5]|RELEASE:[none|none]
