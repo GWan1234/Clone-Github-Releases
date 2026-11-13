@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-13 10:45
+commit-tracking: 2026-11-13 10:46
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1595,6 +1595,7 @@ m5stack/M5Unit-EXTIO: BRANCHES:[main:daa060f76b8071de47d29691614e13156a82db9f;gh
 m5stack/M5Unit-EXTIO2: BRANCHES:[main:fcf67c4b16e9b27f9f57ec5ec01ec01efd8e7fec]|RELEASE:[1.0.3|e123f193767bfafb3345c069fb2f97740ce3c1d2]
 m5stack/M5Unit-EXTIO2-Internal-FW: BRANCHES:[main:26239d901fff70211b21f02bf94b6bd21c233911]|RELEASE:[none|none]
 m5stack/M5Unit-Encoder: BRANCHES:[master:1a511886ed19f4ac560e4af9e90e286d8f90c419]|RELEASE:[0.0.2|4a9d8484a0b551f4cb618e290bba0ef6e4ab59dc]
+m5stack/M5Unit-EncoderMotor-Driver-Internal-FW: BRANCHES:[main:df428986c8fd3e9743257e4bd603d693adc262fe]|RELEASE:[none|none]
 m5stack/M5Unit-EncoderMotor-Driver-UserDemo: BRANCHES:[main:3ea863896fbe0ab0b6a9b40c18f3ed02d0d054c0]|RELEASE:[none|none]
 m5stack/M5Unit-ExtEncoder: BRANCHES:[main:6a4c1e80616aa9f737d2d6e268ea9fc3744cd5f3]|RELEASE:[none|none]
 m5stack/M5Unit-ExtEncoder-Internal-FW: BRANCHES:[main:09d45813126c734a152aaec6322ce332928b624e]|RELEASE:[none|none]
