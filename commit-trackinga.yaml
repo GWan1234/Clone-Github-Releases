@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-13 07:00
+commit-tracking: 2026-11-13 07:01
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2620,6 +2620,7 @@ voorz/sheeridVerify: BRANCHES:[main:bc7bf16d7a65e26c6e80b69d76526ee95e06794a]|RE
 voorz/sigmo: BRANCHES:[main:5870721e5e03dfa0a1ab22994fac66369b7f3685]|RELEASE:[none|none]
 voorz/sipgo: BRANCHES:[main:b91481e9ba864c84a27ae6883133dc9483e0910a]|RELEASE:[none|none]
 voorz/swu-go: BRANCHES:[main:71f81ea53aef8881d15f9137b9c81e4d419d2c6e]|RELEASE:[none|none]
+voorz/unslop: BRANCHES:[main:97daa3eb365670ea3f87ed85356cbfcee18105a5]|RELEASE:[none|none]
 voorz/vectorcore-ePDG: BRANCHES:[main:b485f0f119e693cdc96e55e8deb13d531964570a]|RELEASE:[none|none]
 voorz/vohive-next: BRANCHES:[main:9e80a8495b76b76f043826244e178ed737f662f6]|RELEASE:[none|none]
 voorz/vohive-release: BRANCHES:[master:745b9a9534ccd0cf978fc80346a090f8e8542cf0]|RELEASE:[v0.1.107|eb64ab3cb56b58bf3bb3ceb9a4a9205232b9fc2b]
