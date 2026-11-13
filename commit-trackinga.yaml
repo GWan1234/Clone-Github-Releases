@@ -902,7 +902,7 @@ OLIMEX/linux-olimex: BRANCHES:[release-20261022-v5.10.180:13f3f4e34df7114c0171dc
 OLIMEX/olimage: BRANCHES:[master:2da96a22b2bf83b89a30bb37417d2de34ccbcdb8]|RELEASE:[none|none]
 OLIMEX/olimex-iot-firmware-esp8266: BRANCHES:[master:3e53a47edb4d209cdfc88c6624fcbe0d4920bec8]|RELEASE:[none|none]
 OLIMEX/olimex-iot-server: BRANCHES:[master:a3979c5434ca34ea7e9a41cd10cf18c110dfa548]|RELEASE:[none|none]
-OLIMEX/olinuxino-overlays: BRANCHES:[master:c8b3caae196aa03ba6604e3a5deb123bef4fc813;kureto-test:f6f4b701a4400fabe2ed778da768c367993ff2ba]|RELEASE:[none|none]
+OLIMEX/olinuxino-overlays: BRANCHES:[master:8b6d84d72b5b95e9d3353146eb465450a80e5872;kureto-test:f6f4b701a4400fabe2ed778da768c367993ff2ba]|RELEASE:[none|none]
 OLIMEX/olinuxino-rtk-hciattach: BRANCHES:[master:8b17a90d6f8092bbf6a59180ece0d9600a4d1204]|RELEASE:[none|none]
 OLIMEX/olinuxino-tools: BRANCHES:[master:8f7400809fca828f3fc17d4bf58264304158cad4]|RELEASE:[none|none]
 OLIMEX/olinuxino-web-io: BRANCHES:[master:61a90b87bbbfe5aa1b8bc8c9d4cea0a4ba2be2df]|RELEASE:[none|none]
