@@ -2519,7 +2519,7 @@ adafruit/assistant-sdk-python: BRANCHES:[master:02e7985a13747a0d9224cd428cfd93f5
 adafruit/atmel-samd-micropython-vagrant: BRANCHES:[master:9f1eaca51befa1e29447bd6ef37a438a43ad0afc]|RELEASE:[none|none]
 adafruit/avrdude: BRANCHES:[6.1-pi:7859732c734edf2f19c80439293d09595e9aee15;usbtiny-new-protocol:199081d8c9c27ed9c22ce53b427f1f27ce740b19;5.11-trinketfriendly:124de3f2f7a427ce584b8203b912b48defe74f9d]|RELEASE:[6.1-pi|52794f06dfeac9fc3b029817015e42e05bf95551]
 adafruit/awesome-adafruitio: BRANCHES:[master:4f82a243d30de770ff8fd3273d3db543817a3818]|RELEASE:[none|none]
-adafruit/awesome-circuitpython: BRANCHES:[main:21edca3c366122d84ab26d4875b5aa137b636f54;detached2:91b93ae566debcbf371a4c2aac4a23c89ce015a3;detached:016eedaaf00afa89a6ae1858bd9aa05a7d61e1a4;cpy-show-links:4816c0e63c98e200ae4f7f043142c92cbc5b8833;run-awesome_bot:23cfdcb8fc33c38a74c23363418430aa219736ea;awesomelint:33b8a44aec0bd951fd69a25ff8aa79f31ca282af]|RELEASE:[none|none]
+adafruit/awesome-circuitpython: BRANCHES:[main:7d375c1ae35ccae33685883596c4167e46f746b7;detached2:91b93ae566debcbf371a4c2aac4a23c89ce015a3;detached:016eedaaf00afa89a6ae1858bd9aa05a7d61e1a4;cpy-show-links:4816c0e63c98e200ae4f7f043142c92cbc5b8833;run-awesome_bot:23cfdcb8fc33c38a74c23363418430aa219736ea;awesomelint:33b8a44aec0bd951fd69a25ff8aa79f31ca282af]|RELEASE:[none|none]
 adafruit/awesome-feather: BRANCHES:[main:3c4b663a1ca05af01500aef603a0a4955d1de7e6]|RELEASE:[none|none]
 adafruit/awesome-makecode: BRANCHES:[master:bd9c5d3afca8996f9c5cb462da30de64fe8c6895]|RELEASE:[none|none]
 adafruit/awesome-micropythons: BRANCHES:[master:174283519e3b6b04ac44b6391c8a5cb0a0d797b8]|RELEASE:[none|none]
