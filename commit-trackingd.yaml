@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 12:51
+commit-tracking: 2026-11-18 12:52
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3636,6 +3636,7 @@ waveshareteam/ESP32-P4-WIFI6-Touch-LCD-7B: BRANCHES:[main:452e998af0fdf200f9ce15
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X: BRANCHES:[main:f813d1017542a03bab114b5dfa830b0b5aada4ea;feat/firmware-manifest:ebd6bc74e4ab2d539632cf3a2f02843c3c607ccb;fix/lcd7-factory-firmware-260915:636a527424989586fcfbe0b4536e4005fb0a032b;fix/align-arduino-with-lcd5:ef39c93d91497f56aac3bfe882a6026be417036c;feat/expand-arduino-examples:bf41a635508c9c3f95f8f9d935bbad2b0c75f02d;chore/esp-idf-ci:5ec9abc52e879afc5bb2898cf9cdf4c357df4a6f]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-XC: BRANCHES:[main:5635f7095ca188ba00ce7690961279f2d84a7187;feat/firmware-manifest:a27503dd1449ab6fa5350dd7924ab3ce152d42dd;chore/esp-idf-ci:6acaae088fbb22ed9fe55a3396af7196190e2367;docs/product-readme:3bdfca1ac6f2c6e412f27893be3bc6c6ff400a87;docs/ci-self-check:863f92d8899dc519bd5966cfe94faf786ec424ff]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-AMOLED-1.91: BRANCHES:[main:e134d3055101d2751e93124417e132e0c01af8a3;add-factory-firmware-20241111:5b4b900caa80f4c082f2828a131e26253b2048bf]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-AUDIO-Board: BRANCHES:[chore/adopt-repo-template:c9307caaa05b5f9cfe42471e4936facbb93d23d4]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:c0eebfcbf7abebdaecfbed360a7e7c696df49440]|RELEASE:[none|none]
