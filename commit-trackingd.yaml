@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 12:34
+commit-tracking: 2026-11-18 12:36
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3682,7 +3682,7 @@ waveshareteam/ESP32-S3-Touch-LCD-7C: BRANCHES:[main:73f8b90df1c684858e0c351afca3
 waveshareteam/ESP32-S3-Touch-RLCD-4.2B: BRANCHES:[main:64b2990315d6ce0e5436900fe94914d3f4e48051;feat/initial-examples:5617929c4d17d0de1b5e30cc627395ca2cf9d9ae]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-RLCD-4.2C: BRANCHES:[main:3ed69c4769c864ab9e930f4604e3acb9d109435d;fix/mechanical-file-names:5fb31bc6c77838f3f8c1063e9470a4ee8ee66db3;feat/initial-examples:00f3149e9f20e0077ed33a1d2ba77edd801d9ac4]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Zero-Basic-Kit: BRANCHES:[main:17304b9271a7ae91e5d8f37de09c18796f6f4b91]|RELEASE:[none|none]
-waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[main:aaf395c1bbd86f7c5b7a2f9f0401241ff5c44956]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-ePaper-1.54: BRANCHES:[fix/factory-firmware-dates:f635f5c67237960a7f7f13024f1dd756531db107;fix/factory-firmware-filenames:2498eb598ba2d535d22b2ade81aca717819bdf23;main:48e978d328cfd2e48193b08c10725d50f71d90d9;add-factory-firmware-20260416:0127d32df4ed8bbedecea3cceaa40e5c4196487d]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-1.54G: BRANCHES:[main:55eb1278f482c0cfd1e0cba5611a4132022eea48]|RELEASE:[v1.0.0|55eb1278f482c0cfd1e0cba5611a4132022eea48]
 waveshareteam/ESP32-S3-ePaper-13.3E6: BRANCHES:[main:f8e9456bd1ca520f638786142fc17a74154f4e05]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-ePaper-3.97: BRANCHES:[main:9b12d40731a80213b927ee8a421cae4082952819]|RELEASE:[none|none]
