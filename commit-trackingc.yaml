@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 11:44
+commit-tracking: 2026-11-18 11:45
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -743,7 +743,7 @@ m5stack/M5Tab5-UserDemo: BRANCHES:[feat/tab5-keyboard-demo:3b021a508133d4266a1f4
 m5stack/M5Template-C-CPP: BRANCHES:[main:ff1d57da79c9d738206d8e9a50550e8589c7a1cb]|RELEASE:[none|none]
 m5stack/M5Tools: BRANCHES:[master:2d9b8b2edcfe554c36b930f682140fe2c033c468]|RELEASE:[none|none]
 m5stack/M5Tough: BRANCHES:[master:2dc8ad313f13d64da8aaaa1c8a448e2862ddadee]|RELEASE:[none|none]
-m5stack/M5Unified: BRANCHES:[develop:e9a8e8985e4c8e45b207d576b9405a419dbcd177;master:96576a14247ddc935149145aa6b51943464120f1]|RELEASE:[0.3.0|96576a14247ddc935149145aa6b51943464120f1]
+m5stack/M5Unified: BRANCHES:[develop:6df015290976764e5e71beffe28abcd25dc54818;master:96576a14247ddc935149145aa6b51943464120f1]|RELEASE:[0.3.0|96576a14247ddc935149145aa6b51943464120f1]
 m5stack/M5Unit-8Angle: BRANCHES:[main:eb8263555f4563cd5b8b27276869789a5adfa50f]|RELEASE:[none|none]
 m5stack/M5Unit-8Angle-Internal-FW: BRANCHES:[main:26957170dfe2cda158fdfaa33c99324ff3daabfe]|RELEASE:[none|none]
 m5stack/M5Unit-8Encoder: BRANCHES:[main:7447df753d85ee485fe34721cc9a2f8e4aed05e4]|RELEASE:[0.0.1|2cec67233b2d4cf66cf3e6d7b156d48c35256a16]
