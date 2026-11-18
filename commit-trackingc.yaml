@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 11:40
+commit-tracking: 2026-11-18 11:41
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2513,6 +2513,7 @@ waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:c0eebfcbf7abebdaecfbed360a7e7c696df49440]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-0.85: BRANCHES:[main:b61ab4c443c0277843b79aaecfc916d11af67dc2]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.9: BRANCHES:[main:12b8fc74434103d0c5721906b69d866c789e4c41]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-LCD-3.16: BRANCHES:[main:0297c4283cf07b780a0cd75292b403de94438440;codex/adopt-repo-template:96b591298d118e1e803e3c6433782635b2b56555]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-Driver-Board: BRANCHES:[main:e6713765bdb003ce2fc310b90626cab95d6dc2bc]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LR1121-XF: BRANCHES:[main:1a3b6989b65a709dde52f1005d8665820b984654;firmware/factory-20260313:826570577edee017ad05de05615b80aaf461c7ba]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LR1121-ePaper-2.9: BRANCHES:[main:9e8ce96f332d49f63adfca2fa2273aa7cda0c073]|RELEASE:[v1.0.0|6f446d3a05f8e3a35ac01781a2f7d0c908686c71]
