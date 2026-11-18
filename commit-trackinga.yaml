@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 07:26
+commit-tracking: 2026-11-18 07:30
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2432,7 +2432,7 @@ syb999/openwrt-19.07.0-rc1: BRANCHES:[master:7adb808f1a56511311c37d345fd47ad4f0d
 syb999/openwrt-19.07.1: BRANCHES:[master:f48d0a263d021e3c5cb2baf3d7f402ff4cf6d7ff]|RELEASE:[none|none]
 syb999/openwrt-21.02.0: BRANCHES:[main:9630d57dc96b9ba5042312c5bf85c2c2c1e87220]|RELEASE:[none|none]
 syb999/openwrt-21.02.2-caddy: BRANCHES:[main:e2d5264d4eb42c36aeb77619d05f0a193079a5f7]|RELEASE:[none|none]
-syb999/openwrt-21.02.5: BRANCHES:[master:96a0b97acedf8ef26e96115bbb4fa4ae01aa2664]|RELEASE:[release-2026|7a52699d45dd64b0f006d1b0413c89a1ebcb8475]
+syb999/openwrt-21.02.5: BRANCHES:[master:e94f9d56e6aae48f17c2a78a2371ea78a690c08e]|RELEASE:[release-2026|7a52699d45dd64b0f006d1b0413c89a1ebcb8475]
 syb999/openwrt-22.03.0: BRANCHES:[master:cce7768613c99f1092f1ca546797eef5e5e5bb0d]|RELEASE:[none|none]
 syb999/openwrt-22.03.5: BRANCHES:[master:2328bb4de0771f51115c4f5780937d280e6fde84]|RELEASE:[none|none]
 syb999/openwrt-23.05.0: BRANCHES:[master:df67fe6b490029d1c0f4e6e768e9a1d10e2adb10;fast-path:ab87aeefea6740b5b3bfc0d145b4326a04b3364c]|RELEASE:[none|none]
@@ -2462,7 +2462,7 @@ syb999/openwrt-uclibc-mpg123: BRANCHES:[master:fae9958944150f4c4d8e1f1872c374967
 syb999/openwrt-uclibc-usbip: BRANCHES:[master:f562bd2068b75937431308a542acb5f22db05421]|RELEASE:[none|none]
 syb999/openwrt-uclibc-wireguard: BRANCHES:[master:1f728ac8078a24da4b7446fe40f69eaaf4eb5774]|RELEASE:[none|none]
 syb999/openwrt-udp2raw: BRANCHES:[master:dbd4dd8413968683c5a55a30dae7467951f468a4]|RELEASE:[none|none]
-syb999/openwrt_llama: BRANCHES:[master:47ea3e94f295aa645552b78d1b97edd47b0dbbec]|RELEASE:[none|none]
+syb999/openwrt_llama: BRANCHES:[master:4e15f611597c8c076421a42cdab124c237c49b2f]|RELEASE:[none|none]
 syb999/openwrt_rtk: BRANCHES:[master:d237e45ee480ee7e75c80a4c61e1a335a0a77755]|RELEASE:[none|none]
 syb999/openwrtbb: BRANCHES:[master:24f647e1b028c3fa52b5b592b1f792bd7325f6be]|RELEASE:[none|none]
 syb999/oui: BRANCHES:[gh-pages:6818f72989fd803267cf3120cf79cab142198235;master:023b9bee9d42932b3c3b4b303c3da4aa55b8fc3c]|RELEASE:[none|none]
@@ -2486,7 +2486,7 @@ syb999/python3-scripts: BRANCHES:[master:356ba83c61648d1bbcdb63d576fd51c18b17c1e
 syb999/pywin32: BRANCHES:[master:7025a465c8d91a0d8b8cd9604199eaeadb3fc2fe;gen_py_temp_dir:b7b46f1155d1dfa7a21b30ee70a1613c1163e8e3;salted_test_environment:90a306a0eb179824ff215b95ae71a77e6596d6d7]|RELEASE:[none|none]
 syb999/qrcode_barcode_detection: BRANCHES:[master:3f80b0b00a63b300aad34c84d2eba53722fb4b23]|RELEASE:[none|none]
 syb999/raven: BRANCHES:[main:3cd4ca605cb98e56ff4ff6179441d32dba9ed33d]|RELEASE:[none|none]
-syb999/rich4-renew-app: BRANCHES:[main:32071678737239ee47d7de6cf6e2ac8e8654f8b8]|RELEASE:[none|none]
+syb999/rich4-renew-app: BRANCHES:[main:0846f52f4a74d21dea8db5bcf519b865430d9443]|RELEASE:[android-bugfix|0846f52f4a74d21dea8db5bcf519b865430d9443]
 syb999/routing-15.05: BRANCHES:[main:542979cd9915a3f0e9546407bbe242cba3667288]|RELEASE:[none|none]
 syb999/routing-17.01: BRANCHES:[master:82fce270ec029ba3243523626cc9583ce2f55b88]|RELEASE:[none|none]
 syb999/rt-n56u: BRANCHES:[master:6cc609d0b91e1e362412858bd41ecb5cd7e091dd]|RELEASE:[none|none]
