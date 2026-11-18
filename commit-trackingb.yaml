@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 09:05
+commit-tracking: 2026-11-18 09:06
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[main:059ebbbed701402ec745e2c90bea8a08897dd9b6;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.84|059ebbbed701402ec745e2c90bea8a08897dd9b6]
@@ -3562,6 +3562,14 @@ rustdesk/rustdesk-server-demo: BRANCHES:[main:4165a07271700356822ae5ad94696033e8
 rustdesk/rustdesk-server-pro: BRANCHES:[main:7aaab2a4d38d6eacdcd6096834a4460c84b583dc]|RELEASE:[1.8.7|7aaab2a4d38d6eacdcd6096834a4460c84b583dc]
 rustdesk/uptime: BRANCHES:[master:4eb7790ec8ea21f32c285761e95c33ea57eace0b;gh-pages:3ef6722fa62c5169e922f0d92e09f6cc0d1aeaaf]|RELEASE:[none|none]
 rustdesk/winget-pkgs: BRANCHES:[RustDesk.RustDesk-1.4.6-E013E7135D514A91AF832A15E0DA3029:c5806bf76519179e9568a15a5305e14dcdd23029;master:4077fbd15f2f672aa96878b5410f4d08b234a25d;RustDesk.RustDesk-1.4.5-81ABBF6A1D1B4A5CA51612125948225E:42590e2aaca639422ab390c09e4784359d32fe69;RustDesk.RustDesk-1.4.3-7ABAD9DD615F4BBD920ABFC6D913A554:beb95dc1f46a53b8d1926e7d638e8531e8b47b3b;RustDesk.RustDesk-1.4.2-6008FCC1E41D4AC5AF2AB1811942CB2C:85f20193779f5d2981285df7089389416be9850f]|RELEASE:[none|none]
+seler1500/BackfireHelix: BRANCHES:[main:64c8cc0e99de212eb9e7cc1e30bbc6f935305b33]|RELEASE:[none|none]
+seler1500/Chinese-Discovery-Dish-Alternative: BRANCHES:[main:4a8ee1f2d70fd7e79814e380e70b8a372234fd05]|RELEASE:[none|none]
+seler1500/GobDump: BRANCHES:[master:564f2e86dc98d9823f0cba8d747b512f262f3e6a]|RELEASE:[none|none]
+seler1500/LibreSDR-B210-SMA-fix: BRANCHES:[main:0664f0d6246fd26462c79b359f94865df30bbbf1]|RELEASE:[none|none]
+seler1500/LibreSDR-B210-setup: BRANCHES:[main:237aa7feae5fee69da8cf007b90ce0b840ab4be3]|RELEASE:[none|none]
+seler1500/Making-the-Airspy-Mini-reliable: BRANCHES:[main:f127f3a633521ef1bc4210de4bae7157ca2b3c99]|RELEASE:[none|none]
+seler1500/SeLNA-v1: BRANCHES:[main:7660987678aba5608d0aab6846975f281398fe2a]|RELEASE:[none|none]
+seler1500/SeLNA-v2: BRANCHES:[main:65df5fedbdb6b7ba5337cc712d9095a65fc65627]|RELEASE:[none|none]
 sle118/bell: BRANCHES:[master:9b1cccded67cdd8b38f261f0ee57d759b796a7fa]|RELEASE:[none|none]
 sle118/cspot: BRANCHES:[master:48701cc50e0343eb2bb284df44d718fe3afb8ed3;feature/euphonium:6eaeff6e054bbe2e55f2f99561ea43ea022afffb;feature/vaccum:852f0549c2f213a0237dd94e86fca0d4d439665f;feature/reflection:2ff55c6b82e07d9f3459ffd0b2fd6991682965a2;feature/nanopb_begone:2ff55c6b82e07d9f3459ffd0b2fd6991682965a2;feature/win32:2266dc17e27319d43a5e68835564102a23bfb2c6;target/esp32s2:adf46cff576180c4de8a01a0d8eb3bad102333cd;documentation:628a3aca8442ccf790f52e2254943fba6cb45004;reconnect:f6785fe2b73f6c011d176bf6ca102bed60e2100a]|RELEASE:[none|none]
 sle118/nanopb: BRANCHES:[master:d5caab0838f4e38ab354a7e6bd544890c96c7acc;maintenance_0.3:b6c6381949ed3f7101c95c79beee66a6560e2a10;dev_dynamic_nanopb_pb2:3ca0f7d354fbe4c75de4f8af66a0e260ad416e9d;cifuzz_test4:36f3d8a51da1ddd676b8f320d9d439ae293fbd15;dev_markdown_docs:19512e147c7daabcf9215b9a342c6c9ed50418f5;maintenance_0.2:cd23364351d7aa1fa18650490c1330e30ca9f30b;maintenance_0.1:62bbe46a4555df35a7a07f347b42237bdf7608b5]|RELEASE:[none|none]
