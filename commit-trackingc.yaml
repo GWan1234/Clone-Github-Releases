@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-18 11:34
+commit-tracking: 2026-11-18 11:35
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2532,7 +2532,7 @@ waveshareteam/ESP32-S3-Touch-AMOLED-2.16: BRANCHES:[feat/brookesia-factory-20261
 waveshareteam/ESP32-S3-Touch-AMOLED-2.41: BRANCHES:[main:98d8d3aa6f1dbba71cb7845990a64e7ddf511ff6;codex/merge-amoled-241-v2:9b3d8d32c298226635a7756fac7bb72b319bddaa]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-AMOLED-2.41-V2: BRANCHES:[main:e76efcd688b2f57ce9497af994698b4cde311761;codex/adopt-repo-template:174999f21fd384a6efae1efa7e8e35a907c484e7]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-1.46: BRANCHES:[main:fda89ff2ff32eb1bce561901225c6a36fa684237]|RELEASE:[none|none]
-waveshareteam/ESP32-S3-Touch-LCD-1.54: BRANCHES:[main:5157db7c888e476fd57f8a95020800377447478f]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-Touch-LCD-1.54: BRANCHES:[main:cf676aa6351b7580c79f6d50a1a296a68e149273;register-factory-20260319:26519593c2e194a3933c9a5e351c7ec81b49d9f2]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-1.69: BRANCHES:[main:50c85c2616d4e42c56f11ce154e6ce6f3d2dceb0]|RELEASE:[v1.1.0|c45a0a8a5e253634369e7bc4f81be8cccb56d7b2]
 waveshareteam/ESP32-S3-Touch-LCD-1.83: BRANCHES:[main:011c734bdab6c77f27e7b1c7bb1c37408f3f4478;chore/ci-hardware-alignment:5d1993e1c87f761f774abd3ffb3ddf792bd9cb8e;chore/repository-modernization:6849b2242f2027f2a2460ff3add6e56c252a6f3b]|RELEASE:[v1.0.1|e240605fb6f047a3c02082f140798b7a66d6f120]
 waveshareteam/ESP32-S3-Touch-LCD-1.85B: BRANCHES:[docs/factory-gravity-description:e57f1df92235d30eb37cf2ecc5567d17ff863578;main:5a98b8da1948340c07032a408ac0d93c47ca558f;docs/factory-app-guide:1e9bca26b92bca6eab785ad6f379580eb8d0d1c6;feat/factory-badge-wheel-watch:de664bc2bc9cd6e4a0ba64771925c93cadbb932d;chore/idf-basic-examples:c28759f17ad217d45fb40dd2738a3bb863ff734d]|RELEASE:[none|none]
