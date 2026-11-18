@@ -560,6 +560,7 @@ DFRobot/pxt-micro-IOBOX: BRANCHES:[master:3e52e7ed48bcd1f04d05b93e7efecb30cdf625
 DFRobot/pxt-motor: BRANCHES:[master:3af4091584abe939ea773e09a82da683dbff0f70;fix/dual-stepper-equal-degrees:a0b6190813e5c3adb55133f8ed3ce292bfc9b3b2]|RELEASE:[none|none]
 DFRobot/pxt-zhangkong_microbit_expansion_for_boson: BRANCHES:[master:c6911ded61f696a44d2db2851bec4640102fc26a]|RELEASE:[v0.0.3|c6911ded61f696a44d2db2851bec4640102fc26a]
 DFRobot/raspberrypi_ups: BRANCHES:[master:d18bb92ff15dfc6f6c12dd9fcbb7709aadc65bf4]|RELEASE:[none|none]
+DFRobot/rk1828-notebook: BRANCHES:[master:1e83990cbe8303876c8242a6c4a146e880f487f1;dev_en:1e83990cbe8303876c8242a6c4a146e880f487f1;dev_cn:ebb136230899470ff97e9444f2a6f841b237e1b5;chinese:ebb136230899470ff97e9444f2a6f841b237e1b5]|RELEASE:[none|none]
 DFRobot/rtc-aigc-embedded-demo: BRANCHES:[master:9224e493e054b51fb607e3ed84473b6faa6d72b6]|RELEASE:[none|none]
 DFRobot/seeMoteCap: BRANCHES:[master:e52013341a552d430b0b7612423ea2e4f9cada66]|RELEASE:[none|none]
 DFRobot/seeMoteCube: BRANCHES:[master:bd912fd08cbd016bb3621bdc218678a248d17fe0]|RELEASE:[none|none]
