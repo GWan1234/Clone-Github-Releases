@@ -3642,6 +3642,7 @@ waveshareteam/ESP32-S3-AUDIO-Board: BRANCHES:[chore/adopt-repo-template:c9307caa
 waveshareteam/ESP32-S3-CAM-OVxxxx: BRANCHES:[main:72af9302030bb6f018d5c21b1225005481e09fda]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-CAN-2CH: BRANCHES:[main:d72279de7161ec95ea5ede89fd14cb515515a6d5]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:c0eebfcbf7abebdaecfbed360a7e7c696df49440]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-GEEK: BRANCHES:[main:535513aef151a6a1adc92d19420fd1372931e5fc;chore/adopt-repo-template:c0674423cef9f667139dbdb49aedb0dd24eb290c]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-0.85: BRANCHES:[main:b61ab4c443c0277843b79aaecfc916d11af67dc2]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.9: BRANCHES:[main:12b8fc74434103d0c5721906b69d866c789e4c41]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-3.16: BRANCHES:[main:0297c4283cf07b780a0cd75292b403de94438440;codex/adopt-repo-template:96b591298d118e1e803e3c6433782635b2b56555]|RELEASE:[none|none]
