@@ -1540,7 +1540,7 @@ home-assistant/app-speech-to-phrase: BRANCHES:[renovate/pysilero-vad-3.x:7313208
 home-assistant/app-ssh: BRANCHES:[renovate/home-assistant-cli-6.x:8ec3ebe106eef122c1aff8b5bc77b5a45b3fe11b;main:8f5da327e7764006b69b9776dcd24b71db001291]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
 home-assistant/app-vlc: BRANCHES:[main:66c30e0fdda497ac3d7a877b1c291ce106e1b8c8]|RELEASE:[1.2.0|66c30e0fdda497ac3d7a877b1c291ce106e1b8c8]
 home-assistant/app-whisper: BRANCHES:[main:9e824ab9e4b715635a6c50aceebcb5321a4d5916;renovate/sherpa-onnx-2.x:a6bc184cab0fdd9388e79258157862edd5375955]|RELEASE:[3.6.0|9e824ab9e4b715635a6c50aceebcb5321a4d5916]
-home-assistant/app-zwave-js: BRANCHES:[main:e9510b7e3e30d585f6f19938950c768f15fa525c]|RELEASE:[1.11.0|e9510b7e3e30d585f6f19938950c768f15fa525c]
+home-assistant/app-zwave-js: BRANCHES:[renovate/zwave-js-ui-11.x:d415c49eb945d64f785e1b72b482c3d4e21961da;main:e9510b7e3e30d585f6f19938950c768f15fa525c]|RELEASE:[1.11.0|e9510b7e3e30d585f6f19938950c768f15fa525c]
 home-assistant/apps: BRANCHES:[master:e8d88a19ac87d0ccbd1e0df63178e0e7a08caed3;copilot/rename-labels-from-addon-to-app:ab41621f8213642ac02c92992cf74c8a538e511d;update-silabs-flasher:2f89988a6053bd1087309f1bb1a465a59121ced8;mariadb-enable-auto-upgrade:5a22333431147923e661ed41c9c62eb29eb02aa6;config-docs:7dff95d51f6de9a395e3c53ee09eb5719d4a798e;silabs-multiprotcol-use-gecko-sdk-4.3.2:ec16cbcaf740021c91acb8400c191dbf72cb7652]|RELEASE:[none|none]
 home-assistant/apps-dev: BRANCHES:[main:896b053cc699b8c0a806f579036c1cf55cf6e764;split-cec-scan:7c4bba47b2e7862be315453c5286bd84dcd6d341]|RELEASE:[none|none]
 home-assistant/apps-development: BRANCHES:[master:070bd6d71fe686a9b731443f603eefa89a787be7;frenck/renovate:6da43f391721963ef7ff35c44c5e8b3ecd5abdb6]|RELEASE:[none|none]
