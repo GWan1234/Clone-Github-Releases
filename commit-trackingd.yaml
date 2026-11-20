@@ -3629,7 +3629,7 @@ waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:7671170de4f5fe04ae
 waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:8f056ea26513eb1ffa868f190d5f17fd4251665f;chore/declare-screen-firmware:0c04e1da1a8232d73fdec41952bc6fb3fdffb0d8]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:c943ea11a74024ca46ee57d413a7d271760d2a37;chore/adopt-repo-template:da8518ef9e9b47e849b5cb33e2a0fb03a020380d;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:f6e1d1ab2d8b03036c59f43e87d8621667ca43a4;chore/declare-screen-firmware:2ab1688f3ae265cb572c2aa4098381fb0d24c56b]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:465606e8aa252d8ee6fba2b4b22c89c2b52c4250]|RELEASE:[2026-10-27|9f00768b469e823e308d0b17e06ca37bd15b2bc0]
+waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:70cd25e80840309d8bb33660833a6271abf3cbb5;chore/declare-screen-firmware:9a2b9f1d0d66cee375b8453cffaaa4cbcc6188c9]|RELEASE:[2026-10-27|9f00768b469e823e308d0b17e06ca37bd15b2bc0]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[main:3e2fcd48fe8847e83fd2556522b33728fa247d64;revert-13-main:9fa3a212e1cd73445a54ead2d54e5f062e9e5e58;docs/readme-product-overview:af5a650c3de5bd16b5204256dba11109d4b0c753]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5-update: BRANCHES:[main:737cb6a83992565dce4791b38f300882f0cf5e69]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-4.3: BRANCHES:[main:46502f5ab24bbe00bd65b2df3ceacfa9e34dbf5b;feat/rev3-factory-firmware:b277ca498d3b0bc1e272fecca16d8a665d925f49;chore/esp-idf-ci:d327111ac1ba6310496d8c4189e682baa4073908]|RELEASE:[none|none]
