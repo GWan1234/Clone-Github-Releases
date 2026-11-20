@@ -2491,7 +2491,7 @@ waveshareteam/ESP32-C6-Touch-AMOLED-2.16: BRANCHES:[chore/repository-modernizati
 waveshareteam/ESP32-C6-Touch-LCD-1.28: BRANCHES:[main:d73e23c8c85663e7eefb758ded50967c8ebfaee5]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-LCD-1.54: BRANCHES:[main:39cbcf4ee5b964358869ceb09ad1e7145366e803]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-LCD-1.69: BRANCHES:[main:48906a4a31a80ecd128bd83c9ebc36e257236e5f]|RELEASE:[none|none]
-waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:deaf773feb2dd18a2a55b8156240547184f54d11]|RELEASE:[none|none]
+waveshareteam/ESP32-C6-Touch-LCD-1.83: BRANCHES:[main:3869f3c2ea432ebfd0dcdd117c9bfba6a54604e3]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-LCD-2.73: BRANCHES:[main:a4d8054fec3a8051e92c54a22447784088f45da7;codex/tidy-example-tables:a31ec0736b8bc95e7e6daccd6fbcf77c39f6e403;codex/prepare-factory-repository:2a286120e75856b7b8724370538d75b46e06d6b7]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-LCD-2.8: BRANCHES:[main:83640b2ccd5521ccd3916cea898526340dfda0f8;chore/keep-latest-factory-firmware:385b823e6f3008318f52a00097600025b36bb186;chore/update-c6-factory:f58b67125a59dd55fee7edbe327250fd83ed617d]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Zero-Basic-Kit: BRANCHES:[main:067435640535d90ce9c1fe0c046ba36a12886974]|RELEASE:[none|none]
