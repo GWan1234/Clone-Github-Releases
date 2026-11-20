@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-20 13:30
+commit-tracking: 2026-11-20 13:32
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -1761,7 +1761,7 @@ m5stack/stackchan-idf-gemini: BRANCHES:[gemini:181eb9c77f1fdd59df5bdd3ece1956b3f
 m5stack/stepmotor_module: BRANCHES:[master:10cceb97b16a45304b464c9e43501041a66de3a2]|RELEASE:[none|none]
 m5stack/toit-m5stack-core2: BRANCHES:[main:7de6c6b0aeb34c6b2ccc3ff06e9348ae18760b2b]|RELEASE:[none|none]
 m5stack/uiflow-i18n: BRANCHES:[main:d2b5eecea010fc9cfb17d350ca2684dab3629aae]|RELEASE:[none|none]
-m5stack/uiflow-micropython: BRANCHES:[develop:a61a29409f09f1f4bebae05e15c4bd6dcc4956b6;master:2454b64ce92777117b3b726a5b7a05a4cf8983bb;feature/micropython/v1.25.0:082a0e89bec69ac0610db64475375c129322dfcd]|RELEASE:[2.5.4|e437118892520ba987c2d930a2428db1cab65ab1]
+m5stack/uiflow-micropython: BRANCHES:[master:a61a29409f09f1f4bebae05e15c4bd6dcc4956b6;develop:a61a29409f09f1f4bebae05e15c4bd6dcc4956b6;feature/micropython/v1.25.0:082a0e89bec69ac0610db64475375c129322dfcd]|RELEASE:[2.5.5|a61a29409f09f1f4bebae05e15c4bd6dcc4956b6]
 m5stack/ultralytics: BRANCHES:[m5stack-ax630c:eb4da5ec49c552a6f793e210f703d5205e3fb264;main:3a30034a5f68be16c084cc3ed2d1aa7074a3b8fe]|RELEASE:[v0.0.1-m5stack|06535634483cd76a776f3802668510f8cf9fc2e5]
 m5stack/usb-pids: BRANCHES:[main:08c2f615d9d6468159d9bde324bbf839d3e11aa9;m5stack:f4da5a5cd9ada5ea7d3d5f1b1ac753d191f33071]|RELEASE:[none|none]
 m5stack/xiaoling-esp32: BRANCHES:[m5-board-fix:e327fd776777a4155b425af7f2966ba1faa259e1;main:abb6467ad2b4e1a80c9e430e030ca3bd90725697]|RELEASE:[none|none]
