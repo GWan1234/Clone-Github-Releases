@@ -1613,7 +1613,7 @@ home-assistant/partner.home-assistant: BRANCHES:[eleventy:fb142ea79bc2d0369487e3
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
 home-assistant/plugin-audio: BRANCHES:[master:0001d1dcd1d24863c353a9cce309318bf380e357]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
-home-assistant/plugin-cli: BRANCHES:[master:4f1abcbbd633c5f0c037cc9c1d02fd35b219fbef]|RELEASE:[2026.11.0|9a55d1bcda392beafccac5836fcdb983b213eadb]
+home-assistant/plugin-cli: BRANCHES:[renovate/github-gh-actions-lock-0.x:63c79c9c3ca20095f8fb07749cc26f30c1b755e4;renovate/home-assistant-actions-digest:283a4034a83e57b5c2adbdbb9d0f66600b812e81;master:7250ed4d01b31d02461e18131390ba128893bde1]|RELEASE:[2026.11.0|9a55d1bcda392beafccac5836fcdb983b213eadb]
 home-assistant/plugin-dns: BRANCHES:[master:02b77f0749089e1a5e91c55cb067ca36bbb5f1c1;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.10.0|7115121a4bbcbc8c4f50b0d595e02a65e575750c]
 home-assistant/plugin-multicast: BRANCHES:[master:3651f01985a573654696b4ab6097b7cff457e4b1;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
 home-assistant/plugin-observer: BRANCHES:[master:a7395ee091b9dbee5d0f0766bba7476d556f0aa2]|RELEASE:[2026.08.0|aadd23ef7b298af366123e1830261ad3994a1ca2]
