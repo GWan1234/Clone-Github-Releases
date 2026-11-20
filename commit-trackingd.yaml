@@ -3690,6 +3690,7 @@ waveshareteam/ESP32-S3-Touch-LCD-1.85B: BRANCHES:[docs/factory-gravity-descripti
 waveshareteam/ESP32-S3-Touch-LCD-1.85C: BRANCHES:[main:27314d3f9f169bc42864fd93433636ec404ab097;fix/remove-legacy-factory-bin:edabfd6deb7d2bd3eb255ef6d45d2d0e9b84fc93;fix/firmware-index-naming:0100a48ed8a6cc7ac87eab084c79ad0a1f16a17a;firmware-factory-20261022:22df4b53016d76f56c02ea386824d555f8a5e7c6]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-2: BRANCHES:[main:641387abb7bf447d2592b95857824b65c179d525]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-2.8: BRANCHES:[main:ed1c03873b06601698914cb14eef1be2e4b54ad8;fix/factory-lcd-2.8:d6b7a10d5bf56b26a0770897ed01cab089843f73;add-touch-lcd-2.8b-factory:32aa001c7f932c04498f98a32997d1472b4d88bb;factory-20250124:61aae965137660633900459f05cbb97825144bfb]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-Touch-LCD-2.8B: BRANCHES:[main:5a140abfa0ea9e9703a2dbd61585307c12e7d3f0;add/factory-lcd-2.8b:4a9aaf15f519495774c6cd9eb336ae282f66a714]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-2.8C: BRANCHES:[main:515acabcc2845a32722e7a4bae2cbab080ae0648;register-factory-28c:462bd3c7ff516f77915043a9f207cc06993e9b75]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-3.49: BRANCHES:[main:def6edd0b6e1925ed09702eed01a2f181afdf8c1]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-Touch-LCD-3.49-V2: BRANCHES:[main:1c157e6e8e68b89fd4dc400f46bf1724cb64a57e]|RELEASE:[none|none]
