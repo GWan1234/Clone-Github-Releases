@@ -3646,7 +3646,7 @@ waveshareteam/ESP32-S3-DualEye-LCD-1.28: BRANCHES:[main:51da43c777347a6667143b2f
 waveshareteam/ESP32-S3-DualEye-Touch-LCD-1.28: BRANCHES:[main:c0eebfcbf7abebdaecfbed360a7e7c696df49440]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-GEEK: BRANCHES:[main:535513aef151a6a1adc92d19420fd1372931e5fc;chore/adopt-repo-template:c0674423cef9f667139dbdb49aedb0dd24eb290c]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-0.85: BRANCHES:[main:b61ab4c443c0277843b79aaecfc916d11af67dc2]|RELEASE:[none|none]
-waveshareteam/ESP32-S3-LCD-1.9: BRANCHES:[main:12b8fc74434103d0c5721906b69d866c789e4c41]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-LCD-1.9: BRANCHES:[main:0d79f909069ebe40ef653fd8fc2cc2485a771480;add-factory-firmware-20250408:85731cdc7cbdb44d7b1505361743beb0db117596]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-3.16: BRANCHES:[main:0297c4283cf07b780a0cd75292b403de94438440;codex/adopt-repo-template:96b591298d118e1e803e3c6433782635b2b56555]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-Driver-Board: BRANCHES:[main:e6713765bdb003ce2fc310b90626cab95d6dc2bc]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LR1121-XF: BRANCHES:[main:1a3b6989b65a709dde52f1005d8665820b984654;firmware/factory-20260313:826570577edee017ad05de05615b80aaf461c7ba]|RELEASE:[none|none]
