@@ -3598,7 +3598,7 @@ waveshareteam/ESP32-AIChats: BRANCHES:[master:3f554267ca5c0d9136b50c4b0ef2a5bf25
 waveshareteam/ESP32-C3-LCD-0.71: BRANCHES:[main:1e1ee0ab697f128cee52e43ffe1bcc8a0e4cbcad]|RELEASE:[none|none]
 waveshareteam/ESP32-C3-LCD-1.47: BRANCHES:[chore/adopt-repo-template-factory:cecece1274b495fd07a7f278a57c99ce1404d7e0;main:a62da5a5c5dfdc1f2b2c8fe37283aa784f47cbab;firmware/update-20260514:580b0d9ac308070ef395199347c77e990474923d;chore/adopt-repo-template:6809bce7f935015085ddb2cadaa644384b9cd4e7]|RELEASE:[none|none]
 waveshareteam/ESP32-C3-Zero-Basic-Kit: BRANCHES:[main:4db4202faa251964321f79b39efb232d6ca7bef5]|RELEASE:[none|none]
-waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:bf1c51a12a6d819b7d27ab42c12c62d4be176b04]|RELEASE:[none|none]
+waveshareteam/ESP32-C5-LCD-2.73: BRANCHES:[main:418de818f4f40c5a04c4292dbe293bfaa1351068]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-MINI-KIT: BRANCHES:[main:9eb18f4282e2e464b34b911ed6ba63cf28f22c9f]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Pico: BRANCHES:[main:cd413f3b76723516c8c264034f462381fe0ac0ac]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Touch-LCD-1.69: BRANCHES:[main:136f2a8c68b3808ce4a9dbea218e9c3a4928212f;firmware/esp32-c5-touch-lcd-1.69-factory-20260626:f1e63c8f9031fbe89366695672951dfc4163e3d3]|RELEASE:[none|none]
