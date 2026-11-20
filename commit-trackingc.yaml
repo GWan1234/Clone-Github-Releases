@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-20 11:23
+commit-tracking: 2026-11-20 11:24
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2482,7 +2482,7 @@ waveshareteam/ESP32-C6-LCD-0.85: BRANCHES:[main:03a98f7087eba38860512746ce893830
 waveshareteam/ESP32-C6-LCD-1.28: BRANCHES:[main:6859f1967c8b35dec39521ac37ba605df8ad23c9]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-1.9: BRANCHES:[main:1fed15e32977de11afe1f710a0f5e915bfcc35a5]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-2.73: BRANCHES:[main:37ce1624301b200fb0e7027a752aa7ddb10a1515]|RELEASE:[none|none]
-waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:b794ebccc8cb295bbd352926762f3c4f7370630a]|RELEASE:[none|none]
+waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:5fa8451c513d5aa661d2cec895c0a3ce8343d970]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.43: BRANCHES:[main:041a83d6ec24c266377bbf4f68505bf38c2ad4f8]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.64: BRANCHES:[main:b90e28c953c1fc882258fa8dbd56b7706bc888b7]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.8: BRANCHES:[main:4617895114cfef835b56c22bd4535979990e7669;fix/brookesia-test-fixture:e33bedca4c2f92974a8ca13b77d2d3d160551bdf;chore/repository-modernization:2ffa9b4fd9d2eaddc7d3d958e3e7fed46a76b448;docs/product-overview:5328838a0e04ebe995f358ca264b33c63bce48ed;chore/c6-v2-ci:8f3bd62c92fbc3e5674b363d19f532dd45c674c1;chore/esp-idf-ci:4e5101e1143ff7ce9ef66a4a4f1463e950d274d8]|RELEASE:[none|none]
