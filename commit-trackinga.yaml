@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-20 07:15
+commit-tracking: 2026-11-20 07:16
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -2312,7 +2312,7 @@ sonocotta/attiny1616-dev-board: BRANCHES:[main:352e5beb1ee896f236b29e0d347c5a289
 sonocotta/esp-adf: BRANCHES:[release/v2.4:6381a4413ca6eadf41853b4e596d85d89b63e677;master:a535ca9d6960543dc9cd523e6593a6f0b70b88fc]|RELEASE:[none|none]
 sonocotta/esp-luma-drive: BRANCHES:[main:c3f3fc2ea8ce746be744dc7155f72e977d12f19b]|RELEASE:[none|none]
 sonocotta/esp-tunein-player: BRANCHES:[master:3a891ec6a1a374507e89510c52a69b75e3917d5a]|RELEASE:[none|none]
-sonocotta/esp32-audio-dock: BRANCHES:[main:87049088b5beba816355d93fe0145db05c9be0dd;features/parametric-case-for-louder:af8eeecd1537afdd57291815412a2f62b5e04afc]|RELEASE:[none|none]
+sonocotta/esp32-audio-dock: BRANCHES:[main:ecf0f286940983a1d221ad824e50c4890f815c86;features/parametric-case-for-louder:af8eeecd1537afdd57291815412a2f62b5e04afc]|RELEASE:[none|none]
 sonocotta/esp32-esp8266-screensavers: BRANCHES:[master:1c598a51dfc47ad29c2358c5b1919e8de0a857cc]|RELEASE:[none|none]
 sonocotta/esp32-gameboy: BRANCHES:[main:cb81946a0ed50af6da3fbe3b8a2177f95e2a4ad7]|RELEASE:[none|none]
 sonocotta/esp32-tas5805m-dac: BRANCHES:[main:6ba7abc1156a1be5154b01c6d6d8b2b755b690a3]|RELEASE:[none|none]
@@ -2321,7 +2321,7 @@ sonocotta/esparagus-echo: BRANCHES:[main:fe593a5a2670180f3397027d2d985332613d503
 sonocotta/esparagus-media-center: BRANCHES:[main:a775a1d47bf3f42b58d545585c18d321d1b6a5ea;features/sendspin-esphome-configs:2f2b56e83df1f14863fb2d78d30bf9fe25dc4462]|RELEASE:[none|none]
 sonocotta/esparagus-snapclient: BRANCHES:[main:82f77431c1fdc9e76345662dcab7838d302093a4;features/merge:131cf4afa54e93db1c7d6e04a00f99a2d86d8694]|RELEASE:[none|none]
 sonocotta/esparagus-snapclient-fork: BRANCHES:[features/s3-support:600d8a6e68bb399d02c890117ea954a4c7eee0dd;master:e0d5a8e99c21df0970c1a526e63c16c1be6056b8;master-backup:a825a7025fcb0ab5273e4ea18ee3a39e469fcb60]|RELEASE:[none|none]
-sonocotta/esphome-husb238a: BRANCHES:[main:0a36e5a742e3d3b4322e13940dfe330bf44aed53]|RELEASE:[none|none]
+sonocotta/esphome-husb238a: BRANCHES:[main:1794ee1581dd797cc427e1137e3c998417166467;fix/pd-state-and-reporting:4dd94dd0d6f9fb88be534ff132cf2d9798656bbf]|RELEASE:[none|none]
 sonocotta/esphome-ma12070p: BRANCHES:[main:8dcf406ff20813c17f42ed59bbcd79fa69434ab1]|RELEASE:[none|none]
 sonocotta/esphome-pcm5122: BRANCHES:[main:999dbd9520386bca058cc7b31a5304a6b4cf46a0]|RELEASE:[none|none]
 sonocotta/ili9341-orangepi-python: BRANCHES:[master:ca6023d39547847365d24a26c6188c3b5ff400a3]|RELEASE:[none|none]
