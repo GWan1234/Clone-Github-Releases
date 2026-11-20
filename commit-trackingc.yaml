@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-20 11:41
+commit-tracking: 2026-11-20 11:42
 HelTecAutomation/Cloud_Platform_Docs: BRANCHES:[master:c296de87da07e1bf88c1304ad796c219800cdc85]|RELEASE:[none|none]
 HelTecAutomation/Cloud_Platform_Docs-zh_CN: BRANCHES:[master:cee7878529c694939f36d360f6545b108cc81385]|RELEASE:[none|none]
 HelTecAutomation/CubeCell-Arduino: BRANCHES:[master:a4973ec25f36e68c5f6d7bf726ebac6505524d2d;asr650x:d7ed75ab4a63ed955ec9c23a3b74a714d215bf1e]|RELEASE:[V1.7.1|d758b50971adb7b67babab4d031625066da879c0]
@@ -2500,7 +2500,7 @@ waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e26
 waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:7671170de4f5fe04ae9c9a9273f6b6119eb7fb0b;fix/xiaozhi-exit-freeze:075b6dbc56d569f9252f87ee10613e0ebd24de8a;feat/factory-ui-refinements:433a6a684280a6cfb5e459f291ccbaae874a2655;docs/hero-image:e1cdf20e3bbed197473a8c535f2c8dde707f65b5;refactor/use-registry-board-pack:8e29a8b6b33a520cc811e0f580f4326c45cdc55d;chore/p4-factory-and-examples:9f548a138c4fb2178affa0f818e1aa8ff3ddb42d]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:8f056ea26513eb1ffa868f190d5f17fd4251665f;chore/declare-screen-firmware:0c04e1da1a8232d73fdec41952bc6fb3fdffb0d8]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Platform: BRANCHES:[main:c943ea11a74024ca46ee57d413a7d271760d2a37;chore/adopt-repo-template:da8518ef9e9b47e849b5cb33e2a0fb03a020380d;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:0e2bf9c1242d01a10f218787390812c39e1e6671]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[main:f6e1d1ab2d8b03036c59f43e87d8621667ca43a4;chore/declare-screen-firmware:2ab1688f3ae265cb572c2aa4098381fb0d24c56b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:465606e8aa252d8ee6fba2b4b22c89c2b52c4250]|RELEASE:[2026-10-27|9f00768b469e823e308d0b17e06ca37bd15b2bc0]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5: BRANCHES:[main:3e2fcd48fe8847e83fd2556522b33728fa247d64;revert-13-main:9fa3a212e1cd73445a54ead2d54e5f062e9e5e58;docs/readme-product-overview:af5a650c3de5bd16b5204256dba11109d4b0c753]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-Touch-LCD-3.5-update: BRANCHES:[main:737cb6a83992565dce4791b38f300882f0cf5e69]|RELEASE:[none|none]
