@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-23 07:58
+commit-tracking: 2026-11-23 07:59
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1964,9 +1964,9 @@ martin-ger/esp-open-lwip: BRANCHES:[enc_polling:5157a11da89c2ae8aeca0653c5a44fed
 martin-ger/esp-open-sdk: BRANCHES:[master:569bf295f9525c1543322769ce82e248f4cc0b43;gcc-4.8.5:ba8e728dee6df4aac265ebae198868bec4695b9b;lwip-headers:e579d284afc43b66f43ef3d3b9fbe02642f736b0;sdk-0.9.3:8560544ed7ce9ba6f9d3c0532717a534214c3a40]|RELEASE:[none|none]
 martin-ger/esp32_PPPoE_router: BRANCHES:[main:d1c541646108925b449eb78e7aa78e1e97c3d2b0]|RELEASE:[none|none]
 martin-ger/esp32_eth_wifi_bridge: BRANCHES:[master:e0b5033f1def3add5c04844d228d522bc3314422]|RELEASE:[none|none]
-martin-ger/esp32_ethernet_router: BRANCHES:[main:070306ea832deffdc42dacb99d52db684c5202a5]|RELEASE:[none|none]
-martin-ger/esp32_nat_router: BRANCHES:[master:96e6ce483e6f95567860a6d146976f76f1c38ad3;esp32_wifi_repeater:cec6ebe512b6e78f3cc67ce022aa151b8b5d1b92;WT32-ETH01:c6aab9635b017541941a862dd897e5452dfb35da]|RELEASE:[none|none]
-martin-ger/esp32_vpn_gateway: BRANCHES:[master:72402638ff2903fd4cc4961d16e38bd2446320ba;MQTT:5007578f3753a09a8cb3b24e67ca97c8caf0f0ac]|RELEASE:[none|none]
+martin-ger/esp32_ethernet_router: BRANCHES:[main:f9d4d3d01bd4b08275ab12c78a0200a7fee9cfbe]|RELEASE:[none|none]
+martin-ger/esp32_nat_router: BRANCHES:[master:b394aaf0c00370187968226dd1f3077f3d7abc15;esp32_wifi_repeater:cec6ebe512b6e78f3cc67ce022aa151b8b5d1b92;WT32-ETH01:c6aab9635b017541941a862dd897e5452dfb35da]|RELEASE:[none|none]
+martin-ger/esp32_vpn_gateway: BRANCHES:[master:acd92ec5f272cba52e72fc36c736499ccec1888f;MQTT:5007578f3753a09a8cb3b24e67ca97c8caf0f0ac]|RELEASE:[none|none]
 martin-ger/esp_google_locator: BRANCHES:[master:f3968d7e89917ba8733d48233f71393babda77a5]|RELEASE:[none|none]
 martin-ger/esp_mqtt: BRANCHES:[master:7d9409284916c8f20b8433c3e9efafa9c5ceea17;develop:5162b941a8714952bbfb7340311e8b4c21197e63]|RELEASE:[none|none]
 martin-ger/esp_nacl: BRANCHES:[master:fcb13c26b7117104d2923177b6c9cda683b68254]|RELEASE:[none|none]
