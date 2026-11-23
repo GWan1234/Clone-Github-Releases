@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-23 08:20
+commit-tracking: 2026-11-23 08:21
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1618,7 +1618,7 @@ home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;re
 home-assistant/plugin-audio: BRANCHES:[master:c7411bed8cd644e39a48f67144b8bc05a882f25f;renovate/home-assistant-actions-digest:e3532ebc2d6b91e72d31a62bd669059acd0b9ce8]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
 home-assistant/plugin-cli: BRANCHES:[master:00ac8bc63a54dbc322d409df7f93a87eb9b4c7dd;renovate/home-assistant-actions-digest:283a4034a83e57b5c2adbdbb9d0f66600b812e81]|RELEASE:[2026.11.0|9a55d1bcda392beafccac5836fcdb983b213eadb]
 home-assistant/plugin-dns: BRANCHES:[master:bad2a29a7e528ca7b38fe51dc631383edd3cf78f;renovate/home-assistant-actions-digest:ebc04bb4435a8c41a4b3f9fd52827ea1086b3c71;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.10.0|7115121a4bbcbc8c4f50b0d595e02a65e575750c]
-home-assistant/plugin-multicast: BRANCHES:[renovate/github-gh-actions-lock-0.x:e66d5a7eec8e88f3f62d3f1d784a93033dd38234;renovate/home-assistant-actions-digest:e8c4cae18e978048ea6e78d50c3aaae1c104beae;master:fa828d36daf59e277cc42858edfb84985fc4f306;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
+home-assistant/plugin-multicast: BRANCHES:[master:5b637662a1134ca9d5e07068600f2874e379d843;renovate/home-assistant-actions-digest:e8c4cae18e978048ea6e78d50c3aaae1c104beae;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
 home-assistant/plugin-observer: BRANCHES:[master:20cc8ef042b3a28481721d120e25b1f09faa470d]|RELEASE:[2026.08.0|aadd23ef7b298af366123e1830261ad3994a1ca2]
 home-assistant/private-demo: BRANCHES:[main:c61be3e35c55c80e82a8b248c68ef4895eae117c;feat/add-kitchen-sink:b9a9bd6dab8abccd83acf94c66c706d925c7ff38;legacy:9d4a47f3388d304c6bce287011e4ed2c8b134c9b;update-base-image-2024.8.0b0:76ca12a50df9a00c83ce41bcd5b68bf6b4d80d4a]|RELEASE:[2024.8.0b7|32e6b3a520a03feaf8e4605130c0fb2677e67630]
 home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4]|RELEASE:[none|none]
