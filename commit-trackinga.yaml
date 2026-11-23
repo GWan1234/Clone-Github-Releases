@@ -1542,7 +1542,7 @@ home-assistant/app-rpc-shutdown: BRANCHES:[main:d98dc483519aaccbf8345af29402b6a6
 home-assistant/app-samba: BRANCHES:[main:aedcc750ee69c1a7c72ff830676204a3131381e8]|RELEASE:[12.11.0|aedcc750ee69c1a7c72ff830676204a3131381e8]
 home-assistant/app-silabs-flasher: BRANCHES:[main:c92fb57ef292aa3ae587cf83707aef530636a190;renovate/universal-silabs-flasher-1.x:1d260267507b1f9683333bf25a16e1b98a5b0cc7]|RELEASE:[none|none]
 home-assistant/app-speech-to-phrase: BRANCHES:[main:757e905169e9d4995d9204e04d076705fb56973d;renovate/pysilero-vad-3.x:731320829fdd8823a7c7c52de4317bc6b4e50a24]|RELEASE:[none|none]
-home-assistant/app-ssh: BRANCHES:[renovate/home-assistant-cli-6.x:8ec3ebe106eef122c1aff8b5bc77b5a45b3fe11b;main:8f5da327e7764006b69b9776dcd24b71db001291]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
+home-assistant/app-ssh: BRANCHES:[main:7df851abd12a4ae318ddf497300ad7a8cd2781d0;renovate/home-assistant-cli-6.x:8ec3ebe106eef122c1aff8b5bc77b5a45b3fe11b]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
 home-assistant/app-vlc: BRANCHES:[main:66c30e0fdda497ac3d7a877b1c291ce106e1b8c8]|RELEASE:[1.2.0|66c30e0fdda497ac3d7a877b1c291ce106e1b8c8]
 home-assistant/app-whisper: BRANCHES:[main:fe37c4fb52f6b654252077cbc23f16e3e99462b2;renovate/sherpa-onnx-2.x:4468f13ecafb8418a0477968ae4655e5415f8024]|RELEASE:[3.6.1|fe37c4fb52f6b654252077cbc23f16e3e99462b2]
 home-assistant/app-zwave-js: BRANCHES:[renovate/zwave-js-ui-11.x:d415c49eb945d64f785e1b72b482c3d4e21961da;main:e9510b7e3e30d585f6f19938950c768f15fa525c]|RELEASE:[1.11.0|e9510b7e3e30d585f6f19938950c768f15fa525c]
