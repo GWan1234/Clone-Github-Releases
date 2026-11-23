@@ -3206,7 +3206,7 @@ sparkfun/SparkFun_Thing_Plus_DA16200: BRANCHES:[main:4fff2eb159a56401665f554be41
 sparkfun/SparkFun_Thing_Plus_ESP32-C5: BRANCHES:[main:54d6828b4ddf66997be65d3cfeeec9deda37174d]|RELEASE:[v1.0.0|54d6828b4ddf66997be65d3cfeeec9deda37174d]
 sparkfun/SparkFun_Thing_Plus_ESP32-S3: BRANCHES:[S3-N16R8:af609dcd7d3111f6ac95a79442150074f3ca6854;gh-pages:236559bfaad292b98c0943460cf215f87f1a8a82;main:c9fc69fc1d79e1f3e45f7f2e50d5e357b4dd9242]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_ESP32_C6: BRANCHES:[gh-pages:5f005f25140aac4e48e1864733fa2d6042b39ed8;main:fb7352f770b885fa9d5767bd25a168b90a11d4e5]|RELEASE:[none|none]
-sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C: BRANCHES:[main:b5be8ef9be3940a1f722ff05084ec9b136def615;gh-pages:f66b8cdf0bacdf7ef6b8cc66b78db358af86c5c0;docs_test:5dcb612ebad7b803f385f8bce32eeeab3e21dfab]|RELEASE:[none|none]
+sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C: BRANCHES:[KiCad_Convert:69904a4040136e77b87a675050863fde9ad915e5;main:b5be8ef9be3940a1f722ff05084ec9b136def615;gh-pages:f66b8cdf0bacdf7ef6b8cc66b78db358af86c5c0;docs_test:5dcb612ebad7b803f385f8bce32eeeab3e21dfab]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_MGM240P: BRANCHES:[main:cf4772115b2ef522ed8f8be4b9ea5bc7179654a9]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_NINA-B306: BRANCHES:[main:4046be3599e45afef76b2184f92c2ce70a39dc48]|RELEASE:[none|none]
 sparkfun/SparkFun_Thing_Plus_NORA-W306: BRANCHES:[gh-pages:249a62365f2abb5fbb64ed1ea76bc4e8149ac45e;main:24c70e910118c9b052cc2f6e273e8e091190d3d5;v10.1_Vreg_Change:da42f99de5ca753e6a9916013812d84b3d30c9b4]|RELEASE:[none|none]
