@@ -2104,7 +2104,7 @@ adafruit/Adafruit_Microbit: BRANCHES:[master:05453d26b7fef4d9be05d7809c173fe25ad
 adafruit/Adafruit_Microtouch: BRANCHES:[master:938e22db4ca6a5437cd282e12f8c34114067a8f3]|RELEASE:[none|none]
 adafruit/Adafruit_MiniMLX90614: BRANCHES:[master:613aee3bbf05754574ce7d2112da7de45b352c5d]|RELEASE:[1.0.0|6c4ec6c68a3ca22310e4de37c2c77ca8edd87514]
 adafruit/Adafruit_MintyBoost_PCB: BRANCHES:[master:2d03cfdf2a06f5a048e26807e254c4bf6dc982c6]|RELEASE:[none|none]
-adafruit/Adafruit_Monster_Eyes: BRANCHES:[main:b9294941badd2f7a59bdf976668d9586c46bd872;gh-pages:52548329289d88d17e66edb26a36ad8af871fbf5]|RELEASE:[2.3.0|b9294941badd2f7a59bdf976668d9586c46bd872]
+adafruit/Adafruit_Monster_Eyes: BRANCHES:[espbsp-4:1fc3f83121ad226984b310032aace399bfd7b6e4;main:b9294941badd2f7a59bdf976668d9586c46bd872;gh-pages:52548329289d88d17e66edb26a36ad8af871fbf5]|RELEASE:[2.3.0|b9294941badd2f7a59bdf976668d9586c46bd872]
 adafruit/Adafruit_Motor-Shield-v1: BRANCHES:[master:f2505a85855fb00b468a78ba527afbf0d91bdb22]|RELEASE:[none|none]
 adafruit/Adafruit_Motor_Shield_V2_Library: BRANCHES:[master:2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3;gh-pages:99c678f3bca8c77769a1e0c56d64bdcffd787ec6;actionci:5006c19e77194698069beffd3466b647ce5628b1]|RELEASE:[1.1.4|2f5e7720ade0cfe4d5afa3c99ff6b01b2c1928c3]
 adafruit/Adafruit_Mouse: BRANCHES:[master:499b841958bd0b66a54d7a96a51a65fb0fe9f3b6]|RELEASE:[none|none]
