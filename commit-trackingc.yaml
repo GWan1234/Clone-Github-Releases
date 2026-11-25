@@ -2479,6 +2479,7 @@ waveshareteam/ESP32-C5-MINI-KIT: BRANCHES:[main:9eb18f4282e2e464b34b911ed6ba63cf
 waveshareteam/ESP32-C5-Pico: BRANCHES:[main:cd413f3b76723516c8c264034f462381fe0ac0ac]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Relay-1CH-U: BRANCHES:[main:659c12a1a5161bed71b16a1ad9882c054e3ac6c7]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Touch-LCD-1.69: BRANCHES:[main:136f2a8c68b3808ce4a9dbea218e9c3a4928212f;firmware/esp32-c5-touch-lcd-1.69-factory-20260626:f1e63c8f9031fbe89366695672951dfc4163e3d3]|RELEASE:[none|none]
+waveshareteam/ESP32-C5-Touch-LCD-2.73: BRANCHES:[]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Touch-LCD-2.8: BRANCHES:[main:0196dcb7e601d6faa1c33785a71f6b0c35b532e6;chore/keep-latest-factory-firmware:cf06c7794c970eb67654c4171cca92d4c0312877;chore/rebuild-basic-examples:fefd7d71b384227aac5abc73fb6bff720c70a840;feat/example-firmware-artifacts:4656a2163faea75c5f5fdd62511149272c34d26c;chore/repository-modernization:6fd37989f97f5014759b159573f4a06a65e779fb]|RELEASE:[v1.2.0|77a7dceac38a1bd491173b3906205217a382c08c]
 waveshareteam/ESP32-C5-Touch-LCD-3.5: BRANCHES:[main:a39067a9b897f54c2b8dccb597542caa4e826349;docs/add-c5-35-stp:73645bc4d08499f50f719a86ca5f86d5bad2792f;chore/standardize-product-repository-20261022:0d084987aa7074db29f94f2618980013c8ed3db0]|RELEASE:[none|none]
 waveshareteam/ESP32-C5-Zero: BRANCHES:[main:0dc2567a87741639be311ff0d4a60f588f63b58f]|RELEASE:[none|none]
