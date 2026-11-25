@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-25 14:18
+commit-tracking: 2026-11-25 14:20
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3637,7 +3637,7 @@ waveshareteam/ESP32-C6-ePaper-1.54: BRANCHES:[main:30d5082567da2fa300fee762f06d9
 waveshareteam/ESP32-H2-Zero: BRANCHES:[main:7ca9339cde5ac0fa6a2040f0d303b4d92e268d30]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-Knob-Touch-AMOLED-1.75: BRANCHES:[main:7671170de4f5fe04ae9c9a9273f6b6119eb7fb0b;fix/xiaozhi-exit-freeze:075b6dbc56d569f9252f87ee10613e0ebd24de8a;feat/factory-ui-refinements:433a6a684280a6cfb5e459f291ccbaae874a2655;docs/hero-image:e1cdf20e3bbed197473a8c535f2c8dde707f65b5;refactor/use-registry-board-pack:8e29a8b6b33a520cc811e0f580f4326c45cdc55d;chore/p4-factory-and-examples:9f548a138c4fb2178affa0f818e1aa8ff3ddb42d]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-NANO-WIFI6-DB: BRANCHES:[main:8f056ea26513eb1ffa868f190d5f17fd4251665f;chore/declare-screen-firmware:0c04e1da1a8232d73fdec41952bc6fb3fdffb0d8]|RELEASE:[none|none]
-waveshareteam/ESP32-P4-Platform: BRANCHES:[main:c943ea11a74024ca46ee57d413a7d271760d2a37;chore/adopt-repo-template:da8518ef9e9b47e849b5cb33e2a0fb03a020380d;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
+waveshareteam/ESP32-P4-Platform: BRANCHES:[main:e789f22890e3cb83f1fcc25f63c64dad3373f69c;chore/remove-superseded-factory-bins:6c5d46b4cbbcac9161adfefd32b95d895f5d9427;fix/factory-console-115200:2c8adbf09d8c40a078c30043865c692f249fc176;chore/adopt-repo-template:da8518ef9e9b47e849b5cb33e2a0fb03a020380d;docs/readme-refresh:ef805f0d63e1826e464909ec6040aadac8cdbe2b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB: BRANCHES:[chore/adopt-repo-template:3fcc455f1262f6340f495d80e26421ee5c65c99d;main:f6e1d1ab2d8b03036c59f43e87d8621667ca43a4;chore/declare-screen-firmware:2ab1688f3ae265cb572c2aa4098381fb0d24c56b]|RELEASE:[none|none]
 waveshareteam/ESP32-P4-WIFI6-DB-POE-ETH: BRANCHES:[main:70cd25e80840309d8bb33660833a6271abf3cbb5;chore/declare-screen-firmware:9a2b9f1d0d66cee375b8453cffaaa4cbcc6188c9]|RELEASE:[2026-10-27|9f00768b469e823e308d0b17e06ca37bd15b2bc0]
 waveshareteam/ESP32-P4-WIFI6-DB-Touch-LCD-7C: BRANCHES:[main:8f478e74d1f6369e975a239d8f97b4ab1255c2dd]|RELEASE:[none|none]
