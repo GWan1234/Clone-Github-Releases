@@ -3618,7 +3618,7 @@ waveshareteam/ESP32-C6-LCD-1.47: BRANCHES:[chore/adopt-repo-template:e4fe1a3617d
 waveshareteam/ESP32-C6-LCD-1.69: BRANCHES:[main:88e7fb57da13ccae105de198297bc41a79884e03]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-1.9: BRANCHES:[main:8456bf0c4ee7f55d9589f7ea30be9ded2ed4d855]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-2.73: BRANCHES:[main:246d34db826194faa8cc56ac8e8b7fa96dbf0fcc;codex/prepare-factory-20260724:d51dd9245ee877dc4c9ae6ae5a703447a97e4dd6]|RELEASE:[none|none]
-waveshareteam/ESP32-C6-Relay-1CH-U: BRANCHES:[main:a3fe3a4b547ff01b6d78f6e5535863a3c570119d]|RELEASE:[none|none]
+waveshareteam/ESP32-C6-Relay-1CH-U: BRANCHES:[main:267ce9db35248ec42fd00c2b8133b06adee56e93;codex/publish-c6-ap-factory:5ad1699cd8eb795055c7441e7e4b6b2ba50f8cad;codex/publish-c6-relay-examples:046407431cfb9d41c8c8b011750782dc08c4c57e]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.32: BRANCHES:[main:5fa8451c513d5aa661d2cec895c0a3ce8343d970]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.43: BRANCHES:[main:041a83d6ec24c266377bbf4f68505bf38c2ad4f8]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-Touch-AMOLED-1.64: BRANCHES:[chore/factory-firmware-20261120:9b65e2118b308c5f847faf9a1cb4a9472885b934;main:1ffd13e28f4ef8f4a49f9bf25bd62acaa7f94e5a;docs/firmware-readme-followup:0599b9cc6011e7f451bdd3472f7f6cbb6ff72f15;firmware/update-20260317:c32007fe34409aff31f2ee972a90e9d96a1d03a5;chore/adopt-repo-template:8b16c7ae2c9d561f73524a061f50920676fc073e]|RELEASE:[none|none]
