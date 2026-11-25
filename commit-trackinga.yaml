@@ -1535,7 +1535,7 @@ home-assistant/app-git-pull: BRANCHES:[main:28180dd59f7ae81657d6863b15fc27932b5b
 home-assistant/app-letsencrypt: BRANCHES:[main:ecf2fc87d3cbb3e648e7f2c15e504794728c150b;renovate/cryptography-50.x:f50c2d47db159a7a03d24cebc41c9bd3dbf2a2fe;renovate/major-certbot:4e1bd5c17a365ce796c308aba43b39e3144e53c0]|RELEASE:[none|none]
 home-assistant/app-mariadb: BRANCHES:[main:6171e2bbe8eec8e3e1df568d29192fc712ee5a92;he-translations:aecd0ffcd25a59818a7e5fd195df6355cef3bc0d]|RELEASE:[4.0.0|d94ec1a3895b28adb09313a142fe2324681395b2]
 home-assistant/app-matter-server: BRANCHES:[renovate/hassio-addons-bashio-0.x:ab6c445ba4db04ae6de9e6b610a177bece048a7f;main:6c1c54508bd62fda9d622fa43d2d7d83aa8cae20;fix-app-url:fcfe46b4622530ee174f58f5a4689beb66263e48;fix-config-url:8b78367981253468dec6fcd56f54d3eda51dba05]|RELEASE:[9.3.0|15ce0f75a050fa4f5bbb1f14fdc57f9521e13275]
-home-assistant/app-mosquitto: BRANCHES:[main:13ed750b698079ae784feaa7cae33c8a9088e2c1;renovate/eclipse-mosquitto-2.x:04cb979d35c0b9a922eaa14d7301c8c5d14a54b9]|RELEASE:[7.1.3|d08790bb7a9f6b0d477f8ec39df9a87f396dfe67]
+home-assistant/app-mosquitto: BRANCHES:[main:602126f48c19dadb396609c68150a519f9151612]|RELEASE:[7.1.3|d08790bb7a9f6b0d477f8ec39df9a87f396dfe67]
 home-assistant/app-nginx-proxy: BRANCHES:[pin-alpine-packages:3b94cade5e41506cba1802b25a7d038bb8361056;main:6a42b8fe7f205fed05f4322289e0c101665768f2]|RELEASE:[4.5.3|6a42b8fe7f205fed05f4322289e0c101665768f2]
 home-assistant/app-openthread-border-router: BRANCHES:[drop-universal-silabs-flasher:34d76127548999631c0484eda860da56a083593a;main:e166925cc6576c4b7b63f477e075b2cb4d143bc0]|RELEASE:[3.4.0|c2defa9a76b0a71807798ba93bef94b119d46923]
 home-assistant/app-openwakeword: BRANCHES:[main:ef65632533f74186be6f128e3a3da7a45e7814c7]|RELEASE:[none|none]
