@@ -1621,7 +1621,7 @@ home-assistant/plugin-audio: BRANCHES:[master:68857e5815527e9c3313c9f0711ca4b238
 home-assistant/plugin-cli: BRANCHES:[master:631de7d48b23319913f4600a79c2a16c5b576bd6]|RELEASE:[2026.11.0|9a55d1bcda392beafccac5836fcdb983b213eadb]
 home-assistant/plugin-dns: BRANCHES:[master:0693d17f939f222b8e4d1a735d358768933319c0;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.10.0|7115121a4bbcbc8c4f50b0d595e02a65e575750c]
 home-assistant/plugin-multicast: BRANCHES:[master:7fd47fe094bfbd22eb1c3c3316e511751dfc55ed;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
-home-assistant/plugin-observer: BRANCHES:[master:20cc8ef042b3a28481721d120e25b1f09faa470d]|RELEASE:[2026.08.0|aadd23ef7b298af366123e1830261ad3994a1ca2]
+home-assistant/plugin-observer: BRANCHES:[master:5b302f36f857d81129d008c6ac4bace827a8ad99]|RELEASE:[2026.08.0|aadd23ef7b298af366123e1830261ad3994a1ca2]
 home-assistant/private-demo: BRANCHES:[main:c61be3e35c55c80e82a8b248c68ef4895eae117c;feat/add-kitchen-sink:b9a9bd6dab8abccd83acf94c66c706d925c7ff38;legacy:9d4a47f3388d304c6bce287011e4ed2c8b134c9b;update-base-image-2024.8.0b0:76ca12a50df9a00c83ce41bcd5b68bf6b4d80d4a]|RELEASE:[2024.8.0b7|32e6b3a520a03feaf8e4605130c0fb2677e67630]
 home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4]|RELEASE:[none|none]
 home-assistant/pyharmony: BRANCHES:[websockets:31efd339a3c39e7b8f58e823a0eddb59013e03ae;Make-async:360698189e5f036364b5c115c97d10434dbc4236;master:cb934c609fd262b5ad3c31b27ba44c2d6489b43a]|RELEASE:[none|none]
