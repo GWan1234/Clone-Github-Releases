@@ -1905,7 +1905,7 @@ lambilly/ESP-ASR-Speaker: BRANCHES:[main:2ec13f2062271bc6c94c8814f0a16f170c775d8
 lambilly/ESP32-Squeezelite-Speaker: BRANCHES:[main:2c2d3ac364abe09c7d4d5daf05c3ddb1800975f8]|RELEASE:[none|none]
 lambilly/MQTT-Bridge: BRANCHES:[main:9575cdc6f340de3175ed74bc1b19ca8f3db7bb84]|RELEASE:[none|none]
 lambilly/brands: BRANCHES:[add-daily_fund-icons:4147861d2b79678a7127be187cbe22282652c393;add-hengda_property-icons:6922720ce1e185b1d986a5d2218305479103443d;add-tian_api_icons:d5512e6810fd7ee33163c1d8ef90809395e67fba;master:e9578a138435328dcb49d2909b1c98719ea85d99]|RELEASE:[none|none]
-lambilly/ha-monitor-display: BRANCHES:[main:dd6894f0fd7491c6f82911f7ac91813f6f45f898;api-legacy:b37c283da627f44686c548381aeaa6da00613d9a]|RELEASE:[v0.9.0|b37c283da627f44686c548381aeaa6da00613d9a]
+lambilly/ha-monitor-display: BRANCHES:[main:bb232e09aa23e8d4d9252ec76c61719761eb7221;api-legacy:b37c283da627f44686c548381aeaa6da00613d9a]|RELEASE:[v0.9.0|b37c283da627f44686c548381aeaa6da00613d9a]
 lambilly/ha_traccar: BRANCHES:[master:548ca152d6988afae3ff998ce7ea7207aae42c0a]|RELEASE:[v1.0.2|548ca152d6988afae3ff998ce7ea7207aae42c0a]
 lambilly/ha_tuqiang123_traccar: BRANCHES:[main:fdcdbdc8767dcaf5372aef6dcdcface4c336cd06]|RELEASE:[v1.0.1|fdcdbdc8767dcaf5372aef6dcdcface4c336cd06]
 lambilly/ha_tuqiang_traccar: BRANCHES:[main:05e06fb41c4aed664996342d36e7df307b09e706]|RELEASE:[v2.1.2|4a108ef0a896eb37c4a73b6fe7dc6641495b3a42]
