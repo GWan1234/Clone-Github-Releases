@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-25 09:53
+commit-tracking: 2026-11-25 09:54
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -388,7 +388,7 @@ DFRobot/Grey-GitHub-test: BRANCHES:[master:5207e8ed81f8999e1e9c8ae2d883ebc58765d
 DFRobot/HCR-Mobile-Platform-with-Omni-Wheels: BRANCHES:[master:989474435280c7d7bfe8be2aecd2a4dc51f726bc]|RELEASE:[none|none]
 DFRobot/I2C_Addresses: BRANCHES:[master:2bcc431bf326166af2857ce528c79e2b48d6ceb9]|RELEASE:[none|none]
 DFRobot/Intermediate-Kit: BRANCHES:[master:4f2ff21830cbc1c8563f92c58f03688ffc15692d]|RELEASE:[none|none]
-DFRobot/K10_Micropython: BRANCHES:[main:394674d7d14c178455276fea6fdf99e5cb8e450c]|RELEASE:[none|none]
+DFRobot/K10_Micropython: BRANCHES:[tj/new_dev:72d10ce3f9464a72ef4f5fc2d7f5cfe31cb55ce3;main:72d10ce3f9464a72ef4f5fc2d7f5cfe31cb55ce3]|RELEASE:[none|none]
 DFRobot/LCD-KeyPad-Shield: BRANCHES:[master:d98295739aa40f7b02740e7b04e9b986e4d6b9d9]|RELEASE:[none|none]
 DFRobot/LCD-picture: BRANCHES:[master:80b307d36fa7fda3a4dcef8a38593c85e2d2e781]|RELEASE:[none|none]
 DFRobot/LoRaWAN_Tool: BRANCHES:[master:145cb3f38907af3490445567e00805da1d57eb81]|RELEASE:[v1.0.1|145cb3f38907af3490445567e00805da1d57eb81]
