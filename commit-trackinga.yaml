@@ -2235,7 +2235,7 @@ retspen/vagrant-packer: BRANCHES:[master:2333fc0f9dd233749f0a20a51eb99a30554e40b
 retspen/vagrant-parallels-veewee: BRANCHES:[master:f3eac8cb301a42d873b69785658a54b425d1a382]|RELEASE:[none|none]
 retspen/virtmgr: BRANCHES:[master:1b1932b584351af48c4911e0ba0f9e67b644d330]|RELEASE:[none|none]
 retspen/web2docker: BRANCHES:[master:392db28fe9223d97f374ca128cd19e7bf1fe227e]|RELEASE:[none|none]
-retspen/webvirtcloud: BRANCHES:[master:90c2bfe5b50b52ae75fa042cc8498b83b094780b]|RELEASE:[none|none]
+retspen/webvirtcloud: BRANCHES:[master:a47df0f7fc5d2b74b71d71ddee3155a31b360e1c]|RELEASE:[v5.0.0|a47df0f7fc5d2b74b71d71ddee3155a31b360e1c]
 retspen/webvirtmgr: BRANCHES:[master:86bb20f2eb5dedf03ee6aa942cabcb39fbc74821]|RELEASE:[v4.8.9|64528fa4098ef2c335be9ca649e2dd2637898202]
 shihabal3amri/BarcodeGenerator: BRANCHES:[master:695f8e285f63824ed2da053f5b78f3767bf43803]|RELEASE:[none|none]
 shihabal3amri/DiAuto: BRANCHES:[main:e11553c9143ea4b63a3edfe9f2b717635fd22fac;diag/report-keeps-credential-events:13bca5ca5824e3ce2e8b51dc551e786f940bc71b;fix/hotspot-android7-dead-ap:18027002c59cbd65c6a7fcc088088d7c68ab405b;fix/merge-step-keeps-guidance:c083d61b782527c23c99fc90472d0c75b51c890e;fix/wake-connected-phone:e536d9392ea6c989c9981159a5233f6549532899;fix/redraw-on-window-shape:ac6bfdb31c2eb021e701f0816ba34a4c8a6809d5;fix/join-watchdog-needs-a-phone:83d6381aa890d519dd4143449d705a45f262e923;fix/about-crash-android7:dabc7e9fac4f59f1a94e6ce3a31f026a57d75fea;diag/cluster-displays:c9d25e2626777e1a82d7ff695b81421e76d175d5;fix/dashboard-map-after-reconnect:95251afc4f0e30e1651f1191efbcbb6d3d5dccda]|RELEASE:[v0.3.12|d53dad71e02e70340d968896140b1c601b38b917]
