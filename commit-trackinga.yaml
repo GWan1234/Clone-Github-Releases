@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-27 09:26
+commit-tracking: 2026-11-27 09:27
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1547,7 +1547,7 @@ home-assistant/app-samba: BRANCHES:[main:cd8d95857bc8be6c4b823103edf327c3b6b5f4d
 home-assistant/app-silabs-flasher: BRANCHES:[alpine-3.24:56e9ddadea75549651b2f99aa231a75d371f20f2;main:26224245742776c7f07712f916a70dbad12d8390;modernize-flasher-v1:8fe726beb81c7b9b5fa26bf822f60d0b96ecb0eb]|RELEASE:[none|none]
 home-assistant/app-speech-to-phrase: BRANCHES:[renovate/pysilero-vad-3.x:547e47311be8600cce9a052e68adb052394d496b;main:5efb07059dbf491ddd8a4102af6e401bcd19ea78]|RELEASE:[none|none]
 home-assistant/app-ssh: BRANCHES:[main:37968903ba609b90e0e21a77236378bb0bd0b8bd]|RELEASE:[10.6.0|d9513b4bfeed96c4af8c210836ad3a679f0a1636]
-home-assistant/app-vlc: BRANCHES:[main:43ef79cf1690eeda0dc37bff121557190bc5ad29]|RELEASE:[1.2.0|66c30e0fdda497ac3d7a877b1c291ce106e1b8c8]
+home-assistant/app-vlc: BRANCHES:[discovery-once:71ca8d5b96aefe66adb140d181d1147ec9fae7fc;main:d86c8586f53393ea8f8d96850daad928faefc4f5]|RELEASE:[1.2.0|66c30e0fdda497ac3d7a877b1c291ce106e1b8c8]
 home-assistant/app-whisper: BRANCHES:[renovate/sherpa-onnx-2.x:7e78c5a570d45c052e0ee215a3ea09298c9e4910;main:c9891caec499dc322d742736aff5629ce43194bb]|RELEASE:[3.6.1|fe37c4fb52f6b654252077cbc23f16e3e99462b2]
 home-assistant/app-zwave-js: BRANCHES:[main:fee739194e656ad4535ceb93dd52bd17f25bca54]|RELEASE:[1.11.0|e9510b7e3e30d585f6f19938950c768f15fa525c]
 home-assistant/apps: BRANCHES:[master:43226453a7208cc39d7b88318970efd0662db86c;copilot/rename-labels-from-addon-to-app:ab41621f8213642ac02c92992cf74c8a538e511d;update-silabs-flasher:2f89988a6053bd1087309f1bb1a465a59121ced8;mariadb-enable-auto-upgrade:5a22333431147923e661ed41c9c62eb29eb02aa6;config-docs:7dff95d51f6de9a395e3c53ee09eb5719d4a798e;silabs-multiprotcol-use-gecko-sdk-4.3.2:ec16cbcaf740021c91acb8400c191dbf72cb7652]|RELEASE:[none|none]
