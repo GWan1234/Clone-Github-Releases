@@ -1901,7 +1901,7 @@ adafruit/Adafruit_CircuitPython_TLC5947: BRANCHES:[main:0c22ddb578a2ab9fc168119b
 adafruit/Adafruit_CircuitPython_TLC59711: BRANCHES:[main:49c4f6bcb82cba49c2811dcc4f841eacde661f3e]|RELEASE:[2.0.20|49c4f6bcb82cba49c2811dcc4f841eacde661f3e]
 adafruit/Adafruit_CircuitPython_TLV320: BRANCHES:[main:309187c2aae5bfbe5bfc709688760accfa2cd4fc]|RELEASE:[1.4.0|309187c2aae5bfbe5bfc709688760accfa2cd4fc]
 adafruit/Adafruit_CircuitPython_TLV493D: BRANCHES:[main:be86c170167db0573ccdc680616fcebde1ac3828]|RELEASE:[2.0.12|be86c170167db0573ccdc680616fcebde1ac3828]
-adafruit/Adafruit_CircuitPython_TM1814: BRANCHES:[main:046d1ccec98c56390a15a1774314fc761cff0fe3]|RELEASE:[1.0.4|046d1ccec98c56390a15a1774314fc761cff0fe3]
+adafruit/Adafruit_CircuitPython_TM1814: BRANCHES:[main:14e6f5e53033df6b4f1b8a16ff191f6838fd30df]|RELEASE:[1.0.4|046d1ccec98c56390a15a1774314fc761cff0fe3]
 adafruit/Adafruit_CircuitPython_TMAG5273: BRANCHES:[main:1e7e42b7cb1c2777b37220c95050e7cddaf4e853]|RELEASE:[1.0.2|1e7e42b7cb1c2777b37220c95050e7cddaf4e853]
 adafruit/Adafruit_CircuitPython_TMF8801: BRANCHES:[main:8772ec0392d7ec6e72c99b3f624c8a06d653fc12]|RELEASE:[1.0.0|8772ec0392d7ec6e72c99b3f624c8a06d653fc12]
 adafruit/Adafruit_CircuitPython_TMF8806: BRANCHES:[main:54b190196c34939bb1e2361ceb0e3382b154d519]|RELEASE:[1.0.0|54b190196c34939bb1e2361ceb0e3382b154d519]
