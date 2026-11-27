@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-27 10:30
+commit-tracking: 2026-11-27 10:31
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 21pages/rustdesk: BRANCHES:[websocket-proxy-ci:0e589b383f35d97917c35348dc2deefd53228d43;websocket-proxy:9ad0ca2358d31fca3d6748762c1ac8c3f17a16b6;window-arm64-build:93e22351adf7323b6c522a3c4811cfb8d8a27c2a;win7_cmd_null_std:342505108cdda83cd657021a52a4479c6f7c1b51;win7_cmd_old:b0df5c2bbe1b1de2e7e5cc75dd56559db4473273;win7_cmd_not_set_std:148b320e7bd830381c9ee32cdd6350b417b008f1;win7_cmd_log:8bac4c4c8c7f9dc38e50a9368f7bfa0238e64306;win7_cmd_remove_subsystem_hide_cmd:8ac31dce98e16da07aca4b2b583966a7c432fdd4;win7_cmd_init_hidden_window:4b3786d8d71d6403b4237b0431c75d238cc3f0d2;win7_32_cmd_remove_subsystem2:ec5334e1e30e5fd915932027c0e12ff41e4ae840]|RELEASE:[tmp|c844d99ff16092540f7b06c28d249fde1bc4ebca]
 33333s/zwrt-datad: BRANCHES:[main:059ebbbed701402ec745e2c90bea8a08897dd9b6;u30pro:0294220df8bc3f35376b9a6c3ceee8ab780ebe3a;arm32:41f2071804cb718b74d623fd795a3fa3cda87ba0;33333s/power-off-dormant:838ab27bc9e1415dc02362835654fb7d91fe2ea9;c:42dc577da8a04c9aae11f0f1925456bc21780362]|RELEASE:[v0.10.84|059ebbbed701402ec745e2c90bea8a08897dd9b6]
@@ -88,12 +88,13 @@ LeoChen-CoreMind/UDX710-TOOLS: BRANCHES:[main:5cbc9b1f2fb22731ebdd4f9791c3d50e31
 LeoooChen/Cladus: BRANCHES:[codex/ipv6-fallback-0.1.4:0fb03ffbfcb127f6b8614119959a9fd7f0a6a5fc;main:39e33c083c28b08c2ceca5431745570f6c9465c6]|RELEASE:[v0.1.5|0fb03ffbfcb127f6b8614119959a9fd7f0a6a5fc]
 LeoooChen/GPL-for-GP3000: BRANCHES:[main:5090fbcb6ba743dd7b1314811ef557bad0460147]|RELEASE:[none|none]
 LeoooChen/KindleDock: BRANCHES:[main:d4b4c08ef511a8595d20fec7f96787b0e1909bce]|RELEASE:[v0.2.0|5884c1821a35bd9fdfd99a36afc1016bbe10ddcc]
-LeoooChen/PonWRT-TYFZA1: BRANCHES:[fttr-rewrite:b1009e80728db583a1c057782d88d16fbaf076bb;main:f74af178efe542ecf9d40bad5833c949b5f29c5c]|RELEASE:[v0.8.5-beta|f74af178efe542ecf9d40bad5833c949b5f29c5c]
+LeoooChen/PonWRT-TYFZA1: BRANCHES:[main:df7e172d200675736d8ab15521e7cd4eeab7b94a;fttr-rewrite:b1009e80728db583a1c057782d88d16fbaf076bb]|RELEASE:[v0.8.5-beta|f74af178efe542ecf9d40bad5833c949b5f29c5c]
 LeoooChen/U-Boot-TYFZA1: BRANCHES:[main:ec01dc32885e4f2cdd55c2239bfa1523d782e789]|RELEASE:[v1.7|ec01dc32885e4f2cdd55c2239bfa1523d782e789]
 LeoooChen/airoha_sdk: BRANCHES:[main:32b5aa356c2406edef8806aaf75451ff0a5286f2]|RELEASE:[none|none]
 LeoooChen/airoha_xpon_en757x: BRANCHES:[main:950199a8de6b75e76906a7c1b39b7a9a3e2913f9]|RELEASE:[none|none]
 LeoooChen/kindle-ota-blocker: BRANCHES:[main:26bcc29b75ad0aa89c31088b71c8ce08caa8971b]|RELEASE:[none|none]
 LeoooChen/magpie: BRANCHES:[main:ba319a7587923fc7a4ea3859658244d591261a59;pf/serve:d9c6a60d8a0b023f77bdf16d4d896316c67ec7c6;ui-previews:3f819f2e5f0ef8935f55341cfe7b39f7404cc3e5;routing-context-fold:7ff38e45b4d83d2adf4e3fa19398547c91b5b636;agent-connect:be832ff01b445a33e8f7279ff0aceaab0b97c577;test/ui-preview-ci:d088481785cc7baf36952e1dc604fc49cf6be439]|RELEASE:[none|none]
+LeoooChen/pon-fw-build-config: BRANCHES:[codex/test-auto-kmod-dummy:7dc99e345304c13f9ce7cd1eea7602f86296b4d8;main:72267c9060bf44f7e371acc00e36f07fb78cda26]|RELEASE:[none|none]
 LilyGO/3D_Shell: BRANCHES:[master:762d9c89ff6ed88240502859fb42e32a5abbc9ce]|RELEASE:[none|none]
 LilyGO/ASR6601-getting-started-guide: BRANCHES:[main:1c41e8b5856fbf19ccb1f5847197c8d4712580e3]|RELEASE:[none|none]
 LilyGO/Adafruit-SSD1351-library: BRANCHES:[master:0a146030d38daba8683d3e5c10fa22b21e6d44d9]|RELEASE:[none|none]
