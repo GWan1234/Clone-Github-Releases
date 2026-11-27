@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-27 14:10
+commit-tracking: 2026-11-27 14:11
 0-Mqix/airplay-esp32: BRANCHES:[main:98ea475951e2b48739daaa709436757077c88b8e]|RELEASE:[none|none]
 DFRobot/18650-Battery-Safety-Guidance: BRANCHES:[master:0a345b55b28ac764484fe3e38f2de9da1dc30bbd]|RELEASE:[none|none]
 DFRobot/3D-designs: BRANCHES:[master:e33ed1d834818f48b48420ce7615e588c6efcd75]|RELEASE:[none|none]
@@ -3615,7 +3615,7 @@ waveshareteam/ESP32-C6-GEEK: BRANCHES:[main:24f8b80606132189f37cfce2381824d256c9
 waveshareteam/ESP32-C6-LCD-0.85: BRANCHES:[main:b73e5629985866bce242931464f24154716fcaeb]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-1.28: BRANCHES:[main:54e704868fef1c997b7a1afdb273750bd02abd2b;firmware/organize-20260813:05451184b7cce403fffa59b0ff5dbad47e5558e7]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-1.3: BRANCHES:[main:e2b4a91143185f734db6f94cde5b222331427143]|RELEASE:[none|none]
-waveshareteam/ESP32-C6-LCD-1.47: BRANCHES:[chore/adopt-repo-template:e4fe1a3617d409a3731e61a142517f9a8e740cc6;main:ed2f3f6219948087779b9276adc4c13fc64e7d3d]|RELEASE:[none|none]
+waveshareteam/ESP32-C6-LCD-1.47: BRANCHES:[main:602c55a0d48a4e18ad3e827e42caee7c7f1dde4d;codex/restore-arduino-sd-assets:e2074870533fc99c0c02f975d4e7beef98e31801;chore/adopt-repo-template:e4fe1a3617d409a3731e61a142517f9a8e740cc6]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-1.69: BRANCHES:[main:88e7fb57da13ccae105de198297bc41a79884e03]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-1.9: BRANCHES:[main:8456bf0c4ee7f55d9589f7ea30be9ded2ed4d855]|RELEASE:[none|none]
 waveshareteam/ESP32-C6-LCD-2.73: BRANCHES:[main:246d34db826194faa8cc56ac8e8b7fa96dbf0fcc;codex/prepare-factory-20260724:d51dd9245ee877dc4c9ae6ae5a703447a97e4dd6]|RELEASE:[none|none]
