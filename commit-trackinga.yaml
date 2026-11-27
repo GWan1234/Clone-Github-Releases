@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-27 09:05
+commit-tracking: 2026-11-27 09:06
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1619,7 +1619,7 @@ home-assistant/os-agent: BRANCHES:[main:b2bebbc7787d0a78fd88fb7c6bd5b2e1fd299c5d
 home-assistant/partner.home-assistant: BRANCHES:[eleventy:fb142ea79bc2d0369487e3a302526874b7393249;main:9b302db9bd8a399032c27b9287d0382ae3a56a35;remove-ultraloq:cad3fb54d6cb0f88c14ab63d7845b9f52cb425fd;partner-program:3242cb6c5fa4f1063dd1ce4dc3c8e0a973e6972d]|RELEASE:[none|none]
 home-assistant/people: BRANCHES:[master:4720f0e0125260e4fe8fbb9c0f19ada703f2c133;sort_users:fe71c7db6e88309ccecaaa8e712721156521dde2]|RELEASE:[none|none]
 home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;repo:6b0d65c1671ad41c2a43d7c59fe005e988fd2c9b]|RELEASE:[v1.6.1|9ecf3cc2c5e2346229edccd0bba70c5701e8d79d]
-home-assistant/plugin-audio: BRANCHES:[master:68857e5815527e9c3313c9f0711ca4b23814221d]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
+home-assistant/plugin-audio: BRANCHES:[master:cfc4043961153e92ceef5abbb01458a1180e34dc]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
 home-assistant/plugin-cli: BRANCHES:[master:3f4b279cf39e3a64563fde8636f5982213f936a6]|RELEASE:[2026.11.0|9a55d1bcda392beafccac5836fcdb983b213eadb]
 home-assistant/plugin-dns: BRANCHES:[master:797952f5aa6acceb1054a5d2571c2e5ae2975344;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.10.0|7115121a4bbcbc8c4f50b0d595e02a65e575750c]
 home-assistant/plugin-multicast: BRANCHES:[master:7fd47fe094bfbd22eb1c3c3316e511751dfc55ed;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
