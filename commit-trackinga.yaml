@@ -1981,7 +1981,7 @@ martin-ger/esp_google_locator: BRANCHES:[master:f3968d7e89917ba8733d48233f71393b
 martin-ger/esp_mqtt: BRANCHES:[master:7d9409284916c8f20b8433c3e9efafa9c5ceea17;develop:5162b941a8714952bbfb7340311e8b4c21197e63]|RELEASE:[none|none]
 martin-ger/esp_nacl: BRANCHES:[master:fcb13c26b7117104d2923177b6c9cda683b68254]|RELEASE:[none|none]
 martin-ger/esp_peap_psk: BRANCHES:[master:9e4cc25a3796ce0e099d6bf19033969ffc1f80f9]|RELEASE:[none|none]
-martin-ger/esp_slip_router: BRANCHES:[master:c26f3bc1a78a425f38f16b82f56bd2bf47d9dc23]|RELEASE:[none|none]
+martin-ger/esp_slip_router: BRANCHES:[master:0d49a9eca272ee546bed6d0606cbac99b389079f]|RELEASE:[none|none]
 martin-ger/esp_wifi_repeater: BRANCHES:[master:3bb7571e8bf775184cab228d4105f3363770ed92;puya:f66c83fafe98be1ff4d2719fc4e68bf100a45805;mqtt_tun:d3ffca4f32b04f7313fdcbba29d726abae8cb7f2;enc_polling:998b50a5ab02cfd00e6a44768ebca077e86c1a20]|RELEASE:[none|none]
 martin-ger/esp_wireguard_idf_5.5.x: BRANCHES:[main:7bf85b2ebd3ef421663ff54396d07998aae2fa1a]|RELEASE:[none|none]
 martin-ger/lwip_nat_arduino: BRANCHES:[master:ca2bdc9f37203b9061064e0fdfa78f293a84e2b2]|RELEASE:[none|none]
