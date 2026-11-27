@@ -3662,7 +3662,7 @@ waveshareteam/ESP32-S3-LCD-0.85: BRANCHES:[main:6fc190a0d5e89e4f4d5d5069c3313113
 waveshareteam/ESP32-S3-LCD-1.28: BRANCHES:[baseline:411cb71f1cef28ea3997df98cbac3916eae70590;main:193724abdac7ec6571519269af909c38fd042716;chore/adopt-repo-template:193724abdac7ec6571519269af909c38fd042716]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.3: BRANCHES:[main:3e5f7238c3ca98aa35661f1e31461a935a3cb6fa]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.47: BRANCHES:[main:219b25cf59f7538c82a8131c3e2446d3dec98b7a;chore/adopt-repo-template-pr:7d1f4f706259f76d268be16b28db37eb93d062b8;chore/adopt-repo-template:9e5be21a49a2dd22aed18b9dace74fa84d16f464]|RELEASE:[none|none]
-waveshareteam/ESP32-S3-LCD-1.47B: BRANCHES:[main:2465d948f0837a51de3225e41457a0e8c271c375;chore/adopt-repo-template:340e636f86de64f4787c7f0f7438f33949cc92d4]|RELEASE:[none|none]
+waveshareteam/ESP32-S3-LCD-1.47B: BRANCHES:[main:61051c7abe6c07e7559f4dcb481eee2c569871ac;docs/add-v1-2-schematic:1709dc52ea1ae5fe5900a7e1d933cd1360cbaa0c;chore/adopt-repo-template:340e636f86de64f4787c7f0f7438f33949cc92d4]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.85: BRANCHES:[main:ab2d0dd6e939d30537dff43f2e8f0283e0b021c1]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-1.9: BRANCHES:[main:0d79f909069ebe40ef653fd8fc2cc2485a771480;add-factory-firmware-20250408:85731cdc7cbdb44d7b1505361743beb0db117596]|RELEASE:[none|none]
 waveshareteam/ESP32-S3-LCD-2: BRANCHES:[main:f14e531459be068542671a669f3e87072d50824d]|RELEASE:[none|none]
