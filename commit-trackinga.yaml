@@ -1,4 +1,4 @@
-commit-tracking: 2026-11-27 09:23
+commit-tracking: 2026-11-27 09:24
 0-Mqix/airplay-esp32: BRANCHES:[main:1d45a1dd706abb1d8539748922c22af1ed0f43c3]|RELEASE:[none|none]
 0n3-70uch/Sonoff-Tasmota: BRANCHES:[development:d6f1036d3b68ae571878854d9d6167968958af60;master:ace120cd9c372ee73804704f66dc98858b10a175]|RELEASE:[none|none]
 1orz/project-cpe: BRANCHES:[dependabot/npm_and_yarn/frontend/vite-7.3.7:9826ccc94a0a5450f64a870523144d578e10db02;dependabot/npm_and_yarn/frontend/source-map-js-1.2.2:649edc313e6aa458aa8b166796a582dafc47786a;dependabot/cargo/backend/quinn-proto-0.11.16:555010dc79cdbaf5b7b5ad12e9a6eccd9eb63d03;main:9402522cfabe7f4e08c72a1f7ce556a6137190c0]|RELEASE:[none|none]
@@ -1531,7 +1531,7 @@ home-assistant/android: BRANCHES:[renovate/ruby-setup-ruby-1.x:0133171d88485c7b7
 home-assistant/app-cec-scan: BRANCHES:[main:d6614b59464ab113aff4b7eea6e132dba2e1cd3f]|RELEASE:[4.1.0|eb7d8ea654a450adead857b6706ec30d161f3743]
 home-assistant/app-configurator: BRANCHES:[main:bcfa94401e8ca5b057518983586e4351fe95b667]|RELEASE:[6.3.1|c4e65fcb0b2c7e21dcd5c730092bdb6a50991b37]
 home-assistant/app-deconz: BRANCHES:[bashio-app-functions:920d7c8d8caf50d9fe1d527beb9199bc831208be;main:c56b439a355ba1ce95e250567ee0b9e923a2320a]|RELEASE:[8.8.1|12d2ffdc1931c2f9540193f157f2e5072c96e840]
-home-assistant/app-dnsmasq: BRANCHES:[main:8ca050646010b1707267519a62e5c45bb74222e3]|RELEASE:[2.2.0|b0d232cc5b6f9c0de8a7baf5935be043b8da89b2]
+home-assistant/app-dnsmasq: BRANCHES:[main:fa1701fd897fae073c59fe5920eaa04082147590]|RELEASE:[2.2.0|b0d232cc5b6f9c0de8a7baf5935be043b8da89b2]
 home-assistant/app-duckdns: BRANCHES:[main:3f5d86b77b8cc6405bdf57b0a2d9ba60ecec08ea;add-renovate:f65154239e4e2c6385f691b34af59874e690cb5d]|RELEASE:[none|none]
 home-assistant/app-git-pull: BRANCHES:[main:28180dd59f7ae81657d6863b15fc27932b5b9ce6]|RELEASE:[9.1.1|b15f6163d2e514f521bbe3676b28ef00045a7b24]
 home-assistant/app-letsencrypt: BRANCHES:[main:ecf2fc87d3cbb3e648e7f2c15e504794728c150b;renovate/cryptography-50.x:f50c2d47db159a7a03d24cebc41c9bd3dbf2a2fe;renovate/major-certbot:4e1bd5c17a365ce796c308aba43b39e3144e53c0]|RELEASE:[none|none]
