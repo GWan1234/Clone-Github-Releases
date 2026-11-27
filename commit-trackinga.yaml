@@ -335,7 +335,7 @@ DFRobot/DFRobot_SerialMP3: BRANCHES:[master:223d380c63fa8f3a7cc60b27b29d7f9be36e
 DFRobot/DFRobot_SerialScreen1248: BRANCHES:[master:c497ecb79a173bdbda1df86aaa281cc597ceb777]|RELEASE:[none|none]
 DFRobot/DFRobot_SerialScreen771: BRANCHES:[master:d0248460344e1a7b355a7c81adbee0b82949cab5]|RELEASE:[none|none]
 DFRobot/DFRobot_SpeechSynthesis: BRANCHES:[master:ed6dba1b157c0db40ef30a93afff8e60cffc2251]|RELEASE:[none|none]
-DFRobot/DFRobot_SpeechSynthesis_V2: BRANCHES:[main:66195611ff0f70b57fd434b1b3211d8f4e9a25ff]|RELEASE:[none|none]
+DFRobot/DFRobot_SpeechSynthesis_V2: BRANCHES:[main:d00aa4d74c604e45907fe77402ac2d5924e94307]|RELEASE:[none|none]
 DFRobot/DFRobot_TCS: BRANCHES:[master:e13408d31ebba81acfbc6b0afedd621ba5840dfb]|RELEASE:[none|none]
 DFRobot/DFRobot_TCS3430: BRANCHES:[master:34ddde97dd9e9e636db2f9c15356c07a822dd8dd]|RELEASE:[none|none]
 DFRobot/DFRobot_TM6605: BRANCHES:[master:6c39093c59d3c518f6b377cad4fd5d9a8fafde75]|RELEASE:[none|none]
