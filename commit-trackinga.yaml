@@ -1622,7 +1622,7 @@ home-assistant/pi-gen: BRANCHES:[dev:9ecf3cc2c5e2346229edccd0bba70c5701e8d79d;re
 home-assistant/plugin-audio: BRANCHES:[master:cfc4043961153e92ceef5abbb01458a1180e34dc]|RELEASE:[2026.10.0|3b14764ed451b211623483d8b0af6490a70e0606]
 home-assistant/plugin-cli: BRANCHES:[master:3f4b279cf39e3a64563fde8636f5982213f936a6]|RELEASE:[2026.11.0|9a55d1bcda392beafccac5836fcdb983b213eadb]
 home-assistant/plugin-dns: BRANCHES:[master:797952f5aa6acceb1054a5d2571c2e5ae2975344;skip-kill-gracetime:7156cc73f24770fd8fbf1f036c9c36668e75648e]|RELEASE:[2026.10.0|7115121a4bbcbc8c4f50b0d595e02a65e575750c]
-home-assistant/plugin-multicast: BRANCHES:[master:7fd47fe094bfbd22eb1c3c3316e511751dfc55ed;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
+home-assistant/plugin-multicast: BRANCHES:[master:2ee4d059fdab549e92420c5febcff5da533a1fa0;update-mdns-repeater:835f25b36ad3a1b8e9062662ece0403229569e71;new-mdns-repeater:25003601dbee04297ed31222a53712b6e0fd9b01]|RELEASE:[2026.10.0|e6aeb220220b733ab966a5b58296f50d1b3ee501]
 home-assistant/plugin-observer: BRANCHES:[master:5b302f36f857d81129d008c6ac4bace827a8ad99]|RELEASE:[2026.08.0|aadd23ef7b298af366123e1830261ad3994a1ca2]
 home-assistant/private-demo: BRANCHES:[main:c61be3e35c55c80e82a8b248c68ef4895eae117c;feat/add-kitchen-sink:b9a9bd6dab8abccd83acf94c66c706d925c7ff38;legacy:9d4a47f3388d304c6bce287011e4ed2c8b134c9b;update-base-image-2024.8.0b0:76ca12a50df9a00c83ce41bcd5b68bf6b4d80d4a]|RELEASE:[2024.8.0b7|32e6b3a520a03feaf8e4605130c0fb2677e67630]
 home-assistant/probot-home-assistant: BRANCHES:[master:57a405d33557aa40973f6aad224f931428fa52f4]|RELEASE:[none|none]
